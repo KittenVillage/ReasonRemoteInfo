@@ -1,0 +1,620 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.Sytr.Sytrus VSTi
+Note: Will match scope definitions for vst.Sytr.Sytrus VSTi or vst.Sytr
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Main - Master level	0	4194304	Value	ValueOutput
+Main - Master LFO level	0	4194304	Value	ValueOutput
+Main - Master pitch	0	4194304	Value	ValueOutput
+Main - Volume attack	0	4194304	Value	ValueOutput
+Main - Volume decay	0	4194304	Value	ValueOutput
+Main - Volume sustain	0	4194304	Value	ValueOutput
+Main - Volume release	0	4194304	Value	ValueOutput
+Main - Filter attack	0	4194304	Value	ValueOutput
+Main - Filter decay	0	4194304	Value	ValueOutput
+Main - Filter sustain	0	4194304	Value	ValueOutput
+Main - Filter release	0	4194304	Value	ValueOutput
+Main - Unison order	0	4194304	Value	ValueOutput
+Main - Unison panning	0	4194304	Value	ValueOutput
+Main - Unison volume	0	4194304	Value	ValueOutput
+Main - Unison pitch	0	4194304	Value	ValueOutput
+Main - Unison sub level	0	4194304	Value	ValueOutput
+Main - Unison phase	0	4194304	Value	ValueOutput
+Main - Unison envelope 	0	4194304	Value	ValueOutput
+Main - Modulation X	0	4194304	Value	ValueOutput
+Main - Modulation Y	0	4194304	Value	ValueOutput
+Operator 1 - Starting p	0	4194304	Value	ValueOutput
+Operator 1 - Volume	0	4194304	Value	ValueOutput
+Operator 1 - Pitch enve	0	4194304	Value	ValueOutput
+Operator 1 - Panning - 	0	4194304	Value	ValueOutput
+Operator 1 - Panning - 	0	4194304	Value	ValueOutput
+Operator 1 - Panning - 	0	4194304	Value	ValueOutput
+Operator 1 - Panning - 	0	4194304	Value	ValueOutput
+Operator 1 - Panning - 	0	4194304	Value	ValueOutput
+Operator 1 - Panning - 	0	4194304	Value	ValueOutput
+Operator 1 - Panning - 	0	4194304	Value	ValueOutput
+Operator 1 - Panning - 	0	4194304	Value	ValueOutput
+Operator 1 - Volume - A	0	4194304	Value	ValueOutput
+Operator 1 - Volume - D	0	4194304	Value	ValueOutput
+Operator 1 - Volume - S	0	4194304	Value	ValueOutput
+Operator 1 - Volume - R	0	4194304	Value	ValueOutput
+Operator 1 - Volume - L	0	4194304	Value	ValueOutput
+Operator 1 - Volume - L	0	4194304	Value	ValueOutput
+Operator 1 - Volume - L	0	4194304	Value	ValueOutput
+Operator 1 - Volume - L	0	4194304	Value	ValueOutput
+Operator 1 - Input modu	0	4194304	Value	ValueOutput
+Operator 1 - Input modu	0	4194304	Value	ValueOutput
+Operator 1 - Input modu	0	4194304	Value	ValueOutput
+Operator 1 - Input modu	0	4194304	Value	ValueOutput
+Operator 1 - Input modu	0	4194304	Value	ValueOutput
+Operator 1 - Input modu	0	4194304	Value	ValueOutput
+Operator 1 - Input modu	0	4194304	Value	ValueOutput
+Operator 1 - Input modu	0	4194304	Value	ValueOutput
+Operator 1 - Pitch - At	0	4194304	Value	ValueOutput
+Operator 1 - Pitch - De	0	4194304	Value	ValueOutput
+Operator 1 - Pitch - Su	0	4194304	Value	ValueOutput
+Operator 1 - Pitch - Re	0	4194304	Value	ValueOutput
+Operator 1 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 1 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 1 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 1 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 1 - Phase - At	0	4194304	Value	ValueOutput
+Operator 1 - Phase - De	0	4194304	Value	ValueOutput
+Operator 1 - Phase - Su	0	4194304	Value	ValueOutput
+Operator 1 - Phase - Re	0	4194304	Value	ValueOutput
+Operator 1 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 1 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 1 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 1 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 1 - Plucked da	0	4194304	Value	ValueOutput
+Operator 1 - Plucked da	0	4194304	Value	ValueOutput
+Operator 1 - Plucked da	0	4194304	Value	ValueOutput
+Operator 1 - Plucked da	0	4194304	Value	ValueOutput
+Operator 1 - Plucked da	0	4194304	Value	ValueOutput
+Operator 1 - Plucked da	0	4194304	Value	ValueOutput
+Operator 1 - Plucked da	0	4194304	Value	ValueOutput
+Operator 1 - Plucked da	0	4194304	Value	ValueOutput
+Operator 2 - Starting p	0	4194304	Value	ValueOutput
+Operator 2 - Volume	0	4194304	Value	ValueOutput
+Operator 2 - Pitch enve	0	4194304	Value	ValueOutput
+Operator 2 - Panning - 	0	4194304	Value	ValueOutput
+Operator 2 - Panning - 	0	4194304	Value	ValueOutput
+Operator 2 - Panning - 	0	4194304	Value	ValueOutput
+Operator 2 - Panning - 	0	4194304	Value	ValueOutput
+Operator 2 - Panning - 	0	4194304	Value	ValueOutput
+Operator 2 - Panning - 	0	4194304	Value	ValueOutput
+Operator 2 - Panning - 	0	4194304	Value	ValueOutput
+Operator 2 - Panning - 	0	4194304	Value	ValueOutput
+Operator 2 - Volume - A	0	4194304	Value	ValueOutput
+Operator 2 - Volume - D	0	4194304	Value	ValueOutput
+Operator 2 - Volume - S	0	4194304	Value	ValueOutput
+Operator 2 - Volume - R	0	4194304	Value	ValueOutput
+Operator 2 - Volume - L	0	4194304	Value	ValueOutput
+Operator 2 - Volume - L	0	4194304	Value	ValueOutput
+Operator 2 - Volume - L	0	4194304	Value	ValueOutput
+Operator 2 - Volume - L	0	4194304	Value	ValueOutput
+Operator 2 - Input modu	0	4194304	Value	ValueOutput
+Operator 2 - Input modu	0	4194304	Value	ValueOutput
+Operator 2 - Input modu	0	4194304	Value	ValueOutput
+Operator 2 - Input modu	0	4194304	Value	ValueOutput
+Operator 2 - Input modu	0	4194304	Value	ValueOutput
+Operator 2 - Input modu	0	4194304	Value	ValueOutput
+Operator 2 - Input modu	0	4194304	Value	ValueOutput
+Operator 2 - Input modu	0	4194304	Value	ValueOutput
+Operator 2 - Pitch - At	0	4194304	Value	ValueOutput
+Operator 2 - Pitch - De	0	4194304	Value	ValueOutput
+Operator 2 - Pitch - Su	0	4194304	Value	ValueOutput
+Operator 2 - Pitch - Re	0	4194304	Value	ValueOutput
+Operator 2 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 2 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 2 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 2 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 2 - Phase - At	0	4194304	Value	ValueOutput
+Operator 2 - Phase - De	0	4194304	Value	ValueOutput
+Operator 2 - Phase - Su	0	4194304	Value	ValueOutput
+Operator 2 - Phase - Re	0	4194304	Value	ValueOutput
+Operator 2 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 2 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 2 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 2 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 2 - Plucked da	0	4194304	Value	ValueOutput
+Operator 2 - Plucked da	0	4194304	Value	ValueOutput
+Operator 2 - Plucked da	0	4194304	Value	ValueOutput
+Operator 2 - Plucked da	0	4194304	Value	ValueOutput
+Operator 2 - Plucked da	0	4194304	Value	ValueOutput
+Operator 2 - Plucked da	0	4194304	Value	ValueOutput
+Operator 2 - Plucked da	0	4194304	Value	ValueOutput
+Operator 2 - Plucked da	0	4194304	Value	ValueOutput
+Operator 3 - Starting p	0	4194304	Value	ValueOutput
+Operator 3 - Volume	0	4194304	Value	ValueOutput
+Operator 3 - Pitch enve	0	4194304	Value	ValueOutput
+Operator 3 - Panning - 	0	4194304	Value	ValueOutput
+Operator 3 - Panning - 	0	4194304	Value	ValueOutput
+Operator 3 - Panning - 	0	4194304	Value	ValueOutput
+Operator 3 - Panning - 	0	4194304	Value	ValueOutput
+Operator 3 - Panning - 	0	4194304	Value	ValueOutput
+Operator 3 - Panning - 	0	4194304	Value	ValueOutput
+Operator 3 - Panning - 	0	4194304	Value	ValueOutput
+Operator 3 - Panning - 	0	4194304	Value	ValueOutput
+Operator 3 - Volume - A	0	4194304	Value	ValueOutput
+Operator 3 - Volume - D	0	4194304	Value	ValueOutput
+Operator 3 - Volume - S	0	4194304	Value	ValueOutput
+Operator 3 - Volume - R	0	4194304	Value	ValueOutput
+Operator 3 - Volume - L	0	4194304	Value	ValueOutput
+Operator 3 - Volume - L	0	4194304	Value	ValueOutput
+Operator 3 - Volume - L	0	4194304	Value	ValueOutput
+Operator 3 - Volume - L	0	4194304	Value	ValueOutput
+Operator 3 - Input modu	0	4194304	Value	ValueOutput
+Operator 3 - Input modu	0	4194304	Value	ValueOutput
+Operator 3 - Input modu	0	4194304	Value	ValueOutput
+Operator 3 - Input modu	0	4194304	Value	ValueOutput
+Operator 3 - Input modu	0	4194304	Value	ValueOutput
+Operator 3 - Input modu	0	4194304	Value	ValueOutput
+Operator 3 - Input modu	0	4194304	Value	ValueOutput
+Operator 3 - Input modu	0	4194304	Value	ValueOutput
+Operator 3 - Pitch - At	0	4194304	Value	ValueOutput
+Operator 3 - Pitch - De	0	4194304	Value	ValueOutput
+Operator 3 - Pitch - Su	0	4194304	Value	ValueOutput
+Operator 3 - Pitch - Re	0	4194304	Value	ValueOutput
+Operator 3 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 3 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 3 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 3 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 3 - Phase - At	0	4194304	Value	ValueOutput
+Operator 3 - Phase - De	0	4194304	Value	ValueOutput
+Operator 3 - Phase - Su	0	4194304	Value	ValueOutput
+Operator 3 - Phase - Re	0	4194304	Value	ValueOutput
+Operator 3 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 3 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 3 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 3 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 3 - Plucked da	0	4194304	Value	ValueOutput
+Operator 3 - Plucked da	0	4194304	Value	ValueOutput
+Operator 3 - Plucked da	0	4194304	Value	ValueOutput
+Operator 3 - Plucked da	0	4194304	Value	ValueOutput
+Operator 3 - Plucked da	0	4194304	Value	ValueOutput
+Operator 3 - Plucked da	0	4194304	Value	ValueOutput
+Operator 3 - Plucked da	0	4194304	Value	ValueOutput
+Operator 3 - Plucked da	0	4194304	Value	ValueOutput
+Operator 4 - Starting p	0	4194304	Value	ValueOutput
+Operator 4 - Volume	0	4194304	Value	ValueOutput
+Operator 4 - Pitch enve	0	4194304	Value	ValueOutput
+Operator 4 - Panning - 	0	4194304	Value	ValueOutput
+Operator 4 - Panning - 	0	4194304	Value	ValueOutput
+Operator 4 - Panning - 	0	4194304	Value	ValueOutput
+Operator 4 - Panning - 	0	4194304	Value	ValueOutput
+Operator 4 - Panning - 	0	4194304	Value	ValueOutput
+Operator 4 - Panning - 	0	4194304	Value	ValueOutput
+Operator 4 - Panning - 	0	4194304	Value	ValueOutput
+Operator 4 - Panning - 	0	4194304	Value	ValueOutput
+Operator 4 - Volume - A	0	4194304	Value	ValueOutput
+Operator 4 - Volume - D	0	4194304	Value	ValueOutput
+Operator 4 - Volume - S	0	4194304	Value	ValueOutput
+Operator 4 - Volume - R	0	4194304	Value	ValueOutput
+Operator 4 - Volume - L	0	4194304	Value	ValueOutput
+Operator 4 - Volume - L	0	4194304	Value	ValueOutput
+Operator 4 - Volume - L	0	4194304	Value	ValueOutput
+Operator 4 - Volume - L	0	4194304	Value	ValueOutput
+Operator 4 - Input modu	0	4194304	Value	ValueOutput
+Operator 4 - Input modu	0	4194304	Value	ValueOutput
+Operator 4 - Input modu	0	4194304	Value	ValueOutput
+Operator 4 - Input modu	0	4194304	Value	ValueOutput
+Operator 4 - Input modu	0	4194304	Value	ValueOutput
+Operator 4 - Input modu	0	4194304	Value	ValueOutput
+Operator 4 - Input modu	0	4194304	Value	ValueOutput
+Operator 4 - Input modu	0	4194304	Value	ValueOutput
+Operator 4 - Pitch - At	0	4194304	Value	ValueOutput
+Operator 4 - Pitch - De	0	4194304	Value	ValueOutput
+Operator 4 - Pitch - Su	0	4194304	Value	ValueOutput
+Operator 4 - Pitch - Re	0	4194304	Value	ValueOutput
+Operator 4 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 4 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 4 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 4 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 4 - Phase - At	0	4194304	Value	ValueOutput
+Operator 4 - Phase - De	0	4194304	Value	ValueOutput
+Operator 4 - Phase - Su	0	4194304	Value	ValueOutput
+Operator 4 - Phase - Re	0	4194304	Value	ValueOutput
+Operator 4 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 4 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 4 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 4 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 4 - Plucked da	0	4194304	Value	ValueOutput
+Operator 4 - Plucked da	0	4194304	Value	ValueOutput
+Operator 4 - Plucked da	0	4194304	Value	ValueOutput
+Operator 4 - Plucked da	0	4194304	Value	ValueOutput
+Operator 4 - Plucked da	0	4194304	Value	ValueOutput
+Operator 4 - Plucked da	0	4194304	Value	ValueOutput
+Operator 4 - Plucked da	0	4194304	Value	ValueOutput
+Operator 4 - Plucked da	0	4194304	Value	ValueOutput
+Operator 5 - Starting p	0	4194304	Value	ValueOutput
+Operator 5 - Volume	0	4194304	Value	ValueOutput
+Operator 5 - Pitch enve	0	4194304	Value	ValueOutput
+Operator 5 - Panning - 	0	4194304	Value	ValueOutput
+Operator 5 - Panning - 	0	4194304	Value	ValueOutput
+Operator 5 - Panning - 	0	4194304	Value	ValueOutput
+Operator 5 - Panning - 	0	4194304	Value	ValueOutput
+Operator 5 - Panning - 	0	4194304	Value	ValueOutput
+Operator 5 - Panning - 	0	4194304	Value	ValueOutput
+Operator 5 - Panning - 	0	4194304	Value	ValueOutput
+Operator 5 - Panning - 	0	4194304	Value	ValueOutput
+Operator 5 - Volume - A	0	4194304	Value	ValueOutput
+Operator 5 - Volume - D	0	4194304	Value	ValueOutput
+Operator 5 - Volume - S	0	4194304	Value	ValueOutput
+Operator 5 - Volume - R	0	4194304	Value	ValueOutput
+Operator 5 - Volume - L	0	4194304	Value	ValueOutput
+Operator 5 - Volume - L	0	4194304	Value	ValueOutput
+Operator 5 - Volume - L	0	4194304	Value	ValueOutput
+Operator 5 - Volume - L	0	4194304	Value	ValueOutput
+Operator 5 - Input modu	0	4194304	Value	ValueOutput
+Operator 5 - Input modu	0	4194304	Value	ValueOutput
+Operator 5 - Input modu	0	4194304	Value	ValueOutput
+Operator 5 - Input modu	0	4194304	Value	ValueOutput
+Operator 5 - Input modu	0	4194304	Value	ValueOutput
+Operator 5 - Input modu	0	4194304	Value	ValueOutput
+Operator 5 - Input modu	0	4194304	Value	ValueOutput
+Operator 5 - Input modu	0	4194304	Value	ValueOutput
+Operator 5 - Pitch - At	0	4194304	Value	ValueOutput
+Operator 5 - Pitch - De	0	4194304	Value	ValueOutput
+Operator 5 - Pitch - Su	0	4194304	Value	ValueOutput
+Operator 5 - Pitch - Re	0	4194304	Value	ValueOutput
+Operator 5 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 5 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 5 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 5 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 5 - Phase - At	0	4194304	Value	ValueOutput
+Operator 5 - Phase - De	0	4194304	Value	ValueOutput
+Operator 5 - Phase - Su	0	4194304	Value	ValueOutput
+Operator 5 - Phase - Re	0	4194304	Value	ValueOutput
+Operator 5 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 5 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 5 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 5 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 5 - Plucked da	0	4194304	Value	ValueOutput
+Operator 5 - Plucked da	0	4194304	Value	ValueOutput
+Operator 5 - Plucked da	0	4194304	Value	ValueOutput
+Operator 5 - Plucked da	0	4194304	Value	ValueOutput
+Operator 5 - Plucked da	0	4194304	Value	ValueOutput
+Operator 5 - Plucked da	0	4194304	Value	ValueOutput
+Operator 5 - Plucked da	0	4194304	Value	ValueOutput
+Operator 5 - Plucked da	0	4194304	Value	ValueOutput
+Operator 6 - Starting p	0	4194304	Value	ValueOutput
+Operator 6 - Volume	0	4194304	Value	ValueOutput
+Operator 6 - Pitch enve	0	4194304	Value	ValueOutput
+Operator 6 - Panning - 	0	4194304	Value	ValueOutput
+Operator 6 - Panning - 	0	4194304	Value	ValueOutput
+Operator 6 - Panning - 	0	4194304	Value	ValueOutput
+Operator 6 - Panning - 	0	4194304	Value	ValueOutput
+Operator 6 - Panning - 	0	4194304	Value	ValueOutput
+Operator 6 - Panning - 	0	4194304	Value	ValueOutput
+Operator 6 - Panning - 	0	4194304	Value	ValueOutput
+Operator 6 - Panning - 	0	4194304	Value	ValueOutput
+Operator 6 - Volume - A	0	4194304	Value	ValueOutput
+Operator 6 - Volume - D	0	4194304	Value	ValueOutput
+Operator 6 - Volume - S	0	4194304	Value	ValueOutput
+Operator 6 - Volume - R	0	4194304	Value	ValueOutput
+Operator 6 - Volume - L	0	4194304	Value	ValueOutput
+Operator 6 - Volume - L	0	4194304	Value	ValueOutput
+Operator 6 - Volume - L	0	4194304	Value	ValueOutput
+Operator 6 - Volume - L	0	4194304	Value	ValueOutput
+Operator 6 - Input modu	0	4194304	Value	ValueOutput
+Operator 6 - Input modu	0	4194304	Value	ValueOutput
+Operator 6 - Input modu	0	4194304	Value	ValueOutput
+Operator 6 - Input modu	0	4194304	Value	ValueOutput
+Operator 6 - Input modu	0	4194304	Value	ValueOutput
+Operator 6 - Input modu	0	4194304	Value	ValueOutput
+Operator 6 - Input modu	0	4194304	Value	ValueOutput
+Operator 6 - Input modu	0	4194304	Value	ValueOutput
+Operator 6 - Pitch - At	0	4194304	Value	ValueOutput
+Operator 6 - Pitch - De	0	4194304	Value	ValueOutput
+Operator 6 - Pitch - Su	0	4194304	Value	ValueOutput
+Operator 6 - Pitch - Re	0	4194304	Value	ValueOutput
+Operator 6 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 6 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 6 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 6 - Pitch - LF	0	4194304	Value	ValueOutput
+Operator 6 - Phase - At	0	4194304	Value	ValueOutput
+Operator 6 - Phase - De	0	4194304	Value	ValueOutput
+Operator 6 - Phase - Su	0	4194304	Value	ValueOutput
+Operator 6 - Phase - Re	0	4194304	Value	ValueOutput
+Operator 6 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 6 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 6 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 6 - Phase - LF	0	4194304	Value	ValueOutput
+Operator 6 - Plucked da	0	4194304	Value	ValueOutput
+Operator 6 - Plucked da	0	4194304	Value	ValueOutput
+Operator 6 - Plucked da	0	4194304	Value	ValueOutput
+Operator 6 - Plucked da	0	4194304	Value	ValueOutput
+Operator 6 - Plucked da	0	4194304	Value	ValueOutput
+Operator 6 - Plucked da	0	4194304	Value	ValueOutput
+Operator 6 - Plucked da	0	4194304	Value	ValueOutput
+Operator 6 - Plucked da	0	4194304	Value	ValueOutput
+Filter 1 - Filter mode	0	4194304	Value	ValueOutput
+Filter 1 - Cutoff envel	0	4194304	Value	ValueOutput
+Filter 1 - Cutoff frequ	0	4194304	Value	ValueOutput
+Filter 1 - Resonance / 	0	4194304	Value	ValueOutput
+Filter 1 - Low / gain /	0	4194304	Value	ValueOutput
+Filter 1 - Band	0	4194304	Value	ValueOutput
+Filter 1 - High	0	4194304	Value	ValueOutput
+Filter 1 - Waveshaper p	0	4194304	Value	ValueOutput
+Filter 1 - Waveshaper m	0	4194304	Value	ValueOutput
+Filter 1 - To next filt	0	4194304	Value	ValueOutput
+Filter 1 - Panning - At	0	4194304	Value	ValueOutput
+Filter 1 - Panning - De	0	4194304	Value	ValueOutput
+Filter 1 - Panning - Su	0	4194304	Value	ValueOutput
+Filter 1 - Panning - Re	0	4194304	Value	ValueOutput
+Filter 1 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 1 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 1 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 1 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 1 - Volume - Att	0	4194304	Value	ValueOutput
+Filter 1 - Volume - Dec	0	4194304	Value	ValueOutput
+Filter 1 - Volume - Sus	0	4194304	Value	ValueOutput
+Filter 1 - Volume - Rel	0	4194304	Value	ValueOutput
+Filter 1 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 1 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 1 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 1 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 1 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 1 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 1 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 1 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 1 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 1 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 1 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 1 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 1 - Filter reson	0	4194304	Value	ValueOutput
+Filter 1 - Filter reson	0	4194304	Value	ValueOutput
+Filter 1 - Filter reson	0	4194304	Value	ValueOutput
+Filter 1 - Filter reson	0	4194304	Value	ValueOutput
+Filter 1 - Filter reson	0	4194304	Value	ValueOutput
+Filter 1 - Filter reson	0	4194304	Value	ValueOutput
+Filter 1 - Filter reson	0	4194304	Value	ValueOutput
+Filter 1 - Filter reson	0	4194304	Value	ValueOutput
+Filter 1 - Filter low /	0	4194304	Value	ValueOutput
+Filter 1 - Filter low /	0	4194304	Value	ValueOutput
+Filter 1 - Filter low /	0	4194304	Value	ValueOutput
+Filter 1 - Filter low /	0	4194304	Value	ValueOutput
+Filter 1 - Filter low /	0	4194304	Value	ValueOutput
+Filter 1 - Filter low /	0	4194304	Value	ValueOutput
+Filter 1 - Filter low /	0	4194304	Value	ValueOutput
+Filter 1 - Filter low /	0	4194304	Value	ValueOutput
+Filter 1 - Filter band 	0	4194304	Value	ValueOutput
+Filter 1 - Filter band 	0	4194304	Value	ValueOutput
+Filter 1 - Filter band 	0	4194304	Value	ValueOutput
+Filter 1 - Filter band 	0	4194304	Value	ValueOutput
+Filter 1 - Filter band 	0	4194304	Value	ValueOutput
+Filter 1 - Filter band 	0	4194304	Value	ValueOutput
+Filter 1 - Filter band 	0	4194304	Value	ValueOutput
+Filter 1 - Filter band 	0	4194304	Value	ValueOutput
+Filter 1 - Filter high 	0	4194304	Value	ValueOutput
+Filter 1 - Filter high 	0	4194304	Value	ValueOutput
+Filter 1 - Filter high 	0	4194304	Value	ValueOutput
+Filter 1 - Filter high 	0	4194304	Value	ValueOutput
+Filter 1 - Filter high 	0	4194304	Value	ValueOutput
+Filter 1 - Filter high 	0	4194304	Value	ValueOutput
+Filter 1 - Filter high 	0	4194304	Value	ValueOutput
+Filter 1 - Filter high 	0	4194304	Value	ValueOutput
+Filter 1 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 1 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 1 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 1 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 1 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 1 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 1 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 1 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 2 - Filter mode	0	4194304	Value	ValueOutput
+Filter 2 - Cutoff envel	0	4194304	Value	ValueOutput
+Filter 2 - Cutoff frequ	0	4194304	Value	ValueOutput
+Filter 2 - Resonance / 	0	4194304	Value	ValueOutput
+Filter 2 - Low / gain /	0	4194304	Value	ValueOutput
+Filter 2 - Band	0	4194304	Value	ValueOutput
+Filter 2 - High	0	4194304	Value	ValueOutput
+Filter 2 - Waveshaper p	0	4194304	Value	ValueOutput
+Filter 2 - Waveshaper m	0	4194304	Value	ValueOutput
+Filter 2 - To next filt	0	4194304	Value	ValueOutput
+Filter 2 - Panning - At	0	4194304	Value	ValueOutput
+Filter 2 - Panning - De	0	4194304	Value	ValueOutput
+Filter 2 - Panning - Su	0	4194304	Value	ValueOutput
+Filter 2 - Panning - Re	0	4194304	Value	ValueOutput
+Filter 2 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 2 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 2 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 2 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 2 - Volume - Att	0	4194304	Value	ValueOutput
+Filter 2 - Volume - Dec	0	4194304	Value	ValueOutput
+Filter 2 - Volume - Sus	0	4194304	Value	ValueOutput
+Filter 2 - Volume - Rel	0	4194304	Value	ValueOutput
+Filter 2 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 2 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 2 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 2 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 2 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 2 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 2 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 2 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 2 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 2 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 2 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 2 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 2 - Filter reson	0	4194304	Value	ValueOutput
+Filter 2 - Filter reson	0	4194304	Value	ValueOutput
+Filter 2 - Filter reson	0	4194304	Value	ValueOutput
+Filter 2 - Filter reson	0	4194304	Value	ValueOutput
+Filter 2 - Filter reson	0	4194304	Value	ValueOutput
+Filter 2 - Filter reson	0	4194304	Value	ValueOutput
+Filter 2 - Filter reson	0	4194304	Value	ValueOutput
+Filter 2 - Filter reson	0	4194304	Value	ValueOutput
+Filter 2 - Filter low /	0	4194304	Value	ValueOutput
+Filter 2 - Filter low /	0	4194304	Value	ValueOutput
+Filter 2 - Filter low /	0	4194304	Value	ValueOutput
+Filter 2 - Filter low /	0	4194304	Value	ValueOutput
+Filter 2 - Filter low /	0	4194304	Value	ValueOutput
+Filter 2 - Filter low /	0	4194304	Value	ValueOutput
+Filter 2 - Filter low /	0	4194304	Value	ValueOutput
+Filter 2 - Filter low /	0	4194304	Value	ValueOutput
+Filter 2 - Filter band 	0	4194304	Value	ValueOutput
+Filter 2 - Filter band 	0	4194304	Value	ValueOutput
+Filter 2 - Filter band 	0	4194304	Value	ValueOutput
+Filter 2 - Filter band 	0	4194304	Value	ValueOutput
+Filter 2 - Filter band 	0	4194304	Value	ValueOutput
+Filter 2 - Filter band 	0	4194304	Value	ValueOutput
+Filter 2 - Filter band 	0	4194304	Value	ValueOutput
+Filter 2 - Filter band 	0	4194304	Value	ValueOutput
+Filter 2 - Filter high 	0	4194304	Value	ValueOutput
+Filter 2 - Filter high 	0	4194304	Value	ValueOutput
+Filter 2 - Filter high 	0	4194304	Value	ValueOutput
+Filter 2 - Filter high 	0	4194304	Value	ValueOutput
+Filter 2 - Filter high 	0	4194304	Value	ValueOutput
+Filter 2 - Filter high 	0	4194304	Value	ValueOutput
+Filter 2 - Filter high 	0	4194304	Value	ValueOutput
+Filter 2 - Filter high 	0	4194304	Value	ValueOutput
+Filter 2 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 2 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 2 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 2 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 2 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 2 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 2 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 2 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 3 - Filter mode	0	4194304	Value	ValueOutput
+Filter 3 - Cutoff envel	0	4194304	Value	ValueOutput
+Filter 3 - Cutoff frequ	0	4194304	Value	ValueOutput
+Filter 3 - Resonance / 	0	4194304	Value	ValueOutput
+Filter 3 - Low / gain /	0	4194304	Value	ValueOutput
+Filter 3 - Band	0	4194304	Value	ValueOutput
+Filter 3 - High	0	4194304	Value	ValueOutput
+Filter 3 - Waveshaper p	0	4194304	Value	ValueOutput
+Filter 3 - Waveshaper m	0	4194304	Value	ValueOutput
+Filter 3 - Panning - At	0	4194304	Value	ValueOutput
+Filter 3 - Panning - De	0	4194304	Value	ValueOutput
+Filter 3 - Panning - Su	0	4194304	Value	ValueOutput
+Filter 3 - Panning - Re	0	4194304	Value	ValueOutput
+Filter 3 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 3 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 3 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 3 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 3 - Volume - Att	0	4194304	Value	ValueOutput
+Filter 3 - Volume - Dec	0	4194304	Value	ValueOutput
+Filter 3 - Volume - Sus	0	4194304	Value	ValueOutput
+Filter 3 - Volume - Rel	0	4194304	Value	ValueOutput
+Filter 3 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 3 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 3 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 3 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 3 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 3 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 3 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 3 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 3 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 3 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 3 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 3 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 3 - Filter reson	0	4194304	Value	ValueOutput
+Filter 3 - Filter reson	0	4194304	Value	ValueOutput
+Filter 3 - Filter reson	0	4194304	Value	ValueOutput
+Filter 3 - Filter reson	0	4194304	Value	ValueOutput
+Filter 3 - Filter reson	0	4194304	Value	ValueOutput
+Filter 3 - Filter reson	0	4194304	Value	ValueOutput
+Filter 3 - Filter reson	0	4194304	Value	ValueOutput
+Filter 3 - Filter reson	0	4194304	Value	ValueOutput
+Filter 3 - Filter low /	0	4194304	Value	ValueOutput
+Filter 3 - Filter low /	0	4194304	Value	ValueOutput
+Filter 3 - Filter low /	0	4194304	Value	ValueOutput
+Filter 3 - Filter low /	0	4194304	Value	ValueOutput
+Filter 3 - Filter low /	0	4194304	Value	ValueOutput
+Filter 3 - Filter low /	0	4194304	Value	ValueOutput
+Filter 3 - Filter low /	0	4194304	Value	ValueOutput
+Filter 3 - Filter low /	0	4194304	Value	ValueOutput
+Filter 3 - Filter band 	0	4194304	Value	ValueOutput
+Filter 3 - Filter band 	0	4194304	Value	ValueOutput
+Filter 3 - Filter band 	0	4194304	Value	ValueOutput
+Filter 3 - Filter band 	0	4194304	Value	ValueOutput
+Filter 3 - Filter band 	0	4194304	Value	ValueOutput
+Filter 3 - Filter band 	0	4194304	Value	ValueOutput
+Filter 3 - Filter band 	0	4194304	Value	ValueOutput
+Filter 3 - Filter band 	0	4194304	Value	ValueOutput
+Filter 3 - Filter high 	0	4194304	Value	ValueOutput
+Filter 3 - Filter high 	0	4194304	Value	ValueOutput
+Filter 3 - Filter high 	0	4194304	Value	ValueOutput
+Filter 3 - Filter high 	0	4194304	Value	ValueOutput
+Filter 3 - Filter high 	0	4194304	Value	ValueOutput
+Filter 3 - Filter high 	0	4194304	Value	ValueOutput
+Filter 3 - Filter high 	0	4194304	Value	ValueOutput
+Filter 3 - Filter high 	0	4194304	Value	ValueOutput
+Filter 3 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 3 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 3 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 3 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 3 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 3 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 3 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 3 - Waveshaper -	0	4194304	Value	ValueOutput
+Effects - Panning	0	4194304	Value	ValueOutput
+Effects - Chorus order	0	4194304	Value	ValueOutput
+Effects - Chorus depth	0	4194304	Value	ValueOutput
+Effects - Chorus speed	0	4194304	Value	ValueOutput
+Effects - Chorus delay	0	4194304	Value	ValueOutput
+Effects - Chorus spread	0	4194304	Value	ValueOutput
+Effects - Chorus cross	0	4194304	Value	ValueOutput
+Effects - Chorus volume	0	4194304	Value	ValueOutput
+Effects - Send level	0	4194304	Value	ValueOutput
+Effects - Delay feedbac	0	4194304	Value	ValueOutput
+Effects - Delay time	0	4194304	Value	ValueOutput
+Effects - Delay time st	0	4194304	Value	ValueOutput
+Effects - Delay volume	0	4194304	Value	ValueOutput
+Effects - Delay feedbac	0	4194304	Value	ValueOutput
+Effects - Delay feedbac	0	4194304	Value	ValueOutput
+Effects - Delay time	0	4194304	Value	ValueOutput
+Effects - Delay time st	0	4194304	Value	ValueOutput
+Effects - Delay volume	0	4194304	Value	ValueOutput
+Effects - Delay feedbac	0	4194304	Value	ValueOutput
+Effects - Delay feedbac	0	4194304	Value	ValueOutput
+Effects - Delay time	0	4194304	Value	ValueOutput
+Effects - Delay time st	0	4194304	Value	ValueOutput
+Effects - Delay volume	0	4194304	Value	ValueOutput
+Effects - Delay feedbac	0	4194304	Value	ValueOutput
+Effects - Panning - Att	0	4194304	Value	ValueOutput
+Effects - Panning - Dec	0	4194304	Value	ValueOutput
+Effects - Panning - Sus	0	4194304	Value	ValueOutput
+Effects - Panning - Rel	0	4194304	Value	ValueOutput
+Effects - Panning - LFO	0	4194304	Value	ValueOutput
+Effects - Panning - LFO	0	4194304	Value	ValueOutput
+Effects - Panning - LFO	0	4194304	Value	ValueOutput
+Effects - Panning - LFO	0	4194304	Value	ValueOutput
+Effects - Volume - Atta	0	4194304	Value	ValueOutput
+Effects - Volume - Deca	0	4194304	Value	ValueOutput
+Effects - Volume - Sust	0	4194304	Value	ValueOutput
+Effects - Volume - Rele	0	4194304	Value	ValueOutput
+Effects - Volume - LFO 	0	4194304	Value	ValueOutput
+Effects - Volume - LFO 	0	4194304	Value	ValueOutput
+Effects - Volume - LFO 	0	4194304	Value	ValueOutput
+Effects - Volume - LFO 	0	4194304	Value	ValueOutput
+Main - EQ band 1 level	0	4194304	Value	ValueOutput
+Main - EQ band 2 level	0	4194304	Value	ValueOutput
+Main - EQ band 3 level	0	4194304	Value	ValueOutput
+Main - EQ band 1 freq	0	4194304	Value	ValueOutput
+Main - EQ band 2 freq	0	4194304	Value	ValueOutput
+Main - EQ band 3 freq	0	4194304	Value	ValueOutput
+Main - EQ band 1 width	0	4194304	Value	ValueOutput
+Main - EQ band 2 width	0	4194304	Value	ValueOutput
+Main - EQ band 3 width	0	4194304	Value	ValueOutput
+Main - Portamento	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

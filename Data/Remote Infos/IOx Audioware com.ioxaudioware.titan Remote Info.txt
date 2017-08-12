@@ -1,0 +1,20 @@
+Scope
+Manufacturer	Model
+IOx Audioware	com.ioxaudioware.titan
+
+Remotable	Min	Max	Input type	Output type
+Gain	0	4194304	Value	ValueOutput
+Output Trim	0	4194304	Value	ValueOutput
+Contour	0	4194304	Value	ValueOutput
+Soft Clip Amount	0	4194304	Value	ValueOutput
+Display Refresh Time	0	4194304	Value	ValueOutput
+Display Input/Output Select	0	1	Toggle	ValueOutput
+Soft Clip ON/OFF	0	1	Toggle	ValueOutput
+Left Peak Reset	0	1	Toggle	ValueOutput
+Right Peak Reset	0	1	Toggle	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

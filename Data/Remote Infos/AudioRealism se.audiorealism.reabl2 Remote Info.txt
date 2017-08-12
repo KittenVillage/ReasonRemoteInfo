@@ -1,0 +1,23 @@
+Scope
+Manufacturer	Model
+AudioRealism	se.audiorealism.reabl2
+
+Remotable	Min	Max	Input type	Output type
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Envmod	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Accent	0	4194304	Value	ValueOutput
+Waveform	0	1	Toggle	ValueOutput
+Distortion Type	0	1	Toggle	ValueOutput
+Highpass	0	1	Toggle	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Distortion	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Tuning	0	4194304	Value	ValueOutput
+Note On	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

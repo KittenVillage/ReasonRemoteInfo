@@ -1,0 +1,91 @@
+Scope
+Manufacturer	Model
+HY-Plugins	vst.Hy99.HY-Mono_x64
+Note: Will match scope definitions for vst.Hy99.HY-Mono_x64 or vst.Hy99
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+VCO1 Coarse	0	4194304	Value	ValueOutput
+VCO1 Fine	0	4194304	Value	ValueOutput
+VCO1 Mod Depth	0	4194304	Value	ValueOutput
+VCO1 Pulse Width	0	4194304	Value	ValueOutput
+VCO1 Mod Source	0	4194304	Value	ValueOutput
+VCO2 Coarse	0	4194304	Value	ValueOutput
+VCO2 Fine	0	4194304	Value	ValueOutput
+VCO2 Mod Depth	0	4194304	Value	ValueOutput
+VCO2 Pulse Width	0	4194304	Value	ValueOutput
+VCO2 Mod Source	0	4194304	Value	ValueOutput
+Osc Sync	0	4194304	Value	ValueOutput
+Sub Osc Waveform	0	4194304	Value	ValueOutput
+VCF Cutoff	0	4194304	Value	ValueOutput
+VCF Resonance	0	4194304	Value	ValueOutput
+VCF Mod Depth	0	4194304	Value	ValueOutput
+VCF Filter Outpu	0	4194304	Value	ValueOutput
+VCF Mod Source	0	4194304	Value	ValueOutput
+VCF Bandpass Swi	0	4194304	Value	ValueOutput
+VCO1 Level	0	4194304	Value	ValueOutput
+VCO2 Level	0	4194304	Value	ValueOutput
+Sub Level	0	4194304	Value	ValueOutput
+Env1 Attack	0	4194304	Value	ValueOutput
+Env1 Decay	0	4194304	Value	ValueOutput
+Env1 Sustain	0	4194304	Value	ValueOutput
+Env1 Velo Switch	0	4194304	Value	ValueOutput
+Env2 Attack	0	4194304	Value	ValueOutput
+Env2 Decay	0	4194304	Value	ValueOutput
+Env2 Sustain	0	4194304	Value	ValueOutput
+Env2 Velo Switch	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Phase	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Modulation	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay HP	0	4194304	Value	ValueOutput
+Delay LP	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Delay Sync	0	4194304	Value	ValueOutput
+Delay On/Off	0	4194304	Value	ValueOutput
+Delay Mod Source	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+PitchBend Range	0	4194304	Value	ValueOutput
+Note Priority	0	4194304	Value	ValueOutput
+Mode ReTrig	0	4194304	Value	ValueOutput
+Mode Filter Trac	0	4194304	Value	ValueOutput
+Mode LFO Reset	0	4194304	Value	ValueOutput
+Mod Source1	0	4194304	Value	ValueOutput
+Mod Source2	0	4194304	Value	ValueOutput
+Mod Target1	0	4194304	Value	ValueOutput
+Mod Target2	0	4194304	Value	ValueOutput
+CC1 Menu	0	4194304	Value	ValueOutput
+CC2 Menu	0	4194304	Value	ValueOutput
+Mod Depth1	0	4194304	Value	ValueOutput
+Mod Depth2	0	4194304	Value	ValueOutput
+Transpose	0	4194304	Value	ValueOutput
+Portament Switch	0	4194304	Value	ValueOutput
+Portament Time	0	4194304	Value	ValueOutput
+Delay Pan	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Limiter	0	4194304	Value	ValueOutput
+Randomize On/Off	0	4194304	Value	ValueOutput
+Randomize On/Off	0	4194304	Value	ValueOutput
+Randomize On/Off	0	4194304	Value	ValueOutput
+Randomize On/Off	0	4194304	Value	ValueOutput
+Randomize On/Off	0	4194304	Value	ValueOutput
+Randomize On/Off	0	4194304	Value	ValueOutput
+Randomize On/Off	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

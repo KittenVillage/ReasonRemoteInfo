@@ -1,0 +1,94 @@
+Scope
+Manufacturer	Model
+WiZAudio	nl.wzwart.TableOscillator
+
+Remotable	Min	Max	Input type	Output type
+Mode	0	6	Value	ValueOutput
+Interpolation	0	3	Value	ValueOutput
+Steps	0	30	Value	ValueOutput
+Pitchbend Range	0	24	Value	ValueOutput
+Velocity	0	127	Value	ValueOutput
+Phase	0	127	Value	ValueOutput
+Volume	0	127	Value	ValueOutput
+Octave	0	9	Value	ValueOutput
+Semi	0	12	Value	ValueOutput
+Cent	0	100	Value	ValueOutput
+Curve	0	100	Value	ValueOutput
+Attack	0	127	Value	ValueOutput
+Decay	0	127	Value	ValueOutput
+Sustain	0	127	Value	ValueOutput
+Release	0	127	Value	ValueOutput
+LFO Sync	0	1	Toggle	ValueOutput
+LFO Rate	0	127	Value	ValueOutput
+LFO Rate Sync	0	15	Value	ValueOutput
+Table Value 1	0	126	Value	ValueOutput
+Table Value 2	0	126	Value	ValueOutput
+Table Value 3	0	126	Value	ValueOutput
+Table Value 4	0	126	Value	ValueOutput
+Table Value 5	0	126	Value	ValueOutput
+Table Value 6	0	126	Value	ValueOutput
+Table Value 7	0	126	Value	ValueOutput
+Table Value 8	0	126	Value	ValueOutput
+Table Value 9	0	126	Value	ValueOutput
+Table Value 10	0	126	Value	ValueOutput
+Table Value 11	0	126	Value	ValueOutput
+Table Value 12	0	126	Value	ValueOutput
+Table Value 13	0	126	Value	ValueOutput
+Table Value 14	0	126	Value	ValueOutput
+Table Value 15	0	126	Value	ValueOutput
+Table Value 16	0	126	Value	ValueOutput
+Table Value 17	0	126	Value	ValueOutput
+Table Value 18	0	126	Value	ValueOutput
+Table Value 19	0	126	Value	ValueOutput
+Table Value 20	0	126	Value	ValueOutput
+Table Value 21	0	126	Value	ValueOutput
+Table Value 22	0	126	Value	ValueOutput
+Table Value 23	0	126	Value	ValueOutput
+Table Value 24	0	126	Value	ValueOutput
+Table Value 25	0	126	Value	ValueOutput
+Table Value 26	0	126	Value	ValueOutput
+Table Value 27	0	126	Value	ValueOutput
+Table Value 28	0	126	Value	ValueOutput
+Table Value 29	0	126	Value	ValueOutput
+Table Value 30	0	126	Value	ValueOutput
+Table Value 31	0	126	Value	ValueOutput
+Table Value 32	0	126	Value	ValueOutput
+Width 1	0	127	Value	ValueOutput
+Width 2	0	127	Value	ValueOutput
+Width 3	0	127	Value	ValueOutput
+Width 4	0	127	Value	ValueOutput
+Width 5	0	127	Value	ValueOutput
+Width 6	0	127	Value	ValueOutput
+Width 7	0	127	Value	ValueOutput
+Width 8	0	127	Value	ValueOutput
+Width 9	0	127	Value	ValueOutput
+Width 10	0	127	Value	ValueOutput
+Width 11	0	127	Value	ValueOutput
+Width 12	0	127	Value	ValueOutput
+Width 13	0	127	Value	ValueOutput
+Width 14	0	127	Value	ValueOutput
+Width 15	0	127	Value	ValueOutput
+Width 16	0	127	Value	ValueOutput
+Width 17	0	127	Value	ValueOutput
+Width 18	0	127	Value	ValueOutput
+Width 19	0	127	Value	ValueOutput
+Width 20	0	127	Value	ValueOutput
+Width 21	0	127	Value	ValueOutput
+Width 22	0	127	Value	ValueOutput
+Width 23	0	127	Value	ValueOutput
+Width 24	0	127	Value	ValueOutput
+Width 25	0	127	Value	ValueOutput
+Width 26	0	127	Value	ValueOutput
+Width 27	0	127	Value	ValueOutput
+Width 28	0	127	Value	ValueOutput
+Width 29	0	127	Value	ValueOutput
+Width 30	0	127	Value	ValueOutput
+Width 31	0	127	Value	ValueOutput
+Width 32	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

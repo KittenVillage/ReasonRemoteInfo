@@ -1,0 +1,139 @@
+Scope
+Manufacturer	Model
+Overloud - MoReVoX	vst.RmTx.REmatrix-64
+Note: Will match scope definitions for vst.RmTx.REmatrix-64 or vst.RmTx
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+IN Level	0	4194304	Value	ValueOutput
+DRY Level	0	4194304	Value	ValueOutput
+WET Level	0	4194304	Value	ValueOutput
+DRY L Pan	0	4194304	Value	ValueOutput
+DRY R Pan	0	4194304	Value	ValueOutput
+DRY Mute	0	4194304	Value	ValueOutput
+WET L Pan	0	4194304	Value	ValueOutput
+WET R Pan	0	4194304	Value	ValueOutput
+WET Mute	0	4194304	Value	ValueOutput
+HALL Level	0	4194304	Value	ValueOutput
+HALL Mute	0	4194304	Value	ValueOutput
+HALL Solo	0	4194304	Value	ValueOutput
+ROOM Level	0	4194304	Value	ValueOutput
+ROOM Mute	0	4194304	Value	ValueOutput
+ROOM Solo	0	4194304	Value	ValueOutput
+PLATE Level	0	4194304	Value	ValueOutput
+PLATE Mute	0	4194304	Value	ValueOutput
+PLATE Solo	0	4194304	Value	ValueOutput
+EARLY Level	0	4194304	Value	ValueOutput
+EARLY Mute	0	4194304	Value	ValueOutput
+EARLY Solo	0	4194304	Value	ValueOutput
+SPECIAL Level	0	4194304	Value	ValueOutput
+SPECIAL Mute	0	4194304	Value	ValueOutput
+SPECIAL Solo	0	4194304	Value	ValueOutput
+HALL EQ1 On	0	4194304	Value	ValueOutput
+HALL EQ1 Gain	0	4194304	Value	ValueOutput
+HALL EQ1 Freq	0	4194304	Value	ValueOutput
+HALL EQ1 Q	0	4194304	Value	ValueOutput
+HALL EQ2 On	0	4194304	Value	ValueOutput
+HALL EQ2 Gain	0	4194304	Value	ValueOutput
+HALL EQ2 Freq	0	4194304	Value	ValueOutput
+HALL EQ2 Q	0	4194304	Value	ValueOutput
+HALL Stereo	0	4194304	Value	ValueOutput
+HALL Pan	0	4194304	Value	ValueOutput
+HALL Delay	0	4194304	Value	ValueOutput
+HALL Length	0	4194304	Value	ValueOutput
+ROOM EQ1 On	0	4194304	Value	ValueOutput
+ROOM EQ1 Gain	0	4194304	Value	ValueOutput
+ROOM EQ1 Freq	0	4194304	Value	ValueOutput
+ROOM EQ1 Q	0	4194304	Value	ValueOutput
+ROOM EQ2 On	0	4194304	Value	ValueOutput
+ROOM EQ2 Gain	0	4194304	Value	ValueOutput
+ROOM EQ2 Freq	0	4194304	Value	ValueOutput
+ROOM EQ2 Q	0	4194304	Value	ValueOutput
+ROOM Stereo	0	4194304	Value	ValueOutput
+ROOM Pan	0	4194304	Value	ValueOutput
+ROOM Delay	0	4194304	Value	ValueOutput
+ROOM Length	0	4194304	Value	ValueOutput
+PLATE EQ1 On	0	4194304	Value	ValueOutput
+PLATE EQ1 Gain	0	4194304	Value	ValueOutput
+PLATE EQ1 Freq	0	4194304	Value	ValueOutput
+PLATE EQ1 Q	0	4194304	Value	ValueOutput
+PLATE EQ2 On	0	4194304	Value	ValueOutput
+PLATE EQ2 Gain	0	4194304	Value	ValueOutput
+PLATE EQ2 Freq	0	4194304	Value	ValueOutput
+PLATE EQ2 Q	0	4194304	Value	ValueOutput
+PLATE Stereo	0	4194304	Value	ValueOutput
+PLATE Pan	0	4194304	Value	ValueOutput
+PLATE Delay	0	4194304	Value	ValueOutput
+PLATE Length	0	4194304	Value	ValueOutput
+EARLY EQ1 On	0	4194304	Value	ValueOutput
+EARLY EQ1 Gain	0	4194304	Value	ValueOutput
+EARLY EQ1 Freq	0	4194304	Value	ValueOutput
+EARLY EQ1 Q	0	4194304	Value	ValueOutput
+EARLY EQ2 On	0	4194304	Value	ValueOutput
+EARLY EQ2 Gain	0	4194304	Value	ValueOutput
+EARLY EQ2 Freq	0	4194304	Value	ValueOutput
+EARLY EQ2 Q	0	4194304	Value	ValueOutput
+EARLY Stereo	0	4194304	Value	ValueOutput
+EARLY Pan	0	4194304	Value	ValueOutput
+EARLY Delay	0	4194304	Value	ValueOutput
+EARLY Length	0	4194304	Value	ValueOutput
+SPECIAL EQ1 On	0	4194304	Value	ValueOutput
+SPECIAL EQ1 Gain	0	4194304	Value	ValueOutput
+SPECIAL EQ1 Freq	0	4194304	Value	ValueOutput
+SPECIAL EQ1 Q	0	4194304	Value	ValueOutput
+SPECIAL EQ2 On	0	4194304	Value	ValueOutput
+SPECIAL EQ2 Gain	0	4194304	Value	ValueOutput
+SPECIAL EQ2 Freq	0	4194304	Value	ValueOutput
+SPECIAL EQ2 Q	0	4194304	Value	ValueOutput
+SPECIAL Stereo	0	4194304	Value	ValueOutput
+SPECIAL Pan	0	4194304	Value	ValueOutput
+SPECIAL Delay	0	4194304	Value	ValueOutput
+SPECIAL Length	0	4194304	Value	ValueOutput
+Master MOD On	0	4194304	Value	ValueOutput
+Master MOD Spread	0	4194304	Value	ValueOutput
+Master MOD Motion	0	4194304	Value	ValueOutput
+Master MOD Intensity	0	4194304	Value	ValueOutput
+Master DELAY On	0	4194304	Value	ValueOutput
+Master DELAY Regen	0	4194304	Value	ValueOutput
+Master DELAY Low Cut	0	4194304	Value	ValueOutput
+Master DELAY High Cut	0	4194304	Value	ValueOutput
+Master DELAY Stereo	0	4194304	Value	ValueOutput
+Master DELAY Level	0	4194304	Value	ValueOutput
+Master REV On	0	4194304	Value	ValueOutput
+Master REV Time	0	4194304	Value	ValueOutput
+Master REV Color	0	4194304	Value	ValueOutput
+Master REV Diffuse	0	4194304	Value	ValueOutput
+Master REV Level	0	4194304	Value	ValueOutput
+Master REV HPF	0	4194304	Value	ValueOutput
+Master DRIVE On	0	4194304	Value	ValueOutput
+Master DRIVE Drive	0	4194304	Value	ValueOutput
+Master DRIVE Color	0	4194304	Value	ValueOutput
+Master COMP On	0	4194304	Value	ValueOutput
+Master COMP Sustain	0	4194304	Value	ValueOutput
+Master COMP Attack	0	4194304	Value	ValueOutput
+Master COMP Release	0	4194304	Value	ValueOutput
+Master COMP Output	0	4194304	Value	ValueOutput
+Master EQ On	0	4194304	Value	ValueOutput
+Master EQ1 Gain	0	4194304	Value	ValueOutput
+Master EQ1 Freq	0	4194304	Value	ValueOutput
+Master EQ1 Q	0	4194304	Value	ValueOutput
+Master EQ2 Gain	0	4194304	Value	ValueOutput
+Master EQ2 Freq	0	4194304	Value	ValueOutput
+Master EQ2 Q	0	4194304	Value	ValueOutput
+REV TIME	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

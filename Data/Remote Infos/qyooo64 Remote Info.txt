@@ -1,0 +1,183 @@
+Scope
+Manufacturer	Model
+Full Bucket Music	vst.fbqy.qyooo64
+Note: Will match scope definitions for vst.fbqy.qyooo64 or vst.fbqy
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Version	0	4194304	Value	ValueOutput
+Voices	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+MstrTune	0	4194304	Value	ValueOutput
+Portamnt	0	4194304	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+PB Range	0	4194304	Value	ValueOutput
+Osc1 Vol	0	4194304	Value	ValueOutput
+Osc1 Sft	0	4194304	Value	ValueOutput
+Osc1 Tun	0	4194304	Value	ValueOutput
+Osc1 Wav	0	4194304	Value	ValueOutput
+Osc1Ring	0	4194304	Value	ValueOutput
+Osc1 PW	0	4194304	Value	ValueOutput
+Osc1 PWM	0	4194304	Value	ValueOutput
+Osc1 PWM	0	4194304	Value	ValueOutput
+Osc1 FM1	0	4194304	Value	ValueOutput
+Osc1 FM1	0	4194304	Value	ValueOutput
+Osc1 FM2	0	4194304	Value	ValueOutput
+Osc1 FM2	0	4194304	Value	ValueOutput
+Osc2 Vol	0	4194304	Value	ValueOutput
+Osc2 Sft	0	4194304	Value	ValueOutput
+Osc2 Tun	0	4194304	Value	ValueOutput
+Osc2 Wav	0	4194304	Value	ValueOutput
+Osc2Ring	0	4194304	Value	ValueOutput
+Osc2 PW	0	4194304	Value	ValueOutput
+Osc2 PWM	0	4194304	Value	ValueOutput
+Osc2 PWM	0	4194304	Value	ValueOutput
+Osc2 FM1	0	4194304	Value	ValueOutput
+Osc2 FM1	0	4194304	Value	ValueOutput
+Osc2 FM2	0	4194304	Value	ValueOutput
+Osc2 FM2	0	4194304	Value	ValueOutput
+Osc3 Vol	0	4194304	Value	ValueOutput
+Osc3 Sft	0	4194304	Value	ValueOutput
+Osc3 Tun	0	4194304	Value	ValueOutput
+Osc3 Wav	0	4194304	Value	ValueOutput
+Osc3Ring	0	4194304	Value	ValueOutput
+Osc3 PW	0	4194304	Value	ValueOutput
+Osc3 PWM	0	4194304	Value	ValueOutput
+Osc3 PWM	0	4194304	Value	ValueOutput
+Osc3 FM1	0	4194304	Value	ValueOutput
+Osc3 FM1	0	4194304	Value	ValueOutput
+Osc3 FM2	0	4194304	Value	ValueOutput
+Osc3 FM2	0	4194304	Value	ValueOutput
+Noise	0	4194304	Value	ValueOutput
+Noise AM	0	4194304	Value	ValueOutput
+Noise AM	0	4194304	Value	ValueOutput
+Flt Arr.	0	4194304	Value	ValueOutput
+FltMode1	0	4194304	Value	ValueOutput
+FltMode2	0	4194304	Value	ValueOutput
+FltMode3	0	4194304	Value	ValueOutput
+Morph X	0	4194304	Value	ValueOutput
+Morph Y	0	4194304	Value	ValueOutput
+X-Mod 1	0	4194304	Value	ValueOutput
+X-Mod 1	0	4194304	Value	ValueOutput
+X-Mod 2	0	4194304	Value	ValueOutput
+X-Mod 2	0	4194304	Value	ValueOutput
+X-Mod 3	0	4194304	Value	ValueOutput
+X-Mod 3	0	4194304	Value	ValueOutput
+Y-Mod 1	0	4194304	Value	ValueOutput
+Y-Mod 1	0	4194304	Value	ValueOutput
+Y-Mod 2	0	4194304	Value	ValueOutput
+Y-Mod 2	0	4194304	Value	ValueOutput
+Y-Mod 3	0	4194304	Value	ValueOutput
+Y-Mod 3	0	4194304	Value	ValueOutput
+A1 Freq	0	4194304	Value	ValueOutput
+A1 Reso	0	4194304	Value	ValueOutput
+A1 Vol	0	4194304	Value	ValueOutput
+A1 Pan	0	4194304	Value	ValueOutput
+A2 Freq	0	4194304	Value	ValueOutput
+A2 Reso	0	4194304	Value	ValueOutput
+A2 Vol	0	4194304	Value	ValueOutput
+A2 Pan	0	4194304	Value	ValueOutput
+A3 Freq	0	4194304	Value	ValueOutput
+A3 Reso	0	4194304	Value	ValueOutput
+A3 Vol	0	4194304	Value	ValueOutput
+A3 Pan	0	4194304	Value	ValueOutput
+B1 Freq	0	4194304	Value	ValueOutput
+B1 Reso	0	4194304	Value	ValueOutput
+B1 Vol	0	4194304	Value	ValueOutput
+B1 Pan	0	4194304	Value	ValueOutput
+B2 Freq	0	4194304	Value	ValueOutput
+B2 Reso	0	4194304	Value	ValueOutput
+B2 Vol	0	4194304	Value	ValueOutput
+B2 Pan	0	4194304	Value	ValueOutput
+B3 Freq	0	4194304	Value	ValueOutput
+B3 Reso	0	4194304	Value	ValueOutput
+B3 Vol	0	4194304	Value	ValueOutput
+B3 Pan	0	4194304	Value	ValueOutput
+C1 Freq	0	4194304	Value	ValueOutput
+C1 Reso	0	4194304	Value	ValueOutput
+C1 Vol	0	4194304	Value	ValueOutput
+C1 Pan	0	4194304	Value	ValueOutput
+C2 Freq	0	4194304	Value	ValueOutput
+C2 Reso	0	4194304	Value	ValueOutput
+C2 Vol	0	4194304	Value	ValueOutput
+C2 Pan	0	4194304	Value	ValueOutput
+C3 Freq	0	4194304	Value	ValueOutput
+C3 Reso	0	4194304	Value	ValueOutput
+C3 Vol	0	4194304	Value	ValueOutput
+C3 Pan	0	4194304	Value	ValueOutput
+D1 Freq	0	4194304	Value	ValueOutput
+D1 Reso	0	4194304	Value	ValueOutput
+D1 Vol	0	4194304	Value	ValueOutput
+D1 Pan	0	4194304	Value	ValueOutput
+D2 Freq	0	4194304	Value	ValueOutput
+D2 Reso	0	4194304	Value	ValueOutput
+D2 Vol	0	4194304	Value	ValueOutput
+D2 Pan	0	4194304	Value	ValueOutput
+D3 Freq	0	4194304	Value	ValueOutput
+D3 Reso	0	4194304	Value	ValueOutput
+D3 Vol	0	4194304	Value	ValueOutput
+D3 Pan	0	4194304	Value	ValueOutput
+LFO1 Wav	0	4194304	Value	ValueOutput
+LFO1 Syn	0	4194304	Value	ValueOutput
+LFO1 Rtg	0	4194304	Value	ValueOutput
+LFO1 Spd	0	4194304	Value	ValueOutput
+LFO1 AM	0	4194304	Value	ValueOutput
+LFO1 AM	0	4194304	Value	ValueOutput
+LFO2 Wav	0	4194304	Value	ValueOutput
+LFO2 Syn	0	4194304	Value	ValueOutput
+LFO2 Rtg	0	4194304	Value	ValueOutput
+LFO2 Spd	0	4194304	Value	ValueOutput
+LFO2 AM	0	4194304	Value	ValueOutput
+LFO2 AM	0	4194304	Value	ValueOutput
+LFO3 Wav	0	4194304	Value	ValueOutput
+LFO3 Syn	0	4194304	Value	ValueOutput
+LFO3 Rtg	0	4194304	Value	ValueOutput
+LFO3 Spd	0	4194304	Value	ValueOutput
+LFO3 AM	0	4194304	Value	ValueOutput
+LFO3 AM	0	4194304	Value	ValueOutput
+LFO4 Wav	0	4194304	Value	ValueOutput
+LFO4 Syn	0	4194304	Value	ValueOutput
+LFO4 Rtg	0	4194304	Value	ValueOutput
+LFO4 Spd	0	4194304	Value	ValueOutput
+LFO4 AM	0	4194304	Value	ValueOutput
+LFO4 AM	0	4194304	Value	ValueOutput
+Env1 Trg	0	4194304	Value	ValueOutput
+Env1 A	0	4194304	Value	ValueOutput
+Env1 D	0	4194304	Value	ValueOutput
+Env1 S	0	4194304	Value	ValueOutput
+Env1 R	0	4194304	Value	ValueOutput
+Env2 Trg	0	4194304	Value	ValueOutput
+Env2 A	0	4194304	Value	ValueOutput
+Env2 D	0	4194304	Value	ValueOutput
+Env2 S	0	4194304	Value	ValueOutput
+Env2 R	0	4194304	Value	ValueOutput
+Env3 Trg	0	4194304	Value	ValueOutput
+Env3 A	0	4194304	Value	ValueOutput
+Env3 D	0	4194304	Value	ValueOutput
+Env3 S	0	4194304	Value	ValueOutput
+Env3 R	0	4194304	Value	ValueOutput
+Env4 Trg	0	4194304	Value	ValueOutput
+Env4 A	0	4194304	Value	ValueOutput
+Env4 D	0	4194304	Value	ValueOutput
+Env4 S	0	4194304	Value	ValueOutput
+Env4 R	0	4194304	Value	ValueOutput
+Chorus	0	4194304	Value	ValueOutput
+Cho LFO1	0	4194304	Value	ValueOutput
+Cho LFO2	0	4194304	Value	ValueOutput
+Cho Dpt	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

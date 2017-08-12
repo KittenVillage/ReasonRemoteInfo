@@ -1,0 +1,99 @@
+Scope
+Manufacturer	Model
+AirRaid Audio	ch.airraid.Pandemic
+
+Remotable	Min	Max	Input type	Output type
+Lo / Mid Frequency CrossOver	0	4194304	Value	ValueOutput
+Mid / Hi Frequency CrossOver	0	4194304	Value	ValueOutput
+Lo Band On/Off	0	1	Toggle	ValueOutput
+Lo Mute	0	1	Toggle	ValueOutput
+Lo Band Solo	0	1	Toggle	ValueOutput
+Lo Band Bypass	0	1	Toggle	ValueOutput
+Lo Stereo Image	0	4194304	Value	ValueOutput
+Lo Chorus Amount	0	4194304	Value	ValueOutput
+Lo Chorus Frequency	0	4194304	Value	ValueOutput
+Lo Chorus Frequency (Synced)	0	15	Value	ValueOutput
+Lo Chorus Feedback	0	4194304	Value	ValueOutput
+Lo L/R FreqShift Width	0	4194304	Value	ValueOutput
+Lo Pan	0	4194304	Value	ValueOutput
+Lo LFO Type	0	5	Value	ValueOutput
+Lo LFO Amount	0	4194304	Value	ValueOutput
+Lo LFO Frequency	0	4194304	Value	ValueOutput
+Lo LFO Frequency (Synced)	0	21	Value	ValueOutput
+Lo LFO Amp Mod Amount	0	4194304	Value	ValueOutput
+Lo LFO Amp Mod Frequency	0	4194304	Value	ValueOutput
+Lo LFO Amp Mod Frequency (Synced)	0	17	Value	ValueOutput
+Lo LFO Freq Mod Amount	0	4194304	Value	ValueOutput
+Lo LFO Freq Mod Frequency	0	4194304	Value	ValueOutput
+LoPan LFO Freq Mod Frequency (Synced)	0	17	Value	ValueOutput
+Lo L/R Phase Offset	0	4194304	Value	ValueOutput
+Lo Spin Amount	0	4194304	Value	ValueOutput
+Lo Phase Offset	0	4194304	Value	ValueOutput
+Lo Phase / Spin Toggle	0	1	Toggle	ValueOutput
+Lo LFO Sync	0	1	Toggle	ValueOutput
+Lo Dry/Wet Mix	0	4194304	Value	ValueOutput
+Lo Band Volume	0	4194304	Value	ValueOutput
+Mid Band Mute	0	1	Toggle	ValueOutput
+Mid Band Solo	0	1	Toggle	ValueOutput
+Mid Band Bypass	0	1	Toggle	ValueOutput
+Mid Stereo Image	0	4194304	Value	ValueOutput
+Mid Chorus Amount	0	4194304	Value	ValueOutput
+Mid Chorus Frequency	0	4194304	Value	ValueOutput
+Mid Chorus Frequency (Synced)	0	15	Value	ValueOutput
+Mid Chorus Feedback	0	4194304	Value	ValueOutput
+Mid L/R FreqShift Width	0	4194304	Value	ValueOutput
+Mid Pan	0	4194304	Value	ValueOutput
+Mid LFO Type	0	5	Value	ValueOutput
+Mid LFO Amount	0	4194304	Value	ValueOutput
+Mid LFO Frequency	0	4194304	Value	ValueOutput
+Mid LFO Frequency (Synced)	0	21	Value	ValueOutput
+Mid LFO Amp Mod Amount	0	4194304	Value	ValueOutput
+Mid LFO Amp Mod Frequency	0	4194304	Value	ValueOutput
+Mid LFO Amp Mod Frequency (Synced)	0	17	Value	ValueOutput
+Mid LFO Freq Mod Amount	0	4194304	Value	ValueOutput
+Mid LFO Freq Mod Frequency	0	4194304	Value	ValueOutput
+Mid LFO Freq Mod Frequency (Synced)	0	17	Value	ValueOutput
+Mid L/R Phase Offset	0	4194304	Value	ValueOutput
+Mid Spin Amount	0	4194304	Value	ValueOutput
+Mid Phase Offset	0	4194304	Value	ValueOutput
+Mid Phase / Spin Toggle	0	1	Toggle	ValueOutput
+Mid LFO Sync	0	1	Toggle	ValueOutput
+Mid Dry/Wet Mix	0	4194304	Value	ValueOutput
+Mid Band Volume	0	4194304	Value	ValueOutput
+Hi Band On/Off	0	1	Toggle	ValueOutput
+Hi Band Mute	0	1	Toggle	ValueOutput
+Hi Band Solo	0	1	Toggle	ValueOutput
+Hi Band Bypass	0	1	Toggle	ValueOutput
+Hi Stereo Image	0	4194304	Value	ValueOutput
+Hi Chorus Amount	0	4194304	Value	ValueOutput
+Hi Chorus Frequency	0	4194304	Value	ValueOutput
+Hi Chorus Frequency (Synced)	0	15	Value	ValueOutput
+Hi Chorus Feedback	0	4194304	Value	ValueOutput
+Hi L/R FreqShift Width	0	4194304	Value	ValueOutput
+Hi Pan	0	4194304	Value	ValueOutput
+Hi LFO Type	0	5	Value	ValueOutput
+Hi LFO Amount	0	4194304	Value	ValueOutput
+Hi LFO Frequency	0	4194304	Value	ValueOutput
+Hi LFO Frequency (Synced)	0	21	Value	ValueOutput
+Hi LFO Amp Mod Amount	0	4194304	Value	ValueOutput
+Hi LFO Amp Mod Frequency	0	4194304	Value	ValueOutput
+Hi LFO Amp Mod Frequency (Synced)	0	17	Value	ValueOutput
+Hi LFO Freq Mod Amount	0	4194304	Value	ValueOutput
+Hi LFO Freq Mod Frequency	0	4194304	Value	ValueOutput
+Hi LFO Freq Mod Frequency (Synced)	0	17	Value	ValueOutput
+Hi L/R Phase Offset	0	4194304	Value	ValueOutput
+Hi Spin Amount	0	4194304	Value	ValueOutput
+Hi Phase Offset	0	4194304	Value	ValueOutput
+Hi Phase / Spin Toggle	0	1	Toggle	ValueOutput
+Hi LFO Sync	0	1	Toggle	ValueOutput
+Hi Dry/Wet Mix	0	4194304	Value	ValueOutput
+Hi Band Volume	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Dry/Wet Mix	0	4194304	Value	ValueOutput
+Audio Signal Router	0	2	Value	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

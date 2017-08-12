@@ -1,0 +1,100 @@
+Scope
+Manufacturer	Model
+Heavyocity	com.heavyocity.AeonOrganic
+
+Remotable	Min	Max	Input type	Output type
+Glide	0	4194304	Value	ValueOutput
+Unison	0	4194304	Value	ValueOutput
+Poly	0	1	Toggle	ValueOutput
+Ch1 Level	0	4194304	Value	ValueOutput
+Ch1 Pan	0	4194304	Value	ValueOutput
+Ch1 Tune	0	4194304	Value	ValueOutput
+Ch1 Mute	0	1	Toggle	ValueOutput
+Ch1 Solo	0	1	Toggle	ValueOutput
+Ch2 Level	0	4194304	Value	ValueOutput
+Ch2 Pan	0	4194304	Value	ValueOutput
+Ch2 Tune	0	4194304	Value	ValueOutput
+Ch2 Mute	0	1	Toggle	ValueOutput
+Ch2 Solo	0	1	Toggle	ValueOutput
+Ch3 Level	0	4194304	Value	ValueOutput
+Ch3 Pan	0	4194304	Value	ValueOutput
+Ch3 Tune	0	4194304	Value	ValueOutput
+Ch3 Mute	0	1	Toggle	ValueOutput
+Ch3 Solo	0	1	Toggle	ValueOutput
+Punish On/Off	0	1	Toggle	ValueOutput
+Punish Amt	0	4194304	Value	ValueOutput
+Ch1 Attack	0	4194304	Value	ValueOutput
+Ch1 Decay	0	4194304	Value	ValueOutput
+Ch1 Sustain	0	4194304	Value	ValueOutput
+Ch1 Release	0	4194304	Value	ValueOutput
+Ch2 Attack	0	4194304	Value	ValueOutput
+Ch2 Decay	0	4194304	Value	ValueOutput
+Ch2 Sustain	0	4194304	Value	ValueOutput
+Ch2 Release	0	4194304	Value	ValueOutput
+Ch3 Attack	0	4194304	Value	ValueOutput
+Ch3 Decay	0	4194304	Value	ValueOutput
+Ch3 Sustain	0	4194304	Value	ValueOutput
+Ch3 Release	0	4194304	Value	ValueOutput
+Ch1 Filter Type	0	4	Value	ValueOutput
+Ch1 Cutoff	0	4194304	Value	ValueOutput
+Ch1 Reson	0	4194304	Value	ValueOutput
+Ch1 Vel Sens	0	4194304	Value	ValueOutput
+Ch1 KeyTrack	0	4194304	Value	ValueOutput
+Ch2 Filter Type	0	4	Value	ValueOutput
+Ch2 Cutoff	0	4194304	Value	ValueOutput
+Ch2 Reson	0	4194304	Value	ValueOutput
+Ch2 Vel Sens	0	4194304	Value	ValueOutput
+Ch2 KeyTrack	0	4194304	Value	ValueOutput
+Ch3 Filter Type	0	4	Value	ValueOutput
+Ch3 Cutoff	0	4194304	Value	ValueOutput
+Ch3 Reson	0	4194304	Value	ValueOutput
+Ch3 Vel Sens	0	4194304	Value	ValueOutput
+Ch3 KeyTrack	0	4194304	Value	ValueOutput
+Ch1 Low Gain	0	4194304	Value	ValueOutput
+Ch1 Low Freq	0	4194304	Value	ValueOutput
+Ch1 Mid Gain	0	4194304	Value	ValueOutput
+Ch1 Mid Freq	0	4194304	Value	ValueOutput
+Ch1 Mid Bandwidth	0	4194304	Value	ValueOutput
+Ch1 High Gain	0	4194304	Value	ValueOutput
+Ch1 High Freq	0	4194304	Value	ValueOutput
+Ch2 Low Gain	0	4194304	Value	ValueOutput
+Ch2 Low Freq	0	4194304	Value	ValueOutput
+Ch2 Mid Gain	0	4194304	Value	ValueOutput
+Ch2 Mid Freq	0	4194304	Value	ValueOutput
+Ch2 Mid Bandwidth	0	4194304	Value	ValueOutput
+Ch2 High Gain	0	4194304	Value	ValueOutput
+Ch2 High Freq	0	4194304	Value	ValueOutput
+Ch3 Low Gain	0	4194304	Value	ValueOutput
+Ch3 Low Freq	0	4194304	Value	ValueOutput
+Ch3 Mid Gain	0	4194304	Value	ValueOutput
+Ch3 Mid Freq	0	4194304	Value	ValueOutput
+Ch3 Mid Bandwidth	0	4194304	Value	ValueOutput
+Ch3 High Gain	0	4194304	Value	ValueOutput
+Ch3 High Freq	0	4194304	Value	ValueOutput
+Distortion On/Off	0	1	Toggle	ValueOutput
+Distortion Drive	0	4194304	Value	ValueOutput
+Distortion Damp	0	4194304	Value	ValueOutput
+LoFi On/Off	0	1	Toggle	ValueOutput
+LoFi Bit Depth	0	4194304	Value	ValueOutput
+LoFi Sample Rate	0	4194304	Value	ValueOutput
+Filter On/Off	0	1	Toggle	ValueOutput
+Filter Type	0	2	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Chorus On/Off	0	1	Toggle	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Arp On/Off	0	1	Toggle	ValueOutput
+Arp 8va	0	1	Toggle	ValueOutput
+Arp Retrigger	0	1	Toggle	ValueOutput
+Arp Mode	0	6	Value	ValueOutput
+Arp Steps	0	4194304	Value	ValueOutput
+Arp Rate	0	6	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

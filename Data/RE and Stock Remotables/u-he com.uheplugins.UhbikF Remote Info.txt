@@ -1,0 +1,26 @@
+Scope
+Manufacturer	Model
+u-he	com.uheplugins.UhbikF
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+TimeBase	0	4	Value	ValueOutput
+TimeUnits	0	4194304	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+ChannelOffset	0	4194304	Value	ValueOutput
+Wave	0	4194304	Value	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+Symmetry	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+AutoMix	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Mode	0	1	Toggle	ValueOutput
+BassSanctuary	0	3	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

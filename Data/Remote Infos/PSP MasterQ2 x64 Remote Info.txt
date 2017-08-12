@@ -1,0 +1,88 @@
+Scope
+Manufacturer	Model
+PSPaudioware.com	vst.PpMQ.PSP MasterQ2 x64
+Note: Will match scope definitions for vst.PpMQ.PSP MasterQ2 x64 or vst.PpMQ
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Proc	0	4194304	Value	ValueOutput
+Channel	0	4194304	Value	ValueOutput
+FAT	0	4194304	Value	ValueOutput
+ResetAll	0	4194304	Value	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Analog	0	4194304	Value	ValueOutput
+Charact	0	4194304	Value	ValueOutput
+Amount	0	4194304	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+Balance	0	4194304	Value	ValueOutput
+Range	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+LowCut	0	4194304	Value	ValueOutput
+LCFreq	0	4194304	Value	ValueOutput
+LCQ	0	4194304	Value	ValueOutput
+LCSlope	0	4194304	Value	ValueOutput
+LCSolo	0	4194304	Value	ValueOutput
+LowFlt	0	4194304	Value	ValueOutput
+LoMode	0	4194304	Value	ValueOutput
+FreqLnk	0	4194304	Value	ValueOutput
+LoFreq	0	4194304	Value	ValueOutput
+LoQ	0	4194304	Value	ValueOutput
+LowPlus	0	4194304	Value	ValueOutput
+LoGain	0	4194304	Value	ValueOutput
+LowSolo	0	4194304	Value	ValueOutput
+LowMid	0	4194304	Value	ValueOutput
+LMMode	0	4194304	Value	ValueOutput
+LMFreq	0	4194304	Value	ValueOutput
+LMQ	0	4194304	Value	ValueOutput
+LMPlus	0	4194304	Value	ValueOutput
+LMGain	0	4194304	Value	ValueOutput
+LMSolo	0	4194304	Value	ValueOutput
+Middle	0	4194304	Value	ValueOutput
+MidMode	0	4194304	Value	ValueOutput
+MidFreq	0	4194304	Value	ValueOutput
+MidQ	0	4194304	Value	ValueOutput
+MidPlus	0	4194304	Value	ValueOutput
+MidGain	0	4194304	Value	ValueOutput
+MidSolo	0	4194304	Value	ValueOutput
+HighMid	0	4194304	Value	ValueOutput
+HMMode	0	4194304	Value	ValueOutput
+HMFreq	0	4194304	Value	ValueOutput
+HMQ	0	4194304	Value	ValueOutput
+HMPlus	0	4194304	Value	ValueOutput
+HMGain	0	4194304	Value	ValueOutput
+HMSolo	0	4194304	Value	ValueOutput
+HighFlt	0	4194304	Value	ValueOutput
+HiMode	0	4194304	Value	ValueOutput
+HiFreq	0	4194304	Value	ValueOutput
+HiQ	0	4194304	Value	ValueOutput
+HighPlus	0	4194304	Value	ValueOutput
+HiGain	0	4194304	Value	ValueOutput
+HighSolo	0	4194304	Value	ValueOutput
+HighCut	0	4194304	Value	ValueOutput
+HCFreq	0	4194304	Value	ValueOutput
+HCQ	0	4194304	Value	ValueOutput
+HCSlope	0	4194304	Value	ValueOutput
+HCSolo	0	4194304	Value	ValueOutput
+PolarL	0	4194304	Value	ValueOutput
+PolarR	0	4194304	Value	ValueOutput
+Rout	0	4194304	Value	ValueOutput
+LimSat	0	4194304	Value	ValueOutput
+Ceiling	0	4194304	Value	ValueOutput
+MakeUp	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

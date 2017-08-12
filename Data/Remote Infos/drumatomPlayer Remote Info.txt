@@ -1,0 +1,135 @@
+Scope
+Manufacturer	Model
+accusonus	vst.Acdp.drumatomPlayer
+Note: Will match scope definitions for vst.Acdp.drumatomPlayer or vst.Acdp
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+focusA 1	0	4194304	Value	ValueOutput
+fineA 1	0	4194304	Value	ValueOutput
+gainA 1	0	4194304	Value	ValueOutput
+focusB 1	0	4194304	Value	ValueOutput
+fineB 1	0	4194304	Value	ValueOutput
+gainB 1	0	4194304	Value	ValueOutput
+bypass 1	0	4194304	Value	ValueOutput
+focusA 2	0	4194304	Value	ValueOutput
+fineA 2	0	4194304	Value	ValueOutput
+gainA 2	0	4194304	Value	ValueOutput
+focusB 2	0	4194304	Value	ValueOutput
+fineB 2	0	4194304	Value	ValueOutput
+gainB 2	0	4194304	Value	ValueOutput
+bypass 2	0	4194304	Value	ValueOutput
+focusA 3	0	4194304	Value	ValueOutput
+fineA 3	0	4194304	Value	ValueOutput
+gainA 3	0	4194304	Value	ValueOutput
+focusB 3	0	4194304	Value	ValueOutput
+fineB 3	0	4194304	Value	ValueOutput
+gainB 3	0	4194304	Value	ValueOutput
+bypass 3	0	4194304	Value	ValueOutput
+focusA 4	0	4194304	Value	ValueOutput
+fineA 4	0	4194304	Value	ValueOutput
+gainA 4	0	4194304	Value	ValueOutput
+focusB 4	0	4194304	Value	ValueOutput
+fineB 4	0	4194304	Value	ValueOutput
+gainB 4	0	4194304	Value	ValueOutput
+bypass 4	0	4194304	Value	ValueOutput
+focusA 5	0	4194304	Value	ValueOutput
+fineA 5	0	4194304	Value	ValueOutput
+gainA 5	0	4194304	Value	ValueOutput
+focusB 5	0	4194304	Value	ValueOutput
+fineB 5	0	4194304	Value	ValueOutput
+gainB 5	0	4194304	Value	ValueOutput
+bypass 5	0	4194304	Value	ValueOutput
+focusA 6	0	4194304	Value	ValueOutput
+fineA 6	0	4194304	Value	ValueOutput
+gainA 6	0	4194304	Value	ValueOutput
+focusB 6	0	4194304	Value	ValueOutput
+fineB 6	0	4194304	Value	ValueOutput
+gainB 6	0	4194304	Value	ValueOutput
+bypass 6	0	4194304	Value	ValueOutput
+focusA 7	0	4194304	Value	ValueOutput
+fineA 7	0	4194304	Value	ValueOutput
+gainA 7	0	4194304	Value	ValueOutput
+focusB 7	0	4194304	Value	ValueOutput
+fineB 7	0	4194304	Value	ValueOutput
+gainB 7	0	4194304	Value	ValueOutput
+bypass 7	0	4194304	Value	ValueOutput
+focusA 8	0	4194304	Value	ValueOutput
+fineA 8	0	4194304	Value	ValueOutput
+gainA 8	0	4194304	Value	ValueOutput
+focusB 8	0	4194304	Value	ValueOutput
+fineB 8	0	4194304	Value	ValueOutput
+gainB 8	0	4194304	Value	ValueOutput
+bypass 8	0	4194304	Value	ValueOutput
+focusA 9	0	4194304	Value	ValueOutput
+fineA 9	0	4194304	Value	ValueOutput
+gainA 9	0	4194304	Value	ValueOutput
+focusB 9	0	4194304	Value	ValueOutput
+fineB 9	0	4194304	Value	ValueOutput
+gainB 9	0	4194304	Value	ValueOutput
+bypass 9	0	4194304	Value	ValueOutput
+focusA 10	0	4194304	Value	ValueOutput
+fineA 10	0	4194304	Value	ValueOutput
+gainA 10	0	4194304	Value	ValueOutput
+focusB 10	0	4194304	Value	ValueOutput
+fineB 10	0	4194304	Value	ValueOutput
+gainB 10	0	4194304	Value	ValueOutput
+bypass 10	0	4194304	Value	ValueOutput
+focusA 11	0	4194304	Value	ValueOutput
+fineA 11	0	4194304	Value	ValueOutput
+gainA 11	0	4194304	Value	ValueOutput
+focusB 11	0	4194304	Value	ValueOutput
+fineB 11	0	4194304	Value	ValueOutput
+gainB 11	0	4194304	Value	ValueOutput
+bypass 11	0	4194304	Value	ValueOutput
+focusA 12	0	4194304	Value	ValueOutput
+fineA 12	0	4194304	Value	ValueOutput
+gainA 12	0	4194304	Value	ValueOutput
+focusB 12	0	4194304	Value	ValueOutput
+fineB 12	0	4194304	Value	ValueOutput
+gainB 12	0	4194304	Value	ValueOutput
+bypass 12	0	4194304	Value	ValueOutput
+focusA 13	0	4194304	Value	ValueOutput
+fineA 13	0	4194304	Value	ValueOutput
+gainA 13	0	4194304	Value	ValueOutput
+focusB 13	0	4194304	Value	ValueOutput
+fineB 13	0	4194304	Value	ValueOutput
+gainB 13	0	4194304	Value	ValueOutput
+bypass 13	0	4194304	Value	ValueOutput
+focusA 14	0	4194304	Value	ValueOutput
+fineA 14	0	4194304	Value	ValueOutput
+gainA 14	0	4194304	Value	ValueOutput
+focusB 14	0	4194304	Value	ValueOutput
+fineB 14	0	4194304	Value	ValueOutput
+gainB 14	0	4194304	Value	ValueOutput
+bypass 14	0	4194304	Value	ValueOutput
+focusA 15	0	4194304	Value	ValueOutput
+fineA 15	0	4194304	Value	ValueOutput
+gainA 15	0	4194304	Value	ValueOutput
+focusB 15	0	4194304	Value	ValueOutput
+fineB 15	0	4194304	Value	ValueOutput
+gainB 15	0	4194304	Value	ValueOutput
+bypass 15	0	4194304	Value	ValueOutput
+focusA 16	0	4194304	Value	ValueOutput
+fineA 16	0	4194304	Value	ValueOutput
+gainA 16	0	4194304	Value	ValueOutput
+focusB 16	0	4194304	Value	ValueOutput
+fineB 16	0	4194304	Value	ValueOutput
+gainB 16	0	4194304	Value	ValueOutput
+bypass 16	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

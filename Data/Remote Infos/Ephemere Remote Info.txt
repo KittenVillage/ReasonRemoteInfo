@@ -1,0 +1,480 @@
+Scope
+Manufacturer	Model
+Inear_Display	vst.inEp.Ephemere
+Note: Will match scope definitions for vst.inEp.Ephemere or vst.inEp
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+C Carrier Freque	0	4194304	Value	ValueOutput
+C Carrier Freque	0	4194304	Value	ValueOutput
+C Modulator Freq	0	4194304	Value	ValueOutput
+C Modulator Freq	0	4194304	Value	ValueOutput
+C FM Depth	0	4194304	Value	ValueOutput
+C FM Depth Proba	0	4194304	Value	ValueOutput
+C Oscillator Fee	0	4194304	Value	ValueOutput
+C Oscillator Fee	0	4194304	Value	ValueOutput
+C Amp Envelope A	0	4194304	Value	ValueOutput
+C Amp Envelope A	0	4194304	Value	ValueOutput
+C Amp Envelope R	0	4194304	Value	ValueOutput
+C Amp Envelope R	0	4194304	Value	ValueOutput
+C Amp Envelope A	0	4194304	Value	ValueOutput
+C Amp Envelope A	0	4194304	Value	ValueOutput
+C Amp Envelope R	0	4194304	Value	ValueOutput
+C Amp Envelope R	0	4194304	Value	ValueOutput
+C Cutoff	0	4194304	Value	ValueOutput
+C Cutoff Probabi	0	4194304	Value	ValueOutput
+C Resonance	0	4194304	Value	ValueOutput
+C Resonance Prob	0	4194304	Value	ValueOutput
+C Filter Mode	0	4194304	Value	ValueOutput
+C Filter Mod Dep	0	4194304	Value	ValueOutput
+C Filter Mod Dep	0	4194304	Value	ValueOutput
+C Pitch Envelope	0	4194304	Value	ValueOutput
+C Pitch Envelope	0	4194304	Value	ValueOutput
+C Pitch Envelope	0	4194304	Value	ValueOutput
+C Pitch Envelope	0	4194304	Value	ValueOutput
+C Pitch Envelope	0	4194304	Value	ValueOutput
+C Pitch Envelope	0	4194304	Value	ValueOutput
+C Pitch Envelope	0	4194304	Value	ValueOutput
+C Trigger Probab	0	4194304	Value	ValueOutput
+C Random Velocit	0	4194304	Value	ValueOutput
+C Drive	0	4194304	Value	ValueOutput
+C Level	0	4194304	Value	ValueOutput
+C Velocity Track	0	4194304	Value	ValueOutput
+C Pan	0	4194304	Value	ValueOutput
+C Solo	0	4194304	Value	ValueOutput
+C Mute	0	4194304	Value	ValueOutput
+C# Carrier Frequ	0	4194304	Value	ValueOutput
+C# Carrier Frequ	0	4194304	Value	ValueOutput
+C# Modulator Fre	0	4194304	Value	ValueOutput
+C# Modulator Fre	0	4194304	Value	ValueOutput
+C# FM Depth	0	4194304	Value	ValueOutput
+C# FM Depth Prob	0	4194304	Value	ValueOutput
+C# Oscillator Fe	0	4194304	Value	ValueOutput
+C# Oscillator Fe	0	4194304	Value	ValueOutput
+C# Amp Envelope 	0	4194304	Value	ValueOutput
+C# Amp Envelope 	0	4194304	Value	ValueOutput
+C# Amp Envelope 	0	4194304	Value	ValueOutput
+C# Amp Envelope 	0	4194304	Value	ValueOutput
+C# Amp Envelope 	0	4194304	Value	ValueOutput
+C# Amp Envelope 	0	4194304	Value	ValueOutput
+C# Amp Envelope 	0	4194304	Value	ValueOutput
+C# Amp Envelope 	0	4194304	Value	ValueOutput
+C# Cutoff	0	4194304	Value	ValueOutput
+C# Cutoff Probab	0	4194304	Value	ValueOutput
+C# Resonance	0	4194304	Value	ValueOutput
+C# Resonance Pro	0	4194304	Value	ValueOutput
+C# Filter Mode	0	4194304	Value	ValueOutput
+C# Filter Mod De	0	4194304	Value	ValueOutput
+C# Filter Mod De	0	4194304	Value	ValueOutput
+C# Pitch Envelop	0	4194304	Value	ValueOutput
+C# Pitch Envelop	0	4194304	Value	ValueOutput
+C# Pitch Envelop	0	4194304	Value	ValueOutput
+C# Pitch Envelop	0	4194304	Value	ValueOutput
+C# Pitch Envelop	0	4194304	Value	ValueOutput
+C# Pitch Envelop	0	4194304	Value	ValueOutput
+C# Pitch Envelop	0	4194304	Value	ValueOutput
+C# Trigger Proba	0	4194304	Value	ValueOutput
+C# Random Veloci	0	4194304	Value	ValueOutput
+C# Drive	0	4194304	Value	ValueOutput
+C# Level	0	4194304	Value	ValueOutput
+C# Velocity Trac	0	4194304	Value	ValueOutput
+C# Pan	0	4194304	Value	ValueOutput
+C# Solo	0	4194304	Value	ValueOutput
+C# Mute	0	4194304	Value	ValueOutput
+D Carrier Freque	0	4194304	Value	ValueOutput
+D Carrier Freque	0	4194304	Value	ValueOutput
+D Modulator Freq	0	4194304	Value	ValueOutput
+D Modulator Freq	0	4194304	Value	ValueOutput
+D FM Depth	0	4194304	Value	ValueOutput
+D FM Depth Proba	0	4194304	Value	ValueOutput
+D Oscillator Fee	0	4194304	Value	ValueOutput
+D Oscillator Fee	0	4194304	Value	ValueOutput
+D Amp Envelope A	0	4194304	Value	ValueOutput
+D Amp Envelope A	0	4194304	Value	ValueOutput
+D Amp Envelope R	0	4194304	Value	ValueOutput
+D Amp Envelope R	0	4194304	Value	ValueOutput
+D Amp Envelope A	0	4194304	Value	ValueOutput
+D Amp Envelope A	0	4194304	Value	ValueOutput
+D Amp Envelope R	0	4194304	Value	ValueOutput
+D Amp Envelope R	0	4194304	Value	ValueOutput
+D Cutoff	0	4194304	Value	ValueOutput
+D Cutoff Probabi	0	4194304	Value	ValueOutput
+D Resonance	0	4194304	Value	ValueOutput
+D Resonance Prob	0	4194304	Value	ValueOutput
+D Filter Mode	0	4194304	Value	ValueOutput
+D Filter Mod Dep	0	4194304	Value	ValueOutput
+D Filter Mod Dep	0	4194304	Value	ValueOutput
+D Pitch Envelope	0	4194304	Value	ValueOutput
+D Pitch Envelope	0	4194304	Value	ValueOutput
+D Pitch Envelope	0	4194304	Value	ValueOutput
+D Pitch Envelope	0	4194304	Value	ValueOutput
+D Pitch Envelope	0	4194304	Value	ValueOutput
+D Pitch Envelope	0	4194304	Value	ValueOutput
+D Pitch Envelope	0	4194304	Value	ValueOutput
+D Trigger Probab	0	4194304	Value	ValueOutput
+D Random Velocit	0	4194304	Value	ValueOutput
+D Drive	0	4194304	Value	ValueOutput
+D Level	0	4194304	Value	ValueOutput
+D Velocity Track	0	4194304	Value	ValueOutput
+D Pan	0	4194304	Value	ValueOutput
+D Solo	0	4194304	Value	ValueOutput
+D Mute	0	4194304	Value	ValueOutput
+D# Carrier Frequ	0	4194304	Value	ValueOutput
+D# Carrier Frequ	0	4194304	Value	ValueOutput
+D# Modulator Fre	0	4194304	Value	ValueOutput
+D# Modulator Fre	0	4194304	Value	ValueOutput
+D# FM Depth	0	4194304	Value	ValueOutput
+D# FM Depth Prob	0	4194304	Value	ValueOutput
+D# Oscillator Fe	0	4194304	Value	ValueOutput
+D# Oscillator Fe	0	4194304	Value	ValueOutput
+D# Amp Envelope 	0	4194304	Value	ValueOutput
+D# Amp Envelope 	0	4194304	Value	ValueOutput
+D# Amp Envelope 	0	4194304	Value	ValueOutput
+D# Amp Envelope 	0	4194304	Value	ValueOutput
+D# Amp Envelope 	0	4194304	Value	ValueOutput
+D# Amp Envelope 	0	4194304	Value	ValueOutput
+D# Amp Envelope 	0	4194304	Value	ValueOutput
+D# Amp Envelope 	0	4194304	Value	ValueOutput
+D# Cutoff	0	4194304	Value	ValueOutput
+D# Cutoff Probab	0	4194304	Value	ValueOutput
+D# Resonance	0	4194304	Value	ValueOutput
+D# Resonance Pro	0	4194304	Value	ValueOutput
+D# Filter Mode	0	4194304	Value	ValueOutput
+D# Filter Mod De	0	4194304	Value	ValueOutput
+D# Filter Mod De	0	4194304	Value	ValueOutput
+D# Pitch Envelop	0	4194304	Value	ValueOutput
+D# Pitch Envelop	0	4194304	Value	ValueOutput
+D# Pitch Envelop	0	4194304	Value	ValueOutput
+D# Pitch Envelop	0	4194304	Value	ValueOutput
+D# Pitch Envelop	0	4194304	Value	ValueOutput
+D# Pitch Envelop	0	4194304	Value	ValueOutput
+D# Pitch Envelop	0	4194304	Value	ValueOutput
+D# Trigger Proba	0	4194304	Value	ValueOutput
+D# Random Veloci	0	4194304	Value	ValueOutput
+D# Drive	0	4194304	Value	ValueOutput
+D# Level	0	4194304	Value	ValueOutput
+D# Velocity Trac	0	4194304	Value	ValueOutput
+D# Pan	0	4194304	Value	ValueOutput
+D# Solo	0	4194304	Value	ValueOutput
+D# Mute	0	4194304	Value	ValueOutput
+E Carrier Freque	0	4194304	Value	ValueOutput
+E Carrier Freque	0	4194304	Value	ValueOutput
+E Modulator Freq	0	4194304	Value	ValueOutput
+E Modulator Freq	0	4194304	Value	ValueOutput
+E FM Depth	0	4194304	Value	ValueOutput
+E FM Depth Proba	0	4194304	Value	ValueOutput
+E Oscillator Fee	0	4194304	Value	ValueOutput
+E Oscillator Fee	0	4194304	Value	ValueOutput
+E Amp Envelope A	0	4194304	Value	ValueOutput
+E Amp Envelope A	0	4194304	Value	ValueOutput
+E Amp Envelope R	0	4194304	Value	ValueOutput
+E Amp Envelope R	0	4194304	Value	ValueOutput
+E Amp Envelope A	0	4194304	Value	ValueOutput
+E Amp Envelope A	0	4194304	Value	ValueOutput
+E Amp Envelope R	0	4194304	Value	ValueOutput
+E Amp Envelope R	0	4194304	Value	ValueOutput
+E Cutoff	0	4194304	Value	ValueOutput
+E Cutoff Probabi	0	4194304	Value	ValueOutput
+E Resonance	0	4194304	Value	ValueOutput
+E Resonance Prob	0	4194304	Value	ValueOutput
+E Filter Mode	0	4194304	Value	ValueOutput
+E Filter Mod Dep	0	4194304	Value	ValueOutput
+E Filter Mod Dep	0	4194304	Value	ValueOutput
+E Pitch Envelope	0	4194304	Value	ValueOutput
+E Pitch Envelope	0	4194304	Value	ValueOutput
+E Pitch Envelope	0	4194304	Value	ValueOutput
+E Pitch Envelope	0	4194304	Value	ValueOutput
+E Pitch Envelope	0	4194304	Value	ValueOutput
+E Pitch Envelope	0	4194304	Value	ValueOutput
+E Pitch Envelope	0	4194304	Value	ValueOutput
+E Trigger Probab	0	4194304	Value	ValueOutput
+E Random Velocit	0	4194304	Value	ValueOutput
+E Drive	0	4194304	Value	ValueOutput
+E Level	0	4194304	Value	ValueOutput
+E Velocity Track	0	4194304	Value	ValueOutput
+E Pan	0	4194304	Value	ValueOutput
+E Solo	0	4194304	Value	ValueOutput
+E Mute	0	4194304	Value	ValueOutput
+F Carrier Freque	0	4194304	Value	ValueOutput
+F Carrier Freque	0	4194304	Value	ValueOutput
+F Modulator Freq	0	4194304	Value	ValueOutput
+F Modulator Freq	0	4194304	Value	ValueOutput
+F FM Depth	0	4194304	Value	ValueOutput
+F FM Depth Proba	0	4194304	Value	ValueOutput
+F Oscillator Fee	0	4194304	Value	ValueOutput
+F Oscillator Fee	0	4194304	Value	ValueOutput
+F Amp Envelope A	0	4194304	Value	ValueOutput
+F Amp Envelope A	0	4194304	Value	ValueOutput
+F Amp Envelope R	0	4194304	Value	ValueOutput
+F Amp Envelope R	0	4194304	Value	ValueOutput
+F Amp Envelope A	0	4194304	Value	ValueOutput
+F Amp Envelope A	0	4194304	Value	ValueOutput
+F Amp Envelope R	0	4194304	Value	ValueOutput
+F Amp Envelope R	0	4194304	Value	ValueOutput
+F Cutoff	0	4194304	Value	ValueOutput
+F Cutoff Probabi	0	4194304	Value	ValueOutput
+F Resonance	0	4194304	Value	ValueOutput
+F Resonance Prob	0	4194304	Value	ValueOutput
+F Filter Mode	0	4194304	Value	ValueOutput
+F Filter Mod Dep	0	4194304	Value	ValueOutput
+F Filter Mod Dep	0	4194304	Value	ValueOutput
+F Pitch Envelope	0	4194304	Value	ValueOutput
+F Pitch Envelope	0	4194304	Value	ValueOutput
+F Pitch Envelope	0	4194304	Value	ValueOutput
+F Pitch Envelope	0	4194304	Value	ValueOutput
+F Pitch Envelope	0	4194304	Value	ValueOutput
+F Pitch Envelope	0	4194304	Value	ValueOutput
+F Pitch Envelope	0	4194304	Value	ValueOutput
+F Trigger Probab	0	4194304	Value	ValueOutput
+F Random Velocit	0	4194304	Value	ValueOutput
+F Drive	0	4194304	Value	ValueOutput
+F Level	0	4194304	Value	ValueOutput
+F Velocity Track	0	4194304	Value	ValueOutput
+F Pan	0	4194304	Value	ValueOutput
+F Solo	0	4194304	Value	ValueOutput
+F Mute	0	4194304	Value	ValueOutput
+F# Carrier Frequ	0	4194304	Value	ValueOutput
+F# Carrier Frequ	0	4194304	Value	ValueOutput
+F# Modulator Fre	0	4194304	Value	ValueOutput
+F# Modulator Fre	0	4194304	Value	ValueOutput
+F# FM Depth	0	4194304	Value	ValueOutput
+F# FM Depth Prob	0	4194304	Value	ValueOutput
+F# Oscillator Fe	0	4194304	Value	ValueOutput
+F# Oscillator Fe	0	4194304	Value	ValueOutput
+F# Amp Envelope 	0	4194304	Value	ValueOutput
+F# Amp Envelope 	0	4194304	Value	ValueOutput
+F# Amp Envelope 	0	4194304	Value	ValueOutput
+F# Amp Envelope 	0	4194304	Value	ValueOutput
+F# Amp Envelope 	0	4194304	Value	ValueOutput
+F# Amp Envelope 	0	4194304	Value	ValueOutput
+F# Amp Envelope 	0	4194304	Value	ValueOutput
+F# Amp Envelope 	0	4194304	Value	ValueOutput
+F# Cutoff	0	4194304	Value	ValueOutput
+F# Cutoff Probab	0	4194304	Value	ValueOutput
+F# Resonance	0	4194304	Value	ValueOutput
+F# Resonance Pro	0	4194304	Value	ValueOutput
+F# Filter Mode	0	4194304	Value	ValueOutput
+F# Filter Mod De	0	4194304	Value	ValueOutput
+F# Filter Mod De	0	4194304	Value	ValueOutput
+F# Pitch Envelop	0	4194304	Value	ValueOutput
+F# Pitch Envelop	0	4194304	Value	ValueOutput
+F# Pitch Envelop	0	4194304	Value	ValueOutput
+F# Pitch Envelop	0	4194304	Value	ValueOutput
+F# Pitch Envelop	0	4194304	Value	ValueOutput
+F# Pitch Envelop	0	4194304	Value	ValueOutput
+F# Pitch Envelop	0	4194304	Value	ValueOutput
+F# Trigger Proba	0	4194304	Value	ValueOutput
+F# Random Veloci	0	4194304	Value	ValueOutput
+F# Drive	0	4194304	Value	ValueOutput
+F# Level	0	4194304	Value	ValueOutput
+F# Velocity Trac	0	4194304	Value	ValueOutput
+F# Pan	0	4194304	Value	ValueOutput
+F# Solo	0	4194304	Value	ValueOutput
+F# Mute	0	4194304	Value	ValueOutput
+G Carrier Freque	0	4194304	Value	ValueOutput
+G Carrier Freque	0	4194304	Value	ValueOutput
+G Modulator Freq	0	4194304	Value	ValueOutput
+G Modulator Freq	0	4194304	Value	ValueOutput
+G FM Depth	0	4194304	Value	ValueOutput
+G FM Depth Proba	0	4194304	Value	ValueOutput
+G Oscillator Fee	0	4194304	Value	ValueOutput
+G Oscillator Fee	0	4194304	Value	ValueOutput
+G Amp Envelope A	0	4194304	Value	ValueOutput
+G Amp Envelope A	0	4194304	Value	ValueOutput
+G Amp Envelope R	0	4194304	Value	ValueOutput
+G Amp Envelope R	0	4194304	Value	ValueOutput
+G Amp Envelope A	0	4194304	Value	ValueOutput
+G Amp Envelope A	0	4194304	Value	ValueOutput
+G Amp Envelope R	0	4194304	Value	ValueOutput
+G Amp Envelope R	0	4194304	Value	ValueOutput
+G Cutoff	0	4194304	Value	ValueOutput
+G Cutoff Probabi	0	4194304	Value	ValueOutput
+G Resonance	0	4194304	Value	ValueOutput
+G Resonance Prob	0	4194304	Value	ValueOutput
+G Filter Mode	0	4194304	Value	ValueOutput
+G Filter Mod Dep	0	4194304	Value	ValueOutput
+G Filter Mod Dep	0	4194304	Value	ValueOutput
+G Pitch Envelope	0	4194304	Value	ValueOutput
+G Pitch Envelope	0	4194304	Value	ValueOutput
+G Pitch Envelope	0	4194304	Value	ValueOutput
+G Pitch Envelope	0	4194304	Value	ValueOutput
+G Pitch Envelope	0	4194304	Value	ValueOutput
+G Pitch Envelope	0	4194304	Value	ValueOutput
+G Pitch Envelope	0	4194304	Value	ValueOutput
+G Trigger Probab	0	4194304	Value	ValueOutput
+G Random Velocit	0	4194304	Value	ValueOutput
+G Drive	0	4194304	Value	ValueOutput
+G Level	0	4194304	Value	ValueOutput
+G Velocity Track	0	4194304	Value	ValueOutput
+G Pan	0	4194304	Value	ValueOutput
+G Solo	0	4194304	Value	ValueOutput
+G Mute	0	4194304	Value	ValueOutput
+G# Carrier Frequ	0	4194304	Value	ValueOutput
+G# Carrier Frequ	0	4194304	Value	ValueOutput
+G# Modulator Fre	0	4194304	Value	ValueOutput
+G# Modulator Fre	0	4194304	Value	ValueOutput
+G# FM Depth	0	4194304	Value	ValueOutput
+G# FM Depth Prob	0	4194304	Value	ValueOutput
+G# Oscillator Fe	0	4194304	Value	ValueOutput
+G# Oscillator Fe	0	4194304	Value	ValueOutput
+G# Amp Envelope 	0	4194304	Value	ValueOutput
+G# Amp Envelope 	0	4194304	Value	ValueOutput
+G# Amp Envelope 	0	4194304	Value	ValueOutput
+G# Amp Envelope 	0	4194304	Value	ValueOutput
+G# Amp Envelope 	0	4194304	Value	ValueOutput
+G# Amp Envelope 	0	4194304	Value	ValueOutput
+G# Amp Envelope 	0	4194304	Value	ValueOutput
+G# Amp Envelope 	0	4194304	Value	ValueOutput
+G# Cutoff	0	4194304	Value	ValueOutput
+G# Cutoff Probab	0	4194304	Value	ValueOutput
+G# Resonance	0	4194304	Value	ValueOutput
+G# Resonance Pro	0	4194304	Value	ValueOutput
+G# Filter Mode	0	4194304	Value	ValueOutput
+G# Filter Mod De	0	4194304	Value	ValueOutput
+G# Filter Mod De	0	4194304	Value	ValueOutput
+G# Pitch Envelop	0	4194304	Value	ValueOutput
+G# Pitch Envelop	0	4194304	Value	ValueOutput
+G# Pitch Envelop	0	4194304	Value	ValueOutput
+G# Pitch Envelop	0	4194304	Value	ValueOutput
+G# Pitch Envelop	0	4194304	Value	ValueOutput
+G# Pitch Envelop	0	4194304	Value	ValueOutput
+G# Pitch Envelop	0	4194304	Value	ValueOutput
+G# Trigger Proba	0	4194304	Value	ValueOutput
+G# Random Veloci	0	4194304	Value	ValueOutput
+G# Drive	0	4194304	Value	ValueOutput
+G# Level	0	4194304	Value	ValueOutput
+G# Velocity Trac	0	4194304	Value	ValueOutput
+G# Pan	0	4194304	Value	ValueOutput
+G# Solo	0	4194304	Value	ValueOutput
+G# Mute	0	4194304	Value	ValueOutput
+A Carrier Freque	0	4194304	Value	ValueOutput
+A Carrier Freque	0	4194304	Value	ValueOutput
+A Modulator Freq	0	4194304	Value	ValueOutput
+A Modulator Freq	0	4194304	Value	ValueOutput
+A FM Depth	0	4194304	Value	ValueOutput
+A FM Depth Proba	0	4194304	Value	ValueOutput
+A Oscillator Fee	0	4194304	Value	ValueOutput
+A Oscillator Fee	0	4194304	Value	ValueOutput
+A Amp Envelope A	0	4194304	Value	ValueOutput
+A Amp Envelope A	0	4194304	Value	ValueOutput
+A Amp Envelope R	0	4194304	Value	ValueOutput
+A Amp Envelope R	0	4194304	Value	ValueOutput
+A Amp Envelope A	0	4194304	Value	ValueOutput
+A Amp Envelope A	0	4194304	Value	ValueOutput
+A Amp Envelope R	0	4194304	Value	ValueOutput
+A Amp Envelope R	0	4194304	Value	ValueOutput
+A Cutoff	0	4194304	Value	ValueOutput
+A Cutoff Probabi	0	4194304	Value	ValueOutput
+A Resonance	0	4194304	Value	ValueOutput
+A Resonance Prob	0	4194304	Value	ValueOutput
+A Filter Mode	0	4194304	Value	ValueOutput
+A Filter Mod Dep	0	4194304	Value	ValueOutput
+A Filter Mod Dep	0	4194304	Value	ValueOutput
+A Pitch Envelope	0	4194304	Value	ValueOutput
+A Pitch Envelope	0	4194304	Value	ValueOutput
+A Pitch Envelope	0	4194304	Value	ValueOutput
+A Pitch Envelope	0	4194304	Value	ValueOutput
+A Pitch Envelope	0	4194304	Value	ValueOutput
+A Pitch Envelope	0	4194304	Value	ValueOutput
+A Pitch Envelope	0	4194304	Value	ValueOutput
+A Trigger Probab	0	4194304	Value	ValueOutput
+A Random Velocit	0	4194304	Value	ValueOutput
+A Drive	0	4194304	Value	ValueOutput
+A Level	0	4194304	Value	ValueOutput
+A Velocity Track	0	4194304	Value	ValueOutput
+A Pan	0	4194304	Value	ValueOutput
+A Solo	0	4194304	Value	ValueOutput
+A Mute	0	4194304	Value	ValueOutput
+A# Carrier Frequ	0	4194304	Value	ValueOutput
+A# Carrier Frequ	0	4194304	Value	ValueOutput
+A# Modulator Fre	0	4194304	Value	ValueOutput
+A# Modulator Fre	0	4194304	Value	ValueOutput
+A# FM Depth	0	4194304	Value	ValueOutput
+A# FM Depth Prob	0	4194304	Value	ValueOutput
+A# Oscillator Fe	0	4194304	Value	ValueOutput
+A# Oscillator Fe	0	4194304	Value	ValueOutput
+A# Amp Envelope 	0	4194304	Value	ValueOutput
+A# Amp Envelope 	0	4194304	Value	ValueOutput
+A# Amp Envelope 	0	4194304	Value	ValueOutput
+A# Amp Envelope 	0	4194304	Value	ValueOutput
+A# Amp Envelope 	0	4194304	Value	ValueOutput
+A# Amp Envelope 	0	4194304	Value	ValueOutput
+A# Amp Envelope 	0	4194304	Value	ValueOutput
+A# Amp Envelope 	0	4194304	Value	ValueOutput
+A# Cutoff	0	4194304	Value	ValueOutput
+A# Cutoff Probab	0	4194304	Value	ValueOutput
+A# Resonance	0	4194304	Value	ValueOutput
+A# Resonance Pro	0	4194304	Value	ValueOutput
+A# Filter Mode	0	4194304	Value	ValueOutput
+A# Filter Mod De	0	4194304	Value	ValueOutput
+A# Filter Mod De	0	4194304	Value	ValueOutput
+A# Pitch Envelop	0	4194304	Value	ValueOutput
+A# Pitch Envelop	0	4194304	Value	ValueOutput
+A# Pitch Envelop	0	4194304	Value	ValueOutput
+A# Pitch Envelop	0	4194304	Value	ValueOutput
+A# Pitch Envelop	0	4194304	Value	ValueOutput
+A# Pitch Envelop	0	4194304	Value	ValueOutput
+A# Pitch Envelop	0	4194304	Value	ValueOutput
+A# Trigger Proba	0	4194304	Value	ValueOutput
+A# Random Veloci	0	4194304	Value	ValueOutput
+A# Drive	0	4194304	Value	ValueOutput
+A# Level	0	4194304	Value	ValueOutput
+A# Velocity Trac	0	4194304	Value	ValueOutput
+A# Pan	0	4194304	Value	ValueOutput
+A# Solo	0	4194304	Value	ValueOutput
+A# Mute	0	4194304	Value	ValueOutput
+B Carrier Freque	0	4194304	Value	ValueOutput
+B Carrier Freque	0	4194304	Value	ValueOutput
+B Modulator Freq	0	4194304	Value	ValueOutput
+B Modulator Freq	0	4194304	Value	ValueOutput
+B FM Depth	0	4194304	Value	ValueOutput
+B FM Depth Proba	0	4194304	Value	ValueOutput
+B Oscillator Fee	0	4194304	Value	ValueOutput
+B Oscillator Fee	0	4194304	Value	ValueOutput
+B Amp Envelope A	0	4194304	Value	ValueOutput
+B Amp Envelope A	0	4194304	Value	ValueOutput
+B Amp Envelope R	0	4194304	Value	ValueOutput
+B Amp Envelope R	0	4194304	Value	ValueOutput
+B Amp Envelope A	0	4194304	Value	ValueOutput
+B Amp Envelope A	0	4194304	Value	ValueOutput
+B Amp Envelope R	0	4194304	Value	ValueOutput
+B Amp Envelope R	0	4194304	Value	ValueOutput
+B Cutoff	0	4194304	Value	ValueOutput
+B Cutoff Probabi	0	4194304	Value	ValueOutput
+B Resonance	0	4194304	Value	ValueOutput
+B Resonance Prob	0	4194304	Value	ValueOutput
+B Filter Mode	0	4194304	Value	ValueOutput
+B Filter Mod Dep	0	4194304	Value	ValueOutput
+B Filter Mod Dep	0	4194304	Value	ValueOutput
+B Pitch Envelope	0	4194304	Value	ValueOutput
+B Pitch Envelope	0	4194304	Value	ValueOutput
+B Pitch Envelope	0	4194304	Value	ValueOutput
+B Pitch Envelope	0	4194304	Value	ValueOutput
+B Pitch Envelope	0	4194304	Value	ValueOutput
+B Pitch Envelope	0	4194304	Value	ValueOutput
+B Pitch Envelope	0	4194304	Value	ValueOutput
+B Trigger Probab	0	4194304	Value	ValueOutput
+B Random Velocit	0	4194304	Value	ValueOutput
+B Drive	0	4194304	Value	ValueOutput
+B Level	0	4194304	Value	ValueOutput
+B Velocity Track	0	4194304	Value	ValueOutput
+B Pan	0	4194304	Value	ValueOutput
+B Solo	0	4194304	Value	ValueOutput
+B Mute	0	4194304	Value	ValueOutput
+Output Amplitude	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

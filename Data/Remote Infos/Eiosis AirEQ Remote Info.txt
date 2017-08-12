@@ -1,0 +1,101 @@
+Scope
+Manufacturer	Model
+Eiosis	vst.AEqP.Eiosis AirEQ
+Note: Will match scope definitions for vst.AEqP.Eiosis AirEQ or vst.AEqP
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Character	0	4194304	Value	ValueOutput
+InputGain	0	4194304	Value	ValueOutput
+PhaseReverse	0	4194304	Value	ValueOutput
+PhaseReverseChannels	0	4194304	Value	ValueOutput
+EarthOn	0	4194304	Value	ValueOutput
+EarthChannels	0	4194304	Value	ValueOutput
+ExcludeEarthStrength	0	4194304	Value	ValueOutput
+EarthGain	0	4194304	Value	ValueOutput
+LowCutOn	0	4194304	Value	ValueOutput
+LowCutChannels	0	4194304	Value	ValueOutput
+ExcludeLowCutStrength	0	4194304	Value	ValueOutput
+LowCutFrequency	0	4194304	Value	ValueOutput
+LowCutQ	0	4194304	Value	ValueOutput
+LowCutType	0	4194304	Value	ValueOutput
+Band1On	0	4194304	Value	ValueOutput
+Band1Channels	0	4194304	Value	ValueOutput
+Band1SteepOn	0	4194304	Value	ValueOutput
+Band1Frequency	0	4194304	Value	ValueOutput
+Band1Q	0	4194304	Value	ValueOutput
+Band1Character	0	4194304	Value	ValueOutput
+Band1CharacterOn	0	4194304	Value	ValueOutput
+ExcludeBand1Strength	0	4194304	Value	ValueOutput
+Band1Gain	0	4194304	Value	ValueOutput
+Band1Type	0	4194304	Value	ValueOutput
+Band2On	0	4194304	Value	ValueOutput
+Band2Channels	0	4194304	Value	ValueOutput
+Band2SteepOn	0	4194304	Value	ValueOutput
+Band2Frequency	0	4194304	Value	ValueOutput
+Band2Q	0	4194304	Value	ValueOutput
+Band2Character	0	4194304	Value	ValueOutput
+Band2CharacterOn	0	4194304	Value	ValueOutput
+ExcludeBand2Strength	0	4194304	Value	ValueOutput
+Band2Gain	0	4194304	Value	ValueOutput
+Band3On	0	4194304	Value	ValueOutput
+Band3Channels	0	4194304	Value	ValueOutput
+Band3SteepOn	0	4194304	Value	ValueOutput
+Band3Frequency	0	4194304	Value	ValueOutput
+Band3Q	0	4194304	Value	ValueOutput
+Band3Character	0	4194304	Value	ValueOutput
+Band3CharacterOn	0	4194304	Value	ValueOutput
+ExcludeBand3Strength	0	4194304	Value	ValueOutput
+Band3Gain	0	4194304	Value	ValueOutput
+Band4On	0	4194304	Value	ValueOutput
+Band4Channels	0	4194304	Value	ValueOutput
+Band4SteepOn	0	4194304	Value	ValueOutput
+Band4Frequency	0	4194304	Value	ValueOutput
+Band4Q	0	4194304	Value	ValueOutput
+Band4Character	0	4194304	Value	ValueOutput
+Band4CharacterOn	0	4194304	Value	ValueOutput
+ExcludeBand4Strength	0	4194304	Value	ValueOutput
+Band4Gain	0	4194304	Value	ValueOutput
+Band5On	0	4194304	Value	ValueOutput
+Band5Channels	0	4194304	Value	ValueOutput
+Band5SteepOn	0	4194304	Value	ValueOutput
+Band5Frequency	0	4194304	Value	ValueOutput
+Band5Q	0	4194304	Value	ValueOutput
+Band5Character	0	4194304	Value	ValueOutput
+Band5CharacterOn	0	4194304	Value	ValueOutput
+ExcludeBand5Strength	0	4194304	Value	ValueOutput
+Band5Gain	0	4194304	Value	ValueOutput
+Band5Type	0	4194304	Value	ValueOutput
+HighCutOn	0	4194304	Value	ValueOutput
+HighCutChannels	0	4194304	Value	ValueOutput
+ExcludeHighCutStrength	0	4194304	Value	ValueOutput
+HighCutFrequency	0	4194304	Value	ValueOutput
+HighCutQ	0	4194304	Value	ValueOutput
+HighCutType	0	4194304	Value	ValueOutput
+AirOn	0	4194304	Value	ValueOutput
+AirChannels	0	4194304	Value	ValueOutput
+ExcludeAirStrength	0	4194304	Value	ValueOutput
+AirGain	0	4194304	Value	ValueOutput
+OutputGain	0	4194304	Value	ValueOutput
+Strength	0	4194304	Value	ValueOutput
+LowCutSteepSlope	0	4194304	Value	ValueOutput
+LowCutShallowSlope	0	4194304	Value	ValueOutput
+HighCutSteepSlope	0	4194304	Value	ValueOutput
+HighCutShallowSlope	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

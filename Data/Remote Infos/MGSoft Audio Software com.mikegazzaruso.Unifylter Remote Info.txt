@@ -1,0 +1,16 @@
+Scope
+Manufacturer	Model
+MGSoft Audio Software	com.mikegazzaruso.Unifylter
+
+Remotable	Min	Max	Input type	Output type
+Gain	0	4194304	Value	ValueOutput
+Amount	0	4194304	Value	ValueOutput
+Filtsel	0	5	Value	ValueOutput
+Reso	0	4194304	Value	ValueOutput
+DryWet	0	4194304	Value	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

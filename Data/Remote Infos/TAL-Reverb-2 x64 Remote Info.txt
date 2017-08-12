@@ -1,0 +1,35 @@
+Scope
+Manufacturer	Model
+TAL-Togu Audio Line	vst.58h8.TAL-Reverb-2 x64
+Note: Will match scope definitions for vst.58h8.TAL-Reverb-2 x64 or vst.58h8
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+dry	0	4194304	Value	ValueOutput
+wet	0	4194304	Value	ValueOutput
+room size	0	4194304	Value	ValueOutput
+pre delay	0	4194304	Value	ValueOutput
+low shelf freque	0	4194304	Value	ValueOutput
+high shelf frequ	0	4194304	Value	ValueOutput
+peak frequency	0	4194304	Value	ValueOutput
+low shelf gain	0	4194304	Value	ValueOutput
+high shelf gain	0	4194304	Value	ValueOutput
+peak gain	0	4194304	Value	ValueOutput
+stereo	0	4194304	Value	ValueOutput
+stereo input	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

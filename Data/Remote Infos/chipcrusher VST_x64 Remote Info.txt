@@ -1,0 +1,87 @@
+Scope
+Manufacturer	Model
+Plogue Art et Technologie, Inc	vst.PLGP.chipcrusher VST_x64
+Note: Will match scope definitions for vst.PLGP.chipcrusher VST_x64 or vst.PLGP
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+DAC Resample	0	4194304	Value	ValueOutput
+DAC A/C Coupling	0	4194304	Value	ValueOutput
+DAC RC Filter	0	4194304	Value	ValueOutput
+DAC Pre Gain	0	4194304	Value	ValueOutput
+DAC Encoding	0	4194304	Value	ValueOutput
+DAC Bits	0	4194304	Value	ValueOutput
+DAC Parameter	0	4194304	Value	ValueOutput
+DAC Monotonicity	0	4194304	Value	ValueOutput
+DAC RC Bypass	0	4194304	Value	ValueOutput
+p009	0	4194304	Value	ValueOutput
+p010	0	4194304	Value	ValueOutput
+p011	0	4194304	Value	ValueOutput
+p012	0	4194304	Value	ValueOutput
+p013	0	4194304	Value	ValueOutput
+p014	0	4194304	Value	ValueOutput
+p015	0	4194304	Value	ValueOutput
+p016	0	4194304	Value	ValueOutput
+p017	0	4194304	Value	ValueOutput
+p018	0	4194304	Value	ValueOutput
+p019	0	4194304	Value	ValueOutput
+Post Dry	0	4194304	Value	ValueOutput
+p021	0	4194304	Value	ValueOutput
+Post Wet	0	4194304	Value	ValueOutput
+p023	0	4194304	Value	ValueOutput
+p024	0	4194304	Value	ValueOutput
+p025	0	4194304	Value	ValueOutput
+p026	0	4194304	Value	ValueOutput
+p027	0	4194304	Value	ValueOutput
+p028	0	4194304	Value	ValueOutput
+p029	0	4194304	Value	ValueOutput
+DAC Post Atten	0	4194304	Value	ValueOutput
+BG Noise Level	0	4194304	Value	ValueOutput
+p032	0	4194304	Value	ValueOutput
+p033	0	4194304	Value	ValueOutput
+p034	0	4194304	Value	ValueOutput
+p035	0	4194304	Value	ValueOutput
+p036	0	4194304	Value	ValueOutput
+p037	0	4194304	Value	ValueOutput
+p038	0	4194304	Value	ValueOutput
+p039	0	4194304	Value	ValueOutput
+p040	0	4194304	Value	ValueOutput
+DAC ProcMode 	0	4194304	Value	ValueOutput
+BG Noise Mute	0	4194304	Value	ValueOutput
+p043	0	4194304	Value	ValueOutput
+p044	0	4194304	Value	ValueOutput
+p045	0	4194304	Value	ValueOutput
+p046	0	4194304	Value	ValueOutput
+p047	0	4194304	Value	ValueOutput
+Post ProcMode	0	4194304	Value	ValueOutput
+p049	0	4194304	Value	ValueOutput
+p050	0	4194304	Value	ValueOutput
+Scope Mode	0	4194304	Value	ValueOutput
+p052	0	4194304	Value	ValueOutput
+p053	0	4194304	Value	ValueOutput
+Scope Time Window	0	4194304	Value	ValueOutput
+Scope Amp Window	0	4194304	Value	ValueOutput
+Scope Sync Draw	0	4194304	Value	ValueOutput
+p057	0	4194304	Value	ValueOutput
+p058	0	4194304	Value	ValueOutput
+p059	0	4194304	Value	ValueOutput
+BG Noise Tune	0	4194304	Value	ValueOutput
+p061	0	4194304	Value	ValueOutput
+p062	0	4194304	Value	ValueOutput
+p063	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

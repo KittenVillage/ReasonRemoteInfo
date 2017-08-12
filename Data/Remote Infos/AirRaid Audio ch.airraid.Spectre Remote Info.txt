@@ -1,0 +1,30 @@
+Scope
+Manufacturer	Model
+AirRaid Audio	ch.airraid.Spectre
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Envelope Amount	0	4194304	Value	ValueOutput
+Envelope Attack	0	4194304	Value	ValueOutput
+Envelope Release	0	4194304	Value	ValueOutput
+Delay - Vertical Spectrum Env. Mod Enable	0	1	Toggle	ValueOutput
+Delay - Horizontal Spectrum Env. Mod Enable	0	1	Toggle	ValueOutput
+Delay - Smear Env. Mod Enable	0	1	Toggle	ValueOutput
+Feedback - Vertical Spectrum Env. Mod Enable	0	1	Toggle	ValueOutput
+Feedback - Horizontal Spectrum Env. Mod Enable	0	1	Toggle	ValueOutput
+FreqShift Env. Mod Enable	0	1	Toggle	ValueOutput
+Link L/R Delays + Feedback	0	1	Toggle	ValueOutput
+Spectrum Wrap-Around Enable	0	1	Toggle	ValueOutput
+Delay - Vertical Spectrum Shift	0	4194304	Value	ValueOutput
+Delay - Horizontal Spectrum Shift	0	4194304	Value	ValueOutput
+Delay Scale	0	4194304	Value	ValueOutput
+Feedback - Vertical Spectrum Shift	0	4194304	Value	ValueOutput
+Feedback - Horizontal Spectrum Shift	0	4194304	Value	ValueOutput
+Frequency Shift (Within Feedback)	0	4194304	Value	ValueOutput
+Dry/Wet Mix	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

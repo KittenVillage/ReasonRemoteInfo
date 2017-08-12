@@ -1,0 +1,48 @@
+Scope
+Manufacturer	Model
+Dead Duck Software	vst.-S%5E0.DJX10
+Note: Will match scope definitions for vst.-S%5E0.DJX10 or vst.-S%5E0
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+OSC Mix	0	4194304	Value	ValueOutput
+Semi	0	4194304	Value	ValueOutput
+Fine	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Gld Rate	0	4194304	Value	ValueOutput
+Gld Bend	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Res	0	4194304	Value	ValueOutput
+Flt Env	0	4194304	Value	ValueOutput
+Flt LFO	0	4194304	Value	ValueOutput
+Flt Vel	0	4194304	Value	ValueOutput
+Flt Att	0	4194304	Value	ValueOutput
+Flt Dec	0	4194304	Value	ValueOutput
+Flt Sus	0	4194304	Value	ValueOutput
+Flt Rel	0	4194304	Value	ValueOutput
+Amp Att	0	4194304	Value	ValueOutput
+Amp Dec	0	4194304	Value	ValueOutput
+Amp Sus	0	4194304	Value	ValueOutput
+Amp Rel	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+PWM/Vib	0	4194304	Value	ValueOutput
+Noise	0	4194304	Value	ValueOutput
+Octave	0	4194304	Value	ValueOutput
+Tuning	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

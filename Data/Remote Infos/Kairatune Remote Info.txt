@@ -1,0 +1,153 @@
+Scope
+Manufacturer	Model
+Futucraft	vst.mc5p.Kairatune
+Note: Will match scope definitions for vst.mc5p.Kairatune or vst.mc5p
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Osc: TRIG	0	4194304	Value	ValueOutput
+Osc: PHASE	0	4194304	Value	ValueOutput
+Osc: DETUNE	0	4194304	Value	ValueOutput
+Osc: MULTI	0	4194304	Value	ValueOutput
+Osc: SPREAD	0	4194304	Value	ValueOutput
+Osc: LOW	0	4194304	Value	ValueOutput
+Osc: WAVEFORM	0	4194304	Value	ValueOutput
+Osc: MASS AMOUN	0	4194304	Value	ValueOutput
+Osc: MASS RATE	0	4194304	Value	ValueOutput
+Osc: MASS VARI	0	4194304	Value	ValueOutput
+Osc: TRIM	0	4194304	Value	ValueOutput
+Pitch: PORTA	0	4194304	Value	ValueOutput
+Pitch: TUNE	0	4194304	Value	ValueOutput
+Pitch: BEND	0	4194304	Value	ValueOutput
+Pitch: ENV TIME	0	4194304	Value	ValueOutput
+Pitch: ENV DEPT	0	4194304	Value	ValueOutput
+Pitch: LFO DEPT	0	4194304	Value	ValueOutput
+LPF: TUNE	0	4194304	Value	ValueOutput
+LPF: ENV	0	4194304	Value	ValueOutput
+LPF: LFO	0	4194304	Value	ValueOutput
+LPF: RES	0	4194304	Value	ValueOutput
+LPF: SPREAD	0	4194304	Value	ValueOutput
+HPF: TUNE	0	4194304	Value	ValueOutput
+HPF: ENV	0	4194304	Value	ValueOutput
+HPF: LFO	0	4194304	Value	ValueOutput
+HPF: RES	0	4194304	Value	ValueOutput
+Spread: RATE	0	4194304	Value	ValueOutput
+Spread: SPREAD	0	4194304	Value	ValueOutput
+LFO: SYNC ENABL	0	4194304	Value	ValueOutput
+LFO: TRIG	0	4194304	Value	ValueOutput
+LFO: RATE	0	4194304	Value	ValueOutput
+LFO: DELAY	0	4194304	Value	ValueOutput
+LFO: FADE	0	4194304	Value	ValueOutput
+LFO: HOLD	0	4194304	Value	ValueOutput
+LFO: RATE (sync	0	4194304	Value	ValueOutput
+LFO: DELAY (syn	0	4194304	Value	ValueOutput
+LFO: FADE (sync	0	4194304	Value	ValueOutput
+LFO: HOLD (sync	0	4194304	Value	ValueOutput
+Vibra: SYNC ENA	0	4194304	Value	ValueOutput
+Vibra: TRIG	0	4194304	Value	ValueOutput
+Vibra: DEPTH	0	4194304	Value	ValueOutput
+Vibra: RATE	0	4194304	Value	ValueOutput
+Vibra: DELAY	0	4194304	Value	ValueOutput
+Vibra: FADE	0	4194304	Value	ValueOutput
+Vibra: HOLD	0	4194304	Value	ValueOutput
+Vibra: RATE (sy	0	4194304	Value	ValueOutput
+Vibra: DELAY (s	0	4194304	Value	ValueOutput
+Vibra: FADE (sy	0	4194304	Value	ValueOutput
+Vibra: HOLD (sy	0	4194304	Value	ValueOutput
+Trill: SYNC ENA	0	4194304	Value	ValueOutput
+Trill: TRIG	0	4194304	Value	ValueOutput
+Trill: DEPTH	0	4194304	Value	ValueOutput
+Trill: RATE	0	4194304	Value	ValueOutput
+Trill: DELAY	0	4194304	Value	ValueOutput
+Trill: FADE	0	4194304	Value	ValueOutput
+Trill: HOLD	0	4194304	Value	ValueOutput
+Trill: RATE (sy	0	4194304	Value	ValueOutput
+Trill: DELAY (s	0	4194304	Value	ValueOutput
+Trill: FADE (sy	0	4194304	Value	ValueOutput
+Trill: HOLD (sy	0	4194304	Value	ValueOutput
+Master: TRIM	0	4194304	Value	ValueOutput
+Master: VELOCIT	0	4194304	Value	ValueOutput
+Amp: LFO	0	4194304	Value	ValueOutput
+Amp: SYNC ENABL	0	4194304	Value	ValueOutput
+Amp: ATK	0	4194304	Value	ValueOutput
+Amp: HLD	0	4194304	Value	ValueOutput
+Amp: DCY	0	4194304	Value	ValueOutput
+Amp: SUS	0	4194304	Value	ValueOutput
+Amp: REL	0	4194304	Value	ValueOutput
+Amp: ATK (synce	0	4194304	Value	ValueOutput
+Amp: HLD (synce	0	4194304	Value	ValueOutput
+Amp: DCY (synce	0	4194304	Value	ValueOutput
+Amp: REL (synce	0	4194304	Value	ValueOutput
+Drive: AMOUNT	0	4194304	Value	ValueOutput
+LPF: SYNC ENABL	0	4194304	Value	ValueOutput
+LPF: ATK	0	4194304	Value	ValueOutput
+LPF: HLD	0	4194304	Value	ValueOutput
+LPF: DCY	0	4194304	Value	ValueOutput
+LPF: SUS	0	4194304	Value	ValueOutput
+LPF: REL	0	4194304	Value	ValueOutput
+LPF: ATK (synce	0	4194304	Value	ValueOutput
+LPF: HLD (synce	0	4194304	Value	ValueOutput
+LPF: DCY (synce	0	4194304	Value	ValueOutput
+LPF: REL (synce	0	4194304	Value	ValueOutput
+HPF: SYNC ENABL	0	4194304	Value	ValueOutput
+HPF: ATK	0	4194304	Value	ValueOutput
+HPF: HLD	0	4194304	Value	ValueOutput
+HPF: DCY	0	4194304	Value	ValueOutput
+HPF: SUS	0	4194304	Value	ValueOutput
+HPF: REL	0	4194304	Value	ValueOutput
+HPF: ATK (synce	0	4194304	Value	ValueOutput
+HPF: HLD (synce	0	4194304	Value	ValueOutput
+HPF: DCY (synce	0	4194304	Value	ValueOutput
+HPF : REL (sync	0	4194304	Value	ValueOutput
+Phaser: ENABLE	0	4194304	Value	ValueOutput
+Phaser: DEPTH	0	4194304	Value	ValueOutput
+Phaser: RATE	0	4194304	Value	ValueOutput
+Phaser: RANGE M	0	4194304	Value	ValueOutput
+Phaser: RANGE M	0	4194304	Value	ValueOutput
+Phaser: FB	0	4194304	Value	ValueOutput
+Delay: ENABLE	0	4194304	Value	ValueOutput
+Delay: SYNC ENA	0	4194304	Value	ValueOutput
+Delay: L	0	4194304	Value	ValueOutput
+Delay: R	0	4194304	Value	ValueOutput
+Delay: L (synce	0	4194304	Value	ValueOutput
+Delay: R (synce	0	4194304	Value	ValueOutput
+HPF Delay: SEND	0	4194304	Value	ValueOutput
+HPF Delay: FB	0	4194304	Value	ValueOutput
+HPF Delay: TUNE	0	4194304	Value	ValueOutput
+BPF Delay: SEND	0	4194304	Value	ValueOutput
+BPF Delay: FB	0	4194304	Value	ValueOutput
+BPF Delay: TUNE	0	4194304	Value	ValueOutput
+Eq: ENABLE	0	4194304	Value	ValueOutput
+Eq 1: TYPE	0	4194304	Value	ValueOutput
+Eq 1: FRQ	0	4194304	Value	ValueOutput
+Eq 1: Q	0	4194304	Value	ValueOutput
+Eq 1: GAIN	0	4194304	Value	ValueOutput
+Eq 2: TYPE	0	4194304	Value	ValueOutput
+Eq 2: FRQ	0	4194304	Value	ValueOutput
+Eq 2: Q	0	4194304	Value	ValueOutput
+Eq 2: GAIN	0	4194304	Value	ValueOutput
+Master: GAIN	0	4194304	Value	ValueOutput
+Unused	0	4194304	Value	ValueOutput
+Unused	0	4194304	Value	ValueOutput
+Unused	0	4194304	Value	ValueOutput
+Unused	0	4194304	Value	ValueOutput
+Unused	0	4194304	Value	ValueOutput
+Unused	0	4194304	Value	ValueOutput
+Unused	0	4194304	Value	ValueOutput
+Unused	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

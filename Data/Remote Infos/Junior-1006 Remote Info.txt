@@ -1,0 +1,87 @@
+Scope
+Manufacturer	Model
+FAIT CLIC	vst.S2v3.Junior-1006
+Note: Will match scope definitions for vst.S2v3.Junior-1006 or vst.S2v3
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Det	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Fil	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.LFO	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Att	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Pul	0	4194304	Value	ValueOutput
+Chorus_Offset	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Fil	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.LFO	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Oct	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Gli	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Fil	0	4194304	Value	ValueOutput
+LFO Pitch Int	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Dec	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.LFO	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Rel	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Sub	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+Filter EG Int	0	4194304	Value	ValueOutput
+LFO Cutoff Int	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Sus	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Cho	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Cho	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Cro	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Wet	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Noi	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.LFO	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.LFO	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.LFO	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.DCA	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Vol	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Leg	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.PBe	0	4194304	Value	ValueOutput
+Reset to Zero	0	4194304	Value	ValueOutput
+Filter KeyTrack	0	4194304	Value	ValueOutput
+KeyTrack Int	0	4194304	Value	ValueOutput
+Vel->Att Scale	0	4194304	Value	ValueOutput
+Note->Dcy Scale	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.OSC	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.OSC	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Cho	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Pre	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Pre	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Ran	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Ran	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Ran	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Alp	0	4194304	Value	ValueOutput
+VectorJoystick X	0	4194304	Value	ValueOutput
+VectorJoystick Y	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.B1	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.B2	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.B3	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Pit	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.MID	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.MID	0	4194304	Value	ValueOutput
+MIDI Mod Wheel	0	4194304	Value	ValueOutput
+MIDI Expression	0	4194304	Value	ValueOutput
+MIDI Channel Pressure	0	4194304	Value	ValueOutput
+MIDI Sustain Pedal	0	4194304	Value	ValueOutput
+All Notes Off	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

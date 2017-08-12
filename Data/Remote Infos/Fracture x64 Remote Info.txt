@@ -1,0 +1,52 @@
+Scope
+Manufacturer	Model
+Glitchmachines	vst.GlFr.Fracture x64
+Note: Will match scope definitions for vst.GlFr.Fracture x64 or vst.GlFr
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Size	0	4194304	Value	ValueOutput
+Repeats	0	4194304	Value	ValueOutput
+Ratio	0	4194304	Value	ValueOutput
+Size_Mod_Depth	0	4194304	Value	ValueOutput
+Repeats_Mod_Dep	0	4194304	Value	ValueOutput
+Ratio_Mod_Depth	0	4194304	Value	ValueOutput
+Buffer_LFO_Wave	0	4194304	Value	ValueOutput
+Buffer_LFO_Rate	0	4194304	Value	ValueOutput
+Buffer_LFO_Sync	0	4194304	Value	ValueOutput
+Buffer_LFO_Sync	0	4194304	Value	ValueOutput
+FilterType	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Cutoff_Mod_Dept	0	4194304	Value	ValueOutput
+Filter_Lfo_Wave	0	4194304	Value	ValueOutput
+Filter_Lfo_Rate	0	4194304	Value	ValueOutput
+Filter_Lfo_Sync	0	4194304	Value	ValueOutput
+Filter_Lfo_Sync	0	4194304	Value	ValueOutput
+Delay_Time	0	4194304	Value	ValueOutput
+Delay_Feed	0	4194304	Value	ValueOutput
+Delay_Mix	0	4194304	Value	ValueOutput
+Delay_Time_Mod_	0	4194304	Value	ValueOutput
+Delay_Lfo_Wave	0	4194304	Value	ValueOutput
+Delay_Lfo_Rate	0	4194304	Value	ValueOutput
+Delay_Lfo_Sync	0	4194304	Value	ValueOutput
+Delay_Lfo_Synce	0	4194304	Value	ValueOutput
+Amp	0	4194304	Value	ValueOutput
+Dry_Wet	0	4194304	Value	ValueOutput
+Random	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,62 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.PX7
+
+Remotable	Min	Max	Input type	Output type
+Brightness	0	4194304	Value	ValueOutput
+Touch Senstivity	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Algorithm	0	31	Value	ValueOutput
+Operator Feedback	0	7	Value	ValueOutput
+LFO Waveform	0	5	Value	ValueOutput
+LFO Speed	0	99	Value	ValueOutput
+LFO Speed Tempo Synced	0	15	Value	ValueOutput
+LFO Delay	0	99	Value	ValueOutput
+LFO Tempo Sync	0	1	Toggle	ValueOutput
+Operator 1 Freq Mode	0	1	Toggle	ValueOutput
+Operator 1 Freq Coarse	0	31	Value	ValueOutput
+Operator 1 Freq Fine	0	99	Value	ValueOutput
+Operator 1 Freq Detune	0	14	Value	ValueOutput
+Operator 1 Output Level	0	99	Value	ValueOutput
+Operator 1 Pan	0	4194304	Value	ValueOutput
+Operator 2 Freq Mode	0	1	Toggle	ValueOutput
+Operator 2 Freq Coarse	0	31	Value	ValueOutput
+Operator 2 Freq Fine	0	99	Value	ValueOutput
+Operator 2 Freq Detune	0	14	Value	ValueOutput
+Operator 2 Output Level	0	99	Value	ValueOutput
+Operator 2 Pan	0	4194304	Value	ValueOutput
+Operator 3 Freq Mode	0	1	Toggle	ValueOutput
+Operator 3 Freq Coarse	0	31	Value	ValueOutput
+Operator 3 Freq Fine	0	99	Value	ValueOutput
+Operator 3 Freq Detune	0	14	Value	ValueOutput
+Operator 3 Output Level	0	99	Value	ValueOutput
+Operator 3 Pan	0	4194304	Value	ValueOutput
+Operator 4 Freq Mode	0	1	Toggle	ValueOutput
+Operator 4 Freq Coarse	0	31	Value	ValueOutput
+Operator 4 Freq Fine	0	99	Value	ValueOutput
+Operator 4 Freq Detune	0	14	Value	ValueOutput
+Operator 4 Output Level	0	99	Value	ValueOutput
+Operator 4 Pan	0	4194304	Value	ValueOutput
+Operator 5 Freq Mode	0	1	Toggle	ValueOutput
+Operator 5 Freq Coarse	0	31	Value	ValueOutput
+Operator 5 Freq Fine	0	99	Value	ValueOutput
+Operator 5 Freq Detune	0	14	Value	ValueOutput
+Operator 5 Output Level	0	99	Value	ValueOutput
+Operator 5 Pan	0	4194304	Value	ValueOutput
+Operator 6 Freq Mode	0	1	Toggle	ValueOutput
+Operator 6 Freq Coarse	0	31	Value	ValueOutput
+Operator 6 Freq Fine	0	99	Value	ValueOutput
+Operator 6 Freq Detune	0	14	Value	ValueOutput
+Operator 6 Output Level	0	99	Value	ValueOutput
+Operator 6 Pan	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Portamento Time	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

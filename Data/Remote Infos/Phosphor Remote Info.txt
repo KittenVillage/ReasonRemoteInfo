@@ -1,0 +1,98 @@
+Scope
+Manufacturer	Model
+Audio Damage, Inc.	vst.ADph.Phosphor
+Note: Will match scope definitions for vst.ADph.Phosphor or vst.ADph
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Osc1 Lvl	0	4194304	Value	ValueOutput
+Osc1 Pan	0	4194304	Value	ValueOutput
+Osc1Nois	0	4194304	Value	ValueOutput
+Osc1 Vel	0	4194304	Value	ValueOutput
+Osc1 Xmo	0	4194304	Value	ValueOutput
+Osc1WvLF	0	4194304	Value	ValueOutput
+Osc1NsLF	0	4194304	Value	ValueOutput
+Osc2 Lvl	0	4194304	Value	ValueOutput
+Osc2 Pan	0	4194304	Value	ValueOutput
+Osc2Nois	0	4194304	Value	ValueOutput
+Osc2 Vel	0	4194304	Value	ValueOutput
+Osc2 Xmo	0	4194304	Value	ValueOutput
+Osc2Ofst	0	4194304	Value	ValueOutput
+Osc2WvLF	0	4194304	Value	ValueOutput
+Osc2NsLF	0	4194304	Value	ValueOutput
+EG1AtkTm	0	4194304	Value	ValueOutput
+EG1AtkCv	0	4194304	Value	ValueOutput
+EG1DcyTm	0	4194304	Value	ValueOutput
+EG1DcyCv	0	4194304	Value	ValueOutput
+EG1Sustn	0	4194304	Value	ValueOutput
+EG1RlsTm	0	4194304	Value	ValueOutput
+EG1RlsCv	0	4194304	Value	ValueOutput
+EG2AtkTm	0	4194304	Value	ValueOutput
+EG2AtkCv	0	4194304	Value	ValueOutput
+EG2DcyTm	0	4194304	Value	ValueOutput
+EG2DcyCv	0	4194304	Value	ValueOutput
+EG2Sustn	0	4194304	Value	ValueOutput
+EG2RlsTm	0	4194304	Value	ValueOutput
+EG2RlsCv	0	4194304	Value	ValueOutput
+LFO1Rate	0	4194304	Value	ValueOutput
+LFO1Wave	0	4194304	Value	ValueOutput
+LFO1Shap	0	4194304	Value	ValueOutput
+LFO1Sync	0	4194304	Value	ValueOutput
+L1O1Ptch	0	4194304	Value	ValueOutput
+L1O1 Pan	0	4194304	Value	ValueOutput
+L1O1 Pan	0	4194304	Value	ValueOutput
+L1O1Noiz	0	4194304	Value	ValueOutput
+L1O2Ptch	0	4194304	Value	ValueOutput
+L1O2 Pan	0	4194304	Value	ValueOutput
+L1O2 Pan	0	4194304	Value	ValueOutput
+L1O2Noiz	0	4194304	Value	ValueOutput
+LFO2Rate	0	4194304	Value	ValueOutput
+LFO2Wave	0	4194304	Value	ValueOutput
+LFO2Shap	0	4194304	Value	ValueOutput
+LFO2Sync	0	4194304	Value	ValueOutput
+L2O1Ptch	0	4194304	Value	ValueOutput
+L2O1 Pan	0	4194304	Value	ValueOutput
+L2O1 Pan	0	4194304	Value	ValueOutput
+L2O1Noiz	0	4194304	Value	ValueOutput
+L2O2Ptch	0	4194304	Value	ValueOutput
+L2O2 Pan	0	4194304	Value	ValueOutput
+L2O2 Pan	0	4194304	Value	ValueOutput
+L2O2Noiz	0	4194304	Value	ValueOutput
+L Delay 	0	4194304	Value	ValueOutput
+LFeedbak	0	4194304	Value	ValueOutput
+L XFdbak	0	4194304	Value	ValueOutput
+LDlySync	0	4194304	Value	ValueOutput
+LFltFreq	0	4194304	Value	ValueOutput
+LFltWidt	0	4194304	Value	ValueOutput
+R Delay 	0	4194304	Value	ValueOutput
+LFeedbak	0	4194304	Value	ValueOutput
+R XFdbak	0	4194304	Value	ValueOutput
+LDlySync	0	4194304	Value	ValueOutput
+LFltFreq	0	4194304	Value	ValueOutput
+LFltWidt	0	4194304	Value	ValueOutput
+L1DLFilt	0	4194304	Value	ValueOutput
+L1DRFilt	0	4194304	Value	ValueOutput
+L2DLFilt	0	4194304	Value	ValueOutput
+L2DRFilt	0	4194304	Value	ValueOutput
+Portmnto	0	4194304	Value	ValueOutput
+DelayMix	0	4194304	Value	ValueOutput
+OutLevel	0	4194304	Value	ValueOutput
+MW Mode	0	4194304	Value	ValueOutput
+PolyMode	0	4194304	Value	ValueOutput
+L/R Link	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

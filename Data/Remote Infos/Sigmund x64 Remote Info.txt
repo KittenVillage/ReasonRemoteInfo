@@ -1,0 +1,151 @@
+Scope
+Manufacturer	Model
+D16 Group Audio Software	vst.SGMN.Sigmund x64
+Note: Will match scope definitions for vst.SGMN.Sigmund x64 or vst.SGMN
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Line 1 Filter M	0	4194304	Value	ValueOutput
+Line 1 Filter F	0	4194304	Value	ValueOutput
+Line 1 Filter C	0	4194304	Value	ValueOutput
+Line 1 Filter R	0	4194304	Value	ValueOutput
+Line 1 Filter T	0	4194304	Value	ValueOutput
+Line 2 Filter M	0	4194304	Value	ValueOutput
+Line 2 Filter F	0	4194304	Value	ValueOutput
+Line 2 Filter C	0	4194304	Value	ValueOutput
+Line 2 Filter R	0	4194304	Value	ValueOutput
+Line 2 Filter T	0	4194304	Value	ValueOutput
+Line 3 Filter M	0	4194304	Value	ValueOutput
+Line 3 Filter F	0	4194304	Value	ValueOutput
+Line 3 Filter C	0	4194304	Value	ValueOutput
+Line 3 Filter R	0	4194304	Value	ValueOutput
+Line 3 Filter T	0	4194304	Value	ValueOutput
+Line 4 Filter M	0	4194304	Value	ValueOutput
+Line 4 Filter F	0	4194304	Value	ValueOutput
+Line 4 Filter C	0	4194304	Value	ValueOutput
+Line 4 Filter R	0	4194304	Value	ValueOutput
+Line 4 Filter T	0	4194304	Value	ValueOutput
+Limiter Active	0	4194304	Value	ValueOutput
+Limiter Thresho	0	4194304	Value	ValueOutput
+FX Amount	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+LFO 1 Frequency	0	4194304	Value	ValueOutput
+LFO 1 Rate	0	4194304	Value	ValueOutput
+LFO 1 Waveform	0	4194304	Value	ValueOutput
+LFO 1 Wave Inve	0	4194304	Value	ValueOutput
+LFO 1 Phase Shi	0	4194304	Value	ValueOutput
+LFO 2 Frequency	0	4194304	Value	ValueOutput
+LFO 2 Rate	0	4194304	Value	ValueOutput
+LFO 2 Waveform	0	4194304	Value	ValueOutput
+LFO 2 Wave Inve	0	4194304	Value	ValueOutput
+LFO 2 Phase Shi	0	4194304	Value	ValueOutput
+Line 1 Overdriv	0	4194304	Value	ValueOutput
+Line 2 Overdriv	0	4194304	Value	ValueOutput
+Line 3 Overdriv	0	4194304	Value	ValueOutput
+Line 4 Overdriv	0	4194304	Value	ValueOutput
+Line 1 Overdriv	0	4194304	Value	ValueOutput
+Line 2 Overdriv	0	4194304	Value	ValueOutput
+Line 3 Overdriv	0	4194304	Value	ValueOutput
+Line 4 Overdriv	0	4194304	Value	ValueOutput
+Line 1 Overdriv	0	4194304	Value	ValueOutput
+Line 2 Overdriv	0	4194304	Value	ValueOutput
+Line 3 Overdriv	0	4194304	Value	ValueOutput
+Line 4 Overdriv	0	4194304	Value	ValueOutput
+Line 1 Delay Le	0	4194304	Value	ValueOutput
+Line 1 Delay Ri	0	4194304	Value	ValueOutput
+Line 2 Delay Le	0	4194304	Value	ValueOutput
+Line 2 Delay Ri	0	4194304	Value	ValueOutput
+Line 3 Delay Le	0	4194304	Value	ValueOutput
+Line 3 Delay Ri	0	4194304	Value	ValueOutput
+Line 4 Delay Le	0	4194304	Value	ValueOutput
+Line 4 Delay Ri	0	4194304	Value	ValueOutput
+Line 1 Feedback	0	4194304	Value	ValueOutput
+Line 1 Feedback	0	4194304	Value	ValueOutput
+Line 1 Stereo S	0	4194304	Value	ValueOutput
+Line 2 Feedback	0	4194304	Value	ValueOutput
+Line 2 Feedback	0	4194304	Value	ValueOutput
+Line 2 Stereo S	0	4194304	Value	ValueOutput
+Line 3 Feedback	0	4194304	Value	ValueOutput
+Line 3 Feedback	0	4194304	Value	ValueOutput
+Line 3 Stereo S	0	4194304	Value	ValueOutput
+Line 4 Feedback	0	4194304	Value	ValueOutput
+Line 4 Feedback	0	4194304	Value	ValueOutput
+Line 4 Stereo S	0	4194304	Value	ValueOutput
+Line 1 Modulati	0	4194304	Value	ValueOutput
+Line 1 Modulati	0	4194304	Value	ValueOutput
+Line 1 Modulati	0	4194304	Value	ValueOutput
+Line 1 Modulati	0	4194304	Value	ValueOutput
+Line 2 Modulati	0	4194304	Value	ValueOutput
+Line 2 Modulati	0	4194304	Value	ValueOutput
+Line 2 Modulati	0	4194304	Value	ValueOutput
+Line 2 Modulati	0	4194304	Value	ValueOutput
+Line 3 Modulati	0	4194304	Value	ValueOutput
+Line 3 Modulati	0	4194304	Value	ValueOutput
+Line 3 Modulati	0	4194304	Value	ValueOutput
+Line 3 Modulati	0	4194304	Value	ValueOutput
+Line 4 Modulati	0	4194304	Value	ValueOutput
+Line 4 Modulati	0	4194304	Value	ValueOutput
+Line 4 Modulati	0	4194304	Value	ValueOutput
+Line 4 Modulati	0	4194304	Value	ValueOutput
+Line 1 Mute	0	4194304	Value	ValueOutput
+Line 1 Panning	0	4194304	Value	ValueOutput
+Line 1 Volume	0	4194304	Value	ValueOutput
+Line 2 Mute	0	4194304	Value	ValueOutput
+Line 2 Panning	0	4194304	Value	ValueOutput
+Line 2 Volume	0	4194304	Value	ValueOutput
+Line 3 Mute	0	4194304	Value	ValueOutput
+Line 3 Volume	0	4194304	Value	ValueOutput
+Line 3 Panning	0	4194304	Value	ValueOutput
+Line 4 Mute	0	4194304	Value	ValueOutput
+Line 4 Panning	0	4194304	Value	ValueOutput
+Line 4 Volume	0	4194304	Value	ValueOutput
+Line 1 Delay Le	0	4194304	Value	ValueOutput
+Line 1 Delay Le	0	4194304	Value	ValueOutput
+Line 1 Delay Le	0	4194304	Value	ValueOutput
+Line 1 Delay Ri	0	4194304	Value	ValueOutput
+Line 1 Delay Ri	0	4194304	Value	ValueOutput
+Line 1 Delay Ri	0	4194304	Value	ValueOutput
+Line 2 Delay Le	0	4194304	Value	ValueOutput
+Line 2 Delay Le	0	4194304	Value	ValueOutput
+Line 2 Delay Le	0	4194304	Value	ValueOutput
+Line 2 Delay Ri	0	4194304	Value	ValueOutput
+Line 2 Delay Ri	0	4194304	Value	ValueOutput
+Line 2 Delay Ri	0	4194304	Value	ValueOutput
+Line 3 Delay Le	0	4194304	Value	ValueOutput
+Line 3 Delay Le	0	4194304	Value	ValueOutput
+Line 3 Delay Le	0	4194304	Value	ValueOutput
+Line 3 Delay Ri	0	4194304	Value	ValueOutput
+Line 3 Delay Ri	0	4194304	Value	ValueOutput
+Line 3 Delay Ri	0	4194304	Value	ValueOutput
+Line 4 Delay Le	0	4194304	Value	ValueOutput
+Line 4 Delay Le	0	4194304	Value	ValueOutput
+Line 4 Delay Le	0	4194304	Value	ValueOutput
+Line 4 Delay Ri	0	4194304	Value	ValueOutput
+Line 4 Delay Ri	0	4194304	Value	ValueOutput
+Line 4 Delay Ri	0	4194304	Value	ValueOutput
+ENV 1 Attack	0	4194304	Value	ValueOutput
+ENV 1 Decay	0	4194304	Value	ValueOutput
+ENV 2 Attack	0	4194304	Value	ValueOutput
+ENV 2 Decay	0	4194304	Value	ValueOutput
+PEAK 1 Sensitiv	0	4194304	Value	ValueOutput
+PEAK 2 Sensitiv	0	4194304	Value	ValueOutput
+PEAK 2 Attack	0	4194304	Value	ValueOutput
+PEAK 1 Attack	0	4194304	Value	ValueOutput
+PEAK 1 Release	0	4194304	Value	ValueOutput
+PEAK 2 Release	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

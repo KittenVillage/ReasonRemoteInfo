@@ -1,0 +1,86 @@
+Scope
+Manufacturer	Model
+Waves	vst.PNC6.WaveShell-VST 9_91_x64.M360 Manager 5_1
+Note: Will match scope definitions for vst.PNC6.WaveShell-VST 9_91_x64.M360 Manager 5_1 or vst.PNC6
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Rotation OnOff	0	4194304	Value	ValueOutput
+Width OnOff	0	4194304	Value	ValueOutput
+Input Volume	0	4194304	Value	ValueOutput
+Rotation	0	4194304	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+Rotation Method	0	4194304	Value	ValueOutput
+Width Method	0	4194304	Value	ValueOutput
+L Solo	0	4194304	Value	ValueOutput
+C Solo	0	4194304	Value	ValueOutput
+R Solo	0	4194304	Value	ValueOutput
+Ls Solo	0	4194304	Value	ValueOutput
+Rs Solo	0	4194304	Value	ValueOutput
+LFE Solo	0	4194304	Value	ValueOutput
+L Mute	0	4194304	Value	ValueOutput
+C Mute	0	4194304	Value	ValueOutput
+R Mute	0	4194304	Value	ValueOutput
+Ls Mute	0	4194304	Value	ValueOutput
+Rs Mute	0	4194304	Value	ValueOutput
+LFE Mute	0	4194304	Value	ValueOutput
+L Phase	0	4194304	Value	ValueOutput
+C Phase	0	4194304	Value	ValueOutput
+R Phase	0	4194304	Value	ValueOutput
+Ls Phase	0	4194304	Value	ValueOutput
+Rs Phase	0	4194304	Value	ValueOutput
+LFE Phase	0	4194304	Value	ValueOutput
+Center	0	4194304	Value	ValueOutput
+Surround	0	4194304	Value	ValueOutput
+Delay-L	0	4194304	Value	ValueOutput
+Delay-C	0	4194304	Value	ValueOutput
+Delay-R	0	4194304	Value	ValueOutput
+Delay-SL	0	4194304	Value	ValueOutput
+Delay-SR	0	4194304	Value	ValueOutput
+Gain-L	0	4194304	Value	ValueOutput
+Gain-C	0	4194304	Value	ValueOutput
+Gain-R	0	4194304	Value	ValueOutput
+Gain-SL	0	4194304	Value	ValueOutput
+Gain-SR	0	4194304	Value	ValueOutput
+Sub Gain	0	4194304	Value	ValueOutput
+HP Cutoff	0	4194304	Value	ValueOutput
+HP SLOPE	0	4194304	Value	ValueOutput
+LP Cutoff	0	4194304	Value	ValueOutput
+LP SLOPE	0	4194304	Value	ValueOutput
+Sub LP	0	4194304	Value	ValueOutput
+LFE Adjust	0	4194304	Value	ValueOutput
+Sub Solo	0	4194304	Value	ValueOutput
+Sub Mute	0	4194304	Value	ValueOutput
+Sub Phase	0	4194304	Value	ValueOutput
+HP Satelites-L	0	4194304	Value	ValueOutput
+HP Satelites-C	0	4194304	Value	ValueOutput
+HP Satelites-R 	0	4194304	Value	ValueOutput
+HP Satelites-SL	0	4194304	Value	ValueOutput
+HP Satelites-SR	0	4194304	Value	ValueOutput
+Sub Send-L	0	4194304	Value	ValueOutput
+Sub Send-C	0	4194304	Value	ValueOutput
+Sub Send-R	0	4194304	Value	ValueOutput
+Sub Send-SL	0	4194304	Value	ValueOutput
+Sub Send-SR	0	4194304	Value	ValueOutput
+LFE Gain	0	4194304	Value	ValueOutput
+LFE Get-L	0	4194304	Value	ValueOutput
+LFE Get-C	0	4194304	Value	ValueOutput
+LFE Get-R	0	4194304	Value	ValueOutput
+LFE Get-SL	0	4194304	Value	ValueOutput
+LFE Get-SR	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

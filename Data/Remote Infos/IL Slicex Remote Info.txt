@@ -1,0 +1,375 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.ISex.IL Slicex
+Note: Will match scope definitions for vst.ISex.IL Slicex or vst.ISex
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Play / pause	0	4194304	Value	ValueOutput
+Live selection	0	4194304	Value	ValueOutput
+Master level	0	4194304	Value	ValueOutput
+Master randomness level	0	4194304	Value	ValueOutput
+Master LFO level	0	4194304	Value	ValueOutput
+Master pitch	0	4194304	Value	ValueOutput
+Modulation X	0	4194304	Value	ValueOutput
+Modulation Y	0	4194304	Value	ValueOutput
+Art group 1 - Filter cu	0	4194304	Value	ValueOutput
+Art group 1 - Filter cu	0	4194304	Value	ValueOutput
+Art group 1 - Filter re	0	4194304	Value	ValueOutput
+Art group 1 - Panning -	0	4194304	Value	ValueOutput
+Art group 1 - Panning -	0	4194304	Value	ValueOutput
+Art group 1 - Panning -	0	4194304	Value	ValueOutput
+Art group 1 - Panning -	0	4194304	Value	ValueOutput
+Art group 1 - Panning -	0	4194304	Value	ValueOutput
+Art group 1 - Panning -	0	4194304	Value	ValueOutput
+Art group 1 - Panning -	0	4194304	Value	ValueOutput
+Art group 1 - Panning -	0	4194304	Value	ValueOutput
+Art group 1 - Volume - 	0	4194304	Value	ValueOutput
+Art group 1 - Volume - 	0	4194304	Value	ValueOutput
+Art group 1 - Volume - 	0	4194304	Value	ValueOutput
+Art group 1 - Volume - 	0	4194304	Value	ValueOutput
+Art group 1 - Volume - 	0	4194304	Value	ValueOutput
+Art group 1 - Volume - 	0	4194304	Value	ValueOutput
+Art group 1 - Volume - 	0	4194304	Value	ValueOutput
+Art group 1 - Volume - 	0	4194304	Value	ValueOutput
+Art group 1 - Filter cu	0	4194304	Value	ValueOutput
+Art group 1 - Filter cu	0	4194304	Value	ValueOutput
+Art group 1 - Filter cu	0	4194304	Value	ValueOutput
+Art group 1 - Filter cu	0	4194304	Value	ValueOutput
+Art group 1 - Filter cu	0	4194304	Value	ValueOutput
+Art group 1 - Filter cu	0	4194304	Value	ValueOutput
+Art group 1 - Filter cu	0	4194304	Value	ValueOutput
+Art group 1 - Filter cu	0	4194304	Value	ValueOutput
+Art group 1 - Filter re	0	4194304	Value	ValueOutput
+Art group 1 - Filter re	0	4194304	Value	ValueOutput
+Art group 1 - Filter re	0	4194304	Value	ValueOutput
+Art group 1 - Filter re	0	4194304	Value	ValueOutput
+Art group 1 - Filter re	0	4194304	Value	ValueOutput
+Art group 1 - Filter re	0	4194304	Value	ValueOutput
+Art group 1 - Filter re	0	4194304	Value	ValueOutput
+Art group 1 - Filter re	0	4194304	Value	ValueOutput
+Art group 1 - Speed - A	0	4194304	Value	ValueOutput
+Art group 1 - Speed - D	0	4194304	Value	ValueOutput
+Art group 1 - Speed - S	0	4194304	Value	ValueOutput
+Art group 1 - Speed - R	0	4194304	Value	ValueOutput
+Art group 1 - Speed - L	0	4194304	Value	ValueOutput
+Art group 1 - Speed - L	0	4194304	Value	ValueOutput
+Art group 1 - Speed - L	0	4194304	Value	ValueOutput
+Art group 1 - Speed - L	0	4194304	Value	ValueOutput
+Art group 2 - Filter cu	0	4194304	Value	ValueOutput
+Art group 2 - Filter cu	0	4194304	Value	ValueOutput
+Art group 2 - Filter re	0	4194304	Value	ValueOutput
+Art group 2 - Panning -	0	4194304	Value	ValueOutput
+Art group 2 - Panning -	0	4194304	Value	ValueOutput
+Art group 2 - Panning -	0	4194304	Value	ValueOutput
+Art group 2 - Panning -	0	4194304	Value	ValueOutput
+Art group 2 - Panning -	0	4194304	Value	ValueOutput
+Art group 2 - Panning -	0	4194304	Value	ValueOutput
+Art group 2 - Panning -	0	4194304	Value	ValueOutput
+Art group 2 - Panning -	0	4194304	Value	ValueOutput
+Art group 2 - Volume - 	0	4194304	Value	ValueOutput
+Art group 2 - Volume - 	0	4194304	Value	ValueOutput
+Art group 2 - Volume - 	0	4194304	Value	ValueOutput
+Art group 2 - Volume - 	0	4194304	Value	ValueOutput
+Art group 2 - Volume - 	0	4194304	Value	ValueOutput
+Art group 2 - Volume - 	0	4194304	Value	ValueOutput
+Art group 2 - Volume - 	0	4194304	Value	ValueOutput
+Art group 2 - Volume - 	0	4194304	Value	ValueOutput
+Art group 2 - Filter cu	0	4194304	Value	ValueOutput
+Art group 2 - Filter cu	0	4194304	Value	ValueOutput
+Art group 2 - Filter cu	0	4194304	Value	ValueOutput
+Art group 2 - Filter cu	0	4194304	Value	ValueOutput
+Art group 2 - Filter cu	0	4194304	Value	ValueOutput
+Art group 2 - Filter cu	0	4194304	Value	ValueOutput
+Art group 2 - Filter cu	0	4194304	Value	ValueOutput
+Art group 2 - Filter cu	0	4194304	Value	ValueOutput
+Art group 2 - Filter re	0	4194304	Value	ValueOutput
+Art group 2 - Filter re	0	4194304	Value	ValueOutput
+Art group 2 - Filter re	0	4194304	Value	ValueOutput
+Art group 2 - Filter re	0	4194304	Value	ValueOutput
+Art group 2 - Filter re	0	4194304	Value	ValueOutput
+Art group 2 - Filter re	0	4194304	Value	ValueOutput
+Art group 2 - Filter re	0	4194304	Value	ValueOutput
+Art group 2 - Filter re	0	4194304	Value	ValueOutput
+Art group 2 - Speed - A	0	4194304	Value	ValueOutput
+Art group 2 - Speed - D	0	4194304	Value	ValueOutput
+Art group 2 - Speed - S	0	4194304	Value	ValueOutput
+Art group 2 - Speed - R	0	4194304	Value	ValueOutput
+Art group 2 - Speed - L	0	4194304	Value	ValueOutput
+Art group 2 - Speed - L	0	4194304	Value	ValueOutput
+Art group 2 - Speed - L	0	4194304	Value	ValueOutput
+Art group 2 - Speed - L	0	4194304	Value	ValueOutput
+Art group 3 - Filter cu	0	4194304	Value	ValueOutput
+Art group 3 - Filter cu	0	4194304	Value	ValueOutput
+Art group 3 - Filter re	0	4194304	Value	ValueOutput
+Art group 3 - Panning -	0	4194304	Value	ValueOutput
+Art group 3 - Panning -	0	4194304	Value	ValueOutput
+Art group 3 - Panning -	0	4194304	Value	ValueOutput
+Art group 3 - Panning -	0	4194304	Value	ValueOutput
+Art group 3 - Panning -	0	4194304	Value	ValueOutput
+Art group 3 - Panning -	0	4194304	Value	ValueOutput
+Art group 3 - Panning -	0	4194304	Value	ValueOutput
+Art group 3 - Panning -	0	4194304	Value	ValueOutput
+Art group 3 - Volume - 	0	4194304	Value	ValueOutput
+Art group 3 - Volume - 	0	4194304	Value	ValueOutput
+Art group 3 - Volume - 	0	4194304	Value	ValueOutput
+Art group 3 - Volume - 	0	4194304	Value	ValueOutput
+Art group 3 - Volume - 	0	4194304	Value	ValueOutput
+Art group 3 - Volume - 	0	4194304	Value	ValueOutput
+Art group 3 - Volume - 	0	4194304	Value	ValueOutput
+Art group 3 - Volume - 	0	4194304	Value	ValueOutput
+Art group 3 - Filter cu	0	4194304	Value	ValueOutput
+Art group 3 - Filter cu	0	4194304	Value	ValueOutput
+Art group 3 - Filter cu	0	4194304	Value	ValueOutput
+Art group 3 - Filter cu	0	4194304	Value	ValueOutput
+Art group 3 - Filter cu	0	4194304	Value	ValueOutput
+Art group 3 - Filter cu	0	4194304	Value	ValueOutput
+Art group 3 - Filter cu	0	4194304	Value	ValueOutput
+Art group 3 - Filter cu	0	4194304	Value	ValueOutput
+Art group 3 - Filter re	0	4194304	Value	ValueOutput
+Art group 3 - Filter re	0	4194304	Value	ValueOutput
+Art group 3 - Filter re	0	4194304	Value	ValueOutput
+Art group 3 - Filter re	0	4194304	Value	ValueOutput
+Art group 3 - Filter re	0	4194304	Value	ValueOutput
+Art group 3 - Filter re	0	4194304	Value	ValueOutput
+Art group 3 - Filter re	0	4194304	Value	ValueOutput
+Art group 3 - Filter re	0	4194304	Value	ValueOutput
+Art group 3 - Speed - A	0	4194304	Value	ValueOutput
+Art group 3 - Speed - D	0	4194304	Value	ValueOutput
+Art group 3 - Speed - S	0	4194304	Value	ValueOutput
+Art group 3 - Speed - R	0	4194304	Value	ValueOutput
+Art group 3 - Speed - L	0	4194304	Value	ValueOutput
+Art group 3 - Speed - L	0	4194304	Value	ValueOutput
+Art group 3 - Speed - L	0	4194304	Value	ValueOutput
+Art group 3 - Speed - L	0	4194304	Value	ValueOutput
+Art group 4 - Filter cu	0	4194304	Value	ValueOutput
+Art group 4 - Filter cu	0	4194304	Value	ValueOutput
+Art group 4 - Filter re	0	4194304	Value	ValueOutput
+Art group 4 - Panning -	0	4194304	Value	ValueOutput
+Art group 4 - Panning -	0	4194304	Value	ValueOutput
+Art group 4 - Panning -	0	4194304	Value	ValueOutput
+Art group 4 - Panning -	0	4194304	Value	ValueOutput
+Art group 4 - Panning -	0	4194304	Value	ValueOutput
+Art group 4 - Panning -	0	4194304	Value	ValueOutput
+Art group 4 - Panning -	0	4194304	Value	ValueOutput
+Art group 4 - Panning -	0	4194304	Value	ValueOutput
+Art group 4 - Volume - 	0	4194304	Value	ValueOutput
+Art group 4 - Volume - 	0	4194304	Value	ValueOutput
+Art group 4 - Volume - 	0	4194304	Value	ValueOutput
+Art group 4 - Volume - 	0	4194304	Value	ValueOutput
+Art group 4 - Volume - 	0	4194304	Value	ValueOutput
+Art group 4 - Volume - 	0	4194304	Value	ValueOutput
+Art group 4 - Volume - 	0	4194304	Value	ValueOutput
+Art group 4 - Volume - 	0	4194304	Value	ValueOutput
+Art group 4 - Filter cu	0	4194304	Value	ValueOutput
+Art group 4 - Filter cu	0	4194304	Value	ValueOutput
+Art group 4 - Filter cu	0	4194304	Value	ValueOutput
+Art group 4 - Filter cu	0	4194304	Value	ValueOutput
+Art group 4 - Filter cu	0	4194304	Value	ValueOutput
+Art group 4 - Filter cu	0	4194304	Value	ValueOutput
+Art group 4 - Filter cu	0	4194304	Value	ValueOutput
+Art group 4 - Filter cu	0	4194304	Value	ValueOutput
+Art group 4 - Filter re	0	4194304	Value	ValueOutput
+Art group 4 - Filter re	0	4194304	Value	ValueOutput
+Art group 4 - Filter re	0	4194304	Value	ValueOutput
+Art group 4 - Filter re	0	4194304	Value	ValueOutput
+Art group 4 - Filter re	0	4194304	Value	ValueOutput
+Art group 4 - Filter re	0	4194304	Value	ValueOutput
+Art group 4 - Filter re	0	4194304	Value	ValueOutput
+Art group 4 - Filter re	0	4194304	Value	ValueOutput
+Art group 4 - Speed - A	0	4194304	Value	ValueOutput
+Art group 4 - Speed - D	0	4194304	Value	ValueOutput
+Art group 4 - Speed - S	0	4194304	Value	ValueOutput
+Art group 4 - Speed - R	0	4194304	Value	ValueOutput
+Art group 4 - Speed - L	0	4194304	Value	ValueOutput
+Art group 4 - Speed - L	0	4194304	Value	ValueOutput
+Art group 4 - Speed - L	0	4194304	Value	ValueOutput
+Art group 4 - Speed - L	0	4194304	Value	ValueOutput
+Art group 5 - Filter cu	0	4194304	Value	ValueOutput
+Art group 5 - Filter cu	0	4194304	Value	ValueOutput
+Art group 5 - Filter re	0	4194304	Value	ValueOutput
+Art group 5 - Panning -	0	4194304	Value	ValueOutput
+Art group 5 - Panning -	0	4194304	Value	ValueOutput
+Art group 5 - Panning -	0	4194304	Value	ValueOutput
+Art group 5 - Panning -	0	4194304	Value	ValueOutput
+Art group 5 - Panning -	0	4194304	Value	ValueOutput
+Art group 5 - Panning -	0	4194304	Value	ValueOutput
+Art group 5 - Panning -	0	4194304	Value	ValueOutput
+Art group 5 - Panning -	0	4194304	Value	ValueOutput
+Art group 5 - Volume - 	0	4194304	Value	ValueOutput
+Art group 5 - Volume - 	0	4194304	Value	ValueOutput
+Art group 5 - Volume - 	0	4194304	Value	ValueOutput
+Art group 5 - Volume - 	0	4194304	Value	ValueOutput
+Art group 5 - Volume - 	0	4194304	Value	ValueOutput
+Art group 5 - Volume - 	0	4194304	Value	ValueOutput
+Art group 5 - Volume - 	0	4194304	Value	ValueOutput
+Art group 5 - Volume - 	0	4194304	Value	ValueOutput
+Art group 5 - Filter cu	0	4194304	Value	ValueOutput
+Art group 5 - Filter cu	0	4194304	Value	ValueOutput
+Art group 5 - Filter cu	0	4194304	Value	ValueOutput
+Art group 5 - Filter cu	0	4194304	Value	ValueOutput
+Art group 5 - Filter cu	0	4194304	Value	ValueOutput
+Art group 5 - Filter cu	0	4194304	Value	ValueOutput
+Art group 5 - Filter cu	0	4194304	Value	ValueOutput
+Art group 5 - Filter cu	0	4194304	Value	ValueOutput
+Art group 5 - Filter re	0	4194304	Value	ValueOutput
+Art group 5 - Filter re	0	4194304	Value	ValueOutput
+Art group 5 - Filter re	0	4194304	Value	ValueOutput
+Art group 5 - Filter re	0	4194304	Value	ValueOutput
+Art group 5 - Filter re	0	4194304	Value	ValueOutput
+Art group 5 - Filter re	0	4194304	Value	ValueOutput
+Art group 5 - Filter re	0	4194304	Value	ValueOutput
+Art group 5 - Filter re	0	4194304	Value	ValueOutput
+Art group 5 - Speed - A	0	4194304	Value	ValueOutput
+Art group 5 - Speed - D	0	4194304	Value	ValueOutput
+Art group 5 - Speed - S	0	4194304	Value	ValueOutput
+Art group 5 - Speed - R	0	4194304	Value	ValueOutput
+Art group 5 - Speed - L	0	4194304	Value	ValueOutput
+Art group 5 - Speed - L	0	4194304	Value	ValueOutput
+Art group 5 - Speed - L	0	4194304	Value	ValueOutput
+Art group 5 - Speed - L	0	4194304	Value	ValueOutput
+Art group 6 - Filter cu	0	4194304	Value	ValueOutput
+Art group 6 - Filter cu	0	4194304	Value	ValueOutput
+Art group 6 - Filter re	0	4194304	Value	ValueOutput
+Art group 6 - Panning -	0	4194304	Value	ValueOutput
+Art group 6 - Panning -	0	4194304	Value	ValueOutput
+Art group 6 - Panning -	0	4194304	Value	ValueOutput
+Art group 6 - Panning -	0	4194304	Value	ValueOutput
+Art group 6 - Panning -	0	4194304	Value	ValueOutput
+Art group 6 - Panning -	0	4194304	Value	ValueOutput
+Art group 6 - Panning -	0	4194304	Value	ValueOutput
+Art group 6 - Panning -	0	4194304	Value	ValueOutput
+Art group 6 - Volume - 	0	4194304	Value	ValueOutput
+Art group 6 - Volume - 	0	4194304	Value	ValueOutput
+Art group 6 - Volume - 	0	4194304	Value	ValueOutput
+Art group 6 - Volume - 	0	4194304	Value	ValueOutput
+Art group 6 - Volume - 	0	4194304	Value	ValueOutput
+Art group 6 - Volume - 	0	4194304	Value	ValueOutput
+Art group 6 - Volume - 	0	4194304	Value	ValueOutput
+Art group 6 - Volume - 	0	4194304	Value	ValueOutput
+Art group 6 - Filter cu	0	4194304	Value	ValueOutput
+Art group 6 - Filter cu	0	4194304	Value	ValueOutput
+Art group 6 - Filter cu	0	4194304	Value	ValueOutput
+Art group 6 - Filter cu	0	4194304	Value	ValueOutput
+Art group 6 - Filter cu	0	4194304	Value	ValueOutput
+Art group 6 - Filter cu	0	4194304	Value	ValueOutput
+Art group 6 - Filter cu	0	4194304	Value	ValueOutput
+Art group 6 - Filter cu	0	4194304	Value	ValueOutput
+Art group 6 - Filter re	0	4194304	Value	ValueOutput
+Art group 6 - Filter re	0	4194304	Value	ValueOutput
+Art group 6 - Filter re	0	4194304	Value	ValueOutput
+Art group 6 - Filter re	0	4194304	Value	ValueOutput
+Art group 6 - Filter re	0	4194304	Value	ValueOutput
+Art group 6 - Filter re	0	4194304	Value	ValueOutput
+Art group 6 - Filter re	0	4194304	Value	ValueOutput
+Art group 6 - Filter re	0	4194304	Value	ValueOutput
+Art group 6 - Speed - A	0	4194304	Value	ValueOutput
+Art group 6 - Speed - D	0	4194304	Value	ValueOutput
+Art group 6 - Speed - S	0	4194304	Value	ValueOutput
+Art group 6 - Speed - R	0	4194304	Value	ValueOutput
+Art group 6 - Speed - L	0	4194304	Value	ValueOutput
+Art group 6 - Speed - L	0	4194304	Value	ValueOutput
+Art group 6 - Speed - L	0	4194304	Value	ValueOutput
+Art group 6 - Speed - L	0	4194304	Value	ValueOutput
+Art group 7 - Filter cu	0	4194304	Value	ValueOutput
+Art group 7 - Filter cu	0	4194304	Value	ValueOutput
+Art group 7 - Filter re	0	4194304	Value	ValueOutput
+Art group 7 - Panning -	0	4194304	Value	ValueOutput
+Art group 7 - Panning -	0	4194304	Value	ValueOutput
+Art group 7 - Panning -	0	4194304	Value	ValueOutput
+Art group 7 - Panning -	0	4194304	Value	ValueOutput
+Art group 7 - Panning -	0	4194304	Value	ValueOutput
+Art group 7 - Panning -	0	4194304	Value	ValueOutput
+Art group 7 - Panning -	0	4194304	Value	ValueOutput
+Art group 7 - Panning -	0	4194304	Value	ValueOutput
+Art group 7 - Volume - 	0	4194304	Value	ValueOutput
+Art group 7 - Volume - 	0	4194304	Value	ValueOutput
+Art group 7 - Volume - 	0	4194304	Value	ValueOutput
+Art group 7 - Volume - 	0	4194304	Value	ValueOutput
+Art group 7 - Volume - 	0	4194304	Value	ValueOutput
+Art group 7 - Volume - 	0	4194304	Value	ValueOutput
+Art group 7 - Volume - 	0	4194304	Value	ValueOutput
+Art group 7 - Volume - 	0	4194304	Value	ValueOutput
+Art group 7 - Filter cu	0	4194304	Value	ValueOutput
+Art group 7 - Filter cu	0	4194304	Value	ValueOutput
+Art group 7 - Filter cu	0	4194304	Value	ValueOutput
+Art group 7 - Filter cu	0	4194304	Value	ValueOutput
+Art group 7 - Filter cu	0	4194304	Value	ValueOutput
+Art group 7 - Filter cu	0	4194304	Value	ValueOutput
+Art group 7 - Filter cu	0	4194304	Value	ValueOutput
+Art group 7 - Filter cu	0	4194304	Value	ValueOutput
+Art group 7 - Filter re	0	4194304	Value	ValueOutput
+Art group 7 - Filter re	0	4194304	Value	ValueOutput
+Art group 7 - Filter re	0	4194304	Value	ValueOutput
+Art group 7 - Filter re	0	4194304	Value	ValueOutput
+Art group 7 - Filter re	0	4194304	Value	ValueOutput
+Art group 7 - Filter re	0	4194304	Value	ValueOutput
+Art group 7 - Filter re	0	4194304	Value	ValueOutput
+Art group 7 - Filter re	0	4194304	Value	ValueOutput
+Art group 7 - Speed - A	0	4194304	Value	ValueOutput
+Art group 7 - Speed - D	0	4194304	Value	ValueOutput
+Art group 7 - Speed - S	0	4194304	Value	ValueOutput
+Art group 7 - Speed - R	0	4194304	Value	ValueOutput
+Art group 7 - Speed - L	0	4194304	Value	ValueOutput
+Art group 7 - Speed - L	0	4194304	Value	ValueOutput
+Art group 7 - Speed - L	0	4194304	Value	ValueOutput
+Art group 7 - Speed - L	0	4194304	Value	ValueOutput
+Art group 8 - Filter cu	0	4194304	Value	ValueOutput
+Art group 8 - Filter cu	0	4194304	Value	ValueOutput
+Art group 8 - Filter re	0	4194304	Value	ValueOutput
+Art group 8 - Panning -	0	4194304	Value	ValueOutput
+Art group 8 - Panning -	0	4194304	Value	ValueOutput
+Art group 8 - Panning -	0	4194304	Value	ValueOutput
+Art group 8 - Panning -	0	4194304	Value	ValueOutput
+Art group 8 - Panning -	0	4194304	Value	ValueOutput
+Art group 8 - Panning -	0	4194304	Value	ValueOutput
+Art group 8 - Panning -	0	4194304	Value	ValueOutput
+Art group 8 - Panning -	0	4194304	Value	ValueOutput
+Art group 8 - Volume - 	0	4194304	Value	ValueOutput
+Art group 8 - Volume - 	0	4194304	Value	ValueOutput
+Art group 8 - Volume - 	0	4194304	Value	ValueOutput
+Art group 8 - Volume - 	0	4194304	Value	ValueOutput
+Art group 8 - Volume - 	0	4194304	Value	ValueOutput
+Art group 8 - Volume - 	0	4194304	Value	ValueOutput
+Art group 8 - Volume - 	0	4194304	Value	ValueOutput
+Art group 8 - Volume - 	0	4194304	Value	ValueOutput
+Art group 8 - Filter cu	0	4194304	Value	ValueOutput
+Art group 8 - Filter cu	0	4194304	Value	ValueOutput
+Art group 8 - Filter cu	0	4194304	Value	ValueOutput
+Art group 8 - Filter cu	0	4194304	Value	ValueOutput
+Art group 8 - Filter cu	0	4194304	Value	ValueOutput
+Art group 8 - Filter cu	0	4194304	Value	ValueOutput
+Art group 8 - Filter cu	0	4194304	Value	ValueOutput
+Art group 8 - Filter cu	0	4194304	Value	ValueOutput
+Art group 8 - Filter re	0	4194304	Value	ValueOutput
+Art group 8 - Filter re	0	4194304	Value	ValueOutput
+Art group 8 - Filter re	0	4194304	Value	ValueOutput
+Art group 8 - Filter re	0	4194304	Value	ValueOutput
+Art group 8 - Filter re	0	4194304	Value	ValueOutput
+Art group 8 - Filter re	0	4194304	Value	ValueOutput
+Art group 8 - Filter re	0	4194304	Value	ValueOutput
+Art group 8 - Filter re	0	4194304	Value	ValueOutput
+Art group 8 - Speed - A	0	4194304	Value	ValueOutput
+Art group 8 - Speed - D	0	4194304	Value	ValueOutput
+Art group 8 - Speed - S	0	4194304	Value	ValueOutput
+Art group 8 - Speed - R	0	4194304	Value	ValueOutput
+Art group 8 - Speed - L	0	4194304	Value	ValueOutput
+Art group 8 - Speed - L	0	4194304	Value	ValueOutput
+Art group 8 - Speed - L	0	4194304	Value	ValueOutput
+Art group 8 - Speed - L	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,212 @@
+Scope
+Manufacturer	Model
+FabFilter	vst.FQ22.FabFilter Pro-Q 2 (Mono) x64
+Note: Will match scope definitions for vst.FQ22.FabFilter Pro-Q 2 (Mono) x64 or vst.FQ22
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Band 1 State	0	4194304	Value	ValueOutput
+Band 1 Frequency	0	4194304	Value	ValueOutput
+Band 1 Gain	0	4194304	Value	ValueOutput
+Band 1 Q	0	4194304	Value	ValueOutput
+Band 1 Shape	0	4194304	Value	ValueOutput
+Band 1 Slope	0	4194304	Value	ValueOutput
+Band 1 Stereo Placement	0	4194304	Value	ValueOutput
+Band 2 State	0	4194304	Value	ValueOutput
+Band 2 Frequency	0	4194304	Value	ValueOutput
+Band 2 Gain	0	4194304	Value	ValueOutput
+Band 2 Q	0	4194304	Value	ValueOutput
+Band 2 Shape	0	4194304	Value	ValueOutput
+Band 2 Slope	0	4194304	Value	ValueOutput
+Band 2 Stereo Placement	0	4194304	Value	ValueOutput
+Band 3 State	0	4194304	Value	ValueOutput
+Band 3 Frequency	0	4194304	Value	ValueOutput
+Band 3 Gain	0	4194304	Value	ValueOutput
+Band 3 Q	0	4194304	Value	ValueOutput
+Band 3 Shape	0	4194304	Value	ValueOutput
+Band 3 Slope	0	4194304	Value	ValueOutput
+Band 3 Stereo Placement	0	4194304	Value	ValueOutput
+Band 4 State	0	4194304	Value	ValueOutput
+Band 4 Frequency	0	4194304	Value	ValueOutput
+Band 4 Gain	0	4194304	Value	ValueOutput
+Band 4 Q	0	4194304	Value	ValueOutput
+Band 4 Shape	0	4194304	Value	ValueOutput
+Band 4 Slope	0	4194304	Value	ValueOutput
+Band 4 Stereo Placement	0	4194304	Value	ValueOutput
+Band 5 State	0	4194304	Value	ValueOutput
+Band 5 Frequency	0	4194304	Value	ValueOutput
+Band 5 Gain	0	4194304	Value	ValueOutput
+Band 5 Q	0	4194304	Value	ValueOutput
+Band 5 Shape	0	4194304	Value	ValueOutput
+Band 5 Slope	0	4194304	Value	ValueOutput
+Band 5 Stereo Placement	0	4194304	Value	ValueOutput
+Band 6 State	0	4194304	Value	ValueOutput
+Band 6 Frequency	0	4194304	Value	ValueOutput
+Band 6 Gain	0	4194304	Value	ValueOutput
+Band 6 Q	0	4194304	Value	ValueOutput
+Band 6 Shape	0	4194304	Value	ValueOutput
+Band 6 Slope	0	4194304	Value	ValueOutput
+Band 6 Stereo Placement	0	4194304	Value	ValueOutput
+Band 7 State	0	4194304	Value	ValueOutput
+Band 7 Frequency	0	4194304	Value	ValueOutput
+Band 7 Gain	0	4194304	Value	ValueOutput
+Band 7 Q	0	4194304	Value	ValueOutput
+Band 7 Shape	0	4194304	Value	ValueOutput
+Band 7 Slope	0	4194304	Value	ValueOutput
+Band 7 Stereo Placement	0	4194304	Value	ValueOutput
+Band 8 State	0	4194304	Value	ValueOutput
+Band 8 Frequency	0	4194304	Value	ValueOutput
+Band 8 Gain	0	4194304	Value	ValueOutput
+Band 8 Q	0	4194304	Value	ValueOutput
+Band 8 Shape	0	4194304	Value	ValueOutput
+Band 8 Slope	0	4194304	Value	ValueOutput
+Band 8 Stereo Placement	0	4194304	Value	ValueOutput
+Band 9 State	0	4194304	Value	ValueOutput
+Band 9 Frequency	0	4194304	Value	ValueOutput
+Band 9 Gain	0	4194304	Value	ValueOutput
+Band 9 Q	0	4194304	Value	ValueOutput
+Band 9 Shape	0	4194304	Value	ValueOutput
+Band 9 Slope	0	4194304	Value	ValueOutput
+Band 9 Stereo Placement	0	4194304	Value	ValueOutput
+Band 10 State	0	4194304	Value	ValueOutput
+Band 10 Frequency	0	4194304	Value	ValueOutput
+Band 10 Gain	0	4194304	Value	ValueOutput
+Band 10 Q	0	4194304	Value	ValueOutput
+Band 10 Shape	0	4194304	Value	ValueOutput
+Band 10 Slope	0	4194304	Value	ValueOutput
+Band 10 Stereo Placement	0	4194304	Value	ValueOutput
+Band 11 State	0	4194304	Value	ValueOutput
+Band 11 Frequency	0	4194304	Value	ValueOutput
+Band 11 Gain	0	4194304	Value	ValueOutput
+Band 11 Q	0	4194304	Value	ValueOutput
+Band 11 Shape	0	4194304	Value	ValueOutput
+Band 11 Slope	0	4194304	Value	ValueOutput
+Band 11 Stereo Placement	0	4194304	Value	ValueOutput
+Band 12 State	0	4194304	Value	ValueOutput
+Band 12 Frequency	0	4194304	Value	ValueOutput
+Band 12 Gain	0	4194304	Value	ValueOutput
+Band 12 Q	0	4194304	Value	ValueOutput
+Band 12 Shape	0	4194304	Value	ValueOutput
+Band 12 Slope	0	4194304	Value	ValueOutput
+Band 12 Stereo Placement	0	4194304	Value	ValueOutput
+Band 13 State	0	4194304	Value	ValueOutput
+Band 13 Frequency	0	4194304	Value	ValueOutput
+Band 13 Gain	0	4194304	Value	ValueOutput
+Band 13 Q	0	4194304	Value	ValueOutput
+Band 13 Shape	0	4194304	Value	ValueOutput
+Band 13 Slope	0	4194304	Value	ValueOutput
+Band 13 Stereo Placement	0	4194304	Value	ValueOutput
+Band 14 State	0	4194304	Value	ValueOutput
+Band 14 Frequency	0	4194304	Value	ValueOutput
+Band 14 Gain	0	4194304	Value	ValueOutput
+Band 14 Q	0	4194304	Value	ValueOutput
+Band 14 Shape	0	4194304	Value	ValueOutput
+Band 14 Slope	0	4194304	Value	ValueOutput
+Band 14 Stereo Placement	0	4194304	Value	ValueOutput
+Band 15 State	0	4194304	Value	ValueOutput
+Band 15 Frequency	0	4194304	Value	ValueOutput
+Band 15 Gain	0	4194304	Value	ValueOutput
+Band 15 Q	0	4194304	Value	ValueOutput
+Band 15 Shape	0	4194304	Value	ValueOutput
+Band 15 Slope	0	4194304	Value	ValueOutput
+Band 15 Stereo Placement	0	4194304	Value	ValueOutput
+Band 16 State	0	4194304	Value	ValueOutput
+Band 16 Frequency	0	4194304	Value	ValueOutput
+Band 16 Gain	0	4194304	Value	ValueOutput
+Band 16 Q	0	4194304	Value	ValueOutput
+Band 16 Shape	0	4194304	Value	ValueOutput
+Band 16 Slope	0	4194304	Value	ValueOutput
+Band 16 Stereo Placement	0	4194304	Value	ValueOutput
+Band 17 State	0	4194304	Value	ValueOutput
+Band 17 Frequency	0	4194304	Value	ValueOutput
+Band 17 Gain	0	4194304	Value	ValueOutput
+Band 17 Q	0	4194304	Value	ValueOutput
+Band 17 Shape	0	4194304	Value	ValueOutput
+Band 17 Slope	0	4194304	Value	ValueOutput
+Band 17 Stereo Placement	0	4194304	Value	ValueOutput
+Band 18 State	0	4194304	Value	ValueOutput
+Band 18 Frequency	0	4194304	Value	ValueOutput
+Band 18 Gain	0	4194304	Value	ValueOutput
+Band 18 Q	0	4194304	Value	ValueOutput
+Band 18 Shape	0	4194304	Value	ValueOutput
+Band 18 Slope	0	4194304	Value	ValueOutput
+Band 18 Stereo Placement	0	4194304	Value	ValueOutput
+Band 19 State	0	4194304	Value	ValueOutput
+Band 19 Frequency	0	4194304	Value	ValueOutput
+Band 19 Gain	0	4194304	Value	ValueOutput
+Band 19 Q	0	4194304	Value	ValueOutput
+Band 19 Shape	0	4194304	Value	ValueOutput
+Band 19 Slope	0	4194304	Value	ValueOutput
+Band 19 Stereo Placement	0	4194304	Value	ValueOutput
+Band 20 State	0	4194304	Value	ValueOutput
+Band 20 Frequency	0	4194304	Value	ValueOutput
+Band 20 Gain	0	4194304	Value	ValueOutput
+Band 20 Q	0	4194304	Value	ValueOutput
+Band 20 Shape	0	4194304	Value	ValueOutput
+Band 20 Slope	0	4194304	Value	ValueOutput
+Band 20 Stereo Placement	0	4194304	Value	ValueOutput
+Band 21 State	0	4194304	Value	ValueOutput
+Band 21 Frequency	0	4194304	Value	ValueOutput
+Band 21 Gain	0	4194304	Value	ValueOutput
+Band 21 Q	0	4194304	Value	ValueOutput
+Band 21 Shape	0	4194304	Value	ValueOutput
+Band 21 Slope	0	4194304	Value	ValueOutput
+Band 21 Stereo Placement	0	4194304	Value	ValueOutput
+Band 22 State	0	4194304	Value	ValueOutput
+Band 22 Frequency	0	4194304	Value	ValueOutput
+Band 22 Gain	0	4194304	Value	ValueOutput
+Band 22 Q	0	4194304	Value	ValueOutput
+Band 22 Shape	0	4194304	Value	ValueOutput
+Band 22 Slope	0	4194304	Value	ValueOutput
+Band 22 Stereo Placement	0	4194304	Value	ValueOutput
+Band 23 State	0	4194304	Value	ValueOutput
+Band 23 Frequency	0	4194304	Value	ValueOutput
+Band 23 Gain	0	4194304	Value	ValueOutput
+Band 23 Q	0	4194304	Value	ValueOutput
+Band 23 Shape	0	4194304	Value	ValueOutput
+Band 23 Slope	0	4194304	Value	ValueOutput
+Band 23 Stereo Placement	0	4194304	Value	ValueOutput
+Band 24 State	0	4194304	Value	ValueOutput
+Band 24 Frequency	0	4194304	Value	ValueOutput
+Band 24 Gain	0	4194304	Value	ValueOutput
+Band 24 Q	0	4194304	Value	ValueOutput
+Band 24 Shape	0	4194304	Value	ValueOutput
+Band 24 Slope	0	4194304	Value	ValueOutput
+Band 24 Stereo Placement	0	4194304	Value	ValueOutput
+Processing Mode	0	4194304	Value	ValueOutput
+Processing Resolution	0	4194304	Value	ValueOutput
+Channel Mode	0	4194304	Value	ValueOutput
+Gain Scale	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Output Pan	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Output Invert Phase	0	4194304	Value	ValueOutput
+Auto Gain	0	4194304	Value	ValueOutput
+Analyzer Show Pre-Proces	0	4194304	Value	ValueOutput
+Analyzer Show Post-Proce	0	4194304	Value	ValueOutput
+Analyzer Show Side-chain	0	4194304	Value	ValueOutput
+Analyzer Range	0	4194304	Value	ValueOutput
+Analyzer Resolution	0	4194304	Value	ValueOutput
+Analyzer Speed	0	4194304	Value	ValueOutput
+Analyzer Tilt	0	4194304	Value	ValueOutput
+Analyzer Freeze	0	4194304	Value	ValueOutput
+Spectrum Grab	0	4194304	Value	ValueOutput
+Display Range	0	4194304	Value	ValueOutput
+Receive Midi	0	4194304	Value	ValueOutput
+Ex Auto Gain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

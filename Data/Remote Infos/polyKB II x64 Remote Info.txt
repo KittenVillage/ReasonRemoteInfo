@@ -1,0 +1,264 @@
+Scope
+Manufacturer	Model
+XILS-lab	vst.KBi2.polyKB II x64
+Note: Will match scope definitions for vst.KBi2.polyKB II x64 or vst.KBi2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Vco1Tune	0	4194304	Value	ValueOutput
+Vco1Wave	0	4194304	Value	ValueOutput
+Vco2Tune	0	4194304	Value	ValueOutput
+Vco2Wave	0	4194304	Value	ValueOutput
+Vco2 Lev	0	4194304	Value	ValueOutput
+FiltFreq	0	4194304	Value	ValueOutput
+FiltRes.	0	4194304	Value	ValueOutput
+FiltKeyA	0	4194304	Value	ValueOutput
+FiltEn2A	0	4194304	Value	ValueOutput
+OvFilter	0	4194304	Value	ValueOutput
+Attack1 	0	4194304	Value	ValueOutput
+Decay1  	0	4194304	Value	ValueOutput
+Sustain1	0	4194304	Value	ValueOutput
+Release1	0	4194304	Value	ValueOutput
+Attack2 	0	4194304	Value	ValueOutput
+Decay2  	0	4194304	Value	ValueOutput
+Sustain2	0	4194304	Value	ValueOutput
+Release2	0	4194304	Value	ValueOutput
+Gen Lev 	0	4194304	Value	ValueOutput
+GlobTune	0	4194304	Value	ValueOutput
+LFO1Rate	0	4194304	Value	ValueOutput
+LFO1Dely	0	4194304	Value	ValueOutput
+LFO1Fade	0	4194304	Value	ValueOutput
+LFO2Rate	0	4194304	Value	ValueOutput
+LFO2Dely	0	4194304	Value	ValueOutput
+LFO2Fade	0	4194304	Value	ValueOutput
+LFOModLe	0	4194304	Value	ValueOutput
+NoiModLe	0	4194304	Value	ValueOutput
+En2ModLe	0	4194304	Value	ValueOutput
+VO2ModLe	0	4194304	Value	ValueOutput
+VelModLe	0	4194304	Value	ValueOutput
+AftModLe	0	4194304	Value	ValueOutput
+Sc1ModLe	0	4194304	Value	ValueOutput
+Sc2ModLe	0	4194304	Value	ValueOutput
+PitcBend	0	4194304	Value	ValueOutput
+ModWheel	0	4194304	Value	ValueOutput
+ClkRate 	0	4194304	Value	ValueOutput
+Glide   	0	4194304	Value	ValueOutput
+Detune  	0	4194304	Value	ValueOutput
+DelLeftT	0	4194304	Value	ValueOutput
+DelRighT	0	4194304	Value	ValueOutput
+DelLeftF	0	4194304	Value	ValueOutput
+DelRighF	0	4194304	Value	ValueOutput
+DelDryWe	0	4194304	Value	ValueOutput
+ChorSpee	0	4194304	Value	ValueOutput
+ChorAmou	0	4194304	Value	ValueOutput
+ChorDryW	0	4194304	Value	ValueOutput
+WidSpace	0	4194304	Value	ValueOutput
+DirSpace	0	4194304	Value	ValueOutput
+MicPosSp	0	4194304	Value	ValueOutput
+MicPosSp	0	4194304	Value	ValueOutput
+VoPosX00	0	4194304	Value	ValueOutput
+VoPosY00	0	4194304	Value	ValueOutput
+VoPosX01	0	4194304	Value	ValueOutput
+VoPosY01	0	4194304	Value	ValueOutput
+VoPosX02	0	4194304	Value	ValueOutput
+VoPosY02	0	4194304	Value	ValueOutput
+VoPosX03	0	4194304	Value	ValueOutput
+VoPosY03	0	4194304	Value	ValueOutput
+VoPosX04	0	4194304	Value	ValueOutput
+VoPosY04	0	4194304	Value	ValueOutput
+VoPosX05	0	4194304	Value	ValueOutput
+VoPosY05	0	4194304	Value	ValueOutput
+VoPosX06	0	4194304	Value	ValueOutput
+VoPosY06	0	4194304	Value	ValueOutput
+VoPosX07	0	4194304	Value	ValueOutput
+VoPosY07	0	4194304	Value	ValueOutput
+VoPosX08	0	4194304	Value	ValueOutput
+VoPosY08	0	4194304	Value	ValueOutput
+VoPosX09	0	4194304	Value	ValueOutput
+VoPosY09	0	4194304	Value	ValueOutput
+VoPosX10	0	4194304	Value	ValueOutput
+VoPosY10	0	4194304	Value	ValueOutput
+VoPosX11	0	4194304	Value	ValueOutput
+VoPosY11	0	4194304	Value	ValueOutput
+VoPosX12	0	4194304	Value	ValueOutput
+VoPosY12	0	4194304	Value	ValueOutput
+VoPosX13	0	4194304	Value	ValueOutput
+VoPosY13	0	4194304	Value	ValueOutput
+VoPosX14	0	4194304	Value	ValueOutput
+VoPosY14	0	4194304	Value	ValueOutput
+VoPosX15	0	4194304	Value	ValueOutput
+VoPosY15	0	4194304	Value	ValueOutput
+VoModX00	0	4194304	Value	ValueOutput
+VoModY00	0	4194304	Value	ValueOutput
+VoModY01	0	4194304	Value	ValueOutput
+VoModY01	0	4194304	Value	ValueOutput
+VoModY02	0	4194304	Value	ValueOutput
+VoModY02	0	4194304	Value	ValueOutput
+VoModY03	0	4194304	Value	ValueOutput
+VoModY03	0	4194304	Value	ValueOutput
+VoModY04	0	4194304	Value	ValueOutput
+VoModY04	0	4194304	Value	ValueOutput
+VoModY05	0	4194304	Value	ValueOutput
+VoModY05	0	4194304	Value	ValueOutput
+VoModY06	0	4194304	Value	ValueOutput
+VoModY06	0	4194304	Value	ValueOutput
+VoModY07	0	4194304	Value	ValueOutput
+VoModY07	0	4194304	Value	ValueOutput
+VoModY08	0	4194304	Value	ValueOutput
+VoModY08	0	4194304	Value	ValueOutput
+VoModY09	0	4194304	Value	ValueOutput
+VoModY09	0	4194304	Value	ValueOutput
+VoModY10	0	4194304	Value	ValueOutput
+VoModY10	0	4194304	Value	ValueOutput
+VoModY11	0	4194304	Value	ValueOutput
+VoModY11	0	4194304	Value	ValueOutput
+VoModY12	0	4194304	Value	ValueOutput
+VoModY12	0	4194304	Value	ValueOutput
+VoModY13	0	4194304	Value	ValueOutput
+VoModY13	0	4194304	Value	ValueOutput
+VoModY14	0	4194304	Value	ValueOutput
+VoModY14	0	4194304	Value	ValueOutput
+VoModY15	0	4194304	Value	ValueOutput
+VoModY15	0	4194304	Value	ValueOutput
+Rng1XSpc	0	4194304	Value	ValueOutput
+Rng1YSpc	0	4194304	Value	ValueOutput
+Rng2XSpc	0	4194304	Value	ValueOutput
+Rng2YSpc	0	4194304	Value	ValueOutput
+RndRange	0	4194304	Value	ValueOutput
+RndSpeed	0	4194304	Value	ValueOutput
+ArpSwing	0	4194304	Value	ValueOutput
+ArpGate	0	4194304	Value	ValueOutput
+PhaserSp	0	4194304	Value	ValueOutput
+PhaserAm	0	4194304	Value	ValueOutput
+PhaserSt	0	4194304	Value	ValueOutput
+PhaserRe	0	4194304	Value	ValueOutput
+PhaserSw	0	4194304	Value	ValueOutput
+PhaserDW	0	4194304	Value	ValueOutput
+EQF1 Frq	0	4194304	Value	ValueOutput
+EQF1 Res	0	4194304	Value	ValueOutput
+EQF1 Gn 	0	4194304	Value	ValueOutput
+EQF2 Frq	0	4194304	Value	ValueOutput
+EQF2 Res	0	4194304	Value	ValueOutput
+EQF2 Gn 	0	4194304	Value	ValueOutput
+OnGenOn 	0	4194304	Value	ValueOutput
+Vco1 1/3	0	4194304	Value	ValueOutput
+Vco1 2/3	0	4194304	Value	ValueOutput
+DetuneUp	0	4194304	Value	ValueOutput
+DetuVco2	0	4194304	Value	ValueOutput
+SyncVco2	0	4194304	Value	ValueOutput
+KeybOff2	0	4194304	Value	ValueOutput
+LowFreq2	0	4194304	Value	ValueOutput
+Noise1/3	0	4194304	Value	ValueOutput
+Noise2/3	0	4194304	Value	ValueOutput
+Adsr2Loo	0	4194304	Value	ValueOutput
+AdsrKeyT	0	4194304	Value	ValueOutput
+PreDrFlt	0	4194304	Value	ValueOutput
+StereoON	0	4194304	Value	ValueOutput
+LFO1tria	0	4194304	Value	ValueOutput
+LFO1squa	0	4194304	Value	ValueOutput
+LFO1ramp	0	4194304	Value	ValueOutput
+LFO1saw 	0	4194304	Value	ValueOutput
+LFO1nois	0	4194304	Value	ValueOutput
+LFO1sync	0	4194304	Value	ValueOutput
+LFO2sine	0	4194304	Value	ValueOutput
+LFO2squa	0	4194304	Value	ValueOutput
+LFO2ramp	0	4194304	Value	ValueOutput
+LFO2saw 	0	4194304	Value	ValueOutput
+LFO2nois	0	4194304	Value	ValueOutput
+LFO2sync	0	4194304	Value	ValueOutput
+LFO Mono	0	4194304	Value	ValueOutput
+LFOWheel	0	4194304	Value	ValueOutput
+LFOreset	0	4194304	Value	ValueOutput
+LFOVco1 	0	4194304	Value	ValueOutput
+LFOVco2 	0	4194304	Value	ValueOutput
+LFOWave1	0	4194304	Value	ValueOutput
+LFOWave2	0	4194304	Value	ValueOutput
+LFOVcf  	0	4194304	Value	ValueOutput
+NoiseWhe	0	4194304	Value	ValueOutput
+NoiseW/P	0	4194304	Value	ValueOutput
+NoisVco1	0	4194304	Value	ValueOutput
+NoisVco2	0	4194304	Value	ValueOutput
+NoisWav1	0	4194304	Value	ValueOutput
+NoisWav2	0	4194304	Value	ValueOutput
+NoiseVcf	0	4194304	Value	ValueOutput
+ADSR2Whe	0	4194304	Value	ValueOutput
+ADSR2Vo1	0	4194304	Value	ValueOutput
+ADSR2Vo2	0	4194304	Value	ValueOutput
+ADSR2Wa1	0	4194304	Value	ValueOutput
+ADSR2Wa2	0	4194304	Value	ValueOutput
+VCO2Whee	0	4194304	Value	ValueOutput
+VCO2VCA 	0	4194304	Value	ValueOutput
+VCO2VCO1	0	4194304	Value	ValueOutput
+VCO2Wav1	0	4194304	Value	ValueOutput
+VCO2VCF 	0	4194304	Value	ValueOutput
+PressuON	0	4194304	Value	ValueOutput
+VelToAtt	0	4194304	Value	ValueOutput
+VelToDec	0	4194304	Value	ValueOutput
+VelToVCA	0	4194304	Value	ValueOutput
+VelToVCF	0	4194304	Value	ValueOutput
+S1toDes1	0	4194304	Value	ValueOutput
+S1 Dest2	0	4194304	Value	ValueOutput
+S1 Dest3	0	4194304	Value	ValueOutput
+S1 Dest4	0	4194304	Value	ValueOutput
+S2 Dest1	0	4194304	Value	ValueOutput
+S2 Dest2	0	4194304	Value	ValueOutput
+S2 Dest3	0	4194304	Value	ValueOutput
+S2 Dest4	0	4194304	Value	ValueOutput
+ArpOnOff	0	4194304	Value	ValueOutput
+Arp Poly	0	4194304	Value	ValueOutput
+Arp   Up	0	4194304	Value	ValueOutput
+Arp Down	0	4194304	Value	ValueOutput
+ArpOctav	0	4194304	Value	ValueOutput
+ClkRSync	0	4194304	Value	ValueOutput
+RecSeq  	0	4194304	Value	ValueOutput
+VoSel1  	0	4194304	Value	ValueOutput
+VoSel2  	0	4194304	Value	ValueOutput
+VoSel3  	0	4194304	Value	ValueOutput
+VoSel4  	0	4194304	Value	ValueOutput
+VoSel5  	0	4194304	Value	ValueOutput
+VoSel6  	0	4194304	Value	ValueOutput
+VoSel7  	0	4194304	Value	ValueOutput
+VoSel8  	0	4194304	Value	ValueOutput
+PlaySeq 	0	4194304	Value	ValueOutput
+TrigPlSe	0	4194304	Value	ValueOutput
+TunedSeq	0	4194304	Value	ValueOutput
+StepSeq 	0	4194304	Value	ValueOutput
+NxtStpSq	0	4194304	Value	ValueOutput
+PreStpSq	0	4194304	Value	ValueOutput
+EvtNbrSq	0	4194304	Value	ValueOutput
+LegatoOn	0	4194304	Value	ValueOutput
+PortamOn	0	4194304	Value	ValueOutput
+GlisseOn	0	4194304	Value	ValueOutput
+PitchBRa	0	4194304	Value	ValueOutput
+DelTempo	0	4194304	Value	ValueOutput
+DelayOn 	0	4194304	Value	ValueOutput
+ChorusOn	0	4194304	Value	ValueOutput
+ChorType	0	4194304	Value	ValueOutput
+KeybHold	0	4194304	Value	ValueOutput
+PhaSpace	0	4194304	Value	ValueOutput
+PhaserOn	0	4194304	Value	ValueOutput
+AdsrFact	0	4194304	Value	ValueOutput
+EQOn/Off	0	4194304	Value	ValueOutput
+EQF1 On 	0	4194304	Value	ValueOutput
+EQF2 On 	0	4194304	Value	ValueOutput
+Adsr2Fact	0	4194304	Value	ValueOutput
+none	0	4194304	Value	ValueOutput
+none	0	4194304	Value	ValueOutput
+none	0	4194304	Value	ValueOutput
+Adsr2KeyT	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

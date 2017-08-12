@@ -1,0 +1,49 @@
+Scope
+Manufacturer	Model
+The Chronologists	com.thechronologists.Divisor
+
+Remotable	Min	Max	Input type	Output type
+Pulse Mode Switch	0	1	Toggle	ValueOutput
+Pulse Rate Free	0	4194304	Value	ValueOutput
+Pulse Rate Synced	0	10	Value	ValueOutput
+Divide Ratio Mode 1	0	1	Toggle	ValueOutput
+Divide Ratio Amount Int 1	0	15	Value	ValueOutput
+Divide Ratio Amount Float 1	0	4194304	Value	ValueOutput
+Divide Ratio Mode 2	0	1	Toggle	ValueOutput
+Divide Ratio Amount Int 2	0	15	Value	ValueOutput
+Divide Ratio Amount Float 2	0	4194304	Value	ValueOutput
+Divide Ratio Mode 33	0	1	Toggle	ValueOutput
+Divide Ratio Amount Int 3	0	15	Value	ValueOutput
+Divide Ratio Amount Float 3	0	4194304	Value	ValueOutput
+Divide Ratio Mode 4	0	1	Toggle	ValueOutput
+Divide Ratio Amount Int 4	0	15	Value	ValueOutput
+Divide Ratio Amount Float 4	0	4194304	Value	ValueOutput
+Divide Ratio Mode 5	0	1	Toggle	ValueOutput
+Divide Ratio Amount Int 5	0	15	Value	ValueOutput
+Divide Ratio Amount Float 5	0	4194304	Value	ValueOutput
+Divide Ratio Mode 6	0	1	Toggle	ValueOutput
+Divide Ratio Amount Int 6	0	15	Value	ValueOutput
+Divide Ratio Amount Float 6	0	4194304	Value	ValueOutput
+Divide Ratio Mode 7	0	1	Toggle	ValueOutput
+Divide Ratio Amount Int 7	0	15	Value	ValueOutput
+Divide Ratio Amount Float 7	0	4194304	Value	ValueOutput
+Divide Ratio Mode 8	0	1	Toggle	ValueOutput
+Divide Ratio Amount Int 8	0	15	Value	ValueOutput
+Divide Ratio Amount Float 8	0	4194304	Value	ValueOutput
+Divide Ratio Mode 9	0	1	Toggle	ValueOutput
+Divide Ratio Amount Int 9	0	15	Value	ValueOutput
+Divide Ratio Amount Float 9	0	4194304	Value	ValueOutput
+Divide Ratio Mode 10	0	1	Toggle	ValueOutput
+Divide Ratio Amount Int 10	0	15	Value	ValueOutput
+Divide Ratio Amount Float 10	0	4194304	Value	ValueOutput
+Interpolation Mode A	0	1	Toggle	ValueOutput
+Buffer Size A	0	15	Value	ValueOutput
+Clear Buffer A	0	1	Toggle	ValueOutput
+Interpolation Mode B	0	1	Toggle	ValueOutput
+Buffer Size B	0	15	Value	ValueOutput
+Clear Buffer B	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

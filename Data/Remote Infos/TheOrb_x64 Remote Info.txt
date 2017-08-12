@@ -1,0 +1,58 @@
+Scope
+Manufacturer	Model
+AudioThing	vst.tORB.TheOrb_x64
+Note: Will match scope definitions for vst.tORB.TheOrb_x64 or vst.tORB
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Drift Amount	0	4194304	Value	ValueOutput
+Drift Range	0	4194304	Value	ValueOutput
+Drift Polarity	0	4194304	Value	ValueOutput
+Drift LFO Rate	0	4194304	Value	ValueOutput
+Drift LFO Amoun	0	4194304	Value	ValueOutput
+Drift LFO Phase	0	4194304	Value	ValueOutput
+Drift LFO Wave	0	4194304	Value	ValueOutput
+Drift LFO Sync	0	4194304	Value	ValueOutput
+Drift LFO Power	0	4194304	Value	ValueOutput
+Emphasis	0	4194304	Value	ValueOutput
+Formant 1 Gain	0	4194304	Value	ValueOutput
+Formant 2 Gain	0	4194304	Value	ValueOutput
+Formant 3 Gain	0	4194304	Value	ValueOutput
+Formant 1 Power	0	4194304	Value	ValueOutput
+Formant 2 Power	0	4194304	Value	ValueOutput
+Formant 3 Power	0	4194304	Value	ValueOutput
+Emphasis LFO Ra	0	4194304	Value	ValueOutput
+Emphasis LFO Am	0	4194304	Value	ValueOutput
+Emphasis LFO Ph	0	4194304	Value	ValueOutput
+Emphasis LFO Wa	0	4194304	Value	ValueOutput
+Emphasis LFO Sy	0	4194304	Value	ValueOutput
+Emphasis LFO Po	0	4194304	Value	ValueOutput
+Vowel	0	4194304	Value	ValueOutput
+Vowel Amount	0	4194304	Value	ValueOutput
+Vowel LFO Rate	0	4194304	Value	ValueOutput
+Vowel LFO Amoun	0	4194304	Value	ValueOutput
+Vowel LFO Phase	0	4194304	Value	ValueOutput
+Vowel LFO Wave	0	4194304	Value	ValueOutput
+Vowel LFO Sync	0	4194304	Value	ValueOutput
+Vowel LFO Power	0	4194304	Value	ValueOutput
+Genre	0	4194304	Value	ValueOutput
+Smooth	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

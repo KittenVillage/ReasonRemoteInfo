@@ -1,0 +1,178 @@
+Scope
+Manufacturer	Model
+Digital Suburban	vst.Dexd.Dexed
+Note: Will match scope definitions for vst.Dexd.Dexed or vst.Dexd
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+MASTER TUNE ADJ	0	4194304	Value	ValueOutput
+ALGORITHM	0	4194304	Value	ValueOutput
+FEEDBACK	0	4194304	Value	ValueOutput
+OSC KEY SYNC	0	4194304	Value	ValueOutput
+LFO SPEED	0	4194304	Value	ValueOutput
+LFO DELAY	0	4194304	Value	ValueOutput
+LFO PM DEPTH	0	4194304	Value	ValueOutput
+LFO AM DEPTH	0	4194304	Value	ValueOutput
+LFO KEY SYNC	0	4194304	Value	ValueOutput
+LFO WAVE	0	4194304	Value	ValueOutput
+MIDDLE C	0	4194304	Value	ValueOutput
+P MODE SENS.	0	4194304	Value	ValueOutput
+PITCH EG RATE 1	0	4194304	Value	ValueOutput
+PITCH EG RATE 2	0	4194304	Value	ValueOutput
+PITCH EG RATE 3	0	4194304	Value	ValueOutput
+PITCH EG RATE 4	0	4194304	Value	ValueOutput
+PITCH EG LEVEL 	0	4194304	Value	ValueOutput
+PITCH EG LEVEL 	0	4194304	Value	ValueOutput
+PITCH EG LEVEL 	0	4194304	Value	ValueOutput
+PITCH EG LEVEL 	0	4194304	Value	ValueOutput
+OP1 EG RATE 1	0	4194304	Value	ValueOutput
+OP1 EG RATE 2	0	4194304	Value	ValueOutput
+OP1 EG RATE 3	0	4194304	Value	ValueOutput
+OP1 EG RATE 4	0	4194304	Value	ValueOutput
+OP1 EG LEVEL 1	0	4194304	Value	ValueOutput
+OP1 EG LEVEL 2	0	4194304	Value	ValueOutput
+OP1 EG LEVEL 3	0	4194304	Value	ValueOutput
+OP1 EG LEVEL 4	0	4194304	Value	ValueOutput
+OP1 OUTPUT LEVE	0	4194304	Value	ValueOutput
+OP1 MODE	0	4194304	Value	ValueOutput
+OP1 F COARSE	0	4194304	Value	ValueOutput
+OP1 F FINE	0	4194304	Value	ValueOutput
+OP1 OSC DETUNE	0	4194304	Value	ValueOutput
+OP1 BREAK POINT	0	4194304	Value	ValueOutput
+OP1 L SCALE DEP	0	4194304	Value	ValueOutput
+OP1 R SCALE DEP	0	4194304	Value	ValueOutput
+OP1 L KEY SCALE	0	4194304	Value	ValueOutput
+OP1 R KEY SCALE	0	4194304	Value	ValueOutput
+OP1 RATE SCALIN	0	4194304	Value	ValueOutput
+OP1 A MOD SENS.	0	4194304	Value	ValueOutput
+OP1 KEY VELOCIT	0	4194304	Value	ValueOutput
+OP1 SWITCH	0	4194304	Value	ValueOutput
+OP2 EG RATE 1	0	4194304	Value	ValueOutput
+OP2 EG RATE 2	0	4194304	Value	ValueOutput
+OP2 EG RATE 3	0	4194304	Value	ValueOutput
+OP2 EG RATE 4	0	4194304	Value	ValueOutput
+OP2 EG LEVEL 1	0	4194304	Value	ValueOutput
+OP2 EG LEVEL 2	0	4194304	Value	ValueOutput
+OP2 EG LEVEL 3	0	4194304	Value	ValueOutput
+OP2 EG LEVEL 4	0	4194304	Value	ValueOutput
+OP2 OUTPUT LEVE	0	4194304	Value	ValueOutput
+OP2 MODE	0	4194304	Value	ValueOutput
+OP2 F COARSE	0	4194304	Value	ValueOutput
+OP2 F FINE	0	4194304	Value	ValueOutput
+OP2 OSC DETUNE	0	4194304	Value	ValueOutput
+OP2 BREAK POINT	0	4194304	Value	ValueOutput
+OP2 L SCALE DEP	0	4194304	Value	ValueOutput
+OP2 R SCALE DEP	0	4194304	Value	ValueOutput
+OP2 L KEY SCALE	0	4194304	Value	ValueOutput
+OP2 R KEY SCALE	0	4194304	Value	ValueOutput
+OP2 RATE SCALIN	0	4194304	Value	ValueOutput
+OP2 A MOD SENS.	0	4194304	Value	ValueOutput
+OP2 KEY VELOCIT	0	4194304	Value	ValueOutput
+OP2 SWITCH	0	4194304	Value	ValueOutput
+OP3 EG RATE 1	0	4194304	Value	ValueOutput
+OP3 EG RATE 2	0	4194304	Value	ValueOutput
+OP3 EG RATE 3	0	4194304	Value	ValueOutput
+OP3 EG RATE 4	0	4194304	Value	ValueOutput
+OP3 EG LEVEL 1	0	4194304	Value	ValueOutput
+OP3 EG LEVEL 2	0	4194304	Value	ValueOutput
+OP3 EG LEVEL 3	0	4194304	Value	ValueOutput
+OP3 EG LEVEL 4	0	4194304	Value	ValueOutput
+OP3 OUTPUT LEVE	0	4194304	Value	ValueOutput
+OP3 MODE	0	4194304	Value	ValueOutput
+OP3 F COARSE	0	4194304	Value	ValueOutput
+OP3 F FINE	0	4194304	Value	ValueOutput
+OP3 OSC DETUNE	0	4194304	Value	ValueOutput
+OP3 BREAK POINT	0	4194304	Value	ValueOutput
+OP3 L SCALE DEP	0	4194304	Value	ValueOutput
+OP3 R SCALE DEP	0	4194304	Value	ValueOutput
+OP3 L KEY SCALE	0	4194304	Value	ValueOutput
+OP3 R KEY SCALE	0	4194304	Value	ValueOutput
+OP3 RATE SCALIN	0	4194304	Value	ValueOutput
+OP3 A MOD SENS.	0	4194304	Value	ValueOutput
+OP3 KEY VELOCIT	0	4194304	Value	ValueOutput
+OP3 SWITCH	0	4194304	Value	ValueOutput
+OP4 EG RATE 1	0	4194304	Value	ValueOutput
+OP4 EG RATE 2	0	4194304	Value	ValueOutput
+OP4 EG RATE 3	0	4194304	Value	ValueOutput
+OP4 EG RATE 4	0	4194304	Value	ValueOutput
+OP4 EG LEVEL 1	0	4194304	Value	ValueOutput
+OP4 EG LEVEL 2	0	4194304	Value	ValueOutput
+OP4 EG LEVEL 3	0	4194304	Value	ValueOutput
+OP4 EG LEVEL 4	0	4194304	Value	ValueOutput
+OP4 OUTPUT LEVE	0	4194304	Value	ValueOutput
+OP4 MODE	0	4194304	Value	ValueOutput
+OP4 F COARSE	0	4194304	Value	ValueOutput
+OP4 F FINE	0	4194304	Value	ValueOutput
+OP4 OSC DETUNE	0	4194304	Value	ValueOutput
+OP4 BREAK POINT	0	4194304	Value	ValueOutput
+OP4 L SCALE DEP	0	4194304	Value	ValueOutput
+OP4 R SCALE DEP	0	4194304	Value	ValueOutput
+OP4 L KEY SCALE	0	4194304	Value	ValueOutput
+OP4 R KEY SCALE	0	4194304	Value	ValueOutput
+OP4 RATE SCALIN	0	4194304	Value	ValueOutput
+OP4 A MOD SENS.	0	4194304	Value	ValueOutput
+OP4 KEY VELOCIT	0	4194304	Value	ValueOutput
+OP4 SWITCH	0	4194304	Value	ValueOutput
+OP5 EG RATE 1	0	4194304	Value	ValueOutput
+OP5 EG RATE 2	0	4194304	Value	ValueOutput
+OP5 EG RATE 3	0	4194304	Value	ValueOutput
+OP5 EG RATE 4	0	4194304	Value	ValueOutput
+OP5 EG LEVEL 1	0	4194304	Value	ValueOutput
+OP5 EG LEVEL 2	0	4194304	Value	ValueOutput
+OP5 EG LEVEL 3	0	4194304	Value	ValueOutput
+OP5 EG LEVEL 4	0	4194304	Value	ValueOutput
+OP5 OUTPUT LEVE	0	4194304	Value	ValueOutput
+OP5 MODE	0	4194304	Value	ValueOutput
+OP5 F COARSE	0	4194304	Value	ValueOutput
+OP5 F FINE	0	4194304	Value	ValueOutput
+OP5 OSC DETUNE	0	4194304	Value	ValueOutput
+OP5 BREAK POINT	0	4194304	Value	ValueOutput
+OP5 L SCALE DEP	0	4194304	Value	ValueOutput
+OP5 R SCALE DEP	0	4194304	Value	ValueOutput
+OP5 L KEY SCALE	0	4194304	Value	ValueOutput
+OP5 R KEY SCALE	0	4194304	Value	ValueOutput
+OP5 RATE SCALIN	0	4194304	Value	ValueOutput
+OP5 A MOD SENS.	0	4194304	Value	ValueOutput
+OP5 KEY VELOCIT	0	4194304	Value	ValueOutput
+OP5 SWITCH	0	4194304	Value	ValueOutput
+OP6 EG RATE 1	0	4194304	Value	ValueOutput
+OP6 EG RATE 2	0	4194304	Value	ValueOutput
+OP6 EG RATE 3	0	4194304	Value	ValueOutput
+OP6 EG RATE 4	0	4194304	Value	ValueOutput
+OP6 EG LEVEL 1	0	4194304	Value	ValueOutput
+OP6 EG LEVEL 2	0	4194304	Value	ValueOutput
+OP6 EG LEVEL 3	0	4194304	Value	ValueOutput
+OP6 EG LEVEL 4	0	4194304	Value	ValueOutput
+OP6 OUTPUT LEVE	0	4194304	Value	ValueOutput
+OP6 MODE	0	4194304	Value	ValueOutput
+OP6 F COARSE	0	4194304	Value	ValueOutput
+OP6 F FINE	0	4194304	Value	ValueOutput
+OP6 OSC DETUNE	0	4194304	Value	ValueOutput
+OP6 BREAK POINT	0	4194304	Value	ValueOutput
+OP6 L SCALE DEP	0	4194304	Value	ValueOutput
+OP6 R SCALE DEP	0	4194304	Value	ValueOutput
+OP6 L KEY SCALE	0	4194304	Value	ValueOutput
+OP6 R KEY SCALE	0	4194304	Value	ValueOutput
+OP6 RATE SCALIN	0	4194304	Value	ValueOutput
+OP6 A MOD SENS.	0	4194304	Value	ValueOutput
+OP6 KEY VELOCIT	0	4194304	Value	ValueOutput
+OP6 SWITCH	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

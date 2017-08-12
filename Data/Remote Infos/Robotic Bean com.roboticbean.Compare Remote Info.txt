@@ -1,0 +1,25 @@
+Scope
+Manufacturer	Model
+Robotic Bean	com.roboticbean.Compare
+
+Remotable	Min	Max	Input type	Output type
+Channel 1 Scaling	0	4194304	Value	ValueOutput
+Channel 2 Scaling	0	4194304	Value	ValueOutput
+Channel 3 Scaling	0	4194304	Value	ValueOutput
+Channel 4 Scaling	0	4194304	Value	ValueOutput
+Channel 1 Offset	0	4194304	Value	ValueOutput
+Channel 2 Offset	0	4194304	Value	ValueOutput
+Channel 3 Offset	0	4194304	Value	ValueOutput
+Channel 4 Offset	0	4194304	Value	ValueOutput
+Channel 1 Mute	0	1	Toggle	ValueOutput
+Channel 2 Mute	0	1	Toggle	ValueOutput
+Channel 3 Mute	0	1	Toggle	ValueOutput
+Channel 4 Mute	0	1	Toggle	ValueOutput
+Zoom	0	19	Value	ValueOutput
+Freeze Display	0	1	Toggle	ValueOutput
+Display Mode	0	3	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

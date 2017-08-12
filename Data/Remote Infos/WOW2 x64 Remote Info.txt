@@ -1,0 +1,109 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	vst.sbw2.WOW2 x64
+Note: Will match scope definitions for vst.sbw2.WOW2 x64 or vst.sbw2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Overdrive	0	4194304	Value	ValueOutput
+Mix_Dry_Wet	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Vowel_A	0	4194304	Value	ValueOutput
+Vowel_B	0	4194304	Value	ValueOutput
+EF_Attack	0	4194304	Value	ValueOutput
+EF_Release	0	4194304	Value	ValueOutput
+EF_Freq_Range	0	4194304	Value	ValueOutput
+EF_Gain	0	4194304	Value	ValueOutput
+LFO_Rate	0	4194304	Value	ValueOutput
+LFO_Wave	0	4194304	Value	ValueOutput
+LFO_TrigSens	0	4194304	Value	ValueOutput
+LFO_Man_Trig	0	4194304	Value	ValueOutput
+LFO_TrigOnOff	0	4194304	Value	ValueOutput
+Seq_Random	0	4194304	Value	ValueOutput
+Seq_Tempo	0	4194304	Value	ValueOutput
+Seq_Direction	0	4194304	Value	ValueOutput
+Wobble_Knob	0	4194304	Value	ValueOutput
+WBL_Phase	0	4194304	Value	ValueOutput
+WBL_Random	0	4194304	Value	ValueOutput
+WBL_Set_All	0	4194304	Value	ValueOutput
+EF_Source	0	4194304	Value	ValueOutput
+Cutoff_EF_Amt	0	4194304	Value	ValueOutput
+Cutoff_LFO_Amt	0	4194304	Value	ValueOutput
+Cutoff_SEQ_Amt	0	4194304	Value	ValueOutput
+Cutoff_WBL_Amt	0	4194304	Value	ValueOutput
+Reso_EF_Amt	0	4194304	Value	ValueOutput
+Reso_LFO_Amt	0	4194304	Value	ValueOutput
+Reso_SEQ_Amt	0	4194304	Value	ValueOutput
+Reso_WBL_Amt	0	4194304	Value	ValueOutput
+OD_EF_Amt	0	4194304	Value	ValueOutput
+OD_LFO_Amt	0	4194304	Value	ValueOutput
+OD_SEQ_Amt	0	4194304	Value	ValueOutput
+OD_WBL_Amt	0	4194304	Value	ValueOutput
+Mix_EF_Amt	0	4194304	Value	ValueOutput
+Mix_LFO_Amt	0	4194304	Value	ValueOutput
+Mix_SEQ_Amt	0	4194304	Value	ValueOutput
+Mix_WBL_Amt	0	4194304	Value	ValueOutput
+Volume_EF_Amt	0	4194304	Value	ValueOutput
+Volume_LFO_Amt	0	4194304	Value	ValueOutput
+Volume_SEQ_Amt	0	4194304	Value	ValueOutput
+Volume_WBL_Amt	0	4194304	Value	ValueOutput
+EF_Att_LFO_Amt	0	4194304	Value	ValueOutput
+EF_Att_SEQ_Amt	0	4194304	Value	ValueOutput
+EF_Att_WBL_Amt	0	4194304	Value	ValueOutput
+EF_Dec_LFO_Amt	0	4194304	Value	ValueOutput
+EF_Dec_SEQ_Amt	0	4194304	Value	ValueOutput
+EF_Dec_WBL_Amt	0	4194304	Value	ValueOutput
+EF_Freq_LFO_Amt	0	4194304	Value	ValueOutput
+EF_Freq_SEQ_Amt	0	4194304	Value	ValueOutput
+EF_Freq_WBL_Amt	0	4194304	Value	ValueOutput
+EF_Gain_LFO_Amt	0	4194304	Value	ValueOutput
+EF_Gain_SEQ_Amt	0	4194304	Value	ValueOutput
+EF_Gain_WBL_Amt	0	4194304	Value	ValueOutput
+LFO_Rate_EF_Amt	0	4194304	Value	ValueOutput
+LFO_Rate_SEQ_Amt_	0	4194304	Value	ValueOutput
+LFO_Rate_WBL_Amt_	0	4194304	Value	ValueOutput
+LFO_Wave_EF_Amt	0	4194304	Value	ValueOutput
+LFO_Wave_SEQ_Amt_	0	4194304	Value	ValueOutput
+LFO_Wave_WBL_Amt_	0	4194304	Value	ValueOutput
+LFO_Trig_EF_Amt	0	4194304	Value	ValueOutput
+LFO_Trig_SEQ_Amt_	0	4194304	Value	ValueOutput
+LFO_Trig_WBL_Amt_	0	4194304	Value	ValueOutput
+SEQ_Tempo_EF_Amt_	0	4194304	Value	ValueOutput
+SEQ_Tempo_LFO_Am_	0	4194304	Value	ValueOutput
+SEQ_Tempo_WBL_Am_	0	4194304	Value	ValueOutput
+SEQ_RND_EF_Amt	0	4194304	Value	ValueOutput
+SEQ_RND_LFO_Amt	0	4194304	Value	ValueOutput
+SEQ_RND_WBL_Amt	0	4194304	Value	ValueOutput
+WBL_Knob_EF_Amt	0	4194304	Value	ValueOutput
+WBL_Knob_LFO_Amt_	0	4194304	Value	ValueOutput
+WBL_Knob_SEQ_Amt_	0	4194304	Value	ValueOutput
+WBL_RND_EF_Amt	0	4194304	Value	ValueOutput
+WBL_RND_LFO__Amt_	0	4194304	Value	ValueOutput
+WBL_RND_SEQ__Amt_	0	4194304	Value	ValueOutput
+Vowel_A_EF_Amt	0	4194304	Value	ValueOutput
+Vowel_A_LFO_Amt	0	4194304	Value	ValueOutput
+Vowel_A_SEQ_Amt	0	4194304	Value	ValueOutput
+Vowel_A_WBL_Amt	0	4194304	Value	ValueOutput
+Vowel_B_EF_Amt	0	4194304	Value	ValueOutput
+Vowel_B_LFO_Amt	0	4194304	Value	ValueOutput
+Vowel_B_SEQ_Amt	0	4194304	Value	ValueOutput
+Vowel_B_WBL_Amt	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

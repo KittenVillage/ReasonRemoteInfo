@@ -1,0 +1,54 @@
+Scope
+Manufacturer	Model
+McDSP	vst.GDyn.Channel_G_Dyn_x64
+Note: Will match scope definitions for vst.GDyn.Channel_G_Dyn_x64 or vst.GDyn
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Comp Knee	0	4194304	Value	ValueOutput
+Comp Key	0	4194304	Value	ValueOutput
+Comp Threshold	0	4194304	Value	ValueOutput
+Comp Ratio	0	4194304	Value	ValueOutput
+Comp Attack	0	4194304	Value	ValueOutput
+Comp Release	0	4194304	Value	ValueOutput
+Comp Gain	0	4194304	Value	ValueOutput
+Comp Enable	0	4194304	Value	ValueOutput
+Exp/Gate Key	0	4194304	Value	ValueOutput
+Exp/Gate Thresh	0	4194304	Value	ValueOutput
+Exp/Gate Ratio	0	4194304	Value	ValueOutput
+Exp/Gate Attack	0	4194304	Value	ValueOutput
+Exp/Gate Hold	0	4194304	Value	ValueOutput
+Exp/Gate Releas	0	4194304	Value	ValueOutput
+Exp/Gate Range	0	4194304	Value	ValueOutput
+Exp/Gate Enable	0	4194304	Value	ValueOutput
+Display Page	0	4194304	Value	ValueOutput
+Dynamics Filter	0	4194304	Value	ValueOutput
+Dynamics Filter	0	4194304	Value	ValueOutput
+Dynamics HPF Fr	0	4194304	Value	ValueOutput
+Dynamics HPF Q	0	4194304	Value	ValueOutput
+Dynamics HPF Mo	0	4194304	Value	ValueOutput
+Dynamics HPF En	0	4194304	Value	ValueOutput
+Dynamics LPF Fr	0	4194304	Value	ValueOutput
+Dynamics LPF Q	0	4194304	Value	ValueOutput
+Dynamics LPF Mo	0	4194304	Value	ValueOutput
+Dynamics LPF En	0	4194304	Value	ValueOutput
+Phase Right	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

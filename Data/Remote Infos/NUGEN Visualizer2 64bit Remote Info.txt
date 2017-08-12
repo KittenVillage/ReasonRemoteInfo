@@ -1,0 +1,191 @@
+Scope
+Manufacturer	Model
+NUGEN Audio	vst.V%5BR2.NUGEN Visualizer2 64bit
+Note: Will match scope definitions for vst.V%5BR2.NUGEN Visualizer2 64bit or vst.V%5BR2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Show Level Mete	0	4194304	Value	ValueOutput
+Show Frequency 	0	4194304	Value	ValueOutput
+Show Stereo Dis	0	4194304	Value	ValueOutput
+Show CorrByFreq	0	4194304	Value	ValueOutput
+Show Vectorscop	0	4194304	Value	ValueOutput
+Show Spectrogra	0	4194304	Value	ValueOutput
+Show Stereo Spe	0	4194304	Value	ValueOutput
+Show Correlatio	0	4194304	Value	ValueOutput
+Global Freeze	0	4194304	Value	ValueOutput
+ControlPanel	0	4194304	Value	ValueOutput
+Visual Solo	0	4194304	Value	ValueOutput
+Level Meter Sca	0	4194304	Value	ValueOutput
+Level Meter Sty	0	4194304	Value	ValueOutput
+Level Meter Sty	0	4194304	Value	ValueOutput
+Level Meter Dir	0	4194304	Value	ValueOutput
+Level Meter Out	0	4194304	Value	ValueOutput
+Level Meter Inn	0	4194304	Value	ValueOutput
+Level Meter Pea	0	4194304	Value	ValueOutput
+Level Meter Col	0	4194304	Value	ValueOutput
+Level Meter Col	0	4194304	Value	ValueOutput
+Level Meter Col	0	4194304	Value	ValueOutput
+Level Meter Col	0	4194304	Value	ValueOutput
+Level Meter Spl	0	4194304	Value	ValueOutput
+Level Meter Spl	0	4194304	Value	ValueOutput
+Level Meter Off	0	4194304	Value	ValueOutput
+Level Meter RMS	0	4194304	Value	ValueOutput
+Level Meter RMS	0	4194304	Value	ValueOutput
+Level Meter RMS	0	4194304	Value	ValueOutput
+Level Meter Res	0	4194304	Value	ValueOutput
+Level Meter Fal	0	4194304	Value	ValueOutput
+Level Meter RMS	0	4194304	Value	ValueOutput
+Level Meter RMS	0	4194304	Value	ValueOutput
+Level Meter Inf	0	4194304	Value	ValueOutput
+Level Meter Pea	0	4194304	Value	ValueOutput
+Level Meter Min	0	4194304	Value	ValueOutput
+Level Meter Max	0	4194304	Value	ValueOutput
+Level Meter Fre	0	4194304	Value	ValueOutput
+FFT Solid	0	4194304	Value	ValueOutput
+FFT Freeze	0	4194304	Value	ValueOutput
+FFT Peak	0	4194304	Value	ValueOutput
+FFT Col Left	0	4194304	Value	ValueOutput
+FFT Col Right	0	4194304	Value	ValueOutput
+FFT Col Av	0	4194304	Value	ValueOutput
+FFT Col Left Pe	0	4194304	Value	ValueOutput
+FFT Col Right P	0	4194304	Value	ValueOutput
+FFT Col Av Peak	0	4194304	Value	ValueOutput
+FFT Display	0	4194304	Value	ValueOutput
+FFT Response	0	4194304	Value	ValueOutput
+FFT Fallback	0	4194304	Value	ValueOutput
+FFT Bar Type	0	4194304	Value	ValueOutput
+FFT Inf Peak Ho	0	4194304	Value	ValueOutput
+FFT Peak Hold T	0	4194304	Value	ValueOutput
+FFT Min Freq	0	4194304	Value	ValueOutput
+FFT Max Freq	0	4194304	Value	ValueOutput
+FFT Min Db	0	4194304	Value	ValueOutput
+FFT Max Db	0	4194304	Value	ValueOutput
+FFT Rainbow	0	4194304	Value	ValueOutput
+Stereo FFT Disp	0	4194304	Value	ValueOutput
+Stereo FFT Soli	0	4194304	Value	ValueOutput
+Stereo FFT Free	0	4194304	Value	ValueOutput
+Stereo FFT Peak	0	4194304	Value	ValueOutput
+Stereo FFT Col 	0	4194304	Value	ValueOutput
+Stereo FFT Col 	0	4194304	Value	ValueOutput
+Stereo FFT Col 	0	4194304	Value	ValueOutput
+Stereo FFT Col 	0	4194304	Value	ValueOutput
+Stereo FFT Resp	0	4194304	Value	ValueOutput
+Stereo FFT Fall	0	4194304	Value	ValueOutput
+Stereo FFT Bar 	0	4194304	Value	ValueOutput
+Stereo FFT Inf 	0	4194304	Value	ValueOutput
+Stereo FFT Peak	0	4194304	Value	ValueOutput
+Stereo FFT Min 	0	4194304	Value	ValueOutput
+Stereo FFT Max 	0	4194304	Value	ValueOutput
+Stereo FFT Min 	0	4194304	Value	ValueOutput
+Stereo FFT Max 	0	4194304	Value	ValueOutput
+Stereo FFT Rain	0	4194304	Value	ValueOutput
+Spectrogram Dis	0	4194304	Value	ValueOutput
+Spectrogram Col	0	4194304	Value	ValueOutput
+Spectrogram Smo	0	4194304	Value	ValueOutput
+Spectrogram Fre	0	4194304	Value	ValueOutput
+Spectrogram Bar	0	4194304	Value	ValueOutput
+Spectrogram Min	0	4194304	Value	ValueOutput
+Spectrogram Max	0	4194304	Value	ValueOutput
+Stereo Spectro 	0	4194304	Value	ValueOutput
+Stereo Spectro 	0	4194304	Value	ValueOutput
+Stereo Spectro 	0	4194304	Value	ValueOutput
+Stereo Spectro 	0	4194304	Value	ValueOutput
+Stereo Spectro 	0	4194304	Value	ValueOutput
+Stereo Spectro 	0	4194304	Value	ValueOutput
+Vectorscope Fre	0	4194304	Value	ValueOutput
+Vectorscope Col	0	4194304	Value	ValueOutput
+Vectorscope Col	0	4194304	Value	ValueOutput
+Vectorscope Res	0	4194304	Value	ValueOutput
+Vectorscope Zoo	0	4194304	Value	ValueOutput
+Vectorscope Joi	0	4194304	Value	ValueOutput
+Vectorscope Vie	0	4194304	Value	ValueOutput
+Polar Col	0	4194304	Value	ValueOutput
+Polar Peak Col	0	4194304	Value	ValueOutput
+Polar Solid	0	4194304	Value	ValueOutput
+Polar Peak	0	4194304	Value	ValueOutput
+Polar Inf Peak 	0	4194304	Value	ValueOutput
+Polar Peak Hold	0	4194304	Value	ValueOutput
+Vectorscope Aut	0	4194304	Value	ValueOutput
+Correlation Col	0	4194304	Value	ValueOutput
+Correlation Res	0	4194304	Value	ValueOutput
+Correlation Fre	0	4194304	Value	ValueOutput
+Correlation His	0	4194304	Value	ValueOutput
+Corr by freq Di	0	4194304	Value	ValueOutput
+Corr by freq So	0	4194304	Value	ValueOutput
+Corr by freq Fr	0	4194304	Value	ValueOutput
+Corr by freq Pe	0	4194304	Value	ValueOutput
+Corr by freq Co	0	4194304	Value	ValueOutput
+Corr by freq Co	0	4194304	Value	ValueOutput
+Corr by freq Co	0	4194304	Value	ValueOutput
+Corr by freq Co	0	4194304	Value	ValueOutput
+Corr by freq Re	0	4194304	Value	ValueOutput
+Corr by freq Fa	0	4194304	Value	ValueOutput
+Corr by freq Ba	0	4194304	Value	ValueOutput
+Corr by freq In	0	4194304	Value	ValueOutput
+Corr by freq Pe	0	4194304	Value	ValueOutput
+Corr by freq Mi	0	4194304	Value	ValueOutput
+Corr by freq Ma	0	4194304	Value	ValueOutput
+Corr by freq Ra	0	4194304	Value	ValueOutput
+Pink Noise Gen	0	4194304	Value	ValueOutput
+FFT Size	0	4194304	Value	ValueOutput
+Num Before Clip	0	4194304	Value	ValueOutput
+RMS Size	0	4194304	Value	ValueOutput
+FFT Window Fn	0	4194304	Value	ValueOutput
+Equal Loudness 	0	4194304	Value	ValueOutput
+Spectrogram Col	0	4194304	Value	ValueOutput
+Stereo Spectro 	0	4194304	Value	ValueOutput
+Big Editor Widt	0	4194304	Value	ValueOutput
+Big Editor Heig	0	4194304	Value	ValueOutput
+Small Editor Wi	0	4194304	Value	ValueOutput
+Small Editor He	0	4194304	Value	ValueOutput
+Send Compare Mo	0	4194304	Value	ValueOutput
+Send Level Mete	0	4194304	Value	ValueOutput
+Send Level Mete	0	4194304	Value	ValueOutput
+Send Level Mete	0	4194304	Value	ValueOutput
+Send Level Mete	0	4194304	Value	ValueOutput
+Send Level Mete	0	4194304	Value	ValueOutput
+Send Level Mete	0	4194304	Value	ValueOutput
+Send Level Mete	0	4194304	Value	ValueOutput
+Send FFT Col Le	0	4194304	Value	ValueOutput
+Send FFT Col Ri	0	4194304	Value	ValueOutput
+Send FFT Col Av	0	4194304	Value	ValueOutput
+Send FFT Col Le	0	4194304	Value	ValueOutput
+Send FFT Col Ri	0	4194304	Value	ValueOutput
+Send FFT Col Av	0	4194304	Value	ValueOutput
+Send FFT Peak	0	4194304	Value	ValueOutput
+Send Stereo FFT	0	4194304	Value	ValueOutput
+Send Stereo FFT	0	4194304	Value	ValueOutput
+Send Stereo FFT	0	4194304	Value	ValueOutput
+Send Stereo FFT	0	4194304	Value	ValueOutput
+Send Stereo FFT	0	4194304	Value	ValueOutput
+Send CorrByFreq	0	4194304	Value	ValueOutput
+Send CorrByFreq	0	4194304	Value	ValueOutput
+Send CorrByFreq	0	4194304	Value	ValueOutput
+Send CorrByFreq	0	4194304	Value	ValueOutput
+Send Corr by fr	0	4194304	Value	ValueOutput
+Send Vectorscop	0	4194304	Value	ValueOutput
+Send Polar Col	0	4194304	Value	ValueOutput
+Send Polar Peak	0	4194304	Value	ValueOutput
+Send Polar Peak	0	4194304	Value	ValueOutput
+Middle Re-sizer	0	4194304	Value	ValueOutput
+Vert Level Mete	0	4194304	Value	ValueOutput
+Horiz Level Met	0	4194304	Value	ValueOutput
+Controls Link	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

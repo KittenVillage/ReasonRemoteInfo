@@ -1,0 +1,98 @@
+Scope
+Manufacturer	Model
+WiZAudio	nl.wzwart.AdditiveOscillator
+
+Remotable	Min	Max	Input type	Output type
+Mode	0	7	Value	ValueOutput
+Engine	0	1	Toggle	ValueOutput
+Start	0	4194304	Value	ValueOutput
+End	0	4194304	Value	ValueOutput
+Start iFFT	0	465	Value	ValueOutput
+End iFFT	0	465	Value	ValueOutput
+Fix	0	1	Toggle	ValueOutput
+Pitchbend Range	0	24	Value	ValueOutput
+Phase	0	360	Value	ValueOutput
+Velocity	0	200	Value	ValueOutput
+Level	0	127	Value	ValueOutput
+Octave	0	9	Value	ValueOutput
+Semi	0	12	Value	ValueOutput
+Cent	0	100	Value	ValueOutput
+Curve	0	100	Value	ValueOutput
+Attack	0	127	Value	ValueOutput
+Decay	0	127	Value	ValueOutput
+Sustain	0	127	Value	ValueOutput
+Release	0	127	Value	ValueOutput
+LFO Sync	0	1	Toggle	ValueOutput
+LFO Rate	0	127	Value	ValueOutput
+LFO Rate sync	0	15	Value	ValueOutput
+Amplitude 1	0	127	Value	ValueOutput
+Amplitude 2	0	127	Value	ValueOutput
+Amplitude 3	0	127	Value	ValueOutput
+Amplitude 4	0	127	Value	ValueOutput
+Amplitude 5	0	127	Value	ValueOutput
+Amplitude 6	0	127	Value	ValueOutput
+Amplitude 7	0	127	Value	ValueOutput
+Amplitude 8	0	127	Value	ValueOutput
+Amplitude 9	0	127	Value	ValueOutput
+Amplitude 10	0	127	Value	ValueOutput
+Amplitude 11	0	127	Value	ValueOutput
+Amplitude 12	0	127	Value	ValueOutput
+Amplitude 13	0	127	Value	ValueOutput
+Amplitude 14	0	127	Value	ValueOutput
+Amplitude 15	0	127	Value	ValueOutput
+Amplitude 16	0	127	Value	ValueOutput
+Amplitude 17	0	127	Value	ValueOutput
+Amplitude 18	0	127	Value	ValueOutput
+Amplitude 19	0	127	Value	ValueOutput
+Amplitude 20	0	127	Value	ValueOutput
+Amplitude 21	0	127	Value	ValueOutput
+Amplitude 22	0	127	Value	ValueOutput
+Amplitude 23	0	127	Value	ValueOutput
+Amplitude 24	0	127	Value	ValueOutput
+Amplitude 25	0	127	Value	ValueOutput
+Amplitude 26	0	127	Value	ValueOutput
+Amplitude 27	0	127	Value	ValueOutput
+Amplitude 28	0	127	Value	ValueOutput
+Amplitude 29	0	127	Value	ValueOutput
+Amplitude 30	0	127	Value	ValueOutput
+Amplitude 31	0	127	Value	ValueOutput
+Amplitude 32	0	127	Value	ValueOutput
+Offset 1	0	4194304	Value	ValueOutput
+Offset 2	0	4194304	Value	ValueOutput
+Offset 3	0	4194304	Value	ValueOutput
+Offset 4	0	4194304	Value	ValueOutput
+Offset 5	0	4194304	Value	ValueOutput
+Offset 6	0	4194304	Value	ValueOutput
+Offset 7	0	4194304	Value	ValueOutput
+Offset 8	0	4194304	Value	ValueOutput
+Offset 9	0	4194304	Value	ValueOutput
+Offset 10	0	4194304	Value	ValueOutput
+Offset 11	0	4194304	Value	ValueOutput
+Offset 12	0	4194304	Value	ValueOutput
+Offset 13	0	4194304	Value	ValueOutput
+Offset 14	0	4194304	Value	ValueOutput
+Offset 15	0	4194304	Value	ValueOutput
+Offset 16	0	4194304	Value	ValueOutput
+Offset 17	0	4194304	Value	ValueOutput
+Offset 18	0	4194304	Value	ValueOutput
+Offset 19	0	4194304	Value	ValueOutput
+Offset 20	0	4194304	Value	ValueOutput
+Offset 21	0	4194304	Value	ValueOutput
+Offset 22	0	4194304	Value	ValueOutput
+Offset 23	0	4194304	Value	ValueOutput
+Offset 24	0	4194304	Value	ValueOutput
+Offset 25	0	4194304	Value	ValueOutput
+Offset 26	0	4194304	Value	ValueOutput
+Offset 27	0	4194304	Value	ValueOutput
+Offset 28	0	4194304	Value	ValueOutput
+Offset 29	0	4194304	Value	ValueOutput
+Offset 30	0	4194304	Value	ValueOutput
+Offset 31	0	4194304	Value	ValueOutput
+Offset 32	0	4194304	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

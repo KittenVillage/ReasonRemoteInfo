@@ -1,0 +1,21 @@
+Scope
+Manufacturer	Model
+Bassment DSP	com.bassmentdsp.LotusCompressor
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Time Scale	0	4194304	Value	ValueOutput
+Side Chain	0	1	Toggle	ValueOutput
+Stereo Link	0	1	Toggle	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Ratio	0	4194304	Value	ValueOutput
+Knee	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

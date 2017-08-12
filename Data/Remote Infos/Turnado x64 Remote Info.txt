@@ -1,0 +1,275 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	vst.sbtu.Turnado x64
+Note: Will match scope definitions for vst.sbtu.Turnado x64 or vst.sbtu
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Control 1	0	4194304	Value	ValueOutput
+Control 2	0	4194304	Value	ValueOutput
+Control 3	0	4194304	Value	ValueOutput
+Control 4	0	4194304	Value	ValueOutput
+Control 5	0	4194304	Value	ValueOutput
+Control 6	0	4194304	Value	ValueOutput
+Control 7	0	4194304	Value	ValueOutput
+Control 8	0	4194304	Value	ValueOutput
+Dictator	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Randomize	0	4194304	Value	ValueOutput
+Reserved3	0	4194304	Value	ValueOutput
+FX1 Parameter 1	0	4194304	Value	ValueOutput
+FX1 Parameter 2	0	4194304	Value	ValueOutput
+FX1 Parameter 3	0	4194304	Value	ValueOutput
+FX1 Parameter 4	0	4194304	Value	ValueOutput
+FX1 Dry Wet	0	4194304	Value	ValueOutput
+FX1 Bypass	0	4194304	Value	ValueOutput
+FX1 Param1 Knob Amt	0	4194304	Value	ValueOutput
+FX1 Param2 Knob Amt	0	4194304	Value	ValueOutput
+FX1 Param3 Knob Amt	0	4194304	Value	ValueOutput
+FX1 Param4 Knob Amt	0	4194304	Value	ValueOutput
+FX1 DryWet Knob Amt	0	4194304	Value	ValueOutput
+FX1 Lfo Rate	0	4194304	Value	ValueOutput
+FX1 Lfo Phase	0	4194304	Value	ValueOutput
+FX1 Lfo Amount	0	4194304	Value	ValueOutput
+FX1 EF Attack	0	4194304	Value	ValueOutput
+FX1 EF Relese	0	4194304	Value	ValueOutput
+FX1 EF Amount	0	4194304	Value	ValueOutput
+FX1 Lfo2 Rate	0	4194304	Value	ValueOutput
+FX1 Lfo2 Phase	0	4194304	Value	ValueOutput
+FX1 Lfo2 Amount	0	4194304	Value	ValueOutput
+FX1 Lfo Rate KA	0	4194304	Value	ValueOutput
+FX1 Lfo Phase KA	0	4194304	Value	ValueOutput
+FX1 Lfo Amount KA	0	4194304	Value	ValueOutput
+FX1 EF Attack KA	0	4194304	Value	ValueOutput
+FX1 EF Release KA	0	4194304	Value	ValueOutput
+FX1 EF Amount KA	0	4194304	Value	ValueOutput
+FX1 Lfo2 Rate KA	0	4194304	Value	ValueOutput
+FX1 Lfo2 Phase KA	0	4194304	Value	ValueOutput
+FX1 Lfo2 Amount KA	0	4194304	Value	ValueOutput
+FX2 Parameter 1	0	4194304	Value	ValueOutput
+FX2 Parameter 2	0	4194304	Value	ValueOutput
+FX2 Parameter 3	0	4194304	Value	ValueOutput
+FX2 Parameter 4	0	4194304	Value	ValueOutput
+FX2 Dry Wet	0	4194304	Value	ValueOutput
+FX2 Bypass	0	4194304	Value	ValueOutput
+FX2 Param1 Knob Amt	0	4194304	Value	ValueOutput
+FX2 Param2 Knob Amt	0	4194304	Value	ValueOutput
+FX2 Param3 Knob Amt	0	4194304	Value	ValueOutput
+FX2 Param4 Knob Amt	0	4194304	Value	ValueOutput
+FX2 DryWet Knob Amt	0	4194304	Value	ValueOutput
+FX2 Lfo Rate	0	4194304	Value	ValueOutput
+FX2 Lfo Phase	0	4194304	Value	ValueOutput
+FX2 Lfo Amount	0	4194304	Value	ValueOutput
+FX2 EF Attack	0	4194304	Value	ValueOutput
+FX2 EF Relese	0	4194304	Value	ValueOutput
+FX2 EF Amount	0	4194304	Value	ValueOutput
+FX2 Lfo2 Rate	0	4194304	Value	ValueOutput
+FX2 Lfo2 Phase	0	4194304	Value	ValueOutput
+FX2 Lfo2 Amount	0	4194304	Value	ValueOutput
+FX2 Lfo Rate KA	0	4194304	Value	ValueOutput
+FX2 Lfo Phase KA	0	4194304	Value	ValueOutput
+FX2 Lfo Amount KA	0	4194304	Value	ValueOutput
+FX2 EF Attack KA	0	4194304	Value	ValueOutput
+FX2 EF Release KA	0	4194304	Value	ValueOutput
+FX2 EF Amount KA	0	4194304	Value	ValueOutput
+FX2 Lfo2 Rate KA	0	4194304	Value	ValueOutput
+FX2 Lfo2 Phase KA	0	4194304	Value	ValueOutput
+FX2 Lfo2 Amount KA	0	4194304	Value	ValueOutput
+FX3 Parameter 1	0	4194304	Value	ValueOutput
+FX3 Parameter 2	0	4194304	Value	ValueOutput
+FX3 Parameter 3	0	4194304	Value	ValueOutput
+FX3 Parameter 4	0	4194304	Value	ValueOutput
+FX3 Dry Wet	0	4194304	Value	ValueOutput
+FX3 Bypass	0	4194304	Value	ValueOutput
+FX3 Param1 Knob Amt	0	4194304	Value	ValueOutput
+FX3 Param2 Knob Amt	0	4194304	Value	ValueOutput
+FX3 Param3 Knob Amt	0	4194304	Value	ValueOutput
+FX3 Param4 Knob Amt	0	4194304	Value	ValueOutput
+FX3 DryWet Knob Amt	0	4194304	Value	ValueOutput
+FX3 Lfo Rate	0	4194304	Value	ValueOutput
+FX3 Lfo Phase	0	4194304	Value	ValueOutput
+FX3 Lfo Amount	0	4194304	Value	ValueOutput
+FX3 EF Attack	0	4194304	Value	ValueOutput
+FX3 EF Relese	0	4194304	Value	ValueOutput
+FX3 EF Amount	0	4194304	Value	ValueOutput
+FX3 Lfo2 Rate	0	4194304	Value	ValueOutput
+FX3 Lfo2 Phase	0	4194304	Value	ValueOutput
+FX3 Lfo2 Amount	0	4194304	Value	ValueOutput
+FX3 Lfo Rate KA	0	4194304	Value	ValueOutput
+FX3 Lfo Phase KA	0	4194304	Value	ValueOutput
+FX3 Lfo Amount KA	0	4194304	Value	ValueOutput
+FX3 EF Attack KA	0	4194304	Value	ValueOutput
+FX3 EF Release KA	0	4194304	Value	ValueOutput
+FX3 EF Amount KA	0	4194304	Value	ValueOutput
+FX3 Lfo2 Rate KA	0	4194304	Value	ValueOutput
+FX3 Lfo2 Phase KA	0	4194304	Value	ValueOutput
+FX3 Lfo2 Amount KA	0	4194304	Value	ValueOutput
+FX4 Parameter 1	0	4194304	Value	ValueOutput
+FX4 Parameter 2	0	4194304	Value	ValueOutput
+FX4 Parameter 3	0	4194304	Value	ValueOutput
+FX4 Parameter 4	0	4194304	Value	ValueOutput
+FX4 Dry Wet	0	4194304	Value	ValueOutput
+FX4 Bypass	0	4194304	Value	ValueOutput
+FX4 Param1 Knob Amt	0	4194304	Value	ValueOutput
+FX4 Param2 Knob Amt	0	4194304	Value	ValueOutput
+FX4 Param3 Knob Amt	0	4194304	Value	ValueOutput
+FX4 Param4 Knob Amt	0	4194304	Value	ValueOutput
+FX4 DryWet Knob Amt	0	4194304	Value	ValueOutput
+FX4 Lfo Rate	0	4194304	Value	ValueOutput
+FX4 Lfo Phase	0	4194304	Value	ValueOutput
+FX4 Lfo Amount	0	4194304	Value	ValueOutput
+FX4 EF Attack	0	4194304	Value	ValueOutput
+FX4 EF Relese	0	4194304	Value	ValueOutput
+FX4 EF Amount	0	4194304	Value	ValueOutput
+FX4 Lfo2 Rate	0	4194304	Value	ValueOutput
+FX4 Lfo2 Phase	0	4194304	Value	ValueOutput
+FX4 Lfo2 Amount	0	4194304	Value	ValueOutput
+FX4 Lfo Rate KA	0	4194304	Value	ValueOutput
+FX4 Lfo Phase KA	0	4194304	Value	ValueOutput
+FX4 Lfo Amount KA	0	4194304	Value	ValueOutput
+FX4 EF Attack KA	0	4194304	Value	ValueOutput
+FX4 EF Release KA	0	4194304	Value	ValueOutput
+FX4 EF Amount KA	0	4194304	Value	ValueOutput
+FX4 Lfo2 Rate KA	0	4194304	Value	ValueOutput
+FX4 Lfo2 Phase KA	0	4194304	Value	ValueOutput
+FX4 Lfo2 Amount KA	0	4194304	Value	ValueOutput
+FX5 Parameter 1	0	4194304	Value	ValueOutput
+FX5 Parameter 2	0	4194304	Value	ValueOutput
+FX5 Parameter 3	0	4194304	Value	ValueOutput
+FX5 Parameter 4	0	4194304	Value	ValueOutput
+FX5 Dry Wet	0	4194304	Value	ValueOutput
+FX5 Bypass	0	4194304	Value	ValueOutput
+FX5 Param1 Knob Amt	0	4194304	Value	ValueOutput
+FX5 Param2 Knob Amt	0	4194304	Value	ValueOutput
+FX5 Param3 Knob Amt	0	4194304	Value	ValueOutput
+FX5 Param4 Knob Amt	0	4194304	Value	ValueOutput
+FX5 DryWet Knob Amt	0	4194304	Value	ValueOutput
+FX5 Lfo Rate	0	4194304	Value	ValueOutput
+FX5 Lfo Phase	0	4194304	Value	ValueOutput
+FX5 Lfo Amount	0	4194304	Value	ValueOutput
+FX5 EF Attack	0	4194304	Value	ValueOutput
+FX5 EF Relese	0	4194304	Value	ValueOutput
+FX5 EF Amount	0	4194304	Value	ValueOutput
+FX5 Lfo2 Rate	0	4194304	Value	ValueOutput
+FX5 Lfo2 Phase	0	4194304	Value	ValueOutput
+FX5 Lfo2 Amount	0	4194304	Value	ValueOutput
+FX5 Lfo Rate KA	0	4194304	Value	ValueOutput
+FX5 Lfo Phase KA	0	4194304	Value	ValueOutput
+FX5 Lfo Amount KA	0	4194304	Value	ValueOutput
+FX5 EF Attack KA	0	4194304	Value	ValueOutput
+FX5 EF Release KA	0	4194304	Value	ValueOutput
+FX5 EF Amount KA	0	4194304	Value	ValueOutput
+FX5 Lfo2 Rate KA	0	4194304	Value	ValueOutput
+FX5 Lfo2 Phase KA	0	4194304	Value	ValueOutput
+FX5 Lfo2 Amount KA	0	4194304	Value	ValueOutput
+FX6 Parameter 1	0	4194304	Value	ValueOutput
+FX6 Parameter 2	0	4194304	Value	ValueOutput
+FX6 Parameter 3	0	4194304	Value	ValueOutput
+FX6 Parameter 4	0	4194304	Value	ValueOutput
+FX6 Dry Wet	0	4194304	Value	ValueOutput
+FX6 Bypass	0	4194304	Value	ValueOutput
+FX6 Param1 Knob Amt	0	4194304	Value	ValueOutput
+FX6 Param2 Knob Amt	0	4194304	Value	ValueOutput
+FX6 Param3 Knob Amt	0	4194304	Value	ValueOutput
+FX6 Param4 Knob Amt	0	4194304	Value	ValueOutput
+FX6 DryWet Knob Amt	0	4194304	Value	ValueOutput
+FX6 Lfo Rate	0	4194304	Value	ValueOutput
+FX6 Lfo Phase	0	4194304	Value	ValueOutput
+FX6 Lfo Amount	0	4194304	Value	ValueOutput
+FX6 EF Attack	0	4194304	Value	ValueOutput
+FX6 EF Relese	0	4194304	Value	ValueOutput
+FX6 EF Amount	0	4194304	Value	ValueOutput
+FX6 Lfo2 Rate	0	4194304	Value	ValueOutput
+FX6 Lfo2 Phase	0	4194304	Value	ValueOutput
+FX6 Lfo2 Amount	0	4194304	Value	ValueOutput
+FX6 Lfo Rate KA	0	4194304	Value	ValueOutput
+FX6 Lfo Phase KA	0	4194304	Value	ValueOutput
+FX6 Lfo Amount KA	0	4194304	Value	ValueOutput
+FX6 EF Attack KA	0	4194304	Value	ValueOutput
+FX6 EF Release KA	0	4194304	Value	ValueOutput
+FX6 EF Amount KA	0	4194304	Value	ValueOutput
+FX6 Lfo2 Rate KA	0	4194304	Value	ValueOutput
+FX6 Lfo2 Phase KA	0	4194304	Value	ValueOutput
+FX6 Lfo2 Amount KA	0	4194304	Value	ValueOutput
+FX7 Parameter 1	0	4194304	Value	ValueOutput
+FX7 Parameter 2	0	4194304	Value	ValueOutput
+FX7 Parameter 3	0	4194304	Value	ValueOutput
+FX7 Parameter 4	0	4194304	Value	ValueOutput
+FX7 Dry Wet	0	4194304	Value	ValueOutput
+FX7 Bypass	0	4194304	Value	ValueOutput
+FX7 Param1 Knob Amt	0	4194304	Value	ValueOutput
+FX7 Param2 Knob Amt	0	4194304	Value	ValueOutput
+FX7 Param3 Knob Amt	0	4194304	Value	ValueOutput
+FX7 Param4 Knob Amt	0	4194304	Value	ValueOutput
+FX7 DryWet Knob Amt	0	4194304	Value	ValueOutput
+FX7 Lfo Rate	0	4194304	Value	ValueOutput
+FX7 Lfo Phase	0	4194304	Value	ValueOutput
+FX7 Lfo Amount	0	4194304	Value	ValueOutput
+FX7 EF Attack	0	4194304	Value	ValueOutput
+FX7 EF Relese	0	4194304	Value	ValueOutput
+FX7 EF Amount	0	4194304	Value	ValueOutput
+FX7 Lfo2 Rate	0	4194304	Value	ValueOutput
+FX7 Lfo2 Phase	0	4194304	Value	ValueOutput
+FX7 Lfo2 Amount	0	4194304	Value	ValueOutput
+FX7 Lfo Rate KA	0	4194304	Value	ValueOutput
+FX7 Lfo Phase KA	0	4194304	Value	ValueOutput
+FX7 Lfo Amount KA	0	4194304	Value	ValueOutput
+FX7 EF Attack KA	0	4194304	Value	ValueOutput
+FX7 EF Release KA	0	4194304	Value	ValueOutput
+FX7 EF Amount KA	0	4194304	Value	ValueOutput
+FX7 Lfo2 Rate KA	0	4194304	Value	ValueOutput
+FX7 Lfo2 Phase KA	0	4194304	Value	ValueOutput
+FX7 Lfo2 Amount KA	0	4194304	Value	ValueOutput
+FX8 Parameter 1	0	4194304	Value	ValueOutput
+FX8 Parameter 2	0	4194304	Value	ValueOutput
+FX8 Parameter 3	0	4194304	Value	ValueOutput
+FX8 Parameter 4	0	4194304	Value	ValueOutput
+FX8 Dry Wet	0	4194304	Value	ValueOutput
+FX8 Bypass	0	4194304	Value	ValueOutput
+FX8 Param1 Knob Amt	0	4194304	Value	ValueOutput
+FX8 Param2 Knob Amt	0	4194304	Value	ValueOutput
+FX8 Param3 Knob Amt	0	4194304	Value	ValueOutput
+FX8 Param4 Knob Amt	0	4194304	Value	ValueOutput
+FX8 DryWet Knob Amt	0	4194304	Value	ValueOutput
+FX8 Lfo Rate	0	4194304	Value	ValueOutput
+FX8 Lfo Phase	0	4194304	Value	ValueOutput
+FX8 Lfo Amount	0	4194304	Value	ValueOutput
+FX8 EF Attack	0	4194304	Value	ValueOutput
+FX8 EF Relese	0	4194304	Value	ValueOutput
+FX8 EF Amount	0	4194304	Value	ValueOutput
+FX8 Lfo2 Rate	0	4194304	Value	ValueOutput
+FX8 Lfo2 Phase	0	4194304	Value	ValueOutput
+FX8 Lfo2 Amount	0	4194304	Value	ValueOutput
+FX8 Lfo Rate KA	0	4194304	Value	ValueOutput
+FX8 Lfo Phase KA	0	4194304	Value	ValueOutput
+FX8 Lfo Amount KA	0	4194304	Value	ValueOutput
+FX8 EF Attack KA	0	4194304	Value	ValueOutput
+FX8 EF Release KA	0	4194304	Value	ValueOutput
+FX8 EF Amount KA	0	4194304	Value	ValueOutput
+FX8 Lfo2 Rate KA	0	4194304	Value	ValueOutput
+FX8 Lfo2 Phase KA	0	4194304	Value	ValueOutput
+FX8 Lfo2 Amount KA	0	4194304	Value	ValueOutput
+FX1 FX Gain	0	4194304	Value	ValueOutput
+FX2 FX Gain	0	4194304	Value	ValueOutput
+FX3 FX Gain	0	4194304	Value	ValueOutput
+FX4 FX Gain	0	4194304	Value	ValueOutput
+FX5 FX Gain	0	4194304	Value	ValueOutput
+FX6 FX Gain	0	4194304	Value	ValueOutput
+FX7 FX Gain	0	4194304	Value	ValueOutput
+FX8 FX Gain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

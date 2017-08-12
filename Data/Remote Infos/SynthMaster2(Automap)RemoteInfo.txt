@@ -1,0 +1,1736 @@
+Scope
+Manufacturer	Model
+KV331 Audio	vst.Sm2i.SynthMaster2 (Automap)
+Note: Will match scope definitions for vst.Sm2i.SynthMaster2 (Automap) or vst.Sm2i
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Cufoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Reverb	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+.	0	4194304	Value	ValueOutput
+.	0	4194304	Value	ValueOutput
+XYPad1 X	0	4194304	Value	ValueOutput
+XYPad1 Y	0	4194304	Value	ValueOutput
+XYPad2 X	0	4194304	Value	ValueOutput
+XYPad2 Y	0	4194304	Value	ValueOutput
+Master Bypass	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Master Tune	0	4194304	Value	ValueOutput
+Engine Quality	0	4194304	Value	ValueOutput
+Engine Buffer Size	0	4194304	Value	ValueOutput
+Number of Voices	0	4194304	Value	ValueOutput
+AudioIn:Gain	0	4194304	Value	ValueOutput
+AudioIn:Env Attack	0	4194304	Value	ValueOutput
+AudioIn:Env Decay	0	4194304	Value	ValueOutput
+AudioIn:PreFilter Type	0	4194304	Value	ValueOutput
+AudioIn:PreFilter Cutoff	0	4194304	Value	ValueOutput
+AudioIn:PreFilter Cutoff	0	4194304	Value	ValueOutput
+AudioIn:Trigger Note	0	4194304	Value	ValueOutput
+AudioIn:Trigger Velocity	0	4194304	Value	ValueOutput
+AudioIn:Trigger Threshol	0	4194304	Value	ValueOutput
+Layer1:Bypass	0	4194304	Value	ValueOutput
+Layer2:Bypass	0	4194304	Value	ValueOutput
+Tremolo:Bypass	0	4194304	Value	ValueOutput
+Tremolo:Effect Amount	0	4194304	Value	ValueOutput
+Tremolo:Speed	0	4194304	Value	ValueOutput
+Tremolo:Wave Type	0	4194304	Value	ValueOutput
+Tremolo:LFO Sync to Beat	0	4194304	Value	ValueOutput
+Tremolo:LFO Beat Multipl	0	4194304	Value	ValueOutput
+Tremolo:LFO Beat Multipl	0	4194304	Value	ValueOutput
+Tremolo:L-R Phase Diff	0	4194304	Value	ValueOutput
+Tremolo:L-R Freq Ratio	0	4194304	Value	ValueOutput
+Chorus:Bypass	0	4194304	Value	ValueOutput
+Chorus:Mod Amount	0	4194304	Value	ValueOutput
+Chorus:Mod Rate	0	4194304	Value	ValueOutput
+Chorus:Left Delay	0	4194304	Value	ValueOutput
+Chorus:Right Delay	0	4194304	Value	ValueOutput
+Chorus:Effect Amount	0	4194304	Value	ValueOutput
+Chorus:LFO Sync to Beat	0	4194304	Value	ValueOutput
+Chorus:LFO Beat Multipli	0	4194304	Value	ValueOutput
+Chorus:LFO Beat Multipli	0	4194304	Value	ValueOutput
+Chorus:LFO Wave Type	0	4194304	Value	ValueOutput
+Chorus:Feedback	0	4194304	Value	ValueOutput
+Chorus:L-R Phase Diff	0	4194304	Value	ValueOutput
+Chorus:L-R Freq Ratio	0	4194304	Value	ValueOutput
+Chorus:Stereo Width	0	4194304	Value	ValueOutput
+Chorus:Pan	0	4194304	Value	ValueOutput
+Reverb:Bypass	0	4194304	Value	ValueOutput
+Reverb:Diffusion	0	4194304	Value	ValueOutput
+Reverb:Density	0	4194304	Value	ValueOutput
+Reverb:Mod Amount	0	4194304	Value	ValueOutput
+Reverb:Mod Speed	0	4194304	Value	ValueOutput
+Reverb:Stereo Width	0	4194304	Value	ValueOutput
+Reverb:Stereo Spread	0	4194304	Value	ValueOutput
+Reverb:Pan	0	4194304	Value	ValueOutput
+Reverb:Early Late Mix	0	4194304	Value	ValueOutput
+Reverb:Distance	0	4194304	Value	ValueOutput
+Reverb:Effect Amount	0	4194304	Value	ValueOutput
+Reverb:Room Type	0	4194304	Value	ValueOutput
+Reverb:Room Size	0	4194304	Value	ValueOutput
+Reverb:Reverb Time	0	4194304	Value	ValueOutput
+Reverb:Late Damping	0	4194304	Value	ValueOutput
+Reverb:Late EQ Enabled	0	4194304	Value	ValueOutput
+Reverb:Late EQ Bass Freq	0	4194304	Value	ValueOutput
+Reverb:Late EQ Bass Gain	0	4194304	Value	ValueOutput
+Reverb:Late EQ Treble Fr	0	4194304	Value	ValueOutput
+Reverb:Late EQ Treble Ga	0	4194304	Value	ValueOutput
+Reverb:Early EQ Enabled	0	4194304	Value	ValueOutput
+Reverb:Early EQ Bass Fre	0	4194304	Value	ValueOutput
+Reverb:Early EQ Bass Gai	0	4194304	Value	ValueOutput
+Reverb:Early EQ Treble F	0	4194304	Value	ValueOutput
+Reverb:Early EQ Treble G	0	4194304	Value	ValueOutput
+Echo:Bypass	0	4194304	Value	ValueOutput
+Echo:Left Delay Synced	0	4194304	Value	ValueOutput
+Echo:Feedback	0	4194304	Value	ValueOutput
+Echo:EQ:Low Freq	0	4194304	Value	ValueOutput
+Echo:EQ:Low Freq Type	0	4194304	Value	ValueOutput
+Echo:EQ:Low Boost/Cut	0	4194304	Value	ValueOutput
+Echo:EQ:High Freq	0	4194304	Value	ValueOutput
+Echo:EQ:High Freq Type	0	4194304	Value	ValueOutput
+Echo:EQ:High Boost/Cut	0	4194304	Value	ValueOutput
+Echo:Drive	0	4194304	Value	ValueOutput
+Echo:Effect Amount	0	4194304	Value	ValueOutput
+Echo:Stereo Width	0	4194304	Value	ValueOutput
+Echo:Pan	0	4194304	Value	ValueOutput
+Echo:Sync to Beat	0	4194304	Value	ValueOutput
+Echo:Left Delay	0	4194304	Value	ValueOutput
+Echo:Right Delay	0	4194304	Value	ValueOutput
+Echo:Right Delay Synced	0	4194304	Value	ValueOutput
+Echo:Ping Pong	0	4194304	Value	ValueOutput
+Echo:Distortion	0	4194304	Value	ValueOutput
+Echo:Curve:Initial Level	0	4194304	Value	ValueOutput
+Echo:Curve:Segment 1 Len	0	4194304	Value	ValueOutput
+Echo:Curve:Segment 1 Lev	0	4194304	Value	ValueOutput
+Echo:Curve:Segment 1 Slo	0	4194304	Value	ValueOutput
+Echo:Curve:Segment 2 Len	0	4194304	Value	ValueOutput
+Echo:Curve:Segment 2 Lev	0	4194304	Value	ValueOutput
+Echo:Curve:Segment 2 Slo	0	4194304	Value	ValueOutput
+Echo:Curve:Segment 3 Len	0	4194304	Value	ValueOutput
+Echo:Curve:Segment 3 Lev	0	4194304	Value	ValueOutput
+Echo:Curve:Segment 3 Slo	0	4194304	Value	ValueOutput
+Echo:Curve:Segment 4 Len	0	4194304	Value	ValueOutput
+Echo:Curve:Segment 4 Lev	0	4194304	Value	ValueOutput
+Echo:Curve:Segment 4 Slo	0	4194304	Value	ValueOutput
+SynthLFO1:Wave Type	0	4194304	Value	ValueOutput
+SynthLFO1:Polarity	0	4194304	Value	ValueOutput
+SynthLFO1:Frequency	0	4194304	Value	ValueOutput
+SynthLFO1:Volume	0	4194304	Value	ValueOutput
+SynthLFO1:Randomize	0	4194304	Value	ValueOutput
+SynthLFO1:Phase	0	4194304	Value	ValueOutput
+SynthLFO1:Noise Volume	0	4194304	Value	ValueOutput
+SynthLFO1:Noise Color	0	4194304	Value	ValueOutput
+SynthLFO1:Sync to Beat	0	4194304	Value	ValueOutput
+SynthLFO1:Beat Multiplie	0	4194304	Value	ValueOutput
+SynthLFO1:Beat Multiplie	0	4194304	Value	ValueOutput
+SynthLFO1:Number of Step	0	4194304	Value	ValueOutput
+SynthLFO1:Loop Start Ste	0	4194304	Value	ValueOutput
+SynthLFO1:Attack Time	0	4194304	Value	ValueOutput
+SynthLFO1:Attack Slope	0	4194304	Value	ValueOutput
+SynthLFO1:Release Time	0	4194304	Value	ValueOutput
+SynthLFO1:Release Slope	0	4194304	Value	ValueOutput
+SynthLFO1:Final Level	0	4194304	Value	ValueOutput
+SynthLFO2:Wave Type	0	4194304	Value	ValueOutput
+SynthLFO2:Polarity	0	4194304	Value	ValueOutput
+SynthLFO2:Frequency	0	4194304	Value	ValueOutput
+SynthLFO2:Volume	0	4194304	Value	ValueOutput
+SynthLFO2:Randomize	0	4194304	Value	ValueOutput
+SynthLFO2:Phase	0	4194304	Value	ValueOutput
+SynthLFO2:Noise Volume	0	4194304	Value	ValueOutput
+SynthLFO2:Noise Color	0	4194304	Value	ValueOutput
+SynthLFO2:Sync to Beat	0	4194304	Value	ValueOutput
+SynthLFO2:Beat Multiplie	0	4194304	Value	ValueOutput
+SynthLFO2:Beat Multiplie	0	4194304	Value	ValueOutput
+SynthLFO2:Number of Step	0	4194304	Value	ValueOutput
+SynthLFO2:Loop Start Ste	0	4194304	Value	ValueOutput
+SynthLFO2:Attack Time	0	4194304	Value	ValueOutput
+SynthLFO2:Attack Slope	0	4194304	Value	ValueOutput
+SynthLFO2:Release Time	0	4194304	Value	ValueOutput
+SynthLFO2:Release Slope	0	4194304	Value	ValueOutput
+SynthLFO2:Final Level	0	4194304	Value	ValueOutput
+SynthLFO3:Wave Type	0	4194304	Value	ValueOutput
+SynthLFO3:Polarity	0	4194304	Value	ValueOutput
+SynthLFO3:Frequency	0	4194304	Value	ValueOutput
+SynthLFO3:Volume	0	4194304	Value	ValueOutput
+SynthLFO3:Randomize	0	4194304	Value	ValueOutput
+SynthLFO3:Phase	0	4194304	Value	ValueOutput
+SynthLFO3:Noise Volume	0	4194304	Value	ValueOutput
+SynthLFO3:Noise Color	0	4194304	Value	ValueOutput
+SynthLFO3:Sync to Beat	0	4194304	Value	ValueOutput
+SynthLFO3:Beat Multiplie	0	4194304	Value	ValueOutput
+SynthLFO3:Beat Multiplie	0	4194304	Value	ValueOutput
+SynthLFO3:Number of Step	0	4194304	Value	ValueOutput
+SynthLFO3:Loop Start Ste	0	4194304	Value	ValueOutput
+SynthLFO3:Attack Time	0	4194304	Value	ValueOutput
+SynthLFO3:Attack Slope	0	4194304	Value	ValueOutput
+SynthLFO3:Release Time	0	4194304	Value	ValueOutput
+SynthLFO3:Release Slope	0	4194304	Value	ValueOutput
+SynthLFO3:Final Level	0	4194304	Value	ValueOutput
+SynthLFO4:Wave Type	0	4194304	Value	ValueOutput
+SynthLFO4:Polarity	0	4194304	Value	ValueOutput
+SynthLFO4:Frequency	0	4194304	Value	ValueOutput
+SynthLFO4:Volume	0	4194304	Value	ValueOutput
+SynthLFO4:Randomize	0	4194304	Value	ValueOutput
+SynthLFO4:Phase	0	4194304	Value	ValueOutput
+SynthLFO4:Noise Volume	0	4194304	Value	ValueOutput
+SynthLFO4:Noise Color	0	4194304	Value	ValueOutput
+SynthLFO4:Sync to Beat	0	4194304	Value	ValueOutput
+SynthLFO4:Beat Multiplie	0	4194304	Value	ValueOutput
+SynthLFO4:Beat Multiplie	0	4194304	Value	ValueOutput
+SynthLFO4:Number of Step	0	4194304	Value	ValueOutput
+SynthLFO4:Loop Start Ste	0	4194304	Value	ValueOutput
+SynthLFO4:Attack Time	0	4194304	Value	ValueOutput
+SynthLFO4:Attack Slope	0	4194304	Value	ValueOutput
+SynthLFO4:Release Time	0	4194304	Value	ValueOutput
+SynthLFO4:Release Slope	0	4194304	Value	ValueOutput
+SynthLFO4:Final Level	0	4194304	Value	ValueOutput
+Vocoder : Bypass	0	4194304	Value	ValueOutput
+Vocoder:Modulator	0	4194304	Value	ValueOutput
+Vocoder:Carrier	0	4194304	Value	ValueOutput
+Vocoder:Effect Amount	0	4194304	Value	ValueOutput
+Vocoder:Initial Frequenc	0	4194304	Value	ValueOutput
+Vocoder:Frequency Spacin	0	4194304	Value	ValueOutput
+Vocoder:Env Attack Time	0	4194304	Value	ValueOutput
+Vocoder:Env Decay Time	0	4194304	Value	ValueOutput
+Vocoder:Band 1 Volume	0	4194304	Value	ValueOutput
+Vocoder:Band 2 Volume	0	4194304	Value	ValueOutput
+Vocoder:Band 3 Volume	0	4194304	Value	ValueOutput
+Vocoder:Band 4 Volume	0	4194304	Value	ValueOutput
+Vocoder:Band 5 Volume	0	4194304	Value	ValueOutput
+Vocoder:Band 6 Volume	0	4194304	Value	ValueOutput
+Vocoder:Band 7 Volume	0	4194304	Value	ValueOutput
+Vocoder:Band 8 Volume	0	4194304	Value	ValueOutput
+Vocoder:Band 9 Volume	0	4194304	Value	ValueOutput
+Vocoder:Band 10 Volume	0	4194304	Value	ValueOutput
+Vocoder:Band 11 Volume	0	4194304	Value	ValueOutput
+Vocoder:Band 12 Volume	0	4194304	Value	ValueOutput
+Vocoder:Band 13 Volume	0	4194304	Value	ValueOutput
+Vocoder:Band 14 Volume	0	4194304	Value	ValueOutput
+Vocoder:Band 15 Volume	0	4194304	Value	ValueOutput
+Vocoder:Band 16 Volume	0	4194304	Value	ValueOutput
+Vocoder:Band 1 Mod Src	0	4194304	Value	ValueOutput
+Vocoder:Band 2 Mod Src	0	4194304	Value	ValueOutput
+Vocoder:Band 3 Mod Src	0	4194304	Value	ValueOutput
+Vocoder:Band 4 Mod Src	0	4194304	Value	ValueOutput
+Vocoder:Band 5 Mod Src	0	4194304	Value	ValueOutput
+Vocoder:Band 6 Mod Src	0	4194304	Value	ValueOutput
+Vocoder:Band 7 Mod Src	0	4194304	Value	ValueOutput
+Vocoder:Band 8 Mod Src	0	4194304	Value	ValueOutput
+Vocoder:Band 9 Mod Src	0	4194304	Value	ValueOutput
+Vocoder:Band 10 Mod Src	0	4194304	Value	ValueOutput
+Vocoder:Band 11 Mod Src	0	4194304	Value	ValueOutput
+Vocoder:Band 12 Mod Src	0	4194304	Value	ValueOutput
+Vocoder:Band 13 Mod Src	0	4194304	Value	ValueOutput
+Vocoder:Band 14 Mod Src	0	4194304	Value	ValueOutput
+Vocoder:Band 15 Mod Src	0	4194304	Value	ValueOutput
+Vocoder:Band 16 Mod Src	0	4194304	Value	ValueOutput
+Microtune:Note 0	0	4194304	Value	ValueOutput
+Microtune:Note 1	0	4194304	Value	ValueOutput
+Microtune:Note 2	0	4194304	Value	ValueOutput
+Microtune:Note 3	0	4194304	Value	ValueOutput
+Microtune:Note 4	0	4194304	Value	ValueOutput
+Microtune:Note 5	0	4194304	Value	ValueOutput
+Microtune:Note 6	0	4194304	Value	ValueOutput
+Microtune:Note 7	0	4194304	Value	ValueOutput
+Microtune:Note 8	0	4194304	Value	ValueOutput
+Microtune:Note 9	0	4194304	Value	ValueOutput
+Microtune:Note 10	0	4194304	Value	ValueOutput
+Microtune:Note 11	0	4194304	Value	ValueOutput
+Microtune:Note 12	0	4194304	Value	ValueOutput
+Microtune:Note 13	0	4194304	Value	ValueOutput
+Microtune:Note 14	0	4194304	Value	ValueOutput
+Microtune:Note 15	0	4194304	Value	ValueOutput
+Microtune:Note 16	0	4194304	Value	ValueOutput
+Microtune:Note 17	0	4194304	Value	ValueOutput
+Microtune:Note 18	0	4194304	Value	ValueOutput
+Microtune:Note 19	0	4194304	Value	ValueOutput
+Microtune:Note 20	0	4194304	Value	ValueOutput
+Microtune:Note 21	0	4194304	Value	ValueOutput
+Microtune:Note 22	0	4194304	Value	ValueOutput
+Microtune:Note 23	0	4194304	Value	ValueOutput
+Microtune:Note 24	0	4194304	Value	ValueOutput
+Microtune:Note 25	0	4194304	Value	ValueOutput
+Microtune:Note 26	0	4194304	Value	ValueOutput
+Microtune:Note 27	0	4194304	Value	ValueOutput
+Microtune:Note 28	0	4194304	Value	ValueOutput
+Microtune:Note 29	0	4194304	Value	ValueOutput
+Microtune:Note 30	0	4194304	Value	ValueOutput
+Microtune:Note 31	0	4194304	Value	ValueOutput
+Microtune:Note 32	0	4194304	Value	ValueOutput
+Microtune:Note 33	0	4194304	Value	ValueOutput
+Microtune:Note 34	0	4194304	Value	ValueOutput
+Microtune:Note 35	0	4194304	Value	ValueOutput
+Microtune:Note 36	0	4194304	Value	ValueOutput
+Microtune:Note 37	0	4194304	Value	ValueOutput
+Microtune:Note 38	0	4194304	Value	ValueOutput
+Microtune:Note 39	0	4194304	Value	ValueOutput
+Microtune:Note 40	0	4194304	Value	ValueOutput
+Microtune:Note 41	0	4194304	Value	ValueOutput
+Microtune:Note 42	0	4194304	Value	ValueOutput
+Microtune:Note 43	0	4194304	Value	ValueOutput
+Microtune:Note 44	0	4194304	Value	ValueOutput
+Microtune:Note 45	0	4194304	Value	ValueOutput
+Microtune:Note 46	0	4194304	Value	ValueOutput
+Microtune:Note 47	0	4194304	Value	ValueOutput
+Microtune:Note 48	0	4194304	Value	ValueOutput
+Microtune:Note 49	0	4194304	Value	ValueOutput
+Microtune:Note 50	0	4194304	Value	ValueOutput
+Microtune:Note 51	0	4194304	Value	ValueOutput
+Microtune:Note 52	0	4194304	Value	ValueOutput
+Microtune:Note 53	0	4194304	Value	ValueOutput
+Microtune:Note 54	0	4194304	Value	ValueOutput
+Microtune:Note 55	0	4194304	Value	ValueOutput
+Microtune:Note 56	0	4194304	Value	ValueOutput
+Microtune:Note 57	0	4194304	Value	ValueOutput
+Microtune:Note 58	0	4194304	Value	ValueOutput
+Microtune:Note 59	0	4194304	Value	ValueOutput
+Microtune:Note 60	0	4194304	Value	ValueOutput
+Microtune:Note 61	0	4194304	Value	ValueOutput
+Microtune:Note 62	0	4194304	Value	ValueOutput
+Microtune:Note 63	0	4194304	Value	ValueOutput
+Microtune:Note 64	0	4194304	Value	ValueOutput
+Microtune:Note 65	0	4194304	Value	ValueOutput
+Microtune:Note 66	0	4194304	Value	ValueOutput
+Microtune:Note 67	0	4194304	Value	ValueOutput
+Microtune:Note 68	0	4194304	Value	ValueOutput
+Microtune:Note 69	0	4194304	Value	ValueOutput
+Microtune:Note 70	0	4194304	Value	ValueOutput
+Microtune:Note 71	0	4194304	Value	ValueOutput
+Microtune:Note 72	0	4194304	Value	ValueOutput
+Microtune:Note 73	0	4194304	Value	ValueOutput
+Microtune:Note 74	0	4194304	Value	ValueOutput
+Microtune:Note 75	0	4194304	Value	ValueOutput
+Microtune:Note 76	0	4194304	Value	ValueOutput
+Microtune:Note 77	0	4194304	Value	ValueOutput
+Microtune:Note 78	0	4194304	Value	ValueOutput
+Microtune:Note 79	0	4194304	Value	ValueOutput
+Microtune:Note 80	0	4194304	Value	ValueOutput
+Microtune:Note 81	0	4194304	Value	ValueOutput
+Microtune:Note 82	0	4194304	Value	ValueOutput
+Microtune:Note 83	0	4194304	Value	ValueOutput
+Microtune:Note 84	0	4194304	Value	ValueOutput
+Microtune:Note 85	0	4194304	Value	ValueOutput
+Microtune:Note 86	0	4194304	Value	ValueOutput
+Microtune:Note 87	0	4194304	Value	ValueOutput
+Microtune:Note 88	0	4194304	Value	ValueOutput
+Microtune:Note 89	0	4194304	Value	ValueOutput
+Microtune:Note 90	0	4194304	Value	ValueOutput
+Microtune:Note 91	0	4194304	Value	ValueOutput
+Microtune:Note 92	0	4194304	Value	ValueOutput
+Microtune:Note 93	0	4194304	Value	ValueOutput
+Microtune:Note 94	0	4194304	Value	ValueOutput
+Microtune:Note 95	0	4194304	Value	ValueOutput
+Microtune:Note 96	0	4194304	Value	ValueOutput
+Microtune:Note 97	0	4194304	Value	ValueOutput
+Microtune:Note 98	0	4194304	Value	ValueOutput
+Microtune:Note 99	0	4194304	Value	ValueOutput
+Microtune:Note 100	0	4194304	Value	ValueOutput
+Microtune:Note 101	0	4194304	Value	ValueOutput
+Microtune:Note 102	0	4194304	Value	ValueOutput
+Microtune:Note 103	0	4194304	Value	ValueOutput
+Microtune:Note 104	0	4194304	Value	ValueOutput
+Microtune:Note 105	0	4194304	Value	ValueOutput
+Microtune:Note 106	0	4194304	Value	ValueOutput
+Microtune:Note 107	0	4194304	Value	ValueOutput
+Microtune:Note 108	0	4194304	Value	ValueOutput
+Microtune:Note 109	0	4194304	Value	ValueOutput
+Microtune:Note 110	0	4194304	Value	ValueOutput
+Microtune:Note 111	0	4194304	Value	ValueOutput
+Microtune:Note 112	0	4194304	Value	ValueOutput
+Microtune:Note 113	0	4194304	Value	ValueOutput
+Microtune:Note 114	0	4194304	Value	ValueOutput
+Microtune:Note 115	0	4194304	Value	ValueOutput
+Microtune:Note 116	0	4194304	Value	ValueOutput
+Microtune:Note 117	0	4194304	Value	ValueOutput
+Microtune:Note 118	0	4194304	Value	ValueOutput
+Microtune:Note 119	0	4194304	Value	ValueOutput
+Microtune:Note 120	0	4194304	Value	ValueOutput
+Microtune:Note 121	0	4194304	Value	ValueOutput
+Microtune:Note 122	0	4194304	Value	ValueOutput
+Microtune:Note 123	0	4194304	Value	ValueOutput
+Microtune:Note 124	0	4194304	Value	ValueOutput
+Microtune:Note 125	0	4194304	Value	ValueOutput
+Microtune:Note 126	0	4194304	Value	ValueOutput
+Microtune:Note 127	0	4194304	Value	ValueOutput
+Layer1:Gain	0	4194304	Value	ValueOutput
+Layer1:Portamento Time	0	4194304	Value	ValueOutput
+Layer1:Portamento Type	0	4194304	Value	ValueOutput
+Layer1:Polyphony	0	4194304	Value	ValueOutput
+Layer1:Filter Structure	0	4194304	Value	ValueOutput
+Layer1:Pitch Bend Range	0	4194304	Value	ValueOutput
+Layer1:Unison Voices	0	4194304	Value	ValueOutput
+Layer1:Pan Spread	0	4194304	Value	ValueOutput
+Layer1:Tune Spread	0	4194304	Value	ValueOutput
+Layer1:Cutoff Spread	0	4194304	Value	ValueOutput
+Layer1:Wave Index Spread	0	4194304	Value	ValueOutput
+Layer1:Velocity Spread	0	4194304	Value	ValueOutput
+Layer1:Velocity Error	0	4194304	Value	ValueOutput
+Layer1:Legato	0	4194304	Value	ValueOutput
+Layer1:Voice Pan	0	4194304	Value	ValueOutput
+Layer1:Voice Volume	0	4194304	Value	ValueOutput
+Layer1:Voice Pitch	0	4194304	Value	ValueOutput
+Layer1:Osc1:Bypass	0	4194304	Value	ValueOutput
+Layer1:Osc1:AM Src	0	4194304	Value	ValueOutput
+Layer1:Osc1:FM Src	0	4194304	Value	ValueOutput
+Layer1:Osc1:FM Type	0	4194304	Value	ValueOutput
+Layer1:Osc2:Bypass	0	4194304	Value	ValueOutput
+Layer1:Osc2:AM Src	0	4194304	Value	ValueOutput
+Layer1:Osc2:FM Src	0	4194304	Value	ValueOutput
+Layer1:Osc2:FM Type	0	4194304	Value	ValueOutput
+Layer1:Filter1:Bypass	0	4194304	Value	ValueOutput
+Layer1:Filter1:FM Src	0	4194304	Value	ValueOutput
+Layer1:Filter2:Bypass	0	4194304	Value	ValueOutput
+Layer1:Filter2:FM Src	0	4194304	Value	ValueOutput
+Layer1:Mod1:FM Src	0	4194304	Value	ValueOutput
+Layer1:Mod1:FM Type	0	4194304	Value	ValueOutput
+Layer1:Mod2:FM Src	0	4194304	Value	ValueOutput
+Layer1:Mod2:FM Type	0	4194304	Value	ValueOutput
+Layer1:Mod3:FM Src	0	4194304	Value	ValueOutput
+Layer1:Mod3:FM Type	0	4194304	Value	ValueOutput
+Layer1:Mod4:FM Src	0	4194304	Value	ValueOutput
+Layer1:Mod4:FM Type	0	4194304	Value	ValueOutput
+Layer1:Arp:Bypass	0	4194304	Value	ValueOutput
+Layer1:LoFi:Bypass	0	4194304	Value	ValueOutput
+Layer1:Distortion:Bypass	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Bypass	0	4194304	Value	ValueOutput
+Layer1:Phaser:Bypass	0	4194304	Value	ValueOutput
+Layer1:EQ:Bypass	0	4194304	Value	ValueOutput
+Layer1:Arp:Octaves	0	4194304	Value	ValueOutput
+Layer1:Arp:Velocity Mode	0	4194304	Value	ValueOutput
+Layer1:Arp:Beats	0	4194304	Value	ValueOutput
+Layer1:Arp:Number Of Ste	0	4194304	Value	ValueOutput
+Layer1:Arp:Repeat	0	4194304	Value	ValueOutput
+Layer1:Arp:Mode	0	4194304	Value	ValueOutput
+Layer1:Arp:Duration	0	4194304	Value	ValueOutput
+Layer1:Arp:Volume	0	4194304	Value	ValueOutput
+Layer1:Arp:Swing	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 1 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 2 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 3 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 4 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 5 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 6 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 7 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 8 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 9 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 10 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 11 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 12 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 13 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 14 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 15 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 16 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 17 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 18 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 19 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 20 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 21 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 22 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 23 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 24 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 25 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 26 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 27 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 28 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 29 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 30 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 31 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 32 Slide	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 1 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 2 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 3 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 4 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 5 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 6 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 7 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 8 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 9 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 10 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 11 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 12 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 13 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 14 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 15 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 16 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 17 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 18 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 19 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 20 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 21 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 22 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 23 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 24 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 25 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 26 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 27 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 28 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 29 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 30 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 31 Hold	0	4194304	Value	ValueOutput
+Layer1:Arp:Step 32 Hold	0	4194304	Value	ValueOutput
+Layer1:Osc1:Type	0	4194304	Value	ValueOutput
+Layer1:Osc1:Voices	0	4194304	Value	ValueOutput
+Layer1:Osc1:KeyTracking 	0	4194304	Value	ValueOutput
+Layer1:Osc1:KeyTracking 	0	4194304	Value	ValueOutput
+Layer1:Osc1:Pan Spread	0	4194304	Value	ValueOutput
+Layer1:Osc1:Volume	0	4194304	Value	ValueOutput
+Layer1:Osc1:Coarse Tune	0	4194304	Value	ValueOutput
+Layer1:Osc1:Sync Mode	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 1: Harm	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 2: Harm	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 3: Harm	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 4: Harm	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 5: Harm	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 6: Harm	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 7: Harm	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 8: Harm	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 1: Wave	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 2: Wave	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 3: Wave	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 4: Wave	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 5: Wave	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 6: Wave	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 7: Wave	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 8: Wave	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 1: Volu	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 2: Volu	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 3: Volu	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 4: Volu	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 5: Volu	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 6: Volu	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 7: Volu	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 8: Volu	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 1: Pan	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 2: Pan	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 3: Pan	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 4: Pan	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 5: Pan	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 6: Pan	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 7: Pan	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 8: Pan	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 1: Phas	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 2: Phas	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 3: Phas	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 4: Phas	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 5: Phas	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 6: Phas	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 7: Phas	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 8: Phas	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 1: Oper	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 2: Oper	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 3: Oper	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 4: Oper	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 5: Oper	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 6: Oper	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 7: Oper	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 8: Oper	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 1: Tone	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 2: Tone	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 3: Tone	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 4: Tone	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 5: Tone	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 6: Tone	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 7: Tone	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 8: Tone	0	4194304	Value	ValueOutput
+Layer1:Osc1:Free Running	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 1: Detu	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 2: Detu	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 3: Detu	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 4: Detu	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 5: Detu	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 6: Detu	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 7: Detu	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave 8: Detu	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave Index	0	4194304	Value	ValueOutput
+Layer1:Osc1:Wave Index2	0	4194304	Value	ValueOutput
+Layer1:Osc1:Number of Wa	0	4194304	Value	ValueOutput
+Layer1:Osc1:Drift Amount	0	4194304	Value	ValueOutput
+Layer1:Osc1:Drift Speed	0	4194304	Value	ValueOutput
+Layer1:Osc1:Fine Tune	0	4194304	Value	ValueOutput
+Layer1:Filter1:Resonance	0	4194304	Value	ValueOutput
+Layer1:Filter1:Cutoff	0	4194304	Value	ValueOutput
+Layer1:Filter1:Cutoff2	0	4194304	Value	ValueOutput
+Layer1:Filter1:Filter Ca	0	4194304	Value	ValueOutput
+Layer1:Filter1:Filter Ty	0	4194304	Value	ValueOutput
+Layer1:Filter1:Filter Sl	0	4194304	Value	ValueOutput
+Layer1:Filter1:Distortio	0	4194304	Value	ValueOutput
+Layer1:Filter1:Boost	0	4194304	Value	ValueOutput
+Layer1:Filter1:Gain	0	4194304	Value	ValueOutput
+Layer1:Filter1:Drive	0	4194304	Value	ValueOutput
+Layer1:Filter1:Bias	0	4194304	Value	ValueOutput
+Layer1:Filter1:Continuou	0	4194304	Value	ValueOutput
+Layer1:Filter1:Continuou	0	4194304	Value	ValueOutput
+Layer1:Filter1:Continuou	0	4194304	Value	ValueOutput
+Layer1:Filter1:Continuou	0	4194304	Value	ValueOutput
+Layer1:Filter1:Dual Mix	0	4194304	Value	ValueOutput
+Layer1:Filter1:Dual Topo	0	4194304	Value	ValueOutput
+Layer1:Filter1:Limiter A	0	4194304	Value	ValueOutput
+Layer1:Filter1:Limiter D	0	4194304	Value	ValueOutput
+Layer1:Filter1:Limiter T	0	4194304	Value	ValueOutput
+Layer1:Filter1:Pre Gain	0	4194304	Value	ValueOutput
+Layer1:Filter1:Key Track	0	4194304	Value	ValueOutput
+Layer1:Filter1:Curve:Ini	0	4194304	Value	ValueOutput
+Layer1:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Osc2:Type	0	4194304	Value	ValueOutput
+Layer1:Osc2:Voices	0	4194304	Value	ValueOutput
+Layer1:Osc2:KeyTracking 	0	4194304	Value	ValueOutput
+Layer1:Osc2:KeyTracking 	0	4194304	Value	ValueOutput
+Layer1:Osc2:Pan Spread	0	4194304	Value	ValueOutput
+Layer1:Osc2:Volume	0	4194304	Value	ValueOutput
+Layer1:Osc2:Coarse Tune	0	4194304	Value	ValueOutput
+Layer1:Osc2:Sync Mode	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 1: Harm	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 2: Harm	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 3: Harm	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 4: Harm	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 5: Harm	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 6: Harm	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 7: Harm	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 8: Harm	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 1: Wave	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 2: Wave	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 3: Wave	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 4: Wave	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 5: Wave	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 6: Wave	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 7: Wave	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 8: Wave	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 1: Volu	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 2: Volu	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 3: Volu	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 4: Volu	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 5: Volu	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 6: Volu	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 7: Volu	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 8: Volu	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 1: Pan	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 2: Pan	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 3: Pan	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 4: Pan	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 5: Pan	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 6: Pan	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 7: Pan	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 8: Pan	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 1: Phas	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 2: Phas	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 3: Phas	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 4: Phas	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 5: Phas	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 6: Phas	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 7: Phas	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 8: Phas	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 1: Oper	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 2: Oper	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 3: Oper	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 4: Oper	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 5: Oper	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 6: Oper	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 7: Oper	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 8: Oper	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 1: Tone	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 2: Tone	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 3: Tone	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 4: Tone	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 5: Tone	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 6: Tone	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 7: Tone	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 8: Tone	0	4194304	Value	ValueOutput
+Layer1:Osc2:Free Running	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 1: Detu	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 2: Detu	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 3: Detu	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 4: Detu	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 5: Detu	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 6: Detu	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 7: Detu	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave 8: Detu	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave Index	0	4194304	Value	ValueOutput
+Layer1:Osc2:Wave Index2	0	4194304	Value	ValueOutput
+Layer1:Osc2:Number of Wa	0	4194304	Value	ValueOutput
+Layer1:Osc2:Drift Amount	0	4194304	Value	ValueOutput
+Layer1:Osc2:Drift Speed	0	4194304	Value	ValueOutput
+Layer1:Osc2:Fine Tune	0	4194304	Value	ValueOutput
+Layer1:Filter2:Resonance	0	4194304	Value	ValueOutput
+Layer1:Filter2:Cutoff	0	4194304	Value	ValueOutput
+Layer1:Filter2:Cutoff2	0	4194304	Value	ValueOutput
+Layer1:Filter2:Filter Ca	0	4194304	Value	ValueOutput
+Layer1:Filter2:Filter Ty	0	4194304	Value	ValueOutput
+Layer1:Filter2:Filter Sl	0	4194304	Value	ValueOutput
+Layer1:Filter2:Distortio	0	4194304	Value	ValueOutput
+Layer1:Filter2:Boost	0	4194304	Value	ValueOutput
+Layer1:Filter2:Gain	0	4194304	Value	ValueOutput
+Layer1:Filter2:Drive	0	4194304	Value	ValueOutput
+Layer1:Filter2:Bias	0	4194304	Value	ValueOutput
+Layer1:Filter2:Continuou	0	4194304	Value	ValueOutput
+Layer1:Filter2:Continuou	0	4194304	Value	ValueOutput
+Layer1:Filter2:Continuou	0	4194304	Value	ValueOutput
+Layer1:Filter2:Continuou	0	4194304	Value	ValueOutput
+Layer1:Filter2:Dual Mix	0	4194304	Value	ValueOutput
+Layer1:Filter2:Dual Topo	0	4194304	Value	ValueOutput
+Layer1:Filter2:Limiter A	0	4194304	Value	ValueOutput
+Layer1:Filter2:Limiter D	0	4194304	Value	ValueOutput
+Layer1:Filter2:Limiter T	0	4194304	Value	ValueOutput
+Layer1:Filter2:Pre Gain	0	4194304	Value	ValueOutput
+Layer1:Filter2:Key Track	0	4194304	Value	ValueOutput
+Layer1:Filter2:Curve:Ini	0	4194304	Value	ValueOutput
+Layer1:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer1:Mod1:Wave Type	0	4194304	Value	ValueOutput
+Layer1:Mod1:KeyTracking 	0	4194304	Value	ValueOutput
+Layer1:Mod1:KeyTracking 	0	4194304	Value	ValueOutput
+Layer1:Mod1:Free Running	0	4194304	Value	ValueOutput
+Layer1:Mod1:Frequency	0	4194304	Value	ValueOutput
+Layer1:Mod1:Volume	0	4194304	Value	ValueOutput
+Layer1:Mod1:Pitch	0	4194304	Value	ValueOutput
+Layer1:Mod1:Detune	0	4194304	Value	ValueOutput
+Layer1:Mod1:Phase	0	4194304	Value	ValueOutput
+Layer1:Mod1:Tone	0	4194304	Value	ValueOutput
+Layer1:Mod1:DC Offset	0	4194304	Value	ValueOutput
+Layer1:Mod1:Drift	0	4194304	Value	ValueOutput
+Layer1:Mod2:Wave Type	0	4194304	Value	ValueOutput
+Layer1:Mod2:KeyTracking 	0	4194304	Value	ValueOutput
+Layer1:Mod2:KeyTracking 	0	4194304	Value	ValueOutput
+Layer1:Mod2:Free Running	0	4194304	Value	ValueOutput
+Layer1:Mod2:Frequency	0	4194304	Value	ValueOutput
+Layer1:Mod2:Volume	0	4194304	Value	ValueOutput
+Layer1:Mod2:Pitch	0	4194304	Value	ValueOutput
+Layer1:Mod2:Detune	0	4194304	Value	ValueOutput
+Layer1:Mod2:Phase	0	4194304	Value	ValueOutput
+Layer1:Mod2:Tone	0	4194304	Value	ValueOutput
+Layer1:Mod2:DC Offset	0	4194304	Value	ValueOutput
+Layer1:Mod2:Drift	0	4194304	Value	ValueOutput
+Layer1:Mod3:Wave Type	0	4194304	Value	ValueOutput
+Layer1:Mod3:KeyTracking 	0	4194304	Value	ValueOutput
+Layer1:Mod3:KeyTracking 	0	4194304	Value	ValueOutput
+Layer1:Mod3:Free Running	0	4194304	Value	ValueOutput
+Layer1:Mod3:Frequency	0	4194304	Value	ValueOutput
+Layer1:Mod3:Volume	0	4194304	Value	ValueOutput
+Layer1:Mod3:Pitch	0	4194304	Value	ValueOutput
+Layer1:Mod3:Detune	0	4194304	Value	ValueOutput
+Layer1:Mod3:Phase	0	4194304	Value	ValueOutput
+Layer1:Mod3:Tone	0	4194304	Value	ValueOutput
+Layer1:Mod3:DC Offset	0	4194304	Value	ValueOutput
+Layer1:Mod3:Drift	0	4194304	Value	ValueOutput
+Layer1:Mod4:Wave Type	0	4194304	Value	ValueOutput
+Layer1:Mod4:KeyTracking 	0	4194304	Value	ValueOutput
+Layer1:Mod4:KeyTracking 	0	4194304	Value	ValueOutput
+Layer1:Mod4:Free Running	0	4194304	Value	ValueOutput
+Layer1:Mod4:Frequency	0	4194304	Value	ValueOutput
+Layer1:Mod4:Volume	0	4194304	Value	ValueOutput
+Layer1:Mod4:Pitch	0	4194304	Value	ValueOutput
+Layer1:Mod4:Detune	0	4194304	Value	ValueOutput
+Layer1:Mod4:Phase	0	4194304	Value	ValueOutput
+Layer1:Mod4:Tone	0	4194304	Value	ValueOutput
+Layer1:Mod4:DC Offset	0	4194304	Value	ValueOutput
+Layer1:Mod4:Drift	0	4194304	Value	ValueOutput
+Layer1:ADSR1:Initial Lev	0	4194304	Value	ValueOutput
+Layer1:ADSR1:Attack Time	0	4194304	Value	ValueOutput
+Layer1:ADSR1:Attack Leve	0	4194304	Value	ValueOutput
+Layer1:ADSR1:Attack Slop	0	4194304	Value	ValueOutput
+Layer1:ADSR1:Decay Time	0	4194304	Value	ValueOutput
+Layer1:ADSR1:Sustain Lev	0	4194304	Value	ValueOutput
+Layer1:ADSR1:Decay Slope	0	4194304	Value	ValueOutput
+Layer1:ADSR1:Release Tim	0	4194304	Value	ValueOutput
+Layer1:ADSR1:Final Level	0	4194304	Value	ValueOutput
+Layer1:ADSR1:Release Slo	0	4194304	Value	ValueOutput
+Layer1:ADSR1:Key Sensiti	0	4194304	Value	ValueOutput
+Layer1:ADSR1:Sync to Bea	0	4194304	Value	ValueOutput
+Layer1:ADSR1:Env Amount	0	4194304	Value	ValueOutput
+Layer1:ADSR1:Drift	0	4194304	Value	ValueOutput
+Layer1:ADSR1:Bit Depth	0	4194304	Value	ValueOutput
+Layer1:ADSR2:Initial Lev	0	4194304	Value	ValueOutput
+Layer1:ADSR2:Attack Time	0	4194304	Value	ValueOutput
+Layer1:ADSR2:Attack Leve	0	4194304	Value	ValueOutput
+Layer1:ADSR2:Attack Slop	0	4194304	Value	ValueOutput
+Layer1:ADSR2:Decay Time	0	4194304	Value	ValueOutput
+Layer1:ADSR2:Sustain Lev	0	4194304	Value	ValueOutput
+Layer1:ADSR2:Decay Slope	0	4194304	Value	ValueOutput
+Layer1:ADSR2:Release Tim	0	4194304	Value	ValueOutput
+Layer1:ADSR2:Final Level	0	4194304	Value	ValueOutput
+Layer1:ADSR2:Release Slo	0	4194304	Value	ValueOutput
+Layer1:ADSR2:Key Sensiti	0	4194304	Value	ValueOutput
+Layer1:ADSR2:Sync to Bea	0	4194304	Value	ValueOutput
+Layer1:ADSR2:Env Amount	0	4194304	Value	ValueOutput
+Layer1:ADSR2:Drift	0	4194304	Value	ValueOutput
+Layer1:ADSR2:Bit Depth	0	4194304	Value	ValueOutput
+Layer1:ADSR3:Initial Lev	0	4194304	Value	ValueOutput
+Layer1:ADSR3:Attack Time	0	4194304	Value	ValueOutput
+Layer1:ADSR3:Attack Leve	0	4194304	Value	ValueOutput
+Layer1:ADSR3:Attack Slop	0	4194304	Value	ValueOutput
+Layer1:ADSR3:Decay Time	0	4194304	Value	ValueOutput
+Layer1:ADSR3:Sustain Lev	0	4194304	Value	ValueOutput
+Layer1:ADSR3:Decay Slope	0	4194304	Value	ValueOutput
+Layer1:ADSR3:Release Tim	0	4194304	Value	ValueOutput
+Layer1:ADSR3:Final Level	0	4194304	Value	ValueOutput
+Layer1:ADSR3:Release Slo	0	4194304	Value	ValueOutput
+Layer1:ADSR3:Key Sensiti	0	4194304	Value	ValueOutput
+Layer1:ADSR3:Sync to Bea	0	4194304	Value	ValueOutput
+Layer1:ADSR3:Env Amount	0	4194304	Value	ValueOutput
+Layer1:ADSR3:Drift	0	4194304	Value	ValueOutput
+Layer1:ADSR3:Bit Depth	0	4194304	Value	ValueOutput
+Layer1:ADSR4:Initial Lev	0	4194304	Value	ValueOutput
+Layer1:ADSR4:Attack Time	0	4194304	Value	ValueOutput
+Layer1:ADSR4:Attack Leve	0	4194304	Value	ValueOutput
+Layer1:ADSR4:Attack Slop	0	4194304	Value	ValueOutput
+Layer1:ADSR4:Decay Time	0	4194304	Value	ValueOutput
+Layer1:ADSR4:Sustain Lev	0	4194304	Value	ValueOutput
+Layer1:ADSR4:Decay Slope	0	4194304	Value	ValueOutput
+Layer1:ADSR4:Release Tim	0	4194304	Value	ValueOutput
+Layer1:ADSR4:Final Level	0	4194304	Value	ValueOutput
+Layer1:ADSR4:Release Slo	0	4194304	Value	ValueOutput
+Layer1:ADSR4:Key Sensiti	0	4194304	Value	ValueOutput
+Layer1:ADSR4:Sync to Bea	0	4194304	Value	ValueOutput
+Layer1:ADSR4:Env Amount	0	4194304	Value	ValueOutput
+Layer1:ADSR4:Drift	0	4194304	Value	ValueOutput
+Layer1:ADSR4:Bit Depth	0	4194304	Value	ValueOutput
+Layer1:MultiEnv1:Initial	0	4194304	Value	ValueOutput
+Layer1:MultiEnv1:Key Sen	0	4194304	Value	ValueOutput
+Layer1:MultiEnv1:Amount 	0	4194304	Value	ValueOutput
+Layer1:MultiEnv1:Length 	0	4194304	Value	ValueOutput
+Layer1:MultiEnv1:Sync to	0	4194304	Value	ValueOutput
+Layer1:MultiEnv1:Number 	0	4194304	Value	ValueOutput
+Layer1:MultiEnv1:Number 	0	4194304	Value	ValueOutput
+Layer1:MultiEnv1:Loop St	0	4194304	Value	ValueOutput
+Layer1:MultiEnv1:Loop En	0	4194304	Value	ValueOutput
+Layer1:MultiEnv1:Env Amo	0	4194304	Value	ValueOutput
+Layer1:MultiEnv1:Drift	0	4194304	Value	ValueOutput
+Layer1:MultiEnv1:Bit Dep	0	4194304	Value	ValueOutput
+Layer1:MultiEnv2:Initial	0	4194304	Value	ValueOutput
+Layer1:MultiEnv2:Key Sen	0	4194304	Value	ValueOutput
+Layer1:MultiEnv2:Amount 	0	4194304	Value	ValueOutput
+Layer1:MultiEnv2:Length 	0	4194304	Value	ValueOutput
+Layer1:MultiEnv2:Sync to	0	4194304	Value	ValueOutput
+Layer1:MultiEnv2:Number 	0	4194304	Value	ValueOutput
+Layer1:MultiEnv2:Number 	0	4194304	Value	ValueOutput
+Layer1:MultiEnv2:Loop St	0	4194304	Value	ValueOutput
+Layer1:MultiEnv2:Loop En	0	4194304	Value	ValueOutput
+Layer1:MultiEnv2:Env Amo	0	4194304	Value	ValueOutput
+Layer1:MultiEnv2:Drift	0	4194304	Value	ValueOutput
+Layer1:MultiEnv2:Bit Dep	0	4194304	Value	ValueOutput
+Layer1:2DEnv1:Initial X	0	4194304	Value	ValueOutput
+Layer1:2DEnv1:Initial Y	0	4194304	Value	ValueOutput
+Layer1:2DEnv1:Sync to Be	0	4194304	Value	ValueOutput
+Layer1:2DEnv1:Number of 	0	4194304	Value	ValueOutput
+Layer1:2DEnv1:Number of 	0	4194304	Value	ValueOutput
+Layer1:2DEnv1:Loop Start	0	4194304	Value	ValueOutput
+Layer1:2DEnv1:Loop End	0	4194304	Value	ValueOutput
+Layer1:2DEnv1:Env Amount	0	4194304	Value	ValueOutput
+Layer1:2DEnv1:Drift	0	4194304	Value	ValueOutput
+Layer1:2DEnv1:Bit Depth	0	4194304	Value	ValueOutput
+Layer1:2DEnv2:Initial X	0	4194304	Value	ValueOutput
+Layer1:2DEnv2:Initial Y	0	4194304	Value	ValueOutput
+Layer1:2DEnv2:Sync to Be	0	4194304	Value	ValueOutput
+Layer1:2DEnv2:Number of 	0	4194304	Value	ValueOutput
+Layer1:2DEnv2:Number of 	0	4194304	Value	ValueOutput
+Layer1:2DEnv2:Loop Start	0	4194304	Value	ValueOutput
+Layer1:2DEnv2:Loop End	0	4194304	Value	ValueOutput
+Layer1:2DEnv2:Env Amount	0	4194304	Value	ValueOutput
+Layer1:2DEnv2:Drift	0	4194304	Value	ValueOutput
+Layer1:2DEnv2:Bit Depth	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Wave Ty	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Polarit	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Frequen	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Volume	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Randomi	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Phase	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Noise V	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Noise C	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Sync to	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Beat Mu	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Beat Mu	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Number 	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Loop St	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Attack 	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Attack 	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Release	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Release	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Final L	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Wave Ty	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Polarit	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Frequen	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Volume	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Randomi	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Phase	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Noise V	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Noise C	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Sync to	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Beat Mu	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Beat Mu	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Number 	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Loop St	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Attack 	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Attack 	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Release	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Release	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Final L	0	4194304	Value	ValueOutput
+Layer1:KeyScaler1:Number	0	4194304	Value	ValueOutput
+Layer1:KeyScaler2:Number	0	4194304	Value	ValueOutput
+Layer1:KeyScaler3:Number	0	4194304	Value	ValueOutput
+Layer1:KeyScaler4:Number	0	4194304	Value	ValueOutput
+Layer1:LoFi:Effect Amoun	0	4194304	Value	ValueOutput
+Layer1:LoFi:Bit Depth	0	4194304	Value	ValueOutput
+Layer1:LoFi:S-H Interval	0	4194304	Value	ValueOutput
+Layer1:LoFi:S-H Filter	0	4194304	Value	ValueOutput
+Layer1:LoFi:S-H Filter C	0	4194304	Value	ValueOutput
+Layer1:LoFi:S-H Filter R	0	4194304	Value	ValueOutput
+Layer1:Distortion:Effect	0	4194304	Value	ValueOutput
+Layer1:Distortion:Pre EQ	0	4194304	Value	ValueOutput
+Layer1:Distortion:Pre EQ	0	4194304	Value	ValueOutput
+Layer1:Distortion:Pre EQ	0	4194304	Value	ValueOutput
+Layer1:Distortion:Pre EQ	0	4194304	Value	ValueOutput
+Layer1:Distortion:Pre EQ	0	4194304	Value	ValueOutput
+Layer1:Distortion:Pre EQ	0	4194304	Value	ValueOutput
+Layer1:Distortion:Post E	0	4194304	Value	ValueOutput
+Layer1:Distortion:Post E	0	4194304	Value	ValueOutput
+Layer1:Distortion:Post E	0	4194304	Value	ValueOutput
+Layer1:Distortion:Post E	0	4194304	Value	ValueOutput
+Layer1:Distortion:Post E	0	4194304	Value	ValueOutput
+Layer1:Distortion:Post E	0	4194304	Value	ValueOutput
+Layer1:Distortion:Drive	0	4194304	Value	ValueOutput
+Layer1:Distortion:Bias	0	4194304	Value	ValueOutput
+Layer1:Distortion:Bias A	0	4194304	Value	ValueOutput
+Layer1:Distortion:Bias D	0	4194304	Value	ValueOutput
+Layer1:Distortion:Distor	0	4194304	Value	ValueOutput
+Layer1:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer1:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer1:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer1:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer1:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer1:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer1:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer1:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer1:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer1:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer1:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer1:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer1:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Effect M	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Number O	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Width	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Phase	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Delay	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Delay LF	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Delay LF	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Delay Ra	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Spacing	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Spacing 	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Spacing 	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Spacing 	0	4194304	Value	ValueOutput
+Layer1:Ensemble:LFO1 Spe	0	4194304	Value	ValueOutput
+Layer1:Ensemble:LFO2 Spe	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Random L	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Pan	0	4194304	Value	ValueOutput
+Layer1:Ensemble:EQ	0	4194304	Value	ValueOutput
+Layer1:Ensemble:EQ:Low F	0	4194304	Value	ValueOutput
+Layer1:Ensemble:EQ:Low F	0	4194304	Value	ValueOutput
+Layer1:Ensemble:EQ:Low B	0	4194304	Value	ValueOutput
+Layer1:Ensemble:EQ:High 	0	4194304	Value	ValueOutput
+Layer1:Ensemble:EQ:High 	0	4194304	Value	ValueOutput
+Layer1:Ensemble:EQ:High 	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Distorti	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Curve:In	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer1:Phaser:Number Of 	0	4194304	Value	ValueOutput
+Layer1:Phaser:Cutoff	0	4194304	Value	ValueOutput
+Layer1:Phaser:Spacing	0	4194304	Value	ValueOutput
+Layer1:Phaser:Cutoff LFO	0	4194304	Value	ValueOutput
+Layer1:Phaser:Spacing LF	0	4194304	Value	ValueOutput
+Layer1:Phaser:Mod Rate	0	4194304	Value	ValueOutput
+Layer1:Phaser:Effect Mix	0	4194304	Value	ValueOutput
+Layer1:Phaser:LFO Sync t	0	4194304	Value	ValueOutput
+Layer1:Phaser:LFO Beat M	0	4194304	Value	ValueOutput
+Layer1:Phaser:LFO Beat M	0	4194304	Value	ValueOutput
+Layer1:Phaser:LFO Wave T	0	4194304	Value	ValueOutput
+Layer1:Phaser:Feedback	0	4194304	Value	ValueOutput
+Layer1:Phaser:L-R Phase 	0	4194304	Value	ValueOutput
+Layer1:Phaser:L-R Freq R	0	4194304	Value	ValueOutput
+Layer1:EQ:HP	0	4194304	Value	ValueOutput
+Layer1:EQ:HP Slope	0	4194304	Value	ValueOutput
+Layer1:EQ:HP Freq	0	4194304	Value	ValueOutput
+Layer1:EQ:Low Type	0	4194304	Value	ValueOutput
+Layer1:EQ:Low Freq	0	4194304	Value	ValueOutput
+Layer1:EQ:Low Boost/Cut	0	4194304	Value	ValueOutput
+Layer1:EQ:Low Mid Freq	0	4194304	Value	ValueOutput
+Layer1:EQ:Low Mid Boost/	0	4194304	Value	ValueOutput
+Layer1:EQ:Low Mid Reso	0	4194304	Value	ValueOutput
+Layer1:EQ:High Mid Freq	0	4194304	Value	ValueOutput
+Layer1:EQ:High Mid Boost	0	4194304	Value	ValueOutput
+Layer1:EQ:High Mid Reso	0	4194304	Value	ValueOutput
+Layer1:EQ:High Type	0	4194304	Value	ValueOutput
+Layer1:EQ:High Freq	0	4194304	Value	ValueOutput
+Layer1:EQ:High Boost/Cut	0	4194304	Value	ValueOutput
+Layer1:EQ:LP	0	4194304	Value	ValueOutput
+Layer1:EQ:LP Slope	0	4194304	Value	ValueOutput
+Layer1:EQ:LP Freq	0	4194304	Value	ValueOutput
+Layer2:Gain	0	4194304	Value	ValueOutput
+Layer2:Portamento Time	0	4194304	Value	ValueOutput
+Layer2:Portamento Type	0	4194304	Value	ValueOutput
+Layer2:Polyphony	0	4194304	Value	ValueOutput
+Layer2:Filter Structure	0	4194304	Value	ValueOutput
+Layer2:Pitch Bend Range	0	4194304	Value	ValueOutput
+Layer2:Unison Voices	0	4194304	Value	ValueOutput
+Layer2:Pan Spread	0	4194304	Value	ValueOutput
+Layer2:Tune Spread	0	4194304	Value	ValueOutput
+Layer2:Cutoff Spread	0	4194304	Value	ValueOutput
+Layer2:Wave Index Spread	0	4194304	Value	ValueOutput
+Layer2:Velocity Spread	0	4194304	Value	ValueOutput
+Layer2:Velocity Error	0	4194304	Value	ValueOutput
+Layer2:Legato	0	4194304	Value	ValueOutput
+Layer2:Voice Pan	0	4194304	Value	ValueOutput
+Layer2:Voice Volume	0	4194304	Value	ValueOutput
+Layer2:Voice Pitch	0	4194304	Value	ValueOutput
+Layer2:Osc1:Bypass	0	4194304	Value	ValueOutput
+Layer2:Osc1:AM Src	0	4194304	Value	ValueOutput
+Layer2:Osc1:FM Src	0	4194304	Value	ValueOutput
+Layer2:Osc1:FM Type	0	4194304	Value	ValueOutput
+Layer2:Osc2:Bypass	0	4194304	Value	ValueOutput
+Layer2:Osc2:AM Src	0	4194304	Value	ValueOutput
+Layer2:Osc2:FM Src	0	4194304	Value	ValueOutput
+Layer2:Osc2:FM Type	0	4194304	Value	ValueOutput
+Layer2:Filter1:Bypass	0	4194304	Value	ValueOutput
+Layer2:Filter1:FM Src	0	4194304	Value	ValueOutput
+Layer2:Filter2:Bypass	0	4194304	Value	ValueOutput
+Layer2:Filter2:FM Src	0	4194304	Value	ValueOutput
+Layer2:Mod1:FM Src	0	4194304	Value	ValueOutput
+Layer2:Mod1:FM Type	0	4194304	Value	ValueOutput
+Layer2:Mod2:FM Src	0	4194304	Value	ValueOutput
+Layer2:Mod2:FM Type	0	4194304	Value	ValueOutput
+Layer2:Mod3:FM Src	0	4194304	Value	ValueOutput
+Layer2:Mod3:FM Type	0	4194304	Value	ValueOutput
+Layer2:Mod4:FM Src	0	4194304	Value	ValueOutput
+Layer2:Mod4:FM Type	0	4194304	Value	ValueOutput
+Layer2:Arp:Bypass	0	4194304	Value	ValueOutput
+Layer2:LoFi:Bypass	0	4194304	Value	ValueOutput
+Layer2:Distortion:Bypass	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Bypass	0	4194304	Value	ValueOutput
+Layer2:Phaser:Bypass	0	4194304	Value	ValueOutput
+Layer2:EQ:Bypass	0	4194304	Value	ValueOutput
+Layer2:Arp:Octaves	0	4194304	Value	ValueOutput
+Layer2:Arp:Velocity Mode	0	4194304	Value	ValueOutput
+Layer2:Arp:Beats	0	4194304	Value	ValueOutput
+Layer2:Arp:Number Of Ste	0	4194304	Value	ValueOutput
+Layer2:Arp:Repeat	0	4194304	Value	ValueOutput
+Layer2:Arp:Mode	0	4194304	Value	ValueOutput
+Layer2:Arp:Duration	0	4194304	Value	ValueOutput
+Layer2:Arp:Volume	0	4194304	Value	ValueOutput
+Layer2:Arp:Swing	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 1 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 2 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 3 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 4 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 5 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 6 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 7 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 8 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 9 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 10 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 11 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 12 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 13 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 14 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 15 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 16 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 17 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 18 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 19 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 20 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 21 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 22 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 23 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 24 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 25 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 26 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 27 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 28 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 29 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 30 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 31 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 32 Slide	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 1 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 2 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 3 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 4 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 5 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 6 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 7 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 8 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 9 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 10 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 11 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 12 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 13 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 14 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 15 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 16 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 17 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 18 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 19 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 20 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 21 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 22 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 23 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 24 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 25 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 26 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 27 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 28 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 29 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 30 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 31 Hold	0	4194304	Value	ValueOutput
+Layer2:Arp:Step 32 Hold	0	4194304	Value	ValueOutput
+Layer2:Osc1:Type	0	4194304	Value	ValueOutput
+Layer2:Osc1:Voices	0	4194304	Value	ValueOutput
+Layer2:Osc1:KeyTracking 	0	4194304	Value	ValueOutput
+Layer2:Osc1:KeyTracking 	0	4194304	Value	ValueOutput
+Layer2:Osc1:Pan Spread	0	4194304	Value	ValueOutput
+Layer2:Osc1:Volume	0	4194304	Value	ValueOutput
+Layer2:Osc1:Coarse Tune	0	4194304	Value	ValueOutput
+Layer2:Osc1:Sync Mode	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 1: Harm	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 2: Harm	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 3: Harm	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 4: Harm	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 5: Harm	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 6: Harm	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 7: Harm	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 8: Harm	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 1: Wave	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 2: Wave	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 3: Wave	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 4: Wave	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 5: Wave	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 6: Wave	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 7: Wave	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 8: Wave	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 1: Volu	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 2: Volu	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 3: Volu	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 4: Volu	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 5: Volu	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 6: Volu	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 7: Volu	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 8: Volu	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 1: Pan	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 2: Pan	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 3: Pan	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 4: Pan	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 5: Pan	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 6: Pan	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 7: Pan	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 8: Pan	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 1: Phas	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 2: Phas	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 3: Phas	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 4: Phas	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 5: Phas	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 6: Phas	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 7: Phas	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 8: Phas	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 1: Oper	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 2: Oper	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 3: Oper	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 4: Oper	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 5: Oper	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 6: Oper	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 7: Oper	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 8: Oper	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 1: Tone	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 2: Tone	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 3: Tone	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 4: Tone	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 5: Tone	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 6: Tone	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 7: Tone	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 8: Tone	0	4194304	Value	ValueOutput
+Layer2:Osc1:Free Running	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 1: Detu	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 2: Detu	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 3: Detu	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 4: Detu	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 5: Detu	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 6: Detu	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 7: Detu	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave 8: Detu	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave Index	0	4194304	Value	ValueOutput
+Layer2:Osc1:Wave Index2	0	4194304	Value	ValueOutput
+Layer2:Osc1:Number of Wa	0	4194304	Value	ValueOutput
+Layer2:Osc1:Drift Amount	0	4194304	Value	ValueOutput
+Layer2:Osc1:Drift Speed	0	4194304	Value	ValueOutput
+Layer2:Osc1:Fine Tune	0	4194304	Value	ValueOutput
+Layer2:Filter1:Resonance	0	4194304	Value	ValueOutput
+Layer2:Filter1:Cutoff	0	4194304	Value	ValueOutput
+Layer2:Filter1:Cutoff2	0	4194304	Value	ValueOutput
+Layer2:Filter1:Filter Ca	0	4194304	Value	ValueOutput
+Layer2:Filter1:Filter Ty	0	4194304	Value	ValueOutput
+Layer2:Filter1:Filter Sl	0	4194304	Value	ValueOutput
+Layer2:Filter1:Distortio	0	4194304	Value	ValueOutput
+Layer2:Filter1:Boost	0	4194304	Value	ValueOutput
+Layer2:Filter1:Gain	0	4194304	Value	ValueOutput
+Layer2:Filter1:Drive	0	4194304	Value	ValueOutput
+Layer2:Filter1:Bias	0	4194304	Value	ValueOutput
+Layer2:Filter1:Continuou	0	4194304	Value	ValueOutput
+Layer2:Filter1:Continuou	0	4194304	Value	ValueOutput
+Layer2:Filter1:Continuou	0	4194304	Value	ValueOutput
+Layer2:Filter1:Continuou	0	4194304	Value	ValueOutput
+Layer2:Filter1:Dual Mix	0	4194304	Value	ValueOutput
+Layer2:Filter1:Dual Topo	0	4194304	Value	ValueOutput
+Layer2:Filter1:Limiter A	0	4194304	Value	ValueOutput
+Layer2:Filter1:Limiter D	0	4194304	Value	ValueOutput
+Layer2:Filter1:Limiter T	0	4194304	Value	ValueOutput
+Layer2:Filter1:Pre Gain	0	4194304	Value	ValueOutput
+Layer2:Filter1:Key Track	0	4194304	Value	ValueOutput
+Layer2:Filter1:Curve:Ini	0	4194304	Value	ValueOutput
+Layer2:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter1:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Osc2:Type	0	4194304	Value	ValueOutput
+Layer2:Osc2:Voices	0	4194304	Value	ValueOutput
+Layer2:Osc2:KeyTracking 	0	4194304	Value	ValueOutput
+Layer2:Osc2:KeyTracking 	0	4194304	Value	ValueOutput
+Layer2:Osc2:Pan Spread	0	4194304	Value	ValueOutput
+Layer2:Osc2:Volume	0	4194304	Value	ValueOutput
+Layer2:Osc2:Coarse Tune	0	4194304	Value	ValueOutput
+Layer2:Osc2:Sync Mode	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 1: Harm	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 2: Harm	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 3: Harm	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 4: Harm	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 5: Harm	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 6: Harm	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 7: Harm	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 8: Harm	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 1: Wave	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 2: Wave	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 3: Wave	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 4: Wave	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 5: Wave	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 6: Wave	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 7: Wave	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 8: Wave	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 1: Volu	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 2: Volu	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 3: Volu	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 4: Volu	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 5: Volu	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 6: Volu	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 7: Volu	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 8: Volu	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 1: Pan	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 2: Pan	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 3: Pan	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 4: Pan	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 5: Pan	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 6: Pan	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 7: Pan	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 8: Pan	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 1: Phas	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 2: Phas	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 3: Phas	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 4: Phas	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 5: Phas	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 6: Phas	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 7: Phas	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 8: Phas	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 1: Oper	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 2: Oper	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 3: Oper	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 4: Oper	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 5: Oper	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 6: Oper	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 7: Oper	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 8: Oper	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 1: Tone	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 2: Tone	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 3: Tone	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 4: Tone	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 5: Tone	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 6: Tone	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 7: Tone	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 8: Tone	0	4194304	Value	ValueOutput
+Layer2:Osc2:Free Running	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 1: Detu	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 2: Detu	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 3: Detu	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 4: Detu	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 5: Detu	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 6: Detu	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 7: Detu	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave 8: Detu	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave Index	0	4194304	Value	ValueOutput
+Layer2:Osc2:Wave Index2	0	4194304	Value	ValueOutput
+Layer2:Osc2:Number of Wa	0	4194304	Value	ValueOutput
+Layer2:Osc2:Drift Amount	0	4194304	Value	ValueOutput
+Layer2:Osc2:Drift Speed	0	4194304	Value	ValueOutput
+Layer2:Osc2:Fine Tune	0	4194304	Value	ValueOutput
+Layer2:Filter2:Resonance	0	4194304	Value	ValueOutput
+Layer2:Filter2:Cutoff	0	4194304	Value	ValueOutput
+Layer2:Filter2:Cutoff2	0	4194304	Value	ValueOutput
+Layer2:Filter2:Filter Ca	0	4194304	Value	ValueOutput
+Layer2:Filter2:Filter Ty	0	4194304	Value	ValueOutput
+Layer2:Filter2:Filter Sl	0	4194304	Value	ValueOutput
+Layer2:Filter2:Distortio	0	4194304	Value	ValueOutput
+Layer2:Filter2:Boost	0	4194304	Value	ValueOutput
+Layer2:Filter2:Gain	0	4194304	Value	ValueOutput
+Layer2:Filter2:Drive	0	4194304	Value	ValueOutput
+Layer2:Filter2:Bias	0	4194304	Value	ValueOutput
+Layer2:Filter2:Continuou	0	4194304	Value	ValueOutput
+Layer2:Filter2:Continuou	0	4194304	Value	ValueOutput
+Layer2:Filter2:Continuou	0	4194304	Value	ValueOutput
+Layer2:Filter2:Continuou	0	4194304	Value	ValueOutput
+Layer2:Filter2:Dual Mix	0	4194304	Value	ValueOutput
+Layer2:Filter2:Dual Topo	0	4194304	Value	ValueOutput
+Layer2:Filter2:Limiter A	0	4194304	Value	ValueOutput
+Layer2:Filter2:Limiter D	0	4194304	Value	ValueOutput
+Layer2:Filter2:Limiter T	0	4194304	Value	ValueOutput
+Layer2:Filter2:Pre Gain	0	4194304	Value	ValueOutput
+Layer2:Filter2:Key Track	0	4194304	Value	ValueOutput
+Layer2:Filter2:Curve:Ini	0	4194304	Value	ValueOutput
+Layer2:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Filter2:Curve:Seg	0	4194304	Value	ValueOutput
+Layer2:Mod1:Wave Type	0	4194304	Value	ValueOutput
+Layer2:Mod1:KeyTracking 	0	4194304	Value	ValueOutput
+Layer2:Mod1:KeyTracking 	0	4194304	Value	ValueOutput
+Layer2:Mod1:Free Running	0	4194304	Value	ValueOutput
+Layer2:Mod1:Frequency	0	4194304	Value	ValueOutput
+Layer2:Mod1:Volume	0	4194304	Value	ValueOutput
+Layer2:Mod1:Pitch	0	4194304	Value	ValueOutput
+Layer2:Mod1:Detune	0	4194304	Value	ValueOutput
+Layer2:Mod1:Phase	0	4194304	Value	ValueOutput
+Layer2:Mod1:Tone	0	4194304	Value	ValueOutput
+Layer2:Mod1:DC Offset	0	4194304	Value	ValueOutput
+Layer2:Mod1:Drift	0	4194304	Value	ValueOutput
+Layer2:Mod2:Wave Type	0	4194304	Value	ValueOutput
+Layer2:Mod2:KeyTracking 	0	4194304	Value	ValueOutput
+Layer2:Mod2:KeyTracking 	0	4194304	Value	ValueOutput
+Layer2:Mod2:Free Running	0	4194304	Value	ValueOutput
+Layer2:Mod2:Frequency	0	4194304	Value	ValueOutput
+Layer2:Mod2:Volume	0	4194304	Value	ValueOutput
+Layer2:Mod2:Pitch	0	4194304	Value	ValueOutput
+Layer2:Mod2:Detune	0	4194304	Value	ValueOutput
+Layer2:Mod2:Phase	0	4194304	Value	ValueOutput
+Layer2:Mod2:Tone	0	4194304	Value	ValueOutput
+Layer2:Mod2:DC Offset	0	4194304	Value	ValueOutput
+Layer2:Mod2:Drift	0	4194304	Value	ValueOutput
+Layer2:Mod3:Wave Type	0	4194304	Value	ValueOutput
+Layer2:Mod3:KeyTracking 	0	4194304	Value	ValueOutput
+Layer2:Mod3:KeyTracking 	0	4194304	Value	ValueOutput
+Layer2:Mod3:Free Running	0	4194304	Value	ValueOutput
+Layer2:Mod3:Frequency	0	4194304	Value	ValueOutput
+Layer2:Mod3:Volume	0	4194304	Value	ValueOutput
+Layer2:Mod3:Pitch	0	4194304	Value	ValueOutput
+Layer2:Mod3:Detune	0	4194304	Value	ValueOutput
+Layer2:Mod3:Phase	0	4194304	Value	ValueOutput
+Layer2:Mod3:Tone	0	4194304	Value	ValueOutput
+Layer2:Mod3:DC Offset	0	4194304	Value	ValueOutput
+Layer2:Mod3:Drift	0	4194304	Value	ValueOutput
+Layer2:Mod4:Wave Type	0	4194304	Value	ValueOutput
+Layer2:Mod4:KeyTracking 	0	4194304	Value	ValueOutput
+Layer2:Mod4:KeyTracking 	0	4194304	Value	ValueOutput
+Layer2:Mod4:Free Running	0	4194304	Value	ValueOutput
+Layer2:Mod4:Frequency	0	4194304	Value	ValueOutput
+Layer2:Mod4:Volume	0	4194304	Value	ValueOutput
+Layer2:Mod4:Pitch	0	4194304	Value	ValueOutput
+Layer2:Mod4:Detune	0	4194304	Value	ValueOutput
+Layer2:Mod4:Phase	0	4194304	Value	ValueOutput
+Layer2:Mod4:Tone	0	4194304	Value	ValueOutput
+Layer2:Mod4:DC Offset	0	4194304	Value	ValueOutput
+Layer2:Mod4:Drift	0	4194304	Value	ValueOutput
+Layer2:ADSR1:Initial Lev	0	4194304	Value	ValueOutput
+Layer2:ADSR1:Attack Time	0	4194304	Value	ValueOutput
+Layer2:ADSR1:Attack Leve	0	4194304	Value	ValueOutput
+Layer2:ADSR1:Attack Slop	0	4194304	Value	ValueOutput
+Layer2:ADSR1:Decay Time	0	4194304	Value	ValueOutput
+Layer2:ADSR1:Sustain Lev	0	4194304	Value	ValueOutput
+Layer2:ADSR1:Decay Slope	0	4194304	Value	ValueOutput
+Layer2:ADSR1:Release Tim	0	4194304	Value	ValueOutput
+Layer2:ADSR1:Final Level	0	4194304	Value	ValueOutput
+Layer2:ADSR1:Release Slo	0	4194304	Value	ValueOutput
+Layer2:ADSR1:Key Sensiti	0	4194304	Value	ValueOutput
+Layer2:ADSR1:Sync to Bea	0	4194304	Value	ValueOutput
+Layer2:ADSR1:Env Amount	0	4194304	Value	ValueOutput
+Layer2:ADSR1:Drift	0	4194304	Value	ValueOutput
+Layer2:ADSR1:Bit Depth	0	4194304	Value	ValueOutput
+Layer2:ADSR2:Initial Lev	0	4194304	Value	ValueOutput
+Layer2:ADSR2:Attack Time	0	4194304	Value	ValueOutput
+Layer2:ADSR2:Attack Leve	0	4194304	Value	ValueOutput
+Layer2:ADSR2:Attack Slop	0	4194304	Value	ValueOutput
+Layer2:ADSR2:Decay Time	0	4194304	Value	ValueOutput
+Layer2:ADSR2:Sustain Lev	0	4194304	Value	ValueOutput
+Layer2:ADSR2:Decay Slope	0	4194304	Value	ValueOutput
+Layer2:ADSR2:Release Tim	0	4194304	Value	ValueOutput
+Layer2:ADSR2:Final Level	0	4194304	Value	ValueOutput
+Layer2:ADSR2:Release Slo	0	4194304	Value	ValueOutput
+Layer2:ADSR2:Key Sensiti	0	4194304	Value	ValueOutput
+Layer2:ADSR2:Sync to Bea	0	4194304	Value	ValueOutput
+Layer2:ADSR2:Env Amount	0	4194304	Value	ValueOutput
+Layer2:ADSR2:Drift	0	4194304	Value	ValueOutput
+Layer2:ADSR2:Bit Depth	0	4194304	Value	ValueOutput
+Layer2:ADSR3:Initial Lev	0	4194304	Value	ValueOutput
+Layer2:ADSR3:Attack Time	0	4194304	Value	ValueOutput
+Layer2:ADSR3:Attack Leve	0	4194304	Value	ValueOutput
+Layer2:ADSR3:Attack Slop	0	4194304	Value	ValueOutput
+Layer2:ADSR3:Decay Time	0	4194304	Value	ValueOutput
+Layer2:ADSR3:Sustain Lev	0	4194304	Value	ValueOutput
+Layer2:ADSR3:Decay Slope	0	4194304	Value	ValueOutput
+Layer2:ADSR3:Release Tim	0	4194304	Value	ValueOutput
+Layer2:ADSR3:Final Level	0	4194304	Value	ValueOutput
+Layer2:ADSR3:Release Slo	0	4194304	Value	ValueOutput
+Layer2:ADSR3:Key Sensiti	0	4194304	Value	ValueOutput
+Layer2:ADSR3:Sync to Bea	0	4194304	Value	ValueOutput
+Layer2:ADSR3:Env Amount	0	4194304	Value	ValueOutput
+Layer2:ADSR3:Drift	0	4194304	Value	ValueOutput
+Layer2:ADSR3:Bit Depth	0	4194304	Value	ValueOutput
+Layer2:ADSR4:Initial Lev	0	4194304	Value	ValueOutput
+Layer2:ADSR4:Attack Time	0	4194304	Value	ValueOutput
+Layer2:ADSR4:Attack Leve	0	4194304	Value	ValueOutput
+Layer2:ADSR4:Attack Slop	0	4194304	Value	ValueOutput
+Layer2:ADSR4:Decay Time	0	4194304	Value	ValueOutput
+Layer2:ADSR4:Sustain Lev	0	4194304	Value	ValueOutput
+Layer2:ADSR4:Decay Slope	0	4194304	Value	ValueOutput
+Layer2:ADSR4:Release Tim	0	4194304	Value	ValueOutput
+Layer2:ADSR4:Final Level	0	4194304	Value	ValueOutput
+Layer2:ADSR4:Release Slo	0	4194304	Value	ValueOutput
+Layer2:ADSR4:Key Sensiti	0	4194304	Value	ValueOutput
+Layer2:ADSR4:Sync to Bea	0	4194304	Value	ValueOutput
+Layer2:ADSR4:Env Amount	0	4194304	Value	ValueOutput
+Layer2:ADSR4:Drift	0	4194304	Value	ValueOutput
+Layer2:ADSR4:Bit Depth	0	4194304	Value	ValueOutput
+Layer2:MultiEnv1:Initial	0	4194304	Value	ValueOutput
+Layer2:MultiEnv1:Key Sen	0	4194304	Value	ValueOutput
+Layer2:MultiEnv1:Amount 	0	4194304	Value	ValueOutput
+Layer2:MultiEnv1:Length 	0	4194304	Value	ValueOutput
+Layer2:MultiEnv1:Sync to	0	4194304	Value	ValueOutput
+Layer2:MultiEnv1:Number 	0	4194304	Value	ValueOutput
+Layer2:MultiEnv1:Number 	0	4194304	Value	ValueOutput
+Layer2:MultiEnv1:Loop St	0	4194304	Value	ValueOutput
+Layer2:MultiEnv1:Loop En	0	4194304	Value	ValueOutput
+Layer2:MultiEnv1:Env Amo	0	4194304	Value	ValueOutput
+Layer2:MultiEnv1:Drift	0	4194304	Value	ValueOutput
+Layer2:MultiEnv1:Bit Dep	0	4194304	Value	ValueOutput
+Layer2:MultiEnv2:Initial	0	4194304	Value	ValueOutput
+Layer2:MultiEnv2:Key Sen	0	4194304	Value	ValueOutput
+Layer2:MultiEnv2:Amount 	0	4194304	Value	ValueOutput
+Layer2:MultiEnv2:Length 	0	4194304	Value	ValueOutput
+Layer2:MultiEnv2:Sync to	0	4194304	Value	ValueOutput
+Layer2:MultiEnv2:Number 	0	4194304	Value	ValueOutput
+Layer2:MultiEnv2:Number 	0	4194304	Value	ValueOutput
+Layer2:MultiEnv2:Loop St	0	4194304	Value	ValueOutput
+Layer2:MultiEnv2:Loop En	0	4194304	Value	ValueOutput
+Layer2:MultiEnv2:Env Amo	0	4194304	Value	ValueOutput
+Layer2:MultiEnv2:Drift	0	4194304	Value	ValueOutput
+Layer2:MultiEnv2:Bit Dep	0	4194304	Value	ValueOutput
+Layer2:2DEnv1:Initial X	0	4194304	Value	ValueOutput
+Layer2:2DEnv1:Initial Y	0	4194304	Value	ValueOutput
+Layer2:2DEnv1:Sync to Be	0	4194304	Value	ValueOutput
+Layer2:2DEnv1:Number of 	0	4194304	Value	ValueOutput
+Layer2:2DEnv1:Number of 	0	4194304	Value	ValueOutput
+Layer2:2DEnv1:Loop Start	0	4194304	Value	ValueOutput
+Layer2:2DEnv1:Loop End	0	4194304	Value	ValueOutput
+Layer2:2DEnv1:Env Amount	0	4194304	Value	ValueOutput
+Layer2:2DEnv1:Drift	0	4194304	Value	ValueOutput
+Layer2:2DEnv1:Bit Depth	0	4194304	Value	ValueOutput
+Layer2:2DEnv2:Initial X	0	4194304	Value	ValueOutput
+Layer2:2DEnv2:Initial Y	0	4194304	Value	ValueOutput
+Layer2:2DEnv2:Sync to Be	0	4194304	Value	ValueOutput
+Layer2:2DEnv2:Number of 	0	4194304	Value	ValueOutput
+Layer2:2DEnv2:Number of 	0	4194304	Value	ValueOutput
+Layer2:2DEnv2:Loop Start	0	4194304	Value	ValueOutput
+Layer2:2DEnv2:Loop End	0	4194304	Value	ValueOutput
+Layer2:2DEnv2:Env Amount	0	4194304	Value	ValueOutput
+Layer2:2DEnv2:Drift	0	4194304	Value	ValueOutput
+Layer2:2DEnv2:Bit Depth	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Wave Ty	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Polarit	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Frequen	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Volume	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Randomi	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Phase	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Noise V	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Noise C	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Sync to	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Beat Mu	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Beat Mu	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Number 	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Loop St	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Attack 	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Attack 	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Release	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Release	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Final L	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Wave Ty	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Polarit	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Frequen	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Volume	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Randomi	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Phase	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Noise V	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Noise C	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Sync to	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Beat Mu	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Beat Mu	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Number 	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Loop St	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Attack 	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Attack 	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Release	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Release	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Final L	0	4194304	Value	ValueOutput
+Layer2:KeyScaler1:Number	0	4194304	Value	ValueOutput
+Layer2:KeyScaler2:Number	0	4194304	Value	ValueOutput
+Layer2:KeyScaler3:Number	0	4194304	Value	ValueOutput
+Layer2:KeyScaler4:Number	0	4194304	Value	ValueOutput
+Layer2:LoFi:Effect Amoun	0	4194304	Value	ValueOutput
+Layer2:LoFi:Bit Depth	0	4194304	Value	ValueOutput
+Layer2:LoFi:S-H Interval	0	4194304	Value	ValueOutput
+Layer2:LoFi:S-H Filter	0	4194304	Value	ValueOutput
+Layer2:LoFi:S-H Filter C	0	4194304	Value	ValueOutput
+Layer2:LoFi:S-H Filter R	0	4194304	Value	ValueOutput
+Layer2:Distortion:Effect	0	4194304	Value	ValueOutput
+Layer2:Distortion:Pre EQ	0	4194304	Value	ValueOutput
+Layer2:Distortion:Pre EQ	0	4194304	Value	ValueOutput
+Layer2:Distortion:Pre EQ	0	4194304	Value	ValueOutput
+Layer2:Distortion:Pre EQ	0	4194304	Value	ValueOutput
+Layer2:Distortion:Pre EQ	0	4194304	Value	ValueOutput
+Layer2:Distortion:Pre EQ	0	4194304	Value	ValueOutput
+Layer2:Distortion:Post E	0	4194304	Value	ValueOutput
+Layer2:Distortion:Post E	0	4194304	Value	ValueOutput
+Layer2:Distortion:Post E	0	4194304	Value	ValueOutput
+Layer2:Distortion:Post E	0	4194304	Value	ValueOutput
+Layer2:Distortion:Post E	0	4194304	Value	ValueOutput
+Layer2:Distortion:Post E	0	4194304	Value	ValueOutput
+Layer2:Distortion:Drive	0	4194304	Value	ValueOutput
+Layer2:Distortion:Bias	0	4194304	Value	ValueOutput
+Layer2:Distortion:Bias A	0	4194304	Value	ValueOutput
+Layer2:Distortion:Bias D	0	4194304	Value	ValueOutput
+Layer2:Distortion:Distor	0	4194304	Value	ValueOutput
+Layer2:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer2:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer2:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer2:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer2:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer2:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer2:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer2:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer2:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer2:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer2:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer2:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer2:Distortion:Curve:	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Effect M	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Number O	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Width	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Phase	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Delay	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Delay LF	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Delay LF	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Delay Ra	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Spacing	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Spacing 	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Spacing 	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Spacing 	0	4194304	Value	ValueOutput
+Layer2:Ensemble:LFO1 Spe	0	4194304	Value	ValueOutput
+Layer2:Ensemble:LFO2 Spe	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Random L	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Pan	0	4194304	Value	ValueOutput
+Layer2:Ensemble:EQ	0	4194304	Value	ValueOutput
+Layer2:Ensemble:EQ:Low F	0	4194304	Value	ValueOutput
+Layer2:Ensemble:EQ:Low F	0	4194304	Value	ValueOutput
+Layer2:Ensemble:EQ:Low B	0	4194304	Value	ValueOutput
+Layer2:Ensemble:EQ:High 	0	4194304	Value	ValueOutput
+Layer2:Ensemble:EQ:High 	0	4194304	Value	ValueOutput
+Layer2:Ensemble:EQ:High 	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Distorti	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Curve:In	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Curve:Se	0	4194304	Value	ValueOutput
+Layer2:Phaser:Number Of 	0	4194304	Value	ValueOutput
+Layer2:Phaser:Cutoff	0	4194304	Value	ValueOutput
+Layer2:Phaser:Spacing	0	4194304	Value	ValueOutput
+Layer2:Phaser:Cutoff LFO	0	4194304	Value	ValueOutput
+Layer2:Phaser:Spacing LF	0	4194304	Value	ValueOutput
+Layer2:Phaser:Mod Rate	0	4194304	Value	ValueOutput
+Layer2:Phaser:Effect Mix	0	4194304	Value	ValueOutput
+Layer2:Phaser:LFO Sync t	0	4194304	Value	ValueOutput
+Layer2:Phaser:LFO Beat M	0	4194304	Value	ValueOutput
+Layer2:Phaser:LFO Beat M	0	4194304	Value	ValueOutput
+Layer2:Phaser:LFO Wave T	0	4194304	Value	ValueOutput
+Layer2:Phaser:Feedback	0	4194304	Value	ValueOutput
+Layer2:Phaser:L-R Phase 	0	4194304	Value	ValueOutput
+Layer2:Phaser:L-R Freq R	0	4194304	Value	ValueOutput
+Layer2:EQ:HP	0	4194304	Value	ValueOutput
+Layer2:EQ:HP Slope	0	4194304	Value	ValueOutput
+Layer2:EQ:HP Freq	0	4194304	Value	ValueOutput
+Layer2:EQ:Low Type	0	4194304	Value	ValueOutput
+Layer2:EQ:Low Freq	0	4194304	Value	ValueOutput
+Layer2:EQ:Low Boost/Cut	0	4194304	Value	ValueOutput
+Layer2:EQ:Low Mid Freq	0	4194304	Value	ValueOutput
+Layer2:EQ:Low Mid Boost/	0	4194304	Value	ValueOutput
+Layer2:EQ:Low Mid Reso	0	4194304	Value	ValueOutput
+Layer2:EQ:High Mid Freq	0	4194304	Value	ValueOutput
+Layer2:EQ:High Mid Boost	0	4194304	Value	ValueOutput
+Layer2:EQ:High Mid Reso	0	4194304	Value	ValueOutput
+Layer2:EQ:High Type	0	4194304	Value	ValueOutput
+Layer2:EQ:High Freq	0	4194304	Value	ValueOutput
+Layer2:EQ:High Boost/Cut	0	4194304	Value	ValueOutput
+Layer2:EQ:LP	0	4194304	Value	ValueOutput
+Layer2:EQ:LP Slope	0	4194304	Value	ValueOutput
+Layer2:EQ:LP Freq	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Free Ru	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Free Ru	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Free Ru	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Free Ru	0	4194304	Value	ValueOutput
+Velocity Curve	0	4194304	Value	ValueOutput
+Aftertouch Curve	0	4194304	Value	ValueOutput
+SynthLFO1:Retrigger	0	4194304	Value	ValueOutput
+SynthLFO2:Retrigger	0	4194304	Value	ValueOutput
+SynthLFO3:Retrigger	0	4194304	Value	ValueOutput
+SynthLFO4:Retrigger	0	4194304	Value	ValueOutput
+Layer1:Osc1:Vector Mode	0	4194304	Value	ValueOutput
+Layer1:Osc2:Vector Mode	0	4194304	Value	ValueOutput
+Layer2:Osc1:Vector Mode	0	4194304	Value	ValueOutput
+Layer2:Osc2:Vector Mode	0	4194304	Value	ValueOutput
+Layer1:Ensemble:Speed	0	4194304	Value	ValueOutput
+Layer2:Ensemble:Speed	0	4194304	Value	ValueOutput
+P12dB Boost	0	4194304	Value	ValueOutput
+SynthLFO1:Quantize	0	4194304	Value	ValueOutput
+SynthLFO2:Quantize	0	4194304	Value	ValueOutput
+SynthLFO3:Quantize	0	4194304	Value	ValueOutput
+SynthLFO4:Quantize	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO1:Quantiz	0	4194304	Value	ValueOutput
+Layer1:VoiceLFO2:Quantiz	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO1:Quantiz	0	4194304	Value	ValueOutput
+Layer2:VoiceLFO2:Quantiz	0	4194304	Value	ValueOutput
+Compressor1:Bypass	0	4194304	Value	ValueOutput
+Compressor1:Attack Time	0	4194304	Value	ValueOutput
+Compressor1:Release Time	0	4194304	Value	ValueOutput
+Compressor1:Gain	0	4194304	Value	ValueOutput
+Compressor1:Threshold	0	4194304	Value	ValueOutput
+Compressor1:Ratio	0	4194304	Value	ValueOutput
+Compressor1:Knee	0	4194304	Value	ValueOutput
+Compressor1:Side Chain	0	4194304	Value	ValueOutput
+Compressor2:Bypass	0	4194304	Value	ValueOutput
+Compressor2:Attack Time	0	4194304	Value	ValueOutput
+Compressor2:Release Time	0	4194304	Value	ValueOutput
+Compressor2:Gain	0	4194304	Value	ValueOutput
+Compressor2:Threshold	0	4194304	Value	ValueOutput
+Compressor2:Ratio	0	4194304	Value	ValueOutput
+Compressor2:Knee	0	4194304	Value	ValueOutput
+Compressor2:Side Chain	0	4194304	Value	ValueOutput
+FX Bus1:Layer1 Input	0	4194304	Value	ValueOutput
+FX Bus1:Layer2 Input	0	4194304	Value	ValueOutput
+FX Bus1:Insert 1	0	4194304	Value	ValueOutput
+FX Bus1:Insert 2	0	4194304	Value	ValueOutput
+FX Bus1:Insert 3	0	4194304	Value	ValueOutput
+FX Bus1:Insert 4	0	4194304	Value	ValueOutput
+FX Bus1:Insert 5	0	4194304	Value	ValueOutput
+FX Bus2:Layer1 Input	0	4194304	Value	ValueOutput
+FX Bus2:Layer2 Input	0	4194304	Value	ValueOutput
+FX Bus2:Insert 1	0	4194304	Value	ValueOutput
+FX Bus2:Insert 2	0	4194304	Value	ValueOutput
+FX Bus2:Insert 3	0	4194304	Value	ValueOutput
+FX Bus2:Insert 4	0	4194304	Value	ValueOutput
+FX Bus2:Insert 5	0	4194304	Value	ValueOutput
+Layer1:Insert 1	0	4194304	Value	ValueOutput
+Layer1:Insert 2	0	4194304	Value	ValueOutput
+Layer1:Insert 3	0	4194304	Value	ValueOutput
+Layer1:Insert 4	0	4194304	Value	ValueOutput
+Layer1:Insert 5	0	4194304	Value	ValueOutput
+Layer2:Insert 1	0	4194304	Value	ValueOutput
+Layer2:Insert 2	0	4194304	Value	ValueOutput
+Layer2:Insert 3	0	4194304	Value	ValueOutput
+Layer2:Insert 4	0	4194304	Value	ValueOutput
+Layer2:Insert 5	0	4194304	Value	ValueOutput
+Layer1:Dry Amount	0	4194304	Value	ValueOutput
+Layer2:Dry Amount	0	4194304	Value	ValueOutput
+Easy1 Bipolar	0	4194304	Value	ValueOutput
+Easy2 Bipolar	0	4194304	Value	ValueOutput
+Easy3 Bipolar	0	4194304	Value	ValueOutput
+Easy4 Bipolar	0	4194304	Value	ValueOutput
+Easy5 Bipolar	0	4194304	Value	ValueOutput
+Easy6 Bipolar	0	4194304	Value	ValueOutput
+Easy7 Bipolar	0	4194304	Value	ValueOutput
+Easy8 Bipolar	0	4194304	Value	ValueOutput
+XYPad1X Bipolar	0	4194304	Value	ValueOutput
+XYPad1Y Bipolar	0	4194304	Value	ValueOutput
+XYPad2X Bipolar	0	4194304	Value	ValueOutput
+XYPad2Y Bipolar	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

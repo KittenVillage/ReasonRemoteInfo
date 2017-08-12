@@ -1,0 +1,57 @@
+Scope
+Manufacturer	Model
+BeatSkillz	vst.dRpX.DropX_x64
+Note: Will match scope definitions for vst.dRpX.DropX_x64 or vst.dRpX
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Power1	0	4194304	Value	ValueOutput
+Power2	0	4194304	Value	ValueOutput
+Power3	0	4194304	Value	ValueOutput
+Pitch1	0	4194304	Value	ValueOutput
+Pitch2	0	4194304	Value	ValueOutput
+Pitch3	0	4194304	Value	ValueOutput
+Volume1	0	4194304	Value	ValueOutput
+Volume2	0	4194304	Value	ValueOutput
+Volume3	0	4194304	Value	ValueOutput
+Pan1	0	4194304	Value	ValueOutput
+Pan2	0	4194304	Value	ValueOutput
+Pan3	0	4194304	Value	ValueOutput
+Reverse1	0	4194304	Value	ValueOutput
+Reverse2	0	4194304	Value	ValueOutput
+Reverse3	0	4194304	Value	ValueOutput
+DelayTime	0	4194304	Value	ValueOutput
+DelayFeedback	0	4194304	Value	ValueOutput
+DelayWetDry	0	4194304	Value	ValueOutput
+Bits	0	4194304	Value	ValueOutput
+Distortion	0	4194304	Value	ValueOutput
+ReverbTime	0	4194304	Value	ValueOutput
+ReverbWetDry	0	4194304	Value	ValueOutput
+FilterType	0	4194304	Value	ValueOutput
+FilterCutoff	0	4194304	Value	ValueOutput
+filterResonance	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Sustain	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+MasterVolume	0	4194304	Value	ValueOutput
+Arp Power	0	4194304	Value	ValueOutput
+Arp Rate	0	4194304	Value	ValueOutput
+Arp Swing	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

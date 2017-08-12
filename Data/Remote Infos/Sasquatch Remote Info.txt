@@ -1,0 +1,57 @@
+Scope
+Manufacturer	Model
+Boz Digital Labs	vst.BlSa.Sasquatch
+Note: Will match scope definitions for vst.BlSa.Sasquatch or vst.BlSa
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Click - Freq1	0	4194304	Value	ValueOutput
+Click - Freq1 Focus	0	4194304	Value	ValueOutput
+Click - Freq2	0	4194304	Value	ValueOutput
+Click - Freq2 Focus	0	4194304	Value	ValueOutput
+Click -  Level	0	4194304	Value	ValueOutput
+Click - HPF	0	4194304	Value	ValueOutput
+Click - Enable	0	4194304	Value	ValueOutput
+Click - Character	0	4194304	Value	ValueOutput
+Click - Env HPF	0	4194304	Value	ValueOutput
+Oomph - Enable	0	4194304	Value	ValueOutput
+Oomph - Frequency 1	0	4194304	Value	ValueOutput
+Oomph - Frequency 2	0	4194304	Value	ValueOutput
+Oomph - Snap to Note	0	4194304	Value	ValueOutput
+Oomph - Frequency 2 Enab	0	4194304	Value	ValueOutput
+Oomph - Hold	0	4194304	Value	ValueOutput
+Oomph - Level	0	4194304	Value	ValueOutput
+Oomph - Release	0	4194304	Value	ValueOutput
+Oomph - Dive Speed	0	4194304	Value	ValueOutput
+Oomph - Harmonic Level	0	4194304	Value	ValueOutput
+Oomph - Harmonic Density	0	4194304	Value	ValueOutput
+Oomph - Number of Harmon	0	4194304	Value	ValueOutput
+Oomph - Enable Harmonics	0	4194304	Value	ValueOutput
+Sidechain - Gate	0	4194304	Value	ValueOutput
+Sidechain - hpf	0	4194304	Value	ValueOutput
+Sidechain - lpf	0	4194304	Value	ValueOutput
+depricated	0	4194304	Value	ValueOutput
+Sidechain - Preview	0	4194304	Value	ValueOutput
+Sidechain - Boost	0	4194304	Value	ValueOutput
+Direct - Volume	0	4194304	Value	ValueOutput
+Direct - HPF Corner Freq	0	4194304	Value	ValueOutput
+Direct - LPF Corner Freq	0	4194304	Value	ValueOutput
+Direct - HPF Resonance	0	4194304	Value	ValueOutput
+Direct - Enable	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,38 @@
+Scope
+Manufacturer	Model
+Waves	vst.PSXS.WaveShell-VST 9_91_x64.PS22 XSplit Stereo
+Note: Will match scope definitions for vst.PSXS.WaveShell-VST 9_91_x64.PS22 XSplit Stereo or vst.PSXS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+Rotation	0	4194304	Value	ValueOutput
+InvL	0	4194304	Value	ValueOutput
+InvR	0	4194304	Value	ValueOutput
+Swap LR	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Freq	0	4194304	Value	ValueOutput
+Shape	0	4194304	Value	ValueOutput
+FCenter	0	4194304	Value	ValueOutput
+FDensity	0	4194304	Value	ValueOutput
+Sweeps	0	4194304	Value	ValueOutput
+Tweak	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+X Feed	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

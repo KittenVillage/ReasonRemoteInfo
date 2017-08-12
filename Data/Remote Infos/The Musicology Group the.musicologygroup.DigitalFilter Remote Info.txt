@@ -1,0 +1,28 @@
+Scope
+Manufacturer	Model
+The Musicology Group	the.musicologygroup.DigitalFilter
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Cutoff Offset	0	4194304	Value	ValueOutput
+Filter Order	0	11	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter State	0	1	Toggle	ValueOutput
+Envelope Amount	0	4194304	Value	ValueOutput
+Envelope Timescale	0	4194304	Value	ValueOutput
+Envelope Attack	0	4194304	Value	ValueOutput
+Envelope Decay	0	4194304	Value	ValueOutput
+Envelope Sustain	0	4194304	Value	ValueOutput
+Envelope Release	0	4194304	Value	ValueOutput
+Envelope Automatic Enable	0	1	Toggle	ValueOutput
+Envelope Invert Enable	0	1	Toggle	ValueOutput
+Envelope Follower Enable	0	1	Toggle	ValueOutput
+Envelope Follower Threshold	0	4194304	Value	ValueOutput
+Envelope Follower Amount	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

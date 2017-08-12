@@ -1,0 +1,65 @@
+Scope
+Manufacturer	Model
+PSPaudioware.com	vst.PpL1.PSP Lotary x64
+Note: Will match scope definitions for vst.PpL1.PSP Lotary x64 or vst.PpL1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+CPUmode	0	4194304	Value	ValueOutput
+Lever	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+Stop	0	4194304	Value	ValueOutput
+Mech	0	4194304	Value	ValueOutput
+Bottom	0	4194304	Value	ValueOutput
+LoMid	0	4194304	Value	ValueOutput
+Presence	0	4194304	Value	ValueOutput
+TopShlf	0	4194304	Value	ValueOutput
+Setup	0	4194304	Value	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Type	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Size	0	4194304	Value	ValueOutput
+Color	0	4194304	Value	ValueOutput
+Amount	0	4194304	Value	ValueOutput
+HSlowSpd	0	4194304	Value	ValueOutput
+HFastSpd	0	4194304	Value	ValueOutput
+HAccel	0	4194304	Value	ValueOutput
+HDecel	0	4194304	Value	ValueOutput
+HDistance	0	4194304	Value	ValueOutput
+HHPF	0	4194304	Value	ValueOutput
+HGain	0	4194304	Value	ValueOutput
+DSlowSpd	0	4194304	Value	ValueOutput
+DFastSpd	0	4194304	Value	ValueOutput
+DAccel	0	4194304	Value	ValueOutput
+DDecel	0	4194304	Value	ValueOutput
+DDistance	0	4194304	Value	ValueOutput
+DLPF	0	4194304	Value	ValueOutput
+DGain	0	4194304	Value	ValueOutput
+SpkrConf	0	4194304	Value	ValueOutput
+BReflex	0	4194304	Value	ValueOutput
+X-Talk	0	4194304	Value	ValueOutput
+MechRatio	0	4194304	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+Balance	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+MIDIchl	0	4194304	Value	ValueOutput
+LvrMode	0	4194304	Value	ValueOutput
+SpdMode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

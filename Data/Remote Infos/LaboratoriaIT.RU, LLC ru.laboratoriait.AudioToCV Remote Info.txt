@@ -1,0 +1,30 @@
+Scope
+Manufacturer	Model
+LaboratoriaIT.RU, LLC	ru.laboratoriait.AudioToCV
+
+Remotable	Min	Max	Input type	Output type
+Follower Min Level	0	4194304	Value	ValueOutput
+Follower Max Level	0	4194304	Value	ValueOutput
+Follower Highpass	0	4194304	Value	ValueOutput
+Follower Lowpass	0	4194304	Value	ValueOutput
+Follower Smooth Time	0	4194304	Value	ValueOutput
+Generator Sensitivity	0	4194304	Value	ValueOutput
+Generator Highpass	0	4194304	Value	ValueOutput
+Generator Lowpass	0	4194304	Value	ValueOutput
+Generator Attack	0	4194304	Value	ValueOutput
+Generator Hold	0	4194304	Value	ValueOutput
+Generator Decay	0	4194304	Value	ValueOutput
+Generator Attack Sync	0	11	Value	ValueOutput
+Generator Hold Sync	0	11	Value	ValueOutput
+Generator Decay Sync	0	11	Value	ValueOutput
+Generator Attack Shape	0	4194304	Value	ValueOutput
+Generator Decay Shape	0	4194304	Value	ValueOutput
+Generator Envelope Invert	0	1	Toggle	ValueOutput
+Generator Envelope Sync	0	1	Toggle	ValueOutput
+Follower Filter Preview	0	1	Toggle	ValueOutput
+Generator Filter Preview	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

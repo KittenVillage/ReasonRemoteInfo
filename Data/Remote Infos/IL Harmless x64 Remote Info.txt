@@ -1,0 +1,123 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.IHrm.IL Harmless x64
+Note: Will match scope definitions for vst.IHrm.IL Harmless x64 or vst.IHrm
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Phase randomness	0	4194304	Value	ValueOutput
+Low harmonics protectio	0	4194304	Value	ValueOutput
+Sub harmonic 1	0	4194304	Value	ValueOutput
+Sub harmonic 3	0	4194304	Value	ValueOutput
+Sub harmonic 4	0	4194304	Value	ValueOutput
+Timbre EQ band 1	0	4194304	Value	ValueOutput
+Timbre EQ band 2	0	4194304	Value	ValueOutput
+Timbre EQ band 3	0	4194304	Value	ValueOutput
+Timbre EQ band 4	0	4194304	Value	ValueOutput
+Timbre EQ band 5	0	4194304	Value	ValueOutput
+Timbre EQ band 6	0	4194304	Value	ValueOutput
+Harmonic mask 1/12	0	4194304	Value	ValueOutput
+Harmonic mask 2/12	0	4194304	Value	ValueOutput
+Harmonic mask 3/12	0	4194304	Value	ValueOutput
+Harmonic mask 4/12	0	4194304	Value	ValueOutput
+Harmonic mask 5/12	0	4194304	Value	ValueOutput
+Harmonic mask 6/12	0	4194304	Value	ValueOutput
+Harmonic mask 7/12	0	4194304	Value	ValueOutput
+Harmonic mask 8/12	0	4194304	Value	ValueOutput
+Harmonic mask 9/12	0	4194304	Value	ValueOutput
+Harmonic mask 10/12	0	4194304	Value	ValueOutput
+Harmonic mask 11/12	0	4194304	Value	ValueOutput
+Harmonic mask 12/12	0	4194304	Value	ValueOutput
+Harmonic mask mix	0	4194304	Value	ValueOutput
+Harmonic mask mix LFO a	0	4194304	Value	ValueOutput
+Stereo tremolo depth	0	4194304	Value	ValueOutput
+Volume env attack lengt	0	4194304	Value	ValueOutput
+Volume env decay length	0	4194304	Value	ValueOutput
+Volume env release leng	0	4194304	Value	ValueOutput
+Velocity to attack	0	4194304	Value	ValueOutput
+Release velocity to rel	0	4194304	Value	ValueOutput
+Pluck decay length	0	4194304	Value	ValueOutput
+Velocity to pluck decay	0	4194304	Value	ValueOutput
+Alternate pluck mode	0	4194304	Value	ValueOutput
+Pluck uses harmonic mas	0	4194304	Value	ValueOutput
+Pluck only on release	0	4194304	Value	ValueOutput
+Master volume	0	4194304	Value	ValueOutput
+Velocity to volume	0	4194304	Value	ValueOutput
+Master pitch	0	4194304	Value	ValueOutput
+Detuning	0	4194304	Value	ValueOutput
+Grittiness	0	4194304	Value	ValueOutput
+Pitch vibrato depth	0	4194304	Value	ValueOutput
+Pitch LFO amount	0	4194304	Value	ValueOutput
+Portamento mode	0	4194304	Value	ValueOutput
+Monophonic mode	0	4194304	Value	ValueOutput
+Portamento / legato tim	0	4194304	Value	ValueOutput
+Velocity / release to p	0	4194304	Value	ValueOutput
+Adaptive filter envelop	0	4194304	Value	ValueOutput
+Filter env attack lengt	0	4194304	Value	ValueOutput
+Filter env decay length	0	4194304	Value	ValueOutput
+Filter env attack slope	0	4194304	Value	ValueOutput
+Filter env decay slope	0	4194304	Value	ValueOutput
+Filter env amount	0	4194304	Value	ValueOutput
+Velocity to filter env 	0	4194304	Value	ValueOutput
+Filter frequency	0	4194304	Value	ValueOutput
+Filter scale	0	4194304	Value	ValueOutput
+Filter width	0	4194304	Value	ValueOutput
+Key to filter frequency	0	4194304	Value	ValueOutput
+Filter LFO amount	0	4194304	Value	ValueOutput
+Resonance amount	0	4194304	Value	ValueOutput
+Resonance scale	0	4194304	Value	ValueOutput
+Resonance offset / nois	0	4194304	Value	ValueOutput
+Resonance self-oscillat	0	4194304	Value	ValueOutput
+Adaptive width	0	4194304	Value	ValueOutput
+Track filter frequency 	0	4194304	Value	ValueOutput
+Unison order	0	4194304	Value	ValueOutput
+Unison panning	0	4194304	Value	ValueOutput
+Unison pitch thickness	0	4194304	Value	ValueOutput
+Unison phase	0	4194304	Value	ValueOutput
+Unison variation	0	4194304	Value	ValueOutput
+Unison type	0	4194304	Value	ValueOutput
+Phaser mix	0	4194304	Value	ValueOutput
+Phaser scale	0	4194304	Value	ValueOutput
+Phaser width	0	4194304	Value	ValueOutput
+Phaser width LFO amount	0	4194304	Value	ValueOutput
+Phaser offset	0	4194304	Value	ValueOutput
+Phaser offset LFO amoun	0	4194304	Value	ValueOutput
+Phaser offset motion sp	0	4194304	Value	ValueOutput
+Key to phaser offset	0	4194304	Value	ValueOutput
+Harmonizer mix	0	4194304	Value	ValueOutput
+Harmonizer width	0	4194304	Value	ValueOutput
+Harmonizer width LFO am	0	4194304	Value	ValueOutput
+Velocity to harmonizer 	0	4194304	Value	ValueOutput
+Harmonizer strength	0	4194304	Value	ValueOutput
+Harmonizer type	0	4194304	Value	ValueOutput
+Harmonizer position	0	4194304	Value	ValueOutput
+LFO shape / source	0	4194304	Value	ValueOutput
+Global / retriggered LF	0	4194304	Value	ValueOutput
+LFO attack	0	4194304	Value	ValueOutput
+LFO speed	0	4194304	Value	ValueOutput
+Chorus type	0	4194304	Value	ValueOutput
+Chorus mix	0	4194304	Value	ValueOutput
+Delay type	0	4194304	Value	ValueOutput
+Delay input level	0	4194304	Value	ValueOutput
+Delay feedback level	0	4194304	Value	ValueOutput
+Delay time	0	4194304	Value	ValueOutput
+Reverb type	0	4194304	Value	ValueOutput
+Reverb wet level	0	4194304	Value	ValueOutput
+Compression level	0	4194304	Value	ValueOutput
+Velocity to unison pitc	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

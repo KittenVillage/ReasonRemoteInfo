@@ -1,0 +1,80 @@
+Scope
+Manufacturer	Model
+McDSP	vst.McAE.AE400_Active_EQ_x64
+Note: Will match scope definitions for vst.McAE.AE400_Active_EQ_x64 or vst.McAE
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Plot Mode	0	4194304	Value	ValueOutput
+Key Listen	0	4194304	Value	ValueOutput
+Master Link Mod	0	4194304	Value	ValueOutput
+Band 1 Threshol	0	4194304	Value	ValueOutput
+Band 1 Threshld	0	4194304	Value	ValueOutput
+Band 1 Ratio	0	4194304	Value	ValueOutput
+Band 1 Attack	0	4194304	Value	ValueOutput
+Band 1 Release	0	4194304	Value	ValueOutput
+Band 1 Gain	0	4194304	Value	ValueOutput
+Band 1 Output	0	4194304	Value	ValueOutput
+Band 1 Frequenc	0	4194304	Value	ValueOutput
+Band 1 Q	0	4194304	Value	ValueOutput
+Band 1 Solo	0	4194304	Value	ValueOutput
+Band 1 Link	0	4194304	Value	ValueOutput
+Band 1 Enable	0	4194304	Value	ValueOutput
+Band 1 Key	0	4194304	Value	ValueOutput
+Band 2 Threshol	0	4194304	Value	ValueOutput
+Band 2 Threshld	0	4194304	Value	ValueOutput
+Band 2 Ratio	0	4194304	Value	ValueOutput
+Band 2 Attack	0	4194304	Value	ValueOutput
+Band 2 Release	0	4194304	Value	ValueOutput
+Band 2 Gain	0	4194304	Value	ValueOutput
+Band 2 Output	0	4194304	Value	ValueOutput
+Band 2 Frequenc	0	4194304	Value	ValueOutput
+Band 2 Q	0	4194304	Value	ValueOutput
+Band 2 Solo	0	4194304	Value	ValueOutput
+Band 2 Link	0	4194304	Value	ValueOutput
+Band 2 Enable	0	4194304	Value	ValueOutput
+Band 2 Key	0	4194304	Value	ValueOutput
+Band 3 Threshol	0	4194304	Value	ValueOutput
+Band 3 Threshld	0	4194304	Value	ValueOutput
+Band 3 Ratio	0	4194304	Value	ValueOutput
+Band 3 Attack	0	4194304	Value	ValueOutput
+Band 3 Release	0	4194304	Value	ValueOutput
+Band 3 Gain	0	4194304	Value	ValueOutput
+Band 3 Output	0	4194304	Value	ValueOutput
+Band 3 Frequenc	0	4194304	Value	ValueOutput
+Band 3 Q	0	4194304	Value	ValueOutput
+Band 3 Solo	0	4194304	Value	ValueOutput
+Band 3 Link	0	4194304	Value	ValueOutput
+Band 3 Enable	0	4194304	Value	ValueOutput
+Band 3 Key	0	4194304	Value	ValueOutput
+Band 4 Threshol	0	4194304	Value	ValueOutput
+Band 4 Threshld	0	4194304	Value	ValueOutput
+Band 4 Ratio	0	4194304	Value	ValueOutput
+Band 4 Attack	0	4194304	Value	ValueOutput
+Band 4 Release	0	4194304	Value	ValueOutput
+Band 4 Gain	0	4194304	Value	ValueOutput
+Band 4 Output	0	4194304	Value	ValueOutput
+Band 4 Frequenc	0	4194304	Value	ValueOutput
+Band 4 Q	0	4194304	Value	ValueOutput
+Band 4 Solo	0	4194304	Value	ValueOutput
+Band 4 Link	0	4194304	Value	ValueOutput
+Band 4 Enable	0	4194304	Value	ValueOutput
+Band 4 Key	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

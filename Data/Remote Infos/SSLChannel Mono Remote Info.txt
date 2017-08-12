@@ -1,0 +1,56 @@
+Scope
+Manufacturer	Model
+Waves	vst.SCHM.WaveShell-VST 9_91_x64.SSLChannel Mono
+Note: Will match scope definitions for vst.SCHM.WaveShell-VST 9_91_x64.SSLChannel Mono or vst.SCHM
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Analog	0	4194304	Value	ValueOutput
+CompThresh	0	4194304	Value	ValueOutput
+CompRatio	0	4194304	Value	ValueOutput
+CompFast	0	4194304	Value	ValueOutput
+CompRelease	0	4194304	Value	ValueOutput
+ExpAttack	0	4194304	Value	ValueOutput
+ExpRelease	0	4194304	Value	ValueOutput
+ExpThresh	0	4194304	Value	ValueOutput
+ExpRange	0	4194304	Value	ValueOutput
+ExpGate	0	4194304	Value	ValueOutput
+EQBypass	0	4194304	Value	ValueOutput
+EQDynamic	0	4194304	Value	ValueOutput
+DynamicBypass	0	4194304	Value	ValueOutput
+DynaminCHOut	0	4194304	Value	ValueOutput
+FilterSplit	0	4194304	Value	ValueOutput
+HP Frq	0	4194304	Value	ValueOutput
+LP Frq	0	4194304	Value	ValueOutput
+LF Gain	0	4194304	Value	ValueOutput
+LF Frq	0	4194304	Value	ValueOutput
+LF Type	0	4194304	Value	ValueOutput
+LMF Gain	0	4194304	Value	ValueOutput
+LMF Frq	0	4194304	Value	ValueOutput
+LMF Q	0	4194304	Value	ValueOutput
+HMF Gain	0	4194304	Value	ValueOutput
+HMF Frq	0	4194304	Value	ValueOutput
+HMF Q	0	4194304	Value	ValueOutput
+HF Type	0	4194304	Value	ValueOutput
+HF Gain	0	4194304	Value	ValueOutput
+HF Frq	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+VUInOut	0	4194304	Value	ValueOutput
+PhaseReverse	0	4194304	Value	ValueOutput
+InputLevel	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

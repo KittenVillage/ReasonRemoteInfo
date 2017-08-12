@@ -1,0 +1,87 @@
+Scope
+Manufacturer	Model
+LAB ONE Recordings	co.uk.labonerecordings.ReQ131
+
+Remotable	Min	Max	Input type	Output type
+Input Gain	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+LP Bypass	0	1	Toggle	ValueOutput
+Low Pass	0	4194304	Value	ValueOutput
+HP Bypass	0	1	Toggle	ValueOutput
+High Pass	0	4194304	Value	ValueOutput
+Blend Amount	0	4194304	Value	ValueOutput
+Blend Enable	0	1	Toggle	ValueOutput
+Shift Freqs	0	4194304	Value	ValueOutput
+Gain Dry	0	1	Toggle	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Hear EQ	0	1	Toggle	ValueOutput
+EQ1 20Hz	0	4194304	Value	ValueOutput
+EQ2 25Hz	0	4194304	Value	ValueOutput
+EQ3 31.5Hz	0	4194304	Value	ValueOutput
+EQ4 40Hz	0	4194304	Value	ValueOutput
+EQ5 50Hz	0	4194304	Value	ValueOutput
+EQ6 63Hz	0	4194304	Value	ValueOutput
+EQ7 80Hz	0	4194304	Value	ValueOutput
+EQ8 100Hz	0	4194304	Value	ValueOutput
+EQ9 125Hz	0	4194304	Value	ValueOutput
+EQ10 160Hz	0	4194304	Value	ValueOutput
+EQ11 200Hz	0	4194304	Value	ValueOutput
+EQ12 250Hz	0	4194304	Value	ValueOutput
+EQ13 315Hz	0	4194304	Value	ValueOutput
+EQ14 400Hz	0	4194304	Value	ValueOutput
+EQ15 500Hz	0	4194304	Value	ValueOutput
+EQ16 630Hz	0	4194304	Value	ValueOutput
+EQ17 800Hz	0	4194304	Value	ValueOutput
+EQ18 1kHz	0	4194304	Value	ValueOutput
+EQ19 1.25kHz	0	4194304	Value	ValueOutput
+EQ20 1.6kHz	0	4194304	Value	ValueOutput
+EQ21 2kHz	0	4194304	Value	ValueOutput
+EQ22 2.5kHz	0	4194304	Value	ValueOutput
+EQ23 3.15kHz	0	4194304	Value	ValueOutput
+EQ24 4kHz	0	4194304	Value	ValueOutput
+EQ25 5kHz	0	4194304	Value	ValueOutput
+EQ26 6.3kHz	0	4194304	Value	ValueOutput
+EQ27 8kHz	0	4194304	Value	ValueOutput
+EQ28 10kHz	0	4194304	Value	ValueOutput
+EQ29 12.5kHz	0	4194304	Value	ValueOutput
+EQ30 16kHz	0	4194304	Value	ValueOutput
+EQ31 20kHz	0	4194304	Value	ValueOutput
+EQ1 B 20Hz	0	4194304	Value	ValueOutput
+EQ2 B 25Hz	0	4194304	Value	ValueOutput
+EQ3 B 31.5Hz	0	4194304	Value	ValueOutput
+EQ4 B 40Hz	0	4194304	Value	ValueOutput
+EQ5 B 50Hz	0	4194304	Value	ValueOutput
+EQ6 B 63Hz	0	4194304	Value	ValueOutput
+EQ7 B 80Hz	0	4194304	Value	ValueOutput
+EQ8 B 100Hz	0	4194304	Value	ValueOutput
+EQ9 B 125Hz	0	4194304	Value	ValueOutput
+EQ10 B 160Hz	0	4194304	Value	ValueOutput
+EQ11 B 200Hz	0	4194304	Value	ValueOutput
+EQ12 B 250Hz	0	4194304	Value	ValueOutput
+EQ13 B 315Hz	0	4194304	Value	ValueOutput
+EQ14 B 400Hz	0	4194304	Value	ValueOutput
+EQ15 B 500Hz	0	4194304	Value	ValueOutput
+EQ16 B 630Hz	0	4194304	Value	ValueOutput
+EQ17 B 800Hz	0	4194304	Value	ValueOutput
+EQ18 B 1kHz	0	4194304	Value	ValueOutput
+EQ19 B 1.25kHz	0	4194304	Value	ValueOutput
+EQ20 B 1.6kHz	0	4194304	Value	ValueOutput
+EQ21 B 2kHz	0	4194304	Value	ValueOutput
+EQ22 B 2.5kHz	0	4194304	Value	ValueOutput
+EQ23 B 3.15kHz	0	4194304	Value	ValueOutput
+EQ24 B 4kHz	0	4194304	Value	ValueOutput
+EQ25 B 5kHz	0	4194304	Value	ValueOutput
+EQ26 B 6.3kHz	0	4194304	Value	ValueOutput
+EQ27 B 8kHz	0	4194304	Value	ValueOutput
+EQ28 B 10kHz	0	4194304	Value	ValueOutput
+EQ29 B 12.5kHz	0	4194304	Value	ValueOutput
+EQ30 B 16kHz	0	4194304	Value	ValueOutput
+EQ31 B 20kHz	0	4194304	Value	ValueOutput
+Signal Mode	0	14	Value	ValueOutput
+Edit Curve	0	1	Toggle	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

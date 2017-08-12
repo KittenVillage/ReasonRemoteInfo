@@ -1,0 +1,87 @@
+Scope
+Manufacturer	Model
+Cockos	vst.rejs.reajs
+Note: Will match scope definitions for vst.rejs.reajs or vst.rejs
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Parm1	0	4194304	Value	ValueOutput
+Parm2	0	4194304	Value	ValueOutput
+Parm3	0	4194304	Value	ValueOutput
+Parm4	0	4194304	Value	ValueOutput
+Parm5	0	4194304	Value	ValueOutput
+Parm6	0	4194304	Value	ValueOutput
+Parm7	0	4194304	Value	ValueOutput
+Parm8	0	4194304	Value	ValueOutput
+Parm9	0	4194304	Value	ValueOutput
+Parm10	0	4194304	Value	ValueOutput
+Parm11	0	4194304	Value	ValueOutput
+Parm12	0	4194304	Value	ValueOutput
+Parm13	0	4194304	Value	ValueOutput
+Parm14	0	4194304	Value	ValueOutput
+Parm15	0	4194304	Value	ValueOutput
+Parm16	0	4194304	Value	ValueOutput
+Parm17	0	4194304	Value	ValueOutput
+Parm18	0	4194304	Value	ValueOutput
+Parm19	0	4194304	Value	ValueOutput
+Parm20	0	4194304	Value	ValueOutput
+Parm21	0	4194304	Value	ValueOutput
+Parm22	0	4194304	Value	ValueOutput
+Parm23	0	4194304	Value	ValueOutput
+Parm24	0	4194304	Value	ValueOutput
+Parm25	0	4194304	Value	ValueOutput
+Parm26	0	4194304	Value	ValueOutput
+Parm27	0	4194304	Value	ValueOutput
+Parm28	0	4194304	Value	ValueOutput
+Parm29	0	4194304	Value	ValueOutput
+Parm30	0	4194304	Value	ValueOutput
+Parm31	0	4194304	Value	ValueOutput
+Parm32	0	4194304	Value	ValueOutput
+Parm33	0	4194304	Value	ValueOutput
+Parm34	0	4194304	Value	ValueOutput
+Parm35	0	4194304	Value	ValueOutput
+Parm36	0	4194304	Value	ValueOutput
+Parm37	0	4194304	Value	ValueOutput
+Parm38	0	4194304	Value	ValueOutput
+Parm39	0	4194304	Value	ValueOutput
+Parm40	0	4194304	Value	ValueOutput
+Parm41	0	4194304	Value	ValueOutput
+Parm42	0	4194304	Value	ValueOutput
+Parm43	0	4194304	Value	ValueOutput
+Parm44	0	4194304	Value	ValueOutput
+Parm45	0	4194304	Value	ValueOutput
+Parm46	0	4194304	Value	ValueOutput
+Parm47	0	4194304	Value	ValueOutput
+Parm48	0	4194304	Value	ValueOutput
+Parm49	0	4194304	Value	ValueOutput
+Parm50	0	4194304	Value	ValueOutput
+Parm51	0	4194304	Value	ValueOutput
+Parm52	0	4194304	Value	ValueOutput
+Parm53	0	4194304	Value	ValueOutput
+Parm54	0	4194304	Value	ValueOutput
+Parm55	0	4194304	Value	ValueOutput
+Parm56	0	4194304	Value	ValueOutput
+Parm57	0	4194304	Value	ValueOutput
+Parm58	0	4194304	Value	ValueOutput
+Parm59	0	4194304	Value	ValueOutput
+Parm60	0	4194304	Value	ValueOutput
+Parm61	0	4194304	Value	ValueOutput
+Parm62	0	4194304	Value	ValueOutput
+Parm63	0	4194304	Value	ValueOutput
+Parm64	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

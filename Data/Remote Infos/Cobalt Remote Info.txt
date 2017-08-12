@@ -1,0 +1,120 @@
+Scope
+Manufacturer	Model
+Sanford Sound Design	vst.Cblt.Cobalt
+Note: Will match scope definitions for vst.Cblt.Cobalt or vst.Cblt
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Poly	0	4194304	Value	ValueOutput
+MIDI CH	0	4194304	Value	ValueOutput
+OMNI	0	4194304	Value	ValueOutput
+O1 Dtn	0	4194304	Value	ValueOutput
+O1 Tran	0	4194304	Value	ValueOutput
+O1 PBR	0	4194304	Value	ValueOutput
+O1 FM1	0	4194304	Value	ValueOutput
+O1 FM2	0	4194304	Value	ValueOutput
+O1 FM1P	0	4194304	Value	ValueOutput
+O1 FM2P	0	4194304	Value	ValueOutput
+O1 Wave	0	4194304	Value	ValueOutput
+O1 PWOn	0	4194304	Value	ValueOutput
+O1 PWid	0	4194304	Value	ValueOutput
+O1 PWM	0	4194304	Value	ValueOutput
+O1 PWMP	0	4194304	Value	ValueOutput
+O2 Dtn	0	4194304	Value	ValueOutput
+O2 Tran	0	4194304	Value	ValueOutput
+O2 PBR	0	4194304	Value	ValueOutput
+O2 FM1	0	4194304	Value	ValueOutput
+O2 FM2	0	4194304	Value	ValueOutput
+O2 FM1P	0	4194304	Value	ValueOutput
+O2 FM2P	0	4194304	Value	ValueOutput
+O2 Wave	0	4194304	Value	ValueOutput
+O2 PWOn	0	4194304	Value	ValueOutput
+O2 PWid	0	4194304	Value	ValueOutput
+O2 PWM	0	4194304	Value	ValueOutput
+O2 PWMP	0	4194304	Value	ValueOutput
+O1 FM1S	0	4194304	Value	ValueOutput
+O1 FM2S	0	4194304	Value	ValueOutput
+O1 PWMS	0	4194304	Value	ValueOutput
+O2 FM1S	0	4194304	Value	ValueOutput
+O2 FM2S	0	4194304	Value	ValueOutput
+O2 PWMS	0	4194304	Value	ValueOutput
+O1 Prta	0	4194304	Value	ValueOutput
+O2 Prta	0	4194304	Value	ValueOutput
+O2 Sync	0	4194304	Value	ValueOutput
+F Cut	0	4194304	Value	ValueOutput
+F Res	0	4194304	Value	ValueOutput
+F Type	0	4194304	Value	ValueOutput
+F KTrck	0	4194304	Value	ValueOutput
+F FM1	0	4194304	Value	ValueOutput
+F FM2	0	4194304	Value	ValueOutput
+F FM1PL	0	4194304	Value	ValueOutput
+F FM2PL	0	4194304	Value	ValueOutput
+F CPrss	0	4194304	Value	ValueOutput
+F FM1S	0	4194304	Value	ValueOutput
+F FM2S	0	4194304	Value	ValueOutput
+L1 Dela	0	4194304	Value	ValueOutput
+L2 Dela	0	4194304	Value	ValueOutput
+E1 A	0	4194304	Value	ValueOutput
+E1 D	0	4194304	Value	ValueOutput
+E1 S	0	4194304	Value	ValueOutput
+E1 R	0	4194304	Value	ValueOutput
+E1 KT	0	4194304	Value	ValueOutput
+E1 VDpt	0	4194304	Value	ValueOutput
+E1 TMod	0	4194304	Value	ValueOutput
+E2 A	0	4194304	Value	ValueOutput
+E2 D	0	4194304	Value	ValueOutput
+E2 S	0	4194304	Value	ValueOutput
+E2 R	0	4194304	Value	ValueOutput
+E2 KT	0	4194304	Value	ValueOutput
+E2 VDpt	0	4194304	Value	ValueOutput
+E2 TMod	0	4194304	Value	ValueOutput
+N On	0	4194304	Value	ValueOutput
+Pr Time	0	4194304	Value	ValueOutput
+O1 Lvl	0	4194304	Value	ValueOutput
+O2 Lvl	0	4194304	Value	ValueOutput
+N Lvl	0	4194304	Value	ValueOutput
+L1 Spd	0	4194304	Value	ValueOutput
+L1 Shpe	0	4194304	Value	ValueOutput
+L1 MW	0	4194304	Value	ValueOutput
+L1 Sync	0	4194304	Value	ValueOutput
+L2 Spd	0	4194304	Value	ValueOutput
+L2 Shpe	0	4194304	Value	ValueOutput
+L2 MW	0	4194304	Value	ValueOutput
+L2 Sync	0	4194304	Value	ValueOutput
+OD On	0	4194304	Value	ValueOutput
+OD Lvl	0	4194304	Value	ValueOutput
+P MSrc	0	4194304	Value	ValueOutput
+P On	0	4194304	Value	ValueOutput
+P L/R	0	4194304	Value	ValueOutput
+P ModL	0	4194304	Value	ValueOutput
+P MPol	0	4194304	Value	ValueOutput
+Ch On	0	4194304	Value	ValueOutput
+Ch Dly	0	4194304	Value	ValueOutput
+Ch Dpth	0	4194304	Value	ValueOutput
+Ch FB	0	4194304	Value	ValueOutput
+Ch Freq	0	4194304	Value	ValueOutput
+Ch Mix	0	4194304	Value	ValueOutput
+D On	0	4194304	Value	ValueOutput
+D FB	0	4194304	Value	ValueOutput
+D LDly	0	4194304	Value	ValueOutput
+D PanD	0	4194304	Value	ValueOutput
+D RDly	0	4194304	Value	ValueOutput
+D Mix	0	4194304	Value	ValueOutput
+D Sync	0	4194304	Value	ValueOutput
+M Lvl	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

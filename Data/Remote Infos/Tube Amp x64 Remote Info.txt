@@ -1,0 +1,66 @@
+Scope
+Manufacturer	Model
+Voxengo	vst.qyp7.Tube Amp x64
+Note: Will match scope definitions for vst.qyp7.Tube Amp x64 or vst.qyp7
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Oversmp	0	4194304	Value	ValueOutput
+OutSat	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Bias	0	4194304	Value	ValueOutput
+LPFreq	0	4194304	Value	ValueOutput
+OGain	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Drive2	0	4194304	Value	ValueOutput
+Bias2	0	4194304	Value	ValueOutput
+LPFreq2	0	4194304	Value	ValueOutput
+OGain2	0	4194304	Value	ValueOutput
+Mode2	0	4194304	Value	ValueOutput
+Drive3	0	4194304	Value	ValueOutput
+Bias3	0	4194304	Value	ValueOutput
+LPFreq3	0	4194304	Value	ValueOutput
+OGain3	0	4194304	Value	ValueOutput
+Mode3	0	4194304	Value	ValueOutput
+Drive4	0	4194304	Value	ValueOutput
+Bias4	0	4194304	Value	ValueOutput
+LPFreq4	0	4194304	Value	ValueOutput
+OGain4	0	4194304	Value	ValueOutput
+Mode4	0	4194304	Value	ValueOutput
+Drive5	0	4194304	Value	ValueOutput
+Bias5	0	4194304	Value	ValueOutput
+LPFreq5	0	4194304	Value	ValueOutput
+OGain5	0	4194304	Value	ValueOutput
+Mode5	0	4194304	Value	ValueOutput
+Drive6	0	4194304	Value	ValueOutput
+Bias6	0	4194304	Value	ValueOutput
+LPFreq6	0	4194304	Value	ValueOutput
+OGain6	0	4194304	Value	ValueOutput
+Mode6	0	4194304	Value	ValueOutput
+Drive7	0	4194304	Value	ValueOutput
+Bias7	0	4194304	Value	ValueOutput
+LPFreq7	0	4194304	Value	ValueOutput
+OGain7	0	4194304	Value	ValueOutput
+Mode7	0	4194304	Value	ValueOutput
+Drive8	0	4194304	Value	ValueOutput
+Bias8	0	4194304	Value	ValueOutput
+LPFreq8	0	4194304	Value	ValueOutput
+OGain8	0	4194304	Value	ValueOutput
+Mode8	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

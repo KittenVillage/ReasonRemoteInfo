@@ -1,0 +1,71 @@
+Scope
+Manufacturer	Model
+FXpansion Audio UK Ltd.	com.fxpansion.EtchRack
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Distortion Pre/Post	0	1	Toggle	ValueOutput
+Filter Parallel	0	1	Toggle	ValueOutput
+Distortion Power	0	1	Toggle	ValueOutput
+Distortion Drive	0	4194304	Value	ValueOutput
+Distortion Mode	0	6	Value	ValueOutput
+Filter 1 Active	0	1	Toggle	ValueOutput
+Filter 1 Freq	0	4194304	Value	ValueOutput
+Filter 1 Rez	0	4194304	Value	ValueOutput
+Filter 1 Type	0	3	Value	ValueOutput
+Filter 1 Input	0	4194304	Value	ValueOutput
+Filter 1 Pan	0	4194304	Value	ValueOutput
+Filter 1 FM	0	4194304	Value	ValueOutput
+Filter 1 FM Input	0	1	Toggle	ValueOutput
+Filter 2 Active	0	1	Toggle	ValueOutput
+Filter 2 Freq	0	4194304	Value	ValueOutput
+Filter 2 Offset	0	4194304	Value	ValueOutput
+Filter 2 Rez	0	4194304	Value	ValueOutput
+Filter 2 Type	0	3	Value	ValueOutput
+Filter 2 Input	0	4194304	Value	ValueOutput
+Filter 2 Pan	0	4194304	Value	ValueOutput
+Filter 2 FM	0	4194304	Value	ValueOutput
+Filter 2 FM Input	0	1	Toggle	ValueOutput
+Compressor Compression	0	4194304	Value	ValueOutput
+Compressor Hard/Soft	0	1	Toggle	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Output Mix	0	4194304	Value	ValueOutput
+Filter 1 Output	0	4194304	Value	ValueOutput
+Filter 2 Output	0	4194304	Value	ValueOutput
+Envelope Velocity	0	1	Toggle	ValueOutput
+Envelope Curve	0	4194304	Value	ValueOutput
+Envelope Attack	0	4194304	Value	ValueOutput
+Envelope Hold	0	4194304	Value	ValueOutput
+Envelope Decay	0	4194304	Value	ValueOutput
+Envelope Gain	0	4194304	Value	ValueOutput
+LFO 1 Sync	0	1	Toggle	ValueOutput
+LFO 1 Beats	0	38	Value	ValueOutput
+LFO 1 Hertz	0	4194304	Value	ValueOutput
+LFO 1 Shape	0	4	Value	ValueOutput
+LFO 1 Morph	0	4194304	Value	ValueOutput
+LFO 1 Phaze	0	4194304	Value	ValueOutput
+LFO 1 Gain	0	4194304	Value	ValueOutput
+LFO 2 Sync	0	1	Toggle	ValueOutput
+LFO 2 Beats	0	38	Value	ValueOutput
+LFO 2 Hertz	0	4194304	Value	ValueOutput
+LFO 2 Shape	0	4	Value	ValueOutput
+LFO 2 Morph	0	4194304	Value	ValueOutput
+LFO 2 Phaze	0	4194304	Value	ValueOutput
+LFO 2 Gain	0	4194304	Value	ValueOutput
+Envelope Follower Attack	0	4194304	Value	ValueOutput
+Envelope Follower Decay	0	4194304	Value	ValueOutput
+Envelope Follower Level	0	4194304	Value	ValueOutput
+Envelope Follower Gain	0	4194304	Value	ValueOutput
+S&H Sync	0	1	Toggle	ValueOutput
+S&H Beats	0	38	Value	ValueOutput
+S&H Hertz	0	4194304	Value	ValueOutput
+S&H Slew	0	4194304	Value	ValueOutput
+S&H Gain	0	4194304	Value	ValueOutput
+Key Track	0	1	Toggle	ValueOutput
+Envelope Follower HPF	0	1	Toggle	ValueOutput
+Filter Link	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

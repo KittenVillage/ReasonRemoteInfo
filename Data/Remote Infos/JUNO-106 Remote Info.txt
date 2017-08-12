@@ -1,0 +1,101 @@
+Scope
+Manufacturer	Model
+Roland	vst.Vas7.JUNO-106
+Note: Will match scope definitions for vst.Vas7.JUNO-106 or vst.Vas7
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+LFO DELAY TIME	0	4194304	Value	ValueOutput
+LFO RATE	0	4194304	Value	ValueOutput
+DCO LFO MOD	0	4194304	Value	ValueOutput
+VCF LFO MOD	0	4194304	Value	ValueOutput
+LFO KEY TRIG	0	4194304	Value	ValueOutput
+DCO PWM DEPTH	0	4194304	Value	ValueOutput
+DCO PWM SOURCE	0	4194304	Value	ValueOutput
+DCO RANGE	0	4194304	Value	ValueOutput
+DCO PWM LEVEL	0	4194304	Value	ValueOutput
+DCO SAW LEVEL	0	4194304	Value	ValueOutput
+DCO SUB LEVEL	0	4194304	Value	ValueOutput
+DCO NOISE LEVEL	0	4194304	Value	ValueOutput
+VCF CUTOFF FREQ	0	4194304	Value	ValueOutput
+VCF RESONANCE	0	4194304	Value	ValueOutput
+HPF CUTOFF FREQ	0	4194304	Value	ValueOutput
+VCF ENV MOD	0	4194304	Value	ValueOutput
+ENV1 ATTACK	0	4194304	Value	ValueOutput
+ENV1 DECAY	0	4194304	Value	ValueOutput
+ENV1 SUSTAIN	0	4194304	Value	ValueOutput
+ENV1 RELEASE	0	4194304	Value	ValueOutput
+VCF KEY FOLLOW	0	4194304	Value	ValueOutput
+ENV2 ATTACK	0	4194304	Value	ValueOutput
+ENV2 DECAY	0	4194304	Value	ValueOutput
+ENV2 SUSTAIN	0	4194304	Value	ValueOutput
+ENV2 RELEASE	0	4194304	Value	ValueOutput
+VCA TONE	0	4194304	Value	ValueOutput
+EFFECT DEPTH	0	4194304	Value	ValueOutput
+REVERB LEVEL	0	4194304	Value	ValueOutput
+DELAY LEVEL	0	4194304	Value	ValueOutput
+DELAY TIME	0	4194304	Value	ValueOutput
+PORTAMENTO	0	4194304	Value	ValueOutput
+LEGATO	0	4194304	Value	ValueOutput
+ASSIGN MODE	0	4194304	Value	ValueOutput
+BEND RANGE	0	4194304	Value	ValueOutput
+TEMPO SYNC	0	4194304	Value	ValueOutput
+VCA LEVEL	0	4194304	Value	ValueOutput
+ARPEGGIO SW	0	4194304	Value	ValueOutput
+ARPEGGIO TYPE	0	4194304	Value	ValueOutput
+ARPEGGIO STEP	0	4194304	Value	ValueOutput
+OCTAVE SHIFT	0	4194304	Value	ValueOutput
+KEY HOLD	0	4194304	Value	ValueOutput
+VCA MODE	0	4194304	Value	ValueOutput
+CONDITION	0	4194304	Value	ValueOutput
+BEND GAIN	0	4194304	Value	ValueOutput
+BEND SENS DCO	0	4194304	Value	ValueOutput
+BEND SENS VCF	0	4194304	Value	ValueOutput
+MOD SENS DCO	0	4194304	Value	ValueOutput
+MOD SENS VCF	0	4194304	Value	ValueOutput
+LFO TRIG ENV	0	4194304	Value	ValueOutput
+EFFECT TYPE	0	4194304	Value	ValueOutput
+EFFECT TONE	0	4194304	Value	ValueOutput
+DELAY TYPE	0	4194304	Value	ValueOutput
+REVERB TYPE	0	4194304	Value	ValueOutput
+REVERB TIME	0	4194304	Value	ValueOutput
+LFO RATE	0	4194304	Value	ValueOutput
+VCF VELOCITY SENS	0	4194304	Value	ValueOutput
+VCF CUTOFF	0	4194304	Value	ValueOutput
+VCA VELOCITY SENS	0	4194304	Value	ValueOutput
+DELAY TAP TIME	0	4194304	Value	ValueOutput
+DELAY FEEDBACK	0	4194304	Value	ValueOutput
+DELAY HIGH CUT	0	4194304	Value	ValueOutput
+DELAY HF DAMP	0	4194304	Value	ValueOutput
+DELAY HF DAMP FREQ	0	4194304	Value	ValueOutput
+DELAY LF DAMP	0	4194304	Value	ValueOutput
+DELAY LF DAMP FREQ	0	4194304	Value	ValueOutput
+DELAY DIRECT LEVEL	0	4194304	Value	ValueOutput
+CHORUS PRE DELAY	0	4194304	Value	ValueOutput
+CHORUS LOW CUT	0	4194304	Value	ValueOutput
+CHORUS HIGH CUT	0	4194304	Value	ValueOutput
+FLANGER MANUAL	0	4194304	Value	ValueOutput
+FLANGER RESONANCE	0	4194304	Value	ValueOutput
+FLANGER LOW CUT	0	4194304	Value	ValueOutput
+REVERB PRE DELAY	0	4194304	Value	ValueOutput
+REVERB LOW CUT	0	4194304	Value	ValueOutput
+REVERB HIGH CUT	0	4194304	Value	ValueOutput
+REVERB DENSITY	0	4194304	Value	ValueOutput
+REVERB DIRECT LEVEL	0	4194304	Value	ValueOutput
+MASTER TUNE	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

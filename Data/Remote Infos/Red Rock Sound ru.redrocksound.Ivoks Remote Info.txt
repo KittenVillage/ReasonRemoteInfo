@@ -1,0 +1,49 @@
+Scope
+Manufacturer	Model
+Red Rock Sound	ru.redrocksound.Ivoks
+
+Remotable	Min	Max	Input type	Output type
+LFOSpeed	0	4194304	Value	ValueOutput
+LFOMode	0	3	Value	ValueOutput
+VCO1Band	0	4194304	Value	ValueOutput
+VCO1WF	0	4	Value	ValueOutput
+LFOtoVCO1	0	4194304	Value	ValueOutput
+VCO1Xmod	0	4194304	Value	ValueOutput
+VCO2Band	0	4194304	Value	ValueOutput
+VCO2WF	0	4	Value	ValueOutput
+LFOtoVCO2	0	4194304	Value	ValueOutput
+VCO2Detune	0	4194304	Value	ValueOutput
+VCFAtt	0	4194304	Value	ValueOutput
+VCFDec	0	4194304	Value	ValueOutput
+VCFSus	0	4194304	Value	ValueOutput
+VCFRel	0	4194304	Value	ValueOutput
+VCFADSRMode	0	1	Toggle	ValueOutput
+FilterCut	0	4194304	Value	ValueOutput
+FilterRes	0	4194304	Value	ValueOutput
+FilterMod	0	1	Toggle	ValueOutput
+LFOtoFilter	0	4194304	Value	ValueOutput
+ENVtoFilter	0	4194304	Value	ValueOutput
+VCAAtt	0	4194304	Value	ValueOutput
+VCADec	0	4194304	Value	ValueOutput
+VCASus	0	4194304	Value	ValueOutput
+VCARel	0	4194304	Value	ValueOutput
+VCAADSRMode	0	1	Toggle	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+LFOtoAMP	0	4194304	Value	ValueOutput
+MixerVCO1	0	4194304	Value	ValueOutput
+MixerVCO2	0	4194304	Value	ValueOutput
+MixerNoise	0	4194304	Value	ValueOutput
+MixerExtIn	0	4194304	Value	ValueOutput
+GlobalGlide	0	4194304	Value	ValueOutput
+GlobalTune	0	4194304	Value	ValueOutput
+GlobalRetrig	0	1	Toggle	ValueOutput
+GlobalVoice	0	1	Toggle	ValueOutput
+GlobalUnison	0	1	Toggle	ValueOutput
+GlobalVol	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

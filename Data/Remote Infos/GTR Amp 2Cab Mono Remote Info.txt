@@ -1,0 +1,42 @@
+Scope
+Manufacturer	Model
+Waves	vst.GA2M.WaveShell-VST 9_91_x64.GTR Amp 2Cab Mono
+Note: Will match scope definitions for vst.GA2M.WaveShell-VST 9_91_x64.GTR Amp 2Cab Mono or vst.GA2M
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Amp Bypass	0	4194304	Value	ValueOutput
+Cabinet Bypass	0	4194304	Value	ValueOutput
+Amp Type	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Bass	0	4194304	Value	ValueOutput
+Mid	0	4194304	Value	ValueOutput
+Treble	0	4194304	Value	ValueOutput
+Presence	0	4194304	Value	ValueOutput
+Cabinet 1	0	4194304	Value	ValueOutput
+Microphone 1	0	4194304	Value	ValueOutput
+Delay 1	0	4194304	Value	ValueOutput
+Vol 1	0	4194304	Value	ValueOutput
+Phase 1	0	4194304	Value	ValueOutput
+Level	0	4194304	Value	ValueOutput
+Cabinet 2	0	4194304	Value	ValueOutput
+Microphone 2	0	4194304	Value	ValueOutput
+Phase 2	0	4194304	Value	ValueOutput
+Delay 2	0	4194304	Value	ValueOutput
+Vol 2	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

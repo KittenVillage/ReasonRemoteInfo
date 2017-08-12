@@ -1,0 +1,35 @@
+Scope
+Manufacturer	Model
+Audiority	vst.Oqxi.TS1-TransientShaper x64
+Note: Will match scope definitions for vst.Oqxi.TS1-TransientShaper x64 or vst.Oqxi
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+InputGain	0	4194304	Value	ValueOutput
+AttackGain	0	4194304	Value	ValueOutput
+AttackFilter	0	4194304	Value	ValueOutput
+FilterModeA	0	4194304	Value	ValueOutput
+SustainGain	0	4194304	Value	ValueOutput
+SustainFilter	0	4194304	Value	ValueOutput
+FilterModeS	0	4194304	Value	ValueOutput
+Size	0	4194304	Value	ValueOutput
+Blend	0	4194304	Value	ValueOutput
+SoftClip	0	4194304	Value	ValueOutput
+OutputGain	0	4194304	Value	ValueOutput
+Type	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

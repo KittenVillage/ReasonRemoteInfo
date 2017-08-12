@@ -1,0 +1,144 @@
+Scope
+Manufacturer	Model
+XILS-lab	vst.iPoM.PolyM
+Note: Will match scope definitions for vst.iPoM.PolyM or vst.iPoM
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Gen Lev 	0	4194304	Value	ValueOutput
+RibbCont	0	4194304	Value	ValueOutput
+GlobTune	0	4194304	Value	ValueOutput
+Rel Tune	0	4194304	Value	ValueOutput
+Glide   	0	4194304	Value	ValueOutput
+DirLevel	0	4194304	Value	ValueOutput
+ModLevel	0	4194304	Value	ValueOutput
+ResLevel	0	4194304	Value	ValueOutput
+VCFLevel	0	4194304	Value	ValueOutput
+Balan1-2	0	4194304	Value	ValueOutput
+Balan3-4	0	4194304	Value	ValueOutput
+Balan5-6	0	4194304	Value	ValueOutput
+Saw Tune	0	4194304	Value	ValueOutput
+SawFMRat	0	4194304	Value	ValueOutput
+SawFMAmn	0	4194304	Value	ValueOutput
+SQRFMRat	0	4194304	Value	ValueOutput
+SQRFMAmn	0	4194304	Value	ValueOutput
+SQRShapL	0	4194304	Value	ValueOutput
+SQRShAmL	0	4194304	Value	ValueOutput
+SQRShapU	0	4194304	Value	ValueOutput
+SQRShAmU	0	4194304	Value	ValueOutput
+ShapRate	0	4194304	Value	ValueOutput
+SawMixLo	0	4194304	Value	ValueOutput
+SawMixUp	0	4194304	Value	ValueOutput
+KeybDyna	0	4194304	Value	ValueOutput
+KeybAtt 	0	4194304	Value	ValueOutput
+KeybDecL	0	4194304	Value	ValueOutput
+KeybDecU	0	4194304	Value	ValueOutput
+KeybSust	0	4194304	Value	ValueOutput
+KeybRelL	0	4194304	Value	ValueOutput
+KeybRelU	0	4194304	Value	ValueOutput
+MixVCF_F	0	4194304	Value	ValueOutput
+MixVCF_R	0	4194304	Value	ValueOutput
+MixVCF_K	0	4194304	Value	ValueOutput
+MixVCF-A	0	4194304	Value	ValueOutput
+MixVCFDec	0	4194304	Value	ValueOutput
+MxVCFSus	0	4194304	Value	ValueOutput
+MxVCFRel	0	4194304	Value	ValueOutput
+MxVCFAmn	0	4194304	Value	ValueOutput
+VCFCutof	0	4194304	Value	ValueOutput
+VCFEmph 	0	4194304	Value	ValueOutput
+VCFKeyb 	0	4194304	Value	ValueOutput
+VCFModRa	0	4194304	Value	ValueOutput
+VCFModAm	0	4194304	Value	ValueOutput
+VCFModSH	0	4194304	Value	ValueOutput
+VCFEnvAm	0	4194304	Value	ValueOutput
+VCFEnvAt	0	4194304	Value	ValueOutput
+VCFEnvDe	0	4194304	Value	ValueOutput
+VCFEnvSu	0	4194304	Value	ValueOutput
+VCFEnvRe	0	4194304	Value	ValueOutput
+ResFreq1	0	4194304	Value	ValueOutput
+ResEmph1	0	4194304	Value	ValueOutput
+ResGain1	0	4194304	Value	ValueOutput
+ResFreq2	0	4194304	Value	ValueOutput
+ResEmph2	0	4194304	Value	ValueOutput
+ResGain2	0	4194304	Value	ValueOutput
+ResFreq3	0	4194304	Value	ValueOutput
+ResEmph3	0	4194304	Value	ValueOutput
+ResGain3	0	4194304	Value	ValueOutput
+ModWheel	0	4194304	Value	ValueOutput
+Modul1Am	0	4194304	Value	ValueOutput
+Modul2Am	0	4194304	Value	ValueOutput
+Modul3Am	0	4194304	Value	ValueOutput
+Modul4Am	0	4194304	Value	ValueOutput
+Modul5Am	0	4194304	Value	ValueOutput
+Modul6Am	0	4194304	Value	ValueOutput
+MoAfteAm	0	4194304	Value	ValueOutput
+ModVelAm	0	4194304	Value	ValueOutput
+ModWheAm	0	4194304	Value	ValueOutput
+PhaserSp	0	4194304	Value	ValueOutput
+PhaserAm	0	4194304	Value	ValueOutput
+PhaserSt	0	4194304	Value	ValueOutput
+PhaserRe	0	4194304	Value	ValueOutput
+PhaserSw	0	4194304	Value	ValueOutput
+PhaserDW	0	4194304	Value	ValueOutput
+RevPreDe	0	4194304	Value	ValueOutput
+Rev Time	0	4194304	Value	ValueOutput
+RevHPDam	0	4194304	Value	ValueOutput
+RevLevel	0	4194304	Value	ValueOutput
+DelLeftT	0	4194304	Value	ValueOutput
+DelRighT	0	4194304	Value	ValueOutput
+DelLeftF	0	4194304	Value	ValueOutput
+DelRighF	0	4194304	Value	ValueOutput
+DelDryWe	0	4194304	Value	ValueOutput
+ArpRate 	0	4194304	Value	ValueOutput
+ArpSwing	0	4194304	Value	ValueOutput
+ArpGate 	0	4194304	Value	ValueOutput
+WavShpLo	0	4194304	Value	ValueOutput
+WavShpHi	0	4194304	Value	ValueOutput
+SawFoota	0	4194304	Value	ValueOutput
+SqrFoota	0	4194304	Value	ValueOutput
+LockFree	0	4194304	Value	ValueOutput
+MixVCFty	0	4194304	Value	ValueOutput
+MxVCFLeg	0	4194304	Value	ValueOutput
+Res Type	0	4194304	Value	ValueOutput
+Res Slop	0	4194304	Value	ValueOutput
+Res Keyb	0	4194304	Value	ValueOutput
+ResEnabl	0	4194304	Value	ValueOutput
+VCFEnabl	0	4194304	Value	ValueOutput
+VCFKSplt	0	4194304	Value	ValueOutput
+VCFAssgn	0	4194304	Value	ValueOutput
+VCFDrvOf	0	4194304	Value	ValueOutput
+Keyb Mod	0	4194304	Value	ValueOutput
+Env Mode	0	4194304	Value	ValueOutput
+EnvLckMn	0	4194304	Value	ValueOutput
+OnGenOn 	0	4194304	Value	ValueOutput
+RevOn/Of	0	4194304	Value	ValueOutput
+PhaserOn	0	4194304	Value	ValueOutput
+DelayOn 	0	4194304	Value	ValueOutput
+DelTempo	0	4194304	Value	ValueOutput
+PhaserBo	0	4194304	Value	ValueOutput
+KB Split	0	4194304	Value	ValueOutput
+SawFMRSy	0	4194304	Value	ValueOutput
+SQRFMRSy	0	4194304	Value	ValueOutput
+ShapRaSy	0	4194304	Value	ValueOutput
+VCFModRS	0	4194304	Value	ValueOutput
+DirtMute	0	4194304	Value	ValueOutput
+ModeMute	0	4194304	Value	ValueOutput
+VCF Mute	0	4194304	Value	ValueOutput
+Res Mute	0	4194304	Value	ValueOutput
+MixVCFSp	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

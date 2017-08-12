@@ -1,0 +1,848 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.IHmo.IL Harmor x64
+Note: Will match scope definitions for vst.IHmo.IL Harmor x64 or vst.IHmo
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+A - Starting phase	0	4194304	Value	ValueOutput
+A - Phase randomness	0	4194304	Value	ValueOutput
+A - Predelay	0	4194304	Value	ValueOutput
+A - Envelope release po	0	4194304	Value	ValueOutput
+A - Timbre 1 & 2 mix	0	4194304	Value	ValueOutput
+A - Sub-harmonic 1	0	4194304	Value	ValueOutput
+A - Sub-harmonic 2	0	4194304	Value	ValueOutput
+A - Sub-harmonic 3	0	4194304	Value	ValueOutput
+A - Harmonic protection	0	4194304	Value	ValueOutput
+A - Clipping threshold	0	4194304	Value	ValueOutput
+A - FX / dry mix	0	4194304	Value	ValueOutput
+A - Time domain volume	0	4194304	Value	ValueOutput
+A - Frequency domain en	0	4194304	Value	ValueOutput
+A - Auto-gain	0	4194304	Value	ValueOutput
+A - Velocity to volume 	0	4194304	Value	ValueOutput
+A - Velocity to volume 	0	4194304	Value	ValueOutput
+A - Release velocity to	0	4194304	Value	ValueOutput
+A - Tremolo depth	0	4194304	Value	ValueOutput
+A - Tremolo speed	0	4194304	Value	ValueOutput
+A - Tremolo stereo gap	0	4194304	Value	ValueOutput
+A - Blur mix	0	4194304	Value	ValueOutput
+A - Time blur attack	0	4194304	Value	ValueOutput
+A - Time blur decay	0	4194304	Value	ValueOutput
+A - Harmonic blur amoun	0	4194304	Value	ValueOutput
+A - Harmonic blur botto	0	4194304	Value	ValueOutput
+A - Harmonic blur top t	0	4194304	Value	ValueOutput
+A - Prism amount	0	4194304	Value	ValueOutput
+A - Harmonizer mix	0	4194304	Value	ValueOutput
+A - Harmonizer width	0	4194304	Value	ValueOutput
+A - Harmonizer strength	0	4194304	Value	ValueOutput
+A - Harmonizer pattern 	0	4194304	Value	ValueOutput
+A - Harmonizer pattern 	0	4194304	Value	ValueOutput
+A - Harmonizer pattern 	0	4194304	Value	ValueOutput
+A - Harmonizer pattern 	0	4194304	Value	ValueOutput
+A - Unison order	0	4194304	Value	ValueOutput
+A - Unison distribution	0	4194304	Value	ValueOutput
+A - Unison alternate di	0	4194304	Value	ValueOutput
+A - Unison panning	0	4194304	Value	ValueOutput
+A - Unison pitch thickn	0	4194304	Value	ValueOutput
+A - Unison phase	0	4194304	Value	ValueOutput
+A - Freq multiplicator	0	4194304	Value	ValueOutput
+A - Freq divider	0	4194304	Value	ValueOutput
+A - Harmonic detuning m	0	4194304	Value	ValueOutput
+A - Harmonic detuning d	0	4194304	Value	ValueOutput
+A - Pitch articulator a	0	4194304	Value	ValueOutput
+A - Pitch vibrato depth	0	4194304	Value	ValueOutput
+A - Pitch vibrato speed	0	4194304	Value	ValueOutput
+A - Linear / logarithmi	0	4194304	Value	ValueOutput
+A - Fixed / variable po	0	4194304	Value	ValueOutput
+A - Portamento / legato	0	4194304	Value	ValueOutput
+A - Portamento pitch li	0	4194304	Value	ValueOutput
+A - Adaptive filter 1 e	0	4194304	Value	ValueOutput
+A - Filter 1 frequency	0	4194304	Value	ValueOutput
+A - Filter 1 scale	0	4194304	Value	ValueOutput
+A - Filter 1 width	0	4194304	Value	ValueOutput
+A - Key to filter 1 fre	0	4194304	Value	ValueOutput
+A - Filter 1 envelope a	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Adaptive filter 2 e	0	4194304	Value	ValueOutput
+A - Filter 2 frequency	0	4194304	Value	ValueOutput
+A - Filter 2 scale	0	4194304	Value	ValueOutput
+A - Filter 2 width	0	4194304	Value	ValueOutput
+A - Key to filter 2 fre	0	4194304	Value	ValueOutput
+A - Filter 2 envelope a	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 & 2 mix (p	0	4194304	Value	ValueOutput
+A - Pluck decay length	0	4194304	Value	ValueOutput
+A - Phaser mix	0	4194304	Value	ValueOutput
+A - Phaser scale	0	4194304	Value	ValueOutput
+A - Phaser width	0	4194304	Value	ValueOutput
+A - Phaser offset	0	4194304	Value	ValueOutput
+A - Phaser offset motio	0	4194304	Value	ValueOutput
+A - Key to phaser offse	0	4194304	Value	ValueOutput
+A - Image time offset s	0	4194304	Value	ValueOutput
+A - Image time offset	0	4194304	Value	ValueOutput
+A - Image fine speed	0	4194304	Value	ValueOutput
+A - Image coarse speed	0	4194304	Value	ValueOutput
+A - Image sharpening	0	4194304	Value	ValueOutput
+A - Image gain interpol	0	4194304	Value	ValueOutput
+A - Image gain pixel sc	0	4194304	Value	ValueOutput
+A - Image gain mix	0	4194304	Value	ValueOutput
+A - Image freq mode	0	4194304	Value	ValueOutput
+A - Image freq interpol	0	4194304	Value	ValueOutput
+A - Image freq pixel sc	0	4194304	Value	ValueOutput
+A - Formant shift	0	4194304	Value	ValueOutput
+A - Image formant shift	0	4194304	Value	ValueOutput
+A - Panning - Attack ti	0	4194304	Value	ValueOutput
+A - Panning - Decay tim	0	4194304	Value	ValueOutput
+A - Panning - Sustain l	0	4194304	Value	ValueOutput
+A - Panning - Release t	0	4194304	Value	ValueOutput
+A - Panning - LFO speed	0	4194304	Value	ValueOutput
+A - Panning - LFO tensi	0	4194304	Value	ValueOutput
+A - Panning - LFO skew	0	4194304	Value	ValueOutput
+A - Panning - LFO pulse	0	4194304	Value	ValueOutput
+A - Volume - Attack tim	0	4194304	Value	ValueOutput
+A - Volume - Decay time	0	4194304	Value	ValueOutput
+A - Volume - Sustain le	0	4194304	Value	ValueOutput
+A - Volume - Release ti	0	4194304	Value	ValueOutput
+A - Volume - LFO speed	0	4194304	Value	ValueOutput
+A - Volume - LFO tensio	0	4194304	Value	ValueOutput
+A - Volume - LFO skew	0	4194304	Value	ValueOutput
+A - Volume - LFO pulse 	0	4194304	Value	ValueOutput
+A - FX / dry mix - Atta	0	4194304	Value	ValueOutput
+A - FX / dry mix - Deca	0	4194304	Value	ValueOutput
+A - FX / dry mix - Sust	0	4194304	Value	ValueOutput
+A - FX / dry mix - Rele	0	4194304	Value	ValueOutput
+A - FX / dry mix - LFO 	0	4194304	Value	ValueOutput
+A - FX / dry mix - LFO 	0	4194304	Value	ValueOutput
+A - FX / dry mix - LFO 	0	4194304	Value	ValueOutput
+A - FX / dry mix - LFO 	0	4194304	Value	ValueOutput
+A - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Filter 1 frequency 	0	4194304	Value	ValueOutput
+A - Filter 1 frequency 	0	4194304	Value	ValueOutput
+A - Filter 1 frequency 	0	4194304	Value	ValueOutput
+A - Filter 1 frequency 	0	4194304	Value	ValueOutput
+A - Filter 1 frequency 	0	4194304	Value	ValueOutput
+A - Filter 1 frequency 	0	4194304	Value	ValueOutput
+A - Filter 1 frequency 	0	4194304	Value	ValueOutput
+A - Filter 1 frequency 	0	4194304	Value	ValueOutput
+A - Filter 2 frequency 	0	4194304	Value	ValueOutput
+A - Filter 2 frequency 	0	4194304	Value	ValueOutput
+A - Filter 2 frequency 	0	4194304	Value	ValueOutput
+A - Filter 2 frequency 	0	4194304	Value	ValueOutput
+A - Filter 2 frequency 	0	4194304	Value	ValueOutput
+A - Filter 2 frequency 	0	4194304	Value	ValueOutput
+A - Filter 2 frequency 	0	4194304	Value	ValueOutput
+A - Filter 2 frequency 	0	4194304	Value	ValueOutput
+A - Filter 1 width - At	0	4194304	Value	ValueOutput
+A - Filter 1 width - De	0	4194304	Value	ValueOutput
+A - Filter 1 width - Su	0	4194304	Value	ValueOutput
+A - Filter 1 width - Re	0	4194304	Value	ValueOutput
+A - Filter 1 width - LF	0	4194304	Value	ValueOutput
+A - Filter 1 width - LF	0	4194304	Value	ValueOutput
+A - Filter 1 width - LF	0	4194304	Value	ValueOutput
+A - Filter 1 width - LF	0	4194304	Value	ValueOutput
+A - Filter 2 width - At	0	4194304	Value	ValueOutput
+A - Filter 2 width - De	0	4194304	Value	ValueOutput
+A - Filter 2 width - Su	0	4194304	Value	ValueOutput
+A - Filter 2 width - Re	0	4194304	Value	ValueOutput
+A - Filter 2 width - LF	0	4194304	Value	ValueOutput
+A - Filter 2 width - LF	0	4194304	Value	ValueOutput
+A - Filter 2 width - LF	0	4194304	Value	ValueOutput
+A - Filter 2 width - LF	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Pluck amount - Atta	0	4194304	Value	ValueOutput
+A - Pluck amount - Deca	0	4194304	Value	ValueOutput
+A - Pluck amount - Sust	0	4194304	Value	ValueOutput
+A - Pluck amount - Rele	0	4194304	Value	ValueOutput
+A - Pluck amount - LFO 	0	4194304	Value	ValueOutput
+A - Pluck amount - LFO 	0	4194304	Value	ValueOutput
+A - Pluck amount - LFO 	0	4194304	Value	ValueOutput
+A - Pluck amount - LFO 	0	4194304	Value	ValueOutput
+A - Phaser mix - Attack	0	4194304	Value	ValueOutput
+A - Phaser mix - Decay 	0	4194304	Value	ValueOutput
+A - Phaser mix - Sustai	0	4194304	Value	ValueOutput
+A - Phaser mix - Releas	0	4194304	Value	ValueOutput
+A - Phaser mix - LFO sp	0	4194304	Value	ValueOutput
+A - Phaser mix - LFO te	0	4194304	Value	ValueOutput
+A - Phaser mix - LFO sk	0	4194304	Value	ValueOutput
+A - Phaser mix - LFO pu	0	4194304	Value	ValueOutput
+A - Phaser width - Atta	0	4194304	Value	ValueOutput
+A - Phaser width - Deca	0	4194304	Value	ValueOutput
+A - Phaser width - Sust	0	4194304	Value	ValueOutput
+A - Phaser width - Rele	0	4194304	Value	ValueOutput
+A - Phaser width - LFO 	0	4194304	Value	ValueOutput
+A - Phaser width - LFO 	0	4194304	Value	ValueOutput
+A - Phaser width - LFO 	0	4194304	Value	ValueOutput
+A - Phaser width - LFO 	0	4194304	Value	ValueOutput
+A - Phaser offset - Att	0	4194304	Value	ValueOutput
+A - Phaser offset - Dec	0	4194304	Value	ValueOutput
+A - Phaser offset - Sus	0	4194304	Value	ValueOutput
+A - Phaser offset - Rel	0	4194304	Value	ValueOutput
+A - Phaser offset - LFO	0	4194304	Value	ValueOutput
+A - Phaser offset - LFO	0	4194304	Value	ValueOutput
+A - Phaser offset - LFO	0	4194304	Value	ValueOutput
+A - Phaser offset - LFO	0	4194304	Value	ValueOutput
+A - Harmonizer mix - At	0	4194304	Value	ValueOutput
+A - Harmonizer mix - De	0	4194304	Value	ValueOutput
+A - Harmonizer mix - Su	0	4194304	Value	ValueOutput
+A - Harmonizer mix - Re	0	4194304	Value	ValueOutput
+A - Harmonizer mix - LF	0	4194304	Value	ValueOutput
+A - Harmonizer mix - LF	0	4194304	Value	ValueOutput
+A - Harmonizer mix - LF	0	4194304	Value	ValueOutput
+A - Harmonizer mix - LF	0	4194304	Value	ValueOutput
+A - Harmonizer width - 	0	4194304	Value	ValueOutput
+A - Harmonizer width - 	0	4194304	Value	ValueOutput
+A - Harmonizer width - 	0	4194304	Value	ValueOutput
+A - Harmonizer width - 	0	4194304	Value	ValueOutput
+A - Harmonizer width - 	0	4194304	Value	ValueOutput
+A - Harmonizer width - 	0	4194304	Value	ValueOutput
+A - Harmonizer width - 	0	4194304	Value	ValueOutput
+A - Harmonizer width - 	0	4194304	Value	ValueOutput
+A - Harmonic clipping t	0	4194304	Value	ValueOutput
+A - Harmonic clipping t	0	4194304	Value	ValueOutput
+A - Harmonic clipping t	0	4194304	Value	ValueOutput
+A - Harmonic clipping t	0	4194304	Value	ValueOutput
+A - Harmonic clipping t	0	4194304	Value	ValueOutput
+A - Harmonic clipping t	0	4194304	Value	ValueOutput
+A - Harmonic clipping t	0	4194304	Value	ValueOutput
+A - Harmonic clipping t	0	4194304	Value	ValueOutput
+A - Harmonic blur amoun	0	4194304	Value	ValueOutput
+A - Harmonic blur amoun	0	4194304	Value	ValueOutput
+A - Harmonic blur amoun	0	4194304	Value	ValueOutput
+A - Harmonic blur amoun	0	4194304	Value	ValueOutput
+A - Harmonic blur amoun	0	4194304	Value	ValueOutput
+A - Harmonic blur amoun	0	4194304	Value	ValueOutput
+A - Harmonic blur amoun	0	4194304	Value	ValueOutput
+A - Harmonic blur amoun	0	4194304	Value	ValueOutput
+A - Prism amount - Atta	0	4194304	Value	ValueOutput
+A - Prism amount - Deca	0	4194304	Value	ValueOutput
+A - Prism amount - Sust	0	4194304	Value	ValueOutput
+A - Prism amount - Rele	0	4194304	Value	ValueOutput
+A - Prism amount - LFO 	0	4194304	Value	ValueOutput
+A - Prism amount - LFO 	0	4194304	Value	ValueOutput
+A - Prism amount - LFO 	0	4194304	Value	ValueOutput
+A - Prism amount - LFO 	0	4194304	Value	ValueOutput
+A - Pitch - Attack time	0	4194304	Value	ValueOutput
+A - Pitch - Decay time 	0	4194304	Value	ValueOutput
+A - Pitch - Sustain lev	0	4194304	Value	ValueOutput
+A - Pitch - Release tim	0	4194304	Value	ValueOutput
+A - Pitch - LFO speed	0	4194304	Value	ValueOutput
+A - Pitch - LFO tension	0	4194304	Value	ValueOutput
+A - Pitch - LFO skew	0	4194304	Value	ValueOutput
+A - Pitch - LFO pulse w	0	4194304	Value	ValueOutput
+A - Pitch vibrato depth	0	4194304	Value	ValueOutput
+A - Pitch vibrato depth	0	4194304	Value	ValueOutput
+A - Pitch vibrato depth	0	4194304	Value	ValueOutput
+A - Pitch vibrato depth	0	4194304	Value	ValueOutput
+A - Pitch vibrato depth	0	4194304	Value	ValueOutput
+A - Pitch vibrato depth	0	4194304	Value	ValueOutput
+A - Pitch vibrato depth	0	4194304	Value	ValueOutput
+A - Pitch vibrato depth	0	4194304	Value	ValueOutput
+A - Unison pitch thickn	0	4194304	Value	ValueOutput
+A - Unison pitch thickn	0	4194304	Value	ValueOutput
+A - Unison pitch thickn	0	4194304	Value	ValueOutput
+A - Unison pitch thickn	0	4194304	Value	ValueOutput
+A - Unison pitch thickn	0	4194304	Value	ValueOutput
+A - Unison pitch thickn	0	4194304	Value	ValueOutput
+A - Unison pitch thickn	0	4194304	Value	ValueOutput
+A - Unison pitch thickn	0	4194304	Value	ValueOutput
+A - Image time offset -	0	4194304	Value	ValueOutput
+A - Image time offset -	0	4194304	Value	ValueOutput
+A - Image time offset -	0	4194304	Value	ValueOutput
+A - Image time offset -	0	4194304	Value	ValueOutput
+A - Image time offset -	0	4194304	Value	ValueOutput
+A - Image time offset -	0	4194304	Value	ValueOutput
+A - Image time offset -	0	4194304	Value	ValueOutput
+A - Image time offset -	0	4194304	Value	ValueOutput
+A - Image fine speed - 	0	4194304	Value	ValueOutput
+A - Image fine speed - 	0	4194304	Value	ValueOutput
+A - Image fine speed - 	0	4194304	Value	ValueOutput
+A - Image fine speed - 	0	4194304	Value	ValueOutput
+A - Image fine speed - 	0	4194304	Value	ValueOutput
+A - Image fine speed - 	0	4194304	Value	ValueOutput
+A - Image fine speed - 	0	4194304	Value	ValueOutput
+A - Image fine speed - 	0	4194304	Value	ValueOutput
+A - Image formant shift	0	4194304	Value	ValueOutput
+A - Image formant shift	0	4194304	Value	ValueOutput
+A - Image formant shift	0	4194304	Value	ValueOutput
+A - Image formant shift	0	4194304	Value	ValueOutput
+A - Image formant shift	0	4194304	Value	ValueOutput
+A - Image formant shift	0	4194304	Value	ValueOutput
+A - Image formant shift	0	4194304	Value	ValueOutput
+A - Image formant shift	0	4194304	Value	ValueOutput
+A - Image freq pixel sc	0	4194304	Value	ValueOutput
+A - Image freq pixel sc	0	4194304	Value	ValueOutput
+A - Image freq pixel sc	0	4194304	Value	ValueOutput
+A - Image freq pixel sc	0	4194304	Value	ValueOutput
+A - Image freq pixel sc	0	4194304	Value	ValueOutput
+A - Image freq pixel sc	0	4194304	Value	ValueOutput
+A - Image freq pixel sc	0	4194304	Value	ValueOutput
+A - Image freq pixel sc	0	4194304	Value	ValueOutput
+A - Panning - Articulat	0	4194304	Value	ValueOutput
+A - Volume - Articulato	0	4194304	Value	ValueOutput
+A - FX / dry mix - Arti	0	4194304	Value	ValueOutput
+A - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Filter 1 frequency 	0	4194304	Value	ValueOutput
+A - Filter 2 frequency 	0	4194304	Value	ValueOutput
+A - Filter 1 width - Ar	0	4194304	Value	ValueOutput
+A - Filter 2 width - Ar	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 resonance 	0	4194304	Value	ValueOutput
+A - Filter 2 resonance 	0	4194304	Value	ValueOutput
+A - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+A - Pluck amount - Arti	0	4194304	Value	ValueOutput
+A - Phaser mix - Articu	0	4194304	Value	ValueOutput
+A - Phaser width - Arti	0	4194304	Value	ValueOutput
+A - Phaser offset - Art	0	4194304	Value	ValueOutput
+A - Harmonizer mix - Ar	0	4194304	Value	ValueOutput
+A - Harmonizer width - 	0	4194304	Value	ValueOutput
+A - Harmonic clipping t	0	4194304	Value	ValueOutput
+A - Harmonic blur amoun	0	4194304	Value	ValueOutput
+A - Prism amount - Arti	0	4194304	Value	ValueOutput
+A - Pitch - Articulator	0	4194304	Value	ValueOutput
+A - Pitch vibrato depth	0	4194304	Value	ValueOutput
+A - Unison pitch thickn	0	4194304	Value	ValueOutput
+A - Image time offset -	0	4194304	Value	ValueOutput
+A - Image fine speed - 	0	4194304	Value	ValueOutput
+A - Image formant shift	0	4194304	Value	ValueOutput
+A - Image freq pixel sc	0	4194304	Value	ValueOutput
+A - Filter 1 envelope a	0	4194304	Value	ValueOutput
+A - Filter 2 envelope a	0	4194304	Value	ValueOutput
+A - Global envelope att	0	4194304	Value	ValueOutput
+A - Global envelope att	0	4194304	Value	ValueOutput
+A - Global envelope dec	0	4194304	Value	ValueOutput
+A - Global envelope sus	0	4194304	Value	ValueOutput
+A - Global envelope rel	0	4194304	Value	ValueOutput
+A - Global LFO amount -	0	4194304	Value	ValueOutput
+A - Global LFO speed - 	0	4194304	Value	ValueOutput
+A - Global LFO phase - 	0	4194304	Value	ValueOutput
+A - Unison phase - Arti	0	4194304	Value	ValueOutput
+A - Predelay - Articula	0	4194304	Value	ValueOutput
+B - Starting phase	0	4194304	Value	ValueOutput
+B - Phase randomness	0	4194304	Value	ValueOutput
+B - Predelay	0	4194304	Value	ValueOutput
+B - Envelope release po	0	4194304	Value	ValueOutput
+B - Timbre 1 & 2 mix	0	4194304	Value	ValueOutput
+B - Sub-harmonic 1	0	4194304	Value	ValueOutput
+B - Sub-harmonic 2	0	4194304	Value	ValueOutput
+B - Sub-harmonic 3	0	4194304	Value	ValueOutput
+B - Harmonic protection	0	4194304	Value	ValueOutput
+B - Clipping threshold	0	4194304	Value	ValueOutput
+B - FX / dry mix	0	4194304	Value	ValueOutput
+B - Time domain volume	0	4194304	Value	ValueOutput
+B - Frequency domain en	0	4194304	Value	ValueOutput
+B - Auto-gain	0	4194304	Value	ValueOutput
+B - Velocity to volume 	0	4194304	Value	ValueOutput
+B - Velocity to volume 	0	4194304	Value	ValueOutput
+B - Release velocity to	0	4194304	Value	ValueOutput
+B - Tremolo depth	0	4194304	Value	ValueOutput
+B - Tremolo speed	0	4194304	Value	ValueOutput
+B - Tremolo stereo gap	0	4194304	Value	ValueOutput
+B - Blur mix	0	4194304	Value	ValueOutput
+B - Time blur attack	0	4194304	Value	ValueOutput
+B - Time blur decay	0	4194304	Value	ValueOutput
+B - Harmonic blur amoun	0	4194304	Value	ValueOutput
+B - Harmonic blur botto	0	4194304	Value	ValueOutput
+B - Harmonic blur top t	0	4194304	Value	ValueOutput
+B - Prism amount	0	4194304	Value	ValueOutput
+B - Harmonizer mix	0	4194304	Value	ValueOutput
+B - Harmonizer width	0	4194304	Value	ValueOutput
+B - Harmonizer strength	0	4194304	Value	ValueOutput
+B - Harmonizer pattern 	0	4194304	Value	ValueOutput
+B - Harmonizer pattern 	0	4194304	Value	ValueOutput
+B - Harmonizer pattern 	0	4194304	Value	ValueOutput
+B - Harmonizer pattern 	0	4194304	Value	ValueOutput
+B - Unison order	0	4194304	Value	ValueOutput
+B - Unison distribution	0	4194304	Value	ValueOutput
+B - Unison alternate di	0	4194304	Value	ValueOutput
+B - Unison panning	0	4194304	Value	ValueOutput
+B - Unison pitch thickn	0	4194304	Value	ValueOutput
+B - Unison phase	0	4194304	Value	ValueOutput
+B - Freq multiplicator	0	4194304	Value	ValueOutput
+B - Freq divider	0	4194304	Value	ValueOutput
+B - Harmonic detuning m	0	4194304	Value	ValueOutput
+B - Harmonic detuning d	0	4194304	Value	ValueOutput
+B - Pitch articulator a	0	4194304	Value	ValueOutput
+B - Pitch vibrato depth	0	4194304	Value	ValueOutput
+B - Pitch vibrato speed	0	4194304	Value	ValueOutput
+B - Linear / logarithmi	0	4194304	Value	ValueOutput
+B - Fixed / variable po	0	4194304	Value	ValueOutput
+B - Portamento / legato	0	4194304	Value	ValueOutput
+B - Portamento pitch li	0	4194304	Value	ValueOutput
+B - Adaptive filter 1 e	0	4194304	Value	ValueOutput
+B - Filter 1 frequency	0	4194304	Value	ValueOutput
+B - Filter 1 scale	0	4194304	Value	ValueOutput
+B - Filter 1 width	0	4194304	Value	ValueOutput
+B - Key to filter 1 fre	0	4194304	Value	ValueOutput
+B - Filter 1 envelope a	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Adaptive filter 2 e	0	4194304	Value	ValueOutput
+B - Filter 2 frequency	0	4194304	Value	ValueOutput
+B - Filter 2 scale	0	4194304	Value	ValueOutput
+B - Filter 2 width	0	4194304	Value	ValueOutput
+B - Key to filter 2 fre	0	4194304	Value	ValueOutput
+B - Filter 2 envelope a	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 & 2 mix (p	0	4194304	Value	ValueOutput
+B - Pluck decay length	0	4194304	Value	ValueOutput
+B - Phaser mix	0	4194304	Value	ValueOutput
+B - Phaser scale	0	4194304	Value	ValueOutput
+B - Phaser width	0	4194304	Value	ValueOutput
+B - Phaser offset	0	4194304	Value	ValueOutput
+B - Phaser offset motio	0	4194304	Value	ValueOutput
+B - Key to phaser offse	0	4194304	Value	ValueOutput
+B - Image time offset s	0	4194304	Value	ValueOutput
+B - Image time offset	0	4194304	Value	ValueOutput
+B - Image fine speed	0	4194304	Value	ValueOutput
+B - Image coarse speed	0	4194304	Value	ValueOutput
+B - Image sharpening	0	4194304	Value	ValueOutput
+B - Image gain interpol	0	4194304	Value	ValueOutput
+B - Image gain pixel sc	0	4194304	Value	ValueOutput
+B - Image gain mix	0	4194304	Value	ValueOutput
+B - Image freq mode	0	4194304	Value	ValueOutput
+B - Image freq interpol	0	4194304	Value	ValueOutput
+B - Image freq pixel sc	0	4194304	Value	ValueOutput
+B - Formant shift	0	4194304	Value	ValueOutput
+B - Image formant shift	0	4194304	Value	ValueOutput
+B - Panning - Attack ti	0	4194304	Value	ValueOutput
+B - Panning - Decay tim	0	4194304	Value	ValueOutput
+B - Panning - Sustain l	0	4194304	Value	ValueOutput
+B - Panning - Release t	0	4194304	Value	ValueOutput
+B - Panning - LFO speed	0	4194304	Value	ValueOutput
+B - Panning - LFO tensi	0	4194304	Value	ValueOutput
+B - Panning - LFO skew	0	4194304	Value	ValueOutput
+B - Panning - LFO pulse	0	4194304	Value	ValueOutput
+B - Volume - Attack tim	0	4194304	Value	ValueOutput
+B - Volume - Decay time	0	4194304	Value	ValueOutput
+B - Volume - Sustain le	0	4194304	Value	ValueOutput
+B - Volume - Release ti	0	4194304	Value	ValueOutput
+B - Volume - LFO speed	0	4194304	Value	ValueOutput
+B - Volume - LFO tensio	0	4194304	Value	ValueOutput
+B - Volume - LFO skew	0	4194304	Value	ValueOutput
+B - Volume - LFO pulse 	0	4194304	Value	ValueOutput
+B - FX / dry mix - Atta	0	4194304	Value	ValueOutput
+B - FX / dry mix - Deca	0	4194304	Value	ValueOutput
+B - FX / dry mix - Sust	0	4194304	Value	ValueOutput
+B - FX / dry mix - Rele	0	4194304	Value	ValueOutput
+B - FX / dry mix - LFO 	0	4194304	Value	ValueOutput
+B - FX / dry mix - LFO 	0	4194304	Value	ValueOutput
+B - FX / dry mix - LFO 	0	4194304	Value	ValueOutput
+B - FX / dry mix - LFO 	0	4194304	Value	ValueOutput
+B - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Filter 1 frequency 	0	4194304	Value	ValueOutput
+B - Filter 1 frequency 	0	4194304	Value	ValueOutput
+B - Filter 1 frequency 	0	4194304	Value	ValueOutput
+B - Filter 1 frequency 	0	4194304	Value	ValueOutput
+B - Filter 1 frequency 	0	4194304	Value	ValueOutput
+B - Filter 1 frequency 	0	4194304	Value	ValueOutput
+B - Filter 1 frequency 	0	4194304	Value	ValueOutput
+B - Filter 1 frequency 	0	4194304	Value	ValueOutput
+B - Filter 2 frequency 	0	4194304	Value	ValueOutput
+B - Filter 2 frequency 	0	4194304	Value	ValueOutput
+B - Filter 2 frequency 	0	4194304	Value	ValueOutput
+B - Filter 2 frequency 	0	4194304	Value	ValueOutput
+B - Filter 2 frequency 	0	4194304	Value	ValueOutput
+B - Filter 2 frequency 	0	4194304	Value	ValueOutput
+B - Filter 2 frequency 	0	4194304	Value	ValueOutput
+B - Filter 2 frequency 	0	4194304	Value	ValueOutput
+B - Filter 1 width - At	0	4194304	Value	ValueOutput
+B - Filter 1 width - De	0	4194304	Value	ValueOutput
+B - Filter 1 width - Su	0	4194304	Value	ValueOutput
+B - Filter 1 width - Re	0	4194304	Value	ValueOutput
+B - Filter 1 width - LF	0	4194304	Value	ValueOutput
+B - Filter 1 width - LF	0	4194304	Value	ValueOutput
+B - Filter 1 width - LF	0	4194304	Value	ValueOutput
+B - Filter 1 width - LF	0	4194304	Value	ValueOutput
+B - Filter 2 width - At	0	4194304	Value	ValueOutput
+B - Filter 2 width - De	0	4194304	Value	ValueOutput
+B - Filter 2 width - Su	0	4194304	Value	ValueOutput
+B - Filter 2 width - Re	0	4194304	Value	ValueOutput
+B - Filter 2 width - LF	0	4194304	Value	ValueOutput
+B - Filter 2 width - LF	0	4194304	Value	ValueOutput
+B - Filter 2 width - LF	0	4194304	Value	ValueOutput
+B - Filter 2 width - LF	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Pluck amount - Atta	0	4194304	Value	ValueOutput
+B - Pluck amount - Deca	0	4194304	Value	ValueOutput
+B - Pluck amount - Sust	0	4194304	Value	ValueOutput
+B - Pluck amount - Rele	0	4194304	Value	ValueOutput
+B - Pluck amount - LFO 	0	4194304	Value	ValueOutput
+B - Pluck amount - LFO 	0	4194304	Value	ValueOutput
+B - Pluck amount - LFO 	0	4194304	Value	ValueOutput
+B - Pluck amount - LFO 	0	4194304	Value	ValueOutput
+B - Phaser mix - Attack	0	4194304	Value	ValueOutput
+B - Phaser mix - Decay 	0	4194304	Value	ValueOutput
+B - Phaser mix - Sustai	0	4194304	Value	ValueOutput
+B - Phaser mix - Releas	0	4194304	Value	ValueOutput
+B - Phaser mix - LFO sp	0	4194304	Value	ValueOutput
+B - Phaser mix - LFO te	0	4194304	Value	ValueOutput
+B - Phaser mix - LFO sk	0	4194304	Value	ValueOutput
+B - Phaser mix - LFO pu	0	4194304	Value	ValueOutput
+B - Phaser width - Atta	0	4194304	Value	ValueOutput
+B - Phaser width - Deca	0	4194304	Value	ValueOutput
+B - Phaser width - Sust	0	4194304	Value	ValueOutput
+B - Phaser width - Rele	0	4194304	Value	ValueOutput
+B - Phaser width - LFO 	0	4194304	Value	ValueOutput
+B - Phaser width - LFO 	0	4194304	Value	ValueOutput
+B - Phaser width - LFO 	0	4194304	Value	ValueOutput
+B - Phaser width - LFO 	0	4194304	Value	ValueOutput
+B - Phaser offset - Att	0	4194304	Value	ValueOutput
+B - Phaser offset - Dec	0	4194304	Value	ValueOutput
+B - Phaser offset - Sus	0	4194304	Value	ValueOutput
+B - Phaser offset - Rel	0	4194304	Value	ValueOutput
+B - Phaser offset - LFO	0	4194304	Value	ValueOutput
+B - Phaser offset - LFO	0	4194304	Value	ValueOutput
+B - Phaser offset - LFO	0	4194304	Value	ValueOutput
+B - Phaser offset - LFO	0	4194304	Value	ValueOutput
+B - Harmonizer mix - At	0	4194304	Value	ValueOutput
+B - Harmonizer mix - De	0	4194304	Value	ValueOutput
+B - Harmonizer mix - Su	0	4194304	Value	ValueOutput
+B - Harmonizer mix - Re	0	4194304	Value	ValueOutput
+B - Harmonizer mix - LF	0	4194304	Value	ValueOutput
+B - Harmonizer mix - LF	0	4194304	Value	ValueOutput
+B - Harmonizer mix - LF	0	4194304	Value	ValueOutput
+B - Harmonizer mix - LF	0	4194304	Value	ValueOutput
+B - Harmonizer width - 	0	4194304	Value	ValueOutput
+B - Harmonizer width - 	0	4194304	Value	ValueOutput
+B - Harmonizer width - 	0	4194304	Value	ValueOutput
+B - Harmonizer width - 	0	4194304	Value	ValueOutput
+B - Harmonizer width - 	0	4194304	Value	ValueOutput
+B - Harmonizer width - 	0	4194304	Value	ValueOutput
+B - Harmonizer width - 	0	4194304	Value	ValueOutput
+B - Harmonizer width - 	0	4194304	Value	ValueOutput
+B - Harmonic clipping t	0	4194304	Value	ValueOutput
+B - Harmonic clipping t	0	4194304	Value	ValueOutput
+B - Harmonic clipping t	0	4194304	Value	ValueOutput
+B - Harmonic clipping t	0	4194304	Value	ValueOutput
+B - Harmonic clipping t	0	4194304	Value	ValueOutput
+B - Harmonic clipping t	0	4194304	Value	ValueOutput
+B - Harmonic clipping t	0	4194304	Value	ValueOutput
+B - Harmonic clipping t	0	4194304	Value	ValueOutput
+B - Harmonic blur amoun	0	4194304	Value	ValueOutput
+B - Harmonic blur amoun	0	4194304	Value	ValueOutput
+B - Harmonic blur amoun	0	4194304	Value	ValueOutput
+B - Harmonic blur amoun	0	4194304	Value	ValueOutput
+B - Harmonic blur amoun	0	4194304	Value	ValueOutput
+B - Harmonic blur amoun	0	4194304	Value	ValueOutput
+B - Harmonic blur amoun	0	4194304	Value	ValueOutput
+B - Harmonic blur amoun	0	4194304	Value	ValueOutput
+B - Prism amount - Atta	0	4194304	Value	ValueOutput
+B - Prism amount - Deca	0	4194304	Value	ValueOutput
+B - Prism amount - Sust	0	4194304	Value	ValueOutput
+B - Prism amount - Rele	0	4194304	Value	ValueOutput
+B - Prism amount - LFO 	0	4194304	Value	ValueOutput
+B - Prism amount - LFO 	0	4194304	Value	ValueOutput
+B - Prism amount - LFO 	0	4194304	Value	ValueOutput
+B - Prism amount - LFO 	0	4194304	Value	ValueOutput
+B - Pitch - Attack time	0	4194304	Value	ValueOutput
+B - Pitch - Decay time 	0	4194304	Value	ValueOutput
+B - Pitch - Sustain lev	0	4194304	Value	ValueOutput
+B - Pitch - Release tim	0	4194304	Value	ValueOutput
+B - Pitch - LFO speed	0	4194304	Value	ValueOutput
+B - Pitch - LFO tension	0	4194304	Value	ValueOutput
+B - Pitch - LFO skew	0	4194304	Value	ValueOutput
+B - Pitch - LFO pulse w	0	4194304	Value	ValueOutput
+B - Pitch vibrato depth	0	4194304	Value	ValueOutput
+B - Pitch vibrato depth	0	4194304	Value	ValueOutput
+B - Pitch vibrato depth	0	4194304	Value	ValueOutput
+B - Pitch vibrato depth	0	4194304	Value	ValueOutput
+B - Pitch vibrato depth	0	4194304	Value	ValueOutput
+B - Pitch vibrato depth	0	4194304	Value	ValueOutput
+B - Pitch vibrato depth	0	4194304	Value	ValueOutput
+B - Pitch vibrato depth	0	4194304	Value	ValueOutput
+B - Unison pitch thickn	0	4194304	Value	ValueOutput
+B - Unison pitch thickn	0	4194304	Value	ValueOutput
+B - Unison pitch thickn	0	4194304	Value	ValueOutput
+B - Unison pitch thickn	0	4194304	Value	ValueOutput
+B - Unison pitch thickn	0	4194304	Value	ValueOutput
+B - Unison pitch thickn	0	4194304	Value	ValueOutput
+B - Unison pitch thickn	0	4194304	Value	ValueOutput
+B - Unison pitch thickn	0	4194304	Value	ValueOutput
+B - Image time offset -	0	4194304	Value	ValueOutput
+B - Image time offset -	0	4194304	Value	ValueOutput
+B - Image time offset -	0	4194304	Value	ValueOutput
+B - Image time offset -	0	4194304	Value	ValueOutput
+B - Image time offset -	0	4194304	Value	ValueOutput
+B - Image time offset -	0	4194304	Value	ValueOutput
+B - Image time offset -	0	4194304	Value	ValueOutput
+B - Image time offset -	0	4194304	Value	ValueOutput
+B - Image fine speed - 	0	4194304	Value	ValueOutput
+B - Image fine speed - 	0	4194304	Value	ValueOutput
+B - Image fine speed - 	0	4194304	Value	ValueOutput
+B - Image fine speed - 	0	4194304	Value	ValueOutput
+B - Image fine speed - 	0	4194304	Value	ValueOutput
+B - Image fine speed - 	0	4194304	Value	ValueOutput
+B - Image fine speed - 	0	4194304	Value	ValueOutput
+B - Image fine speed - 	0	4194304	Value	ValueOutput
+B - Image formant shift	0	4194304	Value	ValueOutput
+B - Image formant shift	0	4194304	Value	ValueOutput
+B - Image formant shift	0	4194304	Value	ValueOutput
+B - Image formant shift	0	4194304	Value	ValueOutput
+B - Image formant shift	0	4194304	Value	ValueOutput
+B - Image formant shift	0	4194304	Value	ValueOutput
+B - Image formant shift	0	4194304	Value	ValueOutput
+B - Image formant shift	0	4194304	Value	ValueOutput
+B - Image freq pixel sc	0	4194304	Value	ValueOutput
+B - Image freq pixel sc	0	4194304	Value	ValueOutput
+B - Image freq pixel sc	0	4194304	Value	ValueOutput
+B - Image freq pixel sc	0	4194304	Value	ValueOutput
+B - Image freq pixel sc	0	4194304	Value	ValueOutput
+B - Image freq pixel sc	0	4194304	Value	ValueOutput
+B - Image freq pixel sc	0	4194304	Value	ValueOutput
+B - Image freq pixel sc	0	4194304	Value	ValueOutput
+B - Panning - Articulat	0	4194304	Value	ValueOutput
+B - Volume - Articulato	0	4194304	Value	ValueOutput
+B - FX / dry mix - Arti	0	4194304	Value	ValueOutput
+B - Timbre 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Filter 1 frequency 	0	4194304	Value	ValueOutput
+B - Filter 2 frequency 	0	4194304	Value	ValueOutput
+B - Filter 1 width - Ar	0	4194304	Value	ValueOutput
+B - Filter 2 width - Ar	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 resonance 	0	4194304	Value	ValueOutput
+B - Filter 2 resonance 	0	4194304	Value	ValueOutput
+B - Filter 1 & 2 mix - 	0	4194304	Value	ValueOutput
+B - Pluck amount - Arti	0	4194304	Value	ValueOutput
+B - Phaser mix - Articu	0	4194304	Value	ValueOutput
+B - Phaser width - Arti	0	4194304	Value	ValueOutput
+B - Phaser offset - Art	0	4194304	Value	ValueOutput
+B - Harmonizer mix - Ar	0	4194304	Value	ValueOutput
+B - Harmonizer width - 	0	4194304	Value	ValueOutput
+B - Harmonic clipping t	0	4194304	Value	ValueOutput
+B - Harmonic blur amoun	0	4194304	Value	ValueOutput
+B - Prism amount - Arti	0	4194304	Value	ValueOutput
+B - Pitch - Articulator	0	4194304	Value	ValueOutput
+B - Pitch vibrato depth	0	4194304	Value	ValueOutput
+B - Unison pitch thickn	0	4194304	Value	ValueOutput
+B - Image time offset -	0	4194304	Value	ValueOutput
+B - Image fine speed - 	0	4194304	Value	ValueOutput
+B - Image formant shift	0	4194304	Value	ValueOutput
+B - Image freq pixel sc	0	4194304	Value	ValueOutput
+B - Filter 1 envelope a	0	4194304	Value	ValueOutput
+B - Filter 2 envelope a	0	4194304	Value	ValueOutput
+B - Global envelope att	0	4194304	Value	ValueOutput
+B - Global envelope att	0	4194304	Value	ValueOutput
+B - Global envelope dec	0	4194304	Value	ValueOutput
+B - Global envelope sus	0	4194304	Value	ValueOutput
+B - Global envelope rel	0	4194304	Value	ValueOutput
+B - Global LFO amount -	0	4194304	Value	ValueOutput
+B - Global LFO speed - 	0	4194304	Value	ValueOutput
+B - Global LFO phase - 	0	4194304	Value	ValueOutput
+B - Unison phase - Arti	0	4194304	Value	ValueOutput
+B - Predelay - Articula	0	4194304	Value	ValueOutput
+Modulation X	0	4194304	Value	ValueOutput
+Modulation Y	0	4194304	Value	ValueOutput
+Modulation Z	0	4194304	Value	ValueOutput
+Legato pitch limit	0	4194304	Value	ValueOutput
+Legato mode	0	4194304	Value	ValueOutput
+Portamento mode	0	4194304	Value	ValueOutput
+Velocity / release to p	0	4194304	Value	ValueOutput
+Strum mode	0	4194304	Value	ValueOutput
+Strum time	0	4194304	Value	ValueOutput
+Strum tension	0	4194304	Value	ValueOutput
+Part A & B mix	0	4194304	Value	ValueOutput
+Pre-FX main volume	0	4194304	Value	ValueOutput
+Post-FX main volume	0	4194304	Value	ValueOutput
+Velocity to volume	0	4194304	Value	ValueOutput
+Main pitch	0	4194304	Value	ValueOutput
+Main LFO amount	0	4194304	Value	ValueOutput
+Invert arpeggiator (if 	0	4194304	Value	ValueOutput
+Distortion amount	0	4194304	Value	ValueOutput
+Distortion asymmetry / 	0	4194304	Value	ValueOutput
+Distortion wet volume	0	4194304	Value	ValueOutput
+Distortion mix	0	4194304	Value	ValueOutput
+Distortion highcut	0	4194304	Value	ValueOutput
+Enable reverb	0	4194304	Value	ValueOutput
+Reverb lowcut	0	4194304	Value	ValueOutput
+Reverb highcut	0	4194304	Value	ValueOutput
+Reverb predelay	0	4194304	Value	ValueOutput
+Reverb room size	0	4194304	Value	ValueOutput
+Reverb diffusion	0	4194304	Value	ValueOutput
+Reverb decay	0	4194304	Value	ValueOutput
+Reverb high damping	0	4194304	Value	ValueOutput
+Reverb color	0	4194304	Value	ValueOutput
+Reverb wet volume	0	4194304	Value	ValueOutput
+Chorus order	0	4194304	Value	ValueOutput
+Chorus depth	0	4194304	Value	ValueOutput
+Chorus speed	0	4194304	Value	ValueOutput
+Chorus delay	0	4194304	Value	ValueOutput
+Chorus spread	0	4194304	Value	ValueOutput
+Chorus cross	0	4194304	Value	ValueOutput
+Chorus mix	0	4194304	Value	ValueOutput
+Enable delay	0	4194304	Value	ValueOutput
+Delay feedback mode	0	4194304	Value	ValueOutput
+Delay feedback level	0	4194304	Value	ValueOutput
+Delay time	0	4194304	Value	ValueOutput
+Delay time stereo offse	0	4194304	Value	ValueOutput
+Delay input volume	0	4194304	Value	ValueOutput
+Delay input panning	0	4194304	Value	ValueOutput
+Delay lowcut	0	4194304	Value	ValueOutput
+Delay highcut	0	4194304	Value	ValueOutput
+Delay feedback damping	0	4194304	Value	ValueOutput
+Compression amount	0	4194304	Value	ValueOutput
+Compression low band	0	4194304	Value	ValueOutput
+Compression mid band	0	4194304	Value	ValueOutput
+Compression high band	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

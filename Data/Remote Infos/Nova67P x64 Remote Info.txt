@@ -1,0 +1,75 @@
+Scope
+Manufacturer	Model
+vladg/sound	vst.nova.Nova67P x64
+Note: Will match scope definitions for vst.nova.Nova67P x64 or vst.nova
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+--BAND 1--	0	4194304	Value	ValueOutput
+P1.Freq	0	4194304	Value	ValueOutput
+P1.Q	0	4194304	Value	ValueOutput
+P1.Type	0	4194304	Value	ValueOutput
+P1.Gain	0	4194304	Value	ValueOutput
+P1.Dyn	0	4194304	Value	ValueOutput
+P1.Threshold	0	4194304	Value	ValueOutput
+--BAND 2--	0	4194304	Value	ValueOutput
+P2.Freq	0	4194304	Value	ValueOutput
+P2.Q	0	4194304	Value	ValueOutput
+P2.Type	0	4194304	Value	ValueOutput
+P2.Gain	0	4194304	Value	ValueOutput
+P2.Dyn	0	4194304	Value	ValueOutput
+P2.Threshold	0	4194304	Value	ValueOutput
+--BAND 3--	0	4194304	Value	ValueOutput
+P3.Freq	0	4194304	Value	ValueOutput
+P3.Q	0	4194304	Value	ValueOutput
+P3.Type	0	4194304	Value	ValueOutput
+P3.Gain	0	4194304	Value	ValueOutput
+P3.Dyn	0	4194304	Value	ValueOutput
+P3.Threshold	0	4194304	Value	ValueOutput
+--BAND 4--	0	4194304	Value	ValueOutput
+P4.Freq	0	4194304	Value	ValueOutput
+P4.Q	0	4194304	Value	ValueOutput
+P4.Type	0	4194304	Value	ValueOutput
+P4.Gain	0	4194304	Value	ValueOutput
+P4.Dyn	0	4194304	Value	ValueOutput
+P4.Threshold	0	4194304	Value	ValueOutput
+--BAND 5--	0	4194304	Value	ValueOutput
+P5.Freq	0	4194304	Value	ValueOutput
+P5.Q	0	4194304	Value	ValueOutput
+P5.Type	0	4194304	Value	ValueOutput
+P5.Gain	0	4194304	Value	ValueOutput
+P5.Dyn	0	4194304	Value	ValueOutput
+P5.Threshold	0	4194304	Value	ValueOutput
+STATIC.Gain	0	4194304	Value	ValueOutput
+STATIC.Threshold	0	4194304	Value	ValueOutput
+EQ.AutoGain	0	4194304	Value	ValueOutput
+Sidechain	0	4194304	Value	ValueOutput
+Sidechain HPF	0	4194304	Value	ValueOutput
+COMP.Attack	0	4194304	Value	ValueOutput
+COMP.Release	0	4194304	Value	ValueOutput
+COMP.Ratio	0	4194304	Value	ValueOutput
+Signal HPF	0	4194304	Value	ValueOutput
+HPF Freq.	0	4194304	Value	ValueOutput
+Signal LPF	0	4194304	Value	ValueOutput
+LPF Freq.	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Master	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Analyzer	0	4194304	Value	ValueOutput
+STATIC.Comp.Bypass	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

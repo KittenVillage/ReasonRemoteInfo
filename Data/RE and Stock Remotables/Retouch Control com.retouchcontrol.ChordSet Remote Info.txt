@@ -1,0 +1,112 @@
+Scope
+Manufacturer	Model
+Retouch Control	com.retouchcontrol.ChordSet
+
+Remotable	Min	Max	Input type	Output type
+Root Selector Slot 1	0	11	Value	ValueOutput
+Octave Selector Slot 1	0	6	Value	ValueOutput
+Shift 1 Slot 1	0	72	Value	ValueOutput
+Shift 2 Slot 1	0	72	Value	ValueOutput
+Shift 3 Slot 1	0	72	Value	ValueOutput
+Shift 4 Slot 1	0	72	Value	ValueOutput
+Shift 5 Slot 1	0	72	Value	ValueOutput
+Shift 6 Slot 1	0	72	Value	ValueOutput
+Root Selector Slot 2	0	11	Value	ValueOutput
+Octave Selector Slot 2	0	6	Value	ValueOutput
+Shift 1 Slot 2	0	72	Value	ValueOutput
+Shift 2 Slot 2	0	72	Value	ValueOutput
+Shift 3 Slot 2	0	72	Value	ValueOutput
+Shift 4 Slot 2	0	72	Value	ValueOutput
+Shift 5 Slot 2	0	72	Value	ValueOutput
+Shift 6 Slot 2	0	72	Value	ValueOutput
+Root Selector Slot 3	0	11	Value	ValueOutput
+Octave Selector Slot 3	0	6	Value	ValueOutput
+Shift 1 Slot 3	0	72	Value	ValueOutput
+Shift 2 Slot 3	0	72	Value	ValueOutput
+Shift 3 Slot 3	0	72	Value	ValueOutput
+Shift 4 Slot 3	0	72	Value	ValueOutput
+Shift 5 Slot 3	0	72	Value	ValueOutput
+Shift 6 Slot 3	0	72	Value	ValueOutput
+Root Selector Slot 4	0	11	Value	ValueOutput
+Octave Selector Slot 4	0	6	Value	ValueOutput
+Shift 1 Slot 4	0	72	Value	ValueOutput
+Shift 2 Slot 4	0	72	Value	ValueOutput
+Shift 3 Slot 4	0	72	Value	ValueOutput
+Shift 4 Slot 4	0	72	Value	ValueOutput
+Shift 5 Slot 4	0	72	Value	ValueOutput
+Shift 6 Slot 4	0	72	Value	ValueOutput
+Root Selector Slot 5	0	11	Value	ValueOutput
+Octave Selector Slot 5	0	6	Value	ValueOutput
+Shift 1 Slot 5	0	72	Value	ValueOutput
+Shift 2 Slot 5	0	72	Value	ValueOutput
+Shift 3 Slot 5	0	72	Value	ValueOutput
+Shift 4 Slot 5	0	72	Value	ValueOutput
+Shift 5 Slot 5	0	72	Value	ValueOutput
+Shift 6 Slot 5	0	72	Value	ValueOutput
+Root Selector Slot 6	0	11	Value	ValueOutput
+Octave Selector Slot 6	0	6	Value	ValueOutput
+Shift 1 Slot 6	0	72	Value	ValueOutput
+Shift 2 Slot 6	0	72	Value	ValueOutput
+Shift 3 Slot 6	0	72	Value	ValueOutput
+Shift 4 Slot 6	0	72	Value	ValueOutput
+Shift 5 Slot 6	0	72	Value	ValueOutput
+Shift 6 Slot 6	0	72	Value	ValueOutput
+Root Selector Slot 7	0	11	Value	ValueOutput
+Octave Selector Slot 7	0	6	Value	ValueOutput
+Shift 1 Slot 7	0	72	Value	ValueOutput
+Shift 2 Slot 7	0	72	Value	ValueOutput
+Shift 3 Slot 7	0	72	Value	ValueOutput
+Shift 4 Slot 7	0	72	Value	ValueOutput
+Shift 5 Slot 7	0	72	Value	ValueOutput
+Shift 6 Slot 7	0	72	Value	ValueOutput
+Root Selector Slot 8	0	11	Value	ValueOutput
+Octave Selector Slot 8	0	6	Value	ValueOutput
+Shift 1 Slot 8	0	72	Value	ValueOutput
+Shift 2 Slot 8	0	72	Value	ValueOutput
+Shift 3 Slot 8	0	72	Value	ValueOutput
+Shift 4 Slot 8	0	72	Value	ValueOutput
+Shift 5 Slot 8	0	72	Value	ValueOutput
+Shift 6 Slot 8	0	72	Value	ValueOutput
+Root Selector Slot 9	0	11	Value	ValueOutput
+Octave Selector Slot 9	0	6	Value	ValueOutput
+Shift 1 Slot 9	0	72	Value	ValueOutput
+Shift 2 Slot 9	0	72	Value	ValueOutput
+Shift 3 Slot 9	0	72	Value	ValueOutput
+Shift 4 Slot 9	0	72	Value	ValueOutput
+Shift 5 Slot 9	0	72	Value	ValueOutput
+Shift 6 Slot 9	0	72	Value	ValueOutput
+Root Selector Slot 10	0	11	Value	ValueOutput
+Octave Selector Slot 10	0	6	Value	ValueOutput
+Shift 1 Slot 10	0	72	Value	ValueOutput
+Shift 2 Slot 10	0	72	Value	ValueOutput
+Shift 3 Slot 10	0	72	Value	ValueOutput
+Shift 4 Slot 10	0	72	Value	ValueOutput
+Shift 5 Slot 10	0	72	Value	ValueOutput
+Shift 6 Slot 10	0	72	Value	ValueOutput
+Root Selector Slot 11	0	11	Value	ValueOutput
+Octave Selector Slot 11	0	6	Value	ValueOutput
+Shift 1 Slot 11	0	72	Value	ValueOutput
+Shift 2 Slot 11	0	72	Value	ValueOutput
+Shift 3 Slot 11	0	72	Value	ValueOutput
+Shift 4 Slot 11	0	72	Value	ValueOutput
+Shift 5 Slot 11	0	72	Value	ValueOutput
+Shift 6 Slot 11	0	72	Value	ValueOutput
+Root Selector Slot 12	0	11	Value	ValueOutput
+Octave Selector Slot 12	0	6	Value	ValueOutput
+Shift 1 Slot 12	0	72	Value	ValueOutput
+Shift 2 Slot 12	0	72	Value	ValueOutput
+Shift 3 Slot 12	0	72	Value	ValueOutput
+Shift 4 Slot 12	0	72	Value	ValueOutput
+Shift 5 Slot 12	0	72	Value	ValueOutput
+Shift 6 Slot 12	0	72	Value	ValueOutput
+Trigger Mode	0	1	Toggle	ValueOutput
+Global Transpose	0	48	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

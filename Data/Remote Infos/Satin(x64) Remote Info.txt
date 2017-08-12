@@ -1,0 +1,90 @@
+Scope
+Manufacturer	Model
+u-he	vst.uhST.Satin(x64)
+Note: Will match scope definitions for vst.uhST.Satin(x64) or vst.uhST
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+main: Active #Satin	0	4194304	Value	ValueOutput
+Midi: InternalNote	0	4194304	Value	ValueOutput
+Midi: InternalVel	0	4194304	Value	ValueOutput
+Satin: Input Gain	0	4194304	Value	ValueOutput
+Satin: Output Gain	0	4194304	Value	ValueOutput
+Satin: Speed (ips)	0	4194304	Value	ValueOutput
+Satin: Bias	0	4194304	Value	ValueOutput
+Satin: Pre-Emphasis	0	4194304	Value	ValueOutput
+Satin: Headroom	0	4194304	Value	ValueOutput
+Satin: Auto Makeup	0	4194304	Value	ValueOutput
+Satin: 0VU Ref.	0	4194304	Value	ValueOutput
+Satin: Tape Hiss	0	4194304	Value	ValueOutput
+Satin: Asperity	0	4194304	Value	ValueOutput
+Satin: Crosstalk	0	4194304	Value	ValueOutput
+Satin: Wow & Flutter	0	4194304	Value	ValueOutput
+Satin: Out Clip	0	4194304	Value	ValueOutput
+Satin: Bypass	0	4194304	Value	ValueOutput
+Satin: Rec EQ	0	4194304	Value	ValueOutput
+Satin: Repro EQ	0	4194304	Value	ValueOutput
+Satin: Tape Type	0	4194304	Value	ValueOutput
+Satin: Repro Heads	0	4194304	Value	ValueOutput
+Satin: Head 1 Distance	0	4194304	Value	ValueOutput
+Satin: Head 2 Distance	0	4194304	Value	ValueOutput
+Satin: Head 3 Distance	0	4194304	Value	ValueOutput
+Satin: Head 4 Distance	0	4194304	Value	ValueOutput
+Satin: Head 1 Level	0	4194304	Value	ValueOutput
+Satin: Head 2 Level	0	4194304	Value	ValueOutput
+Satin: Head 3 Level	0	4194304	Value	ValueOutput
+Satin: Head 4 Level	0	4194304	Value	ValueOutput
+Satin: Head 1 Bal	0	4194304	Value	ValueOutput
+Satin: Head 2 Bal	0	4194304	Value	ValueOutput
+Satin: Head 3 Bal	0	4194304	Value	ValueOutput
+Satin: Head 4 Bal	0	4194304	Value	ValueOutput
+Satin: Head 1 Mod Rate	0	4194304	Value	ValueOutput
+Satin: Head 2 Mod Rate	0	4194304	Value	ValueOutput
+Satin: Head 3 Mod Rate	0	4194304	Value	ValueOutput
+Satin: Head 4 Mod Rate	0	4194304	Value	ValueOutput
+Satin: Head 1 Mod Amt	0	4194304	Value	ValueOutput
+Satin: Head 2 Mod Amt	0	4194304	Value	ValueOutput
+Satin: Head 3 Mod Amt	0	4194304	Value	ValueOutput
+Satin: Head 4 Mod Amt	0	4194304	Value	ValueOutput
+Satin: Feedback	0	4194304	Value	ValueOutput
+Satin: Mix	0	4194304	Value	ValueOutput
+Satin: fbhp	0	4194304	Value	ValueOutput
+Satin: Feedback Lowpass	0	4194304	Value	ValueOutput
+Satin: Feedback Limit	0	4194304	Value	ValueOutput
+Satin: Bump	0	4194304	Value	ValueOutput
+Satin: Gap Width	0	4194304	Value	ValueOutput
+Satin: Mode	0	4194304	Value	ValueOutput
+Satin: Delay Routing	0	4194304	Value	ValueOutput
+Satin: Tempo Sync	0	4194304	Value	ValueOutput
+Satin: Encoder	0	4194304	Value	ValueOutput
+Satin: Decoder	0	4194304	Value	ValueOutput
+Satin: Compander	0	4194304	Value	ValueOutput
+Satin: Compander Mix	0	4194304	Value	ValueOutput
+Satin: Bypass Tape	0	4194304	Value	ValueOutput
+Satin: Flng. FadeIn	0	4194304	Value	ValueOutput
+Satin: Flng. FadeOut	0	4194304	Value	ValueOutput
+Satin: Flng. FadeIn Mul	0	4194304	Value	ValueOutput
+Satin: ffoumul	0	4194304	Value	ValueOutput
+Satin: fshpin	0	4194304	Value	ValueOutput
+Satin: fshpout	0	4194304	Value	ValueOutput
+Satin: Flng. Trigger	0	4194304	Value	ValueOutput
+Satin: fmanual	0	4194304	Value	ValueOutput
+Satin: finvert	0	4194304	Value	ValueOutput
+Satin: Hiss Auto Mute	0	4194304	Value	ValueOutput
+Satin: Azimuth	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

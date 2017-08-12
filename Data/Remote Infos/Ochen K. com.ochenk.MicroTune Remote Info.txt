@@ -1,0 +1,27 @@
+Scope
+Manufacturer	Model
+Ochen K.	com.ochenk.MicroTune
+
+Remotable	Min	Max	Input type	Output type
+Peg 1	0	4194304	Value	ValueOutput
+Peg 2	0	4194304	Value	ValueOutput
+Peg 3	0	4194304	Value	ValueOutput
+Peg 4	0	4194304	Value	ValueOutput
+Peg 5	0	4194304	Value	ValueOutput
+Peg 6	0	4194304	Value	ValueOutput
+Peg 7	0	4194304	Value	ValueOutput
+Peg 8	0	4194304	Value	ValueOutput
+Peg 9	0	4194304	Value	ValueOutput
+Peg 10	0	4194304	Value	ValueOutput
+Peg 11	0	4194304	Value	ValueOutput
+Peg 12	0	4194304	Value	ValueOutput
+Root Note	0	11	Value	ValueOutput
+Division Steps	0	3	Value	ValueOutput
+Bend Range	0	11	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Pitch Bend Wheel	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

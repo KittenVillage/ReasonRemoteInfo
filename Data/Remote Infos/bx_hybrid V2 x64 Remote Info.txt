@@ -1,0 +1,125 @@
+Scope
+Manufacturer	Model
+Plugin Alliance	vst.bxhs.bx_hybrid V2 x64
+Note: Will match scope definitions for vst.bxhs.bx_hybrid V2 x64 or vst.bxhs
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bank	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+AtLstnOn	0	4194304	Value	ValueOutput
+AutListn	0	4194304	Value	ValueOutput
+EQOn	0	4194304	Value	ValueOutput
+P1InGain	0	4194304	Value	ValueOutput
+P1OutGain	0	4194304	Value	ValueOutput
+P1HpQ	0	4194304	Value	ValueOutput
+P1HpFq	0	4194304	Value	ValueOutput
+P1HpOn	0	4194304	Value	ValueOutput
+P1LfQ	0	4194304	Value	ValueOutput
+P1LfFq	0	4194304	Value	ValueOutput
+P1LfGain	0	4194304	Value	ValueOutput
+P1LfOn	0	4194304	Value	ValueOutput
+P1LmfQ	0	4194304	Value	ValueOutput
+P1LmfFq	0	4194304	Value	ValueOutput
+P1LmfGain	0	4194304	Value	ValueOutput
+P1LmfOn	0	4194304	Value	ValueOutput
+P1MfQ	0	4194304	Value	ValueOutput
+P1MfFq	0	4194304	Value	ValueOutput
+P1MfGain	0	4194304	Value	ValueOutput
+P1MfOn	0	4194304	Value	ValueOutput
+P1HmfQ	0	4194304	Value	ValueOutput
+P1HmfFq	0	4194304	Value	ValueOutput
+P1HmfGain	0	4194304	Value	ValueOutput
+P1HmfOn	0	4194304	Value	ValueOutput
+P1HfQ	0	4194304	Value	ValueOutput
+P1HfFq	0	4194304	Value	ValueOutput
+P1HfGain	0	4194304	Value	ValueOutput
+P1HfOn	0	4194304	Value	ValueOutput
+P1LpQ	0	4194304	Value	ValueOutput
+P1LpFq	0	4194304	Value	ValueOutput
+P1LpOn	0	4194304	Value	ValueOutput
+P1BsFq	0	4194304	Value	ValueOutput
+P1BsGain	0	4194304	Value	ValueOutput
+P1BsOn	0	4194304	Value	ValueOutput
+P1PsFq	0	4194304	Value	ValueOutput
+P1PsGain	0	4194304	Value	ValueOutput
+P1PsOn	0	4194304	Value	ValueOutput
+LinkAll	0	4194304	Value	ValueOutput
+MonoMkr	0	4194304	Value	ValueOutput
+MMkrOn	0	4194304	Value	ValueOutput
+StWidth	0	4194304	Value	ValueOutput
+StWidtOn	0	4194304	Value	ValueOutput
+Ch1 Solo	0	4194304	Value	ValueOutput
+Ch2 Solo	0	4194304	Value	ValueOutput
+P2InGain	0	4194304	Value	ValueOutput
+P2OutGain	0	4194304	Value	ValueOutput
+P1InGnLnk	0	4194304	Value	ValueOutput
+P1OutGnLk	0	4194304	Value	ValueOutput
+P2InGnLnk	0	4194304	Value	ValueOutput
+P2OutGnLk	0	4194304	Value	ValueOutput
+P1HpLnk	0	4194304	Value	ValueOutput
+P1LfLnk	0	4194304	Value	ValueOutput
+P1LmfLnk	0	4194304	Value	ValueOutput
+P1MfLnk	0	4194304	Value	ValueOutput
+P1HmfLnk	0	4194304	Value	ValueOutput
+P1HfLnk	0	4194304	Value	ValueOutput
+P1LpLnk	0	4194304	Value	ValueOutput
+P1BSLnk	0	4194304	Value	ValueOutput
+P1PSLnk	0	4194304	Value	ValueOutput
+P2HpLnk	0	4194304	Value	ValueOutput
+P2LfLnk	0	4194304	Value	ValueOutput
+P2LmfLnk	0	4194304	Value	ValueOutput
+P2MfLnk	0	4194304	Value	ValueOutput
+P2HmfLnk	0	4194304	Value	ValueOutput
+P2HfLnk	0	4194304	Value	ValueOutput
+P2LpLnk	0	4194304	Value	ValueOutput
+P2BSLnk	0	4194304	Value	ValueOutput
+P2PSLnk	0	4194304	Value	ValueOutput
+P2HpQ	0	4194304	Value	ValueOutput
+P2HpFq	0	4194304	Value	ValueOutput
+P2HpOn	0	4194304	Value	ValueOutput
+P2LfQ	0	4194304	Value	ValueOutput
+P2LfFq	0	4194304	Value	ValueOutput
+P2LfGain	0	4194304	Value	ValueOutput
+P2LfOn	0	4194304	Value	ValueOutput
+P2LmfQ	0	4194304	Value	ValueOutput
+P2LmfFq	0	4194304	Value	ValueOutput
+P2LmfGain	0	4194304	Value	ValueOutput
+P2LmfOn	0	4194304	Value	ValueOutput
+P2MfQ	0	4194304	Value	ValueOutput
+P2MfFq	0	4194304	Value	ValueOutput
+P2MfGain	0	4194304	Value	ValueOutput
+P2MfOn	0	4194304	Value	ValueOutput
+P2HmfQ	0	4194304	Value	ValueOutput
+P2HmfFq	0	4194304	Value	ValueOutput
+P2HmfGain	0	4194304	Value	ValueOutput
+P2HmfOn	0	4194304	Value	ValueOutput
+P2HfQ	0	4194304	Value	ValueOutput
+P2HfFq	0	4194304	Value	ValueOutput
+P2HfGain	0	4194304	Value	ValueOutput
+P2HfOn	0	4194304	Value	ValueOutput
+P2LpQ	0	4194304	Value	ValueOutput
+P2LpFq	0	4194304	Value	ValueOutput
+P2LpOn	0	4194304	Value	ValueOutput
+P2BsFq	0	4194304	Value	ValueOutput
+P2BsGain	0	4194304	Value	ValueOutput
+P2BsOn	0	4194304	Value	ValueOutput
+P2PsFq	0	4194304	Value	ValueOutput
+P2PsGain	0	4194304	Value	ValueOutput
+P2PsOn	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

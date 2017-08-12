@@ -1,0 +1,95 @@
+Scope
+Manufacturer	Model
+Primal Audio	com.primalaudio.FM4
+
+Remotable	Min	Max	Input type	Output type
+Monophonic	0	1	Toggle	ValueOutput
+Legato	0	1	Toggle	ValueOutput
+Unison	0	3	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+LFO Waveform	0	4	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Rate Synced	0	10	Value	ValueOutput
+LFO Pitch	0	4194304	Value	ValueOutput
+LFO Key Trigger	0	1	Toggle	ValueOutput
+LFO Tempo Sync	0	1	Toggle	ValueOutput
+LFO Modulation Wheel	0	1	Toggle	ValueOutput
+Decay Curve	0	4	Value	ValueOutput
+Decay Time	0	4194304	Value	ValueOutput
+Decay Pitch	0	4194304	Value	ValueOutput
+Operator 1 On	0	1	Toggle	ValueOutput
+Operator 1 Level	0	4194304	Value	ValueOutput
+Operator 1 Envelope Attack	0	4194304	Value	ValueOutput
+Operator 1 Envelope Decay	0	4194304	Value	ValueOutput
+Operator 1 Envelope Sustain	0	4194304	Value	ValueOutput
+Operator 1 Envelope Release	0	4194304	Value	ValueOutput
+Operator 1 Pitch Coarse	0	15	Value	ValueOutput
+Operator 1 Pitch Fine	0	4194304	Value	ValueOutput
+Operator 1 Track Low	0	4194304	Value	ValueOutput
+Operator 1 Track Break Point	0	96	Value	ValueOutput
+Operator 1 Track High	0	4194304	Value	ValueOutput
+Operator 1 LFO Sensitivity	0	4194304	Value	ValueOutput
+Operator 1 Velocity Sensitivity	0	4194304	Value	ValueOutput
+Operator 1 Modulation Wheel Sensitivity	0	4194304	Value	ValueOutput
+Operator 2 On	0	1	Toggle	ValueOutput
+Operator 2 Level	0	4194304	Value	ValueOutput
+Operator 2 Envelope Attack	0	4194304	Value	ValueOutput
+Operator 2 Envelope Decay	0	4194304	Value	ValueOutput
+Operator 2 Envelope Sustain	0	4194304	Value	ValueOutput
+Operator 2 Envelope Release	0	4194304	Value	ValueOutput
+Operator 2 Pitch Coarse	0	15	Value	ValueOutput
+Operator 2 Pitch Fine	0	4194304	Value	ValueOutput
+Operator 2 Track Low	0	4194304	Value	ValueOutput
+Operator 2 Track Break Point	0	96	Value	ValueOutput
+Operator 2 Track High	0	4194304	Value	ValueOutput
+Operator 2 LFO Sensitivity	0	4194304	Value	ValueOutput
+Operator 2 Velocity Sensitivity	0	4194304	Value	ValueOutput
+Operator 2 Modulation Wheel Sensitivity	0	4194304	Value	ValueOutput
+Operator 3 On	0	1	Toggle	ValueOutput
+Operator 3 Level	0	4194304	Value	ValueOutput
+Operator 3 Envelope Attack	0	4194304	Value	ValueOutput
+Operator 3 Envelope Decay	0	4194304	Value	ValueOutput
+Operator 3 Envelope Sustain	0	4194304	Value	ValueOutput
+Operator 3 Envelope Release	0	4194304	Value	ValueOutput
+Operator 3 Pitch Coarse	0	15	Value	ValueOutput
+Operator 3 Pitch Fine	0	4194304	Value	ValueOutput
+Operator 3 Track Low	0	4194304	Value	ValueOutput
+Operator 3 Track Break Point	0	96	Value	ValueOutput
+Operator 3 Track High	0	4194304	Value	ValueOutput
+Operator 3 LFO Sensitivity	0	4194304	Value	ValueOutput
+Operator 3 Velocity Sensitivity	0	4194304	Value	ValueOutput
+Operator 3 Modulation Wheel Sensitivity	0	4194304	Value	ValueOutput
+Operator 4 On	0	1	Toggle	ValueOutput
+Operator 4 Level	0	4194304	Value	ValueOutput
+Operator 4 Envelope Attack	0	4194304	Value	ValueOutput
+Operator 4 Envelope Decay	0	4194304	Value	ValueOutput
+Operator 4 Envelope Sustain	0	4194304	Value	ValueOutput
+Operator 4 Envelope Release	0	4194304	Value	ValueOutput
+Operator 4 Pitch Coarse	0	15	Value	ValueOutput
+Operator 4 Pitch Fine	0	4194304	Value	ValueOutput
+Operator 4 Track Low	0	4194304	Value	ValueOutput
+Operator 4 Track Break Point	0	96	Value	ValueOutput
+Operator 4 Track High	0	4194304	Value	ValueOutput
+Operator 4 LFO Sensitivity	0	4194304	Value	ValueOutput
+Operator 4 Velocity Sensitivity	0	4194304	Value	ValueOutput
+Operator 4 Modulation Wheel Sensitivity	0	4194304	Value	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Model	0	3	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Transpose	0	48	Value	ValueOutput
+Pitch Bend Range	0	23	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Drift	0	4194304	Value	ValueOutput
+Routing	0	15	Value	ValueOutput
+Operator Key Sync	0	2	Value	ValueOutput
+Operator 1 Waveform	0	7	Value	ValueOutput
+Operator 2 Waveform	0	7	Value	ValueOutput
+Operator 3 Waveform	0	7	Value	ValueOutput
+Operator 4 Waveform	0	7	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,58 @@
+Scope
+Manufacturer	Model
+Dead Duck Software	vst.-D%5E0.DD Channel
+Note: Will match scope definitions for vst.-D%5E0.DD Channel or vst.-D%5E0
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Input	0	4194304	Value	ValueOutput
+HPFOn	0	4194304	Value	ValueOutput
+HPFFreq	0	4194304	Value	ValueOutput
+LPFOn	0	4194304	Value	ValueOutput
+LPFFreq	0	4194304	Value	ValueOutput
+GCEOrder	0	4194304	Value	ValueOutput
+EQOn	0	4194304	Value	ValueOutput
+LFFreq	0	4194304	Value	ValueOutput
+LFQ	0	4194304	Value	ValueOutput
+LFGain	0	4194304	Value	ValueOutput
+LMFFreq	0	4194304	Value	ValueOutput
+LMFQ	0	4194304	Value	ValueOutput
+LMFGain	0	4194304	Value	ValueOutput
+HMFFreq	0	4194304	Value	ValueOutput
+HMFQ	0	4194304	Value	ValueOutput
+HMFGain	0	4194304	Value	ValueOutput
+HFFreq	0	4194304	Value	ValueOutput
+HFGain	0	4194304	Value	ValueOutput
+GateOn	0	4194304	Value	ValueOutput
+GTThresh	0	4194304	Value	ValueOutput
+GTAtt	0	4194304	Value	ValueOutput
+GTHold	0	4194304	Value	ValueOutput
+GTRel	0	4194304	Value	ValueOutput
+CompOn	0	4194304	Value	ValueOutput
+CPThresh	0	4194304	Value	ValueOutput
+CPRatio	0	4194304	Value	ValueOutput
+CPAtt	0	4194304	Value	ValueOutput
+CPRel	0	4194304	Value	ValueOutput
+CPMakeup	0	4194304	Value	ValueOutput
+CPMix	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+LMThresh	0	4194304	Value	ValueOutput
+LMRel	0	4194304	Value	ValueOutput
+LMClip	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,73 @@
+Scope
+Manufacturer	Model
+AnarchySoundSoftware	vst.AnRm.AnarchyRhythms
+Note: Will match scope definitions for vst.AnRm.AnarchyRhythms or vst.AnRm
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input Lvl	0	4194304	Value	ValueOutput
+dry<->wet	0	4194304	Value	ValueOutput
+Output Lvl	0	4194304	Value	ValueOutput
+Shuffle typ	0	4194304	Value	ValueOutput
+Shuffle val	0	4194304	Value	ValueOutput
+Pattern	0	4194304	Value	ValueOutput
+Snd1 Level	0	4194304	Value	ValueOutput
+Snd1 Pan	0	4194304	Value	ValueOutput
+Snd1 Pan Env	0	4194304	Value	ValueOutput
+Snd1 Pitch	0	4194304	Value	ValueOutput
+Snd1 Pitch Env	0	4194304	Value	ValueOutput
+Snd1 Filter	0	4194304	Value	ValueOutput
+Snd1 Length	0	4194304	Value	ValueOutput
+Snd1 Oscillator	0	4194304	Value	ValueOutput
+Snd1 FeedBack	0	4194304	Value	ValueOutput
+Snd1 Comb	0	4194304	Value	ValueOutput
+Snd1 Compress.	0	4194304	Value	ValueOutput
+Snd2 Level	0	4194304	Value	ValueOutput
+Snd2 Pan	0	4194304	Value	ValueOutput
+Snd2 Pan Env	0	4194304	Value	ValueOutput
+Snd2 Pitch	0	4194304	Value	ValueOutput
+Snd2 Pitch Env	0	4194304	Value	ValueOutput
+Snd2 Filter	0	4194304	Value	ValueOutput
+Snd2 Length	0	4194304	Value	ValueOutput
+Snd2 Oscillator	0	4194304	Value	ValueOutput
+Snd2 FeedBack	0	4194304	Value	ValueOutput
+Snd2 Comb	0	4194304	Value	ValueOutput
+Snd2 Compress.	0	4194304	Value	ValueOutput
+Snd3 Level	0	4194304	Value	ValueOutput
+Snd3 Pan	0	4194304	Value	ValueOutput
+Snd3 Pan Env	0	4194304	Value	ValueOutput
+Snd3 Pitch	0	4194304	Value	ValueOutput
+Snd3 Pitch Env	0	4194304	Value	ValueOutput
+Snd3 Filter	0	4194304	Value	ValueOutput
+Snd3 Length	0	4194304	Value	ValueOutput
+Snd3 Oscillator	0	4194304	Value	ValueOutput
+Snd3 FeedBack	0	4194304	Value	ValueOutput
+Snd3 Comb	0	4194304	Value	ValueOutput
+Snd3 Compress.	0	4194304	Value	ValueOutput
+Snd4 Level	0	4194304	Value	ValueOutput
+Snd4 Pan	0	4194304	Value	ValueOutput
+Snd4 Pan Env	0	4194304	Value	ValueOutput
+Snd4 Pitch	0	4194304	Value	ValueOutput
+Snd4 Pitch Env	0	4194304	Value	ValueOutput
+Snd4 Filter	0	4194304	Value	ValueOutput
+Snd4 Length	0	4194304	Value	ValueOutput
+Snd4 Oscillator	0	4194304	Value	ValueOutput
+Snd4 FeedBack	0	4194304	Value	ValueOutput
+Snd4 Comb	0	4194304	Value	ValueOutput
+Snd4 Compress.	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

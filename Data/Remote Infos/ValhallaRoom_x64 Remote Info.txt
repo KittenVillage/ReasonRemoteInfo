@@ -1,0 +1,43 @@
+Scope
+Manufacturer	Model
+Valhalla DSP, LLC	vst.Ruum.ValhallaRoom_x64
+Note: Will match scope definitions for vst.Ruum.ValhallaRoom_x64 or vst.Ruum
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+mix	0	4194304	Value	ValueOutput
+predelay	0	4194304	Value	ValueOutput
+decay	0	4194304	Value	ValueOutput
+HighCut	0	4194304	Value	ValueOutput
+earlyLateMix	0	4194304	Value	ValueOutput
+lateSize	0	4194304	Value	ValueOutput
+lateCross	0	4194304	Value	ValueOutput
+lateModRate	0	4194304	Value	ValueOutput
+lateModDepth	0	4194304	Value	ValueOutput
+RTBassMultiply	0	4194304	Value	ValueOutput
+RTXover	0	4194304	Value	ValueOutput
+RTHighMultiply	0	4194304	Value	ValueOutput
+RTHighXover	0	4194304	Value	ValueOutput
+earlySize	0	4194304	Value	ValueOutput
+earlyCross	0	4194304	Value	ValueOutput
+earlyModRate	0	4194304	Value	ValueOutput
+earlyModDepth	0	4194304	Value	ValueOutput
+earlySend	0	4194304	Value	ValueOutput
+diffusion	0	4194304	Value	ValueOutput
+type	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,34 @@
+Scope
+Manufacturer	Model
+Lexicon	vst.Nbr1.MPXNativeReverb x64
+Note: Will match scope definitions for vst.Nbr1.MPXNativeReverb x64 or vst.Nbr1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Predelay	0	4194304	Value	ValueOutput
+Diffusion	0	4194304	Value	ValueOutput
+Reflection	0	4194304	Value	ValueOutput
+Reverb Attack	0	4194304	Value	ValueOutput
+Reverb Type	0	4194304	Value	ValueOutput
+Reverb Time	0	4194304	Value	ValueOutput
+Reverb Color	0	4194304	Value	ValueOutput
+Rolloff	0	4194304	Value	ValueOutput
+Early Level	0	4194304	Value	ValueOutput
+Rvb Level	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

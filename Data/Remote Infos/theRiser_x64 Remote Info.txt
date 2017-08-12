@@ -1,0 +1,153 @@
+Scope
+Manufacturer	Model
+AIR Music Technology	vst.rsRt.theRiser_x64
+Note: Will match scope definitions for vst.rsRt.theRiser_x64 or vst.rsRt
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Reverb Preset	0	4194304	Value	ValueOutput
+Reverb Time	0	4194304	Value	ValueOutput
+Reverb High Cut	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay High Cut	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Volume Decay	0	4194304	Value	ValueOutput
+Filter Decay	0	4194304	Value	ValueOutput
+Pitch Decay	0	4194304	Value	ValueOutput
+Noise Volume Offset	0	4194304	Value	ValueOutput
+Sweep Volume Offset	0	4194304	Value	ValueOutput
+Chord Volume Offset	0	4194304	Value	ValueOutput
+Noise Gain Start Value	0	4194304	Value	ValueOutput
+Noise Gain End Value	0	4194304	Value	ValueOutput
+Noise Gain Curve Shape	0	4194304	Value	ValueOutput
+Noise Gain LFO Depth Vol	0	4194304	Value	ValueOutput
+Noise Gain LFO Select	0	4194304	Value	ValueOutput
+Sweep Gain Start Value	0	4194304	Value	ValueOutput
+Sweep Gain End Value	0	4194304	Value	ValueOutput
+Sweep Gain Curve Shape	0	4194304	Value	ValueOutput
+Sweep Gain LFO Depth	0	4194304	Value	ValueOutput
+Sweep Gain LFO Select	0	4194304	Value	ValueOutput
+Sweep Freq Start Value	0	4194304	Value	ValueOutput
+Sweep Freq End Value	0	4194304	Value	ValueOutput
+Sweep Freq  Curve Shape	0	4194304	Value	ValueOutput
+Sweep Freq LFO Depth	0	4194304	Value	ValueOutput
+Sweep Freq LFO Select	0	4194304	Value	ValueOutput
+SweepOsc Shape Start Val	0	4194304	Value	ValueOutput
+SweepOsc Shape End Value	0	4194304	Value	ValueOutput
+SweepOsc Shape Curve Sha	0	4194304	Value	ValueOutput
+SweepOsc Shape LFO Depth	0	4194304	Value	ValueOutput
+SweepOsc Shape LFO Selec	0	4194304	Value	ValueOutput
+Chord Gain Start Value	0	4194304	Value	ValueOutput
+Chord Gain End Value	0	4194304	Value	ValueOutput
+Chord Gain Curve Shape	0	4194304	Value	ValueOutput
+Chord Gain LFO Depth	0	4194304	Value	ValueOutput
+Chord Gain LFO Select	0	4194304	Value	ValueOutput
+Filter Freq Start Value	0	4194304	Value	ValueOutput
+Filter Freq End Value	0	4194304	Value	ValueOutput
+Filter Freq Curve Shape	0	4194304	Value	ValueOutput
+Filter Freq LFO Depth	0	4194304	Value	ValueOutput
+Filter Freq LFO Select	0	4194304	Value	ValueOutput
+Filter Reso Start Value	0	4194304	Value	ValueOutput
+Filter Reso End Value	0	4194304	Value	ValueOutput
+Filter Reso Curve Shape	0	4194304	Value	ValueOutput
+Filter Reso LFO Depth	0	4194304	Value	ValueOutput
+Filter Reso LFO Select	0	4194304	Value	ValueOutput
+Pan Start Value	0	4194304	Value	ValueOutput
+Pan End Value	0	4194304	Value	ValueOutput
+Pan Curve Shape	0	4194304	Value	ValueOutput
+Pan LFO Depth	0	4194304	Value	ValueOutput
+Pan LFO Select	0	4194304	Value	ValueOutput
+Chord Shape Start Value	0	4194304	Value	ValueOutput
+Chord Shape End Value	0	4194304	Value	ValueOutput
+Chord Shape Curve Shape	0	4194304	Value	ValueOutput
+Chord Shape LFO Depth	0	4194304	Value	ValueOutput
+Chord Shape LFO Select	0	4194304	Value	ValueOutput
+Chord Brightness Start V	0	4194304	Value	ValueOutput
+Chord Brightness End Val	0	4194304	Value	ValueOutput
+Chord Brightness Curve S	0	4194304	Value	ValueOutput
+Chord Brightness LFO Dep	0	4194304	Value	ValueOutput
+Chord Brightness LFO Sel	0	4194304	Value	ValueOutput
+Master Gain Start Value	0	4194304	Value	ValueOutput
+Master Gain End Value	0	4194304	Value	ValueOutput
+Master Gain Curve Shape	0	4194304	Value	ValueOutput
+Master Gain LFO Depth	0	4194304	Value	ValueOutput
+Master GainLFO Select	0	4194304	Value	ValueOutput
+Noise Shape Start Value	0	4194304	Value	ValueOutput
+Noise Shape End Value	0	4194304	Value	ValueOutput
+Noise Shape Curve Shape	0	4194304	Value	ValueOutput
+Noise Shape LFO Depth	0	4194304	Value	ValueOutput
+Noise Shape LFO Select	0	4194304	Value	ValueOutput
+Noise Tune Start Value	0	4194304	Value	ValueOutput
+Noise Tune End Value	0	4194304	Value	ValueOutput
+Noise Tune Curve Shape	0	4194304	Value	ValueOutput
+Noise Tune LFO Depth	0	4194304	Value	ValueOutput
+Noise Tune LFO Select	0	4194304	Value	ValueOutput
+LFO A Rate Start Value	0	4194304	Value	ValueOutput
+LFO A Rate End Value	0	4194304	Value	ValueOutput
+LFO A Rate Curve Shape	0	4194304	Value	ValueOutput
+LFO A Depth Start Value	0	4194304	Value	ValueOutput
+LFO A Depth End Value	0	4194304	Value	ValueOutput
+LFO A Depth Curve Shape	0	4194304	Value	ValueOutput
+LFO B Depth Start Value	0	4194304	Value	ValueOutput
+LFO B Depth End Value	0	4194304	Value	ValueOutput
+LFO B Depth Curve Shape	0	4194304	Value	ValueOutput
+Effect Mix Start Value	0	4194304	Value	ValueOutput
+Effect Mix End Value	0	4194304	Value	ValueOutput
+Effect Mix Curve Shape	0	4194304	Value	ValueOutput
+SweepOsc Mode	0	4194304	Value	ValueOutput
+ChordOsc Mode	0	4194304	Value	ValueOutput
+Filter Mode	0	4194304	Value	ValueOutput
+Filter Noise Active	0	4194304	Value	ValueOutput
+Filter Sweep Active	0	4194304	Value	ValueOutput
+Filter Chord Active	0	4194304	Value	ValueOutput
+LFO A Shape	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+LFO B Shape	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+LFO B Rate	0	4194304	Value	ValueOutput
+Sync Mode	0	4194304	Value	ValueOutput
+Sync Offset Bars	0	4194304	Value	ValueOutput
+Sync Offset Fine	0	4194304	Value	ValueOutput
+Chord Type	0	4194304	Value	ValueOutput
+Chord Octave	0	4194304	Value	ValueOutput
+Pumper Rate	0	4194304	Value	ValueOutput
+Pumper Depth	0	4194304	Value	ValueOutput
+Filter Dist Mode	0	4194304	Value	ValueOutput
+Stereo Width	0	4194304	Value	ValueOutput
+Invert	0	4194304	Value	ValueOutput
+Sweep Freqs Notes	0	4194304	Value	ValueOutput
+Distortion Start Value	0	4194304	Value	ValueOutput
+Distortion End Value	0	4194304	Value	ValueOutput
+Distortion Curve Shape	0	4194304	Value	ValueOutput
+Distortion LFO Depth	0	4194304	Value	ValueOutput
+Distortion LFO Select	0	4194304	Value	ValueOutput
+Chord Freq Follow Sweep	0	4194304	Value	ValueOutput
+Master Low Cut	0	4194304	Value	ValueOutput
+Low Cut Frequency	0	4194304	Value	ValueOutput
+Lock Effects	0	4194304	Value	ValueOutput
+Lock Decay	0	4194304	Value	ValueOutput
+Lock Pumper	0	4194304	Value	ValueOutput
+Transpose Up Switch-Note	0	4194304	Value	ValueOutput
+Unused3	0	4194304	Value	ValueOutput
+Unused4	0	4194304	Value	ValueOutput
+Unused5	0	4194304	Value	ValueOutput
+Unused6	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

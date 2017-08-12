@@ -1,0 +1,43 @@
+Scope
+Manufacturer	Model
+SoundMod	ca.soundmod.Tritone
+
+Remotable	Min	Max	Input type	Output type
+Input Gain Level	0	4194304	Value	ValueOutput
+Output Gain Level	0	4194304	Value	ValueOutput
+Crossover Low/Mid Frequency	0	4194304	Value	ValueOutput
+Crossover Mid/High Frequency	0	4194304	Value	ValueOutput
+Band Limiter On/Off	0	1	Toggle	ValueOutput
+Band Limiter Offset	0	4194304	Value	ValueOutput
+Modulator Response	0	4194304	Value	ValueOutput
+Low Modulator Amount	0	4194304	Value	ValueOutput
+Mid Modulator Amount	0	4194304	Value	ValueOutput
+High Modulator Amount	0	4194304	Value	ValueOutput
+Low Modulator Target	0	1	Toggle	ValueOutput
+Mid Modulator Target	0	1	Toggle	ValueOutput
+High Modulator Target	0	1	Toggle	ValueOutput
+Low On/Off	0	1	Toggle	ValueOutput
+Low Drive	0	4194304	Value	ValueOutput
+Low Algorithm	0	13	Value	ValueOutput
+Low Asymmetry	0	4194304	Value	ValueOutput
+Low Blend	0	4194304	Value	ValueOutput
+Low Level	0	4194304	Value	ValueOutput
+Mid On/Off	0	1	Toggle	ValueOutput
+Mid Drive	0	4194304	Value	ValueOutput
+Mid Algorithm	0	13	Value	ValueOutput
+Mid Asymmetry	0	4194304	Value	ValueOutput
+Mid Blend	0	4194304	Value	ValueOutput
+Mid Level	0	4194304	Value	ValueOutput
+High On/Off	0	1	Toggle	ValueOutput
+High Drive	0	4194304	Value	ValueOutput
+High Algorithm	0	13	Value	ValueOutput
+High Asymmetry	0	4194304	Value	ValueOutput
+High Blend	0	4194304	Value	ValueOutput
+High Level	0	4194304	Value	ValueOutput
+Anti-Aliasing On/Off	0	1	Toggle	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,32 @@
+Scope
+Manufacturer	Model
+Ochen K.	com.ochenk.ASeriesModularSynth1
+
+Remotable	Min	Max	Input type	Output type
+VCO Octave	0	4	Value	ValueOutput
+VCO Tune	0	4194304	Value	ValueOutput
+VCO Fine Tune	0	4194304	Value	ValueOutput
+VCO CV 2	0	4194304	Value	ValueOutput
+VCO Pulse Width	0	4194304	Value	ValueOutput
+VCO Pulse Width 2	0	4194304	Value	ValueOutput
+ADSR Speed Select	0	2	Value	ValueOutput
+ADSR Attack	0	4194304	Value	ValueOutput
+ADSR Decay	0	4194304	Value	ValueOutput
+ADSR Sustain	0	4194304	Value	ValueOutput
+ADSR Release	0	4194304	Value	ValueOutput
+VCA Gain	0	4194304	Value	ValueOutput
+VCA CV 2	0	4194304	Value	ValueOutput
+VCA In 1	0	4194304	Value	ValueOutput
+VCA In 2	0	4194304	Value	ValueOutput
+VCA Out	0	4194304	Value	ValueOutput
+VCA Curve Type	0	1	Toggle	ValueOutput
+LFO Speed Select	0	2	Value	ValueOutput
+LFO Free Rate	0	4194304	Value	ValueOutput
+LFO Sync Rate	0	17	Value	ValueOutput
+LFO Sync	0	1	Toggle	ValueOutput
+LFO Pulse Width	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

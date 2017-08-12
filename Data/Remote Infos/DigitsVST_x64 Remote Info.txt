@@ -1,0 +1,104 @@
+Scope
+Manufacturer	Model
+Extent of the Jam	vst.LGPd.DigitsVST_x64
+Note: Will match scope definitions for vst.LGPd.DigitsVST_x64 or vst.LGPd
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+O1Skew	0	4194304	Value	ValueOutput
+O1ShpMod	0	4194304	Value	ValueOutput
+O2Skew	0	4194304	Value	ValueOutput
+O2ShpMod	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+ResetOsc	0	4194304	Value	ValueOutput
+ResoVol	0	4194304	Value	ValueOutput
+ResoWave	0	4194304	Value	ValueOutput
+AmpAtt	0	4194304	Value	ValueOutput
+AmpDec	0	4194304	Value	ValueOutput
+AmpSus	0	4194304	Value	ValueOutput
+AmpFade	0	4194304	Value	ValueOutput
+AmpRel	0	4194304	Value	ValueOutput
+ShpAtt	0	4194304	Value	ValueOutput
+ShpDec	0	4194304	Value	ValueOutput
+ShpSus	0	4194304	Value	ValueOutput
+ShpFade	0	4194304	Value	ValueOutput
+ShpRel	0	4194304	Value	ValueOutput
+ShpMin	0	4194304	Value	ValueOutput
+ShpMax	0	4194304	Value	ValueOutput
+FM	0	4194304	Value	ValueOutput
+Detune	0	4194304	Value	ValueOutput
+Coarse	0	4194304	Value	ValueOutput
+BasisWav	0	4194304	Value	ValueOutput
+PulseWid	0	4194304	Value	ValueOutput
+VelShape	0	4194304	Value	ValueOutput
+VelVolum	0	4194304	Value	ValueOutput
+ModShape	0	4194304	Value	ValueOutput
+ModLFO1A	0	4194304	Value	ValueOutput
+ATShaper	0	4194304	Value	ValueOutput
+ATLFO1Am	0	4194304	Value	ValueOutput
+LFORate	0	4194304	Value	ValueOutput
+LFOType	0	4194304	Value	ValueOutput
+LFODelay	0	4194304	Value	ValueOutput
+LFORepea	0	4194304	Value	ValueOutput
+LFOShp	0	4194304	Value	ValueOutput
+LFOAmp	0	4194304	Value	ValueOutput
+LFOFreq	0	4194304	Value	ValueOutput
+LFOPWM	0	4194304	Value	ValueOutput
+LFO2Rate	0	4194304	Value	ValueOutput
+LFO2Type	0	4194304	Value	ValueOutput
+LFO2Dela	0	4194304	Value	ValueOutput
+LFO2Repe	0	4194304	Value	ValueOutput
+LFO2Shp	0	4194304	Value	ValueOutput
+LFO2Amp	0	4194304	Value	ValueOutput
+LFO2Freq	0	4194304	Value	ValueOutput
+LFO2PWM	0	4194304	Value	ValueOutput
+LFO3Rate	0	4194304	Value	ValueOutput
+LFO3Type	0	4194304	Value	ValueOutput
+LFO3Dela	0	4194304	Value	ValueOutput
+LFO3Repe	0	4194304	Value	ValueOutput
+LFO3Shp	0	4194304	Value	ValueOutput
+LFO3Amp	0	4194304	Value	ValueOutput
+LFO3Freq	0	4194304	Value	ValueOutput
+LFO3PWM	0	4194304	Value	ValueOutput
+Unison	0	4194304	Value	ValueOutput
+Del-L	0	4194304	Value	ValueOutput
+Del-R	0	4194304	Value	ValueOutput
+DelWet	0	4194304	Value	ValueOutput
+DelFB	0	4194304	Value	ValueOutput
+DelLoss	0	4194304	Value	ValueOutput
+ChrRate	0	4194304	Value	ValueOutput
+ChrDepth	0	4194304	Value	ValueOutput
+ChrDirt	0	4194304	Value	ValueOutput
+ChrTone	0	4194304	Value	ValueOutput
+ChrWet	0	4194304	Value	ValueOutput
+ChrFlang	0	4194304	Value	ValueOutput
+BitDiv	0	4194304	Value	ValueOutput
+BitBits	0	4194304	Value	ValueOutput
+BitWet	0	4194304	Value	ValueOutput
+LockShap	0	4194304	Value	ValueOutput
+FilterRe	0	4194304	Value	ValueOutput
+FilterMo	0	4194304	Value	ValueOutput
+MonoMode	0	4194304	Value	ValueOutput
+PortaSpd	0	4194304	Value	ValueOutput
+AmpRateS	0	4194304	Value	ValueOutput
+ShpRateS	0	4194304	Value	ValueOutput
+ShpLevSc	0	4194304	Value	ValueOutput
+PbendUp	0	4194304	Value	ValueOutput
+PbendDn	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,102 @@
+Scope
+Manufacturer	Model
+Waves	vst.SHQS.WaveShell-VST 9_91_x64.GEQ Modern Stereo
+Note: Will match scope definitions for vst.SHQS.WaveShell-VST 9_91_x64.GEQ Modern Stereo or vst.SHQS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+Left 25Hz	0	4194304	Value	ValueOutput
+Left 31Hz	0	4194304	Value	ValueOutput
+Left 40Hz	0	4194304	Value	ValueOutput
+Left 50Hz	0	4194304	Value	ValueOutput
+Left 63Hz	0	4194304	Value	ValueOutput
+Left 80Hz	0	4194304	Value	ValueOutput
+Left 100Hz	0	4194304	Value	ValueOutput
+Left 125Hz	0	4194304	Value	ValueOutput
+Left 160Hz	0	4194304	Value	ValueOutput
+Left 200Hz	0	4194304	Value	ValueOutput
+Left 250Hz	0	4194304	Value	ValueOutput
+Left 315Hz	0	4194304	Value	ValueOutput
+Left 400Hz	0	4194304	Value	ValueOutput
+Left 500Hz	0	4194304	Value	ValueOutput
+Left 630Hz	0	4194304	Value	ValueOutput
+Left 800Hz	0	4194304	Value	ValueOutput
+Left 1Khz	0	4194304	Value	ValueOutput
+Left 1.25Khz	0	4194304	Value	ValueOutput
+Left 1.6Khz	0	4194304	Value	ValueOutput
+Left 2Khz	0	4194304	Value	ValueOutput
+Left 2.5Khz	0	4194304	Value	ValueOutput
+Left 3.15Khz	0	4194304	Value	ValueOutput
+Left 4Khz	0	4194304	Value	ValueOutput
+Left 5Khz	0	4194304	Value	ValueOutput
+Left 6.3Khz	0	4194304	Value	ValueOutput
+Left 8Khz	0	4194304	Value	ValueOutput
+Left 10Khz	0	4194304	Value	ValueOutput
+Left 12.5Khz	0	4194304	Value	ValueOutput
+Left 16Khz	0	4194304	Value	ValueOutput
+Left 20Khz	0	4194304	Value	ValueOutput
+Right 25Hz	0	4194304	Value	ValueOutput
+Right 31Hz	0	4194304	Value	ValueOutput
+Right 40Hz	0	4194304	Value	ValueOutput
+Right 50Hz	0	4194304	Value	ValueOutput
+Right 63Hz	0	4194304	Value	ValueOutput
+Right 80Hz	0	4194304	Value	ValueOutput
+Right 100Hz	0	4194304	Value	ValueOutput
+Right 125Hz	0	4194304	Value	ValueOutput
+Right 160Hz	0	4194304	Value	ValueOutput
+Right 200Hz	0	4194304	Value	ValueOutput
+Right 250Hz	0	4194304	Value	ValueOutput
+Right 315Hz	0	4194304	Value	ValueOutput
+Right 400Hz	0	4194304	Value	ValueOutput
+Right 500Hz	0	4194304	Value	ValueOutput
+Right 630Hz	0	4194304	Value	ValueOutput
+Right 800Hz	0	4194304	Value	ValueOutput
+Right 1Khz	0	4194304	Value	ValueOutput
+Right 1.25Khz	0	4194304	Value	ValueOutput
+Right 1.6Khz	0	4194304	Value	ValueOutput
+Right 2Khz	0	4194304	Value	ValueOutput
+Right 2.5Khz	0	4194304	Value	ValueOutput
+Right 3.15Khz	0	4194304	Value	ValueOutput
+Right 4Khz	0	4194304	Value	ValueOutput
+Right 5Khz	0	4194304	Value	ValueOutput
+Right 6.3Khz	0	4194304	Value	ValueOutput
+Right 8Khz	0	4194304	Value	ValueOutput
+Right 10Khz	0	4194304	Value	ValueOutput
+Right 12.5Khz	0	4194304	Value	ValueOutput
+Right 16Khz	0	4194304	Value	ValueOutput
+Right 20Khz	0	4194304	Value	ValueOutput
+MasterGL	0	4194304	Value	ValueOutput
+L-HiPass OnOff	0	4194304	Value	ValueOutput
+L-HiPass	0	4194304	Value	ValueOutput
+L-LoPass OnOff	0	4194304	Value	ValueOutput
+L-LoPass	0	4194304	Value	ValueOutput
+L-Bell OnOff	0	4194304	Value	ValueOutput
+L-Bell Freq	0	4194304	Value	ValueOutput
+L-Bell Gain	0	4194304	Value	ValueOutput
+L-Bell Q	0	4194304	Value	ValueOutput
+R-HiPass OnOff	0	4194304	Value	ValueOutput
+R-HiPass	0	4194304	Value	ValueOutput
+R-LoPass OnOff	0	4194304	Value	ValueOutput
+R-LoPass	0	4194304	Value	ValueOutput
+R-Bell OnOff	0	4194304	Value	ValueOutput
+R-Bell Freq	0	4194304	Value	ValueOutput
+R-Bell Gain	0	4194304	Value	ValueOutput
+R-Bell Q	0	4194304	Value	ValueOutput
+MasterGR	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

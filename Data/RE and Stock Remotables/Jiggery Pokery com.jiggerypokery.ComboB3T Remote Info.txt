@@ -1,0 +1,136 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.ComboB3T
+
+Remotable	Min	Max	Input type	Output type
+Volume	0	4194304	Value	ValueOutput
+Expression Pedal	0	1	Toggle	ValueOutput
+Reverb Type	0	1	Toggle	ValueOutput
+Reverb	0	4194304	Value	ValueOutput
+Octave Transpose	0	2	Value	ValueOutput
+Rotary Speaker	0	1	Toggle	ValueOutput
+Rotary Speed	0	2	Value	ValueOutput
+Rotor Belt	0	1	Toggle	ValueOutput
+Horn Belt	0	1	Toggle	ValueOutput
+Pulley Select	0	2	Value	ValueOutput
+Crossover	0	4194304	Value	ValueOutput
+Horn Acceleration	0	4194304	Value	ValueOutput
+Rotor Acceleration	0	4194304	Value	ValueOutput
+Mic Angle	0	4194304	Value	ValueOutput
+Mic Height	0	4194304	Value	ValueOutput
+Amp Drive	0	4194304	Value	ValueOutput
+Amp Presence	0	4194304	Value	ValueOutput
+Amp Tone	0	4194304	Value	ValueOutput
+Amp Mode	0	4	Value	ValueOutput
+AC Hum	0	4194304	Value	ValueOutput
+Percussion	0	1	Toggle	ValueOutput
+Percussion Harmonic	0	1	Toggle	ValueOutput
+Percussion Volume	0	1	Toggle	ValueOutput
+Percussion Decay	0	1	Toggle	ValueOutput
+Percussion Cancel 1'	0	1	Toggle	ValueOutput
+Vibrato	0	1	Toggle	ValueOutput
+Vibrato Chorus	0	5	Value	ValueOutput
+Key Click	0	4194304	Value	ValueOutput
+Leakage	0	4194304	Value	ValueOutput
+DB 16' Preset 1	0	4194304	Value	ValueOutput
+DB 5-13' Preset 1	0	4194304	Value	ValueOutput
+DB 8' Preset 1	0	4194304	Value	ValueOutput
+DB 4' Preset 1	0	4194304	Value	ValueOutput
+DB 2-23' Preset 1	0	4194304	Value	ValueOutput
+DB 2' Preset 1	0	4194304	Value	ValueOutput
+DB 1-35' Preset 1	0	4194304	Value	ValueOutput
+DB 1-13' Preset 1	0	4194304	Value	ValueOutput
+DB 1' Preset 1	0	4194304	Value	ValueOutput
+DB 16' Preset 2	0	4194304	Value	ValueOutput
+DB 5-13' Preset 2	0	4194304	Value	ValueOutput
+DB 8' Preset 2	0	4194304	Value	ValueOutput
+DB 4' Preset 2	0	4194304	Value	ValueOutput
+DB 2-23' Preset 2	0	4194304	Value	ValueOutput
+DB 2' Preset 2	0	4194304	Value	ValueOutput
+DB 1-35' Preset 2	0	4194304	Value	ValueOutput
+DB 1-13' Preset 2	0	4194304	Value	ValueOutput
+DB 1' Preset 2	0	4194304	Value	ValueOutput
+DB 16' Preset 3	0	4194304	Value	ValueOutput
+DB 5-13' Preset 3	0	4194304	Value	ValueOutput
+DB 8' Preset 3	0	4194304	Value	ValueOutput
+DB 4' Preset 3	0	4194304	Value	ValueOutput
+DB 2-23' Preset 3	0	4194304	Value	ValueOutput
+DB 2' Preset 3	0	4194304	Value	ValueOutput
+DB 1-35' Preset 3	0	4194304	Value	ValueOutput
+DB 1-13' Preset 3	0	4194304	Value	ValueOutput
+DB 1' Preset 3	0	4194304	Value	ValueOutput
+DB 16' Preset 4	0	4194304	Value	ValueOutput
+DB 5-13' Preset 4	0	4194304	Value	ValueOutput
+DB 8' Preset 4	0	4194304	Value	ValueOutput
+DB 4' Preset 4	0	4194304	Value	ValueOutput
+DB 2-23' Preset 4	0	4194304	Value	ValueOutput
+DB 2' Preset 4	0	4194304	Value	ValueOutput
+DB 1-35' Preset 4	0	4194304	Value	ValueOutput
+DB 1-13' Preset 4	0	4194304	Value	ValueOutput
+DB 1' Preset 4	0	4194304	Value	ValueOutput
+DB 16' Preset 5	0	4194304	Value	ValueOutput
+DB 5-13' Preset 5	0	4194304	Value	ValueOutput
+DB 8' Preset 5	0	4194304	Value	ValueOutput
+DB 4' Preset 5	0	4194304	Value	ValueOutput
+DB 2-23' Preset 5	0	4194304	Value	ValueOutput
+DB 2' Preset 5	0	4194304	Value	ValueOutput
+DB 1-35' Preset 5	0	4194304	Value	ValueOutput
+DB 1-13' Preset 5	0	4194304	Value	ValueOutput
+DB 1' Preset 5	0	4194304	Value	ValueOutput
+DB 16' Preset 6	0	4194304	Value	ValueOutput
+DB 5-13' Preset 6	0	4194304	Value	ValueOutput
+DB 8' Preset 6	0	4194304	Value	ValueOutput
+DB 4' Preset 6	0	4194304	Value	ValueOutput
+DB 2-23' Preset 6	0	4194304	Value	ValueOutput
+DB 2' Preset 6	0	4194304	Value	ValueOutput
+DB 1-35' Preset 6	0	4194304	Value	ValueOutput
+DB 1-13' Preset 6	0	4194304	Value	ValueOutput
+DB 1' Preset 6	0	4194304	Value	ValueOutput
+DB 16' Preset 7	0	4194304	Value	ValueOutput
+DB 5-13' Preset 7	0	4194304	Value	ValueOutput
+DB 8' Preset 7	0	4194304	Value	ValueOutput
+DB 4' Preset 7	0	4194304	Value	ValueOutput
+DB 2-23' Preset 7	0	4194304	Value	ValueOutput
+DB 2' Preset 7	0	4194304	Value	ValueOutput
+DB 1-35' Preset 7	0	4194304	Value	ValueOutput
+DB 1-13' Preset 7	0	4194304	Value	ValueOutput
+DB 1' Preset 7	0	4194304	Value	ValueOutput
+DB 16' Preset 8	0	4194304	Value	ValueOutput
+DB 5-13' Preset 8	0	4194304	Value	ValueOutput
+DB 8' Preset 8	0	4194304	Value	ValueOutput
+DB 4' Preset 8	0	4194304	Value	ValueOutput
+DB 2-23' Preset 8	0	4194304	Value	ValueOutput
+DB 2' Preset 8	0	4194304	Value	ValueOutput
+DB 1-35' Preset 8	0	4194304	Value	ValueOutput
+DB 1-13' Preset 8	0	4194304	Value	ValueOutput
+DB 1' Preset 8	0	4194304	Value	ValueOutput
+DB 16' Preset 9	0	4194304	Value	ValueOutput
+DB 5-13' Preset 9	0	4194304	Value	ValueOutput
+DB 8' Preset 9	0	4194304	Value	ValueOutput
+DB 4' Preset 9	0	4194304	Value	ValueOutput
+DB 2-23' Preset 9	0	4194304	Value	ValueOutput
+DB 2' Preset 9	0	4194304	Value	ValueOutput
+DB 1-35' Preset 9	0	4194304	Value	ValueOutput
+DB 1-13' Preset 9	0	4194304	Value	ValueOutput
+DB 1' Preset 9	0	4194304	Value	ValueOutput
+DB 16' Preset 10	0	4194304	Value	ValueOutput
+DB 5-13' Preset 10	0	4194304	Value	ValueOutput
+DB 8' Preset 10	0	4194304	Value	ValueOutput
+DB 4' Preset 10	0	4194304	Value	ValueOutput
+DB 2-23' Preset 10	0	4194304	Value	ValueOutput
+DB 2' Preset 10	0	4194304	Value	ValueOutput
+DB 1-35' Preset 10	0	4194304	Value	ValueOutput
+DB 1-13' Preset 10	0	4194304	Value	ValueOutput
+DB 1' Preset 10	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Preset Selector	0	9	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

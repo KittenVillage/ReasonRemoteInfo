@@ -1,0 +1,54 @@
+Scope
+Manufacturer	Model
+ToneBoosters	vst.T3MO.TB_Module_v3 x64
+Note: Will match scope definitions for vst.T3MO.TB_Module_v3 x64 or vst.T3MO
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Wet out	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+LPFreq	0	4194304	Value	ValueOutput
+HPFreq	0	4194304	Value	ValueOutput
+Saturate	0	4194304	Value	ValueOutput
+Compress	0	4194304	Value	ValueOutput
+In pan	0	4194304	Value	ValueOutput
+Rotate	0	4194304	Value	ValueOutput
+Outgain	0	4194304	Value	ValueOutput
+LFO1freq	0	4194304	Value	ValueOutput
+LFO2freq	0	4194304	Value	ValueOutput
+DelyMod1	0	4194304	Value	ValueOutput
+DelyMod2	0	4194304	Value	ValueOutput
+GainMod1	0	4194304	Value	ValueOutput
+GainMod2	0	4194304	Value	ValueOutput
+Delaysnc	0	4194304	Value	ValueOutput
+LFO1sync	0	4194304	Value	ValueOutput
+LFO2sync	0	4194304	Value	ValueOutput
+LPFMod1	0	4194304	Value	ValueOutput
+LPFMod2	0	4194304	Value	ValueOutput
+Decimate	0	4194304	Value	ValueOutput
+DMFMod1	0	4194304	Value	ValueOutput
+DMFMod2	0	4194304	Value	ValueOutput
+LFO1wve	0	4194304	Value	ValueOutput
+LFO2wve	0	4194304	Value	ValueOutput
+Quantize	0	4194304	Value	ValueOutput
+QntMod1	0	4194304	Value	ValueOutput
+QntMod2	0	4194304	Value	ValueOutput
+LPFRes	0	4194304	Value	ValueOutput
+Oversmp	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

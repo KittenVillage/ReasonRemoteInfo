@@ -1,0 +1,104 @@
+Scope
+Manufacturer	Model
+Plugin Alliance	vst.bxrr.bx_rockrack x64
+Note: Will match scope definitions for vst.bxrr.bx_rockrack x64 or vst.bxrr
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Preset	0	4194304	Value	ValueOutput
+Oversamp	0	4194304	Value	ValueOutput
+BuSz	0	4194304	Value	ValueOutput
+Gate	0	4194304	Value	ValueOutput
+G Tresh	0	4194304	Value	ValueOutput
+G Range	0	4194304	Value	ValueOutput
+G Att	0	4194304	Value	ValueOutput
+G Hold	0	4194304	Value	ValueOutput
+G Rel	0	4194304	Value	ValueOutput
+G SC Flt	0	4194304	Value	ValueOutput
+Tight	0	4194304	Value	ValueOutput
+TFreq	0	4194304	Value	ValueOutput
+Smooth	0	4194304	Value	ValueOutput
+SFreq	0	4194304	Value	ValueOutput
+Amp	0	4194304	Value	ValueOutput
+Cab	0	4194304	Value	ValueOutput
+EC_Gain	0	4194304	Value	ValueOutput
+EC_Bass	0	4194304	Value	ValueOutput
+EC_Mid	0	4194304	Value	ValueOutput
+EC_Trebl	0	4194304	Value	ValueOutput
+EC_Prese	0	4194304	Value	ValueOutput
+EC_GainT	0	4194304	Value	ValueOutput
+EC_Brigh	0	4194304	Value	ValueOutput
+EC_Volum	0	4194304	Value	ValueOutput
+MC_Gain	0	4194304	Value	ValueOutput
+MC_Bass	0	4194304	Value	ValueOutput
+MC_Mid	0	4194304	Value	ValueOutput
+MC_Trebl	0	4194304	Value	ValueOutput
+MC_Prese	0	4194304	Value	ValueOutput
+MC_Volum	0	4194304	Value	ValueOutput
+ML_Gain	0	4194304	Value	ValueOutput
+ML_Bass	0	4194304	Value	ValueOutput
+ML_Mid	0	4194304	Value	ValueOutput
+ML_Trebl	0	4194304	Value	ValueOutput
+ML_Prese	0	4194304	Value	ValueOutput
+ML_Volum	0	4194304	Value	ValueOutput
+RL_Gain	0	4194304	Value	ValueOutput
+RL_Bass	0	4194304	Value	ValueOutput
+RL_Mid	0	4194304	Value	ValueOutput
+RL_Trebl	0	4194304	Value	ValueOutput
+RL_Prese	0	4194304	Value	ValueOutput
+RL_Volum	0	4194304	Value	ValueOutput
+EL_Gain	0	4194304	Value	ValueOutput
+EL_Bass	0	4194304	Value	ValueOutput
+EL_LoMid	0	4194304	Value	ValueOutput
+EL_HiMid	0	4194304	Value	ValueOutput
+EL_Trebl	0	4194304	Value	ValueOutput
+EL_Conto	0	4194304	Value	ValueOutput
+EL_Prese	0	4194304	Value	ValueOutput
+EL_GainT	0	4194304	Value	ValueOutput
+EL_Volum	0	4194304	Value	ValueOutput
+JH_Gain	0	4194304	Value	ValueOutput
+JH_Bass	0	4194304	Value	ValueOutput
+JH_Mid	0	4194304	Value	ValueOutput
+JH_Trebl	0	4194304	Value	ValueOutput
+JH_Warm	0	4194304	Value	ValueOutput
+JH_Prese	0	4194304	Value	ValueOutput
+JH_Volum	0	4194304	Value	ValueOutput
+JC_Gain	0	4194304	Value	ValueOutput
+JC_Bass	0	4194304	Value	ValueOutput
+JC_Mid	0	4194304	Value	ValueOutput
+JC_Trebl	0	4194304	Value	ValueOutput
+JC_Prese	0	4194304	Value	ValueOutput
+JC_Brigh	0	4194304	Value	ValueOutput
+JC_Volum	0	4194304	Value	ValueOutput
+EQ	0	4194304	Value	ValueOutput
+EQ1	0	4194304	Value	ValueOutput
+EQ2	0	4194304	Value	ValueOutput
+EQ3	0	4194304	Value	ValueOutput
+EQ4	0	4194304	Value	ValueOutput
+EQ5	0	4194304	Value	ValueOutput
+Shred	0	4194304	Value	ValueOutput
+ShrAmt	0	4194304	Value	ValueOutput
+Tuner	0	4194304	Value	ValueOutput
+Mute	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+DlyTime	0	4194304	Value	ValueOutput
+DlyMix	0	4194304	Value	ValueOutput
+DlyFB	0	4194304	Value	ValueOutput
+DlyLoFi	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

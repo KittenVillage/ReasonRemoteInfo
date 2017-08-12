@@ -1,0 +1,44 @@
+Scope
+Manufacturer	Model
+D16 Group Audio Software	vst.RdP7.Redoptor x64
+Note: Will match scope definitions for vst.RdP7.Redoptor x64 or vst.RdP7
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Preamp Gain	0	4194304	Value	ValueOutput
+Low Cut	0	4194304	Value	ValueOutput
+High Cut	0	4194304	Value	ValueOutput
+Tube Bias	0	4194304	Value	ValueOutput
+Tone	0	4194304	Value	ValueOutput
+Brightness	0	4194304	Value	ValueOutput
+Bass Frequency	0	4194304	Value	ValueOutput
+Bass Gain	0	4194304	Value	ValueOutput
+Bass Bandwidth	0	4194304	Value	ValueOutput
+Middle Frequenc	0	4194304	Value	ValueOutput
+Middle Gain	0	4194304	Value	ValueOutput
+Middle Bandwidt	0	4194304	Value	ValueOutput
+Treble Frequenc	0	4194304	Value	ValueOutput
+Treble Gain	0	4194304	Value	ValueOutput
+Treble Bandwidt	0	4194304	Value	ValueOutput
+Presence Freque	0	4194304	Value	ValueOutput
+Presence Gain	0	4194304	Value	ValueOutput
+Presence Bandwi	0	4194304	Value	ValueOutput
+FX	0	4194304	Value	ValueOutput
+Output Volume	0	4194304	Value	ValueOutput
+High Cut On/Off	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

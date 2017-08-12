@@ -1,0 +1,49 @@
+Scope
+Manufacturer	Model
+ToneBoosters	vst.T3IS.TB_Isone_v3 x64
+Note: Will match scope definitions for vst.T3IS.TB_Isone_v3 x64 or vst.T3IS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Spk HP	0	4194304	Value	ValueOutput
+Spk Mid	0	4194304	Value	ValueOutput
+Spk LP	0	4194304	Value	ValueOutput
+Spk HPF	0	4194304	Value	ValueOutput
+Spk HPG	0	4194304	Value	ValueOutput
+Spk MidF	0	4194304	Value	ValueOutput
+Spk MidG	0	4194304	Value	ValueOutput
+Spk LPF	0	4194304	Value	ValueOutput
+Spk LPG	0	4194304	Value	ValueOutput
+Spk size	0	4194304	Value	ValueOutput
+Spk dist	0	4194304	Value	ValueOutput
+Spk mode	0	4194304	Value	ValueOutput
+Spk angl	0	4194304	Value	ValueOutput
+Room sim	0	4194304	Value	ValueOutput
+Room ER	0	4194304	Value	ValueOutput
+Room T60	0	4194304	Value	ValueOutput
+Room dif	0	4194304	Value	ValueOutput
+Room siz	0	4194304	Value	ValueOutput
+Outgain	0	4194304	Value	ValueOutput
+HRTF eff	0	4194304	Value	ValueOutput
+HRTF ear	0	4194304	Value	ValueOutput
+HRTF hd	0	4194304	Value	ValueOutput
+CSC	0	4194304	Value	ValueOutput
+SpkPrSet	0	4194304	Value	ValueOutput
+RmPreSet	0	4194304	Value	ValueOutput
+P180	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

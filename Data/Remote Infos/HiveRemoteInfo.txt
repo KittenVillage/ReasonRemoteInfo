@@ -1,0 +1,304 @@
+Scope
+Manufacturer	Model
+u-he	vst.hIVE.Hive
+Note: Will match scope definitions for vst.hIVE.Hive or vst.hIVE
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+main: Output	0	4194304	Value	ValueOutput
+Ctrl: Synth Engine	0	4194304	Value	ValueOutput
+Ctrl: Solo Oscillator1	0	4194304	Value	ValueOutput
+Ctrl: S_Sub1	0	4194304	Value	ValueOutput
+Ctrl: Solo Oscillator2	0	4194304	Value	ValueOutput
+Ctrl: S_Sub2	0	4194304	Value	ValueOutput
+Ctrl: Solo Filter1	0	4194304	Value	ValueOutput
+Ctrl: Solo Filter2	0	4194304	Value	ValueOutput
+VCC: Voices	0	4194304	Value	ValueOutput
+VCC: Mode	0	4194304	Value	ValueOutput
+VCC: GlideMode	0	4194304	Value	ValueOutput
+VCC: Glide	0	4194304	Value	ValueOutput
+VCC: PitchBend Up	0	4194304	Value	ValueOutput
+VCC: PitchBend Down	0	4194304	Value	ValueOutput
+VCC: Transpose	0	4194304	Value	ValueOutput
+VCC: FineTuneCents	0	4194304	Value	ValueOutput
+Osc1: Octave	0	4194304	Value	ValueOutput
+Osc1: Semitone	0	4194304	Value	ValueOutput
+Osc1: Detune	0	4194304	Value	ValueOutput
+Osc1: Vibrato	0	4194304	Value	ValueOutput
+Osc1: Trigger	0	4194304	Value	ValueOutput
+Osc1: Wave	0	4194304	Value	ValueOutput
+Osc1: Unison	0	4194304	Value	ValueOutput
+Osc1: Volume	0	4194304	Value	ValueOutput
+Osc1: Pan	0	4194304	Value	ValueOutput
+Osc1: Width	0	4194304	Value	ValueOutput
+Osc1: Sub Tune	0	4194304	Value	ValueOutput
+Osc1: Sub Wave	0	4194304	Value	ValueOutput
+Osc1: Sub Volume	0	4194304	Value	ValueOutput
+Filter1: inputOsc1	0	4194304	Value	ValueOutput
+Filter1: inputSub1	0	4194304	Value	ValueOutput
+Filter1: inputOsc2	0	4194304	Value	ValueOutput
+Filter1: inputSub2	0	4194304	Value	ValueOutput
+Filter1: Type	0	4194304	Value	ValueOutput
+Filter1: Input Gain	0	4194304	Value	ValueOutput
+Filter1: Cutoff	0	4194304	Value	ValueOutput
+Filter1: Resonance	0	4194304	Value	ValueOutput
+Filter1: KeyTrack	0	4194304	Value	ValueOutput
+Filter1: Env Depth	0	4194304	Value	ValueOutput
+Filter1: Env No	0	4194304	Value	ValueOutput
+Filter1: LFO Depth	0	4194304	Value	ValueOutput
+Filter1: LFO No	0	4194304	Value	ValueOutput
+Filter1: Volume	0	4194304	Value	ValueOutput
+AmpEnv1: Attack	0	4194304	Value	ValueOutput
+AmpEnv1: Decay	0	4194304	Value	ValueOutput
+AmpEnv1: Sustain	0	4194304	Value	ValueOutput
+AmpEnv1: Release	0	4194304	Value	ValueOutput
+AmpEnv1: Velocity	0	4194304	Value	ValueOutput
+AmpEnv1: Trigger	0	4194304	Value	ValueOutput
+ModEnv1: Attack	0	4194304	Value	ValueOutput
+ModEnv1: Decay	0	4194304	Value	ValueOutput
+ModEnv1: Sustain	0	4194304	Value	ValueOutput
+ModEnv1: Release	0	4194304	Value	ValueOutput
+ModEnv1: Velocity	0	4194304	Value	ValueOutput
+ModEnv1: Trigger	0	4194304	Value	ValueOutput
+LFO1: Sync	0	4194304	Value	ValueOutput
+LFO1: Rate	0	4194304	Value	ValueOutput
+Osc2: Octave	0	4194304	Value	ValueOutput
+Osc2: Semitone	0	4194304	Value	ValueOutput
+Osc2: Detune	0	4194304	Value	ValueOutput
+Osc2: Vibrato	0	4194304	Value	ValueOutput
+Osc2: Trigger	0	4194304	Value	ValueOutput
+Osc2: Wave	0	4194304	Value	ValueOutput
+Osc2: Unison	0	4194304	Value	ValueOutput
+Osc2: Volume	0	4194304	Value	ValueOutput
+Osc2: Pan	0	4194304	Value	ValueOutput
+Osc2: Width	0	4194304	Value	ValueOutput
+Osc2: Sub Tune	0	4194304	Value	ValueOutput
+Osc2: Sub Wave	0	4194304	Value	ValueOutput
+Osc2: Sub Volume	0	4194304	Value	ValueOutput
+Filter2: inputOsc1	0	4194304	Value	ValueOutput
+Filter2: inputSub1	0	4194304	Value	ValueOutput
+Filter2: inputOsc2	0	4194304	Value	ValueOutput
+Filter2: inputSub2	0	4194304	Value	ValueOutput
+Filter2: inputFilter	0	4194304	Value	ValueOutput
+Filter2: Type	0	4194304	Value	ValueOutput
+Filter2: Input Gain	0	4194304	Value	ValueOutput
+Filter2: Cutoff	0	4194304	Value	ValueOutput
+Filter2: Resonance	0	4194304	Value	ValueOutput
+Filter2: KeyTrack	0	4194304	Value	ValueOutput
+Filter2: Env Depth	0	4194304	Value	ValueOutput
+Filter2: Env No	0	4194304	Value	ValueOutput
+Filter2: LFO Depth	0	4194304	Value	ValueOutput
+Filter2: LFO No	0	4194304	Value	ValueOutput
+Filter2: Volume	0	4194304	Value	ValueOutput
+AmpEnv2: Attack	0	4194304	Value	ValueOutput
+AmpEnv2: Decay	0	4194304	Value	ValueOutput
+AmpEnv2: Sustain	0	4194304	Value	ValueOutput
+AmpEnv2: Release	0	4194304	Value	ValueOutput
+AmpEnv2: Velocity	0	4194304	Value	ValueOutput
+AmpEnv2: Trigger	0	4194304	Value	ValueOutput
+ModEnv2: Attack	0	4194304	Value	ValueOutput
+ModEnv2: Decay	0	4194304	Value	ValueOutput
+ModEnv2: Sustain	0	4194304	Value	ValueOutput
+ModEnv2: Release	0	4194304	Value	ValueOutput
+ModEnv2: Velocity	0	4194304	Value	ValueOutput
+ModEnv2: Trigger	0	4194304	Value	ValueOutput
+LFO2: Sync	0	4194304	Value	ValueOutput
+LFO2: Rate	0	4194304	Value	ValueOutput
+VLFO: Delay	0	4194304	Value	ValueOutput
+VLFO: Rate	0	4194304	Value	ValueOutput
+Distort: Type	0	4194304	Value	ValueOutput
+Distort: Amount	0	4194304	Value	ValueOutput
+Distort: Tone	0	4194304	Value	ValueOutput
+Distort: Mix	0	4194304	Value	ValueOutput
+Distort: Rate	0	4194304	Value	ValueOutput
+Distort: Crush	0	4194304	Value	ValueOutput
+Chorus: Type	0	4194304	Value	ValueOutput
+Chorus: Rate	0	4194304	Value	ValueOutput
+Chorus: Depth	0	4194304	Value	ValueOutput
+Chorus: Wet	0	4194304	Value	ValueOutput
+Phaser: Type	0	4194304	Value	ValueOutput
+Phaser: Rate	0	4194304	Value	ValueOutput
+Phaser: Feedback	0	4194304	Value	ValueOutput
+Phaser: Stereo	0	4194304	Value	ValueOutput
+Phaser: Phase	0	4194304	Value	ValueOutput
+Phaser: Wet	0	4194304	Value	ValueOutput
+EQ: Bass Gain	0	4194304	Value	ValueOutput
+EQ: Bass Freq	0	4194304	Value	ValueOutput
+EQ: Mid Gain	0	4194304	Value	ValueOutput
+EQ: Mid Freq	0	4194304	Value	ValueOutput
+EQ: High Gain	0	4194304	Value	ValueOutput
+EQ: High Freq	0	4194304	Value	ValueOutput
+Delay: Mode	0	4194304	Value	ValueOutput
+Delay: Left Delay	0	4194304	Value	ValueOutput
+Delay: Right Delay	0	4194304	Value	ValueOutput
+Delay: Width	0	4194304	Value	ValueOutput
+Delay: DryWetMix	0	4194304	Value	ValueOutput
+Delay: Feedback	0	4194304	Value	ValueOutput
+Delay: HighPass	0	4194304	Value	ValueOutput
+Delay: LowPass	0	4194304	Value	ValueOutput
+Delay: Diffuse	0	4194304	Value	ValueOutput
+Reverb: PreDelay	0	4194304	Value	ValueOutput
+Reverb: Damp	0	4194304	Value	ValueOutput
+Reverb: Decay	0	4194304	Value	ValueOutput
+Reverb: Size	0	4194304	Value	ValueOutput
+Reverb: Tone	0	4194304	Value	ValueOutput
+Reverb: Width	0	4194304	Value	ValueOutput
+Reverb: DryWetMix	0	4194304	Value	ValueOutput
+Comp: Amount	0	4194304	Value	ValueOutput
+Comp: Attack	0	4194304	Value	ValueOutput
+Comp: Release	0	4194304	Value	ValueOutput
+Comp: Mix	0	4194304	Value	ValueOutput
+Comp: Output	0	4194304	Value	ValueOutput
+CLK: Multiply	0	4194304	Value	ValueOutput
+CLK: TimeBase	0	4194304	Value	ValueOutput
+CLK: Swing	0	4194304	Value	ValueOutput
+ARP: Direction	0	4194304	Value	ValueOutput
+ARP: Octaves	0	4194304	Value	ValueOutput
+ARP: Multiply	0	4194304	Value	ValueOutput
+ARP: Restart	0	4194304	Value	ValueOutput
+ARP: OnOff	0	4194304	Value	ValueOutput
+ARP: Order	0	4194304	Value	ValueOutput
+SEQ: Gate 01	0	4194304	Value	ValueOutput
+SEQ: Gate 02	0	4194304	Value	ValueOutput
+SEQ: Gate 03	0	4194304	Value	ValueOutput
+SEQ: Gate 04	0	4194304	Value	ValueOutput
+SEQ: Gate 05	0	4194304	Value	ValueOutput
+SEQ: Gate 06	0	4194304	Value	ValueOutput
+SEQ: Gate 07	0	4194304	Value	ValueOutput
+SEQ: Gate 08	0	4194304	Value	ValueOutput
+SEQ: Gate 09	0	4194304	Value	ValueOutput
+SEQ: Gate 10	0	4194304	Value	ValueOutput
+SEQ: Gate 11	0	4194304	Value	ValueOutput
+SEQ: Gate 12	0	4194304	Value	ValueOutput
+SEQ: Gate 13	0	4194304	Value	ValueOutput
+SEQ: Gate 14	0	4194304	Value	ValueOutput
+SEQ: Gate 15	0	4194304	Value	ValueOutput
+SEQ: Gate 16	0	4194304	Value	ValueOutput
+SEQ: Transpose 01	0	4194304	Value	ValueOutput
+SEQ: Transpose 02	0	4194304	Value	ValueOutput
+SEQ: Transpose 03	0	4194304	Value	ValueOutput
+SEQ: Transpose 04	0	4194304	Value	ValueOutput
+SEQ: Transpose 05	0	4194304	Value	ValueOutput
+SEQ: Transpose 06	0	4194304	Value	ValueOutput
+SEQ: Transpose 07	0	4194304	Value	ValueOutput
+SEQ: Transpose 08	0	4194304	Value	ValueOutput
+SEQ: Transpose 09	0	4194304	Value	ValueOutput
+SEQ: Transpose 10	0	4194304	Value	ValueOutput
+SEQ: Transpose 11	0	4194304	Value	ValueOutput
+SEQ: Transpose 12	0	4194304	Value	ValueOutput
+SEQ: Transpose 13	0	4194304	Value	ValueOutput
+SEQ: Transpose 14	0	4194304	Value	ValueOutput
+SEQ: Transpose 15	0	4194304	Value	ValueOutput
+SEQ: Transpose 16	0	4194304	Value	ValueOutput
+SEQ: Velocity 01	0	4194304	Value	ValueOutput
+SEQ: Velocity 02	0	4194304	Value	ValueOutput
+SEQ: Velocity 03	0	4194304	Value	ValueOutput
+SEQ: Velocity 04	0	4194304	Value	ValueOutput
+SEQ: Velocity 05	0	4194304	Value	ValueOutput
+SEQ: Velocity 06	0	4194304	Value	ValueOutput
+SEQ: Velocity 07	0	4194304	Value	ValueOutput
+SEQ: Velocity 08	0	4194304	Value	ValueOutput
+SEQ: Velocity 09	0	4194304	Value	ValueOutput
+SEQ: Velocity 10	0	4194304	Value	ValueOutput
+SEQ: Velocity 11	0	4194304	Value	ValueOutput
+SEQ: Velocity 12	0	4194304	Value	ValueOutput
+SEQ: Velocity 13	0	4194304	Value	ValueOutput
+SEQ: Velocity 14	0	4194304	Value	ValueOutput
+SEQ: Velocity 15	0	4194304	Value	ValueOutput
+SEQ: Velocity 16	0	4194304	Value	ValueOutput
+SEQ: Expression 01	0	4194304	Value	ValueOutput
+SEQ: Expression 02	0	4194304	Value	ValueOutput
+SEQ: Expression 03	0	4194304	Value	ValueOutput
+SEQ: Expression 04	0	4194304	Value	ValueOutput
+SEQ: Expression 05	0	4194304	Value	ValueOutput
+SEQ: Expression 06	0	4194304	Value	ValueOutput
+SEQ: Expression 07	0	4194304	Value	ValueOutput
+SEQ: Expression 08	0	4194304	Value	ValueOutput
+SEQ: Expression 09	0	4194304	Value	ValueOutput
+SEQ: Expression 10	0	4194304	Value	ValueOutput
+SEQ: Expression 11	0	4194304	Value	ValueOutput
+SEQ: Expression 12	0	4194304	Value	ValueOutput
+SEQ: Expression 13	0	4194304	Value	ValueOutput
+SEQ: Expression 14	0	4194304	Value	ValueOutput
+SEQ: Expression 15	0	4194304	Value	ValueOutput
+SEQ: Expression 16	0	4194304	Value	ValueOutput
+SEQ: Attack	0	4194304	Value	ValueOutput
+SEQ: Decay	0	4194304	Value	ValueOutput
+SEQ: Gate	0	4194304	Value	ValueOutput
+SEQ: Steps	0	4194304	Value	ValueOutput
+SEQ: Control2	0	4194304	Value	ValueOutput
+SEQ: Dynamic Velocity	0	4194304	Value	ValueOutput
+MM1: Source	0	4194304	Value	ValueOutput
+MM1: Via Source	0	4194304	Value	ValueOutput
+MM1: Depth1	0	4194304	Value	ValueOutput
+MM1: Depth2	0	4194304	Value	ValueOutput
+MM2: Source	0	4194304	Value	ValueOutput
+MM2: Via Source	0	4194304	Value	ValueOutput
+MM2: Depth1	0	4194304	Value	ValueOutput
+MM2: Depth2	0	4194304	Value	ValueOutput
+MM3: Source	0	4194304	Value	ValueOutput
+MM3: Via Source	0	4194304	Value	ValueOutput
+MM3: Depth1	0	4194304	Value	ValueOutput
+MM3: Depth2	0	4194304	Value	ValueOutput
+MM4: Source	0	4194304	Value	ValueOutput
+MM4: Via Source	0	4194304	Value	ValueOutput
+MM4: Depth1	0	4194304	Value	ValueOutput
+MM4: Depth2	0	4194304	Value	ValueOutput
+MM5: Source	0	4194304	Value	ValueOutput
+MM5: Via Source	0	4194304	Value	ValueOutput
+MM5: Depth1	0	4194304	Value	ValueOutput
+MM5: Depth2	0	4194304	Value	ValueOutput
+MM6: Source	0	4194304	Value	ValueOutput
+MM6: Via Source	0	4194304	Value	ValueOutput
+MM6: Depth1	0	4194304	Value	ValueOutput
+MM6: Depth2	0	4194304	Value	ValueOutput
+MM7: Source	0	4194304	Value	ValueOutput
+MM7: Via Source	0	4194304	Value	ValueOutput
+MM7: Depth1	0	4194304	Value	ValueOutput
+MM7: Depth2	0	4194304	Value	ValueOutput
+MM8: Source	0	4194304	Value	ValueOutput
+MM8: Via Source	0	4194304	Value	ValueOutput
+MM8: Depth1	0	4194304	Value	ValueOutput
+MM8: Depth2	0	4194304	Value	ValueOutput
+MM9: Source	0	4194304	Value	ValueOutput
+MM9: Via Source	0	4194304	Value	ValueOutput
+MM9: Depth1	0	4194304	Value	ValueOutput
+MM9: Depth2	0	4194304	Value	ValueOutput
+MM10: Source	0	4194304	Value	ValueOutput
+MM10: Via Source	0	4194304	Value	ValueOutput
+MM10: Depth1	0	4194304	Value	ValueOutput
+MM10: Depth2	0	4194304	Value	ValueOutput
+MM11: Source	0	4194304	Value	ValueOutput
+MM11: Via Source	0	4194304	Value	ValueOutput
+MM11: Depth1	0	4194304	Value	ValueOutput
+MM11: Depth2	0	4194304	Value	ValueOutput
+MM12: Source	0	4194304	Value	ValueOutput
+MM12: Via Source	0	4194304	Value	ValueOutput
+MM12: Depth1	0	4194304	Value	ValueOutput
+MM12: Depth2	0	4194304	Value	ValueOutput
+SEQ: Mode	0	4194304	Value	ValueOutput
+VLFO: Polarity	0	4194304	Value	ValueOutput
+LFO1: Restart	0	4194304	Value	ValueOutput
+LFO1: Waveform	0	4194304	Value	ValueOutput
+LFO1: Phase	0	4194304	Value	ValueOutput
+LFO1: Polarity	0	4194304	Value	ValueOutput
+LFO2: Restart	0	4194304	Value	ValueOutput
+LFO2: Waveform	0	4194304	Value	ValueOutput
+LFO2: Phase	0	4194304	Value	ValueOutput
+LFO2: Polarity	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

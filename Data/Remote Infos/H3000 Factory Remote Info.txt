@@ -1,0 +1,246 @@
+Scope
+Manufacturer	Model
+Eventide	vst.Fact.H3000 Factory
+Note: Will match scope definitions for vst.Fact.H3000 Factory or vst.Fact
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Softkey1 Polari	0	4194304	Value	ValueOutput
+Softkey2 Polari	0	4194304	Value	ValueOutput
+Softkey3 Polari	0	4194304	Value	ValueOutput
+Softkey4 Polari	0	4194304	Value	ValueOutput
+Tempo Based	0	4194304	Value	ValueOutput
+Wet/Dry Mix	0	4194304	Value	ValueOutput
+Input Level	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+FG Type	0	4194304	Value	ValueOutput
+FG Amplitude	0	4194304	Value	ValueOutput
+FG Rate	0	4194304	Value	ValueOutput
+FG Tempo Based	0	4194304	Value	ValueOutput
+FG Beats per Cy	0	4194304	Value	ValueOutput
+FG Trigger	0	4194304	Value	ValueOutput
+Wet/Dry Mix Mod	0	4194304	Value	ValueOutput
+Wet/Dry Mix Min	0	4194304	Value	ValueOutput
+Wet/Dry Mix Max	0	4194304	Value	ValueOutput
+FG Amplitude Mo	0	4194304	Value	ValueOutput
+FG Amplitude Mi	0	4194304	Value	ValueOutput
+FG Amplitude Ma	0	4194304	Value	ValueOutput
+FG Rate Mod	0	4194304	Value	ValueOutput
+FG Rate Min	0	4194304	Value	ValueOutput
+FG Rate Max	0	4194304	Value	ValueOutput
+FG Beats per Cy	0	4194304	Value	ValueOutput
+FG Beats per Cy	0	4194304	Value	ValueOutput
+FG Trigger Mod	0	4194304	Value	ValueOutput
+FG Trigger Min	0	4194304	Value	ValueOutput
+FG Trigger Max	0	4194304	Value	ValueOutput
+Delay 1 Amount	0	4194304	Value	ValueOutput
+Delay 2 Amount	0	4194304	Value	ValueOutput
+Delay 1 Mod Amo	0	4194304	Value	ValueOutput
+Delay 2 Mod Amo	0	4194304	Value	ValueOutput
+Delay 1 Feedbac	0	4194304	Value	ValueOutput
+Delay 2 Feedbac	0	4194304	Value	ValueOutput
+Delay 1 Loop En	0	4194304	Value	ValueOutput
+Delay 2 Loop En	0	4194304	Value	ValueOutput
+Delay 1 Highcut	0	4194304	Value	ValueOutput
+Delay 2 Highcut	0	4194304	Value	ValueOutput
+Delay 1 Highcut	0	4194304	Value	ValueOutput
+Delay 2 Highcut	0	4194304	Value	ValueOutput
+Delay 1 Mod Sou	0	4194304	Value	ValueOutput
+Delay 1 Mod Low	0	4194304	Value	ValueOutput
+Delay 1 Mod Hig	0	4194304	Value	ValueOutput
+Delay 2 Mod Sou	0	4194304	Value	ValueOutput
+Delay 2 Mod Low	0	4194304	Value	ValueOutput
+Delay 2 Mod Hig	0	4194304	Value	ValueOutput
+Delay 1 Loop Mo	0	4194304	Value	ValueOutput
+Delay 1 Loop Mo	0	4194304	Value	ValueOutput
+Delay 1 Loop Mo	0	4194304	Value	ValueOutput
+Delay 2 Loop Mo	0	4194304	Value	ValueOutput
+Delay 2 Loop Mo	0	4194304	Value	ValueOutput
+Delay 2 Loop Mo	0	4194304	Value	ValueOutput
+Delay 1 Audio I	0	4194304	Value	ValueOutput
+Delay 2 Audio I	0	4194304	Value	ValueOutput
+Delay 1 Mod Inp	0	4194304	Value	ValueOutput
+Delay 2 Mod Inp	0	4194304	Value	ValueOutput
+Delay 1 Filter 	0	4194304	Value	ValueOutput
+Delay 2 Filter 	0	4194304	Value	ValueOutput
+LFO 1 Shape	0	4194304	Value	ValueOutput
+LFO 2 Shape	0	4194304	Value	ValueOutput
+LFO 1 Freq	0	4194304	Value	ValueOutput
+LFO 2 Freq	0	4194304	Value	ValueOutput
+LFO 1 Beats	0	4194304	Value	ValueOutput
+LFO 2 Beats	0	4194304	Value	ValueOutput
+LFO 1 Freq Moda	0	4194304	Value	ValueOutput
+LFO 2 Freq Moda	0	4194304	Value	ValueOutput
+LFO 1 Threshold	0	4194304	Value	ValueOutput
+LFO 2 Threshold	0	4194304	Value	ValueOutput
+LFO 1 Freq Mods	0	4194304	Value	ValueOutput
+LFO 1 Mod Low	0	4194304	Value	ValueOutput
+LFO 1 Mod High	0	4194304	Value	ValueOutput
+LFO 1 Mod Low B	0	4194304	Value	ValueOutput
+LFO 1 Mod High 	0	4194304	Value	ValueOutput
+LFO 2 Freq Mods	0	4194304	Value	ValueOutput
+LFO 2 Mod Low	0	4194304	Value	ValueOutput
+LFO 2 Mod High	0	4194304	Value	ValueOutput
+LFO 2 Mod Low B	0	4194304	Value	ValueOutput
+LFO 2 Mod High 	0	4194304	Value	ValueOutput
+LFO 1 Mod Input	0	4194304	Value	ValueOutput
+LFO 2 Mod Input	0	4194304	Value	ValueOutput
+LFO 1 Tempo Bas	0	4194304	Value	ValueOutput
+LFO 2 Tempo Bas	0	4194304	Value	ValueOutput
+LFO 1 Trigger	0	4194304	Value	ValueOutput
+LFO 2 Trigger	0	4194304	Value	ValueOutput
+Pitch Shift 1 S	0	4194304	Value	ValueOutput
+Pitch Shift 2 S	0	4194304	Value	ValueOutput
+Pitch Shift 1 S	0	4194304	Value	ValueOutput
+Pitch Shift 2 S	0	4194304	Value	ValueOutput
+Pitch Shift 1 D	0	4194304	Value	ValueOutput
+Pitch Shift 2 D	0	4194304	Value	ValueOutput
+Pitch Shift 1 S	0	4194304	Value	ValueOutput
+Pitch Shift 2 S	0	4194304	Value	ValueOutput
+Pitch Shift 1 L	0	4194304	Value	ValueOutput
+Pitch Shift 2 L	0	4194304	Value	ValueOutput
+Pitch Shift 1 H	0	4194304	Value	ValueOutput
+Pitch Shift 2 H	0	4194304	Value	ValueOutput
+Pitch Shift 1 X	0	4194304	Value	ValueOutput
+Pitch Shift 2 X	0	4194304	Value	ValueOutput
+Pitch Shift 1 S	0	4194304	Value	ValueOutput
+Pitch Shift 2 S	0	4194304	Value	ValueOutput
+Pitch Shift 1 D	0	4194304	Value	ValueOutput
+Pitch Shift 2 D	0	4194304	Value	ValueOutput
+Pitch Shift 1 S	0	4194304	Value	ValueOutput
+Pitch Shift 1 M	0	4194304	Value	ValueOutput
+Pitch Shift 1 M	0	4194304	Value	ValueOutput
+Pitch Shift 2 S	0	4194304	Value	ValueOutput
+Pitch Shift 2 M	0	4194304	Value	ValueOutput
+Pitch Shift 2 M	0	4194304	Value	ValueOutput
+Pitch Shift 1 D	0	4194304	Value	ValueOutput
+Pitch Shift 1 D	0	4194304	Value	ValueOutput
+Pitch Shift 1 D	0	4194304	Value	ValueOutput
+Pitch Shift 2 D	0	4194304	Value	ValueOutput
+Pitch Shift 2 D	0	4194304	Value	ValueOutput
+Pitch Shift 2 D	0	4194304	Value	ValueOutput
+Pitch Shift 1 A	0	4194304	Value	ValueOutput
+Pitch Shift 2 A	0	4194304	Value	ValueOutput
+Pitch Shift 1 S	0	4194304	Value	ValueOutput
+Pitch Shift 2 S	0	4194304	Value	ValueOutput
+Pitch Shift 1 D	0	4194304	Value	ValueOutput
+Pitch Shift 2 D	0	4194304	Value	ValueOutput
+Ampmod 1 Amount	0	4194304	Value	ValueOutput
+Ampmod 2 Amount	0	4194304	Value	ValueOutput
+Ampmod 1 Offset	0	4194304	Value	ValueOutput
+Ampmod 2 Offset	0	4194304	Value	ValueOutput
+Ampmod 1 Audio 	0	4194304	Value	ValueOutput
+Ampmod 2 Audio 	0	4194304	Value	ValueOutput
+AmpMod 1 Mod In	0	4194304	Value	ValueOutput
+AmpMod 2 Mod In	0	4194304	Value	ValueOutput
+Scale 1 amount	0	4194304	Value	ValueOutput
+Scale 2 amount	0	4194304	Value	ValueOutput
+Scale 1 modsour	0	4194304	Value	ValueOutput
+Scale 1 Mod Low	0	4194304	Value	ValueOutput
+Scale 1 Mod Hig	0	4194304	Value	ValueOutput
+Scale 2 modsour	0	4194304	Value	ValueOutput
+Scale 2 Mod Low	0	4194304	Value	ValueOutput
+Scale 2 Mod Hig	0	4194304	Value	ValueOutput
+Scale 1 Audio I	0	4194304	Value	ValueOutput
+Scale 2 Audio I	0	4194304	Value	ValueOutput
+Envelope 1 Atta	0	4194304	Value	ValueOutput
+Envelope 2 Atta	0	4194304	Value	ValueOutput
+Envelope 1 Deca	0	4194304	Value	ValueOutput
+Envelope 2 Deca	0	4194304	Value	ValueOutput
+Envelope 1 Duck	0	4194304	Value	ValueOutput
+Envelope 2 Duck	0	4194304	Value	ValueOutput
+Envelope 1 Duck	0	4194304	Value	ValueOutput
+Envelope 2 Duck	0	4194304	Value	ValueOutput
+Envelope 1 Audi	0	4194304	Value	ValueOutput
+Envelope 2 Audi	0	4194304	Value	ValueOutput
+Filter 1 Filter	0	4194304	Value	ValueOutput
+Filter 2 Filter	0	4194304	Value	ValueOutput
+Filter 1 Filter	0	4194304	Value	ValueOutput
+Filter 2 Filter	0	4194304	Value	ValueOutput
+Filter 1 Filter	0	4194304	Value	ValueOutput
+Filter 2 Filter	0	4194304	Value	ValueOutput
+Filter 1 Freq M	0	4194304	Value	ValueOutput
+Filter 2 Freq M	0	4194304	Value	ValueOutput
+Filter 1 Freq M	0	4194304	Value	ValueOutput
+Filter 1 Freq M	0	4194304	Value	ValueOutput
+Filter 1 Freq M	0	4194304	Value	ValueOutput
+Filter 2 Freq M	0	4194304	Value	ValueOutput
+Filter 2 Freq M	0	4194304	Value	ValueOutput
+Filter 2 Freq M	0	4194304	Value	ValueOutput
+Filter 1 Q Mods	0	4194304	Value	ValueOutput
+Filter 1 Q Mod 	0	4194304	Value	ValueOutput
+Filter 1 Q Mod 	0	4194304	Value	ValueOutput
+Filter 2 Q Mods	0	4194304	Value	ValueOutput
+Filter 2 Q Mod 	0	4194304	Value	ValueOutput
+Filter 2 Q Mod 	0	4194304	Value	ValueOutput
+Filter 1 Audio 	0	4194304	Value	ValueOutput
+Filter 2 Audio 	0	4194304	Value	ValueOutput
+Filter 1 Freq M	0	4194304	Value	ValueOutput
+Filter 2 Freq M	0	4194304	Value	ValueOutput
+Mixer 1 Level A	0	4194304	Value	ValueOutput
+Mixer 2 Level A	0	4194304	Value	ValueOutput
+Mixer 3 Level A	0	4194304	Value	ValueOutput
+Mixer 4 Level A	0	4194304	Value	ValueOutput
+Mixer 1 Level B	0	4194304	Value	ValueOutput
+Mixer 2 Level B	0	4194304	Value	ValueOutput
+Mixer 3 Level B	0	4194304	Value	ValueOutput
+Mixer 4 Level B	0	4194304	Value	ValueOutput
+Mixer 1 Level A	0	4194304	Value	ValueOutput
+Mixer 1 Level A	0	4194304	Value	ValueOutput
+Mixer 1 Level A	0	4194304	Value	ValueOutput
+Mixer 2 Level A	0	4194304	Value	ValueOutput
+Mixer 2 Level A	0	4194304	Value	ValueOutput
+Mixer 2 Level A	0	4194304	Value	ValueOutput
+Mixer 3 Level A	0	4194304	Value	ValueOutput
+Mixer 3 Level A	0	4194304	Value	ValueOutput
+Mixer 3 Level A	0	4194304	Value	ValueOutput
+Mixer 4 Level A	0	4194304	Value	ValueOutput
+Mixer 4 Level A	0	4194304	Value	ValueOutput
+Mixer 4 Level A	0	4194304	Value	ValueOutput
+Mixer 1 Level B	0	4194304	Value	ValueOutput
+Mixer 1 Level B	0	4194304	Value	ValueOutput
+Mixer 1 Level B	0	4194304	Value	ValueOutput
+Mixer 2 Level B	0	4194304	Value	ValueOutput
+Mixer 2 Level B	0	4194304	Value	ValueOutput
+Mixer 2 Level B	0	4194304	Value	ValueOutput
+Mixer 3 Level B	0	4194304	Value	ValueOutput
+Mixer 3 Level B	0	4194304	Value	ValueOutput
+Mixer 3 Level B	0	4194304	Value	ValueOutput
+Mixer 4 Level B	0	4194304	Value	ValueOutput
+Mixer 4 Level B	0	4194304	Value	ValueOutput
+Mixer 4 Level B	0	4194304	Value	ValueOutput
+Mixer 1 Audio I	0	4194304	Value	ValueOutput
+Mixer 2 Audio I	0	4194304	Value	ValueOutput
+Mixer 3 Audio I	0	4194304	Value	ValueOutput
+Mixer 4 Audio I	0	4194304	Value	ValueOutput
+Mixer 1 Audio I	0	4194304	Value	ValueOutput
+Mixer 2 Audio I	0	4194304	Value	ValueOutput
+Mixer 3 Audio I	0	4194304	Value	ValueOutput
+Mixer 4 Audio I	0	4194304	Value	ValueOutput
+Mod Knob Value	0	4194304	Value	ValueOutput
+Mod Knob Value 	0	4194304	Value	ValueOutput
+Mod Knob Value 	0	4194304	Value	ValueOutput
+Mod Knob Value 	0	4194304	Value	ValueOutput
+Left Output	0	4194304	Value	ValueOutput
+Right Output	0	4194304	Value	ValueOutput
+Softkey 1	0	4194304	Value	ValueOutput
+Softkey 2	0	4194304	Value	ValueOutput
+Softkey 3	0	4194304	Value	ValueOutput
+Softkey 4	0	4194304	Value	ValueOutput
+Snapshots	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

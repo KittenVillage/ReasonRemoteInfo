@@ -1,0 +1,82 @@
+Scope
+Manufacturer	Model
+Kuassa, Inc.	vst.KSCb.CerberusBassAmp
+Note: Will match scope definitions for vst.KSCb.CerberusBassAmp or vst.KSCb
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+bypass	0	4194304	Value	ValueOutput
+inChannel	0	4194304	Value	ValueOutput
+inputVol	0	4194304	Value	ValueOutput
+gateOn	0	4194304	Value	ValueOutput
+gateThr	0	4194304	Value	ValueOutput
+gateAtt	0	4194304	Value	ValueOutput
+gateDec	0	4194304	Value	ValueOutput
+hiq	0	4194304	Value	ValueOutput
+ampOn	0	4194304	Value	ValueOutput
+ampType	0	4194304	Value	ValueOutput
+ampGain	0	4194304	Value	ValueOutput
+ampCompOn	0	4194304	Value	ValueOutput
+ampComp	0	4194304	Value	ValueOutput
+ampContour	0	4194304	Value	ValueOutput
+ampLowBoostOn	0	4194304	Value	ValueOutput
+ampLow	0	4194304	Value	ValueOutput
+ampMidLowFreq	0	4194304	Value	ValueOutput
+ampMidLow	0	4194304	Value	ValueOutput
+ampMidHighFreq	0	4194304	Value	ValueOutput
+ampMidHigh	0	4194304	Value	ValueOutput
+ampHighBoostOn	0	4194304	Value	ValueOutput
+ampHigh	0	4194304	Value	ValueOutput
+ampVol	0	4194304	Value	ValueOutput
+geqOn	0	4194304	Value	ValueOutput
+geqLevel62	0	4194304	Value	ValueOutput
+geqLevel125	0	4194304	Value	ValueOutput
+geqLevel250	0	4194304	Value	ValueOutput
+geqLevel500	0	4194304	Value	ValueOutput
+geqLevel1K	0	4194304	Value	ValueOutput
+geqLevel2K	0	4194304	Value	ValueOutput
+geqLevel4K	0	4194304	Value	ValueOutput
+cabIrType	0	4194304	Value	ValueOutput
+cabOnA	0	4194304	Value	ValueOutput
+cabTypeA	0	4194304	Value	ValueOutput
+micTypeA	0	4194304	Value	ValueOutput
+micPhaseOnA	0	4194304	Value	ValueOutput
+micAngleA	0	4194304	Value	ValueOutput
+micAxisA	0	4194304	Value	ValueOutput
+micDistanceA	0	4194304	Value	ValueOutput
+micPanA	0	4194304	Value	ValueOutput
+micVolA	0	4194304	Value	ValueOutput
+diToneA	0	4194304	Value	ValueOutput
+diCharacterA	0	4194304	Value	ValueOutput
+cabOnB	0	4194304	Value	ValueOutput
+cabTypeB	0	4194304	Value	ValueOutput
+micTypeB	0	4194304	Value	ValueOutput
+micPhaseOnB	0	4194304	Value	ValueOutput
+micAngleB	0	4194304	Value	ValueOutput
+micAxisB	0	4194304	Value	ValueOutput
+micDistanceB	0	4194304	Value	ValueOutput
+micPanB	0	4194304	Value	ValueOutput
+micVolB	0	4194304	Value	ValueOutput
+diToneB	0	4194304	Value	ValueOutput
+diCharacterB	0	4194304	Value	ValueOutput
+micRatio	0	4194304	Value	ValueOutput
+limOn	0	4194304	Value	ValueOutput
+dryWet	0	4194304	Value	ValueOutput
+outputVol	0	4194304	Value	ValueOutput
+autoResample	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

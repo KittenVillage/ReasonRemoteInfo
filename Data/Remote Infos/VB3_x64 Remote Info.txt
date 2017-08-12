@@ -1,0 +1,95 @@
+Scope
+Manufacturer	Model
+Guido Scognamiglio - www.SoundFonts.it	vst.VB33.VB3_x64
+Note: Will match scope definitions for vst.VB33.VB3_x64 or vst.VB33
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+A_UP_16	0	4194304	Value	ValueOutput
+A_UP_513	0	4194304	Value	ValueOutput
+A_UP_8	0	4194304	Value	ValueOutput
+A_UP_4	0	4194304	Value	ValueOutput
+A_UP_223	0	4194304	Value	ValueOutput
+A_UP_2	0	4194304	Value	ValueOutput
+A_UP_135	0	4194304	Value	ValueOutput
+A_UP_113	0	4194304	Value	ValueOutput
+A_UP_1	0	4194304	Value	ValueOutput
+B_UP_16	0	4194304	Value	ValueOutput
+B_UP_513	0	4194304	Value	ValueOutput
+B_UP_8	0	4194304	Value	ValueOutput
+B_UP_4	0	4194304	Value	ValueOutput
+B_UP_223	0	4194304	Value	ValueOutput
+B_UP_2	0	4194304	Value	ValueOutput
+B_UP_135	0	4194304	Value	ValueOutput
+B_UP_113	0	4194304	Value	ValueOutput
+B_UP_1	0	4194304	Value	ValueOutput
+PD_16	0	4194304	Value	ValueOutput
+PD_8	0	4194304	Value	ValueOutput
+A_LO_16	0	4194304	Value	ValueOutput
+A_LO_513	0	4194304	Value	ValueOutput
+A_LO_8	0	4194304	Value	ValueOutput
+A_LO_4	0	4194304	Value	ValueOutput
+A_LO_223	0	4194304	Value	ValueOutput
+A_LO_2	0	4194304	Value	ValueOutput
+A_LO_135	0	4194304	Value	ValueOutput
+A_LO_113	0	4194304	Value	ValueOutput
+A_LO_1	0	4194304	Value	ValueOutput
+B_LO_16	0	4194304	Value	ValueOutput
+B_LO_513	0	4194304	Value	ValueOutput
+B_LO_8	0	4194304	Value	ValueOutput
+B_LO_4	0	4194304	Value	ValueOutput
+B_LO_223	0	4194304	Value	ValueOutput
+B_LO_2	0	4194304	Value	ValueOutput
+B_LO_135	0	4194304	Value	ValueOutput
+B_LO_113	0	4194304	Value	ValueOutput
+B_LO_1	0	4194304	Value	ValueOutput
+UPPER_SET	0	4194304	Value	ValueOutput
+LOWER SET	0	4194304	Value	ValueOutput
+Percussion Switch	0	4194304	Value	ValueOutput
+Percussion Volume	0	4194304	Value	ValueOutput
+Percussion Decay	0	4194304	Value	ValueOutput
+Percussion Harmonic	0	4194304	Value	ValueOutput
+Vibrato Upper	0	4194304	Value	ValueOutput
+Vibrato Lower	0	4194304	Value	ValueOutput
+Vibrato Type	0	4194304	Value	ValueOutput
+KeyClick Level	0	4194304	Value	ValueOutput
+KeyClick Delay	0	4194304	Value	ValueOutput
+Volume Pedal	0	4194304	Value	ValueOutput
+Tube Overdrive	0	4194304	Value	ValueOutput
+Od. Drive	0	4194304	Value	ValueOutput
+Od. Edge	0	4194304	Value	ValueOutput
+Spring Reverb	0	4194304	Value	ValueOutput
+Rotary Speaker Switch	0	4194304	Value	ValueOutput
+Rot. Speed	0	4194304	Value	ValueOutput
+Rot. Horn Slow	0	4194304	Value	ValueOutput
+Rot. Horn Fast	0	4194304	Value	ValueOutput
+Rot. Horn Accel	0	4194304	Value	ValueOutput
+Rot. Bass Slow	0	4194304	Value	ValueOutput
+Rot. Bass Fast	0	4194304	Value	ValueOutput
+Rot. Bass Accel	0	4194304	Value	ValueOutput
+Rot. Mic. Distance	0	4194304	Value	ValueOutput
+Rot. Mic. Balance	0	4194304	Value	ValueOutput
+Rot. Mic. Spread	0	4194304	Value	ValueOutput
+Ambience	0	4194304	Value	ValueOutput
+Background Noise	0	4194304	Value	ValueOutput
+Tone	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+String Bass Decay	0	4194304	Value	ValueOutput
+Tonewheels Set	0	4194304	Value	ValueOutput
+KeyClick Type	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

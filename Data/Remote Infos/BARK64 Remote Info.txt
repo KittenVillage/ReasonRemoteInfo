@@ -1,0 +1,166 @@
+Scope
+Manufacturer	Model
+VirSyn	vst.VBRK.BARK64
+Note: Will match scope definitions for vst.VBRK.BARK64 or vst.VBRK
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Output gain	0	4194304	Value	ValueOutput
+Compressor	0	4194304	Value	ValueOutput
+Limiter	0	4194304	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Ratio	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+AutoGain	0	4194304	Value	ValueOutput
+Channel Level 01	0	4194304	Value	ValueOutput
+Channel Level 02	0	4194304	Value	ValueOutput
+Channel Level 03	0	4194304	Value	ValueOutput
+Channel Level 04	0	4194304	Value	ValueOutput
+Channel Level 05	0	4194304	Value	ValueOutput
+Channel Level 06	0	4194304	Value	ValueOutput
+Channel Level 07	0	4194304	Value	ValueOutput
+Channel Level 08	0	4194304	Value	ValueOutput
+Channel Level 09	0	4194304	Value	ValueOutput
+Channel Level 10	0	4194304	Value	ValueOutput
+Channel Level 11	0	4194304	Value	ValueOutput
+Channel Level 12	0	4194304	Value	ValueOutput
+Channel Level 13	0	4194304	Value	ValueOutput
+Channel Level 14	0	4194304	Value	ValueOutput
+Channel Level 15	0	4194304	Value	ValueOutput
+Channel Level 16	0	4194304	Value	ValueOutput
+Channel Level 17	0	4194304	Value	ValueOutput
+Channel Level 18	0	4194304	Value	ValueOutput
+Channel Level 19	0	4194304	Value	ValueOutput
+Channel Level 20	0	4194304	Value	ValueOutput
+Channel Level 21	0	4194304	Value	ValueOutput
+Channel Level 22	0	4194304	Value	ValueOutput
+Channel Level 23	0	4194304	Value	ValueOutput
+Channel Level 24	0	4194304	Value	ValueOutput
+Channel Level 25	0	4194304	Value	ValueOutput
+Channel Level 26	0	4194304	Value	ValueOutput
+Channel Level 27	0	4194304	Value	ValueOutput
+Channel Threshold 01	0	4194304	Value	ValueOutput
+Channel Threshold 02	0	4194304	Value	ValueOutput
+Channel Threshold 03	0	4194304	Value	ValueOutput
+Channel Threshold 04	0	4194304	Value	ValueOutput
+Channel Threshold 05	0	4194304	Value	ValueOutput
+Channel Threshold 06	0	4194304	Value	ValueOutput
+Channel Threshold 07	0	4194304	Value	ValueOutput
+Channel Threshold 08	0	4194304	Value	ValueOutput
+Channel Threshold 09	0	4194304	Value	ValueOutput
+Channel Threshold 10	0	4194304	Value	ValueOutput
+Channel Threshold 11	0	4194304	Value	ValueOutput
+Channel Threshold 12	0	4194304	Value	ValueOutput
+Channel Threshold 13	0	4194304	Value	ValueOutput
+Channel Threshold 14	0	4194304	Value	ValueOutput
+Channel Threshold 15	0	4194304	Value	ValueOutput
+Channel Threshold 16	0	4194304	Value	ValueOutput
+Channel Threshold 17	0	4194304	Value	ValueOutput
+Channel Threshold 18	0	4194304	Value	ValueOutput
+Channel Threshold 19	0	4194304	Value	ValueOutput
+Channel Threshold 20	0	4194304	Value	ValueOutput
+Channel Threshold 21	0	4194304	Value	ValueOutput
+Channel Threshold 22	0	4194304	Value	ValueOutput
+Channel Threshold 23	0	4194304	Value	ValueOutput
+Channel Threshold 24	0	4194304	Value	ValueOutput
+Channel Threshold 25	0	4194304	Value	ValueOutput
+Channel Threshold 26	0	4194304	Value	ValueOutput
+Channel Threshold 27	0	4194304	Value	ValueOutput
+Channel Ratio 01	0	4194304	Value	ValueOutput
+Channel Ratio 02	0	4194304	Value	ValueOutput
+Channel Ratio 03	0	4194304	Value	ValueOutput
+Channel Ratio 04	0	4194304	Value	ValueOutput
+Channel Ratio 05	0	4194304	Value	ValueOutput
+Channel Ratio 06	0	4194304	Value	ValueOutput
+Channel Ratio 07	0	4194304	Value	ValueOutput
+Channel Ratio 08	0	4194304	Value	ValueOutput
+Channel Ratio 09	0	4194304	Value	ValueOutput
+Channel Ratio 10	0	4194304	Value	ValueOutput
+Channel Ratio 11	0	4194304	Value	ValueOutput
+Channel Ratio 12	0	4194304	Value	ValueOutput
+Channel Ratio 13	0	4194304	Value	ValueOutput
+Channel Ratio 14	0	4194304	Value	ValueOutput
+Channel Ratio 15	0	4194304	Value	ValueOutput
+Channel Ratio 16	0	4194304	Value	ValueOutput
+Channel Ratio 17	0	4194304	Value	ValueOutput
+Channel Ratio 18	0	4194304	Value	ValueOutput
+Channel Ratio 19	0	4194304	Value	ValueOutput
+Channel Ratio 20	0	4194304	Value	ValueOutput
+Channel Ratio 21	0	4194304	Value	ValueOutput
+Channel Ratio 22	0	4194304	Value	ValueOutput
+Channel Ratio 23	0	4194304	Value	ValueOutput
+Channel Ratio 24	0	4194304	Value	ValueOutput
+Channel Ratio 25	0	4194304	Value	ValueOutput
+Channel Ratio 26	0	4194304	Value	ValueOutput
+Channel Ratio 27	0	4194304	Value	ValueOutput
+Channel Attack 01	0	4194304	Value	ValueOutput
+Channel Attack 02	0	4194304	Value	ValueOutput
+Channel Attack 03	0	4194304	Value	ValueOutput
+Channel Attack 04	0	4194304	Value	ValueOutput
+Channel Attack 05	0	4194304	Value	ValueOutput
+Channel Attack 06	0	4194304	Value	ValueOutput
+Channel Attack 07	0	4194304	Value	ValueOutput
+Channel Attack 08	0	4194304	Value	ValueOutput
+Channel Attack 09	0	4194304	Value	ValueOutput
+Channel Attack 10	0	4194304	Value	ValueOutput
+Channel Attack 11	0	4194304	Value	ValueOutput
+Channel Attack 12	0	4194304	Value	ValueOutput
+Channel Attack 13	0	4194304	Value	ValueOutput
+Channel Attack 14	0	4194304	Value	ValueOutput
+Channel Attack 15	0	4194304	Value	ValueOutput
+Channel Attack 16	0	4194304	Value	ValueOutput
+Channel Attack 17	0	4194304	Value	ValueOutput
+Channel Attack 18	0	4194304	Value	ValueOutput
+Channel Attack 19	0	4194304	Value	ValueOutput
+Channel Attack 20	0	4194304	Value	ValueOutput
+Channel Attack 21	0	4194304	Value	ValueOutput
+Channel Attack 22	0	4194304	Value	ValueOutput
+Channel Attack 23	0	4194304	Value	ValueOutput
+Channel Attack 24	0	4194304	Value	ValueOutput
+Channel Attack 25	0	4194304	Value	ValueOutput
+Channel Attack 26	0	4194304	Value	ValueOutput
+Channel Attack 27	0	4194304	Value	ValueOutput
+Channel Release 01	0	4194304	Value	ValueOutput
+Channel Release 02	0	4194304	Value	ValueOutput
+Channel Release 03	0	4194304	Value	ValueOutput
+Channel Release 04	0	4194304	Value	ValueOutput
+Channel Release 05	0	4194304	Value	ValueOutput
+Channel Release 06	0	4194304	Value	ValueOutput
+Channel Release 07	0	4194304	Value	ValueOutput
+Channel Release 08	0	4194304	Value	ValueOutput
+Channel Release 09	0	4194304	Value	ValueOutput
+Channel Release 10	0	4194304	Value	ValueOutput
+Channel Release 11	0	4194304	Value	ValueOutput
+Channel Release 12	0	4194304	Value	ValueOutput
+Channel Release 13	0	4194304	Value	ValueOutput
+Channel Release 14	0	4194304	Value	ValueOutput
+Channel Release 15	0	4194304	Value	ValueOutput
+Channel Release 16	0	4194304	Value	ValueOutput
+Channel Release 17	0	4194304	Value	ValueOutput
+Channel Release 18	0	4194304	Value	ValueOutput
+Channel Release 19	0	4194304	Value	ValueOutput
+Channel Release 20	0	4194304	Value	ValueOutput
+Channel Release 21	0	4194304	Value	ValueOutput
+Channel Release 22	0	4194304	Value	ValueOutput
+Channel Release 23	0	4194304	Value	ValueOutput
+Channel Release 24	0	4194304	Value	ValueOutput
+Channel Release 25	0	4194304	Value	ValueOutput
+Channel Release 26	0	4194304	Value	ValueOutput
+Channel Release 27	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

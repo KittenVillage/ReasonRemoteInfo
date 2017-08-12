@@ -1,0 +1,190 @@
+Scope
+Manufacturer	Model
+Lexicon	vst.Lcr1.LexChorus x64
+Note: Will match scope definitions for vst.Lcr1.LexChorus x64 or vst.Lcr1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Diffusion	0	4194304	Value	ValueOutput
+Fbk Diffusion	0	4194304	Value	ValueOutput
+Dly Level Maste	0	4194304	Value	ValueOutput
+Dly Time Master	0	4194304	Value	ValueOutput
+Dly Fbk Master	0	4194304	Value	ValueOutput
+LFO1 Waveform	0	4194304	Value	ValueOutput
+LFO2 Waveform	0	4194304	Value	ValueOutput
+LFO3 Waveform	0	4194304	Value	ValueOutput
+LFO4 Waveform	0	4194304	Value	ValueOutput
+LFO1 Rate	0	4194304	Value	ValueOutput
+LFO2 Rate	0	4194304	Value	ValueOutput
+LFO3 Rate	0	4194304	Value	ValueOutput
+LFO4 Rate	0	4194304	Value	ValueOutput
+L1 TempoMode	0	4194304	Value	ValueOutput
+L1 DlyTime	0	4194304	Value	ValueOutput
+L1 LFO Select	0	4194304	Value	ValueOutput
+L1 Wander	0	4194304	Value	ValueOutput
+L1 OutputPolari	0	4194304	Value	ValueOutput
+L1 DlyLvl	0	4194304	Value	ValueOutput
+L1 FbkPolarity	0	4194304	Value	ValueOutput
+L1 FbkLvl	0	4194304	Value	ValueOutput
+L1 OutputPanX	0	4194304	Value	ValueOutput
+L1 FbkPanX	0	4194304	Value	ValueOutput
+L1 OutputFilter	0	4194304	Value	ValueOutput
+L1 OutputFreque	0	4194304	Value	ValueOutput
+L1 OutputBandwi	0	4194304	Value	ValueOutput
+L1 OutputShelf	0	4194304	Value	ValueOutput
+L1 FbkFilterTyp	0	4194304	Value	ValueOutput
+L1 FbkFrequency	0	4194304	Value	ValueOutput
+L1 FbkBandwidth	0	4194304	Value	ValueOutput
+L1 FbkShelf	0	4194304	Value	ValueOutput
+L2 TempoMode	0	4194304	Value	ValueOutput
+L2 DlyTime	0	4194304	Value	ValueOutput
+L2 LFO Select	0	4194304	Value	ValueOutput
+L2 Wander	0	4194304	Value	ValueOutput
+L2 OutputPolari	0	4194304	Value	ValueOutput
+L2 DlyLvl	0	4194304	Value	ValueOutput
+L2 FbkPolarity	0	4194304	Value	ValueOutput
+L2 FbkLvl	0	4194304	Value	ValueOutput
+L2 OutputPanX	0	4194304	Value	ValueOutput
+L2 FbkPanX	0	4194304	Value	ValueOutput
+L2 OutputFilter	0	4194304	Value	ValueOutput
+L2 OutputFreque	0	4194304	Value	ValueOutput
+L2 OutputBandwi	0	4194304	Value	ValueOutput
+L2 OutputShelf	0	4194304	Value	ValueOutput
+L2 FbkFilterTyp	0	4194304	Value	ValueOutput
+L2 FbkFrequency	0	4194304	Value	ValueOutput
+L2 FbkBandwidth	0	4194304	Value	ValueOutput
+L2 FbkShelf	0	4194304	Value	ValueOutput
+L3TempoMode	0	4194304	Value	ValueOutput
+L3 DlyTime	0	4194304	Value	ValueOutput
+L3 LFO Select	0	4194304	Value	ValueOutput
+L3 Wander	0	4194304	Value	ValueOutput
+L3 OutputPolari	0	4194304	Value	ValueOutput
+L3 DlyLvl	0	4194304	Value	ValueOutput
+L3 FbkPolarity	0	4194304	Value	ValueOutput
+L3 FbkLvl	0	4194304	Value	ValueOutput
+L3 OutputPanX	0	4194304	Value	ValueOutput
+L3 FbkPanX	0	4194304	Value	ValueOutput
+L3 OutputFilter	0	4194304	Value	ValueOutput
+L3 OutputFreque	0	4194304	Value	ValueOutput
+L3 OutputBandwi	0	4194304	Value	ValueOutput
+L3 OutputShelf	0	4194304	Value	ValueOutput
+L3 FbkFilterTyp	0	4194304	Value	ValueOutput
+L3 FbkFrequency	0	4194304	Value	ValueOutput
+L3 FbkBandwidth	0	4194304	Value	ValueOutput
+L3 FbkShelf	0	4194304	Value	ValueOutput
+L4 TempoMode	0	4194304	Value	ValueOutput
+L4 DlyTime	0	4194304	Value	ValueOutput
+L4 LFO Select	0	4194304	Value	ValueOutput
+L4 Wander	0	4194304	Value	ValueOutput
+L4 OutputPolari	0	4194304	Value	ValueOutput
+L4 DlyLvl	0	4194304	Value	ValueOutput
+L4 FbkPolarity	0	4194304	Value	ValueOutput
+L4 FbkLvl	0	4194304	Value	ValueOutput
+L4 OutputPanX	0	4194304	Value	ValueOutput
+L4 FbkPanX	0	4194304	Value	ValueOutput
+L4 OutputFilter	0	4194304	Value	ValueOutput
+L4 OutputFreque	0	4194304	Value	ValueOutput
+L4 OutputBandwi	0	4194304	Value	ValueOutput
+L4 OutputShelf	0	4194304	Value	ValueOutput
+L4 FbkFilterTyp	0	4194304	Value	ValueOutput
+L4 FbkFrequency	0	4194304	Value	ValueOutput
+L4 FbkBandwidth	0	4194304	Value	ValueOutput
+L4 FbkShelf	0	4194304	Value	ValueOutput
+R1 TempoMode	0	4194304	Value	ValueOutput
+R1 DlyTime	0	4194304	Value	ValueOutput
+R1 LFO Select	0	4194304	Value	ValueOutput
+R1 Wander	0	4194304	Value	ValueOutput
+R1 OutputPolari	0	4194304	Value	ValueOutput
+R1 DlyLvl	0	4194304	Value	ValueOutput
+R1 FbkPolarity	0	4194304	Value	ValueOutput
+R1 FbkLvl	0	4194304	Value	ValueOutput
+R1 OutputPanX	0	4194304	Value	ValueOutput
+R1 FbkPanX	0	4194304	Value	ValueOutput
+R1 OutputFilter	0	4194304	Value	ValueOutput
+R1 OutputFreque	0	4194304	Value	ValueOutput
+R1 OutputBandwi	0	4194304	Value	ValueOutput
+R1 OutputShelf	0	4194304	Value	ValueOutput
+R1 FbkFilterTyp	0	4194304	Value	ValueOutput
+R1 FbkFrequency	0	4194304	Value	ValueOutput
+R1 FbkBandwidth	0	4194304	Value	ValueOutput
+R1 FbkShelf	0	4194304	Value	ValueOutput
+R2 TempoMode	0	4194304	Value	ValueOutput
+R2 DlyTime	0	4194304	Value	ValueOutput
+R2 LFO Select	0	4194304	Value	ValueOutput
+R2 Wander	0	4194304	Value	ValueOutput
+R2 OutputPolari	0	4194304	Value	ValueOutput
+R2 DlyLvl	0	4194304	Value	ValueOutput
+R2 FbkPolarity	0	4194304	Value	ValueOutput
+R2 FbkLvl	0	4194304	Value	ValueOutput
+R2 OutputPanX	0	4194304	Value	ValueOutput
+R2 FbkPanX	0	4194304	Value	ValueOutput
+R2 OutputFilter	0	4194304	Value	ValueOutput
+R2 OutputFreque	0	4194304	Value	ValueOutput
+R2 OutputBandwi	0	4194304	Value	ValueOutput
+R2 OutputShelf	0	4194304	Value	ValueOutput
+R2 FbkFilterTyp	0	4194304	Value	ValueOutput
+R2 FbkFrequency	0	4194304	Value	ValueOutput
+R2 FbkBandwidth	0	4194304	Value	ValueOutput
+R2 FbkShelf	0	4194304	Value	ValueOutput
+R3 TempoMode	0	4194304	Value	ValueOutput
+R3 DlyTime	0	4194304	Value	ValueOutput
+R3 LFO Select	0	4194304	Value	ValueOutput
+R3 Wander	0	4194304	Value	ValueOutput
+R3 OutputPolari	0	4194304	Value	ValueOutput
+R3 DlyLvl	0	4194304	Value	ValueOutput
+R3 FbkPolarity	0	4194304	Value	ValueOutput
+R3 FbkLvl	0	4194304	Value	ValueOutput
+R3 OutputPanX	0	4194304	Value	ValueOutput
+R3 FbkPanX	0	4194304	Value	ValueOutput
+R3 OutputFilter	0	4194304	Value	ValueOutput
+R3 OutputFreque	0	4194304	Value	ValueOutput
+R3 OutputBandwi	0	4194304	Value	ValueOutput
+R3 OutputShelf	0	4194304	Value	ValueOutput
+R3 FbkFilterTyp	0	4194304	Value	ValueOutput
+R3 FbkFrequency	0	4194304	Value	ValueOutput
+R3 FbkBandwidth	0	4194304	Value	ValueOutput
+R3 FbkShelf	0	4194304	Value	ValueOutput
+R4 TempoMode	0	4194304	Value	ValueOutput
+R4 DlyTime	0	4194304	Value	ValueOutput
+R4 LFO Select	0	4194304	Value	ValueOutput
+R4 Wander	0	4194304	Value	ValueOutput
+R4 OutputPolari	0	4194304	Value	ValueOutput
+R4 DlyLvl	0	4194304	Value	ValueOutput
+R4 FbkPolarity	0	4194304	Value	ValueOutput
+R4 FbkLvl	0	4194304	Value	ValueOutput
+R4 OutputPanX	0	4194304	Value	ValueOutput
+R4 FbkPanX	0	4194304	Value	ValueOutput
+R4 OutputFilter	0	4194304	Value	ValueOutput
+R4 OutputFreque	0	4194304	Value	ValueOutput
+R4 OutputBandwi	0	4194304	Value	ValueOutput
+R4 OutputShelf	0	4194304	Value	ValueOutput
+R4 FbkFilterTyp	0	4194304	Value	ValueOutput
+R4 FbkFrequency	0	4194304	Value	ValueOutput
+R4 FbkBandwidth	0	4194304	Value	ValueOutput
+R4 FbkShelf	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

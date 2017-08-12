@@ -1,0 +1,167 @@
+Scope
+Manufacturer	Model
+BommelDSP	vst.S2v3.Odin_64
+Note: Will match scope definitions for vst.S2v3.Odin_64 or vst.S2v3
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+RootUnit.PresetsUnit.VOL	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Att	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Dec	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Sus	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Rel	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Fil	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Fil	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Vol	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Gai	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Pan	0	4194304	Value	ValueOutput
+Attack Filter	0	4194304	Value	ValueOutput
+Decay Filter	0	4194304	Value	ValueOutput
+Sustain Filter	0	4194304	Value	ValueOutput
+Release Filter	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Fil	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay DryWet	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Del	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Del	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Cho	0	4194304	Value	ValueOutput
+Chorus Amount	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Cho	0	4194304	Value	ValueOutput
+Chorus Dry Wet	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Fil	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Fil	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Fil	0	4194304	Value	ValueOutput
+Noise Shelving	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.TES	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+Osc3 Waveform	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Osc	0	4194304	Value	ValueOutput
+Filter1 Type	0	4194304	Value	ValueOutput
+Filter2 Type	0	4194304	Value	ValueOutput
+Osc 1 Type Enum	0	4194304	Value	ValueOutput
+Osc1WaveEnum	0	4194304	Value	ValueOutput
+Osc2WaveEnum	0	4194304	Value	ValueOutput
+Osc3WaveEnum	0	4194304	Value	ValueOutput
+Filter 1 Type Enum	0	4194304	Value	ValueOutput
+Filter 2 Type Enum	0	4194304	Value	ValueOutput
+osc1fil1Enum	0	4194304	Value	ValueOutput
+osc2fil1Enum	0	4194304	Value	ValueOutput
+osc3fil1Enum	0	4194304	Value	ValueOutput
+osc1fil2Enum	0	4194304	Value	ValueOutput
+osc2fil2Enum	0	4194304	Value	ValueOutput
+osc3fil2Enum	0	4194304	Value	ValueOutput
+fil1fil2Enum	0	4194304	Value	ValueOutput
+ChorusOnEnum	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Del	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.fil	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.fil	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.osc	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.fil	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.fil	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.amp	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.ran	0	4194304	Value	ValueOutput
+osc3CarRatioEnum	0	4194304	Value	ValueOutput
+osc3ModRatioEnum	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.mod	0	4194304	Value	ValueOutput
+mod1DestEnum	0	4194304	Value	ValueOutput
+mod1SourceEnum	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.LFO	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.LFO	0	4194304	Value	ValueOutput
+LFO1WaveEnum	0	4194304	Value	ValueOutput
+LFO2WaveEnum	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.X	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Y	0	4194304	Value	ValueOutput
+mod2SourceEnum	0	4194304	Value	ValueOutput
+mod2DestEnum	0	4194304	Value	ValueOutput
+mod3SourceEnum	0	4194304	Value	ValueOutput
+mod3DestEnum	0	4194304	Value	ValueOutput
+mod4SourceEnum	0	4194304	Value	ValueOutput
+mod4DestEnum	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.mod	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.mod	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.mod	0	4194304	Value	ValueOutput
+osc1OperationEum	0	4194304	Value	ValueOutput
+Osc 2 Type Enum	0	4194304	Value	ValueOutput
+Osc 3 Type Enum	0	4194304	Value	ValueOutput
+osc2OperationEum	0	4194304	Value	ValueOutput
+osc1CarRatioEnum	0	4194304	Value	ValueOutput
+osc1ModRatioEnum	0	4194304	Value	ValueOutput
+osc2CarRatioEnum	0	4194304	Value	ValueOutput
+osc2ModRatioEnum	0	4194304	Value	ValueOutput
+osc3OperationEum	0	4194304	Value	ValueOutput
+Osc1 Mod BIPOL	0	4194304	Value	ValueOutput
+Osc2 Mod BIPOL	0	4194304	Value	ValueOutput
+Osc3 Mod BIPOL	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Por	0	4194304	Value	ValueOutput
+mod5SourceEnum	0	4194304	Value	ValueOutput
+mod5DestEnum	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.mod	0	4194304	Value	ValueOutput
+LFO1SyncEnum	0	4194304	Value	ValueOutput
+LFO2SyncEnum	0	4194304	Value	ValueOutput
+LFO1ResetEnum	0	4194304	Value	ValueOutput
+LFO2ResetEnum	0	4194304	Value	ValueOutput
+velocityToGaindB	0	4194304	Value	ValueOutput
+delaySyncEnum	0	4194304	Value	ValueOutput
+LFO1RateSyncedControl	0	4194304	Value	ValueOutput
+LFO2RateSyncedControl	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.loa	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.sav	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.mas	0	4194304	Value	ValueOutput
+osc1GrainLenth	0	4194304	Value	ValueOutput
+osc1StartSamplePercent	0	4194304	Value	ValueOutput
+osc1SamplePitch	0	4194304	Value	ValueOutput
+mod1ButtonEnum	0	4194304	Value	ValueOutput
+mod2ButtonEnum	0	4194304	Value	ValueOutput
+mod3ButtonEnum	0	4194304	Value	ValueOutput
+mod4ButtonEnum	0	4194304	Value	ValueOutput
+mod5ButtonEnum	0	4194304	Value	ValueOutput
+delayTimeSyncedControl	0	4194304	Value	ValueOutput
+osc1WaveEnumReplacer	0	4194304	Value	ValueOutput
+InitPatchTest	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Alp	0	4194304	Value	ValueOutput
+VectorJoystick X	0	4194304	Value	ValueOutput
+VectorJoystick Y	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.B1	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.B2	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.B3	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.Pit	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.MID	0	4194304	Value	ValueOutput
+RootUnit.PresetsUnit.MID	0	4194304	Value	ValueOutput
+MIDI Mod Wheel	0	4194304	Value	ValueOutput
+MIDI Expression	0	4194304	Value	ValueOutput
+MIDI Channel Pressure	0	4194304	Value	ValueOutput
+MIDI Sustain Pedal	0	4194304	Value	ValueOutput
+All Notes Off	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

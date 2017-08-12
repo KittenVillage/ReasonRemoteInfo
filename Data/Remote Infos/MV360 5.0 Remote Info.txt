@@ -1,0 +1,46 @@
+Scope
+Manufacturer	Model
+Waves	vst.MXV5.WaveShell-VST 9_91_x64.MV360 5_0
+Note: Will match scope definitions for vst.MXV5.WaveShell-VST 9_91_x64.MV360 5_0 or vst.MXV5
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+High Level On Off	0	4194304	Value	ValueOutput
+High Threshold Left	0	4194304	Value	ValueOutput
+High Threshold Center	0	4194304	Value	ValueOutput
+High Threshold Right	0	4194304	Value	ValueOutput
+High Threshold Ls	0	4194304	Value	ValueOutput
+High Threshold Rs	0	4194304	Value	ValueOutput
+Low Level On Off	0	4194304	Value	ValueOutput
+Low Threshold Left	0	4194304	Value	ValueOutput
+Low Threshold Center	0	4194304	Value	ValueOutput
+Low Threshold Right	0	4194304	Value	ValueOutput
+Low Threshold Ls	0	4194304	Value	ValueOutput
+Low Threshold Rs	0	4194304	Value	ValueOutput
+Link Mode	0	4194304	Value	ValueOutput
+High Volume Left	0	4194304	Value	ValueOutput
+High Volume Center	0	4194304	Value	ValueOutput
+High Volume Right	0	4194304	Value	ValueOutput
+High Volume Ls	0	4194304	Value	ValueOutput
+High Volume Rs	0	4194304	Value	ValueOutput
+Low Volume Left	0	4194304	Value	ValueOutput
+Low Volume Center	0	4194304	Value	ValueOutput
+Low Volume Right	0	4194304	Value	ValueOutput
+Low Volume Ls	0	4194304	Value	ValueOutput
+Low Volume Rs	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

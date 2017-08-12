@@ -1,0 +1,119 @@
+Scope
+Manufacturer	Model
+PSPaudioware.com	vst.PS8S.PSP 84 [64bit]
+Note: Will match scope definitions for vst.PS8S.PSP 84 [64bit] or vst.PS8S
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Main In	0	4194304	Value	ValueOutput
+Main Out	0	4194304	Value	ValueOutput
+Main Mix	0	4194304	Value	ValueOutput
+DlyL Fb	0	4194304	Value	ValueOutput
+DlyR Fb	0	4194304	Value	ValueOutput
+DlyL FbPan	0	4194304	Value	ValueOutput
+DlyR FbPan	0	4194304	Value	ValueOutput
+DlyL FbInv	0	4194304	Value	ValueOutput
+DlyR FbInv	0	4194304	Value	ValueOutput
+Mod LfoWave	0	4194304	Value	ValueOutput
+Mod LfoRate	0	4194304	Value	ValueOutput
+Mod LfoOffset	0	4194304	Value	ValueOutput
+Mod Source	0	4194304	Value	ValueOutput
+Flt Mod	0	4194304	Value	ValueOutput
+Flt Type	0	4194304	Value	ValueOutput
+Flt Cutoff	0	4194304	Value	ValueOutput
+Flt Res	0	4194304	Value	ValueOutput
+Vco Manual	0	4194304	Value	ValueOutput
+Vco Mod	0	4194304	Value	ValueOutput
+DlyL DlyInv	0	4194304	Value	ValueOutput
+DlyR DlyInv	0	4194304	Value	ValueOutput
+Drv Gain	0	4194304	Value	ValueOutput
+Mod EnvSpeed	0	4194304	Value	ValueOutput
+Flt Mode	0	4194304	Value	ValueOutput
+DlyL Mode	0	4194304	Value	ValueOutput
+DlyR Mode	0	4194304	Value	ValueOutput
+DlyL Num	0	4194304	Value	ValueOutput
+DlyR Num	0	4194304	Value	ValueOutput
+DlyL Den	0	4194304	Value	ValueOutput
+DlyR Den	0	4194304	Value	ValueOutput
+DlyL Range	0	4194304	Value	ValueOutput
+DlyR Range	0	4194304	Value	ValueOutput
+Mod LfoMode	0	4194304	Value	ValueOutput
+Mod LfoNum	0	4194304	Value	ValueOutput
+Mod LfoDen	0	4194304	Value	ValueOutput
+DlyL Time	0	4194304	Value	ValueOutput
+DlyR Time	0	4194304	Value	ValueOutput
+Rvb Mode	0	4194304	Value	ValueOutput
+Rvb Type	0	4194304	Value	ValueOutput
+Rvb Damp	0	4194304	Value	ValueOutput
+Rvb Amt	0	4194304	Value	ValueOutput
+Main Bypass	0	4194304	Value	ValueOutput
+Flt On	0	4194304	Value	ValueOutput
+Drv On	0	4194304	Value	ValueOutput
+Mod On	0	4194304	Value	ValueOutput
+Vco On	0	4194304	Value	ValueOutput
+Rvb On	0	4194304	Value	ValueOutput
+Mod Sens	0	4194304	Value	ValueOutput
+CC# Main In	0	4194304	Value	ValueOutput
+CC# Main Out	0	4194304	Value	ValueOutput
+CC# Main Mix	0	4194304	Value	ValueOutput
+CC# DlyL Fb	0	4194304	Value	ValueOutput
+CC# DlyR Fb	0	4194304	Value	ValueOutput
+CC# DlyL FbPan	0	4194304	Value	ValueOutput
+CC# DlyR FbPan	0	4194304	Value	ValueOutput
+CC# DlyL FbInv	0	4194304	Value	ValueOutput
+CC# DlyR FbInv	0	4194304	Value	ValueOutput
+CC# Mod LfoWave	0	4194304	Value	ValueOutput
+CC# Mod LfoRate	0	4194304	Value	ValueOutput
+CC# Mod LfoOffset	0	4194304	Value	ValueOutput
+CC# Mod Source	0	4194304	Value	ValueOutput
+CC# Flt Mod	0	4194304	Value	ValueOutput
+CC# Flt Type	0	4194304	Value	ValueOutput
+CC# Flt Cutoff	0	4194304	Value	ValueOutput
+CC# Flt Res	0	4194304	Value	ValueOutput
+CC# Vco Manual	0	4194304	Value	ValueOutput
+CC# Vco Mod	0	4194304	Value	ValueOutput
+CC# DlyL DlyInv	0	4194304	Value	ValueOutput
+CC# DlyR DlyInv	0	4194304	Value	ValueOutput
+CC# Drv Gain	0	4194304	Value	ValueOutput
+CC# Mod EnvSpeed	0	4194304	Value	ValueOutput
+CC# Flt Mode	0	4194304	Value	ValueOutput
+CC# DlyL Mode	0	4194304	Value	ValueOutput
+CC# DlyR Mode	0	4194304	Value	ValueOutput
+CC# DlyL Num	0	4194304	Value	ValueOutput
+CC# DlyR Num	0	4194304	Value	ValueOutput
+CC# DlyL Den	0	4194304	Value	ValueOutput
+CC# DlyR Den	0	4194304	Value	ValueOutput
+CC# DlyL Range	0	4194304	Value	ValueOutput
+CC# DlyR Range	0	4194304	Value	ValueOutput
+CC# Mod LfoMode	0	4194304	Value	ValueOutput
+CC# Mod LfoNum	0	4194304	Value	ValueOutput
+CC# Mod LfoDen	0	4194304	Value	ValueOutput
+CC# DlyL Time	0	4194304	Value	ValueOutput
+CC# DlyR Time	0	4194304	Value	ValueOutput
+CC# Rvb Mode	0	4194304	Value	ValueOutput
+CC# Rvb Type	0	4194304	Value	ValueOutput
+CC# Rvb Damp	0	4194304	Value	ValueOutput
+CC# Rvb Amt	0	4194304	Value	ValueOutput
+CC# Main Bypass	0	4194304	Value	ValueOutput
+CC# Flt On	0	4194304	Value	ValueOutput
+CC# Drv On	0	4194304	Value	ValueOutput
+CC# Mod On	0	4194304	Value	ValueOutput
+CC# Vco On	0	4194304	Value	ValueOutput
+CC# Rvb On	0	4194304	Value	ValueOutput
+CC# Mod Sens	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

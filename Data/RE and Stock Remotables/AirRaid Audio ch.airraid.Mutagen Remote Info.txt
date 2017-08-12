@@ -1,0 +1,143 @@
+Scope
+Manufacturer	Model
+AirRaid Audio	ch.airraid.Mutagen
+
+Remotable	Min	Max	Input type	Output type
+Lo / Mid Crossover	0	4194304	Value	ValueOutput
+Mid / Hi Crossover	0	4194304	Value	ValueOutput
+Envelope Amount	0	4194304	Value	ValueOutput
+Envelope Attack	0	4194304	Value	ValueOutput
+Envelope Release	0	4194304	Value	ValueOutput
+Lo Band On/Off	0	1	Toggle	ValueOutput
+Lo Band Mute	0	1	Toggle	ValueOutput
+Lo Band Solo	0	1	Toggle	ValueOutput
+Lo Band Bypass	0	1	Toggle	ValueOutput
+Lo Distortion Type	0	15	Value	ValueOutput
+Lo Boost	0	4194304	Value	ValueOutput
+Lo BitCrush (P1)	0	4194304	Value	ValueOutput
+Lo EQ Freq (P1)	0	4194304	Value	ValueOutput
+Lo Freq1 (P1)	0	4194304	Value	ValueOutput
+Lo Freq2 (P1)	0	4194304	Value	ValueOutput
+Lo Freq3 (P1)	0	4194304	Value	ValueOutput
+Lo Click Density (P1)	0	4194304	Value	ValueOutput
+Lo Speed (P1)	0	4194304	Value	ValueOutput
+Lo -- (P1)	0	4194304	Value	ValueOutput
+Lo Redux (P2)	0	4194304	Value	ValueOutput
+Lo EQ Boost (P2)	0	4194304	Value	ValueOutput
+Lo Smooth (P2)	0	4194304	Value	ValueOutput
+Lo Flux (P2)	0	4194304	Value	ValueOutput
+Lo Amount (P2)	0	4194304	Value	ValueOutput
+Lo Threshold (P2)	0	4194304	Value	ValueOutput
+Lo -- (P2)	0	4194304	Value	ValueOutput
+Lo Boost Env Mod Amount	0	4194304	Value	ValueOutput
+Lo Boost LFO Mod Amount	0	4194304	Value	ValueOutput
+Lo P1 Env Mod Amount	0	4194304	Value	ValueOutput
+Lo P1 LFO Mod Amount	0	4194304	Value	ValueOutput
+Lo P2 Env Mod Amount	0	4194304	Value	ValueOutput
+Lo P2 LFO Mod Amount	0	4194304	Value	ValueOutput
+Lo Stereo Mix	0	4194304	Value	ValueOutput
+Lo Dry/Wet	0	4194304	Value	ValueOutput
+Lo Pan	0	4194304	Value	ValueOutput
+Lo Band Volume	0	4194304	Value	ValueOutput
+Mid Band Mute	0	1	Toggle	ValueOutput
+Mid Band Solo	0	1	Toggle	ValueOutput
+Mid Band Bypass	0	1	Toggle	ValueOutput
+Mid Distortion Type	0	15	Value	ValueOutput
+Mid Boost	0	4194304	Value	ValueOutput
+Mid BitCrush (P1)	0	4194304	Value	ValueOutput
+Mid EQ Freq (P1)	0	4194304	Value	ValueOutput
+Mid Freq1 (P1)	0	4194304	Value	ValueOutput
+Mid Freq2 (P1)	0	4194304	Value	ValueOutput
+Mid Freq3 (P1)	0	4194304	Value	ValueOutput
+Mid Click Density (P1)	0	4194304	Value	ValueOutput
+Mid Speed (P1)	0	4194304	Value	ValueOutput
+Mid -- (P1)	0	4194304	Value	ValueOutput
+Mid Redux (P2)	0	4194304	Value	ValueOutput
+Mid EQ Boost (P2)	0	4194304	Value	ValueOutput
+Mid Smooth (P2)	0	4194304	Value	ValueOutput
+Mid Flux (P2)	0	4194304	Value	ValueOutput
+Mid Amount (P2)	0	4194304	Value	ValueOutput
+Mid Threshold (P2)	0	4194304	Value	ValueOutput
+Mid -- (P2)	0	4194304	Value	ValueOutput
+Mid Boost Env Mod Amount	0	4194304	Value	ValueOutput
+Mid Boost LFO Mod Amount	0	4194304	Value	ValueOutput
+Mid P1 Env Mod Amount	0	4194304	Value	ValueOutput
+Mid P1 LFO Mod Amount	0	4194304	Value	ValueOutput
+Mid P2 Env Mod Amount	0	4194304	Value	ValueOutput
+Mid P2 LFO Mod Amount	0	4194304	Value	ValueOutput
+Mid Stereo Mix	0	4194304	Value	ValueOutput
+Mid Dry/Wet	0	4194304	Value	ValueOutput
+Mid Pan	0	4194304	Value	ValueOutput
+Mid Band Volume	0	4194304	Value	ValueOutput
+Hi Band On/Off	0	1	Toggle	ValueOutput
+Hi Band Mute	0	1	Toggle	ValueOutput
+Hi Band Solo	0	1	Toggle	ValueOutput
+Hi Band Bypass	0	1	Toggle	ValueOutput
+Hi Distortion Type	0	15	Value	ValueOutput
+Hi Boost	0	4194304	Value	ValueOutput
+Hi BitCrush (P1)	0	4194304	Value	ValueOutput
+Hi EQ Freq (P1)	0	4194304	Value	ValueOutput
+Hi Freq1 (P1)	0	4194304	Value	ValueOutput
+Hi Freq2 (P1)	0	4194304	Value	ValueOutput
+Hi Freq3 (P1)	0	4194304	Value	ValueOutput
+Hi Click Density (P1)	0	4194304	Value	ValueOutput
+Hi Speed (P1)	0	4194304	Value	ValueOutput
+Hi -- (P1)	0	4194304	Value	ValueOutput
+Hi Redux (P2)	0	4194304	Value	ValueOutput
+Hi EQ Boost (P2)	0	4194304	Value	ValueOutput
+Hi Smooth (P2)	0	4194304	Value	ValueOutput
+Hi Flux (P2)	0	4194304	Value	ValueOutput
+Hi Amount (P2)	0	4194304	Value	ValueOutput
+Hi Threshold (P2)	0	4194304	Value	ValueOutput
+Hi -- (P2)	0	4194304	Value	ValueOutput
+Hi Boost Env Mod Amount	0	4194304	Value	ValueOutput
+Hi Boost LFO Mod Amount	0	4194304	Value	ValueOutput
+Hi P1 Env Mod Amount	0	4194304	Value	ValueOutput
+Hi P1 LFO Mod Amount	0	4194304	Value	ValueOutput
+Hi P2 Env Mod Amount	0	4194304	Value	ValueOutput
+Hi P2 LFO Mod Amount	0	4194304	Value	ValueOutput
+Hi Stereo Mix	0	4194304	Value	ValueOutput
+Hi Dry/Wet	0	4194304	Value	ValueOutput
+Hi Pan	0	4194304	Value	ValueOutput
+Hi Band Volume	0	4194304	Value	ValueOutput
+Lo LFO Waveform	0	6	Value	ValueOutput
+Lo LFO Frequency	0	4194304	Value	ValueOutput
+Lo LFO Frequency (Synced)	0	19	Value	ValueOutput
+Lo LFO Sync	0	1	Toggle	ValueOutput
+Lo LFO Phase	0	4194304	Value	ValueOutput
+Lo LFO Spin	0	4194304	Value	ValueOutput
+Lo LFO Mode	0	1	Toggle	ValueOutput
+Lo LFO Offset	0	4194304	Value	ValueOutput
+Lo LFO Amount	0	4194304	Value	ValueOutput
+Mid LFO Waveform	0	6	Value	ValueOutput
+Mid LFO Frequency	0	4194304	Value	ValueOutput
+Mid LFO Frequency (Synced)	0	19	Value	ValueOutput
+Mid LFO Sync	0	1	Toggle	ValueOutput
+Mid LFO Phase	0	4194304	Value	ValueOutput
+Mid LFO Spin	0	4194304	Value	ValueOutput
+Mid LFO Mode	0	1	Toggle	ValueOutput
+Mid LFO Offset	0	4194304	Value	ValueOutput
+Mid LFO Amount	0	4194304	Value	ValueOutput
+Hi LFO Waveform	0	6	Value	ValueOutput
+Hi LFO Frequency	0	4194304	Value	ValueOutput
+Hi LFO Frequency (Synced)	0	19	Value	ValueOutput
+Hi LFO Sync	0	1	Toggle	ValueOutput
+Hi LFO Phase	0	4194304	Value	ValueOutput
+Hi LFO Spin	0	4194304	Value	ValueOutput
+Hi LFO Mode	0	1	Toggle	ValueOutput
+Hi LFO Offset	0	4194304	Value	ValueOutput
+Hi LFO Amount	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Dry/Wet Mix	0	4194304	Value	ValueOutput
+PreAmp	0	4194304	Value	ValueOutput
+Audio Signal Router	0	3	Value	ValueOutput
+Peak Limiter On/Off	0	1	Toggle	ValueOutput
+High Quality Mode On/Off	0	1	Toggle	ValueOutput
+Lo / Mid Crossover Display	0	4194304	-	ValueOutput
+Mid / Hi Crossover Display	0	4194304	-	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,76 @@
+Scope
+Manufacturer	Model
+DMGAudio	vst.EQuM.EQualityMono
+Note: Will match scope definitions for vst.EQuM.EQualityMono or vst.EQuM
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Gain/Q Interaction	0	4194304	Value	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+Shift	0	4194304	Value	ValueOutput
+StereoMode	0	4194304	Value	ValueOutput
+AutoListen	0	4194304	Value	ValueOutput
+HPF2 Bypass	0	4194304	Value	ValueOutput
+HPF2 Frequency	0	4194304	Value	ValueOutput
+HPF2 Order	0	4194304	Value	ValueOutput
+HPF Bypass	0	4194304	Value	ValueOutput
+HPF Frequency	0	4194304	Value	ValueOutput
+HPF Resonance	0	4194304	Value	ValueOutput
+HPF Order	0	4194304	Value	ValueOutput
+Band1 Bypass	0	4194304	Value	ValueOutput
+Band1 Gain	0	4194304	Value	ValueOutput
+Band1 Frequency	0	4194304	Value	ValueOutput
+Band1 Q	0	4194304	Value	ValueOutput
+Band1 Type	0	4194304	Value	ValueOutput
+Band1 Shift	0	4194304	Value	ValueOutput
+Band2 Bypass	0	4194304	Value	ValueOutput
+Band2 Gain	0	4194304	Value	ValueOutput
+Band2 Frequency	0	4194304	Value	ValueOutput
+Band2 Q	0	4194304	Value	ValueOutput
+Band2 Type	0	4194304	Value	ValueOutput
+Band3 Bypass	0	4194304	Value	ValueOutput
+Band3 Gain	0	4194304	Value	ValueOutput
+Band3 Frequency	0	4194304	Value	ValueOutput
+Band3 Q	0	4194304	Value	ValueOutput
+Band3 Type	0	4194304	Value	ValueOutput
+Band4 Bypass	0	4194304	Value	ValueOutput
+Band4 Gain	0	4194304	Value	ValueOutput
+Band4 Frequency	0	4194304	Value	ValueOutput
+Band4 Q	0	4194304	Value	ValueOutput
+Band4 Type	0	4194304	Value	ValueOutput
+Band5 Bypass	0	4194304	Value	ValueOutput
+Band5 Gain	0	4194304	Value	ValueOutput
+Band5 Frequency	0	4194304	Value	ValueOutput
+Band5 Q	0	4194304	Value	ValueOutput
+Band5 Type	0	4194304	Value	ValueOutput
+Band6 Bypass	0	4194304	Value	ValueOutput
+Band6 Gain	0	4194304	Value	ValueOutput
+Band6 Frequency	0	4194304	Value	ValueOutput
+Band6 Q	0	4194304	Value	ValueOutput
+Band6 Type	0	4194304	Value	ValueOutput
+Band6 Shift	0	4194304	Value	ValueOutput
+LPF Bypass	0	4194304	Value	ValueOutput
+LPF Frequency	0	4194304	Value	ValueOutput
+LPF Resonance	0	4194304	Value	ValueOutput
+LPF Order	0	4194304	Value	ValueOutput
+A/B	0	4194304	Value	ValueOutput
+Solo	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

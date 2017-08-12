@@ -1,0 +1,385 @@
+Scope
+Manufacturer	Model
+HY-Plugins	vst.Hy12.HY-Filter2_x64
+Note: Will match scope definitions for vst.Hy12.HY-Filter2_x64 or vst.Hy12
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Panel Button Mul	0	4194304	Value	ValueOutput
+Panel Button Res	0	4194304	Value	ValueOutput
+Panel Button Ste	0	4194304	Value	ValueOutput
+Panel Button Fil	0	4194304	Value	ValueOutput
+Panel Button Xov	0	4194304	Value	ValueOutput
+Panel Button Ste	0	4194304	Value	ValueOutput
+Panel Button Gat	0	4194304	Value	ValueOutput
+Multi Filter LFO	0	4194304	Value	ValueOutput
+Multi Filter LFO	0	4194304	Value	ValueOutput
+Multi Filter LFO	0	4194304	Value	ValueOutput
+Multi Filter LFO	0	4194304	Value	ValueOutput
+Multi Filter Fil	0	4194304	Value	ValueOutput
+Multi Filter Fil	0	4194304	Value	ValueOutput
+Multi Filter Fil	0	4194304	Value	ValueOutput
+Multi Filter Fil	0	4194304	Value	ValueOutput
+Multi Filter Fil	0	4194304	Value	ValueOutput
+Multi Filter Fil	0	4194304	Value	ValueOutput
+Multi Filter Fil	0	4194304	Value	ValueOutput
+Multi Filter Fil	0	4194304	Value	ValueOutput
+Multi Filter Fil	0	4194304	Value	ValueOutput
+Reso Filter LFO 	0	4194304	Value	ValueOutput
+Reso Filter LFO 	0	4194304	Value	ValueOutput
+Reso Filter LFO 	0	4194304	Value	ValueOutput
+Reso Filter LFO 	0	4194304	Value	ValueOutput
+Reso Filter Env 	0	4194304	Value	ValueOutput
+Reso Filter Env 	0	4194304	Value	ValueOutput
+Reso Filter Mode	0	4194304	Value	ValueOutput
+Reso Filter Mode	0	4194304	Value	ValueOutput
+Reso Filter Mode	0	4194304	Value	ValueOutput
+Reso Filter BP1	0	4194304	Value	ValueOutput
+Reso Filter BP2	0	4194304	Value	ValueOutput
+Reso Filter BP3	0	4194304	Value	ValueOutput
+Reso Filter Reso	0	4194304	Value	ValueOutput
+Reso Filter Driv	0	4194304	Value	ValueOutput
+Reso Filter Spre	0	4194304	Value	ValueOutput
+Reso Filter LFO 	0	4194304	Value	ValueOutput
+Reso Filter Env 	0	4194304	Value	ValueOutput
+Step Filter Slid	0	4194304	Value	ValueOutput
+Step Filter Slid	0	4194304	Value	ValueOutput
+Step Filter Slid	0	4194304	Value	ValueOutput
+Step Filter Slid	0	4194304	Value	ValueOutput
+Step Filter Slid	0	4194304	Value	ValueOutput
+Step Filter Slid	0	4194304	Value	ValueOutput
+Step Filter Step	0	4194304	Value	ValueOutput
+Step Filter Step	0	4194304	Value	ValueOutput
+Step Filter Step	0	4194304	Value	ValueOutput
+Step Filter Step	0	4194304	Value	ValueOutput
+Step Filter Step	0	4194304	Value	ValueOutput
+Step Filter Step	0	4194304	Value	ValueOutput
+Step Filter Step	0	4194304	Value	ValueOutput
+Step Filter Step	0	4194304	Value	ValueOutput
+Step Filter Step	0	4194304	Value	ValueOutput
+Step Filter Step	0	4194304	Value	ValueOutput
+Step Filter Step	0	4194304	Value	ValueOutput
+Step Filter Step	0	4194304	Value	ValueOutput
+Step Filter Step	0	4194304	Value	ValueOutput
+Step Filter Step	0	4194304	Value	ValueOutput
+Step Filter Step	0	4194304	Value	ValueOutput
+Step Filter Step	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter SEQ 	0	4194304	Value	ValueOutput
+Step Filter SEQ 	0	4194304	Value	ValueOutput
+Step Filter SEQ 	0	4194304	Value	ValueOutput
+Step Filter SEQ 	0	4194304	Value	ValueOutput
+Step Filter SEQ 	0	4194304	Value	ValueOutput
+Step Filter SEQ 	0	4194304	Value	ValueOutput
+Step Filter SEQ 	0	4194304	Value	ValueOutput
+Step Filter SEQ 	0	4194304	Value	ValueOutput
+Step Filter SEQ 	0	4194304	Value	ValueOutput
+Step Filter SEQ 	0	4194304	Value	ValueOutput
+Step Filter SEQ 	0	4194304	Value	ValueOutput
+Step Filter SEQ 	0	4194304	Value	ValueOutput
+Step Filter SEQ 	0	4194304	Value	ValueOutput
+Step Filter Envf	0	4194304	Value	ValueOutput
+Step Filter Envf	0	4194304	Value	ValueOutput
+Step Filter LFO 	0	4194304	Value	ValueOutput
+Step Filter LFO 	0	4194304	Value	ValueOutput
+Step Filter LFO 	0	4194304	Value	ValueOutput
+Step Filter LFO 	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Step Filter MSli	0	4194304	Value	ValueOutput
+Filter Bank LP	0	4194304	Value	ValueOutput
+Filter Bank HP	0	4194304	Value	ValueOutput
+Filter Bank BP1	0	4194304	Value	ValueOutput
+Filter Bank BP2	0	4194304	Value	ValueOutput
+Filter Bank BP3	0	4194304	Value	ValueOutput
+Filter Bank BP4	0	4194304	Value	ValueOutput
+Filter Bank BP5	0	4194304	Value	ValueOutput
+Filter Bank BP6	0	4194304	Value	ValueOutput
+Filter Bank BP7	0	4194304	Value	ValueOutput
+Filter Bank BP8	0	4194304	Value	ValueOutput
+Filter Bank BP9	0	4194304	Value	ValueOutput
+Filter Bank BP10	0	4194304	Value	ValueOutput
+Filter Bank BP11	0	4194304	Value	ValueOutput
+Filter Bank BP12	0	4194304	Value	ValueOutput
+Filter Bank OutM	0	4194304	Value	ValueOutput
+Filter Bank OutM	0	4194304	Value	ValueOutput
+Filter Bank OutM	0	4194304	Value	ValueOutput
+Xover Low Gain	0	4194304	Value	ValueOutput
+Xover Low Pan	0	4194304	Value	ValueOutput
+Xover Low Width	0	4194304	Value	ValueOutput
+Xover Low Comp	0	4194304	Value	ValueOutput
+Xover Low Vol	0	4194304	Value	ValueOutput
+Xover Low LFO	0	4194304	Value	ValueOutput
+Xover Low Drive	0	4194304	Value	ValueOutput
+Xover Low Swap	0	4194304	Value	ValueOutput
+Xover Low Vol Mo	0	4194304	Value	ValueOutput
+Xover Low Pan Mo	0	4194304	Value	ValueOutput
+Xover Low Clippe	0	4194304	Value	ValueOutput
+Xover Low Mute	0	4194304	Value	ValueOutput
+Xover Low Solo	0	4194304	Value	ValueOutput
+Xover Low Bypass	0	4194304	Value	ValueOutput
+Xover Mid Gain	0	4194304	Value	ValueOutput
+Xover Mid Pan	0	4194304	Value	ValueOutput
+Xover Mid Width	0	4194304	Value	ValueOutput
+Xover Mid Comp	0	4194304	Value	ValueOutput
+Xover Mid Vol	0	4194304	Value	ValueOutput
+Xover Mid LFO	0	4194304	Value	ValueOutput
+Xover Mid Drive	0	4194304	Value	ValueOutput
+Xover Mid Swap	0	4194304	Value	ValueOutput
+Xover Mid Vol Mo	0	4194304	Value	ValueOutput
+Xover Mid Pan Mo	0	4194304	Value	ValueOutput
+Xover Mid Clippe	0	4194304	Value	ValueOutput
+Xover Mid Mute	0	4194304	Value	ValueOutput
+Xover Mid Solo	0	4194304	Value	ValueOutput
+Xover Mid Bypass	0	4194304	Value	ValueOutput
+Xover High Gain	0	4194304	Value	ValueOutput
+Xover High Pan	0	4194304	Value	ValueOutput
+Xover High Width	0	4194304	Value	ValueOutput
+Xover High Comp	0	4194304	Value	ValueOutput
+Xover High Vol	0	4194304	Value	ValueOutput
+Xover High LFO	0	4194304	Value	ValueOutput
+Xover High Drive	0	4194304	Value	ValueOutput
+Xover High Swap	0	4194304	Value	ValueOutput
+Xover High Vol M	0	4194304	Value	ValueOutput
+Xover High Pan M	0	4194304	Value	ValueOutput
+Xover High Clipp	0	4194304	Value	ValueOutput
+Xover High Mute	0	4194304	Value	ValueOutput
+Xover High Solo	0	4194304	Value	ValueOutput
+Xover High Bypas	0	4194304	Value	ValueOutput
+Xover Xfreq Low/	0	4194304	Value	ValueOutput
+Xover Xfreq Mid/	0	4194304	Value	ValueOutput
+Xover Filter LFO	0	4194304	Value	ValueOutput
+Xover Filter LFO	0	4194304	Value	ValueOutput
+Xover Filter LFO	0	4194304	Value	ValueOutput
+Xover Filter LFO	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter Le	0	4194304	Value	ValueOutput
+Stereo Filter En	0	4194304	Value	ValueOutput
+Stereo Filter LF	0	4194304	Value	ValueOutput
+Stereo Filter Fi	0	4194304	Value	ValueOutput
+Stereo Filter Ti	0	4194304	Value	ValueOutput
+Stereo Filter Ti	0	4194304	Value	ValueOutput
+Gate Filter Grid	0	4194304	Value	ValueOutput
+Gate Filter Grid	0	4194304	Value	ValueOutput
+Gate Filter Grid	0	4194304	Value	ValueOutput
+Gate Filter Grid	0	4194304	Value	ValueOutput
+Gate Filter Grid	0	4194304	Value	ValueOutput
+Gate Filter Grid	0	4194304	Value	ValueOutput
+Gate Filter Grid	0	4194304	Value	ValueOutput
+Gate Filter Grid	0	4194304	Value	ValueOutput
+Gate Filter Grid	0	4194304	Value	ValueOutput
+Gate Filter Grid	0	4194304	Value	ValueOutput
+Gate Filter Grid	0	4194304	Value	ValueOutput
+Gate Filter Grid	0	4194304	Value	ValueOutput
+Gate Filter Grid	0	4194304	Value	ValueOutput
+Gate Filter Grid	0	4194304	Value	ValueOutput
+Gate Filter Grid	0	4194304	Value	ValueOutput
+Gate Filter Grid	0	4194304	Value	ValueOutput
+Gate Filter SEQ 	0	4194304	Value	ValueOutput
+Gate Filter SEQ 	0	4194304	Value	ValueOutput
+Gate Filter SEQ 	0	4194304	Value	ValueOutput
+Gate Filter SEQ 	0	4194304	Value	ValueOutput
+Gate Filter SEQ 	0	4194304	Value	ValueOutput
+Gate Filter SEQ 	0	4194304	Value	ValueOutput
+Gate Filter SEQ 	0	4194304	Value	ValueOutput
+Gate Filter SEQ 	0	4194304	Value	ValueOutput
+Gate Filter SEQ 	0	4194304	Value	ValueOutput
+Gate Filter SEQ 	0	4194304	Value	ValueOutput
+Gate Filter SEQ 	0	4194304	Value	ValueOutput
+Gate Filter SEQ 	0	4194304	Value	ValueOutput
+Gate Filter SEQ 	0	4194304	Value	ValueOutput
+Gate Filter LP C	0	4194304	Value	ValueOutput
+Gate Filter LP R	0	4194304	Value	ValueOutput
+Gate Filter LP L	0	4194304	Value	ValueOutput
+Gate Filter LP E	0	4194304	Value	ValueOutput
+Gate Filter LP D	0	4194304	Value	ValueOutput
+Gate Filter LP P	0	4194304	Value	ValueOutput
+Gate Filter LP V	0	4194304	Value	ValueOutput
+Gate Filter BP C	0	4194304	Value	ValueOutput
+Gate Filter BP R	0	4194304	Value	ValueOutput
+Gate Filter BP L	0	4194304	Value	ValueOutput
+Gate Filter BP E	0	4194304	Value	ValueOutput
+Gate Filter BP D	0	4194304	Value	ValueOutput
+Gate Filter BP P	0	4194304	Value	ValueOutput
+Gate Filter BP V	0	4194304	Value	ValueOutput
+Gate Filter HP C	0	4194304	Value	ValueOutput
+Gate Filter HP R	0	4194304	Value	ValueOutput
+Gate Filter HP L	0	4194304	Value	ValueOutput
+Gate Filter HP E	0	4194304	Value	ValueOutput
+Gate Filter HP D	0	4194304	Value	ValueOutput
+Gate Filter HP P	0	4194304	Value	ValueOutput
+Gate Filter HP V	0	4194304	Value	ValueOutput
+Gate Filter AmpE	0	4194304	Value	ValueOutput
+Gate Filter AmpE	0	4194304	Value	ValueOutput
+Gate Filter AmpE	0	4194304	Value	ValueOutput
+Gate Filter Filt	0	4194304	Value	ValueOutput
+Gate Filter Filt	0	4194304	Value	ValueOutput
+Gate Filter Filt	0	4194304	Value	ValueOutput
+Gate Filter Dela	0	4194304	Value	ValueOutput
+Gate Filter Dela	0	4194304	Value	ValueOutput
+Gate Filter Dela	0	4194304	Value	ValueOutput
+Gate Filter Dela	0	4194304	Value	ValueOutput
+Gate Filter LFO 	0	4194304	Value	ValueOutput
+Gate Filter LFO 	0	4194304	Value	ValueOutput
+Gate Filter LFO 	0	4194304	Value	ValueOutput
+Gate Filter LFO 	0	4194304	Value	ValueOutput
+Master Input	0	4194304	Value	ValueOutput
+Master Gain	0	4194304	Value	ValueOutput
+Master Output	0	4194304	Value	ValueOutput
+Master DryWet	0	4194304	Value	ValueOutput
+Soft Clip	0	4194304	Value	ValueOutput
+Master Limitter	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Multi SVF Type	0	4194304	Value	ValueOutput
+Step SVF Type	0	4194304	Value	ValueOutput
+Lock InOut Param	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,103 @@
+Scope
+Manufacturer	Model
+AudioRealism	vst.aadm.ADM x64
+Note: Will match scope definitions for vst.aadm.ADM x64 or vst.aadm
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+LT/LC switch	0	4194304	Value	ValueOutput
+MT/MC switch	0	4194304	Value	ValueOutput
+HT/HC switch	0	4194304	Value	ValueOutput
+RS/CL switch	0	4194304	Value	ValueOutput
+CP/MA switch	0	4194304	Value	ValueOutput
+Accent level	0	4194304	Value	ValueOutput
+BD level	0	4194304	Value	ValueOutput
+BD tone	0	4194304	Value	ValueOutput
+BD decay	0	4194304	Value	ValueOutput
+SD level	0	4194304	Value	ValueOutput
+SD tone	0	4194304	Value	ValueOutput
+SD snappy	0	4194304	Value	ValueOutput
+LT/LC level	0	4194304	Value	ValueOutput
+LT/LC tuning	0	4194304	Value	ValueOutput
+MT/MC level	0	4194304	Value	ValueOutput
+MT/MC tuning	0	4194304	Value	ValueOutput
+HT/HC level	0	4194304	Value	ValueOutput
+HT/HC tuning	0	4194304	Value	ValueOutput
+RS/CL level	0	4194304	Value	ValueOutput
+HC/MA level	0	4194304	Value	ValueOutput
+CB/CR level	0	4194304	Value	ValueOutput
+CY level	0	4194304	Value	ValueOutput
+CY tone	0	4194304	Value	ValueOutput
+CY decay	0	4194304	Value	ValueOutput
+OH level	0	4194304	Value	ValueOutput
+OH decay	0	4194304	Value	ValueOutput
+CH level	0	4194304	Value	ValueOutput
+PCF Amount	0	4194304	Value	ValueOutput
+PCF Switch	0	4194304	Value	ValueOutput
+PCF Attack	0	4194304	Value	ValueOutput
+PCF Decay	0	4194304	Value	ValueOutput
+PCF Mode	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+PCF Cutoff	0	4194304	Value	ValueOutput
+PCF Resonance	0	4194304	Value	ValueOutput
+PCF Mangle	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+BD tuning	0	4194304	Value	ValueOutput
+SD tuning	0	4194304	Value	ValueOutput
+LT decay	0	4194304	Value	ValueOutput
+MT decay	0	4194304	Value	ValueOutput
+HT decay	0	4194304	Value	ValueOutput
+CH decay	0	4194304	Value	ValueOutput
+CR tune	0	4194304	Value	ValueOutput
+RI tune	0	4194304	Value	ValueOutput
+BD select	0	4194304	Value	ValueOutput
+SD select	0	4194304	Value	ValueOutput
+LT select	0	4194304	Value	ValueOutput
+MT select	0	4194304	Value	ValueOutput
+HT select	0	4194304	Value	ValueOutput
+RS select	0	4194304	Value	ValueOutput
+CP select	0	4194304	Value	ValueOutput
+CB/CR select	0	4194304	Value	ValueOutput
+CY select	0	4194304	Value	ValueOutput
+OH select	0	4194304	Value	ValueOutput
+CH select	0	4194304	Value	ValueOutput
+Flam Amount	0	4194304	Value	ValueOutput
+BD fx	0	4194304	Value	ValueOutput
+SD fx	0	4194304	Value	ValueOutput
+LT fx	0	4194304	Value	ValueOutput
+MT fx	0	4194304	Value	ValueOutput
+HT fx	0	4194304	Value	ValueOutput
+RS fx	0	4194304	Value	ValueOutput
+CP fx	0	4194304	Value	ValueOutput
+CB/CR fx	0	4194304	Value	ValueOutput
+CY fx	0	4194304	Value	ValueOutput
+OH fx	0	4194304	Value	ValueOutput
+CH fx	0	4194304	Value	ValueOutput
+BD mute	0	4194304	Value	ValueOutput
+SD mute	0	4194304	Value	ValueOutput
+LT mute	0	4194304	Value	ValueOutput
+MT mute	0	4194304	Value	ValueOutput
+HT mute	0	4194304	Value	ValueOutput
+RS mute	0	4194304	Value	ValueOutput
+CP mute	0	4194304	Value	ValueOutput
+CB/CR mute	0	4194304	Value	ValueOutput
+CY mute	0	4194304	Value	ValueOutput
+OH mute	0	4194304	Value	ValueOutput
+CH mute	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

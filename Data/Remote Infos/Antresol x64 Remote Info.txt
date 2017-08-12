@@ -1,0 +1,51 @@
+Scope
+Manufacturer	Model
+D16 Group Audio Software	vst.AnT3.Antresol x64
+Note: Will match scope definitions for vst.AnT3.Antresol x64 or vst.AnT3
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Preamp	0	4194304	Value	ValueOutput
+M/S Mode	0	4194304	Value	ValueOutput
+Channels Crossfa	0	4194304	Value	ValueOutput
+Delay Offset L/M	0	4194304	Value	ValueOutput
+Delay Offset R/S	0	4194304	Value	ValueOutput
+Delay Offset Lin	0	4194304	Value	ValueOutput
+LFO Rate L/M	0	4194304	Value	ValueOutput
+LFO Rate R/S	0	4194304	Value	ValueOutput
+LFO Note Rate L/	0	4194304	Value	ValueOutput
+LFO Note Rate R/	0	4194304	Value	ValueOutput
+LFO Rate Link	0	4194304	Value	ValueOutput
+LFO Depth L/M	0	4194304	Value	ValueOutput
+LFO Depth R/S	0	4194304	Value	ValueOutput
+LFO Depth Link	0	4194304	Value	ValueOutput
+Feedback L/M	0	4194304	Value	ValueOutput
+Feedback R/S	0	4194304	Value	ValueOutput
+Feedback Link	0	4194304	Value	ValueOutput
+LFO Sync	0	4194304	Value	ValueOutput
+LFO Phase Shift	0	4194304	Value	ValueOutput
+LFO Voltage Curv	0	4194304	Value	ValueOutput
+BBD Length	0	4194304	Value	ValueOutput
+BBD Frequency Ra	0	4194304	Value	ValueOutput
+Low Cut	0	4194304	Value	ValueOutput
+Gain L/M	0	4194304	Value	ValueOutput
+Gain R/S	0	4194304	Value	ValueOutput
+Mistress Auto Mi	0	4194304	Value	ValueOutput
+FX Amount	0	4194304	Value	ValueOutput
+Output Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

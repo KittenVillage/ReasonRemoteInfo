@@ -1,0 +1,42 @@
+Scope
+Manufacturer	Model
+Cockos	vst.recm.reacomp-standalone
+Note: Will match scope definitions for vst.recm.reacomp-standalone or vst.recm
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Thresh	0	4194304	Value	ValueOutput
+Ratio	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Pre-comp	0	4194304	Value	ValueOutput
+resvd	0	4194304	Value	ValueOutput
+Lowpass	0	4194304	Value	ValueOutput
+Hipass	0	4194304	Value	ValueOutput
+SignIn	0	4194304	Value	ValueOutput
+AudIn	0	4194304	Value	ValueOutput
+Dry	0	4194304	Value	ValueOutput
+Wet	0	4194304	Value	ValueOutput
+PreviewF	0	4194304	Value	ValueOutput
+RMS size	0	4194304	Value	ValueOutput
+Knee	0	4194304	Value	ValueOutput
+AutoMkUp	0	4194304	Value	ValueOutput
+AutoRel	0	4194304	Value	ValueOutput
+ClsAttk	0	4194304	Value	ValueOutput
+AntiAls	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

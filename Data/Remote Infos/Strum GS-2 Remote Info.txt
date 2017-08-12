@@ -1,0 +1,320 @@
+Scope
+Manufacturer	Model
+Applied Acoustics Systems	vst.B409.Strum GS-2
+Note: Will match scope definitions for vst.B409.Strum GS-2 or vst.B409
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Play Mode: Play Mode	0	4194304	Value	ValueOutput
+Clock: Rate	0	4194304	Value	ValueOutput
+Mod Wheel: Vibrato Depth	0	4194304	Value	ValueOutput
+Mod Wheel: Vibrato Speed	0	4194304	Value	ValueOutput
+Strumming: Auto	0	4194304	Value	ValueOutput
+Strumming: Speed	0	4194304	Value	ValueOutput
+Strumming: Velocity	0	4194304	Value	ValueOutput
+Voicing: Chord Type	0	4194304	Value	ValueOutput
+Voicing: Position	0	4194304	Value	ValueOutput
+Loops: Loop Tempo	0	4194304	Value	ValueOutput
+Pick/Finger: Type	0	4194304	Value	ValueOutput
+Pick/Finger: Position	0	4194304	Value	ValueOutput
+Pick/Finger: Edge	0	4194304	Value	ValueOutput
+Pick/Finger: Damping	0	4194304	Value	ValueOutput
+Pick/Finger: Stiffness	0	4194304	Value	ValueOutput
+Pick/Finger: Stiff Damp 	0	4194304	Value	ValueOutput
+Pick/Finger: Depth	0	4194304	Value	ValueOutput
+Pick/Finger: Speed	0	4194304	Value	ValueOutput
+Pick/Finger: Speed Veloc	0	4194304	Value	ValueOutput
+String 1: Tone A	0	4194304	Value	ValueOutput
+String 1: Inharmonicity 	0	4194304	Value	ValueOutput
+String 1: Decay A	0	4194304	Value	ValueOutput
+String 1: Tone B	0	4194304	Value	ValueOutput
+String 1: Inharmonicity 	0	4194304	Value	ValueOutput
+String 1: Decay B	0	4194304	Value	ValueOutput
+String 1: Coupling	0	4194304	Value	ValueOutput
+String 1: Balance	0	4194304	Value	ValueOutput
+String 1: Volume	0	4194304	Value	ValueOutput
+String 2: Tone A	0	4194304	Value	ValueOutput
+String 2: Inharmonicity 	0	4194304	Value	ValueOutput
+String 2: Decay A	0	4194304	Value	ValueOutput
+String 2: Tone B	0	4194304	Value	ValueOutput
+String 2: Inharmonicity 	0	4194304	Value	ValueOutput
+String 2: Decay B	0	4194304	Value	ValueOutput
+String 2: Coupling	0	4194304	Value	ValueOutput
+String 2: Balance	0	4194304	Value	ValueOutput
+String 2: Volume	0	4194304	Value	ValueOutput
+String 3: Tone A	0	4194304	Value	ValueOutput
+String 3: Inharmonicity 	0	4194304	Value	ValueOutput
+String 3: Decay A	0	4194304	Value	ValueOutput
+String 3: Tone B	0	4194304	Value	ValueOutput
+String 3: Inharmonicity 	0	4194304	Value	ValueOutput
+String 3: Decay B	0	4194304	Value	ValueOutput
+String 3: Coupling	0	4194304	Value	ValueOutput
+String 3: Balance	0	4194304	Value	ValueOutput
+String 3: Volume	0	4194304	Value	ValueOutput
+String 4: Tone A	0	4194304	Value	ValueOutput
+String 4: Inharmonicity 	0	4194304	Value	ValueOutput
+String 4: Decay A	0	4194304	Value	ValueOutput
+String 4: Tone B	0	4194304	Value	ValueOutput
+String 4: Inharmonicity 	0	4194304	Value	ValueOutput
+String 4: Decay B	0	4194304	Value	ValueOutput
+String 4: Coupling	0	4194304	Value	ValueOutput
+String 4: Balance	0	4194304	Value	ValueOutput
+String 4: Volume	0	4194304	Value	ValueOutput
+String 5: Tone A	0	4194304	Value	ValueOutput
+String 5: Inharmonicity 	0	4194304	Value	ValueOutput
+String 5: Decay A	0	4194304	Value	ValueOutput
+String 5: Tone B	0	4194304	Value	ValueOutput
+String 5: Inharmonicity 	0	4194304	Value	ValueOutput
+String 5: Decay B	0	4194304	Value	ValueOutput
+String 5: Coupling	0	4194304	Value	ValueOutput
+String 5: Balance	0	4194304	Value	ValueOutput
+String 5: Volume	0	4194304	Value	ValueOutput
+String 6: Tone A	0	4194304	Value	ValueOutput
+String 6: Inharmonicity 	0	4194304	Value	ValueOutput
+String 6: Decay A	0	4194304	Value	ValueOutput
+String 6: Tone B	0	4194304	Value	ValueOutput
+String 6: Inharmonicity 	0	4194304	Value	ValueOutput
+String 6: Decay B	0	4194304	Value	ValueOutput
+String 6: Coupling	0	4194304	Value	ValueOutput
+String 6: Balance	0	4194304	Value	ValueOutput
+String 6: Volume	0	4194304	Value	ValueOutput
+Hammer-On: Amp	0	4194304	Value	ValueOutput
+Hammer-On: Tone	0	4194304	Value	ValueOutput
+Mute: Harmonics Decay	0	4194304	Value	ValueOutput
+Mute: Harmonics Tone	0	4194304	Value	ValueOutput
+Mute: Contact	0	4194304	Value	ValueOutput
+Mute: Time	0	4194304	Value	ValueOutput
+Palm Mute: Tone	0	4194304	Value	ValueOutput
+Palm Mute: Decay	0	4194304	Value	ValueOutput
+Body: Size	0	4194304	Value	ValueOutput
+Body: Low Cut	0	4194304	Value	ValueOutput
+Body: Air Cavity Decay	0	4194304	Value	ValueOutput
+Body: Plate Decay	0	4194304	Value	ValueOutput
+Body: Plate Tone	0	4194304	Value	ValueOutput
+Equalizer: Low Freq	0	4194304	Value	ValueOutput
+Equalizer: Low Gain	0	4194304	Value	ValueOutput
+Equalizer: Low Mid Freq	0	4194304	Value	ValueOutput
+Equalizer: Low Mid Gain	0	4194304	Value	ValueOutput
+Equalizer: Low Mid Q	0	4194304	Value	ValueOutput
+Equalizer: High Mid Freq	0	4194304	Value	ValueOutput
+Equalizer: High Mid Gain	0	4194304	Value	ValueOutput
+Equalizer: High Mid Q	0	4194304	Value	ValueOutput
+Equalizer: High Freq	0	4194304	Value	ValueOutput
+Equalizer: High Gain	0	4194304	Value	ValueOutput
+Equalizer: Side Chain	0	4194304	Value	ValueOutput
+Equalizer: On	0	4194304	Value	ValueOutput
+Compressor: Threshold	0	4194304	Value	ValueOutput
+Compressor: Ratio	0	4194304	Value	ValueOutput
+Compressor: Attack	0	4194304	Value	ValueOutput
+Compressor: Release	0	4194304	Value	ValueOutput
+Compressor: Gain	0	4194304	Value	ValueOutput
+Compressor: Pre	0	4194304	Value	ValueOutput
+Compressor: On	0	4194304	Value	ValueOutput
+Effect 1: On	0	4194304	Value	ValueOutput
+Effect 1: Type	0	4194304	Value	ValueOutput
+Delay 1: Wet	0	4194304	Value	ValueOutput
+Delay 1: Dry	0	4194304	Value	ValueOutput
+Delay 1: Sync On	0	4194304	Value	ValueOutput
+Delay 1: Sync Rate	0	4194304	Value	ValueOutput
+Delay 1: Delay	0	4194304	Value	ValueOutput
+Delay 1: Feedback	0	4194304	Value	ValueOutput
+Delay 1: Cutoff	0	4194304	Value	ValueOutput
+Delay 1: Pan	0	4194304	Value	ValueOutput
+Distortion 1: Drive	0	4194304	Value	ValueOutput
+Distortion 1: Volume	0	4194304	Value	ValueOutput
+Distortion 1: Shape	0	4194304	Value	ValueOutput
+Distortion 1: Tone	0	4194304	Value	ValueOutput
+Distortion 1: Mix	0	4194304	Value	ValueOutput
+Phaser 1: Mix	0	4194304	Value	ValueOutput
+Phaser 1: Depth	0	4194304	Value	ValueOutput
+Phaser 1: Frequency	0	4194304	Value	ValueOutput
+Phaser 1: Feedback	0	4194304	Value	ValueOutput
+Phaser 1: Sync On	0	4194304	Value	ValueOutput
+Phaser 1: Sync Rate	0	4194304	Value	ValueOutput
+Phaser 1: Rate	0	4194304	Value	ValueOutput
+Vintage Chorus 1: Depth	0	4194304	Value	ValueOutput
+Vintage Chorus 1: Spread	0	4194304	Value	ValueOutput
+Vintage Chorus 1: Delay	0	4194304	Value	ValueOutput
+Vintage Chorus 1: Feedba	0	4194304	Value	ValueOutput
+Vintage Chorus 1: Sync O	0	4194304	Value	ValueOutput
+Vintage Chorus 1: Sync R	0	4194304	Value	ValueOutput
+Vintage Chorus 1: Rate	0	4194304	Value	ValueOutput
+Vintage Chorus 1: Mix	0	4194304	Value	ValueOutput
+Vintage Chorus 1: Mode	0	4194304	Value	ValueOutput
+Chorus 1: Depth	0	4194304	Value	ValueOutput
+Chorus 1: Fat	0	4194304	Value	ValueOutput
+Chorus 1: Spread	0	4194304	Value	ValueOutput
+Chorus 1: Sync On	0	4194304	Value	ValueOutput
+Chorus 1: Sync Rate	0	4194304	Value	ValueOutput
+Chorus 1: Rate	0	4194304	Value	ValueOutput
+Chorus 1: Mix	0	4194304	Value	ValueOutput
+Flanger 1: Depth	0	4194304	Value	ValueOutput
+Flanger 1: Delay	0	4194304	Value	ValueOutput
+Flanger 1: Feedback	0	4194304	Value	ValueOutput
+Flanger 1: Sync On	0	4194304	Value	ValueOutput
+Flanger 1: Sync Rate	0	4194304	Value	ValueOutput
+Flanger 1: Rate	0	4194304	Value	ValueOutput
+Flanger 1: Mix	0	4194304	Value	ValueOutput
+Tremolo 1: Depth	0	4194304	Value	ValueOutput
+Tremolo 1: Sync On	0	4194304	Value	ValueOutput
+Tremolo 1: Sync Rate	0	4194304	Value	ValueOutput
+Tremolo 1: Rate	0	4194304	Value	ValueOutput
+Tremolo 1: Stereo	0	4194304	Value	ValueOutput
+Tremolo 1: Shape	0	4194304	Value	ValueOutput
+Auto Wah 1: Depth	0	4194304	Value	ValueOutput
+Auto Wah 1: Freq	0	4194304	Value	ValueOutput
+Auto Wah 1: Speed	0	4194304	Value	ValueOutput
+Wah Wah 1: Depth	0	4194304	Value	ValueOutput
+Wah Wah 1: Freq	0	4194304	Value	ValueOutput
+Wah Wah 1: Sync On	0	4194304	Value	ValueOutput
+Wah Wah 1: Sync Rate	0	4194304	Value	ValueOutput
+Wah Wah 1: Rate	0	4194304	Value	ValueOutput
+Notch 1: Depth	0	4194304	Value	ValueOutput
+Notch 1: Freq	0	4194304	Value	ValueOutput
+Notch 1: Sync On	0	4194304	Value	ValueOutput
+Notch 1: Sync Rate	0	4194304	Value	ValueOutput
+Notch 1: Rate	0	4194304	Value	ValueOutput
+Effect 2: On	0	4194304	Value	ValueOutput
+Effect 2: Type	0	4194304	Value	ValueOutput
+Delay 2: Wet	0	4194304	Value	ValueOutput
+Delay 2: Dry	0	4194304	Value	ValueOutput
+Delay 2: Sync On	0	4194304	Value	ValueOutput
+Delay 2: Sync Rate	0	4194304	Value	ValueOutput
+Delay 2: Delay	0	4194304	Value	ValueOutput
+Delay 2: Feedback	0	4194304	Value	ValueOutput
+Delay 2: Cutoff	0	4194304	Value	ValueOutput
+Delay 2: Pan	0	4194304	Value	ValueOutput
+Distortion 2: Drive	0	4194304	Value	ValueOutput
+Distortion 2: Volume	0	4194304	Value	ValueOutput
+Distortion 2: Shape	0	4194304	Value	ValueOutput
+Distortion 2: Tone	0	4194304	Value	ValueOutput
+Distortion 2: Mix	0	4194304	Value	ValueOutput
+Phaser 2: Mix	0	4194304	Value	ValueOutput
+Phaser 2: Depth	0	4194304	Value	ValueOutput
+Phaser 2: Frequency	0	4194304	Value	ValueOutput
+Phaser 2: Feedback	0	4194304	Value	ValueOutput
+Phaser 2: Sync On	0	4194304	Value	ValueOutput
+Phaser 2: Sync Rate	0	4194304	Value	ValueOutput
+Phaser 2: Rate	0	4194304	Value	ValueOutput
+Vintage Chorus 2: Depth	0	4194304	Value	ValueOutput
+Vintage Chorus 2: Spread	0	4194304	Value	ValueOutput
+Vintage Chorus 2: Delay	0	4194304	Value	ValueOutput
+Vintage Chorus 2: Feedba	0	4194304	Value	ValueOutput
+Vintage Chorus 2: Sync O	0	4194304	Value	ValueOutput
+Vintage Chorus 2: Sync R	0	4194304	Value	ValueOutput
+Vintage Chorus 2: Rate	0	4194304	Value	ValueOutput
+Vintage Chorus 2: Mix	0	4194304	Value	ValueOutput
+Vintage Chorus 2: Mode	0	4194304	Value	ValueOutput
+Chorus 2: Depth	0	4194304	Value	ValueOutput
+Chorus 2: Fat	0	4194304	Value	ValueOutput
+Chorus 2: Spread	0	4194304	Value	ValueOutput
+Chorus 2: Sync On	0	4194304	Value	ValueOutput
+Chorus 2: Sync Rate	0	4194304	Value	ValueOutput
+Chorus 2: Rate	0	4194304	Value	ValueOutput
+Chorus 2: Mix	0	4194304	Value	ValueOutput
+Flanger 2: Depth	0	4194304	Value	ValueOutput
+Flanger 2: Delay	0	4194304	Value	ValueOutput
+Flanger 2: Feedback	0	4194304	Value	ValueOutput
+Flanger 2: Sync On	0	4194304	Value	ValueOutput
+Flanger 2: Sync Rate	0	4194304	Value	ValueOutput
+Flanger 2: Rate	0	4194304	Value	ValueOutput
+Flanger 2: Mix	0	4194304	Value	ValueOutput
+Tremolo 2: Depth	0	4194304	Value	ValueOutput
+Tremolo 2: Sync On	0	4194304	Value	ValueOutput
+Tremolo 2: Sync Rate	0	4194304	Value	ValueOutput
+Tremolo 2: Rate	0	4194304	Value	ValueOutput
+Tremolo 2: Stereo	0	4194304	Value	ValueOutput
+Tremolo 2: Shape	0	4194304	Value	ValueOutput
+Auto Wah 2: Depth	0	4194304	Value	ValueOutput
+Auto Wah 2: Freq	0	4194304	Value	ValueOutput
+Auto Wah 2: Speed	0	4194304	Value	ValueOutput
+Wah Wah 2: Depth	0	4194304	Value	ValueOutput
+Wah Wah 2: Freq	0	4194304	Value	ValueOutput
+Wah Wah 2: Sync On	0	4194304	Value	ValueOutput
+Wah Wah 2: Sync Rate	0	4194304	Value	ValueOutput
+Wah Wah 2: Rate	0	4194304	Value	ValueOutput
+Notch 2: Depth	0	4194304	Value	ValueOutput
+Notch 2: Freq	0	4194304	Value	ValueOutput
+Notch 2: Sync On	0	4194304	Value	ValueOutput
+Notch 2: Sync Rate	0	4194304	Value	ValueOutput
+Notch 2: Rate	0	4194304	Value	ValueOutput
+Reverb: Size	0	4194304	Value	ValueOutput
+Reverb: Decay	0	4194304	Value	ValueOutput
+Reverb: Diffusion	0	4194304	Value	ValueOutput
+Reverb: Low Damp	0	4194304	Value	ValueOutput
+Reverb: High Damp	0	4194304	Value	ValueOutput
+Reverb: Mix	0	4194304	Value	ValueOutput
+Reverb: On	0	4194304	Value	ValueOutput
+Global: Volume	0	4194304	Value	ValueOutput
+Pickups: Selector	0	4194304	Value	ValueOutput
+Pickups: Volume	0	4194304	Value	ValueOutput
+Pickups: Neck Position	0	4194304	Value	ValueOutput
+Pickups: Neck Frequency	0	4194304	Value	ValueOutput
+Pickups: Neck Resonance	0	4194304	Value	ValueOutput
+Pickups: Bridge Position	0	4194304	Value	ValueOutput
+Pickups: Bridge Frequenc	0	4194304	Value	ValueOutput
+Pickups: Bridge Resonanc	0	4194304	Value	ValueOutput
+Pickups: Bridge Trim	0	4194304	Value	ValueOutput
+Pickups: Type	0	4194304	Value	ValueOutput
+Amplifier: Channel	0	4194304	Value	ValueOutput
+Amplifier: Bite	0	4194304	Value	ValueOutput
+Amplifier: Channel 1 Dri	0	4194304	Value	ValueOutput
+Amplifier: Channel 1 Mid	0	4194304	Value	ValueOutput
+Amplifier: Channel 1 Lev	0	4194304	Value	ValueOutput
+Amplifier: Channel 2 Dri	0	4194304	Value	ValueOutput
+Amplifier: Channel 2 Mid	0	4194304	Value	ValueOutput
+Amplifier: Channel 2 Lev	0	4194304	Value	ValueOutput
+Amplifier: Eq Low	0	4194304	Value	ValueOutput
+Amplifier: Eq High	0	4194304	Value	ValueOutput
+Amplifier: Amplifier On	0	4194304	Value	ValueOutput
+Amplifier: Spring Reverb	0	4194304	Value	ValueOutput
+Amplifier: Spring Reverb	0	4194304	Value	ValueOutput
+Amplifier: Cabinet Open	0	4194304	Value	ValueOutput
+Amplifier: Cabinet On	0	4194304	Value	ValueOutput
+Palm Mute: Tone Velocity	0	4194304	Value	ValueOutput
+Equalizer 1: Low Freq	0	4194304	Value	ValueOutput
+Equalizer 1: Low Gain	0	4194304	Value	ValueOutput
+Equalizer 1: Low Mid Fre	0	4194304	Value	ValueOutput
+Equalizer 1: Low Mid Gai	0	4194304	Value	ValueOutput
+Equalizer 1: Low Mid Q	0	4194304	Value	ValueOutput
+Equalizer 1: High Mid Fr	0	4194304	Value	ValueOutput
+Equalizer 1: High Mid Ga	0	4194304	Value	ValueOutput
+Equalizer 1: High Mid Q	0	4194304	Value	ValueOutput
+Equalizer 1: High Freq	0	4194304	Value	ValueOutput
+Equalizer 1: High Gain	0	4194304	Value	ValueOutput
+Compressor 1: Threshold	0	4194304	Value	ValueOutput
+Compressor 1: Ratio	0	4194304	Value	ValueOutput
+Compressor 1: Attack	0	4194304	Value	ValueOutput
+Compressor 1: Release	0	4194304	Value	ValueOutput
+Compressor 1: Gain	0	4194304	Value	ValueOutput
+Equalizer 2: Low Freq	0	4194304	Value	ValueOutput
+Equalizer 2: Low Gain	0	4194304	Value	ValueOutput
+Equalizer 2: Low Mid Fre	0	4194304	Value	ValueOutput
+Equalizer 2: Low Mid Gai	0	4194304	Value	ValueOutput
+Equalizer 2: Low Mid Q	0	4194304	Value	ValueOutput
+Equalizer 2: High Mid Fr	0	4194304	Value	ValueOutput
+Equalizer 2: High Mid Ga	0	4194304	Value	ValueOutput
+Equalizer 2: High Mid Q	0	4194304	Value	ValueOutput
+Equalizer 2: High Freq	0	4194304	Value	ValueOutput
+Equalizer 2: High Gain	0	4194304	Value	ValueOutput
+Compressor 2: Threshold	0	4194304	Value	ValueOutput
+Compressor 2: Ratio	0	4194304	Value	ValueOutput
+Compressor 2: Attack	0	4194304	Value	ValueOutput
+Compressor 2: Release	0	4194304	Value	ValueOutput
+Compressor 2: Gain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

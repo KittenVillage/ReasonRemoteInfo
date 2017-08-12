@@ -1,0 +1,79 @@
+Scope
+Manufacturer	Model
+Plugin Alliance	vst.BXL2.bx_XL V2 x64
+Note: Will match scope definitions for vst.BXL2.bx_XL V2 x64 or vst.BXL2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bank	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Left Gai	0	4194304	Value	ValueOutput
+Right Ga	0	4194304	Value	ValueOutput
+Mid Gain	0	4194304	Value	ValueOutput
+Side Gai	0	4194304	Value	ValueOutput
+L/R Gain	0	4194304	Value	ValueOutput
+M/S Gain	0	4194304	Value	ValueOutput
+Pan Mid	0	4194304	Value	ValueOutput
+Pan Side	0	4194304	Value	ValueOutput
+Left Sol	0	4194304	Value	ValueOutput
+Right So	0	4194304	Value	ValueOutput
+Mid Solo	0	4194304	Value	ValueOutput
+Mid Lo S	0	4194304	Value	ValueOutput
+Mid Hi S	0	4194304	Value	ValueOutput
+Side Sol	0	4194304	Value	ValueOutput
+Sidechai	0	4194304	Value	ValueOutput
+Auto Sol	0	4194304	Value	ValueOutput
+Peak Sto	0	4194304	Value	ValueOutput
+Mid Lo G	0	4194304	Value	ValueOutput
+Mid Lo M	0	4194304	Value	ValueOutput
+Mid Lo A	0	4194304	Value	ValueOutput
+Mid Lo R	0	4194304	Value	ValueOutput
+Mid Lo X	0	4194304	Value	ValueOutput
+Mid Lo L	0	4194304	Value	ValueOutput
+Mid Lo X	0	4194304	Value	ValueOutput
+Mid Lo C	0	4194304	Value	ValueOutput
+Mid Lo A	0	4194304	Value	ValueOutput
+Mid Hi G	0	4194304	Value	ValueOutput
+Mid Hi M	0	4194304	Value	ValueOutput
+Mid Hi A	0	4194304	Value	ValueOutput
+Mid Hi R	0	4194304	Value	ValueOutput
+Mid Hi X	0	4194304	Value	ValueOutput
+Mid Hi L	0	4194304	Value	ValueOutput
+Mid Hi X	0	4194304	Value	ValueOutput
+Mid Hi C	0	4194304	Value	ValueOutput
+Mid Hi A	0	4194304	Value	ValueOutput
+Side Gai	0	4194304	Value	ValueOutput
+Side Max	0	4194304	Value	ValueOutput
+Side Att	0	4194304	Value	ValueOutput
+Side Rel	0	4194304	Value	ValueOutput
+Side XL	0	4194304	Value	ValueOutput
+Side Lin	0	4194304	Value	ValueOutput
+Side XL 	0	4194304	Value	ValueOutput
+Side Cus	0	4194304	Value	ValueOutput
+Side Act	0	4194304	Value	ValueOutput
+Master G	0	4194304	Value	ValueOutput
+Master M	0	4194304	Value	ValueOutput
+Master X	0	4194304	Value	ValueOutput
+Master X	0	4194304	Value	ValueOutput
+Output G	0	4194304	Value	ValueOutput
+Sidechai	0	4194304	Value	ValueOutput
+Crossove	0	4194304	Value	ValueOutput
+Mono Mak	0	4194304	Value	ValueOutput
+Mono Mak	0	4194304	Value	ValueOutput
+Frequenc	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

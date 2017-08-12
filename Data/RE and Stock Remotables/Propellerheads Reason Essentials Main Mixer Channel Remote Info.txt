@@ -1,0 +1,53 @@
+Scope
+Manufacturer	Model
+Propellerheads	Reason Essentials Main Mixer Channel
+
+Remotable	Min	Max	Input type	Output type
+Width	0	127	Value	ValueOutput
+Mute	0	1	Toggle	ValueOutput
+Solo	0	1	Toggle	ValueOutput
+Input Gain	-64	63	Value	ValueOutput
+Invert Phase	0	1	Toggle	ValueOutput
+EQ On	0	1	Toggle	ValueOutput
+HF Gain	-64	63	Value	ValueOutput
+HF Bell	0	1	Toggle	ValueOutput
+HF On	0	1	-	ValueOutput
+LF Gain	-64	63	Value	ValueOutput
+LF Bell	0	1	Toggle	ValueOutput
+LF On	0	1	-	ValueOutput
+Bypass Insert FX	0	1	Toggle	ValueOutput
+Rotary 1	0	127	Value	ValueOutput
+Rotary 2	0	127	Value	ValueOutput
+Rotary 3	0	127	Value	ValueOutput
+Rotary 4	0	127	Value	ValueOutput
+Button 1	0	1	Toggle	ValueOutput
+Button 2	0	1	Toggle	ValueOutput
+Button 3	0	1	Toggle	ValueOutput
+Button 4	0	1	Toggle	ValueOutput
+To Insert FX Peak Meter	0	20	-	ValueOutput
+From Insert FX Peak Meter	0	20	-	ValueOutput
+FX1 Send On	0	1	Toggle	ValueOutput
+FX1 Send Level	0	127	Value	ValueOutput
+FX1 Pre Fader	0	1	Toggle	ValueOutput
+FX2 Send On	0	1	Toggle	ValueOutput
+FX2 Send Level	0	127	Value	ValueOutput
+FX2 Pre Fader	0	1	Toggle	ValueOutput
+FX3 Send On	0	1	Toggle	ValueOutput
+FX3 Send Level	0	127	Value	ValueOutput
+FX3 Pre Fader	0	1	Toggle	ValueOutput
+FX4 Send On	0	1	Toggle	ValueOutput
+FX4 Send Level	0	127	Value	ValueOutput
+FX4 Pre Fader	0	1	Toggle	ValueOutput
+VU Meter	0	32	-	ValueOutput
+VU Meter L	0	32	-	ValueOutput
+VU Meter R	0	32	-	ValueOutput
+HF Frequency	0	1000	Value	ValueOutput
+LF Frequency	0	1000	Value	ValueOutput
+Level	0	1000	Value	ValueOutput
+Pan	-100	100	Value	ValueOutput
+Inserts Connected	0	1	-	ValueOutput
+Channel Name	0	0	-	TextOutput
+Insert FX Patch Name	0	0	-	TextOutput
+Select Insert FX Patch Delta	0	0	Delta	TextOutput
+Select Prev Insert FX Patch	0	0	Trig	TextOutput
+Select Next Insert FX Patch	0	0	Trig	TextOutput

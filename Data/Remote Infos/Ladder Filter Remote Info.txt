@@ -1,0 +1,22 @@
+Scope
+Manufacturer	Model
+Primal Audio	com.primalaudio.Ladder
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter FM	0	4194304	Value	ValueOutput
+Mix Lowpass	0	4194304	Value	ValueOutput
+Mix Bandpass	0	4194304	Value	ValueOutput
+Mix Highpass	0	4194304	Value	ValueOutput
+Amp Input	0	4194304	Value	ValueOutput
+Amp Output	0	4194304	Value	ValueOutput
+Amp Spacing	0	4194304	Value	ValueOutput
+Amp Load	0	1	Toggle	ValueOutput
+Amp Auto	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

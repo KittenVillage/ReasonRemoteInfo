@@ -1,0 +1,131 @@
+Scope
+Manufacturer	Model
+Stone Voices	vst.BRND.brandulator
+Note: Will match scope definitions for vst.BRND.brandulator or vst.BRND
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Level	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Detune	0	4194304	Value	ValueOutput
+Ch. A	0	4194304	Value	ValueOutput
+Ch. B	0	4194304	Value	ValueOutput
+Ch. C	0	4194304	Value	ValueOutput
+Step A1	0	4194304	Value	ValueOutput
+Step A2	0	4194304	Value	ValueOutput
+Step A3	0	4194304	Value	ValueOutput
+Step A4	0	4194304	Value	ValueOutput
+Step A5	0	4194304	Value	ValueOutput
+Step A6	0	4194304	Value	ValueOutput
+Step A7	0	4194304	Value	ValueOutput
+Step A8	0	4194304	Value	ValueOutput
+Step A9	0	4194304	Value	ValueOutput
+Step A10	0	4194304	Value	ValueOutput
+Step A11	0	4194304	Value	ValueOutput
+Step A12	0	4194304	Value	ValueOutput
+Step A13	0	4194304	Value	ValueOutput
+Step A14	0	4194304	Value	ValueOutput
+Step A15	0	4194304	Value	ValueOutput
+Step A16	0	4194304	Value	ValueOutput
+Note A1	0	4194304	Value	ValueOutput
+Note A2	0	4194304	Value	ValueOutput
+Note A3	0	4194304	Value	ValueOutput
+Note A4	0	4194304	Value	ValueOutput
+Note A5	0	4194304	Value	ValueOutput
+Note A6	0	4194304	Value	ValueOutput
+Note A7	0	4194304	Value	ValueOutput
+Note A8	0	4194304	Value	ValueOutput
+Note A9	0	4194304	Value	ValueOutput
+Note A10	0	4194304	Value	ValueOutput
+Note A11	0	4194304	Value	ValueOutput
+Note A12	0	4194304	Value	ValueOutput
+Note A13	0	4194304	Value	ValueOutput
+Note A14	0	4194304	Value	ValueOutput
+Note A15	0	4194304	Value	ValueOutput
+Note A16	0	4194304	Value	ValueOutput
+Step B1	0	4194304	Value	ValueOutput
+Step B2	0	4194304	Value	ValueOutput
+Step B3	0	4194304	Value	ValueOutput
+Step B4	0	4194304	Value	ValueOutput
+Step B5	0	4194304	Value	ValueOutput
+Step B6	0	4194304	Value	ValueOutput
+Step B7	0	4194304	Value	ValueOutput
+Step B8	0	4194304	Value	ValueOutput
+Step B9	0	4194304	Value	ValueOutput
+Step B10	0	4194304	Value	ValueOutput
+Step B11	0	4194304	Value	ValueOutput
+Step B12	0	4194304	Value	ValueOutput
+Step B13	0	4194304	Value	ValueOutput
+Step B14	0	4194304	Value	ValueOutput
+Step B15	0	4194304	Value	ValueOutput
+Step B16	0	4194304	Value	ValueOutput
+Note B1	0	4194304	Value	ValueOutput
+Note B2	0	4194304	Value	ValueOutput
+Note B3	0	4194304	Value	ValueOutput
+Note B4	0	4194304	Value	ValueOutput
+Note B5	0	4194304	Value	ValueOutput
+Note B6	0	4194304	Value	ValueOutput
+Note B7	0	4194304	Value	ValueOutput
+Note B8	0	4194304	Value	ValueOutput
+Note B9	0	4194304	Value	ValueOutput
+Note B10	0	4194304	Value	ValueOutput
+Note B11	0	4194304	Value	ValueOutput
+Note B12	0	4194304	Value	ValueOutput
+Note B13	0	4194304	Value	ValueOutput
+Note B14	0	4194304	Value	ValueOutput
+Note B15	0	4194304	Value	ValueOutput
+Note B16	0	4194304	Value	ValueOutput
+Step C1	0	4194304	Value	ValueOutput
+Step C2	0	4194304	Value	ValueOutput
+Step C3	0	4194304	Value	ValueOutput
+Step C4	0	4194304	Value	ValueOutput
+Step C5	0	4194304	Value	ValueOutput
+Step C6	0	4194304	Value	ValueOutput
+Step C7	0	4194304	Value	ValueOutput
+Step C8	0	4194304	Value	ValueOutput
+Step C9	0	4194304	Value	ValueOutput
+Step C10	0	4194304	Value	ValueOutput
+Step C11	0	4194304	Value	ValueOutput
+Step C12	0	4194304	Value	ValueOutput
+Step C13	0	4194304	Value	ValueOutput
+Step C14	0	4194304	Value	ValueOutput
+Step C15	0	4194304	Value	ValueOutput
+Step C16	0	4194304	Value	ValueOutput
+Note C1	0	4194304	Value	ValueOutput
+Note C2	0	4194304	Value	ValueOutput
+Note C3	0	4194304	Value	ValueOutput
+Note C4	0	4194304	Value	ValueOutput
+Note C5	0	4194304	Value	ValueOutput
+Note C6	0	4194304	Value	ValueOutput
+Note C7	0	4194304	Value	ValueOutput
+Note C8	0	4194304	Value	ValueOutput
+Note C9	0	4194304	Value	ValueOutput
+Note C10	0	4194304	Value	ValueOutput
+Note C11	0	4194304	Value	ValueOutput
+Note C12	0	4194304	Value	ValueOutput
+Note C13	0	4194304	Value	ValueOutput
+Note C14	0	4194304	Value	ValueOutput
+Note C15	0	4194304	Value	ValueOutput
+Note C16	0	4194304	Value	ValueOutput
+Random	0	4194304	Value	ValueOutput
+Random root note	0	4194304	Value	ValueOutput
+Random range	0	4194304	Value	ValueOutput
+Random style #	0	4194304	Value	ValueOutput
+Auto random	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

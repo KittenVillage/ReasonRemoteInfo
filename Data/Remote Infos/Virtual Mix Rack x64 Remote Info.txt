@@ -1,0 +1,160 @@
+Scope
+Manufacturer	Model
+Slate Digital	vst.VMXR.Virtual Mix Rack x64
+Note: Will match scope definitions for vst.VMXR.Virtual Mix Rack x64 or vst.VMXR
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+A-Power	0	4194304	Value	ValueOutput
+B-Power	0	4194304	Value	ValueOutput
+C-Power	0	4194304	Value	ValueOutput
+D-Power	0	4194304	Value	ValueOutput
+E-Power	0	4194304	Value	ValueOutput
+F-Power	0	4194304	Value	ValueOutput
+G-Power	0	4194304	Value	ValueOutput
+H-Power	0	4194304	Value	ValueOutput
+A-01	0	4194304	Value	ValueOutput
+A-02	0	4194304	Value	ValueOutput
+A-03	0	4194304	Value	ValueOutput
+A-04	0	4194304	Value	ValueOutput
+A-05	0	4194304	Value	ValueOutput
+A-06	0	4194304	Value	ValueOutput
+A-07	0	4194304	Value	ValueOutput
+A-08	0	4194304	Value	ValueOutput
+A-09	0	4194304	Value	ValueOutput
+A-10	0	4194304	Value	ValueOutput
+A-11	0	4194304	Value	ValueOutput
+A-12	0	4194304	Value	ValueOutput
+A-13	0	4194304	Value	ValueOutput
+A-14	0	4194304	Value	ValueOutput
+A-15	0	4194304	Value	ValueOutput
+A-16	0	4194304	Value	ValueOutput
+B-01	0	4194304	Value	ValueOutput
+B-02	0	4194304	Value	ValueOutput
+B-03	0	4194304	Value	ValueOutput
+B-04	0	4194304	Value	ValueOutput
+B-05	0	4194304	Value	ValueOutput
+B-06	0	4194304	Value	ValueOutput
+B-07	0	4194304	Value	ValueOutput
+B-08	0	4194304	Value	ValueOutput
+B-09	0	4194304	Value	ValueOutput
+B-10	0	4194304	Value	ValueOutput
+B-11	0	4194304	Value	ValueOutput
+B-12	0	4194304	Value	ValueOutput
+B-13	0	4194304	Value	ValueOutput
+B-14	0	4194304	Value	ValueOutput
+B-15	0	4194304	Value	ValueOutput
+B-16	0	4194304	Value	ValueOutput
+C-01	0	4194304	Value	ValueOutput
+C-02	0	4194304	Value	ValueOutput
+C-03	0	4194304	Value	ValueOutput
+C-04	0	4194304	Value	ValueOutput
+C-05	0	4194304	Value	ValueOutput
+C-06	0	4194304	Value	ValueOutput
+C-07	0	4194304	Value	ValueOutput
+C-08	0	4194304	Value	ValueOutput
+C-09	0	4194304	Value	ValueOutput
+C-10	0	4194304	Value	ValueOutput
+C-11	0	4194304	Value	ValueOutput
+C-12	0	4194304	Value	ValueOutput
+C-13	0	4194304	Value	ValueOutput
+C-14	0	4194304	Value	ValueOutput
+C-15	0	4194304	Value	ValueOutput
+C-16	0	4194304	Value	ValueOutput
+D-01	0	4194304	Value	ValueOutput
+D-02	0	4194304	Value	ValueOutput
+D-03	0	4194304	Value	ValueOutput
+D-04	0	4194304	Value	ValueOutput
+D-05	0	4194304	Value	ValueOutput
+D-06	0	4194304	Value	ValueOutput
+D-07	0	4194304	Value	ValueOutput
+D-08	0	4194304	Value	ValueOutput
+D-09	0	4194304	Value	ValueOutput
+D-10	0	4194304	Value	ValueOutput
+D-11	0	4194304	Value	ValueOutput
+D-12	0	4194304	Value	ValueOutput
+D-13	0	4194304	Value	ValueOutput
+D-14	0	4194304	Value	ValueOutput
+D-15	0	4194304	Value	ValueOutput
+D-16	0	4194304	Value	ValueOutput
+E-01	0	4194304	Value	ValueOutput
+E-02	0	4194304	Value	ValueOutput
+E-03	0	4194304	Value	ValueOutput
+E-04	0	4194304	Value	ValueOutput
+E-05	0	4194304	Value	ValueOutput
+E-06	0	4194304	Value	ValueOutput
+E-07	0	4194304	Value	ValueOutput
+E-08	0	4194304	Value	ValueOutput
+E-09	0	4194304	Value	ValueOutput
+E-10	0	4194304	Value	ValueOutput
+E-11	0	4194304	Value	ValueOutput
+E-12	0	4194304	Value	ValueOutput
+E-13	0	4194304	Value	ValueOutput
+E-14	0	4194304	Value	ValueOutput
+E-15	0	4194304	Value	ValueOutput
+E-16	0	4194304	Value	ValueOutput
+F-01	0	4194304	Value	ValueOutput
+F-02	0	4194304	Value	ValueOutput
+F-03	0	4194304	Value	ValueOutput
+F-04	0	4194304	Value	ValueOutput
+F-05	0	4194304	Value	ValueOutput
+F-06	0	4194304	Value	ValueOutput
+F-07	0	4194304	Value	ValueOutput
+F-08	0	4194304	Value	ValueOutput
+F-09	0	4194304	Value	ValueOutput
+F-10	0	4194304	Value	ValueOutput
+F-11	0	4194304	Value	ValueOutput
+F-12	0	4194304	Value	ValueOutput
+F-13	0	4194304	Value	ValueOutput
+F-14	0	4194304	Value	ValueOutput
+F-15	0	4194304	Value	ValueOutput
+F-16	0	4194304	Value	ValueOutput
+G-01	0	4194304	Value	ValueOutput
+G-02	0	4194304	Value	ValueOutput
+G-03	0	4194304	Value	ValueOutput
+G-04	0	4194304	Value	ValueOutput
+G-05	0	4194304	Value	ValueOutput
+G-06	0	4194304	Value	ValueOutput
+G-07	0	4194304	Value	ValueOutput
+G-08	0	4194304	Value	ValueOutput
+G-09	0	4194304	Value	ValueOutput
+G-10	0	4194304	Value	ValueOutput
+G-11	0	4194304	Value	ValueOutput
+G-12	0	4194304	Value	ValueOutput
+G-13	0	4194304	Value	ValueOutput
+G-14	0	4194304	Value	ValueOutput
+G-15	0	4194304	Value	ValueOutput
+G-16	0	4194304	Value	ValueOutput
+H-01	0	4194304	Value	ValueOutput
+H-02	0	4194304	Value	ValueOutput
+H-03	0	4194304	Value	ValueOutput
+H-04	0	4194304	Value	ValueOutput
+H-05	0	4194304	Value	ValueOutput
+H-06	0	4194304	Value	ValueOutput
+H-07	0	4194304	Value	ValueOutput
+H-08	0	4194304	Value	ValueOutput
+H-09	0	4194304	Value	ValueOutput
+H-10	0	4194304	Value	ValueOutput
+H-11	0	4194304	Value	ValueOutput
+H-12	0	4194304	Value	ValueOutput
+H-13	0	4194304	Value	ValueOutput
+H-14	0	4194304	Value	ValueOutput
+H-15	0	4194304	Value	ValueOutput
+H-16	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

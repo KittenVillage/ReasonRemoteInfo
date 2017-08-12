@@ -1,0 +1,193 @@
+Scope
+Manufacturer	Model
+Bassment DSP	com.bassmentdsp.NSPedalBoard
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Pedal 1 Compressor Threshold	0	4194304	Value	ValueOutput
+Pedal 1 Compressor Ratio	0	4194304	Value	ValueOutput
+Pedal 1 Compressor Attack	0	4194304	Value	ValueOutput
+Pedal 1 Compressor Release	0	4194304	Value	ValueOutput
+Pedal 1 LPF Cutoff	0	4194304	Value	ValueOutput
+Pedal 1 LPF Q	0	4194304	Value	ValueOutput
+Pedal 1 LPF In Gain	0	4194304	Value	ValueOutput
+Pedal 1 LPF Out Gain	0	4194304	Value	ValueOutput
+Pedal 1 Distortion Drive	0	4194304	Value	ValueOutput
+Pedal 1 Distortion Tone	0	4194304	Value	ValueOutput
+Pedal 1 Distortion In Gain	0	4194304	Value	ValueOutput
+Pedal 1 Distortion Out Gain	0	4194304	Value	ValueOutput
+Pedal 1 Delay Time	0	4194304	Value	ValueOutput
+Pedal 1 Delay Feedback	0	4194304	Value	ValueOutput
+Pedal 1 Delay Cutoff	0	4194304	Value	ValueOutput
+Pedal 1 Delay Dry Wet	0	4194304	Value	ValueOutput
+Pedal 1 Chorus Hz	0	4194304	Value	ValueOutput
+Pedal 1 Chorus Feedback	0	4194304	Value	ValueOutput
+Pedal 1 Chorus Depth	0	4194304	Value	ValueOutput
+Pedal 1 Chorus Dry Wet	0	4194304	Value	ValueOutput
+Pedal 1 Overdrive In Gain	0	4194304	Value	ValueOutput
+Pedal 1 Overdrive Drive	0	4194304	Value	ValueOutput
+Pedal 1 Overdrive Wet Gain	0	4194304	Value	ValueOutput
+Pedal 1 Overdrive Dry Wet	0	4194304	Value	ValueOutput
+Pedal 1 WahWah Position	0	4194304	Value	ValueOutput
+Pedal 1 EQ Low Gain	0	4194304	Value	ValueOutput
+Pedal 1 EQ Mid Gain	0	4194304	Value	ValueOutput
+Pedal 1 EQ High Gain	0	4194304	Value	ValueOutput
+Pedal 1 EQ Out Gain	0	4194304	Value	ValueOutput
+Pedal 2 Compressor Threshold	0	4194304	Value	ValueOutput
+Pedal 2 Compressor Ratio	0	4194304	Value	ValueOutput
+Attack 2	0	4194304	Value	ValueOutput
+Pedal 2 Compressor Release	0	4194304	Value	ValueOutput
+Pedal 2 LPF Cutoff	0	4194304	Value	ValueOutput
+Pedal 2 LPF Q	0	4194304	Value	ValueOutput
+Pedal 2 LPF In Gain	0	4194304	Value	ValueOutput
+Pedal 2 LPF Out Gain	0	4194304	Value	ValueOutput
+Pedal 2 Distortion Drive	0	4194304	Value	ValueOutput
+Pedal 2 Distortion Tone	0	4194304	Value	ValueOutput
+Pedal 2 Distortion In Gain	0	4194304	Value	ValueOutput
+Pedal 2 Distortion Out Gain	0	4194304	Value	ValueOutput
+Pedal 2 Delay Time	0	4194304	Value	ValueOutput
+Pedal 2 Delay Feedback	0	4194304	Value	ValueOutput
+Pedal 2 Delay Cutoff	0	4194304	Value	ValueOutput
+Pedal 2 Delay Dry Wet	0	4194304	Value	ValueOutput
+Pedal 2 Chorus Hz	0	4194304	Value	ValueOutput
+Pedal 2 Chorus Feedback	0	4194304	Value	ValueOutput
+Pedal 2 Chorus Depth	0	4194304	Value	ValueOutput
+Pedal 2 Chorus Dry Wet	0	4194304	Value	ValueOutput
+Pedal 2 Overdrive In Gain	0	4194304	Value	ValueOutput
+Pedal 2 Overdrive Drive	0	4194304	Value	ValueOutput
+Pedal 2 Overdrive Wet Gain	0	4194304	Value	ValueOutput
+Pedal 2 Overdrive Dry Wet	0	4194304	Value	ValueOutput
+Pedal 2 WahWah Position	0	4194304	Value	ValueOutput
+Pedal 2 EQ Low Gain	0	4194304	Value	ValueOutput
+Pedal 2 EQ Mid Gain	0	4194304	Value	ValueOutput
+Pedal 2 EQ High Gain	0	4194304	Value	ValueOutput
+Pedal 2 EQ Out Gain	0	4194304	Value	ValueOutput
+Pedal 3 Compressor Threshold	0	4194304	Value	ValueOutput
+Pedal 3 Compressor Ratio	0	4194304	Value	ValueOutput
+Pedal 3 Compressor Attack	0	4194304	Value	ValueOutput
+Pedal 3 Compressor Release	0	4194304	Value	ValueOutput
+Pedal 3 LPF Cutoff	0	4194304	Value	ValueOutput
+Pedal 3 LPF Q	0	4194304	Value	ValueOutput
+Pedal 3 LPF In Gain	0	4194304	Value	ValueOutput
+Pedal 3 LPF Out Gain	0	4194304	Value	ValueOutput
+Pedal 3 Distortion Drive	0	4194304	Value	ValueOutput
+Pedal 3 Distortion Tone	0	4194304	Value	ValueOutput
+Pedal 3 Distortion In Gain	0	4194304	Value	ValueOutput
+Pedal 3 Distortion Out Gain	0	4194304	Value	ValueOutput
+Pedal 3 Delay Time	0	4194304	Value	ValueOutput
+Pedal 3 Delay Feedback	0	4194304	Value	ValueOutput
+Pedal 3 Delay Cutoff	0	4194304	Value	ValueOutput
+Pedal 3 Delay Dry Wet	0	4194304	Value	ValueOutput
+Pedal 3 Chorus Hz	0	4194304	Value	ValueOutput
+Pedal 3 Chorus Feedback	0	4194304	Value	ValueOutput
+Pedal 3 Chorus Depth	0	4194304	Value	ValueOutput
+Pedal 3 Chorus Dry Wet	0	4194304	Value	ValueOutput
+Pedal 3 Overdrive In Gain	0	4194304	Value	ValueOutput
+Pedal 3 Overdrive Drive	0	4194304	Value	ValueOutput
+Pedal 3 Overdrive Wet Gain	0	4194304	Value	ValueOutput
+Pedal 3 Overdrive Dry Wet	0	4194304	Value	ValueOutput
+Pedal 3 WahWah Position	0	4194304	Value	ValueOutput
+Pedal 3 EQ Low Gain	0	4194304	Value	ValueOutput
+Pedal 3 EQ Mid Gain	0	4194304	Value	ValueOutput
+Pedal 3 EQ High Gain	0	4194304	Value	ValueOutput
+Pedal 3 EQ Out Gain	0	4194304	Value	ValueOutput
+Pedal 4 Compressor Threshold	0	4194304	Value	ValueOutput
+Pedal 4 Compressor Ratio	0	4194304	Value	ValueOutput
+Pedal 4 Compressor Attack	0	4194304	Value	ValueOutput
+Pedal 4 Compressor Release	0	4194304	Value	ValueOutput
+Pedal 4 LPF Cutoff	0	4194304	Value	ValueOutput
+Pedal 4 LPF Q	0	4194304	Value	ValueOutput
+Pedal 4 LPF In Gain	0	4194304	Value	ValueOutput
+Pedal 4 LPF Out Gain	0	4194304	Value	ValueOutput
+Pedal 4 Distortion Drive	0	4194304	Value	ValueOutput
+Pedal 4 Distortion Tone	0	4194304	Value	ValueOutput
+Pedal 4 Distortion In Gain	0	4194304	Value	ValueOutput
+Pedal 4 Distortion Out Gain	0	4194304	Value	ValueOutput
+Pedal 4 Delay Time	0	4194304	Value	ValueOutput
+Pedal 4 Delay Feedback	0	4194304	Value	ValueOutput
+Pedal 4 Delay Cutoff	0	4194304	Value	ValueOutput
+Pedal 4 Delay Dry Wet	0	4194304	Value	ValueOutput
+Pedal 4 Chorus Hz	0	4194304	Value	ValueOutput
+Pedal 4 Chorus Feedback	0	4194304	Value	ValueOutput
+Pedal 4 Chorus Depth	0	4194304	Value	ValueOutput
+Pedal 4 Chorus Dry Wet	0	4194304	Value	ValueOutput
+Pedal 4 Overdrive In Gain	0	4194304	Value	ValueOutput
+Pedal 4 Overdrive Drive	0	4194304	Value	ValueOutput
+Pedal 4 Overdrive Wet Gain	0	4194304	Value	ValueOutput
+Pedal 4 Overdrive Dry Wet	0	4194304	Value	ValueOutput
+Pedal 4 WahWah Position	0	4194304	Value	ValueOutput
+Pedal 4 EQ Low Gain	0	4194304	Value	ValueOutput
+Pedal 4 EQ Mid Gain	0	4194304	Value	ValueOutput
+Pedal 4 EQ High Gain	0	4194304	Value	ValueOutput
+Pedal 4 EQ Out Gain	0	4194304	Value	ValueOutput
+Pedal 5 Compressor Threshold	0	4194304	Value	ValueOutput
+Pedal 5 Compressor Ratio	0	4194304	Value	ValueOutput
+Pedal 5 Compressor Attack	0	4194304	Value	ValueOutput
+Pedal 5 Compressor Release	0	4194304	Value	ValueOutput
+Pedal 5 LPF Cutoff	0	4194304	Value	ValueOutput
+Pedal 5 LPF Q	0	4194304	Value	ValueOutput
+Pedal 5 LPF In Gain	0	4194304	Value	ValueOutput
+Pedal 5 LPF Out Gain	0	4194304	Value	ValueOutput
+Pedal 5 Distortion Drive	0	4194304	Value	ValueOutput
+Pedal 5 Distortion Tone	0	4194304	Value	ValueOutput
+Pedal 5 Distortion In Gain	0	4194304	Value	ValueOutput
+Pedal 5 Distortion Out Gain	0	4194304	Value	ValueOutput
+Pedal 5 Delay Time	0	4194304	Value	ValueOutput
+Pedal 5 Delay Feedback	0	4194304	Value	ValueOutput
+Pedal 5 Delay Cutoff	0	4194304	Value	ValueOutput
+Pedal 5 Delay Dry Wet	0	4194304	Value	ValueOutput
+Pedal 5 Chorus Hz	0	4194304	Value	ValueOutput
+Pedal 5 Chorus Feedback	0	4194304	Value	ValueOutput
+Pedal 5 Chorus Depth	0	4194304	Value	ValueOutput
+Pedal 5 Chorus Dry Wet	0	4194304	Value	ValueOutput
+Pedal 5 Overdrive In Gain	0	4194304	Value	ValueOutput
+Pedal 5 Overdrive Drive	0	4194304	Value	ValueOutput
+Pedal 5 Overdrive Wet Gain	0	4194304	Value	ValueOutput
+Pedal 5 Overdrive Dry Wet	0	4194304	Value	ValueOutput
+Pedal 5 WahWah Position	0	4194304	Value	ValueOutput
+Pedal 5 EQ Low Gain	0	4194304	Value	ValueOutput
+Pedal 5 EQ Mid Gain	0	4194304	Value	ValueOutput
+Pedal 5 EQ High Gain	0	4194304	Value	ValueOutput
+Pedal 5 EQ Out Gain	0	4194304	Value	ValueOutput
+Pedal 6 Compressor Threshold	0	4194304	Value	ValueOutput
+Pedal 6 Compressor Ratio	0	4194304	Value	ValueOutput
+Pedal 6 Compressor Attack	0	4194304	Value	ValueOutput
+Pedal 6 Compressor Release	0	4194304	Value	ValueOutput
+Pedal 6 LPF Cutoff	0	4194304	Value	ValueOutput
+Pedal 6 LPF Q	0	4194304	Value	ValueOutput
+Pedal 6 LPF In Gain	0	4194304	Value	ValueOutput
+Pedal 6 LPF Out Gain	0	4194304	Value	ValueOutput
+Pedal 6 Distortion Drive	0	4194304	Value	ValueOutput
+Pedal 6 Distortion Tone	0	4194304	Value	ValueOutput
+Pedal 6 Distortion In Gain	0	4194304	Value	ValueOutput
+Pedal 6 Distortion Out Gain	0	4194304	Value	ValueOutput
+Pedal 6 Delay Time	0	4194304	Value	ValueOutput
+Pedal 6 Delay Feedback	0	4194304	Value	ValueOutput
+Pedal 6 Delay Cutoff	0	4194304	Value	ValueOutput
+Pedal 6 Delay Dry Wet	0	4194304	Value	ValueOutput
+Pedal 6 Chorus Hz	0	4194304	Value	ValueOutput
+Pedal 6 Chorus Feedback	0	4194304	Value	ValueOutput
+Pedal 6 Chorus Depth	0	4194304	Value	ValueOutput
+Pedal 6 Chorus Dry Wet	0	4194304	Value	ValueOutput
+Pedal 6 Overdrive In Gain	0	4194304	Value	ValueOutput
+Pedal 6 Overdrive Drive	0	4194304	Value	ValueOutput
+Pedal 6 Overdrive Wet Gain	0	4194304	Value	ValueOutput
+Pedal 6 Dry Wet	0	4194304	Value	ValueOutput
+Pedal 6 WahWah Position	0	4194304	Value	ValueOutput
+Pedal 6 WahWah Low Gain	0	4194304	Value	ValueOutput
+Pedal 6 WahWah Mid Gain	0	4194304	Value	ValueOutput
+Pedal 6 WahWah High Gain	0	4194304	Value	ValueOutput
+Pedal 6 WahWah Out Gain	0	4194304	Value	ValueOutput
+Pedal 1	0	8	Value	ValueOutput
+Pedal 2	0	8	Value	ValueOutput
+Pedal 3	0	8	Value	ValueOutput
+Pedal 4	0	8	Value	ValueOutput
+Pedal 5	0	8	Value	ValueOutput
+Pedal 6	0	8	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+----	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,24 @@
+Scope
+Manufacturer	Model
+Quadelectra (Quadelectra Audioworx)	com.quadelectra.CVSuiteLineProcessor
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	1	Toggle	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Polarity	0	1	Toggle	ValueOutput
+Low Cut	0	4194304	Value	ValueOutput
+Hi Cut	0	4194304	Value	ValueOutput
+Foldback	0	4194304	Value	ValueOutput
+Low End	0	4194304	Value	ValueOutput
+Hi End	0	4194304	Value	ValueOutput
+Balance Point	0	4194304	Value	ValueOutput
+Quantize	0	4194304	Value	ValueOutput
+Quantize Synced	0	21	Value	ValueOutput
+Quantize Sync Switch	0	1	Toggle	ValueOutput
+Smooth	0	4194304	Value	ValueOutput
+Shaper	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

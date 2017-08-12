@@ -1,0 +1,75 @@
+Scope
+Manufacturer	Model
+Retouch Control	com.retouchcontrol.JammeR
+
+Remotable	Min	Max	Input type	Output type
+Scene 1 Deck 1 Loop	0	9	Value	ValueOutput
+Scene 1 Deck 2 Loop	0	9	Value	ValueOutput
+Scene 1 Deck 3 Loop	0	9	Value	ValueOutput
+Scene 1 Deck 4 Loop	0	9	Value	ValueOutput
+Scene 1 Deck 5 Loop	0	9	Value	ValueOutput
+Scene 1 Deck 6 Loop	0	9	Value	ValueOutput
+Trigger 1	0	1	Toggle	ValueOutput
+Scene 2 Deck 1 Loop	0	9	Value	ValueOutput
+Scene 2 Deck 2 Loop	0	9	Value	ValueOutput
+Scene 2 Deck 3 Loop	0	9	Value	ValueOutput
+Scene 2 Deck 4 Loop	0	9	Value	ValueOutput
+Scene 2 Deck 5 Loop	0	9	Value	ValueOutput
+Scene 2 Deck 6 Loop	0	9	Value	ValueOutput
+Trigger 2	0	1	Toggle	ValueOutput
+Scene 3 Deck 1 Loop	0	9	Value	ValueOutput
+Scene 3 Deck 2 Loop	0	9	Value	ValueOutput
+Scene 3 Deck 3 Loop	0	9	Value	ValueOutput
+Scene 3 Deck 4 Loop	0	9	Value	ValueOutput
+Scene 3 Deck 5 Loop	0	9	Value	ValueOutput
+Scene 3 Deck 6 Loop	0	9	Value	ValueOutput
+Trigger 3	0	1	Toggle	ValueOutput
+Scene 4 Deck 1 Loop	0	9	Value	ValueOutput
+Scene 4 Deck 2 Loop	0	9	Value	ValueOutput
+Scene 4 Deck 3 Loop	0	9	Value	ValueOutput
+Scene 4 Deck 4 Loop	0	9	Value	ValueOutput
+Scene 4 Deck 5 Loop	0	9	Value	ValueOutput
+Scene 4 Deck 6 Loop	0	9	Value	ValueOutput
+Trigger 4	0	1	Toggle	ValueOutput
+Scene 5 Deck 1 Loop	0	9	Value	ValueOutput
+Scene 5 Deck 2 Loop	0	9	Value	ValueOutput
+Scene 5 Deck 3 Loop	0	9	Value	ValueOutput
+Scene 5 Deck 4 Loop	0	9	Value	ValueOutput
+Scene 5 Deck 5 Loop	0	9	Value	ValueOutput
+Scene 5 Deck 6 Loop	0	9	Value	ValueOutput
+Trigger 5	0	1	Toggle	ValueOutput
+Scene 6 Deck 1 Loop	0	9	Value	ValueOutput
+Scene 6 Deck 2 Loop	0	9	Value	ValueOutput
+Scene 6 Deck 3 Loop	0	9	Value	ValueOutput
+Scene 6 Deck 4 Loop	0	9	Value	ValueOutput
+Scene 6 Deck 5 Loop	0	9	Value	ValueOutput
+Scene 6 Deck 6 Loop	0	9	Value	ValueOutput
+Trigger 6	0	1	Toggle	ValueOutput
+Scene 7 Deck 1 Loop	0	9	Value	ValueOutput
+Scene 7 Deck 2 Loop	0	9	Value	ValueOutput
+Scene 7 Deck 3 Loop	0	9	Value	ValueOutput
+Scene 7 Deck 4 Loop	0	9	Value	ValueOutput
+Scene 7 Deck 5 Loop	0	9	Value	ValueOutput
+Scene 7 Deck 6 Loop	0	9	Value	ValueOutput
+Trigger 7	0	1	Toggle	ValueOutput
+Scene 8 Deck 1 Loop	0	9	Value	ValueOutput
+Scene 8 Deck 2 Loop	0	9	Value	ValueOutput
+Scene 8 Deck 3 Loop	0	9	Value	ValueOutput
+Scene 8 Deck 4 Loop	0	9	Value	ValueOutput
+Scene 8 Deck 5 Loop	0	9	Value	ValueOutput
+Scene 8 Deck 6 Loop	0	9	Value	ValueOutput
+Trigger 8	0	1	Toggle	ValueOutput
+Stop ALL	0	1	Toggle	ValueOutput
+Scene 1 led	0	1	-	ValueOutput
+Scene 2 led	0	1	-	ValueOutput
+Scene 3 led	0	1	-	ValueOutput
+Scene 4 led	0	1	-	ValueOutput
+Scene 5 led	0	1	-	ValueOutput
+Scene 6 led	0	1	-	ValueOutput
+Scene 7 led	0	1	-	ValueOutput
+Scene 8 led	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

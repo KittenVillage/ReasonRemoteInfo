@@ -1,0 +1,710 @@
+Scope
+Manufacturer	Model
+AIR Music Technology	vst.drbH.Hybrid_x64
+Note: Will match scope definitions for vst.drbH.Hybrid_x64 or vst.drbH
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Unison Voices	0	4194304	Value	ValueOutput
+Unison Detune	0	4194304	Value	ValueOutput
+Unison Pan	0	4194304	Value	ValueOutput
+Pitch Bend Range	0	4194304	Value	ValueOutput
+Key Split point	0	4194304	Value	ValueOutput
+PartA Enable	0	4194304	Value	ValueOutput
+PartA Unison On	0	4194304	Value	ValueOutput
+PartA Voice Mode	0	4194304	Value	ValueOutput
+PartA Voice Limit	0	4194304	Value	ValueOutput
+PartA Portamento Time	0	4194304	Value	ValueOutput
+PartA Envelope Trigger	0	4194304	Value	ValueOutput
+PartA Octave	0	4194304	Value	ValueOutput
+PartA Tune	0	4194304	Value	ValueOutput
+PartA Pitch Bend	0	4194304	Value	ValueOutput
+PartA Porta Mode	0	4194304	Value	ValueOutput
+PartA Pitch Mod Src	0	4194304	Value	ValueOutput
+PartA Pitch Mod Lev	0	4194304	Value	ValueOutput
+PartA Chorus Send	0	4194304	Value	ValueOutput
+PartA Delay Send	0	4194304	Value	ValueOutput
+PartA Reverb Send	0	4194304	Value	ValueOutput
+PartA SSeq Mode	0	4194304	Value	ValueOutput
+PartA Phrase Select	0	4194304	Value	ValueOutput
+PartA SSeq Rate	0	4194304	Value	ValueOutput
+PartA SSeq Sync	0	4194304	Value	ValueOutput
+PartA SSeq Latch	0	4194304	Value	ValueOutput
+PartA SSeq Octave	0	4194304	Value	ValueOutput
+PartA SSeq Step	0	4194304	Value	ValueOutput
+PartA SSeq Gate	0	4194304	Value	ValueOutput
+PartA SSeq Swing	0	4194304	Value	ValueOutput
+PartA Gate 01	0	4194304	Value	ValueOutput
+PartA Gate 02	0	4194304	Value	ValueOutput
+PartA Gate 03	0	4194304	Value	ValueOutput
+PartA Gate 04	0	4194304	Value	ValueOutput
+PartA Gate 05	0	4194304	Value	ValueOutput
+PartA Gate 06	0	4194304	Value	ValueOutput
+PartA Gate 07	0	4194304	Value	ValueOutput
+PartA Gate 08	0	4194304	Value	ValueOutput
+PartA Gate 09	0	4194304	Value	ValueOutput
+PartA Gate 10	0	4194304	Value	ValueOutput
+PartA Gate 11	0	4194304	Value	ValueOutput
+PartA Gate 12	0	4194304	Value	ValueOutput
+PartA Gate 13	0	4194304	Value	ValueOutput
+PartA Gate 14	0	4194304	Value	ValueOutput
+PartA Gate 15	0	4194304	Value	ValueOutput
+PartA Gate 16	0	4194304	Value	ValueOutput
+PartA Note 01	0	4194304	Value	ValueOutput
+PartA Note 02	0	4194304	Value	ValueOutput
+PartA Note 03	0	4194304	Value	ValueOutput
+PartA Note 04	0	4194304	Value	ValueOutput
+PartA Note 05	0	4194304	Value	ValueOutput
+PartA Note 06	0	4194304	Value	ValueOutput
+PartA Note 07	0	4194304	Value	ValueOutput
+PartA Note 08	0	4194304	Value	ValueOutput
+PartA Note 09	0	4194304	Value	ValueOutput
+PartA Note 10	0	4194304	Value	ValueOutput
+PartA Note 11	0	4194304	Value	ValueOutput
+PartA Note 12	0	4194304	Value	ValueOutput
+PartA Note 13	0	4194304	Value	ValueOutput
+PartA Note 14	0	4194304	Value	ValueOutput
+PartA Note 15	0	4194304	Value	ValueOutput
+PartA Note 16	0	4194304	Value	ValueOutput
+PartA Velocity 01	0	4194304	Value	ValueOutput
+PartA Velocity 02	0	4194304	Value	ValueOutput
+PartA Velocity 03	0	4194304	Value	ValueOutput
+PartA Velocity 04	0	4194304	Value	ValueOutput
+PartA Velocity 05	0	4194304	Value	ValueOutput
+PartA Velocity 06	0	4194304	Value	ValueOutput
+PartA Velocity 07	0	4194304	Value	ValueOutput
+PartA Velocity 08	0	4194304	Value	ValueOutput
+PartA Velocity 09	0	4194304	Value	ValueOutput
+PartA Velocity 10	0	4194304	Value	ValueOutput
+PartA Velocity 11	0	4194304	Value	ValueOutput
+PartA Velocity 12	0	4194304	Value	ValueOutput
+PartA Velocity 13	0	4194304	Value	ValueOutput
+PartA Velocity 14	0	4194304	Value	ValueOutput
+PartA Velocity 15	0	4194304	Value	ValueOutput
+PartA Velocity 16	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 01	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 02	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 03	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 04	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 05	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 06	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 07	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 08	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 09	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 10	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 11	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 12	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 13	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 14	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 15	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 16	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 01	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 02	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 03	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 04	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 05	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 06	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 07	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 08	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 09	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 10	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 11	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 12	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 13	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 14	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 15	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 16	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 Mod Src	0	4194304	Value	ValueOutput
+PartA CtrlSeq1 Mod Lev	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 Mod Src	0	4194304	Value	ValueOutput
+PartA CtrlSeq2 Mod Lev	0	4194304	Value	ValueOutput
+PartA Oscillator1 Waveta	0	4194304	Value	ValueOutput
+PartA Oscillator1 Type	0	4194304	Value	ValueOutput
+PartA Oscillator1 Semi	0	4194304	Value	ValueOutput
+PartA Oscillator1 Cent	0	4194304	Value	ValueOutput
+PartA Oscillator1 Shape	0	4194304	Value	ValueOutput
+PartA Oscillator1 Level	0	4194304	Value	ValueOutput
+PartA Oscillator1 Mod De	0	4194304	Value	ValueOutput
+PartA Oscillator1 Mod De	0	4194304	Value	ValueOutput
+PartA Oscillator1 Mod De	0	4194304	Value	ValueOutput
+PartA Oscillator1 Mod Sr	0	4194304	Value	ValueOutput
+PartA Oscillator1 Mod Sr	0	4194304	Value	ValueOutput
+PartA Oscillator1 Mod Sr	0	4194304	Value	ValueOutput
+PartA Oscillator1 Mod Le	0	4194304	Value	ValueOutput
+PartA Oscillator1 Mod Le	0	4194304	Value	ValueOutput
+PartA Oscillator1 Mod Le	0	4194304	Value	ValueOutput
+PartA Oscillator2 Waveta	0	4194304	Value	ValueOutput
+PartA Oscillator2 Type	0	4194304	Value	ValueOutput
+PartA Oscillator2 Semi	0	4194304	Value	ValueOutput
+PartA Oscillator2 Cent	0	4194304	Value	ValueOutput
+PartA Oscillator2 Shape	0	4194304	Value	ValueOutput
+PartA Oscillator2 Level	0	4194304	Value	ValueOutput
+PartA Oscillator2 Mod De	0	4194304	Value	ValueOutput
+PartA Oscillator2 Mod De	0	4194304	Value	ValueOutput
+PartA Oscillator2 Mod De	0	4194304	Value	ValueOutput
+PartA Oscillator2 Mod Sr	0	4194304	Value	ValueOutput
+PartA Oscillator2 Mod Sr	0	4194304	Value	ValueOutput
+PartA Oscillator2 Mod Sr	0	4194304	Value	ValueOutput
+PartA Oscillator2 Mod Le	0	4194304	Value	ValueOutput
+PartA Oscillator2 Mod Le	0	4194304	Value	ValueOutput
+PartA Oscillator2 Mod Le	0	4194304	Value	ValueOutput
+PartA Oscillator3 Type	0	4194304	Value	ValueOutput
+PartA Oscillator3 Octave	0	4194304	Value	ValueOutput
+PartA Oscillator3 Level	0	4194304	Value	ValueOutput
+PartA Sub Osc Level	0	4194304	Value	ValueOutput
+PartA Noise Level	0	4194304	Value	ValueOutput
+PartA Oscillator3 Mod De	0	4194304	Value	ValueOutput
+PartA Oscillator3 Mod De	0	4194304	Value	ValueOutput
+PartA Oscillator3 Mod De	0	4194304	Value	ValueOutput
+PartA Oscillator3 Mod Sr	0	4194304	Value	ValueOutput
+PartA Oscillator3 Mod Sr	0	4194304	Value	ValueOutput
+PartA Oscillator3 Mod Sr	0	4194304	Value	ValueOutput
+PartA Oscillator3 Mod Le	0	4194304	Value	ValueOutput
+PartA Oscillator3 Mod Le	0	4194304	Value	ValueOutput
+PartA Oscillator3 Mod Le	0	4194304	Value	ValueOutput
+PartA Filter Type	0	4194304	Value	ValueOutput
+PartA Filter Saturation	0	4194304	Value	ValueOutput
+PartA Cutoff	0	4194304	Value	ValueOutput
+PartA Resonance	0	4194304	Value	ValueOutput
+PartA Envelope	0	4194304	Value	ValueOutput
+PartA Key Track	0	4194304	Value	ValueOutput
+PartA Filter FM	0	4194304	Value	ValueOutput
+PartA Filter FM Mix	0	4194304	Value	ValueOutput
+PartA Filter Mod Dest1	0	4194304	Value	ValueOutput
+PartA Filter Mod Dest2	0	4194304	Value	ValueOutput
+PartA Filter Mod Dest3	0	4194304	Value	ValueOutput
+PartA Filter Mod Src1	0	4194304	Value	ValueOutput
+PartA Filter Mod Src2	0	4194304	Value	ValueOutput
+PartA Filter Mod Src3	0	4194304	Value	ValueOutput
+PartA Filter Mod Lev1	0	4194304	Value	ValueOutput
+PartA Filter Mod Lev2	0	4194304	Value	ValueOutput
+PartA Filter Mod Lev3	0	4194304	Value	ValueOutput
+PartA Volume	0	4194304	Value	ValueOutput
+PartA Pan	0	4194304	Value	ValueOutput
+PartA Amplifier Mod Dest	0	4194304	Value	ValueOutput
+PartA Amplifier Mod Dest	0	4194304	Value	ValueOutput
+PartA Amplifier Mod Dest	0	4194304	Value	ValueOutput
+PartA Amplifier Mod Src1	0	4194304	Value	ValueOutput
+PartA Amplifier Mod Src2	0	4194304	Value	ValueOutput
+PartA Amplifier Mod Src3	0	4194304	Value	ValueOutput
+PartA Amplifier Mod Lev1	0	4194304	Value	ValueOutput
+PartA Amplifier Mod Lev2	0	4194304	Value	ValueOutput
+PartA Amplifier Mod Lev3	0	4194304	Value	ValueOutput
+PartA Pan Key Track	0	4194304	Value	ValueOutput
+PartA Pan Random	0	4194304	Value	ValueOutput
+PartA EnvF Attack	0	4194304	Value	ValueOutput
+PartA EnvF Decay1	0	4194304	Value	ValueOutput
+PartA EnvF Level1	0	4194304	Value	ValueOutput
+PartA EnvF Decay2	0	4194304	Value	ValueOutput
+PartA EnvF Sustain	0	4194304	Value	ValueOutput
+PartA EnvF Release	0	4194304	Value	ValueOutput
+PartA EnvF Level Velocit	0	4194304	Value	ValueOutput
+PartA EnvF Attack Veloci	0	4194304	Value	ValueOutput
+PartA EnvF Decay Velocit	0	4194304	Value	ValueOutput
+PartA EnvF Time Key Trac	0	4194304	Value	ValueOutput
+PartA EnvA Attack	0	4194304	Value	ValueOutput
+PartA EnvA Decay1	0	4194304	Value	ValueOutput
+PartA EnvA Level1	0	4194304	Value	ValueOutput
+PartA EnvA Decay2	0	4194304	Value	ValueOutput
+PartA EnvA Sustain	0	4194304	Value	ValueOutput
+PartA EnvA Release	0	4194304	Value	ValueOutput
+PartA EnvA Level Velocit	0	4194304	Value	ValueOutput
+PartA EnvA Attack Veloci	0	4194304	Value	ValueOutput
+PartA EnvA Decay Velocit	0	4194304	Value	ValueOutput
+PartA EnvA Time Key Trac	0	4194304	Value	ValueOutput
+PartA Env1 Start Time	0	4194304	Value	ValueOutput
+PartA Env1 Start Level	0	4194304	Value	ValueOutput
+PartA Env1 Attack Time	0	4194304	Value	ValueOutput
+PartA Env1 Attack Level	0	4194304	Value	ValueOutput
+PartA Env1 Decay1 Time	0	4194304	Value	ValueOutput
+PartA Env1 Decay1 Level	0	4194304	Value	ValueOutput
+PartA Env1 Decay2 Time	0	4194304	Value	ValueOutput
+PartA Env1 Sustain	0	4194304	Value	ValueOutput
+PartA Env1 Release Time	0	4194304	Value	ValueOutput
+PartA Env1 Release Level	0	4194304	Value	ValueOutput
+PartA Env1 Level Velocit	0	4194304	Value	ValueOutput
+PartA Env1 Attack Veloci	0	4194304	Value	ValueOutput
+PartA Env1 Decay Velocit	0	4194304	Value	ValueOutput
+PartA Env1 Time Key Trac	0	4194304	Value	ValueOutput
+PartA Env2 Start Time	0	4194304	Value	ValueOutput
+PartA Env2 Start Level	0	4194304	Value	ValueOutput
+PartA Env2 Attack Time	0	4194304	Value	ValueOutput
+PartA Env2 Attack Level	0	4194304	Value	ValueOutput
+PartA Env2 Decay1 Time	0	4194304	Value	ValueOutput
+PartA Env2 Decay1 Level	0	4194304	Value	ValueOutput
+PartA Env2 Decay2 Time	0	4194304	Value	ValueOutput
+PartA Env2 Sustain	0	4194304	Value	ValueOutput
+PartA Env2 Release Time	0	4194304	Value	ValueOutput
+PartA Env2 Release Level	0	4194304	Value	ValueOutput
+PartA Env2 Level Velocit	0	4194304	Value	ValueOutput
+PartA Env2 Attack Veloci	0	4194304	Value	ValueOutput
+PartA Env2 Decay Velocit	0	4194304	Value	ValueOutput
+PartA Env2 Time Key Trac	0	4194304	Value	ValueOutput
+PartA LFO1 Wave	0	4194304	Value	ValueOutput
+PartA LFO1 Rate	0	4194304	Value	ValueOutput
+PartA LFO1 Phase	0	4194304	Value	ValueOutput
+PartA LFO1 Sync	0	4194304	Value	ValueOutput
+PartA LFO1 Mod Src	0	4194304	Value	ValueOutput
+PartA LFO1 Mod Lev	0	4194304	Value	ValueOutput
+PartA LFO2 Wave	0	4194304	Value	ValueOutput
+PartA LFO2 Rate	0	4194304	Value	ValueOutput
+PartA LFO2 Phase	0	4194304	Value	ValueOutput
+PartA LFO2 Sync	0	4194304	Value	ValueOutput
+PartA LFO2 Mod Src	0	4194304	Value	ValueOutput
+PartA LFO2 Mod Lev	0	4194304	Value	ValueOutput
+PartA LFO3 Wave	0	4194304	Value	ValueOutput
+PartA LFO3 Rate	0	4194304	Value	ValueOutput
+PartA LFO3 Phase	0	4194304	Value	ValueOutput
+PartA LFO3 Sync	0	4194304	Value	ValueOutput
+PartA LFO3 Mod Dest	0	4194304	Value	ValueOutput
+PartA LFO3 Mod Src	0	4194304	Value	ValueOutput
+PartA LFO3 Mod Lev	0	4194304	Value	ValueOutput
+PartA Fx1 Type	0	4194304	Value	ValueOutput
+PartA Fx1 Reserved	0	4194304	Value	ValueOutput
+PartA Fx1 Enable	0	4194304	Value	ValueOutput
+PartA Fx1 Parameter1	0	4194304	Value	ValueOutput
+PartA Fx1 Sync	0	4194304	Value	ValueOutput
+PartA Fx1 Parameter2	0	4194304	Value	ValueOutput
+PartA Fx1 Parameter3	0	4194304	Value	ValueOutput
+PartA Fx1 Parameter4	0	4194304	Value	ValueOutput
+PartA Fx1 Parameter5	0	4194304	Value	ValueOutput
+PartA Fx1 Parameter6	0	4194304	Value	ValueOutput
+PartA Fx1 Parameter7	0	4194304	Value	ValueOutput
+PartA Fx1 Parameter8	0	4194304	Value	ValueOutput
+PartA Fx1 Parameter9	0	4194304	Value	ValueOutput
+PartA Fx1 Parameter10	0	4194304	Value	ValueOutput
+PartA Fx1 Parameter11	0	4194304	Value	ValueOutput
+PartA Fx2 Type	0	4194304	Value	ValueOutput
+PartA Fx2 Reserved	0	4194304	Value	ValueOutput
+PartA Fx2 Enable	0	4194304	Value	ValueOutput
+PartA Fx2 Parameter1	0	4194304	Value	ValueOutput
+PartA Fx2 Sync	0	4194304	Value	ValueOutput
+PartA Fx2 Parameter2	0	4194304	Value	ValueOutput
+PartA Fx2 Parameter3	0	4194304	Value	ValueOutput
+PartA Fx2 Parameter4	0	4194304	Value	ValueOutput
+PartA Fx2 Parameter5	0	4194304	Value	ValueOutput
+PartA Fx2 Parameter6	0	4194304	Value	ValueOutput
+PartA Fx2 Parameter7	0	4194304	Value	ValueOutput
+PartA Fx2 Parameter8	0	4194304	Value	ValueOutput
+PartA Fx2 Parameter9	0	4194304	Value	ValueOutput
+PartA Fx2 Parameter10	0	4194304	Value	ValueOutput
+PartA Fx2 Parameter11	0	4194304	Value	ValueOutput
+PartA Filter 1 Distortio	0	4194304	Value	ValueOutput
+PartA Filter 1 Mode	0	4194304	Value	ValueOutput
+PartA Noise Color	0	4194304	Value	ValueOutput
+PartA Oscillator1 Multi 	0	4194304	Value	ValueOutput
+PartA Oscillator2 Multi 	0	4194304	Value	ValueOutput
+PartA Hype Low	0	4194304	Value	ValueOutput
+PartA Hype High	0	4194304	Value	ValueOutput
+PartA Osc Restart	0	4194304	Value	ValueOutput
+PartA Voice Doubling	0	4194304	Value	ValueOutput
+PartA Voice Doubling Wid	0	4194304	Value	ValueOutput
+PartA Filter Cutoff	0	4194304	Value	ValueOutput
+PartA Filter Resonance	0	4194304	Value	ValueOutput
+PartA Filter Env	0	4194304	Value	ValueOutput
+PartA Filter 2 Routing	0	4194304	Value	ValueOutput
+PartA Filter 2 Type	0	4194304	Value	ValueOutput
+PartA Filter 2 Saturatio	0	4194304	Value	ValueOutput
+PartA Cutoff 2	0	4194304	Value	ValueOutput
+PartA Resonance 2	0	4194304	Value	ValueOutput
+PartA Envelope 2	0	4194304	Value	ValueOutput
+PartA Key Track 2	0	4194304	Value	ValueOutput
+PartA Filter 2 FM	0	4194304	Value	ValueOutput
+PartA Filter 2 FM Mix	0	4194304	Value	ValueOutput
+PartA Filter 2 Mod Dest1	0	4194304	Value	ValueOutput
+PartA Filter 2 Mod Dest2	0	4194304	Value	ValueOutput
+PartA Filter 2 Mod Dest3	0	4194304	Value	ValueOutput
+PartA Filter 2 Mod Src1	0	4194304	Value	ValueOutput
+PartA Filter 2 Mod Src2	0	4194304	Value	ValueOutput
+PartA Filter 2 Mod Src3	0	4194304	Value	ValueOutput
+PartA Filter 2 Mod Lev1	0	4194304	Value	ValueOutput
+PartA Filter 2 Mod Lev2	0	4194304	Value	ValueOutput
+PartA Filter 2 Mod Lev3	0	4194304	Value	ValueOutput
+PartA Filter Gain	0	4194304	Value	ValueOutput
+PartA Filter 2 Gain	0	4194304	Value	ValueOutput
+PartA Filter 2 Distortio	0	4194304	Value	ValueOutput
+PartA Pumper Speed	0	4194304	Value	ValueOutput
+PartA Pumper Attack	0	4194304	Value	ValueOutput
+PartA Pumper Hold	0	4194304	Value	ValueOutput
+PartA Pumper Release	0	4194304	Value	ValueOutput
+PartA Pumper Shape	0	4194304	Value	ValueOutput
+PartA Pumper Shift	0	4194304	Value	ValueOutput
+PartB Enable	0	4194304	Value	ValueOutput
+PartB Unison On	0	4194304	Value	ValueOutput
+PartB Voice Mode	0	4194304	Value	ValueOutput
+PartB Voice Limit	0	4194304	Value	ValueOutput
+PartB Portamento Time	0	4194304	Value	ValueOutput
+PartB Envelope Trigger	0	4194304	Value	ValueOutput
+PartB Octave	0	4194304	Value	ValueOutput
+PartB Tune	0	4194304	Value	ValueOutput
+PartB Pitch Bend	0	4194304	Value	ValueOutput
+PartB Porta Mode	0	4194304	Value	ValueOutput
+PartB Pitch Mod Src	0	4194304	Value	ValueOutput
+PartB Pitch Mod Lev	0	4194304	Value	ValueOutput
+PartB Chorus Send	0	4194304	Value	ValueOutput
+PartB Delay Send	0	4194304	Value	ValueOutput
+PartB Reverb Send	0	4194304	Value	ValueOutput
+PartB SSeq Mode	0	4194304	Value	ValueOutput
+PartB Phrase Select	0	4194304	Value	ValueOutput
+PartB SSeq Rate	0	4194304	Value	ValueOutput
+PartB SSeq Sync	0	4194304	Value	ValueOutput
+PartB SSeq Latch	0	4194304	Value	ValueOutput
+PartB SSeq Octave	0	4194304	Value	ValueOutput
+PartB SSeq Step	0	4194304	Value	ValueOutput
+PartB SSeq Gate	0	4194304	Value	ValueOutput
+PartB SSeq Swing	0	4194304	Value	ValueOutput
+PartB Gate 01	0	4194304	Value	ValueOutput
+PartB Gate 02	0	4194304	Value	ValueOutput
+PartB Gate 03	0	4194304	Value	ValueOutput
+PartB Gate 04	0	4194304	Value	ValueOutput
+PartB Gate 05	0	4194304	Value	ValueOutput
+PartB Gate 06	0	4194304	Value	ValueOutput
+PartB Gate 07	0	4194304	Value	ValueOutput
+PartB Gate 08	0	4194304	Value	ValueOutput
+PartB Gate 09	0	4194304	Value	ValueOutput
+PartB Gate 10	0	4194304	Value	ValueOutput
+PartB Gate 11	0	4194304	Value	ValueOutput
+PartB Gate 12	0	4194304	Value	ValueOutput
+PartB Gate 13	0	4194304	Value	ValueOutput
+PartB Gate 14	0	4194304	Value	ValueOutput
+PartB Gate 15	0	4194304	Value	ValueOutput
+PartB Gate 16	0	4194304	Value	ValueOutput
+PartB Note 01	0	4194304	Value	ValueOutput
+PartB Note 02	0	4194304	Value	ValueOutput
+PartB Note 03	0	4194304	Value	ValueOutput
+PartB Note 04	0	4194304	Value	ValueOutput
+PartB Note 05	0	4194304	Value	ValueOutput
+PartB Note 06	0	4194304	Value	ValueOutput
+PartB Note 07	0	4194304	Value	ValueOutput
+PartB Note 08	0	4194304	Value	ValueOutput
+PartB Note 09	0	4194304	Value	ValueOutput
+PartB Note 10	0	4194304	Value	ValueOutput
+PartB Note 11	0	4194304	Value	ValueOutput
+PartB Note 12	0	4194304	Value	ValueOutput
+PartB Note 13	0	4194304	Value	ValueOutput
+PartB Note 14	0	4194304	Value	ValueOutput
+PartB Note 15	0	4194304	Value	ValueOutput
+PartB Note 16	0	4194304	Value	ValueOutput
+PartB Velocity 01	0	4194304	Value	ValueOutput
+PartB Velocity 02	0	4194304	Value	ValueOutput
+PartB Velocity 03	0	4194304	Value	ValueOutput
+PartB Velocity 04	0	4194304	Value	ValueOutput
+PartB Velocity 05	0	4194304	Value	ValueOutput
+PartB Velocity 06	0	4194304	Value	ValueOutput
+PartB Velocity 07	0	4194304	Value	ValueOutput
+PartB Velocity 08	0	4194304	Value	ValueOutput
+PartB Velocity 09	0	4194304	Value	ValueOutput
+PartB Velocity 10	0	4194304	Value	ValueOutput
+PartB Velocity 11	0	4194304	Value	ValueOutput
+PartB Velocity 12	0	4194304	Value	ValueOutput
+PartB Velocity 13	0	4194304	Value	ValueOutput
+PartB Velocity 14	0	4194304	Value	ValueOutput
+PartB Velocity 15	0	4194304	Value	ValueOutput
+PartB Velocity 16	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 01	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 02	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 03	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 04	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 05	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 06	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 07	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 08	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 09	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 10	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 11	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 12	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 13	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 14	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 15	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 16	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 01	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 02	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 03	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 04	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 05	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 06	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 07	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 08	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 09	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 10	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 11	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 12	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 13	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 14	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 15	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 16	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 Mod Src	0	4194304	Value	ValueOutput
+PartB CtrlSeq1 Mod Lev	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 Mod Src	0	4194304	Value	ValueOutput
+PartB CtrlSeq2 Mod Lev	0	4194304	Value	ValueOutput
+PartB Oscillator1 Waveta	0	4194304	Value	ValueOutput
+PartB Oscillator1 Type	0	4194304	Value	ValueOutput
+PartB Oscillator1 Semi	0	4194304	Value	ValueOutput
+PartB Oscillator1 Cent	0	4194304	Value	ValueOutput
+PartB Oscillator1 Shape	0	4194304	Value	ValueOutput
+PartB Oscillator1 Level	0	4194304	Value	ValueOutput
+PartB Oscillator1 Mod De	0	4194304	Value	ValueOutput
+PartB Oscillator1 Mod De	0	4194304	Value	ValueOutput
+PartB Oscillator1 Mod De	0	4194304	Value	ValueOutput
+PartB Oscillator1 Mod Sr	0	4194304	Value	ValueOutput
+PartB Oscillator1 Mod Sr	0	4194304	Value	ValueOutput
+PartB Oscillator1 Mod Sr	0	4194304	Value	ValueOutput
+PartB Oscillator1 Mod Le	0	4194304	Value	ValueOutput
+PartB Oscillator1 Mod Le	0	4194304	Value	ValueOutput
+PartB Oscillator1 Mod Le	0	4194304	Value	ValueOutput
+PartB Oscillator2 Waveta	0	4194304	Value	ValueOutput
+PartB Oscillator2 Type	0	4194304	Value	ValueOutput
+PartB Oscillator2 Semi	0	4194304	Value	ValueOutput
+PartB Oscillator2 Cent	0	4194304	Value	ValueOutput
+PartB Oscillator2 Shape	0	4194304	Value	ValueOutput
+PartB Oscillator2 Level	0	4194304	Value	ValueOutput
+PartB Oscillator2 Mod De	0	4194304	Value	ValueOutput
+PartB Oscillator2 Mod De	0	4194304	Value	ValueOutput
+PartB Oscillator2 Mod De	0	4194304	Value	ValueOutput
+PartB Oscillator2 Mod Sr	0	4194304	Value	ValueOutput
+PartB Oscillator2 Mod Sr	0	4194304	Value	ValueOutput
+PartB Oscillator2 Mod Sr	0	4194304	Value	ValueOutput
+PartB Oscillator2 Mod Le	0	4194304	Value	ValueOutput
+PartB Oscillator2 Mod Le	0	4194304	Value	ValueOutput
+PartB Oscillator2 Mod Le	0	4194304	Value	ValueOutput
+PartB Oscillator3 Type	0	4194304	Value	ValueOutput
+PartB Oscillator3 Octave	0	4194304	Value	ValueOutput
+PartB Oscillator3 Level	0	4194304	Value	ValueOutput
+PartB Sub Osc Level	0	4194304	Value	ValueOutput
+PartB Noise Level	0	4194304	Value	ValueOutput
+PartB Oscillator3 Mod De	0	4194304	Value	ValueOutput
+PartB Oscillator3 Mod De	0	4194304	Value	ValueOutput
+PartB Oscillator3 Mod De	0	4194304	Value	ValueOutput
+PartB Oscillator3 Mod Sr	0	4194304	Value	ValueOutput
+PartB Oscillator3 Mod Sr	0	4194304	Value	ValueOutput
+PartB Oscillator3 Mod Sr	0	4194304	Value	ValueOutput
+PartB Oscillator3 Mod Le	0	4194304	Value	ValueOutput
+PartB Oscillator3 Mod Le	0	4194304	Value	ValueOutput
+PartB Oscillator3 Mod Le	0	4194304	Value	ValueOutput
+PartB Filter Type	0	4194304	Value	ValueOutput
+PartB Filter Saturation	0	4194304	Value	ValueOutput
+PartB Cutoff	0	4194304	Value	ValueOutput
+PartB Resonance	0	4194304	Value	ValueOutput
+PartB Envelope	0	4194304	Value	ValueOutput
+PartB Key Track	0	4194304	Value	ValueOutput
+PartB Filter FM	0	4194304	Value	ValueOutput
+PartB Filter FM Mix	0	4194304	Value	ValueOutput
+PartB Filter Mod Dest1	0	4194304	Value	ValueOutput
+PartB Filter Mod Dest2	0	4194304	Value	ValueOutput
+PartB Filter Mod Dest3	0	4194304	Value	ValueOutput
+PartB Filter Mod Src1	0	4194304	Value	ValueOutput
+PartB Filter Mod Src2	0	4194304	Value	ValueOutput
+PartB Filter Mod Src3	0	4194304	Value	ValueOutput
+PartB Filter Mod Lev1	0	4194304	Value	ValueOutput
+PartB Filter Mod Lev2	0	4194304	Value	ValueOutput
+PartB Filter Mod Lev3	0	4194304	Value	ValueOutput
+PartB Volume	0	4194304	Value	ValueOutput
+PartB Pan	0	4194304	Value	ValueOutput
+PartB Amplifier Mod Dest	0	4194304	Value	ValueOutput
+PartB Amplifier Mod Dest	0	4194304	Value	ValueOutput
+PartB Amplifier Mod Dest	0	4194304	Value	ValueOutput
+PartB Amplifier Mod Src1	0	4194304	Value	ValueOutput
+PartB Amplifier Mod Src2	0	4194304	Value	ValueOutput
+PartB Amplifier Mod Src3	0	4194304	Value	ValueOutput
+PartB Amplifier Mod Lev1	0	4194304	Value	ValueOutput
+PartB Amplifier Mod Lev2	0	4194304	Value	ValueOutput
+PartB Amplifier Mod Lev3	0	4194304	Value	ValueOutput
+PartB Pan Key Track	0	4194304	Value	ValueOutput
+PartB Pan Random	0	4194304	Value	ValueOutput
+PartB EnvF Attack	0	4194304	Value	ValueOutput
+PartB EnvF Decay1	0	4194304	Value	ValueOutput
+PartB EnvF Level1	0	4194304	Value	ValueOutput
+PartB EnvF Decay2	0	4194304	Value	ValueOutput
+PartB EnvF Sustain	0	4194304	Value	ValueOutput
+PartB EnvF Release	0	4194304	Value	ValueOutput
+PartB EnvF Level Velocit	0	4194304	Value	ValueOutput
+PartB EnvF Attack Veloci	0	4194304	Value	ValueOutput
+PartB EnvF Decay Velocit	0	4194304	Value	ValueOutput
+PartB EnvF Time Key Trac	0	4194304	Value	ValueOutput
+PartB EnvA Attack	0	4194304	Value	ValueOutput
+PartB EnvA Decay1	0	4194304	Value	ValueOutput
+PartB EnvA Level1	0	4194304	Value	ValueOutput
+PartB EnvA Decay2	0	4194304	Value	ValueOutput
+PartB EnvA Sustain	0	4194304	Value	ValueOutput
+PartB EnvA Release	0	4194304	Value	ValueOutput
+PartB EnvA Level Velocit	0	4194304	Value	ValueOutput
+PartB EnvA Attack Veloci	0	4194304	Value	ValueOutput
+PartB EnvA Decay Velocit	0	4194304	Value	ValueOutput
+PartB EnvA Time Key Trac	0	4194304	Value	ValueOutput
+PartB Env1 Start Time	0	4194304	Value	ValueOutput
+PartB Env1 Start Level	0	4194304	Value	ValueOutput
+PartB Env1 Attack Time	0	4194304	Value	ValueOutput
+PartB Env1 Attack Level	0	4194304	Value	ValueOutput
+PartB Env1 Decay1 Time	0	4194304	Value	ValueOutput
+PartB Env1 Decay1 Level	0	4194304	Value	ValueOutput
+PartB Env1 Decay2 Time	0	4194304	Value	ValueOutput
+PartB Env1 Sustain	0	4194304	Value	ValueOutput
+PartB Env1 Release Time	0	4194304	Value	ValueOutput
+PartB Env1 Release Level	0	4194304	Value	ValueOutput
+PartB Env1 Level Velocit	0	4194304	Value	ValueOutput
+PartB Env1 Attack Veloci	0	4194304	Value	ValueOutput
+PartB Env1 Decay Velocit	0	4194304	Value	ValueOutput
+PartB Env1 Time Key Trac	0	4194304	Value	ValueOutput
+PartB Env2 Start Time	0	4194304	Value	ValueOutput
+PartB Env2 Start Level	0	4194304	Value	ValueOutput
+PartB Env2 Attack Time	0	4194304	Value	ValueOutput
+PartB Env2 Attack Level	0	4194304	Value	ValueOutput
+PartB Env2 Decay1 Time	0	4194304	Value	ValueOutput
+PartB Env2 Decay1 Level	0	4194304	Value	ValueOutput
+PartB Env2 Decay2 Time	0	4194304	Value	ValueOutput
+PartB Env2 Sustain	0	4194304	Value	ValueOutput
+PartB Env2 Release Time	0	4194304	Value	ValueOutput
+PartB Env2 Release Level	0	4194304	Value	ValueOutput
+PartB Env2 Level Velocit	0	4194304	Value	ValueOutput
+PartB Env2 Attack Veloci	0	4194304	Value	ValueOutput
+PartB Env2 Decay Velocit	0	4194304	Value	ValueOutput
+PartB Env2 Time Key Trac	0	4194304	Value	ValueOutput
+PartB LFO1 Wave	0	4194304	Value	ValueOutput
+PartB LFO1 Rate	0	4194304	Value	ValueOutput
+PartB LFO1 Phase	0	4194304	Value	ValueOutput
+PartB LFO1 Sync	0	4194304	Value	ValueOutput
+PartB LFO1 Mod Src	0	4194304	Value	ValueOutput
+PartB LFO1 Mod Lev	0	4194304	Value	ValueOutput
+PartB LFO2 Wave	0	4194304	Value	ValueOutput
+PartB LFO2 Rate	0	4194304	Value	ValueOutput
+PartB LFO2 Phase	0	4194304	Value	ValueOutput
+PartB LFO2 Sync	0	4194304	Value	ValueOutput
+PartB LFO2 Mod Src	0	4194304	Value	ValueOutput
+PartB LFO2 Mod Lev	0	4194304	Value	ValueOutput
+PartB LFO3 Wave	0	4194304	Value	ValueOutput
+PartB LFO3 Rate	0	4194304	Value	ValueOutput
+PartB LFO3 Phase	0	4194304	Value	ValueOutput
+PartB LFO3 Sync	0	4194304	Value	ValueOutput
+PartB LFO3 Mod Dest	0	4194304	Value	ValueOutput
+PartB LFO3 Mod Src	0	4194304	Value	ValueOutput
+PartB LFO3 Mod Lev	0	4194304	Value	ValueOutput
+PartB Fx1 Type	0	4194304	Value	ValueOutput
+PartB Fx1 Reserved	0	4194304	Value	ValueOutput
+PartB Fx1 Enable	0	4194304	Value	ValueOutput
+PartB Fx1 Parameter1	0	4194304	Value	ValueOutput
+PartB Fx1 Sync	0	4194304	Value	ValueOutput
+PartB Fx1 Parameter2	0	4194304	Value	ValueOutput
+PartB Fx1 Parameter3	0	4194304	Value	ValueOutput
+PartB Fx1 Parameter4	0	4194304	Value	ValueOutput
+PartB Fx1 Parameter5	0	4194304	Value	ValueOutput
+PartB Fx1 Parameter6	0	4194304	Value	ValueOutput
+PartB Fx1 Parameter7	0	4194304	Value	ValueOutput
+PartB Fx1 Parameter8	0	4194304	Value	ValueOutput
+PartB Fx1 Parameter9	0	4194304	Value	ValueOutput
+PartB Fx1 Parameter10	0	4194304	Value	ValueOutput
+PartB Fx1 Parameter11	0	4194304	Value	ValueOutput
+PartB Fx2 Type	0	4194304	Value	ValueOutput
+PartB Fx2 Reserved	0	4194304	Value	ValueOutput
+PartB Fx2 Enable	0	4194304	Value	ValueOutput
+PartB Fx2 Parameter1	0	4194304	Value	ValueOutput
+PartB Fx2 Sync	0	4194304	Value	ValueOutput
+PartB Fx2 Parameter2	0	4194304	Value	ValueOutput
+PartB Fx2 Parameter3	0	4194304	Value	ValueOutput
+PartB Fx2 Parameter4	0	4194304	Value	ValueOutput
+PartB Fx2 Parameter5	0	4194304	Value	ValueOutput
+PartB Fx2 Parameter6	0	4194304	Value	ValueOutput
+PartB Fx2 Parameter7	0	4194304	Value	ValueOutput
+PartB Fx2 Parameter8	0	4194304	Value	ValueOutput
+PartB Fx2 Parameter9	0	4194304	Value	ValueOutput
+PartB Fx2 Parameter10	0	4194304	Value	ValueOutput
+PartB Fx2 Parameter11	0	4194304	Value	ValueOutput
+PartB Filter 1 Distortio	0	4194304	Value	ValueOutput
+PartB Filter 1 Mode	0	4194304	Value	ValueOutput
+PartB Noise Color	0	4194304	Value	ValueOutput
+PartB Oscillator1 Multi 	0	4194304	Value	ValueOutput
+PartB Oscillator2 Multi 	0	4194304	Value	ValueOutput
+PartB Hype Low	0	4194304	Value	ValueOutput
+PartB Hype High	0	4194304	Value	ValueOutput
+PartB Osc Restart	0	4194304	Value	ValueOutput
+PartB Voice Doubling	0	4194304	Value	ValueOutput
+PartB Voice Doubling Wid	0	4194304	Value	ValueOutput
+PartB Filter Cutoff	0	4194304	Value	ValueOutput
+PartB Filter Resonance	0	4194304	Value	ValueOutput
+PartB Filter Env	0	4194304	Value	ValueOutput
+PartB Filter 2 Routing	0	4194304	Value	ValueOutput
+PartB Filter 2 Type	0	4194304	Value	ValueOutput
+PartB Filter 2 Saturatio	0	4194304	Value	ValueOutput
+PartB Cutoff 2	0	4194304	Value	ValueOutput
+PartB Resonance 2	0	4194304	Value	ValueOutput
+PartB Envelope 2	0	4194304	Value	ValueOutput
+PartB Key Track 2	0	4194304	Value	ValueOutput
+PartB Filter 2 FM	0	4194304	Value	ValueOutput
+PartB Filter 2 FM Mix	0	4194304	Value	ValueOutput
+PartB Filter 2 Mod Dest1	0	4194304	Value	ValueOutput
+PartB Filter 2 Mod Dest2	0	4194304	Value	ValueOutput
+PartB Filter 2 Mod Dest3	0	4194304	Value	ValueOutput
+PartB Filter 2 Mod Src1	0	4194304	Value	ValueOutput
+PartB Filter 2 Mod Src2	0	4194304	Value	ValueOutput
+PartB Filter 2 Mod Src3	0	4194304	Value	ValueOutput
+PartB Filter 2 Mod Lev1	0	4194304	Value	ValueOutput
+PartB Filter 2 Mod Lev2	0	4194304	Value	ValueOutput
+PartB Filter 2 Mod Lev3	0	4194304	Value	ValueOutput
+PartB Filter Gain	0	4194304	Value	ValueOutput
+PartB Filter 2 Gain	0	4194304	Value	ValueOutput
+PartB Filter 2 Distortio	0	4194304	Value	ValueOutput
+PartB Pumper Speed	0	4194304	Value	ValueOutput
+PartB Pumper Attack	0	4194304	Value	ValueOutput
+PartB Pumper Hold	0	4194304	Value	ValueOutput
+PartB Pumper Release	0	4194304	Value	ValueOutput
+PartB Pumper Shape	0	4194304	Value	ValueOutput
+PartB Pumper Shift	0	4194304	Value	ValueOutput
+Chorus Enable	0	4194304	Value	ValueOutput
+Chorus Mode	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Phase	0	4194304	Value	ValueOutput
+Chorus Feedback	0	4194304	Value	ValueOutput
+Chorus Wet Mix	0	4194304	Value	ValueOutput
+Delay Enable	0	4194304	Value	ValueOutput
+Delay Mode	0	4194304	Value	ValueOutput
+Delay Sync	0	4194304	Value	ValueOutput
+Delay Time L	0	4194304	Value	ValueOutput
+Delay Time R	0	4194304	Value	ValueOutput
+Delay Feedback L	0	4194304	Value	ValueOutput
+Delay Feedback R	0	4194304	Value	ValueOutput
+Delay HiDamp	0	4194304	Value	ValueOutput
+Delay Character	0	4194304	Value	ValueOutput
+Delay Wet Mix	0	4194304	Value	ValueOutput
+Reverb Enable	0	4194304	Value	ValueOutput
+Reverb Pre-Delay	0	4194304	Value	ValueOutput
+Reverb Room Size	0	4194304	Value	ValueOutput
+Reverb Ambience	0	4194304	Value	ValueOutput
+Reverb Time	0	4194304	Value	ValueOutput
+Reverb Mode	0	4194304	Value	ValueOutput
+Reverb Hicut	0	4194304	Value	ValueOutput
+Reverb Wet Mix	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Link Step Sequencer	0	4194304	Value	ValueOutput
+Reserved2	0	4194304	Value	ValueOutput
+Reserved3	0	4194304	Value	ValueOutput
+Reserved4	0	4194304	Value	ValueOutput
+Reserved5	0	4194304	Value	ValueOutput
+Reserved6	0	4194304	Value	ValueOutput
+Reserved7	0	4194304	Value	ValueOutput
+Reserved8	0	4194304	Value	ValueOutput
+Reserved9	0	4194304	Value	ValueOutput
+Reserved10	0	4194304	Value	ValueOutput
+Morph 1	0	4194304	Value	ValueOutput
+Morph 2	0	4194304	Value	ValueOutput
+Morph 3	0	4194304	Value	ValueOutput
+Morph 4	0	4194304	Value	ValueOutput
+Morph 1 Ctrl Assign	0	4194304	Value	ValueOutput
+Morph 2 Ctrl Assign	0	4194304	Value	ValueOutput
+Morph 3 Ctrl Assign	0	4194304	Value	ValueOutput
+Morph 4 Ctrl Assign	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

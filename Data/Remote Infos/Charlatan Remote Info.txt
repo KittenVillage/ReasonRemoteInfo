@@ -1,0 +1,73 @@
+Scope
+Manufacturer	Model
+BlauKraut Engineering	vst.hCwd.Charlatan
+Note: Will match scope definitions for vst.hCwd.Charlatan or vst.hCwd
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Osc1 Wave	0	4194304	Value	ValueOutput
+Osc1 Shape Mod	0	4194304	Value	ValueOutput
+Osc1 Shape Mod Src	0	4194304	Value	ValueOutput
+Osc1 Volume	0	4194304	Value	ValueOutput
+Osc2 Wave	0	4194304	Value	ValueOutput
+Osc2 Tune	0	4194304	Value	ValueOutput
+Osc2 Octave	0	4194304	Value	ValueOutput
+Osc2 Sync	0	4194304	Value	ValueOutput
+Osc2 Ring Mod	0	4194304	Value	ValueOutput
+Osc2 Volume	0	4194304	Value	ValueOutput
+Pitch Tune	0	4194304	Value	ValueOutput
+Pitch Detune	0	4194304	Value	ValueOutput
+Pitch Mod Src	0	4194304	Value	ValueOutput
+Pitch Mod Inv	0	4194304	Value	ValueOutput
+Pitch Mod	0	4194304	Value	ValueOutput
+Pitch Mod Osc1	0	4194304	Value	ValueOutput
+Pitch Mod Osc2	0	4194304	Value	ValueOutput
+Pitch Bend Range	0	4194304	Value	ValueOutput
+Unison Voices	0	4194304	Value	ValueOutput
+Unison Detune	0	4194304	Value	ValueOutput
+Noise Shape	0	4194304	Value	ValueOutput
+Noise Volume	0	4194304	Value	ValueOutput
+Filter Type	0	4194304	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Q	0	4194304	Value	ValueOutput
+Filter Mod Src	0	4194304	Value	ValueOutput
+Filter Mod Inv	0	4194304	Value	ValueOutput
+Filter Mod	0	4194304	Value	ValueOutput
+Filter KbdTrk	0	4194304	Value	ValueOutput
+LFO Wave	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Phase	0	4194304	Value	ValueOutput
+LFO Sync	0	4194304	Value	ValueOutput
+LFO Delay	0	4194304	Value	ValueOutput
+LFO Mod Wheel	0	4194304	Value	ValueOutput
+Amp Attack	0	4194304	Value	ValueOutput
+Amp Decay	0	4194304	Value	ValueOutput
+Amp Sustain	0	4194304	Value	ValueOutput
+Amp Release	0	4194304	Value	ValueOutput
+Amp Velocity	0	4194304	Value	ValueOutput
+Mod Attack	0	4194304	Value	ValueOutput
+Mod Decay	0	4194304	Value	ValueOutput
+Mod Sustain	0	4194304	Value	ValueOutput
+Mod Release	0	4194304	Value	ValueOutput
+Mod Velocity	0	4194304	Value	ValueOutput
+Voice Mode	0	4194304	Value	ValueOutput
+DCO	0	4194304	Value	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+Stereo	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

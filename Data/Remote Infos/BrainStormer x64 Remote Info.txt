@@ -1,0 +1,170 @@
+Scope
+Manufacturer	Model
+Roazhon DSP	vst.j3cs.BrainStormer x64
+Note: Will match scope definitions for vst.j3cs.BrainStormer x64 or vst.j3cs
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+GlobalVolume	0	4194304	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+A_Attack	0	4194304	Value	ValueOutput
+A_Decay	0	4194304	Value	ValueOutput
+A_Sustain	0	4194304	Value	ValueOutput
+A_Release	0	4194304	Value	ValueOutput
+F_On	0	4194304	Value	ValueOutput
+F_Cutoff	0	4194304	Value	ValueOutput
+F_Q	0	4194304	Value	ValueOutput
+F_Type	0	4194304	Value	ValueOutput
+F_Amount	0	4194304	Value	ValueOutput
+F_Attack	0	4194304	Value	ValueOutput
+F_Decay	0	4194304	Value	ValueOutput
+F_Sustain	0	4194304	Value	ValueOutput
+F_Release	0	4194304	Value	ValueOutput
+O1_On	0	4194304	Value	ValueOutput
+O1_Waveform	0	4194304	Value	ValueOutput
+O1_Panning	0	4194304	Value	ValueOutput
+O1_PhaseInit	0	4194304	Value	ValueOutput
+O1_Retrig	0	4194304	Value	ValueOutput
+O1_Octave	0	4194304	Value	ValueOutput
+O1_Detune	0	4194304	Value	ValueOutput
+O1_FineTune	0	4194304	Value	ValueOutput
+O1_WaveStrech	0	4194304	Value	ValueOutput
+O1_Invert	0	4194304	Value	ValueOutput
+O1_SterDeph	0	4194304	Value	ValueOutput
+O2_On	0	4194304	Value	ValueOutput
+O2_Waveform	0	4194304	Value	ValueOutput
+O2_Panning	0	4194304	Value	ValueOutput
+O2_PhaseInit	0	4194304	Value	ValueOutput
+O2_Retrig	0	4194304	Value	ValueOutput
+O2_Octave	0	4194304	Value	ValueOutput
+O2_Detune	0	4194304	Value	ValueOutput
+O2_FineTune	0	4194304	Value	ValueOutput
+O2_WaveStrech	0	4194304	Value	ValueOutput
+O2_Invert	0	4194304	Value	ValueOutput
+O2_SterDeph	0	4194304	Value	ValueOutput
+O3_On	0	4194304	Value	ValueOutput
+O3_Waveform	0	4194304	Value	ValueOutput
+O3_Panning	0	4194304	Value	ValueOutput
+O3_PhaseInit	0	4194304	Value	ValueOutput
+O3_Retrig	0	4194304	Value	ValueOutput
+O3_Octave	0	4194304	Value	ValueOutput
+O3_Detune	0	4194304	Value	ValueOutput
+O3_FineTune	0	4194304	Value	ValueOutput
+O3_WaveStrech	0	4194304	Value	ValueOutput
+O3_Invert	0	4194304	Value	ValueOutput
+O3_SterDeph	0	4194304	Value	ValueOutput
+O1_Mix	0	4194304	Value	ValueOutput
+O2_Mix	0	4194304	Value	ValueOutput
+O3_Mix	0	4194304	Value	ValueOutput
+FM_O1->O2	0	4194304	Value	ValueOutput
+FM3_Amount	0	4194304	Value	ValueOutput
+FM3_O1/O2_Mix	0	4194304	Value	ValueOutput
+RM_1x2	0	4194304	Value	ValueOutput
+RM_1x3	0	4194304	Value	ValueOutput
+RM_2x3	0	4194304	Value	ValueOutput
+NoteMode	0	4194304	Value	ValueOutput
+Polyphony	0	4194304	Value	ValueOutput
+ModWheel	0	4194304	Value	ValueOutput
+PitchBend	0	4194304	Value	ValueOutput
+PB_Up	0	4194304	Value	ValueOutput
+PB_Down	0	4194304	Value	ValueOutput
+Panic	0	4194304	Value	ValueOutput
+KeyFollow	0	4194304	Value	ValueOutput
+RefOctave	0	4194304	Value	ValueOutput
+RefNote	0	4194304	Value	ValueOutput
+LFO1_Amount	0	4194304	Value	ValueOutput
+LFO1_Waveform	0	4194304	Value	ValueOutput
+LFO1_Freq	0	4194304	Value	ValueOutput
+LFO1_Retrig	0	4194304	Value	ValueOutput
+LFO1_Sync	0	4194304	Value	ValueOutput
+LFO1_InitPhase	0	4194304	Value	ValueOutput
+LFO1_Clipping	0	4194304	Value	ValueOutput
+LFO1_Dest1	0	4194304	Value	ValueOutput
+LFO1_Amount1	0	4194304	Value	ValueOutput
+LFO1_Dest2	0	4194304	Value	ValueOutput
+LFO1_Amount2	0	4194304	Value	ValueOutput
+LFO1_Dest3	0	4194304	Value	ValueOutput
+LFO1_Amount3	0	4194304	Value	ValueOutput
+LFO1_Dest4	0	4194304	Value	ValueOutput
+LFO1_Amount4	0	4194304	Value	ValueOutput
+LFO2_Amount	0	4194304	Value	ValueOutput
+LFO2_Waveform	0	4194304	Value	ValueOutput
+LFO2_Freq	0	4194304	Value	ValueOutput
+LFO2_Retrig	0	4194304	Value	ValueOutput
+LFO2_Sync	0	4194304	Value	ValueOutput
+LFO2_InitPhase	0	4194304	Value	ValueOutput
+LFO2_Clipping	0	4194304	Value	ValueOutput
+LFO2_Dest1	0	4194304	Value	ValueOutput
+LFO2_Amount1	0	4194304	Value	ValueOutput
+LFO2_Dest2	0	4194304	Value	ValueOutput
+LFO2_Amount2	0	4194304	Value	ValueOutput
+LFO2_Dest3	0	4194304	Value	ValueOutput
+LFO2_Amount3	0	4194304	Value	ValueOutput
+LFO2_Dest4	0	4194304	Value	ValueOutput
+LFO2_Amount4	0	4194304	Value	ValueOutput
+ENV1_Amount	0	4194304	Value	ValueOutput
+ENV1_Type	0	4194304	Value	ValueOutput
+ENV1_Attack	0	4194304	Value	ValueOutput
+ENV1_Decay	0	4194304	Value	ValueOutput
+ENV1_Sustain	0	4194304	Value	ValueOutput
+ENV1_Release	0	4194304	Value	ValueOutput
+ENV1_Dest1	0	4194304	Value	ValueOutput
+ENV1_Amount1	0	4194304	Value	ValueOutput
+ENV1_Dest2	0	4194304	Value	ValueOutput
+ENV1_Amount2	0	4194304	Value	ValueOutput
+ENV1_Dest3	0	4194304	Value	ValueOutput
+ENV1_Amount3	0	4194304	Value	ValueOutput
+ENV1_Dest4	0	4194304	Value	ValueOutput
+ENV1_Amount4	0	4194304	Value	ValueOutput
+ENV2_Amount	0	4194304	Value	ValueOutput
+ENV2_Type	0	4194304	Value	ValueOutput
+ENV2_Attack	0	4194304	Value	ValueOutput
+ENV2_Decay	0	4194304	Value	ValueOutput
+ENV2_Sustain	0	4194304	Value	ValueOutput
+ENV2_Release	0	4194304	Value	ValueOutput
+ENV2_Dest1	0	4194304	Value	ValueOutput
+ENV2_Amount1	0	4194304	Value	ValueOutput
+ENV2_Dest2	0	4194304	Value	ValueOutput
+ENV2_Amount2	0	4194304	Value	ValueOutput
+ENV2_Dest3	0	4194304	Value	ValueOutput
+ENV2_Amount3	0	4194304	Value	ValueOutput
+ENV2_Dest4	0	4194304	Value	ValueOutput
+ENV2_Amount4	0	4194304	Value	ValueOutput
+MATRIX1_Src	0	4194304	Value	ValueOutput
+MATRIX1_Amount	0	4194304	Value	ValueOutput
+MATRIX1_Clipping	0	4194304	Value	ValueOutput
+MATRIX1_Target1	0	4194304	Value	ValueOutput
+MATRIX1_Amount1	0	4194304	Value	ValueOutput
+MATRIX1_Target2	0	4194304	Value	ValueOutput
+MATRIX1_Amount2	0	4194304	Value	ValueOutput
+MATRIX1_Target3	0	4194304	Value	ValueOutput
+MATRIX1_Amount3	0	4194304	Value	ValueOutput
+MATRIX1_Target4	0	4194304	Value	ValueOutput
+MATRIX1_Amount4	0	4194304	Value	ValueOutput
+MATRIX2_Src	0	4194304	Value	ValueOutput
+MATRIX2_Amount	0	4194304	Value	ValueOutput
+MATRIX2_Clipping	0	4194304	Value	ValueOutput
+MATRIX2_Target1	0	4194304	Value	ValueOutput
+MATRIX2_Amount1	0	4194304	Value	ValueOutput
+MATRIX2_Target2	0	4194304	Value	ValueOutput
+MATRIX2_Amount2	0	4194304	Value	ValueOutput
+MATRIX2_Target3	0	4194304	Value	ValueOutput
+MATRIX2_Amount3	0	4194304	Value	ValueOutput
+MATRIX2_Target4	0	4194304	Value	ValueOutput
+MATRIX2_Amount4	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

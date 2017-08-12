@@ -1,0 +1,86 @@
+Scope
+Manufacturer	Model
+Audio Assault	vst.AUBD.Bulldozer
+Note: Will match scope definitions for vst.AUBD.Bulldozer or vst.AUBD
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Pedal 1 Type	0	4194304	Value	ValueOutput
+Pedal 1 Knob 1	0	4194304	Value	ValueOutput
+Pedal 1 Knob 2	0	4194304	Value	ValueOutput
+Pedal 1 Knob 3	0	4194304	Value	ValueOutput
+Pedal 1 Knob 4	0	4194304	Value	ValueOutput
+Pedal 1 Knob 5	0	4194304	Value	ValueOutput
+Pedal 1 Knob 6	0	4194304	Value	ValueOutput
+Pedal 2 Type	0	4194304	Value	ValueOutput
+Pedal 2 Knob 1	0	4194304	Value	ValueOutput
+Pedal 2 Knob 2	0	4194304	Value	ValueOutput
+Pedal 2 Knob 3	0	4194304	Value	ValueOutput
+Pedal 2 Knob 4	0	4194304	Value	ValueOutput
+Pedal 2 Knob 5	0	4194304	Value	ValueOutput
+Pedal 2 Knob 6	0	4194304	Value	ValueOutput
+Pedal 3 Type	0	4194304	Value	ValueOutput
+Pedal 3 Knob 1	0	4194304	Value	ValueOutput
+Pedal 3 Knob 2	0	4194304	Value	ValueOutput
+Pedal 3 Knob 3	0	4194304	Value	ValueOutput
+Pedal 3 Knob 4	0	4194304	Value	ValueOutput
+Pedal 3 Knob 5	0	4194304	Value	ValueOutput
+Pedal 3 Knob 6	0	4194304	Value	ValueOutput
+Pedal 4 Type	0	4194304	Value	ValueOutput
+Pedal 4 Knob 1	0	4194304	Value	ValueOutput
+Pedal 4 Knob 2	0	4194304	Value	ValueOutput
+Pedal 4 Knob 3	0	4194304	Value	ValueOutput
+Pedal 4 Knob 4	0	4194304	Value	ValueOutput
+Pedal 4 Knob 5	0	4194304	Value	ValueOutput
+Pedal 4 Knob 6	0	4194304	Value	ValueOutput
+Pedal 5 Type	0	4194304	Value	ValueOutput
+Pedal 5 Knob 1	0	4194304	Value	ValueOutput
+Pedal 5 Knob 2	0	4194304	Value	ValueOutput
+Pedal 5 Knob 3	0	4194304	Value	ValueOutput
+Pedal 5 Knob 4	0	4194304	Value	ValueOutput
+Pedal 5 Knob 5	0	4194304	Value	ValueOutput
+Pedal 5 Knob 6	0	4194304	Value	ValueOutput
+Pedal 1 Bypass	0	4194304	Value	ValueOutput
+Pedal 2 Bypass	0	4194304	Value	ValueOutput
+Pedal 3 Bypass	0	4194304	Value	ValueOutput
+Pedal 4 Bypass	0	4194304	Value	ValueOutput
+Pedal 5 Bypass	0	4194304	Value	ValueOutput
+Channel	0	4194304	Value	ValueOutput
+Channel B - Gain	0	4194304	Value	ValueOutput
+Channel B - Bass	0	4194304	Value	ValueOutput
+Channel B - Mid	0	4194304	Value	ValueOutput
+Channel B - Treble	0	4194304	Value	ValueOutput
+Channel B - Presence	0	4194304	Value	ValueOutput
+Channel A - Gain	0	4194304	Value	ValueOutput
+Channel A - Bass	0	4194304	Value	ValueOutput
+Channel A - Mid	0	4194304	Value	ValueOutput
+Channel A - Treble	0	4194304	Value	ValueOutput
+Cab Type	0	4194304	Value	ValueOutput
+Mic Type	0	4194304	Value	ValueOutput
+Mic X	0	4194304	Value	ValueOutput
+Mix Y	0	4194304	Value	ValueOutput
+Highpass	0	4194304	Value	ValueOutput
+Lowpass	0	4194304	Value	ValueOutput
+Distance	0	4194304	Value	ValueOutput
+IR Volume	0	4194304	Value	ValueOutput
+Amp On	0	4194304	Value	ValueOutput
+Gate	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Power	0	4194304	Value	ValueOutput
+Max On	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

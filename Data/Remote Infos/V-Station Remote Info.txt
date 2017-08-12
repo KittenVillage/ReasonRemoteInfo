@@ -1,0 +1,183 @@
+Scope
+Manufacturer	Model
+Novation	vst.NvS0.V-Station
+Note: Will match scope definitions for vst.NvS0.V-Station or vst.NvS0
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Osc Voice Mode	0	4194304	Value	ValueOutput
+Osc Unison Detune	0	4194304	Value	ValueOutput
+Osc Vco Drift	0	4194304	Value	ValueOutput
+Osc Portamento Mode	0	4194304	Value	ValueOutput
+Osc 12 Sync	0	4194304	Value	ValueOutput
+Osc Start Phase	0	4194304	Value	ValueOutput
+Osc Unison Voices	0	4194304	Value	ValueOutput
+Osc1 Waveform	0	4194304	Value	ValueOutput
+Osc1 Octave	0	4194304	Value	ValueOutput
+Osc1 Semitone	0	4194304	Value	ValueOutput
+Osc1 Cents	0	4194304	Value	ValueOutput
+Osc1 Mod Env	0	4194304	Value	ValueOutput
+Osc1 Lfo1	0	4194304	Value	ValueOutput
+Osc1 PWM Select	0	4194304	Value	ValueOutput
+Osc1 PWM Pos	0	4194304	Value	ValueOutput
+Osc1 PWM Lfo2	0	4194304	Value	ValueOutput
+Osc1 PWM Env	0	4194304	Value	ValueOutput
+Osc2 Waveform	0	4194304	Value	ValueOutput
+Osc2 Octave	0	4194304	Value	ValueOutput
+Osc2 Semitone	0	4194304	Value	ValueOutput
+Osc2 Cents	0	4194304	Value	ValueOutput
+Osc2 Mod Env	0	4194304	Value	ValueOutput
+Osc2 Lfo1	0	4194304	Value	ValueOutput
+Osc2 PWM Select	0	4194304	Value	ValueOutput
+Osc2 PWM Pos	0	4194304	Value	ValueOutput
+Osc2 PWM Lfo2	0	4194304	Value	ValueOutput
+Osc2 PWM Env	0	4194304	Value	ValueOutput
+Osc3 Waveform	0	4194304	Value	ValueOutput
+Osc3 Octave	0	4194304	Value	ValueOutput
+Osc3 Semitone	0	4194304	Value	ValueOutput
+Osc3 Cents	0	4194304	Value	ValueOutput
+Osc3 Mod Env	0	4194304	Value	ValueOutput
+Osc3 Lfo1	0	4194304	Value	ValueOutput
+Osc3 PWM Select	0	4194304	Value	ValueOutput
+Osc3 PWM pos	0	4194304	Value	ValueOutput
+Osc3 PWM lfo2	0	4194304	Value	ValueOutput
+Osc3 PWM env	0	4194304	Value	ValueOutput
+Osc1 Level	0	4194304	Value	ValueOutput
+Osc2 Level	0	4194304	Value	ValueOutput
+Osc3 Level	0	4194304	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+Ring12 Level	0	4194304	Value	ValueOutput
+Filter Frequency	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter Slope	0	4194304	Value	ValueOutput
+Filter Q Normalise	0	4194304	Value	ValueOutput
+Filter Overdrive	0	4194304	Value	ValueOutput
+Filter Track	0	4194304	Value	ValueOutput
+Mod Env > Filter Freq	0	4194304	Value	ValueOutput
+Lfo2 > Filter Freq	0	4194304	Value	ValueOutput
+Osc FM Level	0	4194304	Value	ValueOutput
+Osc FM Env Depth	0	4194304	Value	ValueOutput
+FM Vel Env Depth	0	4194304	Value	ValueOutput
+FM Env Attack	0	4194304	Value	ValueOutput
+FM Env Decay	0	4194304	Value	ValueOutput
+FM Env Trigger	0	4194304	Value	ValueOutput
+Mod Attack	0	4194304	Value	ValueOutput
+Mod Decay	0	4194304	Value	ValueOutput
+Mod Sustain	0	4194304	Value	ValueOutput
+Mod Release	0	4194304	Value	ValueOutput
+Mod Velocity	0	4194304	Value	ValueOutput
+Mod Env Trigger	0	4194304	Value	ValueOutput
+Amp Level	0	4194304	Value	ValueOutput
+Amp Attack	0	4194304	Value	ValueOutput
+Amp Decay	0	4194304	Value	ValueOutput
+Amp Sustain	0	4194304	Value	ValueOutput
+Amp Release	0	4194304	Value	ValueOutput
+Amp Velocity	0	4194304	Value	ValueOutput
+Amp Env Trigger	0	4194304	Value	ValueOutput
+Lfo 1 Waveform	0	4194304	Value	ValueOutput
+Lfo 1 Speed	0	4194304	Value	ValueOutput
+Lfo 1 Delay	0	4194304	Value	ValueOutput
+Lfo 1 Delay Trigger	0	4194304	Value	ValueOutput
+Lfo 1 Key Sync	0	4194304	Value	ValueOutput
+Lfo 1 Voice Common	0	4194304	Value	ValueOutput
+Lfo 1 Key Sync Offset	0	4194304	Value	ValueOutput
+Lfo 1 Sync Rate	0	4194304	Value	ValueOutput
+Lfo 2 Waveform	0	4194304	Value	ValueOutput
+Lfo 2 Speed	0	4194304	Value	ValueOutput
+Lfo 2 Delay	0	4194304	Value	ValueOutput
+Lfo 2 Delay Trigger	0	4194304	Value	ValueOutput
+Lfo 2 Key Sync	0	4194304	Value	ValueOutput
+Lfo 2 Voice Common	0	4194304	Value	ValueOutput
+Lfo 2 Key Sync Offset	0	4194304	Value	ValueOutput
+Lfo 2 Sync Rate	0	4194304	Value	ValueOutput
+FX Select	0	4194304	Value	ValueOutput
+FX Enable	0	4194304	Value	ValueOutput
+Delay Send	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Sync	0	4194304	Value	ValueOutput
+Delay Width	0	4194304	Value	ValueOutput
+Delay L/R Ratio	0	4194304	Value	ValueOutput
+Delay Wheel	0	4194304	Value	ValueOutput
+Reverb Send	0	4194304	Value	ValueOutput
+Reverb Type	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Wheel	0	4194304	Value	ValueOutput
+Chorus Level	0	4194304	Value	ValueOutput
+Chorus Type	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Sync	0	4194304	Value	ValueOutput
+Chorus Mod Depth	0	4194304	Value	ValueOutput
+Chorus Centre	0	4194304	Value	ValueOutput
+Chorus Feedback	0	4194304	Value	ValueOutput
+Chorus Init Pos	0	4194304	Value	ValueOutput
+Chorus Wheel	0	4194304	Value	ValueOutput
+Distortion	0	4194304	Value	ValueOutput
+Distortion Comp	0	4194304	Value	ValueOutput
+Distortion Wheel	0	4194304	Value	ValueOutput
+EQ Depth	0	4194304	Value	ValueOutput
+EQ Frequency	0	4194304	Value	ValueOutput
+EQ Mod Depth	0	4194304	Value	ValueOutput
+EQ Mod Rate	0	4194304	Value	ValueOutput
+EQ Sync	0	4194304	Value	ValueOutput
+EQ Init Pos	0	4194304	Value	ValueOutput
+Pan Position	0	4194304	Value	ValueOutput
+Pan Mod Depth	0	4194304	Value	ValueOutput
+Pan Rate	0	4194304	Value	ValueOutput
+Pan Sync	0	4194304	Value	ValueOutput
+Pan Init Pos	0	4194304	Value	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Portamento Enable	0	4194304	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Osc Preglide	0	4194304	Value	ValueOutput
+Arp Tempo	0	4194304	Value	ValueOutput
+Arp Sync	0	4194304	Value	ValueOutput
+Arp Gate Time	0	4194304	Value	ValueOutput
+Arp Pattern	0	4194304	Value	ValueOutput
+Arp On/Off	0	4194304	Value	ValueOutput
+Arp Key Sync	0	4194304	Value	ValueOutput
+Arp Latch	0	4194304	Value	ValueOutput
+Arp Octaves	0	4194304	Value	ValueOutput
+Osc 1 Bend Depth	0	4194304	Value	ValueOutput
+Osc 2 Bend Depth	0	4194304	Value	ValueOutput
+Osc 3 Bend Depth	0	4194304	Value	ValueOutput
+Osc Wheel PShift	0	4194304	Value	ValueOutput
+Osc Wheel PMod	0	4194304	Value	ValueOutput
+Filter Wheel FMod	0	4194304	Value	ValueOutput
+Filter Wheel FMod Lfo2	0	4194304	Value	ValueOutput
+Amp Wheel Gain	0	4194304	Value	ValueOutput
+Osc Aft PShift	0	4194304	Value	ValueOutput
+Osc Aft PM Lfo1	0	4194304	Value	ValueOutput
+Filter Aft FShift	0	4194304	Value	ValueOutput
+Filter Aft FMod Lfo2	0	4194304	Value	ValueOutput
+Amp Aft Gain	0	4194304	Value	ValueOutput
+Osc Breath PShift	0	4194304	Value	ValueOutput
+Osc Breath PMod Lfo1	0	4194304	Value	ValueOutput
+Filter Breath FShift	0	4194304	Value	ValueOutput
+Filter Breath FMod Lfo2	0	4194304	Value	ValueOutput
+Amp Breath Gain	0	4194304	Value	ValueOutput
+Master Tune	0	4194304	Value	ValueOutput
+Midi Clock Source	0	4194304	Value	ValueOutput
+Sync Mode	0	4194304	Value	ValueOutput
+Velocity Curve	0	4194304	Value	ValueOutput
+Osc1 Solo	0	4194304	Value	ValueOutput
+Osc2 Solo	0	4194304	Value	ValueOutput
+Osc3 Solo	0	4194304	Value	ValueOutput
+Ring12 Solo	0	4194304	Value	ValueOutput
+Noise Solo	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

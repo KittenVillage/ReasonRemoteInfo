@@ -1,0 +1,62 @@
+Scope
+Manufacturer	Model
+Ochen K.	com.ochenk.Chip64
+
+Remotable	Min	Max	Input type	Output type
+Chip	0	4	Value	ValueOutput
+A2600 Waves	0	7	Value	ValueOutput
+C64 Waves	0	3	Value	ValueOutput
+Ntdo Waves	0	5	Value	ValueOutput
+VC20 Waves	0	16	Value	ValueOutput
+Clco Waves	0	2	Value	ValueOutput
+Octave	0	8	Value	ValueOutput
+Pitch	0	24	Value	ValueOutput
+Fine	0	4194304	Value	ValueOutput
+Poly Count	0	11	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Pulse Width	0	4194304	Value	ValueOutput
+Envelope Attack	0	4194304	Value	ValueOutput
+Envelope Decay	0	4194304	Value	ValueOutput
+Envelope Sustain	0	4194304	Value	ValueOutput
+Envelope Release	0	4194304	Value	ValueOutput
+Filter Type	0	7	Value	ValueOutput
+Filter Frequency	0	4194304	Value	ValueOutput
+Filter Gain	0	4194304	Value	ValueOutput
+Filter Q	0	4194304	Value	ValueOutput
+LFO Wave	0	5	Value	ValueOutput
+LFO Sync	0	1	Toggle	ValueOutput
+LFO Free Running	0	4194304	Value	ValueOutput
+LFO Tempo Sync	0	9	Value	ValueOutput
+LFO Scale	0	4194304	Value	ValueOutput
+LFO Destination	0	7	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Oversample	0	2	Value	ValueOutput
+Pitch Bend Range	0	11	Value	ValueOutput
+Mod Wheel Scale	0	4194304	Value	ValueOutput
+Mod Wheel Destination	0	6	Value	ValueOutput
+Mod Attack	0	4194304	Value	ValueOutput
+Mod Decay	0	4194304	Value	ValueOutput
+Mod Sustain	0	4194304	Value	ValueOutput
+Mod Release	0	4194304	Value	ValueOutput
+Mod Scale	0	4194304	Value	ValueOutput
+Mod Destination	0	8	Value	ValueOutput
+Sequence Enable	0	1	Toggle	ValueOutput
+Sequence Loop Length	0	3	Value	ValueOutput
+Sequence Loop Enable	0	1	Toggle	ValueOutput
+Sequence Free Running	0	4194304	Value	ValueOutput
+Sequence Tempo Sync	0	9	Value	ValueOutput
+Sequence Sync	0	1	Toggle	ValueOutput
+Note 2 Pitch	0	24	Value	ValueOutput
+Note 2 Volume	0	4194304	Value	ValueOutput
+Note 3 Pitch	0	24	Value	ValueOutput
+Note 3 Volume	0	4194304	Value	ValueOutput
+Note 4 Pitch	0	24	Value	ValueOutput
+Note 4 Volume	0	4194304	Value	ValueOutput
+Offset Pitch	0	24	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

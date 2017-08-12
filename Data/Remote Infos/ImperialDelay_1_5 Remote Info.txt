@@ -1,0 +1,85 @@
+Scope
+Manufacturer	Model
+Boz Digital Labs	vst.iDj5.ImperialDelay_1_5
+Note: Will match scope definitions for vst.iDj5.ImperialDelay_1_5 or vst.iDj5
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Drive Enable	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Apply Drive to Dry	0	4194304	Value	ValueOutput
+Drive Harmonics	0	4194304	Value	ValueOutput
+Drive Blend	0	4194304	Value	ValueOutput
+Drive Mode	0	4194304	Value	ValueOutput
+Drive Tone	0	4194304	Value	ValueOutput
+Drive Boost	0	4194304	Value	ValueOutput
+Delay Left	0	4194304	Value	ValueOutput
+Delay Right	0	4194304	Value	ValueOutput
+Delay Channel	0	4194304	Value	ValueOutput
+Delay 2 Offset	0	4194304	Value	ValueOutput
+Delay Sync Mode	0	4194304	Value	ValueOutput
+Delay Sync Left	0	4194304	Value	ValueOutput
+Delay Sync Right	0	4194304	Value	ValueOutput
+Feedback Enable	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Secondary Feedback	0	4194304	Value	ValueOutput
+Dynamic Feedback Enable	0	4194304	Value	ValueOutput
+Dynamic Feedback Thresho	0	4194304	Value	ValueOutput
+Polarity L	0	4194304	Value	ValueOutput
+Polarity R	0	4194304	Value	ValueOutput
+Delay Mode	0	4194304	Value	ValueOutput
+Mod Enable	0	4194304	Value	ValueOutput
+Mod Depth	0	4194304	Value	ValueOutput
+Mod Speed	0	4194304	Value	ValueOutput
+Mod Speed Difference	0	4194304	Value	ValueOutput
+Mod Blend	0	4194304	Value	ValueOutput
+Color Enable	0	4194304	Value	ValueOutput
+Color	0	4194304	Value	ValueOutput
+Color LPF Freq	0	4194304	Value	ValueOutput
+Color HPF Freq	0	4194304	Value	ValueOutput
+Color Slant	0	4194304	Value	ValueOutput
+Smear Enable	0	4194304	Value	ValueOutput
+Smear	0	4194304	Value	ValueOutput
+Smear Feedback	0	4194304	Value	ValueOutput
+Smear Delay	0	4194304	Value	ValueOutput
+Smear LPF	0	4194304	Value	ValueOutput
+Pitch Shift Link L R	0	4194304	Value	ValueOutput
+Pitch Shift Enable	0	4194304	Value	ValueOutput
+Pitch Left	0	4194304	Value	ValueOutput
+Pitch Right	0	4194304	Value	ValueOutput
+Chorus Enable	0	4194304	Value	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Tone	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Voices	0	4194304	Value	ValueOutput
+Duck Enable	0	4194304	Value	ValueOutput
+Duck Threshold	0	4194304	Value	ValueOutput
+Duck Inside FB	0	4194304	Value	ValueOutput
+Duck Attack	0	4194304	Value	ValueOutput
+Duck Release	0	4194304	Value	ValueOutput
+Duck Ratio	0	4194304	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+Dry Volume	0	4194304	Value	ValueOutput
+Wet Volume	0	4194304	Value	ValueOutput
+Plugin Enabled	0	4194304	Value	ValueOutput
+Wet Enable	0	4194304	Value	ValueOutput
+Dry Enable	0	4194304	Value	ValueOutput
+Tap Tempo	0	4194304	Value	ValueOutput
+Delay Change Speed	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

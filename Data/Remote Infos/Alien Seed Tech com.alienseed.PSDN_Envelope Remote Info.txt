@@ -1,0 +1,93 @@
+Scope
+Manufacturer	Model
+Alien Seed Tech	com.alienseed.PSDN_Envelope
+
+Remotable	Min	Max	Input type	Output type
+Device Enable	0	1	Toggle	ValueOutput
+Display Enable	0	1	Toggle	ValueOutput
+Display FPS	0	10	Value	ValueOutput
+Velocity Amount	0	4194304	Value	ValueOutput
+Interrupt Gates	0	2	Value	ValueOutput
+Link Envelopes	0	3	Value	ValueOutput
+Link Start	0	5	Value	ValueOutput
+Link End	0	5	Value	ValueOutput
+Link Scale	0	4194304	Value	ValueOutput
+Env 1 Enable	0	1	Toggle	ValueOutput
+Env 1 Sync	0	1	Toggle	ValueOutput
+Env 1 Loop	0	1	Toggle	ValueOutput
+Env 1 Invert	0	1	Toggle	ValueOutput
+Env 1 Level	0	4194304	Value	ValueOutput
+Env 1 Attack Delay Free	0	4194304	Value	ValueOutput
+Env 1 Attack Delay Sync	0	37	Value	ValueOutput
+Env 1 Attack Free	0	4194304	Value	ValueOutput
+Env 1 Attack Sync	0	37	Value	ValueOutput
+Env 1 Decay Delay Free	0	4194304	Value	ValueOutput
+Env 1 Decay Delay Sync	0	37	Value	ValueOutput
+Env 1 Decay Free	0	4194304	Value	ValueOutput
+Env 1 Decay Sync	0	37	Value	ValueOutput
+Env 1 Sustain	0	4194304	Value	ValueOutput
+Env 1 Release Free	0	4194304	Value	ValueOutput
+Env 1 Release Sync	0	37	Value	ValueOutput
+Env 1 Curve Type	0	7	Value	ValueOutput
+Env 1 Curve Shape	0	57	Value	ValueOutput
+Env 1 Curve Use Attack	0	1	Toggle	ValueOutput
+Env 1 Curve Use Decay	0	1	Toggle	ValueOutput
+Env 1 Curve Use Release	0	1	Toggle	ValueOutput
+Env 1 Curve Attack	0	4194304	Value	ValueOutput
+Env 1 Curve Decay	0	4194304	Value	ValueOutput
+Env 1 Curve Release	0	4194304	Value	ValueOutput
+Env 1 Mid Type	0	1	Toggle	ValueOutput
+Env 1 Mid Attack	0	4194304	Value	ValueOutput
+Env 1 Mid Decay	0	4194304	Value	ValueOutput
+Env 1 Mid Release	0	4194304	Value	ValueOutput
+Env 1 Smooth Size	0	64	Value	ValueOutput
+Env 2 Enable	0	1	Toggle	ValueOutput
+Env 2 Sync	0	1	Toggle	ValueOutput
+Env 2 Loop	0	1	Toggle	ValueOutput
+Env 2 Invert	0	1	Toggle	ValueOutput
+Env 2 Level	0	4194304	Value	ValueOutput
+Env 2 Attack Delay Free	0	4194304	Value	ValueOutput
+Env 2 Attack Delay Sync	0	37	Value	ValueOutput
+Env 2 Attack Free	0	4194304	Value	ValueOutput
+Env 2 Attack Sync	0	37	Value	ValueOutput
+Env 2 Decay Delay Free	0	4194304	Value	ValueOutput
+Env 2 Decay Delay Sync	0	37	Value	ValueOutput
+Env 2 Decay Free	0	4194304	Value	ValueOutput
+Env 2 Decay Sync	0	37	Value	ValueOutput
+Env 2 Sustain	0	4194304	Value	ValueOutput
+Env 2 Release Free	0	4194304	Value	ValueOutput
+Env 2 Release Sync	0	37	Value	ValueOutput
+Env 2 Curve Type	0	7	Value	ValueOutput
+Env 2 Curve Shape	0	57	Value	ValueOutput
+Env 2 Curve Use Attack	0	1	Toggle	ValueOutput
+Env 2 Curve Use Decay	0	1	Toggle	ValueOutput
+Env 2 Curve Use Release	0	1	Toggle	ValueOutput
+Env 2 Curve Attack	0	4194304	Value	ValueOutput
+Env 2 Curve Decay	0	4194304	Value	ValueOutput
+Env 2 Curve Release	0	4194304	Value	ValueOutput
+Env 2 Mid Type	0	1	Toggle	ValueOutput
+Env 2 Mid Attack	0	4194304	Value	ValueOutput
+Env 2 Mid Decay	0	4194304	Value	ValueOutput
+Env 2 Mid Release	0	4194304	Value	ValueOutput
+Env 2 Smooth Size	0	64	Value	ValueOutput
+Mod Env 1 Source	0	37	Value	ValueOutput
+Mod Env 1 Dest	0	4	Value	ValueOutput
+Mod Env 1 Knob	0	60	Value	ValueOutput
+Mod Env 1 Amount	0	4194304	Value	ValueOutput
+Mod Env 2 Source	0	37	Value	ValueOutput
+Mod Env 2 Dest	0	4	Value	ValueOutput
+Mod Env 2 Knob	0	60	Value	ValueOutput
+Mod Env 2 Amount	0	4194304	Value	ValueOutput
+Mod Env 3 Source	0	37	Value	ValueOutput
+Mod Env 3 Dest	0	4	Value	ValueOutput
+Mod Env 3 Knob	0	60	Value	ValueOutput
+Mod Env 3 Amount	0	4194304	Value	ValueOutput
+Mod Env 4 Source	0	37	Value	ValueOutput
+Mod Env 4 Dest	0	4	Value	ValueOutput
+Mod Env 4 Knob	0	60	Value	ValueOutput
+Mod Env 4 Amount	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

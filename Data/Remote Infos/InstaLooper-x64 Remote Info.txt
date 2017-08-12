@@ -1,0 +1,47 @@
+Scope
+Manufacturer	Model
+AudioBlast	vst.loop.InstaLooper-x64
+Note: Will match scope definitions for vst.loop.InstaLooper-x64 or vst.loop
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Loop1	0	4194304	Value	ValueOutput
+Loop2	0	4194304	Value	ValueOutput
+Loop3	0	4194304	Value	ValueOutput
+Loop4	0	4194304	Value	ValueOutput
+Value1	0	4194304	Value	ValueOutput
+Value2	0	4194304	Value	ValueOutput
+Value3	0	4194304	Value	ValueOutput
+Value4	0	4194304	Value	ValueOutput
+pitch1	0	4194304	Value	ValueOutput
+pitch2	0	4194304	Value	ValueOutput
+pitch3	0	4194304	Value	ValueOutput
+pitch4	0	4194304	Value	ValueOutput
+rev1	0	4194304	Value	ValueOutput
+rev2	0	4194304	Value	ValueOutput
+rev3	0	4194304	Value	ValueOutput
+rev4	0	4194304	Value	ValueOutput
+FX1	0	4194304	Value	ValueOutput
+FX2	0	4194304	Value	ValueOutput
+FX3	0	4194304	Value	ValueOutput
+FX4	0	4194304	Value	ValueOutput
+FX1 sel	0	4194304	Value	ValueOutput
+FX2 sel	0	4194304	Value	ValueOutput
+FX3 sel	0	4194304	Value	ValueOutput
+FX4 sel	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

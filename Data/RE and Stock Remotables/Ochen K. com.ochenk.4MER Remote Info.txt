@@ -1,0 +1,185 @@
+Scope
+Manufacturer	Model
+Ochen K.	com.ochenk.4MER
+
+Remotable	Min	Max	Input type	Output type
+Portamento	0	4194304	Value	ValueOutput
+Note Mode	0	2	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Osc 1 Wave	0	24	Value	ValueOutput
+Osc 1 Volume	0	4194304	Value	ValueOutput
+Osc 1 Pan	0	4194304	Value	ValueOutput
+Osc 1 Env Dest	0	4	Value	ValueOutput
+Osc 1 Filter Dest	0	3	Value	ValueOutput
+Osc 1 Octave	0	4	Value	ValueOutput
+Osc 1 Semitone Pitch	0	24	Value	ValueOutput
+Osc 1 Fine Pitch	0	4194304	Value	ValueOutput
+Osc 1 Unison Amount	0	4194304	Value	ValueOutput
+Osc 1 Unison Spread	0	4194304	Value	ValueOutput
+Osc 1 Pulse Width	0	4194304	Value	ValueOutput
+Osc 1 Spread	0	4194304	Value	ValueOutput
+Osc 1 Harmonics	0	4194304	Value	ValueOutput
+Osc 1 Warp	0	4194304	Value	ValueOutput
+Osc 1 Sync	0	4194304	Value	ValueOutput
+Osc 1 Saturation	0	4194304	Value	ValueOutput
+Osc 1 Bit Crush	0	4194304	Value	ValueOutput
+Osc 1 Phase	0	4194304	Value	ValueOutput
+Osc 2 Wave	0	24	Value	ValueOutput
+Osc 2 Volume	0	4194304	Value	ValueOutput
+Osc 2 Pan	0	4194304	Value	ValueOutput
+Osc 2 Env Dest	0	4	Value	ValueOutput
+Osc 2 Filter Dest	0	3	Value	ValueOutput
+Osc 2 Octave	0	4	Value	ValueOutput
+Osc 2 Semitone Pitch	0	24	Value	ValueOutput
+Osc 2 Fine Pitch	0	4194304	Value	ValueOutput
+Osc 2 Unison Amount	0	4194304	Value	ValueOutput
+Osc 2 Unison Spread	0	4194304	Value	ValueOutput
+Osc 2 Pulse Width	0	4194304	Value	ValueOutput
+Osc 2 Spread	0	4194304	Value	ValueOutput
+Osc 2 Harmonics	0	4194304	Value	ValueOutput
+Osc 2 Warp	0	4194304	Value	ValueOutput
+Osc 2 Sync	0	4194304	Value	ValueOutput
+Osc 2 Saturation	0	4194304	Value	ValueOutput
+Osc 2 Bit Crush	0	4194304	Value	ValueOutput
+Osc 2 Phase	0	4194304	Value	ValueOutput
+Osc 3 Wave	0	24	Value	ValueOutput
+Osc 3 Volume	0	4194304	Value	ValueOutput
+Osc 3 Pan	0	4194304	Value	ValueOutput
+Osc 3 Env Dest	0	4	Value	ValueOutput
+Osc 3 Filter Dest	0	3	Value	ValueOutput
+Osc 3 Octave	0	4	Value	ValueOutput
+Osc 3 Semitone Pitch	0	24	Value	ValueOutput
+Osc 3 Fine Pitch	0	4194304	Value	ValueOutput
+Osc 3 Unison Amount	0	4194304	Value	ValueOutput
+Osc 3 Unison Spread	0	4194304	Value	ValueOutput
+Osc 3 Pulse Width	0	4194304	Value	ValueOutput
+Osc 3 Spread	0	4194304	Value	ValueOutput
+Osc 3 Harmonics	0	4194304	Value	ValueOutput
+Osc 3 Warp	0	4194304	Value	ValueOutput
+Osc 3 Sync	0	4194304	Value	ValueOutput
+Osc 3 Saturation	0	4194304	Value	ValueOutput
+Osc 3 Bit Crush	0	4194304	Value	ValueOutput
+Osc 3 Phase	0	4194304	Value	ValueOutput
+Osc 4 Wave	0	24	Value	ValueOutput
+Osc 4 Volume	0	4194304	Value	ValueOutput
+Osc 4 Pan	0	4194304	Value	ValueOutput
+Osc 4 Env Dest	0	4	Value	ValueOutput
+Osc 4 Filter Dest	0	3	Value	ValueOutput
+Osc 4 Octave	0	4	Value	ValueOutput
+Osc 4 Semitone Pitch	0	24	Value	ValueOutput
+Osc 4 Fine Pitch	0	4194304	Value	ValueOutput
+Osc 4 Unison Amount	0	4194304	Value	ValueOutput
+Osc 4 Unison Spread	0	4194304	Value	ValueOutput
+Osc 4 Pulse Width	0	4194304	Value	ValueOutput
+Osc 4 Spread	0	4194304	Value	ValueOutput
+Osc 4 Harmonics	0	4194304	Value	ValueOutput
+Osc 4 Warp	0	4194304	Value	ValueOutput
+Osc 4 Sync	0	4194304	Value	ValueOutput
+Osc 4 Saturation	0	4194304	Value	ValueOutput
+Osc 4 Bit Crush	0	4194304	Value	ValueOutput
+Osc 4 Phase	0	4194304	Value	ValueOutput
+Env 1 Stages	0	14	Value	ValueOutput
+Env 1 Rate	0	4194304	Value	ValueOutput
+Env 1 Mode	0	2	Value	ValueOutput
+Env 1 Sustain Point	0	15	Value	ValueOutput
+Env 1 Loop Start Point	0	15	Value	ValueOutput
+Env 1 Loop End Point	0	15	Value	ValueOutput
+Env 2 Stages	0	14	Value	ValueOutput
+Env 2 Rate	0	4194304	Value	ValueOutput
+Env 2 Mode	0	2	Value	ValueOutput
+Env 2 Sustain Point	0	15	Value	ValueOutput
+Env 2 Loop Start Point	0	15	Value	ValueOutput
+Env 2 Loop End Point	0	15	Value	ValueOutput
+Env 3 Stages	0	14	Value	ValueOutput
+Env 3 Rate	0	4194304	Value	ValueOutput
+Env 3 Mode	0	2	Value	ValueOutput
+Env 3 Sustain Point	0	15	Value	ValueOutput
+Env 3 Loop Start Point	0	15	Value	ValueOutput
+Env 3 Loop End Point	0	15	Value	ValueOutput
+Env 4 Stages	0	14	Value	ValueOutput
+Env 4 Rate	0	4194304	Value	ValueOutput
+Env 4 Mode	0	2	Value	ValueOutput
+Env 4 Sustain Point	0	15	Value	ValueOutput
+Env 4 Loop Start Point	0	15	Value	ValueOutput
+Env 4 Loop End Point	0	15	Value	ValueOutput
+Env 5 Stages	0	14	Value	ValueOutput
+Env 5 Rate	0	4194304	Value	ValueOutput
+Env 5 Mode	0	2	Value	ValueOutput
+Env 5 Sustain Point	0	15	Value	ValueOutput
+Env 5 Loop Start Point	0	15	Value	ValueOutput
+Env 5 Loop End Point	0	15	Value	ValueOutput
+Filter 1 Type	0	7	Value	ValueOutput
+Filter 1 Frequency	0	4194304	Value	ValueOutput
+Filter 1 Resonance	0	4194304	Value	ValueOutput
+Filter 2 Type	0	7	Value	ValueOutput
+Filter 2 Frequency	0	4194304	Value	ValueOutput
+Filter 2 Resonance	0	4194304	Value	ValueOutput
+LFO 1 Wave	0	11	Value	ValueOutput
+LFO 1 Depth	0	4194304	Value	ValueOutput
+LFO 1 Rate	0	4194304	Value	ValueOutput
+LFO 1 Mode	0	2	Value	ValueOutput
+LFO 1 Phase	0	4194304	Value	ValueOutput
+LFO 2 Wave	0	11	Value	ValueOutput
+LFO 2 Depth	0	4194304	Value	ValueOutput
+LFO 2 Rate	0	4194304	Value	ValueOutput
+LFO 2 Mode	0	2	Value	ValueOutput
+LFO 2 Phase	0	4194304	Value	ValueOutput
+LFO 3 Wave	0	11	Value	ValueOutput
+LFO 3 Depth	0	4194304	Value	ValueOutput
+LFO 3 Rate	0	4194304	Value	ValueOutput
+LFO 3 Mode	0	2	Value	ValueOutput
+LFO 3 Phase	0	4194304	Value	ValueOutput
+LFO 4 Wave	0	11	Value	ValueOutput
+LFO 4 Depth	0	4194304	Value	ValueOutput
+LFO 4 Rate	0	4194304	Value	ValueOutput
+LFO 4 Mode	0	2	Value	ValueOutput
+LFO 4 Phase	0	4194304	Value	ValueOutput
+Reverb	0	4194304	Value	ValueOutput
+Tempo Sync	0	1	Toggle	ValueOutput
+Delay Free Rate	0	4194304	Value	ValueOutput
+Delay Sync Rate	0	15	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Wet	0	4194304	Value	ValueOutput
+EQ Low Shelf	0	4194304	Value	ValueOutput
+EQ Mid Low	0	4194304	Value	ValueOutput
+EQ Mid High	0	4194304	Value	ValueOutput
+EQ High	0	4194304	Value	ValueOutput
+Pitch Bend Range	0	11	Value	ValueOutput
+Mod Wheel Scale	0	4194304	Value	ValueOutput
+Mod Source 1	0	19	Value	ValueOutput
+Mod Source 2	0	19	Value	ValueOutput
+Mod Source 3	0	19	Value	ValueOutput
+Mod Source 4	0	19	Value	ValueOutput
+Mod Source 5	0	19	Value	ValueOutput
+Mod Source 6	0	19	Value	ValueOutput
+Mod Source 7	0	19	Value	ValueOutput
+Mod Source 8	0	19	Value	ValueOutput
+Mod Source 9	0	19	Value	ValueOutput
+Mod Source 10	0	19	Value	ValueOutput
+Mod Scale 1	0	4194304	Value	ValueOutput
+Mod Scale 2	0	4194304	Value	ValueOutput
+Mod Scale 3	0	4194304	Value	ValueOutput
+Mod Scale 4	0	4194304	Value	ValueOutput
+Mod Scale 5	0	4194304	Value	ValueOutput
+Mod Scale 6	0	4194304	Value	ValueOutput
+Mod Scale 7	0	4194304	Value	ValueOutput
+Mod Scale 8	0	4194304	Value	ValueOutput
+Mod Scale 9	0	4194304	Value	ValueOutput
+Mod Scale 10	0	4194304	Value	ValueOutput
+Mod Destination 1	0	92	Value	ValueOutput
+Mod Destination 2	0	92	Value	ValueOutput
+Mod Destination 3	0	92	Value	ValueOutput
+Mod Destination 4	0	92	Value	ValueOutput
+Mod Destination 5	0	92	Value	ValueOutput
+Mod Destination 6	0	92	Value	ValueOutput
+Mod Destination 7	0	92	Value	ValueOutput
+Mod Destination 8	0	92	Value	ValueOutput
+Mod Destination 9	0	92	Value	ValueOutput
+Mod Destination 10	0	92	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

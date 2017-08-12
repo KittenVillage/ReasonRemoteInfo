@@ -1,0 +1,204 @@
+Scope
+Manufacturer	Model
+PPG	vst.GRS1.Phonem(64)
+Note: Will match scope definitions for vst.GRS1.Phonem(64) or vst.GRS1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+RES	0	4194304	Value	ValueOutput
+Freeze	0	4194304	Value	ValueOutput
+NoisCol	0	4194304	Value	ValueOutput
+TonVel	0	4194304	Value	ValueOutput
+SpdSprd	0	4194304	Value	ValueOutput
+Noise	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+EnvT B	0	4194304	Value	ValueOutput
+EnvT P	0	4194304	Value	ValueOutput
+EnvT A	0	4194304	Value	ValueOutput
+EnvT D	0	4194304	Value	ValueOutput
+EnvT S	0	4194304	Value	ValueOutput
+EnvT R	0	4194304	Value	ValueOutput
+EnvT AB	0	4194304	Value	ValueOutput
+EnvT DB	0	4194304	Value	ValueOutput
+EnvT RB	0	4194304	Value	ValueOutput
+EnvT LW	0	4194304	Value	ValueOutput
+EnvT LR	0	4194304	Value	ValueOutput
+EnvT V	0	4194304	Value	ValueOutput
+EnvG A	0	4194304	Value	ValueOutput
+EnvG D	0	4194304	Value	ValueOutput
+EnvG S	0	4194304	Value	ValueOutput
+EnvG R	0	4194304	Value	ValueOutput
+EnvG AB	0	4194304	Value	ValueOutput
+EnvG DB	0	4194304	Value	ValueOutput
+EnvG RB	0	4194304	Value	ValueOutput
+EnvG V	0	4194304	Value	ValueOutput
+EnvM1 B	0	4194304	Value	ValueOutput
+EnvM1 P	0	4194304	Value	ValueOutput
+EnvM1 A	0	4194304	Value	ValueOutput
+EnvM1 D	0	4194304	Value	ValueOutput
+EnvM1 S	0	4194304	Value	ValueOutput
+EnvM1 R	0	4194304	Value	ValueOutput
+EnvM1 A	0	4194304	Value	ValueOutput
+EnvM1 D	0	4194304	Value	ValueOutput
+EnvM1 R	0	4194304	Value	ValueOutput
+EnvM1 L	0	4194304	Value	ValueOutput
+EnvM1 L	0	4194304	Value	ValueOutput
+EnvM1 V	0	4194304	Value	ValueOutput
+EnvM2 B	0	4194304	Value	ValueOutput
+EnvM2 P	0	4194304	Value	ValueOutput
+EnvM2 A	0	4194304	Value	ValueOutput
+EnvM2 D	0	4194304	Value	ValueOutput
+EnvM2 S	0	4194304	Value	ValueOutput
+EnvM2 R	0	4194304	Value	ValueOutput
+EnvM2 A	0	4194304	Value	ValueOutput
+EnvM2 D	0	4194304	Value	ValueOutput
+EnvM2 R	0	4194304	Value	ValueOutput
+EnvM2 L	0	4194304	Value	ValueOutput
+EnvM2 L	0	4194304	Value	ValueOutput
+EnvM2 V	0	4194304	Value	ValueOutput
+EnvM3 B	0	4194304	Value	ValueOutput
+EnvM3 P	0	4194304	Value	ValueOutput
+EnvM3 A	0	4194304	Value	ValueOutput
+EnvM3 D	0	4194304	Value	ValueOutput
+EnvM3 S	0	4194304	Value	ValueOutput
+EnvM3 R	0	4194304	Value	ValueOutput
+EnvM3 A	0	4194304	Value	ValueOutput
+EnvM3 D	0	4194304	Value	ValueOutput
+EnvM3 R	0	4194304	Value	ValueOutput
+EnvM3 L	0	4194304	Value	ValueOutput
+EnvM3 L	0	4194304	Value	ValueOutput
+EnvM3 V	0	4194304	Value	ValueOutput
+EnvMW B	0	4194304	Value	ValueOutput
+EnvMW P	0	4194304	Value	ValueOutput
+EnvMW A	0	4194304	Value	ValueOutput
+EnvMW D	0	4194304	Value	ValueOutput
+EnvMW S	0	4194304	Value	ValueOutput
+EnvMW R	0	4194304	Value	ValueOutput
+EnvMW A	0	4194304	Value	ValueOutput
+EnvMW D	0	4194304	Value	ValueOutput
+EnvMW R	0	4194304	Value	ValueOutput
+EnvMW L	0	4194304	Value	ValueOutput
+EnvMW L	0	4194304	Value	ValueOutput
+EnvMW V	0	4194304	Value	ValueOutput
+LFO1 S	0	4194304	Value	ValueOutput
+LFO1 G	0	4194304	Value	ValueOutput
+LFO1 R	0	4194304	Value	ValueOutput
+LFO2 S	0	4194304	Value	ValueOutput
+LFO2 G	0	4194304	Value	ValueOutput
+LFO2 R	0	4194304	Value	ValueOutput
+LFO3 S	0	4194304	Value	ValueOutput
+LFO3 G	0	4194304	Value	ValueOutput
+LFO3 R	0	4194304	Value	ValueOutput
+LFO4 S	0	4194304	Value	ValueOutput
+LFO4 G	0	4194304	Value	ValueOutput
+LFO4 R	0	4194304	Value	ValueOutput
+VsyPnt	0	4194304	Value	ValueOutput
+VibInts	0	4194304	Value	ValueOutput
+GrlSp	0	4194304	Value	ValueOutput
+GrlSv	0	4194304	Value	ValueOutput
+GrlAv	0	4194304	Value	ValueOutput
+VibSv	0	4194304	Value	ValueOutput
+VibAv	0	4194304	Value	ValueOutput
+nu	0	4194304	Value	ValueOutput
+nu	0	4194304	Value	ValueOutput
+FltSv	0	4194304	Value	ValueOutput
+VibSp	0	4194304	Value	ValueOutput
+FltSp	0	4194304	Value	ValueOutput
+FltInts	0	4194304	Value	ValueOutput
+Oct	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Portm	0	4194304	Value	ValueOutput
+BtSpeed	0	4194304	Value	ValueOutput
+BtSpdL	0	4194304	Value	ValueOutput
+BtInts	0	4194304	Value	ValueOutput
+RevbMix	0	4194304	Value	ValueOutput
+RevbDam	0	4194304	Value	ValueOutput
+RevWidt	0	4194304	Value	ValueOutput
+RevSize	0	4194304	Value	ValueOutput
+PerfX1	0	4194304	Value	ValueOutput
+PerfY1	0	4194304	Value	ValueOutput
+PerfX2	0	4194304	Value	ValueOutput
+PerfY2	0	4194304	Value	ValueOutput
+MtxB	0	4194304	Value	ValueOutput
+MtxB2	0	4194304	Value	ValueOutput
+MtxO	0	4194304	Value	ValueOutput
+MtxO2	0	4194304	Value	ValueOutput
+MtxQ	0	4194304	Value	ValueOutput
+MtxQ2	0	4194304	Value	ValueOutput
+Mtx2	0	4194304	Value	ValueOutput
+Mtx22	0	4194304	Value	ValueOutput
+MtxC	0	4194304	Value	ValueOutput
+MtxC2	0	4194304	Value	ValueOutput
+MtxG	0	4194304	Value	ValueOutput
+MtxG2	0	4194304	Value	ValueOutput
+MtxF	0	4194304	Value	ValueOutput
+MtxF2	0	4194304	Value	ValueOutput
+MtxA	0	4194304	Value	ValueOutput
+MtxA2	0	4194304	Value	ValueOutput
+MtxM	0	4194304	Value	ValueOutput
+MtxM2	0	4194304	Value	ValueOutput
+MtxR	0	4194304	Value	ValueOutput
+MtxR2	0	4194304	Value	ValueOutput
+MtxU	0	4194304	Value	ValueOutput
+MtxU2	0	4194304	Value	ValueOutput
+MtxW	0	4194304	Value	ValueOutput
+MtxW2	0	4194304	Value	ValueOutput
+MtxV	0	4194304	Value	ValueOutput
+MtxV2	0	4194304	Value	ValueOutput
+MtxS	0	4194304	Value	ValueOutput
+MtxS2	0	4194304	Value	ValueOutput
+MtxN	0	4194304	Value	ValueOutput
+MtxN2	0	4194304	Value	ValueOutput
+MtxP	0	4194304	Value	ValueOutput
+MtxP2	0	4194304	Value	ValueOutput
+MtxL1i	0	4194304	Value	ValueOutput
+MtxL1f	0	4194304	Value	ValueOutput
+MtxL2i	0	4194304	Value	ValueOutput
+MtxL2f	0	4194304	Value	ValueOutput
+MtxL3i	0	4194304	Value	ValueOutput
+MtxL3f	0	4194304	Value	ValueOutput
+MtxL4i	0	4194304	Value	ValueOutput
+MtxL4f	0	4194304	Value	ValueOutput
+Del T1	0	4194304	Value	ValueOutput
+Del T2	0	4194304	Value	ValueOutput
+Del mix	0	4194304	Value	ValueOutput
+Gld FB	0	4194304	Value	ValueOutput
+CX	0	4194304	Value	ValueOutput
+CY	0	4194304	Value	ValueOutput
+CL	0	4194304	Value	ValueOutput
+MOct1	0	4194304	Value	ValueOutput
+MOct2	0	4194304	Value	ValueOutput
+MOct3	0	4194304	Value	ValueOutput
+MOct4	0	4194304	Value	ValueOutput
+MSem1	0	4194304	Value	ValueOutput
+MSem2	0	4194304	Value	ValueOutput
+MSem3	0	4194304	Value	ValueOutput
+MSem4	0	4194304	Value	ValueOutput
+MForm1	0	4194304	Value	ValueOutput
+MForm2	0	4194304	Value	ValueOutput
+MForm3	0	4194304	Value	ValueOutput
+MForm4	0	4194304	Value	ValueOutput
+MGain1	0	4194304	Value	ValueOutput
+MGain2	0	4194304	Value	ValueOutput
+MGain3	0	4194304	Value	ValueOutput
+MGain4	0	4194304	Value	ValueOutput
+MTime	0	4194304	Value	ValueOutput
+MPitch	0	4194304	Value	ValueOutput
+MDyn	0	4194304	Value	ValueOutput
+MSpread	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

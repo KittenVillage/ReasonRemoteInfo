@@ -1,0 +1,125 @@
+Scope
+Manufacturer	Model
+TBProAudio	vst.TBP4.gEQ12 x64
+Note: Will match scope definitions for vst.TBP4.gEQ12 x64 or vst.TBP4
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+OS Mode	0	4194304	Value	ValueOutput
+AB	0	4194304	Value	ValueOutput
+Channel Mode	0	4194304	Value	ValueOutput
+Filter Mode	0	4194304	Value	ValueOutput
+Active 1	0	4194304	Value	ValueOutput
+Type 1	0	4194304	Value	ValueOutput
+ChMode 1	0	4194304	Value	ValueOutput
+Slope 1	0	4194304	Value	ValueOutput
+Gain 1	0	4194304	Value	ValueOutput
+Freq 1	0	4194304	Value	ValueOutput
+Q 1	0	4194304	Value	ValueOutput
+Active 2	0	4194304	Value	ValueOutput
+Type 2	0	4194304	Value	ValueOutput
+ChMode 2	0	4194304	Value	ValueOutput
+Slope 2	0	4194304	Value	ValueOutput
+Gain 2	0	4194304	Value	ValueOutput
+Freq 2	0	4194304	Value	ValueOutput
+Q 2	0	4194304	Value	ValueOutput
+Active 3	0	4194304	Value	ValueOutput
+Type 3	0	4194304	Value	ValueOutput
+ChMode 3	0	4194304	Value	ValueOutput
+Slope 3	0	4194304	Value	ValueOutput
+Gain 3	0	4194304	Value	ValueOutput
+Freq 3	0	4194304	Value	ValueOutput
+Q 3	0	4194304	Value	ValueOutput
+Active 4	0	4194304	Value	ValueOutput
+Type 4	0	4194304	Value	ValueOutput
+ChMode 4	0	4194304	Value	ValueOutput
+Slope 4	0	4194304	Value	ValueOutput
+Gain 4	0	4194304	Value	ValueOutput
+Freq 4	0	4194304	Value	ValueOutput
+Q 4	0	4194304	Value	ValueOutput
+Active 5	0	4194304	Value	ValueOutput
+Type 5	0	4194304	Value	ValueOutput
+ChMode 5	0	4194304	Value	ValueOutput
+Slope 5	0	4194304	Value	ValueOutput
+Gain 5	0	4194304	Value	ValueOutput
+Freq 5	0	4194304	Value	ValueOutput
+Q 5	0	4194304	Value	ValueOutput
+Active 6	0	4194304	Value	ValueOutput
+Type 6	0	4194304	Value	ValueOutput
+ChMode 6	0	4194304	Value	ValueOutput
+Slope 6	0	4194304	Value	ValueOutput
+Gain 6	0	4194304	Value	ValueOutput
+Freq 6	0	4194304	Value	ValueOutput
+Q 6	0	4194304	Value	ValueOutput
+Active 7	0	4194304	Value	ValueOutput
+Type 7	0	4194304	Value	ValueOutput
+ChMode 7	0	4194304	Value	ValueOutput
+Slope 7	0	4194304	Value	ValueOutput
+Gain 7	0	4194304	Value	ValueOutput
+Freq 7	0	4194304	Value	ValueOutput
+Q 7	0	4194304	Value	ValueOutput
+Active 8	0	4194304	Value	ValueOutput
+Type 8	0	4194304	Value	ValueOutput
+ChMode 8	0	4194304	Value	ValueOutput
+Slope 8	0	4194304	Value	ValueOutput
+Gain 8	0	4194304	Value	ValueOutput
+Freq 8	0	4194304	Value	ValueOutput
+Q 8	0	4194304	Value	ValueOutput
+Active 9	0	4194304	Value	ValueOutput
+Type 9	0	4194304	Value	ValueOutput
+ChMode 9	0	4194304	Value	ValueOutput
+Slope 9	0	4194304	Value	ValueOutput
+Gain 9	0	4194304	Value	ValueOutput
+Freq 9	0	4194304	Value	ValueOutput
+Q 9	0	4194304	Value	ValueOutput
+Active 10	0	4194304	Value	ValueOutput
+Type 10	0	4194304	Value	ValueOutput
+ChMode 10	0	4194304	Value	ValueOutput
+Slope 10	0	4194304	Value	ValueOutput
+Gain 10	0	4194304	Value	ValueOutput
+Freq 10	0	4194304	Value	ValueOutput
+Q 10	0	4194304	Value	ValueOutput
+Active 11	0	4194304	Value	ValueOutput
+Type 11	0	4194304	Value	ValueOutput
+ChMode 11	0	4194304	Value	ValueOutput
+Slope 11	0	4194304	Value	ValueOutput
+Gain 11	0	4194304	Value	ValueOutput
+Freq 11	0	4194304	Value	ValueOutput
+Q 11	0	4194304	Value	ValueOutput
+Active 12	0	4194304	Value	ValueOutput
+Type 12	0	4194304	Value	ValueOutput
+ChMode 12	0	4194304	Value	ValueOutput
+Slope 12	0	4194304	Value	ValueOutput
+Gain 12	0	4194304	Value	ValueOutput
+Freq 12	0	4194304	Value	ValueOutput
+Q 12	0	4194304	Value	ValueOutput
+FScale	0	4194304	Value	ValueOutput
+FOffset	0	4194304	Value	ValueOutput
+GScale	0	4194304	Value	ValueOutput
+GOffset	0	4194304	Value	ValueOutput
+DBOffset	0	4194304	Value	ValueOutput
+Slope	0	4194304	Value	ValueOutput
+Pre AGV	0	4194304	Value	ValueOutput
+Pre Live	0	4194304	Value	ValueOutput
+Post AGV	0	4194304	Value	ValueOutput
+Post Live	0	4194304	Value	ValueOutput
+Hold	0	4194304	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+Analyzer Mode	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

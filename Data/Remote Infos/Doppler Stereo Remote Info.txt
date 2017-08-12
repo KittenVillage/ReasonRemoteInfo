@@ -1,0 +1,47 @@
+Scope
+Manufacturer	Model
+Waves	vst.DPAS.WaveShell-VST 9_91_x64.Doppler Stereo
+Note: Will match scope definitions for vst.DPAS.WaveShell-VST 9_91_x64.Doppler Stereo or vst.DPAS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Start X	0	4194304	Value	ValueOutput
+Start Y	0	4194304	Value	ValueOutput
+End X	0	4194304	Value	ValueOutput
+End Y	0	4194304	Value	ValueOutput
+Bend	0	4194304	Value	ValueOutput
+Track Time	0	4194304	Value	ValueOutput
+Center Time	0	4194304	Value	ValueOutput
+Direction	0	4194304	Value	ValueOutput
+Master Gain	0	4194304	Value	ValueOutput
+Bypass Gain	0	4194304	Value	ValueOutput
+Master Pan	0	4194304	Value	ValueOutput
+Bypass Pan	0	4194304	Value	ValueOutput
+Master Pitch	0	4194304	Value	ValueOutput
+Bypass Pitch	0	4194304	Value	ValueOutput
+Master Air Damp	0	4194304	Value	ValueOutput
+Bypass Air Damp	0	4194304	Value	ValueOutput
+Master Reverb	0	4194304	Value	ValueOutput
+Bypass Reverb	0	4194304	Value	ValueOutput
+Out Gain	0	4194304	Value	ValueOutput
+Trigger Mode	0	4194304	Value	ValueOutput
+Manual Pad	0	4194304	Value	ValueOutput
+Energy Trig	0	4194304	Value	ValueOutput
+Reverb time	0	4194304	Value	ValueOutput
+Reverb Bright	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

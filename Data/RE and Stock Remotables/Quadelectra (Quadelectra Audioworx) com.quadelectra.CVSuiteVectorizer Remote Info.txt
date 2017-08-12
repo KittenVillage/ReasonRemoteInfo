@@ -1,0 +1,51 @@
+Scope
+Manufacturer	Model
+Quadelectra (Quadelectra Audioworx)	com.quadelectra.CVSuiteVectorizer
+
+Remotable	Min	Max	Input type	Output type
+Top: Mod Amount	0	4194304	Value	ValueOutput
+Top: Scale	0	4194304	Value	ValueOutput
+Top: Offset	0	4194304	Value	ValueOutput
+Top: Curve	0	4194304	Value	ValueOutput
+Top: Bipolar Range Enable	0	1	Toggle	ValueOutput
+Top: Invert Range	0	1	Toggle	ValueOutput
+Bottom: Mod Amount	0	4194304	Value	ValueOutput
+Bottom: Scale	0	4194304	Value	ValueOutput
+Bottom: Offset	0	4194304	Value	ValueOutput
+Bottom: Curve	0	4194304	Value	ValueOutput
+Bottom: Bipolar Range Enable	0	1	Toggle	ValueOutput
+Bottom: Invert Range	0	1	Toggle	ValueOutput
+Left: Mod Amount	0	4194304	Value	ValueOutput
+Left: Scale	0	4194304	Value	ValueOutput
+Left: Offset	0	4194304	Value	ValueOutput
+Left: Curve	0	4194304	Value	ValueOutput
+Left: Bipolar Range Enabled	0	1	Toggle	ValueOutput
+Left: Invert Range	0	1	Toggle	ValueOutput
+Right: Mod Amount	0	4194304	Value	ValueOutput
+Right: Scale	0	4194304	Value	ValueOutput
+Right: Offset	0	4194304	Value	ValueOutput
+Right: Curve	0	4194304	Value	ValueOutput
+Right: Bipolar Range Enable	0	1	Toggle	ValueOutput
+Right: Invert Range	0	1	Toggle	ValueOutput
+Angle: Scale	0	4194304	Value	ValueOutput
+Angle: Offset	0	4194304	Value	ValueOutput
+Angle: 90 / 360 Value Mapping	0	1	Toggle	ValueOutput
+Angle: Bipolar Range Enable	0	1	Toggle	ValueOutput
+Angle: Invert Range	0	1	Toggle	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Use X Axis	0	1	Toggle	ValueOutput
+Use Y Axis	0	1	Toggle	ValueOutput
+Quantize X Values	0	127	Value	ValueOutput
+Quantize Y Values	0	127	Value	ValueOutput
+Amp: Scale	0	4194304	Value	ValueOutput
+Amp: Offset	0	4194304	Value	ValueOutput
+Amp: Curve	0	4194304	Value	ValueOutput
+Amp: Bipolar Range Enable	0	1	Toggle	ValueOutput
+Amp: Invert Range	0	1	Toggle	ValueOutput
+Touch X	0	4194304	Value	ValueOutput
+Touch Y	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

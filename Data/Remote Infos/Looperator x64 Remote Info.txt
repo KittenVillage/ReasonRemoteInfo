@@ -1,0 +1,139 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	vst.sbl1.Looperator x64
+Note: Will match scope definitions for vst.sbl1.Looperator x64 or vst.sbl1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+StartStop	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+MainRandom	0	4194304	Value	ValueOutput
+SliceRandom	0	4194304	Value	ValueOutput
+LoopRandom	0	4194304	Value	ValueOutput
+EnvRandom	0	4194304	Value	ValueOutput
+FilterRandom	0	4194304	Value	ValueOutput
+FX1Random	0	4194304	Value	ValueOutput
+FX2Random	0	4194304	Value	ValueOutput
+MixSlice	0	4194304	Value	ValueOutput
+MixLoop	0	4194304	Value	ValueOutput
+MixEnv	0	4194304	Value	ValueOutput
+MixFilter	0	4194304	Value	ValueOutput
+MixFX1	0	4194304	Value	ValueOutput
+MixFX2	0	4194304	Value	ValueOutput
+LoopU1P1	0	4194304	Value	ValueOutput
+LoopU1P2	0	4194304	Value	ValueOutput
+LoopU1P3	0	4194304	Value	ValueOutput
+LoopU1P4	0	4194304	Value	ValueOutput
+LoopU1P5	0	4194304	Value	ValueOutput
+LoopU2P1	0	4194304	Value	ValueOutput
+LoopU2P2	0	4194304	Value	ValueOutput
+LoopU2P3	0	4194304	Value	ValueOutput
+LoopU2P4	0	4194304	Value	ValueOutput
+LoopU2P5	0	4194304	Value	ValueOutput
+LoopU3P1	0	4194304	Value	ValueOutput
+LoopU3P2	0	4194304	Value	ValueOutput
+LoopU3P3	0	4194304	Value	ValueOutput
+LoopU3P4	0	4194304	Value	ValueOutput
+LoopU3P5	0	4194304	Value	ValueOutput
+LoopU4P1	0	4194304	Value	ValueOutput
+LoopU4P2	0	4194304	Value	ValueOutput
+LoopU4P3	0	4194304	Value	ValueOutput
+LoopU4P4	0	4194304	Value	ValueOutput
+LoopU4P5	0	4194304	Value	ValueOutput
+EnvU1P1	0	4194304	Value	ValueOutput
+EnvU1P2	0	4194304	Value	ValueOutput
+EnvU1P3	0	4194304	Value	ValueOutput
+EnvU1P4	0	4194304	Value	ValueOutput
+EnvU1P5	0	4194304	Value	ValueOutput
+EnvU2P1	0	4194304	Value	ValueOutput
+EnvU2P2	0	4194304	Value	ValueOutput
+EnvU2P3	0	4194304	Value	ValueOutput
+EnvU2P4	0	4194304	Value	ValueOutput
+EnvU2P5	0	4194304	Value	ValueOutput
+EnvU3P1	0	4194304	Value	ValueOutput
+EnvU3P2	0	4194304	Value	ValueOutput
+EnvU3P3	0	4194304	Value	ValueOutput
+EnvU3P4	0	4194304	Value	ValueOutput
+EnvU3P5	0	4194304	Value	ValueOutput
+EnvU4P1	0	4194304	Value	ValueOutput
+EnvU4P2	0	4194304	Value	ValueOutput
+EnvU4P3	0	4194304	Value	ValueOutput
+EnvU4P4	0	4194304	Value	ValueOutput
+EnvU4P5	0	4194304	Value	ValueOutput
+FilterU1P1	0	4194304	Value	ValueOutput
+FilterU1P2	0	4194304	Value	ValueOutput
+FilterU1P3	0	4194304	Value	ValueOutput
+FilterU1P4	0	4194304	Value	ValueOutput
+FilterU1P5	0	4194304	Value	ValueOutput
+FilterU2P1	0	4194304	Value	ValueOutput
+FilterU2P2	0	4194304	Value	ValueOutput
+FilterU2P3	0	4194304	Value	ValueOutput
+FilterU2P4	0	4194304	Value	ValueOutput
+FilterU2P5	0	4194304	Value	ValueOutput
+FilterU3P1	0	4194304	Value	ValueOutput
+FilterU3P2	0	4194304	Value	ValueOutput
+FilterU3P3	0	4194304	Value	ValueOutput
+FilterU3P4	0	4194304	Value	ValueOutput
+FilterU3P5	0	4194304	Value	ValueOutput
+FilterU4P1	0	4194304	Value	ValueOutput
+FilterU4P2	0	4194304	Value	ValueOutput
+FilterU4P3	0	4194304	Value	ValueOutput
+FilterU4P4	0	4194304	Value	ValueOutput
+FilterU4P5	0	4194304	Value	ValueOutput
+FX1U1P1	0	4194304	Value	ValueOutput
+FX1U1P2	0	4194304	Value	ValueOutput
+FX1U1P3	0	4194304	Value	ValueOutput
+FX1U1P4	0	4194304	Value	ValueOutput
+FX1U1P5	0	4194304	Value	ValueOutput
+FX1U2P1	0	4194304	Value	ValueOutput
+FX1U2P2	0	4194304	Value	ValueOutput
+FX1U2P3	0	4194304	Value	ValueOutput
+FX1U2P4	0	4194304	Value	ValueOutput
+FX1U2P5	0	4194304	Value	ValueOutput
+FX1U3P1	0	4194304	Value	ValueOutput
+FX1U3P2	0	4194304	Value	ValueOutput
+FX1U3P3	0	4194304	Value	ValueOutput
+FX1U3P4	0	4194304	Value	ValueOutput
+FX1U3P5	0	4194304	Value	ValueOutput
+FX1U4P1	0	4194304	Value	ValueOutput
+FX1U4P2	0	4194304	Value	ValueOutput
+FX1U4P3	0	4194304	Value	ValueOutput
+FX1U4P4	0	4194304	Value	ValueOutput
+FX1U4P5	0	4194304	Value	ValueOutput
+FX2U1P1	0	4194304	Value	ValueOutput
+FX2U1P2	0	4194304	Value	ValueOutput
+FX2U1P3	0	4194304	Value	ValueOutput
+FX2U1P4	0	4194304	Value	ValueOutput
+FX2U1P5	0	4194304	Value	ValueOutput
+FX2U2P1	0	4194304	Value	ValueOutput
+FX2U2P2	0	4194304	Value	ValueOutput
+FX2U2P3	0	4194304	Value	ValueOutput
+FX2U2P4	0	4194304	Value	ValueOutput
+FX2U2P5	0	4194304	Value	ValueOutput
+FX2U3P1	0	4194304	Value	ValueOutput
+FX2U3P2	0	4194304	Value	ValueOutput
+FX2U3P3	0	4194304	Value	ValueOutput
+FX2U3P4	0	4194304	Value	ValueOutput
+FX2U3P5	0	4194304	Value	ValueOutput
+FX2U4P1	0	4194304	Value	ValueOutput
+FX2U4P2	0	4194304	Value	ValueOutput
+FX2U4P3	0	4194304	Value	ValueOutput
+FX2U4P4	0	4194304	Value	ValueOutput
+FX2U4P5	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

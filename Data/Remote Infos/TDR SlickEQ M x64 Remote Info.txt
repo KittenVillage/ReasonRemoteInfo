@@ -1,0 +1,91 @@
+Scope
+Manufacturer	Model
+Tokyo Dawn Labs	vst.Td6a.TDR SlickEQ M x64
+Note: Will match scope definitions for vst.Td6a.TDR SlickEQ M x64 or vst.Td6a
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Band 1 Active	0	4194304	Value	ValueOutput
+Band 1 Shape	0	4194304	Value	ValueOutput
+Band 1 Freq	0	4194304	Value	ValueOutput
+Band 1 Gain	0	4194304	Value	ValueOutput
+Band 1 Q	0	4194304	Value	ValueOutput
+Band 1 Stereo W	0	4194304	Value	ValueOutput
+Band 1 Stereo B	0	4194304	Value	ValueOutput
+Band 2 Active	0	4194304	Value	ValueOutput
+Band 2 Shape	0	4194304	Value	ValueOutput
+Band 2 Freq	0	4194304	Value	ValueOutput
+Band 2 Gain	0	4194304	Value	ValueOutput
+Band 2 Q	0	4194304	Value	ValueOutput
+Band 2 Stereo W	0	4194304	Value	ValueOutput
+Band 2 Stereo B	0	4194304	Value	ValueOutput
+Band 3 Active	0	4194304	Value	ValueOutput
+Band 3 Shape	0	4194304	Value	ValueOutput
+Band 3 Freq	0	4194304	Value	ValueOutput
+Band 3 Gain	0	4194304	Value	ValueOutput
+Band 3 Q	0	4194304	Value	ValueOutput
+Band 3 Stereo W	0	4194304	Value	ValueOutput
+Band 3 Stereo B	0	4194304	Value	ValueOutput
+Band 4 Active	0	4194304	Value	ValueOutput
+Band 4 Shape	0	4194304	Value	ValueOutput
+Band 4 Freq	0	4194304	Value	ValueOutput
+Band 4 Gain	0	4194304	Value	ValueOutput
+Band 4 Q	0	4194304	Value	ValueOutput
+Band 4 Stereo W	0	4194304	Value	ValueOutput
+Band 4 Stereo B	0	4194304	Value	ValueOutput
+Band 5 Active	0	4194304	Value	ValueOutput
+Band 5 Shape	0	4194304	Value	ValueOutput
+Band 5 Freq	0	4194304	Value	ValueOutput
+Band 5 Gain	0	4194304	Value	ValueOutput
+Band 5 Q	0	4194304	Value	ValueOutput
+Band 5 Stereo W	0	4194304	Value	ValueOutput
+Band 5 Stereo B	0	4194304	Value	ValueOutput
+Band 6 Active	0	4194304	Value	ValueOutput
+Band 6 Shape	0	4194304	Value	ValueOutput
+Band 6 Freq	0	4194304	Value	ValueOutput
+Band 6 Gain	0	4194304	Value	ValueOutput
+Band 6 Q	0	4194304	Value	ValueOutput
+Band 6 Stereo W	0	4194304	Value	ValueOutput
+Band 6 Stereo B	0	4194304	Value	ValueOutput
+HP Active	0	4194304	Value	ValueOutput
+HP Steepness	0	4194304	Value	ValueOutput
+HP Freq	0	4194304	Value	ValueOutput
+Elliptical Filt	0	4194304	Value	ValueOutput
+Elliptical Filt	0	4194304	Value	ValueOutput
+LP Active	0	4194304	Value	ValueOutput
+LP Steepness	0	4194304	Value	ValueOutput
+LP Freq	0	4194304	Value	ValueOutput
+Center Filter A	0	4194304	Value	ValueOutput
+Center Filter T	0	4194304	Value	ValueOutput
+Center Filter A	0	4194304	Value	ValueOutput
+LF Sat Active	0	4194304	Value	ValueOutput
+LF Sat Amount	0	4194304	Value	ValueOutput
+HF Sat Active	0	4194304	Value	ValueOutput
+HF Sat Amount	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Output Width	0	4194304	Value	ValueOutput
+Output Balance	0	4194304	Value	ValueOutput
+EQ Range	0	4194304	Value	ValueOutput
+Parameter Range	0	4194304	Value	ValueOutput
+Auto Gain	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Quality	0	4194304	Value	ValueOutput
+Display Scale	0	4194304	Value	ValueOutput
+Show Freq Magni	0	4194304	Value	ValueOutput
+Show FFT Analyz	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

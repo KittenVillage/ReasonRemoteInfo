@@ -1,0 +1,55 @@
+Scope
+Manufacturer	Model
+zplane.development	vst.mesc.vielklangx64
+Note: Will match scope definitions for vst.mesc.vielklangx64 or vst.mesc
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+orange volume	0	4194304	Value	ValueOutput
+orange pan	0	4194304	Value	ValueOutput
+orange delay	0	4194304	Value	ValueOutput
+orange tune	0	4194304	Value	ValueOutput
+orange shape	0	4194304	Value	ValueOutput
+orange drift	0	4194304	Value	ValueOutput
+red volume	0	4194304	Value	ValueOutput
+red pan	0	4194304	Value	ValueOutput
+red delay	0	4194304	Value	ValueOutput
+red tune	0	4194304	Value	ValueOutput
+red shape	0	4194304	Value	ValueOutput
+red drift	0	4194304	Value	ValueOutput
+blue volume	0	4194304	Value	ValueOutput
+blue pan	0	4194304	Value	ValueOutput
+blue delay	0	4194304	Value	ValueOutput
+blue tune	0	4194304	Value	ValueOutput
+blue shape	0	4194304	Value	ValueOutput
+blue drift	0	4194304	Value	ValueOutput
+green volume	0	4194304	Value	ValueOutput
+green pan	0	4194304	Value	ValueOutput
+green delay	0	4194304	Value	ValueOutput
+green tune	0	4194304	Value	ValueOutput
+green shape	0	4194304	Value	ValueOutput
+green drift	0	4194304	Value	ValueOutput
+orange glide	0	4194304	Value	ValueOutput
+orange timing	0	4194304	Value	ValueOutput
+red glide	0	4194304	Value	ValueOutput
+red timing	0	4194304	Value	ValueOutput
+blue glide	0	4194304	Value	ValueOutput
+blue timing	0	4194304	Value	ValueOutput
+green glide	0	4194304	Value	ValueOutput
+green timing	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

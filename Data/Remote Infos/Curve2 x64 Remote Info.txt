@@ -1,0 +1,2756 @@
+Scope
+Manufacturer	Model
+Cableguys	vst.CGC2.Curve2 x64
+Note: Will match scope definitions for vst.CGC2.Curve2 x64 or vst.CGC2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Quality	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Play Mode	0	4194304	Value	ValueOutput
+Glide Mode	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Pitchbend Range	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+OSC 1 Wave 1	0	4194304	Value	ValueOutput
+OSC 1 Pitch	0	4194304	Value	ValueOutput
+OSC 1 Detune	0	4194304	Value	ValueOutput
+OSC 1 Pan	0	4194304	Value	ValueOutput
+OSC 1 Volume	0	4194304	Value	ValueOutput
+OSC 1 Glide	0	4194304	Value	ValueOutput
+OSC 1 Wave 2	0	4194304	Value	ValueOutput
+OSC 1 Crossfade	0	4194304	Value	ValueOutput
+OSC 2 Wave 1	0	4194304	Value	ValueOutput
+OSC 2 Pitch	0	4194304	Value	ValueOutput
+OSC 2 Detune	0	4194304	Value	ValueOutput
+OSC 2 Pan	0	4194304	Value	ValueOutput
+OSC 2 Volume	0	4194304	Value	ValueOutput
+OSC 2 Glide	0	4194304	Value	ValueOutput
+OSC 2 Wave 2	0	4194304	Value	ValueOutput
+OSC 2 Crossfade	0	4194304	Value	ValueOutput
+OSC 3 Wave 1	0	4194304	Value	ValueOutput
+OSC 3 Pitch	0	4194304	Value	ValueOutput
+OSC 3 Detune	0	4194304	Value	ValueOutput
+OSC 3 Pan	0	4194304	Value	ValueOutput
+OSC 3 Volume	0	4194304	Value	ValueOutput
+OSC 3 Glide	0	4194304	Value	ValueOutput
+OSC 3 Wave 2	0	4194304	Value	ValueOutput
+OSC 3 Crossfade	0	4194304	Value	ValueOutput
+Vol. Attack	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Vol. Decay	0	4194304	Value	ValueOutput
+Vol. Loop Time	0	4194304	Value	ValueOutput
+Vol. Release	0	4194304	Value	ValueOutput
+Vol. Loop Type	0	4194304	Value	ValueOutput
+Vol. Loop Beat	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG 1 Attack	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG 1 Decay	0	4194304	Value	ValueOutput
+EG 1 Loop Time	0	4194304	Value	ValueOutput
+EG 1 Release	0	4194304	Value	ValueOutput
+EG 1 Loop Type	0	4194304	Value	ValueOutput
+EG 1 Loop Beat	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG 2 Attack	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG 2 Decay	0	4194304	Value	ValueOutput
+EG 2 Loop Time	0	4194304	Value	ValueOutput
+EG 2 Release	0	4194304	Value	ValueOutput
+EG 2 Loop Type	0	4194304	Value	ValueOutput
+EG 2 Loop Beat	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+LFO 1 Wave	0	4194304	Value	ValueOutput
+LFO 1 Speed Typ	0	4194304	Value	ValueOutput
+LFO 1 Loop Leng	0	4194304	Value	ValueOutput
+LFO 1 Speed	0	4194304	Value	ValueOutput
+LFO 1 Level	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+LFO 2 Wave	0	4194304	Value	ValueOutput
+LFO 2 Speed Typ	0	4194304	Value	ValueOutput
+LFO 2 Loop Leng	0	4194304	Value	ValueOutput
+LFO 2 Speed	0	4194304	Value	ValueOutput
+LFO 2 Level	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+LFO 3 Wave	0	4194304	Value	ValueOutput
+LFO 3 Speed Typ	0	4194304	Value	ValueOutput
+LFO 3 Loop Leng	0	4194304	Value	ValueOutput
+LFO 3 Speed	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+LFO 4 Wave	0	4194304	Value	ValueOutput
+LFO 4 Speed Typ	0	4194304	Value	ValueOutput
+LFO 4 Loop Leng	0	4194304	Value	ValueOutput
+LFO 4 Speed	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Filter 1 Type	0	4194304	Value	ValueOutput
+Cutoff 1	0	4194304	Value	ValueOutput
+Resonance 1	0	4194304	Value	ValueOutput
+Filter 1 Drive	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Filter 1 Clippi	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Filter 2 Type	0	4194304	Value	ValueOutput
+Cutoff 2	0	4194304	Value	ValueOutput
+Resonance 2	0	4194304	Value	ValueOutput
+Filter 2 Drive	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Filter 2 Clippi	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Vel. -> EG 1	0	4194304	Value	ValueOutput
+Vel. -> EG 2	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+OSC 1 -> OSC 2 	0	4194304	Value	ValueOutput
+OSC 1 -> OSC 3 	0	4194304	Value	ValueOutput
+OSC 2 -> OSC 3 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Vel. -> Cutoff 	0	4194304	Value	ValueOutput
+EG 1 -> Cutoff 	0	4194304	Value	ValueOutput
+EG 2 -> Cutoff 	0	4194304	Value	ValueOutput
+LFO 1 -> Cutoff	0	4194304	Value	ValueOutput
+LFO 2 -> Cutoff	0	4194304	Value	ValueOutput
+LFO 3 -> Cutoff	0	4194304	Value	ValueOutput
+LFO 4 -> Cutoff	0	4194304	Value	ValueOutput
+Key -> Cutoff 1	0	4194304	Value	ValueOutput
+Vel. -> Cutoff 	0	4194304	Value	ValueOutput
+EG 1 -> Cutoff 	0	4194304	Value	ValueOutput
+EG 2 -> Cutoff 	0	4194304	Value	ValueOutput
+LFO 1 -> Cutoff	0	4194304	Value	ValueOutput
+LFO 2 -> Cutoff	0	4194304	Value	ValueOutput
+LFO 3 -> Cutoff	0	4194304	Value	ValueOutput
+LFO 4 -> Cutoff	0	4194304	Value	ValueOutput
+Key -> Cutoff 2	0	4194304	Value	ValueOutput
+Vel. -> Res. 1	0	4194304	Value	ValueOutput
+EG 1 -> Res. 1	0	4194304	Value	ValueOutput
+EG 2 -> Res. 1	0	4194304	Value	ValueOutput
+LFO 1 -> Res. 1	0	4194304	Value	ValueOutput
+LFO 2 -> Res. 1	0	4194304	Value	ValueOutput
+LFO 3 -> Res. 1	0	4194304	Value	ValueOutput
+LFO 4 -> Res. 1	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Vel. -> Res. 2	0	4194304	Value	ValueOutput
+EG 1 -> Res. 2	0	4194304	Value	ValueOutput
+EG 2 -> Res. 2	0	4194304	Value	ValueOutput
+LFO 1 -> Res. 2	0	4194304	Value	ValueOutput
+LFO 2 -> Res. 2	0	4194304	Value	ValueOutput
+LFO 3 -> Res. 2	0	4194304	Value	ValueOutput
+LFO 4 -> Res. 2	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG 1 * OSC 1 ->	0	4194304	Value	ValueOutput
+EG 2 * OSC 1 ->	0	4194304	Value	ValueOutput
+EG 1 * OSC 1 ->	0	4194304	Value	ValueOutput
+EG 2 * OSC 1 ->	0	4194304	Value	ValueOutput
+EG 1 * OSC 2 ->	0	4194304	Value	ValueOutput
+EG 2 * OSC 2 ->	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Velocity -> LFO	0	4194304	Value	ValueOutput
+Velocity -> LFO	0	4194304	Value	ValueOutput
+EG 1 -> LFO 1 S	0	4194304	Value	ValueOutput
+EG 1 -> LFO 2 S	0	4194304	Value	ValueOutput
+EG 2 -> LFO 1 S	0	4194304	Value	ValueOutput
+EG 2 -> LFO 2 S	0	4194304	Value	ValueOutput
+LFO 1 -> LFO 2 	0	4194304	Value	ValueOutput
+LFO 3 -> LFO 1 	0	4194304	Value	ValueOutput
+LFO 3 -> LFO 2 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+LFO 4 -> LFO 1 	0	4194304	Value	ValueOutput
+LFO 4 -> LFO 2 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Key -> LFO 1 Sp	0	4194304	Value	ValueOutput
+Key -> LFO 2 Sp	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG 1 -> OSC 1 P	0	4194304	Value	ValueOutput
+EG 2 -> OSC 1 P	0	4194304	Value	ValueOutput
+LFO 1 -> OSC 1 	0	4194304	Value	ValueOutput
+LFO 2 -> OSC 1 	0	4194304	Value	ValueOutput
+LFO 3 -> OSC 1 	0	4194304	Value	ValueOutput
+LFO 4 -> OSC 1 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG 1 -> OSC 2 P	0	4194304	Value	ValueOutput
+EG 2 -> OSC 2 P	0	4194304	Value	ValueOutput
+LFO 1 -> OSC 2 	0	4194304	Value	ValueOutput
+LFO 2 -> OSC 2 	0	4194304	Value	ValueOutput
+LFO 3 -> OSC 2 	0	4194304	Value	ValueOutput
+LFO 4 -> OSC 2 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG 1 -> OSC 3 P	0	4194304	Value	ValueOutput
+EG 2 -> OSC 3 P	0	4194304	Value	ValueOutput
+LFO 1 -> OSC 3 	0	4194304	Value	ValueOutput
+LFO 2 -> OSC 3 	0	4194304	Value	ValueOutput
+LFO 3 -> OSC 3 	0	4194304	Value	ValueOutput
+LFO 4 -> OSC 3 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG 1 -> OSC 1 F	0	4194304	Value	ValueOutput
+EG 2 -> OSC 1 F	0	4194304	Value	ValueOutput
+LFO 1 -> OSC 1 	0	4194304	Value	ValueOutput
+LFO 2 -> OSC 1 	0	4194304	Value	ValueOutput
+LFO 3 -> OSC 1 	0	4194304	Value	ValueOutput
+LFO 4 -> OSC 1 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG 1 -> OSC 2 F	0	4194304	Value	ValueOutput
+EG 2 -> OSC 2 F	0	4194304	Value	ValueOutput
+LFO 1 -> OSC 2 	0	4194304	Value	ValueOutput
+LFO 2 -> OSC 2 	0	4194304	Value	ValueOutput
+LFO 3 -> OSC 2 	0	4194304	Value	ValueOutput
+LFO 4 -> OSC 2 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG 1 -> OSC 3 F	0	4194304	Value	ValueOutput
+EG 2 -> OSC 3 F	0	4194304	Value	ValueOutput
+LFO 1 -> OSC 3 	0	4194304	Value	ValueOutput
+LFO 2 -> OSC 3 	0	4194304	Value	ValueOutput
+LFO 3 -> OSC 3 	0	4194304	Value	ValueOutput
+LFO 4 -> OSC 3 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Vel. -> OSC 1 V	0	4194304	Value	ValueOutput
+EG 1 -> OSC 1 V	0	4194304	Value	ValueOutput
+EG 2 -> OSC 1 V	0	4194304	Value	ValueOutput
+LFO 1 -> OSC 1 	0	4194304	Value	ValueOutput
+LFO 2 -> OSC 1 	0	4194304	Value	ValueOutput
+LFO 3 -> OSC 1 	0	4194304	Value	ValueOutput
+LFO 4 -> OSC 1 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Vel. -> OSC 2 V	0	4194304	Value	ValueOutput
+EG 1 -> OSC 2 V	0	4194304	Value	ValueOutput
+EG 2 -> OSC 2 V	0	4194304	Value	ValueOutput
+LFO 1 -> OSC 2 	0	4194304	Value	ValueOutput
+LFO 2 -> OSC 2 	0	4194304	Value	ValueOutput
+LFO 3 -> OSC 2 	0	4194304	Value	ValueOutput
+LFO 4 -> OSC 2 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Vel. -> OSC 3 V	0	4194304	Value	ValueOutput
+EG 1 -> OSC 3 V	0	4194304	Value	ValueOutput
+EG 2 -> OSC 3 V	0	4194304	Value	ValueOutput
+LFO 1 -> OSC 3 	0	4194304	Value	ValueOutput
+LFO 2 -> OSC 3 	0	4194304	Value	ValueOutput
+LFO 3 -> OSC 3 	0	4194304	Value	ValueOutput
+LFO 4 -> OSC 3 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Vel. -> OSC 1 C	0	4194304	Value	ValueOutput
+EG 1 -> OSC 1 C	0	4194304	Value	ValueOutput
+EG 2 -> OSC 1 C	0	4194304	Value	ValueOutput
+LFO 1 -> OSC 1 	0	4194304	Value	ValueOutput
+LFO 2 -> OSC 1 	0	4194304	Value	ValueOutput
+LFO 3 -> OSC 1 	0	4194304	Value	ValueOutput
+LFO 4 -> OSC 1 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Keytrack -> OSC	0	4194304	Value	ValueOutput
+Vel. -> OSC 2 C	0	4194304	Value	ValueOutput
+EG 1 -> OSC 2 C	0	4194304	Value	ValueOutput
+EG 2 -> OSC 2 C	0	4194304	Value	ValueOutput
+LFO 1 -> OSC 2 	0	4194304	Value	ValueOutput
+LFO 2 -> OSC 2 	0	4194304	Value	ValueOutput
+LFO 3 -> OSC 2 	0	4194304	Value	ValueOutput
+LFO 4 -> OSC 2 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Keytrack -> OSC	0	4194304	Value	ValueOutput
+Vel. -> OSC 3 C	0	4194304	Value	ValueOutput
+EG 1 -> OSC 3 C	0	4194304	Value	ValueOutput
+EG 2 -> OSC 3 C	0	4194304	Value	ValueOutput
+LFO 1 -> OSC 3 	0	4194304	Value	ValueOutput
+LFO 2 -> OSC 3 	0	4194304	Value	ValueOutput
+LFO 3 -> OSC 3 	0	4194304	Value	ValueOutput
+LFO 4 -> OSC 3 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Keytrack -> OSC	0	4194304	Value	ValueOutput
+Unisono Voices	0	4194304	Value	ValueOutput
+Unisono Detune	0	4194304	Value	ValueOutput
+Unisono Spread	0	4194304	Value	ValueOutput
+Unisono Damping	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Velocity -> LFO	0	4194304	Value	ValueOutput
+Velocity -> LFO	0	4194304	Value	ValueOutput
+EG 1 -> LFO 1 L	0	4194304	Value	ValueOutput
+EG 1 -> LFO 2 L	0	4194304	Value	ValueOutput
+EG 2 -> LFO 1 L	0	4194304	Value	ValueOutput
+EG 2 -> LFO 2 L	0	4194304	Value	ValueOutput
+LFO 1 -> LFO 2 	0	4194304	Value	ValueOutput
+LFO 3 -> LFO 1 	0	4194304	Value	ValueOutput
+LFO 3 -> LFO 2 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+LFO 4 -> LFO 1 	0	4194304	Value	ValueOutput
+LFO 4 -> LFO 2 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+OSC 1 Routing	0	4194304	Value	ValueOutput
+OSC 2 Routing	0	4194304	Value	ValueOutput
+OSC 3 Routing	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Macro1 Value	0	4194304	Value	ValueOutput
+Macro1 Factor1	0	4194304	Value	ValueOutput
+Macro1 Factor2	0	4194304	Value	ValueOutput
+Macro1 Factor3	0	4194304	Value	ValueOutput
+Macro1 Factor4	0	4194304	Value	ValueOutput
+Macro1 Factor5	0	4194304	Value	ValueOutput
+Macro1 Factor6	0	4194304	Value	ValueOutput
+Macro1 Factor7	0	4194304	Value	ValueOutput
+Macro1 Factor8	0	4194304	Value	ValueOutput
+Macro2 Value	0	4194304	Value	ValueOutput
+Macro2 Factor1	0	4194304	Value	ValueOutput
+Macro2 Factor2	0	4194304	Value	ValueOutput
+Macro2 Factor3	0	4194304	Value	ValueOutput
+Macro2 Factor4	0	4194304	Value	ValueOutput
+Macro2 Factor5	0	4194304	Value	ValueOutput
+Macro2 Factor6	0	4194304	Value	ValueOutput
+Macro2 Factor7	0	4194304	Value	ValueOutput
+Macro2 Factor8	0	4194304	Value	ValueOutput
+Macro3 Value	0	4194304	Value	ValueOutput
+Macro3 Factor1	0	4194304	Value	ValueOutput
+Macro3 Factor2	0	4194304	Value	ValueOutput
+Macro3 Factor3	0	4194304	Value	ValueOutput
+Macro3 Factor4	0	4194304	Value	ValueOutput
+Macro3 Factor5	0	4194304	Value	ValueOutput
+Macro3 Factor6	0	4194304	Value	ValueOutput
+Macro3 Factor7	0	4194304	Value	ValueOutput
+Macro3 Factor8	0	4194304	Value	ValueOutput
+Macro4 Value	0	4194304	Value	ValueOutput
+Macro4 Factor1	0	4194304	Value	ValueOutput
+Macro4 Factor2	0	4194304	Value	ValueOutput
+Macro4 Factor3	0	4194304	Value	ValueOutput
+Macro4 Factor4	0	4194304	Value	ValueOutput
+Macro4 Factor5	0	4194304	Value	ValueOutput
+Macro4 Factor6	0	4194304	Value	ValueOutput
+Macro4 Factor7	0	4194304	Value	ValueOutput
+Macro4 Factor8	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Visible Wave	0	4194304	Value	ValueOutput
+Visible EG	0	4194304	Value	ValueOutput
+Modulation Mode	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+Wave1.1 X	0	4194304	Value	ValueOutput
+Wave1.1 Y	0	4194304	Value	ValueOutput
+Wave1.1 Type	0	4194304	Value	ValueOutput
+Wave1.2 X	0	4194304	Value	ValueOutput
+Wave1.2 Y	0	4194304	Value	ValueOutput
+Wave1.2 Type	0	4194304	Value	ValueOutput
+Wave1.3 X	0	4194304	Value	ValueOutput
+Wave1.3 Y	0	4194304	Value	ValueOutput
+Wave1.3 Type	0	4194304	Value	ValueOutput
+Wave1.4 X	0	4194304	Value	ValueOutput
+Wave1.4 Y	0	4194304	Value	ValueOutput
+Wave1.4 Type	0	4194304	Value	ValueOutput
+Wave1.5 X	0	4194304	Value	ValueOutput
+Wave1.5 Y	0	4194304	Value	ValueOutput
+Wave1.5 Type	0	4194304	Value	ValueOutput
+Wave1.6 X	0	4194304	Value	ValueOutput
+Wave1.6 Y	0	4194304	Value	ValueOutput
+Wave1.6 Type	0	4194304	Value	ValueOutput
+Wave1.7 X	0	4194304	Value	ValueOutput
+Wave1.7 Y	0	4194304	Value	ValueOutput
+Wave1.7 Type	0	4194304	Value	ValueOutput
+Wave1.8 X	0	4194304	Value	ValueOutput
+Wave1.8 Y	0	4194304	Value	ValueOutput
+Wave1.8 Type	0	4194304	Value	ValueOutput
+Wave1.9 X	0	4194304	Value	ValueOutput
+Wave1.9 Y	0	4194304	Value	ValueOutput
+Wave1.9 Type	0	4194304	Value	ValueOutput
+Wave1.10 X	0	4194304	Value	ValueOutput
+Wave1.10 Y	0	4194304	Value	ValueOutput
+Wave1.10 Type	0	4194304	Value	ValueOutput
+Wave1.11 X	0	4194304	Value	ValueOutput
+Wave1.11 Y	0	4194304	Value	ValueOutput
+Wave1.11 Type	0	4194304	Value	ValueOutput
+Wave1.12 X	0	4194304	Value	ValueOutput
+Wave1.12 Y	0	4194304	Value	ValueOutput
+Wave1.12 Type	0	4194304	Value	ValueOutput
+Wave1.13 X	0	4194304	Value	ValueOutput
+Wave1.13 Y	0	4194304	Value	ValueOutput
+Wave1.13 Type	0	4194304	Value	ValueOutput
+Wave1.14 X	0	4194304	Value	ValueOutput
+Wave1.14 Y	0	4194304	Value	ValueOutput
+Wave1.14 Type	0	4194304	Value	ValueOutput
+Wave1.15 X	0	4194304	Value	ValueOutput
+Wave1.15 Y	0	4194304	Value	ValueOutput
+Wave1.15 Type	0	4194304	Value	ValueOutput
+Wave1.16 X	0	4194304	Value	ValueOutput
+Wave1.16 Y	0	4194304	Value	ValueOutput
+Wave1.16 Type	0	4194304	Value	ValueOutput
+Wave1.17 X	0	4194304	Value	ValueOutput
+Wave1.17 Y	0	4194304	Value	ValueOutput
+Wave1.17 Type	0	4194304	Value	ValueOutput
+Wave1.18 X	0	4194304	Value	ValueOutput
+Wave1.18 Y	0	4194304	Value	ValueOutput
+Wave1.18 Type	0	4194304	Value	ValueOutput
+Wave1.19 X	0	4194304	Value	ValueOutput
+Wave1.19 Y	0	4194304	Value	ValueOutput
+Wave1.19 Type	0	4194304	Value	ValueOutput
+Wave1.20 X	0	4194304	Value	ValueOutput
+Wave1.20 Y	0	4194304	Value	ValueOutput
+Wave1.20 Type	0	4194304	Value	ValueOutput
+Wave2.1 X	0	4194304	Value	ValueOutput
+Wave2.1 Y	0	4194304	Value	ValueOutput
+Wave2.1 Type	0	4194304	Value	ValueOutput
+Wave2.2 X	0	4194304	Value	ValueOutput
+Wave2.2 Y	0	4194304	Value	ValueOutput
+Wave2.2 Type	0	4194304	Value	ValueOutput
+Wave2.3 X	0	4194304	Value	ValueOutput
+Wave2.3 Y	0	4194304	Value	ValueOutput
+Wave2.3 Type	0	4194304	Value	ValueOutput
+Wave2.4 X	0	4194304	Value	ValueOutput
+Wave2.4 Y	0	4194304	Value	ValueOutput
+Wave2.4 Type	0	4194304	Value	ValueOutput
+Wave2.5 X	0	4194304	Value	ValueOutput
+Wave2.5 Y	0	4194304	Value	ValueOutput
+Wave2.5 Type	0	4194304	Value	ValueOutput
+Wave2.6 X	0	4194304	Value	ValueOutput
+Wave2.6 Y	0	4194304	Value	ValueOutput
+Wave2.6 Type	0	4194304	Value	ValueOutput
+Wave2.7 X	0	4194304	Value	ValueOutput
+Wave2.7 Y	0	4194304	Value	ValueOutput
+Wave2.7 Type	0	4194304	Value	ValueOutput
+Wave2.8 X	0	4194304	Value	ValueOutput
+Wave2.8 Y	0	4194304	Value	ValueOutput
+Wave2.8 Type	0	4194304	Value	ValueOutput
+Wave2.9 X	0	4194304	Value	ValueOutput
+Wave2.9 Y	0	4194304	Value	ValueOutput
+Wave2.9 Type	0	4194304	Value	ValueOutput
+Wave2.10 X	0	4194304	Value	ValueOutput
+Wave2.10 Y	0	4194304	Value	ValueOutput
+Wave2.10 Type	0	4194304	Value	ValueOutput
+Wave2.11 X	0	4194304	Value	ValueOutput
+Wave2.11 Y	0	4194304	Value	ValueOutput
+Wave2.11 Type	0	4194304	Value	ValueOutput
+Wave2.12 X	0	4194304	Value	ValueOutput
+Wave2.12 Y	0	4194304	Value	ValueOutput
+Wave2.12 Type	0	4194304	Value	ValueOutput
+Wave2.13 X	0	4194304	Value	ValueOutput
+Wave2.13 Y	0	4194304	Value	ValueOutput
+Wave2.13 Type	0	4194304	Value	ValueOutput
+Wave2.14 X	0	4194304	Value	ValueOutput
+Wave2.14 Y	0	4194304	Value	ValueOutput
+Wave2.14 Type	0	4194304	Value	ValueOutput
+Wave2.15 X	0	4194304	Value	ValueOutput
+Wave2.15 Y	0	4194304	Value	ValueOutput
+Wave2.15 Type	0	4194304	Value	ValueOutput
+Wave2.16 X	0	4194304	Value	ValueOutput
+Wave2.16 Y	0	4194304	Value	ValueOutput
+Wave2.16 Type	0	4194304	Value	ValueOutput
+Wave2.17 X	0	4194304	Value	ValueOutput
+Wave2.17 Y	0	4194304	Value	ValueOutput
+Wave2.17 Type	0	4194304	Value	ValueOutput
+Wave2.18 X	0	4194304	Value	ValueOutput
+Wave2.18 Y	0	4194304	Value	ValueOutput
+Wave2.18 Type	0	4194304	Value	ValueOutput
+Wave2.19 X	0	4194304	Value	ValueOutput
+Wave2.19 Y	0	4194304	Value	ValueOutput
+Wave2.19 Type	0	4194304	Value	ValueOutput
+Wave2.20 X	0	4194304	Value	ValueOutput
+Wave2.20 Y	0	4194304	Value	ValueOutput
+Wave2.20 Type	0	4194304	Value	ValueOutput
+Wave3.1 X	0	4194304	Value	ValueOutput
+Wave3.1 Y	0	4194304	Value	ValueOutput
+Wave3.1 Type	0	4194304	Value	ValueOutput
+Wave3.2 X	0	4194304	Value	ValueOutput
+Wave3.2 Y	0	4194304	Value	ValueOutput
+Wave3.2 Type	0	4194304	Value	ValueOutput
+Wave3.3 X	0	4194304	Value	ValueOutput
+Wave3.3 Y	0	4194304	Value	ValueOutput
+Wave3.3 Type	0	4194304	Value	ValueOutput
+Wave3.4 X	0	4194304	Value	ValueOutput
+Wave3.4 Y	0	4194304	Value	ValueOutput
+Wave3.4 Type	0	4194304	Value	ValueOutput
+Wave3.5 X	0	4194304	Value	ValueOutput
+Wave3.5 Y	0	4194304	Value	ValueOutput
+Wave3.5 Type	0	4194304	Value	ValueOutput
+Wave3.6 X	0	4194304	Value	ValueOutput
+Wave3.6 Y	0	4194304	Value	ValueOutput
+Wave3.6 Type	0	4194304	Value	ValueOutput
+Wave3.7 X	0	4194304	Value	ValueOutput
+Wave3.7 Y	0	4194304	Value	ValueOutput
+Wave3.7 Type	0	4194304	Value	ValueOutput
+Wave3.8 X	0	4194304	Value	ValueOutput
+Wave3.8 Y	0	4194304	Value	ValueOutput
+Wave3.8 Type	0	4194304	Value	ValueOutput
+Wave3.9 X	0	4194304	Value	ValueOutput
+Wave3.9 Y	0	4194304	Value	ValueOutput
+Wave3.9 Type	0	4194304	Value	ValueOutput
+Wave3.10 X	0	4194304	Value	ValueOutput
+Wave3.10 Y	0	4194304	Value	ValueOutput
+Wave3.10 Type	0	4194304	Value	ValueOutput
+Wave3.11 X	0	4194304	Value	ValueOutput
+Wave3.11 Y	0	4194304	Value	ValueOutput
+Wave3.11 Type	0	4194304	Value	ValueOutput
+Wave3.12 X	0	4194304	Value	ValueOutput
+Wave3.12 Y	0	4194304	Value	ValueOutput
+Wave3.12 Type	0	4194304	Value	ValueOutput
+Wave3.13 X	0	4194304	Value	ValueOutput
+Wave3.13 Y	0	4194304	Value	ValueOutput
+Wave3.13 Type	0	4194304	Value	ValueOutput
+Wave3.14 X	0	4194304	Value	ValueOutput
+Wave3.14 Y	0	4194304	Value	ValueOutput
+Wave3.14 Type	0	4194304	Value	ValueOutput
+Wave3.15 X	0	4194304	Value	ValueOutput
+Wave3.15 Y	0	4194304	Value	ValueOutput
+Wave3.15 Type	0	4194304	Value	ValueOutput
+Wave3.16 X	0	4194304	Value	ValueOutput
+Wave3.16 Y	0	4194304	Value	ValueOutput
+Wave3.16 Type	0	4194304	Value	ValueOutput
+Wave3.17 X	0	4194304	Value	ValueOutput
+Wave3.17 Y	0	4194304	Value	ValueOutput
+Wave3.17 Type	0	4194304	Value	ValueOutput
+Wave3.18 X	0	4194304	Value	ValueOutput
+Wave3.18 Y	0	4194304	Value	ValueOutput
+Wave3.18 Type	0	4194304	Value	ValueOutput
+Wave3.19 X	0	4194304	Value	ValueOutput
+Wave3.19 Y	0	4194304	Value	ValueOutput
+Wave3.19 Type	0	4194304	Value	ValueOutput
+Wave3.20 X	0	4194304	Value	ValueOutput
+Wave3.20 Y	0	4194304	Value	ValueOutput
+Wave3.20 Type	0	4194304	Value	ValueOutput
+Wave4.1 X	0	4194304	Value	ValueOutput
+Wave4.1 Y	0	4194304	Value	ValueOutput
+Wave4.1 Type	0	4194304	Value	ValueOutput
+Wave4.2 X	0	4194304	Value	ValueOutput
+Wave4.2 Y	0	4194304	Value	ValueOutput
+Wave4.2 Type	0	4194304	Value	ValueOutput
+Wave4.3 X	0	4194304	Value	ValueOutput
+Wave4.3 Y	0	4194304	Value	ValueOutput
+Wave4.3 Type	0	4194304	Value	ValueOutput
+Wave4.4 X	0	4194304	Value	ValueOutput
+Wave4.4 Y	0	4194304	Value	ValueOutput
+Wave4.4 Type	0	4194304	Value	ValueOutput
+Wave4.5 X	0	4194304	Value	ValueOutput
+Wave4.5 Y	0	4194304	Value	ValueOutput
+Wave4.5 Type	0	4194304	Value	ValueOutput
+Wave4.6 X	0	4194304	Value	ValueOutput
+Wave4.6 Y	0	4194304	Value	ValueOutput
+Wave4.6 Type	0	4194304	Value	ValueOutput
+Wave4.7 X	0	4194304	Value	ValueOutput
+Wave4.7 Y	0	4194304	Value	ValueOutput
+Wave4.7 Type	0	4194304	Value	ValueOutput
+Wave4.8 X	0	4194304	Value	ValueOutput
+Wave4.8 Y	0	4194304	Value	ValueOutput
+Wave4.8 Type	0	4194304	Value	ValueOutput
+Wave4.9 X	0	4194304	Value	ValueOutput
+Wave4.9 Y	0	4194304	Value	ValueOutput
+Wave4.9 Type	0	4194304	Value	ValueOutput
+Wave4.10 X	0	4194304	Value	ValueOutput
+Wave4.10 Y	0	4194304	Value	ValueOutput
+Wave4.10 Type	0	4194304	Value	ValueOutput
+Wave4.11 X	0	4194304	Value	ValueOutput
+Wave4.11 Y	0	4194304	Value	ValueOutput
+Wave4.11 Type	0	4194304	Value	ValueOutput
+Wave4.12 X	0	4194304	Value	ValueOutput
+Wave4.12 Y	0	4194304	Value	ValueOutput
+Wave4.12 Type	0	4194304	Value	ValueOutput
+Wave4.13 X	0	4194304	Value	ValueOutput
+Wave4.13 Y	0	4194304	Value	ValueOutput
+Wave4.13 Type	0	4194304	Value	ValueOutput
+Wave4.14 X	0	4194304	Value	ValueOutput
+Wave4.14 Y	0	4194304	Value	ValueOutput
+Wave4.14 Type	0	4194304	Value	ValueOutput
+Wave4.15 X	0	4194304	Value	ValueOutput
+Wave4.15 Y	0	4194304	Value	ValueOutput
+Wave4.15 Type	0	4194304	Value	ValueOutput
+Wave4.16 X	0	4194304	Value	ValueOutput
+Wave4.16 Y	0	4194304	Value	ValueOutput
+Wave4.16 Type	0	4194304	Value	ValueOutput
+Wave4.17 X	0	4194304	Value	ValueOutput
+Wave4.17 Y	0	4194304	Value	ValueOutput
+Wave4.17 Type	0	4194304	Value	ValueOutput
+Wave4.18 X	0	4194304	Value	ValueOutput
+Wave4.18 Y	0	4194304	Value	ValueOutput
+Wave4.18 Type	0	4194304	Value	ValueOutput
+Wave4.19 X	0	4194304	Value	ValueOutput
+Wave4.19 Y	0	4194304	Value	ValueOutput
+Wave4.19 Type	0	4194304	Value	ValueOutput
+Wave4.20 X	0	4194304	Value	ValueOutput
+Wave4.20 Y	0	4194304	Value	ValueOutput
+Wave4.20 Type	0	4194304	Value	ValueOutput
+Wave5.1 X	0	4194304	Value	ValueOutput
+Wave5.1 Y	0	4194304	Value	ValueOutput
+Wave5.1 Type	0	4194304	Value	ValueOutput
+Wave5.2 X	0	4194304	Value	ValueOutput
+Wave5.2 Y	0	4194304	Value	ValueOutput
+Wave5.2 Type	0	4194304	Value	ValueOutput
+Wave5.3 X	0	4194304	Value	ValueOutput
+Wave5.3 Y	0	4194304	Value	ValueOutput
+Wave5.3 Type	0	4194304	Value	ValueOutput
+Wave5.4 X	0	4194304	Value	ValueOutput
+Wave5.4 Y	0	4194304	Value	ValueOutput
+Wave5.4 Type	0	4194304	Value	ValueOutput
+Wave5.5 X	0	4194304	Value	ValueOutput
+Wave5.5 Y	0	4194304	Value	ValueOutput
+Wave5.5 Type	0	4194304	Value	ValueOutput
+Wave5.6 X	0	4194304	Value	ValueOutput
+Wave5.6 Y	0	4194304	Value	ValueOutput
+Wave5.6 Type	0	4194304	Value	ValueOutput
+Wave5.7 X	0	4194304	Value	ValueOutput
+Wave5.7 Y	0	4194304	Value	ValueOutput
+Wave5.7 Type	0	4194304	Value	ValueOutput
+Wave5.8 X	0	4194304	Value	ValueOutput
+Wave5.8 Y	0	4194304	Value	ValueOutput
+Wave5.8 Type	0	4194304	Value	ValueOutput
+Wave5.9 X	0	4194304	Value	ValueOutput
+Wave5.9 Y	0	4194304	Value	ValueOutput
+Wave5.9 Type	0	4194304	Value	ValueOutput
+Wave5.10 X	0	4194304	Value	ValueOutput
+Wave5.10 Y	0	4194304	Value	ValueOutput
+Wave5.10 Type	0	4194304	Value	ValueOutput
+Wave5.11 X	0	4194304	Value	ValueOutput
+Wave5.11 Y	0	4194304	Value	ValueOutput
+Wave5.11 Type	0	4194304	Value	ValueOutput
+Wave5.12 X	0	4194304	Value	ValueOutput
+Wave5.12 Y	0	4194304	Value	ValueOutput
+Wave5.12 Type	0	4194304	Value	ValueOutput
+Wave5.13 X	0	4194304	Value	ValueOutput
+Wave5.13 Y	0	4194304	Value	ValueOutput
+Wave5.13 Type	0	4194304	Value	ValueOutput
+Wave5.14 X	0	4194304	Value	ValueOutput
+Wave5.14 Y	0	4194304	Value	ValueOutput
+Wave5.14 Type	0	4194304	Value	ValueOutput
+Wave5.15 X	0	4194304	Value	ValueOutput
+Wave5.15 Y	0	4194304	Value	ValueOutput
+Wave5.15 Type	0	4194304	Value	ValueOutput
+Wave5.16 X	0	4194304	Value	ValueOutput
+Wave5.16 Y	0	4194304	Value	ValueOutput
+Wave5.16 Type	0	4194304	Value	ValueOutput
+Wave5.17 X	0	4194304	Value	ValueOutput
+Wave5.17 Y	0	4194304	Value	ValueOutput
+Wave5.17 Type	0	4194304	Value	ValueOutput
+Wave5.18 X	0	4194304	Value	ValueOutput
+Wave5.18 Y	0	4194304	Value	ValueOutput
+Wave5.18 Type	0	4194304	Value	ValueOutput
+Wave5.19 X	0	4194304	Value	ValueOutput
+Wave5.19 Y	0	4194304	Value	ValueOutput
+Wave5.19 Type	0	4194304	Value	ValueOutput
+Wave5.20 X	0	4194304	Value	ValueOutput
+Wave5.20 Y	0	4194304	Value	ValueOutput
+Wave5.20 Type	0	4194304	Value	ValueOutput
+Wave6.1 X	0	4194304	Value	ValueOutput
+Wave6.1 Y	0	4194304	Value	ValueOutput
+Wave6.1 Type	0	4194304	Value	ValueOutput
+Wave6.2 X	0	4194304	Value	ValueOutput
+Wave6.2 Y	0	4194304	Value	ValueOutput
+Wave6.2 Type	0	4194304	Value	ValueOutput
+Wave6.3 X	0	4194304	Value	ValueOutput
+Wave6.3 Y	0	4194304	Value	ValueOutput
+Wave6.3 Type	0	4194304	Value	ValueOutput
+Wave6.4 X	0	4194304	Value	ValueOutput
+Wave6.4 Y	0	4194304	Value	ValueOutput
+Wave6.4 Type	0	4194304	Value	ValueOutput
+Wave6.5 X	0	4194304	Value	ValueOutput
+Wave6.5 Y	0	4194304	Value	ValueOutput
+Wave6.5 Type	0	4194304	Value	ValueOutput
+Wave6.6 X	0	4194304	Value	ValueOutput
+Wave6.6 Y	0	4194304	Value	ValueOutput
+Wave6.6 Type	0	4194304	Value	ValueOutput
+Wave6.7 X	0	4194304	Value	ValueOutput
+Wave6.7 Y	0	4194304	Value	ValueOutput
+Wave6.7 Type	0	4194304	Value	ValueOutput
+Wave6.8 X	0	4194304	Value	ValueOutput
+Wave6.8 Y	0	4194304	Value	ValueOutput
+Wave6.8 Type	0	4194304	Value	ValueOutput
+Wave6.9 X	0	4194304	Value	ValueOutput
+Wave6.9 Y	0	4194304	Value	ValueOutput
+Wave6.9 Type	0	4194304	Value	ValueOutput
+Wave6.10 X	0	4194304	Value	ValueOutput
+Wave6.10 Y	0	4194304	Value	ValueOutput
+Wave6.10 Type	0	4194304	Value	ValueOutput
+Wave6.11 X	0	4194304	Value	ValueOutput
+Wave6.11 Y	0	4194304	Value	ValueOutput
+Wave6.11 Type	0	4194304	Value	ValueOutput
+Wave6.12 X	0	4194304	Value	ValueOutput
+Wave6.12 Y	0	4194304	Value	ValueOutput
+Wave6.12 Type	0	4194304	Value	ValueOutput
+Wave6.13 X	0	4194304	Value	ValueOutput
+Wave6.13 Y	0	4194304	Value	ValueOutput
+Wave6.13 Type	0	4194304	Value	ValueOutput
+Wave6.14 X	0	4194304	Value	ValueOutput
+Wave6.14 Y	0	4194304	Value	ValueOutput
+Wave6.14 Type	0	4194304	Value	ValueOutput
+Wave6.15 X	0	4194304	Value	ValueOutput
+Wave6.15 Y	0	4194304	Value	ValueOutput
+Wave6.15 Type	0	4194304	Value	ValueOutput
+Wave6.16 X	0	4194304	Value	ValueOutput
+Wave6.16 Y	0	4194304	Value	ValueOutput
+Wave6.16 Type	0	4194304	Value	ValueOutput
+Wave6.17 X	0	4194304	Value	ValueOutput
+Wave6.17 Y	0	4194304	Value	ValueOutput
+Wave6.17 Type	0	4194304	Value	ValueOutput
+Wave6.18 X	0	4194304	Value	ValueOutput
+Wave6.18 Y	0	4194304	Value	ValueOutput
+Wave6.18 Type	0	4194304	Value	ValueOutput
+Wave6.19 X	0	4194304	Value	ValueOutput
+Wave6.19 Y	0	4194304	Value	ValueOutput
+Wave6.19 Type	0	4194304	Value	ValueOutput
+Wave6.20 X	0	4194304	Value	ValueOutput
+Wave6.20 Y	0	4194304	Value	ValueOutput
+Wave6.20 Type	0	4194304	Value	ValueOutput
+Wave7.1 X	0	4194304	Value	ValueOutput
+Wave7.1 Y	0	4194304	Value	ValueOutput
+Wave7.1 Type	0	4194304	Value	ValueOutput
+Wave7.2 X	0	4194304	Value	ValueOutput
+Wave7.2 Y	0	4194304	Value	ValueOutput
+Wave7.2 Type	0	4194304	Value	ValueOutput
+Wave7.3 X	0	4194304	Value	ValueOutput
+Wave7.3 Y	0	4194304	Value	ValueOutput
+Wave7.3 Type	0	4194304	Value	ValueOutput
+Wave7.4 X	0	4194304	Value	ValueOutput
+Wave7.4 Y	0	4194304	Value	ValueOutput
+Wave7.4 Type	0	4194304	Value	ValueOutput
+Wave7.5 X	0	4194304	Value	ValueOutput
+Wave7.5 Y	0	4194304	Value	ValueOutput
+Wave7.5 Type	0	4194304	Value	ValueOutput
+Wave7.6 X	0	4194304	Value	ValueOutput
+Wave7.6 Y	0	4194304	Value	ValueOutput
+Wave7.6 Type	0	4194304	Value	ValueOutput
+Wave7.7 X	0	4194304	Value	ValueOutput
+Wave7.7 Y	0	4194304	Value	ValueOutput
+Wave7.7 Type	0	4194304	Value	ValueOutput
+Wave7.8 X	0	4194304	Value	ValueOutput
+Wave7.8 Y	0	4194304	Value	ValueOutput
+Wave7.8 Type	0	4194304	Value	ValueOutput
+Wave7.9 X	0	4194304	Value	ValueOutput
+Wave7.9 Y	0	4194304	Value	ValueOutput
+Wave7.9 Type	0	4194304	Value	ValueOutput
+Wave7.10 X	0	4194304	Value	ValueOutput
+Wave7.10 Y	0	4194304	Value	ValueOutput
+Wave7.10 Type	0	4194304	Value	ValueOutput
+Wave7.11 X	0	4194304	Value	ValueOutput
+Wave7.11 Y	0	4194304	Value	ValueOutput
+Wave7.11 Type	0	4194304	Value	ValueOutput
+Wave7.12 X	0	4194304	Value	ValueOutput
+Wave7.12 Y	0	4194304	Value	ValueOutput
+Wave7.12 Type	0	4194304	Value	ValueOutput
+Wave7.13 X	0	4194304	Value	ValueOutput
+Wave7.13 Y	0	4194304	Value	ValueOutput
+Wave7.13 Type	0	4194304	Value	ValueOutput
+Wave7.14 X	0	4194304	Value	ValueOutput
+Wave7.14 Y	0	4194304	Value	ValueOutput
+Wave7.14 Type	0	4194304	Value	ValueOutput
+Wave7.15 X	0	4194304	Value	ValueOutput
+Wave7.15 Y	0	4194304	Value	ValueOutput
+Wave7.15 Type	0	4194304	Value	ValueOutput
+Wave7.16 X	0	4194304	Value	ValueOutput
+Wave7.16 Y	0	4194304	Value	ValueOutput
+Wave7.16 Type	0	4194304	Value	ValueOutput
+Wave7.17 X	0	4194304	Value	ValueOutput
+Wave7.17 Y	0	4194304	Value	ValueOutput
+Wave7.17 Type	0	4194304	Value	ValueOutput
+Wave7.18 X	0	4194304	Value	ValueOutput
+Wave7.18 Y	0	4194304	Value	ValueOutput
+Wave7.18 Type	0	4194304	Value	ValueOutput
+Wave7.19 X	0	4194304	Value	ValueOutput
+Wave7.19 Y	0	4194304	Value	ValueOutput
+Wave7.19 Type	0	4194304	Value	ValueOutput
+Wave7.20 X	0	4194304	Value	ValueOutput
+Wave7.20 Y	0	4194304	Value	ValueOutput
+Wave7.20 Type	0	4194304	Value	ValueOutput
+Wave8.1 X	0	4194304	Value	ValueOutput
+Wave8.1 Y	0	4194304	Value	ValueOutput
+Wave8.1 Type	0	4194304	Value	ValueOutput
+Wave8.2 X	0	4194304	Value	ValueOutput
+Wave8.2 Y	0	4194304	Value	ValueOutput
+Wave8.2 Type	0	4194304	Value	ValueOutput
+Wave8.3 X	0	4194304	Value	ValueOutput
+Wave8.3 Y	0	4194304	Value	ValueOutput
+Wave8.3 Type	0	4194304	Value	ValueOutput
+Wave8.4 X	0	4194304	Value	ValueOutput
+Wave8.4 Y	0	4194304	Value	ValueOutput
+Wave8.4 Type	0	4194304	Value	ValueOutput
+Wave8.5 X	0	4194304	Value	ValueOutput
+Wave8.5 Y	0	4194304	Value	ValueOutput
+Wave8.5 Type	0	4194304	Value	ValueOutput
+Wave8.6 X	0	4194304	Value	ValueOutput
+Wave8.6 Y	0	4194304	Value	ValueOutput
+Wave8.6 Type	0	4194304	Value	ValueOutput
+Wave8.7 X	0	4194304	Value	ValueOutput
+Wave8.7 Y	0	4194304	Value	ValueOutput
+Wave8.7 Type	0	4194304	Value	ValueOutput
+Wave8.8 X	0	4194304	Value	ValueOutput
+Wave8.8 Y	0	4194304	Value	ValueOutput
+Wave8.8 Type	0	4194304	Value	ValueOutput
+Wave8.9 X	0	4194304	Value	ValueOutput
+Wave8.9 Y	0	4194304	Value	ValueOutput
+Wave8.9 Type	0	4194304	Value	ValueOutput
+Wave8.10 X	0	4194304	Value	ValueOutput
+Wave8.10 Y	0	4194304	Value	ValueOutput
+Wave8.10 Type	0	4194304	Value	ValueOutput
+Wave8.11 X	0	4194304	Value	ValueOutput
+Wave8.11 Y	0	4194304	Value	ValueOutput
+Wave8.11 Type	0	4194304	Value	ValueOutput
+Wave8.12 X	0	4194304	Value	ValueOutput
+Wave8.12 Y	0	4194304	Value	ValueOutput
+Wave8.12 Type	0	4194304	Value	ValueOutput
+Wave8.13 X	0	4194304	Value	ValueOutput
+Wave8.13 Y	0	4194304	Value	ValueOutput
+Wave8.13 Type	0	4194304	Value	ValueOutput
+Wave8.14 X	0	4194304	Value	ValueOutput
+Wave8.14 Y	0	4194304	Value	ValueOutput
+Wave8.14 Type	0	4194304	Value	ValueOutput
+Wave8.15 X	0	4194304	Value	ValueOutput
+Wave8.15 Y	0	4194304	Value	ValueOutput
+Wave8.15 Type	0	4194304	Value	ValueOutput
+Wave8.16 X	0	4194304	Value	ValueOutput
+Wave8.16 Y	0	4194304	Value	ValueOutput
+Wave8.16 Type	0	4194304	Value	ValueOutput
+Wave8.17 X	0	4194304	Value	ValueOutput
+Wave8.17 Y	0	4194304	Value	ValueOutput
+Wave8.17 Type	0	4194304	Value	ValueOutput
+Wave8.18 X	0	4194304	Value	ValueOutput
+Wave8.18 Y	0	4194304	Value	ValueOutput
+Wave8.18 Type	0	4194304	Value	ValueOutput
+Wave8.19 X	0	4194304	Value	ValueOutput
+Wave8.19 Y	0	4194304	Value	ValueOutput
+Wave8.19 Type	0	4194304	Value	ValueOutput
+Wave8.20 X	0	4194304	Value	ValueOutput
+Wave8.20 Y	0	4194304	Value	ValueOutput
+Wave8.20 Type	0	4194304	Value	ValueOutput
+Wave9.1 X	0	4194304	Value	ValueOutput
+Wave9.1 Y	0	4194304	Value	ValueOutput
+Wave9.1 Type	0	4194304	Value	ValueOutput
+Wave9.2 X	0	4194304	Value	ValueOutput
+Wave9.2 Y	0	4194304	Value	ValueOutput
+Wave9.2 Type	0	4194304	Value	ValueOutput
+Wave9.3 X	0	4194304	Value	ValueOutput
+Wave9.3 Y	0	4194304	Value	ValueOutput
+Wave9.3 Type	0	4194304	Value	ValueOutput
+Wave9.4 X	0	4194304	Value	ValueOutput
+Wave9.4 Y	0	4194304	Value	ValueOutput
+Wave9.4 Type	0	4194304	Value	ValueOutput
+Wave9.5 X	0	4194304	Value	ValueOutput
+Wave9.5 Y	0	4194304	Value	ValueOutput
+Wave9.5 Type	0	4194304	Value	ValueOutput
+Wave9.6 X	0	4194304	Value	ValueOutput
+Wave9.6 Y	0	4194304	Value	ValueOutput
+Wave9.6 Type	0	4194304	Value	ValueOutput
+Wave9.7 X	0	4194304	Value	ValueOutput
+Wave9.7 Y	0	4194304	Value	ValueOutput
+Wave9.7 Type	0	4194304	Value	ValueOutput
+Wave9.8 X	0	4194304	Value	ValueOutput
+Wave9.8 Y	0	4194304	Value	ValueOutput
+Wave9.8 Type	0	4194304	Value	ValueOutput
+Wave9.9 X	0	4194304	Value	ValueOutput
+Wave9.9 Y	0	4194304	Value	ValueOutput
+Wave9.9 Type	0	4194304	Value	ValueOutput
+Wave9.10 X	0	4194304	Value	ValueOutput
+Wave9.10 Y	0	4194304	Value	ValueOutput
+Wave9.10 Type	0	4194304	Value	ValueOutput
+Wave9.11 X	0	4194304	Value	ValueOutput
+Wave9.11 Y	0	4194304	Value	ValueOutput
+Wave9.11 Type	0	4194304	Value	ValueOutput
+Wave9.12 X	0	4194304	Value	ValueOutput
+Wave9.12 Y	0	4194304	Value	ValueOutput
+Wave9.12 Type	0	4194304	Value	ValueOutput
+Wave9.13 X	0	4194304	Value	ValueOutput
+Wave9.13 Y	0	4194304	Value	ValueOutput
+Wave9.13 Type	0	4194304	Value	ValueOutput
+Wave9.14 X	0	4194304	Value	ValueOutput
+Wave9.14 Y	0	4194304	Value	ValueOutput
+Wave9.14 Type	0	4194304	Value	ValueOutput
+Wave9.15 X	0	4194304	Value	ValueOutput
+Wave9.15 Y	0	4194304	Value	ValueOutput
+Wave9.15 Type	0	4194304	Value	ValueOutput
+Wave9.16 X	0	4194304	Value	ValueOutput
+Wave9.16 Y	0	4194304	Value	ValueOutput
+Wave9.16 Type	0	4194304	Value	ValueOutput
+Wave9.17 X	0	4194304	Value	ValueOutput
+Wave9.17 Y	0	4194304	Value	ValueOutput
+Wave9.17 Type	0	4194304	Value	ValueOutput
+Wave9.18 X	0	4194304	Value	ValueOutput
+Wave9.18 Y	0	4194304	Value	ValueOutput
+Wave9.18 Type	0	4194304	Value	ValueOutput
+Wave9.19 X	0	4194304	Value	ValueOutput
+Wave9.19 Y	0	4194304	Value	ValueOutput
+Wave9.19 Type	0	4194304	Value	ValueOutput
+Wave9.20 X	0	4194304	Value	ValueOutput
+Wave9.20 Y	0	4194304	Value	ValueOutput
+Wave9.20 Type	0	4194304	Value	ValueOutput
+Wave10.1 X	0	4194304	Value	ValueOutput
+Wave10.1 Y	0	4194304	Value	ValueOutput
+Wave10.1 Type	0	4194304	Value	ValueOutput
+Wave10.2 X	0	4194304	Value	ValueOutput
+Wave10.2 Y	0	4194304	Value	ValueOutput
+Wave10.2 Type	0	4194304	Value	ValueOutput
+Wave10.3 X	0	4194304	Value	ValueOutput
+Wave10.3 Y	0	4194304	Value	ValueOutput
+Wave10.3 Type	0	4194304	Value	ValueOutput
+Wave10.4 X	0	4194304	Value	ValueOutput
+Wave10.4 Y	0	4194304	Value	ValueOutput
+Wave10.4 Type	0	4194304	Value	ValueOutput
+Wave10.5 X	0	4194304	Value	ValueOutput
+Wave10.5 Y	0	4194304	Value	ValueOutput
+Wave10.5 Type	0	4194304	Value	ValueOutput
+Wave10.6 X	0	4194304	Value	ValueOutput
+Wave10.6 Y	0	4194304	Value	ValueOutput
+Wave10.6 Type	0	4194304	Value	ValueOutput
+Wave10.7 X	0	4194304	Value	ValueOutput
+Wave10.7 Y	0	4194304	Value	ValueOutput
+Wave10.7 Type	0	4194304	Value	ValueOutput
+Wave10.8 X	0	4194304	Value	ValueOutput
+Wave10.8 Y	0	4194304	Value	ValueOutput
+Wave10.8 Type	0	4194304	Value	ValueOutput
+Wave10.9 X	0	4194304	Value	ValueOutput
+Wave10.9 Y	0	4194304	Value	ValueOutput
+Wave10.9 Type	0	4194304	Value	ValueOutput
+Wave10.10 X	0	4194304	Value	ValueOutput
+Wave10.10 Y	0	4194304	Value	ValueOutput
+Wave10.10 Type	0	4194304	Value	ValueOutput
+Wave10.11 X	0	4194304	Value	ValueOutput
+Wave10.11 Y	0	4194304	Value	ValueOutput
+Wave10.11 Type	0	4194304	Value	ValueOutput
+Wave10.12 X	0	4194304	Value	ValueOutput
+Wave10.12 Y	0	4194304	Value	ValueOutput
+Wave10.12 Type	0	4194304	Value	ValueOutput
+Wave10.13 X	0	4194304	Value	ValueOutput
+Wave10.13 Y	0	4194304	Value	ValueOutput
+Wave10.13 Type	0	4194304	Value	ValueOutput
+Wave10.14 X	0	4194304	Value	ValueOutput
+Wave10.14 Y	0	4194304	Value	ValueOutput
+Wave10.14 Type	0	4194304	Value	ValueOutput
+Wave10.15 X	0	4194304	Value	ValueOutput
+Wave10.15 Y	0	4194304	Value	ValueOutput
+Wave10.15 Type	0	4194304	Value	ValueOutput
+Wave10.16 X	0	4194304	Value	ValueOutput
+Wave10.16 Y	0	4194304	Value	ValueOutput
+Wave10.16 Type	0	4194304	Value	ValueOutput
+Wave10.17 X	0	4194304	Value	ValueOutput
+Wave10.17 Y	0	4194304	Value	ValueOutput
+Wave10.17 Type	0	4194304	Value	ValueOutput
+Wave10.18 X	0	4194304	Value	ValueOutput
+Wave10.18 Y	0	4194304	Value	ValueOutput
+Wave10.18 Type	0	4194304	Value	ValueOutput
+Wave10.19 X	0	4194304	Value	ValueOutput
+Wave10.19 Y	0	4194304	Value	ValueOutput
+Wave10.19 Type	0	4194304	Value	ValueOutput
+Wave10.20 X	0	4194304	Value	ValueOutput
+Wave10.20 Y	0	4194304	Value	ValueOutput
+Wave10.20 Type	0	4194304	Value	ValueOutput
+Wave1.21 X	0	4194304	Value	ValueOutput
+Wave1.21 Y	0	4194304	Value	ValueOutput
+Wave1.21 Type	0	4194304	Value	ValueOutput
+Wave1.22 X	0	4194304	Value	ValueOutput
+Wave1.22 Y	0	4194304	Value	ValueOutput
+Wave1.22 Type	0	4194304	Value	ValueOutput
+Wave1.23 X	0	4194304	Value	ValueOutput
+Wave1.23 Y	0	4194304	Value	ValueOutput
+Wave1.23 Type	0	4194304	Value	ValueOutput
+Wave1.24 X	0	4194304	Value	ValueOutput
+Wave1.24 Y	0	4194304	Value	ValueOutput
+Wave1.24 Type	0	4194304	Value	ValueOutput
+Wave1.25 X	0	4194304	Value	ValueOutput
+Wave1.25 Y	0	4194304	Value	ValueOutput
+Wave1.25 Type	0	4194304	Value	ValueOutput
+Wave1.26 X	0	4194304	Value	ValueOutput
+Wave1.26 Y	0	4194304	Value	ValueOutput
+Wave1.26 Type	0	4194304	Value	ValueOutput
+Wave1.27 X	0	4194304	Value	ValueOutput
+Wave1.27 Y	0	4194304	Value	ValueOutput
+Wave1.27 Type	0	4194304	Value	ValueOutput
+Wave1.28 X	0	4194304	Value	ValueOutput
+Wave1.28 Y	0	4194304	Value	ValueOutput
+Wave1.28 Type	0	4194304	Value	ValueOutput
+Wave1.29 X	0	4194304	Value	ValueOutput
+Wave1.29 Y	0	4194304	Value	ValueOutput
+Wave1.29 Type	0	4194304	Value	ValueOutput
+Wave1.30 X	0	4194304	Value	ValueOutput
+Wave1.30 Y	0	4194304	Value	ValueOutput
+Wave1.30 Type	0	4194304	Value	ValueOutput
+Wave1.31 X	0	4194304	Value	ValueOutput
+Wave1.31 Y	0	4194304	Value	ValueOutput
+Wave1.31 Type	0	4194304	Value	ValueOutput
+Wave1.32 X	0	4194304	Value	ValueOutput
+Wave1.32 Y	0	4194304	Value	ValueOutput
+Wave1.32 Type	0	4194304	Value	ValueOutput
+Wave1.33 X	0	4194304	Value	ValueOutput
+Wave1.33 Y	0	4194304	Value	ValueOutput
+Wave1.33 Type	0	4194304	Value	ValueOutput
+Wave1.34 X	0	4194304	Value	ValueOutput
+Wave1.34 Y	0	4194304	Value	ValueOutput
+Wave1.34 Type	0	4194304	Value	ValueOutput
+Wave1.35 X	0	4194304	Value	ValueOutput
+Wave1.35 Y	0	4194304	Value	ValueOutput
+Wave1.35 Type	0	4194304	Value	ValueOutput
+Wave1.36 X	0	4194304	Value	ValueOutput
+Wave1.36 Y	0	4194304	Value	ValueOutput
+Wave1.36 Type	0	4194304	Value	ValueOutput
+Wave1.37 X	0	4194304	Value	ValueOutput
+Wave1.37 Y	0	4194304	Value	ValueOutput
+Wave1.37 Type	0	4194304	Value	ValueOutput
+Wave1.38 X	0	4194304	Value	ValueOutput
+Wave1.38 Y	0	4194304	Value	ValueOutput
+Wave1.38 Type	0	4194304	Value	ValueOutput
+Wave1.39 X	0	4194304	Value	ValueOutput
+Wave1.39 Y	0	4194304	Value	ValueOutput
+Wave1.39 Type	0	4194304	Value	ValueOutput
+Wave1.40 X	0	4194304	Value	ValueOutput
+Wave1.40 Y	0	4194304	Value	ValueOutput
+Wave1.40 Type	0	4194304	Value	ValueOutput
+Wave2.21 X	0	4194304	Value	ValueOutput
+Wave2.21 Y	0	4194304	Value	ValueOutput
+Wave2.21 Type	0	4194304	Value	ValueOutput
+Wave2.22 X	0	4194304	Value	ValueOutput
+Wave2.22 Y	0	4194304	Value	ValueOutput
+Wave2.22 Type	0	4194304	Value	ValueOutput
+Wave2.23 X	0	4194304	Value	ValueOutput
+Wave2.23 Y	0	4194304	Value	ValueOutput
+Wave2.23 Type	0	4194304	Value	ValueOutput
+Wave2.24 X	0	4194304	Value	ValueOutput
+Wave2.24 Y	0	4194304	Value	ValueOutput
+Wave2.24 Type	0	4194304	Value	ValueOutput
+Wave2.25 X	0	4194304	Value	ValueOutput
+Wave2.25 Y	0	4194304	Value	ValueOutput
+Wave2.25 Type	0	4194304	Value	ValueOutput
+Wave2.26 X	0	4194304	Value	ValueOutput
+Wave2.26 Y	0	4194304	Value	ValueOutput
+Wave2.26 Type	0	4194304	Value	ValueOutput
+Wave2.27 X	0	4194304	Value	ValueOutput
+Wave2.27 Y	0	4194304	Value	ValueOutput
+Wave2.27 Type	0	4194304	Value	ValueOutput
+Wave2.28 X	0	4194304	Value	ValueOutput
+Wave2.28 Y	0	4194304	Value	ValueOutput
+Wave2.28 Type	0	4194304	Value	ValueOutput
+Wave2.29 X	0	4194304	Value	ValueOutput
+Wave2.29 Y	0	4194304	Value	ValueOutput
+Wave2.29 Type	0	4194304	Value	ValueOutput
+Wave2.30 X	0	4194304	Value	ValueOutput
+Wave2.30 Y	0	4194304	Value	ValueOutput
+Wave2.30 Type	0	4194304	Value	ValueOutput
+Wave2.31 X	0	4194304	Value	ValueOutput
+Wave2.31 Y	0	4194304	Value	ValueOutput
+Wave2.31 Type	0	4194304	Value	ValueOutput
+Wave2.32 X	0	4194304	Value	ValueOutput
+Wave2.32 Y	0	4194304	Value	ValueOutput
+Wave2.32 Type	0	4194304	Value	ValueOutput
+Wave2.33 X	0	4194304	Value	ValueOutput
+Wave2.33 Y	0	4194304	Value	ValueOutput
+Wave2.33 Type	0	4194304	Value	ValueOutput
+Wave2.34 X	0	4194304	Value	ValueOutput
+Wave2.34 Y	0	4194304	Value	ValueOutput
+Wave2.34 Type	0	4194304	Value	ValueOutput
+Wave2.35 X	0	4194304	Value	ValueOutput
+Wave2.35 Y	0	4194304	Value	ValueOutput
+Wave2.35 Type	0	4194304	Value	ValueOutput
+Wave2.36 X	0	4194304	Value	ValueOutput
+Wave2.36 Y	0	4194304	Value	ValueOutput
+Wave2.36 Type	0	4194304	Value	ValueOutput
+Wave2.37 X	0	4194304	Value	ValueOutput
+Wave2.37 Y	0	4194304	Value	ValueOutput
+Wave2.37 Type	0	4194304	Value	ValueOutput
+Wave2.38 X	0	4194304	Value	ValueOutput
+Wave2.38 Y	0	4194304	Value	ValueOutput
+Wave2.38 Type	0	4194304	Value	ValueOutput
+Wave2.39 X	0	4194304	Value	ValueOutput
+Wave2.39 Y	0	4194304	Value	ValueOutput
+Wave2.39 Type	0	4194304	Value	ValueOutput
+Wave2.40 X	0	4194304	Value	ValueOutput
+Wave2.40 Y	0	4194304	Value	ValueOutput
+Wave2.40 Type	0	4194304	Value	ValueOutput
+Wave3.21 X	0	4194304	Value	ValueOutput
+Wave3.21 Y	0	4194304	Value	ValueOutput
+Wave3.21 Type	0	4194304	Value	ValueOutput
+Wave3.22 X	0	4194304	Value	ValueOutput
+Wave3.22 Y	0	4194304	Value	ValueOutput
+Wave3.22 Type	0	4194304	Value	ValueOutput
+Wave3.23 X	0	4194304	Value	ValueOutput
+Wave3.23 Y	0	4194304	Value	ValueOutput
+Wave3.23 Type	0	4194304	Value	ValueOutput
+Wave3.24 X	0	4194304	Value	ValueOutput
+Wave3.24 Y	0	4194304	Value	ValueOutput
+Wave3.24 Type	0	4194304	Value	ValueOutput
+Wave3.25 X	0	4194304	Value	ValueOutput
+Wave3.25 Y	0	4194304	Value	ValueOutput
+Wave3.25 Type	0	4194304	Value	ValueOutput
+Wave3.26 X	0	4194304	Value	ValueOutput
+Wave3.26 Y	0	4194304	Value	ValueOutput
+Wave3.26 Type	0	4194304	Value	ValueOutput
+Wave3.27 X	0	4194304	Value	ValueOutput
+Wave3.27 Y	0	4194304	Value	ValueOutput
+Wave3.27 Type	0	4194304	Value	ValueOutput
+Wave3.28 X	0	4194304	Value	ValueOutput
+Wave3.28 Y	0	4194304	Value	ValueOutput
+Wave3.28 Type	0	4194304	Value	ValueOutput
+Wave3.29 X	0	4194304	Value	ValueOutput
+Wave3.29 Y	0	4194304	Value	ValueOutput
+Wave3.29 Type	0	4194304	Value	ValueOutput
+Wave3.30 X	0	4194304	Value	ValueOutput
+Wave3.30 Y	0	4194304	Value	ValueOutput
+Wave3.30 Type	0	4194304	Value	ValueOutput
+Wave3.31 X	0	4194304	Value	ValueOutput
+Wave3.31 Y	0	4194304	Value	ValueOutput
+Wave3.31 Type	0	4194304	Value	ValueOutput
+Wave3.32 X	0	4194304	Value	ValueOutput
+Wave3.32 Y	0	4194304	Value	ValueOutput
+Wave3.32 Type	0	4194304	Value	ValueOutput
+Wave3.33 X	0	4194304	Value	ValueOutput
+Wave3.33 Y	0	4194304	Value	ValueOutput
+Wave3.33 Type	0	4194304	Value	ValueOutput
+Wave3.34 X	0	4194304	Value	ValueOutput
+Wave3.34 Y	0	4194304	Value	ValueOutput
+Wave3.34 Type	0	4194304	Value	ValueOutput
+Wave3.35 X	0	4194304	Value	ValueOutput
+Wave3.35 Y	0	4194304	Value	ValueOutput
+Wave3.35 Type	0	4194304	Value	ValueOutput
+Wave3.36 X	0	4194304	Value	ValueOutput
+Wave3.36 Y	0	4194304	Value	ValueOutput
+Wave3.36 Type	0	4194304	Value	ValueOutput
+Wave3.37 X	0	4194304	Value	ValueOutput
+Wave3.37 Y	0	4194304	Value	ValueOutput
+Wave3.37 Type	0	4194304	Value	ValueOutput
+Wave3.38 X	0	4194304	Value	ValueOutput
+Wave3.38 Y	0	4194304	Value	ValueOutput
+Wave3.38 Type	0	4194304	Value	ValueOutput
+Wave3.39 X	0	4194304	Value	ValueOutput
+Wave3.39 Y	0	4194304	Value	ValueOutput
+Wave3.39 Type	0	4194304	Value	ValueOutput
+Wave3.40 X	0	4194304	Value	ValueOutput
+Wave3.40 Y	0	4194304	Value	ValueOutput
+Wave3.40 Type	0	4194304	Value	ValueOutput
+Wave4.21 X	0	4194304	Value	ValueOutput
+Wave4.21 Y	0	4194304	Value	ValueOutput
+Wave4.21 Type	0	4194304	Value	ValueOutput
+Wave4.22 X	0	4194304	Value	ValueOutput
+Wave4.22 Y	0	4194304	Value	ValueOutput
+Wave4.22 Type	0	4194304	Value	ValueOutput
+Wave4.23 X	0	4194304	Value	ValueOutput
+Wave4.23 Y	0	4194304	Value	ValueOutput
+Wave4.23 Type	0	4194304	Value	ValueOutput
+Wave4.24 X	0	4194304	Value	ValueOutput
+Wave4.24 Y	0	4194304	Value	ValueOutput
+Wave4.24 Type	0	4194304	Value	ValueOutput
+Wave4.25 X	0	4194304	Value	ValueOutput
+Wave4.25 Y	0	4194304	Value	ValueOutput
+Wave4.25 Type	0	4194304	Value	ValueOutput
+Wave4.26 X	0	4194304	Value	ValueOutput
+Wave4.26 Y	0	4194304	Value	ValueOutput
+Wave4.26 Type	0	4194304	Value	ValueOutput
+Wave4.27 X	0	4194304	Value	ValueOutput
+Wave4.27 Y	0	4194304	Value	ValueOutput
+Wave4.27 Type	0	4194304	Value	ValueOutput
+Wave4.28 X	0	4194304	Value	ValueOutput
+Wave4.28 Y	0	4194304	Value	ValueOutput
+Wave4.28 Type	0	4194304	Value	ValueOutput
+Wave4.29 X	0	4194304	Value	ValueOutput
+Wave4.29 Y	0	4194304	Value	ValueOutput
+Wave4.29 Type	0	4194304	Value	ValueOutput
+Wave4.30 X	0	4194304	Value	ValueOutput
+Wave4.30 Y	0	4194304	Value	ValueOutput
+Wave4.30 Type	0	4194304	Value	ValueOutput
+Wave4.31 X	0	4194304	Value	ValueOutput
+Wave4.31 Y	0	4194304	Value	ValueOutput
+Wave4.31 Type	0	4194304	Value	ValueOutput
+Wave4.32 X	0	4194304	Value	ValueOutput
+Wave4.32 Y	0	4194304	Value	ValueOutput
+Wave4.32 Type	0	4194304	Value	ValueOutput
+Wave4.33 X	0	4194304	Value	ValueOutput
+Wave4.33 Y	0	4194304	Value	ValueOutput
+Wave4.33 Type	0	4194304	Value	ValueOutput
+Wave4.34 X	0	4194304	Value	ValueOutput
+Wave4.34 Y	0	4194304	Value	ValueOutput
+Wave4.34 Type	0	4194304	Value	ValueOutput
+Wave4.35 X	0	4194304	Value	ValueOutput
+Wave4.35 Y	0	4194304	Value	ValueOutput
+Wave4.35 Type	0	4194304	Value	ValueOutput
+Wave4.36 X	0	4194304	Value	ValueOutput
+Wave4.36 Y	0	4194304	Value	ValueOutput
+Wave4.36 Type	0	4194304	Value	ValueOutput
+Wave4.37 X	0	4194304	Value	ValueOutput
+Wave4.37 Y	0	4194304	Value	ValueOutput
+Wave4.37 Type	0	4194304	Value	ValueOutput
+Wave4.38 X	0	4194304	Value	ValueOutput
+Wave4.38 Y	0	4194304	Value	ValueOutput
+Wave4.38 Type	0	4194304	Value	ValueOutput
+Wave4.39 X	0	4194304	Value	ValueOutput
+Wave4.39 Y	0	4194304	Value	ValueOutput
+Wave4.39 Type	0	4194304	Value	ValueOutput
+Wave4.40 X	0	4194304	Value	ValueOutput
+Wave4.40 Y	0	4194304	Value	ValueOutput
+Wave4.40 Type	0	4194304	Value	ValueOutput
+Wave5.21 X	0	4194304	Value	ValueOutput
+Wave5.21 Y	0	4194304	Value	ValueOutput
+Wave5.21 Type	0	4194304	Value	ValueOutput
+Wave5.22 X	0	4194304	Value	ValueOutput
+Wave5.22 Y	0	4194304	Value	ValueOutput
+Wave5.22 Type	0	4194304	Value	ValueOutput
+Wave5.23 X	0	4194304	Value	ValueOutput
+Wave5.23 Y	0	4194304	Value	ValueOutput
+Wave5.23 Type	0	4194304	Value	ValueOutput
+Wave5.24 X	0	4194304	Value	ValueOutput
+Wave5.24 Y	0	4194304	Value	ValueOutput
+Wave5.24 Type	0	4194304	Value	ValueOutput
+Wave5.25 X	0	4194304	Value	ValueOutput
+Wave5.25 Y	0	4194304	Value	ValueOutput
+Wave5.25 Type	0	4194304	Value	ValueOutput
+Wave5.26 X	0	4194304	Value	ValueOutput
+Wave5.26 Y	0	4194304	Value	ValueOutput
+Wave5.26 Type	0	4194304	Value	ValueOutput
+Wave5.27 X	0	4194304	Value	ValueOutput
+Wave5.27 Y	0	4194304	Value	ValueOutput
+Wave5.27 Type	0	4194304	Value	ValueOutput
+Wave5.28 X	0	4194304	Value	ValueOutput
+Wave5.28 Y	0	4194304	Value	ValueOutput
+Wave5.28 Type	0	4194304	Value	ValueOutput
+Wave5.29 X	0	4194304	Value	ValueOutput
+Wave5.29 Y	0	4194304	Value	ValueOutput
+Wave5.29 Type	0	4194304	Value	ValueOutput
+Wave5.30 X	0	4194304	Value	ValueOutput
+Wave5.30 Y	0	4194304	Value	ValueOutput
+Wave5.30 Type	0	4194304	Value	ValueOutput
+Wave5.31 X	0	4194304	Value	ValueOutput
+Wave5.31 Y	0	4194304	Value	ValueOutput
+Wave5.31 Type	0	4194304	Value	ValueOutput
+Wave5.32 X	0	4194304	Value	ValueOutput
+Wave5.32 Y	0	4194304	Value	ValueOutput
+Wave5.32 Type	0	4194304	Value	ValueOutput
+Wave5.33 X	0	4194304	Value	ValueOutput
+Wave5.33 Y	0	4194304	Value	ValueOutput
+Wave5.33 Type	0	4194304	Value	ValueOutput
+Wave5.34 X	0	4194304	Value	ValueOutput
+Wave5.34 Y	0	4194304	Value	ValueOutput
+Wave5.34 Type	0	4194304	Value	ValueOutput
+Wave5.35 X	0	4194304	Value	ValueOutput
+Wave5.35 Y	0	4194304	Value	ValueOutput
+Wave5.35 Type	0	4194304	Value	ValueOutput
+Wave5.36 X	0	4194304	Value	ValueOutput
+Wave5.36 Y	0	4194304	Value	ValueOutput
+Wave5.36 Type	0	4194304	Value	ValueOutput
+Wave5.37 X	0	4194304	Value	ValueOutput
+Wave5.37 Y	0	4194304	Value	ValueOutput
+Wave5.37 Type	0	4194304	Value	ValueOutput
+Wave5.38 X	0	4194304	Value	ValueOutput
+Wave5.38 Y	0	4194304	Value	ValueOutput
+Wave5.38 Type	0	4194304	Value	ValueOutput
+Wave5.39 X	0	4194304	Value	ValueOutput
+Wave5.39 Y	0	4194304	Value	ValueOutput
+Wave5.39 Type	0	4194304	Value	ValueOutput
+Wave5.40 X	0	4194304	Value	ValueOutput
+Wave5.40 Y	0	4194304	Value	ValueOutput
+Wave5.40 Type	0	4194304	Value	ValueOutput
+Wave6.21 X	0	4194304	Value	ValueOutput
+Wave6.21 Y	0	4194304	Value	ValueOutput
+Wave6.21 Type	0	4194304	Value	ValueOutput
+Wave6.22 X	0	4194304	Value	ValueOutput
+Wave6.22 Y	0	4194304	Value	ValueOutput
+Wave6.22 Type	0	4194304	Value	ValueOutput
+Wave6.23 X	0	4194304	Value	ValueOutput
+Wave6.23 Y	0	4194304	Value	ValueOutput
+Wave6.23 Type	0	4194304	Value	ValueOutput
+Wave6.24 X	0	4194304	Value	ValueOutput
+Wave6.24 Y	0	4194304	Value	ValueOutput
+Wave6.24 Type	0	4194304	Value	ValueOutput
+Wave6.25 X	0	4194304	Value	ValueOutput
+Wave6.25 Y	0	4194304	Value	ValueOutput
+Wave6.25 Type	0	4194304	Value	ValueOutput
+Wave6.26 X	0	4194304	Value	ValueOutput
+Wave6.26 Y	0	4194304	Value	ValueOutput
+Wave6.26 Type	0	4194304	Value	ValueOutput
+Wave6.27 X	0	4194304	Value	ValueOutput
+Wave6.27 Y	0	4194304	Value	ValueOutput
+Wave6.27 Type	0	4194304	Value	ValueOutput
+Wave6.28 X	0	4194304	Value	ValueOutput
+Wave6.28 Y	0	4194304	Value	ValueOutput
+Wave6.28 Type	0	4194304	Value	ValueOutput
+Wave6.29 X	0	4194304	Value	ValueOutput
+Wave6.29 Y	0	4194304	Value	ValueOutput
+Wave6.29 Type	0	4194304	Value	ValueOutput
+Wave6.30 X	0	4194304	Value	ValueOutput
+Wave6.30 Y	0	4194304	Value	ValueOutput
+Wave6.30 Type	0	4194304	Value	ValueOutput
+Wave6.31 X	0	4194304	Value	ValueOutput
+Wave6.31 Y	0	4194304	Value	ValueOutput
+Wave6.31 Type	0	4194304	Value	ValueOutput
+Wave6.32 X	0	4194304	Value	ValueOutput
+Wave6.32 Y	0	4194304	Value	ValueOutput
+Wave6.32 Type	0	4194304	Value	ValueOutput
+Wave6.33 X	0	4194304	Value	ValueOutput
+Wave6.33 Y	0	4194304	Value	ValueOutput
+Wave6.33 Type	0	4194304	Value	ValueOutput
+Wave6.34 X	0	4194304	Value	ValueOutput
+Wave6.34 Y	0	4194304	Value	ValueOutput
+Wave6.34 Type	0	4194304	Value	ValueOutput
+Wave6.35 X	0	4194304	Value	ValueOutput
+Wave6.35 Y	0	4194304	Value	ValueOutput
+Wave6.35 Type	0	4194304	Value	ValueOutput
+Wave6.36 X	0	4194304	Value	ValueOutput
+Wave6.36 Y	0	4194304	Value	ValueOutput
+Wave6.36 Type	0	4194304	Value	ValueOutput
+Wave6.37 X	0	4194304	Value	ValueOutput
+Wave6.37 Y	0	4194304	Value	ValueOutput
+Wave6.37 Type	0	4194304	Value	ValueOutput
+Wave6.38 X	0	4194304	Value	ValueOutput
+Wave6.38 Y	0	4194304	Value	ValueOutput
+Wave6.38 Type	0	4194304	Value	ValueOutput
+Wave6.39 X	0	4194304	Value	ValueOutput
+Wave6.39 Y	0	4194304	Value	ValueOutput
+Wave6.39 Type	0	4194304	Value	ValueOutput
+Wave6.40 X	0	4194304	Value	ValueOutput
+Wave6.40 Y	0	4194304	Value	ValueOutput
+Wave6.40 Type	0	4194304	Value	ValueOutput
+Wave7.21 X	0	4194304	Value	ValueOutput
+Wave7.21 Y	0	4194304	Value	ValueOutput
+Wave7.21 Type	0	4194304	Value	ValueOutput
+Wave7.22 X	0	4194304	Value	ValueOutput
+Wave7.22 Y	0	4194304	Value	ValueOutput
+Wave7.22 Type	0	4194304	Value	ValueOutput
+Wave7.23 X	0	4194304	Value	ValueOutput
+Wave7.23 Y	0	4194304	Value	ValueOutput
+Wave7.23 Type	0	4194304	Value	ValueOutput
+Wave7.24 X	0	4194304	Value	ValueOutput
+Wave7.24 Y	0	4194304	Value	ValueOutput
+Wave7.24 Type	0	4194304	Value	ValueOutput
+Wave7.25 X	0	4194304	Value	ValueOutput
+Wave7.25 Y	0	4194304	Value	ValueOutput
+Wave7.25 Type	0	4194304	Value	ValueOutput
+Wave7.26 X	0	4194304	Value	ValueOutput
+Wave7.26 Y	0	4194304	Value	ValueOutput
+Wave7.26 Type	0	4194304	Value	ValueOutput
+Wave7.27 X	0	4194304	Value	ValueOutput
+Wave7.27 Y	0	4194304	Value	ValueOutput
+Wave7.27 Type	0	4194304	Value	ValueOutput
+Wave7.28 X	0	4194304	Value	ValueOutput
+Wave7.28 Y	0	4194304	Value	ValueOutput
+Wave7.28 Type	0	4194304	Value	ValueOutput
+Wave7.29 X	0	4194304	Value	ValueOutput
+Wave7.29 Y	0	4194304	Value	ValueOutput
+Wave7.29 Type	0	4194304	Value	ValueOutput
+Wave7.30 X	0	4194304	Value	ValueOutput
+Wave7.30 Y	0	4194304	Value	ValueOutput
+Wave7.30 Type	0	4194304	Value	ValueOutput
+Wave7.31 X	0	4194304	Value	ValueOutput
+Wave7.31 Y	0	4194304	Value	ValueOutput
+Wave7.31 Type	0	4194304	Value	ValueOutput
+Wave7.32 X	0	4194304	Value	ValueOutput
+Wave7.32 Y	0	4194304	Value	ValueOutput
+Wave7.32 Type	0	4194304	Value	ValueOutput
+Wave7.33 X	0	4194304	Value	ValueOutput
+Wave7.33 Y	0	4194304	Value	ValueOutput
+Wave7.33 Type	0	4194304	Value	ValueOutput
+Wave7.34 X	0	4194304	Value	ValueOutput
+Wave7.34 Y	0	4194304	Value	ValueOutput
+Wave7.34 Type	0	4194304	Value	ValueOutput
+Wave7.35 X	0	4194304	Value	ValueOutput
+Wave7.35 Y	0	4194304	Value	ValueOutput
+Wave7.35 Type	0	4194304	Value	ValueOutput
+Wave7.36 X	0	4194304	Value	ValueOutput
+Wave7.36 Y	0	4194304	Value	ValueOutput
+Wave7.36 Type	0	4194304	Value	ValueOutput
+Wave7.37 X	0	4194304	Value	ValueOutput
+Wave7.37 Y	0	4194304	Value	ValueOutput
+Wave7.37 Type	0	4194304	Value	ValueOutput
+Wave7.38 X	0	4194304	Value	ValueOutput
+Wave7.38 Y	0	4194304	Value	ValueOutput
+Wave7.38 Type	0	4194304	Value	ValueOutput
+Wave7.39 X	0	4194304	Value	ValueOutput
+Wave7.39 Y	0	4194304	Value	ValueOutput
+Wave7.39 Type	0	4194304	Value	ValueOutput
+Wave7.40 X	0	4194304	Value	ValueOutput
+Wave7.40 Y	0	4194304	Value	ValueOutput
+Wave7.40 Type	0	4194304	Value	ValueOutput
+Wave8.21 X	0	4194304	Value	ValueOutput
+Wave8.21 Y	0	4194304	Value	ValueOutput
+Wave8.21 Type	0	4194304	Value	ValueOutput
+Wave8.22 X	0	4194304	Value	ValueOutput
+Wave8.22 Y	0	4194304	Value	ValueOutput
+Wave8.22 Type	0	4194304	Value	ValueOutput
+Wave8.23 X	0	4194304	Value	ValueOutput
+Wave8.23 Y	0	4194304	Value	ValueOutput
+Wave8.23 Type	0	4194304	Value	ValueOutput
+Wave8.24 X	0	4194304	Value	ValueOutput
+Wave8.24 Y	0	4194304	Value	ValueOutput
+Wave8.24 Type	0	4194304	Value	ValueOutput
+Wave8.25 X	0	4194304	Value	ValueOutput
+Wave8.25 Y	0	4194304	Value	ValueOutput
+Wave8.25 Type	0	4194304	Value	ValueOutput
+Wave8.26 X	0	4194304	Value	ValueOutput
+Wave8.26 Y	0	4194304	Value	ValueOutput
+Wave8.26 Type	0	4194304	Value	ValueOutput
+Wave8.27 X	0	4194304	Value	ValueOutput
+Wave8.27 Y	0	4194304	Value	ValueOutput
+Wave8.27 Type	0	4194304	Value	ValueOutput
+Wave8.28 X	0	4194304	Value	ValueOutput
+Wave8.28 Y	0	4194304	Value	ValueOutput
+Wave8.28 Type	0	4194304	Value	ValueOutput
+Wave8.29 X	0	4194304	Value	ValueOutput
+Wave8.29 Y	0	4194304	Value	ValueOutput
+Wave8.29 Type	0	4194304	Value	ValueOutput
+Wave8.30 X	0	4194304	Value	ValueOutput
+Wave8.30 Y	0	4194304	Value	ValueOutput
+Wave8.30 Type	0	4194304	Value	ValueOutput
+Wave8.31 X	0	4194304	Value	ValueOutput
+Wave8.31 Y	0	4194304	Value	ValueOutput
+Wave8.31 Type	0	4194304	Value	ValueOutput
+Wave8.32 X	0	4194304	Value	ValueOutput
+Wave8.32 Y	0	4194304	Value	ValueOutput
+Wave8.32 Type	0	4194304	Value	ValueOutput
+Wave8.33 X	0	4194304	Value	ValueOutput
+Wave8.33 Y	0	4194304	Value	ValueOutput
+Wave8.33 Type	0	4194304	Value	ValueOutput
+Wave8.34 X	0	4194304	Value	ValueOutput
+Wave8.34 Y	0	4194304	Value	ValueOutput
+Wave8.34 Type	0	4194304	Value	ValueOutput
+Wave8.35 X	0	4194304	Value	ValueOutput
+Wave8.35 Y	0	4194304	Value	ValueOutput
+Wave8.35 Type	0	4194304	Value	ValueOutput
+Wave8.36 X	0	4194304	Value	ValueOutput
+Wave8.36 Y	0	4194304	Value	ValueOutput
+Wave8.36 Type	0	4194304	Value	ValueOutput
+Wave8.37 X	0	4194304	Value	ValueOutput
+Wave8.37 Y	0	4194304	Value	ValueOutput
+Wave8.37 Type	0	4194304	Value	ValueOutput
+Wave8.38 X	0	4194304	Value	ValueOutput
+Wave8.38 Y	0	4194304	Value	ValueOutput
+Wave8.38 Type	0	4194304	Value	ValueOutput
+Wave8.39 X	0	4194304	Value	ValueOutput
+Wave8.39 Y	0	4194304	Value	ValueOutput
+Wave8.39 Type	0	4194304	Value	ValueOutput
+Wave8.40 X	0	4194304	Value	ValueOutput
+Wave8.40 Y	0	4194304	Value	ValueOutput
+Wave8.40 Type	0	4194304	Value	ValueOutput
+Wave9.21 X	0	4194304	Value	ValueOutput
+Wave9.21 Y	0	4194304	Value	ValueOutput
+Wave9.21 Type	0	4194304	Value	ValueOutput
+Wave9.22 X	0	4194304	Value	ValueOutput
+Wave9.22 Y	0	4194304	Value	ValueOutput
+Wave9.22 Type	0	4194304	Value	ValueOutput
+Wave9.23 X	0	4194304	Value	ValueOutput
+Wave9.23 Y	0	4194304	Value	ValueOutput
+Wave9.23 Type	0	4194304	Value	ValueOutput
+Wave9.24 X	0	4194304	Value	ValueOutput
+Wave9.24 Y	0	4194304	Value	ValueOutput
+Wave9.24 Type	0	4194304	Value	ValueOutput
+Wave9.25 X	0	4194304	Value	ValueOutput
+Wave9.25 Y	0	4194304	Value	ValueOutput
+Wave9.25 Type	0	4194304	Value	ValueOutput
+Wave9.26 X	0	4194304	Value	ValueOutput
+Wave9.26 Y	0	4194304	Value	ValueOutput
+Wave9.26 Type	0	4194304	Value	ValueOutput
+Wave9.27 X	0	4194304	Value	ValueOutput
+Wave9.27 Y	0	4194304	Value	ValueOutput
+Wave9.27 Type	0	4194304	Value	ValueOutput
+Wave9.28 X	0	4194304	Value	ValueOutput
+Wave9.28 Y	0	4194304	Value	ValueOutput
+Wave9.28 Type	0	4194304	Value	ValueOutput
+Wave9.29 X	0	4194304	Value	ValueOutput
+Wave9.29 Y	0	4194304	Value	ValueOutput
+Wave9.29 Type	0	4194304	Value	ValueOutput
+Wave9.30 X	0	4194304	Value	ValueOutput
+Wave9.30 Y	0	4194304	Value	ValueOutput
+Wave9.30 Type	0	4194304	Value	ValueOutput
+Wave9.31 X	0	4194304	Value	ValueOutput
+Wave9.31 Y	0	4194304	Value	ValueOutput
+Wave9.31 Type	0	4194304	Value	ValueOutput
+Wave9.32 X	0	4194304	Value	ValueOutput
+Wave9.32 Y	0	4194304	Value	ValueOutput
+Wave9.32 Type	0	4194304	Value	ValueOutput
+Wave9.33 X	0	4194304	Value	ValueOutput
+Wave9.33 Y	0	4194304	Value	ValueOutput
+Wave9.33 Type	0	4194304	Value	ValueOutput
+Wave9.34 X	0	4194304	Value	ValueOutput
+Wave9.34 Y	0	4194304	Value	ValueOutput
+Wave9.34 Type	0	4194304	Value	ValueOutput
+Wave9.35 X	0	4194304	Value	ValueOutput
+Wave9.35 Y	0	4194304	Value	ValueOutput
+Wave9.35 Type	0	4194304	Value	ValueOutput
+Wave9.36 X	0	4194304	Value	ValueOutput
+Wave9.36 Y	0	4194304	Value	ValueOutput
+Wave9.36 Type	0	4194304	Value	ValueOutput
+Wave9.37 X	0	4194304	Value	ValueOutput
+Wave9.37 Y	0	4194304	Value	ValueOutput
+Wave9.37 Type	0	4194304	Value	ValueOutput
+Wave9.38 X	0	4194304	Value	ValueOutput
+Wave9.38 Y	0	4194304	Value	ValueOutput
+Wave9.38 Type	0	4194304	Value	ValueOutput
+Wave9.39 X	0	4194304	Value	ValueOutput
+Wave9.39 Y	0	4194304	Value	ValueOutput
+Wave9.39 Type	0	4194304	Value	ValueOutput
+Wave9.40 X	0	4194304	Value	ValueOutput
+Wave9.40 Y	0	4194304	Value	ValueOutput
+Wave9.40 Type	0	4194304	Value	ValueOutput
+Wave10.21 X	0	4194304	Value	ValueOutput
+Wave10.21 Y	0	4194304	Value	ValueOutput
+Wave10.21 Type	0	4194304	Value	ValueOutput
+Wave10.22 X	0	4194304	Value	ValueOutput
+Wave10.22 Y	0	4194304	Value	ValueOutput
+Wave10.22 Type	0	4194304	Value	ValueOutput
+Wave10.23 X	0	4194304	Value	ValueOutput
+Wave10.23 Y	0	4194304	Value	ValueOutput
+Wave10.23 Type	0	4194304	Value	ValueOutput
+Wave10.24 X	0	4194304	Value	ValueOutput
+Wave10.24 Y	0	4194304	Value	ValueOutput
+Wave10.24 Type	0	4194304	Value	ValueOutput
+Wave10.25 X	0	4194304	Value	ValueOutput
+Wave10.25 Y	0	4194304	Value	ValueOutput
+Wave10.25 Type	0	4194304	Value	ValueOutput
+Wave10.26 X	0	4194304	Value	ValueOutput
+Wave10.26 Y	0	4194304	Value	ValueOutput
+Wave10.26 Type	0	4194304	Value	ValueOutput
+Wave10.27 X	0	4194304	Value	ValueOutput
+Wave10.27 Y	0	4194304	Value	ValueOutput
+Wave10.27 Type	0	4194304	Value	ValueOutput
+Wave10.28 X	0	4194304	Value	ValueOutput
+Wave10.28 Y	0	4194304	Value	ValueOutput
+Wave10.28 Type	0	4194304	Value	ValueOutput
+Wave10.29 X	0	4194304	Value	ValueOutput
+Wave10.29 Y	0	4194304	Value	ValueOutput
+Wave10.29 Type	0	4194304	Value	ValueOutput
+Wave10.30 X	0	4194304	Value	ValueOutput
+Wave10.30 Y	0	4194304	Value	ValueOutput
+Wave10.30 Type	0	4194304	Value	ValueOutput
+Wave10.31 X	0	4194304	Value	ValueOutput
+Wave10.31 Y	0	4194304	Value	ValueOutput
+Wave10.31 Type	0	4194304	Value	ValueOutput
+Wave10.32 X	0	4194304	Value	ValueOutput
+Wave10.32 Y	0	4194304	Value	ValueOutput
+Wave10.32 Type	0	4194304	Value	ValueOutput
+Wave10.33 X	0	4194304	Value	ValueOutput
+Wave10.33 Y	0	4194304	Value	ValueOutput
+Wave10.33 Type	0	4194304	Value	ValueOutput
+Wave10.34 X	0	4194304	Value	ValueOutput
+Wave10.34 Y	0	4194304	Value	ValueOutput
+Wave10.34 Type	0	4194304	Value	ValueOutput
+Wave10.35 X	0	4194304	Value	ValueOutput
+Wave10.35 Y	0	4194304	Value	ValueOutput
+Wave10.35 Type	0	4194304	Value	ValueOutput
+Wave10.36 X	0	4194304	Value	ValueOutput
+Wave10.36 Y	0	4194304	Value	ValueOutput
+Wave10.36 Type	0	4194304	Value	ValueOutput
+Wave10.37 X	0	4194304	Value	ValueOutput
+Wave10.37 Y	0	4194304	Value	ValueOutput
+Wave10.37 Type	0	4194304	Value	ValueOutput
+Wave10.38 X	0	4194304	Value	ValueOutput
+Wave10.38 Y	0	4194304	Value	ValueOutput
+Wave10.38 Type	0	4194304	Value	ValueOutput
+Wave10.39 X	0	4194304	Value	ValueOutput
+Wave10.39 Y	0	4194304	Value	ValueOutput
+Wave10.39 Type	0	4194304	Value	ValueOutput
+Wave10.40 X	0	4194304	Value	ValueOutput
+Wave10.40 Y	0	4194304	Value	ValueOutput
+Wave10.40 Type	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+VolEG Attack 1 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+VolEG Attack 2 	0	4194304	Value	ValueOutput
+VolEG Attack 2 	0	4194304	Value	ValueOutput
+VolEG Attack 2 	0	4194304	Value	ValueOutput
+VolEG Attack 3 	0	4194304	Value	ValueOutput
+VolEG Attack 3 	0	4194304	Value	ValueOutput
+VolEG Attack 3 	0	4194304	Value	ValueOutput
+VolEG Attack 4 	0	4194304	Value	ValueOutput
+VolEG Attack 4 	0	4194304	Value	ValueOutput
+VolEG Attack 4 	0	4194304	Value	ValueOutput
+VolEG Attack 5 	0	4194304	Value	ValueOutput
+VolEG Attack 5 	0	4194304	Value	ValueOutput
+VolEG Attack 5 	0	4194304	Value	ValueOutput
+VolEG Attack 6 	0	4194304	Value	ValueOutput
+VolEG Attack 6 	0	4194304	Value	ValueOutput
+VolEG Attack 6 	0	4194304	Value	ValueOutput
+VolEG Attack 7 	0	4194304	Value	ValueOutput
+VolEG Attack 7 	0	4194304	Value	ValueOutput
+VolEG Attack 7 	0	4194304	Value	ValueOutput
+VolEG Attack 8 	0	4194304	Value	ValueOutput
+VolEG Attack 8 	0	4194304	Value	ValueOutput
+VolEG Attack 8 	0	4194304	Value	ValueOutput
+VolEG Attack 9 	0	4194304	Value	ValueOutput
+VolEG Attack 9 	0	4194304	Value	ValueOutput
+VolEG Attack 9 	0	4194304	Value	ValueOutput
+VolEG Attack 10	0	4194304	Value	ValueOutput
+VolEG Attack 10	0	4194304	Value	ValueOutput
+VolEG Attack 10	0	4194304	Value	ValueOutput
+VolEG Attack 11	0	4194304	Value	ValueOutput
+VolEG Attack 11	0	4194304	Value	ValueOutput
+VolEG Attack 11	0	4194304	Value	ValueOutput
+VolEG Attack 12	0	4194304	Value	ValueOutput
+VolEG Attack 12	0	4194304	Value	ValueOutput
+VolEG Attack 12	0	4194304	Value	ValueOutput
+VolEG Attack 13	0	4194304	Value	ValueOutput
+VolEG Attack 13	0	4194304	Value	ValueOutput
+VolEG Attack 13	0	4194304	Value	ValueOutput
+VolEG Attack 14	0	4194304	Value	ValueOutput
+VolEG Attack 14	0	4194304	Value	ValueOutput
+VolEG Attack 14	0	4194304	Value	ValueOutput
+VolEG Attack 15	0	4194304	Value	ValueOutput
+VolEG Attack 15	0	4194304	Value	ValueOutput
+VolEG Attack 15	0	4194304	Value	ValueOutput
+VolEG Attack 16	0	4194304	Value	ValueOutput
+VolEG Attack 16	0	4194304	Value	ValueOutput
+VolEG Attack 16	0	4194304	Value	ValueOutput
+VolEG Attack 17	0	4194304	Value	ValueOutput
+VolEG Attack 17	0	4194304	Value	ValueOutput
+VolEG Attack 17	0	4194304	Value	ValueOutput
+VolEG Attack 18	0	4194304	Value	ValueOutput
+VolEG Attack 18	0	4194304	Value	ValueOutput
+VolEG Attack 18	0	4194304	Value	ValueOutput
+VolEG Attack 19	0	4194304	Value	ValueOutput
+VolEG Attack 19	0	4194304	Value	ValueOutput
+VolEG Attack 19	0	4194304	Value	ValueOutput
+VolEG Attack 20	0	4194304	Value	ValueOutput
+VolEG Attack 20	0	4194304	Value	ValueOutput
+VolEG Attack 20	0	4194304	Value	ValueOutput
+VolEG Attack 21	0	4194304	Value	ValueOutput
+VolEG Attack 21	0	4194304	Value	ValueOutput
+VolEG Attack 21	0	4194304	Value	ValueOutput
+VolEG Attack 22	0	4194304	Value	ValueOutput
+VolEG Attack 22	0	4194304	Value	ValueOutput
+VolEG Attack 22	0	4194304	Value	ValueOutput
+VolEG Attack 23	0	4194304	Value	ValueOutput
+VolEG Attack 23	0	4194304	Value	ValueOutput
+VolEG Attack 23	0	4194304	Value	ValueOutput
+VolEG Attack 24	0	4194304	Value	ValueOutput
+VolEG Attack 24	0	4194304	Value	ValueOutput
+VolEG Attack 24	0	4194304	Value	ValueOutput
+VolEG Attack 25	0	4194304	Value	ValueOutput
+VolEG Attack 25	0	4194304	Value	ValueOutput
+VolEG Attack 25	0	4194304	Value	ValueOutput
+VolEG Attack 26	0	4194304	Value	ValueOutput
+VolEG Attack 26	0	4194304	Value	ValueOutput
+VolEG Attack 26	0	4194304	Value	ValueOutput
+VolEG Attack 27	0	4194304	Value	ValueOutput
+VolEG Attack 27	0	4194304	Value	ValueOutput
+VolEG Attack 27	0	4194304	Value	ValueOutput
+VolEG Attack 28	0	4194304	Value	ValueOutput
+VolEG Attack 28	0	4194304	Value	ValueOutput
+VolEG Attack 28	0	4194304	Value	ValueOutput
+VolEG Attack 29	0	4194304	Value	ValueOutput
+VolEG Attack 29	0	4194304	Value	ValueOutput
+VolEG Attack 29	0	4194304	Value	ValueOutput
+VolEG Attack 30	0	4194304	Value	ValueOutput
+VolEG Attack 30	0	4194304	Value	ValueOutput
+VolEG Attack 30	0	4194304	Value	ValueOutput
+VolEG Attack 31	0	4194304	Value	ValueOutput
+VolEG Attack 31	0	4194304	Value	ValueOutput
+VolEG Attack 31	0	4194304	Value	ValueOutput
+VolEG Attack 32	0	4194304	Value	ValueOutput
+VolEG Attack 32	0	4194304	Value	ValueOutput
+VolEG Attack 32	0	4194304	Value	ValueOutput
+VolEG Attack 33	0	4194304	Value	ValueOutput
+VolEG Attack 33	0	4194304	Value	ValueOutput
+VolEG Attack 33	0	4194304	Value	ValueOutput
+VolEG Attack 34	0	4194304	Value	ValueOutput
+VolEG Attack 34	0	4194304	Value	ValueOutput
+VolEG Attack 34	0	4194304	Value	ValueOutput
+VolEG Attack 35	0	4194304	Value	ValueOutput
+VolEG Attack 35	0	4194304	Value	ValueOutput
+VolEG Attack 35	0	4194304	Value	ValueOutput
+VolEG Attack 36	0	4194304	Value	ValueOutput
+VolEG Attack 36	0	4194304	Value	ValueOutput
+VolEG Attack 36	0	4194304	Value	ValueOutput
+VolEG Attack 37	0	4194304	Value	ValueOutput
+VolEG Attack 37	0	4194304	Value	ValueOutput
+VolEG Attack 37	0	4194304	Value	ValueOutput
+VolEG Attack 38	0	4194304	Value	ValueOutput
+VolEG Attack 38	0	4194304	Value	ValueOutput
+VolEG Attack 38	0	4194304	Value	ValueOutput
+VolEG Attack 39	0	4194304	Value	ValueOutput
+VolEG Attack 39	0	4194304	Value	ValueOutput
+VolEG Attack 39	0	4194304	Value	ValueOutput
+VolEG Attack 40	0	4194304	Value	ValueOutput
+VolEG Attack 40	0	4194304	Value	ValueOutput
+VolEG Attack 40	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+VolEG Decay 1 Y	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+VolEG Decay 2 X	0	4194304	Value	ValueOutput
+VolEG Decay 2 Y	0	4194304	Value	ValueOutput
+VolEG Decay 2 T	0	4194304	Value	ValueOutput
+VolEG Decay 3 X	0	4194304	Value	ValueOutput
+VolEG Decay 3 Y	0	4194304	Value	ValueOutput
+VolEG Decay 3 T	0	4194304	Value	ValueOutput
+VolEG Decay 4 X	0	4194304	Value	ValueOutput
+VolEG Decay 4 Y	0	4194304	Value	ValueOutput
+VolEG Decay 4 T	0	4194304	Value	ValueOutput
+VolEG Decay 5 X	0	4194304	Value	ValueOutput
+VolEG Decay 5 Y	0	4194304	Value	ValueOutput
+VolEG Decay 5 T	0	4194304	Value	ValueOutput
+VolEG Decay 6 X	0	4194304	Value	ValueOutput
+VolEG Decay 6 Y	0	4194304	Value	ValueOutput
+VolEG Decay 6 T	0	4194304	Value	ValueOutput
+VolEG Decay 7 X	0	4194304	Value	ValueOutput
+VolEG Decay 7 Y	0	4194304	Value	ValueOutput
+VolEG Decay 7 T	0	4194304	Value	ValueOutput
+VolEG Decay 8 X	0	4194304	Value	ValueOutput
+VolEG Decay 8 Y	0	4194304	Value	ValueOutput
+VolEG Decay 8 T	0	4194304	Value	ValueOutput
+VolEG Decay 9 X	0	4194304	Value	ValueOutput
+VolEG Decay 9 Y	0	4194304	Value	ValueOutput
+VolEG Decay 9 T	0	4194304	Value	ValueOutput
+VolEG Decay 10 	0	4194304	Value	ValueOutput
+VolEG Decay 10 	0	4194304	Value	ValueOutput
+VolEG Decay 10 	0	4194304	Value	ValueOutput
+VolEG Decay 11 	0	4194304	Value	ValueOutput
+VolEG Decay 11 	0	4194304	Value	ValueOutput
+VolEG Decay 11 	0	4194304	Value	ValueOutput
+VolEG Decay 12 	0	4194304	Value	ValueOutput
+VolEG Decay 12 	0	4194304	Value	ValueOutput
+VolEG Decay 12 	0	4194304	Value	ValueOutput
+VolEG Decay 13 	0	4194304	Value	ValueOutput
+VolEG Decay 13 	0	4194304	Value	ValueOutput
+VolEG Decay 13 	0	4194304	Value	ValueOutput
+VolEG Decay 14 	0	4194304	Value	ValueOutput
+VolEG Decay 14 	0	4194304	Value	ValueOutput
+VolEG Decay 14 	0	4194304	Value	ValueOutput
+VolEG Decay 15 	0	4194304	Value	ValueOutput
+VolEG Decay 15 	0	4194304	Value	ValueOutput
+VolEG Decay 15 	0	4194304	Value	ValueOutput
+VolEG Decay 16 	0	4194304	Value	ValueOutput
+VolEG Decay 16 	0	4194304	Value	ValueOutput
+VolEG Decay 16 	0	4194304	Value	ValueOutput
+VolEG Decay 17 	0	4194304	Value	ValueOutput
+VolEG Decay 17 	0	4194304	Value	ValueOutput
+VolEG Decay 17 	0	4194304	Value	ValueOutput
+VolEG Decay 18 	0	4194304	Value	ValueOutput
+VolEG Decay 18 	0	4194304	Value	ValueOutput
+VolEG Decay 18 	0	4194304	Value	ValueOutput
+VolEG Decay 19 	0	4194304	Value	ValueOutput
+VolEG Decay 19 	0	4194304	Value	ValueOutput
+VolEG Decay 19 	0	4194304	Value	ValueOutput
+VolEG Decay 20 	0	4194304	Value	ValueOutput
+VolEG Decay 20 	0	4194304	Value	ValueOutput
+VolEG Decay 20 	0	4194304	Value	ValueOutput
+VolEG Decay 21 	0	4194304	Value	ValueOutput
+VolEG Decay 21 	0	4194304	Value	ValueOutput
+VolEG Decay 21 	0	4194304	Value	ValueOutput
+VolEG Decay 22 	0	4194304	Value	ValueOutput
+VolEG Decay 22 	0	4194304	Value	ValueOutput
+VolEG Decay 22 	0	4194304	Value	ValueOutput
+VolEG Decay 23 	0	4194304	Value	ValueOutput
+VolEG Decay 23 	0	4194304	Value	ValueOutput
+VolEG Decay 23 	0	4194304	Value	ValueOutput
+VolEG Decay 24 	0	4194304	Value	ValueOutput
+VolEG Decay 24 	0	4194304	Value	ValueOutput
+VolEG Decay 24 	0	4194304	Value	ValueOutput
+VolEG Decay 25 	0	4194304	Value	ValueOutput
+VolEG Decay 25 	0	4194304	Value	ValueOutput
+VolEG Decay 25 	0	4194304	Value	ValueOutput
+VolEG Decay 26 	0	4194304	Value	ValueOutput
+VolEG Decay 26 	0	4194304	Value	ValueOutput
+VolEG Decay 26 	0	4194304	Value	ValueOutput
+VolEG Decay 27 	0	4194304	Value	ValueOutput
+VolEG Decay 27 	0	4194304	Value	ValueOutput
+VolEG Decay 27 	0	4194304	Value	ValueOutput
+VolEG Decay 28 	0	4194304	Value	ValueOutput
+VolEG Decay 28 	0	4194304	Value	ValueOutput
+VolEG Decay 28 	0	4194304	Value	ValueOutput
+VolEG Decay 29 	0	4194304	Value	ValueOutput
+VolEG Decay 29 	0	4194304	Value	ValueOutput
+VolEG Decay 29 	0	4194304	Value	ValueOutput
+VolEG Decay 30 	0	4194304	Value	ValueOutput
+VolEG Decay 30 	0	4194304	Value	ValueOutput
+VolEG Decay 30 	0	4194304	Value	ValueOutput
+VolEG Decay 31 	0	4194304	Value	ValueOutput
+VolEG Decay 31 	0	4194304	Value	ValueOutput
+VolEG Decay 31 	0	4194304	Value	ValueOutput
+VolEG Decay 32 	0	4194304	Value	ValueOutput
+VolEG Decay 32 	0	4194304	Value	ValueOutput
+VolEG Decay 32 	0	4194304	Value	ValueOutput
+VolEG Decay 33 	0	4194304	Value	ValueOutput
+VolEG Decay 33 	0	4194304	Value	ValueOutput
+VolEG Decay 33 	0	4194304	Value	ValueOutput
+VolEG Decay 34 	0	4194304	Value	ValueOutput
+VolEG Decay 34 	0	4194304	Value	ValueOutput
+VolEG Decay 34 	0	4194304	Value	ValueOutput
+VolEG Decay 35 	0	4194304	Value	ValueOutput
+VolEG Decay 35 	0	4194304	Value	ValueOutput
+VolEG Decay 35 	0	4194304	Value	ValueOutput
+VolEG Decay 36 	0	4194304	Value	ValueOutput
+VolEG Decay 36 	0	4194304	Value	ValueOutput
+VolEG Decay 36 	0	4194304	Value	ValueOutput
+VolEG Decay 37 	0	4194304	Value	ValueOutput
+VolEG Decay 37 	0	4194304	Value	ValueOutput
+VolEG Decay 37 	0	4194304	Value	ValueOutput
+VolEG Decay 38 	0	4194304	Value	ValueOutput
+VolEG Decay 38 	0	4194304	Value	ValueOutput
+VolEG Decay 38 	0	4194304	Value	ValueOutput
+VolEG Decay 39 	0	4194304	Value	ValueOutput
+VolEG Decay 39 	0	4194304	Value	ValueOutput
+VolEG Decay 39 	0	4194304	Value	ValueOutput
+VolEG Decay 40 	0	4194304	Value	ValueOutput
+VolEG Decay 40 	0	4194304	Value	ValueOutput
+VolEG Decay 40 	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+VolEG Loop 1 Y	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+VolEG Loop 2 X	0	4194304	Value	ValueOutput
+VolEG Loop 2 Y	0	4194304	Value	ValueOutput
+VolEG Loop 2 Ty	0	4194304	Value	ValueOutput
+VolEG Loop 3 X	0	4194304	Value	ValueOutput
+VolEG Loop 3 Y	0	4194304	Value	ValueOutput
+VolEG Loop 3 Ty	0	4194304	Value	ValueOutput
+VolEG Loop 4 X	0	4194304	Value	ValueOutput
+VolEG Loop 4 Y	0	4194304	Value	ValueOutput
+VolEG Loop 4 Ty	0	4194304	Value	ValueOutput
+VolEG Loop 5 X	0	4194304	Value	ValueOutput
+VolEG Loop 5 Y	0	4194304	Value	ValueOutput
+VolEG Loop 5 Ty	0	4194304	Value	ValueOutput
+VolEG Loop 6 X	0	4194304	Value	ValueOutput
+VolEG Loop 6 Y	0	4194304	Value	ValueOutput
+VolEG Loop 6 Ty	0	4194304	Value	ValueOutput
+VolEG Loop 7 X	0	4194304	Value	ValueOutput
+VolEG Loop 7 Y	0	4194304	Value	ValueOutput
+VolEG Loop 7 Ty	0	4194304	Value	ValueOutput
+VolEG Loop 8 X	0	4194304	Value	ValueOutput
+VolEG Loop 8 Y	0	4194304	Value	ValueOutput
+VolEG Loop 8 Ty	0	4194304	Value	ValueOutput
+VolEG Loop 9 X	0	4194304	Value	ValueOutput
+VolEG Loop 9 Y	0	4194304	Value	ValueOutput
+VolEG Loop 9 Ty	0	4194304	Value	ValueOutput
+VolEG Loop 10 X	0	4194304	Value	ValueOutput
+VolEG Loop 10 Y	0	4194304	Value	ValueOutput
+VolEG Loop 10 T	0	4194304	Value	ValueOutput
+VolEG Loop 11 X	0	4194304	Value	ValueOutput
+VolEG Loop 11 Y	0	4194304	Value	ValueOutput
+VolEG Loop 11 T	0	4194304	Value	ValueOutput
+VolEG Loop 12 X	0	4194304	Value	ValueOutput
+VolEG Loop 12 Y	0	4194304	Value	ValueOutput
+VolEG Loop 12 T	0	4194304	Value	ValueOutput
+VolEG Loop 13 X	0	4194304	Value	ValueOutput
+VolEG Loop 13 Y	0	4194304	Value	ValueOutput
+VolEG Loop 13 T	0	4194304	Value	ValueOutput
+VolEG Loop 14 X	0	4194304	Value	ValueOutput
+VolEG Loop 14 Y	0	4194304	Value	ValueOutput
+VolEG Loop 14 T	0	4194304	Value	ValueOutput
+VolEG Loop 15 X	0	4194304	Value	ValueOutput
+VolEG Loop 15 Y	0	4194304	Value	ValueOutput
+VolEG Loop 15 T	0	4194304	Value	ValueOutput
+VolEG Loop 16 X	0	4194304	Value	ValueOutput
+VolEG Loop 16 Y	0	4194304	Value	ValueOutput
+VolEG Loop 16 T	0	4194304	Value	ValueOutput
+VolEG Loop 17 X	0	4194304	Value	ValueOutput
+VolEG Loop 17 Y	0	4194304	Value	ValueOutput
+VolEG Loop 17 T	0	4194304	Value	ValueOutput
+VolEG Loop 18 X	0	4194304	Value	ValueOutput
+VolEG Loop 18 Y	0	4194304	Value	ValueOutput
+VolEG Loop 18 T	0	4194304	Value	ValueOutput
+VolEG Loop 19 X	0	4194304	Value	ValueOutput
+VolEG Loop 19 Y	0	4194304	Value	ValueOutput
+VolEG Loop 19 T	0	4194304	Value	ValueOutput
+VolEG Loop 20 X	0	4194304	Value	ValueOutput
+VolEG Loop 20 Y	0	4194304	Value	ValueOutput
+VolEG Loop 20 T	0	4194304	Value	ValueOutput
+VolEG Loop 21 X	0	4194304	Value	ValueOutput
+VolEG Loop 21 Y	0	4194304	Value	ValueOutput
+VolEG Loop 21 T	0	4194304	Value	ValueOutput
+VolEG Loop 22 X	0	4194304	Value	ValueOutput
+VolEG Loop 22 Y	0	4194304	Value	ValueOutput
+VolEG Loop 22 T	0	4194304	Value	ValueOutput
+VolEG Loop 23 X	0	4194304	Value	ValueOutput
+VolEG Loop 23 Y	0	4194304	Value	ValueOutput
+VolEG Loop 23 T	0	4194304	Value	ValueOutput
+VolEG Loop 24 X	0	4194304	Value	ValueOutput
+VolEG Loop 24 Y	0	4194304	Value	ValueOutput
+VolEG Loop 24 T	0	4194304	Value	ValueOutput
+VolEG Loop 25 X	0	4194304	Value	ValueOutput
+VolEG Loop 25 Y	0	4194304	Value	ValueOutput
+VolEG Loop 25 T	0	4194304	Value	ValueOutput
+VolEG Loop 26 X	0	4194304	Value	ValueOutput
+VolEG Loop 26 Y	0	4194304	Value	ValueOutput
+VolEG Loop 26 T	0	4194304	Value	ValueOutput
+VolEG Loop 27 X	0	4194304	Value	ValueOutput
+VolEG Loop 27 Y	0	4194304	Value	ValueOutput
+VolEG Loop 27 T	0	4194304	Value	ValueOutput
+VolEG Loop 28 X	0	4194304	Value	ValueOutput
+VolEG Loop 28 Y	0	4194304	Value	ValueOutput
+VolEG Loop 28 T	0	4194304	Value	ValueOutput
+VolEG Loop 29 X	0	4194304	Value	ValueOutput
+VolEG Loop 29 Y	0	4194304	Value	ValueOutput
+VolEG Loop 29 T	0	4194304	Value	ValueOutput
+VolEG Loop 30 X	0	4194304	Value	ValueOutput
+VolEG Loop 30 Y	0	4194304	Value	ValueOutput
+VolEG Loop 30 T	0	4194304	Value	ValueOutput
+VolEG Loop 31 X	0	4194304	Value	ValueOutput
+VolEG Loop 31 Y	0	4194304	Value	ValueOutput
+VolEG Loop 31 T	0	4194304	Value	ValueOutput
+VolEG Loop 32 X	0	4194304	Value	ValueOutput
+VolEG Loop 32 Y	0	4194304	Value	ValueOutput
+VolEG Loop 32 T	0	4194304	Value	ValueOutput
+VolEG Loop 33 X	0	4194304	Value	ValueOutput
+VolEG Loop 33 Y	0	4194304	Value	ValueOutput
+VolEG Loop 33 T	0	4194304	Value	ValueOutput
+VolEG Loop 34 X	0	4194304	Value	ValueOutput
+VolEG Loop 34 Y	0	4194304	Value	ValueOutput
+VolEG Loop 34 T	0	4194304	Value	ValueOutput
+VolEG Loop 35 X	0	4194304	Value	ValueOutput
+VolEG Loop 35 Y	0	4194304	Value	ValueOutput
+VolEG Loop 35 T	0	4194304	Value	ValueOutput
+VolEG Loop 36 X	0	4194304	Value	ValueOutput
+VolEG Loop 36 Y	0	4194304	Value	ValueOutput
+VolEG Loop 36 T	0	4194304	Value	ValueOutput
+VolEG Loop 37 X	0	4194304	Value	ValueOutput
+VolEG Loop 37 Y	0	4194304	Value	ValueOutput
+VolEG Loop 37 T	0	4194304	Value	ValueOutput
+VolEG Loop 38 X	0	4194304	Value	ValueOutput
+VolEG Loop 38 Y	0	4194304	Value	ValueOutput
+VolEG Loop 38 T	0	4194304	Value	ValueOutput
+VolEG Loop 39 X	0	4194304	Value	ValueOutput
+VolEG Loop 39 Y	0	4194304	Value	ValueOutput
+VolEG Loop 39 T	0	4194304	Value	ValueOutput
+VolEG Loop 40 X	0	4194304	Value	ValueOutput
+VolEG Loop 40 Y	0	4194304	Value	ValueOutput
+VolEG Loop 40 T	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG1 Attack 1 Y	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG1 Attack 2 X	0	4194304	Value	ValueOutput
+EG1 Attack 2 Y	0	4194304	Value	ValueOutput
+EG1 Attack 2 Ty	0	4194304	Value	ValueOutput
+EG1 Attack 3 X	0	4194304	Value	ValueOutput
+EG1 Attack 3 Y	0	4194304	Value	ValueOutput
+EG1 Attack 3 Ty	0	4194304	Value	ValueOutput
+EG1 Attack 4 X	0	4194304	Value	ValueOutput
+EG1 Attack 4 Y	0	4194304	Value	ValueOutput
+EG1 Attack 4 Ty	0	4194304	Value	ValueOutput
+EG1 Attack 5 X	0	4194304	Value	ValueOutput
+EG1 Attack 5 Y	0	4194304	Value	ValueOutput
+EG1 Attack 5 Ty	0	4194304	Value	ValueOutput
+EG1 Attack 6 X	0	4194304	Value	ValueOutput
+EG1 Attack 6 Y	0	4194304	Value	ValueOutput
+EG1 Attack 6 Ty	0	4194304	Value	ValueOutput
+EG1 Attack 7 X	0	4194304	Value	ValueOutput
+EG1 Attack 7 Y	0	4194304	Value	ValueOutput
+EG1 Attack 7 Ty	0	4194304	Value	ValueOutput
+EG1 Attack 8 X	0	4194304	Value	ValueOutput
+EG1 Attack 8 Y	0	4194304	Value	ValueOutput
+EG1 Attack 8 Ty	0	4194304	Value	ValueOutput
+EG1 Attack 9 X	0	4194304	Value	ValueOutput
+EG1 Attack 9 Y	0	4194304	Value	ValueOutput
+EG1 Attack 9 Ty	0	4194304	Value	ValueOutput
+EG1 Attack 10 X	0	4194304	Value	ValueOutput
+EG1 Attack 10 Y	0	4194304	Value	ValueOutput
+EG1 Attack 10 T	0	4194304	Value	ValueOutput
+EG1 Attack 11 X	0	4194304	Value	ValueOutput
+EG1 Attack 11 Y	0	4194304	Value	ValueOutput
+EG1 Attack 11 T	0	4194304	Value	ValueOutput
+EG1 Attack 12 X	0	4194304	Value	ValueOutput
+EG1 Attack 12 Y	0	4194304	Value	ValueOutput
+EG1 Attack 12 T	0	4194304	Value	ValueOutput
+EG1 Attack 13 X	0	4194304	Value	ValueOutput
+EG1 Attack 13 Y	0	4194304	Value	ValueOutput
+EG1 Attack 13 T	0	4194304	Value	ValueOutput
+EG1 Attack 14 X	0	4194304	Value	ValueOutput
+EG1 Attack 14 Y	0	4194304	Value	ValueOutput
+EG1 Attack 14 T	0	4194304	Value	ValueOutput
+EG1 Attack 15 X	0	4194304	Value	ValueOutput
+EG1 Attack 15 Y	0	4194304	Value	ValueOutput
+EG1 Attack 15 T	0	4194304	Value	ValueOutput
+EG1 Attack 16 X	0	4194304	Value	ValueOutput
+EG1 Attack 16 Y	0	4194304	Value	ValueOutput
+EG1 Attack 16 T	0	4194304	Value	ValueOutput
+EG1 Attack 17 X	0	4194304	Value	ValueOutput
+EG1 Attack 17 Y	0	4194304	Value	ValueOutput
+EG1 Attack 17 T	0	4194304	Value	ValueOutput
+EG1 Attack 18 X	0	4194304	Value	ValueOutput
+EG1 Attack 18 Y	0	4194304	Value	ValueOutput
+EG1 Attack 18 T	0	4194304	Value	ValueOutput
+EG1 Attack 19 X	0	4194304	Value	ValueOutput
+EG1 Attack 19 Y	0	4194304	Value	ValueOutput
+EG1 Attack 19 T	0	4194304	Value	ValueOutput
+EG1 Attack 20 X	0	4194304	Value	ValueOutput
+EG1 Attack 20 Y	0	4194304	Value	ValueOutput
+EG1 Attack 20 T	0	4194304	Value	ValueOutput
+EG1 Attack 21 X	0	4194304	Value	ValueOutput
+EG1 Attack 21 Y	0	4194304	Value	ValueOutput
+EG1 Attack 21 T	0	4194304	Value	ValueOutput
+EG1 Attack 22 X	0	4194304	Value	ValueOutput
+EG1 Attack 22 Y	0	4194304	Value	ValueOutput
+EG1 Attack 22 T	0	4194304	Value	ValueOutput
+EG1 Attack 23 X	0	4194304	Value	ValueOutput
+EG1 Attack 23 Y	0	4194304	Value	ValueOutput
+EG1 Attack 23 T	0	4194304	Value	ValueOutput
+EG1 Attack 24 X	0	4194304	Value	ValueOutput
+EG1 Attack 24 Y	0	4194304	Value	ValueOutput
+EG1 Attack 24 T	0	4194304	Value	ValueOutput
+EG1 Attack 25 X	0	4194304	Value	ValueOutput
+EG1 Attack 25 Y	0	4194304	Value	ValueOutput
+EG1 Attack 25 T	0	4194304	Value	ValueOutput
+EG1 Attack 26 X	0	4194304	Value	ValueOutput
+EG1 Attack 26 Y	0	4194304	Value	ValueOutput
+EG1 Attack 26 T	0	4194304	Value	ValueOutput
+EG1 Attack 27 X	0	4194304	Value	ValueOutput
+EG1 Attack 27 Y	0	4194304	Value	ValueOutput
+EG1 Attack 27 T	0	4194304	Value	ValueOutput
+EG1 Attack 28 X	0	4194304	Value	ValueOutput
+EG1 Attack 28 Y	0	4194304	Value	ValueOutput
+EG1 Attack 28 T	0	4194304	Value	ValueOutput
+EG1 Attack 29 X	0	4194304	Value	ValueOutput
+EG1 Attack 29 Y	0	4194304	Value	ValueOutput
+EG1 Attack 29 T	0	4194304	Value	ValueOutput
+EG1 Attack 30 X	0	4194304	Value	ValueOutput
+EG1 Attack 30 Y	0	4194304	Value	ValueOutput
+EG1 Attack 30 T	0	4194304	Value	ValueOutput
+EG1 Attack 31 X	0	4194304	Value	ValueOutput
+EG1 Attack 31 Y	0	4194304	Value	ValueOutput
+EG1 Attack 31 T	0	4194304	Value	ValueOutput
+EG1 Attack 32 X	0	4194304	Value	ValueOutput
+EG1 Attack 32 Y	0	4194304	Value	ValueOutput
+EG1 Attack 32 T	0	4194304	Value	ValueOutput
+EG1 Attack 33 X	0	4194304	Value	ValueOutput
+EG1 Attack 33 Y	0	4194304	Value	ValueOutput
+EG1 Attack 33 T	0	4194304	Value	ValueOutput
+EG1 Attack 34 X	0	4194304	Value	ValueOutput
+EG1 Attack 34 Y	0	4194304	Value	ValueOutput
+EG1 Attack 34 T	0	4194304	Value	ValueOutput
+EG1 Attack 35 X	0	4194304	Value	ValueOutput
+EG1 Attack 35 Y	0	4194304	Value	ValueOutput
+EG1 Attack 35 T	0	4194304	Value	ValueOutput
+EG1 Attack 36 X	0	4194304	Value	ValueOutput
+EG1 Attack 36 Y	0	4194304	Value	ValueOutput
+EG1 Attack 36 T	0	4194304	Value	ValueOutput
+EG1 Attack 37 X	0	4194304	Value	ValueOutput
+EG1 Attack 37 Y	0	4194304	Value	ValueOutput
+EG1 Attack 37 T	0	4194304	Value	ValueOutput
+EG1 Attack 38 X	0	4194304	Value	ValueOutput
+EG1 Attack 38 Y	0	4194304	Value	ValueOutput
+EG1 Attack 38 T	0	4194304	Value	ValueOutput
+EG1 Attack 39 X	0	4194304	Value	ValueOutput
+EG1 Attack 39 Y	0	4194304	Value	ValueOutput
+EG1 Attack 39 T	0	4194304	Value	ValueOutput
+EG1 Attack 40 X	0	4194304	Value	ValueOutput
+EG1 Attack 40 Y	0	4194304	Value	ValueOutput
+EG1 Attack 40 T	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG1 Decay 1 Y	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG1 Decay 2 X	0	4194304	Value	ValueOutput
+EG1 Decay 2 Y	0	4194304	Value	ValueOutput
+EG1 Decay 2 Typ	0	4194304	Value	ValueOutput
+EG1 Decay 3 X	0	4194304	Value	ValueOutput
+EG1 Decay 3 Y	0	4194304	Value	ValueOutput
+EG1 Decay 3 Typ	0	4194304	Value	ValueOutput
+EG1 Decay 4 X	0	4194304	Value	ValueOutput
+EG1 Decay 4 Y	0	4194304	Value	ValueOutput
+EG1 Decay 4 Typ	0	4194304	Value	ValueOutput
+EG1 Decay 5 X	0	4194304	Value	ValueOutput
+EG1 Decay 5 Y	0	4194304	Value	ValueOutput
+EG1 Decay 5 Typ	0	4194304	Value	ValueOutput
+EG1 Decay 6 X	0	4194304	Value	ValueOutput
+EG1 Decay 6 Y	0	4194304	Value	ValueOutput
+EG1 Decay 6 Typ	0	4194304	Value	ValueOutput
+EG1 Decay 7 X	0	4194304	Value	ValueOutput
+EG1 Decay 7 Y	0	4194304	Value	ValueOutput
+EG1 Decay 7 Typ	0	4194304	Value	ValueOutput
+EG1 Decay 8 X	0	4194304	Value	ValueOutput
+EG1 Decay 8 Y	0	4194304	Value	ValueOutput
+EG1 Decay 8 Typ	0	4194304	Value	ValueOutput
+EG1 Decay 9 X	0	4194304	Value	ValueOutput
+EG1 Decay 9 Y	0	4194304	Value	ValueOutput
+EG1 Decay 9 Typ	0	4194304	Value	ValueOutput
+EG1 Decay 10 X	0	4194304	Value	ValueOutput
+EG1 Decay 10 Y	0	4194304	Value	ValueOutput
+EG1 Decay 10 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 11 X	0	4194304	Value	ValueOutput
+EG1 Decay 11 Y	0	4194304	Value	ValueOutput
+EG1 Decay 11 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 12 X	0	4194304	Value	ValueOutput
+EG1 Decay 12 Y	0	4194304	Value	ValueOutput
+EG1 Decay 12 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 13 X	0	4194304	Value	ValueOutput
+EG1 Decay 13 Y	0	4194304	Value	ValueOutput
+EG1 Decay 13 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 14 X	0	4194304	Value	ValueOutput
+EG1 Decay 14 Y	0	4194304	Value	ValueOutput
+EG1 Decay 14 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 15 X	0	4194304	Value	ValueOutput
+EG1 Decay 15 Y	0	4194304	Value	ValueOutput
+EG1 Decay 15 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 16 X	0	4194304	Value	ValueOutput
+EG1 Decay 16 Y	0	4194304	Value	ValueOutput
+EG1 Decay 16 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 17 X	0	4194304	Value	ValueOutput
+EG1 Decay 17 Y	0	4194304	Value	ValueOutput
+EG1 Decay 17 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 18 X	0	4194304	Value	ValueOutput
+EG1 Decay 18 Y	0	4194304	Value	ValueOutput
+EG1 Decay 18 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 19 X	0	4194304	Value	ValueOutput
+EG1 Decay 19 Y	0	4194304	Value	ValueOutput
+EG1 Decay 19 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 20 X	0	4194304	Value	ValueOutput
+EG1 Decay 20 Y	0	4194304	Value	ValueOutput
+EG1 Decay 20 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 21 X	0	4194304	Value	ValueOutput
+EG1 Decay 21 Y	0	4194304	Value	ValueOutput
+EG1 Decay 21 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 22 X	0	4194304	Value	ValueOutput
+EG1 Decay 22 Y	0	4194304	Value	ValueOutput
+EG1 Decay 22 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 23 X	0	4194304	Value	ValueOutput
+EG1 Decay 23 Y	0	4194304	Value	ValueOutput
+EG1 Decay 23 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 24 X	0	4194304	Value	ValueOutput
+EG1 Decay 24 Y	0	4194304	Value	ValueOutput
+EG1 Decay 24 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 25 X	0	4194304	Value	ValueOutput
+EG1 Decay 25 Y	0	4194304	Value	ValueOutput
+EG1 Decay 25 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 26 X	0	4194304	Value	ValueOutput
+EG1 Decay 26 Y	0	4194304	Value	ValueOutput
+EG1 Decay 26 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 27 X	0	4194304	Value	ValueOutput
+EG1 Decay 27 Y	0	4194304	Value	ValueOutput
+EG1 Decay 27 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 28 X	0	4194304	Value	ValueOutput
+EG1 Decay 28 Y	0	4194304	Value	ValueOutput
+EG1 Decay 28 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 29 X	0	4194304	Value	ValueOutput
+EG1 Decay 29 Y	0	4194304	Value	ValueOutput
+EG1 Decay 29 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 30 X	0	4194304	Value	ValueOutput
+EG1 Decay 30 Y	0	4194304	Value	ValueOutput
+EG1 Decay 30 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 31 X	0	4194304	Value	ValueOutput
+EG1 Decay 31 Y	0	4194304	Value	ValueOutput
+EG1 Decay 31 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 32 X	0	4194304	Value	ValueOutput
+EG1 Decay 32 Y	0	4194304	Value	ValueOutput
+EG1 Decay 32 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 33 X	0	4194304	Value	ValueOutput
+EG1 Decay 33 Y	0	4194304	Value	ValueOutput
+EG1 Decay 33 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 34 X	0	4194304	Value	ValueOutput
+EG1 Decay 34 Y	0	4194304	Value	ValueOutput
+EG1 Decay 34 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 35 X	0	4194304	Value	ValueOutput
+EG1 Decay 35 Y	0	4194304	Value	ValueOutput
+EG1 Decay 35 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 36 X	0	4194304	Value	ValueOutput
+EG1 Decay 36 Y	0	4194304	Value	ValueOutput
+EG1 Decay 36 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 37 X	0	4194304	Value	ValueOutput
+EG1 Decay 37 Y	0	4194304	Value	ValueOutput
+EG1 Decay 37 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 38 X	0	4194304	Value	ValueOutput
+EG1 Decay 38 Y	0	4194304	Value	ValueOutput
+EG1 Decay 38 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 39 X	0	4194304	Value	ValueOutput
+EG1 Decay 39 Y	0	4194304	Value	ValueOutput
+EG1 Decay 39 Ty	0	4194304	Value	ValueOutput
+EG1 Decay 40 X	0	4194304	Value	ValueOutput
+EG1 Decay 40 Y	0	4194304	Value	ValueOutput
+EG1 Decay 40 Ty	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG1 Loop 1 Y	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG1 Loop 2 X	0	4194304	Value	ValueOutput
+EG1 Loop 2 Y	0	4194304	Value	ValueOutput
+EG1 Loop 2 Type	0	4194304	Value	ValueOutput
+EG1 Loop 3 X	0	4194304	Value	ValueOutput
+EG1 Loop 3 Y	0	4194304	Value	ValueOutput
+EG1 Loop 3 Type	0	4194304	Value	ValueOutput
+EG1 Loop 4 X	0	4194304	Value	ValueOutput
+EG1 Loop 4 Y	0	4194304	Value	ValueOutput
+EG1 Loop 4 Type	0	4194304	Value	ValueOutput
+EG1 Loop 5 X	0	4194304	Value	ValueOutput
+EG1 Loop 5 Y	0	4194304	Value	ValueOutput
+EG1 Loop 5 Type	0	4194304	Value	ValueOutput
+EG1 Loop 6 X	0	4194304	Value	ValueOutput
+EG1 Loop 6 Y	0	4194304	Value	ValueOutput
+EG1 Loop 6 Type	0	4194304	Value	ValueOutput
+EG1 Loop 7 X	0	4194304	Value	ValueOutput
+EG1 Loop 7 Y	0	4194304	Value	ValueOutput
+EG1 Loop 7 Type	0	4194304	Value	ValueOutput
+EG1 Loop 8 X	0	4194304	Value	ValueOutput
+EG1 Loop 8 Y	0	4194304	Value	ValueOutput
+EG1 Loop 8 Type	0	4194304	Value	ValueOutput
+EG1 Loop 9 X	0	4194304	Value	ValueOutput
+EG1 Loop 9 Y	0	4194304	Value	ValueOutput
+EG1 Loop 9 Type	0	4194304	Value	ValueOutput
+EG1 Loop 10 X	0	4194304	Value	ValueOutput
+EG1 Loop 10 Y	0	4194304	Value	ValueOutput
+EG1 Loop 10 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 11 X	0	4194304	Value	ValueOutput
+EG1 Loop 11 Y	0	4194304	Value	ValueOutput
+EG1 Loop 11 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 12 X	0	4194304	Value	ValueOutput
+EG1 Loop 12 Y	0	4194304	Value	ValueOutput
+EG1 Loop 12 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 13 X	0	4194304	Value	ValueOutput
+EG1 Loop 13 Y	0	4194304	Value	ValueOutput
+EG1 Loop 13 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 14 X	0	4194304	Value	ValueOutput
+EG1 Loop 14 Y	0	4194304	Value	ValueOutput
+EG1 Loop 14 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 15 X	0	4194304	Value	ValueOutput
+EG1 Loop 15 Y	0	4194304	Value	ValueOutput
+EG1 Loop 15 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 16 X	0	4194304	Value	ValueOutput
+EG1 Loop 16 Y	0	4194304	Value	ValueOutput
+EG1 Loop 16 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 17 X	0	4194304	Value	ValueOutput
+EG1 Loop 17 Y	0	4194304	Value	ValueOutput
+EG1 Loop 17 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 18 X	0	4194304	Value	ValueOutput
+EG1 Loop 18 Y	0	4194304	Value	ValueOutput
+EG1 Loop 18 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 19 X	0	4194304	Value	ValueOutput
+EG1 Loop 19 Y	0	4194304	Value	ValueOutput
+EG1 Loop 19 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 20 X	0	4194304	Value	ValueOutput
+EG1 Loop 20 Y	0	4194304	Value	ValueOutput
+EG1 Loop 20 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 21 X	0	4194304	Value	ValueOutput
+EG1 Loop 21 Y	0	4194304	Value	ValueOutput
+EG1 Loop 21 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 22 X	0	4194304	Value	ValueOutput
+EG1 Loop 22 Y	0	4194304	Value	ValueOutput
+EG1 Loop 22 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 23 X	0	4194304	Value	ValueOutput
+EG1 Loop 23 Y	0	4194304	Value	ValueOutput
+EG1 Loop 23 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 24 X	0	4194304	Value	ValueOutput
+EG1 Loop 24 Y	0	4194304	Value	ValueOutput
+EG1 Loop 24 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 25 X	0	4194304	Value	ValueOutput
+EG1 Loop 25 Y	0	4194304	Value	ValueOutput
+EG1 Loop 25 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 26 X	0	4194304	Value	ValueOutput
+EG1 Loop 26 Y	0	4194304	Value	ValueOutput
+EG1 Loop 26 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 27 X	0	4194304	Value	ValueOutput
+EG1 Loop 27 Y	0	4194304	Value	ValueOutput
+EG1 Loop 27 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 28 X	0	4194304	Value	ValueOutput
+EG1 Loop 28 Y	0	4194304	Value	ValueOutput
+EG1 Loop 28 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 29 X	0	4194304	Value	ValueOutput
+EG1 Loop 29 Y	0	4194304	Value	ValueOutput
+EG1 Loop 29 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 30 X	0	4194304	Value	ValueOutput
+EG1 Loop 30 Y	0	4194304	Value	ValueOutput
+EG1 Loop 30 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 31 X	0	4194304	Value	ValueOutput
+EG1 Loop 31 Y	0	4194304	Value	ValueOutput
+EG1 Loop 31 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 32 X	0	4194304	Value	ValueOutput
+EG1 Loop 32 Y	0	4194304	Value	ValueOutput
+EG1 Loop 32 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 33 X	0	4194304	Value	ValueOutput
+EG1 Loop 33 Y	0	4194304	Value	ValueOutput
+EG1 Loop 33 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 34 X	0	4194304	Value	ValueOutput
+EG1 Loop 34 Y	0	4194304	Value	ValueOutput
+EG1 Loop 34 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 35 X	0	4194304	Value	ValueOutput
+EG1 Loop 35 Y	0	4194304	Value	ValueOutput
+EG1 Loop 35 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 36 X	0	4194304	Value	ValueOutput
+EG1 Loop 36 Y	0	4194304	Value	ValueOutput
+EG1 Loop 36 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 37 X	0	4194304	Value	ValueOutput
+EG1 Loop 37 Y	0	4194304	Value	ValueOutput
+EG1 Loop 37 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 38 X	0	4194304	Value	ValueOutput
+EG1 Loop 38 Y	0	4194304	Value	ValueOutput
+EG1 Loop 38 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 39 X	0	4194304	Value	ValueOutput
+EG1 Loop 39 Y	0	4194304	Value	ValueOutput
+EG1 Loop 39 Typ	0	4194304	Value	ValueOutput
+EG1 Loop 40 X	0	4194304	Value	ValueOutput
+EG1 Loop 40 Y	0	4194304	Value	ValueOutput
+EG1 Loop 40 Typ	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG Attack 1 Y	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG Attack 2 X	0	4194304	Value	ValueOutput
+EG Attack 2 Y	0	4194304	Value	ValueOutput
+EG Attack 2 Typ	0	4194304	Value	ValueOutput
+EG Attack 3 X	0	4194304	Value	ValueOutput
+EG Attack 3 Y	0	4194304	Value	ValueOutput
+EG Attack 3 Typ	0	4194304	Value	ValueOutput
+EG Attack 4 X	0	4194304	Value	ValueOutput
+EG Attack 4 Y	0	4194304	Value	ValueOutput
+EG Attack 4 Typ	0	4194304	Value	ValueOutput
+EG Attack 5 X	0	4194304	Value	ValueOutput
+EG Attack 5 Y	0	4194304	Value	ValueOutput
+EG Attack 5 Typ	0	4194304	Value	ValueOutput
+EG Attack 6 X	0	4194304	Value	ValueOutput
+EG Attack 6 Y	0	4194304	Value	ValueOutput
+EG Attack 6 Typ	0	4194304	Value	ValueOutput
+EG Attack 7 X	0	4194304	Value	ValueOutput
+EG Attack 7 Y	0	4194304	Value	ValueOutput
+EG Attack 7 Typ	0	4194304	Value	ValueOutput
+EG Attack 8 X	0	4194304	Value	ValueOutput
+EG Attack 8 Y	0	4194304	Value	ValueOutput
+EG Attack 8 Typ	0	4194304	Value	ValueOutput
+EG Attack 9 X	0	4194304	Value	ValueOutput
+EG Attack 9 Y	0	4194304	Value	ValueOutput
+EG Attack 9 Typ	0	4194304	Value	ValueOutput
+EG Attack 10 X	0	4194304	Value	ValueOutput
+EG Attack 10 Y	0	4194304	Value	ValueOutput
+EG Attack 10 Ty	0	4194304	Value	ValueOutput
+EG Attack 11 X	0	4194304	Value	ValueOutput
+EG Attack 11 Y	0	4194304	Value	ValueOutput
+EG Attack 11 Ty	0	4194304	Value	ValueOutput
+EG Attack 12 X	0	4194304	Value	ValueOutput
+EG Attack 12 Y	0	4194304	Value	ValueOutput
+EG Attack 12 Ty	0	4194304	Value	ValueOutput
+EG Attack 13 X	0	4194304	Value	ValueOutput
+EG Attack 13 Y	0	4194304	Value	ValueOutput
+EG Attack 13 Ty	0	4194304	Value	ValueOutput
+EG Attack 14 X	0	4194304	Value	ValueOutput
+EG Attack 14 Y	0	4194304	Value	ValueOutput
+EG Attack 14 Ty	0	4194304	Value	ValueOutput
+EG Attack 15 X	0	4194304	Value	ValueOutput
+EG Attack 15 Y	0	4194304	Value	ValueOutput
+EG Attack 15 Ty	0	4194304	Value	ValueOutput
+EG Attack 16 X	0	4194304	Value	ValueOutput
+EG Attack 16 Y	0	4194304	Value	ValueOutput
+EG Attack 16 Ty	0	4194304	Value	ValueOutput
+EG Attack 17 X	0	4194304	Value	ValueOutput
+EG Attack 17 Y	0	4194304	Value	ValueOutput
+EG Attack 17 Ty	0	4194304	Value	ValueOutput
+EG Attack 18 X	0	4194304	Value	ValueOutput
+EG Attack 18 Y	0	4194304	Value	ValueOutput
+EG Attack 18 Ty	0	4194304	Value	ValueOutput
+EG Attack 19 X	0	4194304	Value	ValueOutput
+EG Attack 19 Y	0	4194304	Value	ValueOutput
+EG Attack 19 Ty	0	4194304	Value	ValueOutput
+EG Attack 20 X	0	4194304	Value	ValueOutput
+EG Attack 20 Y	0	4194304	Value	ValueOutput
+EG Attack 20 Ty	0	4194304	Value	ValueOutput
+EG Attack 21 X	0	4194304	Value	ValueOutput
+EG Attack 21 Y	0	4194304	Value	ValueOutput
+EG Attack 21 Ty	0	4194304	Value	ValueOutput
+EG Attack 22 X	0	4194304	Value	ValueOutput
+EG Attack 22 Y	0	4194304	Value	ValueOutput
+EG Attack 22 Ty	0	4194304	Value	ValueOutput
+EG Attack 23 X	0	4194304	Value	ValueOutput
+EG Attack 23 Y	0	4194304	Value	ValueOutput
+EG Attack 23 Ty	0	4194304	Value	ValueOutput
+EG Attack 24 X	0	4194304	Value	ValueOutput
+EG Attack 24 Y	0	4194304	Value	ValueOutput
+EG Attack 24 Ty	0	4194304	Value	ValueOutput
+EG Attack 25 X	0	4194304	Value	ValueOutput
+EG Attack 25 Y	0	4194304	Value	ValueOutput
+EG Attack 25 Ty	0	4194304	Value	ValueOutput
+EG Attack 26 X	0	4194304	Value	ValueOutput
+EG Attack 26 Y	0	4194304	Value	ValueOutput
+EG Attack 26 Ty	0	4194304	Value	ValueOutput
+EG Attack 27 X	0	4194304	Value	ValueOutput
+EG Attack 27 Y	0	4194304	Value	ValueOutput
+EG Attack 27 Ty	0	4194304	Value	ValueOutput
+EG Attack 28 X	0	4194304	Value	ValueOutput
+EG Attack 28 Y	0	4194304	Value	ValueOutput
+EG Attack 28 Ty	0	4194304	Value	ValueOutput
+EG Attack 29 X	0	4194304	Value	ValueOutput
+EG Attack 29 Y	0	4194304	Value	ValueOutput
+EG Attack 29 Ty	0	4194304	Value	ValueOutput
+EG Attack 30 X	0	4194304	Value	ValueOutput
+EG Attack 30 Y	0	4194304	Value	ValueOutput
+EG Attack 30 Ty	0	4194304	Value	ValueOutput
+EG Attack 31 X	0	4194304	Value	ValueOutput
+EG Attack 31 Y	0	4194304	Value	ValueOutput
+EG Attack 31 Ty	0	4194304	Value	ValueOutput
+EG Attack 32 X	0	4194304	Value	ValueOutput
+EG Attack 32 Y	0	4194304	Value	ValueOutput
+EG Attack 32 Ty	0	4194304	Value	ValueOutput
+EG Attack 33 X	0	4194304	Value	ValueOutput
+EG Attack 33 Y	0	4194304	Value	ValueOutput
+EG Attack 33 Ty	0	4194304	Value	ValueOutput
+EG Attack 34 X	0	4194304	Value	ValueOutput
+EG Attack 34 Y	0	4194304	Value	ValueOutput
+EG Attack 34 Ty	0	4194304	Value	ValueOutput
+EG Attack 35 X	0	4194304	Value	ValueOutput
+EG Attack 35 Y	0	4194304	Value	ValueOutput
+EG Attack 35 Ty	0	4194304	Value	ValueOutput
+EG Attack 36 X	0	4194304	Value	ValueOutput
+EG Attack 36 Y	0	4194304	Value	ValueOutput
+EG Attack 36 Ty	0	4194304	Value	ValueOutput
+EG Attack 37 X	0	4194304	Value	ValueOutput
+EG Attack 37 Y	0	4194304	Value	ValueOutput
+EG Attack 37 Ty	0	4194304	Value	ValueOutput
+EG Attack 38 X	0	4194304	Value	ValueOutput
+EG Attack 38 Y	0	4194304	Value	ValueOutput
+EG Attack 38 Ty	0	4194304	Value	ValueOutput
+EG Attack 39 X	0	4194304	Value	ValueOutput
+EG Attack 39 Y	0	4194304	Value	ValueOutput
+EG Attack 39 Ty	0	4194304	Value	ValueOutput
+EG Attack 40 X	0	4194304	Value	ValueOutput
+EG Attack 40 Y	0	4194304	Value	ValueOutput
+EG Attack 40 Ty	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG Decay 1 Y	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG Decay 2 X	0	4194304	Value	ValueOutput
+EG Decay 2 Y	0	4194304	Value	ValueOutput
+EG Decay 2 Type	0	4194304	Value	ValueOutput
+EG Decay 3 X	0	4194304	Value	ValueOutput
+EG Decay 3 Y	0	4194304	Value	ValueOutput
+EG Decay 3 Type	0	4194304	Value	ValueOutput
+EG Decay 4 X	0	4194304	Value	ValueOutput
+EG Decay 4 Y	0	4194304	Value	ValueOutput
+EG Decay 4 Type	0	4194304	Value	ValueOutput
+EG Decay 5 X	0	4194304	Value	ValueOutput
+EG Decay 5 Y	0	4194304	Value	ValueOutput
+EG Decay 5 Type	0	4194304	Value	ValueOutput
+EG Decay 6 X	0	4194304	Value	ValueOutput
+EG Decay 6 Y	0	4194304	Value	ValueOutput
+EG Decay 6 Type	0	4194304	Value	ValueOutput
+EG Decay 7 X	0	4194304	Value	ValueOutput
+EG Decay 7 Y	0	4194304	Value	ValueOutput
+EG Decay 7 Type	0	4194304	Value	ValueOutput
+EG Decay 8 X	0	4194304	Value	ValueOutput
+EG Decay 8 Y	0	4194304	Value	ValueOutput
+EG Decay 8 Type	0	4194304	Value	ValueOutput
+EG Decay 9 X	0	4194304	Value	ValueOutput
+EG Decay 9 Y	0	4194304	Value	ValueOutput
+EG Decay 9 Type	0	4194304	Value	ValueOutput
+EG Decay 10 X	0	4194304	Value	ValueOutput
+EG Decay 10 Y	0	4194304	Value	ValueOutput
+EG Decay 10 Typ	0	4194304	Value	ValueOutput
+EG Decay 11 X	0	4194304	Value	ValueOutput
+EG Decay 11 Y	0	4194304	Value	ValueOutput
+EG Decay 11 Typ	0	4194304	Value	ValueOutput
+EG Decay 12 X	0	4194304	Value	ValueOutput
+EG Decay 12 Y	0	4194304	Value	ValueOutput
+EG Decay 12 Typ	0	4194304	Value	ValueOutput
+EG Decay 13 X	0	4194304	Value	ValueOutput
+EG Decay 13 Y	0	4194304	Value	ValueOutput
+EG Decay 13 Typ	0	4194304	Value	ValueOutput
+EG Decay 14 X	0	4194304	Value	ValueOutput
+EG Decay 14 Y	0	4194304	Value	ValueOutput
+EG Decay 14 Typ	0	4194304	Value	ValueOutput
+EG Decay 15 X	0	4194304	Value	ValueOutput
+EG Decay 15 Y	0	4194304	Value	ValueOutput
+EG Decay 15 Typ	0	4194304	Value	ValueOutput
+EG Decay 16 X	0	4194304	Value	ValueOutput
+EG Decay 16 Y	0	4194304	Value	ValueOutput
+EG Decay 16 Typ	0	4194304	Value	ValueOutput
+EG Decay 17 X	0	4194304	Value	ValueOutput
+EG Decay 17 Y	0	4194304	Value	ValueOutput
+EG Decay 17 Typ	0	4194304	Value	ValueOutput
+EG Decay 18 X	0	4194304	Value	ValueOutput
+EG Decay 18 Y	0	4194304	Value	ValueOutput
+EG Decay 18 Typ	0	4194304	Value	ValueOutput
+EG Decay 19 X	0	4194304	Value	ValueOutput
+EG Decay 19 Y	0	4194304	Value	ValueOutput
+EG Decay 19 Typ	0	4194304	Value	ValueOutput
+EG Decay 20 X	0	4194304	Value	ValueOutput
+EG Decay 20 Y	0	4194304	Value	ValueOutput
+EG Decay 20 Typ	0	4194304	Value	ValueOutput
+EG Decay 21 X	0	4194304	Value	ValueOutput
+EG Decay 21 Y	0	4194304	Value	ValueOutput
+EG Decay 21 Typ	0	4194304	Value	ValueOutput
+EG Decay 22 X	0	4194304	Value	ValueOutput
+EG Decay 22 Y	0	4194304	Value	ValueOutput
+EG Decay 22 Typ	0	4194304	Value	ValueOutput
+EG Decay 23 X	0	4194304	Value	ValueOutput
+EG Decay 23 Y	0	4194304	Value	ValueOutput
+EG Decay 23 Typ	0	4194304	Value	ValueOutput
+EG Decay 24 X	0	4194304	Value	ValueOutput
+EG Decay 24 Y	0	4194304	Value	ValueOutput
+EG Decay 24 Typ	0	4194304	Value	ValueOutput
+EG Decay 25 X	0	4194304	Value	ValueOutput
+EG Decay 25 Y	0	4194304	Value	ValueOutput
+EG Decay 25 Typ	0	4194304	Value	ValueOutput
+EG Decay 26 X	0	4194304	Value	ValueOutput
+EG Decay 26 Y	0	4194304	Value	ValueOutput
+EG Decay 26 Typ	0	4194304	Value	ValueOutput
+EG Decay 27 X	0	4194304	Value	ValueOutput
+EG Decay 27 Y	0	4194304	Value	ValueOutput
+EG Decay 27 Typ	0	4194304	Value	ValueOutput
+EG Decay 28 X	0	4194304	Value	ValueOutput
+EG Decay 28 Y	0	4194304	Value	ValueOutput
+EG Decay 28 Typ	0	4194304	Value	ValueOutput
+EG Decay 29 X	0	4194304	Value	ValueOutput
+EG Decay 29 Y	0	4194304	Value	ValueOutput
+EG Decay 29 Typ	0	4194304	Value	ValueOutput
+EG Decay 30 X	0	4194304	Value	ValueOutput
+EG Decay 30 Y	0	4194304	Value	ValueOutput
+EG Decay 30 Typ	0	4194304	Value	ValueOutput
+EG Decay 31 X	0	4194304	Value	ValueOutput
+EG Decay 31 Y	0	4194304	Value	ValueOutput
+EG Decay 31 Typ	0	4194304	Value	ValueOutput
+EG Decay 32 X	0	4194304	Value	ValueOutput
+EG Decay 32 Y	0	4194304	Value	ValueOutput
+EG Decay 32 Typ	0	4194304	Value	ValueOutput
+EG Decay 33 X	0	4194304	Value	ValueOutput
+EG Decay 33 Y	0	4194304	Value	ValueOutput
+EG Decay 33 Typ	0	4194304	Value	ValueOutput
+EG Decay 34 X	0	4194304	Value	ValueOutput
+EG Decay 34 Y	0	4194304	Value	ValueOutput
+EG Decay 34 Typ	0	4194304	Value	ValueOutput
+EG Decay 35 X	0	4194304	Value	ValueOutput
+EG Decay 35 Y	0	4194304	Value	ValueOutput
+EG Decay 35 Typ	0	4194304	Value	ValueOutput
+EG Decay 36 X	0	4194304	Value	ValueOutput
+EG Decay 36 Y	0	4194304	Value	ValueOutput
+EG Decay 36 Typ	0	4194304	Value	ValueOutput
+EG Decay 37 X	0	4194304	Value	ValueOutput
+EG Decay 37 Y	0	4194304	Value	ValueOutput
+EG Decay 37 Typ	0	4194304	Value	ValueOutput
+EG Decay 38 X	0	4194304	Value	ValueOutput
+EG Decay 38 Y	0	4194304	Value	ValueOutput
+EG Decay 38 Typ	0	4194304	Value	ValueOutput
+EG Decay 39 X	0	4194304	Value	ValueOutput
+EG Decay 39 Y	0	4194304	Value	ValueOutput
+EG Decay 39 Typ	0	4194304	Value	ValueOutput
+EG Decay 40 X	0	4194304	Value	ValueOutput
+EG Decay 40 Y	0	4194304	Value	ValueOutput
+EG Decay 40 Typ	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG Loop 1 Y	0	4194304	Value	ValueOutput
+X (Reserved)	0	4194304	Value	ValueOutput
+EG Loop 2 X	0	4194304	Value	ValueOutput
+EG Loop 2 Y	0	4194304	Value	ValueOutput
+EG Loop 2 Type	0	4194304	Value	ValueOutput
+EG Loop 3 X	0	4194304	Value	ValueOutput
+EG Loop 3 Y	0	4194304	Value	ValueOutput
+EG Loop 3 Type	0	4194304	Value	ValueOutput
+EG Loop 4 X	0	4194304	Value	ValueOutput
+EG Loop 4 Y	0	4194304	Value	ValueOutput
+EG Loop 4 Type	0	4194304	Value	ValueOutput
+EG Loop 5 X	0	4194304	Value	ValueOutput
+EG Loop 5 Y	0	4194304	Value	ValueOutput
+EG Loop 5 Type	0	4194304	Value	ValueOutput
+EG Loop 6 X	0	4194304	Value	ValueOutput
+EG Loop 6 Y	0	4194304	Value	ValueOutput
+EG Loop 6 Type	0	4194304	Value	ValueOutput
+EG Loop 7 X	0	4194304	Value	ValueOutput
+EG Loop 7 Y	0	4194304	Value	ValueOutput
+EG Loop 7 Type	0	4194304	Value	ValueOutput
+EG Loop 8 X	0	4194304	Value	ValueOutput
+EG Loop 8 Y	0	4194304	Value	ValueOutput
+EG Loop 8 Type	0	4194304	Value	ValueOutput
+EG Loop 9 X	0	4194304	Value	ValueOutput
+EG Loop 9 Y	0	4194304	Value	ValueOutput
+EG Loop 9 Type	0	4194304	Value	ValueOutput
+EG Loop 10 X	0	4194304	Value	ValueOutput
+EG Loop 10 Y	0	4194304	Value	ValueOutput
+EG Loop 10 Type	0	4194304	Value	ValueOutput
+EG Loop 11 X	0	4194304	Value	ValueOutput
+EG Loop 11 Y	0	4194304	Value	ValueOutput
+EG Loop 11 Type	0	4194304	Value	ValueOutput
+EG Loop 12 X	0	4194304	Value	ValueOutput
+EG Loop 12 Y	0	4194304	Value	ValueOutput
+EG Loop 12 Type	0	4194304	Value	ValueOutput
+EG Loop 13 X	0	4194304	Value	ValueOutput
+EG Loop 13 Y	0	4194304	Value	ValueOutput
+EG Loop 13 Type	0	4194304	Value	ValueOutput
+EG Loop 14 X	0	4194304	Value	ValueOutput
+EG Loop 14 Y	0	4194304	Value	ValueOutput
+EG Loop 14 Type	0	4194304	Value	ValueOutput
+EG Loop 15 X	0	4194304	Value	ValueOutput
+EG Loop 15 Y	0	4194304	Value	ValueOutput
+EG Loop 15 Type	0	4194304	Value	ValueOutput
+EG Loop 16 X	0	4194304	Value	ValueOutput
+EG Loop 16 Y	0	4194304	Value	ValueOutput
+EG Loop 16 Type	0	4194304	Value	ValueOutput
+EG Loop 17 X	0	4194304	Value	ValueOutput
+EG Loop 17 Y	0	4194304	Value	ValueOutput
+EG Loop 17 Type	0	4194304	Value	ValueOutput
+EG Loop 18 X	0	4194304	Value	ValueOutput
+EG Loop 18 Y	0	4194304	Value	ValueOutput
+EG Loop 18 Type	0	4194304	Value	ValueOutput
+EG Loop 19 X	0	4194304	Value	ValueOutput
+EG Loop 19 Y	0	4194304	Value	ValueOutput
+EG Loop 19 Type	0	4194304	Value	ValueOutput
+EG Loop 20 X	0	4194304	Value	ValueOutput
+EG Loop 20 Y	0	4194304	Value	ValueOutput
+EG Loop 20 Type	0	4194304	Value	ValueOutput
+EG Loop 21 X	0	4194304	Value	ValueOutput
+EG Loop 21 Y	0	4194304	Value	ValueOutput
+EG Loop 21 Type	0	4194304	Value	ValueOutput
+EG Loop 22 X	0	4194304	Value	ValueOutput
+EG Loop 22 Y	0	4194304	Value	ValueOutput
+EG Loop 22 Type	0	4194304	Value	ValueOutput
+EG Loop 23 X	0	4194304	Value	ValueOutput
+EG Loop 23 Y	0	4194304	Value	ValueOutput
+EG Loop 23 Type	0	4194304	Value	ValueOutput
+EG Loop 24 X	0	4194304	Value	ValueOutput
+EG Loop 24 Y	0	4194304	Value	ValueOutput
+EG Loop 24 Type	0	4194304	Value	ValueOutput
+EG Loop 25 X	0	4194304	Value	ValueOutput
+EG Loop 25 Y	0	4194304	Value	ValueOutput
+EG Loop 25 Type	0	4194304	Value	ValueOutput
+EG Loop 26 X	0	4194304	Value	ValueOutput
+EG Loop 26 Y	0	4194304	Value	ValueOutput
+EG Loop 26 Type	0	4194304	Value	ValueOutput
+EG Loop 27 X	0	4194304	Value	ValueOutput
+EG Loop 27 Y	0	4194304	Value	ValueOutput
+EG Loop 27 Type	0	4194304	Value	ValueOutput
+EG Loop 28 X	0	4194304	Value	ValueOutput
+EG Loop 28 Y	0	4194304	Value	ValueOutput
+EG Loop 28 Type	0	4194304	Value	ValueOutput
+EG Loop 29 X	0	4194304	Value	ValueOutput
+EG Loop 29 Y	0	4194304	Value	ValueOutput
+EG Loop 29 Type	0	4194304	Value	ValueOutput
+EG Loop 30 X	0	4194304	Value	ValueOutput
+EG Loop 30 Y	0	4194304	Value	ValueOutput
+EG Loop 30 Type	0	4194304	Value	ValueOutput
+EG Loop 31 X	0	4194304	Value	ValueOutput
+EG Loop 31 Y	0	4194304	Value	ValueOutput
+EG Loop 31 Type	0	4194304	Value	ValueOutput
+EG Loop 32 X	0	4194304	Value	ValueOutput
+EG Loop 32 Y	0	4194304	Value	ValueOutput
+EG Loop 32 Type	0	4194304	Value	ValueOutput
+EG Loop 33 X	0	4194304	Value	ValueOutput
+EG Loop 33 Y	0	4194304	Value	ValueOutput
+EG Loop 33 Type	0	4194304	Value	ValueOutput
+EG Loop 34 X	0	4194304	Value	ValueOutput
+EG Loop 34 Y	0	4194304	Value	ValueOutput
+EG Loop 34 Type	0	4194304	Value	ValueOutput
+EG Loop 35 X	0	4194304	Value	ValueOutput
+EG Loop 35 Y	0	4194304	Value	ValueOutput
+EG Loop 35 Type	0	4194304	Value	ValueOutput
+EG Loop 36 X	0	4194304	Value	ValueOutput
+EG Loop 36 Y	0	4194304	Value	ValueOutput
+EG Loop 36 Type	0	4194304	Value	ValueOutput
+EG Loop 37 X	0	4194304	Value	ValueOutput
+EG Loop 37 Y	0	4194304	Value	ValueOutput
+EG Loop 37 Type	0	4194304	Value	ValueOutput
+EG Loop 38 X	0	4194304	Value	ValueOutput
+EG Loop 38 Y	0	4194304	Value	ValueOutput
+EG Loop 38 Type	0	4194304	Value	ValueOutput
+EG Loop 39 X	0	4194304	Value	ValueOutput
+EG Loop 39 Y	0	4194304	Value	ValueOutput
+EG Loop 39 Type	0	4194304	Value	ValueOutput
+EG Loop 40 X	0	4194304	Value	ValueOutput
+EG Loop 40 Y	0	4194304	Value	ValueOutput
+EG Loop 40 Type	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

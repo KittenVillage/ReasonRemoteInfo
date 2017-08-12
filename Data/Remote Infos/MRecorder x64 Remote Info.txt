@@ -1,0 +1,65 @@
+Scope
+Manufacturer	Model
+MeldaProduction	vst.MRec.MRecorder x64
+Note: Will match scope definitions for vst.MRec.MRecorder x64 or vst.MRec
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+BPS	0	4194304	Value	ValueOutput
+Record	0	4194304	Value	ValueOutput
+Pause	0	4194304	Value	ValueOutput
+Mute when recording	0	4194304	Value	ValueOutput
+PauseWhenPlaybacDisable	0	4194304	Value	ValueOutput
+SynchronizeAllInstances	0	4194304	Value	ValueOutput
+MIDIContro-Contro1Enable	0	4194304	Value	ValueOutput
+MIDIContro-Contro1Value	0	4194304	Value	ValueOutput
+MIDIContro-Contro1MaxVal	0	4194304	Value	ValueOutput
+MIDIContro-Contro1Range	0	4194304	Value	ValueOutput
+MIDIContro-Contro1Invert	0	4194304	Value	ValueOutput
+MIDIContro-Contro2Enable	0	4194304	Value	ValueOutput
+MIDIContro-Contro2Value	0	4194304	Value	ValueOutput
+MIDIContro-Contro2MaxVal	0	4194304	Value	ValueOutput
+MIDIContro-Contro2Range	0	4194304	Value	ValueOutput
+MIDIContro-Contro2Invert	0	4194304	Value	ValueOutput
+MIDIContro-Contro3Enable	0	4194304	Value	ValueOutput
+MIDIContro-Contro3Value	0	4194304	Value	ValueOutput
+MIDIContro-Contro3MaxVal	0	4194304	Value	ValueOutput
+MIDIContro-Contro3Range	0	4194304	Value	ValueOutput
+MIDIContro-Contro3Invert	0	4194304	Value	ValueOutput
+MIDIContro-Contro4Enable	0	4194304	Value	ValueOutput
+MIDIContro-Contro4Value	0	4194304	Value	ValueOutput
+MIDIContro-Contro4MaxVal	0	4194304	Value	ValueOutput
+MIDIContro-Contro4Range	0	4194304	Value	ValueOutput
+MIDIContro-Contro4Invert	0	4194304	Value	ValueOutput
+MIDNotCon-NotCon1Ena	0	4194304	Value	ValueOutput
+MIDNotCon-NotCon1Val	0	4194304	Value	ValueOutput
+MIDNotCon-NotCon1Max	0	4194304	Value	ValueOutput
+MIDNotCon-NotCon2Ena	0	4194304	Value	ValueOutput
+MIDNotCon-NotCon2Val	0	4194304	Value	ValueOutput
+MIDNotCon-NotCon2Max	0	4194304	Value	ValueOutput
+MIDNotCon-NotCon3Ena	0	4194304	Value	ValueOutput
+MIDNotCon-NotCon3Val	0	4194304	Value	ValueOutput
+MIDNotCon-NotCon3Max	0	4194304	Value	ValueOutput
+MIDNotCon-NotCon4Ena	0	4194304	Value	ValueOutput
+MIDNotCon-NotCon4Val	0	4194304	Value	ValueOutput
+MIDNotCon-NotCon4Max	0	4194304	Value	ValueOutput
+Post-proces-Post-proces	0	4194304	Value	ValueOutput
+Post-proce-TrimThreshold	0	4194304	Value	ValueOutput
+Post-processi-FadeIn/out	0	4194304	Value	ValueOutput
+Post-processin-Normalize	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

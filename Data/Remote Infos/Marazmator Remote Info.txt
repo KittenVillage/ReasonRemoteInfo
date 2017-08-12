@@ -1,0 +1,104 @@
+Scope
+Manufacturer	Model
+Stone Voices	vst.SVMZ.Marazmator
+Note: Will match scope definitions for vst.SVMZ.Marazmator or vst.SVMZ
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Generation Scheme	0	4194304	Value	ValueOutput
+Osc1 Level	0	4194304	Value	ValueOutput
+Osc2 Level	0	4194304	Value	ValueOutput
+Osc3 Level	0	4194304	Value	ValueOutput
+Osc1 Offset	0	4194304	Value	ValueOutput
+Osc2 Offset	0	4194304	Value	ValueOutput
+Osc3 Offset	0	4194304	Value	ValueOutput
+Osc1 Ratio	0	4194304	Value	ValueOutput
+Osc2 Ratio	0	4194304	Value	ValueOutput
+Osc3 Ratio	0	4194304	Value	ValueOutput
+Osc1 Waveform	0	4194304	Value	ValueOutput
+Osc2 Waveform	0	4194304	Value	ValueOutput
+Osc3 Waveform	0	4194304	Value	ValueOutput
+Osc1 Seq	0	4194304	Value	ValueOutput
+Osc2 Seq	0	4194304	Value	ValueOutput
+Osc3 Seq	0	4194304	Value	ValueOutput
+Osc1 XY-pad	0	4194304	Value	ValueOutput
+Osc2 XY-pad	0	4194304	Value	ValueOutput
+Osc3 XY-pad	0	4194304	Value	ValueOutput
+Osc1 XY-pad	0	4194304	Value	ValueOutput
+Osc2 XY-pad	0	4194304	Value	ValueOutput
+Osc3 XY-pad	0	4194304	Value	ValueOutput
+Space 3D Depth	0	4194304	Value	ValueOutput
+Space Unison	0	4194304	Value	ValueOutput
+Filter Lowpass Cuttoff	0	4194304	Value	ValueOutput
+Filter Highpass Cuttoff	0	4194304	Value	ValueOutput
+Filter Lowpass Type	0	4194304	Value	ValueOutput
+Filter Highpass Type	0	4194304	Value	ValueOutput
+MainOsc Attack Time	0	4194304	Value	ValueOutput
+MainOsc Release Time	0	4194304	Value	ValueOutput
+Pipe Filter	0	4194304	Value	ValueOutput
+Pipe Filter Feedback	0	4194304	Value	ValueOutput
+Pipe Feedback Invert	0	4194304	Value	ValueOutput
+Pipe Mode	0	4194304	Value	ValueOutput
+Pipe Offset	0	4194304	Value	ValueOutput
+Pipe Ratio	0	4194304	Value	ValueOutput
+Pipe Space Unison	0	4194304	Value	ValueOutput
+Flanger	0	4194304	Value	ValueOutput
+Flanger LFO Waveform	0	4194304	Value	ValueOutput
+Flanger LFO Rate	0	4194304	Value	ValueOutput
+Flanger LFO Depth	0	4194304	Value	ValueOutput
+Flanger Lowpass Cuttoff	0	4194304	Value	ValueOutput
+Flanger Time	0	4194304	Value	ValueOutput
+Flanger Feedback	0	4194304	Value	ValueOutput
+Flanger Level	0	4194304	Value	ValueOutput
+Reverberator	0	4194304	Value	ValueOutput
+Reverberator Time	0	4194304	Value	ValueOutput
+Reverberator Stereo Widt	0	4194304	Value	ValueOutput
+Reverberator Dry Level	0	4194304	Value	ValueOutput
+Reverberator Wet Level	0	4194304	Value	ValueOutput
+Reverberator Highpass Cu	0	4194304	Value	ValueOutput
+Reverberator Lowpass Cut	0	4194304	Value	ValueOutput
+Pattern Speed	0	4194304	Value	ValueOutput
+Pattern Portamento	0	4194304	Value	ValueOutput
+Pattern Step1	0	4194304	Value	ValueOutput
+Pattern Step2	0	4194304	Value	ValueOutput
+Pattern Step3	0	4194304	Value	ValueOutput
+Pattern Step4	0	4194304	Value	ValueOutput
+Pattern Step5	0	4194304	Value	ValueOutput
+Pattern Step6	0	4194304	Value	ValueOutput
+Pattern Step7	0	4194304	Value	ValueOutput
+Pattern Step8	0	4194304	Value	ValueOutput
+Pattern Step9	0	4194304	Value	ValueOutput
+Pattern Step10	0	4194304	Value	ValueOutput
+Pattern Step11	0	4194304	Value	ValueOutput
+Pattern Step12	0	4194304	Value	ValueOutput
+Pattern Step13	0	4194304	Value	ValueOutput
+Pattern Step14	0	4194304	Value	ValueOutput
+Pattern Step15	0	4194304	Value	ValueOutput
+Pattern Step16	0	4194304	Value	ValueOutput
+Use root note A4	0	4194304	Value	ValueOutput
+Loop	0	4194304	Value	ValueOutput
+Random parametrs	0	4194304	Value	ValueOutput
+Random parametrs	0	4194304	Value	ValueOutput
+Random parametrs	0	4194304	Value	ValueOutput
+Random parametrs	0	4194304	Value	ValueOutput
+Random parametrs	0	4194304	Value	ValueOutput
+Random parametrs	0	4194304	Value	ValueOutput
+Osc1 XY-pad	0	4194304	Value	ValueOutput
+Osc2 XY-pad	0	4194304	Value	ValueOutput
+Osc3 XY-pad	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

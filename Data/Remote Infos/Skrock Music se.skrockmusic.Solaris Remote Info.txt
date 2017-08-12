@@ -1,0 +1,158 @@
+Scope
+Manufacturer	Model
+Skrock Music	se.skrockmusic.Solaris
+
+Remotable	Min	Max	Input type	Output type
+Oscillator 1 Mute	0	1	Toggle	ValueOutput
+Oscillator 1 Select	0	23	Value	ValueOutput
+Oscillator 1 Start	0	4194304	Value	ValueOutput
+Oscillator 1 Level	0	4194304	Value	ValueOutput
+Oscillator 1 Pan	0	4194304	Value	ValueOutput
+Oscillator 1 Semi	0	4194304	Value	ValueOutput
+Oscillator 1 Fine	0	4194304	Value	ValueOutput
+Oscillator 1 Mod 1 Source	0	11	Value	ValueOutput
+Oscillator 1 Mod 1 Destination	0	6	Value	ValueOutput
+Oscillator 1 Mod 1 Amt	0	4194304	Value	ValueOutput
+Oscillator 1 Mod 2 Source	0	11	Value	ValueOutput
+Oscillator 1 Mod 2 Destination	0	6	Value	ValueOutput
+Oscillator 1 Mod 2 Amt	0	4194304	Value	ValueOutput
+Oscillator 2 Mute	0	1	Toggle	ValueOutput
+Oscillator 2 Select	0	23	Value	ValueOutput
+Oscillator 2 Start	0	4194304	Value	ValueOutput
+Oscillator 2 Level	0	4194304	Value	ValueOutput
+Oscillator 2 Pan	0	4194304	Value	ValueOutput
+Oscillator 2 Semi	0	4194304	Value	ValueOutput
+Oscillator 2 Fine	0	4194304	Value	ValueOutput
+Oscillator 2 Mod 1 Source	0	11	Value	ValueOutput
+Oscillator 2 Mod 1 Destination	0	6	Value	ValueOutput
+Oscillator 2 Mod 1 Amt	0	4194304	Value	ValueOutput
+Oscillator 2 Mod 2 Source	0	11	Value	ValueOutput
+Oscillator 2 Mod 2 Destination	0	6	Value	ValueOutput
+Oscillator 2 Mod 2 Amt	0	4194304	Value	ValueOutput
+Oscillator 3 Mute	0	1	Toggle	ValueOutput
+Oscillator 3 Select	0	23	Value	ValueOutput
+Oscillator 3 Start	0	4194304	Value	ValueOutput
+Oscillator 3 Level	0	4194304	Value	ValueOutput
+Oscillator 3 Pan	0	4194304	Value	ValueOutput
+Oscillator 3 Semi	0	4194304	Value	ValueOutput
+Oscillator 3 Fine	0	4194304	Value	ValueOutput
+Oscillator 3 Mod 1 Source	0	11	Value	ValueOutput
+Oscillator 3 Mod 1 Destination	0	6	Value	ValueOutput
+Oscillator 3 Mod 1 Amt	0	4194304	Value	ValueOutput
+Oscillator 3 Mod 2 Source	0	11	Value	ValueOutput
+Oscillator 3 Mod 2 Destination	0	6	Value	ValueOutput
+Oscillator 3 Mod 2 Amt	0	4194304	Value	ValueOutput
+Oscillator 4 Mute	0	1	Toggle	ValueOutput
+Oscillator 4 Select	0	23	Value	ValueOutput
+Oscillator 4 Start	0	4194304	Value	ValueOutput
+Oscillator 4 Level	0	4194304	Value	ValueOutput
+Oscillator 4 Pan	0	4194304	Value	ValueOutput
+Oscillator 4 Semi	0	4194304	Value	ValueOutput
+Oscillator 4 Fine	0	4194304	Value	ValueOutput
+Oscillator 4 Mod 1 Source	0	11	Value	ValueOutput
+Oscillator 4 Mod 1 Destination	0	6	Value	ValueOutput
+Oscillator 4 Mod 1 Amt	0	4194304	Value	ValueOutput
+Oscillator 4 Mod 2 Source	0	11	Value	ValueOutput
+Oscillator 4 Mod 2 Destination	0	6	Value	ValueOutput
+Oscillator 4 Mod 2 Amt	0	4194304	Value	ValueOutput
+Oscillator 5 Mute	0	1	Toggle	ValueOutput
+Oscillator 5 Select	0	23	Value	ValueOutput
+Oscillator 5 Start	0	4194304	Value	ValueOutput
+Oscillator 5 Level	0	4194304	Value	ValueOutput
+Oscillator 5 Pan	0	4194304	Value	ValueOutput
+Oscillator 5 Semi	0	4194304	Value	ValueOutput
+Oscillator 5 Fine	0	4194304	Value	ValueOutput
+Oscillator 5 Mod 1 Source	0	11	Value	ValueOutput
+Oscillator 5 Mod 1 Destination	0	6	Value	ValueOutput
+Oscillator 5 Mod 1 Amt	0	4194304	Value	ValueOutput
+Oscillator 5 Mod 2 Source	0	11	Value	ValueOutput
+Oscillator 5 Mod 2 Destination	0	6	Value	ValueOutput
+Oscillator 5 Mod 2 Amt	0	4194304	Value	ValueOutput
+Reverb Amount	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Pre Delay	0	4194304	Value	ValueOutput
+Flanger Amount	0	4194304	Value	ValueOutput
+Flanger Delay	0	4194304	Value	ValueOutput
+Flanger Rate	0	4194304	Value	ValueOutput
+Flanger Depth	0	4194304	Value	ValueOutput
+Flanger Feedback	0	4194304	Value	ValueOutput
+Glide_Time	0	4194304	Value	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Master Mod 1 Source	0	11	Value	ValueOutput
+Master Mod 1 Destination	0	6	Value	ValueOutput
+Master Mod 1 Amt	0	4194304	Value	ValueOutput
+Master Mod 2 Source	0	11	Value	ValueOutput
+Master Mod 2 Destination	0	6	Value	ValueOutput
+Master Mod 2 Amt	0	4194304	Value	ValueOutput
+Master Mod 3 Source	0	11	Value	ValueOutput
+Master Mod 3 Destination	0	6	Value	ValueOutput
+Master Mod 3 Amt	0	4194304	Value	ValueOutput
+Master Mod 4 Source	0	11	Value	ValueOutput
+Master Mod 4 Destination	0	6	Value	ValueOutput
+Master Mod 4 Amt	0	4194304	Value	ValueOutput
+Amp Attack	0	4194304	Value	ValueOutput
+Amp Decay	0	4194304	Value	ValueOutput
+Amp Decay Curve	0	4194304	Value	ValueOutput
+Amp Sustain	0	4194304	Value	ValueOutput
+Amp Release	0	4194304	Value	ValueOutput
+Amp Velocity	0	4194304	Value	ValueOutput
+LP24 Filter Settings	0	1	Toggle	ValueOutput
+LP24 Filter Cutoff	0	4194304	Value	ValueOutput
+LP24 Filter Reso	0	4194304	Value	ValueOutput
+Filter Attack	0	4194304	Value	ValueOutput
+Filter Decay	0	4194304	Value	ValueOutput
+Filter Decay Curve	0	4194304	Value	ValueOutput
+Filter Sustain	0	4194304	Value	ValueOutput
+Filter Release	0	4194304	Value	ValueOutput
+LP24 Env Amt	0	4194304	Value	ValueOutput
+LP24 Key	0	4194304	Value	ValueOutput
+Filter Velocity	0	4194304	Value	ValueOutput
+Drive Amt	0	4194304	Value	ValueOutput
+Drive Pre/Post	0	1	Toggle	ValueOutput
+Env 1 Attack	0	4194304	Value	ValueOutput
+Env 1 Decay	0	4194304	Value	ValueOutput
+Env 1 Sustain	0	4194304	Value	ValueOutput
+Env 1 Release	0	4194304	Value	ValueOutput
+Env 2 Attack	0	4194304	Value	ValueOutput
+Env 2 Decay	0	4194304	Value	ValueOutput
+Env 2 Sustain	0	4194304	Value	ValueOutput
+Env 2 Release	0	4194304	Value	ValueOutput
+Env 3 Attack	0	4194304	Value	ValueOutput
+Env 3 Decay	0	4194304	Value	ValueOutput
+Env 3 Sustain	0	4194304	Value	ValueOutput
+Env 3 Release	0	4194304	Value	ValueOutput
+Env 4 Attack	0	4194304	Value	ValueOutput
+Env 4 Decay	0	4194304	Value	ValueOutput
+Env 4 Sustain	0	4194304	Value	ValueOutput
+Env 4 Release	0	4194304	Value	ValueOutput
+LFO 1 Rate	0	12	Value	ValueOutput
+LFO 1 Phase	0	4194304	Value	ValueOutput
+LFO 1 Wave	0	5	Value	ValueOutput
+LFO 1 Retrig	0	1	Toggle	ValueOutput
+LFO 1 Attack	0	4194304	Value	ValueOutput
+LFO 2 Rate	0	12	Value	ValueOutput
+LFO 2 Phase	0	4194304	Value	ValueOutput
+LFO 2 Wave	0	5	Value	ValueOutput
+LFO 2 Retrig	0	1	Toggle	ValueOutput
+LFO 2 Attack	0	4194304	Value	ValueOutput
+LFO 3 Rate	0	12	Value	ValueOutput
+LFO 3 Phase	0	4194304	Value	ValueOutput
+LFO 3 Wave	0	5	Value	ValueOutput
+LFO 3 Retrig	0	1	Toggle	ValueOutput
+LFO 3 Attack	0	4194304	Value	ValueOutput
+LFO 4 Rate	0	12	Value	ValueOutput
+LFO 4 Phase	0	4194304	Value	ValueOutput
+LFO 4 Wave	0	5	Value	ValueOutput
+LFO 4 Retrig	0	1	Toggle	ValueOutput
+LFO 4 Attack	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,168 @@
+Scope
+Manufacturer	Model
+u-he	vst.FSVA.FilterscapeVA(x64)
+Note: Will match scope definitions for vst.FSVA.FilterscapeVA(x64) or vst.FSVA
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+main: Output	0	4194304	Value	ValueOutput
+main: Active #LFOG	0	4194304	Value	ValueOutput
+main: Active #Chrs	0	4194304	Value	ValueOutput
+main: Active #Dly1	0	4194304	Value	ValueOutput
+LFOG: Sync	0	4194304	Value	ValueOutput
+LFOG: Phase	0	4194304	Value	ValueOutput
+VCC: Active #LFO1	0	4194304	Value	ValueOutput
+VCC: Active #LFO2	0	4194304	Value	ValueOutput
+VCC: Active #VCF1	0	4194304	Value	ValueOutput
+VCC: Active #EQ1	0	4194304	Value	ValueOutput
+VCC: Voices	0	4194304	Value	ValueOutput
+VCC: Voice Stack	0	4194304	Value	ValueOutput
+VCC: Mode	0	4194304	Value	ValueOutput
+VCC: Glide	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod1	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod2	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod3	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod4	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod5	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod6	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod7	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod8	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod9	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod10	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod11	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod12	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod13	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod14	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod15	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod16	0	4194304	Value	ValueOutput
+ENV1: Attack	0	4194304	Value	ValueOutput
+ENV1: Decay	0	4194304	Value	ValueOutput
+ENV1: Sustain	0	4194304	Value	ValueOutput
+ENV1: Fall - Rise	0	4194304	Value	ValueOutput
+ENV1: Release	0	4194304	Value	ValueOutput
+ENV1: Velocity	0	4194304	Value	ValueOutput
+ENV2: Attack	0	4194304	Value	ValueOutput
+ENV2: Decay	0	4194304	Value	ValueOutput
+ENV2: Sustain	0	4194304	Value	ValueOutput
+ENV2: Fall - Rise	0	4194304	Value	ValueOutput
+ENV2: Release	0	4194304	Value	ValueOutput
+ENV2: Velocity	0	4194304	Value	ValueOutput
+ENV3: Attack	0	4194304	Value	ValueOutput
+ENV3: Decay	0	4194304	Value	ValueOutput
+ENV3: Sustain	0	4194304	Value	ValueOutput
+ENV3: Fall - Rise	0	4194304	Value	ValueOutput
+ENV3: Release	0	4194304	Value	ValueOutput
+ENV3: Velocity	0	4194304	Value	ValueOutput
+LFO1: Sync	0	4194304	Value	ValueOutput
+LFO1: Delay	0	4194304	Value	ValueOutput
+LFO2: Sync	0	4194304	Value	ValueOutput
+LFO2: Delay	0	4194304	Value	ValueOutput
+OSCs: WaveForm	0	4194304	Value	ValueOutput
+OSCs: Tune	0	4194304	Value	ValueOutput
+OSCs: key scale	0	4194304	Value	ValueOutput
+OSCs: TuneModDepth	0	4194304	Value	ValueOutput
+OSCs: Phase	0	4194304	Value	ValueOutput
+OSCs: PhaseModDepth	0	4194304	Value	ValueOutput
+OSCs: Inverse Volume	0	4194304	Value	ValueOutput
+OSCs: WaveForm 2	0	4194304	Value	ValueOutput
+OSCs: Tune 2	0	4194304	Value	ValueOutput
+OSCs: key scale 2	0	4194304	Value	ValueOutput
+OSCs: TuneModDepth 2	0	4194304	Value	ValueOutput
+OSCs: Phase 2	0	4194304	Value	ValueOutput
+OSCs: PhaseModDepth 2	0	4194304	Value	ValueOutput
+OSCs: Inverse Volume 2	0	4194304	Value	ValueOutput
+OSCs: Detune	0	4194304	Value	ValueOutput
+OSCs: Volume 1	0	4194304	Value	ValueOutput
+OSCs: Volume 2	0	4194304	Value	ValueOutput
+OSCs: RingMod	0	4194304	Value	ValueOutput
+OSCs: PhaseMod	0	4194304	Value	ValueOutput
+OSCs: Warp	0	4194304	Value	ValueOutput
+OSCs: Warp2	0	4194304	Value	ValueOutput
+OSCs: PMModDepth	0	4194304	Value	ValueOutput
+OSCs: WarpModDepth	0	4194304	Value	ValueOutput
+OSCs: WarpModDepth 2	0	4194304	Value	ValueOutput
+OSCs: SubOsc Vol	0	4194304	Value	ValueOutput
+OSCs: SubOsc Wave	0	4194304	Value	ValueOutput
+OSCs: Noise Vol	0	4194304	Value	ValueOutput
+OSCs: Noise ModDepth	0	4194304	Value	ValueOutput
+OSCs: Vibrato	0	4194304	Value	ValueOutput
+VCF1: Type	0	4194304	Value	ValueOutput
+VCF1: Cutoff	0	4194304	Value	ValueOutput
+VCF1: Resonance	0	4194304	Value	ValueOutput
+VCF1: Drive	0	4194304	Value	ValueOutput
+VCF1: Gain	0	4194304	Value	ValueOutput
+VCF1: Freq mod 1	0	4194304	Value	ValueOutput
+VCF1: Freq mod 2	0	4194304	Value	ValueOutput
+VCF1: KeyFollow	0	4194304	Value	ValueOutput
+VCF1: Bias	0	4194304	Value	ValueOutput
+VCF1: Click	0	4194304	Value	ValueOutput
+VCF1: Osc1-FM	0	4194304	Value	ValueOutput
+EQ1: Gain Scale	0	4194304	Value	ValueOutput
+EQ1: Snapshot Morph	0	4194304	Value	ValueOutput
+EQ1: Mod: Band1 FM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band1 GM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band2 FM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band2 GM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band3 FM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band3 GM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band4 FM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band4 GM	0	4194304	Value	ValueOutput
+EQ1: Mod: Output M	0	4194304	Value	ValueOutput
+EQ1: Mod: Band1 FMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band1 GMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band2 FMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band2 GMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band3 FMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band3 GMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band4 FMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band4 GMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Output MS	0	4194304	Value	ValueOutput
+EQ1: Auto Proceed Mode	0	4194304	Value	ValueOutput
+EQ1: Auto Proceed Time	0	4194304	Value	ValueOutput
+EQ1: Mod: Snapshot S	0	4194304	Value	ValueOutput
+EQ1: Mod: Snapshot D	0	4194304	Value	ValueOutput
+VCA1: Pan	0	4194304	Value	ValueOutput
+VCA1: Volume	0	4194304	Value	ValueOutput
+VCA1: ModDepth	0	4194304	Value	ValueOutput
+Chrs: Center	0	4194304	Value	ValueOutput
+Chrs: Speed	0	4194304	Value	ValueOutput
+Chrs: Depth	0	4194304	Value	ValueOutput
+Chrs: Feedback	0	4194304	Value	ValueOutput
+Chrs: Mix	0	4194304	Value	ValueOutput
+Dly1: Sync Left	0	4194304	Value	ValueOutput
+Dly1: Sync Right	0	4194304	Value	ValueOutput
+Dly1: Feedback	0	4194304	Value	ValueOutput
+Dly1: Crossfeed	0	4194304	Value	ValueOutput
+Dly1: Mix	0	4194304	Value	ValueOutput
+LFOG: Waveform	0	4194304	Value	ValueOutput
+LFOG: Polarity	0	4194304	Value	ValueOutput
+LFO1: Restart	0	4194304	Value	ValueOutput
+LFO1: Waveform	0	4194304	Value	ValueOutput
+LFO1: Phase	0	4194304	Value	ValueOutput
+LFO1: Polarity	0	4194304	Value	ValueOutput
+LFO1: DepthMod Dpt1	0	4194304	Value	ValueOutput
+LFO1: Rate	0	4194304	Value	ValueOutput
+LFO1: FreqMod Dpt	0	4194304	Value	ValueOutput
+LFO2: Restart	0	4194304	Value	ValueOutput
+LFO2: Waveform	0	4194304	Value	ValueOutput
+LFO2: Phase	0	4194304	Value	ValueOutput
+LFO2: Polarity	0	4194304	Value	ValueOutput
+LFO2: DepthMod Dpt1	0	4194304	Value	ValueOutput
+LFO2: Rate	0	4194304	Value	ValueOutput
+LFO2: FreqMod Dpt	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

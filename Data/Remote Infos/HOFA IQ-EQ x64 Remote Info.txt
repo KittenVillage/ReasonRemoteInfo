@@ -1,0 +1,151 @@
+Scope
+Manufacturer	Model
+HOFA	vst.hfx0.HOFA IQ-EQ x64
+Note: Will match scope definitions for vst.hfx0.HOFA IQ-EQ x64 or vst.hfx0
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Freq-1	0	4194304	Value	ValueOutput
+Q-1	0	4194304	Value	ValueOutput
+Gain-1	0	4194304	Value	ValueOutput
+Type-1	0	4194304	Value	ValueOutput
+Attack-1	0	4194304	Value	ValueOutput
+Release-1	0	4194304	Value	ValueOutput
+Thresh-1	0	4194304	Value	ValueOutput
+Ratio-1	0	4194304	Value	ValueOutput
+SCFreq-1	0	4194304	Value	ValueOutput
+SCQ-1	0	4194304	Value	ValueOutput
+SCGain-1	0	4194304	Value	ValueOutput
+SCType-1	0	4194304	Value	ValueOutput
+SCRouting-1	0	4194304	Value	ValueOutput
+SCSource-1	0	4194304	Value	ValueOutput
+GRLimit-1	0	4194304	Value	ValueOutput
+Routing-1	0	4194304	Value	ValueOutput
+Enabled-1	0	4194304	Value	ValueOutput
+LookAhead-1	0	4194304	Value	ValueOutput
+BypassDyn-1	0	4194304	Value	ValueOutput
+Freq-2	0	4194304	Value	ValueOutput
+Q-2	0	4194304	Value	ValueOutput
+Gain-2	0	4194304	Value	ValueOutput
+Type-2	0	4194304	Value	ValueOutput
+Attack-2	0	4194304	Value	ValueOutput
+Release-2	0	4194304	Value	ValueOutput
+Thresh-2	0	4194304	Value	ValueOutput
+Ratio-2	0	4194304	Value	ValueOutput
+SCFreq-2	0	4194304	Value	ValueOutput
+SCQ-2	0	4194304	Value	ValueOutput
+SCGain-2	0	4194304	Value	ValueOutput
+SCType-2	0	4194304	Value	ValueOutput
+SCRouting-2	0	4194304	Value	ValueOutput
+SCSource-2	0	4194304	Value	ValueOutput
+GRLimit-2	0	4194304	Value	ValueOutput
+Routing-2	0	4194304	Value	ValueOutput
+Enabled-2	0	4194304	Value	ValueOutput
+LookAhead-2	0	4194304	Value	ValueOutput
+BypassDyn-2	0	4194304	Value	ValueOutput
+Freq-3	0	4194304	Value	ValueOutput
+Q-3	0	4194304	Value	ValueOutput
+Gain-3	0	4194304	Value	ValueOutput
+Type-3	0	4194304	Value	ValueOutput
+Attack-3	0	4194304	Value	ValueOutput
+Release-3	0	4194304	Value	ValueOutput
+Thresh-3	0	4194304	Value	ValueOutput
+Ratio-3	0	4194304	Value	ValueOutput
+SCFreq-3	0	4194304	Value	ValueOutput
+SCQ-3	0	4194304	Value	ValueOutput
+SCGain-3	0	4194304	Value	ValueOutput
+SCType-3	0	4194304	Value	ValueOutput
+SCRouting-3	0	4194304	Value	ValueOutput
+SCSource-3	0	4194304	Value	ValueOutput
+GRLimit-3	0	4194304	Value	ValueOutput
+Routing-3	0	4194304	Value	ValueOutput
+Enabled-3	0	4194304	Value	ValueOutput
+LookAhead-3	0	4194304	Value	ValueOutput
+BypassDyn-3	0	4194304	Value	ValueOutput
+Freq-4	0	4194304	Value	ValueOutput
+Q-4	0	4194304	Value	ValueOutput
+Gain-4	0	4194304	Value	ValueOutput
+Type-4	0	4194304	Value	ValueOutput
+Attack-4	0	4194304	Value	ValueOutput
+Release-4	0	4194304	Value	ValueOutput
+Thresh-4	0	4194304	Value	ValueOutput
+Ratio-4	0	4194304	Value	ValueOutput
+SCFreq-4	0	4194304	Value	ValueOutput
+SCQ-4	0	4194304	Value	ValueOutput
+SCGain-4	0	4194304	Value	ValueOutput
+SCType-4	0	4194304	Value	ValueOutput
+SCRouting-4	0	4194304	Value	ValueOutput
+SCSource-4	0	4194304	Value	ValueOutput
+GRLimit-4	0	4194304	Value	ValueOutput
+Routing-4	0	4194304	Value	ValueOutput
+Enabled-4	0	4194304	Value	ValueOutput
+LookAhead-4	0	4194304	Value	ValueOutput
+BypassDyn-4	0	4194304	Value	ValueOutput
+Freq-5	0	4194304	Value	ValueOutput
+Q-5	0	4194304	Value	ValueOutput
+Gain-5	0	4194304	Value	ValueOutput
+Type-5	0	4194304	Value	ValueOutput
+Attack-5	0	4194304	Value	ValueOutput
+Release-5	0	4194304	Value	ValueOutput
+Thresh-5	0	4194304	Value	ValueOutput
+Ratio-5	0	4194304	Value	ValueOutput
+SCFreq-5	0	4194304	Value	ValueOutput
+SCQ-5	0	4194304	Value	ValueOutput
+SCGain-5	0	4194304	Value	ValueOutput
+SCType-5	0	4194304	Value	ValueOutput
+SCRouting-5	0	4194304	Value	ValueOutput
+SCSource-5	0	4194304	Value	ValueOutput
+GRLimit-5	0	4194304	Value	ValueOutput
+Routing-5	0	4194304	Value	ValueOutput
+Enabled-5	0	4194304	Value	ValueOutput
+LookAhead-5	0	4194304	Value	ValueOutput
+BypassDyn-5	0	4194304	Value	ValueOutput
+Freq-6	0	4194304	Value	ValueOutput
+Q-6	0	4194304	Value	ValueOutput
+Gain-6	0	4194304	Value	ValueOutput
+Type-6	0	4194304	Value	ValueOutput
+Attack-6	0	4194304	Value	ValueOutput
+Release-6	0	4194304	Value	ValueOutput
+Thresh-6	0	4194304	Value	ValueOutput
+Ratio-6	0	4194304	Value	ValueOutput
+SCFreq-6	0	4194304	Value	ValueOutput
+SCQ-6	0	4194304	Value	ValueOutput
+SCGain-6	0	4194304	Value	ValueOutput
+SCType-6	0	4194304	Value	ValueOutput
+SCRouting-6	0	4194304	Value	ValueOutput
+SCSource-6	0	4194304	Value	ValueOutput
+GRLimit-6	0	4194304	Value	ValueOutput
+Routing-6	0	4194304	Value	ValueOutput
+Enabled-6	0	4194304	Value	ValueOutput
+LookAhead-6	0	4194304	Value	ValueOutput
+BypassDyn-6	0	4194304	Value	ValueOutput
+hp-Freq	0	4194304	Value	ValueOutput
+hp-Q	0	4194304	Value	ValueOutput
+hp-Type	0	4194304	Value	ValueOutput
+hp-Enable	0	4194304	Value	ValueOutput
+lp-Freq	0	4194304	Value	ValueOutput
+lp-Q	0	4194304	Value	ValueOutput
+lp-Type	0	4194304	Value	ValueOutput
+lp-Enable	0	4194304	Value	ValueOutput
+ingain	0	4194304	Value	ValueOutput
+outgain	0	4194304	Value	ValueOutput
+OS_offline	0	4194304	Value	ValueOutput
+OS_online	0	4194304	Value	ValueOutput
+Analyser	0	4194304	Value	ValueOutput
+MasterBypass	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

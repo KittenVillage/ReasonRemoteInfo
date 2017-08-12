@@ -1,0 +1,114 @@
+Scope
+Manufacturer	Model
+Acon Digital	vst.ACEQ.Equalize
+Note: Will match scope definitions for vst.ACEQ.Equalize or vst.ACEQ
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+MasterGain	0	4194304	Value	ValueOutput
+PhaseMode	0	4194304	Value	ValueOutput
+Latency	0	4194304	Value	ValueOutput
+AnalyserDropOff	0	4194304	Value	ValueOutput
+Analyzer1Mode	0	4194304	Value	ValueOutput
+Analyzer2Mode	0	4194304	Value	ValueOutput
+BandFilterType1	0	4194304	Value	ValueOutput
+BandFrequency1	0	4194304	Value	ValueOutput
+BandGain1	0	4194304	Value	ValueOutput
+BandWidth1	0	4194304	Value	ValueOutput
+BandFilterSlope	0	4194304	Value	ValueOutput
+BandChannelMode	0	4194304	Value	ValueOutput
+BandFilterType2	0	4194304	Value	ValueOutput
+BandFrequency2	0	4194304	Value	ValueOutput
+BandGain2	0	4194304	Value	ValueOutput
+BandWidth2	0	4194304	Value	ValueOutput
+BandFilterSlope	0	4194304	Value	ValueOutput
+BandChannelMode	0	4194304	Value	ValueOutput
+BandFilterType3	0	4194304	Value	ValueOutput
+BandFrequency3	0	4194304	Value	ValueOutput
+BandGain3	0	4194304	Value	ValueOutput
+BandWidth3	0	4194304	Value	ValueOutput
+BandFilterSlope	0	4194304	Value	ValueOutput
+BandChannelMode	0	4194304	Value	ValueOutput
+BandFilterType4	0	4194304	Value	ValueOutput
+BandFrequency4	0	4194304	Value	ValueOutput
+BandGain4	0	4194304	Value	ValueOutput
+BandWidth4	0	4194304	Value	ValueOutput
+BandFilterSlope	0	4194304	Value	ValueOutput
+BandChannelMode	0	4194304	Value	ValueOutput
+BandFilterType5	0	4194304	Value	ValueOutput
+BandFrequency5	0	4194304	Value	ValueOutput
+BandGain5	0	4194304	Value	ValueOutput
+BandWidth5	0	4194304	Value	ValueOutput
+BandFilterSlope	0	4194304	Value	ValueOutput
+BandChannelMode	0	4194304	Value	ValueOutput
+BandFilterType6	0	4194304	Value	ValueOutput
+BandFrequency6	0	4194304	Value	ValueOutput
+BandGain6	0	4194304	Value	ValueOutput
+BandWidth6	0	4194304	Value	ValueOutput
+BandFilterSlope	0	4194304	Value	ValueOutput
+BandChannelMode	0	4194304	Value	ValueOutput
+BandFilterType7	0	4194304	Value	ValueOutput
+BandFrequency7	0	4194304	Value	ValueOutput
+BandGain7	0	4194304	Value	ValueOutput
+BandWidth7	0	4194304	Value	ValueOutput
+BandFilterSlope	0	4194304	Value	ValueOutput
+BandChannelMode	0	4194304	Value	ValueOutput
+BandFilterType8	0	4194304	Value	ValueOutput
+BandFrequency8	0	4194304	Value	ValueOutput
+BandGain8	0	4194304	Value	ValueOutput
+BandWidth8	0	4194304	Value	ValueOutput
+BandFilterSlope	0	4194304	Value	ValueOutput
+BandChannelMode	0	4194304	Value	ValueOutput
+BandFilterType9	0	4194304	Value	ValueOutput
+BandFrequency9	0	4194304	Value	ValueOutput
+BandGain9	0	4194304	Value	ValueOutput
+BandWidth9	0	4194304	Value	ValueOutput
+BandFilterSlope	0	4194304	Value	ValueOutput
+BandChannelMode	0	4194304	Value	ValueOutput
+BandFilterType1	0	4194304	Value	ValueOutput
+BandFrequency10	0	4194304	Value	ValueOutput
+BandGain10	0	4194304	Value	ValueOutput
+BandWidth10	0	4194304	Value	ValueOutput
+BandFilterSlope	0	4194304	Value	ValueOutput
+BandChannelMode	0	4194304	Value	ValueOutput
+BandFilterType1	0	4194304	Value	ValueOutput
+BandFrequency11	0	4194304	Value	ValueOutput
+BandGain11	0	4194304	Value	ValueOutput
+BandWidth11	0	4194304	Value	ValueOutput
+BandFilterSlope	0	4194304	Value	ValueOutput
+BandChannelMode	0	4194304	Value	ValueOutput
+BandFilterType1	0	4194304	Value	ValueOutput
+BandFrequency12	0	4194304	Value	ValueOutput
+BandGain12	0	4194304	Value	ValueOutput
+BandWidth12	0	4194304	Value	ValueOutput
+BandFilterSlope	0	4194304	Value	ValueOutput
+BandChannelMode	0	4194304	Value	ValueOutput
+AutoGain	0	4194304	Value	ValueOutput
+BandResonance1	0	4194304	Value	ValueOutput
+BandResonance2	0	4194304	Value	ValueOutput
+BandResonance3	0	4194304	Value	ValueOutput
+BandResonance4	0	4194304	Value	ValueOutput
+BandResonance5	0	4194304	Value	ValueOutput
+BandResonance6	0	4194304	Value	ValueOutput
+BandResonance7	0	4194304	Value	ValueOutput
+BandResonance8	0	4194304	Value	ValueOutput
+BandResonance9	0	4194304	Value	ValueOutput
+BandResonance10	0	4194304	Value	ValueOutput
+BandResonance11	0	4194304	Value	ValueOutput
+BandResonance12	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

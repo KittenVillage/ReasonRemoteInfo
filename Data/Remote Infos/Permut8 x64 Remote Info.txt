@@ -1,0 +1,44 @@
+Scope
+Manufacturer	Model
+Sonic Charge	vst.NuPr.Permut8 x64
+Note: Will match scope definitions for vst.NuPr.Permut8 x64 or vst.NuPr
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Write Protect	0	4194304	Value	ValueOutput
+Reset	0	4194304	Value	ValueOutput
+MIDI Control	0	4194304	Value	ValueOutput
+Input Level	0	4194304	Value	ValueOutput
+Limiter On/Off	0	4194304	Value	ValueOutput
+Filter Frequency	0	4194304	Value	ValueOutput
+Filter Placement	0	4194304	Value	ValueOutput
+Feedback Amount	0	4194304	Value	ValueOutput
+Feedback Flip L/R	0	4194304	Value	ValueOutput
+Feedback Invert	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Wet Mix	0	4194304	Value	ValueOutput
+Clock Frequency	0	4194304	Value	ValueOutput
+Sync Mode	0	4194304	Value	ValueOutput
+Reverse Mode	0	4194304	Value	ValueOutput
+Operator 1	0	4194304	Value	ValueOutput
+Operand 1 High	0	4194304	Value	ValueOutput
+Operand 1 Low	0	4194304	Value	ValueOutput
+Operator 2	0	4194304	Value	ValueOutput
+Operand 2 High	0	4194304	Value	ValueOutput
+Operand 2 Low	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

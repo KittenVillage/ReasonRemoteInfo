@@ -1,0 +1,79 @@
+Scope
+Manufacturer	Model
+Overloud	vst.MS-2.Mark Studio 2-64
+Note: Will match scope definitions for vst.MS-2.Mark Studio 2-64 or vst.MS-2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Amp Ratio	0	4194304	Value	ValueOutput
+Low	0	4194304	Value	ValueOutput
+MF Low	0	4194304	Value	ValueOutput
+MF Low Level	0	4194304	Value	ValueOutput
+MF High	0	4194304	Value	ValueOutput
+MF High Level	0	4194304	Value	ValueOutput
+High	0	4194304	Value	ValueOutput
+VLE	0	4194304	Value	ValueOutput
+VPF	0	4194304	Value	ValueOutput
+Line Out	0	4194304	Value	ValueOutput
+Master	0	4194304	Value	ValueOutput
+Power	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Mute	0	4194304	Value	ValueOutput
+P40Hz	0	4194304	Value	ValueOutput
+P80Hz	0	4194304	Value	ValueOutput
+P250Hz	0	4194304	Value	ValueOutput
+P400Hz	0	4194304	Value	ValueOutput
+P1.2kHz	0	4194304	Value	ValueOutput
+P2kHz	0	4194304	Value	ValueOutput
+P4kHz	0	4194304	Value	ValueOutput
+Mic Position	0	4194304	Value	ValueOutput
+Mic Distance	0	4194304	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+Ultra Bass	0	4194304	Value	ValueOutput
+Direct	0	4194304	Value	ValueOutput
+Tweeter	0	4194304	Value	ValueOutput
+Rear	0	4194304	Value	ValueOutput
+Room	0	4194304	Value	ValueOutput
+Bass Reflex	0	4194304	Value	ValueOutput
+CHR-5:Power	0	4194304	Value	ValueOutput
+CHR-5:Force Mono	0	4194304	Value	ValueOutput
+CHR-5:Speed	0	4194304	Value	ValueOutput
+CHR-5:Depth	0	4194304	Value	ValueOutput
+CHR-5:Low	0	4194304	Value	ValueOutput
+CHR-5:High	0	4194304	Value	ValueOutput
+CHR-5:Effect	0	4194304	Value	ValueOutput
+Octaver:Power	0	4194304	Value	ValueOutput
+Octaver:Dry	0	4194304	Value	ValueOutput
+Octaver:Oct1	0	4194304	Value	ValueOutput
+Octaver:Oct2	0	4194304	Value	ValueOutput
+Octaver:Tone	0	4194304	Value	ValueOutput
+Compressor:Power	0	4194304	Value	ValueOutput
+Compressor:Gain	0	4194304	Value	ValueOutput
+Compressor:Ratio	0	4194304	Value	ValueOutput
+Compressor:Attac	0	4194304	Value	ValueOutput
+Compressor:Rel	0	4194304	Value	ValueOutput
+Distortion:Power	0	4194304	Value	ValueOutput
+Distortion:Gain	0	4194304	Value	ValueOutput
+Distortion:Trebl	0	4194304	Value	ValueOutput
+Distortion:Outpu	0	4194304	Value	ValueOutput
+Env-Filter:Power	0	4194304	Value	ValueOutput
+Env-Filter:Filte	0	4194304	Value	ValueOutput
+Env-Filter:Sens	0	4194304	Value	ValueOutput
+Env-Filter:Res	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

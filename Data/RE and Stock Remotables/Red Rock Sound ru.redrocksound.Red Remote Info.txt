@@ -1,0 +1,96 @@
+Scope
+Manufacturer	Model
+Red Rock Sound	ru.redrocksound.Red
+
+Remotable	Min	Max	Input type	Output type
+Global Tune	0	4194304	Value	ValueOutput
+Global Glide	0	4194304	Value	ValueOutput
+Global Volume	0	4194304	Value	ValueOutput
+Global Legato	0	1	Toggle	ValueOutput
+Voice Count	0	7	Value	ValueOutput
+Unison	0	1	Toggle	ValueOutput
+Voices Detune	0	4194304	Value	ValueOutput
+Display 1 Time Scale	0	4194304	Value	ValueOutput
+Display 2 Time Scale	0	4194304	Value	ValueOutput
+OSC1/OSC2 Sync	0	1	Toggle	ValueOutput
+Pan Spread	0	4194304	Value	ValueOutput
+Pitch Bend Range	0	11	Value	ValueOutput
+Mixer OSC1	0	4194304	Value	ValueOutput
+Mixer OSC2	0	4194304	Value	ValueOutput
+Mixer Noise	0	4194304	Value	ValueOutput
+OSC1 Octave	0	4	Value	ValueOutput
+OSC1 Band	0	4194304	Value	ValueOutput
+OSC1 Sine	0	1	Toggle	ValueOutput
+OSC1 Triangle	0	1	Toggle	ValueOutput
+OSC1 Saw	0	1	Toggle	ValueOutput
+OSC1 Pulse	0	1	Toggle	ValueOutput
+OSC1 Pulse Width	0	4194304	Value	ValueOutput
+OSC1 Xmod	0	4194304	Value	ValueOutput
+OSC2 Octave	0	4	Value	ValueOutput
+OSC2 Sine Band	0	4194304	Value	ValueOutput
+OSC2 Triangle Band	0	4194304	Value	ValueOutput
+OSC2 Saw Band	0	4194304	Value	ValueOutput
+OSC2 Pulse Band	0	4194304	Value	ValueOutput
+OSC2 Sine	0	1	Toggle	ValueOutput
+OSC2 Triangle	0	1	Toggle	ValueOutput
+OSC2 Saw	0	1	Toggle	ValueOutput
+OSC2 Pulse	0	1	Toggle	ValueOutput
+OSC2 Pulse Width	0	4194304	Value	ValueOutput
+OSC2 Detune	0	4194304	Value	ValueOutput
+LFO1 Mode	0	3	Value	ValueOutput
+LFO1 Sync Rate	0	8	Value	ValueOutput
+LFO2 Mode	0	3	Value	ValueOutput
+LFO2 Speed	0	4194304	Value	ValueOutput
+VCF Attack	0	4194304	Value	ValueOutput
+VCF Decay	0	4194304	Value	ValueOutput
+VCF Sustain	0	4194304	Value	ValueOutput
+VCF Release	0	4194304	Value	ValueOutput
+VCF AD Mode	0	1	Toggle	ValueOutput
+VCF Velocity	0	4194304	Value	ValueOutput
+VCF Mode	0	3	Value	ValueOutput
+VCF Cutoff	0	4194304	Value	ValueOutput
+VCF Resonance	0	4194304	Value	ValueOutput
+VCF Envelope	0	4194304	Value	ValueOutput
+VCA Attack	0	4194304	Value	ValueOutput
+VCA Decay	0	4194304	Value	ValueOutput
+VCA Sustain	0	4194304	Value	ValueOutput
+VCA Release	0	4194304	Value	ValueOutput
+VCA AD Mode	0	1	Toggle	ValueOutput
+VCA Velocity	0	4194304	Value	ValueOutput
+VCE Attack	0	4194304	Value	ValueOutput
+VCE Decay	0	4194304	Value	ValueOutput
+VCE Sustain	0	4194304	Value	ValueOutput
+VCE Release	0	4194304	Value	ValueOutput
+VCE AD Mode	0	1	Toggle	ValueOutput
+VCE Velocity	0	4194304	Value	ValueOutput
+FilterX Route	0	7	Value	ValueOutput
+FilterX Mode	0	2	Value	ValueOutput
+FilterX Cutoff	0	4194304	Value	ValueOutput
+FilterX Resonance	0	4194304	Value	ValueOutput
+Mod Src 1	0	11	Value	ValueOutput
+Mod Src 2	0	11	Value	ValueOutput
+Mod Src 3	0	11	Value	ValueOutput
+Mod Src 4	0	11	Value	ValueOutput
+Mod Src 5	0	11	Value	ValueOutput
+Mod Src 6	0	11	Value	ValueOutput
+Mod Dst 1	0	37	Value	ValueOutput
+Mod Dst 2	0	37	Value	ValueOutput
+Mod Dst 3	0	37	Value	ValueOutput
+Mod Dst 4	0	37	Value	ValueOutput
+Mod Dst 5	0	37	Value	ValueOutput
+Mod Dst 6	0	37	Value	ValueOutput
+Mod Amt 1	0	4194304	Value	ValueOutput
+Mod Amt 2	0	4194304	Value	ValueOutput
+Mod Amt 3	0	4194304	Value	ValueOutput
+Mod Amt 4	0	4194304	Value	ValueOutput
+Mod Amt 5	0	4194304	Value	ValueOutput
+Mod Amt 6	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

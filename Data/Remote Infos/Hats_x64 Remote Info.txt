@@ -1,0 +1,58 @@
+Scope
+Manufacturer	Model
+AudioThing	vst.HATS.Hats_x64
+Note: Will match scope definitions for vst.HATS.Hats_x64 or vst.HATS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Noise Grain	0	4194304	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+Noise Stereo	0	4194304	Value	ValueOutput
+Noise Power	0	4194304	Value	ValueOutput
+Sample Pitch	0	4194304	Value	ValueOutput
+Sample Gain	0	4194304	Value	ValueOutput
+Sample Start	0	4194304	Value	ValueOutput
+Sample Post Fil	0	4194304	Value	ValueOutput
+Sample Power	0	4194304	Value	ValueOutput
+Attack Short	0	4194304	Value	ValueOutput
+Attack Long	0	4194304	Value	ValueOutput
+Decay Short	0	4194304	Value	ValueOutput
+Decay Long	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Depth	0	4194304	Value	ValueOutput
+LFO Destination	0	4194304	Value	ValueOutput
+LFO Power	0	4194304	Value	ValueOutput
+RingMod Freq	0	4194304	Value	ValueOutput
+RingMod Depth	0	4194304	Value	ValueOutput
+RingMod Power	0	4194304	Value	ValueOutput
+Filter Frequenc	0	4194304	Value	ValueOutput
+Filter Resonanc	0	4194304	Value	ValueOutput
+Filter Power	0	4194304	Value	ValueOutput
+Crusher Bit	0	4194304	Value	ValueOutput
+Crusher Rate	0	4194304	Value	ValueOutput
+Crusher Power	0	4194304	Value	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Wet	0	4194304	Value	ValueOutput
+Reverb Power	0	4194304	Value	ValueOutput
+Randomness	0	4194304	Value	ValueOutput
+Master Gain	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Sample Pitch 2	0	4194304	Value	ValueOutput
+Sample Gain 2	0	4194304	Value	ValueOutput
+Sample Start 2	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

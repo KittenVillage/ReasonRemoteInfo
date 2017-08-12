@@ -1,0 +1,178 @@
+Scope
+Manufacturer	Model
+DMGAudio	vst.DGPf.PitchFunkMono
+Note: Will match scope definitions for vst.DGPf.PitchFunkMono or vst.DGPf
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Shift	0	4194304	Value	ValueOutput
+Wet/Dry	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Freq	0	4194304	Value	ValueOutput
+Q	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+DelayMode	0	4194304	Value	ValueOutput
+FiltType	0	4194304	Value	ValueOutput
+Smoothing	0	4194304	Value	ValueOutput
+OutputMix	0	4194304	Value	ValueOutput
+Mod 1->1	0	4194304	Value	ValueOutput
+Mod 1->2	0	4194304	Value	ValueOutput
+Mod 1->3	0	4194304	Value	ValueOutput
+Mod 1->4	0	4194304	Value	ValueOutput
+Mod 1->5	0	4194304	Value	ValueOutput
+Mod 1->6	0	4194304	Value	ValueOutput
+Mod 1->7	0	4194304	Value	ValueOutput
+Mod 1->8	0	4194304	Value	ValueOutput
+Mod 1->9	0	4194304	Value	ValueOutput
+Mod 2->1	0	4194304	Value	ValueOutput
+Mod 2->2	0	4194304	Value	ValueOutput
+Mod 2->3	0	4194304	Value	ValueOutput
+Mod 2->4	0	4194304	Value	ValueOutput
+Mod 2->5	0	4194304	Value	ValueOutput
+Mod 2->6	0	4194304	Value	ValueOutput
+Mod 2->7	0	4194304	Value	ValueOutput
+Mod 2->8	0	4194304	Value	ValueOutput
+Mod 2->9	0	4194304	Value	ValueOutput
+Mod 3->1	0	4194304	Value	ValueOutput
+Mod 3->2	0	4194304	Value	ValueOutput
+Mod 3->3	0	4194304	Value	ValueOutput
+Mod 3->4	0	4194304	Value	ValueOutput
+Mod 3->5	0	4194304	Value	ValueOutput
+Mod 3->6	0	4194304	Value	ValueOutput
+Mod 3->7	0	4194304	Value	ValueOutput
+Mod 3->8	0	4194304	Value	ValueOutput
+Mod 3->9	0	4194304	Value	ValueOutput
+Mod 4->1	0	4194304	Value	ValueOutput
+Mod 4->2	0	4194304	Value	ValueOutput
+Mod 4->3	0	4194304	Value	ValueOutput
+Mod 4->4	0	4194304	Value	ValueOutput
+Mod 4->5	0	4194304	Value	ValueOutput
+Mod 4->6	0	4194304	Value	ValueOutput
+Mod 4->7	0	4194304	Value	ValueOutput
+Mod 4->8	0	4194304	Value	ValueOutput
+Mod 4->9	0	4194304	Value	ValueOutput
+PitchLock	0	4194304	Value	ValueOutput
+Shift 2	0	4194304	Value	ValueOutput
+Wet/Dry 2	0	4194304	Value	ValueOutput
+Delay 2	0	4194304	Value	ValueOutput
+Feedback 2	0	4194304	Value	ValueOutput
+Gain 2	0	4194304	Value	ValueOutput
+Freq 2	0	4194304	Value	ValueOutput
+Q 2	0	4194304	Value	ValueOutput
+Mode 2	0	4194304	Value	ValueOutput
+DelayMode 2	0	4194304	Value	ValueOutput
+FiltType 2	0	4194304	Value	ValueOutput
+Smoothing 2	0	4194304	Value	ValueOutput
+OutputMix 2	0	4194304	Value	ValueOutput
+Mod 1->1 2	0	4194304	Value	ValueOutput
+Mod 1->2 2	0	4194304	Value	ValueOutput
+Mod 1->3 2	0	4194304	Value	ValueOutput
+Mod 1->4 2	0	4194304	Value	ValueOutput
+Mod 1->5 2	0	4194304	Value	ValueOutput
+Mod 1->6 2	0	4194304	Value	ValueOutput
+Mod 1->7 2	0	4194304	Value	ValueOutput
+Mod 1->8 2	0	4194304	Value	ValueOutput
+Mod 1->9 2	0	4194304	Value	ValueOutput
+Mod 2->1 2	0	4194304	Value	ValueOutput
+Mod 2->2 2	0	4194304	Value	ValueOutput
+Mod 2->3 2	0	4194304	Value	ValueOutput
+Mod 2->4 2	0	4194304	Value	ValueOutput
+Mod 2->5 2	0	4194304	Value	ValueOutput
+Mod 2->6 2	0	4194304	Value	ValueOutput
+Mod 2->7 2	0	4194304	Value	ValueOutput
+Mod 2->8 2	0	4194304	Value	ValueOutput
+Mod 2->9 2	0	4194304	Value	ValueOutput
+Mod 3->1 2	0	4194304	Value	ValueOutput
+Mod 3->2 2	0	4194304	Value	ValueOutput
+Mod 3->3 2	0	4194304	Value	ValueOutput
+Mod 3->4 2	0	4194304	Value	ValueOutput
+Mod 3->5 2	0	4194304	Value	ValueOutput
+Mod 3->6 2	0	4194304	Value	ValueOutput
+Mod 3->7 2	0	4194304	Value	ValueOutput
+Mod 3->8 2	0	4194304	Value	ValueOutput
+Mod 3->9 2	0	4194304	Value	ValueOutput
+Mod 4->1 2	0	4194304	Value	ValueOutput
+Mod 4->2 2	0	4194304	Value	ValueOutput
+Mod 4->3 2	0	4194304	Value	ValueOutput
+Mod 4->4 2	0	4194304	Value	ValueOutput
+Mod 4->5 2	0	4194304	Value	ValueOutput
+Mod 4->6 2	0	4194304	Value	ValueOutput
+Mod 4->7 2	0	4194304	Value	ValueOutput
+Mod 4->8 2	0	4194304	Value	ValueOutput
+Mod 4->9 2	0	4194304	Value	ValueOutput
+PitchLock 2	0	4194304	Value	ValueOutput
+Synch 1	0	4194304	Value	ValueOutput
+Trip 1	0	4194304	Value	ValueOutput
+Swing 1	0	4194304	Value	ValueOutput
+Smooth 1	0	4194304	Value	ValueOutput
+Phase 1	0	4194304	Value	ValueOutput
+Synch 2	0	4194304	Value	ValueOutput
+Trip 2	0	4194304	Value	ValueOutput
+Swing 2	0	4194304	Value	ValueOutput
+Smooth 2	0	4194304	Value	ValueOutput
+Phase 2	0	4194304	Value	ValueOutput
+Synch 3	0	4194304	Value	ValueOutput
+Trip 3	0	4194304	Value	ValueOutput
+Swing 3	0	4194304	Value	ValueOutput
+Smooth 3	0	4194304	Value	ValueOutput
+Phase 3	0	4194304	Value	ValueOutput
+Env LPF	0	4194304	Value	ValueOutput
+Env Attack	0	4194304	Value	ValueOutput
+Env Release	0	4194304	Value	ValueOutput
+Env Thresh	0	4194304	Value	ValueOutput
+Env Scale	0	4194304	Value	ValueOutput
+Env Source	0	4194304	Value	ValueOutput
+Aliasing	0	4194304	Value	ValueOutput
+Distortion	0	4194304	Value	ValueOutput
+DelaySmooth	0	4194304	Value	ValueOutput
+Stereo Mode	0	4194304	Value	ValueOutput
+Delay Synch	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+SpliceScalar	0	4194304	Value	ValueOutput
+Delay Synch 2	0	4194304	Value	ValueOutput
+Delay Time 2	0	4194304	Value	ValueOutput
+SpliceScalar 2	0	4194304	Value	ValueOutput
+SynchFree 1	0	4194304	Value	ValueOutput
+Free Freq 1	0	4194304	Value	ValueOutput
+Polarity 1	0	4194304	Value	ValueOutput
+Retrigger Type 1	0	4194304	Value	ValueOutput
+Retrigger 1	0	4194304	Value	ValueOutput
+SynchFree 2	0	4194304	Value	ValueOutput
+Free Freq 2	0	4194304	Value	ValueOutput
+Polarity 2	0	4194304	Value	ValueOutput
+Retrigger Type 2	0	4194304	Value	ValueOutput
+Retrigger 2	0	4194304	Value	ValueOutput
+SynchFree 3	0	4194304	Value	ValueOutput
+Free Freq 3	0	4194304	Value	ValueOutput
+Polarity 3	0	4194304	Value	ValueOutput
+Retrigger Type 3	0	4194304	Value	ValueOutput
+Retrigger 3	0	4194304	Value	ValueOutput
+Topology	0	4194304	Value	ValueOutput
+FX Mix	0	4194304	Value	ValueOutput
+Gain Stage	0	4194304	Value	ValueOutput
+Dual Phase	0	4194304	Value	ValueOutput
+Preset Sequence	0	4194304	Value	ValueOutput
+Sequence Rate	0	4194304	Value	ValueOutput
+Sequence Rate Tr	0	4194304	Value	ValueOutput
+Sequence Random	0	4194304	Value	ValueOutput
+MIDI Enable	0	4194304	Value	ValueOutput
+Sync	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

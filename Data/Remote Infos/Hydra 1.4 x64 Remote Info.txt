@@ -1,0 +1,105 @@
+Scope
+Manufacturer	Model
+Synapse Audio	vst.HYDR.Hydra 1_4 x64
+Note: Will match scope definitions for vst.HYDR.Hydra 1_4 x64 or vst.HYDR
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Osc1-C	0	4194304	Value	ValueOutput
+Osc1-F	0	4194304	Value	ValueOutput
+Osc1-Sat	0	4194304	Value	ValueOutput
+Level/RM	0	4194304	Value	ValueOutput
+Rate	0	4194304	Value	ValueOutput
+Amount	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Amp-Atk	0	4194304	Value	ValueOutput
+Amp-Dec	0	4194304	Value	ValueOutput
+Amp-Sus	0	4194304	Value	ValueOutput
+Amp-Rel	0	4194304	Value	ValueOutput
+Osc2-C	0	4194304	Value	ValueOutput
+Osc2-F	0	4194304	Value	ValueOutput
+Osc2-Sat	0	4194304	Value	ValueOutput
+Osc2-Dcy	0	4194304	Value	ValueOutput
+Flt-Cut	0	4194304	Value	ValueOutput
+Flt-Reso	0	4194304	Value	ValueOutput
+Flt-Env	0	4194304	Value	ValueOutput
+Flt-Sep	0	4194304	Value	ValueOutput
+Flt-Atk	0	4194304	Value	ValueOutput
+Flt-Dec	0	4194304	Value	ValueOutput
+Flt-Sus	0	4194304	Value	ValueOutput
+Flt-Rel	0	4194304	Value	ValueOutput
+Osc1W	0	4194304	Value	ValueOutput
+Osc2W	0	4194304	Value	ValueOutput
+Flt-KbTrk	0	4194304	Value	ValueOutput
+LFO-Sync	0	4194304	Value	ValueOutput
+Osc-Routing	0	4194304	Value	ValueOutput
+PercEnv	0	4194304	Value	ValueOutput
+Ch-Sync	0	4194304	Value	ValueOutput
+LfoOsc	0	4194304	Value	ValueOutput
+Unison	0	4194304	Value	ValueOutput
+Flt-Type	0	4194304	Value	ValueOutput
+Flt-Inv	0	4194304	Value	ValueOutput
+DN-Amt	0	4194304	Value	ValueOutput
+DN-Dly	0	4194304	Value	ValueOutput
+DN-Dcy	0	4194304	Value	ValueOutput
+DN-Rel	0	4194304	Value	ValueOutput
+UP-Amt	0	4194304	Value	ValueOutput
+UP-Dly	0	4194304	Value	ValueOutput
+UP-Dcy	0	4194304	Value	ValueOutput
+UP-Rel	0	4194304	Value	ValueOutput
+Ch-Amt	0	4194304	Value	ValueOutput
+Ch-Dly	0	4194304	Value	ValueOutput
+Ch-Mod	0	4194304	Value	ValueOutput
+Ch-Rate	0	4194304	Value	ValueOutput
+Ch-Spr	0	4194304	Value	ValueOutput
+Ch-Low	0	4194304	Value	ValueOutput
+Ch-High	0	4194304	Value	ValueOutput
+Ch-Fbk	0	4194304	Value	ValueOutput
+Bass-Amt	0	4194304	Value	ValueOutput
+Bass-Sat	0	4194304	Value	ValueOutput
+Bass-Frq	0	4194304	Value	ValueOutput
+Bass-Spr	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Low	0	4194304	Value	ValueOutput
+High	0	4194304	Value	ValueOutput
+Master	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+SharedFilt	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+Osc3-C	0	4194304	Value	ValueOutput
+Osc3-F	0	4194304	Value	ValueOutput
+Osc3-KeyTrk	0	4194304	Value	ValueOutput
+Osc3-Decay	0	4194304	Value	ValueOutput
+Osc3-Sustain	0	4194304	Value	ValueOutput
+Osc3-Level	0	4194304	Value	ValueOutput
+Osc2-Sustain	0	4194304	Value	ValueOutput
+Mod Wheel	0	4194304	Value	ValueOutput
+Vel-Amp	0	4194304	Value	ValueOutput
+Vel-Filt	0	4194304	Value	ValueOutput
+Vel-Osc3	0	4194304	Value	ValueOutput
+Vel-Amp	0	4194304	Value	ValueOutput
+Vel-Filt	0	4194304	Value	ValueOutput
+Vel-Osc3	0	4194304	Value	ValueOutput
+Vel-Amp	0	4194304	Value	ValueOutput
+Vel-Filt	0	4194304	Value	ValueOutput
+Vel-Osc3	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

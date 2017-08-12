@@ -1,0 +1,49 @@
+Scope
+Manufacturer	Model
+Waves	vst.TVMX.WaveShell-VST 9_91_x64.TrueVerb Mono/Stereo
+Note: Will match scope definitions for vst.TVMX.WaveShell-VST 9_91_x64.TrueVerb Mono/Stereo or vst.TVMX
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Decay Time	0	4194304	Value	ValueOutput
+Low Damp Ratio	0	4194304	Value	ValueOutput
+Low Freq Cut	0	4194304	Value	ValueOutput
+Hi Damp Ratio	0	4194304	Value	ValueOutput
+Hi Freq Cut	0	4194304	Value	ValueOutput
+Distance	0	4194304	Value	ValueOutput
+Dimension	0	4194304	Value	ValueOutput
+EVar	0	4194304	Value	ValueOutput
+RoomSize	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Er Ref In/Out 	0	4194304	Value	ValueOutput
+RevLink ->	0	4194304	Value	ValueOutput
+Freq	0	4194304	Value	ValueOutput
+ER Absorb	0	4194304	Value	ValueOutput
+Pre Delay	0	4194304	Value	ValueOutput
+RVar	0	4194304	Value	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Rev Shelf	0	4194304	Value	ValueOutput
+Direct In/Out	0	4194304	Value	ValueOutput
+Reverb In/Out	0	4194304	Value	ValueOutput
+Density	0	4194304	Value	ValueOutput
+Balance	0	4194304	Value	ValueOutput
+Direct Mix	0	4194304	Value	ValueOutput
+Er Ref Mix	0	4194304	Value	ValueOutput
+Er Lowcut On	0	4194304	Value	ValueOutput
+Er Lowcut Freq	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,55 @@
+Scope
+Manufacturer	Model
+Ddmf	vst.StPl.StereooeretS
+Note: Will match scope definitions for vst.StPl.StereooeretS or vst.StPl
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+HighVol	0	4194304	Value	ValueOutput
+HighWidth	0	4194304	Value	ValueOutput
+HighAngle	0	4194304	Value	ValueOutput
+LowVol	0	4194304	Value	ValueOutput
+LowWidth	0	4194304	Value	ValueOutput
+LowAngle	0	4194304	Value	ValueOutput
+LowSplitFreq	0	4194304	Value	ValueOutput
+LeftAudioValue	0	4194304	Value	ValueOutput
+RightAudioValue	0	4194304	Value	ValueOutput
+LPhi	0	4194304	Value	ValueOutput
+RPhi	0	4194304	Value	ValueOutput
+LRSwitch	0	4194304	Value	ValueOutput
+HighMidSolo	0	4194304	Value	ValueOutput
+HighSideSolo	0	4194304	Value	ValueOutput
+LowMidSolo	0	4194304	Value	ValueOutput
+LowSideSolo	0	4194304	Value	ValueOutput
+LRin	0	4194304	Value	ValueOutput
+PrePost	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+LeftVol	0	4194304	Value	ValueOutput
+LeftAngle	0	4194304	Value	ValueOutput
+RightVol	0	4194304	Value	ValueOutput
+RightAngle	0	4194304	Value	ValueOutput
+wichtig	0	4194304	Value	ValueOutput
+MidVol	0	4194304	Value	ValueOutput
+MidWidth	0	4194304	Value	ValueOutput
+MidAngle	0	4194304	Value	ValueOutput
+MidMidSolo	0	4194304	Value	ValueOutput
+MidSideSolo	0	4194304	Value	ValueOutput
+HighSplitFreq	0	4194304	Value	ValueOutput
+HigherOrder	0	4194304	Value	ValueOutput
+MonoOut	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

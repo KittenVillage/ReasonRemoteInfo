@@ -1,0 +1,577 @@
+Scope
+Manufacturer	Model
+Arturia	vst.MOD3.Modular V3
+Note: Will match scope definitions for vst.MOD3.Modular V3 or vst.MOD3
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+AttackTime Vca1	0	4194304	Value	ValueOutput
+SlopeTime Vca1	0	4194304	Value	ValueOutput
+DecayTime Vca1	0	4194304	Value	ValueOutput
+ReleaseTime Vca1	0	4194304	Value	ValueOutput
+SlopeLevel Vca1	0	4194304	Value	ValueOutput
+SustainLevel Vca1	0	4194304	Value	ValueOutput
+Level Vca1	0	4194304	Value	ValueOutput
+Amount AM Vca1	0	4194304	Value	ValueOutput
+AttackTime Vca2	0	4194304	Value	ValueOutput
+SlopeTime Vca2	0	4194304	Value	ValueOutput
+DecayTime Vca2	0	4194304	Value	ValueOutput
+ReleaseTime Vca2	0	4194304	Value	ValueOutput
+SlopeLevel Vca2	0	4194304	Value	ValueOutput
+SustainLevel Vca2	0	4194304	Value	ValueOutput
+Level Vca2	0	4194304	Value	ValueOutput
+Amount AM Vca2	0	4194304	Value	ValueOutput
+AttackTime Env1	0	4194304	Value	ValueOutput
+DecayTime Env1	0	4194304	Value	ValueOutput
+ReleaseTime Env1	0	4194304	Value	ValueOutput
+SustainLevel Env1	0	4194304	Value	ValueOutput
+AttackTime Env2	0	4194304	Value	ValueOutput
+DecayTime Env2	0	4194304	Value	ValueOutput
+ReleaseTime Env2	0	4194304	Value	ValueOutput
+SustainLevel Env2	0	4194304	Value	ValueOutput
+AttackTime Env3	0	4194304	Value	ValueOutput
+DecayTime Env3	0	4194304	Value	ValueOutput
+ReleaseTime Env3	0	4194304	Value	ValueOutput
+SustainLevel Env3	0	4194304	Value	ValueOutput
+AttackTime Env4	0	4194304	Value	ValueOutput
+DecayTime Env4	0	4194304	Value	ValueOutput
+ReleaseTime Env4	0	4194304	Value	ValueOutput
+SustainLevel Env4	0	4194304	Value	ValueOutput
+AttackTime Env5	0	4194304	Value	ValueOutput
+DecayTime Env5	0	4194304	Value	ValueOutput
+ReleaseTime Env5	0	4194304	Value	ValueOutput
+SustainLevel Env5	0	4194304	Value	ValueOutput
+AttackTime Env6	0	4194304	Value	ValueOutput
+DecayTime Env6	0	4194304	Value	ValueOutput
+ReleaseTime Env6	0	4194304	Value	ValueOutput
+SustainLevel Env6	0	4194304	Value	ValueOutput
+CutOff Filter1	0	4194304	Value	ValueOutput
+Resonance Filter1	0	4194304	Value	ValueOutput
+Gain Filter1	0	4194304	Value	ValueOutput
+Amount FM1 Filter1	0	4194304	Value	ValueOutput
+Amount FM1 Filter1	0	4194304	Value	ValueOutput
+Amount FM1 Filter1	0	4194304	Value	ValueOutput
+Amount RM1 Filter1	0	4194304	Value	ValueOutput
+CutOff Filter2	0	4194304	Value	ValueOutput
+Resonance Filter2	0	4194304	Value	ValueOutput
+Gain Filter2	0	4194304	Value	ValueOutput
+Amount FM1 Filter2	0	4194304	Value	ValueOutput
+Amount FM2 Filter2	0	4194304	Value	ValueOutput
+Amount FM3 Filter2	0	4194304	Value	ValueOutput
+Amount RM Filter2	0	4194304	Value	ValueOutput
+CutOff Filter3	0	4194304	Value	ValueOutput
+Resonance Filter3	0	4194304	Value	ValueOutput
+Gain Filter3	0	4194304	Value	ValueOutput
+Amount FM1 Filter3	0	4194304	Value	ValueOutput
+Amount FM2 Filter3	0	4194304	Value	ValueOutput
+Amount FM3 Filter3	0	4194304	Value	ValueOutput
+Amount RM Filter3	0	4194304	Value	ValueOutput
+Width Osc1	0	4194304	Value	ValueOutput
+Tune Osc1	0	4194304	Value	ValueOutput
+Transpose Osc1-2-3	0	4194304	Value	ValueOutput
+Accord Osc1	0	4194304	Value	ValueOutput
+Amount FM1 Osc1	0	4194304	Value	ValueOutput
+Amount FM2 Osc1	0	4194304	Value	ValueOutput
+Amount FM3 Osc1	0	4194304	Value	ValueOutput
+Amount FM4 Osc1	0	4194304	Value	ValueOutput
+Amount FM5 Osc1	0	4194304	Value	ValueOutput
+Amount PWM1 Osc1	0	4194304	Value	ValueOutput
+Amount PWM2 Osc1	0	4194304	Value	ValueOutput
+Width Osc2	0	4194304	Value	ValueOutput
+Tune Osc2	0	4194304	Value	ValueOutput
+Frequence Osc2	0	4194304	Value	ValueOutput
+Accord Osc2	0	4194304	Value	ValueOutput
+Amount FM1 Osc2	0	4194304	Value	ValueOutput
+Amount FM2 Osc2	0	4194304	Value	ValueOutput
+Amount FM3 Osc2	0	4194304	Value	ValueOutput
+Amount FM4 Osc2	0	4194304	Value	ValueOutput
+Amount FM5 Osc2	0	4194304	Value	ValueOutput
+Amount PWM1 Osc2	0	4194304	Value	ValueOutput
+Amount PWM2 Osc2	0	4194304	Value	ValueOutput
+Width Osc3	0	4194304	Value	ValueOutput
+Tune Osc3	0	4194304	Value	ValueOutput
+Frequence Osc3	0	4194304	Value	ValueOutput
+Accord Osc3	0	4194304	Value	ValueOutput
+Amount FM1 Osc3	0	4194304	Value	ValueOutput
+Amount FM2 Osc3	0	4194304	Value	ValueOutput
+Amount FM3 Osc3	0	4194304	Value	ValueOutput
+Amount FM4 Osc3	0	4194304	Value	ValueOutput
+Amount FM5 Osc3	0	4194304	Value	ValueOutput
+Amount PWM1 Osc3	0	4194304	Value	ValueOutput
+Amount PWM2 Osc3	0	4194304	Value	ValueOutput
+Width Osc4	0	4194304	Value	ValueOutput
+Tune Osc4	0	4194304	Value	ValueOutput
+Frequence Osc4	0	4194304	Value	ValueOutput
+Accord Osc4	0	4194304	Value	ValueOutput
+Amount FM1 Osc4	0	4194304	Value	ValueOutput
+Amount FM2 Osc4	0	4194304	Value	ValueOutput
+Amount FM3 Osc4	0	4194304	Value	ValueOutput
+Amount FM4 Osc4	0	4194304	Value	ValueOutput
+Amount FM5 Osc4	0	4194304	Value	ValueOutput
+Amount PWM1 Osc4	0	4194304	Value	ValueOutput
+Amount PWM2 Osc4	0	4194304	Value	ValueOutput
+Width Osc5	0	4194304	Value	ValueOutput
+Tune Osc5	0	4194304	Value	ValueOutput
+Frequence Osc5	0	4194304	Value	ValueOutput
+Accord Osc5	0	4194304	Value	ValueOutput
+Amount FM1 Osc5	0	4194304	Value	ValueOutput
+Amount FM2 Osc5	0	4194304	Value	ValueOutput
+Amount FM3 Osc5	0	4194304	Value	ValueOutput
+Amount FM4 Osc5	0	4194304	Value	ValueOutput
+Amount FM5 Osc5	0	4194304	Value	ValueOutput
+Amount PWM1 Osc5	0	4194304	Value	ValueOutput
+Amount PWM2 Osc5	0	4194304	Value	ValueOutput
+Width Osc6	0	4194304	Value	ValueOutput
+Tune Osc6	0	4194304	Value	ValueOutput
+Frequence Osc6	0	4194304	Value	ValueOutput
+Accord Osc6	0	4194304	Value	ValueOutput
+Amount FM1 Osc6	0	4194304	Value	ValueOutput
+Amount FM2 Osc6	0	4194304	Value	ValueOutput
+Amount FM3 Osc6	0	4194304	Value	ValueOutput
+Amount FM4 Osc6	0	4194304	Value	ValueOutput
+Amount FM5 Osc6	0	4194304	Value	ValueOutput
+Amount PWM1 Osc6	0	4194304	Value	ValueOutput
+Amount PWM2 Osc6	0	4194304	Value	ValueOutput
+Width Osc7	0	4194304	Value	ValueOutput
+Tune Osc7	0	4194304	Value	ValueOutput
+Frequence Osc7	0	4194304	Value	ValueOutput
+Accord Osc7	0	4194304	Value	ValueOutput
+Amount FM1 Osc7	0	4194304	Value	ValueOutput
+Amount FM2 Osc7	0	4194304	Value	ValueOutput
+Amount FM3 Osc7	0	4194304	Value	ValueOutput
+Amount FM4 Osc7	0	4194304	Value	ValueOutput
+Amount FM5 Osc7	0	4194304	Value	ValueOutput
+Amount PWM1 Osc7	0	4194304	Value	ValueOutput
+Amount PWM2 Osc7	0	4194304	Value	ValueOutput
+Width Osc8	0	4194304	Value	ValueOutput
+Tune Osc8	0	4194304	Value	ValueOutput
+Frequence Osc8	0	4194304	Value	ValueOutput
+Accord Osc8	0	4194304	Value	ValueOutput
+Amount FM1 Osc8	0	4194304	Value	ValueOutput
+Amount FM2 Osc8	0	4194304	Value	ValueOutput
+Amount FM3 Osc8	0	4194304	Value	ValueOutput
+Amount FM4 Osc8	0	4194304	Value	ValueOutput
+Amount FM5 Osc8	0	4194304	Value	ValueOutput
+Amount PWM1 Osc8	0	4194304	Value	ValueOutput
+Amount PWM2 Osc8	0	4194304	Value	ValueOutput
+Width Osc9	0	4194304	Value	ValueOutput
+Tune Osc9	0	4194304	Value	ValueOutput
+Frequence Osc9	0	4194304	Value	ValueOutput
+Accord Osc9	0	4194304	Value	ValueOutput
+Amount FM1 Osc9	0	4194304	Value	ValueOutput
+Amount FM2 Osc9	0	4194304	Value	ValueOutput
+Amount FM3 Osc9	0	4194304	Value	ValueOutput
+Amount FM4 Osc9	0	4194304	Value	ValueOutput
+Amount FM5 Osc9	0	4194304	Value	ValueOutput
+Amount PWM1 Osc9	0	4194304	Value	ValueOutput
+Amount PWM2 Osc9	0	4194304	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Panoramic Vca1	0	4194304	Value	ValueOutput
+Panoramic Vca2	0	4194304	Value	ValueOutput
+Level Band1 FilterBank	0	4194304	Value	ValueOutput
+Level Band2 FilterBank	0	4194304	Value	ValueOutput
+Level Band3 FilterBank	0	4194304	Value	ValueOutput
+Level Band4 FilterBank	0	4194304	Value	ValueOutput
+Level Band5 FilterBank	0	4194304	Value	ValueOutput
+Level Band6 FilterBank	0	4194304	Value	ValueOutput
+Level Band7 FilterBank	0	4194304	Value	ValueOutput
+Level Band8 FilterBank	0	4194304	Value	ValueOutput
+Level Band9 FilterBank	0	4194304	Value	ValueOutput
+Level Band10 FilterBank	0	4194304	Value	ValueOutput
+Level Band11 FilterBank	0	4194304	Value	ValueOutput
+Level Band12 FilterBank	0	4194304	Value	ValueOutput
+Level Band13 FilterBank	0	4194304	Value	ValueOutput
+Level Band14 FilterBank	0	4194304	Value	ValueOutput
+Quality Band2 FilterBank	0	4194304	Value	ValueOutput
+Quality Band3 FilterBank	0	4194304	Value	ValueOutput
+Quality Band4 FilterBank	0	4194304	Value	ValueOutput
+Quality Band5 FilterBank	0	4194304	Value	ValueOutput
+Quality Band6 FilterBank	0	4194304	Value	ValueOutput
+Quality Band7 FilterBank	0	4194304	Value	ValueOutput
+Quality Band8 FilterBank	0	4194304	Value	ValueOutput
+Quality Band9 FilterBank	0	4194304	Value	ValueOutput
+Quality Band10 FilterBan	0	4194304	Value	ValueOutput
+Quality Band11 FilterBan	0	4194304	Value	ValueOutput
+Quality Band12 FilterBan	0	4194304	Value	ValueOutput
+Quality Band13 FilterBan	0	4194304	Value	ValueOutput
+Volum FilterBank	0	4194304	Value	ValueOutput
+Gain Mixer1	0	4194304	Value	ValueOutput
+Gain Mixer2	0	4194304	Value	ValueOutput
+Gain Mixer3	0	4194304	Value	ValueOutput
+Gain Mixer4	0	4194304	Value	ValueOutput
+Gain Mixer5	0	4194304	Value	ValueOutput
+Gain Mixer6	0	4194304	Value	ValueOutput
+Gain Mixer7	0	4194304	Value	ValueOutput
+Gain Mixer8	0	4194304	Value	ValueOutput
+Gain Mixer9	0	4194304	Value	ValueOutput
+Gain Mixer10	0	4194304	Value	ValueOutput
+Gain Mixer11	0	4194304	Value	ValueOutput
+Gain Mixer12	0	4194304	Value	ValueOutput
+Gain Mixer13	0	4194304	Value	ValueOutput
+Gain Mixer14	0	4194304	Value	ValueOutput
+Gain Mixer15	0	4194304	Value	ValueOutput
+Gain Mixer16	0	4194304	Value	ValueOutput
+Amount AM Mixer1	0	4194304	Value	ValueOutput
+Amount AM Mixer2	0	4194304	Value	ValueOutput
+Amount AM Mixer3	0	4194304	Value	ValueOutput
+Amount AM Mixer4	0	4194304	Value	ValueOutput
+Amount AM Mixer5	0	4194304	Value	ValueOutput
+Amount AM Mixer6	0	4194304	Value	ValueOutput
+Amount AM Mixer7	0	4194304	Value	ValueOutput
+Amount AM Mixer8	0	4194304	Value	ValueOutput
+Amount AM Mixer9	0	4194304	Value	ValueOutput
+Amount AM Mixer10	0	4194304	Value	ValueOutput
+Amount AM Mixer11	0	4194304	Value	ValueOutput
+Amount AM Mixer12	0	4194304	Value	ValueOutput
+Amount AM Mixer13	0	4194304	Value	ValueOutput
+Amount AM Mixer14	0	4194304	Value	ValueOutput
+Amount AM Mixer15	0	4194304	Value	ValueOutput
+Amount AM Mixer16	0	4194304	Value	ValueOutput
+CutOff Noise HighPass	0	4194304	Value	ValueOutput
+CutOff Noise LowPass	0	4194304	Value	ValueOutput
+Rate Lfo1	0	4194304	Value	ValueOutput
+Width Lfo1	0	4194304	Value	ValueOutput
+Delay Lfo1	0	4194304	Value	ValueOutput
+Fade In Lfo1	0	4194304	Value	ValueOutput
+Amount FM Lfo1	0	4194304	Value	ValueOutput
+Amount PWM Lfo1	0	4194304	Value	ValueOutput
+Rate Lfo2	0	4194304	Value	ValueOutput
+Width Lfo2	0	4194304	Value	ValueOutput
+Delay Lfo2	0	4194304	Value	ValueOutput
+Fade In Lfo2	0	4194304	Value	ValueOutput
+Amount FM Lfo2	0	4194304	Value	ValueOutput
+Amount PWM Lfo2	0	4194304	Value	ValueOutput
+Rate Sequencer	0	4194304	Value	ValueOutput
+Glide1 Sequencer	0	4194304	Value	ValueOutput
+Glide2 Sequencer	0	4194304	Value	ValueOutput
+Glide3 Sequencer	0	4194304	Value	ValueOutput
+Glide4 Sequencer	0	4194304	Value	ValueOutput
+Sustain Time Sequencer	0	4194304	Value	ValueOutput
+Amount FM Sequencer	0	4194304	Value	ValueOutput
+Joystick1 X	0	4194304	Value	ValueOutput
+Joystick1 Y	0	4194304	Value	ValueOutput
+Joystick2 X	0	4194304	Value	ValueOutput
+Joystick2 Y	0	4194304	Value	ValueOutput
+Out1 Step1 Sequencer	0	4194304	Value	ValueOutput
+Out2 Step1 Sequencer	0	4194304	Value	ValueOutput
+Out3 Step1 Sequencer	0	4194304	Value	ValueOutput
+Out1 Step2 Sequencer	0	4194304	Value	ValueOutput
+Out2 Step2 Sequencer	0	4194304	Value	ValueOutput
+Out3 Step2 Sequencer	0	4194304	Value	ValueOutput
+Out1 Step3 Sequencer	0	4194304	Value	ValueOutput
+Out2 Step3 Sequencer	0	4194304	Value	ValueOutput
+Out3 Step3 Sequencer	0	4194304	Value	ValueOutput
+Out1 Step4 Sequencer	0	4194304	Value	ValueOutput
+Out2 Step4 Sequencer	0	4194304	Value	ValueOutput
+Out3 Step4 Sequencer	0	4194304	Value	ValueOutput
+Out1 Step5 Sequencer	0	4194304	Value	ValueOutput
+Out2 Step5 Sequencer	0	4194304	Value	ValueOutput
+Out3 Step5 Sequencer	0	4194304	Value	ValueOutput
+Out1 Step6 Sequencer	0	4194304	Value	ValueOutput
+Out2 Step6 Sequencer	0	4194304	Value	ValueOutput
+Out3 Step6 Sequencer	0	4194304	Value	ValueOutput
+Out1 Step7 Sequencer	0	4194304	Value	ValueOutput
+Out2 Step7 Sequencer	0	4194304	Value	ValueOutput
+Out3 Step7 Sequencer	0	4194304	Value	ValueOutput
+Out1 Step8 Sequencer	0	4194304	Value	ValueOutput
+Out2 Step8 Sequencer	0	4194304	Value	ValueOutput
+Out3 Step8 Sequencer	0	4194304	Value	ValueOutput
+RateLeft Delay	0	4194304	Value	ValueOutput
+RateRight Delay	0	4194304	Value	ValueOutput
+FeedBackLeft Delay	0	4194304	Value	ValueOutput
+FeedBackRight Delay	0	4194304	Value	ValueOutput
+CrossFeedBackLeft Delay	0	4194304	Value	ValueOutput
+CrossFeedBackRight Delay	0	4194304	Value	ValueOutput
+Dry Level Delay	0	4194304	Value	ValueOutput
+Wet Level Delay	0	4194304	Value	ValueOutput
+Amount Chorus	0	4194304	Value	ValueOutput
+Delay Chorus	0	4194304	Value	ValueOutput
+Rate Chorus	0	4194304	Value	ValueOutput
+StereoRate Chorus	0	4194304	Value	ValueOutput
+StereoWidth Chorus	0	4194304	Value	ValueOutput
+Dry Level Chorus/Phaser	0	4194304	Value	ValueOutput
+Wet Level Chorus	0	4194304	Value	ValueOutput
+Phaser Sweep	0	4194304	Value	ValueOutput
+Phaser Resonance	0	4194304	Value	ValueOutput
+Phaser Rate	0	4194304	Value	ValueOutput
+Wet Level Phaser	0	4194304	Value	ValueOutput
+Phaser Amount	0	4194304	Value	ValueOutput
+Phaser Stereo	0	4194304	Value	ValueOutput
+Time Follower1	0	4194304	Value	ValueOutput
+Threshold Follower1	0	4194304	Value	ValueOutput
+Time Follower2	0	4194304	Value	ValueOutput
+Threshold Follower2	0	4194304	Value	ValueOutput
+Time Follower3	0	4194304	Value	ValueOutput
+Threshold Follower3	0	4194304	Value	ValueOutput
+Time Follower4	0	4194304	Value	ValueOutput
+Threshold Follower4	0	4194304	Value	ValueOutput
+Rate S&H1	0	4194304	Value	ValueOutput
+Glide S&H1	0	4194304	Value	ValueOutput
+Rate S&H2	0	4194304	Value	ValueOutput
+Glide S&H2	0	4194304	Value	ValueOutput
+Rate Ring Mod	0	4194304	Value	ValueOutput
+Depth Ring Mod	0	4194304	Value	ValueOutput
+Amount FM Ring Mod	0	4194304	Value	ValueOutput
+Amount DM Ring Mod	0	4194304	Value	ValueOutput
+Frequency BodeShift	0	4194304	Value	ValueOutput
+Mixture BodeShift	0	4194304	Value	ValueOutput
+Amount FM1 BodeShift	0	4194304	Value	ValueOutput
+Amount FM2 BodeShift	0	4194304	Value	ValueOutput
+Amount FM3 BodeShift	0	4194304	Value	ValueOutput
+Voice Detune	0	4194304	Value	ValueOutput
+Vowel FormantFilter	0	4194304	Value	ValueOutput
+Amount Vowel FormantFilt	0	4194304	Value	ValueOutput
+Freq Formant1	0	4194304	Value	ValueOutput
+Gain Formant1	0	4194304	Value	ValueOutput
+Res  Formant1	0	4194304	Value	ValueOutput
+Freq Formant2	0	4194304	Value	ValueOutput
+Gain Formant2	0	4194304	Value	ValueOutput
+Res  Formant2	0	4194304	Value	ValueOutput
+Freq Formant3	0	4194304	Value	ValueOutput
+Gain Formant3	0	4194304	Value	ValueOutput
+Res  Formant3	0	4194304	Value	ValueOutput
+Freq Formant4	0	4194304	Value	ValueOutput
+Gain Formant4	0	4194304	Value	ValueOutput
+Res  Formant4	0	4194304	Value	ValueOutput
+Amount FM Formant1	0	4194304	Value	ValueOutput
+Amount GM Formant1	0	4194304	Value	ValueOutput
+Amount RM Formant1	0	4194304	Value	ValueOutput
+Amount FM Formant2	0	4194304	Value	ValueOutput
+Amount GM Formant2	0	4194304	Value	ValueOutput
+Amount RM Formant2	0	4194304	Value	ValueOutput
+Amount FM Formant3	0	4194304	Value	ValueOutput
+Amount GM Formant3	0	4194304	Value	ValueOutput
+Amount RM Formant3	0	4194304	Value	ValueOutput
+Amount FM Formant4	0	4194304	Value	ValueOutput
+Amount GM Formant4	0	4194304	Value	ValueOutput
+Amount RM Formant4	0	4194304	Value	ValueOutput
+General Volume	0	4194304	Value	ValueOutput
+General Tune	0	4194304	Value	ValueOutput
+Osc. Coarse Bender	0	4194304	Value	ValueOutput
+Filter. Coarse Bender	0	4194304	Value	ValueOutput
+Chorus Vca1	0	4194304	Value	ValueOutput
+Chorus Vca2	0	4194304	Value	ValueOutput
+Chorus Type	0	4194304	Value	ValueOutput
+Phaser Type	0	4194304	Value	ValueOutput
+Delay Vca1	0	4194304	Value	ValueOutput
+Delay Vca2	0	4194304	Value	ValueOutput
+FilterBank Vca1	0	4194304	Value	ValueOutput
+FilterBank Vca2	0	4194304	Value	ValueOutput
+Vca1 Soft Clip	0	4194304	Value	ValueOutput
+Vca2 Soft Clip	0	4194304	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Sequencer On	0	4194304	Value	ValueOutput
+Sequencer Off	0	4194304	Value	ValueOutput
+Sequencer Forward/Backwa	0	4194304	Value	ValueOutput
+Sequencer Tempo Sync. On	0	4194304	Value	ValueOutput
+Playing Mode	0	4194304	Value	ValueOutput
+Legato On	0	4194304	Value	ValueOutput
+Retrig	0	4194304	Value	ValueOutput
+Delay Tempo Sync. On	0	4194304	Value	ValueOutput
+Lfo1 Tempo Sync. On	0	4194304	Value	ValueOutput
+Lfo2 Tempo Sync. On	0	4194304	Value	ValueOutput
+Transpose Osc1	0	4194304	Value	ValueOutput
+Transpose Osc2	0	4194304	Value	ValueOutput
+Transpose Osc3	0	4194304	Value	ValueOutput
+Transpose Osc4	0	4194304	Value	ValueOutput
+Transpose Osc5	0	4194304	Value	ValueOutput
+Transpose Osc6	0	4194304	Value	ValueOutput
+Transpose Osc7	0	4194304	Value	ValueOutput
+Transpose Osc8	0	4194304	Value	ValueOutput
+Transpose Osc9	0	4194304	Value	ValueOutput
+Synchro On Osc1	0	4194304	Value	ValueOutput
+Synchro On Osc2	0	4194304	Value	ValueOutput
+Synchro On Osc3	0	4194304	Value	ValueOutput
+Synchro On Osc4	0	4194304	Value	ValueOutput
+Synchro On Osc5	0	4194304	Value	ValueOutput
+Synchro On Osc6	0	4194304	Value	ValueOutput
+Synchro On Osc7	0	4194304	Value	ValueOutput
+Synchro On Osc8	0	4194304	Value	ValueOutput
+Synchro On Osc9	0	4194304	Value	ValueOutput
+Type Filter1	0	4194304	Value	ValueOutput
+Type Filter2	0	4194304	Value	ValueOutput
+Type Filter3	0	4194304	Value	ValueOutput
+Res. Reset	0	4194304	Value	ValueOutput
+Range Osc1-2-3	0	4194304	Value	ValueOutput
+Range Osc4-5-6	0	4194304	Value	ValueOutput
+Range Osc7-8-9	0	4194304	Value	ValueOutput
+Sel. Range Osc1-2-3	0	4194304	Value	ValueOutput
+Sel. Range Osc4-5-6	0	4194304	Value	ValueOutput
+Sel. Range Osc7-8-9	0	4194304	Value	ValueOutput
+Width Osc1-2-3	0	4194304	Value	ValueOutput
+Width Osc4-5-6	0	4194304	Value	ValueOutput
+Width Osc7-8-9	0	4194304	Value	ValueOutput
+Amount FM1 Osc1-2-3	0	4194304	Value	ValueOutput
+Amount FM2 Osc1-2-3	0	4194304	Value	ValueOutput
+Amount FM3 Osc1-2-3	0	4194304	Value	ValueOutput
+Amount PWM1 Osc1-2-3	0	4194304	Value	ValueOutput
+Amount PWM2 Osc1-2-3	0	4194304	Value	ValueOutput
+Amount FM1 Osc4-5-6	0	4194304	Value	ValueOutput
+Amount FM2 Osc4-5-6	0	4194304	Value	ValueOutput
+Amount FM3 Osc4-5-6	0	4194304	Value	ValueOutput
+Amount PWM1 Osc4-5-6	0	4194304	Value	ValueOutput
+Amount PWM2 Osc4-5-6	0	4194304	Value	ValueOutput
+Amount FM1 Osc7-8-9	0	4194304	Value	ValueOutput
+Amount FM2 Osc7-8-9	0	4194304	Value	ValueOutput
+Amount FM3 Osc7-8-9	0	4194304	Value	ValueOutput
+Amount PWM1 Osc7-8-9	0	4194304	Value	ValueOutput
+Amount PWM2 Osc7-8-9	0	4194304	Value	ValueOutput
+Range Follower1	0	4194304	Value	ValueOutput
+Range Follower2	0	4194304	Value	ValueOutput
+Range Follower3	0	4194304	Value	ValueOutput
+Range Follower4	0	4194304	Value	ValueOutput
+Driver 1 Keyboard Choice	0	4194304	Value	ValueOutput
+Driver 2 Keyboard Choice	0	4194304	Value	ValueOutput
+Driver 3 Keyboard Choice	0	4194304	Value	ValueOutput
+Driver 1 Sequencer Choic	0	4194304	Value	ValueOutput
+Driver 2 Sequencer Choic	0	4194304	Value	ValueOutput
+Driver 3 Sequencer Choic	0	4194304	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Keyb. Follow1	0	4194304	Value	ValueOutput
+Key Shift	0	4194304	Value	ValueOutput
+Low Thresh.	0	4194304	Value	ValueOutput
+High Thresh.	0	4194304	Value	ValueOutput
+Porta Follow	0	4194304	Value	ValueOutput
+Pitch Bend Follow	0	4194304	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Keyb. Follow2	0	4194304	Value	ValueOutput
+Key Shift	0	4194304	Value	ValueOutput
+Low Thresh.	0	4194304	Value	ValueOutput
+High Thresh.	0	4194304	Value	ValueOutput
+Porta Follow	0	4194304	Value	ValueOutput
+Pitch Bend Follow	0	4194304	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Keyb. Follow3	0	4194304	Value	ValueOutput
+Key Shift	0	4194304	Value	ValueOutput
+Low Thresh.	0	4194304	Value	ValueOutput
+High Thresh.	0	4194304	Value	ValueOutput
+Porta Follow	0	4194304	Value	ValueOutput
+Pitch Bend Follow	0	4194304	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Keyb. Follow4	0	4194304	Value	ValueOutput
+Key Shift	0	4194304	Value	ValueOutput
+Low Thresh.	0	4194304	Value	ValueOutput
+High Thresh.	0	4194304	Value	ValueOutput
+Porta Follow	0	4194304	Value	ValueOutput
+Pitch Bend Follow	0	4194304	Value	ValueOutput
+S&H 1 trigg out	0	4194304	Value	ValueOutput
+S&H 2 trigg out	0	4194304	Value	ValueOutput
+Trigg Delay Time1	0	4194304	Value	ValueOutput
+Trigg Delay Time2	0	4194304	Value	ValueOutput
+Trigg Delay Mode	0	4194304	Value	ValueOutput
+Link Step	0	4194304	Value	ValueOutput
+Link Step	0	4194304	Value	ValueOutput
+Link Step	0	4194304	Value	ValueOutput
+Link Step	0	4194304	Value	ValueOutput
+Link Step	0	4194304	Value	ValueOutput
+Link Step	0	4194304	Value	ValueOutput
+Link Step	0	4194304	Value	ValueOutput
+Link Step	0	4194304	Value	ValueOutput
+Repeat Step	0	4194304	Value	ValueOutput
+Repeat Step	0	4194304	Value	ValueOutput
+Repeat Step	0	4194304	Value	ValueOutput
+Repeat Step	0	4194304	Value	ValueOutput
+Repeat Step	0	4194304	Value	ValueOutput
+Repeat Step	0	4194304	Value	ValueOutput
+Repeat Step	0	4194304	Value	ValueOutput
+Repeat Step	0	4194304	Value	ValueOutput
+Trig. Line 1	0	4194304	Value	ValueOutput
+Trig. Line 2	0	4194304	Value	ValueOutput
+Trig. Line 3	0	4194304	Value	ValueOutput
+Trig. Step 1	0	4194304	Value	ValueOutput
+Trig. Step 2	0	4194304	Value	ValueOutput
+Trig. Step 3	0	4194304	Value	ValueOutput
+Trig. Step 4	0	4194304	Value	ValueOutput
+Trig. Step 5	0	4194304	Value	ValueOutput
+Trig. Step 6	0	4194304	Value	ValueOutput
+Trig. Step 7	0	4194304	Value	ValueOutput
+Trig. Step 8	0	4194304	Value	ValueOutput
+Next Step	0	4194304	Value	ValueOutput
+Next Step	0	4194304	Value	ValueOutput
+Next Step	0	4194304	Value	ValueOutput
+Next Step	0	4194304	Value	ValueOutput
+Next Step	0	4194304	Value	ValueOutput
+Next Step	0	4194304	Value	ValueOutput
+Next Step	0	4194304	Value	ValueOutput
+Next Step	0	4194304	Value	ValueOutput
+Link 1 On	0	4194304	Value	ValueOutput
+Link 2 On	0	4194304	Value	ValueOutput
+Link 3 On	0	4194304	Value	ValueOutput
+Link 4 On	0	4194304	Value	ValueOutput
+Link 5 On	0	4194304	Value	ValueOutput
+Link 6 On	0	4194304	Value	ValueOutput
+Link 7 On	0	4194304	Value	ValueOutput
+Link 8 On	0	4194304	Value	ValueOutput
+Link 9 On	0	4194304	Value	ValueOutput
+Link 10 On	0	4194304	Value	ValueOutput
+Link 11 On	0	4194304	Value	ValueOutput
+Link 12 On	0	4194304	Value	ValueOutput
+Link 13 On	0	4194304	Value	ValueOutput
+Link 14 On	0	4194304	Value	ValueOutput
+Link 15 On	0	4194304	Value	ValueOutput
+Clip 1 On	0	4194304	Value	ValueOutput
+Clip 2 On	0	4194304	Value	ValueOutput
+Clip 3 On	0	4194304	Value	ValueOutput
+Clip 4 On	0	4194304	Value	ValueOutput
+Clip 5 On	0	4194304	Value	ValueOutput
+Clip 6 On	0	4194304	Value	ValueOutput
+Clip 7 On	0	4194304	Value	ValueOutput
+Clip 8 On	0	4194304	Value	ValueOutput
+Clip 9 On	0	4194304	Value	ValueOutput
+Clip 10 On	0	4194304	Value	ValueOutput
+Clip 11 On	0	4194304	Value	ValueOutput
+Clip 12 On	0	4194304	Value	ValueOutput
+Clip 13 On	0	4194304	Value	ValueOutput
+Clip 14 On	0	4194304	Value	ValueOutput
+Clip 15 On	0	4194304	Value	ValueOutput
+Clip 16 On	0	4194304	Value	ValueOutput
+Inv. 1 On	0	4194304	Value	ValueOutput
+Inv. 2 On	0	4194304	Value	ValueOutput
+Inv. 3 On	0	4194304	Value	ValueOutput
+Inv. 4 On	0	4194304	Value	ValueOutput
+Inv. 5 On	0	4194304	Value	ValueOutput
+Inv. 6 On	0	4194304	Value	ValueOutput
+Inv. 7 On	0	4194304	Value	ValueOutput
+Inv. 8 On	0	4194304	Value	ValueOutput
+Inv. 9 On	0	4194304	Value	ValueOutput
+Inv. 10 On	0	4194304	Value	ValueOutput
+Inv. 11 On	0	4194304	Value	ValueOutput
+Inv. 12 On	0	4194304	Value	ValueOutput
+Inv. 13 On	0	4194304	Value	ValueOutput
+Inv. 14 On	0	4194304	Value	ValueOutput
+Inv. 15 On	0	4194304	Value	ValueOutput
+Inv. 16 On	0	4194304	Value	ValueOutput
+Wait	0	4194304	Value	ValueOutput
+Wait	0	4194304	Value	ValueOutput
+Wait	0	4194304	Value	ValueOutput
+Wait	0	4194304	Value	ValueOutput
+Wait	0	4194304	Value	ValueOutput
+Wait	0	4194304	Value	ValueOutput
+Wait	0	4194304	Value	ValueOutput
+Wait	0	4194304	Value	ValueOutput
+Filter 1 Keyboard Choice	0	4194304	Value	ValueOutput
+Filter 1 Sequencer Choic	0	4194304	Value	ValueOutput
+Filter 2 Keyboard Choice	0	4194304	Value	ValueOutput
+Filter 2 Sequencer Choic	0	4194304	Value	ValueOutput
+Filter 3 Keyboard Choice	0	4194304	Value	ValueOutput
+Filter 3 Sequencer Choic	0	4194304	Value	ValueOutput
+Chain	0	4194304	Value	ValueOutput
+Polyphony	0	4194304	Value	ValueOutput
+Previous Preset	0	4194304	Value	ValueOutput
+Next Preset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

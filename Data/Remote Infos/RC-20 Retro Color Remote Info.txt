@@ -1,0 +1,81 @@
+Scope
+Manufacturer	Model
+XLN Audio	vst.xaRC.RC-20 Retro Color
+Note: Will match scope definitions for vst.xaRC.RC-20 Retro Color or vst.xaRC
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Magnitude	0	4194304	Value	ValueOutput
+NOIS Amount	0	4194304	Value	ValueOutput
+WOBB Amount	0	4194304	Value	ValueOutput
+DIST Amount	0	4194304	Value	ValueOutput
+DIGI Amount	0	4194304	Value	ValueOutput
+SPAC Amount	0	4194304	Value	ValueOutput
+MAGN Amount	0	4194304	Value	ValueOutput
+NOIS Enable	0	4194304	Value	ValueOutput
+NOIS Type	0	4194304	Value	ValueOutput
+NOIS Tone	0	4194304	Value	ValueOutput
+NOIS Follow	0	4194304	Value	ValueOutput
+NOIS Routing	0	4194304	Value	ValueOutput
+NOIS Duck	0	4194304	Value	ValueOutput
+NOIS Flux	0	4194304	Value	ValueOutput
+WOBB Enable	0	4194304	Value	ValueOutput
+WOBB W<>F Balance	0	4194304	Value	ValueOutput
+WOBB Wow Rate	0	4194304	Value	ValueOutput
+WOBB Wow Stereo Mode	0	4194304	Value	ValueOutput
+WOBB Flutter Rate	0	4194304	Value	ValueOutput
+WOBB Mix	0	4194304	Value	ValueOutput
+WOBB Flux	0	4194304	Value	ValueOutput
+DIST Enable	0	4194304	Value	ValueOutput
+DIST Type	0	4194304	Value	ValueOutput
+DIST Filter Lo	0	4194304	Value	ValueOutput
+DIST Filter Hi	0	4194304	Value	ValueOutput
+DIST Mix	0	4194304	Value	ValueOutput
+DIST Flux	0	4194304	Value	ValueOutput
+DIGI Enable	0	4194304	Value	ValueOutput
+DIGI R<>B Balance	0	4194304	Value	ValueOutput
+DIGI Filter Lo	0	4194304	Value	ValueOutput
+DIGI Filter Hi	0	4194304	Value	ValueOutput
+DIGI Filter Mode	0	4194304	Value	ValueOutput
+DIGI Smooth	0	4194304	Value	ValueOutput
+DIGI Mix	0	4194304	Value	ValueOutput
+DIGI Flux	0	4194304	Value	ValueOutput
+SPAC Enable	0	4194304	Value	ValueOutput
+SPAC Decay	0	4194304	Value	ValueOutput
+SPAC Filter Lo	0	4194304	Value	ValueOutput
+SPAC Filter Hi	0	4194304	Value	ValueOutput
+SPAC PreDelay	0	4194304	Value	ValueOutput
+SPAC Stereo Mode	0	4194304	Value	ValueOutput
+SPAC Flux	0	4194304	Value	ValueOutput
+MAGN Enable	0	4194304	Value	ValueOutput
+MAGN W<>F Balance	0	4194304	Value	ValueOutput
+MAGN Wear Stereo Mode	0	4194304	Value	ValueOutput
+MAGN Flutter Rate	0	4194304	Value	ValueOutput
+MAGN Dropouts	0	4194304	Value	ValueOutput
+MAGN Flux	0	4194304	Value	ValueOutput
+MAST In Gain	0	4194304	Value	ValueOutput
+MAST EQ Enable	0	4194304	Value	ValueOutput
+MAST EQ Cut Lo	0	4194304	Value	ValueOutput
+MAST EQ Cut Hi	0	4194304	Value	ValueOutput
+MAST EQ Cut Lo Mode	0	4194304	Value	ValueOutput
+MAST EQ Cut Hi Mode	0	4194304	Value	ValueOutput
+MAST EQ Tone	0	4194304	Value	ValueOutput
+MAST EQ Tone Mode	0	4194304	Value	ValueOutput
+MAST Out Width	0	4194304	Value	ValueOutput
+MAST Out Gain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

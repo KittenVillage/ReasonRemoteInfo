@@ -1,0 +1,119 @@
+Scope
+Manufacturer	Model
+Full Bucket Music	vst.FB31.fb310064
+Note: Will match scope definitions for vst.FB31.fb310064 or vst.FB31
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Final	0	4194304	Value	ValueOutput
+Direct	0	4194304	Value	ValueOutput
+Pan Fin	0	4194304	Value	ValueOutput
+Pan Drct	0	4194304	Value	ValueOutput
+KBD Bal	0	4194304	Value	ValueOutput
+PB Range	0	4194304	Value	ValueOutput
+Waveform	0	4194304	Value	ValueOutput
+PWM Int	0	4194304	Value	ValueOutput
+Fine	0	4194304	Value	ValueOutput
+Coarse	0	4194304	Value	ValueOutput
+Octave	0	4194304	Value	ValueOutput
+FM Mod	0	4194304	Value	ValueOutput
+FM rev	0	4194304	Value	ValueOutput
+FM MG1	0	4194304	Value	ValueOutput
+FM GEG	0	4194304	Value	ValueOutput
+FM Src	0	4194304	Value	ValueOutput
+PWM Src	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Peak	0	4194304	Value	ValueOutput
+fC Bal	0	4194304	Value	ValueOutput
+Expand	0	4194304	Value	ValueOutput
+fC Mod	0	4194304	Value	ValueOutput
+fC MG1	0	4194304	Value	ValueOutput
+fC GEG	0	4194304	Value	ValueOutput
+fC Src	0	4194304	Value	ValueOutput
+EM Atk	0	4194304	Value	ValueOutput
+EM Dcy	0	4194304	Value	ValueOutput
+EM Sus	0	4194304	Value	ValueOutput
+EM Rel	0	4194304	Value	ValueOutput
+EM Hold	0	4194304	Value	ValueOutput
+EM A Src	0	4194304	Value	ValueOutput
+EM R Src	0	4194304	Value	ValueOutput
+RS Int	0	4194304	Value	ValueOutput
+RS Freq1	0	4194304	Value	ValueOutput
+RS Freq2	0	4194304	Value	ValueOutput
+RS Freq3	0	4194304	Value	ValueOutput
+RS Mod	0	4194304	Value	ValueOutput
+RS Ext	0	4194304	Value	ValueOutput
+fC Src	0	4194304	Value	ValueOutput
+AM Int	0	4194304	Value	ValueOutput
+AM Mod	0	4194304	Value	ValueOutput
+Ensembl	0	4194304	Value	ValueOutput
+VCA1 GEG	0	4194304	Value	ValueOutput
+VCA1 Src	0	4194304	Value	ValueOutput
+VCA2 VP1	0	4194304	Value	ValueOutput
+VCA2 Src	0	4194304	Value	ValueOutput
+MG1 Wave	0	4194304	Value	ValueOutput
+MG1 Freq	0	4194304	Value	ValueOutput
+MG1 FSrc	0	4194304	Value	ValueOutput
+MG1 Sel	0	4194304	Value	ValueOutput
+MG1 MSrc	0	4194304	Value	ValueOutput
+MG1 Host	0	4194304	Value	ValueOutput
+MG2 Freq	0	4194304	Value	ValueOutput
+MG2 Host	0	4194304	Value	ValueOutput
+S/H Freq	0	4194304	Value	ValueOutput
+S/H Sync	0	4194304	Value	ValueOutput
+S/H In	0	4194304	Value	ValueOutput
+S/H Host	0	4194304	Value	ValueOutput
+GEG Trig	0	4194304	Value	ValueOutput
+GEG Dly	0	4194304	Value	ValueOutput
+GEG Atk	0	4194304	Value	ValueOutput
+GEG Rel	0	4194304	Value	ValueOutput
+GEG Auto	0	4194304	Value	ValueOutput
+GEG Pol	0	4194304	Value	ValueOutput
+GEG Src	0	4194304	Value	ValueOutput
+VP1 A	0	4194304	Value	ValueOutput
+VP1 B	0	4194304	Value	ValueOutput
+VP1 Src	0	4194304	Value	ValueOutput
+VP2 A	0	4194304	Value	ValueOutput
+VP2 B	0	4194304	Value	ValueOutput
+VP2 Sel	0	4194304	Value	ValueOutput
+VP2 Src	0	4194304	Value	ValueOutput
+Tune C	0	4194304	Value	ValueOutput
+Tune C#	0	4194304	Value	ValueOutput
+Tune D	0	4194304	Value	ValueOutput
+Tune D#	0	4194304	Value	ValueOutput
+Tune E	0	4194304	Value	ValueOutput
+Tune F	0	4194304	Value	ValueOutput
+Tune F#	0	4194304	Value	ValueOutput
+Tune G	0	4194304	Value	ValueOutput
+Tune G#	0	4194304	Value	ValueOutput
+Tune A	0	4194304	Value	ValueOutput
+Tune A#	0	4194304	Value	ValueOutput
+Tune B	0	4194304	Value	ValueOutput
+Clk1 Src	0	4194304	Value	ValueOutput
+Clk2 Src	0	4194304	Value	ValueOutput
+Trg1 Src	0	4194304	Value	ValueOutput
+Trg2 Src	0	4194304	Value	ValueOutput
+VC1 Src	0	4194304	Value	ValueOutput
+VC2 Src	0	4194304	Value	ValueOutput
+VC3 Src	0	4194304	Value	ValueOutput
+VC4 Src	0	4194304	Value	ValueOutput
+Use Hold	0	4194304	Value	ValueOutput
+Over Rel	0	4194304	Value	ValueOutput
+EM O.Rel	0	4194304	Value	ValueOutput
+Res Mix	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,98 @@
+Scope
+Manufacturer	Model
+Ochen K.	com.ochenk.Driver
+
+Remotable	Min	Max	Input type	Output type
+Master Volume	0	4194304	Value	ValueOutput
+A Stage Duration	0	4194304	Value	ValueOutput
+A Stage Duration Sync	0	12	Value	ValueOutput
+B Stage Duration	0	4194304	Value	ValueOutput
+B Stage Duration Sync	0	12	Value	ValueOutput
+Master Sync	0	1	Toggle	ValueOutput
+Latch	0	3	Value	ValueOutput
+Osc Enable	0	1	Toggle	ValueOutput
+Osc to Filter 1	0	1	Toggle	ValueOutput
+Osc to Filter 2	0	1	Toggle	ValueOutput
+Osc Octave	0	4	Value	ValueOutput
+Osc Shape	0	3	Value	ValueOutput
+LFO to Osc Vol	0	4194304	Value	ValueOutput
+LFO to Osc Pan	0	4194304	Value	ValueOutput
+LFO to Osc Pitch	0	4194304	Value	ValueOutput
+LFO to Osc PW	0	4194304	Value	ValueOutput
+SEQ to Osc Vol	0	4194304	Value	ValueOutput
+SEQ to Osc Pan	0	4194304	Value	ValueOutput
+SEQ to Osc Pitch	0	4194304	Value	ValueOutput
+SEQ to Osc PW	0	4194304	Value	ValueOutput
+Saw Enable	0	1	Toggle	ValueOutput
+Saw to Filter 1	0	1	Toggle	ValueOutput
+Saw to Filter 2	0	1	Toggle	ValueOutput
+Saw Octave	0	4	Value	ValueOutput
+LFO to Saw Vol	0	4194304	Value	ValueOutput
+LFO to Saw Pan	0	4194304	Value	ValueOutput
+LFO to Saw Pitch	0	4194304	Value	ValueOutput
+LFO to Saw Width	0	4194304	Value	ValueOutput
+LFO to Saw Depth	0	4194304	Value	ValueOutput
+SEQ to Saw Vol	0	4194304	Value	ValueOutput
+SEQ to Saw Pan	0	4194304	Value	ValueOutput
+SEQ to Saw Pitch	0	4194304	Value	ValueOutput
+SEQ to Saw Width	0	4194304	Value	ValueOutput
+SEQ to Saw Depth	0	4194304	Value	ValueOutput
+Noise Enable	0	1	Toggle	ValueOutput
+Noise to Filter 1	0	1	Toggle	ValueOutput
+Noise to Filter 2	0	1	Toggle	ValueOutput
+LFO to Noise Vol	0	4194304	Value	ValueOutput
+LFO to Noise Pan	0	4194304	Value	ValueOutput
+LFO to Noise Color	0	4194304	Value	ValueOutput
+SEQ to Noise Vol	0	4194304	Value	ValueOutput
+SEQ to Noise Pan	0	4194304	Value	ValueOutput
+SEQ to Noise Color	0	4194304	Value	ValueOutput
+Filter 1 Type	0	4	Value	ValueOutput
+Filter 2 Type	0	4	Value	ValueOutput
+LFO to Filter 1 Freq	0	4194304	Value	ValueOutput
+LFO to Filter 1 Reso	0	4194304	Value	ValueOutput
+LFO to Filter 2 Freq	0	4194304	Value	ValueOutput
+LFO to Filter 2 Reso	0	4194304	Value	ValueOutput
+SEQ to Filter 1 Freq	0	4194304	Value	ValueOutput
+SEQ to Filter 1 Reso	0	4194304	Value	ValueOutput
+SEQ to Filter 2 Freq	0	4194304	Value	ValueOutput
+SEQ to Filter 2 Reso	0	4194304	Value	ValueOutput
+SEQ Resolution	0	4	Value	ValueOutput
+SEQ Steps	0	15	Value	ValueOutput
+Sequencer Step 1	0	1	Toggle	ValueOutput
+Sequencer Step 2	0	1	Toggle	ValueOutput
+Sequencer Step 3	0	1	Toggle	ValueOutput
+Sequencer Step 4	0	1	Toggle	ValueOutput
+Sequencer Step 5	0	1	Toggle	ValueOutput
+Sequencer Step 6	0	1	Toggle	ValueOutput
+Sequencer Step 7	0	1	Toggle	ValueOutput
+Sequencer Step 8	0	1	Toggle	ValueOutput
+Sequencer Step 9	0	1	Toggle	ValueOutput
+Sequencer Step 10	0	1	Toggle	ValueOutput
+Sequencer Step 11	0	1	Toggle	ValueOutput
+Sequencer Step 12	0	1	Toggle	ValueOutput
+Sequencer Step 13	0	1	Toggle	ValueOutput
+Sequencer Step 14	0	1	Toggle	ValueOutput
+Sequencer Step 15	0	1	Toggle	ValueOutput
+Sequencer Step 16	0	1	Toggle	ValueOutput
+LFO to Seq Attack	0	4194304	Value	ValueOutput
+LFO to Seq Release	0	4194304	Value	ValueOutput
+Reverb Enable	0	1	Toggle	ValueOutput
+LFO to Reverb Decay	0	4194304	Value	ValueOutput
+SEQ to Reverb Decay	0	4194304	Value	ValueOutput
+LFO to Saturation	0	4194304	Value	ValueOutput
+SEQ to Saturation	0	4194304	Value	ValueOutput
+LFO Wave Type	0	6	Value	ValueOutput
+LFO Sync	0	1	Toggle	ValueOutput
+Screen Mode	0	1	Toggle	ValueOutput
+LFO Apply	0	1	Toggle	ValueOutput
+SEQ Apply	0	1	Toggle	ValueOutput
+LFO to CV 1	0	4194304	Value	ValueOutput
+LFO to CV 2	0	4194304	Value	ValueOutput
+SEQ to CV 1	0	4194304	Value	ValueOutput
+SEQ to CV 2	0	4194304	Value	ValueOutput
+Curve Reset	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

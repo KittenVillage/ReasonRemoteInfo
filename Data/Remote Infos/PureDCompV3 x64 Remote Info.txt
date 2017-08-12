@@ -1,0 +1,75 @@
+Scope
+Manufacturer	Model
+Flux:: sound and picture development	vst.fxDc.PureDCompV3 x64
+Note: Will match scope definitions for vst.fxDc.PureDCompV3 x64 or vst.fxDc
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Morphing	0	4194304	Value	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Dry Mix	0	4194304	Value	ValueOutput
+Invert Phase	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Link Channels	0	4194304	Value	ValueOutput
+MS Width	0	4194304	Value	ValueOutput
+Enable MS	0	4194304	Value	ValueOutput
+Auto Delay	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release Mode	0	4194304	Value	ValueOutput
+Release Min	0	4194304	Value	ValueOutput
+Release Max	0	4194304	Value	ValueOutput
+Dynamic Factor	0	4194304	Value	ValueOutput
+Dynamic Velocity	0	4194304	Value	ValueOutput
+Clipper Knee	0	4194304	Value	ValueOutput
+Clipper Enable	0	4194304	Value	ValueOutput
+Clipper Ceiling	0	4194304	Value	ValueOutput
+Enable EQ	0	4194304	Value	ValueOutput
+DCompressor Enable	0	4194304	Value	ValueOutput
+DCompressor Peak / Rms	0	4194304	Value	ValueOutput
+DCompressor Dynamic Rati	0	4194304	Value	ValueOutput
+DComp Invert Dynamic Rat	0	4194304	Value	ValueOutput
+DCompressor L.I.D.	0	4194304	Value	ValueOutput
+DComp L.I.D. Threshold	0	4194304	Value	ValueOutput
+DCompressor H Max	0	4194304	Value	ValueOutput
+DCompressor Ratio	0	4194304	Value	ValueOutput
+DCompressor Ratio Inf	0	4194304	Value	ValueOutput
+DCompressor Threshold	0	4194304	Value	ValueOutput
+DCompressor Knee	0	4194304	Value	ValueOutput
+DCompressor Limit	0	4194304	Value	ValueOutput
+DCompressor Hold	0	4194304	Value	ValueOutput
+Process Channel 1	0	4194304	Value	ValueOutput
+Process Channel 2	0	4194304	Value	ValueOutput
+Process Channel 3	0	4194304	Value	ValueOutput
+Process Channel 4	0	4194304	Value	ValueOutput
+Process Channel 5	0	4194304	Value	ValueOutput
+Process Channel 6	0	4194304	Value	ValueOutput
+Process Channel 7	0	4194304	Value	ValueOutput
+Process Channel 8	0	4194304	Value	ValueOutput
+Send Channel 1 To SideCh	0	4194304	Value	ValueOutput
+Send Channel 2 To SideCh	0	4194304	Value	ValueOutput
+Send Channel 3 To SideCh	0	4194304	Value	ValueOutput
+Send Channel 4 To SideCh	0	4194304	Value	ValueOutput
+Send Channel 5 To SideCh	0	4194304	Value	ValueOutput
+Send Channel 6 To SideCh	0	4194304	Value	ValueOutput
+Send Channel 7 To SideCh	0	4194304	Value	ValueOutput
+Send Channel 8 To SideCh	0	4194304	Value	ValueOutput
+Morphing Automation	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

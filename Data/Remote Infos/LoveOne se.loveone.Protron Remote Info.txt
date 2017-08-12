@@ -1,0 +1,112 @@
+Scope
+Manufacturer	Model
+LoveOne	se.loveone.Protron
+
+Remotable	Min	Max	Input type	Output type
+Emitter Position	0	4194304	Value	ValueOutput
+Emitter Size	0	4194304	Value	ValueOutput
+Emitter Fluctuation	0	4194304	Value	ValueOutput
+Emitter Precision	0	4194304	Value	ValueOutput
+Particle Lifetime	0	4194304	Value	ValueOutput
+Particle Type	0	4	Value	ValueOutput
+Tuning Octaves	0	6	Value	ValueOutput
+Tuning Semitones	0	24	Value	ValueOutput
+Tuning Cents	0	200	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Root Note	0	256	Value	ValueOutput
+Filter 1 On	0	1	Toggle	ValueOutput
+Filter 1 Type	0	4	Value	ValueOutput
+Filter 1 Cutoff	0	4194304	Value	ValueOutput
+Filter 1 Resonance	0	4194304	Value	ValueOutput
+Filter 2 On	0	1	Toggle	ValueOutput
+Filter 2 Type	0	4	Value	ValueOutput
+Filter 2 Cutoff	0	4194304	Value	ValueOutput
+Filter 2 Resonance	0	4194304	Value	ValueOutput
+Filter Route	0	1	Toggle	ValueOutput
+Phaser On	0	1	Toggle	ValueOutput
+Phaser Rate (Free)	0	4194304	Value	ValueOutput
+Phaser Rate (Sync)	0	27	Value	ValueOutput
+Phaser Tuning	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Phaser Resonance	0	4194304	Value	ValueOutput
+Phaser Stereo Width	0	4194304	Value	ValueOutput
+Phaser Tempo Sync	0	1	Toggle	ValueOutput
+Phaser Mix	0	4194304	Value	ValueOutput
+Delay On	0	1	Toggle	ValueOutput
+Delay Length (Free)	0	4194304	Value	ValueOutput
+Delay Length (Sync)	0	16	Value	ValueOutput
+Delay Right Channel Time Offset (Free)	0	4194304	Value	ValueOutput
+Delay Right Channel Time Offset (Sync)	0	16	Value	ValueOutput
+Delay Ping Pong	0	1	Toggle	ValueOutput
+Delay Tempo Sync	0	1	Toggle	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Amp Envelope Attack	0	4194304	Value	ValueOutput
+Amp Envelope Decay	0	4194304	Value	ValueOutput
+Amp Envelope Sustain	0	4194304	Value	ValueOutput
+Amp Envelope Release	0	4194304	Value	ValueOutput
+Amplifier Velocity	0	4194304	Value	ValueOutput
+Velocity Depth	0	4194304	Value	ValueOutput
+Velocity Destination	0	10	Value	ValueOutput
+LFO 1 Rate (Free)	0	4194304	Value	ValueOutput
+LFO 1 Rate (Sync)	0	27	Value	ValueOutput
+LFO 1 Wave Shape	0	4194304	Value	ValueOutput
+LFO 1 Randomization	0	4194304	Value	ValueOutput
+LFO 1 Depth 1	0	4194304	Value	ValueOutput
+LFO 1 Destination 1	0	10	Value	ValueOutput
+LFO 1 Depth 2	0	4194304	Value	ValueOutput
+LFO 1 Destination 2	0	10	Value	ValueOutput
+LFO 1 Tempo Sync	0	1	Toggle	ValueOutput
+LFO 1 Key Sync	0	1	Toggle	ValueOutput
+LFO 1 Phase Offset	0	4194304	Value	ValueOutput
+LFO 2 Rate (Free)	0	4194304	Value	ValueOutput
+LFO 2 Rate (Sync)	0	27	Value	ValueOutput
+LFO 2 Wave Shape	0	4194304	Value	ValueOutput
+LFO 2 Randomization	0	4194304	Value	ValueOutput
+LFO 2 Depth 1	0	4194304	Value	ValueOutput
+LFO 2 Destination 1	0	10	Value	ValueOutput
+LFO 2 Depth 2	0	4194304	Value	ValueOutput
+LFO 2 Destination 2	0	10	Value	ValueOutput
+LFO 2 Tempo Sync	0	1	Toggle	ValueOutput
+LFO 2 Key Sync	0	1	Toggle	ValueOutput
+LFO 2 Phase Offset	0	4194304	Value	ValueOutput
+Mod Envelope Length Free	0	4194304	Value	ValueOutput
+Mod Envelope Length Sync	0	27	Value	ValueOutput
+Mod Envelope Sync	0	1	Toggle	ValueOutput
+Mod Envelope Loop	0	1	Toggle	ValueOutput
+Mod Envelope Depth 1	0	4194304	Value	ValueOutput
+Mod Envelope Destination 1	0	10	Value	ValueOutput
+Mod Envelope Depth 2	0	4194304	Value	ValueOutput
+Mod Envelope Destination 2	0	10	Value	ValueOutput
+Mod Wheel On	0	1	Toggle	ValueOutput
+Mod Wheel Depth	0	4194304	Value	ValueOutput
+Mod Wheel Destination	0	10	Value	ValueOutput
+Mod Wheel LFO 1 Depth Modulation	0	4194304	Value	ValueOutput
+Mod Wheel LFO 2 Depth Modulation	0	4194304	Value	ValueOutput
+Emitter Position Keyboard Tracking On	0	1	Toggle	ValueOutput
+Emitter Position Keyboard Tracking	0	4194304	Value	ValueOutput
+Tuning Keyboard Tracking On	0	1	Toggle	ValueOutput
+Tuning Keyboard Tracking	0	4194304	Value	ValueOutput
+Filter 1 Cutoff Keyboard Tracking On	0	1	Toggle	ValueOutput
+Filter 1 Cutoff Keyboard Tracking	0	4194304	Value	ValueOutput
+Filter 2 Cutoff Keyboard Tracking On	0	1	Toggle	ValueOutput
+Filter 2 Cutoff Keyboard Tracking	0	4194304	Value	ValueOutput
+Reverb On	0	1	Toggle	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Damping	0	4194304	Value	ValueOutput
+Reverb Stereo Width	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Emitter Mode	0	1	Toggle	ValueOutput
+Polyphony Voices	0	15	Value	ValueOutput
+Key Mode	0	1	Toggle	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Record Sample	0	0	Trig	TextOutput

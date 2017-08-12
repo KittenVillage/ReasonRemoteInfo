@@ -1,0 +1,48 @@
+Scope
+Manufacturer	Model
+Denis Tihanov	vst.twkn.OrilRiver
+Note: Will match scope definitions for vst.twkn.OrilRiver or vst.twkn
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Dry	0	4194304	Value	ValueOutput
+Predelay	0	4194304	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+E.R. variation	0	4194304	Value	ValueOutput
+Reverb variation	0	4194304	Value	ValueOutput
+Decay time	0	4194304	Value	ValueOutput
+Room size	0	4194304	Value	ValueOutput
+Diffusion	0	4194304	Value	ValueOutput
+Damp intensity	0	4194304	Value	ValueOutput
+Damp	0	4194304	Value	ValueOutput
+Low shelf	0	4194304	Value	ValueOutput
+Low gain	0	4194304	Value	ValueOutput
+Peak	0	4194304	Value	ValueOutput
+Peak gain	0	4194304	Value	ValueOutput
+High shelf	0	4194304	Value	ValueOutput
+High gain	0	4194304	Value	ValueOutput
+Early reflections	0	4194304	Value	ValueOutput
+Reverb	0	4194304	Value	ValueOutput
+Wet	0	4194304	Value	ValueOutput
+Bypass Dry	0	4194304	Value	ValueOutput
+Bypass E.R.	0	4194304	Value	ValueOutput
+Bypass Reverb	0	4194304	Value	ValueOutput
+Bypass Wet	0	4194304	Value	ValueOutput
+Mod. speed	0	4194304	Value	ValueOutput
+Mod. deph	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

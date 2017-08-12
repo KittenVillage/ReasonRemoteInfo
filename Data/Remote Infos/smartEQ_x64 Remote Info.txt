@@ -1,0 +1,82 @@
+Scope
+Manufacturer	Model
+sonible	vst.smEq.smartEQ_x64
+Note: Will match scope definitions for vst.smEq.smartEQ_x64 or vst.smEq
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+bypass plugin	0	4194304	Value	ValueOutput
+master gain	0	4194304	Value	ValueOutput
+processing mode	0	4194304	Value	ValueOutput
+band 1 frequency	0	4194304	Value	ValueOutput
+band 2 frequency	0	4194304	Value	ValueOutput
+band 3 frequency	0	4194304	Value	ValueOutput
+band 4 frequency	0	4194304	Value	ValueOutput
+band 5 frequency	0	4194304	Value	ValueOutput
+band 6 frequency	0	4194304	Value	ValueOutput
+band 7 frequency	0	4194304	Value	ValueOutput
+band 8 frequency	0	4194304	Value	ValueOutput
+band 1 gain	0	4194304	Value	ValueOutput
+band 2 gain	0	4194304	Value	ValueOutput
+band 3 gain	0	4194304	Value	ValueOutput
+band 4 gain	0	4194304	Value	ValueOutput
+band 5 gain	0	4194304	Value	ValueOutput
+band 6 gain	0	4194304	Value	ValueOutput
+band 7 gain	0	4194304	Value	ValueOutput
+band 8 gain	0	4194304	Value	ValueOutput
+band 1 quality	0	4194304	Value	ValueOutput
+band 2 quality	0	4194304	Value	ValueOutput
+band 3 quality	0	4194304	Value	ValueOutput
+band 4 quality	0	4194304	Value	ValueOutput
+band 5 quality	0	4194304	Value	ValueOutput
+band 6 quality	0	4194304	Value	ValueOutput
+band 7 quality	0	4194304	Value	ValueOutput
+band 8 quality	0	4194304	Value	ValueOutput
+band 1 enabled	0	4194304	Value	ValueOutput
+band 2 enabled	0	4194304	Value	ValueOutput
+band 3 enabled	0	4194304	Value	ValueOutput
+band 4 enabled	0	4194304	Value	ValueOutput
+band 5 enabled	0	4194304	Value	ValueOutput
+band 6 enabled	0	4194304	Value	ValueOutput
+band 7 enabled	0	4194304	Value	ValueOutput
+band 8 enabled	0	4194304	Value	ValueOutput
+band 1 solo	0	4194304	Value	ValueOutput
+band 2 solo	0	4194304	Value	ValueOutput
+band 3 solo	0	4194304	Value	ValueOutput
+band 4 solo	0	4194304	Value	ValueOutput
+band 5 solo	0	4194304	Value	ValueOutput
+band 6 solo	0	4194304	Value	ValueOutput
+band 7 solo	0	4194304	Value	ValueOutput
+band 8 solo	0	4194304	Value	ValueOutput
+band 3 learning	0	4194304	Value	ValueOutput
+band 4 learning	0	4194304	Value	ValueOutput
+band 5 learning	0	4194304	Value	ValueOutput
+band 6 learning	0	4194304	Value	ValueOutput
+band 3 sensitivi	0	4194304	Value	ValueOutput
+band 4 sensitivi	0	4194304	Value	ValueOutput
+band 5 sensitivi	0	4194304	Value	ValueOutput
+band 6 sensitivi	0	4194304	Value	ValueOutput
+band 3 smoothing	0	4194304	Value	ValueOutput
+band 4 smoothing	0	4194304	Value	ValueOutput
+band 5 smoothing	0	4194304	Value	ValueOutput
+band 6 smoothing	0	4194304	Value	ValueOutput
+band 3 reset	0	4194304	Value	ValueOutput
+band 4 reset	0	4194304	Value	ValueOutput
+band 5 reset	0	4194304	Value	ValueOutput
+band 6 reset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

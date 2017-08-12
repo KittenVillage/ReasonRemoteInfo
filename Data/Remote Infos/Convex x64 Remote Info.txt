@@ -1,0 +1,122 @@
+Scope
+Manufacturer	Model
+Glitchmachines	vst.GmCo.Convex x64
+Note: Will match scope definitions for vst.GmCo.Convex x64 or vst.GmCo
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Filter1_Mode	0	4194304	Value	ValueOutput
+Filter1_Cut	0	4194304	Value	ValueOutput
+Filter1_Res	0	4194304	Value	ValueOutput
+Filter2_Mode	0	4194304	Value	ValueOutput
+Filter2_Cut	0	4194304	Value	ValueOutput
+Filter2_Res	0	4194304	Value	ValueOutput
+Filter_Morph	0	4194304	Value	ValueOutput
+Pitch1	0	4194304	Value	ValueOutput
+Pitch1_Length	0	4194304	Value	ValueOutput
+Pitch1_Feed	0	4194304	Value	ValueOutput
+Pitch2	0	4194304	Value	ValueOutput
+Pitch2_Length	0	4194304	Value	ValueOutput
+Pitch2_Feed	0	4194304	Value	ValueOutput
+Pitch_Morph	0	4194304	Value	ValueOutput
+Pitch_Mix	0	4194304	Value	ValueOutput
+Delay1_Time	0	4194304	Value	ValueOutput
+Delay1_Sync	0	4194304	Value	ValueOutput
+Delay1_Synced_T	0	4194304	Value	ValueOutput
+Delay1_Feed	0	4194304	Value	ValueOutput
+Delay2_Time	0	4194304	Value	ValueOutput
+Delay2_Sync	0	4194304	Value	ValueOutput
+Delay2_Synced_T	0	4194304	Value	ValueOutput
+Delay2_Feed	0	4194304	Value	ValueOutput
+Delay_Morph	0	4194304	Value	ValueOutput
+Delay_Mix	0	4194304	Value	ValueOutput
+Delay_Pre_Mode	0	4194304	Value	ValueOutput
+Amp	0	4194304	Value	ValueOutput
+Dry_Wet	0	4194304	Value	ValueOutput
+Lfo1_Wave	0	4194304	Value	ValueOutput
+Lfo1_Rate	0	4194304	Value	ValueOutput
+Lfo1_Sync	0	4194304	Value	ValueOutput
+Lfo1_SyncedRate	0	4194304	Value	ValueOutput
+Lfo2_Wave	0	4194304	Value	ValueOutput
+Lfo2_Rate	0	4194304	Value	ValueOutput
+Lfo2_Sync	0	4194304	Value	ValueOutput
+Lfo2_SyncedRate	0	4194304	Value	ValueOutput
+Lfo3_Wave	0	4194304	Value	ValueOutput
+Lfo3_Rate	0	4194304	Value	ValueOutput
+Lfo3_Sync	0	4194304	Value	ValueOutput
+Lfo3_SyncedRate	0	4194304	Value	ValueOutput
+Lfo4_Wave	0	4194304	Value	ValueOutput
+Lfo4_Rate	0	4194304	Value	ValueOutput
+Lfo4_Sync	0	4194304	Value	ValueOutput
+Lfo4_SyncedRate	0	4194304	Value	ValueOutput
+Env1_Sensitivit	0	4194304	Value	ValueOutput
+Env1_Attack	0	4194304	Value	ValueOutput
+Env1_Release	0	4194304	Value	ValueOutput
+Env2_Sensitivit	0	4194304	Value	ValueOutput
+Env2_Attack	0	4194304	Value	ValueOutput
+Env2_Release	0	4194304	Value	ValueOutput
+Mixer1_In1	0	4194304	Value	ValueOutput
+Mixer1_In2	0	4194304	Value	ValueOutput
+Mixer1_Mix	0	4194304	Value	ValueOutput
+Mixer2_In1	0	4194304	Value	ValueOutput
+Mixer2_In2	0	4194304	Value	ValueOutput
+Mixer2_Mix	0	4194304	Value	ValueOutput
+Multiplier1_In1	0	4194304	Value	ValueOutput
+Multiplier1_In2	0	4194304	Value	ValueOutput
+Multiplier2_In1	0	4194304	Value	ValueOutput
+Multiplier2_In2	0	4194304	Value	ValueOutput
+Inverter1_In	0	4194304	Value	ValueOutput
+Inverter2_In	0	4194304	Value	ValueOutput
+Filter1_Cut_Mod	0	4194304	Value	ValueOutput
+Filter1_Cut_Mod	0	4194304	Value	ValueOutput
+Filter2_Cut_Mod	0	4194304	Value	ValueOutput
+Filter2_Cut_Mod	0	4194304	Value	ValueOutput
+Filter_Morph_Mo	0	4194304	Value	ValueOutput
+Filter_Morph_Mo	0	4194304	Value	ValueOutput
+Pitch1_Mod_Src	0	4194304	Value	ValueOutput
+Pitch1_Mod_Dept	0	4194304	Value	ValueOutput
+Pitch2_Mod_Src	0	4194304	Value	ValueOutput
+Pitch2_Mod_Dept	0	4194304	Value	ValueOutput
+Pitch_Morph_Mod	0	4194304	Value	ValueOutput
+Pitch_Morph_Mod	0	4194304	Value	ValueOutput
+Pitch_Mix_Mod_S	0	4194304	Value	ValueOutput
+Pitch_Mix_Mod_D	0	4194304	Value	ValueOutput
+Delay1_Time_Mod	0	4194304	Value	ValueOutput
+Delay1_Time_Mod	0	4194304	Value	ValueOutput
+Delay2_Time_Mod	0	4194304	Value	ValueOutput
+Delay2_Time_Mod	0	4194304	Value	ValueOutput
+Delay_Morph_Mod	0	4194304	Value	ValueOutput
+Delay_Morph_Mod	0	4194304	Value	ValueOutput
+Delay_Mix_Mod_S	0	4194304	Value	ValueOutput
+Delay_Mix_Mod_D	0	4194304	Value	ValueOutput
+Dry_Wet_Mod_Src	0	4194304	Value	ValueOutput
+Dry_Wet_Mod_Dep	0	4194304	Value	ValueOutput
+Lfo1_Rate_Mod_S	0	4194304	Value	ValueOutput
+Lfo1_Rate_Mod_D	0	4194304	Value	ValueOutput
+Lfo2_Rate_Mod_S	0	4194304	Value	ValueOutput
+Lfo2_Rate_Mod_D	0	4194304	Value	ValueOutput
+Lfo3_Rate_Mod_S	0	4194304	Value	ValueOutput
+Lfo3_Rate_Mod_D	0	4194304	Value	ValueOutput
+Lfo4_Rate_Mod_S	0	4194304	Value	ValueOutput
+Lfo4_Rate_Mod_D	0	4194304	Value	ValueOutput
+Mixer1_Mix_Mod_	0	4194304	Value	ValueOutput
+Mixer1_Mix_Mod_	0	4194304	Value	ValueOutput
+Mixer2_Mix_Mod_	0	4194304	Value	ValueOutput
+Mixer2_Mix_Mod_	0	4194304	Value	ValueOutput
+Random	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

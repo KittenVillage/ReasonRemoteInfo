@@ -1,0 +1,35 @@
+Scope
+Manufacturer	Model
+Black and Orange	com.blackandorange.ReVolt
+
+Remotable	Min	Max	Input type	Output type
+cv1Freeze	0	1	Toggle	ValueOutput
+cv1Invert	0	1	Toggle	ValueOutput
+cv2Freeze	0	1	Toggle	ValueOutput
+cv2Invert	0	1	Toggle	ValueOutput
+cvOutInvert	0	1	Toggle	ValueOutput
+blendmode	0	7	Value	ValueOutput
+polaritymode	0	1	Toggle	ValueOutput
+scaleamount	0	4194304	Value	ValueOutput
+addamount	0	4194304	Value	ValueOutput
+relativeaddmode	0	1	Toggle	ValueOutput
+minoutput	0	4194304	Value	ValueOutput
+minoutputUni	0	4194304	Value	ValueOutput
+maxoutput	0	4194304	Value	ValueOutput
+maxoutputUni	0	4194304	Value	ValueOutput
+conformToRange	0	1	Toggle	ValueOutput
+staticoutputenabled	0	1	Toggle	ValueOutput
+staticoutput	0	4194304	Value	ValueOutput
+splitSmoothing	0	4194304	Value	ValueOutput
+splitLevel	0	4194304	Value	ValueOutput
+splitAOffStaticValue	0	4194304	Value	ValueOutput
+splitAOnMode	0	6	Value	ValueOutput
+splitAOnStaticValue	0	4194304	Value	ValueOutput
+splitBOffStaticValue	0	4194304	Value	ValueOutput
+splitBOnMode	0	6	Value	ValueOutput
+splitBOnStaticValue	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

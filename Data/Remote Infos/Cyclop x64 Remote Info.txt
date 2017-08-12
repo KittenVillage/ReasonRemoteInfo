@@ -1,0 +1,172 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	vst.sbcy.Cyclop x64
+Note: Will match scope definitions for vst.sbcy.Cyclop x64 or vst.sbcy
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master_Level	0	4194304	Value	ValueOutput
+Wobble_Knob	0	4194304	Value	ValueOutput
+WBL_Amount_Knob	0	4194304	Value	ValueOutput
+Sound_Knob	0	4194304	Value	ValueOutput
+FX_Knob	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+MSTR_Attack	0	4194304	Value	ValueOutput
+MSTR_DEC_REL	0	4194304	Value	ValueOutput
+MSTR_VELOCITY	0	4194304	Value	ValueOutput
+Bass	0	4194304	Value	ValueOutput
+Stereo	0	4194304	Value	ValueOutput
+Sub_Osc_Level	0	4194304	Value	ValueOutput
+Sub_Osc_Octave	0	4194304	Value	ValueOutput
+Filter_1_Cutoff	0	4194304	Value	ValueOutput
+Filter_1_Resonan_	0	4194304	Value	ValueOutput
+Filter_1_Mix	0	4194304	Value	ValueOutput
+Filter_1_Type	0	4194304	Value	ValueOutput
+F1_Vow_On_Off	0	4194304	Value	ValueOutput
+F1_Vow_A	0	4194304	Value	ValueOutput
+F1_Vow_B	0	4194304	Value	ValueOutput
+Filt1_Onoff	0	4194304	Value	ValueOutput
+Filter_2_Cutoff	0	4194304	Value	ValueOutput
+Filter_2_Resonan_	0	4194304	Value	ValueOutput
+Filter_2_Mix	0	4194304	Value	ValueOutput
+Filter_2_Type	0	4194304	Value	ValueOutput
+F2_Vow_On_Off	0	4194304	Value	ValueOutput
+F2_Vow_A	0	4194304	Value	ValueOutput
+F2_Vow_B	0	4194304	Value	ValueOutput
+Filt2_Onoff	0	4194304	Value	ValueOutput
+Distortion	0	4194304	Value	ValueOutput
+Synth_1_2_Mix	0	4194304	Value	ValueOutput
+Filter_1_2_Mix	0	4194304	Value	ValueOutput
+Routing_Drive_A	0	4194304	Value	ValueOutput
+Routing_Drive_B	0	4194304	Value	ValueOutput
+S1_Detune	0	4194304	Value	ValueOutput
+S1_Octave	0	4194304	Value	ValueOutput
+S1_Unison	0	4194304	Value	ValueOutput
+S2_Detune	0	4194304	Value	ValueOutput
+S2_Octave	0	4194304	Value	ValueOutput
+S2_Unison	0	4194304	Value	ValueOutput
+Select_Signal_Fl_	0	4194304	Value	ValueOutput
+Synth1_OnOff	0	4194304	Value	ValueOutput
+Select_S1_Engine_	0	4194304	Value	ValueOutput
+Synth2_OnOff	0	4194304	Value	ValueOutput
+Select_S2_Engine_	0	4194304	Value	ValueOutput
+S1_Super	0	4194304	Value	ValueOutput
+S1_Stab	0	4194304	Value	ValueOutput
+S1_Digitize	0	4194304	Value	ValueOutput
+S1_Sync_Mix	0	4194304	Value	ValueOutput
+S1_Sync_Freq	0	4194304	Value	ValueOutput
+S1_PW	0	4194304	Value	ValueOutput
+S1_Mstr_WV	0	4194304	Value	ValueOutput
+S1_Slv_WV	0	4194304	Value	ValueOutput
+S1_Anti_Anti_Ali_	0	4194304	Value	ValueOutput
+S1_Fixed_Freq	0	4194304	Value	ValueOutput
+S1_FM_A	0	4194304	Value	ValueOutput
+S1_FM_B	0	4194304	Value	ValueOutput
+S1_Lin_FM	0	4194304	Value	ValueOutput
+S1_M_Ratio	0	4194304	Value	ValueOutput
+S1_Fm_A_Ratio	0	4194304	Value	ValueOutput
+S1_Fm_B_Ratio	0	4194304	Value	ValueOutput
+S1_Fm_Algo	0	4194304	Value	ValueOutput
+S1_Formant	0	4194304	Value	ValueOutput
+S1_Position	0	4194304	Value	ValueOutput
+S1_Grain	0	4194304	Value	ValueOutput
+S1_Partial	0	4194304	Value	ValueOutput
+S1_Shape	0	4194304	Value	ValueOutput
+S1_Shift	0	4194304	Value	ValueOutput
+S1_Partial_WV	0	4194304	Value	ValueOutput
+S1_Mod	0	4194304	Value	ValueOutput
+S1_Selfmod	0	4194304	Value	ValueOutput
+S1_Symm	0	4194304	Value	ValueOutput
+S2_Super	0	4194304	Value	ValueOutput
+S2_Stab	0	4194304	Value	ValueOutput
+S2_Digitize	0	4194304	Value	ValueOutput
+S2_Sync_Mix	0	4194304	Value	ValueOutput
+S2_Sync_Freq	0	4194304	Value	ValueOutput
+S2_PW	0	4194304	Value	ValueOutput
+S2_Mstr_WV	0	4194304	Value	ValueOutput
+S2_Slv_WV	0	4194304	Value	ValueOutput
+S2_Anti_Anti_Ali_	0	4194304	Value	ValueOutput
+S2_Fixed_Freq	0	4194304	Value	ValueOutput
+S2_FM_A	0	4194304	Value	ValueOutput
+S2_FM_B	0	4194304	Value	ValueOutput
+S2_Lin_FM	0	4194304	Value	ValueOutput
+S2_M_Ratio	0	4194304	Value	ValueOutput
+S2_FM_A_Ratio	0	4194304	Value	ValueOutput
+S2_FM_B_Ratio	0	4194304	Value	ValueOutput
+S2_FM_Algo	0	4194304	Value	ValueOutput
+S2_Formant	0	4194304	Value	ValueOutput
+S2_Position	0	4194304	Value	ValueOutput
+S2_Grain	0	4194304	Value	ValueOutput
+S2_Partial	0	4194304	Value	ValueOutput
+S2_Shape	0	4194304	Value	ValueOutput
+S2_Shift	0	4194304	Value	ValueOutput
+S2_Partial_WV	0	4194304	Value	ValueOutput
+S2_Mod	0	4194304	Value	ValueOutput
+S2_Selfmod	0	4194304	Value	ValueOutput
+S2_Symm	0	4194304	Value	ValueOutput
+WBL_Set_All	0	4194304	Value	ValueOutput
+WBL_Wave_1	0	4194304	Value	ValueOutput
+WBL_Wave_2	0	4194304	Value	ValueOutput
+WBL_Wave_3	0	4194304	Value	ValueOutput
+WBL_Wave_4	0	4194304	Value	ValueOutput
+WBL_Wave_5	0	4194304	Value	ValueOutput
+WBL_Wave_6	0	4194304	Value	ValueOutput
+WBL_Wave_7	0	4194304	Value	ValueOutput
+WBL_Wave_8	0	4194304	Value	ValueOutput
+WBL_Wave_9	0	4194304	Value	ValueOutput
+WBL_Wave_10	0	4194304	Value	ValueOutput
+WBL_Wave_11	0	4194304	Value	ValueOutput
+WBL_Wave_12	0	4194304	Value	ValueOutput
+Phaser_Mix	0	4194304	Value	ValueOutput
+Chorus_Mix	0	4194304	Value	ValueOutput
+Delay_Mix	0	4194304	Value	ValueOutput
+Reverb_Mix	0	4194304	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+FX_Seq_Play_Dire_	0	4194304	Value	ValueOutput
+FX_Clock	0	4194304	Value	ValueOutput
+Gater_Clock	0	4194304	Value	ValueOutput
+MOD_ENV_Attack	0	4194304	Value	ValueOutput
+MOD_ENV_Hold	0	4194304	Value	ValueOutput
+MOD_ENV_Decay	0	4194304	Value	ValueOutput
+MOD_ENV_Sustain	0	4194304	Value	ValueOutput
+MOD_ENV_Release	0	4194304	Value	ValueOutput
+MOD_LFO_Rate	0	4194304	Value	ValueOutput
+MOD_LFO_Wave	0	4194304	Value	ValueOutput
+MOD_Seq_Clock	0	4194304	Value	ValueOutput
+WBL_Restart_Mode_	0	4194304	Value	ValueOutput
+WBL_Start_Phase	0	4194304	Value	ValueOutput
+WBL_Quantize	0	4194304	Value	ValueOutput
+WBL_Trigger_Mode_	0	4194304	Value	ValueOutput
+Wobble_Hotkeys	0	4194304	Value	ValueOutput
+MOD_Seq_Tempo	0	4194304	Value	ValueOutput
+WBL_Random	0	4194304	Value	ValueOutput
+FX_Seq_Retrigger_	0	4194304	Value	ValueOutput
+FX_Seq_Hotkeys	0	4194304	Value	ValueOutput
+WBL_Rec_Hotkeys	0	4194304	Value	ValueOutput
+WBL_Amt_Hotkeys	0	4194304	Value	ValueOutput
+Sound_Knob_Hotke_	0	4194304	Value	ValueOutput
+FX_Recorder_Hotk_	0	4194304	Value	ValueOutput
+Cyclop_Game_Posi_	0	4194304	Value	ValueOutput
+Game_Preset_Chan_	0	4194304	Value	ValueOutput
+Master_Tune	0	4194304	Value	ValueOutput
+glidemode	0	4194304	Value	ValueOutput
+WBL_AUTO	0	4194304	Value	ValueOutput
+WBL_AMT_AUTO	0	4194304	Value	ValueOutput
+SOUND_AUTO	0	4194304	Value	ValueOutput
+FX_AUTO	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

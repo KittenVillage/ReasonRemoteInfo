@@ -1,0 +1,83 @@
+Scope
+Manufacturer	Model
+DaviSantos	vst.spgp.DvnSfxMaker_x64
+Note: Will match scope definitions for vst.spgp.DvnSfxMaker_x64 or vst.spgp
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Osc1 Type	0	4194304	Value	ValueOutput
+Osc2 Type	0	4194304	Value	ValueOutput
+Osc3 Type	0	4194304	Value	ValueOutput
+Osc1 Level	0	4194304	Value	ValueOutput
+Osc2 Level	0	4194304	Value	ValueOutput
+Osc3 Level	0	4194304	Value	ValueOutput
+White Level	0	4194304	Value	ValueOutput
+Pink Level	0	4194304	Value	ValueOutput
+Osc1 Octave	0	4194304	Value	ValueOutput
+Osc2 Octave	0	4194304	Value	ValueOutput
+Osc3 Octave	0	4194304	Value	ValueOutput
+Osc1 Transpose	0	4194304	Value	ValueOutput
+Osc2 Transpose	0	4194304	Value	ValueOutput
+Osc3 Transpose	0	4194304	Value	ValueOutput
+Osc1 Cents	0	4194304	Value	ValueOutput
+Osc2 Cents	0	4194304	Value	ValueOutput
+Osc2 Cents	0	4194304	Value	ValueOutput
+Osc1 Square Duty	0	4194304	Value	ValueOutput
+Osc2 Square Duty	0	4194304	Value	ValueOutput
+Osc3 Square Duty	0	4194304	Value	ValueOutput
+Osc1 Phase	0	4194304	Value	ValueOutput
+Osc2 Phase	0	4194304	Value	ValueOutput
+Osc3 Phase	0	4194304	Value	ValueOutput
+Osc1 EnvDepth	0	4194304	Value	ValueOutput
+Osc2 EnvDepth	0	4194304	Value	ValueOutput
+Osc3 EnvDepth	0	4194304	Value	ValueOutput
+Whiite EnvDepth	0	4194304	Value	ValueOutput
+Pink EnvDepth	0	4194304	Value	ValueOutput
+Amp Env Attack	0	4194304	Value	ValueOutput
+Amp Env Hold	0	4194304	Value	ValueOutput
+Amp Env Decay	0	4194304	Value	ValueOutput
+Amp Env Sustain	0	4194304	Value	ValueOutput
+Amp Env Release	0	4194304	Value	ValueOutput
+Pitch High Note	0	4194304	Value	ValueOutput
+Pitch Low Note	0	4194304	Value	ValueOutput
+Pitch Duration	0	4194304	Value	ValueOutput
+Pitch Start	0	4194304	Value	ValueOutput
+Pitch End	0	4194304	Value	ValueOutput
+Pitch Curve	0	4194304	Value	ValueOutput
+Filter LP Cutoff	0	4194304	Value	ValueOutput
+Filter LP Resonance	0	4194304	Value	ValueOutput
+Filter LP Env Depth	0	4194304	Value	ValueOutput
+Filter HP Cutoff	0	4194304	Value	ValueOutput
+Filter HP Resonance	0	4194304	Value	ValueOutput
+Filter HP Env Depth	0	4194304	Value	ValueOutput
+Compression Factor	0	4194304	Value	ValueOutput
+Pitch Jump Transpose	0	4194304	Value	ValueOutput
+Pitch Jump Delay	0	4194304	Value	ValueOutput
+Pitch Jump Time	0	4194304	Value	ValueOutput
+Pitch Jump Trigger	0	4194304	Value	ValueOutput
+Filter Env Attack	0	4194304	Value	ValueOutput
+Filter Env Hold	0	4194304	Value	ValueOutput
+Filter Env Decay	0	4194304	Value	ValueOutput
+Filter Env Sustain	0	4194304	Value	ValueOutput
+Filter Env Release	0	4194304	Value	ValueOutput
+BitCrush Position	0	4194304	Value	ValueOutput
+BitCrush Sample Rate	0	4194304	Value	ValueOutput
+BitCrush Bit Depth	0	4194304	Value	ValueOutput
+Mutation %	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

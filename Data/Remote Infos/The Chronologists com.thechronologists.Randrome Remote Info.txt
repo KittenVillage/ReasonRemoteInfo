@@ -1,0 +1,19 @@
+Scope
+Manufacturer	Model
+The Chronologists	com.thechronologists.Randrome
+
+Remotable	Min	Max	Input type	Output type
+Gate Input	0	1	Toggle	ValueOutput
+Random Number Input	0	2	Value	ValueOutput
+Random Number Polarity	0	1	Toggle	ValueOutput
+Quantize To Note	0	1	Toggle	ValueOutput
+Probability	0	100	Value	ValueOutput
+Threshold	0	254	Value	ValueOutput
+Closed Value Input	0	2	Value	ValueOutput
+Fixed Value	0	254	Value	ValueOutput
+Open Value Input	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

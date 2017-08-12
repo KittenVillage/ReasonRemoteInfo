@@ -1,0 +1,80 @@
+Scope
+Manufacturer	Model
+The Chronologists	com.thechronologists.Later
+
+Remotable	Min	Max	Input type	Output type
+Delay time Units switch 1	0	1	Toggle	ValueOutput
+Delay time Cv samples 1	0	2048	Value	ValueOutput
+Delay time Note values 1	0	10	Value	ValueOutput
+Feedback 1	0	300	Value	ValueOutput
+Input Mix 1	0	4194304	Value	ValueOutput
+Merge Mix 1	0	4194304	Value	ValueOutput
+Delay Mix 1	0	4194304	Value	ValueOutput
+Delay time Units switch 2	0	1	Toggle	ValueOutput
+Delay time Cv samples 2	0	2048	Value	ValueOutput
+Delay time Note values 2	0	10	Value	ValueOutput
+Feedback 2	0	300	Value	ValueOutput
+Input Mix 2	0	4194304	Value	ValueOutput
+Merge Mix 2	0	4194304	Value	ValueOutput
+Delay Mix 2	0	4194304	Value	ValueOutput
+Delay time Units switch 3	0	1	Toggle	ValueOutput
+Delay time Cv samples 3	0	2048	Value	ValueOutput
+Delay time Note values 3	0	10	Value	ValueOutput
+Feedback 3	0	300	Value	ValueOutput
+Input Mix 3	0	4194304	Value	ValueOutput
+Merge Mix 3	0	4194304	Value	ValueOutput
+Delay Mix 3	0	4194304	Value	ValueOutput
+Delay time Units switch 4	0	1	Toggle	ValueOutput
+Delay time Cv samples 4	0	2048	Value	ValueOutput
+Delay time Note values 4	0	10	Value	ValueOutput
+Feedback 4	0	300	Value	ValueOutput
+Input Mix 4	0	4194304	Value	ValueOutput
+Merge Mix 4	0	4194304	Value	ValueOutput
+Delay Mix 4	0	4194304	Value	ValueOutput
+Delay time Units switch 5	0	1	Toggle	ValueOutput
+Delay time Cv samples 5	0	2048	Value	ValueOutput
+Delay time Note values 5	0	10	Value	ValueOutput
+Feedback 5	0	300	Value	ValueOutput
+Input Mix 5	0	4194304	Value	ValueOutput
+Merge Mix 5	0	4194304	Value	ValueOutput
+Delay Mix 5	0	4194304	Value	ValueOutput
+Delay time Units switch 6	0	1	Toggle	ValueOutput
+Delay time Cv samples 6	0	2048	Value	ValueOutput
+Delay time Note values 6	0	10	Value	ValueOutput
+Feedback 6	0	300	Value	ValueOutput
+Input Mix 6	0	4194304	Value	ValueOutput
+Merge Mix 6	0	4194304	Value	ValueOutput
+Delay Mix 6	0	4194304	Value	ValueOutput
+Delay time Units switch 7	0	1	Toggle	ValueOutput
+Delay time Cv samples 7	0	2048	Value	ValueOutput
+Delay time Note values 7	0	10	Value	ValueOutput
+Feedback 7	0	300	Value	ValueOutput
+Input Mix 7	0	4194304	Value	ValueOutput
+Merge Mix 7	0	4194304	Value	ValueOutput
+Delay Mix 7	0	4194304	Value	ValueOutput
+Delay time Units switch 8	0	1	Toggle	ValueOutput
+Delay time Cv samples 8	0	2048	Value	ValueOutput
+Delay time Note values 8	0	10	Value	ValueOutput
+Feedback 8	0	300	Value	ValueOutput
+Input Mix 8	0	4194304	Value	ValueOutput
+Merge Mix 8	0	4194304	Value	ValueOutput
+Delay Mix 8	0	4194304	Value	ValueOutput
+Delay time Units switch 9	0	1	Toggle	ValueOutput
+Delay time Cv samples 9	0	2048	Value	ValueOutput
+Delay time Note values 9	0	10	Value	ValueOutput
+Feedback 9	0	300	Value	ValueOutput
+Input Mix 9	0	4194304	Value	ValueOutput
+Merge Mix 9	0	4194304	Value	ValueOutput
+Delay Mix 9	0	4194304	Value	ValueOutput
+Delay time Units switch 10	0	1	Toggle	ValueOutput
+Delay time Cv samples 10	0	2048	Value	ValueOutput
+Delay time Note values 10	0	10	Value	ValueOutput
+Feedback 10	0	300	Value	ValueOutput
+Input Mix 10	0	4194304	Value	ValueOutput
+Merge Mix 10	0	4194304	Value	ValueOutput
+Delay Mix 10	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

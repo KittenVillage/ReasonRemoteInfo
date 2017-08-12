@@ -1,0 +1,43 @@
+Scope
+Manufacturer	Model
+Glitchmachines	vst.GlHy.Hysteresis x64
+Note: Will match scope definitions for vst.GlHy.Hysteresis x64 or vst.GlHy
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Time	0	4194304	Value	ValueOutput
+Sync	0	4194304	Value	ValueOutput
+Division	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Ping_Out	0	4194304	Value	ValueOutput
+Cutoff_Floor	0	4194304	Value	ValueOutput
+Cutoff_Mod_Dept	0	4194304	Value	ValueOutput
+Cutoff_Mod_Rate	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Modulation_Rate	0	4194304	Value	ValueOutput
+Rate_Mode	0	4194304	Value	ValueOutput
+Modulation_Amou	0	4194304	Value	ValueOutput
+Stereo_Separati	0	4194304	Value	ValueOutput
+Stutter_Proport	0	4194304	Value	ValueOutput
+Stutter_Speed	0	4194304	Value	ValueOutput
+Stutter_Reverse	0	4194304	Value	ValueOutput
+Stutter_Mix	0	4194304	Value	ValueOutput
+Dry_Wet	0	4194304	Value	ValueOutput
+Randomize	0	4194304	Value	ValueOutput
+Out_Level	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

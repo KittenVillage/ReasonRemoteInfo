@@ -1,0 +1,37 @@
+Scope
+Manufacturer	Model
+2nd Sense	vst.Vrvb.2SAlgoReverb x64
+Note: Will match scope definitions for vst.Vrvb.2SAlgoReverb x64 or vst.Vrvb
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+DAMPINGFREQ	0	4194304	Value	ValueOutput
+DENSITY	0	4194304	Value	ValueOutput
+BANDWIDTHFREQ	0	4194304	Value	ValueOutput
+DECAY	0	4194304	Value	ValueOutput
+PREDELAY	0	4194304	Value	ValueOutput
+SIZE	0	4194304	Value	ValueOutput
+GAIN	0	4194304	Value	ValueOutput
+MIX	0	4194304	Value	ValueOutput
+EARLYMIX	0	4194304	Value	ValueOutput
+MODDEPTH	0	4194304	Value	ValueOutput
+MODRATE	0	4194304	Value	ValueOutput
+DIFFUSER1	0	4194304	Value	ValueOutput
+DIFFUSER2	0	4194304	Value	ValueOutput
+BANDWIDTHFREQHIG	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,86 @@
+Scope
+Manufacturer	Model
+Audiority	vst.Wi8k.Polaris x64
+Note: Will match scope definitions for vst.Wi8k.Polaris x64 or vst.Wi8k
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input	0	4194304	Value	ValueOutput
+LF Cut	0	4194304	Value	ValueOutput
+HF Cut	0	4194304	Value	ValueOutput
+Dry	0	4194304	Value	ValueOutput
+Wet	0	4194304	Value	ValueOutput
+ER 1-2	0	4194304	Value	ValueOutput
+ER 3-4	0	4194304	Value	ValueOutput
+ER 5-6	0	4194304	Value	ValueOutput
+ER 7-8	0	4194304	Value	ValueOutput
+ER Mix	0	4194304	Value	ValueOutput
+Diffusion	0	4194304	Value	ValueOutput
+Echo Mode	0	4194304	Value	ValueOutput
+Echo	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Smooth	0	4194304	Value	ValueOutput
+LFO Wave	0	4194304	Value	ValueOutput
+LFO Rate Mode	0	4194304	Value	ValueOutput
+Mod Rate	0	4194304	Value	ValueOutput
+Mod Amount	0	4194304	Value	ValueOutput
+ER 1 Time	0	4194304	Value	ValueOutput
+ER 2 Time	0	4194304	Value	ValueOutput
+ER 3 Time	0	4194304	Value	ValueOutput
+ER 4 Time	0	4194304	Value	ValueOutput
+ER 5 Time	0	4194304	Value	ValueOutput
+ER 6 Time	0	4194304	Value	ValueOutput
+ER 7 Time	0	4194304	Value	ValueOutput
+ER 8 Time	0	4194304	Value	ValueOutput
+Diff 1 Time	0	4194304	Value	ValueOutput
+Diff 1 Mute	0	4194304	Value	ValueOutput
+Diff 2 Time	0	4194304	Value	ValueOutput
+Diff 2 Mute	0	4194304	Value	ValueOutput
+Diff 3 Time	0	4194304	Value	ValueOutput
+Diff 3 Mute	0	4194304	Value	ValueOutput
+Diff 4 Time	0	4194304	Value	ValueOutput
+Diff 4 Mute	0	4194304	Value	ValueOutput
+Diff 5 Time	0	4194304	Value	ValueOutput
+Diff 5 Mute	0	4194304	Value	ValueOutput
+Diff 6 Time	0	4194304	Value	ValueOutput
+Diff 6 Mute	0	4194304	Value	ValueOutput
+Diff 7 Time	0	4194304	Value	ValueOutput
+Diff 7 Mute	0	4194304	Value	ValueOutput
+Diff 8 Time	0	4194304	Value	ValueOutput
+Diff 8 Mute	0	4194304	Value	ValueOutput
+Diff 9 Time	0	4194304	Value	ValueOutput
+Diff 9 Mute	0	4194304	Value	ValueOutput
+Diff 10 Time	0	4194304	Value	ValueOutput
+Diff 10 Mute	0	4194304	Value	ValueOutput
+Diff 11 Time	0	4194304	Value	ValueOutput
+Diff 11 Mute	0	4194304	Value	ValueOutput
+Diff 12 Time	0	4194304	Value	ValueOutput
+Diff 12 Mute	0	4194304	Value	ValueOutput
+Diff 13 Time	0	4194304	Value	ValueOutput
+Diff 13 Mute	0	4194304	Value	ValueOutput
+Diff 14 Time	0	4194304	Value	ValueOutput
+Diff 14 Mute	0	4194304	Value	ValueOutput
+Diff 15 Time	0	4194304	Value	ValueOutput
+Diff 15 Mute	0	4194304	Value	ValueOutput
+Diff 16 Time	0	4194304	Value	ValueOutput
+Diff 16 Mute	0	4194304	Value	ValueOutput
+Sample Rate	0	4194304	Value	ValueOutput
+Shimmer	0	4194304	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+Swell	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

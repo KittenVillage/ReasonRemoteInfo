@@ -1,0 +1,117 @@
+Scope
+Manufacturer	Model
+Roland	vst.Vas6.JUPITER-8
+Note: Will match scope definitions for vst.Vas6.JUPITER-8 or vst.Vas6
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+LFO WAVE	0	4194304	Value	ValueOutput
+LFO DELAY TIME	0	4194304	Value	ValueOutput
+LFO RATE	0	4194304	Value	ValueOutput
+VCO LFO MOD	0	4194304	Value	ValueOutput
+VCF LFO MOD	0	4194304	Value	ValueOutput
+VCA LFO MOD	0	4194304	Value	ValueOutput
+LFO KEY TRIG	0	4194304	Value	ValueOutput
+VCO1 WAVE	0	4194304	Value	ValueOutput
+VCO PWM DEPTH	0	4194304	Value	ValueOutput
+VCO PWM SOURCE	0	4194304	Value	ValueOutput
+VCO1 RANGE	0	4194304	Value	ValueOutput
+VCO1 CROSS MOD	0	4194304	Value	ValueOutput
+VCO2 WAVE	0	4194304	Value	ValueOutput
+VCO2 RANGE	0	4194304	Value	ValueOutput
+VCO2 FINE TUNE	0	4194304	Value	ValueOutput
+VCO2 LOW FREQ	0	4194304	Value	ValueOutput
+VCO2 SYNC	0	4194304	Value	ValueOutput
+VCO2 SUB RANGE	0	4194304	Value	ValueOutput
+MIXER VCO1	0	4194304	Value	ValueOutput
+MIXER VCO2	0	4194304	Value	ValueOutput
+VCO ENV MOD	0	4194304	Value	ValueOutput
+VCF CUTOFF	0	4194304	Value	ValueOutput
+VCF RESONANCE	0	4194304	Value	ValueOutput
+HPF CUTOFF	0	4194304	Value	ValueOutput
+VCF ENV MOD	0	4194304	Value	ValueOutput
+ENV1 ATTACK	0	4194304	Value	ValueOutput
+ENV1 DECAY	0	4194304	Value	ValueOutput
+ENV1 SUSTAIN	0	4194304	Value	ValueOutput
+ENV1 RELEASE	0	4194304	Value	ValueOutput
+VCF KEY FOLLOW	0	4194304	Value	ValueOutput
+ENV2 ATTACK	0	4194304	Value	ValueOutput
+ENV2 DECAY	0	4194304	Value	ValueOutput
+ENV2 SUSTAIN	0	4194304	Value	ValueOutput
+ENV2 RELEASE	0	4194304	Value	ValueOutput
+VCA TONE	0	4194304	Value	ValueOutput
+EFFECT LEVEL	0	4194304	Value	ValueOutput
+REVERB LEVEL	0	4194304	Value	ValueOutput
+DELAY LEVEL	0	4194304	Value	ValueOutput
+DELAY TIME	0	4194304	Value	ValueOutput
+PORTAMENTO	0	4194304	Value	ValueOutput
+LEGATO	0	4194304	Value	ValueOutput
+ASSIGN MODE	0	4194304	Value	ValueOutput
+BEND RANGE	0	4194304	Value	ValueOutput
+TEMPO SYNC	0	4194304	Value	ValueOutput
+VCA LEVEL	0	4194304	Value	ValueOutput
+BEND SW VCO1	0	4194304	Value	ValueOutput
+BEND SW VCO2	0	4194304	Value	ValueOutput
+ARPEGGIO SW	0	4194304	Value	ValueOutput
+ARPEGGIO MODE	0	4194304	Value	ValueOutput
+ARPEGGIO RANGE	0	4194304	Value	ValueOutput
+OCTAVE SHIFT	0	4194304	Value	ValueOutput
+KEY HOLD	0	4194304	Value	ValueOutput
+ENV1 KEY FOLLOW	0	4194304	Value	ValueOutput
+ENV2 KEY FOLLOW	0	4194304	Value	ValueOutput
+CONDITION	0	4194304	Value	ValueOutput
+BEND SENS VCO	0	4194304	Value	ValueOutput
+BEND SENS VCF	0	4194304	Value	ValueOutput
+MOD SENS VCO	0	4194304	Value	ValueOutput
+MOD SENS VCF	0	4194304	Value	ValueOutput
+LFO TRIG ENV	0	4194304	Value	ValueOutput
+VCO1 MOD	0	4194304	Value	ValueOutput
+VCO2 MOD	0	4194304	Value	ValueOutput
+VCF ENV MOD SOURCE	0	4194304	Value	ValueOutput
+VCF SLOPE	0	4194304	Value	ValueOutput
+EFFECT TYPE	0	4194304	Value	ValueOutput
+EFFECT CTRL	0	4194304	Value	ValueOutput
+DELAY TYPE	0	4194304	Value	ValueOutput
+REVERB TYPE	0	4194304	Value	ValueOutput
+REVERB TIME	0	4194304	Value	ValueOutput
+BEND GAIN	0	4194304	Value	ValueOutput
+LFO RATE	0	4194304	Value	ValueOutput
+VCF VELOCITY SENS	0	4194304	Value	ValueOutput
+VCF CUTOFF	0	4194304	Value	ValueOutput
+VCA VELOCITY SENS	0	4194304	Value	ValueOutput
+DELAY TAP TIME	0	4194304	Value	ValueOutput
+DELAY FEEDBACK	0	4194304	Value	ValueOutput
+DELAY HIGH CUT	0	4194304	Value	ValueOutput
+DELAY HF DAMP	0	4194304	Value	ValueOutput
+DELAY HF DAMP FREQ	0	4194304	Value	ValueOutput
+DELAY LF DAMP	0	4194304	Value	ValueOutput
+DELAY LF DAMP FREQ	0	4194304	Value	ValueOutput
+DELAY DIRECT LEVEL	0	4194304	Value	ValueOutput
+CHORUS PRE DELAY	0	4194304	Value	ValueOutput
+CHORUS LOW CUT	0	4194304	Value	ValueOutput
+CHORUS HIGH CUT	0	4194304	Value	ValueOutput
+FLANGER MANUAL	0	4194304	Value	ValueOutput
+FLANGER RESONANCE	0	4194304	Value	ValueOutput
+FLANGER LOW CUT	0	4194304	Value	ValueOutput
+REVERB PRE DELAY	0	4194304	Value	ValueOutput
+REVERB LOW CUT	0	4194304	Value	ValueOutput
+REVERB HIGH CUT	0	4194304	Value	ValueOutput
+REVERB DENSITY	0	4194304	Value	ValueOutput
+REVERB DIRECT LEVEL	0	4194304	Value	ValueOutput
+MASTER TUNE	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

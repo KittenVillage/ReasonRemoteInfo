@@ -1,0 +1,88 @@
+Scope
+Manufacturer	Model
+audioD3CK	vst.Eekj.Eekjuliza
+Note: Will match scope definitions for vst.Eekj.Eekjuliza or vst.Eekj
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+parameter-1	0	4194304	Value	ValueOutput
+parameter-2	0	4194304	Value	ValueOutput
+parameter-3	0	4194304	Value	ValueOutput
+parameter-4	0	4194304	Value	ValueOutput
+parameter-5	0	4194304	Value	ValueOutput
+parameter-6	0	4194304	Value	ValueOutput
+parameter-7	0	4194304	Value	ValueOutput
+parameter-8	0	4194304	Value	ValueOutput
+parameter-9	0	4194304	Value	ValueOutput
+parameter-10	0	4194304	Value	ValueOutput
+parameter-11	0	4194304	Value	ValueOutput
+parameter-12	0	4194304	Value	ValueOutput
+parameter-13	0	4194304	Value	ValueOutput
+parameter-14	0	4194304	Value	ValueOutput
+parameter-15	0	4194304	Value	ValueOutput
+parameter-16	0	4194304	Value	ValueOutput
+parameter-17	0	4194304	Value	ValueOutput
+parameter-18	0	4194304	Value	ValueOutput
+parameter-19	0	4194304	Value	ValueOutput
+parameter-20	0	4194304	Value	ValueOutput
+parameter-21	0	4194304	Value	ValueOutput
+parameter-22	0	4194304	Value	ValueOutput
+parameter-23	0	4194304	Value	ValueOutput
+parameter-24	0	4194304	Value	ValueOutput
+parameter-25	0	4194304	Value	ValueOutput
+parameter-26	0	4194304	Value	ValueOutput
+parameter-27	0	4194304	Value	ValueOutput
+parameter-28	0	4194304	Value	ValueOutput
+parameter-29	0	4194304	Value	ValueOutput
+parameter-30	0	4194304	Value	ValueOutput
+parameter-31	0	4194304	Value	ValueOutput
+parameter-32	0	4194304	Value	ValueOutput
+parameter-33	0	4194304	Value	ValueOutput
+parameter-34	0	4194304	Value	ValueOutput
+parameter-35	0	4194304	Value	ValueOutput
+parameter-36	0	4194304	Value	ValueOutput
+parameter-37	0	4194304	Value	ValueOutput
+parameter-38	0	4194304	Value	ValueOutput
+parameter-39	0	4194304	Value	ValueOutput
+parameter-40	0	4194304	Value	ValueOutput
+parameter-41	0	4194304	Value	ValueOutput
+parameter-42	0	4194304	Value	ValueOutput
+parameter-43	0	4194304	Value	ValueOutput
+parameter-44	0	4194304	Value	ValueOutput
+parameter-45	0	4194304	Value	ValueOutput
+parameter-46	0	4194304	Value	ValueOutput
+parameter-47	0	4194304	Value	ValueOutput
+parameter-48	0	4194304	Value	ValueOutput
+parameter-49	0	4194304	Value	ValueOutput
+parameter-50	0	4194304	Value	ValueOutput
+parameter-51	0	4194304	Value	ValueOutput
+parameter-52	0	4194304	Value	ValueOutput
+parameter-53	0	4194304	Value	ValueOutput
+parameter-54	0	4194304	Value	ValueOutput
+parameter-55	0	4194304	Value	ValueOutput
+parameter-56	0	4194304	Value	ValueOutput
+parameter-57	0	4194304	Value	ValueOutput
+parameter-58	0	4194304	Value	ValueOutput
+parameter-59	0	4194304	Value	ValueOutput
+parameter-60	0	4194304	Value	ValueOutput
+parameter-61	0	4194304	Value	ValueOutput
+parameter-62	0	4194304	Value	ValueOutput
+parameter-63	0	4194304	Value	ValueOutput
+parameter-64	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

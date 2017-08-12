@@ -1,0 +1,28 @@
+Scope
+Manufacturer	Model
+Softube	com.softube.re.ARange
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+High Frequency	0	3	Value	ValueOutput
+High Gain	0	4194304	Value	ValueOutput
+High Mid Frequency	0	3	Value	ValueOutput
+High Mid Gain	0	4194304	Value	ValueOutput
+Low Mid Frequency	0	3	Value	ValueOutput
+Low Mid Gain	0	4194304	Value	ValueOutput
+Low Frequency	0	3	Value	ValueOutput
+Low Gain	0	4194304	Value	ValueOutput
+Low Pass 15kHz	0	1	Toggle	ValueOutput
+Low Pass 12kHz	0	1	Toggle	ValueOutput
+Low Pass 9kHz	0	1	Toggle	ValueOutput
+High Pass 100Hz	0	1	Toggle	ValueOutput
+High Pass 50Hz	0	1	Toggle	ValueOutput
+High Pass 25Hz	0	1	Toggle	ValueOutput
+Saturation	0	4194304	Value	ValueOutput
+Output Volume	0	4194304	Value	ValueOutput
+Phase Invert	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

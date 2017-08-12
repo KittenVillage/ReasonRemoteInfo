@@ -1,0 +1,63 @@
+Scope
+Manufacturer	Model
+Plugin Alliance	vst.bxhm.bx_hybrid V2 mix x64
+Note: Will match scope definitions for vst.bxhm.bx_hybrid V2 mix x64 or vst.bxhm
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bank	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+AtLstnOn	0	4194304	Value	ValueOutput
+AutListn	0	4194304	Value	ValueOutput
+EQOn	0	4194304	Value	ValueOutput
+PhaseRev	0	4194304	Value	ValueOutput
+P1InGain	0	4194304	Value	ValueOutput
+P1OutGain	0	4194304	Value	ValueOutput
+P1HpQ	0	4194304	Value	ValueOutput
+P1HpFq	0	4194304	Value	ValueOutput
+P1HpOn	0	4194304	Value	ValueOutput
+P1LfQ	0	4194304	Value	ValueOutput
+P1LfFq	0	4194304	Value	ValueOutput
+P1LfGain	0	4194304	Value	ValueOutput
+P1LfOn	0	4194304	Value	ValueOutput
+P1LmfQ	0	4194304	Value	ValueOutput
+P1LmfFq	0	4194304	Value	ValueOutput
+P1LmfGain	0	4194304	Value	ValueOutput
+P1LmfOn	0	4194304	Value	ValueOutput
+P1MfQ	0	4194304	Value	ValueOutput
+P1MfFq	0	4194304	Value	ValueOutput
+P1MfGain	0	4194304	Value	ValueOutput
+P1MfOn	0	4194304	Value	ValueOutput
+P1HmfQ	0	4194304	Value	ValueOutput
+P1HmfFq	0	4194304	Value	ValueOutput
+P1HmfGain	0	4194304	Value	ValueOutput
+P1HmfOn	0	4194304	Value	ValueOutput
+P1HfQ	0	4194304	Value	ValueOutput
+P1HfFq	0	4194304	Value	ValueOutput
+P1HfGain	0	4194304	Value	ValueOutput
+P1HfOn	0	4194304	Value	ValueOutput
+P1LpQ	0	4194304	Value	ValueOutput
+P1LpFq	0	4194304	Value	ValueOutput
+P1LpOn	0	4194304	Value	ValueOutput
+P1BsFq	0	4194304	Value	ValueOutput
+P1BsGain	0	4194304	Value	ValueOutput
+P1BsOn	0	4194304	Value	ValueOutput
+P1PsFq	0	4194304	Value	ValueOutput
+P1PsGain	0	4194304	Value	ValueOutput
+P1PsOn	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

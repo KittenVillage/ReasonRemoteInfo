@@ -1,0 +1,77 @@
+Scope
+Manufacturer	Model
+NUGEN Audio	vst.UQ%D80.NUGEN Halo Upmix_7_1 64bit
+Note: Will match scope definitions for vst.UQ%D80.NUGEN Halo Upmix_7_1 64bit or vst.UQ%D80
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Dialog Isolate	0	4194304	Value	ValueOutput
+Dialog Aggress.	0	4194304	Value	ValueOutput
+Shelf Freq	0	4194304	Value	ValueOutput
+Shelf Gain	0	4194304	Value	ValueOutput
+Rear Shelf Filt	0	4194304	Value	ValueOutput
+LFE	0	4194304	Value	ValueOutput
+LFE Freq	0	4194304	Value	ValueOutput
+LFE Split	0	4194304	Value	ValueOutput
+LFE Gain	0	4194304	Value	ValueOutput
+Divergence	0	4194304	Value	ValueOutput
+Fade	0	4194304	Value	ValueOutput
+Fade Rears	0	4194304	Value	ValueOutput
+Diffusion	0	4194304	Value	ValueOutput
+Back Boost	0	4194304	Value	ValueOutput
+C LF Split	0	4194304	Value	ValueOutput
+LF Divergence	0	4194304	Value	ValueOutput
+C LF Freq	0	4194304	Value	ValueOutput
+Downmix Exact	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Listen Source	0	4194304	Value	ValueOutput
+Listen Upmix	0	4194304	Value	ValueOutput
+Listen C LF	0	4194304	Value	ValueOutput
+Listen Downmix	0	4194304	Value	ValueOutput
+Trim Source L	0	4194304	Value	ValueOutput
+Trim Source R	0	4194304	Value	ValueOutput
+Trim L	0	4194304	Value	ValueOutput
+Trim C	0	4194304	Value	ValueOutput
+Trim R	0	4194304	Value	ValueOutput
+Trim Ls	0	4194304	Value	ValueOutput
+Trim Rs	0	4194304	Value	ValueOutput
+Trim Lsr	0	4194304	Value	ValueOutput
+Trim Rsr	0	4194304	Value	ValueOutput
+Trim LFE	0	4194304	Value	ValueOutput
+Mute Source L	0	4194304	Value	ValueOutput
+Mute Source R	0	4194304	Value	ValueOutput
+Mute L	0	4194304	Value	ValueOutput
+Mute C	0	4194304	Value	ValueOutput
+Mute R	0	4194304	Value	ValueOutput
+Mute Ls	0	4194304	Value	ValueOutput
+Mute Rs	0	4194304	Value	ValueOutput
+Mute Lsr	0	4194304	Value	ValueOutput
+Mute Rsr	0	4194304	Value	ValueOutput
+Mute LFE	0	4194304	Value	ValueOutput
+Mute Downmix L	0	4194304	Value	ValueOutput
+Mute Downmix R	0	4194304	Value	ValueOutput
+Solo L	0	4194304	Value	ValueOutput
+Solo C	0	4194304	Value	ValueOutput
+Solo R	0	4194304	Value	ValueOutput
+Solo Ls	0	4194304	Value	ValueOutput
+Solo Rs	0	4194304	Value	ValueOutput
+Solo Lsr	0	4194304	Value	ValueOutput
+Solo Rsr	0	4194304	Value	ValueOutput
+Solo LFE	0	4194304	Value	ValueOutput
+Arc Link	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

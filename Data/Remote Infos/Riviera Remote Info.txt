@@ -1,0 +1,59 @@
+Scope
+Manufacturer	Model
+Yuancheng Luo	vst.zRiv.Riviera
+Note: Will match scope definitions for vst.zRiv.Riviera or vst.zRiv
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Time Delay	0	4194304	Value	ValueOutput
+Time Stretch	0	4194304	Value	ValueOutput
+Time Linearity	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Stereo	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+High Decay	0	4194304	Value	ValueOutput
+Low Decay	0	4194304	Value	ValueOutput
+Dimension 0	0	4194304	Value	ValueOutput
+Size 0	0	4194304	Value	ValueOutput
+Offset 0	0	4194304	Value	ValueOutput
+Refl. 0	0	4194304	Value	ValueOutput
+Dimension 1	0	4194304	Value	ValueOutput
+Size 1	0	4194304	Value	ValueOutput
+Offset 1	0	4194304	Value	ValueOutput
+Refl. 1	0	4194304	Value	ValueOutput
+Dimension 2	0	4194304	Value	ValueOutput
+Size 2	0	4194304	Value	ValueOutput
+Offset 2	0	4194304	Value	ValueOutput
+Refl. 2	0	4194304	Value	ValueOutput
+Dimension 3	0	4194304	Value	ValueOutput
+Size 3	0	4194304	Value	ValueOutput
+Offset 3	0	4194304	Value	ValueOutput
+Refl. 3	0	4194304	Value	ValueOutput
+Dimension 4	0	4194304	Value	ValueOutput
+Size 4	0	4194304	Value	ValueOutput
+Offset 4	0	4194304	Value	ValueOutput
+Refl. 4	0	4194304	Value	ValueOutput
+Low Cut Freq.	0	4194304	Value	ValueOutput
+Low Cut Quality	0	4194304	Value	ValueOutput
+Reverse Percent	0	4194304	Value	ValueOutput
+Time T0 Percent	0	4194304	Value	ValueOutput
+Time Attenuation	0	4194304	Value	ValueOutput
+Fast Mode	0	4194304	Value	ValueOutput
+Norm Mode	0	4194304	Value	ValueOutput
+Max FFT Pow	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

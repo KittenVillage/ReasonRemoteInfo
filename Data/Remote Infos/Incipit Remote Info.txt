@@ -1,0 +1,353 @@
+Scope
+Manufacturer	Model
+Inear_Display	vst.inIc.Incipit
+Note: Will match scope definitions for vst.inIc.Incipit or vst.inIc
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+LFO_1 Wave	0	4194304	Value	ValueOutput
+LFO_1 Rate	0	4194304	Value	ValueOutput
+LFO_1 Sync	0	4194304	Value	ValueOutput
+LFO_1 Synced Ra	0	4194304	Value	ValueOutput
+LFO_1 High Rate	0	4194304	Value	ValueOutput
+LFO_1 High Rate	0	4194304	Value	ValueOutput
+LFO_2 Wave	0	4194304	Value	ValueOutput
+LFO_2 Rate	0	4194304	Value	ValueOutput
+LFO_2 Sync	0	4194304	Value	ValueOutput
+LFO_2 Synced Ra	0	4194304	Value	ValueOutput
+LFO_2 High Rate	0	4194304	Value	ValueOutput
+LFO_2 High Rate	0	4194304	Value	ValueOutput
+LFO_3 Wave	0	4194304	Value	ValueOutput
+LFO_3 Rate	0	4194304	Value	ValueOutput
+LFO_3 Sync	0	4194304	Value	ValueOutput
+LFO_3 Synced Ra	0	4194304	Value	ValueOutput
+LFO_3 High Rate	0	4194304	Value	ValueOutput
+LFO_3 High Rate	0	4194304	Value	ValueOutput
+LFO_4 Wave	0	4194304	Value	ValueOutput
+LFO_4 Rate	0	4194304	Value	ValueOutput
+LFO_4 Sync	0	4194304	Value	ValueOutput
+LFO_4 Synced Ra	0	4194304	Value	ValueOutput
+LFO_4 High Rate	0	4194304	Value	ValueOutput
+LFO_4 High Rate	0	4194304	Value	ValueOutput
+Macro_1 Offset	0	4194304	Value	ValueOutput
+Macro_2 Offset	0	4194304	Value	ValueOutput
+Macro_3 Offset	0	4194304	Value	ValueOutput
+Pitch_Shifter_1	0	4194304	Value	ValueOutput
+Pitch_Shifter_1	0	4194304	Value	ValueOutput
+Pitch_Shifter_1	0	4194304	Value	ValueOutput
+Pitch_Shifter_1	0	4194304	Value	ValueOutput
+Delay_1 Time	0	4194304	Value	ValueOutput
+Delay_1 Sync	0	4194304	Value	ValueOutput
+Delay_1 Synced 	0	4194304	Value	ValueOutput
+Delay_1 Feed	0	4194304	Value	ValueOutput
+Delay_1 Mix	0	4194304	Value	ValueOutput
+Delay_1 Ping Po	0	4194304	Value	ValueOutput
+Gainer_1 Gain	0	4194304	Value	ValueOutput
+Panner_1 Pan	0	4194304	Value	ValueOutput
+Chain_Bypass_0	0	4194304	Value	ValueOutput
+Pitch_Shifter_2	0	4194304	Value	ValueOutput
+Pitch_Shifter_2	0	4194304	Value	ValueOutput
+Pitch_Shifter_2	0	4194304	Value	ValueOutput
+Pitch_Shifter_2	0	4194304	Value	ValueOutput
+Delay_2 Time	0	4194304	Value	ValueOutput
+Delay_2 Sync	0	4194304	Value	ValueOutput
+Delay_2 Synced 	0	4194304	Value	ValueOutput
+Delay_2 Feed	0	4194304	Value	ValueOutput
+Delay_2 Mix	0	4194304	Value	ValueOutput
+Delay_2 Ping Po	0	4194304	Value	ValueOutput
+Gainer_2 Gain	0	4194304	Value	ValueOutput
+Panner_2 Pan	0	4194304	Value	ValueOutput
+Chain_Bypass_1	0	4194304	Value	ValueOutput
+Chain 2 Serial 	0	4194304	Value	ValueOutput
+Pitch_Shifter_3	0	4194304	Value	ValueOutput
+Pitch_Shifter_3	0	4194304	Value	ValueOutput
+Pitch_Shifter_3	0	4194304	Value	ValueOutput
+Pitch_Shifter_3	0	4194304	Value	ValueOutput
+Delay_3 Time	0	4194304	Value	ValueOutput
+Delay_3 Sync	0	4194304	Value	ValueOutput
+Delay_3 Synced 	0	4194304	Value	ValueOutput
+Delay_3 Feed	0	4194304	Value	ValueOutput
+Delay_3 Mix	0	4194304	Value	ValueOutput
+Delay_3 Ping Po	0	4194304	Value	ValueOutput
+Gainer_3 Gain	0	4194304	Value	ValueOutput
+Panner_3 Pan	0	4194304	Value	ValueOutput
+Chain_Bypass_2	0	4194304	Value	ValueOutput
+Chain 3 Serial 	0	4194304	Value	ValueOutput
+Filter Mode	0	4194304	Value	ValueOutput
+Filter Cut	0	4194304	Value	ValueOutput
+Filter Res	0	4194304	Value	ValueOutput
+Amplitude	0	4194304	Value	ValueOutput
+Dry-Wet	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_LFO_1_Ra	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_LFO_1_Wa	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_LFO_2_Ra	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_LFO_2_Wa	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_LFO_3_Ra	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_LFO_3_Wa	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_LFO_4_Ra	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_LFO_4_Wa	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Pitch_Sh	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Pitch_Sh	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Delay_1_	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Delay_1_	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Gainer_1	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Panner_1	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Pitch_Sh	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Pitch_Sh	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Delay_2_	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Delay_2_	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Gainer_2	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Panner_2	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Pitch_Sh	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Pitch_Sh	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Delay_3_	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Delay_3_	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Gainer_3	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Panner_3	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Filter_C	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Filter_R	0	4194304	Value	ValueOutput
+Matrix_LFO_1_to	0	4194304	Value	ValueOutput
+Matrix_LFO_2_to	0	4194304	Value	ValueOutput
+Matrix_LFO_3_to	0	4194304	Value	ValueOutput
+Matrix_LFO_4_to	0	4194304	Value	ValueOutput
+Matrix_Macro_1_	0	4194304	Value	ValueOutput
+Matrix_Macro_2_	0	4194304	Value	ValueOutput
+Matrix_Macro_3_	0	4194304	Value	ValueOutput
+Matrix_Dry_Wet_	0	4194304	Value	ValueOutput
+Global Mod Scal	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,172 @@
+Scope
+Manufacturer	Model
+Native Instruments GmbH	vst.NiMa.Massive
+Note: Will match scope definitions for vst.NiMa.Massive or vst.NiMa
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+MACRO 1	0	4194304	Value	ValueOutput
+MACRO 2	0	4194304	Value	ValueOutput
+MACRO 3	0	4194304	Value	ValueOutput
+MACRO 4	0	4194304	Value	ValueOutput
+MACRO 5	0	4194304	Value	ValueOutput
+MACRO 6	0	4194304	Value	ValueOutput
+MACRO 7	0	4194304	Value	ValueOutput
+MACRO 8	0	4194304	Value	ValueOutput
+OSC1-PITCH	0	4194304	Value	ValueOutput
+OSC1-POSITION	0	4194304	Value	ValueOutput
+OSC1-PARAM2	0	4194304	Value	ValueOutput
+OSC1-AMP	0	4194304	Value	ValueOutput
+OSC1-FLT.ROUTING	0	4194304	Value	ValueOutput
+OSC2-PITCH	0	4194304	Value	ValueOutput
+OSC2-POSITION	0	4194304	Value	ValueOutput
+OSC2-PARAM2	0	4194304	Value	ValueOutput
+OSC2-AMP	0	4194304	Value	ValueOutput
+OSC2-FLT.ROUTING	0	4194304	Value	ValueOutput
+OSC3-PITCH	0	4194304	Value	ValueOutput
+OSC3-POSITION	0	4194304	Value	ValueOutput
+OSC3-PARAM2	0	4194304	Value	ValueOutput
+OSC3-AMP	0	4194304	Value	ValueOutput
+OSC3-FLT.ROUTING	0	4194304	Value	ValueOutput
+NOISE-COLOR	0	4194304	Value	ValueOutput
+NOISE-AMP	0	4194304	Value	ValueOutput
+NSE-F.RT	0	4194304	Value	ValueOutput
+F.BACK-AMP	0	4194304	Value	ValueOutput
+FB-FLT.ROUTING	0	4194304	Value	ValueOutput
+MOD.OSC-PITCH	0	4194304	Value	ValueOutput
+M.OSC-RM	0	4194304	Value	ValueOutput
+MOD.OSC-PHASE	0	4194304	Value	ValueOutput
+MOD.OSC-POSITION	0	4194304	Value	ValueOutput
+MOD.OSC-FLTR.FM	0	4194304	Value	ValueOutput
+FILTER1-CUT	0	4194304	Value	ValueOutput
+FILTER1-BW	0	4194304	Value	ValueOutput
+FILTER1-RES	0	4194304	Value	ValueOutput
+FILTER2-CUT	0	4194304	Value	ValueOutput
+FILTER2-BW	0	4194304	Value	ValueOutput
+FILTER2-RES	0	4194304	Value	ValueOutput
+SERIELL-PARALLEL	0	4194304	Value	ValueOutput
+INSERT1-DW/PRM1	0	4194304	Value	ValueOutput
+INSERT1-PRM2	0	4194304	Value	ValueOutput
+INSERT2-DW/PRM1	0	4194304	Value	ValueOutput
+INSERT2-PRM2	0	4194304	Value	ValueOutput
+MASTER FX1-DW	0	4194304	Value	ValueOutput
+MASTER FX1-PRM.2	0	4194304	Value	ValueOutput
+MASTER FX1-PRM.3	0	4194304	Value	ValueOutput
+MASTER FX1-PRM.4	0	4194304	Value	ValueOutput
+MASTER FX2-DW	0	4194304	Value	ValueOutput
+MASTER FX2-PRM.2	0	4194304	Value	ValueOutput
+MASTER FX2-PRM.3	0	4194304	Value	ValueOutput
+MASTER FX2-PRM.4	0	4194304	Value	ValueOutput
+FILTER1-OUT GAIN	0	4194304	Value	ValueOutput
+FILTER2-OUT GAIN	0	4194304	Value	ValueOutput
+FLT.1/2-C.FADE	0	4194304	Value	ValueOutput
+BYPASS-GAIN	0	4194304	Value	ValueOutput
+PAN (Fltr-Path)	0	4194304	Value	ValueOutput
+MASTER-VOLUME	0	4194304	Value	ValueOutput
+MOD5-RTE	0	4194304	Value	ValueOutput
+MOD6-RTE	0	4194304	Value	ValueOutput
+MOD7-RTE	0	4194304	Value	ValueOutput
+MOD8-RTE	0	4194304	Value	ValueOutput
+MOD5-AMP	0	4194304	Value	ValueOutput
+MOD6-AMP	0	4194304	Value	ValueOutput
+MOD7-AMP	0	4194304	Value	ValueOutput
+MOD8-AMP	0	4194304	Value	ValueOutput
+MOD5-CF/G	0	4194304	Value	ValueOutput
+MOD6-CF/G	0	4194304	Value	ValueOutput
+MOD7-CF/G	0	4194304	Value	ValueOutput
+MOD8-CF/G	0	4194304	Value	ValueOutput
+MOD5-I.LV	0	4194304	Value	ValueOutput
+MOD6-I.LV	0	4194304	Value	ValueOutput
+MOD7-I.LV	0	4194304	Value	ValueOutput
+MOD8-I.LV	0	4194304	Value	ValueOutput
+MOD15-SNC	0	4194304	Value	ValueOutput
+MOD26-SNC	0	4194304	Value	ValueOutput
+MOD37-SNC	0	4194304	Value	ValueOutput
+MOD48-SNC	0	4194304	Value	ValueOutput
+MOD5-RST	0	4194304	Value	ValueOutput
+MOD6-RST	0	4194304	Value	ValueOutput
+MOD7-RST	0	4194304	Value	ValueOutput
+MOD8-RST	0	4194304	Value	ValueOutput
+ENV1-VEL	0	4194304	Value	ValueOutput
+ENV2-VEL	0	4194304	Value	ValueOutput
+ENV3-VEL	0	4194304	Value	ValueOutput
+ENV4-VEL	0	4194304	Value	ValueOutput
+ENV1-KTR	0	4194304	Value	ValueOutput
+ENV2-KTR	0	4194304	Value	ValueOutput
+ENV3-KTR	0	4194304	Value	ValueOutput
+ENV4-KTR	0	4194304	Value	ValueOutput
+ENV1-DLY	0	4194304	Value	ValueOutput
+ENV2-DLY	0	4194304	Value	ValueOutput
+ENV3-DLY	0	4194304	Value	ValueOutput
+ENV4-DLY	0	4194304	Value	ValueOutput
+ENV1ATT.T	0	4194304	Value	ValueOutput
+ENV2ATT.T	0	4194304	Value	ValueOutput
+ENV3ATT.T	0	4194304	Value	ValueOutput
+ENV4ATT.T	0	4194304	Value	ValueOutput
+ENV1ATT.L	0	4194304	Value	ValueOutput
+ENV2ATT.L	0	4194304	Value	ValueOutput
+ENV3ATT.L	0	4194304	Value	ValueOutput
+ENV4ATT.L	0	4194304	Value	ValueOutput
+ENV1DEC.T	0	4194304	Value	ValueOutput
+ENV2DEC.T	0	4194304	Value	ValueOutput
+ENV3DEC.T	0	4194304	Value	ValueOutput
+ENV4DEC.T	0	4194304	Value	ValueOutput
+ENV1DEC.L	0	4194304	Value	ValueOutput
+ENV2DEC.L	0	4194304	Value	ValueOutput
+ENV3DEC.L	0	4194304	Value	ValueOutput
+ENV4DEC.L	0	4194304	Value	ValueOutput
+ENV1SST.T	0	4194304	Value	ValueOutput
+ENV2SST.T	0	4194304	Value	ValueOutput
+ENV3SST.T	0	4194304	Value	ValueOutput
+ENV4SST.T	0	4194304	Value	ValueOutput
+ENV1SST.L	0	4194304	Value	ValueOutput
+ENV2SST.L	0	4194304	Value	ValueOutput
+ENV3SST.L	0	4194304	Value	ValueOutput
+ENV4SST.L	0	4194304	Value	ValueOutput
+ENV1MORPH	0	4194304	Value	ValueOutput
+ENV2MORPH	0	4194304	Value	ValueOutput
+ENV3MORPH	0	4194304	Value	ValueOutput
+ENV4MORPH	0	4194304	Value	ValueOutput
+ENV1REL.T	0	4194304	Value	ValueOutput
+ENV2REL.T	0	4194304	Value	ValueOutput
+ENV3REL.T	0	4194304	Value	ValueOutput
+ENV4REL.T	0	4194304	Value	ValueOutput
+GLIDE-TIME	0	4194304	Value	ValueOutput
+VIBRATO-RATE	0	4194304	Value	ValueOutput
+VIBRATO-DEPTH	0	4194304	Value	ValueOutput
+UNI PITCH-C.FADE	0	4194304	Value	ValueOutput
+UNI WTPOS-C.FADE	0	4194304	Value	ValueOutput
+UNI PAN-C.FADE	0	4194304	Value	ValueOutput
+EQ-LoShelf.BOOST	0	4194304	Value	ValueOutput
+EQ-Peak.BOOST	0	4194304	Value	ValueOutput
+EQ-Peak.FREQ	0	4194304	Value	ValueOutput
+EQ-HiShelf.BOOST	0	4194304	Value	ValueOutput
+Env.Hold Reset	0	4194304	Value	ValueOutput
+MOD5-NUM	0	4194304	Value	ValueOutput
+MOD6-NUM	0	4194304	Value	ValueOutput
+MOD7-NUM	0	4194304	Value	ValueOutput
+MOD8-NUM	0	4194304	Value	ValueOutput
+MOD5-DEN	0	4194304	Value	ValueOutput
+MOD6-DEN	0	4194304	Value	ValueOutput
+MOD7-DEN	0	4194304	Value	ValueOutput
+MOD8-DEN	0	4194304	Value	ValueOutput
+MOD5-SCP	0	4194304	Value	ValueOutput
+MOD6-SCP	0	4194304	Value	ValueOutput
+MOD7-SCP	0	4194304	Value	ValueOutput
+MOD8-SCP	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

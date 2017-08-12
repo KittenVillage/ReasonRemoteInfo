@@ -1,0 +1,70 @@
+Scope
+Manufacturer	Model
+Waves	vst.LC5M.WaveShell-VST 9_91_x64.LinMB Mono
+Note: Will match scope definitions for vst.LC5M.WaveShell-VST 9_91_x64.LinMB Mono or vst.LC5M
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Makeup Mode	0	4194304	Value	ValueOutput
+Adaptivity Level	0	4194304	Value	ValueOutput
+Band 1 Gain	0	4194304	Value	ValueOutput
+Band 1 Range	0	4194304	Value	ValueOutput
+Band 1 Attack	0	4194304	Value	ValueOutput
+Band 1 Release	0	4194304	Value	ValueOutput
+Band 1 Solo	0	4194304	Value	ValueOutput
+Band 1 Bypass	0	4194304	Value	ValueOutput
+Band 1 Thresh	0	4194304	Value	ValueOutput
+Band 2 Gain	0	4194304	Value	ValueOutput
+Band 2 Range	0	4194304	Value	ValueOutput
+Band 2 Attack	0	4194304	Value	ValueOutput
+Band 2 Release	0	4194304	Value	ValueOutput
+Band 2 Solo	0	4194304	Value	ValueOutput
+Band 2 Bypass	0	4194304	Value	ValueOutput
+Band 2 Thresh	0	4194304	Value	ValueOutput
+Band 3 Gain	0	4194304	Value	ValueOutput
+Band 3 Range	0	4194304	Value	ValueOutput
+Band 3 Attack	0	4194304	Value	ValueOutput
+Band 3 Release	0	4194304	Value	ValueOutput
+Band 3 Solo	0	4194304	Value	ValueOutput
+Band 3 Bypass	0	4194304	Value	ValueOutput
+Band 3 Thresh	0	4194304	Value	ValueOutput
+Band 4 Gain	0	4194304	Value	ValueOutput
+Band 4 Range	0	4194304	Value	ValueOutput
+Band 4 Attack	0	4194304	Value	ValueOutput
+Band 4 Release	0	4194304	Value	ValueOutput
+Band 4 Solo	0	4194304	Value	ValueOutput
+Band 4 Bypass	0	4194304	Value	ValueOutput
+Band 4 Thresh	0	4194304	Value	ValueOutput
+Band 5 Gain	0	4194304	Value	ValueOutput
+Band 5 Range	0	4194304	Value	ValueOutput
+Band 5 Attack	0	4194304	Value	ValueOutput
+Band 5 Release	0	4194304	Value	ValueOutput
+Band 5 Solo	0	4194304	Value	ValueOutput
+Band 5 Bypass	0	4194304	Value	ValueOutput
+Band 5 Thresh	0	4194304	Value	ValueOutput
+Low Crossover	0	4194304	Value	ValueOutput
+LoMid Crossover	0	4194304	Value	ValueOutput
+HiMid Crossover	0	4194304	Value	ValueOutput
+High Crossover	0	4194304	Value	ValueOutput
+Dither Mode	0	4194304	Value	ValueOutput
+Release Mode	0	4194304	Value	ValueOutput
+Behavior	0	4194304	Value	ValueOutput
+Knee	0	4194304	Value	ValueOutput
+Trim	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

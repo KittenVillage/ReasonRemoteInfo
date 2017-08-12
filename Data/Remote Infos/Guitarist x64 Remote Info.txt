@@ -1,0 +1,103 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	vst.sbgu.Guitarist x64
+Note: Will match scope definitions for vst.sbgu.Guitarist x64 or vst.sbgu
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Amp_Volume	0	4194304	Value	ValueOutput
+Amp_Drive	0	4194304	Value	ValueOutput
+Model_X_ToneSwit	0	4194304	Value	ValueOutput
+Model_X_Tone	0	4194304	Value	ValueOutput
+Model_Q_Low	0	4194304	Value	ValueOutput
+Model_Q_Mid	0	4194304	Value	ValueOutput
+Model_Q_High	0	4194304	Value	ValueOutput
+Chorus_Rate	0	4194304	Value	ValueOutput
+Chorus_Depth	0	4194304	Value	ValueOutput
+Chorus_Stereo	0	4194304	Value	ValueOutput
+Chorus_Mix	0	4194304	Value	ValueOutput
+Phaser_Rate	0	4194304	Value	ValueOutput
+Phaser_Depth	0	4194304	Value	ValueOutput
+Phaser_Color	0	4194304	Value	ValueOutput
+Phaser_Mix	0	4194304	Value	ValueOutput
+FreqPhaser_Rate	0	4194304	Value	ValueOutput
+FreqPhaser_Direc	0	4194304	Value	ValueOutput
+FreqPhaser_Mix	0	4194304	Value	ValueOutput
+Phasewah_Attack	0	4194304	Value	ValueOutput
+Phasewah_Depth	0	4194304	Value	ValueOutput
+Phasewah_Color	0	4194304	Value	ValueOutput
+Phasewah_Mix	0	4194304	Value	ValueOutput
+Autowah_Attack	0	4194304	Value	ValueOutput
+Autowah_Depth	0	4194304	Value	ValueOutput
+Autowah_Base	0	4194304	Value	ValueOutput
+Autowah_Mix	0	4194304	Value	ValueOutput
+Delay_Time	0	4194304	Value	ValueOutput
+Delay_Feed	0	4194304	Value	ValueOutput
+Delay_Stereo	0	4194304	Value	ValueOutput
+Delay_Mix	0	4194304	Value	ValueOutput
+StDelay_T_Right	0	4194304	Value	ValueOutput
+StDelay_T_Left	0	4194304	Value	ValueOutput
+StDelay_Feedback	0	4194304	Value	ValueOutput
+StDelay_Mix	0	4194304	Value	ValueOutput
+Reverse_Time	0	4194304	Value	ValueOutput
+Reverse_Decay	0	4194304	Value	ValueOutput
+Reverse_Mix	0	4194304	Value	ValueOutput
+Reverb_Room	0	4194304	Value	ValueOutput
+Reverb_Damp	0	4194304	Value	ValueOutput
+Reverb_Stereo	0	4194304	Value	ValueOutput
+Reverb_Mix	0	4194304	Value	ValueOutput
+ReverbHQ_Room	0	4194304	Value	ValueOutput
+ReverbHQ_Reflect	0	4194304	Value	ValueOutput
+ReverbHQ_Damp	0	4194304	Value	ValueOutput
+ReverbHQ_Mix	0	4194304	Value	ValueOutput
+Wahpedal	0	4194304	Value	ValueOutput
+LFO_Rate	0	4194304	Value	ValueOutput
+LFO_Retrig_Sens	0	4194304	Value	ValueOutput
+Wah_Mod_Switch	0	4194304	Value	ValueOutput
+WahMax	0	4194304	Value	ValueOutput
+WahMin	0	4194304	Value	ValueOutput
+TalkMax	0	4194304	Value	ValueOutput
+TalkMin	0	4194304	Value	ValueOutput
+Action_Damp	0	4194304	Value	ValueOutput
+Action_Stop	0	4194304	Value	ValueOutput
+StopStrumSpeed	0	4194304	Value	ValueOutput
+Action_Deadnote	0	4194304	Value	ValueOutput
+Action_Looper	0	4194304	Value	ValueOutput
+LoopSize	0	4194304	Value	ValueOutput
+Action_Halfspeed	0	4194304	Value	ValueOutput
+Action_Timestret	0	4194304	Value	ValueOutput
+Timestretch_Spee	0	4194304	Value	ValueOutput
+Action_Restart	0	4194304	Value	ValueOutput
+Action_Slowdown	0	4194304	Value	ValueOutput
+Slowdown_Rate	0	4194304	Value	ValueOutput
+Tune1	0	4194304	Value	ValueOutput
+Tune2	0	4194304	Value	ValueOutput
+Tune3	0	4194304	Value	ValueOutput
+Tune4	0	4194304	Value	ValueOutput
+Tune5	0	4194304	Value	ValueOutput
+Tune6	0	4194304	Value	ValueOutput
+strumspeed	0	4194304	Value	ValueOutput
+StringE1Level	0	4194304	Value	ValueOutput
+StringALevel	0	4194304	Value	ValueOutput
+StringDLevel	0	4194304	Value	ValueOutput
+StringGLevel	0	4194304	Value	ValueOutput
+StringBLevel	0	4194304	Value	ValueOutput
+StringELevel	0	4194304	Value	ValueOutput
+Swingfactor	0	4194304	Value	ValueOutput
+Play_Button	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

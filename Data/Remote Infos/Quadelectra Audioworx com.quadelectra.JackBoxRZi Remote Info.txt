@@ -1,0 +1,40 @@
+Scope
+Manufacturer	Model
+Quadelectra Audioworx	com.quadelectra.JackBoxRZi
+
+Remotable	Min	Max	Input type	Output type
+TOM1 Level	0	4194304	Value	ValueOutput
+TOM2 Level	0	4194304	Value	ValueOutput
+TOM3 Level	0	4194304	Value	ValueOutput
+BD Level	0	4194304	Value	ValueOutput
+RIM / SD Level	0	4194304	Value	ValueOutput
+CLOSED HH / OPEN HH Level	0	4194304	Value	ValueOutput
+CLAPS / RIDE Level	0	4194304	Value	ValueOutput
+COWBELL / CRASH Level	0	4194304	Value	ValueOutput
+SAMPLE 1-2 Level	0	4194304	Value	ValueOutput
+SAMPLE 3-4 Level	0	4194304	Value	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Accent Level	0	4194304	Value	ValueOutput
+Velocity Sensitivity	0	4194304	Value	ValueOutput
+Accent On	0	1	Toggle	ValueOutput
+PAD 01 (TOM 1)	0	1	Toggle	ValueOutput
+PAD 02 (TOM 2)	0	1	Toggle	ValueOutput
+PAD 03 (TOM 3)	0	1	Toggle	ValueOutput
+PAD 04 (BD)	0	1	Toggle	ValueOutput
+PAD 05 (RIM)	0	1	Toggle	ValueOutput
+PAD 06 (SD)	0	1	Toggle	ValueOutput
+PAD 07 (HIHAT OPEN)	0	1	Toggle	ValueOutput
+PAD 08 (HIHAT CLOSED)	0	1	Toggle	ValueOutput
+PAD 09 (CLAPS)	0	1	Toggle	ValueOutput
+PAD 10 (RIDE)	0	1	Toggle	ValueOutput
+PAD 11 (COWBELL)	0	1	Toggle	ValueOutput
+PAD 12 (CRASH)	0	1	Toggle	ValueOutput
+PAD 13 (SAMPLE 1)	0	1	Toggle	ValueOutput
+PAD 14 (SAMPLE 2)	0	1	Toggle	ValueOutput
+PAD 15 (SAMPLE 3)	0	1	Toggle	ValueOutput
+PAD 16 (SAMPLE 4)	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

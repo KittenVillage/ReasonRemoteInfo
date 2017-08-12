@@ -1,0 +1,143 @@
+Scope
+Manufacturer	Model
+Roland	vst.Vas5.SYSTEM-8
+Note: Will match scope definitions for vst.Vas5.SYSTEM-8 or vst.Vas5
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+LFO WAVE	0	4194304	Value	ValueOutput
+LFO FADE TIME	0	4194304	Value	ValueOutput
+LFO RATE	0	4194304	Value	ValueOutput
+LFO PITCH DEPTH	0	4194304	Value	ValueOutput
+LFO FILTER DEPTH	0	4194304	Value	ValueOutput
+LFO AMP DEPTH	0	4194304	Value	ValueOutput
+LFO KEY TRIG	0	4194304	Value	ValueOutput
+OSC1 WAVE	0	4194304	Value	ValueOutput
+OSC1 COLOR	0	4194304	Value	ValueOutput
+OSC1 MOD	0	4194304	Value	ValueOutput
+OSC1 RANGE	0	4194304	Value	ValueOutput
+OSC1 CROSS MOD	0	4194304	Value	ValueOutput
+OSC2 WAVE	0	4194304	Value	ValueOutput
+OSC2 COLOR	0	4194304	Value	ValueOutput
+OSC2 MOD	0	4194304	Value	ValueOutput
+OSC2 RANGE	0	4194304	Value	ValueOutput
+OSC2 FINE TUNE	0	4194304	Value	ValueOutput
+OSC2 RING	0	4194304	Value	ValueOutput
+OSC2 SYNC	0	4194304	Value	ValueOutput
+OSC2 COARSE TUNE	0	4194304	Value	ValueOutput
+MIXER OSC1	0	4194304	Value	ValueOutput
+MIXER OSC2	0	4194304	Value	ValueOutput
+MIXER OSC3 / SUB OSC	0	4194304	Value	ValueOutput
+MIXER NOISE	0	4194304	Value	ValueOutput
+MIXER NOISE TYPE	0	4194304	Value	ValueOutput
+PITCH ENV	0	4194304	Value	ValueOutput
+PITCH ATTACK	0	4194304	Value	ValueOutput
+PITCH DECAY	0	4194304	Value	ValueOutput
+FILTER CUTOFF	0	4194304	Value	ValueOutput
+FILTER RESONANCE	0	4194304	Value	ValueOutput
+FILTER HPF CUTOFF	0	4194304	Value	ValueOutput
+FILTER ENV	0	4194304	Value	ValueOutput
+FILTER ATTACK	0	4194304	Value	ValueOutput
+FILTER DECAY	0	4194304	Value	ValueOutput
+FILTER SUSTAIN	0	4194304	Value	ValueOutput
+FILTER RELEASE	0	4194304	Value	ValueOutput
+FILTER KEY FOLLOW	0	4194304	Value	ValueOutput
+AMP ATTACK	0	4194304	Value	ValueOutput
+AMP DECAY	0	4194304	Value	ValueOutput
+AMP SUSTAIN	0	4194304	Value	ValueOutput
+AMP RELEASE	0	4194304	Value	ValueOutput
+AMP TONE	0	4194304	Value	ValueOutput
+EFFECT DEPTH	0	4194304	Value	ValueOutput
+REVERB LEVEL	0	4194304	Value	ValueOutput
+DELAY LEVEL	0	4194304	Value	ValueOutput
+DELAY TIME	0	4194304	Value	ValueOutput
+PORTAMENTO	0	4194304	Value	ValueOutput
+LEGATO	0	4194304	Value	ValueOutput
+MONO SW	0	4194304	Value	ValueOutput
+BEND RANGE	0	4194304	Value	ValueOutput
+TEMPO SYNC	0	4194304	Value	ValueOutput
+AMP LEVEL	0	4194304	Value	ValueOutput
+ARP SW	0	4194304	Value	ValueOutput
+ARP TYPE	0	4194304	Value	ValueOutput
+ARP STEP	0	4194304	Value	ValueOutput
+OCTAVE SHIFT	0	4194304	Value	ValueOutput
+KEY HOLD	0	4194304	Value	ValueOutput
+F ENV VARIATION	0	4194304	Value	ValueOutput
+A ENV VARIATION	0	4194304	Value	ValueOutput
+CONDITION	0	4194304	Value	ValueOutput
+BEND GAIN	0	4194304	Value	ValueOutput
+BEND SENS PITCH	0	4194304	Value	ValueOutput
+BEND SENS FILTER	0	4194304	Value	ValueOutput
+MOD SENS PITCH	0	4194304	Value	ValueOutput
+MOD SENS FILTER	0	4194304	Value	ValueOutput
+LFO VARIATION	0	4194304	Value	ValueOutput
+LFO TRIG ENV	0	4194304	Value	ValueOutput
+OSC1 VARIATION	0	4194304	Value	ValueOutput
+OSC1 COARSE TUNE	0	4194304	Value	ValueOutput
+OSC1 FINE TUNE	0	4194304	Value	ValueOutput
+OSC2 VARIATION	0	4194304	Value	ValueOutput
+OSC3 WAVE	0	4194304	Value	ValueOutput
+OSC3 COLOR	0	4194304	Value	ValueOutput
+OSC3 TUNE	0	4194304	Value	ValueOutput
+FILTER VARIATION	0	4194304	Value	ValueOutput
+FILTER TYPE	0	4194304	Value	ValueOutput
+EFFECT TYPE	0	4194304	Value	ValueOutput
+EFFECT TONE	0	4194304	Value	ValueOutput
+DELAY TYPE	0	4194304	Value	ValueOutput
+REVERB TYPE	0	4194304	Value	ValueOutput
+REVERB TIME	0	4194304	Value	ValueOutput
+LFO CV IN	0	4194304	Value	ValueOutput
+LFO RING IN	0	4194304	Value	ValueOutput
+LFO PITCH IN	0	4194304	Value	ValueOutput
+LFO FILTER IN	0	4194304	Value	ValueOutput
+LFO AMP IN	0	4194304	Value	ValueOutput
+OSC1 X-MOD IN	0	4194304	Value	ValueOutput
+OSC2 SYNC IN	0	4194304	Value	ValueOutput
+OSC2 RING IN	0	4194304	Value	ValueOutput
+OSC3 EXT IN	0	4194304	Value	ValueOutput
+P ENV GATE IN	0	4194304	Value	ValueOutput
+PITCH ENV IN	0	4194304	Value	ValueOutput
+F ENV GATE IN	0	4194304	Value	ValueOutput
+FILTER ENV IN	0	4194304	Value	ValueOutput
+A ENV GATE IN	0	4194304	Value	ValueOutput
+AMP ENV IN	0	4194304	Value	ValueOutput
+LFO RATE	0	4194304	Value	ValueOutput
+FILTER VELOCITY SENS	0	4194304	Value	ValueOutput
+FILTER CUTOFF	0	4194304	Value	ValueOutput
+AMP VELOCITY SENS	0	4194304	Value	ValueOutput
+DELAY TAP TIME	0	4194304	Value	ValueOutput
+DELAY FEEDBACK	0	4194304	Value	ValueOutput
+DELAY HIGH CUT	0	4194304	Value	ValueOutput
+DELAY HF DAMP	0	4194304	Value	ValueOutput
+DELAY HF DAMP FREQ	0	4194304	Value	ValueOutput
+DELAY LF DAMP	0	4194304	Value	ValueOutput
+DELAY LF DAMP FREQ	0	4194304	Value	ValueOutput
+DELAY DIRECT LEVEL	0	4194304	Value	ValueOutput
+CHORUS PRE DELAY	0	4194304	Value	ValueOutput
+CHORUS LOW CUT	0	4194304	Value	ValueOutput
+CHORUS HIGH CUT	0	4194304	Value	ValueOutput
+FLANGER MANUAL	0	4194304	Value	ValueOutput
+FLANGER RESONANCE	0	4194304	Value	ValueOutput
+FLANGER LOW CUT	0	4194304	Value	ValueOutput
+REVERB PRE DELAY	0	4194304	Value	ValueOutput
+REVERB LOW CUT	0	4194304	Value	ValueOutput
+REVERB HIGH CUT	0	4194304	Value	ValueOutput
+REVERB DENSITY	0	4194304	Value	ValueOutput
+REVERB DIRECT LEVEL	0	4194304	Value	ValueOutput
+MASTER TUNE	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

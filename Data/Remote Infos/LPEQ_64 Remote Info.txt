@@ -1,0 +1,173 @@
+Scope
+Manufacturer	Model
+Cakewalk	vst.LPEQ.LPEQ_64
+Note: Will match scope definitions for vst.LPEQ.LPEQ_64 or vst.LPEQ
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Analyzer Display	0	4194304	Value	ValueOutput
+Analyzer Speed	0	4194304	Value	ValueOutput
+Mid-Side Mode	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Output Meter dB 	0	4194304	Value	ValueOutput
+Plot dB Scale	0	4194304	Value	ValueOutput
+Plugin Bypass	0	4194304	Value	ValueOutput
+Processor Precis	0	4194304	Value	ValueOutput
+Solo Mode	0	4194304	Value	ValueOutput
+Wet and Dry Mix	0	4194304	Value	ValueOutput
+Band 1 - Enable	0	4194304	Value	ValueOutput
+Band 1 - Active	0	4194304	Value	ValueOutput
+Band 1 - Gain	0	4194304	Value	ValueOutput
+Band 1 - Q Value	0	4194304	Value	ValueOutput
+Band 1 - Frequen	0	4194304	Value	ValueOutput
+Band 1 - Type	0	4194304	Value	ValueOutput
+Band 1 - Mode	0	4194304	Value	ValueOutput
+Band 2 - Enable	0	4194304	Value	ValueOutput
+Band 2 - Active	0	4194304	Value	ValueOutput
+Band 2 - Gain	0	4194304	Value	ValueOutput
+Band 2 - Q Value	0	4194304	Value	ValueOutput
+Band 2 - Frequen	0	4194304	Value	ValueOutput
+Band 2 - Type	0	4194304	Value	ValueOutput
+Band 2 - Mode	0	4194304	Value	ValueOutput
+Band 3 - Enable	0	4194304	Value	ValueOutput
+Band 3 - Active	0	4194304	Value	ValueOutput
+Band 3 - Gain	0	4194304	Value	ValueOutput
+Band 3 - Q Value	0	4194304	Value	ValueOutput
+Band 3 - Frequen	0	4194304	Value	ValueOutput
+Band 3 - Type	0	4194304	Value	ValueOutput
+Band 3 - Mode	0	4194304	Value	ValueOutput
+Band 4 - Enable	0	4194304	Value	ValueOutput
+Band 4 - Active	0	4194304	Value	ValueOutput
+Band 4 - Gain	0	4194304	Value	ValueOutput
+Band 4 - Q Value	0	4194304	Value	ValueOutput
+Band 4 - Frequen	0	4194304	Value	ValueOutput
+Band 4 - Type	0	4194304	Value	ValueOutput
+Band 4 - Mode	0	4194304	Value	ValueOutput
+Band 5 - Enable	0	4194304	Value	ValueOutput
+Band 5 - Active	0	4194304	Value	ValueOutput
+Band 5 - Gain	0	4194304	Value	ValueOutput
+Band 5 - Q Value	0	4194304	Value	ValueOutput
+Band 5 - Frequen	0	4194304	Value	ValueOutput
+Band 5 - Type	0	4194304	Value	ValueOutput
+Band 5 - Mode	0	4194304	Value	ValueOutput
+Band 6 - Enable	0	4194304	Value	ValueOutput
+Band 6 - Active	0	4194304	Value	ValueOutput
+Band 6 - Gain	0	4194304	Value	ValueOutput
+Band 6 - Q Value	0	4194304	Value	ValueOutput
+Band 6 - Frequen	0	4194304	Value	ValueOutput
+Band 6 - Type	0	4194304	Value	ValueOutput
+Band 6 - Mode	0	4194304	Value	ValueOutput
+Band 7 - Enable	0	4194304	Value	ValueOutput
+Band 7 - Active	0	4194304	Value	ValueOutput
+Band 7 - Gain	0	4194304	Value	ValueOutput
+Band 7 - Q Value	0	4194304	Value	ValueOutput
+Band 7 - Frequen	0	4194304	Value	ValueOutput
+Band 7 - Type	0	4194304	Value	ValueOutput
+Band 7 - Mode	0	4194304	Value	ValueOutput
+Band 8 - Enable	0	4194304	Value	ValueOutput
+Band 8 - Active	0	4194304	Value	ValueOutput
+Band 8 - Gain	0	4194304	Value	ValueOutput
+Band 8 - Q Value	0	4194304	Value	ValueOutput
+Band 8 - Frequen	0	4194304	Value	ValueOutput
+Band 8 - Type	0	4194304	Value	ValueOutput
+Band 8 - Mode	0	4194304	Value	ValueOutput
+Band 9 - Enable	0	4194304	Value	ValueOutput
+Band 9 - Active	0	4194304	Value	ValueOutput
+Band 9 - Gain	0	4194304	Value	ValueOutput
+Band 9 - Q Value	0	4194304	Value	ValueOutput
+Band 9 - Frequen	0	4194304	Value	ValueOutput
+Band 9 - Type	0	4194304	Value	ValueOutput
+Band 9 - Mode	0	4194304	Value	ValueOutput
+Band 10 - Enable	0	4194304	Value	ValueOutput
+Band 10 - Active	0	4194304	Value	ValueOutput
+Band 10 - Gain	0	4194304	Value	ValueOutput
+Band 10 - Q Valu	0	4194304	Value	ValueOutput
+Band 10 - Freque	0	4194304	Value	ValueOutput
+Band 10 - Type	0	4194304	Value	ValueOutput
+Band 10 - Mode	0	4194304	Value	ValueOutput
+Band 11 - Enable	0	4194304	Value	ValueOutput
+Band 11 - Active	0	4194304	Value	ValueOutput
+Band 11 - Gain	0	4194304	Value	ValueOutput
+Band 11 - Q Valu	0	4194304	Value	ValueOutput
+Band 11 - Freque	0	4194304	Value	ValueOutput
+Band 11 - Type	0	4194304	Value	ValueOutput
+Band 11 - Mode	0	4194304	Value	ValueOutput
+Band 12 - Enable	0	4194304	Value	ValueOutput
+Band 12 - Active	0	4194304	Value	ValueOutput
+Band 12 - Gain	0	4194304	Value	ValueOutput
+Band 12 - Q Valu	0	4194304	Value	ValueOutput
+Band 12 - Freque	0	4194304	Value	ValueOutput
+Band 12 - Type	0	4194304	Value	ValueOutput
+Band 12 - Mode	0	4194304	Value	ValueOutput
+Band 13 - Enable	0	4194304	Value	ValueOutput
+Band 13 - Active	0	4194304	Value	ValueOutput
+Band 13 - Gain	0	4194304	Value	ValueOutput
+Band 13 - Q Valu	0	4194304	Value	ValueOutput
+Band 13 - Freque	0	4194304	Value	ValueOutput
+Band 13 - Type	0	4194304	Value	ValueOutput
+Band 13 - Mode	0	4194304	Value	ValueOutput
+Band 14 - Enable	0	4194304	Value	ValueOutput
+Band 14 - Active	0	4194304	Value	ValueOutput
+Band 14 - Gain	0	4194304	Value	ValueOutput
+Band 14 - Q Valu	0	4194304	Value	ValueOutput
+Band 14 - Freque	0	4194304	Value	ValueOutput
+Band 14 - Type	0	4194304	Value	ValueOutput
+Band 14 - Mode	0	4194304	Value	ValueOutput
+Band 15 - Enable	0	4194304	Value	ValueOutput
+Band 15 - Active	0	4194304	Value	ValueOutput
+Band 15 - Gain	0	4194304	Value	ValueOutput
+Band 15 - Q Valu	0	4194304	Value	ValueOutput
+Band 15 - Freque	0	4194304	Value	ValueOutput
+Band 15 - Type	0	4194304	Value	ValueOutput
+Band 15 - Mode	0	4194304	Value	ValueOutput
+Band 16 - Enable	0	4194304	Value	ValueOutput
+Band 16 - Active	0	4194304	Value	ValueOutput
+Band 16 - Gain	0	4194304	Value	ValueOutput
+Band 16 - Q Valu	0	4194304	Value	ValueOutput
+Band 16 - Freque	0	4194304	Value	ValueOutput
+Band 16 - Type	0	4194304	Value	ValueOutput
+Band 16 - Mode	0	4194304	Value	ValueOutput
+Band 17 - Enable	0	4194304	Value	ValueOutput
+Band 17 - Active	0	4194304	Value	ValueOutput
+Band 17 - Gain	0	4194304	Value	ValueOutput
+Band 17 - Q Valu	0	4194304	Value	ValueOutput
+Band 17 - Freque	0	4194304	Value	ValueOutput
+Band 17 - Type	0	4194304	Value	ValueOutput
+Band 17 - Mode	0	4194304	Value	ValueOutput
+Band 18 - Enable	0	4194304	Value	ValueOutput
+Band 18 - Active	0	4194304	Value	ValueOutput
+Band 18 - Gain	0	4194304	Value	ValueOutput
+Band 18 - Q Valu	0	4194304	Value	ValueOutput
+Band 18 - Freque	0	4194304	Value	ValueOutput
+Band 18 - Type	0	4194304	Value	ValueOutput
+Band 18 - Mode	0	4194304	Value	ValueOutput
+Band 19 - Enable	0	4194304	Value	ValueOutput
+Band 19 - Active	0	4194304	Value	ValueOutput
+Band 19 - Gain	0	4194304	Value	ValueOutput
+Band 19 - Q Valu	0	4194304	Value	ValueOutput
+Band 19 - Freque	0	4194304	Value	ValueOutput
+Band 19 - Type	0	4194304	Value	ValueOutput
+Band 19 - Mode	0	4194304	Value	ValueOutput
+Band 20 - Enable	0	4194304	Value	ValueOutput
+Band 20 - Active	0	4194304	Value	ValueOutput
+Band 20 - Gain	0	4194304	Value	ValueOutput
+Band 20 - Q Valu	0	4194304	Value	ValueOutput
+Band 20 - Freque	0	4194304	Value	ValueOutput
+Band 20 - Type	0	4194304	Value	ValueOutput
+Band 20 - Mode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

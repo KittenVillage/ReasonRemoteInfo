@@ -1,0 +1,261 @@
+Scope
+Manufacturer	Model
+Lectric Panda LLC	com.lectricpanda.Nostromo
+
+Remotable	Min	Max	Input type	Output type
+Osc 1 Voices	0	8	Value	ValueOutput
+Osc 1 Keyboard Tracking	0	4194304	Value	ValueOutput
+Osc 1 Octave	0	8	Value	ValueOutput
+Osc 1 Semitone	0	48	Value	ValueOutput
+Osc 1 Cents	0	200	Value	ValueOutput
+Osc 1 Voice Detune	0	4194304	Value	ValueOutput
+Osc 1 Key Sync	0	1	Toggle	ValueOutput
+Osc 1 Wave Crossfade	0	1	Toggle	ValueOutput
+Osc 1 Pan	0	4194304	Value	ValueOutput
+Osc 1 Voice Spread Width	0	4194304	Value	ValueOutput
+Osc 1 Level	0	4194304	Value	ValueOutput
+Osc 1 Filter Select	0	4194304	Value	ValueOutput
+Osc 1 Wave 1	0	2274	Value	ValueOutput
+Osc 1 Wave 2	0	2274	Value	ValueOutput
+Osc 1 Wave 3	0	2274	Value	ValueOutput
+Osc 1 Wave 4	0	2274	Value	ValueOutput
+Osc 1 Wave 5	0	2274	Value	ValueOutput
+Osc 1 Wave 6	0	2274	Value	ValueOutput
+Osc 1 Wave 7	0	2274	Value	ValueOutput
+Osc 1 Wave 8	0	2274	Value	ValueOutput
+Osc 1 Wave 9	0	2274	Value	ValueOutput
+Osc 2 Voices	0	8	Value	ValueOutput
+Osc 2 Keyboard Tracking	0	4194304	Value	ValueOutput
+Osc 2 Octave	0	8	Value	ValueOutput
+Osc 2 Semitone	0	48	Value	ValueOutput
+Osc 2 Cents	0	200	Value	ValueOutput
+Osc 2 Voice Detune	0	4194304	Value	ValueOutput
+Osc 2 Key Sync	0	1	Toggle	ValueOutput
+Osc 2 Wave Crossfade	0	1	Toggle	ValueOutput
+Osc 2 Pan	0	4194304	Value	ValueOutput
+Osc 2 Voice Spread Width	0	4194304	Value	ValueOutput
+Osc 2 Level	0	4194304	Value	ValueOutput
+Osc 2 Filter Select	0	4194304	Value	ValueOutput
+Osc 2 Wave 1	0	2274	Value	ValueOutput
+Osc 2 Wave 2	0	2274	Value	ValueOutput
+Osc 2 Wave 3	0	2274	Value	ValueOutput
+Osc 2 Wave 4	0	2274	Value	ValueOutput
+Osc 2 Wave 5	0	2274	Value	ValueOutput
+Osc 2 Wave 6	0	2274	Value	ValueOutput
+Osc 2 Wave 7	0	2274	Value	ValueOutput
+Osc 2 Wave 8	0	2274	Value	ValueOutput
+Osc 2 Wave 9	0	2274	Value	ValueOutput
+Osc 3 Voices	0	8	Value	ValueOutput
+Osc 3 Keyboard Tracking	0	4194304	Value	ValueOutput
+Osc 3 Octave	0	8	Value	ValueOutput
+Osc 3 Semitone	0	48	Value	ValueOutput
+Osc 3 Cents	0	200	Value	ValueOutput
+Osc 3 Voice Detune	0	4194304	Value	ValueOutput
+Osc 3 Key Sync	0	1	Toggle	ValueOutput
+Osc 3 Wave Crossfade	0	1	Toggle	ValueOutput
+Osc 3 Pan	0	4194304	Value	ValueOutput
+Osc 3 Voice Spread Width	0	4194304	Value	ValueOutput
+Osc 3 Level	0	4194304	Value	ValueOutput
+Osc 3 Filter Select	0	4194304	Value	ValueOutput
+Osc 3 Wave 1	0	2274	Value	ValueOutput
+Osc 3 Wave 2	0	2274	Value	ValueOutput
+Osc 3 Wave 3	0	2274	Value	ValueOutput
+Osc 3 Wave 4	0	2274	Value	ValueOutput
+Osc 3 Wave 5	0	2274	Value	ValueOutput
+Osc 3 Wave 6	0	2274	Value	ValueOutput
+Osc 3 Wave 7	0	2274	Value	ValueOutput
+Osc 3 Wave 8	0	2274	Value	ValueOutput
+Osc 3 Wave 9	0	2274	Value	ValueOutput
+Wave Sweep 1 Phase	0	4194304	Value	ValueOutput
+Wave Sweep 1 Voice Offset	0	4194304	Value	ValueOutput
+Wave Sweep 1 Rate Free	0	4194304	Value	ValueOutput
+Wave Sweep 1 Rate Sync	0	30	Value	ValueOutput
+Wave Sweep 1 Tempo Sync	0	1	Toggle	ValueOutput
+Wave Sweep 1 One Shot	0	1	Toggle	ValueOutput
+Wave Sweep 1 Waveform	0	198	Value	ValueOutput
+Wave Sweep 2 Phase	0	4194304	Value	ValueOutput
+Wave Sweep 2 Voice Offset	0	4194304	Value	ValueOutput
+Wave Sweep 2 Rate Free	0	4194304	Value	ValueOutput
+Wave Sweep 2 Rate Sync	0	30	Value	ValueOutput
+Wave Sweep 2 Tempo Sync	0	1	Toggle	ValueOutput
+Wave Sweep 2 One Shot	0	1	Toggle	ValueOutput
+Wave Sweep 2 Waveform	0	198	Value	ValueOutput
+Wave Sweep 3 Phase	0	4194304	Value	ValueOutput
+Wave Sweep 3 Voice Offset	0	4194304	Value	ValueOutput
+Wave Sweep 3 Rate Free	0	4194304	Value	ValueOutput
+Wave Sweep 3 Rate Sync	0	30	Value	ValueOutput
+Wave Sweep 3 Tempo Sync	0	1	Toggle	ValueOutput
+Wave Sweep 3 One Shot	0	1	Toggle	ValueOutput
+Wave Sweep 3 Waveform	0	198	Value	ValueOutput
+Lfo 1 Key Sync	0	1	Toggle	ValueOutput
+Lfo 1 Phase	0	4194304	Value	ValueOutput
+Lfo 1 Key Follow	0	4194304	Value	ValueOutput
+Lfo 1 Rate Free	0	4194304	Value	ValueOutput
+Lfo 1 Rate Sync	0	30	Value	ValueOutput
+Lfo 1 Tempo Sync	0	1	Toggle	ValueOutput
+Lfo 1 One Shot	0	1	Toggle	ValueOutput
+Lfo 1 Waveform	0	198	Value	ValueOutput
+Lfo 1 Delay	0	4194304	Value	ValueOutput
+Lfo 1 Lag	0	4194304	Value	ValueOutput
+Lfo 2 Key Sync	0	1	Toggle	ValueOutput
+Lfo 2 Phase	0	4194304	Value	ValueOutput
+Lfo 2 Key Follow	0	4194304	Value	ValueOutput
+Lfo 2 Rate Free	0	4194304	Value	ValueOutput
+Lfo 2 Rate Sync	0	30	Value	ValueOutput
+Lfo 2 Tempo Sync	0	1	Toggle	ValueOutput
+Lfo 2 One Shot	0	1	Toggle	ValueOutput
+Lfo 2 Waveform	0	198	Value	ValueOutput
+Lfo 2 Delay	0	4194304	Value	ValueOutput
+Lfo 2 Lag	0	4194304	Value	ValueOutput
+Lfo 3 Key Sync	0	1	Toggle	ValueOutput
+Lfo 3 Phase	0	4194304	Value	ValueOutput
+Lfo 3 Key Follow	0	4194304	Value	ValueOutput
+Lfo 3 Rate Free	0	4194304	Value	ValueOutput
+Lfo 3 Rate Sync	0	30	Value	ValueOutput
+Lfo 3 Tempo Sync	0	1	Toggle	ValueOutput
+Lfo 3 One Shot	0	1	Toggle	ValueOutput
+Lfo 3 Waveform	0	198	Value	ValueOutput
+Lfo 3 Delay	0	4194304	Value	ValueOutput
+Lfo 3 Lag	0	4194304	Value	ValueOutput
+Filter 1 Mode	0	15	Value	ValueOutput
+Filter 1 Frequency	0	4194304	Value	ValueOutput
+Filter 1 Resonance	0	4194304	Value	ValueOutput
+Filter 1 Env Invert	0	1	Toggle	ValueOutput
+Filter 1 Env Amount	0	4194304	Value	ValueOutput
+Filter 1 Velocity	0	4194304	Value	ValueOutput
+Filter 1 Key Follow	0	4194304	Value	ValueOutput
+Filter 1 Level	0	4194304	Value	ValueOutput
+Filter 1 To Filter 2	0	1	Toggle	ValueOutput
+Filter 2 Mode	0	15	Value	ValueOutput
+Filter 2 Frequency	0	4194304	Value	ValueOutput
+Filter 2 Resonance	0	4194304	Value	ValueOutput
+Filter 2 Env Invert	0	1	Toggle	ValueOutput
+Filter 2 Env Amount	0	4194304	Value	ValueOutput
+Filter 2 Velocity	0	4194304	Value	ValueOutput
+Filter 2 Key Follow	0	4194304	Value	ValueOutput
+Filter 2 Level	0	4194304	Value	ValueOutput
+Envelope 1 Velocity	0	4194304	Value	ValueOutput
+Envelope 1 Delay	0	4194304	Value	ValueOutput
+Envelope 1 Attack	0	4194304	Value	ValueOutput
+Envelope 1 Hold	0	4194304	Value	ValueOutput
+Envelope 1 Decay	0	4194304	Value	ValueOutput
+Envelope 1 Sustain	0	4194304	Value	ValueOutput
+Envelope 1 Release	0	4194304	Value	ValueOutput
+Envelope 1 Loop	0	1	Toggle	ValueOutput
+Envelope 1 Gate	0	1	Toggle	ValueOutput
+Envelope 2 Delay	0	4194304	Value	ValueOutput
+Envelope 2 Attack	0	4194304	Value	ValueOutput
+Envelope 2 Hold	0	4194304	Value	ValueOutput
+Envelope 2 Decay	0	4194304	Value	ValueOutput
+Envelope 2 Sustain	0	4194304	Value	ValueOutput
+Envelope 2 Release	0	4194304	Value	ValueOutput
+Envelope 2 Loop	0	1	Toggle	ValueOutput
+Envelope 2 Gate	0	1	Toggle	ValueOutput
+Envelope 3 Delay	0	4194304	Value	ValueOutput
+Envelope 3 Attack	0	4194304	Value	ValueOutput
+Envelope 3 Hold	0	4194304	Value	ValueOutput
+Envelope 3 Decay	0	4194304	Value	ValueOutput
+Envelope 3 Sustain	0	4194304	Value	ValueOutput
+Envelope 3 Release	0	4194304	Value	ValueOutput
+Envelope 3 Loop	0	1	Toggle	ValueOutput
+Envelope 3 Gate	0	1	Toggle	ValueOutput
+Envelope 4 Delay	0	4194304	Value	ValueOutput
+Envelope 4 Attack	0	4194304	Value	ValueOutput
+Envelope 4 Hold	0	4194304	Value	ValueOutput
+Envelope 4 Decay	0	4194304	Value	ValueOutput
+Envelope 4 Sustain	0	4194304	Value	ValueOutput
+Envelope 4 Release	0	4194304	Value	ValueOutput
+Envelope 4 Loop	0	1	Toggle	ValueOutput
+Envelope 4 Gate	0	1	Toggle	ValueOutput
+Modmatrix 1 Source	0	41	Value	ValueOutput
+Modmatrix 1 Dest 1	0	114	Value	ValueOutput
+Modmatrix 1 Dest 2	0	114	Value	ValueOutput
+Modmatrix 1 Scale	0	41	Value	ValueOutput
+Modmatrix 1 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 1 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 1 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 2 Source	0	41	Value	ValueOutput
+Modmatrix 2 Dest 1	0	114	Value	ValueOutput
+Modmatrix 2 Dest 2	0	114	Value	ValueOutput
+Modmatrix 2 Scale	0	41	Value	ValueOutput
+Modmatrix 2 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 2 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 2 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 3 Source	0	41	Value	ValueOutput
+Modmatrix 3 Dest 1	0	114	Value	ValueOutput
+Modmatrix 3 Dest 2	0	114	Value	ValueOutput
+Modmatrix 3 Scale	0	41	Value	ValueOutput
+Modmatrix 3 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 3 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 3 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 4 Source	0	41	Value	ValueOutput
+Modmatrix 4 Dest 1	0	114	Value	ValueOutput
+Modmatrix 4 Dest 2	0	114	Value	ValueOutput
+Modmatrix 4 Scale	0	41	Value	ValueOutput
+Modmatrix 4 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 4 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 4 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 5 Source	0	41	Value	ValueOutput
+Modmatrix 5 Dest 1	0	114	Value	ValueOutput
+Modmatrix 5 Dest 2	0	114	Value	ValueOutput
+Modmatrix 5 Scale	0	41	Value	ValueOutput
+Modmatrix 5 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 5 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 5 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 6 Source	0	41	Value	ValueOutput
+Modmatrix 6 Dest 1	0	114	Value	ValueOutput
+Modmatrix 6 Dest 2	0	114	Value	ValueOutput
+Modmatrix 6 Scale	0	41	Value	ValueOutput
+Modmatrix 6 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 6 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 6 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 7 Source	0	41	Value	ValueOutput
+Modmatrix 7 Dest 1	0	114	Value	ValueOutput
+Modmatrix 7 Dest 2	0	114	Value	ValueOutput
+Modmatrix 7 Scale	0	41	Value	ValueOutput
+Modmatrix 7 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 7 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 7 Scale Amt	0	4194304	Value	ValueOutput
+Modmatrix 8 Source	0	41	Value	ValueOutput
+Modmatrix 8 Dest 1	0	114	Value	ValueOutput
+Modmatrix 8 Dest 2	0	114	Value	ValueOutput
+Modmatrix 8 Scale	0	41	Value	ValueOutput
+Modmatrix 8 Dest 1 Amt	0	4194304	Value	ValueOutput
+Modmatrix 8 Dest 2 Amt	0	4194304	Value	ValueOutput
+Modmatrix 8 Scale Amt	0	4194304	Value	ValueOutput
+Delay Enable	0	1	Toggle	ValueOutput
+Delay Tempo Sync	0	1	Toggle	ValueOutput
+Delay Time Free	0	4194304	Value	ValueOutput
+Delay Time Sync	0	18	Value	ValueOutput
+Delay Offset Free	0	4194304	Value	ValueOutput
+Delay Offset Sync	0	19	Value	ValueOutput
+Delay Ping Pong	0	1	Toggle	ValueOutput
+Delay Mod Rate	0	4194304	Value	ValueOutput
+Delay Mod Amount	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Dry Wet	0	4194304	Value	ValueOutput
+Reverb Enable	0	1	Toggle	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Dampening	0	4194304	Value	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Dry Wet	0	4194304	Value	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Pitch Bend Range	0	24	Value	ValueOutput
+Polyphony	0	31	Value	ValueOutput
+Legato	0	1	Toggle	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Drift	0	4194304	Value	ValueOutput
+Ext Audio Level	0	4194304	Value	ValueOutput
+Ext Audio Filter Select	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Rt Note On	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,110 @@
+Scope
+Manufacturer	Model
+FXpansion	vst.ZuDR.Amber
+Note: Will match scope definitions for vst.ZuDR.Amber or vst.ZuDR
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Perf1	0	4194304	Value	ValueOutput
+Perf2	0	4194304	Value	ValueOutput
+FltCut	0	4194304	Value	ValueOutput
+FltRes	0	4194304	Value	ValueOutput
+FltMode	0	4194304	Value	ValueOutput
+FltPwr	0	4194304	Value	ValueOutput
+FmtScal	0	4194304	Value	ValueOutput
+FmtRes	0	4194304	Value	ValueOutput
+FmtFreq	0	4194304	Value	ValueOutput
+FmtFreq	0	4194304	Value	ValueOutput
+FmtFreq	0	4194304	Value	ValueOutput
+FmtFreq	0	4194304	Value	ValueOutput
+FmtGain	0	4194304	Value	ValueOutput
+FmtGain	0	4194304	Value	ValueOutput
+FmtGain	0	4194304	Value	ValueOutput
+FmtGain	0	4194304	Value	ValueOutput
+FmtNotc	0	4194304	Value	ValueOutput
+FmtPwr	0	4194304	Value	ValueOutput
+ChrSpee	0	4194304	Value	ValueOutput
+ChrSpre	0	4194304	Value	ValueOutput
+ChrMode	0	4194304	Value	ValueOutput
+ChrBrig	0	4194304	Value	ValueOutput
+ChrPwr	0	4194304	Value	ValueOutput
+SynAmp	0	4194304	Value	ValueOutput
+EnsAmp	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Level	0	4194304	Value	ValueOutput
+AnalogN	0	4194304	Value	ValueOutput
+Pitch	0	4194304	Value	ValueOutput
+Fine	0	4194304	Value	ValueOutput
+Syn8'	0	4194304	Value	ValueOutput
+Syn4'	0	4194304	Value	ValueOutput
+SynNois	0	4194304	Value	ValueOutput
+SynInv	0	4194304	Value	ValueOutput
+SynHp	0	4194304	Value	ValueOutput
+SynLp	0	4194304	Value	ValueOutput
+SynVel	0	4194304	Value	ValueOutput
+SynRout	0	4194304	Value	ValueOutput
+Ens8'	0	4194304	Value	ValueOutput
+Ens4'	0	4194304	Value	ValueOutput
+Ens2'	0	4194304	Value	ValueOutput
+EnsInv	0	4194304	Value	ValueOutput
+EnsHp	0	4194304	Value	ValueOutput
+EnsLp	0	4194304	Value	ValueOutput
+EnsVel	0	4194304	Value	ValueOutput
+LfoMode	0	4194304	Value	ValueOutput
+LfoRate	0	4194304	Value	ValueOutput
+LfoSwin	0	4194304	Value	ValueOutput
+LfoPw	0	4194304	Value	ValueOutput
+LfoPhas	0	4194304	Value	ValueOutput
+LfoSync	0	4194304	Value	ValueOutput
+LfoMono	0	4194304	Value	ValueOutput
+LfoGate	0	4194304	Value	ValueOutput
+RampDel	0	4194304	Value	ValueOutput
+RampRis	0	4194304	Value	ValueOutput
+RampMul	0	4194304	Value	ValueOutput
+RampSyn	0	4194304	Value	ValueOutput
+RampGat	0	4194304	Value	ValueOutput
+ModA	0	4194304	Value	ValueOutput
+ModD	0	4194304	Value	ValueOutput
+ModS	0	4194304	Value	ValueOutput
+ModR	0	4194304	Value	ValueOutput
+ModLoop	0	4194304	Value	ValueOutput
+ModLine	0	4194304	Value	ValueOutput
+ModSync	0	4194304	Value	ValueOutput
+ModGate	0	4194304	Value	ValueOutput
+SynA	0	4194304	Value	ValueOutput
+SynD	0	4194304	Value	ValueOutput
+SynS	0	4194304	Value	ValueOutput
+SynR	0	4194304	Value	ValueOutput
+SynRang	0	4194304	Value	ValueOutput
+SynMode	0	4194304	Value	ValueOutput
+EnsA	0	4194304	Value	ValueOutput
+EnsR	0	4194304	Value	ValueOutput
+EnsSus	0	4194304	Value	ValueOutput
+EnsRang	0	4194304	Value	ValueOutput
+EnsMode	0	4194304	Value	ValueOutput
+Tune	0	4194304	Value	ValueOutput
+Hold	0	4194304	Value	ValueOutput
+BendUp	0	4194304	Value	ValueOutput
+BendDn	0	4194304	Value	ValueOutput
+Priorit	0	4194304	Value	ValueOutput
+VelGlid	0	4194304	Value	ValueOutput
+PitchGl	0	4194304	Value	ValueOutput
+GlideMo	0	4194304	Value	ValueOutput
+Legato	0	4194304	Value	ValueOutput
+Retrigg	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

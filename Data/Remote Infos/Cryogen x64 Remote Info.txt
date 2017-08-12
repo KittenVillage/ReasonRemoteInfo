@@ -1,0 +1,155 @@
+Scope
+Manufacturer	Model
+Glitchmachines	vst.GlCr.Cryogen x64
+Note: Will match scope definitions for vst.GlCr.Cryogen x64 or vst.GlCr
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Buffer1_Size	0	4194304	Value	ValueOutput
+Buffer1_Repeats	0	4194304	Value	ValueOutput
+Buffer1_Ratio	0	4194304	Value	ValueOutput
+Buffer2_Size	0	4194304	Value	ValueOutput
+Buffer2_Repeats	0	4194304	Value	ValueOutput
+Buffer2_Ratio	0	4194304	Value	ValueOutput
+Filter1_Morph	0	4194304	Value	ValueOutput
+Filter1_Cutoff	0	4194304	Value	ValueOutput
+Filter1_Resonan	0	4194304	Value	ValueOutput
+Filter2_Morph	0	4194304	Value	ValueOutput
+Filter2_Cutoff	0	4194304	Value	ValueOutput
+Filter2_Resonan	0	4194304	Value	ValueOutput
+Crusher1_Bits	0	4194304	Value	ValueOutput
+Crusher1_Rate	0	4194304	Value	ValueOutput
+Crusher1_Mix	0	4194304	Value	ValueOutput
+Crusher2_Bits	0	4194304	Value	ValueOutput
+Crusher2_Rate	0	4194304	Value	ValueOutput
+Crusher2_Mix	0	4194304	Value	ValueOutput
+Dry_Wet	0	4194304	Value	ValueOutput
+Global_Gain	0	4194304	Value	ValueOutput
+LFO1_Wave	0	4194304	Value	ValueOutput
+LFO1_Rate	0	4194304	Value	ValueOutput
+LFO1_Rate_Multi	0	4194304	Value	ValueOutput
+LFO1_Sync	0	4194304	Value	ValueOutput
+LFO1_SyncedRate	0	4194304	Value	ValueOutput
+LFO2_Wave	0	4194304	Value	ValueOutput
+LFO2_Rate	0	4194304	Value	ValueOutput
+LFO2_Rate_Multi	0	4194304	Value	ValueOutput
+LFO2_Sync	0	4194304	Value	ValueOutput
+LFO2_SyncedRate	0	4194304	Value	ValueOutput
+LFO3_Wave	0	4194304	Value	ValueOutput
+LFO3_Rate	0	4194304	Value	ValueOutput
+LFO3_Rate_Multi	0	4194304	Value	ValueOutput
+LFO3_Sync	0	4194304	Value	ValueOutput
+LFO3_SyncedRate	0	4194304	Value	ValueOutput
+LFO4_Wave	0	4194304	Value	ValueOutput
+LFO4_Rate	0	4194304	Value	ValueOutput
+LFO4_Rate_Multi	0	4194304	Value	ValueOutput
+LFO4_Sync	0	4194304	Value	ValueOutput
+LFO4_SyncedRate	0	4194304	Value	ValueOutput
+Mixer1_SourceA	0	4194304	Value	ValueOutput
+Mixer1_SourceB	0	4194304	Value	ValueOutput
+Mixer1_Mix	0	4194304	Value	ValueOutput
+Mixer2_SourceA	0	4194304	Value	ValueOutput
+Mixer2_SourceB	0	4194304	Value	ValueOutput
+Mixer2_Mix	0	4194304	Value	ValueOutput
+Mixer3_SourceA	0	4194304	Value	ValueOutput
+Mixer3_SourceB	0	4194304	Value	ValueOutput
+Mixer3_Mix	0	4194304	Value	ValueOutput
+Mixer4_SourceA	0	4194304	Value	ValueOutput
+Mixer4_SourceB	0	4194304	Value	ValueOutput
+Mixer4_Mix	0	4194304	Value	ValueOutput
+Multiplier1_Sou	0	4194304	Value	ValueOutput
+Multiplier1_Sou	0	4194304	Value	ValueOutput
+Multiplier2_Sou	0	4194304	Value	ValueOutput
+Multiplier2_Sou	0	4194304	Value	ValueOutput
+Buffer1_SizeMod	0	4194304	Value	ValueOutput
+Buffer1_SizeMod	0	4194304	Value	ValueOutput
+Buffer1_Repeats	0	4194304	Value	ValueOutput
+Buffer1_Repeats	0	4194304	Value	ValueOutput
+Buffer1_RatioMo	0	4194304	Value	ValueOutput
+Buffer1_RatioMo	0	4194304	Value	ValueOutput
+Buffer2_SizeMod	0	4194304	Value	ValueOutput
+Buffer2_SizeMod	0	4194304	Value	ValueOutput
+Buffer2_Repeats	0	4194304	Value	ValueOutput
+Buffer2_Repeats	0	4194304	Value	ValueOutput
+Buffer2_RatioMo	0	4194304	Value	ValueOutput
+Buffer2_RatioMo	0	4194304	Value	ValueOutput
+Filter1_MorphMo	0	4194304	Value	ValueOutput
+Filter1_MorphMo	0	4194304	Value	ValueOutput
+Filter1_CutoffM	0	4194304	Value	ValueOutput
+Filter1_CutoffM	0	4194304	Value	ValueOutput
+Filter1_Resonan	0	4194304	Value	ValueOutput
+Filter1_Resonan	0	4194304	Value	ValueOutput
+Filter2_MorphMo	0	4194304	Value	ValueOutput
+Filter2_MorphMo	0	4194304	Value	ValueOutput
+Filter2_CutoffM	0	4194304	Value	ValueOutput
+Filter2_CutoffM	0	4194304	Value	ValueOutput
+Filter2_Resonan	0	4194304	Value	ValueOutput
+Filter2_Resonan	0	4194304	Value	ValueOutput
+Crusher1_BitsMo	0	4194304	Value	ValueOutput
+Crusher1_BitsMo	0	4194304	Value	ValueOutput
+Crusher1_RateMo	0	4194304	Value	ValueOutput
+Crusher1_RateMo	0	4194304	Value	ValueOutput
+Crusher1_MixMod	0	4194304	Value	ValueOutput
+Crusher1_MixMod	0	4194304	Value	ValueOutput
+Crusher2_BitsMo	0	4194304	Value	ValueOutput
+Crusher2_BitsMo	0	4194304	Value	ValueOutput
+Crusher2_RateMo	0	4194304	Value	ValueOutput
+Crusher2_RateMo	0	4194304	Value	ValueOutput
+Crusher2_MixMod	0	4194304	Value	ValueOutput
+Crusher2_MixMod	0	4194304	Value	ValueOutput
+Dry_WetModSrc	0	4194304	Value	ValueOutput
+Dry_WetModDepth	0	4194304	Value	ValueOutput
+LFO1_WaveModSrc	0	4194304	Value	ValueOutput
+LFO1_WaveModDep	0	4194304	Value	ValueOutput
+LFO1_RateModSrc	0	4194304	Value	ValueOutput
+LFO1_RateModDep	0	4194304	Value	ValueOutput
+LFO2_WaveModSrc	0	4194304	Value	ValueOutput
+LFO2_WaveModDep	0	4194304	Value	ValueOutput
+LFO2_RateModSrc	0	4194304	Value	ValueOutput
+LFO2_RateModDep	0	4194304	Value	ValueOutput
+LFO3_WaveModSrc	0	4194304	Value	ValueOutput
+LFO3_WaveModDep	0	4194304	Value	ValueOutput
+LFO3_RateModSrc	0	4194304	Value	ValueOutput
+LFO3_RateModDep	0	4194304	Value	ValueOutput
+LFO4_WaveModSrc	0	4194304	Value	ValueOutput
+LFO4_WaveModDep	0	4194304	Value	ValueOutput
+LFO4_RateModSrc	0	4194304	Value	ValueOutput
+LFO4_RateModDep	0	4194304	Value	ValueOutput
+Mixer1_MixModSr	0	4194304	Value	ValueOutput
+Mixer1_MixModDe	0	4194304	Value	ValueOutput
+Mixer2_MixModSr	0	4194304	Value	ValueOutput
+Mixer2_MixModDe	0	4194304	Value	ValueOutput
+Mixer3_MixModSr	0	4194304	Value	ValueOutput
+Mixer3_MixModDe	0	4194304	Value	ValueOutput
+Mixer4_MixModSr	0	4194304	Value	ValueOutput
+Mixer4_MixModDe	0	4194304	Value	ValueOutput
+Buffer1_InputSr	0	4194304	Value	ValueOutput
+Buffer1_InputLe	0	4194304	Value	ValueOutput
+Buffer2_InputSr	0	4194304	Value	ValueOutput
+Buffer2_InputLe	0	4194304	Value	ValueOutput
+Filter1_InputSr	0	4194304	Value	ValueOutput
+Filter1_InputLe	0	4194304	Value	ValueOutput
+Filter2_InputSr	0	4194304	Value	ValueOutput
+Filter2_InputLe	0	4194304	Value	ValueOutput
+Crusher1_InputS	0	4194304	Value	ValueOutput
+Crusher1_InputL	0	4194304	Value	ValueOutput
+Crusher2_InputS	0	4194304	Value	ValueOutput
+Crusher2_InputL	0	4194304	Value	ValueOutput
+Dry_Wet_InputSr	0	4194304	Value	ValueOutput
+Dry_Wet_InputLe	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

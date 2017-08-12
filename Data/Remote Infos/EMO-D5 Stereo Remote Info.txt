@@ -1,0 +1,66 @@
+Scope
+Manufacturer	Model
+Waves	vst.CDYS.WaveShell-VST 9_91_x64.EMO-D5 Stereo
+Note: Will match scope definitions for vst.CDYS.WaveShell-VST 9_91_x64.EMO-D5 Stereo or vst.CDYS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Gate On	0	4194304	Value	ValueOutput
+Gate Thresh	0	4194304	Value	ValueOutput
+GateExp	0	4194304	Value	ValueOutput
+Gate Attack	0	4194304	Value	ValueOutput
+Gate Rel	0	4194304	Value	ValueOutput
+Gate Hold	0	4194304	Value	ValueOutput
+Gate Close	0	4194304	Value	ValueOutput
+Gate Floor	0	4194304	Value	ValueOutput
+Gate Int Ext	0	4194304	Value	ValueOutput
+Gate Monitor	0	4194304	Value	ValueOutput
+Gate HPF On	0	4194304	Value	ValueOutput
+Gate HPF Freq	0	4194304	Value	ValueOutput
+Gate Filter Link	0	4194304	Value	ValueOutput
+Gate LPF On	0	4194304	Value	ValueOutput
+Gate LPF Freq	0	4194304	Value	ValueOutput
+Comp On	0	4194304	Value	ValueOutput
+Comp Thresh	0	4194304	Value	ValueOutput
+Comp Ratio	0	4194304	Value	ValueOutput
+Comp Knee	0	4194304	Value	ValueOutput
+Comp Attack	0	4194304	Value	ValueOutput
+Comp Auto Manual	0	4194304	Value	ValueOutput
+Comp Rel	0	4194304	Value	ValueOutput
+Comp Int Ext	0	4194304	Value	ValueOutput
+Comp Monitor	0	4194304	Value	ValueOutput
+Comp HPF On	0	4194304	Value	ValueOutput
+Comp HPF Freq	0	4194304	Value	ValueOutput
+Comp Filter Link	0	4194304	Value	ValueOutput
+Comp LPF Freq	0	4194304	Value	ValueOutput
+Comp Mix	0	4194304	Value	ValueOutput
+Leveller On	0	4194304	Value	ValueOutput
+Leveller Thresh	0	4194304	Value	ValueOutput
+Leveller Range	0	4194304	Value	ValueOutput
+DeEsser On	0	4194304	Value	ValueOutput
+DeEsser Thresh	0	4194304	Value	ValueOutput
+DeEsser Monitor	0	4194304	Value	ValueOutput
+DeEsser Type	0	4194304	Value	ValueOutput
+DeEsser Freq	0	4194304	Value	ValueOutput
+DeEsser Range	0	4194304	Value	ValueOutput
+Limiter On	0	4194304	Value	ValueOutput
+Limiter Thresh	0	4194304	Value	ValueOutput
+Limiter Rel	0	4194304	Value	ValueOutput
+Makeup	0	4194304	Value	ValueOutput
+Comp LPF On	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

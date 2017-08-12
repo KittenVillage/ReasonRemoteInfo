@@ -1,0 +1,30 @@
+Scope
+Manufacturer	Model
+AirRaid Audio	ch.airraid.EDelay
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Envelope Amp	0	4194304	Value	ValueOutput
+Envelope Attack	0	4194304	Value	ValueOutput
+Envelope Release	0	4194304	Value	ValueOutput
+Time Env. Mod Enable	0	1	Toggle	ValueOutput
+Feedback Env. Mod Enable	0	1	Toggle	ValueOutput
+Left Delay Time	0	4194304	Value	ValueOutput
+Delay Time (Synced)	0	15	Value	ValueOutput
+Right Delay Time	0	4194304	Value	ValueOutput
+Right Delay Time (Synced)	0	15	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Cross-Feedback	0	4194304	Value	ValueOutput
+HP Filter	0	4194304	Value	ValueOutput
+LP Filter	0	4194304	Value	ValueOutput
+Delay Sync	0	1	Toggle	ValueOutput
+Link L/R Delay Time	0	1	Toggle	ValueOutput
+Equal Feedback Time	0	1	Toggle	ValueOutput
+Limiter Within Ext. Feedback Enable	0	1	Toggle	ValueOutput
+Dry/Wet Mix	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

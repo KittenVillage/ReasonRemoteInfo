@@ -1,0 +1,106 @@
+Scope
+Manufacturer	Model
+u-he	vst.cbSy.TripleCheese(x64)
+Note: Will match scope definitions for vst.cbSy.TripleCheese(x64) or vst.cbSy
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+main: Output	0	4194304	Value	ValueOutput
+main: Active #LFOG	0	4194304	Value	ValueOutput
+main: Active #FXU1	0	4194304	Value	ValueOutput
+LFOG: Sync	0	4194304	Value	ValueOutput
+LFOG: Phase	0	4194304	Value	ValueOutput
+VCC: Active #VBR	0	4194304	Value	ValueOutput
+VCC: Active #CSO1	0	4194304	Value	ValueOutput
+VCC: Active #CSO2	0	4194304	Value	ValueOutput
+VCC: Active #CSO3	0	4194304	Value	ValueOutput
+VCC: Voices	0	4194304	Value	ValueOutput
+VCC: Voice Stack	0	4194304	Value	ValueOutput
+VCC: Mode	0	4194304	Value	ValueOutput
+VCC: Glide	0	4194304	Value	ValueOutput
+ENV1: Attack	0	4194304	Value	ValueOutput
+ENV1: Decay	0	4194304	Value	ValueOutput
+ENV1: Sustain	0	4194304	Value	ValueOutput
+ENV1: Fall - Rise	0	4194304	Value	ValueOutput
+ENV1: Release	0	4194304	Value	ValueOutput
+ENV1: Velocity	0	4194304	Value	ValueOutput
+ENV2: Attack	0	4194304	Value	ValueOutput
+ENV2: Decay	0	4194304	Value	ValueOutput
+ENV2: Sustain	0	4194304	Value	ValueOutput
+ENV2: Fall - Rise	0	4194304	Value	ValueOutput
+ENV2: Release	0	4194304	Value	ValueOutput
+ENV2: Velocity	0	4194304	Value	ValueOutput
+VBR: Sync	0	4194304	Value	ValueOutput
+VBR: Delay	0	4194304	Value	ValueOutput
+CSO1: Tune	0	4194304	Value	ValueOutput
+CSO1: Detune	0	4194304	Value	ValueOutput
+CSO1: Vibrato	0	4194304	Value	ValueOutput
+CSO1: Damp	0	4194304	Value	ValueOutput
+CSO1: DampModDepth	0	4194304	Value	ValueOutput
+CSO1: Volume	0	4194304	Value	ValueOutput
+CSO1: VolumeModSrc	0	4194304	Value	ValueOutput
+CSO1: VolumeModDepth	0	4194304	Value	ValueOutput
+CSO1: Pan	0	4194304	Value	ValueOutput
+CSO1: PanModSrc	0	4194304	Value	ValueOutput
+CSO1: PanModDepth	0	4194304	Value	ValueOutput
+CSO1: Tone	0	4194304	Value	ValueOutput
+CSO1: ToneMod	0	4194304	Value	ValueOutput
+CSO2: Tune	0	4194304	Value	ValueOutput
+CSO2: Detune	0	4194304	Value	ValueOutput
+CSO2: Vibrato	0	4194304	Value	ValueOutput
+CSO2: Damp	0	4194304	Value	ValueOutput
+CSO2: DampModDepth	0	4194304	Value	ValueOutput
+CSO2: Volume	0	4194304	Value	ValueOutput
+CSO2: VolumeModSrc	0	4194304	Value	ValueOutput
+CSO2: VolumeModDepth	0	4194304	Value	ValueOutput
+CSO2: Pan	0	4194304	Value	ValueOutput
+CSO2: PanModSrc	0	4194304	Value	ValueOutput
+CSO2: PanModDepth	0	4194304	Value	ValueOutput
+CSO2: Tone	0	4194304	Value	ValueOutput
+CSO2: ToneMod	0	4194304	Value	ValueOutput
+CSO3: Tune	0	4194304	Value	ValueOutput
+CSO3: Detune	0	4194304	Value	ValueOutput
+CSO3: Vibrato	0	4194304	Value	ValueOutput
+CSO3: Damp	0	4194304	Value	ValueOutput
+CSO3: DampModDepth	0	4194304	Value	ValueOutput
+CSO3: Volume	0	4194304	Value	ValueOutput
+CSO3: VolumeModSrc	0	4194304	Value	ValueOutput
+CSO3: VolumeModDepth	0	4194304	Value	ValueOutput
+CSO3: Pan	0	4194304	Value	ValueOutput
+CSO3: PanModSrc	0	4194304	Value	ValueOutput
+CSO3: PanModDepth	0	4194304	Value	ValueOutput
+CSO3: Tone	0	4194304	Value	ValueOutput
+CSO3: ToneMod	0	4194304	Value	ValueOutput
+VCA1: Pan	0	4194304	Value	ValueOutput
+VCA1: Volume	0	4194304	Value	ValueOutput
+VCA1: ModDepth	0	4194304	Value	ValueOutput
+FXU1: Speed	0	4194304	Value	ValueOutput
+FXU1: Modulation	0	4194304	Value	ValueOutput
+FXU1: Feedback	0	4194304	Value	ValueOutput
+FXU1: Damp	0	4194304	Value	ValueOutput
+FXU1: Mix	0	4194304	Value	ValueOutput
+LFOG: Waveform	0	4194304	Value	ValueOutput
+LFOG: Polarity	0	4194304	Value	ValueOutput
+VBR: Restart	0	4194304	Value	ValueOutput
+VBR: Waveform	0	4194304	Value	ValueOutput
+VBR: Phase	0	4194304	Value	ValueOutput
+VBR: Polarity	0	4194304	Value	ValueOutput
+VBR: DepthMod Dpt1	0	4194304	Value	ValueOutput
+VBR: Rate	0	4194304	Value	ValueOutput
+VBR: FreqMod Dpt	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

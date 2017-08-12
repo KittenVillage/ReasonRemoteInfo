@@ -1,0 +1,32 @@
+Scope
+Manufacturer	Model
+TBProAudio	vst.TB12.mvMeter x64
+Note: Will match scope definitions for vst.TB12.mvMeter x64 or vst.TB12
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+GUI Scale	0	4194304	Value	ValueOutput
+PreGain	0	4194304	Value	ValueOutput
+Meter Mode	0	4194304	Value	ValueOutput
+Processing Mode	0	4194304	Value	ValueOutput
+Button Off/On	0	4194304	Value	ValueOutput
+Readout Off/On	0	4194304	Value	ValueOutput
+Theme	0	4194304	Value	ValueOutput
+Red Needle Mode	0	4194304	Value	ValueOutput
+Reset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,162 @@
+Scope
+Manufacturer	Model
+TAL-Togu Audio Line	vst.hEl1.TAL-Sampler x64
+Note: Will match scope definitions for vst.hEl1.TAL-Sampler x64 or vst.hEl1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Portamento Mode	0	4194304	Value	ValueOutput
+Portamento Value	0	4194304	Value	ValueOutput
+Poly	0	4194304	Value	ValueOutput
+Panic	0	4194304	Value	ValueOutput
+VCF Cutoff	0	4194304	Value	ValueOutput
+VCF Resonance	0	4194304	Value	ValueOutput
+VCF Mode	0	4194304	Value	ValueOutput
+VCF Keyboard	0	4194304	Value	ValueOutput
+VCF Env	0	4194304	Value	ValueOutput
+Filter A	0	4194304	Value	ValueOutput
+Filter B	0	4194304	Value	ValueOutput
+Filter C	0	4194304	Value	ValueOutput
+Filter D	0	4194304	Value	ValueOutput
+LFO Phase 1	0	4194304	Value	ValueOutput
+LFO Phase 2	0	4194304	Value	ValueOutput
+LFO Phase 3	0	4194304	Value	ValueOutput
+Global Velocity	0	4194304	Value	ValueOutput
+AMP Enabled	0	4194304	Value	ValueOutput
+Jitter	0	4194304	Value	ValueOutput
+LFO Rate 1	0	4194304	Value	ValueOutput
+LFO Waveform 1	0	4194304	Value	ValueOutput
+LFO Trig 1	0	4194304	Value	ValueOutput
+LFO Sync 1	0	4194304	Value	ValueOutput
+LFO Rate 2	0	4194304	Value	ValueOutput
+LFO Waveform 2	0	4194304	Value	ValueOutput
+LFO Trig 2	0	4194304	Value	ValueOutput
+LFO Sync 2	0	4194304	Value	ValueOutput
+LFO Rate 3	0	4194304	Value	ValueOutput
+LFO Waveform 3	0	4194304	Value	ValueOutput
+LFO Trig 3	0	4194304	Value	ValueOutput
+LFO Sync 3	0	4194304	Value	ValueOutput
+Env AMP Attack	0	4194304	Value	ValueOutput
+Env AMP Hold	0	4194304	Value	ValueOutput
+Env AMP Decay	0	4194304	Value	ValueOutput
+Env AMP Sustain	0	4194304	Value	ValueOutput
+Env AMP Release	0	4194304	Value	ValueOutput
+Env VCF Attack	0	4194304	Value	ValueOutput
+Env VCF Hold	0	4194304	Value	ValueOutput
+Env VCF Decay	0	4194304	Value	ValueOutput
+Env VCF Sustain	0	4194304	Value	ValueOutput
+Env VCF Release	0	4194304	Value	ValueOutput
+Env MOD Attack	0	4194304	Value	ValueOutput
+Env MOD Hold	0	4194304	Value	ValueOutput
+Env MOD Decay	0	4194304	Value	ValueOutput
+Env MOD Sustain	0	4194304	Value	ValueOutput
+Env MOD Release	0	4194304	Value	ValueOutput
+Bits	0	4194304	Value	ValueOutput
+Samplerate	0	4194304	Value	ValueOutput
+Samplerate Follo	0	4194304	Value	ValueOutput
+Hiss	0	4194304	Value	ValueOutput
+Saturation	0	4194304	Value	ValueOutput
+DAC Volume	0	4194304	Value	ValueOutput
+Resampler	0	4194304	Value	ValueOutput
+Sampler Enabled 	0	4194304	Value	ValueOutput
+Stretch On A	0	4194304	Value	ValueOutput
+Coarse A	0	4194304	Value	ValueOutput
+Volume A	0	4194304	Value	ValueOutput
+Pan A	0	4194304	Value	ValueOutput
+Stretch Time A	0	4194304	Value	ValueOutput
+Env AMP Digi	0	4194304	Value	ValueOutput
+Env VCF Digi	0	4194304	Value	ValueOutput
+Env MOD Digi	0	4194304	Value	ValueOutput
+One-Shot	0	4194304	Value	ValueOutput
+Tune A	0	4194304	Value	ValueOutput
+Fine Tune A	0	4194304	Value	ValueOutput
+Density A	0	4194304	Value	ValueOutput
+Loop Fade A	0	4194304	Value	ValueOutput
+Delay A	0	4194304	Value	ValueOutput
+Sampler Enabled 	0	4194304	Value	ValueOutput
+Stretch On B	0	4194304	Value	ValueOutput
+Coarse B	0	4194304	Value	ValueOutput
+Volume B	0	4194304	Value	ValueOutput
+Pan B	0	4194304	Value	ValueOutput
+Stretch Time B	0	4194304	Value	ValueOutput
+Tune B	0	4194304	Value	ValueOutput
+Fine Tune B	0	4194304	Value	ValueOutput
+Density B	0	4194304	Value	ValueOutput
+Loop Fade B	0	4194304	Value	ValueOutput
+Delay B	0	4194304	Value	ValueOutput
+Sampler Enabled 	0	4194304	Value	ValueOutput
+Stretch On C	0	4194304	Value	ValueOutput
+Coarse C	0	4194304	Value	ValueOutput
+Volume C	0	4194304	Value	ValueOutput
+Pan C	0	4194304	Value	ValueOutput
+Stretch Time C	0	4194304	Value	ValueOutput
+Tune C	0	4194304	Value	ValueOutput
+Fine Tune C	0	4194304	Value	ValueOutput
+Density C	0	4194304	Value	ValueOutput
+Loop Fade C	0	4194304	Value	ValueOutput
+Delay C	0	4194304	Value	ValueOutput
+Sampler Enabled 	0	4194304	Value	ValueOutput
+Stretch On D	0	4194304	Value	ValueOutput
+Coarse D	0	4194304	Value	ValueOutput
+Volume D	0	4194304	Value	ValueOutput
+Pan D	0	4194304	Value	ValueOutput
+Stretch Time D	0	4194304	Value	ValueOutput
+Tune D	0	4194304	Value	ValueOutput
+Fine Tune D	0	4194304	Value	ValueOutput
+Density D	0	4194304	Value	ValueOutput
+Loop Fade D	0	4194304	Value	ValueOutput
+Delay D	0	4194304	Value	ValueOutput
+Fx Eq 1 Enabled	0	4194304	Value	ValueOutput
+Fx Eq 1 Freq	0	4194304	Value	ValueOutput
+Fx Eq 1 Amount	0	4194304	Value	ValueOutput
+Fx Eq 1 Q	0	4194304	Value	ValueOutput
+Fx Reverb On	0	4194304	Value	ValueOutput
+Fx Reverb Amount	0	4194304	Value	ValueOutput
+Fx Reverb Delay	0	4194304	Value	ValueOutput
+Fx Reverb Size	0	4194304	Value	ValueOutput
+Fx Reverb Low	0	4194304	Value	ValueOutput
+Fx Reverb High	0	4194304	Value	ValueOutput
+Fx Delay On	0	4194304	Value	ValueOutput
+Fx Delay Sync	0	4194304	Value	ValueOutput
+Fx Delay Amount	0	4194304	Value	ValueOutput
+Fx Delay Time	0	4194304	Value	ValueOutput
+Fx Delay Time Sp	0	4194304	Value	ValueOutput
+Fx Delay Spread	0	4194304	Value	ValueOutput
+Fx Delay Depth	0	4194304	Value	ValueOutput
+Fx Delay Rate	0	4194304	Value	ValueOutput
+Fx Delay Feedbac	0	4194304	Value	ValueOutput
+Fx Delay Low	0	4194304	Value	ValueOutput
+Fx Delay High	0	4194304	Value	ValueOutput
+Master Tune	0	4194304	Value	ValueOutput
+Resampler Accura	0	4194304	Value	ValueOutput
+Matrix Param 0	0	4194304	Value	ValueOutput
+Matrix Param 1	0	4194304	Value	ValueOutput
+Matrix Param 2	0	4194304	Value	ValueOutput
+Matrix Param 3	0	4194304	Value	ValueOutput
+Matrix 1 Amount	0	4194304	Value	ValueOutput
+Matrix 2 Amount	0	4194304	Value	ValueOutput
+Matrix 3 Amount	0	4194304	Value	ValueOutput
+Matrix 4 Amount	0	4194304	Value	ValueOutput
+Matrix 5 Amount	0	4194304	Value	ValueOutput
+Matrix 6 Amount	0	4194304	Value	ValueOutput
+Matrix 7 Amount	0	4194304	Value	ValueOutput
+Matrix 8 Amount	0	4194304	Value	ValueOutput
+Matrix 9 Amount	0	4194304	Value	ValueOutput
+Matrix 10 Amount	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

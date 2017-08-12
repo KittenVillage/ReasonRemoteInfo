@@ -1,0 +1,124 @@
+Scope
+Manufacturer	Model
+ToneCarver	vst.tcNv.Nova64
+Note: Will match scope definitions for vst.tcNv.Nova64 or vst.tcNv
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+TimeUnits	0	4194304	Value	ValueOutput
+LengthUnits	0	4194304	Value	ValueOutput
+Slow	0	4194304	Value	ValueOutput
+Channel	0	4194304	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+VelJitt	0	4194304	Value	ValueOutput
+NumColums	0	4194304	Value	ValueOutput
+NumRows	0	4194304	Value	ValueOutput
+NoteProb	0	4194304	Value	ValueOutput
+Tilt	0	4194304	Value	ValueOutput
+ObsProb	0	4194304	Value	ValueOutput
+Wobble	0	4194304	Value	ValueOutput
+NearProb	0	4194304	Value	ValueOutput
+GrpLim	0	4194304	Value	ValueOutput
+RepeatProb	0	4194304	Value	ValueOutput
+RptLen	0	4194304	Value	ValueOutput
+RvDelOld	0	4194304	Value	ValueOutput
+RvDelNew	0	4194304	Value	ValueOutput
+ClrRov	0	4194304	Value	ValueOutput
+ClrObs	0	4194304	Value	ValueOutput
+ClrAll	0	4194304	Value	ValueOutput
+Transp1	0	4194304	Value	ValueOutput
+Transp2	0	4194304	Value	ValueOutput
+Transp3	0	4194304	Value	ValueOutput
+Transp4	0	4194304	Value	ValueOutput
+Trans1up	0	4194304	Value	ValueOutput
+Trans2up	0	4194304	Value	ValueOutput
+Trans3up	0	4194304	Value	ValueOutput
+Trans4up	0	4194304	Value	ValueOutput
+Trans1dn	0	4194304	Value	ValueOutput
+Trans2dn	0	4194304	Value	ValueOutput
+Trans3dn	0	4194304	Value	ValueOutput
+Trans4dn	0	4194304	Value	ValueOutput
+Rotate1	0	4194304	Value	ValueOutput
+Rotate2	0	4194304	Value	ValueOutput
+Rotate3	0	4194304	Value	ValueOutput
+Rotate4	0	4194304	Value	ValueOutput
+Mutate1	0	4194304	Value	ValueOutput
+Mutate2	0	4194304	Value	ValueOutput
+Mutate3	0	4194304	Value	ValueOutput
+Mutate4	0	4194304	Value	ValueOutput
+ScaleN	0	4194304	Value	ValueOutput
+ScaleE	0	4194304	Value	ValueOutput
+ScaleS	0	4194304	Value	ValueOutput
+ScaleW	0	4194304	Value	ValueOutput
+MuteN	0	4194304	Value	ValueOutput
+MuteE	0	4194304	Value	ValueOutput
+MuteS	0	4194304	Value	ValueOutput
+MuteW	0	4194304	Value	ValueOutput
+ClimbN	0	4194304	Value	ValueOutput
+ClimbE	0	4194304	Value	ValueOutput
+ClimbS	0	4194304	Value	ValueOutput
+ClimbW	0	4194304	Value	ValueOutput
+Save1	0	4194304	Value	ValueOutput
+Save2	0	4194304	Value	ValueOutput
+Save3	0	4194304	Value	ValueOutput
+Save4	0	4194304	Value	ValueOutput
+Save5	0	4194304	Value	ValueOutput
+Save6	0	4194304	Value	ValueOutput
+Save7	0	4194304	Value	ValueOutput
+Save8	0	4194304	Value	ValueOutput
+Restore1	0	4194304	Value	ValueOutput
+Restore2	0	4194304	Value	ValueOutput
+Restore3	0	4194304	Value	ValueOutput
+Restore4	0	4194304	Value	ValueOutput
+Restore5	0	4194304	Value	ValueOutput
+Restore6	0	4194304	Value	ValueOutput
+Restore7	0	4194304	Value	ValueOutput
+Restore8	0	4194304	Value	ValueOutput
+Clear1	0	4194304	Value	ValueOutput
+Clear2	0	4194304	Value	ValueOutput
+Clear3	0	4194304	Value	ValueOutput
+Clear4	0	4194304	Value	ValueOutput
+Clear5	0	4194304	Value	ValueOutput
+Clear6	0	4194304	Value	ValueOutput
+Clear7	0	4194304	Value	ValueOutput
+Clear8	0	4194304	Value	ValueOutput
+MFlipH	0	4194304	Value	ValueOutput
+MFlipV	0	4194304	Value	ValueOutput
+MShiftR	0	4194304	Value	ValueOutput
+MShiftL	0	4194304	Value	ValueOutput
+MShiftU	0	4194304	Value	ValueOutput
+MShiftD	0	4194304	Value	ValueOutput
+MRotR	0	4194304	Value	ValueOutput
+MRotL	0	4194304	Value	ValueOutput
+MStagrU	0	4194304	Value	ValueOutput
+MStagrD	0	4194304	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+WrapProb	0	4194304	Value	ValueOutput
+Simple	0	4194304	Value	ValueOutput
+Enabled	0	4194304	Value	ValueOutput
+TimeDbl	0	4194304	Value	ValueOutput
+TimeHlf	0	4194304	Value	ValueOutput
+DurJitt	0	4194304	Value	ValueOutput
+Human	0	4194304	Value	ValueOutput
+SeqNStep	0	4194304	Value	ValueOutput
+SeqOn	0	4194304	Value	ValueOutput
+NudgeNew	0	4194304	Value	ValueOutput
+NudgeOld	0	4194304	Value	ValueOutput
+DragNew	0	4194304	Value	ValueOutput
+DragOld	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

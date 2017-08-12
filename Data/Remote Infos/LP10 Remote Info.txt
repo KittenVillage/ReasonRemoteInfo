@@ -1,0 +1,216 @@
+Scope
+Manufacturer	Model
+ddmf	vst.LP10.LP10
+Note: Will match scope definitions for vst.LP10.LP10 or vst.LP10
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+LP101Gain1	0	4194304	Value	ValueOutput
+LP101Gain2	0	4194304	Value	ValueOutput
+LP101Gain3	0	4194304	Value	ValueOutput
+LP101Gain4	0	4194304	Value	ValueOutput
+LP101Gain5	0	4194304	Value	ValueOutput
+LP101Gain6	0	4194304	Value	ValueOutput
+LP101Gain7	0	4194304	Value	ValueOutput
+LP101Gain8	0	4194304	Value	ValueOutput
+LP101Gain9	0	4194304	Value	ValueOutput
+LP101Gain10	0	4194304	Value	ValueOutput
+LP101width1	0	4194304	Value	ValueOutput
+LP101width2	0	4194304	Value	ValueOutput
+LP101width3	0	4194304	Value	ValueOutput
+LP101width4	0	4194304	Value	ValueOutput
+LP101width5	0	4194304	Value	ValueOutput
+LP101width6	0	4194304	Value	ValueOutput
+LP101width7	0	4194304	Value	ValueOutput
+LP101width8	0	4194304	Value	ValueOutput
+LP101width9	0	4194304	Value	ValueOutput
+LP101width10	0	4194304	Value	ValueOutput
+LP101center1	0	4194304	Value	ValueOutput
+LP101center2	0	4194304	Value	ValueOutput
+LP101center3	0	4194304	Value	ValueOutput
+LP101center4	0	4194304	Value	ValueOutput
+LP101center5	0	4194304	Value	ValueOutput
+LP101center6	0	4194304	Value	ValueOutput
+LP101center7	0	4194304	Value	ValueOutput
+LP101center8	0	4194304	Value	ValueOutput
+LP101center9	0	4194304	Value	ValueOutput
+LP101center10	0	4194304	Value	ValueOutput
+LP101color1	0	4194304	Value	ValueOutput
+LP101color2	0	4194304	Value	ValueOutput
+LP101color3	0	4194304	Value	ValueOutput
+LP101color4	0	4194304	Value	ValueOutput
+LP101color5	0	4194304	Value	ValueOutput
+LP101color6	0	4194304	Value	ValueOutput
+LP101color7	0	4194304	Value	ValueOutput
+LP101color8	0	4194304	Value	ValueOutput
+LP101color9	0	4194304	Value	ValueOutput
+LP101color10	0	4194304	Value	ValueOutput
+LP101Loudness	0	4194304	Value	ValueOutput
+LP101outgain	0	4194304	Value	ValueOutput
+LP101Serial	0	4194304	Value	ValueOutput
+LP101	0	4194304	Value	ValueOutput
+LP101	0	4194304	Value	ValueOutput
+LP101	0	4194304	Value	ValueOutput
+LP101	0	4194304	Value	ValueOutput
+LP101	0	4194304	Value	ValueOutput
+LP101	0	4194304	Value	ValueOutput
+LP101	0	4194304	Value	ValueOutput
+LP101	0	4194304	Value	ValueOutput
+LP101	0	4194304	Value	ValueOutput
+LP101	0	4194304	Value	ValueOutput
+LP101bypass1	0	4194304	Value	ValueOutput
+LP101bypass2	0	4194304	Value	ValueOutput
+LP101bypass3	0	4194304	Value	ValueOutput
+LP101bypass4	0	4194304	Value	ValueOutput
+LP101bypass5	0	4194304	Value	ValueOutput
+LP101bypass6	0	4194304	Value	ValueOutput
+LP101bypass7	0	4194304	Value	ValueOutput
+LP101bypass8	0	4194304	Value	ValueOutput
+LP101bypass9	0	4194304	Value	ValueOutput
+LP101bypass10	0	4194304	Value	ValueOutput
+LP101option1	0	4194304	Value	ValueOutput
+LP101option2	0	4194304	Value	ValueOutput
+LP101option3	0	4194304	Value	ValueOutput
+LP101option4	0	4194304	Value	ValueOutput
+LP101option5	0	4194304	Value	ValueOutput
+LP101option6	0	4194304	Value	ValueOutput
+LP101option7	0	4194304	Value	ValueOutput
+LP101option8	0	4194304	Value	ValueOutput
+LP101option9	0	4194304	Value	ValueOutput
+LP101option10	0	4194304	Value	ValueOutput
+LP101about	0	4194304	Value	ValueOutput
+LP101filterswit	0	4194304	Value	ValueOutput
+LP101AB	0	4194304	Value	ValueOutput
+LP101ABpressed	0	4194304	Value	ValueOutput
+LP101scale	0	4194304	Value	ValueOutput
+LP101DisplayOnO	0	4194304	Value	ValueOutput
+LP101globalBypa	0	4194304	Value	ValueOutput
+LP101stereowidt	0	4194304	Value	ValueOutput
+LP101analyzer_b	0	4194304	Value	ValueOutput
+LP101analyzer_s	0	4194304	Value	ValueOutput
+LP101wichtig	0	4194304	Value	ValueOutput
+LP101order1	0	4194304	Value	ValueOutput
+LP101order2	0	4194304	Value	ValueOutput
+LP101order3	0	4194304	Value	ValueOutput
+LP101order4	0	4194304	Value	ValueOutput
+LP101order5	0	4194304	Value	ValueOutput
+LP101order6	0	4194304	Value	ValueOutput
+LP101order7	0	4194304	Value	ValueOutput
+LP101order8	0	4194304	Value	ValueOutput
+LP101order9	0	4194304	Value	ValueOutput
+LP101order10	0	4194304	Value	ValueOutput
+LP101analyze	0	4194304	Value	ValueOutput
+LP102Gain1	0	4194304	Value	ValueOutput
+LP102Gain2	0	4194304	Value	ValueOutput
+LP102Gain3	0	4194304	Value	ValueOutput
+LP102Gain4	0	4194304	Value	ValueOutput
+LP102Gain5	0	4194304	Value	ValueOutput
+LP102Gain6	0	4194304	Value	ValueOutput
+LP102Gain7	0	4194304	Value	ValueOutput
+LP102Gain8	0	4194304	Value	ValueOutput
+LP102Gain9	0	4194304	Value	ValueOutput
+LP102Gain10	0	4194304	Value	ValueOutput
+LP102width1	0	4194304	Value	ValueOutput
+LP102width2	0	4194304	Value	ValueOutput
+LP102width3	0	4194304	Value	ValueOutput
+LP102width4	0	4194304	Value	ValueOutput
+LP102width5	0	4194304	Value	ValueOutput
+LP102width6	0	4194304	Value	ValueOutput
+LP102width7	0	4194304	Value	ValueOutput
+LP102width8	0	4194304	Value	ValueOutput
+LP102width9	0	4194304	Value	ValueOutput
+LP102width10	0	4194304	Value	ValueOutput
+LP102center1	0	4194304	Value	ValueOutput
+LP102center2	0	4194304	Value	ValueOutput
+LP102center3	0	4194304	Value	ValueOutput
+LP102center4	0	4194304	Value	ValueOutput
+LP102center5	0	4194304	Value	ValueOutput
+LP102center6	0	4194304	Value	ValueOutput
+LP102center7	0	4194304	Value	ValueOutput
+LP102center8	0	4194304	Value	ValueOutput
+LP102center9	0	4194304	Value	ValueOutput
+LP102center10	0	4194304	Value	ValueOutput
+LP102color1	0	4194304	Value	ValueOutput
+LP102color2	0	4194304	Value	ValueOutput
+LP102color3	0	4194304	Value	ValueOutput
+LP102color4	0	4194304	Value	ValueOutput
+LP102color5	0	4194304	Value	ValueOutput
+LP102color6	0	4194304	Value	ValueOutput
+LP102color7	0	4194304	Value	ValueOutput
+LP102color8	0	4194304	Value	ValueOutput
+LP102color9	0	4194304	Value	ValueOutput
+LP102color10	0	4194304	Value	ValueOutput
+LP102Loudness	0	4194304	Value	ValueOutput
+LP102outgain	0	4194304	Value	ValueOutput
+LP102Serial	0	4194304	Value	ValueOutput
+LP102	0	4194304	Value	ValueOutput
+LP102	0	4194304	Value	ValueOutput
+LP102	0	4194304	Value	ValueOutput
+LP102	0	4194304	Value	ValueOutput
+LP102	0	4194304	Value	ValueOutput
+LP102	0	4194304	Value	ValueOutput
+LP102	0	4194304	Value	ValueOutput
+LP102	0	4194304	Value	ValueOutput
+LP102	0	4194304	Value	ValueOutput
+LP102	0	4194304	Value	ValueOutput
+LP102bypass1	0	4194304	Value	ValueOutput
+LP102bypass2	0	4194304	Value	ValueOutput
+LP102bypass3	0	4194304	Value	ValueOutput
+LP102bypass4	0	4194304	Value	ValueOutput
+LP102bypass5	0	4194304	Value	ValueOutput
+LP102bypass6	0	4194304	Value	ValueOutput
+LP102bypass7	0	4194304	Value	ValueOutput
+LP102bypass8	0	4194304	Value	ValueOutput
+LP102bypass9	0	4194304	Value	ValueOutput
+LP102bypass10	0	4194304	Value	ValueOutput
+LP102option1	0	4194304	Value	ValueOutput
+LP102option2	0	4194304	Value	ValueOutput
+LP102option3	0	4194304	Value	ValueOutput
+LP102option4	0	4194304	Value	ValueOutput
+LP102option5	0	4194304	Value	ValueOutput
+LP102option6	0	4194304	Value	ValueOutput
+LP102option7	0	4194304	Value	ValueOutput
+LP102option8	0	4194304	Value	ValueOutput
+LP102option9	0	4194304	Value	ValueOutput
+LP102option10	0	4194304	Value	ValueOutput
+LP102about	0	4194304	Value	ValueOutput
+LP102filterswit	0	4194304	Value	ValueOutput
+LP102AB	0	4194304	Value	ValueOutput
+LP102ABpressed	0	4194304	Value	ValueOutput
+LP102scale	0	4194304	Value	ValueOutput
+LP102DisplayOnO	0	4194304	Value	ValueOutput
+LP102globalBypa	0	4194304	Value	ValueOutput
+LP102stereowidt	0	4194304	Value	ValueOutput
+LP102analyzer_b	0	4194304	Value	ValueOutput
+LP102analyzer_s	0	4194304	Value	ValueOutput
+LP102wichtig	0	4194304	Value	ValueOutput
+LP102order1	0	4194304	Value	ValueOutput
+LP102order2	0	4194304	Value	ValueOutput
+LP102order3	0	4194304	Value	ValueOutput
+LP102order4	0	4194304	Value	ValueOutput
+LP102order5	0	4194304	Value	ValueOutput
+LP102order6	0	4194304	Value	ValueOutput
+LP102order7	0	4194304	Value	ValueOutput
+LP102order8	0	4194304	Value	ValueOutput
+LP102order9	0	4194304	Value	ValueOutput
+LP102order10	0	4194304	Value	ValueOutput
+LP102analyze	0	4194304	Value	ValueOutput
+MS	0	4194304	Value	ValueOutput
+locked	0	4194304	Value	ValueOutput
+twochannel	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

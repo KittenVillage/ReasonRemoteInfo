@@ -1,0 +1,42 @@
+Scope
+Manufacturer	Model
+zplane	vst.reTL.reTune x64
+Note: Will match scope definitions for vst.reTL.reTune x64 or vst.reTL
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Sensitivity	0	4194304	Value	ValueOutput
+Transients	0	4194304	Value	ValueOutput
+Smoothing	0	4194304	Value	ValueOutput
+PitchCorrect	0	4194304	Value	ValueOutput
+DryWet	0	4194304	Value	ValueOutput
+RootPitch	0	4194304	Value	ValueOutput
+Transpose	0	4194304	Value	ValueOutput
+MapPoint0	0	4194304	Value	ValueOutput
+MapPoint1	0	4194304	Value	ValueOutput
+MapPoint2	0	4194304	Value	ValueOutput
+MapPoint3	0	4194304	Value	ValueOutput
+MapPoint4	0	4194304	Value	ValueOutput
+MapPoint5	0	4194304	Value	ValueOutput
+MapPoint6	0	4194304	Value	ValueOutput
+MapPoint7	0	4194304	Value	ValueOutput
+MapPoint8	0	4194304	Value	ValueOutput
+MapPoint9	0	4194304	Value	ValueOutput
+MapPoint10	0	4194304	Value	ValueOutput
+MapPoint11	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,39 @@
+Scope
+Manufacturer	Model
+Bram @ Smartelectronix	vst.ASuP.SupaPhaser
+Note: Will match scope definitions for vst.ASuP.SupaPhaser or vst.ASuP
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+attack	0	4194304	Value	ValueOutput
+release	0	4194304	Value	ValueOutput
+min env	0	4194304	Value	ValueOutput
+max env	0	4194304	Value	ValueOutput
+env-lfo mixture	0	4194304	Value	ValueOutput
+sweep freq.	0	4194304	Value	ValueOutput
+min. depth	0	4194304	Value	ValueOutput
+max. depth	0	4194304	Value	ValueOutput
+freq. range	0	4194304	Value	ValueOutput
+stereo	0	4194304	Value	ValueOutput
+nr. stages	0	4194304	Value	ValueOutput
+distortion	0	4194304	Value	ValueOutput
+feedback	0	4194304	Value	ValueOutput
+dry-wet	0	4194304	Value	ValueOutput
+out gain	0	4194304	Value	ValueOutput
+invert	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

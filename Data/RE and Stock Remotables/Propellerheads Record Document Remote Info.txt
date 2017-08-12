@@ -1,0 +1,114 @@
+Scope
+Manufacturer	Model
+Propellerheads	Record Document
+
+Remotable	Min	Max	Input type	Output type
+Click On/Off	0	1	Toggle	ValueOutput
+Click Level	0	127	Value	ValueOutput
+Tempo	1000	999999	Value	ValueOutput
+Tempo BPM	1	999	Value	ValueOutput
+Tempo BPM Up	0	0	Trig	TextOutput
+Tempo BPM Down	0	0	Trig	TextOutput
+Tempo Decimal	0	999	Value	ValueOutput
+Play	0	1	Trig	ValueOutput
+Stop	0	1	Trig	ValueOutput
+Rewind	0	1	Hold	ValueOutput
+Fast Forward	0	1	Hold	ValueOutput
+Record	0	1	Toggle	ValueOutput
+Song Position	0	2147483646	Value	ValueOutput
+Bar Position	0	0	Delta	TextOutput
+Bar Position Up	0	0	Trig	TextOutput
+Bar Position Down	0	0	Trig	TextOutput
+Beat Position	0	0	Delta	TextOutput
+Sixteenth Position	0	0	Delta	TextOutput
+Tick Position	0	0	Delta	TextOutput
+Subticks	0	1	-	ValueOutput
+Clear Subticks	0	1	Trig	ValueOutput
+Loop On/Off	0	1	Toggle	ValueOutput
+Left Loop	0	2147483646	Value	ValueOutput
+Left Loop Bar	0	0	Delta	TextOutput
+Left Loop Beat	0	0	Delta	TextOutput
+Left Loop 16th	0	0	Delta	TextOutput
+Left Loop Tick	0	0	Delta	TextOutput
+Left Loop Subticks	0	1	-	ValueOutput
+Clear Left Loop Subticks	0	1	Trig	ValueOutput
+Right Loop	0	2147483646	Value	ValueOutput
+Right Loop Bar	0	0	Delta	TextOutput
+Right Loop Beat	0	0	Delta	TextOutput
+Right Loop 16th	0	0	Delta	TextOutput
+Right Loop Tick	0	0	Delta	TextOutput
+Right Loop Subticks	0	1	-	ValueOutput
+Clear Right Loop Subticks	0	1	Trig	ValueOutput
+Punched-In	0	1	-	ValueOutput
+Reset Automation Override	0	1	Trig	ValueOutput
+Target Track (Delta)	0	0	Delta	TextOutput
+Target Previous Track	0	0	Trig	TextOutput
+Target Next Track	0	0	Trig	TextOutput
+Select Patch for Target Device (Delta)	0	0	Delta	TextOutput
+Select Prev Patch for Target Device	0	0	Trig	TextOutput
+Select Next Patch for Target Device	0	0	Trig	TextOutput
+Undo	0	1	Trig	ValueOutput
+Auto-quantize	0	1	Toggle	ValueOutput
+Goto Left Locator	0	0	Trig	TextOutput
+Goto Right Locator	0	0	Trig	TextOutput
+Document Name	0	0	-	TextOutput
+Redo	0	1	Trig	ValueOutput
+Select Keyboard Shortcut Variation (Delta)	0	0	Delta	TextOutput
+Select Previous Keyboard Shortcut Variation	0	0	Trig	TextOutput
+Select Next Keyboard Shortcut Variation	0	0	Trig	TextOutput
+Target Track Name	0	0	-	TextOutput
+Target Track Solo	0	1	Toggle	ValueOutput
+Target Track Mute	0	1	Toggle	ValueOutput
+Any Track Solo	0	1	Trig	ValueOutput
+Any Track Mute	0	1	Trig	ValueOutput
+Return To Zero	0	1	Trig	ValueOutput
+Audio Left Peak Meter	0	20	-	ValueOutput
+Audio Right Peak Meter	0	20	-	ValueOutput
+New Overdub	0	1	Trig	ValueOutput
+New Alternative Take	0	1	Trig	ValueOutput
+Precount On/Off	0	1	Toggle	ValueOutput
+Time Position	0	2147483646	Value	ValueOutput
+Hour Position	0	0	Delta	TextOutput
+Minute Position	0	0	Delta	TextOutput
+Second Position	0	0	Delta	TextOutput
+Second Up	0	0	Trig	TextOutput
+Second Dn	0	0	Trig	TextOutput
+Millisecond Position	0	0	Delta	TextOutput
+Automation As Performance Controllers	0	1	Toggle	ValueOutput
+Target Track Enable Automation Recording	0	1	Toggle	ValueOutput
+Tap Tempo	0	1	Trig	ValueOutput
+Pre Count Bars	1	4	Value	ValueOutput
+Move Loop Left	0	1	Trig	ValueOutput
+Move Loop Right	0	1	Trig	ValueOutput
+Move Loop One bar Left	0	1	Trig	ValueOutput
+Move Loop One bar Right	0	1	Trig	ValueOutput
+Big Meter Left	0	64	-	ValueOutput
+Big Meter Right	0	64	-	ValueOutput
+Big Meter Left Peak	0	64	-	ValueOutput
+Big Meter Right Peak	0	64	-	ValueOutput
+Big Meter Left Clipping	0	1	-	ValueOutput
+Big Meter Right Clipping	0	1	-	ValueOutput
+Select Big Meter Channels	0	64	Value	ValueOutput
+Select Prev Big Meter Channels	0	0	Trig	TextOutput
+Select Next Big Meter Channels	0	0	Trig	TextOutput
+Big Meter Channel Left	0	0	-	TextOutput
+Big Meter Channel Right	0	0	-	TextOutput
+Big Meter Channel Type	0	0	-	TextOutput
+Meter Mode	0	4	Value	ValueOutput
+Peak Hold	0	1	Value	ValueOutput
+Reset Meter Clipping	0	1	Trig	ValueOutput
+Target Track Enable Monitoring	0	1	Toggle	ValueOutput
+Target Track Meter Left	0	32	-	ValueOutput
+Target Track Meter Right	0	32	-	ValueOutput
+Target Track Meter Left Peak	0	32	-	ValueOutput
+Target Track Meter Right Peak	0	32	-	ValueOutput
+Target Track Meter Left Clipping	0	1	-	ValueOutput
+Target Track Meter Right Clipping	0	1	-	ValueOutput
+Target Track Reset Meter Clipping	0	1	Trig	ValueOutput
+Target Track Enable Tuner	0	1	Toggle	ValueOutput
+Target Track Tuner	0	0	-	TextOutput
+Target Track Tuner Pitch Detected	0	1	-	ValueOutput
+Target Track Tuner Note	0	11	-	ValueOutput
+Target Track Tuner Cents	-50	50	-	ValueOutput
+Audio Input Peak Meter	0	20	-	ValueOutput
+Audio Output Peak Meter	0	20	-	ValueOutput

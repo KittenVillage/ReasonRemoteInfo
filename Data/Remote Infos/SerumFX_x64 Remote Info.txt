@@ -1,0 +1,296 @@
+Scope
+Manufacturer	Model
+Xfer Records	vst.XfsY.SerumFX_x64
+Note: Will match scope definitions for vst.XfsY.SerumFX_x64 or vst.XfsY
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+MasterVol	0	4194304	Value	ValueOutput
+A Vol	0	4194304	Value	ValueOutput
+A Pan	0	4194304	Value	ValueOutput
+A Octave	0	4194304	Value	ValueOutput
+A Semi	0	4194304	Value	ValueOutput
+A Fine	0	4194304	Value	ValueOutput
+A Unison	0	4194304	Value	ValueOutput
+A UniDet	0	4194304	Value	ValueOutput
+A UniBlend	0	4194304	Value	ValueOutput
+A Warp	0	4194304	Value	ValueOutput
+A CoarsePit	0	4194304	Value	ValueOutput
+A WTPos	0	4194304	Value	ValueOutput
+A RandPhase	0	4194304	Value	ValueOutput
+A Phase	0	4194304	Value	ValueOutput
+B Vol	0	4194304	Value	ValueOutput
+B Pan	0	4194304	Value	ValueOutput
+B Octave	0	4194304	Value	ValueOutput
+B Semi	0	4194304	Value	ValueOutput
+B Fine	0	4194304	Value	ValueOutput
+B Unison	0	4194304	Value	ValueOutput
+B UniDet	0	4194304	Value	ValueOutput
+B UniBlend	0	4194304	Value	ValueOutput
+B Warp	0	4194304	Value	ValueOutput
+B CoarsePit	0	4194304	Value	ValueOutput
+B WTPos	0	4194304	Value	ValueOutput
+B RandPhase	0	4194304	Value	ValueOutput
+B Phase	0	4194304	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+Noise Pitch	0	4194304	Value	ValueOutput
+Noise Fine	0	4194304	Value	ValueOutput
+Noise Pan	0	4194304	Value	ValueOutput
+Noise RandPhase	0	4194304	Value	ValueOutput
+Noise Phase	0	4194304	Value	ValueOutput
+Sub Osc Level	0	4194304	Value	ValueOutput
+Sub Osc Pan	0	4194304	Value	ValueOutput
+Env1 Atk	0	4194304	Value	ValueOutput
+Env1 Hold	0	4194304	Value	ValueOutput
+Env1 Dec	0	4194304	Value	ValueOutput
+Env1 Sus	0	4194304	Value	ValueOutput
+Env1 Rel	0	4194304	Value	ValueOutput
+OscA>Fil	0	4194304	Value	ValueOutput
+OscB>Fil	0	4194304	Value	ValueOutput
+OscN>Fil	0	4194304	Value	ValueOutput
+OscS>Fil	0	4194304	Value	ValueOutput
+Fil Type	0	4194304	Value	ValueOutput
+Fil Cutoff	0	4194304	Value	ValueOutput
+Fil Reso	0	4194304	Value	ValueOutput
+Fil Driv	0	4194304	Value	ValueOutput
+Fil Var	0	4194304	Value	ValueOutput
+Fil Mix	0	4194304	Value	ValueOutput
+Fil Stereo	0	4194304	Value	ValueOutput
+Env2 Atk	0	4194304	Value	ValueOutput
+Env2 Hld	0	4194304	Value	ValueOutput
+Env2 Dec	0	4194304	Value	ValueOutput
+Env2 Sus	0	4194304	Value	ValueOutput
+Env2 Rel	0	4194304	Value	ValueOutput
+Env3 Atk	0	4194304	Value	ValueOutput
+Env3 Hld	0	4194304	Value	ValueOutput
+Env3 Dec	0	4194304	Value	ValueOutput
+Env3 Sus	0	4194304	Value	ValueOutput
+Env3 Rel	0	4194304	Value	ValueOutput
+LFO1 Rate	0	4194304	Value	ValueOutput
+LFO2 Rate	0	4194304	Value	ValueOutput
+LFO3 Rate	0	4194304	Value	ValueOutput
+LFO4 Rate	0	4194304	Value	ValueOutput
+PortTime	0	4194304	Value	ValueOutput
+PortCurve	0	4194304	Value	ValueOutput
+Chaos1 BPM	0	4194304	Value	ValueOutput
+Chaos2 BPM	0	4194304	Value	ValueOutput
+Chaos1 Rate	0	4194304	Value	ValueOutput
+Chaos2 Rate	0	4194304	Value	ValueOutput
+A curve1	0	4194304	Value	ValueOutput
+D curve1	0	4194304	Value	ValueOutput
+R curve1	0	4194304	Value	ValueOutput
+A curve2	0	4194304	Value	ValueOutput
+D curve2	0	4194304	Value	ValueOutput
+R curve2	0	4194304	Value	ValueOutput
+A curve3	0	4194304	Value	ValueOutput
+D curve3	0	4194304	Value	ValueOutput
+R curve3	0	4194304	Value	ValueOutput
+Mast.Tun	0	4194304	Value	ValueOutput
+Verb Wet	0	4194304	Value	ValueOutput
+VerbSize	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+VerbLoCt	0	4194304	Value	ValueOutput
+Spin Rate	0	4194304	Value	ValueOutput
+VerbHiCt	0	4194304	Value	ValueOutput
+Spin Depth	0	4194304	Value	ValueOutput
+EQ FrqL	0	4194304	Value	ValueOutput
+EQ FrqH	0	4194304	Value	ValueOutput
+EQ Q L	0	4194304	Value	ValueOutput
+EQ Q H	0	4194304	Value	ValueOutput
+EQ VolL	0	4194304	Value	ValueOutput
+EQ VolH	0	4194304	Value	ValueOutput
+EQ TypL	0	4194304	Value	ValueOutput
+EQ TypH	0	4194304	Value	ValueOutput
+Dist_Wet	0	4194304	Value	ValueOutput
+Dist_Drv	0	4194304	Value	ValueOutput
+Dist_L/B/H	0	4194304	Value	ValueOutput
+Dist_Mode	0	4194304	Value	ValueOutput
+Dist_Freq	0	4194304	Value	ValueOutput
+Dist_BW	0	4194304	Value	ValueOutput
+Dist_PrePost	0	4194304	Value	ValueOutput
+Flg_Wet	0	4194304	Value	ValueOutput
+Flg_BPM_Sync	0	4194304	Value	ValueOutput
+Flg_Rate	0	4194304	Value	ValueOutput
+Flg_Dep	0	4194304	Value	ValueOutput
+Flg_Feed	0	4194304	Value	ValueOutput
+Flg_Stereo	0	4194304	Value	ValueOutput
+Phs_Wet	0	4194304	Value	ValueOutput
+Phs_BPM_Sync	0	4194304	Value	ValueOutput
+Phs_Rate	0	4194304	Value	ValueOutput
+Phs_Dpth	0	4194304	Value	ValueOutput
+Phs_Frq	0	4194304	Value	ValueOutput
+Phs_Feed	0	4194304	Value	ValueOutput
+Phs_Stereo	0	4194304	Value	ValueOutput
+Cho_Wet	0	4194304	Value	ValueOutput
+Cho_BPM_Sync	0	4194304	Value	ValueOutput
+Cho_Rate	0	4194304	Value	ValueOutput
+Cho_Dly	0	4194304	Value	ValueOutput
+Cho_Dly2	0	4194304	Value	ValueOutput
+Cho_Dep	0	4194304	Value	ValueOutput
+Cho_Feed	0	4194304	Value	ValueOutput
+Cho_Filt	0	4194304	Value	ValueOutput
+Dly_Wet	0	4194304	Value	ValueOutput
+Dly_Freq	0	4194304	Value	ValueOutput
+Dly_BW	0	4194304	Value	ValueOutput
+Dly_BPM_Sync	0	4194304	Value	ValueOutput
+Dly_Link	0	4194304	Value	ValueOutput
+Dly_TimL	0	4194304	Value	ValueOutput
+Dly_TimR	0	4194304	Value	ValueOutput
+Dly_Mode	0	4194304	Value	ValueOutput
+Dly_Feed	0	4194304	Value	ValueOutput
+Dly_Off L	0	4194304	Value	ValueOutput
+Dly_Off R	0	4194304	Value	ValueOutput
+Cmp_Thr	0	4194304	Value	ValueOutput
+Cmp_Rat	0	4194304	Value	ValueOutput
+Cmp_Att	0	4194304	Value	ValueOutput
+Cmp_Rel	0	4194304	Value	ValueOutput
+CmpGain	0	4194304	Value	ValueOutput
+CmpMBnd	0	4194304	Value	ValueOutput
+FX Fil Wet	0	4194304	Value	ValueOutput
+FX Fil Type	0	4194304	Value	ValueOutput
+FX Fil Freq	0	4194304	Value	ValueOutput
+FX Fil Reso	0	4194304	Value	ValueOutput
+FX Fil Drive	0	4194304	Value	ValueOutput
+FX Fil Var	0	4194304	Value	ValueOutput
+Hyp_Wet	0	4194304	Value	ValueOutput
+Hyp_Rate	0	4194304	Value	ValueOutput
+Hyp_Detune	0	4194304	Value	ValueOutput
+Hyp_Unison	0	4194304	Value	ValueOutput
+Hyp_Retrig	0	4194304	Value	ValueOutput
+HypDim_Size	0	4194304	Value	ValueOutput
+HypDim_Mix	0	4194304	Value	ValueOutput
+Dist Enable	0	4194304	Value	ValueOutput
+Flg Enable	0	4194304	Value	ValueOutput
+Phs Enable	0	4194304	Value	ValueOutput
+Cho Enable	0	4194304	Value	ValueOutput
+Dly Enable	0	4194304	Value	ValueOutput
+Comp Enable	0	4194304	Value	ValueOutput
+Rev Enable	0	4194304	Value	ValueOutput
+EQ Enable	0	4194304	Value	ValueOutput
+FX Fil Enable	0	4194304	Value	ValueOutput
+Hyp Enable	0	4194304	Value	ValueOutput
+OscAPitchTrack	0	4194304	Value	ValueOutput
+OscBPitchTrack	0	4194304	Value	ValueOutput
+Bend U	0	4194304	Value	ValueOutput
+Bend D	0	4194304	Value	ValueOutput
+WarpOscA	0	4194304	Value	ValueOutput
+WarpOscB	0	4194304	Value	ValueOutput
+SubOscShape	0	4194304	Value	ValueOutput
+SubOscOctave	0	4194304	Value	ValueOutput
+A Uni LR	0	4194304	Value	ValueOutput
+B Uni LR	0	4194304	Value	ValueOutput
+A Uni Warp	0	4194304	Value	ValueOutput
+B Uni Warp	0	4194304	Value	ValueOutput
+A Uni WTPos	0	4194304	Value	ValueOutput
+B Uni WTPos	0	4194304	Value	ValueOutput
+A Uni Stack	0	4194304	Value	ValueOutput
+B Uni Stack	0	4194304	Value	ValueOutput
+Mod 1 amt	0	4194304	Value	ValueOutput
+Mod 1 out	0	4194304	Value	ValueOutput
+Mod 2 amt	0	4194304	Value	ValueOutput
+Mod 2 out	0	4194304	Value	ValueOutput
+Mod 3 amt	0	4194304	Value	ValueOutput
+Mod 3 out	0	4194304	Value	ValueOutput
+Mod 4 amt	0	4194304	Value	ValueOutput
+Mod 4 out	0	4194304	Value	ValueOutput
+Mod 5 amt	0	4194304	Value	ValueOutput
+Mod 5 out	0	4194304	Value	ValueOutput
+Mod 6 amt	0	4194304	Value	ValueOutput
+Mod 6 out	0	4194304	Value	ValueOutput
+Mod 7 amt	0	4194304	Value	ValueOutput
+Mod 8 out	0	4194304	Value	ValueOutput
+Mod 8 amt	0	4194304	Value	ValueOutput
+Mod 8 out	0	4194304	Value	ValueOutput
+Mod 9 amt	0	4194304	Value	ValueOutput
+Mod 9 out	0	4194304	Value	ValueOutput
+Mod10 amt	0	4194304	Value	ValueOutput
+Mod10 out	0	4194304	Value	ValueOutput
+Mod11 amt	0	4194304	Value	ValueOutput
+Mod11 out	0	4194304	Value	ValueOutput
+Mod12 amt	0	4194304	Value	ValueOutput
+Mod12 out	0	4194304	Value	ValueOutput
+Mod13 amt	0	4194304	Value	ValueOutput
+Mod13 out	0	4194304	Value	ValueOutput
+Mod14 amt	0	4194304	Value	ValueOutput
+Mod14 out	0	4194304	Value	ValueOutput
+Mod15 amt	0	4194304	Value	ValueOutput
+Mod15 out	0	4194304	Value	ValueOutput
+Mod16 amt	0	4194304	Value	ValueOutput
+Mod16 out	0	4194304	Value	ValueOutput
+Osc A On	0	4194304	Value	ValueOutput
+Osc B On	0	4194304	Value	ValueOutput
+Osc N On	0	4194304	Value	ValueOutput
+Osc S On	0	4194304	Value	ValueOutput
+Filter On	0	4194304	Value	ValueOutput
+Mod Wheel	0	4194304	Value	ValueOutput
+Macro 1	0	4194304	Value	ValueOutput
+Macro 2	0	4194304	Value	ValueOutput
+Macro 3	0	4194304	Value	ValueOutput
+Macro 4	0	4194304	Value	ValueOutput
+Amp.	0	4194304	Value	ValueOutput
+LFO1 smooth	0	4194304	Value	ValueOutput
+LFO2 smooth	0	4194304	Value	ValueOutput
+LFO3 smooth	0	4194304	Value	ValueOutput
+LFO4 smooth	0	4194304	Value	ValueOutput
+Pitch Bend	0	4194304	Value	ValueOutput
+Mod17 amt	0	4194304	Value	ValueOutput
+Mod17 out	0	4194304	Value	ValueOutput
+Mod18 amt	0	4194304	Value	ValueOutput
+Mod18 out	0	4194304	Value	ValueOutput
+Mod19 amt	0	4194304	Value	ValueOutput
+Mod19 out	0	4194304	Value	ValueOutput
+Mod20 amt	0	4194304	Value	ValueOutput
+Mod20 out	0	4194304	Value	ValueOutput
+Mod21 amt	0	4194304	Value	ValueOutput
+Mod21 out	0	4194304	Value	ValueOutput
+Mod22 amt	0	4194304	Value	ValueOutput
+Mod22 out	0	4194304	Value	ValueOutput
+Mod23 amt	0	4194304	Value	ValueOutput
+Mod23 out	0	4194304	Value	ValueOutput
+Mod24 amt	0	4194304	Value	ValueOutput
+Mod24 out	0	4194304	Value	ValueOutput
+Mod25 amt	0	4194304	Value	ValueOutput
+Mod25 out	0	4194304	Value	ValueOutput
+Mod26 amt	0	4194304	Value	ValueOutput
+Mod26 out	0	4194304	Value	ValueOutput
+Mod27 amt	0	4194304	Value	ValueOutput
+Mod27 out	0	4194304	Value	ValueOutput
+Mod28 amt	0	4194304	Value	ValueOutput
+Mod28 out	0	4194304	Value	ValueOutput
+Mod29 amt	0	4194304	Value	ValueOutput
+Mod29 out	0	4194304	Value	ValueOutput
+Mod30 amt	0	4194304	Value	ValueOutput
+Mod30 out	0	4194304	Value	ValueOutput
+Mod31 amt	0	4194304	Value	ValueOutput
+Mod31 out	0	4194304	Value	ValueOutput
+Mod32 amt	0	4194304	Value	ValueOutput
+Mod32 out	0	4194304	Value	ValueOutput
+LFO5 Rate	0	4194304	Value	ValueOutput
+LFO6 Rate	0	4194304	Value	ValueOutput
+LFO7 Rate	0	4194304	Value	ValueOutput
+LFO8 Rate	0	4194304	Value	ValueOutput
+LFO5 smooth	0	4194304	Value	ValueOutput
+LFO6 smooth	0	4194304	Value	ValueOutput
+LFO7 smooth	0	4194304	Value	ValueOutput
+LFO8 smooth	0	4194304	Value	ValueOutput
+FX Fil Pan	0	4194304	Value	ValueOutput
+Comp_Wet	0	4194304	Value	ValueOutput
+CompMB L	0	4194304	Value	ValueOutput
+CompMB M	0	4194304	Value	ValueOutput
+CompMB H	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,89 @@
+Scope
+Manufacturer	Model
+2C-Audio	vst.2CB2.2C-B2
+Note: Will match scope definitions for vst.2CB2.2C-B2 or vst.2CB2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+EngMix	0	4194304	Value	ValueOutput
+Cascade	0	4194304	Value	ValueOutput
+A-Damping	0	4194304	Value	ValueOutput
+A-OutEQ	0	4194304	Value	ValueOutput
+A-DampingQ	0	4194304	Value	ValueOutput
+A-OutEQQ	0	4194304	Value	ValueOutput
+A-DcyFltParamView	0	4194304	Value	ValueOutput
+A-OutFltParamView	0	4194304	Value	ValueOutput
+A-Time	0	4194304	Value	ValueOutput
+A-TimeActive	0	4194304	Value	ValueOutput
+A-RevEngActive	0	4194304	Value	ValueOutput
+A-PreDelay	0	4194304	Value	ValueOutput
+A-RevCurve	0	4194304	Value	ValueOutput
+A-RevRandom	0	4194304	Value	ValueOutput
+A-Contour	0	4194304	Value	ValueOutput
+A-Density	0	4194304	Value	ValueOutput
+A-DiffuseActive	0	4194304	Value	ValueOutput
+A-Diffusion	0	4194304	Value	ValueOutput
+A-ModulationActive	0	4194304	Value	ValueOutput
+A-ModDepth	0	4194304	Value	ValueOutput
+A-ModRate	0	4194304	Value	ValueOutput
+A-Cross	0	4194304	Value	ValueOutput
+A-OutputFltActive	0	4194304	Value	ValueOutput
+A-DecayFltActive	0	4194304	Value	ValueOutput
+A-AttitudeActive	0	4194304	Value	ValueOutput
+A-AttitudeType	0	4194304	Value	ValueOutput
+A-AttitudeMode	0	4194304	Value	ValueOutput
+A-Attitude	0	4194304	Value	ValueOutput
+A-DynSmooth	0	4194304	Value	ValueOutput
+A-DynThres	0	4194304	Value	ValueOutput
+A-DynEnvAttackTime	0	4194304	Value	ValueOutput
+A-DynEnvReleaseTime	0	4194304	Value	ValueOutput
+A-DynDepth	0	4194304	Value	ValueOutput
+B-Damping	0	4194304	Value	ValueOutput
+B-OutEQ	0	4194304	Value	ValueOutput
+B-DampingQ	0	4194304	Value	ValueOutput
+B-OutEQQ	0	4194304	Value	ValueOutput
+B-DcyFltParamView	0	4194304	Value	ValueOutput
+B-OutFltParamView	0	4194304	Value	ValueOutput
+B-Time	0	4194304	Value	ValueOutput
+B-TimeActive	0	4194304	Value	ValueOutput
+B-RevEngActive	0	4194304	Value	ValueOutput
+B-PreDelay	0	4194304	Value	ValueOutput
+B-RevCurve	0	4194304	Value	ValueOutput
+B-RevRandom	0	4194304	Value	ValueOutput
+B-Contour	0	4194304	Value	ValueOutput
+B-Density	0	4194304	Value	ValueOutput
+B-DiffuseActive	0	4194304	Value	ValueOutput
+B-Diffusion	0	4194304	Value	ValueOutput
+B-ModulationActive	0	4194304	Value	ValueOutput
+B-ModDepth	0	4194304	Value	ValueOutput
+B-ModRate	0	4194304	Value	ValueOutput
+B-Cross	0	4194304	Value	ValueOutput
+B-OutputFltActive	0	4194304	Value	ValueOutput
+B-DecayFltActive	0	4194304	Value	ValueOutput
+B-AttitudeActive	0	4194304	Value	ValueOutput
+B-AttitudeType	0	4194304	Value	ValueOutput
+B-AttitudeMode	0	4194304	Value	ValueOutput
+B-Attitude	0	4194304	Value	ValueOutput
+B-DynSmooth	0	4194304	Value	ValueOutput
+B-DynThres	0	4194304	Value	ValueOutput
+B-DynEnvAttackTime	0	4194304	Value	ValueOutput
+B-DynEnvReleaseTime	0	4194304	Value	ValueOutput
+B-DynDepth	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

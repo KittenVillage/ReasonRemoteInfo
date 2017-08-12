@@ -1,0 +1,27 @@
+Scope
+Manufacturer	Model
+D16 Group Audio Software	pl.d16.Decimort2
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Resolution	0	16	Value	ValueOutput
+Dithering Amount	0	4194304	Value	ValueOutput
+Approximation Filter	0	1	Toggle	ValueOutput
+Frequency Deviation	0	4194304	Value	ValueOutput
+Resample Frequency	0	4194304	Value	ValueOutput
+Frequency Jitter	0	4194304	Value	ValueOutput
+Images Filter	0	1	Toggle	ValueOutput
+Frequency Shift	0	4194304	Value	ValueOutput
+Filter Order	0	1	Toggle	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Type	0	4	Value	ValueOutput
+Filter Reso/Bandwidth	0	4194304	Value	ValueOutput
+Output Volume	0	4194304	Value	ValueOutput
+FX	0	4194304	Value	ValueOutput
+Preamp	0	4194304	Value	ValueOutput
+DC Shift	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

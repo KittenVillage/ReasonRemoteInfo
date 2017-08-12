@@ -1,0 +1,135 @@
+Scope
+Manufacturer	Model
+VirSyn	vst.VMTX.MATRIX64
+Note: Will match scope definitions for vst.VMTX.MATRIX64 or vst.VMTX
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Output gain	0	4194304	Value	ValueOutput
+U/V Detect	0	4194304	Value	ValueOutput
+U/V Balance	0	4194304	Value	ValueOutput
+Formant	0	4194304	Value	ValueOutput
+Bridge	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Internal	0	4194304	Value	ValueOutput
+Pitch coarse	0	4194304	Value	ValueOutput
+Pitch fine	0	4194304	Value	ValueOutput
+Detune	0	4194304	Value	ValueOutput
+Density	0	4194304	Value	ValueOutput
+Dry/Wet mix	0	4194304	Value	ValueOutput
+ext.MIDI	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Wide	0	4194304	Value	ValueOutput
+Channel Matrix 01	0	4194304	Value	ValueOutput
+Channel Matrix 02	0	4194304	Value	ValueOutput
+Channel Matrix 03	0	4194304	Value	ValueOutput
+Channel Matrix 04	0	4194304	Value	ValueOutput
+Channel Matrix 05	0	4194304	Value	ValueOutput
+Channel Matrix 06	0	4194304	Value	ValueOutput
+Channel Matrix 07	0	4194304	Value	ValueOutput
+Channel Matrix 08	0	4194304	Value	ValueOutput
+Channel Matrix 09	0	4194304	Value	ValueOutput
+Channel Matrix 10	0	4194304	Value	ValueOutput
+Channel Matrix 11	0	4194304	Value	ValueOutput
+Channel Matrix 12	0	4194304	Value	ValueOutput
+Channel Matrix 13	0	4194304	Value	ValueOutput
+Channel Matrix 14	0	4194304	Value	ValueOutput
+Channel Matrix 15	0	4194304	Value	ValueOutput
+Channel Matrix 16	0	4194304	Value	ValueOutput
+Channel Matrix 17	0	4194304	Value	ValueOutput
+Channel Matrix 18	0	4194304	Value	ValueOutput
+Channel Matrix 19	0	4194304	Value	ValueOutput
+Channel Matrix 20	0	4194304	Value	ValueOutput
+Channel Matrix 21	0	4194304	Value	ValueOutput
+Channel Matrix 22	0	4194304	Value	ValueOutput
+Channel Matrix 23	0	4194304	Value	ValueOutput
+Channel Matrix 24	0	4194304	Value	ValueOutput
+Channel Matrix 25	0	4194304	Value	ValueOutput
+Channel Matrix 26	0	4194304	Value	ValueOutput
+Channel Matrix 27	0	4194304	Value	ValueOutput
+Channel Matrix 28	0	4194304	Value	ValueOutput
+Channel Matrix 29	0	4194304	Value	ValueOutput
+Channel Matrix 30	0	4194304	Value	ValueOutput
+Channel Matrix 31	0	4194304	Value	ValueOutput
+Channel Matrix 32	0	4194304	Value	ValueOutput
+Channel Level 01	0	4194304	Value	ValueOutput
+Channel Level 02	0	4194304	Value	ValueOutput
+Channel Level 03	0	4194304	Value	ValueOutput
+Channel Level 04	0	4194304	Value	ValueOutput
+Channel Level 05	0	4194304	Value	ValueOutput
+Channel Level 06	0	4194304	Value	ValueOutput
+Channel Level 07	0	4194304	Value	ValueOutput
+Channel Level 08	0	4194304	Value	ValueOutput
+Channel Level 09	0	4194304	Value	ValueOutput
+Channel Level 10	0	4194304	Value	ValueOutput
+Channel Level 11	0	4194304	Value	ValueOutput
+Channel Level 12	0	4194304	Value	ValueOutput
+Channel Level 13	0	4194304	Value	ValueOutput
+Channel Level 14	0	4194304	Value	ValueOutput
+Channel Level 15	0	4194304	Value	ValueOutput
+Channel Level 16	0	4194304	Value	ValueOutput
+Channel Level 17	0	4194304	Value	ValueOutput
+Channel Level 18	0	4194304	Value	ValueOutput
+Channel Level 19	0	4194304	Value	ValueOutput
+Channel Level 20	0	4194304	Value	ValueOutput
+Channel Level 21	0	4194304	Value	ValueOutput
+Channel Level 22	0	4194304	Value	ValueOutput
+Channel Level 23	0	4194304	Value	ValueOutput
+Channel Level 24	0	4194304	Value	ValueOutput
+Channel Level 25	0	4194304	Value	ValueOutput
+Channel Level 26	0	4194304	Value	ValueOutput
+Channel Level 27	0	4194304	Value	ValueOutput
+Channel Level 28	0	4194304	Value	ValueOutput
+Channel Level 29	0	4194304	Value	ValueOutput
+Channel Level 30	0	4194304	Value	ValueOutput
+Channel Level 31	0	4194304	Value	ValueOutput
+Channel Level 32	0	4194304	Value	ValueOutput
+Channel Pan 01	0	4194304	Value	ValueOutput
+Channel Pan 02	0	4194304	Value	ValueOutput
+Channel Pan 03	0	4194304	Value	ValueOutput
+Channel Pan 04	0	4194304	Value	ValueOutput
+Channel Pan 05	0	4194304	Value	ValueOutput
+Channel Pan 06	0	4194304	Value	ValueOutput
+Channel Pan 07	0	4194304	Value	ValueOutput
+Channel Pan 08	0	4194304	Value	ValueOutput
+Channel Pan 09	0	4194304	Value	ValueOutput
+Channel Pan 10	0	4194304	Value	ValueOutput
+Channel Pan 11	0	4194304	Value	ValueOutput
+Channel Pan 12	0	4194304	Value	ValueOutput
+Channel Pan 13	0	4194304	Value	ValueOutput
+Channel Pan 14	0	4194304	Value	ValueOutput
+Channel Pan 15	0	4194304	Value	ValueOutput
+Channel Pan 16	0	4194304	Value	ValueOutput
+Channel Pan 17	0	4194304	Value	ValueOutput
+Channel Pan 18	0	4194304	Value	ValueOutput
+Channel Pan 19	0	4194304	Value	ValueOutput
+Channel Pan 20	0	4194304	Value	ValueOutput
+Channel Pan 21	0	4194304	Value	ValueOutput
+Channel Pan 22	0	4194304	Value	ValueOutput
+Channel Pan 23	0	4194304	Value	ValueOutput
+Channel Pan 24	0	4194304	Value	ValueOutput
+Channel Pan 25	0	4194304	Value	ValueOutput
+Channel Pan 26	0	4194304	Value	ValueOutput
+Channel Pan 27	0	4194304	Value	ValueOutput
+Channel Pan 28	0	4194304	Value	ValueOutput
+Channel Pan 29	0	4194304	Value	ValueOutput
+Channel Pan 30	0	4194304	Value	ValueOutput
+Channel Pan 31	0	4194304	Value	ValueOutput
+Channel Pan 32	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

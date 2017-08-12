@@ -1,0 +1,145 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.Ammo400R
+
+Remotable	Min	Max	Input type	Output type
+Osc.A On	0	1	Toggle	ValueOutput
+Apply Master Rate to Slaves	0	1	Toggle	ValueOutput
+Osc.A Low Rate Hz	0	4194304	Value	ValueOutput
+Osc.A High Rate Hz	0	4194304	Value	ValueOutput
+Osc.A Rate Tempo Sync	0	30	Value	ValueOutput
+Osc.A Range	0	4	Value	ValueOutput
+Osc.A Keyboard	0	4194304	Value	ValueOutput
+Osc.A Depth	0	4194304	Value	ValueOutput
+Osc.A Phase	0	4194304	Value	ValueOutput
+Osc.A Env Sync	0	1	Toggle	ValueOutput
+Osc.A Oneshot	0	1	Toggle	ValueOutput
+Osc.A Waveform	0	135	Value	ValueOutput
+Osc.A Rate Semitone	0	72	Value	ValueOutput
+Osc.A Cents Detune	0	4194304	Value	ValueOutput
+Osc.B On	0	1	Toggle	ValueOutput
+Osc.B Low Rate Hz	0	4194304	Value	ValueOutput
+Osc.B High Rate Hz	0	4194304	Value	ValueOutput
+Osc.B Rate Tempo Sync	0	30	Value	ValueOutput
+Osc.B Range	0	4	Value	ValueOutput
+Osc.B Keyboard	0	4194304	Value	ValueOutput
+Osc.B Depth	0	4194304	Value	ValueOutput
+Osc.B Phase	0	4194304	Value	ValueOutput
+Osc.B Osc Sync	0	1	Toggle	ValueOutput
+Osc.B Env Sync	0	1	Toggle	ValueOutput
+Osc.B Oneshot	0	1	Toggle	ValueOutput
+Osc.B Waveform	0	135	Value	ValueOutput
+Osc.B Rate Semitone	0	72	Value	ValueOutput
+Osc.B Cents Detune	0	4194304	Value	ValueOutput
+Osc.C On	0	1	Toggle	ValueOutput
+Osc.C Low Rate Hz	0	4194304	Value	ValueOutput
+Osc.C High Rate Hz	0	4194304	Value	ValueOutput
+Osc.C Rate Tempo Sync	0	30	Value	ValueOutput
+Osc.C Range	0	4	Value	ValueOutput
+Osc.C Keyboard	0	4194304	Value	ValueOutput
+Osc.C Depth	0	4194304	Value	ValueOutput
+Osc.C Phase	0	4194304	Value	ValueOutput
+Osc.C Osc Sync	0	1	Toggle	ValueOutput
+Osc.C Env Sync	0	1	Toggle	ValueOutput
+Osc.C Oneshot	0	1	Toggle	ValueOutput
+Osc.C Waveform	0	135	Value	ValueOutput
+Osc.C Rate Semitone	0	72	Value	ValueOutput
+Osc.C Cents Detune	0	4194304	Value	ValueOutput
+Osc.D On	0	1	Toggle	ValueOutput
+Osc.D Low Rate Hz	0	4194304	Value	ValueOutput
+Osc.D High Rate Hz	0	4194304	Value	ValueOutput
+Osc.D Rate Tempo Sync	0	30	Value	ValueOutput
+Osc.D Range	0	4	Value	ValueOutput
+Osc.D Keyboard	0	4194304	Value	ValueOutput
+Osc.D Depth	0	4194304	Value	ValueOutput
+Osc.D Phase	0	4194304	Value	ValueOutput
+Osc.D Osc Sync	0	1	Toggle	ValueOutput
+Osc.D Env Sync	0	1	Toggle	ValueOutput
+Osc.D Oneshot	0	1	Toggle	ValueOutput
+Osc.D Waveform	0	135	Value	ValueOutput
+Osc.D Rate Semitone	0	72	Value	ValueOutput
+Osc.D Cents Detune	0	4194304	Value	ValueOutput
+VPM A	0	1	Toggle	ValueOutput
+VPM B	0	1	Toggle	ValueOutput
+VPM C	0	1	Toggle	ValueOutput
+VPM D	0	1	Toggle	ValueOutput
+VPM A Sum A	0	4194304	Value	ValueOutput
+VPM A X-Fade B-C-D	0	4194304	Value	ValueOutput
+VPM A Sum B	0	4194304	Value	ValueOutput
+VPM A Sum C	0	4194304	Value	ValueOutput
+VPM A Sum D	0	4194304	Value	ValueOutput
+VPM A Lag Up	0	4194304	Value	ValueOutput
+VPM A Lag Down	0	4194304	Value	ValueOutput
+VPM A Output	0	4194304	Value	ValueOutput
+VPM B Sum A	0	4194304	Value	ValueOutput
+VPM B Sum B	0	4194304	Value	ValueOutput
+VPM B X-Fade A-C-D	0	4194304	Value	ValueOutput
+VPM B Sum C	0	4194304	Value	ValueOutput
+VPM B Sum D	0	4194304	Value	ValueOutput
+VPM B Lag Up	0	4194304	Value	ValueOutput
+VPM B Lag Down	0	4194304	Value	ValueOutput
+VPM B Output	0	4194304	Value	ValueOutput
+VPM C Sum A	0	4194304	Value	ValueOutput
+VPM C Sum B	0	4194304	Value	ValueOutput
+VPM C Sum C	0	4194304	Value	ValueOutput
+VPM C X-Fade A-B-D	0	4194304	Value	ValueOutput
+VPM C Sum D	0	4194304	Value	ValueOutput
+VPM C Lag Up	0	4194304	Value	ValueOutput
+VPM C Lag Down	0	4194304	Value	ValueOutput
+VPM C Output	0	4194304	Value	ValueOutput
+VPM D Sum A	0	4194304	Value	ValueOutput
+VPM D Sum B	0	4194304	Value	ValueOutput
+VPM D Sum C	0	4194304	Value	ValueOutput
+VPM D Sum D	0	4194304	Value	ValueOutput
+VPM D X-Fade A-B-C	0	4194304	Value	ValueOutput
+VPM D Lag Up	0	4194304	Value	ValueOutput
+VPM D Lag Down	0	4194304	Value	ValueOutput
+VPM D Output	0	4194304	Value	ValueOutput
+Envelope Delay	0	4194304	Value	ValueOutput
+Envelope Attack	0	4194304	Value	ValueOutput
+Envelope Hold	0	4194304	Value	ValueOutput
+Envelope Decay	0	4194304	Value	ValueOutput
+Envelope Sustain	0	4194304	Value	ValueOutput
+Envelope Release	0	4194304	Value	ValueOutput
+Sync Mode	0	1	Toggle	ValueOutput
+Soft Sync Mode	0	1	Toggle	ValueOutput
+Lag Mode	0	1	Toggle	ValueOutput
+X-Fade Mode	0	1	Toggle	ValueOutput
+Pitch Wheel Input	0	4194304	Value	ValueOutput
+Mod Wheel Input	0	4194304	Value	ValueOutput
+Aftertouch Input	0	4194304	Value	ValueOutput
+Expression Input	0	4194304	Value	ValueOutput
+Source 1 Target 1 Input	0	4194304	Value	ValueOutput
+Source 1 Target 2 Input	0	4194304	Value	ValueOutput
+Source 2 Target 1 Input	0	4194304	Value	ValueOutput
+Source 2 Target 2 Input	0	4194304	Value	ValueOutput
+Source 3 Target 1 Input	0	4194304	Value	ValueOutput
+Source 3 Target 2 Input	0	4194304	Value	ValueOutput
+Source 4 Target 1 Input	0	4194304	Value	ValueOutput
+Source 4 Target 2 Input	0	4194304	Value	ValueOutput
+Pitch Wheel to Osc.A	0	1	Toggle	ValueOutput
+Mod Wheel to Osc.A	0	1	Toggle	ValueOutput
+Aftertouch to Osc.A	0	1	Toggle	ValueOutput
+Expression to Osc.A	0	1	Toggle	ValueOutput
+Pitch Wheel to Osc.B	0	1	Toggle	ValueOutput
+Mod Wheel to Osc.B	0	1	Toggle	ValueOutput
+Aftertouch to Osc.B	0	1	Toggle	ValueOutput
+Expression to Osc.B	0	1	Toggle	ValueOutput
+Pitch Wheel to Osc.C	0	1	Toggle	ValueOutput
+Mod Wheel to Osc.C	0	1	Toggle	ValueOutput
+Aftertouch to Osc.C	0	1	Toggle	ValueOutput
+Expression to Osc.C	0	1	Toggle	ValueOutput
+Pitch Wheel to Osc.D	0	1	Toggle	ValueOutput
+Mod Wheel to Osc.D	0	1	Toggle	ValueOutput
+Aftertouch to Osc.D	0	1	Toggle	ValueOutput
+Expression to Osc.D	0	1	Toggle	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

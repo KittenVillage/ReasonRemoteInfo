@@ -1,0 +1,41 @@
+Scope
+Manufacturer	Model
+ToneBoosters	vst.T3RB.TB_ReelBus_v3 x64
+Note: Will match scope definitions for vst.T3RB.TB_ReelBus_v3 x64 or vst.T3RB
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Reclevel	0	4194304	Value	ValueOutput
+AutoMkup	0	4194304	Value	ValueOutput
+HissLvl	0	4194304	Value	ValueOutput
+AspNoise	0	4194304	Value	ValueOutput
+TapeSpec	0	4194304	Value	ValueOutput
+Saturate	0	4194304	Value	ValueOutput
+Wow&Flut	0	4194304	Value	ValueOutput
+CircClip	0	4194304	Value	ValueOutput
+Device	0	4194304	Value	ValueOutput
+Overbias	0	4194304	Value	ValueOutput
+Hiss-30	0	4194304	Value	ValueOutput
+AspN-30	0	4194304	Value	ValueOutput
+OutGain	0	4194304	Value	ValueOutput
+Mono	0	4194304	Value	ValueOutput
+PreEmph	0	4194304	Value	ValueOutput
+MidSide	0	4194304	Value	ValueOutput
+LowHigh	0	4194304	Value	ValueOutput
+Legacy	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,33 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.AListDrummer2
+
+Remotable	Min	Max	Input type	Output type
+Kit	0	4	Value	ValueOutput
+HiHat	0	4194304	Value	ValueOutput
+Ride	0	4194304	Value	ValueOutput
+Crashes	0	4194304	Value	ValueOutput
+Kick	0	4194304	Value	ValueOutput
+Snare	0	4194304	Value	ValueOutput
+Toms	0	4194304	Value	ValueOutput
+Overhead	0	4194304	Value	ValueOutput
+Room	0	4194304	Value	ValueOutput
+Hold	0	1	Toggle	ValueOutput
+Speed	0	2	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+Feel	0	4194304	Value	ValueOutput
+Quantize	0	4194304	Value	ValueOutput
+Style	0	29	Value	ValueOutput
+Mix	0	5	Value	ValueOutput
+Amount	0	4194304	Value	ValueOutput
+Reverb	0	4194304	Value	ValueOutput
+Slam	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

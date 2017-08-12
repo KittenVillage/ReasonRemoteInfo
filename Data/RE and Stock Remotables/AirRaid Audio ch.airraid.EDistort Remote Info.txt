@@ -1,0 +1,24 @@
+Scope
+Manufacturer	Model
+AirRaid Audio	ch.airraid.EDistort
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Envelope Amp	0	4194304	Value	ValueOutput
+Envelope Attack	0	4194304	Value	ValueOutput
+Envelope Release	0	4194304	Value	ValueOutput
+Pre-EQ Freq Env. Mod Enable	0	1	Toggle	ValueOutput
+Pre-EQ Boost Env. Mod Enable	0	1	Toggle	ValueOutput
+Drive Env. Mod Enable	0	1	Toggle	ValueOutput
+Pre-EQ Freq	0	4194304	Value	ValueOutput
+Pre-EQ Boost	0	4194304	Value	ValueOutput
+Pre-EQ Width	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Distortion Type	0	8	Value	ValueOutput
+Dry/Wet Mix	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

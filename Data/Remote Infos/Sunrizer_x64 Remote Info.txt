@@ -1,0 +1,110 @@
+Scope
+Manufacturer	Model
+Beepstreet	vst.SNRZ.Sunrizer_x64
+Note: Will match scope definitions for vst.SNRZ.Sunrizer_x64 or vst.SNRZ
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Osc 1 width	0	4194304	Value	ValueOutput
+Osc 2 width	0	4194304	Value	ValueOutput
+Osc 1 mix/pwm	0	4194304	Value	ValueOutput
+Osc 2 mix/pwm	0	4194304	Value	ValueOutput
+Osc mix	0	4194304	Value	ValueOutput
+Osc rm	0	4194304	Value	ValueOutput
+Filter 1 cutoff	0	4194304	Value	ValueOutput
+Filter 1 resona	0	4194304	Value	ValueOutput
+Filter 1 env am	0	4194304	Value	ValueOutput
+Lfo 1 frequency	0	4194304	Value	ValueOutput
+Lfo 1 amount	0	4194304	Value	ValueOutput
+AMP env attack	0	4194304	Value	ValueOutput
+AMP env decay	0	4194304	Value	ValueOutput
+AMP env sustain	0	4194304	Value	ValueOutput
+AMP env release	0	4194304	Value	ValueOutput
+Filter env atta	0	4194304	Value	ValueOutput
+Filter env deca	0	4194304	Value	ValueOutput
+Filter env sust	0	4194304	Value	ValueOutput
+Filter env rele	0	4194304	Value	ValueOutput
+Effect control 	0	4194304	Value	ValueOutput
+Effect control 	0	4194304	Value	ValueOutput
+Delay feedback	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Osc 2 cents	0	4194304	Value	ValueOutput
+Noise color	0	4194304	Value	ValueOutput
+Fx split	0	4194304	Value	ValueOutput
+Unused	0	4194304	Value	ValueOutput
+Filter 2 cutoff	0	4194304	Value	ValueOutput
+Filter 2 resona	0	4194304	Value	ValueOutput
+Filter 2 env am	0	4194304	Value	ValueOutput
+Lfo 2 frequency	0	4194304	Value	ValueOutput
+Lfo 2 amount	0	4194304	Value	ValueOutput
+Osc/Noise	0	4194304	Value	ValueOutput
+Lfo 1 phase	0	4194304	Value	ValueOutput
+Lfo 2 phase	0	4194304	Value	ValueOutput
+Lfo 1 fadein	0	4194304	Value	ValueOutput
+Lfo 2 fadein	0	4194304	Value	ValueOutput
+Eq low	0	4194304	Value	ValueOutput
+Eq high	0	4194304	Value	ValueOutput
+Osc2 octave	0	4194304	Value	ValueOutput
+Osc2 semi	0	4194304	Value	ValueOutput
+Osc2 sync	0	4194304	Value	ValueOutput
+Osc2 flt2	0	4194304	Value	ValueOutput
+Mix invert?	0	4194304	Value	ValueOutput
+Flt1 type?	0	4194304	Value	ValueOutput
+Flt1 24db	0	4194304	Value	ValueOutput
+Flt2 type?	0	4194304	Value	ValueOutput
+Flt routing	0	4194304	Value	ValueOutput
+Flt track	0	4194304	Value	ValueOutput
+Lfo1 target	0	4194304	Value	ValueOutput
+Lfo2 target	0	4194304	Value	ValueOutput
+Lfo1 wave	0	4194304	Value	ValueOutput
+Lfo2 wave	0	4194304	Value	ValueOutput
+Lfo1 trig	0	4194304	Value	ValueOutput
+Lfo2 trig	0	4194304	Value	ValueOutput
+Lfo1 sync	0	4194304	Value	ValueOutput
+Lfo2 sync	0	4194304	Value	ValueOutput
+Amp	0	4194304	Value	ValueOutput
+Fx type	0	4194304	Value	ValueOutput
+Delay sync	0	4194304	Value	ValueOutput
+Delay cross	0	4194304	Value	ValueOutput
+Env pitch range	0	4194304	Value	ValueOutput
+Glide speed	0	4194304	Value	ValueOutput
+Midi vel to vol	0	4194304	Value	ValueOutput
+Midi vel to flt	0	4194304	Value	ValueOutput
+Midi vel to flt	0	4194304	Value	ValueOutput
+FX L taps	0	4194304	Value	ValueOutput
+FX R taps	0	4194304	Value	ValueOutput
+Multi osc1	0	4194304	Value	ValueOutput
+Multi osc2	0	4194304	Value	ValueOutput
+Multi detune	0	4194304	Value	ValueOutput
+Multi spread	0	4194304	Value	ValueOutput
+Multi mix	0	4194304	Value	ValueOutput
+Reverb on	0	4194304	Value	ValueOutput
+Reverb pre	0	4194304	Value	ValueOutput
+Reverb size	0	4194304	Value	ValueOutput
+Reverb lcut	0	4194304	Value	ValueOutput
+Reverb hcut	0	4194304	Value	ValueOutput
+Reverb hdamp	0	4194304	Value	ValueOutput
+Reverb dry/wet	0	4194304	Value	ValueOutput
+Osc1 type	0	4194304	Value	ValueOutput
+Osc2 type	0	4194304	Value	ValueOutput
+Flt2 track 	0	4194304	Value	ValueOutput
+FX morph 	0	4194304	Value	ValueOutput
+FLT stereo spre	0	4194304	Value	ValueOutput
+Flt env slope	0	4194304	Value	ValueOutput
+Playback mode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

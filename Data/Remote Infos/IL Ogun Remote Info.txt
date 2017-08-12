@@ -1,0 +1,112 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.IOgn.IL Ogun
+Note: Will match scope definitions for vst.IOgn.IL Ogun or vst.IOgn
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master level	0	4194304	Value	ValueOutput
+Master coarse pitch	0	4194304	Value	ValueOutput
+Master fine pitch	0	4194304	Value	ValueOutput
+Modulation X	0	4194304	Value	ValueOutput
+Modulation Y	0	4194304	Value	ValueOutput
+Timbre pre-decay	0	4194304	Value	ValueOutput
+Timbre decay time	0	4194304	Value	ValueOutput
+Timbre release time	0	4194304	Value	ValueOutput
+Timbre fullness	0	4194304	Value	ValueOutput
+Timbre morphing / rando	0	4194304	Value	ValueOutput
+Timbre seed 1	0	4194304	Value	ValueOutput
+Timbre seed 2	0	4194304	Value	ValueOutput
+Unison order	0	4194304	Value	ValueOutput
+Unison panning	0	4194304	Value	ValueOutput
+Unison volume	0	4194304	Value	ValueOutput
+Unison pitch	0	4194304	Value	ValueOutput
+Unison phase	0	4194304	Value	ValueOutput
+Filter frequency	0	4194304	Value	ValueOutput
+Filter resonance	0	4194304	Value	ValueOutput
+Chorus order	0	4194304	Value	ValueOutput
+Chorus depth	0	4194304	Value	ValueOutput
+Chorus speed	0	4194304	Value	ValueOutput
+Chorus delay	0	4194304	Value	ValueOutput
+Chorus spread	0	4194304	Value	ValueOutput
+Chorus cross	0	4194304	Value	ValueOutput
+Chorus mix	0	4194304	Value	ValueOutput
+Delay feedback level	0	4194304	Value	ValueOutput
+Delay time	0	4194304	Value	ValueOutput
+Delay time stereo offse	0	4194304	Value	ValueOutput
+Delay volume	0	4194304	Value	ValueOutput
+Delay feedback mode	0	4194304	Value	ValueOutput
+Reverb lowcut	0	4194304	Value	ValueOutput
+Reverb highcut	0	4194304	Value	ValueOutput
+Reverb predelay	0	4194304	Value	ValueOutput
+Reverb room size	0	4194304	Value	ValueOutput
+Reverb diffusion	0	4194304	Value	ValueOutput
+Reverb decay	0	4194304	Value	ValueOutput
+Reverb high damping	0	4194304	Value	ValueOutput
+Reverb color	0	4194304	Value	ValueOutput
+Reverb wet volume	0	4194304	Value	ValueOutput
+EQ band 1 level	0	4194304	Value	ValueOutput
+EQ band 2 level	0	4194304	Value	ValueOutput
+EQ band 3 level	0	4194304	Value	ValueOutput
+EQ band 1 freq	0	4194304	Value	ValueOutput
+EQ band 2 freq	0	4194304	Value	ValueOutput
+EQ band 3 freq	0	4194304	Value	ValueOutput
+EQ band 1 width	0	4194304	Value	ValueOutput
+EQ band 2 width	0	4194304	Value	ValueOutput
+EQ band 3 width	0	4194304	Value	ValueOutput
+Volume - Attack time sc	0	4194304	Value	ValueOutput
+Volume - Decay time sca	0	4194304	Value	ValueOutput
+Volume - Sustain level 	0	4194304	Value	ValueOutput
+Volume - Release time s	0	4194304	Value	ValueOutput
+Volume - LFO speed	0	4194304	Value	ValueOutput
+Volume - LFO tension	0	4194304	Value	ValueOutput
+Volume - LFO skew	0	4194304	Value	ValueOutput
+Volume - LFO pulse widt	0	4194304	Value	ValueOutput
+Filter frequency - Atta	0	4194304	Value	ValueOutput
+Filter frequency - Deca	0	4194304	Value	ValueOutput
+Filter frequency - Sust	0	4194304	Value	ValueOutput
+Filter frequency - Rele	0	4194304	Value	ValueOutput
+Filter frequency - LFO 	0	4194304	Value	ValueOutput
+Filter frequency - LFO 	0	4194304	Value	ValueOutput
+Filter frequency - LFO 	0	4194304	Value	ValueOutput
+Filter frequency - LFO 	0	4194304	Value	ValueOutput
+Filter resonance - Atta	0	4194304	Value	ValueOutput
+Filter resonance - Deca	0	4194304	Value	ValueOutput
+Filter resonance - Sust	0	4194304	Value	ValueOutput
+Filter resonance - Rele	0	4194304	Value	ValueOutput
+Filter resonance - LFO 	0	4194304	Value	ValueOutput
+Filter resonance - LFO 	0	4194304	Value	ValueOutput
+Filter resonance - LFO 	0	4194304	Value	ValueOutput
+Filter resonance - LFO 	0	4194304	Value	ValueOutput
+Pitch - Attack time sca	0	4194304	Value	ValueOutput
+Pitch - Decay time scal	0	4194304	Value	ValueOutput
+Pitch - Sustain level o	0	4194304	Value	ValueOutput
+Pitch - Release time sc	0	4194304	Value	ValueOutput
+Pitch - LFO speed	0	4194304	Value	ValueOutput
+Pitch - LFO tension	0	4194304	Value	ValueOutput
+Pitch - LFO skew	0	4194304	Value	ValueOutput
+Pitch - LFO pulse width	0	4194304	Value	ValueOutput
+Unison pitch - Attack t	0	4194304	Value	ValueOutput
+Unison pitch - Decay ti	0	4194304	Value	ValueOutput
+Unison pitch - Sustain 	0	4194304	Value	ValueOutput
+Unison pitch - Release 	0	4194304	Value	ValueOutput
+Unison pitch - LFO spee	0	4194304	Value	ValueOutput
+Unison pitch - LFO tens	0	4194304	Value	ValueOutput
+Unison pitch - LFO skew	0	4194304	Value	ValueOutput
+Unison pitch - LFO puls	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,118 @@
+Scope
+Manufacturer	Model
+QuikQuak	vst.MsTa.MashTactic
+Note: Will match scope definitions for vst.MsTa.MashTactic or vst.MsTa
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Lighting X	0	4194304	Value	ValueOutput
+Lighting Y	0	4194304	Value	ValueOutput
+Lighting Hue	0	4194304	Value	ValueOutput
+Lighting Sat.	0	4194304	Value	ValueOutput
+Exclusion gain	0	4194304	Value	ValueOutput
+Zone count	0	4194304	Value	ValueOutput
+Zone selected	0	4194304	Value	ValueOutput
+Brightness	0	4194304	Value	ValueOutput
+Point size	0	4194304	Value	ValueOutput
+Averaging	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Solo	0	4194304	Value	ValueOutput
+Add zone	0	4194304	Value	ValueOutput
+Delete zone	0	4194304	Value	ValueOutput
+Refresh prog	0	4194304	Value	ValueOutput
+Top-left X	0	4194304	Value	ValueOutput
+Top-left Y	0	4194304	Value	ValueOutput
+Bottom-right X	0	4194304	Value	ValueOutput
+Bottom-right Y	0	4194304	Value	ValueOutput
+Transients gain	0	4194304	Value	ValueOutput
+Constants gain	0	4194304	Value	ValueOutput
+Decay time	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Lock Trans. & Consts.	0	4194304	Value	ValueOutput
+Ellipse zone	0	4194304	Value	ValueOutput
+Top-left X 01	0	4194304	Value	ValueOutput
+Top-left Y 01	0	4194304	Value	ValueOutput
+Bottom-right X 01	0	4194304	Value	ValueOutput
+Bottom-right Y 01	0	4194304	Value	ValueOutput
+Transients gain 01	0	4194304	Value	ValueOutput
+Constants gain 01	0	4194304	Value	ValueOutput
+Decay time 01	0	4194304	Value	ValueOutput
+Pan 01	0	4194304	Value	ValueOutput
+Lock Trans. & Consts. 01	0	4194304	Value	ValueOutput
+Ellipse zone 01	0	4194304	Value	ValueOutput
+Top-left X 02	0	4194304	Value	ValueOutput
+Top-left Y 02	0	4194304	Value	ValueOutput
+Bottom-right X 02	0	4194304	Value	ValueOutput
+Bottom-right Y 02	0	4194304	Value	ValueOutput
+Transients gain 02	0	4194304	Value	ValueOutput
+Constants gain 02	0	4194304	Value	ValueOutput
+Decay time 02	0	4194304	Value	ValueOutput
+Pan 02	0	4194304	Value	ValueOutput
+Lock Trans. & Consts. 02	0	4194304	Value	ValueOutput
+Ellipse zone 02	0	4194304	Value	ValueOutput
+Top-left X 03	0	4194304	Value	ValueOutput
+Top-left Y 03	0	4194304	Value	ValueOutput
+Bottom-right X 03	0	4194304	Value	ValueOutput
+Bottom-right Y 03	0	4194304	Value	ValueOutput
+Transients gain 03	0	4194304	Value	ValueOutput
+Constants gain 03	0	4194304	Value	ValueOutput
+Decay time 03	0	4194304	Value	ValueOutput
+Pan 03	0	4194304	Value	ValueOutput
+Lock Trans. & Consts. 03	0	4194304	Value	ValueOutput
+Ellipse zone 03	0	4194304	Value	ValueOutput
+Top-left X 04	0	4194304	Value	ValueOutput
+Top-left Y 04	0	4194304	Value	ValueOutput
+Bottom-right X 04	0	4194304	Value	ValueOutput
+Bottom-right Y 04	0	4194304	Value	ValueOutput
+Transients gain 04	0	4194304	Value	ValueOutput
+Constants gain 04	0	4194304	Value	ValueOutput
+Decay time 04	0	4194304	Value	ValueOutput
+Pan 04	0	4194304	Value	ValueOutput
+Lock Trans. & Consts. 04	0	4194304	Value	ValueOutput
+Ellipse zone 04	0	4194304	Value	ValueOutput
+Top-left X 05	0	4194304	Value	ValueOutput
+Top-left Y 05	0	4194304	Value	ValueOutput
+Bottom-right X 05	0	4194304	Value	ValueOutput
+Bottom-right Y 05	0	4194304	Value	ValueOutput
+Transients gain 05	0	4194304	Value	ValueOutput
+Constants gain 05	0	4194304	Value	ValueOutput
+Decay time 05	0	4194304	Value	ValueOutput
+Pan 05	0	4194304	Value	ValueOutput
+Lock Trans. & Consts. 05	0	4194304	Value	ValueOutput
+Ellipse zone 05	0	4194304	Value	ValueOutput
+Top-left X 06	0	4194304	Value	ValueOutput
+Top-left Y 06	0	4194304	Value	ValueOutput
+Bottom-right X 06	0	4194304	Value	ValueOutput
+Bottom-right Y 06	0	4194304	Value	ValueOutput
+Transients gain 06	0	4194304	Value	ValueOutput
+Constants gain 06	0	4194304	Value	ValueOutput
+Decay time 06	0	4194304	Value	ValueOutput
+Pan 06	0	4194304	Value	ValueOutput
+Lock Trans. & Consts. 06	0	4194304	Value	ValueOutput
+Ellipse zone 06	0	4194304	Value	ValueOutput
+Top-left X 07	0	4194304	Value	ValueOutput
+Top-left Y 07	0	4194304	Value	ValueOutput
+Bottom-right X 07	0	4194304	Value	ValueOutput
+Bottom-right Y 07	0	4194304	Value	ValueOutput
+Transients gain 07	0	4194304	Value	ValueOutput
+Constants gain 07	0	4194304	Value	ValueOutput
+Decay time 07	0	4194304	Value	ValueOutput
+Pan 07	0	4194304	Value	ValueOutput
+Lock Trans. & Consts. 07	0	4194304	Value	ValueOutput
+Ellipse zone 07	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

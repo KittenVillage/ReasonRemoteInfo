@@ -1,0 +1,317 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.Tox4.IL Toxic Biohazard x64
+Note: Will match scope definitions for vst.Tox4.IL Toxic Biohazard x64 or vst.Tox4
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Distortion	0	4194304	Value	ValueOutput
+Transpose	0	4194304	Value	ValueOutput
+Master Atk	0	4194304	Value	ValueOutput
+Master Dec	0	4194304	Value	ValueOutput
+Master Sus	0	4194304	Value	ValueOutput
+Master Rel	0	4194304	Value	ValueOutput
+Vel. Curve	0	4194304	Value	ValueOutput
+Unison Dtn	0	4194304	Value	ValueOutput
+Unison Pan	0	4194304	Value	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+EGF to Pitch	0	4194304	Value	ValueOutput
+Lfo2 to Pitch	0	4194304	Value	ValueOutput
+Lfo1 Speed	0	4194304	Value	ValueOutput
+Lfo2 Speed	0	4194304	Value	ValueOutput
+Flt Cutoff	0	4194304	Value	ValueOutput
+Flt Res	0	4194304	Value	ValueOutput
+Flt KeyTrk	0	4194304	Value	ValueOutput
+Flt VelTrk	0	4194304	Value	ValueOutput
+Flt EG Atk	0	4194304	Value	ValueOutput
+Flt EG Dec	0	4194304	Value	ValueOutput
+Flt EG Sus	0	4194304	Value	ValueOutput
+Flt EG Rel	0	4194304	Value	ValueOutput
+Flt Eg Amnt	0	4194304	Value	ValueOutput
+Flt Lfo1 Amnt	0	4194304	Value	ValueOutput
+O1 Enable	0	4194304	Value	ValueOutput
+O2 Enable	0	4194304	Value	ValueOutput
+O3 Enable	0	4194304	Value	ValueOutput
+O4 Enable	0	4194304	Value	ValueOutput
+O5 Enable	0	4194304	Value	ValueOutput
+O6 Enable	0	4194304	Value	ValueOutput
+O1 Coarse	0	4194304	Value	ValueOutput
+O2 Coarse	0	4194304	Value	ValueOutput
+O3 Coarse	0	4194304	Value	ValueOutput
+O4 Coarse	0	4194304	Value	ValueOutput
+O5 Coarse	0	4194304	Value	ValueOutput
+O6 Coarse	0	4194304	Value	ValueOutput
+O1 Fine	0	4194304	Value	ValueOutput
+O2 Fine	0	4194304	Value	ValueOutput
+O3 Fine	0	4194304	Value	ValueOutput
+O4 Fine	0	4194304	Value	ValueOutput
+O5 Fine	0	4194304	Value	ValueOutput
+O6 Fine	0	4194304	Value	ValueOutput
+O1 Frq Shift	0	4194304	Value	ValueOutput
+O2 Frq Shift	0	4194304	Value	ValueOutput
+O3 Frq Shift	0	4194304	Value	ValueOutput
+O4 Frq Shift	0	4194304	Value	ValueOutput
+O5 Frq Shift	0	4194304	Value	ValueOutput
+O6 Frq Shift	0	4194304	Value	ValueOutput
+O1 Free Run	0	4194304	Value	ValueOutput
+O2 Free Run	0	4194304	Value	ValueOutput
+O3 Free Run	0	4194304	Value	ValueOutput
+O4 Free Run	0	4194304	Value	ValueOutput
+O5 Free Run	0	4194304	Value	ValueOutput
+O6 Free Run	0	4194304	Value	ValueOutput
+O1 Phase	0	4194304	Value	ValueOutput
+O2 Phase	0	4194304	Value	ValueOutput
+O3 Phase	0	4194304	Value	ValueOutput
+O4 Phase	0	4194304	Value	ValueOutput
+O5 Phase	0	4194304	Value	ValueOutput
+O6 Phase	0	4194304	Value	ValueOutput
+O1 VelSens	0	4194304	Value	ValueOutput
+O2 VelSens	0	4194304	Value	ValueOutput
+O3 VelSens	0	4194304	Value	ValueOutput
+O4 VelSens	0	4194304	Value	ValueOutput
+O5 VelSens	0	4194304	Value	ValueOutput
+O6 VelSens	0	4194304	Value	ValueOutput
+O1 Init	0	4194304	Value	ValueOutput
+O2 Init	0	4194304	Value	ValueOutput
+O3 Init	0	4194304	Value	ValueOutput
+O4 Init	0	4194304	Value	ValueOutput
+O5 Init	0	4194304	Value	ValueOutput
+O6 Init	0	4194304	Value	ValueOutput
+O1 Atk	0	4194304	Value	ValueOutput
+O2 Atk	0	4194304	Value	ValueOutput
+O3 Atk	0	4194304	Value	ValueOutput
+O4 Atk	0	4194304	Value	ValueOutput
+O5 Atk	0	4194304	Value	ValueOutput
+O6 Atk	0	4194304	Value	ValueOutput
+O1 Dec	0	4194304	Value	ValueOutput
+O2 Dec	0	4194304	Value	ValueOutput
+O3 Dec	0	4194304	Value	ValueOutput
+O4 Dec	0	4194304	Value	ValueOutput
+O5 Dec	0	4194304	Value	ValueOutput
+O6 Dec	0	4194304	Value	ValueOutput
+O1 Sus	0	4194304	Value	ValueOutput
+O2 Sus	0	4194304	Value	ValueOutput
+O3 Sus	0	4194304	Value	ValueOutput
+O4 Sus	0	4194304	Value	ValueOutput
+O5 Sus	0	4194304	Value	ValueOutput
+O6 Sus	0	4194304	Value	ValueOutput
+O1 Rel	0	4194304	Value	ValueOutput
+O2 Rel	0	4194304	Value	ValueOutput
+O3 Rel	0	4194304	Value	ValueOutput
+O4 Rel	0	4194304	Value	ValueOutput
+O5 Rel	0	4194304	Value	ValueOutput
+O6 Rel	0	4194304	Value	ValueOutput
+O1 Pan	0	4194304	Value	ValueOutput
+O2 Pan	0	4194304	Value	ValueOutput
+O3 Pan	0	4194304	Value	ValueOutput
+O4 Pan	0	4194304	Value	ValueOutput
+O5 Pan	0	4194304	Value	ValueOutput
+O6 Pan	0	4194304	Value	ValueOutput
+O1 Mix	0	4194304	Value	ValueOutput
+O2 Mix	0	4194304	Value	ValueOutput
+O3 Mix	0	4194304	Value	ValueOutput
+O4 Mix	0	4194304	Value	ValueOutput
+O5 Mix	0	4194304	Value	ValueOutput
+O6 Mix	0	4194304	Value	ValueOutput
+O1 Fm 1	0	4194304	Value	ValueOutput
+O2 Fm 1	0	4194304	Value	ValueOutput
+O3 Fm 1	0	4194304	Value	ValueOutput
+O4 Fm 1	0	4194304	Value	ValueOutput
+O5 Fm 1	0	4194304	Value	ValueOutput
+O6 Fm 1	0	4194304	Value	ValueOutput
+O1 Fm 2	0	4194304	Value	ValueOutput
+O2 Fm 2	0	4194304	Value	ValueOutput
+O3 Fm 2	0	4194304	Value	ValueOutput
+O4 Fm 2	0	4194304	Value	ValueOutput
+O5 Fm 2	0	4194304	Value	ValueOutput
+O6 Fm 2	0	4194304	Value	ValueOutput
+O1 Fm 3	0	4194304	Value	ValueOutput
+O2 Fm 3	0	4194304	Value	ValueOutput
+O3 Fm 3	0	4194304	Value	ValueOutput
+O4 Fm 3	0	4194304	Value	ValueOutput
+O5 Fm 3	0	4194304	Value	ValueOutput
+O6 Fm 3	0	4194304	Value	ValueOutput
+O1 Fm 4	0	4194304	Value	ValueOutput
+O2 Fm 4	0	4194304	Value	ValueOutput
+O3 Fm 4	0	4194304	Value	ValueOutput
+O4 Fm 4	0	4194304	Value	ValueOutput
+O5 Fm 4	0	4194304	Value	ValueOutput
+O6 Fm 4	0	4194304	Value	ValueOutput
+O1 Fm 5	0	4194304	Value	ValueOutput
+O2 Fm 5	0	4194304	Value	ValueOutput
+O3 Fm 5	0	4194304	Value	ValueOutput
+O4 Fm 5	0	4194304	Value	ValueOutput
+O5 Fm 5	0	4194304	Value	ValueOutput
+O6 Fm 5	0	4194304	Value	ValueOutput
+O1 Fm 6	0	4194304	Value	ValueOutput
+O2 Fm 6	0	4194304	Value	ValueOutput
+O3 Fm 6	0	4194304	Value	ValueOutput
+O4 Fm 6	0	4194304	Value	ValueOutput
+O5 Fm 6	0	4194304	Value	ValueOutput
+O6 Fm 6	0	4194304	Value	ValueOutput
+LFO1 Osc1	0	4194304	Value	ValueOutput
+LFO1 Osc2	0	4194304	Value	ValueOutput
+LFO1 Osc3	0	4194304	Value	ValueOutput
+LFO1 Osc4	0	4194304	Value	ValueOutput
+LFO1 Osc5	0	4194304	Value	ValueOutput
+LFO1 Osc6	0	4194304	Value	ValueOutput
+LFO2 Osc1	0	4194304	Value	ValueOutput
+LFO2 Osc2	0	4194304	Value	ValueOutput
+LFO2 Osc3	0	4194304	Value	ValueOutput
+LFO2 Osc4	0	4194304	Value	ValueOutput
+LFO2 Osc5	0	4194304	Value	ValueOutput
+LFO2 Osc6	0	4194304	Value	ValueOutput
+Seq Play	0	4194304	Value	ValueOutput
+Seq Swing	0	4194304	Value	ValueOutput
+Seq P-P	0	4194304	Value	ValueOutput
+Seq Rnd	0	4194304	Value	ValueOutput
+Seq Dual	0	4194304	Value	ValueOutput
+Seq Steps	0	4194304	Value	ValueOutput
+Seq Ptrn 0	0	4194304	Value	ValueOutput
+Seq Ptrn 1	0	4194304	Value	ValueOutput
+Seq Ptrn 2	0	4194304	Value	ValueOutput
+Seq Ptrn 3	0	4194304	Value	ValueOutput
+Seq Ptrn 4	0	4194304	Value	ValueOutput
+Seq Ptrn 5	0	4194304	Value	ValueOutput
+Seq Ptrn 6	0	4194304	Value	ValueOutput
+Seq Ptrn 7	0	4194304	Value	ValueOutput
+Seq Ptrn 8	0	4194304	Value	ValueOutput
+Seq Ptrn 9	0	4194304	Value	ValueOutput
+Seq Ptrn 10	0	4194304	Value	ValueOutput
+Seq Ptrn 11	0	4194304	Value	ValueOutput
+Seq Ptrn 12	0	4194304	Value	ValueOutput
+Seq Ptrn 13	0	4194304	Value	ValueOutput
+Seq Ptrn 14	0	4194304	Value	ValueOutput
+Seq Ptrn 15	0	4194304	Value	ValueOutput
+Seq Ptrn 16	0	4194304	Value	ValueOutput
+Seq Ptrn 17	0	4194304	Value	ValueOutput
+Seq Ptrn 18	0	4194304	Value	ValueOutput
+Seq Ptrn 19	0	4194304	Value	ValueOutput
+Seq Ptrn 20	0	4194304	Value	ValueOutput
+Seq Ptrn 21	0	4194304	Value	ValueOutput
+Seq Ptrn 22	0	4194304	Value	ValueOutput
+Seq Ptrn 23	0	4194304	Value	ValueOutput
+Seq Ptrn 24	0	4194304	Value	ValueOutput
+Seq Ptrn 25	0	4194304	Value	ValueOutput
+Seq Ptrn 26	0	4194304	Value	ValueOutput
+Seq Ptrn 27	0	4194304	Value	ValueOutput
+Seq Ptrn 28	0	4194304	Value	ValueOutput
+Seq Ptrn 29	0	4194304	Value	ValueOutput
+Seq Ptrn 30	0	4194304	Value	ValueOutput
+Seq Ptrn 31	0	4194304	Value	ValueOutput
+Seq Ptrn 32	0	4194304	Value	ValueOutput
+Seq Ptrn 33	0	4194304	Value	ValueOutput
+Seq Ptrn 34	0	4194304	Value	ValueOutput
+Seq Ptrn 35	0	4194304	Value	ValueOutput
+Seq Ptrn 36	0	4194304	Value	ValueOutput
+Seq Ptrn 37	0	4194304	Value	ValueOutput
+Seq Ptrn 38	0	4194304	Value	ValueOutput
+Seq Ptrn 39	0	4194304	Value	ValueOutput
+Seq Ptrn 40	0	4194304	Value	ValueOutput
+Seq Ptrn 41	0	4194304	Value	ValueOutput
+Seq Ptrn 42	0	4194304	Value	ValueOutput
+Seq Ptrn 43	0	4194304	Value	ValueOutput
+Seq Ptrn 44	0	4194304	Value	ValueOutput
+Seq Ptrn 45	0	4194304	Value	ValueOutput
+Seq Ptrn 46	0	4194304	Value	ValueOutput
+Seq Ptrn 47	0	4194304	Value	ValueOutput
+Seq Ptrn 48	0	4194304	Value	ValueOutput
+Seq Ptrn 49	0	4194304	Value	ValueOutput
+Seq Ptrn 50	0	4194304	Value	ValueOutput
+Seq Ptrn 51	0	4194304	Value	ValueOutput
+Seq Ptrn 52	0	4194304	Value	ValueOutput
+Seq Ptrn 53	0	4194304	Value	ValueOutput
+Seq Ptrn 54	0	4194304	Value	ValueOutput
+Seq Ptrn 55	0	4194304	Value	ValueOutput
+Seq Ptrn 56	0	4194304	Value	ValueOutput
+Seq Ptrn 57	0	4194304	Value	ValueOutput
+Seq Ptrn 58	0	4194304	Value	ValueOutput
+Seq Ptrn 59	0	4194304	Value	ValueOutput
+Seq Ptrn 60	0	4194304	Value	ValueOutput
+Seq Ptrn 61	0	4194304	Value	ValueOutput
+Seq Ptrn 62	0	4194304	Value	ValueOutput
+Seq Ptrn 63	0	4194304	Value	ValueOutput
+EQ On 	0	4194304	Value	ValueOutput
+EQ Band1	0	4194304	Value	ValueOutput
+EQ Band2	0	4194304	Value	ValueOutput
+EQ Band3	0	4194304	Value	ValueOutput
+EQ Band4	0	4194304	Value	ValueOutput
+EQ Band5	0	4194304	Value	ValueOutput
+EQ Band6	0	4194304	Value	ValueOutput
+EQ Band7	0	4194304	Value	ValueOutput
+EQ Band8	0	4194304	Value	ValueOutput
+Fx1 Enable	0	4194304	Value	ValueOutput
+Fx2 Enable	0	4194304	Value	ValueOutput
+Flang1 Delay	0	4194304	Value	ValueOutput
+Flang2 Delay	0	4194304	Value	ValueOutput
+Flang1 Fdbk	0	4194304	Value	ValueOutput
+Flang2 Fdbk	0	4194304	Value	ValueOutput
+Flang1 Depth	0	4194304	Value	ValueOutput
+Flang2 Depth	0	4194304	Value	ValueOutput
+Flang1 Rate	0	4194304	Value	ValueOutput
+Flang2 Rate	0	4194304	Value	ValueOutput
+Flang1 Mix	0	4194304	Value	ValueOutput
+Flang2 Mix	0	4194304	Value	ValueOutput
+Flang1 -Fdbk	0	4194304	Value	ValueOutput
+Flang2 Inv. Fdbk	0	4194304	Value	ValueOutput
+Flang1 -Mix	0	4194304	Value	ValueOutput
+Flang2 Inv. Mix	0	4194304	Value	ValueOutput
+Chor1 Depth	0	4194304	Value	ValueOutput
+Chor2 Depth	0	4194304	Value	ValueOutput
+Chor1 Rate	0	4194304	Value	ValueOutput
+Chor2 Rate	0	4194304	Value	ValueOutput
+Chor1 Mix	0	4194304	Value	ValueOutput
+Chor2 Mix	0	4194304	Value	ValueOutput
+Rev1 Mix	0	4194304	Value	ValueOutput
+Rev2 Mix	0	4194304	Value	ValueOutput
+Rev1 Decay	0	4194304	Value	ValueOutput
+Rev2 Decay	0	4194304	Value	ValueOutput
+Rev1 Damp	0	4194304	Value	ValueOutput
+Rev2 Damp	0	4194304	Value	ValueOutput
+Rev1 Hi-Cut	0	4194304	Value	ValueOutput
+Rev2 Hi-Cut	0	4194304	Value	ValueOutput
+Delay1 Time	0	4194304	Value	ValueOutput
+Delay2 Time	0	4194304	Value	ValueOutput
+Delay1 Fdbk	0	4194304	Value	ValueOutput
+Delay2 Fdbk	0	4194304	Value	ValueOutput
+Delay1 Rate	0	4194304	Value	ValueOutput
+Delay2 Rate	0	4194304	Value	ValueOutput
+Delay1 Depth	0	4194304	Value	ValueOutput
+Delay2 Depth	0	4194304	Value	ValueOutput
+Delay1 Blur	0	4194304	Value	ValueOutput
+Delay2 Blur	0	4194304	Value	ValueOutput
+Delay1 Mix	0	4194304	Value	ValueOutput
+Delay2 Mix	0	4194304	Value	ValueOutput
+LoFi1 Bits	0	4194304	Value	ValueOutput
+LoFi2 Bits	0	4194304	Value	ValueOutput
+LoFi1 Smp	0	4194304	Value	ValueOutput
+LoFi2 Smp	0	4194304	Value	ValueOutput
+LoFi1 Flt	0	4194304	Value	ValueOutput
+LoFi2 Flt	0	4194304	Value	ValueOutput
+Phas1 Frq	0	4194304	Value	ValueOutput
+Phas2 Frq	0	4194304	Value	ValueOutput
+Phas1 Rate	0	4194304	Value	ValueOutput
+Phas2 Rate	0	4194304	Value	ValueOutput
+Phas1 Dpth	0	4194304	Value	ValueOutput
+Phas2 Dpth	0	4194304	Value	ValueOutput
+Phas1 Fdbk	0	4194304	Value	ValueOutput
+Phas2 Fdbk	0	4194304	Value	ValueOutput
+Phas1 Mix	0	4194304	Value	ValueOutput
+Phas2 Mix	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

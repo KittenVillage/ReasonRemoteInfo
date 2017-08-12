@@ -1,0 +1,302 @@
+Scope
+Manufacturer	Model
+PSP N2O x64	vst.PSN2.PSP N2O x64
+Note: Will match scope definitions for vst.PSN2.PSP N2O x64 or vst.PSN2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Power	0	4194304	Value	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+KNOB1	0	4194304	Value	ValueOutput
+KNOB2	0	4194304	Value	ValueOutput
+KNOB3	0	4194304	Value	ValueOutput
+KNOB4	0	4194304	Value	ValueOutput
+KNOB5	0	4194304	Value	ValueOutput
+KNOB6	0	4194304	Value	ValueOutput
+KNOB7	0	4194304	Value	ValueOutput
+KNOB8	0	4194304	Value	ValueOutput
+OP1 type	0	4194304	Value	ValueOutput
+OP2 type	0	4194304	Value	ValueOutput
+OP3 type	0	4194304	Value	ValueOutput
+OP4 type	0	4194304	Value	ValueOutput
+OP1 atten	0	4194304	Value	ValueOutput
+OP1 ---	0	4194304	Value	ValueOutput
+OP1 ---	0	4194304	Value	ValueOutput
+OP1 ---	0	4194304	Value	ValueOutput
+OP1 ---	0	4194304	Value	ValueOutput
+OP1 ---	0	4194304	Value	ValueOutput
+OP1 ---	0	4194304	Value	ValueOutput
+OP1 ---	0	4194304	Value	ValueOutput
+OP1 ---	0	4194304	Value	ValueOutput
+OP1 ---	0	4194304	Value	ValueOutput
+OP1 ---	0	4194304	Value	ValueOutput
+OP1 ---	0	4194304	Value	ValueOutput
+OP1 ---	0	4194304	Value	ValueOutput
+OP1 ---	0	4194304	Value	ValueOutput
+OP1 ---	0	4194304	Value	ValueOutput
+OP1 ---	0	4194304	Value	ValueOutput
+OP2 atten	0	4194304	Value	ValueOutput
+OP2 ---	0	4194304	Value	ValueOutput
+OP2 ---	0	4194304	Value	ValueOutput
+OP2 ---	0	4194304	Value	ValueOutput
+OP2 ---	0	4194304	Value	ValueOutput
+OP2 ---	0	4194304	Value	ValueOutput
+OP2 ---	0	4194304	Value	ValueOutput
+OP2 ---	0	4194304	Value	ValueOutput
+OP2 ---	0	4194304	Value	ValueOutput
+OP2 ---	0	4194304	Value	ValueOutput
+OP2 ---	0	4194304	Value	ValueOutput
+OP2 ---	0	4194304	Value	ValueOutput
+OP2 ---	0	4194304	Value	ValueOutput
+OP2 ---	0	4194304	Value	ValueOutput
+OP2 ---	0	4194304	Value	ValueOutput
+OP2 ---	0	4194304	Value	ValueOutput
+OP3 atten	0	4194304	Value	ValueOutput
+OP3 ---	0	4194304	Value	ValueOutput
+OP3 ---	0	4194304	Value	ValueOutput
+OP3 ---	0	4194304	Value	ValueOutput
+OP3 ---	0	4194304	Value	ValueOutput
+OP3 ---	0	4194304	Value	ValueOutput
+OP3 ---	0	4194304	Value	ValueOutput
+OP3 ---	0	4194304	Value	ValueOutput
+OP3 ---	0	4194304	Value	ValueOutput
+OP3 ---	0	4194304	Value	ValueOutput
+OP3 ---	0	4194304	Value	ValueOutput
+OP3 ---	0	4194304	Value	ValueOutput
+OP3 ---	0	4194304	Value	ValueOutput
+OP3 ---	0	4194304	Value	ValueOutput
+OP3 ---	0	4194304	Value	ValueOutput
+OP3 ---	0	4194304	Value	ValueOutput
+OP4 atten	0	4194304	Value	ValueOutput
+OP4 ---	0	4194304	Value	ValueOutput
+OP4 ---	0	4194304	Value	ValueOutput
+OP4 ---	0	4194304	Value	ValueOutput
+OP4 ---	0	4194304	Value	ValueOutput
+OP4 ---	0	4194304	Value	ValueOutput
+OP4 ---	0	4194304	Value	ValueOutput
+OP4 ---	0	4194304	Value	ValueOutput
+OP4 ---	0	4194304	Value	ValueOutput
+OP4 ---	0	4194304	Value	ValueOutput
+OP4 ---	0	4194304	Value	ValueOutput
+OP4 ---	0	4194304	Value	ValueOutput
+OP4 ---	0	4194304	Value	ValueOutput
+OP4 ---	0	4194304	Value	ValueOutput
+OP4 ---	0	4194304	Value	ValueOutput
+OP4 ---	0	4194304	Value	ValueOutput
+MOD1 type	0	4194304	Value	ValueOutput
+MOD2 type	0	4194304	Value	ValueOutput
+MOD3 type	0	4194304	Value	ValueOutput
+MOD4 type	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD1 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD2 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD3 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+MOD4 ---	0	4194304	Value	ValueOutput
+SLOT1 SENS	0	4194304	Value	ValueOutput
+SLOT2 SENS	0	4194304	Value	ValueOutput
+SLOT3 SENS	0	4194304	Value	ValueOutput
+SLOT4 SENS	0	4194304	Value	ValueOutput
+SLOT5 SENS	0	4194304	Value	ValueOutput
+SLOT6 SENS	0	4194304	Value	ValueOutput
+SLOT7 SENS	0	4194304	Value	ValueOutput
+SLOT8 SENS	0	4194304	Value	ValueOutput
+SLOT9 SENS	0	4194304	Value	ValueOutput
+SLOT10 SENS	0	4194304	Value	ValueOutput
+SLOT11 SENS	0	4194304	Value	ValueOutput
+SLOT12 SENS	0	4194304	Value	ValueOutput
+SLOT13 SENS	0	4194304	Value	ValueOutput
+SLOT14 SENS	0	4194304	Value	ValueOutput
+SLOT15 SENS	0	4194304	Value	ValueOutput
+SLOT16 SENS	0	4194304	Value	ValueOutput
+DryDly	0	4194304	Value	ValueOutput
+IN->OP1	0	4194304	Value	ValueOutput
+IN->OP2	0	4194304	Value	ValueOutput
+IN->OP3	0	4194304	Value	ValueOutput
+IN->OP4	0	4194304	Value	ValueOutput
+OP1->OP1	0	4194304	Value	ValueOutput
+OP1->OP2	0	4194304	Value	ValueOutput
+OP1->OP3	0	4194304	Value	ValueOutput
+OP1->OP4	0	4194304	Value	ValueOutput
+OP2->OP1	0	4194304	Value	ValueOutput
+OP2->OP2	0	4194304	Value	ValueOutput
+OP2->OP3	0	4194304	Value	ValueOutput
+OP2->OP4	0	4194304	Value	ValueOutput
+OP3->OP1	0	4194304	Value	ValueOutput
+OP3->OP2	0	4194304	Value	ValueOutput
+OP3->OP3	0	4194304	Value	ValueOutput
+OP3->OP4	0	4194304	Value	ValueOutput
+OP4->OP1	0	4194304	Value	ValueOutput
+OP4->OP2	0	4194304	Value	ValueOutput
+OP4->OP3	0	4194304	Value	ValueOutput
+OP4->OP4	0	4194304	Value	ValueOutput
+OP1->OUT	0	4194304	Value	ValueOutput
+OP2->OUT	0	4194304	Value	ValueOutput
+OP3->OUT	0	4194304	Value	ValueOutput
+OP4->OUT	0	4194304	Value	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+PPQOffset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,27 @@
+Scope
+Manufacturer	Model
+Devoloop	com.devoloop.SitBull
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Knob Pre Gain	0	4194304	Value	ValueOutput
+Knob Pre Sat	0	4194304	Value	ValueOutput
+Knob Eq Low	0	4194304	Value	ValueOutput
+Knob Eq Mid	0	4194304	Value	ValueOutput
+Knob Eq Hi	0	4194304	Value	ValueOutput
+Switch Bypass Eq	0	1	Toggle	ValueOutput
+Knob Comp Amount	0	4194304	Value	ValueOutput
+Knob Ext	0	4194304	Value	ValueOutput
+Switch Ext	0	1	Toggle	ValueOutput
+Switch Limiter	0	1	Toggle	ValueOutput
+Knob Hopa	0	4194304	Value	ValueOutput
+Knob Blend Mix	0	4194304	Value	ValueOutput
+Knob Dry/Wet	0	4194304	Value	ValueOutput
+Cabinet Selector	0	2	Value	ValueOutput
+Switch Cabinet	0	1	Toggle	ValueOutput
+Knob Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

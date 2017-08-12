@@ -1,0 +1,154 @@
+Scope
+Manufacturer	Model
+McDSP	vst.McA6.AE600_Active_EQ_x64
+Note: Will match scope definitions for vst.McA6.AE600_Active_EQ_x64 or vst.McA6
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+HPF Freq	0	4194304	Value	ValueOutput
+HPF Slope	0	4194304	Value	ValueOutput
+HPF Enable	0	4194304	Value	ValueOutput
+LPF Freq	0	4194304	Value	ValueOutput
+LPF Slope	0	4194304	Value	ValueOutput
+LPF Enable	0	4194304	Value	ValueOutput
+Plot Mode	0	4194304	Value	ValueOutput
+Key Listen	0	4194304	Value	ValueOutput
+Band Link Mode	0	4194304	Value	ValueOutput
+Threshold 1	0	4194304	Value	ValueOutput
+Threshld Invers	0	4194304	Value	ValueOutput
+Ratio 1	0	4194304	Value	ValueOutput
+Attack 1	0	4194304	Value	ValueOutput
+Release 1	0	4194304	Value	ValueOutput
+Active EQ Gain 	0	4194304	Value	ValueOutput
+Active EQ Freq 	0	4194304	Value	ValueOutput
+Active EQ Q 1	0	4194304	Value	ValueOutput
+Active EQ Mode 	0	4194304	Value	ValueOutput
+Active Enable 1	0	4194304	Value	ValueOutput
+Active Lock 1	0	4194304	Value	ValueOutput
+Fixed EQ Gain 1	0	4194304	Value	ValueOutput
+Fixed EQ Freq 1	0	4194304	Value	ValueOutput
+Fixed EQ Q 1	0	4194304	Value	ValueOutput
+Fixed EQ Mode 1	0	4194304	Value	ValueOutput
+Fixed Enable 1	0	4194304	Value	ValueOutput
+Solo 1	0	4194304	Value	ValueOutput
+Link 1	0	4194304	Value	ValueOutput
+Enable 1	0	4194304	Value	ValueOutput
+Key 1	0	4194304	Value	ValueOutput
+Threshold 2	0	4194304	Value	ValueOutput
+Threshld Invers	0	4194304	Value	ValueOutput
+Ratio 2	0	4194304	Value	ValueOutput
+Attack 2	0	4194304	Value	ValueOutput
+Release 2	0	4194304	Value	ValueOutput
+Active EQ Gain 	0	4194304	Value	ValueOutput
+Active EQ Freq 	0	4194304	Value	ValueOutput
+Active EQ Q 2	0	4194304	Value	ValueOutput
+Active EQ Mode 	0	4194304	Value	ValueOutput
+Active Enable 2	0	4194304	Value	ValueOutput
+Active Lock 2	0	4194304	Value	ValueOutput
+Fixed EQ Gain 2	0	4194304	Value	ValueOutput
+Fixed EQ Freq 2	0	4194304	Value	ValueOutput
+Fixed EQ Q 2	0	4194304	Value	ValueOutput
+Fixed EQ Mode 2	0	4194304	Value	ValueOutput
+Fixed Enable 2	0	4194304	Value	ValueOutput
+Solo 2	0	4194304	Value	ValueOutput
+Link 2	0	4194304	Value	ValueOutput
+Enable 2	0	4194304	Value	ValueOutput
+Key 2	0	4194304	Value	ValueOutput
+Threshold 3	0	4194304	Value	ValueOutput
+Threshld Invers	0	4194304	Value	ValueOutput
+Ratio 3	0	4194304	Value	ValueOutput
+Attack 3	0	4194304	Value	ValueOutput
+Release 3	0	4194304	Value	ValueOutput
+Active EQ Gain 	0	4194304	Value	ValueOutput
+Active EQ Freq 	0	4194304	Value	ValueOutput
+Active EQ Q 3	0	4194304	Value	ValueOutput
+Active EQ Mode 	0	4194304	Value	ValueOutput
+Active Enable 3	0	4194304	Value	ValueOutput
+Active Lock 3	0	4194304	Value	ValueOutput
+Fixed EQ Gain 3	0	4194304	Value	ValueOutput
+Fixed EQ Freq 3	0	4194304	Value	ValueOutput
+Fixed EQ Q 3	0	4194304	Value	ValueOutput
+Fixed EQ Mode 3	0	4194304	Value	ValueOutput
+Fixed Enable 3	0	4194304	Value	ValueOutput
+Solo 3	0	4194304	Value	ValueOutput
+Link 3	0	4194304	Value	ValueOutput
+Enable 3	0	4194304	Value	ValueOutput
+Key 3	0	4194304	Value	ValueOutput
+Threshold 4	0	4194304	Value	ValueOutput
+Threshld Invers	0	4194304	Value	ValueOutput
+Ratio 4	0	4194304	Value	ValueOutput
+Attack 4	0	4194304	Value	ValueOutput
+Release 4	0	4194304	Value	ValueOutput
+Active EQ Gain 	0	4194304	Value	ValueOutput
+Active EQ Freq 	0	4194304	Value	ValueOutput
+Active EQ Q 4	0	4194304	Value	ValueOutput
+Active EQ Mode 	0	4194304	Value	ValueOutput
+Active Enable 4	0	4194304	Value	ValueOutput
+Active Lock 4	0	4194304	Value	ValueOutput
+Fixed EQ Gain 4	0	4194304	Value	ValueOutput
+Fixed EQ Freq 4	0	4194304	Value	ValueOutput
+Fixed EQ Q 4	0	4194304	Value	ValueOutput
+Fixed EQ Mode 4	0	4194304	Value	ValueOutput
+Fixed Enable 4	0	4194304	Value	ValueOutput
+Solo 4	0	4194304	Value	ValueOutput
+Link 4	0	4194304	Value	ValueOutput
+Enable 4	0	4194304	Value	ValueOutput
+Key 4	0	4194304	Value	ValueOutput
+Threshold 5	0	4194304	Value	ValueOutput
+Threshld Invers	0	4194304	Value	ValueOutput
+Ratio 5	0	4194304	Value	ValueOutput
+Attack 5	0	4194304	Value	ValueOutput
+Release 5	0	4194304	Value	ValueOutput
+Active EQ Gain 	0	4194304	Value	ValueOutput
+Active EQ Freq 	0	4194304	Value	ValueOutput
+Active EQ Q 5	0	4194304	Value	ValueOutput
+Active EQ Mode 	0	4194304	Value	ValueOutput
+Active Enable 5	0	4194304	Value	ValueOutput
+Active Lock 5	0	4194304	Value	ValueOutput
+Fixed EQ Gain 5	0	4194304	Value	ValueOutput
+Fixed EQ Freq 5	0	4194304	Value	ValueOutput
+Fixed EQ Q 5	0	4194304	Value	ValueOutput
+Fixed EQ Mode 5	0	4194304	Value	ValueOutput
+Fixed Enable 5	0	4194304	Value	ValueOutput
+Solo 5	0	4194304	Value	ValueOutput
+Link 5	0	4194304	Value	ValueOutput
+Enable 5	0	4194304	Value	ValueOutput
+Key 5	0	4194304	Value	ValueOutput
+Threshold 6	0	4194304	Value	ValueOutput
+Threshld Invers	0	4194304	Value	ValueOutput
+Ratio 6	0	4194304	Value	ValueOutput
+Attack 6	0	4194304	Value	ValueOutput
+Release 6	0	4194304	Value	ValueOutput
+Active EQ Gain 	0	4194304	Value	ValueOutput
+Active EQ Freq 	0	4194304	Value	ValueOutput
+Active EQ Q 6	0	4194304	Value	ValueOutput
+Active EQ Mode 	0	4194304	Value	ValueOutput
+Active Enable 6	0	4194304	Value	ValueOutput
+Active Lock 6	0	4194304	Value	ValueOutput
+Fixed EQ Gain 6	0	4194304	Value	ValueOutput
+Fixed EQ Freq 6	0	4194304	Value	ValueOutput
+Fixed EQ Q 6	0	4194304	Value	ValueOutput
+Fixed EQ Mode 6	0	4194304	Value	ValueOutput
+Fixed Enable 6	0	4194304	Value	ValueOutput
+Solo 6	0	4194304	Value	ValueOutput
+Link 6	0	4194304	Value	ValueOutput
+Enable 6	0	4194304	Value	ValueOutput
+Key 6	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

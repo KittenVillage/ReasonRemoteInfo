@@ -1,0 +1,298 @@
+Scope
+Manufacturer	Model
+UVI	vst.Rela.Relayerx64
+Note: Will match scope definitions for vst.Rela.Relayerx64 or vst.Rela
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+SyncToHost	0	4194304	Value	ValueOutput
+Dry	0	4194304	Value	ValueOutput
+Wet	0	4194304	Value	ValueOutput
+SoloWet	0	4194304	Value	ValueOutput
+Input Gate Enab____	0	4194304	Value	ValueOutput
+Input Gate	0	4194304	Value	ValueOutput
+Repeats	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Mod Enabled	0	4194304	Value	ValueOutput
+Mod Depth	0	4194304	Value	ValueOutput
+Mod Rate	0	4194304	Value	ValueOutput
+Master Filters ____	0	4194304	Value	ValueOutput
+Master Lp	0	4194304	Value	ValueOutput
+Master Hp	0	4194304	Value	ValueOutput
+Color Enabled	0	4194304	Value	ValueOutput
+Color Mix	0	4194304	Value	ValueOutput
+Feedback Lp	0	4194304	Value	ValueOutput
+Feedback Hp	0	4194304	Value	ValueOutput
+Feedback Drive	0	4194304	Value	ValueOutput
+Feedback Drive ____	0	4194304	Value	ValueOutput
+Feedback Tap	0	4194304	Value	ValueOutput
+Time Div	0	4194304	Value	ValueOutput
+Time Enabled	0	4194304	Value	ValueOutput
+Time 1	0	4194304	Value	ValueOutput
+Time 2	0	4194304	Value	ValueOutput
+Time 3	0	4194304	Value	ValueOutput
+Time 4	0	4194304	Value	ValueOutput
+Time 5	0	4194304	Value	ValueOutput
+Time 6	0	4194304	Value	ValueOutput
+Time 7	0	4194304	Value	ValueOutput
+Time 8	0	4194304	Value	ValueOutput
+Time 9	0	4194304	Value	ValueOutput
+Time 10	0	4194304	Value	ValueOutput
+Time 11	0	4194304	Value	ValueOutput
+Time 12	0	4194304	Value	ValueOutput
+Time 13	0	4194304	Value	ValueOutput
+Time 14	0	4194304	Value	ValueOutput
+Time 15	0	4194304	Value	ValueOutput
+Time 16	0	4194304	Value	ValueOutput
+Time 17	0	4194304	Value	ValueOutput
+Time 18	0	4194304	Value	ValueOutput
+Time 19	0	4194304	Value	ValueOutput
+Time 20	0	4194304	Value	ValueOutput
+Time 21	0	4194304	Value	ValueOutput
+Time 22	0	4194304	Value	ValueOutput
+Time 23	0	4194304	Value	ValueOutput
+Time 24	0	4194304	Value	ValueOutput
+Time 25	0	4194304	Value	ValueOutput
+Time 26	0	4194304	Value	ValueOutput
+Time 27	0	4194304	Value	ValueOutput
+Time 28	0	4194304	Value	ValueOutput
+Time 29	0	4194304	Value	ValueOutput
+Time 30	0	4194304	Value	ValueOutput
+Time 31	0	4194304	Value	ValueOutput
+Time 32	0	4194304	Value	ValueOutput
+Time Loop Start____	0	4194304	Value	ValueOutput
+Time Loop End	0	4194304	Value	ValueOutput
+Time Swing	0	4194304	Value	ValueOutput
+Time Swing Scal____	0	4194304	Value	ValueOutput
+Time Warp	0	4194304	Value	ValueOutput
+Gain Enabled	0	4194304	Value	ValueOutput
+Gain 1	0	4194304	Value	ValueOutput
+Gain 2	0	4194304	Value	ValueOutput
+Gain 3	0	4194304	Value	ValueOutput
+Gain 4	0	4194304	Value	ValueOutput
+Gain 5	0	4194304	Value	ValueOutput
+Gain 6	0	4194304	Value	ValueOutput
+Gain 7	0	4194304	Value	ValueOutput
+Gain 8	0	4194304	Value	ValueOutput
+Gain 9	0	4194304	Value	ValueOutput
+Gain 10	0	4194304	Value	ValueOutput
+Gain 11	0	4194304	Value	ValueOutput
+Gain 12	0	4194304	Value	ValueOutput
+Gain 13	0	4194304	Value	ValueOutput
+Gain 14	0	4194304	Value	ValueOutput
+Gain 15	0	4194304	Value	ValueOutput
+Gain 16	0	4194304	Value	ValueOutput
+Gain 17	0	4194304	Value	ValueOutput
+Gain 18	0	4194304	Value	ValueOutput
+Gain 19	0	4194304	Value	ValueOutput
+Gain 20	0	4194304	Value	ValueOutput
+Gain 21	0	4194304	Value	ValueOutput
+Gain 22	0	4194304	Value	ValueOutput
+Gain 23	0	4194304	Value	ValueOutput
+Gain 24	0	4194304	Value	ValueOutput
+Gain 25	0	4194304	Value	ValueOutput
+Gain 26	0	4194304	Value	ValueOutput
+Gain 27	0	4194304	Value	ValueOutput
+Gain 28	0	4194304	Value	ValueOutput
+Gain 29	0	4194304	Value	ValueOutput
+Gain 30	0	4194304	Value	ValueOutput
+Gain 31	0	4194304	Value	ValueOutput
+Gain 32	0	4194304	Value	ValueOutput
+Gain Loop Start____	0	4194304	Value	ValueOutput
+Gain Loop End	0	4194304	Value	ValueOutput
+Pan Enabled	0	4194304	Value	ValueOutput
+Pan 1	0	4194304	Value	ValueOutput
+Pan 2	0	4194304	Value	ValueOutput
+Pan 3	0	4194304	Value	ValueOutput
+Pan 4	0	4194304	Value	ValueOutput
+Pan 5	0	4194304	Value	ValueOutput
+Pan 6	0	4194304	Value	ValueOutput
+Pan 7	0	4194304	Value	ValueOutput
+Pan 8	0	4194304	Value	ValueOutput
+Pan 9	0	4194304	Value	ValueOutput
+Pan 10	0	4194304	Value	ValueOutput
+Pan 11	0	4194304	Value	ValueOutput
+Pan 12	0	4194304	Value	ValueOutput
+Pan 13	0	4194304	Value	ValueOutput
+Pan 14	0	4194304	Value	ValueOutput
+Pan 15	0	4194304	Value	ValueOutput
+Pan 16	0	4194304	Value	ValueOutput
+Pan 17	0	4194304	Value	ValueOutput
+Pan 18	0	4194304	Value	ValueOutput
+Pan 19	0	4194304	Value	ValueOutput
+Pan 20	0	4194304	Value	ValueOutput
+Pan 21	0	4194304	Value	ValueOutput
+Pan 22	0	4194304	Value	ValueOutput
+Pan 23	0	4194304	Value	ValueOutput
+Pan 24	0	4194304	Value	ValueOutput
+Pan 25	0	4194304	Value	ValueOutput
+Pan 26	0	4194304	Value	ValueOutput
+Pan 27	0	4194304	Value	ValueOutput
+Pan 28	0	4194304	Value	ValueOutput
+Pan 29	0	4194304	Value	ValueOutput
+Pan 30	0	4194304	Value	ValueOutput
+Pan 31	0	4194304	Value	ValueOutput
+Pan 32	0	4194304	Value	ValueOutput
+Pan Loop Start	0	4194304	Value	ValueOutput
+Pan Loop End	0	4194304	Value	ValueOutput
+Pan Spread	0	4194304	Value	ValueOutput
+Pan Width	0	4194304	Value	ValueOutput
+Fx1 Enabled	0	4194304	Value	ValueOutput
+Fx1 1	0	4194304	Value	ValueOutput
+Fx1 2	0	4194304	Value	ValueOutput
+Fx1 3	0	4194304	Value	ValueOutput
+Fx1 4	0	4194304	Value	ValueOutput
+Fx1 5	0	4194304	Value	ValueOutput
+Fx1 6	0	4194304	Value	ValueOutput
+Fx1 7	0	4194304	Value	ValueOutput
+Fx1 8	0	4194304	Value	ValueOutput
+Fx1 9	0	4194304	Value	ValueOutput
+Fx1 10	0	4194304	Value	ValueOutput
+Fx1 11	0	4194304	Value	ValueOutput
+Fx1 12	0	4194304	Value	ValueOutput
+Fx1 13	0	4194304	Value	ValueOutput
+Fx1 14	0	4194304	Value	ValueOutput
+Fx1 15	0	4194304	Value	ValueOutput
+Fx1 16	0	4194304	Value	ValueOutput
+Fx1 17	0	4194304	Value	ValueOutput
+Fx1 18	0	4194304	Value	ValueOutput
+Fx1 19	0	4194304	Value	ValueOutput
+Fx1 20	0	4194304	Value	ValueOutput
+Fx1 21	0	4194304	Value	ValueOutput
+Fx1 22	0	4194304	Value	ValueOutput
+Fx1 23	0	4194304	Value	ValueOutput
+Fx1 24	0	4194304	Value	ValueOutput
+Fx1 25	0	4194304	Value	ValueOutput
+Fx1 26	0	4194304	Value	ValueOutput
+Fx1 27	0	4194304	Value	ValueOutput
+Fx1 28	0	4194304	Value	ValueOutput
+Fx1 29	0	4194304	Value	ValueOutput
+Fx1 30	0	4194304	Value	ValueOutput
+Fx1 31	0	4194304	Value	ValueOutput
+Fx1 32	0	4194304	Value	ValueOutput
+Fx1 Loop Start	0	4194304	Value	ValueOutput
+Fx1 Loop End	0	4194304	Value	ValueOutput
+Fx1 Type	0	4194304	Value	ValueOutput
+Fx1 Biquad Mode____	0	4194304	Value	ValueOutput
+Fx1 Biquad Q	0	4194304	Value	ValueOutput
+Fx1 Biquad Empt____	0	4194304	Value	ValueOutput
+Fx1 Biquad Empt____	0	4194304	Value	ValueOutput
+Fx1 Comb Mode	0	4194304	Value	ValueOutput
+Fx1 Comb Q	0	4194304	Value	ValueOutput
+Fx1 Comb Empty	0	4194304	Value	ValueOutput
+Fx1 Comb Empty	0	4194304	Value	ValueOutput
+Fx1 Vowel Mode	0	4194304	Value	ValueOutput
+Fx1 Vowel Forma____	0	4194304	Value	ValueOutput
+Fx1 Vowel Filte____	0	4194304	Value	ValueOutput
+Fx1 Vowel Filte____	0	4194304	Value	ValueOutput
+Fx1 Wahwah Mode____	0	4194304	Value	ValueOutput
+Fx1 Wahwah Driv____	0	4194304	Value	ValueOutput
+Fx1 Wahwah Out	0	4194304	Value	ValueOutput
+Fx1 Wahwah Empt____	0	4194304	Value	ValueOutput
+Fx1 Redux Bits	0	4194304	Value	ValueOutput
+Fx1 Redux Jitte____	0	4194304	Value	ValueOutput
+Fx1 Redux Mix	0	4194304	Value	ValueOutput
+Fx1 Redux Empty____	0	4194304	Value	ValueOutput
+Fx1 WaveShaper ____	0	4194304	Value	ValueOutput
+Fx1 WaveShaper ____	0	4194304	Value	ValueOutput
+Fx1 WaveShaper ____	0	4194304	Value	ValueOutput
+Fx1 WaveShaper ____	0	4194304	Value	ValueOutput
+Fx1 Phasor Orde____	0	4194304	Value	ValueOutput
+Fx1 Phasor Fdbk____	0	4194304	Value	ValueOutput
+Fx1 Phasor Spre____	0	4194304	Value	ValueOutput
+Fx1 Phasor Dept____	0	4194304	Value	ValueOutput
+Fx1 Offset	0	4194304	Value	ValueOutput
+Fx1 LFO Depth	0	4194304	Value	ValueOutput
+Fx1 LFO Rate	0	4194304	Value	ValueOutput
+Fx2 Enabled	0	4194304	Value	ValueOutput
+Fx2 1	0	4194304	Value	ValueOutput
+Fx2 2	0	4194304	Value	ValueOutput
+Fx2 3	0	4194304	Value	ValueOutput
+Fx2 4	0	4194304	Value	ValueOutput
+Fx2 5	0	4194304	Value	ValueOutput
+Fx2 6	0	4194304	Value	ValueOutput
+Fx2 7	0	4194304	Value	ValueOutput
+Fx2 8	0	4194304	Value	ValueOutput
+Fx2 9	0	4194304	Value	ValueOutput
+Fx2 10	0	4194304	Value	ValueOutput
+Fx2 11	0	4194304	Value	ValueOutput
+Fx2 12	0	4194304	Value	ValueOutput
+Fx2 13	0	4194304	Value	ValueOutput
+Fx2 14	0	4194304	Value	ValueOutput
+Fx2 15	0	4194304	Value	ValueOutput
+Fx2 16	0	4194304	Value	ValueOutput
+Fx2 17	0	4194304	Value	ValueOutput
+Fx2 18	0	4194304	Value	ValueOutput
+Fx2 19	0	4194304	Value	ValueOutput
+Fx2 20	0	4194304	Value	ValueOutput
+Fx2 21	0	4194304	Value	ValueOutput
+Fx2 22	0	4194304	Value	ValueOutput
+Fx2 23	0	4194304	Value	ValueOutput
+Fx2 24	0	4194304	Value	ValueOutput
+Fx2 25	0	4194304	Value	ValueOutput
+Fx2 26	0	4194304	Value	ValueOutput
+Fx2 27	0	4194304	Value	ValueOutput
+Fx2 28	0	4194304	Value	ValueOutput
+Fx2 29	0	4194304	Value	ValueOutput
+Fx2 30	0	4194304	Value	ValueOutput
+Fx2 31	0	4194304	Value	ValueOutput
+Fx2 32	0	4194304	Value	ValueOutput
+Fx2 Loop Start	0	4194304	Value	ValueOutput
+Fx2 Loop End	0	4194304	Value	ValueOutput
+Fx2 Type	0	4194304	Value	ValueOutput
+Fx2 Biquad Mode____	0	4194304	Value	ValueOutput
+Fx2 Biquad Q	0	4194304	Value	ValueOutput
+Fx2 Biquad Empt____	0	4194304	Value	ValueOutput
+Fx2 Biquad Empt____	0	4194304	Value	ValueOutput
+Fx2 Comb Mode	0	4194304	Value	ValueOutput
+Fx2 Comb Q	0	4194304	Value	ValueOutput
+Fx2 Comb Empty	0	4194304	Value	ValueOutput
+Fx2 Comb Empty	0	4194304	Value	ValueOutput
+Fx2 Vowel Mode	0	4194304	Value	ValueOutput
+Fx2 Vowel Forma____	0	4194304	Value	ValueOutput
+Fx2 Vowel Filte____	0	4194304	Value	ValueOutput
+Fx2 Vowel Filte____	0	4194304	Value	ValueOutput
+Fx2 Wahwah Mode____	0	4194304	Value	ValueOutput
+Fx2 Wahwah Driv____	0	4194304	Value	ValueOutput
+Fx2 Wahwah Out	0	4194304	Value	ValueOutput
+Fx2 Wahwah Empt____	0	4194304	Value	ValueOutput
+Fx2 Redux Bits	0	4194304	Value	ValueOutput
+Fx2 Redux Jitte____	0	4194304	Value	ValueOutput
+Fx2 Redux Mix	0	4194304	Value	ValueOutput
+Fx2 Redux Empty____	0	4194304	Value	ValueOutput
+Fx2 WaveShaper ____	0	4194304	Value	ValueOutput
+Fx2 WaveShaper ____	0	4194304	Value	ValueOutput
+Fx2 WaveShaper ____	0	4194304	Value	ValueOutput
+Fx2 WaveShaper ____	0	4194304	Value	ValueOutput
+Fx2 Phasor Orde____	0	4194304	Value	ValueOutput
+Fx2 Phasor Fdbk____	0	4194304	Value	ValueOutput
+Fx2 Phasor Spre____	0	4194304	Value	ValueOutput
+Fx2 Phasor Dept____	0	4194304	Value	ValueOutput
+Fx2 Offset	0	4194304	Value	ValueOutput
+Fx2 LFO Depth	0	4194304	Value	ValueOutput
+Fx2 LFO Rate	0	4194304	Value	ValueOutput
+Diffusion On/Of____	0	4194304	Value	ValueOutput
+Diffusion Start____	0	4194304	Value	ValueOutput
+Diffusion Amoun____	0	4194304	Value	ValueOutput
+Ducker Bypass	0	4194304	Value	ValueOutput
+Ducker Threshol____	0	4194304	Value	ValueOutput
+Ducker Attenuat____	0	4194304	Value	ValueOutput
+Ducker Attack	0	4194304	Value	ValueOutput
+Ducker Hold	0	4194304	Value	ValueOutput
+Ducker Decay	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

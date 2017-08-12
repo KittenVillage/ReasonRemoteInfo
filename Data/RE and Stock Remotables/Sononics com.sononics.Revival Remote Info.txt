@@ -1,0 +1,362 @@
+Scope
+Manufacturer	Model
+Sononics	com.sononics.Revival
+
+Remotable	Min	Max	Input type	Output type
+Volume	0	4194304	Value	ValueOutput
+FX Limiter Enable	0	1	Toggle	ValueOutput
+FX Preamp Enable	0	1	Toggle	ValueOutput
+FX Preamp Type	0	5	Value	ValueOutput
+FX Preamp Drive	0	4194304	Value	ValueOutput
+FX Preamp Tone	0	4194304	Value	ValueOutput
+FX Preamp Post-FX	0	1	Toggle	ValueOutput
+FX Preamp Swell	0	4194304	Value	ValueOutput
+FX Phaser Enable	0	1	Toggle	ValueOutput
+FX Phaser Type	0	2	Value	ValueOutput
+FX Phaser Rate	0	4194304	Value	ValueOutput
+FX Phaser Depth	0	4194304	Value	ValueOutput
+FX Phaser Feedback	0	4194304	Value	ValueOutput
+FX ModFilter Enable	0	1	Toggle	ValueOutput
+FX ModFilter Type	0	10	Value	ValueOutput
+FX ModFilter Frequency	0	4194304	Value	ValueOutput
+FX ModFilter Resonance	0	4194304	Value	ValueOutput
+FX ModFilter Sync Type	0	3	Value	ValueOutput
+FX ModFilter LFO Depth	0	4194304	Value	ValueOutput
+FX ModFilter LFO Rate	0	4194304	Value	ValueOutput
+FX ModFilter LFO Synced-Rate	0	10	Value	ValueOutput
+FX ModFilter LFO Wave	0	4	Value	ValueOutput
+FX Speaker Enable	0	1	Toggle	ValueOutput
+FX Speaker Type	0	14	Value	ValueOutput
+FX Speaker Rotator Amount	0	4194304	Value	ValueOutput
+FX Speaker Rotator Balance	0	4194304	Value	ValueOutput
+FX Speaker Rotator Air	0	4194304	Value	ValueOutput
+FX Speaker Pan	0	4194304	Value	ValueOutput
+FX Reverb Enable	0	1	Toggle	ValueOutput
+FX Reverb Type	0	8	Value	ValueOutput
+FX Reverb Pre-Delay	0	4194304	Value	ValueOutput
+FX Reverb L/R Pos	0	4194304	Value	ValueOutput
+FX Reverb Time	0	4194304	Value	ValueOutput
+FX Reverb Depth	0	4194304	Value	ValueOutput
+FX Delay Enable	0	1	Toggle	ValueOutput
+FX Delay Type	0	6	Value	ValueOutput
+FX Delay Time	0	4194304	Value	ValueOutput
+FX Delay Depth	0	4194304	Value	ValueOutput
+FX Delay Feedback	0	4194304	Value	ValueOutput
+FX Delay High-Frequency	0	4194304	Value	ValueOutput
+Voicing Overtone Type	0	5	Value	ValueOutput
+Voicing Overlay Type	0	7	Value	ValueOutput
+Voicing Velocity Type	0	2	Value	ValueOutput
+Voicing Click Type	0	5	Value	ValueOutput
+Voicing Monophonic Mode	0	1	Toggle	ValueOutput
+Voicing Transpose Amount	0	48	Value	ValueOutput
+Voicing Pitch Bend Range	0	11	Value	ValueOutput
+Voicing Attack First/All	0	4194304	Value	ValueOutput
+Voicing Portamento Rate	0	4194304	Value	ValueOutput
+Voicing Portamento Mode	0	3	Value	ValueOutput
+Voicing Velocity Sensitivity	0	4194304	Value	ValueOutput
+Voicing Chorus Depth	0	4194304	Value	ValueOutput
+Voicing Decay Keyboard Track	0	4194304	Value	ValueOutput
+Voicing Vibrato Depth	0	4194304	Value	ValueOutput
+Voicing Tremolo Depth	0	4194304	Value	ValueOutput
+Voicing Vibrato/Tremolo Rate	0	4194304	Value	ValueOutput
+Attack Section Click	0	4194304	Value	ValueOutput
+Attack Section Attack Rate	0	4194304	Value	ValueOutput
+Attack Section Decay Rate	0	4194304	Value	ValueOutput
+Attack Section Gain Adjust	0	4194304	Value	ValueOutput
+Attack Section FX Bypass	0	1	Toggle	ValueOutput
+Primary Section Decay Rate	0	4194304	Value	ValueOutput
+Primary Section Gain Adjust	0	4194304	Value	ValueOutput
+Secondary Section Decay Rate	0	4194304	Value	ValueOutput
+Secondary Section Gain Adjust	0	4194304	Value	ValueOutput
+Release Section Click	0	4194304	Value	ValueOutput
+Release Section Attack Rate	0	4194304	Value	ValueOutput
+Release Section Decay Rate	0	4194304	Value	ValueOutput
+Release Section Gain Adjust	0	4194304	Value	ValueOutput
+Release Decay All Sections	0	1	Toggle	ValueOutput
+Pri/Sec Fade Mode	0	1	Toggle	ValueOutput
+Pri/Sec AutoFade Type	0	5	Value	ValueOutput
+Pri/Sec AutoFade CrossFade	0	4194304	Value	ValueOutput
+Pri/Sec AutoFade Rate	0	4194304	Value	ValueOutput
+Pri/Sec Keep Primary	0	1	Toggle	ValueOutput
+Attack Wave Set	0	16	Value	ValueOutput
+Primary Wave Set	0	16	Value	ValueOutput
+Secondary Wave Set	0	16	Value	ValueOutput
+Release Wave Set	0	16	Value	ValueOutput
+Attack Drawbar 1	0	4194304	Value	ValueOutput
+Attack Drawbar 2	0	4194304	Value	ValueOutput
+Attack Drawbar 3	0	4194304	Value	ValueOutput
+Attack Drawbar 4	0	4194304	Value	ValueOutput
+Attack Drawbar 5	0	4194304	Value	ValueOutput
+Attack Drawbar 6	0	4194304	Value	ValueOutput
+Attack Drawbar 7	0	4194304	Value	ValueOutput
+Attack Drawbar 8	0	4194304	Value	ValueOutput
+Attack Drawbar 9	0	4194304	Value	ValueOutput
+Attack Drawbar 10	0	4194304	Value	ValueOutput
+Primary Drawbar 1	0	4194304	Value	ValueOutput
+Primary Drawbar 2	0	4194304	Value	ValueOutput
+Primary Drawbar 3	0	4194304	Value	ValueOutput
+Primary Drawbar 4	0	4194304	Value	ValueOutput
+Primary Drawbar 5	0	4194304	Value	ValueOutput
+Primary Drawbar 6	0	4194304	Value	ValueOutput
+Primary Drawbar 7	0	4194304	Value	ValueOutput
+Primary Drawbar 8	0	4194304	Value	ValueOutput
+Primary Drawbar 9	0	4194304	Value	ValueOutput
+Primary Drawbar 10	0	4194304	Value	ValueOutput
+Secondary Drawbar 1	0	4194304	Value	ValueOutput
+Secondary Drawbar 2	0	4194304	Value	ValueOutput
+Secondary Drawbar 3	0	4194304	Value	ValueOutput
+Secondary Drawbar 4	0	4194304	Value	ValueOutput
+Secondary Drawbar 5	0	4194304	Value	ValueOutput
+Secondary Drawbar 6	0	4194304	Value	ValueOutput
+Secondary Drawbar 7	0	4194304	Value	ValueOutput
+Secondary Drawbar 8	0	4194304	Value	ValueOutput
+Secondary Drawbar 9	0	4194304	Value	ValueOutput
+Secondary Drawbar 10	0	4194304	Value	ValueOutput
+Release Drawbar 1	0	4194304	Value	ValueOutput
+Release Drawbar 2	0	4194304	Value	ValueOutput
+Release Drawbar 3	0	4194304	Value	ValueOutput
+Release Drawbar 4	0	4194304	Value	ValueOutput
+Release Drawbar 5	0	4194304	Value	ValueOutput
+Release Drawbar 6	0	4194304	Value	ValueOutput
+Release Drawbar 7	0	4194304	Value	ValueOutput
+Release Drawbar 8	0	4194304	Value	ValueOutput
+Release Drawbar 9	0	4194304	Value	ValueOutput
+Release Drawbar 10	0	4194304	Value	ValueOutput
+Attack Mod1 Type	0	14	Value	ValueOutput
+Attack Mod1 Animation Type	0	22	Value	ValueOutput
+Attack Mod1 Enable 1	0	1	Toggle	ValueOutput
+Attack Mod1 Enable 2	0	1	Toggle	ValueOutput
+Attack Mod1 Enable 3	0	1	Toggle	ValueOutput
+Attack Mod1 Enable 4	0	1	Toggle	ValueOutput
+Attack Mod1 Enable 5	0	1	Toggle	ValueOutput
+Attack Mod1 Enable 6	0	1	Toggle	ValueOutput
+Attack Mod1 Enable 7	0	1	Toggle	ValueOutput
+Attack Mod1 Enable 8	0	1	Toggle	ValueOutput
+Attack Mod1 Enable 9	0	1	Toggle	ValueOutput
+Attack Mod1 Enable 10	0	1	Toggle	ValueOutput
+Attack Mod1 Amount	0	4194304	Value	ValueOutput
+Attack Mod1 Tone	0	4194304	Value	ValueOutput
+Attack Mod1 Note Scale	0	4194304	Value	ValueOutput
+Attack Mod1 Velocity Scale	0	4194304	Value	ValueOutput
+Attack Mod1 Animation Amount	0	4194304	Value	ValueOutput
+Attack Mod1 Animation Rate	0	4194304	Value	ValueOutput
+Attack Mod2 Type	0	14	Value	ValueOutput
+Attack Mod2 Animation Type	0	22	Value	ValueOutput
+Attack Mod2 Enable 1	0	1	Toggle	ValueOutput
+Attack Mod2 Enable 2	0	1	Toggle	ValueOutput
+Attack Mod2 Enable 3	0	1	Toggle	ValueOutput
+Attack Mod2 Enable 4	0	1	Toggle	ValueOutput
+Attack Mod2 Enable 5	0	1	Toggle	ValueOutput
+Attack Mod2 Enable 6	0	1	Toggle	ValueOutput
+Attack Mod2 Enable 7	0	1	Toggle	ValueOutput
+Attack Mod2 Enable 8	0	1	Toggle	ValueOutput
+Attack Mod2 Enable 9	0	1	Toggle	ValueOutput
+Attack Mod2 Enable 10	0	1	Toggle	ValueOutput
+Attack Mod2 Amount	0	4194304	Value	ValueOutput
+Attack Mod2 Tone	0	4194304	Value	ValueOutput
+Attack Mod2 Note Scale	0	4194304	Value	ValueOutput
+Attack Mod2 Velocity Scale	0	4194304	Value	ValueOutput
+Attack Mod2 Animation Amount	0	4194304	Value	ValueOutput
+Attack Mod2 Animation Rate	0	4194304	Value	ValueOutput
+Attack Mod3 Type	0	14	Value	ValueOutput
+Attack Mod3 Animation Type	0	22	Value	ValueOutput
+Attack Mod3 Enable 1	0	1	Toggle	ValueOutput
+Attack Mod3 Enable 2	0	1	Toggle	ValueOutput
+Attack Mod3 Enable 3	0	1	Toggle	ValueOutput
+Attack Mod3 Enable 4	0	1	Toggle	ValueOutput
+Attack Mod3 Enable 5	0	1	Toggle	ValueOutput
+Attack Mod3 Enable 6	0	1	Toggle	ValueOutput
+Attack Mod3 Enable 7	0	1	Toggle	ValueOutput
+Attack Mod3 Enable 8	0	1	Toggle	ValueOutput
+Attack Mod3 Enable 9	0	1	Toggle	ValueOutput
+Attack Mod3 Enable 10	0	1	Toggle	ValueOutput
+Attack Mod3 Amount	0	4194304	Value	ValueOutput
+Attack Mod3 Tone	0	4194304	Value	ValueOutput
+Attack Mod3 Note Scale	0	4194304	Value	ValueOutput
+Attack Mod3 Velocity Scale	0	4194304	Value	ValueOutput
+Attack Mod3 Animation Amount	0	4194304	Value	ValueOutput
+Attack Mod3 Animation Rate	0	4194304	Value	ValueOutput
+Primary Mod1 Type	0	14	Value	ValueOutput
+Primary Mod1 Animation Type	0	22	Value	ValueOutput
+Primary Mod1 Enable 1	0	1	Toggle	ValueOutput
+Primary Mod1 Enable 2	0	1	Toggle	ValueOutput
+Primary Mod1 Enable 3	0	1	Toggle	ValueOutput
+Primary Mod1 Enable 4	0	1	Toggle	ValueOutput
+Primary Mod1 Enable 5	0	1	Toggle	ValueOutput
+Primary Mod1 Enable 6	0	1	Toggle	ValueOutput
+Primary Mod1 Enable 7	0	1	Toggle	ValueOutput
+Primary Mod1 Enable 8	0	1	Toggle	ValueOutput
+Primary Mod1 Enable 9	0	1	Toggle	ValueOutput
+Primary Mod1 Enable 10	0	1	Toggle	ValueOutput
+Primary Mod1 Amount	0	4194304	Value	ValueOutput
+Primary Mod1 Tone	0	4194304	Value	ValueOutput
+Primary Mod1 Note Scale	0	4194304	Value	ValueOutput
+Primary Mod1 Velocity Scale	0	4194304	Value	ValueOutput
+Primary Mod1 Animation Amount	0	4194304	Value	ValueOutput
+Primary Mod1 Animation Rate	0	4194304	Value	ValueOutput
+Primary Mod2 Type	0	14	Value	ValueOutput
+Primary Mod2 Animation Type	0	22	Value	ValueOutput
+Primary Mod2 Enable 1	0	1	Toggle	ValueOutput
+Primary Mod2 Enable 2	0	1	Toggle	ValueOutput
+Primary Mod2 Enable 3	0	1	Toggle	ValueOutput
+Primary Mod2 Enable 4	0	1	Toggle	ValueOutput
+Primary Mod2 Enable 5	0	1	Toggle	ValueOutput
+Primary Mod2 Enable 6	0	1	Toggle	ValueOutput
+Primary Mod2 Enable 7	0	1	Toggle	ValueOutput
+Primary Mod2 Enable 8	0	1	Toggle	ValueOutput
+Primary Mod2 Enable 9	0	1	Toggle	ValueOutput
+Primary Mod2 Enable 10	0	1	Toggle	ValueOutput
+Primary Mod2 Amount	0	4194304	Value	ValueOutput
+Primary Mod2 Tone	0	4194304	Value	ValueOutput
+Primary Mod2 Note Scale	0	4194304	Value	ValueOutput
+Primary Mod2 Velocity Scale	0	4194304	Value	ValueOutput
+Primary Mod2 Animation Amount	0	4194304	Value	ValueOutput
+Primary Mod2 Animation Rate	0	4194304	Value	ValueOutput
+Primary Mod3 Type	0	14	Value	ValueOutput
+Primary Mod3 Animation Type	0	22	Value	ValueOutput
+Primary Mod3 Enable 1	0	1	Toggle	ValueOutput
+Primary Mod3 Enable 2	0	1	Toggle	ValueOutput
+Primary Mod3 Enable 3	0	1	Toggle	ValueOutput
+Primary Mod3 Enable 4	0	1	Toggle	ValueOutput
+Primary Mod3 Enable 5	0	1	Toggle	ValueOutput
+Primary Mod3 Enable 6	0	1	Toggle	ValueOutput
+Primary Mod3 Enable 7	0	1	Toggle	ValueOutput
+Primary Mod3 Enable 8	0	1	Toggle	ValueOutput
+Primary Mod3 Enable 9	0	1	Toggle	ValueOutput
+Primary Mod3 Enable 10	0	1	Toggle	ValueOutput
+Primary Mod3 Amount	0	4194304	Value	ValueOutput
+Primary Mod3 Tone	0	4194304	Value	ValueOutput
+Primary Mod3 Note Scale	0	4194304	Value	ValueOutput
+Primary Mod3 Velocity Scale	0	4194304	Value	ValueOutput
+Primary Mod3 Animation Amount	0	4194304	Value	ValueOutput
+Primary Mod3 Animation Rate	0	4194304	Value	ValueOutput
+Secondary Mod1 Type	0	14	Value	ValueOutput
+Secondary Mod1 Animation Type	0	22	Value	ValueOutput
+Secondary Mod1 Enable 1	0	1	Toggle	ValueOutput
+Secondary Mod1 Enable 2	0	1	Toggle	ValueOutput
+Secondary Mod1 Enable 3	0	1	Toggle	ValueOutput
+Secondary Mod1 Enable 4	0	1	Toggle	ValueOutput
+Secondary Mod1 Enable 5	0	1	Toggle	ValueOutput
+Secondary Mod1 Enable 6	0	1	Toggle	ValueOutput
+Secondary Mod1 Enable 7	0	1	Toggle	ValueOutput
+Secondary Mod1 Enable 8	0	1	Toggle	ValueOutput
+Secondary Mod1 Enable 9	0	1	Toggle	ValueOutput
+Secondary Mod1 Enable 10	0	1	Toggle	ValueOutput
+Secondary Mod1 Amount	0	4194304	Value	ValueOutput
+Secondary Mod1 Tone	0	4194304	Value	ValueOutput
+Secondary Mod1 Note Scale	0	4194304	Value	ValueOutput
+Secondary Mod1 Velocity Scale	0	4194304	Value	ValueOutput
+Secondary Mod1 Animation Amount	0	4194304	Value	ValueOutput
+Secondary Mod1 Animation Rate	0	4194304	Value	ValueOutput
+Secondary Mod2 Type	0	14	Value	ValueOutput
+Secondary Mod2 Animation Type	0	22	Value	ValueOutput
+Secondary Mod2 Enable 1	0	1	Toggle	ValueOutput
+Secondary Mod2 Enable 2	0	1	Toggle	ValueOutput
+Secondary Mod2 Enable 3	0	1	Toggle	ValueOutput
+Secondary Mod2 Enable 4	0	1	Toggle	ValueOutput
+Secondary Mod2 Enable 5	0	1	Toggle	ValueOutput
+Secondary Mod2 Enable 6	0	1	Toggle	ValueOutput
+Secondary Mod2 Enable 7	0	1	Toggle	ValueOutput
+Secondary Mod2 Enable 8	0	1	Toggle	ValueOutput
+Secondary Mod2 Enable 9	0	1	Toggle	ValueOutput
+Secondary Mod2 Enable 10	0	1	Toggle	ValueOutput
+Secondary Mod2 Amount	0	4194304	Value	ValueOutput
+Secondary Mod2 Tone	0	4194304	Value	ValueOutput
+Secondary Mod2 Note Scale	0	4194304	Value	ValueOutput
+Secondary Mod2 Velocity Scale	0	4194304	Value	ValueOutput
+Secondary Mod2 Animation Amount	0	4194304	Value	ValueOutput
+Secondary Mod2 Animation Rate	0	4194304	Value	ValueOutput
+Secondary Mod3 Type	0	14	Value	ValueOutput
+Secondary Mod3 Animation Type	0	22	Value	ValueOutput
+Secondary Mod3 Enable 1	0	1	Toggle	ValueOutput
+Secondary Mod3 Enable 2	0	1	Toggle	ValueOutput
+Secondary Mod3 Enable 3	0	1	Toggle	ValueOutput
+Secondary Mod3 Enable 4	0	1	Toggle	ValueOutput
+Secondary Mod3 Enable 5	0	1	Toggle	ValueOutput
+Secondary Mod3 Enable 6	0	1	Toggle	ValueOutput
+Secondary Mod3 Enable 7	0	1	Toggle	ValueOutput
+Secondary Mod3 Enable 8	0	1	Toggle	ValueOutput
+Secondary Mod3 Enable 9	0	1	Toggle	ValueOutput
+Secondary Mod3 Enable 10	0	1	Toggle	ValueOutput
+Secondary Mod3 Amount	0	4194304	Value	ValueOutput
+Secondary Mod3 Tone	0	4194304	Value	ValueOutput
+Secondary Mod3 Note Scale	0	4194304	Value	ValueOutput
+Secondary Mod3 Velocity Scale	0	4194304	Value	ValueOutput
+Secondary Mod3 Animation Amount	0	4194304	Value	ValueOutput
+Secondary Mod3 Animation Rate	0	4194304	Value	ValueOutput
+Release Mod1 Type	0	14	Value	ValueOutput
+Release Mod1 Animation Type	0	22	Value	ValueOutput
+Release Mod1 Enable 1	0	1	Toggle	ValueOutput
+Release Mod1 Enable 2	0	1	Toggle	ValueOutput
+Release Mod1 Enable 3	0	1	Toggle	ValueOutput
+Release Mod1 Enable 4	0	1	Toggle	ValueOutput
+Release Mod1 Enable 5	0	1	Toggle	ValueOutput
+Release Mod1 Enable 6	0	1	Toggle	ValueOutput
+Release Mod1 Enable 7	0	1	Toggle	ValueOutput
+Release Mod1 Enable 8	0	1	Toggle	ValueOutput
+Release Mod1 Enable 9	0	1	Toggle	ValueOutput
+Release Mod1 Enable 10	0	1	Toggle	ValueOutput
+Release Mod1 Amount	0	4194304	Value	ValueOutput
+Release Mod1 Tone	0	4194304	Value	ValueOutput
+Release Mod1 Note Scale	0	4194304	Value	ValueOutput
+Release Mod1 Animation Amount	0	4194304	Value	ValueOutput
+Release Mod1 Animation Rate	0	4194304	Value	ValueOutput
+Release Mod2 Type	0	14	Value	ValueOutput
+Release Mod2 Animation Type	0	22	Value	ValueOutput
+Release Mod2 Enable 1	0	1	Toggle	ValueOutput
+Release Mod2 Enable 2	0	1	Toggle	ValueOutput
+Release Mod2 Enable 3	0	1	Toggle	ValueOutput
+Release Mod2 Enable 4	0	1	Toggle	ValueOutput
+Release Mod2 Enable 5	0	1	Toggle	ValueOutput
+Release Mod2 Enable 6	0	1	Toggle	ValueOutput
+Release Mod2 Enable 7	0	1	Toggle	ValueOutput
+Release Mod2 Enable 8	0	1	Toggle	ValueOutput
+Release Mod2 Enable 9	0	1	Toggle	ValueOutput
+Release Mod2 Enable 10	0	1	Toggle	ValueOutput
+Release Mod2 Amount	0	4194304	Value	ValueOutput
+Release Mod2 Tone	0	4194304	Value	ValueOutput
+Release Mod2 Note Scale	0	4194304	Value	ValueOutput
+Release Mod2 Animation Amount	0	4194304	Value	ValueOutput
+Release Mod2 Animation Rate	0	4194304	Value	ValueOutput
+Release Mod3 Type	0	14	Value	ValueOutput
+Release Mod3 Animation Type	0	22	Value	ValueOutput
+Release Mod3 Enable 1	0	1	Toggle	ValueOutput
+Release Mod3 Enable 2	0	1	Toggle	ValueOutput
+Release Mod3 Enable 3	0	1	Toggle	ValueOutput
+Release Mod3 Enable 4	0	1	Toggle	ValueOutput
+Release Mod3 Enable 5	0	1	Toggle	ValueOutput
+Release Mod3 Enable 6	0	1	Toggle	ValueOutput
+Release Mod3 Enable 7	0	1	Toggle	ValueOutput
+Release Mod3 Enable 8	0	1	Toggle	ValueOutput
+Release Mod3 Enable 9	0	1	Toggle	ValueOutput
+Release Mod3 Enable 10	0	1	Toggle	ValueOutput
+Release Mod3 Amount	0	4194304	Value	ValueOutput
+Release Mod3 Tone	0	4194304	Value	ValueOutput
+Release Mod3 Note Scale	0	4194304	Value	ValueOutput
+Release Mod3 Animation Amount	0	4194304	Value	ValueOutput
+Release Mod3 Animation Rate	0	4194304	Value	ValueOutput
+Attack Section Solo	0	1	Toggle	ValueOutput
+Primary Section Solo	0	1	Toggle	ValueOutput
+Secondary Section Solo	0	1	Toggle	ValueOutput
+Release Section Solo	0	1	Toggle	ValueOutput
+Drawbar Solo	0	40	Value	ValueOutput
+Attack Enable Switch	0	1	Toggle	ValueOutput
+Vib/Trem Enable Switch	0	1	Toggle	ValueOutput
+S1 Switch	0	1	Toggle	ValueOutput
+S2 Switch	0	1	Toggle	ValueOutput
+R1 Knob	0	4194304	Value	ValueOutput
+R2 Knob	0	4194304	Value	ValueOutput
+Rotator Speed Switch	0	1	Toggle	ValueOutput
+Rotator Brake Switch	0	1	Toggle	ValueOutput
+FX Limiter Threshold	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

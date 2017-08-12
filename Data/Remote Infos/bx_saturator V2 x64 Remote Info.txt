@@ -1,0 +1,69 @@
+Scope
+Manufacturer	Model
+Plugin Alliance	vst.bxa2.bx_saturator V2 x64
+Note: Will match scope definitions for vst.bxa2.bx_saturator V2 x64 or vst.bxa2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Bank	0	4194304	Value	ValueOutput
+OpGnMOn	0	4194304	Value	ValueOutput
+OpGainM	0	4194304	Value	ValueOutput
+OpGnSOn	0	4194304	Value	ValueOutput
+OpGainS	0	4194304	Value	ValueOutput
+LnkInGns	0	4194304	Value	ValueOutput
+LnkCross	0	4194304	Value	ValueOutput
+MstrXLOn	0	4194304	Value	ValueOutput
+MasterXL	0	4194304	Value	ValueOutput
+MLoXLOn	0	4194304	Value	ValueOutput
+MidLoXL	0	4194304	Value	ValueOutput
+MHiXLOn	0	4194304	Value	ValueOutput
+MidHiXL	0	4194304	Value	ValueOutput
+MCrossov	0	4194304	Value	ValueOutput
+Mid Solo	0	4194304	Value	ValueOutput
+MLoSolo	0	4194304	Value	ValueOutput
+MHiSolo	0	4194304	Value	ValueOutput
+SLoXLOn	0	4194304	Value	ValueOutput
+SideLoXL	0	4194304	Value	ValueOutput
+SHiXLOn	0	4194304	Value	ValueOutput
+SideHiXL	0	4194304	Value	ValueOutput
+SCrossov	0	4194304	Value	ValueOutput
+SideSolo	0	4194304	Value	ValueOutput
+SLoSolo	0	4194304	Value	ValueOutput
+SHiSolo	0	4194304	Value	ValueOutput
+MLoGain	0	4194304	Value	ValueOutput
+MLGnMd	0	4194304	Value	ValueOutput
+MHiGain	0	4194304	Value	ValueOutput
+MHGnMd	0	4194304	Value	ValueOutput
+SLoGain	0	4194304	Value	ValueOutput
+SLGnMd	0	4194304	Value	ValueOutput
+SHiGain	0	4194304	Value	ValueOutput
+MHGnMd	0	4194304	Value	ValueOutput
+MstrDrv	0	4194304	Value	ValueOutput
+MLoDrive	0	4194304	Value	ValueOutput
+MHiDrive	0	4194304	Value	ValueOutput
+SLoDrive	0	4194304	Value	ValueOutput
+SHiDrive	0	4194304	Value	ValueOutput
+MLoDrvCp	0	4194304	Value	ValueOutput
+MHiDrvCp	0	4194304	Value	ValueOutput
+SLoDrvCp	0	4194304	Value	ValueOutput
+SHiDrvCp	0	4194304	Value	ValueOutput
+MonoMkr	0	4194304	Value	ValueOutput
+MMkOn	0	4194304	Value	ValueOutput
+AutoSolo	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

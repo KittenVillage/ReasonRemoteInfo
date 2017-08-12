@@ -1,0 +1,38 @@
+Scope
+Manufacturer	Model
+Waves	vst.IMPM.WaveShell-VST 9_91_x64.IMPusher Mono
+Note: Will match scope definitions for vst.IMPM.WaveShell-VST 9_91_x64.IMPusher Mono or vst.IMPM
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input	0	4194304	Value	ValueOutput
+In/Out Low	0	4194304	Value	ValueOutput
+Low	0	4194304	Value	ValueOutput
+Low Note	0	4194304	Value	ValueOutput
+Body	0	4194304	Value	ValueOutput
+In/Out Body	0	4194304	Value	ValueOutput
+In/Out Magic	0	4194304	Value	ValueOutput
+Magic	0	4194304	Value	ValueOutput
+Focus	0	4194304	Value	ValueOutput
+Dyn Punch	0	4194304	Value	ValueOutput
+High	0	4194304	Value	ValueOutput
+In/Out High	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Push	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

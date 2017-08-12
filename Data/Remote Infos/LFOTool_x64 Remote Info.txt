@@ -1,0 +1,93 @@
+Scope
+Manufacturer	Model
+Xfer Records	vst.XffO.LFOTool_x64
+Note: Will match scope definitions for vst.XffO.LFOTool_x64 or vst.XffO
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Rate	0	4194304	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+PWM	0	4194304	Value	ValueOutput
+>cut	0	4194304	Value	ValueOutput
+>res	0	4194304	Value	ValueOutput
+>vol	0	4194304	Value	ValueOutput
+>pan	0	4194304	Value	ValueOutput
+>var	0	4194304	Value	ValueOutput
+BPMSync	0	4194304	Value	ValueOutput
+Dotted	0	4194304	Value	ValueOutput
+Triplet	0	4194304	Value	ValueOutput
+F.Cutoff	0	4194304	Value	ValueOutput
+F.Reso	0	4194304	Value	ValueOutput
+F.On Off	0	4194304	Value	ValueOutput
+F.Drive	0	4194304	Value	ValueOutput
+Smooth	0	4194304	Value	ValueOutput
+In>Rerig	0	4194304	Value	ValueOutput
+In>Gate	0	4194304	Value	ValueOutput
+InVel>PW	0	4194304	Value	ValueOutput
+In>Rate	0	4194304	Value	ValueOutput
+LFOn>Fil	0	4194304	Value	ValueOutput
+LFOn>Res	0	4194304	Value	ValueOutput
+LFOn>Vol	0	4194304	Value	ValueOutput
+LFOn>Pan	0	4194304	Value	ValueOutput
+LFOn>Var	0	4194304	Value	ValueOutput
+Warp 01	0	4194304	Value	ValueOutput
+Warp 02	0	4194304	Value	ValueOutput
+Warp 03	0	4194304	Value	ValueOutput
+Warp 04	0	4194304	Value	ValueOutput
+Warp 05	0	4194304	Value	ValueOutput
+Warp 06	0	4194304	Value	ValueOutput
+Warp 07	0	4194304	Value	ValueOutput
+Warp 08	0	4194304	Value	ValueOutput
+Warp 09	0	4194304	Value	ValueOutput
+Warp 0:	0	4194304	Value	ValueOutput
+Warp 11	0	4194304	Value	ValueOutput
+Warp 12	0	4194304	Value	ValueOutput
+LFO Depth	0	4194304	Value	ValueOutput
+VF Var	0	4194304	Value	ValueOutput
+VF Mix	0	4194304	Value	ValueOutput
+Timing	0	4194304	Value	ValueOutput
+Point Y0	0	4194304	Value	ValueOutput
+Point X0	0	4194304	Value	ValueOutput
+Curve  1	0	4194304	Value	ValueOutput
+Point Y1	0	4194304	Value	ValueOutput
+Point X1	0	4194304	Value	ValueOutput
+Curve  2	0	4194304	Value	ValueOutput
+Point Y2	0	4194304	Value	ValueOutput
+Point X2	0	4194304	Value	ValueOutput
+Curve  3	0	4194304	Value	ValueOutput
+Point Y3	0	4194304	Value	ValueOutput
+Point X3	0	4194304	Value	ValueOutput
+Curve  4	0	4194304	Value	ValueOutput
+Point Y4	0	4194304	Value	ValueOutput
+Point X4	0	4194304	Value	ValueOutput
+Curve  5	0	4194304	Value	ValueOutput
+Point Y5	0	4194304	Value	ValueOutput
+Point X5	0	4194304	Value	ValueOutput
+Curve  6	0	4194304	Value	ValueOutput
+Point Y6	0	4194304	Value	ValueOutput
+Point X6	0	4194304	Value	ValueOutput
+Curve  7	0	4194304	Value	ValueOutput
+Point Y7	0	4194304	Value	ValueOutput
+Point X7	0	4194304	Value	ValueOutput
+Curve  8	0	4194304	Value	ValueOutput
+FilType	0	4194304	Value	ValueOutput
+Xov On	0	4194304	Value	ValueOutput
+Xov Inv	0	4194304	Value	ValueOutput
+Xov Freq	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

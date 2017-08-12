@@ -1,0 +1,21 @@
+Scope
+Manufacturer	Model
+Unfiltered Audio	com.unfilteredaudio.Renoun
+
+Remotable	Min	Max	Input type	Output type
+Volume	0	4194304	Value	ValueOutput
+Bandwidth	0	4194304	Value	ValueOutput
+Damping	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Tail	0	4194304	Value	ValueOutput
+Diffuse	0	4194304	Value	ValueOutput
+Mod_Amount	0	4194304	Value	ValueOutput
+Mod_Speed	0	4194304	Value	ValueOutput
+Predelay	0	4194304	Value	ValueOutput
+Wet	0	4194304	Value	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

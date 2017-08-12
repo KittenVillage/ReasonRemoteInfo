@@ -1,0 +1,213 @@
+Scope
+Manufacturer	Model
+XLN Audio	vst.xaAT.Addictive Trigger
+Note: Will match scope definitions for vst.xaAT.Addictive Trigger or vst.xaAT
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Trig Input Gain	0	4194304	Value	ValueOutput
+Trig Threshold	0	4194304	Value	ValueOutput
+Trig Sensitivity	0	4194304	Value	ValueOutput
+Trig Hold Time	0	4194304	Value	ValueOutput
+Trig Blend	0	4194304	Value	ValueOutput
+Kick Solo	0	4194304	Value	ValueOutput
+Kick Mute	0	4194304	Value	ValueOutput
+Kick Level	0	4194304	Value	ValueOutput
+Kick OH Level	0	4194304	Value	ValueOutput
+Kick OH Pan	0	4194304	Value	ValueOutput
+Kick OH Width	0	4194304	Value	ValueOutput
+Kick RM Level	0	4194304	Value	ValueOutput
+Kick RM Pan	0	4194304	Value	ValueOutput
+Kick RM Width	0	4194304	Value	ValueOutput
+Kick PitchMain	0	4194304	Value	ValueOutput
+Kick PitchOhRm	0	4194304	Value	ValueOutput
+Kick Filter Lo	0	4194304	Value	ValueOutput
+Kick Filter Hi	0	4194304	Value	ValueOutput
+Snare Solo	0	4194304	Value	ValueOutput
+Snare Mute	0	4194304	Value	ValueOutput
+Snare Level	0	4194304	Value	ValueOutput
+Snare OH Level	0	4194304	Value	ValueOutput
+Snare OH Pan	0	4194304	Value	ValueOutput
+Snare OH Width	0	4194304	Value	ValueOutput
+Snare RM Level	0	4194304	Value	ValueOutput
+Snare RM Pan	0	4194304	Value	ValueOutput
+Snare RM Width	0	4194304	Value	ValueOutput
+Snare PitchMain	0	4194304	Value	ValueOutput
+Snare PitchOhRm	0	4194304	Value	ValueOutput
+Snare Filter Lo	0	4194304	Value	ValueOutput
+Snare Filter Hi	0	4194304	Value	ValueOutput
+Tom 1 Solo	0	4194304	Value	ValueOutput
+Tom 1 Mute	0	4194304	Value	ValueOutput
+Tom 1 Level	0	4194304	Value	ValueOutput
+Tom 1 OH Level	0	4194304	Value	ValueOutput
+Tom 1 OH Pan	0	4194304	Value	ValueOutput
+Tom 1 OH Width	0	4194304	Value	ValueOutput
+Tom 1 RM Level	0	4194304	Value	ValueOutput
+Tom 1 RM Pan	0	4194304	Value	ValueOutput
+Tom 1 RM Width	0	4194304	Value	ValueOutput
+Tom 1 PitchMain	0	4194304	Value	ValueOutput
+Tom 1 PitchOhRm	0	4194304	Value	ValueOutput
+Tom 1 Filter Lo	0	4194304	Value	ValueOutput
+Tom 1 Filter Hi	0	4194304	Value	ValueOutput
+Tom 2 Solo	0	4194304	Value	ValueOutput
+Tom 2 Mute	0	4194304	Value	ValueOutput
+Tom 2 Level	0	4194304	Value	ValueOutput
+Tom 2 OH Level	0	4194304	Value	ValueOutput
+Tom 2 OH Pan	0	4194304	Value	ValueOutput
+Tom 2 OH Width	0	4194304	Value	ValueOutput
+Tom 2 RM Level	0	4194304	Value	ValueOutput
+Tom 2 RM Pan	0	4194304	Value	ValueOutput
+Tom 2 RM Width	0	4194304	Value	ValueOutput
+Tom 2 PitchMain	0	4194304	Value	ValueOutput
+Tom 2 PitchOhRm	0	4194304	Value	ValueOutput
+Tom 2 Filter Lo	0	4194304	Value	ValueOutput
+Tom 2 Filter Hi	0	4194304	Value	ValueOutput
+Tom 3 Solo	0	4194304	Value	ValueOutput
+Tom 3 Mute	0	4194304	Value	ValueOutput
+Tom 3 Level	0	4194304	Value	ValueOutput
+Tom 3 OH Level	0	4194304	Value	ValueOutput
+Tom 3 OH Pan	0	4194304	Value	ValueOutput
+Tom 3 OH Width	0	4194304	Value	ValueOutput
+Tom 3 RM Level	0	4194304	Value	ValueOutput
+Tom 3 RM Pan	0	4194304	Value	ValueOutput
+Tom 3 RM Width	0	4194304	Value	ValueOutput
+Tom 3 PitchMain	0	4194304	Value	ValueOutput
+Tom 3 PitchOhRm	0	4194304	Value	ValueOutput
+Tom 3 Filter Lo	0	4194304	Value	ValueOutput
+Tom 3 Filter Hi	0	4194304	Value	ValueOutput
+Tom 4 Solo	0	4194304	Value	ValueOutput
+Tom 4 Mute	0	4194304	Value	ValueOutput
+Tom 4 Level	0	4194304	Value	ValueOutput
+Tom 4 OH Level	0	4194304	Value	ValueOutput
+Tom 4 OH Pan	0	4194304	Value	ValueOutput
+Tom 4 OH Width	0	4194304	Value	ValueOutput
+Tom 4 RM Level	0	4194304	Value	ValueOutput
+Tom 4 RM Pan	0	4194304	Value	ValueOutput
+Tom 4 RM Width	0	4194304	Value	ValueOutput
+Tom 4 PitchMain	0	4194304	Value	ValueOutput
+Tom 4 PitchOhRm	0	4194304	Value	ValueOutput
+Tom 4 Filter Lo	0	4194304	Value	ValueOutput
+Tom 4 Filter Hi	0	4194304	Value	ValueOutput
+Flex1 Solo	0	4194304	Value	ValueOutput
+Flex1 Mute	0	4194304	Value	ValueOutput
+Flex1 Level	0	4194304	Value	ValueOutput
+Flex1 OH Level	0	4194304	Value	ValueOutput
+Flex1 OH Pan	0	4194304	Value	ValueOutput
+Flex1 OH Width	0	4194304	Value	ValueOutput
+Flex1 RM Level	0	4194304	Value	ValueOutput
+Flex1 RM Pan	0	4194304	Value	ValueOutput
+Flex1 RM Width	0	4194304	Value	ValueOutput
+Flex1 PitchMain	0	4194304	Value	ValueOutput
+Flex1 PitchOhRm	0	4194304	Value	ValueOutput
+Flex1 Filter Lo	0	4194304	Value	ValueOutput
+Flex1 Filter Hi	0	4194304	Value	ValueOutput
+Flex2 Solo	0	4194304	Value	ValueOutput
+Flex2 Mute	0	4194304	Value	ValueOutput
+Flex2 Level	0	4194304	Value	ValueOutput
+Flex2 OH Level	0	4194304	Value	ValueOutput
+Flex2 OH Pan	0	4194304	Value	ValueOutput
+Flex2 OH Width	0	4194304	Value	ValueOutput
+Flex2 RM Level	0	4194304	Value	ValueOutput
+Flex2 RM Pan	0	4194304	Value	ValueOutput
+Flex2 RM Width	0	4194304	Value	ValueOutput
+Flex2 PitchMain	0	4194304	Value	ValueOutput
+Flex2 PitchOhRm	0	4194304	Value	ValueOutput
+Flex2 Filter Lo	0	4194304	Value	ValueOutput
+Flex2 Filter Hi	0	4194304	Value	ValueOutput
+Flex3 Solo	0	4194304	Value	ValueOutput
+Flex3 Mute	0	4194304	Value	ValueOutput
+Flex3 Level	0	4194304	Value	ValueOutput
+Flex3 OH Level	0	4194304	Value	ValueOutput
+Flex3 OH Pan	0	4194304	Value	ValueOutput
+Flex3 OH Width	0	4194304	Value	ValueOutput
+Flex3 RM Level	0	4194304	Value	ValueOutput
+Flex3 RM Pan	0	4194304	Value	ValueOutput
+Flex3 RM Width	0	4194304	Value	ValueOutput
+Flex3 PitchMain	0	4194304	Value	ValueOutput
+Flex3 PitchOhRm	0	4194304	Value	ValueOutput
+Flex3 Filter Lo	0	4194304	Value	ValueOutput
+Flex3 Filter Hi	0	4194304	Value	ValueOutput
+Ch Kick Level	0	4194304	Value	ValueOutput
+Ch Kick Pan	0	4194304	Value	ValueOutput
+Ch Kick Solo	0	4194304	Value	ValueOutput
+Ch Kick Mute	0	4194304	Value	ValueOutput
+Ch Snare Level	0	4194304	Value	ValueOutput
+Ch Snare Pan	0	4194304	Value	ValueOutput
+Ch Snare Solo	0	4194304	Value	ValueOutput
+Ch Snare Mute	0	4194304	Value	ValueOutput
+Ch Tom 1 Level	0	4194304	Value	ValueOutput
+Ch Tom 1 Pan	0	4194304	Value	ValueOutput
+Ch Tom 1 Solo	0	4194304	Value	ValueOutput
+Ch Tom 1 Mute	0	4194304	Value	ValueOutput
+Ch Tom 2 Level	0	4194304	Value	ValueOutput
+Ch Tom 2 Pan	0	4194304	Value	ValueOutput
+Ch Tom 2 Solo	0	4194304	Value	ValueOutput
+Ch Tom 2 Mute	0	4194304	Value	ValueOutput
+Ch Tom 3 Level	0	4194304	Value	ValueOutput
+Ch Tom 3 Pan	0	4194304	Value	ValueOutput
+Ch Tom 3 Solo	0	4194304	Value	ValueOutput
+Ch Tom 3 Mute	0	4194304	Value	ValueOutput
+Ch Tom 4 Level	0	4194304	Value	ValueOutput
+Ch Tom 4 Pan	0	4194304	Value	ValueOutput
+Ch Tom 4 Solo	0	4194304	Value	ValueOutput
+Ch Tom 4 Mute	0	4194304	Value	ValueOutput
+Ch Flex1 Level	0	4194304	Value	ValueOutput
+Ch Flex1 Pan	0	4194304	Value	ValueOutput
+Ch Flex1 Solo	0	4194304	Value	ValueOutput
+Ch Flex1 Mute	0	4194304	Value	ValueOutput
+Ch Flex2 Level	0	4194304	Value	ValueOutput
+Ch Flex2 Pan	0	4194304	Value	ValueOutput
+Ch Flex2 Solo	0	4194304	Value	ValueOutput
+Ch Flex2 Mute	0	4194304	Value	ValueOutput
+Ch Flex3 Level	0	4194304	Value	ValueOutput
+Ch Flex3 Pan	0	4194304	Value	ValueOutput
+Ch Flex3 Solo	0	4194304	Value	ValueOutput
+Ch Flex3 Mute	0	4194304	Value	ValueOutput
+Ch OH Level	0	4194304	Value	ValueOutput
+Ch OH Pan	0	4194304	Value	ValueOutput
+Ch OH Width	0	4194304	Value	ValueOutput
+Ch OH Solo	0	4194304	Value	ValueOutput
+Ch OH Mute	0	4194304	Value	ValueOutput
+Ch Room Level	0	4194304	Value	ValueOutput
+Ch Room Pan	0	4194304	Value	ValueOutput
+Ch Room Width	0	4194304	Value	ValueOutput
+Ch Room Solo	0	4194304	Value	ValueOutput
+Ch Room Mute	0	4194304	Value	ValueOutput
+Ch Bus Level	0	4194304	Value	ValueOutput
+Ch Bus Pan	0	4194304	Value	ValueOutput
+Ch Bus Width	0	4194304	Value	ValueOutput
+Ch Bus Solo	0	4194304	Value	ValueOutput
+Ch Bus Mute	0	4194304	Value	ValueOutput
+Ch Bus LoFlt	0	4194304	Value	ValueOutput
+Ch Bus HiFlt	0	4194304	Value	ValueOutput
+Ch Send 1 Level	0	4194304	Value	ValueOutput
+Ch Send 1 Pan	0	4194304	Value	ValueOutput
+Ch Send 1 Width	0	4194304	Value	ValueOutput
+Ch Send 1 Solo	0	4194304	Value	ValueOutput
+Ch Send 1 Mute	0	4194304	Value	ValueOutput
+Ch Send 2 Level	0	4194304	Value	ValueOutput
+Ch Send 2 Pan	0	4194304	Value	ValueOutput
+Ch Send 2 Width	0	4194304	Value	ValueOutput
+Ch Send 2 Solo	0	4194304	Value	ValueOutput
+Ch Send 2 Mute	0	4194304	Value	ValueOutput
+Ch Master Level	0	4194304	Value	ValueOutput
+Ch Master Pan	0	4194304	Value	ValueOutput
+Ch Master Width	0	4194304	Value	ValueOutput
+Ch Master LoFlt	0	4194304	Value	ValueOutput
+Ch Master HiFlt	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

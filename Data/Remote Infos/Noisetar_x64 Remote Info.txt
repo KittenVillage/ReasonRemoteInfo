@@ -1,0 +1,59 @@
+Scope
+Manufacturer	Model
+nusofting.com	vst.nish.Noisetar_x64
+Note: Will match scope definitions for vst.nish.Noisetar_x64 or vst.nish
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Rate1	0	4194304	Value	ValueOutput
+LP-HP1	0	4194304	Value	ValueOutput
+AM	0	4194304	Value	ValueOutput
+Level	0	4194304	Value	ValueOutput
+Smooth	0	4194304	Value	ValueOutput
+Rate2	0	4194304	Value	ValueOutput
+LP-HP2	0	4194304	Value	ValueOutput
+Osc1	0	4194304	Value	ValueOutput
+Osc2	0	4194304	Value	ValueOutput
+ResoAmnt	0	4194304	Value	ValueOutput
+CombFilter	0	4194304	Value	ValueOutput
+LP-HP3	0	4194304	Value	ValueOutput
+FM	0	4194304	Value	ValueOutput
+Dry_Wet	0	4194304	Value	ValueOutput
+Attack1	0	4194304	Value	ValueOutput
+Decay1	0	4194304	Value	ValueOutput
+Sustain1	0	4194304	Value	ValueOutput
+Release1	0	4194304	Value	ValueOutput
+Velosens	0	4194304	Value	ValueOutput
+ADSR2Level	0	4194304	Value	ValueOutput
+ADSR2Rate1	0	4194304	Value	ValueOutput
+ADSR2LP_HP1	0	4194304	Value	ValueOutput
+ADSR2AM	0	4194304	Value	ValueOutput
+EQLP_Freq	0	4194304	Value	ValueOutput
+EQHP_Freq	0	4194304	Value	ValueOutput
+QFilters	0	4194304	Value	ValueOutput
+ReverbSize	0	4194304	Value	ValueOutput
+ReverbMix	0	4194304	Value	ValueOutput
+ReverbOn	0	4194304	Value	ValueOutput
+Gain_out	0	4194304	Value	ValueOutput
+StrEnh	0	4194304	Value	ValueOutput
+KT2Rate1	0	4194304	Value	ValueOutput
+KT2LP_HP1	0	4194304	Value	ValueOutput
+KT2Rate2	0	4194304	Value	ValueOutput
+BPMelody	0	4194304	Value	ValueOutput
+RateScaleUp	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

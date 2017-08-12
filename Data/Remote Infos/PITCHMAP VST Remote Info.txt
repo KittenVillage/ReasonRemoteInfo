@@ -1,0 +1,44 @@
+Scope
+Manufacturer	Model
+Zynaptiq	vst.PTMP.PITCHMAP VST
+Note: Will match scope definitions for vst.PTMP.PITCHMAP VST or vst.PTMP
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Feel	0	4194304	Value	ValueOutput
+Purify	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Electrify	0	4194304	Value	ValueOutput
+Strict	0	4194304	Value	ValueOutput
+Algorithm	0	4194304	Value	ValueOutput
+Mute	0	4194304	Value	ValueOutput
+Exclude Mode	0	4194304	Value	ValueOutput
+MIDI Map	0	4194304	Value	ValueOutput
+RESERVED	0	4194304	Value	ValueOutput
+Input Tuning	0	4194304	Value	ValueOutput
+Output Tuning	0	4194304	Value	ValueOutput
+Low Key	0	4194304	Value	ValueOutput
+High Key	0	4194304	Value	ValueOutput
+Rounding Mode	0	4194304	Value	ValueOutput
+Key Repeat Mode	0	4194304	Value	ValueOutput
+Global Thresh.	0	4194304	Value	ValueOutput
+Load Snapshot No.	0	4194304	Value	ValueOutput
+Keyboard Octave	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

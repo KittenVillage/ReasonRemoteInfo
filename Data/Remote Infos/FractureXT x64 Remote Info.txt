@@ -1,0 +1,91 @@
+Scope
+Manufacturer	Model
+Glitchmachines	vst.GFxt.FractureXT x64
+Note: Will match scope definitions for vst.GFxt.FractureXT x64 or vst.GFxt
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Buffer Size	0	4194304	Value	ValueOutput
+Buffer Size Mod 	0	4194304	Value	ValueOutput
+Buffer Size Mod 	0	4194304	Value	ValueOutput
+Buffer Repeats	0	4194304	Value	ValueOutput
+Buffer Repeats M	0	4194304	Value	ValueOutput
+Buffer Repeats M	0	4194304	Value	ValueOutput
+Buffer Speed	0	4194304	Value	ValueOutput
+Buffer Speed Mod	0	4194304	Value	ValueOutput
+Buffer Speed Mod	0	4194304	Value	ValueOutput
+Buffer Filter Cu	0	4194304	Value	ValueOutput
+Buffer Filter Cu	0	4194304	Value	ValueOutput
+Buffer Filter Cu	0	4194304	Value	ValueOutput
+Buffer Filter Re	0	4194304	Value	ValueOutput
+Buffer Filter Mo	0	4194304	Value	ValueOutput
+Grain Delay Size	0	4194304	Value	ValueOutput
+Grain Delay Size	0	4194304	Value	ValueOutput
+Grain Delay Spee	0	4194304	Value	ValueOutput
+Grain Delay Spee	0	4194304	Value	ValueOutput
+Grain Delay Spee	0	4194304	Value	ValueOutput
+Grain Delay Spee	0	4194304	Value	ValueOutput
+Grain Delay Ampl	0	4194304	Value	ValueOutput
+Grain Delay Filt	0	4194304	Value	ValueOutput
+Grain Delay Filt	0	4194304	Value	ValueOutput
+Grain Delay Filt	0	4194304	Value	ValueOutput
+Grain Delay Filt	0	4194304	Value	ValueOutput
+Grain Delay Filt	0	4194304	Value	ValueOutput
+Effects Mix	0	4194304	Value	ValueOutput
+Effects Mix Mod 	0	4194304	Value	ValueOutput
+Effects Mix Mod 	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Time Mod S	0	4194304	Value	ValueOutput
+Delay Time Mod D	0	4194304	Value	ValueOutput
+Delay Synced Tim	0	4194304	Value	ValueOutput
+Delay Sync	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Feedback M	0	4194304	Value	ValueOutput
+Delay Feedback M	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Delay Mix Mod So	0	4194304	Value	ValueOutput
+Delay Mix Mod De	0	4194304	Value	ValueOutput
+Out Amplitude	0	4194304	Value	ValueOutput
+Dry - Wet Mix	0	4194304	Value	ValueOutput
+Dry - Wet Mix Mo	0	4194304	Value	ValueOutput
+Dry - Wet Mix Mo	0	4194304	Value	ValueOutput
+LFO 1 Rate	0	4194304	Value	ValueOutput
+LFO 1 Rate Mod S	0	4194304	Value	ValueOutput
+LFO 1 Rate Mod D	0	4194304	Value	ValueOutput
+LFO 1 Synced Rat	0	4194304	Value	ValueOutput
+LFO 1 Sync	0	4194304	Value	ValueOutput
+LFO 1 Wave	0	4194304	Value	ValueOutput
+LFO 2 Rate	0	4194304	Value	ValueOutput
+LFO 2 Rate Mod S	0	4194304	Value	ValueOutput
+LFO 2 Rate Mod D	0	4194304	Value	ValueOutput
+LFO 2 Synced Rat	0	4194304	Value	ValueOutput
+LFO 2 Sync	0	4194304	Value	ValueOutput
+LFO 2 Wave	0	4194304	Value	ValueOutput
+LFO 3 Rate	0	4194304	Value	ValueOutput
+LFO 3 Rate Mod S	0	4194304	Value	ValueOutput
+LFO 3 Rate Mod D	0	4194304	Value	ValueOutput
+LFO 3 Synced Rat	0	4194304	Value	ValueOutput
+LFO 3 Sync	0	4194304	Value	ValueOutput
+LFO 3 Wave	0	4194304	Value	ValueOutput
+LFO 4 Rate	0	4194304	Value	ValueOutput
+LFO 4 Rate Mod S	0	4194304	Value	ValueOutput
+LFO 4 Rate Mod D	0	4194304	Value	ValueOutput
+LFO 4 Synced Rat	0	4194304	Value	ValueOutput
+LFO 4 Sync	0	4194304	Value	ValueOutput
+LFO 4 Wave	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

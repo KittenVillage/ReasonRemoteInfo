@@ -1,0 +1,456 @@
+Scope
+Manufacturer	Model
+Exponential Audio	vst.EXca.Excalibur x64
+Note: Will match scope definitions for vst.EXca.Excalibur x64 or vst.EXca
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Mast Lvl	0	4194304	Value	ValueOutput
+Mast Fbk	0	4194304	Value	ValueOutput
+Switch	0	4194304	Value	ValueOutput
+SoftKnob	0	4194304	Value	ValueOutput
+P1Src	0	4194304	Value	ValueOutput
+P1 InLvl	0	4194304	Value	ValueOutput
+P1In Inv	0	4194304	Value	ValueOutput
+P1FBak	0	4194304	Value	ValueOutput
+P1F Invt	0	4194304	Value	ValueOutput
+P1 Alt	0	4194304	Value	ValueOutput
+P1ALtSrc	0	4194304	Value	ValueOutput
+P1A Invt	0	4194304	Value	ValueOutput
+P1TempoM	0	4194304	Value	ValueOutput
+P1 Delay	0	4194304	Value	ValueOutput
+P1 Diff	0	4194304	Value	ValueOutput
+P1 DSize	0	4194304	Value	ValueOutput
+P1 OutLv	0	4194304	Value	ValueOutput
+P1 Pan	0	4194304	Value	ValueOutput
+P1OFType	0	4194304	Value	ValueOutput
+P1OtFreq	0	4194304	Value	ValueOutput
+P1 Out Q	0	4194304	Value	ValueOutput
+P1FFType	0	4194304	Value	ValueOutput
+P1FbFreq	0	4194304	Value	ValueOutput
+P1 Fback Q	0	4194304	Value	ValueOutput
+P1PanMod	0	4194304	Value	ValueOutput
+P1PanGen	0	4194304	Value	ValueOutput
+P1PanAdv	0	4194304	Value	ValueOutput
+P1PModx	0	4194304	Value	ValueOutput
+P1PMInvt	0	4194304	Value	ValueOutput
+P1PanSmt	0	4194304	Value	ValueOutput
+P1DelMod	0	4194304	Value	ValueOutput
+P1DelGen	0	4194304	Value	ValueOutput
+P1DelAdv	0	4194304	Value	ValueOutput
+P1DelMx	0	4194304	Value	ValueOutput
+P1DMInvt	0	4194304	Value	ValueOutput
+P1DlySmt	0	4194304	Value	ValueOutput
+P1Inp Mod	0	4194304	Value	ValueOutput
+P1InpGen	0	4194304	Value	ValueOutput
+P1InpAdv	0	4194304	Value	ValueOutput
+P1IModx	0	4194304	Value	ValueOutput
+P1IMInvt	0	4194304	Value	ValueOutput
+P1InpSmt	0	4194304	Value	ValueOutput
+P1Fbk Mod	0	4194304	Value	ValueOutput
+P1FbkGen	0	4194304	Value	ValueOutput
+P1FbkAdv	0	4194304	Value	ValueOutput
+P1FModx	0	4194304	Value	ValueOutput
+P1FMInvt	0	4194304	Value	ValueOutput
+P1FbkSmt	0	4194304	Value	ValueOutput
+P1Alt Mod	0	4194304	Value	ValueOutput
+P1AltGen	0	4194304	Value	ValueOutput
+P1AltAdv	0	4194304	Value	ValueOutput
+P1AModx	0	4194304	Value	ValueOutput
+P1AMInvt	0	4194304	Value	ValueOutput
+P1AltSmt	0	4194304	Value	ValueOutput
+P1OutEQX	0	4194304	Value	ValueOutput
+P1OpXGen	0	4194304	Value	ValueOutput
+P1OutEPA	0	4194304	Value	ValueOutput
+P1OutEqX	0	4194304	Value	ValueOutput
+P1OutEQI	0	4194304	Value	ValueOutput
+P1OpEqSm	0	4194304	Value	ValueOutput
+P1FbkEQX	0	4194304	Value	ValueOutput
+P1FbXGen	0	4194304	Value	ValueOutput
+P1FbkEPA	0	4194304	Value	ValueOutput
+P1FbkEqX	0	4194304	Value	ValueOutput
+P1FbkEQI	0	4194304	Value	ValueOutput
+P1FbEqSm	0	4194304	Value	ValueOutput
+P1OutMod	0	4194304	Value	ValueOutput
+P1OutGen	0	4194304	Value	ValueOutput
+P1OutAdv	0	4194304	Value	ValueOutput
+P1OModx	0	4194304	Value	ValueOutput
+P1OMInvt	0	4194304	Value	ValueOutput
+P1OutSmt	0	4194304	Value	ValueOutput
+P1EFXSek	0	4194304	Value	ValueOutput
+P1EFXMix	0	4194304	Value	ValueOutput
+P1FxMixM	0	4194304	Value	ValueOutput
+P1FxMixG	0	4194304	Value	ValueOutput
+P1FxMxAd	0	4194304	Value	ValueOutput
+P1MxModx	0	4194304	Value	ValueOutput
+P1MxModv	0	4194304	Value	ValueOutput
+P1MxMdSm	0	4194304	Value	ValueOutput
+P1EFXMod	0	4194304	Value	ValueOutput
+P1EFXGen	0	4194304	Value	ValueOutput
+P1EFVAdv	0	4194304	Value	ValueOutput
+P1EFxMdx	0	4194304	Value	ValueOutput
+P1FxModv	0	4194304	Value	ValueOutput
+P1FxMdSm	0	4194304	Value	ValueOutput
+P1EFXMod	0	4194304	Value	ValueOutput
+P1EFXGen	0	4194304	Value	ValueOutput
+P1EFVAdv	0	4194304	Value	ValueOutput
+P1EFxMdx	0	4194304	Value	ValueOutput
+P1FxModv	0	4194304	Value	ValueOutput
+P1FxMdSm	0	4194304	Value	ValueOutput
+P1EFXMod	0	4194304	Value	ValueOutput
+P1EFXGen	0	4194304	Value	ValueOutput
+P1EFVAdv	0	4194304	Value	ValueOutput
+P1EFxMdx	0	4194304	Value	ValueOutput
+P1FxModv	0	4194304	Value	ValueOutput
+P1FxMdSm	0	4194304	Value	ValueOutput
+P1EFX 1	0	4194304	Value	ValueOutput
+P1EFX 2	0	4194304	Value	ValueOutput
+P1EFX 3	0	4194304	Value	ValueOutput
+P1EFX 4	0	4194304	Value	ValueOutput
+P1EFX 5	0	4194304	Value	ValueOutput
+P2Src	0	4194304	Value	ValueOutput
+P2 InLvl	0	4194304	Value	ValueOutput
+P2In Inv	0	4194304	Value	ValueOutput
+P2FBak	0	4194304	Value	ValueOutput
+P2F Invt	0	4194304	Value	ValueOutput
+P2 Alt	0	4194304	Value	ValueOutput
+P2ALtSrc	0	4194304	Value	ValueOutput
+P2A Invt	0	4194304	Value	ValueOutput
+P2TempoM	0	4194304	Value	ValueOutput
+P2 Delay	0	4194304	Value	ValueOutput
+P2 Diff	0	4194304	Value	ValueOutput
+P2 DSize	0	4194304	Value	ValueOutput
+P2 OutLv	0	4194304	Value	ValueOutput
+P2 Pan	0	4194304	Value	ValueOutput
+P2OFType	0	4194304	Value	ValueOutput
+P2OtFreq	0	4194304	Value	ValueOutput
+P2 Out Q	0	4194304	Value	ValueOutput
+P2FFType	0	4194304	Value	ValueOutput
+P2FbFreq	0	4194304	Value	ValueOutput
+P2 Fback Q	0	4194304	Value	ValueOutput
+P2PanMod	0	4194304	Value	ValueOutput
+P2PanGen	0	4194304	Value	ValueOutput
+P2PanAdv	0	4194304	Value	ValueOutput
+P2PModx	0	4194304	Value	ValueOutput
+P2PMInvt	0	4194304	Value	ValueOutput
+P2PanSmt	0	4194304	Value	ValueOutput
+P2DelMod	0	4194304	Value	ValueOutput
+P2DelGen	0	4194304	Value	ValueOutput
+P2DelAdv	0	4194304	Value	ValueOutput
+P2DelMx	0	4194304	Value	ValueOutput
+P2DMInvt	0	4194304	Value	ValueOutput
+P2DlySmt	0	4194304	Value	ValueOutput
+P2Inp Mod	0	4194304	Value	ValueOutput
+P2InpGen	0	4194304	Value	ValueOutput
+P2InpAdv	0	4194304	Value	ValueOutput
+P2IModx	0	4194304	Value	ValueOutput
+P2IMInvt	0	4194304	Value	ValueOutput
+P2InpSmt	0	4194304	Value	ValueOutput
+P2Fbk Mod	0	4194304	Value	ValueOutput
+P2FbkGen	0	4194304	Value	ValueOutput
+P2FbkAdv	0	4194304	Value	ValueOutput
+P2FModx	0	4194304	Value	ValueOutput
+P2FMInvt	0	4194304	Value	ValueOutput
+P2FbkSmt	0	4194304	Value	ValueOutput
+P2Alt Mod	0	4194304	Value	ValueOutput
+P2AltGen	0	4194304	Value	ValueOutput
+P2AltAdv	0	4194304	Value	ValueOutput
+P2AModx	0	4194304	Value	ValueOutput
+P2AMInvt	0	4194304	Value	ValueOutput
+P2AltSmt	0	4194304	Value	ValueOutput
+P2OutEQX	0	4194304	Value	ValueOutput
+P2OpXGen	0	4194304	Value	ValueOutput
+P2OutEPA	0	4194304	Value	ValueOutput
+P2OutEqX	0	4194304	Value	ValueOutput
+P2OutEQI	0	4194304	Value	ValueOutput
+P2OpEqSm	0	4194304	Value	ValueOutput
+P2FbkEQX	0	4194304	Value	ValueOutput
+P2FbXGen	0	4194304	Value	ValueOutput
+P2FbkEPA	0	4194304	Value	ValueOutput
+P2FbkEqX	0	4194304	Value	ValueOutput
+P2FbkEQI	0	4194304	Value	ValueOutput
+P2FbEqSm	0	4194304	Value	ValueOutput
+P2OutMod	0	4194304	Value	ValueOutput
+P2OutGen	0	4194304	Value	ValueOutput
+P2OutAdv	0	4194304	Value	ValueOutput
+P2OModx	0	4194304	Value	ValueOutput
+P2OMInvt	0	4194304	Value	ValueOutput
+P2OutSmt	0	4194304	Value	ValueOutput
+P2EFXSek	0	4194304	Value	ValueOutput
+P2EFXMix	0	4194304	Value	ValueOutput
+P2FxMixM	0	4194304	Value	ValueOutput
+P2FxMixG	0	4194304	Value	ValueOutput
+P2FxMxAd	0	4194304	Value	ValueOutput
+P2MxModx	0	4194304	Value	ValueOutput
+P2MxModv	0	4194304	Value	ValueOutput
+P2MxMdSm	0	4194304	Value	ValueOutput
+P2EFXMod	0	4194304	Value	ValueOutput
+P2EFXGen	0	4194304	Value	ValueOutput
+P2EFVAdv	0	4194304	Value	ValueOutput
+P2EFxMdx	0	4194304	Value	ValueOutput
+P2FxModv	0	4194304	Value	ValueOutput
+P2FxMdSm	0	4194304	Value	ValueOutput
+P2EFXMod	0	4194304	Value	ValueOutput
+P2EFXGen	0	4194304	Value	ValueOutput
+P2EFVAdv	0	4194304	Value	ValueOutput
+P2EFxMdx	0	4194304	Value	ValueOutput
+P2FxModv	0	4194304	Value	ValueOutput
+P2FxMdSm	0	4194304	Value	ValueOutput
+P2EFXMod	0	4194304	Value	ValueOutput
+P2EFXGen	0	4194304	Value	ValueOutput
+P2EFVAdv	0	4194304	Value	ValueOutput
+P2EFxMdx	0	4194304	Value	ValueOutput
+P2FxModv	0	4194304	Value	ValueOutput
+P2FxMdSm	0	4194304	Value	ValueOutput
+P2EFX 1	0	4194304	Value	ValueOutput
+P2EFX 2	0	4194304	Value	ValueOutput
+P2EFX 3	0	4194304	Value	ValueOutput
+P2EFX 4	0	4194304	Value	ValueOutput
+P2EFX 5	0	4194304	Value	ValueOutput
+P3Src	0	4194304	Value	ValueOutput
+P3 InLvl	0	4194304	Value	ValueOutput
+P3In Inv	0	4194304	Value	ValueOutput
+P3FBak	0	4194304	Value	ValueOutput
+P3F Invt	0	4194304	Value	ValueOutput
+P3 Alt	0	4194304	Value	ValueOutput
+P3ALtSrc	0	4194304	Value	ValueOutput
+P3A Invt	0	4194304	Value	ValueOutput
+P3TempoM	0	4194304	Value	ValueOutput
+P3 Delay	0	4194304	Value	ValueOutput
+P3 Diff	0	4194304	Value	ValueOutput
+P3 DSize	0	4194304	Value	ValueOutput
+P3 OutLv	0	4194304	Value	ValueOutput
+P3 Pan	0	4194304	Value	ValueOutput
+P3OFType	0	4194304	Value	ValueOutput
+P3OtFreq	0	4194304	Value	ValueOutput
+P3 Out Q	0	4194304	Value	ValueOutput
+P3FFType	0	4194304	Value	ValueOutput
+P3FbFreq	0	4194304	Value	ValueOutput
+P3 Fback Q	0	4194304	Value	ValueOutput
+P3PanMod	0	4194304	Value	ValueOutput
+P3PanGen	0	4194304	Value	ValueOutput
+P3PanAdv	0	4194304	Value	ValueOutput
+P3PModx	0	4194304	Value	ValueOutput
+P3PMInvt	0	4194304	Value	ValueOutput
+P3PanSmt	0	4194304	Value	ValueOutput
+P3DelMod	0	4194304	Value	ValueOutput
+P3DelGen	0	4194304	Value	ValueOutput
+P3DelAdv	0	4194304	Value	ValueOutput
+P3DelMx	0	4194304	Value	ValueOutput
+P3DMInvt	0	4194304	Value	ValueOutput
+P3DlySmt	0	4194304	Value	ValueOutput
+P3Inp Mod	0	4194304	Value	ValueOutput
+P3InpGen	0	4194304	Value	ValueOutput
+P3InpAdv	0	4194304	Value	ValueOutput
+P3IModx	0	4194304	Value	ValueOutput
+P3IMInvt	0	4194304	Value	ValueOutput
+P3InpSmt	0	4194304	Value	ValueOutput
+P3Fbk Mod	0	4194304	Value	ValueOutput
+P3FbkGen	0	4194304	Value	ValueOutput
+P3FbkAdv	0	4194304	Value	ValueOutput
+P3FModx	0	4194304	Value	ValueOutput
+P3FMInvt	0	4194304	Value	ValueOutput
+P3FbkSmt	0	4194304	Value	ValueOutput
+P3Alt Mod	0	4194304	Value	ValueOutput
+P3AltGen	0	4194304	Value	ValueOutput
+P3AltAdv	0	4194304	Value	ValueOutput
+P3AModx	0	4194304	Value	ValueOutput
+P3AMInvt	0	4194304	Value	ValueOutput
+P3AltSmt	0	4194304	Value	ValueOutput
+P3OutEQX	0	4194304	Value	ValueOutput
+P3OpXGen	0	4194304	Value	ValueOutput
+P3OutEPA	0	4194304	Value	ValueOutput
+P3OutEqX	0	4194304	Value	ValueOutput
+P3OutEQI	0	4194304	Value	ValueOutput
+P3OpEqSm	0	4194304	Value	ValueOutput
+P3FbkEQX	0	4194304	Value	ValueOutput
+P3FbXGen	0	4194304	Value	ValueOutput
+P3FbkEPA	0	4194304	Value	ValueOutput
+P3FbkEqX	0	4194304	Value	ValueOutput
+P3FbkEQI	0	4194304	Value	ValueOutput
+P3FbEqSm	0	4194304	Value	ValueOutput
+P3OutMod	0	4194304	Value	ValueOutput
+P3OutGen	0	4194304	Value	ValueOutput
+P3OutAdv	0	4194304	Value	ValueOutput
+P3OModx	0	4194304	Value	ValueOutput
+P3OMInvt	0	4194304	Value	ValueOutput
+P3OutSmt	0	4194304	Value	ValueOutput
+P3EFXSek	0	4194304	Value	ValueOutput
+P3EFXMix	0	4194304	Value	ValueOutput
+P3FxMixM	0	4194304	Value	ValueOutput
+P3FxMixG	0	4194304	Value	ValueOutput
+P3FxMxAd	0	4194304	Value	ValueOutput
+P3MxModx	0	4194304	Value	ValueOutput
+P3MxModv	0	4194304	Value	ValueOutput
+P3MxMdSm	0	4194304	Value	ValueOutput
+P3EFXMod	0	4194304	Value	ValueOutput
+P3EFXGen	0	4194304	Value	ValueOutput
+P3EFVAdv	0	4194304	Value	ValueOutput
+P3EFxMdx	0	4194304	Value	ValueOutput
+P3FxModv	0	4194304	Value	ValueOutput
+P3FxMdSm	0	4194304	Value	ValueOutput
+P3EFXMod	0	4194304	Value	ValueOutput
+P3EFXGen	0	4194304	Value	ValueOutput
+P3EFVAdv	0	4194304	Value	ValueOutput
+P3EFxMdx	0	4194304	Value	ValueOutput
+P3FxModv	0	4194304	Value	ValueOutput
+P3FxMdSm	0	4194304	Value	ValueOutput
+P3EFXMod	0	4194304	Value	ValueOutput
+P3EFXGen	0	4194304	Value	ValueOutput
+P3EFVAdv	0	4194304	Value	ValueOutput
+P3EFxMdx	0	4194304	Value	ValueOutput
+P3FxModv	0	4194304	Value	ValueOutput
+P3FxMdSm	0	4194304	Value	ValueOutput
+P3EFX 1	0	4194304	Value	ValueOutput
+P3EFX 2	0	4194304	Value	ValueOutput
+P3EFX 3	0	4194304	Value	ValueOutput
+P3EFX 4	0	4194304	Value	ValueOutput
+P3EFX 5	0	4194304	Value	ValueOutput
+P4Src	0	4194304	Value	ValueOutput
+P4 InLvl	0	4194304	Value	ValueOutput
+P4In Inv	0	4194304	Value	ValueOutput
+P4FBak	0	4194304	Value	ValueOutput
+P4F Invt	0	4194304	Value	ValueOutput
+P4 Alt	0	4194304	Value	ValueOutput
+P4ALtSrc	0	4194304	Value	ValueOutput
+P4A Invt	0	4194304	Value	ValueOutput
+P4TempoM	0	4194304	Value	ValueOutput
+P4 Delay	0	4194304	Value	ValueOutput
+P4 Diff	0	4194304	Value	ValueOutput
+P4 DSize	0	4194304	Value	ValueOutput
+P4 OutLv	0	4194304	Value	ValueOutput
+P4 Pan	0	4194304	Value	ValueOutput
+P4OFType	0	4194304	Value	ValueOutput
+P4OtFreq	0	4194304	Value	ValueOutput
+P4 Out Q	0	4194304	Value	ValueOutput
+P4FFType	0	4194304	Value	ValueOutput
+P4FbFreq	0	4194304	Value	ValueOutput
+P4 Fback Q	0	4194304	Value	ValueOutput
+P4PanMod	0	4194304	Value	ValueOutput
+P4PanGen	0	4194304	Value	ValueOutput
+P4PanAdv	0	4194304	Value	ValueOutput
+P4PModx	0	4194304	Value	ValueOutput
+P4PMInvt	0	4194304	Value	ValueOutput
+P4PanSmt	0	4194304	Value	ValueOutput
+P4DelMod	0	4194304	Value	ValueOutput
+P4DelGen	0	4194304	Value	ValueOutput
+P4DelAdv	0	4194304	Value	ValueOutput
+P4DelMx	0	4194304	Value	ValueOutput
+P4DMInvt	0	4194304	Value	ValueOutput
+P4DlySmt	0	4194304	Value	ValueOutput
+P4Inp Mod	0	4194304	Value	ValueOutput
+P4InpGen	0	4194304	Value	ValueOutput
+P4InpAdv	0	4194304	Value	ValueOutput
+P4IModx	0	4194304	Value	ValueOutput
+P4IMInvt	0	4194304	Value	ValueOutput
+P4InpSmt	0	4194304	Value	ValueOutput
+P4Fbk Mod	0	4194304	Value	ValueOutput
+P4FbkGen	0	4194304	Value	ValueOutput
+P4FbkAdv	0	4194304	Value	ValueOutput
+P4FModx	0	4194304	Value	ValueOutput
+P4FMInvt	0	4194304	Value	ValueOutput
+P4FbkSmt	0	4194304	Value	ValueOutput
+P4Alt Mod	0	4194304	Value	ValueOutput
+P4AltGen	0	4194304	Value	ValueOutput
+P4AltAdv	0	4194304	Value	ValueOutput
+P4AModx	0	4194304	Value	ValueOutput
+P4AMInvt	0	4194304	Value	ValueOutput
+P4AltSmt	0	4194304	Value	ValueOutput
+P4OutEQX	0	4194304	Value	ValueOutput
+P4OpXGen	0	4194304	Value	ValueOutput
+P4OutEPA	0	4194304	Value	ValueOutput
+P4OutEqX	0	4194304	Value	ValueOutput
+P4OutEQI	0	4194304	Value	ValueOutput
+P4OpEqSm	0	4194304	Value	ValueOutput
+P4FbkEQX	0	4194304	Value	ValueOutput
+P4FbXGen	0	4194304	Value	ValueOutput
+P4FbkEPA	0	4194304	Value	ValueOutput
+P4FbkEqX	0	4194304	Value	ValueOutput
+P4FbkEQI	0	4194304	Value	ValueOutput
+P4FbEqSm	0	4194304	Value	ValueOutput
+P4OutMod	0	4194304	Value	ValueOutput
+P4OutGen	0	4194304	Value	ValueOutput
+P4OutAdv	0	4194304	Value	ValueOutput
+P4OModx	0	4194304	Value	ValueOutput
+P4OMInvt	0	4194304	Value	ValueOutput
+P4OutSmt	0	4194304	Value	ValueOutput
+P4EFXSek	0	4194304	Value	ValueOutput
+P4EFXMix	0	4194304	Value	ValueOutput
+P4FxMixM	0	4194304	Value	ValueOutput
+P4FxMixG	0	4194304	Value	ValueOutput
+P4FxMxAd	0	4194304	Value	ValueOutput
+P4MxModx	0	4194304	Value	ValueOutput
+P4MxModv	0	4194304	Value	ValueOutput
+P4MxMdSm	0	4194304	Value	ValueOutput
+P4EFXMod	0	4194304	Value	ValueOutput
+P4EFXGen	0	4194304	Value	ValueOutput
+P4EFVAdv	0	4194304	Value	ValueOutput
+P4EFxMdx	0	4194304	Value	ValueOutput
+P4FxModv	0	4194304	Value	ValueOutput
+P4FxMdSm	0	4194304	Value	ValueOutput
+P4EFXMod	0	4194304	Value	ValueOutput
+P4EFXGen	0	4194304	Value	ValueOutput
+P4EFVAdv	0	4194304	Value	ValueOutput
+P4EFxMdx	0	4194304	Value	ValueOutput
+P4FxModv	0	4194304	Value	ValueOutput
+P4FxMdSm	0	4194304	Value	ValueOutput
+P4EFXMod	0	4194304	Value	ValueOutput
+P4EFXGen	0	4194304	Value	ValueOutput
+P4EFVAdv	0	4194304	Value	ValueOutput
+P4EFxMdx	0	4194304	Value	ValueOutput
+P4FxModv	0	4194304	Value	ValueOutput
+P4FxMdSm	0	4194304	Value	ValueOutput
+P4EFX 1	0	4194304	Value	ValueOutput
+P4EFX 2	0	4194304	Value	ValueOutput
+P4EFX 3	0	4194304	Value	ValueOutput
+P4EFX 4	0	4194304	Value	ValueOutput
+P4EFX 5	0	4194304	Value	ValueOutput
+Gen1TempoM	0	4194304	Value	ValueOutput
+Gen1 Fc	0	4194304	Value	ValueOutput
+Gen1 Src	0	4194304	Value	ValueOutput
+Gen1PanGen	0	4194304	Value	ValueOutput
+Gen1Util	0	4194304	Value	ValueOutput
+Gen1ModX	0	4194304	Value	ValueOutput
+Gen1Invt	0	4194304	Value	ValueOutput
+Gen1Smth	0	4194304	Value	ValueOutput
+Gen2TempoM	0	4194304	Value	ValueOutput
+Gen2 Fc	0	4194304	Value	ValueOutput
+Gen2 Src	0	4194304	Value	ValueOutput
+Gen2PanGen	0	4194304	Value	ValueOutput
+Gen2Util	0	4194304	Value	ValueOutput
+Gen2ModX	0	4194304	Value	ValueOutput
+Gen2Invt	0	4194304	Value	ValueOutput
+Gen2Smth	0	4194304	Value	ValueOutput
+Gen3TempoM	0	4194304	Value	ValueOutput
+Gen3 Fc	0	4194304	Value	ValueOutput
+Gen3 Src	0	4194304	Value	ValueOutput
+Gen3PanGen	0	4194304	Value	ValueOutput
+Gen3Util	0	4194304	Value	ValueOutput
+Gen3ModX	0	4194304	Value	ValueOutput
+Gen3Invt	0	4194304	Value	ValueOutput
+Gen3Smth	0	4194304	Value	ValueOutput
+Gen4TempoM	0	4194304	Value	ValueOutput
+Gen4 Fc	0	4194304	Value	ValueOutput
+Gen4 Src	0	4194304	Value	ValueOutput
+Gen4PanGen	0	4194304	Value	ValueOutput
+Gen4Util	0	4194304	Value	ValueOutput
+Gen4ModX	0	4194304	Value	ValueOutput
+Gen4Invt	0	4194304	Value	ValueOutput
+Gen4Smth	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

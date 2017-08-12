@@ -1,0 +1,1800 @@
+Scope
+Manufacturer	Model
+iZotope, Inc.	vst.ZnBT.iZotope BreakTweaker x64
+Note: Will match scope definitions for vst.ZnBT.iZotope BreakTweaker x64 or vst.ZnBT
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Global Dirty Flag	0	4194304	Value	ValueOutput
+Track 1 Gain	0	4194304	Value	ValueOutput
+Track 1 Pan	0	4194304	Value	ValueOutput
+Track 2 Gain	0	4194304	Value	ValueOutput
+Track 2 Pan	0	4194304	Value	ValueOutput
+Track 3 Gain	0	4194304	Value	ValueOutput
+Track 3 Pan	0	4194304	Value	ValueOutput
+Track 4 Gain	0	4194304	Value	ValueOutput
+Track 4 Pan	0	4194304	Value	ValueOutput
+Track 5 Gain	0	4194304	Value	ValueOutput
+Track 5 Pan	0	4194304	Value	ValueOutput
+Track 6 Gain	0	4194304	Value	ValueOutput
+Track 6 Pan	0	4194304	Value	ValueOutput
+T1-G1 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T1-G1 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T1-G1 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T1-G1 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T1-G1 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T1-G1 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T1-G1 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T1-G1 Osc2 Fine End	0	4194304	Value	ValueOutput
+T1-G1 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T1-G1 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T1-G1 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T1-G1 Osc2 Gain End	0	4194304	Value	ValueOutput
+T1-G1 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T1-G1 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T1-G1 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T1-G1 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T1-G1 Sample Start	0	4194304	Value	ValueOutput
+T1-G1 Sample End	0	4194304	Value	ValueOutput
+T1-G1 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T1-G1 Dist1 Amt End	0	4194304	Value	ValueOutput
+T1-G1 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T1-G1 Dist1 Tone End	0	4194304	Value	ValueOutput
+T1-G1 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T1-G1 Dist2 Amt End	0	4194304	Value	ValueOutput
+T1-G1 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T1-G1 Dist2 Tone End	0	4194304	Value	ValueOutput
+T1-G1 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T1-G1 Flt Cutoff End	0	4194304	Value	ValueOutput
+T1-G1 Flt Res Start	0	4194304	Value	ValueOutput
+T1-G1 Flt Res End	0	4194304	Value	ValueOutput
+T1-G1 MixGain Start	0	4194304	Value	ValueOutput
+T1-G1 MixGain End	0	4194304	Value	ValueOutput
+T1-G1 MixPan Start	0	4194304	Value	ValueOutput
+T1-G1 MixPan End	0	4194304	Value	ValueOutput
+T1-G1 Env1 Att	0	4194304	Value	ValueOutput
+T1-G1 Env1 Att Curve	0	4194304	Value	ValueOutput
+T1-G1 Env1 Hold	0	4194304	Value	ValueOutput
+T1-G1 Env1 Dcy	0	4194304	Value	ValueOutput
+T1-G1 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T1-G1 Env1 Sust	0	4194304	Value	ValueOutput
+T1-G1 Env1 Rel	0	4194304	Value	ValueOutput
+T1-G1 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T1-G1 Env2 Att	0	4194304	Value	ValueOutput
+T1-G1 Env2 Att Curve	0	4194304	Value	ValueOutput
+T1-G1 Env2 Hold	0	4194304	Value	ValueOutput
+T1-G1 Env2 Dcy	0	4194304	Value	ValueOutput
+T1-G1 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T1-G1 Env2 Sust	0	4194304	Value	ValueOutput
+T1-G1 Env2 Rel	0	4194304	Value	ValueOutput
+T1-G1 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T1-G1 Env3 Att	0	4194304	Value	ValueOutput
+T1-G1 Env3 Att Curve	0	4194304	Value	ValueOutput
+T1-G1 Env3 Hold	0	4194304	Value	ValueOutput
+T1-G1 Env3 Dcy	0	4194304	Value	ValueOutput
+T1-G1 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T1-G1 Env3 Sust	0	4194304	Value	ValueOutput
+T1-G1 Env3 Rel	0	4194304	Value	ValueOutput
+T1-G1 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T1-G1 Env4 Att	0	4194304	Value	ValueOutput
+T1-G1 Env4 Att Curve	0	4194304	Value	ValueOutput
+T1-G1 Env4 Hold	0	4194304	Value	ValueOutput
+T1-G1 Env4 Dcy	0	4194304	Value	ValueOutput
+T1-G1 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T1-G1 Env4 Sust	0	4194304	Value	ValueOutput
+T1-G1 Env4 Rel	0	4194304	Value	ValueOutput
+T1-G1 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T1-G1 LFO1 Rate	0	4194304	Value	ValueOutput
+T1-G1 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T1-G1 LFO1 Depth	0	4194304	Value	ValueOutput
+T1-G1 LFO1 Phase	0	4194304	Value	ValueOutput
+T1-G1 LFO1 Shape	0	4194304	Value	ValueOutput
+T1-G1 LFO1 Attack	0	4194304	Value	ValueOutput
+T1-G1 LFO1 Invert	0	4194304	Value	ValueOutput
+T1-G1 LFO1 Restart	0	4194304	Value	ValueOutput
+T1-G1 LFO2 Rate	0	4194304	Value	ValueOutput
+T1-G1 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T1-G1 LFO2 Depth	0	4194304	Value	ValueOutput
+T1-G1 LFO2 Phase	0	4194304	Value	ValueOutput
+T1-G1 LFO2 Shape	0	4194304	Value	ValueOutput
+T1-G1 LFO2 Attack	0	4194304	Value	ValueOutput
+T1-G1 LFO2 Invert	0	4194304	Value	ValueOutput
+T1-G1 LFO2 Restart	0	4194304	Value	ValueOutput
+T1-G1 LFO3 Rate	0	4194304	Value	ValueOutput
+T1-G1 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T1-G1 LFO3 Depth	0	4194304	Value	ValueOutput
+T1-G1 LFO3 Phase	0	4194304	Value	ValueOutput
+T1-G1 LFO3 Shape	0	4194304	Value	ValueOutput
+T1-G1 LFO3 Attack	0	4194304	Value	ValueOutput
+T1-G1 LFO3 Invert	0	4194304	Value	ValueOutput
+T1-G1 LFO3 Restart	0	4194304	Value	ValueOutput
+T1-G1 LFO4 Rate	0	4194304	Value	ValueOutput
+T1-G1 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T1-G1 LFO4 Depth	0	4194304	Value	ValueOutput
+T1-G1 LFO4 Phase	0	4194304	Value	ValueOutput
+T1-G1 LFO4 Shape	0	4194304	Value	ValueOutput
+T1-G1 LFO4 Attack	0	4194304	Value	ValueOutput
+T1-G1 LFO4 Invert	0	4194304	Value	ValueOutput
+T1-G1 LFO4 Restart	0	4194304	Value	ValueOutput
+T1-G2 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T1-G2 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T1-G2 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T1-G2 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T1-G2 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T1-G2 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T1-G2 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T1-G2 Osc2 Fine End	0	4194304	Value	ValueOutput
+T1-G2 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T1-G2 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T1-G2 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T1-G2 Osc2 Gain End	0	4194304	Value	ValueOutput
+T1-G2 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T1-G2 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T1-G2 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T1-G2 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T1-G2 Sample Start	0	4194304	Value	ValueOutput
+T1-G2 Sample End	0	4194304	Value	ValueOutput
+T1-G2 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T1-G2 Dist1 Amt End	0	4194304	Value	ValueOutput
+T1-G2 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T1-G2 Dist1 Tone End	0	4194304	Value	ValueOutput
+T1-G2 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T1-G2 Dist2 Amt End	0	4194304	Value	ValueOutput
+T1-G2 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T1-G2 Dist2 Tone End	0	4194304	Value	ValueOutput
+T1-G2 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T1-G2 Flt Cutoff End	0	4194304	Value	ValueOutput
+T1-G2 Flt Res Start	0	4194304	Value	ValueOutput
+T1-G2 Flt Res End	0	4194304	Value	ValueOutput
+T1-G2 MixGain Start	0	4194304	Value	ValueOutput
+T1-G2 MixGain End	0	4194304	Value	ValueOutput
+T1-G2 MixPan Start	0	4194304	Value	ValueOutput
+T1-G2 MixPan End	0	4194304	Value	ValueOutput
+T1-G2 Env1 Att	0	4194304	Value	ValueOutput
+T1-G2 Env1 Att Curve	0	4194304	Value	ValueOutput
+T1-G2 Env1 Hold	0	4194304	Value	ValueOutput
+T1-G2 Env1 Dcy	0	4194304	Value	ValueOutput
+T1-G2 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T1-G2 Env1 Sust	0	4194304	Value	ValueOutput
+T1-G2 Env1 Rel	0	4194304	Value	ValueOutput
+T1-G2 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T1-G2 Env2 Att	0	4194304	Value	ValueOutput
+T1-G2 Env2 Att Curve	0	4194304	Value	ValueOutput
+T1-G2 Env2 Hold	0	4194304	Value	ValueOutput
+T1-G2 Env2 Dcy	0	4194304	Value	ValueOutput
+T1-G2 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T1-G2 Env2 Sust	0	4194304	Value	ValueOutput
+T1-G2 Env2 Rel	0	4194304	Value	ValueOutput
+T1-G2 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T1-G2 Env3 Att	0	4194304	Value	ValueOutput
+T1-G2 Env3 Att Curve	0	4194304	Value	ValueOutput
+T1-G2 Env3 Hold	0	4194304	Value	ValueOutput
+T1-G2 Env3 Dcy	0	4194304	Value	ValueOutput
+T1-G2 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T1-G2 Env3 Sust	0	4194304	Value	ValueOutput
+T1-G2 Env3 Rel	0	4194304	Value	ValueOutput
+T1-G2 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T1-G2 Env4 Att	0	4194304	Value	ValueOutput
+T1-G2 Env4 Att Curve	0	4194304	Value	ValueOutput
+T1-G2 Env4 Hold	0	4194304	Value	ValueOutput
+T1-G2 Env4 Dcy	0	4194304	Value	ValueOutput
+T1-G2 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T1-G2 Env4 Sust	0	4194304	Value	ValueOutput
+T1-G2 Env4 Rel	0	4194304	Value	ValueOutput
+T1-G2 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T1-G2 LFO1 Rate	0	4194304	Value	ValueOutput
+T1-G2 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T1-G2 LFO1 Depth	0	4194304	Value	ValueOutput
+T1-G2 LFO1 Phase	0	4194304	Value	ValueOutput
+T1-G2 LFO1 Shape	0	4194304	Value	ValueOutput
+T1-G2 LFO1 Attack	0	4194304	Value	ValueOutput
+T1-G2 LFO1 Invert	0	4194304	Value	ValueOutput
+T1-G2 LFO1 Restart	0	4194304	Value	ValueOutput
+T1-G2 LFO2 Rate	0	4194304	Value	ValueOutput
+T1-G2 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T1-G2 LFO2 Depth	0	4194304	Value	ValueOutput
+T1-G2 LFO2 Phase	0	4194304	Value	ValueOutput
+T1-G2 LFO2 Shape	0	4194304	Value	ValueOutput
+T1-G2 LFO2 Attack	0	4194304	Value	ValueOutput
+T1-G2 LFO2 Invert	0	4194304	Value	ValueOutput
+T1-G1 LFO2 Restart	0	4194304	Value	ValueOutput
+T1-G2 LFO3 Rate	0	4194304	Value	ValueOutput
+T1-G2 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T1-G2 LFO3 Depth	0	4194304	Value	ValueOutput
+T1-G2 LFO3 Phase	0	4194304	Value	ValueOutput
+T1-G2 LFO3 Shape	0	4194304	Value	ValueOutput
+T1-G2 LFO3 Attack	0	4194304	Value	ValueOutput
+T1-G2 LFO3 Invert	0	4194304	Value	ValueOutput
+T1-G2 LFO3 Restart	0	4194304	Value	ValueOutput
+T1-G2 LFO4 Rate	0	4194304	Value	ValueOutput
+T1-G2 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T1-G2 LFO4 Depth	0	4194304	Value	ValueOutput
+T1-G2 LFO4 Phase	0	4194304	Value	ValueOutput
+T1-G2 LFO4 Shape	0	4194304	Value	ValueOutput
+T1-G2 LFO4 Attack	0	4194304	Value	ValueOutput
+T1-G2 LFO4 Invert	0	4194304	Value	ValueOutput
+T1-G2 LFO4 Restart	0	4194304	Value	ValueOutput
+T1-G3 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T1-G3 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T1-G3 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T1-G3 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T1-G3 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T1-G3 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T1-G3 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T1-G3 Osc2 Fine End	0	4194304	Value	ValueOutput
+T1-G3 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T1-G3 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T1-G3 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T1-G3 Osc2 Gain End	0	4194304	Value	ValueOutput
+T1-G3 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T1-G3 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T1-G3 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T1-G3 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T1-G3 Sample Start	0	4194304	Value	ValueOutput
+T1-G3 Sample End	0	4194304	Value	ValueOutput
+T1-G3 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T1-G3 Dist1 Amt End	0	4194304	Value	ValueOutput
+T1-G3 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T1-G3 Dist1 Tone End	0	4194304	Value	ValueOutput
+T1-G3 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T1-G3 Dist2 Amt End	0	4194304	Value	ValueOutput
+T1-G3 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T1-G3 Dist2 Tone End	0	4194304	Value	ValueOutput
+T1-G3 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T1-G3 Flt Cutoff End	0	4194304	Value	ValueOutput
+T1-G3 Flt Res Start	0	4194304	Value	ValueOutput
+T1-G3 Flt Res End	0	4194304	Value	ValueOutput
+T1-G3 MixGain Start	0	4194304	Value	ValueOutput
+T1-G3 MixGain End	0	4194304	Value	ValueOutput
+T1-G3 MixPan Start	0	4194304	Value	ValueOutput
+T1-G3 MixPan End	0	4194304	Value	ValueOutput
+T1-G3 Env1 Att	0	4194304	Value	ValueOutput
+T1-G3 Env1 Att Curve	0	4194304	Value	ValueOutput
+T1-G3 Env1 Hold	0	4194304	Value	ValueOutput
+T1-G3 Env1 Dcy	0	4194304	Value	ValueOutput
+T1-G3 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T1-G3 Env1 Sust	0	4194304	Value	ValueOutput
+T1-G3 Env1 Rel	0	4194304	Value	ValueOutput
+T1-G3 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T1-G3 Env2 Att	0	4194304	Value	ValueOutput
+T1-G3 Env2 Att Curve	0	4194304	Value	ValueOutput
+T1-G3 Env2 Hold	0	4194304	Value	ValueOutput
+T1-G3 Env2 Dcy	0	4194304	Value	ValueOutput
+T1-G3 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T1-G3 Env2 Sust	0	4194304	Value	ValueOutput
+T1-G3 Env2 Rel	0	4194304	Value	ValueOutput
+T1-G3 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T1-G3 Env3 Att	0	4194304	Value	ValueOutput
+T1-G3 Env3 Att Curve	0	4194304	Value	ValueOutput
+T1-G3 Env3 Hold	0	4194304	Value	ValueOutput
+T1-G3 Env3 Dcy	0	4194304	Value	ValueOutput
+T1-G3 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T1-G3 Env3 Sust	0	4194304	Value	ValueOutput
+T1-G3 Env3 Rel	0	4194304	Value	ValueOutput
+T1-G3 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T1-G3 Env4 Att	0	4194304	Value	ValueOutput
+T1-G3 Env4 Att Curve	0	4194304	Value	ValueOutput
+T1-G3 Env4 Hold	0	4194304	Value	ValueOutput
+T1-G3 Env4 Dcy	0	4194304	Value	ValueOutput
+T1-G3 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T1-G3 Env4 Sust	0	4194304	Value	ValueOutput
+T1-G3 Env4 Rel	0	4194304	Value	ValueOutput
+T1-G3 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T1-G3 LFO1 Rate	0	4194304	Value	ValueOutput
+T1-G3 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T1-G3 LFO1 Depth	0	4194304	Value	ValueOutput
+T1-G3 LFO1 Phase	0	4194304	Value	ValueOutput
+T1-G3 LFO1 Shape	0	4194304	Value	ValueOutput
+T1-G3 LFO1 Attack	0	4194304	Value	ValueOutput
+T1-G3 LFO1 Invert	0	4194304	Value	ValueOutput
+T1-G3 LFO1 Restart	0	4194304	Value	ValueOutput
+T1-G3 LFO2 Rate	0	4194304	Value	ValueOutput
+T1-G3 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T1-G3 LFO2 Depth	0	4194304	Value	ValueOutput
+T1-G3 LFO2 Phase	0	4194304	Value	ValueOutput
+T1-G3 LFO2 Shape	0	4194304	Value	ValueOutput
+T1-G3 LFO2 Attack	0	4194304	Value	ValueOutput
+T1-G3 LFO2 Invert	0	4194304	Value	ValueOutput
+T1-G3 LFO2 Restart	0	4194304	Value	ValueOutput
+T1-G3 LFO3 Rate	0	4194304	Value	ValueOutput
+T1-G3 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T1-G3 LFO3 Depth	0	4194304	Value	ValueOutput
+T1-G3 LFO3 Phase	0	4194304	Value	ValueOutput
+T1-G3 LFO3 Shape	0	4194304	Value	ValueOutput
+T1-G3 LFO3 Attack	0	4194304	Value	ValueOutput
+T1-G3 LFO3 Invert	0	4194304	Value	ValueOutput
+T1-G3 LFO3 Restart	0	4194304	Value	ValueOutput
+T1-G3 LFO4 Rate	0	4194304	Value	ValueOutput
+T1-G3 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T1-G3 LFO4 Depth	0	4194304	Value	ValueOutput
+T1-G3 LFO4 Phase	0	4194304	Value	ValueOutput
+T1-G3 LFO4 Shape	0	4194304	Value	ValueOutput
+T1-G3 LFO4 Attack	0	4194304	Value	ValueOutput
+T1-G3 LFO4 Invert	0	4194304	Value	ValueOutput
+T1-G3 LFO4 Restart	0	4194304	Value	ValueOutput
+T2-G1 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T2-G1 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T2-G1 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T2-G1 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T2-G1 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T2-G1 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T2-G1 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T2-G1 Osc2 Fine End	0	4194304	Value	ValueOutput
+T2-G1 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T2-G1 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T2-G1 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T2-G1 Osc2 Gain End	0	4194304	Value	ValueOutput
+T2-G1 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T2-G1 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T2-G1 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T2-G1 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T2-G1 Sample Start	0	4194304	Value	ValueOutput
+T2-G1 Sample End	0	4194304	Value	ValueOutput
+T2-G1 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T2-G1 Dist1 Amt End	0	4194304	Value	ValueOutput
+T2-G1 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T2-G1 Dist1 Tone End	0	4194304	Value	ValueOutput
+T2-G1 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T2-G1 Dist2 Amt End	0	4194304	Value	ValueOutput
+T2-G1 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T2-G1 Dist2 Tone End	0	4194304	Value	ValueOutput
+T2-G1 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T2-G1 Flt Cutoff End	0	4194304	Value	ValueOutput
+T2-G1 Flt Res Start	0	4194304	Value	ValueOutput
+T2-G1 Flt Res End	0	4194304	Value	ValueOutput
+T2-G1 MixGain Start	0	4194304	Value	ValueOutput
+T2-G1 MixGain End	0	4194304	Value	ValueOutput
+T2-G1 MixPan Start	0	4194304	Value	ValueOutput
+T2-G1 MixPan End	0	4194304	Value	ValueOutput
+T2-G1 Env1 Att	0	4194304	Value	ValueOutput
+T2-G1 Env1 Att Curve	0	4194304	Value	ValueOutput
+T2-G1 Env1 Hold	0	4194304	Value	ValueOutput
+T2-G1 Env1 Dcy	0	4194304	Value	ValueOutput
+T2-G1 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T2-G1 Env1 Sust	0	4194304	Value	ValueOutput
+T2-G1 Env1 Rel	0	4194304	Value	ValueOutput
+T2-G1 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T2-G1 Env2 Att	0	4194304	Value	ValueOutput
+T2-G1 Env2 Att Curve	0	4194304	Value	ValueOutput
+T2-G1 Env2 Hold	0	4194304	Value	ValueOutput
+T2-G1 Env2 Dcy	0	4194304	Value	ValueOutput
+T2-G1 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T2-G1 Env2 Sust	0	4194304	Value	ValueOutput
+T2-G1 Env2 Rel	0	4194304	Value	ValueOutput
+T2-G1 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T2-G1 Env3 Att	0	4194304	Value	ValueOutput
+T2-G1 Env3 Att Curve	0	4194304	Value	ValueOutput
+T2-G1 Env3 Hold	0	4194304	Value	ValueOutput
+T2-G1 Env3 Dcy	0	4194304	Value	ValueOutput
+T2-G1 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T2-G1 Env3 Sust	0	4194304	Value	ValueOutput
+T2-G1 Env3 Rel	0	4194304	Value	ValueOutput
+T2-G1 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T2-G1 Env4 Att	0	4194304	Value	ValueOutput
+T2-G1 Env4 Att Curve	0	4194304	Value	ValueOutput
+T2-G1 Env4 Hold	0	4194304	Value	ValueOutput
+T2-G1 Env4 Dcy	0	4194304	Value	ValueOutput
+T2-G1 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T2-G1 Env4 Sust	0	4194304	Value	ValueOutput
+T2-G1 Env4 Rel	0	4194304	Value	ValueOutput
+T2-G1 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T2-G1 LFO1 Rate	0	4194304	Value	ValueOutput
+T2-G1 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T2-G1 LFO1 Depth	0	4194304	Value	ValueOutput
+T2-G1 LFO1 Phase	0	4194304	Value	ValueOutput
+T2-G1 LFO1 Shape	0	4194304	Value	ValueOutput
+T2-G1 LFO1 Attack	0	4194304	Value	ValueOutput
+T2-G1 LFO1 Invert	0	4194304	Value	ValueOutput
+T2-G1 LFO1 Restart	0	4194304	Value	ValueOutput
+T2-G1 LFO2 Rate	0	4194304	Value	ValueOutput
+T2-G1 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T2-G1 LFO2 Depth	0	4194304	Value	ValueOutput
+T2-G1 LFO2 Phase	0	4194304	Value	ValueOutput
+T2-G1 LFO2 Shape	0	4194304	Value	ValueOutput
+T2-G1 LFO2 Attack	0	4194304	Value	ValueOutput
+T2-G1 LFO2 Invert	0	4194304	Value	ValueOutput
+T2-G1 LFO2 Restart	0	4194304	Value	ValueOutput
+T2-G1 LFO3 Rate	0	4194304	Value	ValueOutput
+T2-G1 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T2-G1 LFO3 Depth	0	4194304	Value	ValueOutput
+T2-G1 LFO3 Phase	0	4194304	Value	ValueOutput
+T2-G1 LFO3 Shape	0	4194304	Value	ValueOutput
+T2-G1 LFO3 Attack	0	4194304	Value	ValueOutput
+T2-G1 LFO3 Invert	0	4194304	Value	ValueOutput
+T2-G1 LFO3 Restart	0	4194304	Value	ValueOutput
+T2-G1 LFO4 Rate	0	4194304	Value	ValueOutput
+T2-G1 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T2-G1 LFO4 Depth	0	4194304	Value	ValueOutput
+T2-G1 LFO4 Phase	0	4194304	Value	ValueOutput
+T2-G1 LFO4 Shape	0	4194304	Value	ValueOutput
+T2-G1 LFO4 Attack	0	4194304	Value	ValueOutput
+T2-G1 LFO4 Invert	0	4194304	Value	ValueOutput
+T2-G1 LFO4 Restart	0	4194304	Value	ValueOutput
+T2-G2 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T2-G2 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T2-G2 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T2-G2 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T2-G2 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T2-G2 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T2-G2 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T2-G2 Osc2 Fine End	0	4194304	Value	ValueOutput
+T2-G2 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T2-G2 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T2-G2 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T2-G2 Osc2 Gain End	0	4194304	Value	ValueOutput
+T2-G2 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T2-G2 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T2-G2 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T2-G2 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T2-G2 Sample Start	0	4194304	Value	ValueOutput
+T2-G2 Sample End	0	4194304	Value	ValueOutput
+T2-G2 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T2-G2 Dist1 Amt End	0	4194304	Value	ValueOutput
+T2-G2 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T2-G2 Dist1 Tone End	0	4194304	Value	ValueOutput
+T2-G2 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T2-G2 Dist2 Amt End	0	4194304	Value	ValueOutput
+T2-G2 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T2-G2 Dist2 Tone End	0	4194304	Value	ValueOutput
+T2-G2 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T2-G2 Flt Cutoff End	0	4194304	Value	ValueOutput
+T2-G2 Flt Res Start	0	4194304	Value	ValueOutput
+T2-G2 Flt Res End	0	4194304	Value	ValueOutput
+T2-G2 MixGain Start	0	4194304	Value	ValueOutput
+T2-G2 MixGain End	0	4194304	Value	ValueOutput
+T2-G2 MixPan Start	0	4194304	Value	ValueOutput
+T2-G2 MixPan End	0	4194304	Value	ValueOutput
+T2-G2 Env1 Att	0	4194304	Value	ValueOutput
+T2-G2 Env1 Att Curve	0	4194304	Value	ValueOutput
+T2-G2 Env1 Hold	0	4194304	Value	ValueOutput
+T2-G2 Env1 Dcy	0	4194304	Value	ValueOutput
+T2-G2 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T2-G2 Env1 Sust	0	4194304	Value	ValueOutput
+T2-G2 Env1 Rel	0	4194304	Value	ValueOutput
+T2-G2 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T2-G2 Env2 Att	0	4194304	Value	ValueOutput
+T2-G2 Env2 Att Curve	0	4194304	Value	ValueOutput
+T2-G2 Env2 Hold	0	4194304	Value	ValueOutput
+T2-G2 Env2 Dcy	0	4194304	Value	ValueOutput
+T2-G2 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T2-G2 Env2 Sust	0	4194304	Value	ValueOutput
+T2-G2 Env2 Rel	0	4194304	Value	ValueOutput
+T2-G2 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T2-G2 Env3 Att	0	4194304	Value	ValueOutput
+T2-G2 Env3 Att Curve	0	4194304	Value	ValueOutput
+T2-G2 Env3 Hold	0	4194304	Value	ValueOutput
+T2-G2 Env3 Dcy	0	4194304	Value	ValueOutput
+T2-G2 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T2-G2 Env3 Sust	0	4194304	Value	ValueOutput
+T2-G2 Env3 Rel	0	4194304	Value	ValueOutput
+T2-G2 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T2-G2 Env4 Att	0	4194304	Value	ValueOutput
+T2-G2 Env4 Att Curve	0	4194304	Value	ValueOutput
+T2-G2 Env4 Hold	0	4194304	Value	ValueOutput
+T2-G2 Env4 Dcy	0	4194304	Value	ValueOutput
+T2-G2 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T2-G2 Env4 Sust	0	4194304	Value	ValueOutput
+T2-G2 Env4 Rel	0	4194304	Value	ValueOutput
+T2-G2 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T2-G2 LFO1 Rate	0	4194304	Value	ValueOutput
+T2-G2 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T2-G2 LFO1 Depth	0	4194304	Value	ValueOutput
+T2-G2 LFO1 Phase	0	4194304	Value	ValueOutput
+T2-G2 LFO1 Shape	0	4194304	Value	ValueOutput
+T2-G2 LFO1 Attack	0	4194304	Value	ValueOutput
+T2-G2 LFO1 Invert	0	4194304	Value	ValueOutput
+T2-G2 LFO1 Restart	0	4194304	Value	ValueOutput
+T2-G2 LFO2 Rate	0	4194304	Value	ValueOutput
+T2-G2 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T2-G2 LFO2 Depth	0	4194304	Value	ValueOutput
+T2-G2 LFO2 Phase	0	4194304	Value	ValueOutput
+T2-G2 LFO2 Shape	0	4194304	Value	ValueOutput
+T2-G2 LFO2 Attack	0	4194304	Value	ValueOutput
+T2-G2 LFO2 Invert	0	4194304	Value	ValueOutput
+T2-G2 LFO2 Restart	0	4194304	Value	ValueOutput
+T2-G2 LFO3 Rate	0	4194304	Value	ValueOutput
+T2-G2 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T2-G2 LFO3 Depth	0	4194304	Value	ValueOutput
+T2-G2 LFO3 Phase	0	4194304	Value	ValueOutput
+T2-G2 LFO3 Shape	0	4194304	Value	ValueOutput
+T2-G2 LFO3 Attack	0	4194304	Value	ValueOutput
+T2-G2 LFO3 Invert	0	4194304	Value	ValueOutput
+T2-G2 LFO3 Restart	0	4194304	Value	ValueOutput
+T2-G2 LFO4 Rate	0	4194304	Value	ValueOutput
+T2-G2 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T2-G2 LFO4 Depth	0	4194304	Value	ValueOutput
+T2-G2 LFO4 Phase	0	4194304	Value	ValueOutput
+T2-G2 LFO4 Shape	0	4194304	Value	ValueOutput
+T2-G2 LFO4 Attack	0	4194304	Value	ValueOutput
+T2-G2 LFO4 Invert	0	4194304	Value	ValueOutput
+T2-G2 LFO4 Restart	0	4194304	Value	ValueOutput
+T2-G3 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T2-G3 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T2-G3 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T2-G3 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T2-G3 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T2-G3 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T2-G3 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T2-G3 Osc2 Fine End	0	4194304	Value	ValueOutput
+T2-G3 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T2-G3 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T2-G3 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T2-G3 Osc2 Gain End	0	4194304	Value	ValueOutput
+T2-G3 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T2-G3 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T2-G3 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T2-G3 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T2-G3 Sample Start	0	4194304	Value	ValueOutput
+T2-G3 Sample End	0	4194304	Value	ValueOutput
+T2-G3 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T2-G3 Dist1 Amt End	0	4194304	Value	ValueOutput
+T2-G3 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T2-G3 Dist1 Tone End	0	4194304	Value	ValueOutput
+T2-G3 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T2-G3 Dist2 Amt End	0	4194304	Value	ValueOutput
+T2-G3 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T2-G3 Dist2 Tone End	0	4194304	Value	ValueOutput
+T2-G3 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T2-G3 Flt Cutoff End	0	4194304	Value	ValueOutput
+T2-G3 Flt Res Start	0	4194304	Value	ValueOutput
+T2-G3 Flt Res End	0	4194304	Value	ValueOutput
+T2-G3 MixGain Start	0	4194304	Value	ValueOutput
+T2-G3 MixGain End	0	4194304	Value	ValueOutput
+T2-G3 MixPan Start	0	4194304	Value	ValueOutput
+T2-G3 MixPan End	0	4194304	Value	ValueOutput
+T2-G3 Env1 Att	0	4194304	Value	ValueOutput
+T2-G3 Env1 Att Curve	0	4194304	Value	ValueOutput
+T2-G3 Env1 Hold	0	4194304	Value	ValueOutput
+T2-G3 Env1 Dcy	0	4194304	Value	ValueOutput
+T2-G3 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T2-G3 Env1 Sust	0	4194304	Value	ValueOutput
+T2-G3 Env1 Rel	0	4194304	Value	ValueOutput
+T2-G3 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T2-G3 Env2 Att	0	4194304	Value	ValueOutput
+T2-G3 Env2 Att Curve	0	4194304	Value	ValueOutput
+T2-G3 Env2 Hold	0	4194304	Value	ValueOutput
+T2-G3 Env2 Dcy	0	4194304	Value	ValueOutput
+T2-G3 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T2-G3 Env2 Sust	0	4194304	Value	ValueOutput
+T2-G3 Env2 Rel	0	4194304	Value	ValueOutput
+T2-G3 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T2-G3 Env3 Att	0	4194304	Value	ValueOutput
+T2-G3 Env3 Att Curve	0	4194304	Value	ValueOutput
+T2-G3 Env3 Hold	0	4194304	Value	ValueOutput
+T2-G3 Env3 Dcy	0	4194304	Value	ValueOutput
+T2-G3 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T2-G3 Env3 Sust	0	4194304	Value	ValueOutput
+T2-G3 Env3 Rel	0	4194304	Value	ValueOutput
+T2-G3 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T2-G3 Env4 Att	0	4194304	Value	ValueOutput
+T2-G3 Env4 Att Curve	0	4194304	Value	ValueOutput
+T2-G3 Env4 Hold	0	4194304	Value	ValueOutput
+T2-G3 Env4 Dcy	0	4194304	Value	ValueOutput
+T2-G3 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T2-G3 Env4 Sust	0	4194304	Value	ValueOutput
+T2-G3 Env4 Rel	0	4194304	Value	ValueOutput
+T2-G3 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T2-G3 LFO1 Rate	0	4194304	Value	ValueOutput
+T2-G3 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T2-G3 LFO1 Depth	0	4194304	Value	ValueOutput
+T2-G3 LFO1 Phase	0	4194304	Value	ValueOutput
+T2-G3 LFO1 Shape	0	4194304	Value	ValueOutput
+T2-G3 LFO1 Attack	0	4194304	Value	ValueOutput
+T2-G3 LFO1 Invert	0	4194304	Value	ValueOutput
+T2-G3 LFO1 Restart	0	4194304	Value	ValueOutput
+T2-G3 LFO2 Rate	0	4194304	Value	ValueOutput
+T2-G3 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T2-G3 LFO2 Depth	0	4194304	Value	ValueOutput
+T2-G3 LFO2 Phase	0	4194304	Value	ValueOutput
+T2-G3 LFO2 Shape	0	4194304	Value	ValueOutput
+T2-G3 LFO2 Attack	0	4194304	Value	ValueOutput
+T2-G3 LFO2 Invert	0	4194304	Value	ValueOutput
+T2-G3 LFO2 Restart	0	4194304	Value	ValueOutput
+T2-G3 LFO3 Rate	0	4194304	Value	ValueOutput
+T2-G3 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T2-G3 LFO3 Depth	0	4194304	Value	ValueOutput
+T2-G3 LFO3 Phase	0	4194304	Value	ValueOutput
+T2-G3 LFO3 Shape	0	4194304	Value	ValueOutput
+T2-G3 LFO3 Attack	0	4194304	Value	ValueOutput
+T2-G3 LFO3 Invert	0	4194304	Value	ValueOutput
+T2-G3 LFO3 Restart	0	4194304	Value	ValueOutput
+T2-G3 LFO4 Rate	0	4194304	Value	ValueOutput
+T2-G3 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T2-G3 LFO4 Depth	0	4194304	Value	ValueOutput
+T2-G3 LFO4 Phase	0	4194304	Value	ValueOutput
+T2-G3 LFO4 Shape	0	4194304	Value	ValueOutput
+T2-G3 LFO4 Attack	0	4194304	Value	ValueOutput
+T2-G3 LFO4 Invert	0	4194304	Value	ValueOutput
+T2-G3 LFO4 Restart	0	4194304	Value	ValueOutput
+T3-G1 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T3-G1 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T3-G1 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T3-G1 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T3-G1 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T3-G1 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T3-G1 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T3-G1 Osc2 Fine End	0	4194304	Value	ValueOutput
+T3-G1 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T3-G1 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T3-G1 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T3-G1 Osc2 Gain End	0	4194304	Value	ValueOutput
+T3-G1 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T3-G1 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T3-G1 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T3-G1 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T3-G1 Sample Start	0	4194304	Value	ValueOutput
+T3-G1 Sample End	0	4194304	Value	ValueOutput
+T3-G1 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T3-G1 Dist1 Amt End	0	4194304	Value	ValueOutput
+T3-G1 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T3-G1 Dist1 Tone End	0	4194304	Value	ValueOutput
+T3-G1 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T3-G1 Dist2 Amt End	0	4194304	Value	ValueOutput
+T3-G1 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T3-G1 Dist2 Tone End	0	4194304	Value	ValueOutput
+T3-G1 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T3-G1 Flt Cutoff End	0	4194304	Value	ValueOutput
+T3-G1 Flt Res Start	0	4194304	Value	ValueOutput
+T3-G1 Flt Res End	0	4194304	Value	ValueOutput
+T3-G1 MixGain Start	0	4194304	Value	ValueOutput
+T3-G1 MixGain End	0	4194304	Value	ValueOutput
+T3-G1 MixPan Start	0	4194304	Value	ValueOutput
+T3-G1 MixPan End	0	4194304	Value	ValueOutput
+T3-G1 Env1 Att	0	4194304	Value	ValueOutput
+T3-G1 Env1 Att Curve	0	4194304	Value	ValueOutput
+T3-G1 Env1 Hold	0	4194304	Value	ValueOutput
+T3-G1 Env1 Dcy	0	4194304	Value	ValueOutput
+T3-G1 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T3-G1 Env1 Sust	0	4194304	Value	ValueOutput
+T3-G1 Env1 Rel	0	4194304	Value	ValueOutput
+T3-G1 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T3-G1 Env2 Att	0	4194304	Value	ValueOutput
+T3-G1 Env2 Att Curve	0	4194304	Value	ValueOutput
+T3-G1 Env2 Hold	0	4194304	Value	ValueOutput
+T3-G1 Env2 Dcy	0	4194304	Value	ValueOutput
+T3-G1 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T3-G1 Env2 Sust	0	4194304	Value	ValueOutput
+T3-G1 Env2 Rel	0	4194304	Value	ValueOutput
+T3-G1 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T3-G1 Env3 Att	0	4194304	Value	ValueOutput
+T3-G1 Env3 Att Curve	0	4194304	Value	ValueOutput
+T3-G1 Env3 Hold	0	4194304	Value	ValueOutput
+T3-G1 Env3 Dcy	0	4194304	Value	ValueOutput
+T3-G1 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T3-G1 Env3 Sust	0	4194304	Value	ValueOutput
+T3-G1 Env3 Rel	0	4194304	Value	ValueOutput
+T3-G1 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T3-G1 Env4 Att	0	4194304	Value	ValueOutput
+T3-G1 Env4 Att Curve	0	4194304	Value	ValueOutput
+T3-G1 Env4 Hold	0	4194304	Value	ValueOutput
+T3-G1 Env4 Dcy	0	4194304	Value	ValueOutput
+T3-G1 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T3-G1 Env4 Sust	0	4194304	Value	ValueOutput
+T3-G1 Env4 Rel	0	4194304	Value	ValueOutput
+T3-G1 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T3-G1 LFO1 Rate	0	4194304	Value	ValueOutput
+T3-G1 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T3-G1 LFO1 Depth	0	4194304	Value	ValueOutput
+T3-G1 LFO1 Phase	0	4194304	Value	ValueOutput
+T3-G1 LFO1 Shape	0	4194304	Value	ValueOutput
+T3-G1 LFO1 Attack	0	4194304	Value	ValueOutput
+T3-G1 LFO1 Invert	0	4194304	Value	ValueOutput
+T3-G1 LFO1 Restart	0	4194304	Value	ValueOutput
+T3-G1 LFO2 Rate	0	4194304	Value	ValueOutput
+T3-G1 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T3-G1 LFO2 Depth	0	4194304	Value	ValueOutput
+T3-G1 LFO2 Phase	0	4194304	Value	ValueOutput
+T3-G1 LFO2 Shape	0	4194304	Value	ValueOutput
+T3-G1 LFO2 Attack	0	4194304	Value	ValueOutput
+T3-G1 LFO2 Invert	0	4194304	Value	ValueOutput
+T3-G1 LFO2 Restart	0	4194304	Value	ValueOutput
+T3-G1 LFO3 Rate	0	4194304	Value	ValueOutput
+T3-G1 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T3-G1 LFO3 Depth	0	4194304	Value	ValueOutput
+T3-G1 LFO3 Phase	0	4194304	Value	ValueOutput
+T3-G1 LFO3 Shape	0	4194304	Value	ValueOutput
+T3-G1 LFO3 Attack	0	4194304	Value	ValueOutput
+T3-G1 LFO3 Invert	0	4194304	Value	ValueOutput
+T3-G1 LFO3 Restart	0	4194304	Value	ValueOutput
+T3-G1 LFO4 Rate	0	4194304	Value	ValueOutput
+T3-G1 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T3-G1 LFO4 Depth	0	4194304	Value	ValueOutput
+T3-G1 LFO4 Phase	0	4194304	Value	ValueOutput
+T3-G1 LFO4 Shape	0	4194304	Value	ValueOutput
+T3-G1 LFO4 Attack	0	4194304	Value	ValueOutput
+T3-G1 LFO4 Invert	0	4194304	Value	ValueOutput
+T3-G1 LFO4 Restart	0	4194304	Value	ValueOutput
+T3-G2 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T3-G2 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T3-G2 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T3-G2 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T3-G2 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T3-G2 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T3-G2 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T3-G2 Osc2 Fine End	0	4194304	Value	ValueOutput
+T3-G2 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T3-G2 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T3-G2 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T3-G2 Osc2 Gain End	0	4194304	Value	ValueOutput
+T3-G2 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T3-G2 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T3-G2 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T3-G2 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T3-G2 Sample Start	0	4194304	Value	ValueOutput
+T3-G2 Sample End	0	4194304	Value	ValueOutput
+T3-G2 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T3-G2 Dist1 Amt End	0	4194304	Value	ValueOutput
+T3-G2 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T3-G2 Dist1 Tone End	0	4194304	Value	ValueOutput
+T3-G2 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T3-G2 Dist2 Amt End	0	4194304	Value	ValueOutput
+T3-G2 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T3-G2 Dist2 Tone End	0	4194304	Value	ValueOutput
+T3-G2 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T3-G2 Flt Cutoff End	0	4194304	Value	ValueOutput
+T3-G2 Flt Res Start	0	4194304	Value	ValueOutput
+T3-G2 Flt Res End	0	4194304	Value	ValueOutput
+T3-G2 MixGain Start	0	4194304	Value	ValueOutput
+T3-G2 MixGain End	0	4194304	Value	ValueOutput
+T3-G2 MixPan Start	0	4194304	Value	ValueOutput
+T3-G2 MixPan End	0	4194304	Value	ValueOutput
+T3-G2 Env1 Att	0	4194304	Value	ValueOutput
+T3-G2 Env1 Att Curve	0	4194304	Value	ValueOutput
+T3-G2 Env1 Hold	0	4194304	Value	ValueOutput
+T3-G2 Env1 Dcy	0	4194304	Value	ValueOutput
+T3-G2 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T3-G2 Env1 Sust	0	4194304	Value	ValueOutput
+T3-G2 Env1 Rel	0	4194304	Value	ValueOutput
+T3-G2 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T3-G2 Env2 Att	0	4194304	Value	ValueOutput
+T3-G2 Env2 Att Curve	0	4194304	Value	ValueOutput
+T3-G2 Env2 Hold	0	4194304	Value	ValueOutput
+T3-G2 Env2 Dcy	0	4194304	Value	ValueOutput
+T3-G2 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T3-G2 Env2 Sust	0	4194304	Value	ValueOutput
+T3-G2 Env2 Rel	0	4194304	Value	ValueOutput
+T3-G2 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T3-G2 Env3 Att	0	4194304	Value	ValueOutput
+T3-G2 Env3 Att Curve	0	4194304	Value	ValueOutput
+T3-G2 Env3 Hold	0	4194304	Value	ValueOutput
+T3-G2 Env3 Dcy	0	4194304	Value	ValueOutput
+T3-G2 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T3-G2 Env3 Sust	0	4194304	Value	ValueOutput
+T3-G2 Env3 Rel	0	4194304	Value	ValueOutput
+T3-G2 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T3-G2 Env4 Att	0	4194304	Value	ValueOutput
+T3-G2 Env4 Att Curve	0	4194304	Value	ValueOutput
+T3-G2 Env4 Hold	0	4194304	Value	ValueOutput
+T3-G2 Env4 Dcy	0	4194304	Value	ValueOutput
+T3-G2 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T3-G2 Env4 Sust	0	4194304	Value	ValueOutput
+T3-G2 Env4 Rel	0	4194304	Value	ValueOutput
+T3-G2 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T3-G2 LFO1 Rate	0	4194304	Value	ValueOutput
+T3-G2 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T3-G2 LFO1 Depth	0	4194304	Value	ValueOutput
+T3-G2 LFO1 Phase	0	4194304	Value	ValueOutput
+T3-G2 LFO1 Shape	0	4194304	Value	ValueOutput
+T3-G2 LFO1 Attack	0	4194304	Value	ValueOutput
+T3-G2 LFO1 Invert	0	4194304	Value	ValueOutput
+T3-G2 LFO1 Restart	0	4194304	Value	ValueOutput
+T3-G2 LFO2 Rate	0	4194304	Value	ValueOutput
+T3-G2 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T3-G2 LFO2 Depth	0	4194304	Value	ValueOutput
+T3-G2 LFO2 Phase	0	4194304	Value	ValueOutput
+T3-G2 LFO2 Shape	0	4194304	Value	ValueOutput
+T3-G2 LFO2 Attack	0	4194304	Value	ValueOutput
+T3-G2 LFO2 Invert	0	4194304	Value	ValueOutput
+T3-G2 LFO2 Restart	0	4194304	Value	ValueOutput
+T3-G2 LFO3 Rate	0	4194304	Value	ValueOutput
+T3-G2 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T3-G2 LFO3 Depth	0	4194304	Value	ValueOutput
+T3-G2 LFO3 Phase	0	4194304	Value	ValueOutput
+T3-G2 LFO3 Shape	0	4194304	Value	ValueOutput
+T3-G2 LFO3 Attack	0	4194304	Value	ValueOutput
+T3-G2 LFO3 Invert	0	4194304	Value	ValueOutput
+T3-G2 LFO3 Restart	0	4194304	Value	ValueOutput
+T3-G2 LFO4 Rate	0	4194304	Value	ValueOutput
+T3-G2 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T3-G2 LFO4 Depth	0	4194304	Value	ValueOutput
+T3-G2 LFO4 Phase	0	4194304	Value	ValueOutput
+T3-G2 LFO4 Shape	0	4194304	Value	ValueOutput
+T3-G2 LFO4 Attack	0	4194304	Value	ValueOutput
+T3-G2 LFO4 Invert	0	4194304	Value	ValueOutput
+T3-G2 LFO4 Restart	0	4194304	Value	ValueOutput
+T3-G3 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T3-G3 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T3-G3 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T3-G3 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T3-G3 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T3-G3 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T3-G3 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T3-G3 Osc2 Fine End	0	4194304	Value	ValueOutput
+T3-G3 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T3-G3 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T3-G3 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T3-G3 Osc2 Gain End	0	4194304	Value	ValueOutput
+T3-G3 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T3-G3 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T3-G3 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T3-G3 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T3-G3 Sample Start	0	4194304	Value	ValueOutput
+T3-G3 Sample End	0	4194304	Value	ValueOutput
+T3-G3 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T3-G3 Dist1 Amt End	0	4194304	Value	ValueOutput
+T3-G3 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T3-G3 Dist1 Tone End	0	4194304	Value	ValueOutput
+T3-G3 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T3-G3 Dist2 Amt End	0	4194304	Value	ValueOutput
+T3-G3 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T3-G3 Dist2 Tone End	0	4194304	Value	ValueOutput
+T3-G3 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T3-G3 Flt Cutoff End	0	4194304	Value	ValueOutput
+T3-G3 Flt Res Start	0	4194304	Value	ValueOutput
+T3-G3 Flt Res End	0	4194304	Value	ValueOutput
+T3-G3 MixGain Start	0	4194304	Value	ValueOutput
+T3-G3 MixGain End	0	4194304	Value	ValueOutput
+T3-G3 MixPan Start	0	4194304	Value	ValueOutput
+T3-G3 MixPan End	0	4194304	Value	ValueOutput
+T3-G3 Env1 Att	0	4194304	Value	ValueOutput
+T3-G3 Env1 Att Curve	0	4194304	Value	ValueOutput
+T3-G3 Env1 Hold	0	4194304	Value	ValueOutput
+T3-G3 Env1 Dcy	0	4194304	Value	ValueOutput
+T3-G3 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T3-G3 Env1 Sust	0	4194304	Value	ValueOutput
+T3-G3 Env1 Rel	0	4194304	Value	ValueOutput
+T3-G3 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T3-G3 Env2 Att	0	4194304	Value	ValueOutput
+T3-G3 Env2 Att Curve	0	4194304	Value	ValueOutput
+T3-G3 Env2 Hold	0	4194304	Value	ValueOutput
+T3-G3 Env2 Dcy	0	4194304	Value	ValueOutput
+T3-G3 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T3-G3 Env2 Sust	0	4194304	Value	ValueOutput
+T3-G3 Env2 Rel	0	4194304	Value	ValueOutput
+T3-G3 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T3-G3 Env3 Att	0	4194304	Value	ValueOutput
+T3-G3 Env3 Att Curve	0	4194304	Value	ValueOutput
+T3-G3 Env3 Hold	0	4194304	Value	ValueOutput
+T3-G3 Env3 Dcy	0	4194304	Value	ValueOutput
+T3-G3 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T3-G3 Env3 Sust	0	4194304	Value	ValueOutput
+T3-G3 Env3 Rel	0	4194304	Value	ValueOutput
+T3-G3 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T3-G3 Env4 Att	0	4194304	Value	ValueOutput
+T3-G3 Env4 Att Curve	0	4194304	Value	ValueOutput
+T3-G3 Env4 Hold	0	4194304	Value	ValueOutput
+T3-G3 Env4 Dcy	0	4194304	Value	ValueOutput
+T3-G3 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T3-G3 Env4 Sust	0	4194304	Value	ValueOutput
+T3-G3 Env4 Rel	0	4194304	Value	ValueOutput
+T3-G3 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T3-G3 LFO1 Rate	0	4194304	Value	ValueOutput
+T3-G3 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T3-G3 LFO1 Depth	0	4194304	Value	ValueOutput
+T3-G3 LFO1 Phase	0	4194304	Value	ValueOutput
+T3-G3 LFO1 Shape	0	4194304	Value	ValueOutput
+T3-G3 LFO1 Attack	0	4194304	Value	ValueOutput
+T3-G3 LFO1 Invert	0	4194304	Value	ValueOutput
+T3-G3 LFO1 Restart	0	4194304	Value	ValueOutput
+T3-G3 LFO2 Rate	0	4194304	Value	ValueOutput
+T3-G3 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T3-G3 LFO2 Depth	0	4194304	Value	ValueOutput
+T3-G3 LFO2 Phase	0	4194304	Value	ValueOutput
+T3-G3 LFO2 Shape	0	4194304	Value	ValueOutput
+T3-G3 LFO2 Attack	0	4194304	Value	ValueOutput
+T3-G3 LFO2 Invert	0	4194304	Value	ValueOutput
+T3-G3 LFO2 Restart	0	4194304	Value	ValueOutput
+T3-G3 LFO3 Rate	0	4194304	Value	ValueOutput
+T3-G3 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T3-G3 LFO3 Depth	0	4194304	Value	ValueOutput
+T3-G3 LFO3 Phase	0	4194304	Value	ValueOutput
+T3-G3 LFO3 Shape	0	4194304	Value	ValueOutput
+T3-G3 LFO3 Attack	0	4194304	Value	ValueOutput
+T3-G3 LFO3 Invert	0	4194304	Value	ValueOutput
+T3-G3 LFO3 Restart	0	4194304	Value	ValueOutput
+T3-G3 LFO4 Rate	0	4194304	Value	ValueOutput
+T3-G3 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T3-G3 LFO4 Depth	0	4194304	Value	ValueOutput
+T3-G3 LFO4 Phase	0	4194304	Value	ValueOutput
+T3-G3 LFO4 Shape	0	4194304	Value	ValueOutput
+T3-G3 LFO4 Attack	0	4194304	Value	ValueOutput
+T3-G3 LFO4 Invert	0	4194304	Value	ValueOutput
+T3-G3 LFO4 Restart	0	4194304	Value	ValueOutput
+T4-G1 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T4-G1 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T4-G1 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T4-G1 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T4-G1 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T4-G1 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T4-G1 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T4-G1 Osc2 Fine End	0	4194304	Value	ValueOutput
+T4-G1 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T4-G1 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T4-G1 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T4-G1 Osc2 Gain End	0	4194304	Value	ValueOutput
+T4-G1 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T4-G1 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T4-G1 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T4-G1 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T4-G1 Sample Start	0	4194304	Value	ValueOutput
+T4-G1 Sample End	0	4194304	Value	ValueOutput
+T4-G1 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T4-G1 Dist1 Amt End	0	4194304	Value	ValueOutput
+T4-G1 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T4-G1 Dist1 Tone End	0	4194304	Value	ValueOutput
+T4-G1 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T4-G1 Dist2 Amt End	0	4194304	Value	ValueOutput
+T4-G1 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T4-G1 Dist2 Tone End	0	4194304	Value	ValueOutput
+T4-G1 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T4-G1 Flt Cutoff End	0	4194304	Value	ValueOutput
+T4-G1 Flt Res Start	0	4194304	Value	ValueOutput
+T4-G1 Flt Res End	0	4194304	Value	ValueOutput
+T4-G1 MixGain Start	0	4194304	Value	ValueOutput
+T4-G1 MixGain End	0	4194304	Value	ValueOutput
+T4-G1 MixPan Start	0	4194304	Value	ValueOutput
+T4-G1 MixPan End	0	4194304	Value	ValueOutput
+T4-G1 Env1 Att	0	4194304	Value	ValueOutput
+T4-G1 Env1 Att Curve	0	4194304	Value	ValueOutput
+T4-G1 Env1 Hold	0	4194304	Value	ValueOutput
+T4-G1 Env1 Dcy	0	4194304	Value	ValueOutput
+T4-G1 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T4-G1 Env1 Sust	0	4194304	Value	ValueOutput
+T4-G1 Env1 Rel	0	4194304	Value	ValueOutput
+T4-G1 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T4-G1 Env2 Att	0	4194304	Value	ValueOutput
+T4-G1 Env2 Att Curve	0	4194304	Value	ValueOutput
+T4-G1 Env2 Hold	0	4194304	Value	ValueOutput
+T4-G1 Env2 Dcy	0	4194304	Value	ValueOutput
+T4-G1 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T4-G1 Env2 Sust	0	4194304	Value	ValueOutput
+T4-G1 Env2 Rel	0	4194304	Value	ValueOutput
+T4-G1 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T4-G1 Env3 Att	0	4194304	Value	ValueOutput
+T4-G1 Env3 Att Curve	0	4194304	Value	ValueOutput
+T4-G1 Env3 Hold	0	4194304	Value	ValueOutput
+T4-G1 Env3 Dcy	0	4194304	Value	ValueOutput
+T4-G1 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T4-G1 Env3 Sust	0	4194304	Value	ValueOutput
+T4-G1 Env3 Rel	0	4194304	Value	ValueOutput
+T4-G1 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T4-G1 Env4 Att	0	4194304	Value	ValueOutput
+T4-G1 Env4 Att Curve	0	4194304	Value	ValueOutput
+T4-G1 Env4 Hold	0	4194304	Value	ValueOutput
+T4-G1 Env4 Dcy	0	4194304	Value	ValueOutput
+T4-G1 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T4-G1 Env4 Sust	0	4194304	Value	ValueOutput
+T4-G1 Env4 Rel	0	4194304	Value	ValueOutput
+T4-G1 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T4-G1 LFO1 Rate	0	4194304	Value	ValueOutput
+T4-G1 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T4-G1 LFO1 Depth	0	4194304	Value	ValueOutput
+T4-G1 LFO1 Phase	0	4194304	Value	ValueOutput
+T4-G1 LFO1 Shape	0	4194304	Value	ValueOutput
+T4-G1 LFO1 Attack	0	4194304	Value	ValueOutput
+T4-G1 LFO1 Invert	0	4194304	Value	ValueOutput
+T4-G1 LFO1 Restart	0	4194304	Value	ValueOutput
+T4-G1 LFO2 Rate	0	4194304	Value	ValueOutput
+T4-G1 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T4-G1 LFO2 Depth	0	4194304	Value	ValueOutput
+T4-G1 LFO2 Phase	0	4194304	Value	ValueOutput
+T4-G1 LFO2 Shape	0	4194304	Value	ValueOutput
+T4-G1 LFO2 Attack	0	4194304	Value	ValueOutput
+T4-G1 LFO2 Invert	0	4194304	Value	ValueOutput
+T4-G1 LFO2 Restart	0	4194304	Value	ValueOutput
+T4-G1 LFO3 Rate	0	4194304	Value	ValueOutput
+T4-G1 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T4-G1 LFO3 Depth	0	4194304	Value	ValueOutput
+T4-G1 LFO3 Phase	0	4194304	Value	ValueOutput
+T4-G1 LFO3 Shape	0	4194304	Value	ValueOutput
+T4-G1 LFO3 Attack	0	4194304	Value	ValueOutput
+T4-G1 LFO3 Invert	0	4194304	Value	ValueOutput
+T4-G1 LFO3 Restart	0	4194304	Value	ValueOutput
+T4-G1 LFO4 Rate	0	4194304	Value	ValueOutput
+T4-G1 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T4-G1 LFO4 Depth	0	4194304	Value	ValueOutput
+T4-G1 LFO4 Phase	0	4194304	Value	ValueOutput
+T4-G1 LFO4 Shape	0	4194304	Value	ValueOutput
+T4-G1 LFO4 Attack	0	4194304	Value	ValueOutput
+T4-G1 LFO4 Invert	0	4194304	Value	ValueOutput
+T4-G1 LFO4 Restart	0	4194304	Value	ValueOutput
+T4-G2 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T4-G2 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T4-G2 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T4-G2 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T4-G2 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T4-G2 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T4-G2 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T4-G2 Osc2 Fine End	0	4194304	Value	ValueOutput
+T4-G2 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T4-G2 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T4-G2 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T4-G2 Osc2 Gain End	0	4194304	Value	ValueOutput
+T4-G2 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T4-G2 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T4-G2 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T4-G2 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T4-G2 Sample Start	0	4194304	Value	ValueOutput
+T4-G2 Sample End	0	4194304	Value	ValueOutput
+T4-G2 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T4-G2 Dist1 Amt End	0	4194304	Value	ValueOutput
+T4-G2 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T4-G2 Dist1 Tone End	0	4194304	Value	ValueOutput
+T4-G2 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T4-G2 Dist2 Amt End	0	4194304	Value	ValueOutput
+T4-G2 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T4-G2 Dist2 Tone End	0	4194304	Value	ValueOutput
+T4-G2 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T4-G2 Flt Cutoff End	0	4194304	Value	ValueOutput
+T4-G2 Flt Res Start	0	4194304	Value	ValueOutput
+T4-G2 Flt Res End	0	4194304	Value	ValueOutput
+T4-G2 MixGain Start	0	4194304	Value	ValueOutput
+T4-G2 MixGain End	0	4194304	Value	ValueOutput
+T4-G2 MixPan Start	0	4194304	Value	ValueOutput
+T4-G2 MixPan End	0	4194304	Value	ValueOutput
+T4-G2 Env1 Att	0	4194304	Value	ValueOutput
+T4-G2 Env1 Att Curve	0	4194304	Value	ValueOutput
+T4-G2 Env1 Hold	0	4194304	Value	ValueOutput
+T4-G2 Env1 Dcy	0	4194304	Value	ValueOutput
+T4-G2 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T4-G2 Env1 Sust	0	4194304	Value	ValueOutput
+T4-G2 Env1 Rel	0	4194304	Value	ValueOutput
+T4-G2 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T4-G2 Env2 Att	0	4194304	Value	ValueOutput
+T4-G2 Env2 Att Curve	0	4194304	Value	ValueOutput
+T4-G2 Env2 Hold	0	4194304	Value	ValueOutput
+T4-G2 Env2 Dcy	0	4194304	Value	ValueOutput
+T4-G2 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T4-G2 Env2 Sust	0	4194304	Value	ValueOutput
+T4-G2 Env2 Rel	0	4194304	Value	ValueOutput
+T4-G2 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T4-G2 Env3 Att	0	4194304	Value	ValueOutput
+T4-G2 Env3 Att Curve	0	4194304	Value	ValueOutput
+T4-G2 Env3 Hold	0	4194304	Value	ValueOutput
+T4-G2 Env3 Dcy	0	4194304	Value	ValueOutput
+T4-G2 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T4-G2 Env3 Sust	0	4194304	Value	ValueOutput
+T4-G2 Env3 Rel	0	4194304	Value	ValueOutput
+T4-G2 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T4-G2 Env4 Att	0	4194304	Value	ValueOutput
+T4-G2 Env4 Att Curve	0	4194304	Value	ValueOutput
+T4-G2 Env4 Hold	0	4194304	Value	ValueOutput
+T4-G2 Env4 Dcy	0	4194304	Value	ValueOutput
+T4-G2 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T4-G2 Env4 Sust	0	4194304	Value	ValueOutput
+T4-G2 Env4 Rel	0	4194304	Value	ValueOutput
+T4-G2 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T4-G2 LFO1 Rate	0	4194304	Value	ValueOutput
+T4-G2 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T4-G2 LFO1 Depth	0	4194304	Value	ValueOutput
+T4-G2 LFO1 Phase	0	4194304	Value	ValueOutput
+T4-G2 LFO1 Shape	0	4194304	Value	ValueOutput
+T4-G2 LFO1 Attack	0	4194304	Value	ValueOutput
+T4-G2 LFO1 Invert	0	4194304	Value	ValueOutput
+T4-G2 LFO1 Restart	0	4194304	Value	ValueOutput
+T4-G2 LFO2 Rate	0	4194304	Value	ValueOutput
+T4-G2 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T4-G2 LFO2 Depth	0	4194304	Value	ValueOutput
+T4-G2 LFO2 Phase	0	4194304	Value	ValueOutput
+T4-G2 LFO2 Shape	0	4194304	Value	ValueOutput
+T4-G2 LFO2 Attack	0	4194304	Value	ValueOutput
+T4-G2 LFO2 Invert	0	4194304	Value	ValueOutput
+T4-G2 LFO2 Restart	0	4194304	Value	ValueOutput
+T4-G2 LFO3 Rate	0	4194304	Value	ValueOutput
+T4-G2 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T4-G2 LFO3 Depth	0	4194304	Value	ValueOutput
+T4-G2 LFO3 Phase	0	4194304	Value	ValueOutput
+T4-G2 LFO3 Shape	0	4194304	Value	ValueOutput
+T4-G2 LFO3 Attack	0	4194304	Value	ValueOutput
+T4-G2 LFO3 Invert	0	4194304	Value	ValueOutput
+T4-G2 LFO3 Restart	0	4194304	Value	ValueOutput
+T4-G2 LFO4 Rate	0	4194304	Value	ValueOutput
+T4-G2 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T4-G2 LFO4 Depth	0	4194304	Value	ValueOutput
+T4-G2 LFO4 Phase	0	4194304	Value	ValueOutput
+T4-G2 LFO4 Shape	0	4194304	Value	ValueOutput
+T4-G2 LFO4 Attack	0	4194304	Value	ValueOutput
+T4-G2 LFO4 Invert	0	4194304	Value	ValueOutput
+T4-G2 LFO4 Restart	0	4194304	Value	ValueOutput
+T4-G3 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T4-G3 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T4-G3 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T4-G3 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T4-G3 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T4-G3 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T4-G3 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T4-G3 Osc2 Fine End	0	4194304	Value	ValueOutput
+T4-G3 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T4-G3 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T4-G3 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T4-G3 Osc2 Gain End	0	4194304	Value	ValueOutput
+T4-G3 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T4-G3 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T4-G3 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T4-G3 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T4-G3 Sample Start	0	4194304	Value	ValueOutput
+T4-G3 Sample End	0	4194304	Value	ValueOutput
+T4-G3 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T4-G3 Dist1 Amt End	0	4194304	Value	ValueOutput
+T4-G3 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T4-G3 Dist1 Tone End	0	4194304	Value	ValueOutput
+T4-G3 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T4-G3 Dist2 Amt End	0	4194304	Value	ValueOutput
+T4-G3 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T4-G3 Dist2 Tone End	0	4194304	Value	ValueOutput
+T4-G3 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T4-G3 Flt Cutoff End	0	4194304	Value	ValueOutput
+T4-G3 Flt Res Start	0	4194304	Value	ValueOutput
+T4-G3 Flt Res End	0	4194304	Value	ValueOutput
+T4-G3 MixGain Start	0	4194304	Value	ValueOutput
+T4-G3 MixGain End	0	4194304	Value	ValueOutput
+T4-G3 MixPan Start	0	4194304	Value	ValueOutput
+T4-G3 MixPan End	0	4194304	Value	ValueOutput
+T4-G3 Env1 Att	0	4194304	Value	ValueOutput
+T4-G3 Env1 Att Curve	0	4194304	Value	ValueOutput
+T4-G3 Env1 Hold	0	4194304	Value	ValueOutput
+T4-G3 Env1 Dcy	0	4194304	Value	ValueOutput
+T4-G3 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T4-G3 Env1 Sust	0	4194304	Value	ValueOutput
+T4-G3 Env1 Rel	0	4194304	Value	ValueOutput
+T4-G3 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T4-G3 Env2 Att	0	4194304	Value	ValueOutput
+T4-G3 Env2 Att Curve	0	4194304	Value	ValueOutput
+T4-G3 Env2 Hold	0	4194304	Value	ValueOutput
+T4-G3 Env2 Dcy	0	4194304	Value	ValueOutput
+T4-G3 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T4-G3 Env2 Sust	0	4194304	Value	ValueOutput
+T4-G3 Env2 Rel	0	4194304	Value	ValueOutput
+T4-G3 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T4-G3 Env3 Att	0	4194304	Value	ValueOutput
+T4-G3 Env3 Att Curve	0	4194304	Value	ValueOutput
+T4-G3 Env3 Hold	0	4194304	Value	ValueOutput
+T4-G3 Env3 Dcy	0	4194304	Value	ValueOutput
+T4-G3 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T4-G3 Env3 Sust	0	4194304	Value	ValueOutput
+T4-G3 Env3 Rel	0	4194304	Value	ValueOutput
+T4-G3 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T4-G3 Env4 Att	0	4194304	Value	ValueOutput
+T4-G3 Env4 Att Curve	0	4194304	Value	ValueOutput
+T4-G3 Env4 Hold	0	4194304	Value	ValueOutput
+T4-G3 Env4 Dcy	0	4194304	Value	ValueOutput
+T4-G3 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T4-G3 Env4 Sust	0	4194304	Value	ValueOutput
+T4-G3 Env4 Rel	0	4194304	Value	ValueOutput
+T4-G3 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T4-G3 LFO1 Rate	0	4194304	Value	ValueOutput
+T4-G3 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T4-G3 LFO1 Depth	0	4194304	Value	ValueOutput
+T4-G3 LFO1 Phase	0	4194304	Value	ValueOutput
+T4-G3 LFO1 Shape	0	4194304	Value	ValueOutput
+T4-G3 LFO1 Attack	0	4194304	Value	ValueOutput
+T4-G3 LFO1 Invert	0	4194304	Value	ValueOutput
+T4-G3 LFO1 Restart	0	4194304	Value	ValueOutput
+T4-G3 LFO2 Rate	0	4194304	Value	ValueOutput
+T4-G3 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T4-G3 LFO2 Depth	0	4194304	Value	ValueOutput
+T4-G3 LFO2 Phase	0	4194304	Value	ValueOutput
+T4-G3 LFO2 Shape	0	4194304	Value	ValueOutput
+T4-G3 LFO2 Attack	0	4194304	Value	ValueOutput
+T4-G3 LFO2 Invert	0	4194304	Value	ValueOutput
+T4-G3 LFO2 Restart	0	4194304	Value	ValueOutput
+T4-G3 LFO3 Rate	0	4194304	Value	ValueOutput
+T4-G3 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T4-G3 LFO3 Depth	0	4194304	Value	ValueOutput
+T4-G3 LFO3 Phase	0	4194304	Value	ValueOutput
+T4-G3 LFO3 Shape	0	4194304	Value	ValueOutput
+T4-G3 LFO3 Attack	0	4194304	Value	ValueOutput
+T4-G3 LFO3 Invert	0	4194304	Value	ValueOutput
+T4-G3 LFO3 Restart	0	4194304	Value	ValueOutput
+T4-G3 LFO4 Rate	0	4194304	Value	ValueOutput
+T4-G3 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T4-G3 LFO4 Depth	0	4194304	Value	ValueOutput
+T4-G3 LFO4 Phase	0	4194304	Value	ValueOutput
+T4-G3 LFO4 Shape	0	4194304	Value	ValueOutput
+T4-G3 LFO4 Attack	0	4194304	Value	ValueOutput
+T4-G3 LFO4 Invert	0	4194304	Value	ValueOutput
+T4-G3 LFO4 Restart	0	4194304	Value	ValueOutput
+T5-G1 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T5-G1 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T5-G1 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T5-G1 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T5-G1 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T5-G1 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T5-G1 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T5-G1 Osc2 Fine End	0	4194304	Value	ValueOutput
+T5-G1 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T5-G1 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T5-G1 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T5-G1 Osc2 Gain End	0	4194304	Value	ValueOutput
+T5-G1 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T5-G1 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T5-G1 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T5-G1 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T5-G1 Sample Start	0	4194304	Value	ValueOutput
+T5-G1 Sample End	0	4194304	Value	ValueOutput
+T5-G1 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T5-G1 Dist1 Amt End	0	4194304	Value	ValueOutput
+T5-G1 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T5-G1 Dist1 Tone End	0	4194304	Value	ValueOutput
+T5-G1 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T5-G1 Dist2 Amt End	0	4194304	Value	ValueOutput
+T5-G1 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T5-G1 Dist2 Tone End	0	4194304	Value	ValueOutput
+T5-G1 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T5-G1 Flt Cutoff End	0	4194304	Value	ValueOutput
+T5-G1 Flt Res Start	0	4194304	Value	ValueOutput
+T5-G1 Flt Res End	0	4194304	Value	ValueOutput
+T5-G1 MixGain Start	0	4194304	Value	ValueOutput
+T5-G1 MixGain End	0	4194304	Value	ValueOutput
+T5-G1 MixPan Start	0	4194304	Value	ValueOutput
+T5-G1 MixPan End	0	4194304	Value	ValueOutput
+T5-G1 Env1 Att	0	4194304	Value	ValueOutput
+T5-G1 Env1 Att Curve	0	4194304	Value	ValueOutput
+T5-G1 Env1 Hold	0	4194304	Value	ValueOutput
+T5-G1 Env1 Dcy	0	4194304	Value	ValueOutput
+T5-G1 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T5-G1 Env1 Sust	0	4194304	Value	ValueOutput
+T5-G1 Env1 Rel	0	4194304	Value	ValueOutput
+T5-G1 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T5-G1 Env2 Att	0	4194304	Value	ValueOutput
+T5-G1 Env2 Att Curve	0	4194304	Value	ValueOutput
+T5-G1 Env2 Hold	0	4194304	Value	ValueOutput
+T5-G1 Env2 Dcy	0	4194304	Value	ValueOutput
+T5-G1 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T5-G1 Env2 Sust	0	4194304	Value	ValueOutput
+T5-G1 Env2 Rel	0	4194304	Value	ValueOutput
+T5-G1 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T5-G1 Env3 Att	0	4194304	Value	ValueOutput
+T5-G1 Env3 Att Curve	0	4194304	Value	ValueOutput
+T5-G1 Env3 Hold	0	4194304	Value	ValueOutput
+T5-G1 Env3 Dcy	0	4194304	Value	ValueOutput
+T5-G1 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T5-G1 Env3 Sust	0	4194304	Value	ValueOutput
+T5-G1 Env3 Rel	0	4194304	Value	ValueOutput
+T5-G1 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T5-G1 Env4 Att	0	4194304	Value	ValueOutput
+T5-G1 Env4 Att Curve	0	4194304	Value	ValueOutput
+T5-G1 Env4 Hold	0	4194304	Value	ValueOutput
+T5-G1 Env4 Dcy	0	4194304	Value	ValueOutput
+T5-G1 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T5-G1 Env4 Sust	0	4194304	Value	ValueOutput
+T5-G1 Env4 Rel	0	4194304	Value	ValueOutput
+T5-G1 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T5-G1 LFO1 Rate	0	4194304	Value	ValueOutput
+T5-G1 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T5-G1 LFO1 Depth	0	4194304	Value	ValueOutput
+T5-G1 LFO1 Phase	0	4194304	Value	ValueOutput
+T5-G1 LFO1 Shape	0	4194304	Value	ValueOutput
+T5-G1 LFO1 Attack	0	4194304	Value	ValueOutput
+T5-G1 LFO1 Invert	0	4194304	Value	ValueOutput
+T5-G1 LFO1 Restart	0	4194304	Value	ValueOutput
+T5-G1 LFO2 Rate	0	4194304	Value	ValueOutput
+T5-G1 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T5-G1 LFO2 Depth	0	4194304	Value	ValueOutput
+T5-G1 LFO2 Phase	0	4194304	Value	ValueOutput
+T5-G1 LFO2 Shape	0	4194304	Value	ValueOutput
+T5-G1 LFO2 Attack	0	4194304	Value	ValueOutput
+T5-G1 LFO2 Invert	0	4194304	Value	ValueOutput
+T5-G1 LFO2 Restart	0	4194304	Value	ValueOutput
+T5-G1 LFO3 Rate	0	4194304	Value	ValueOutput
+T5-G1 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T5-G1 LFO3 Depth	0	4194304	Value	ValueOutput
+T5-G1 LFO3 Phase	0	4194304	Value	ValueOutput
+T5-G1 LFO3 Shape	0	4194304	Value	ValueOutput
+T5-G1 LFO3 Attack	0	4194304	Value	ValueOutput
+T5-G1 LFO3 Invert	0	4194304	Value	ValueOutput
+T5-G1 LFO3 Restart	0	4194304	Value	ValueOutput
+T5-G1 LFO4 Rate	0	4194304	Value	ValueOutput
+T5-G1 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T5-G1 LFO4 Depth	0	4194304	Value	ValueOutput
+T5-G1 LFO4 Phase	0	4194304	Value	ValueOutput
+T5-G1 LFO4 Shape	0	4194304	Value	ValueOutput
+T5-G1 LFO4 Attack	0	4194304	Value	ValueOutput
+T5-G1 LFO4 Invert	0	4194304	Value	ValueOutput
+T5-G1 LFO4 Restart	0	4194304	Value	ValueOutput
+T5-G2 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T5-G2 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T5-G2 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T5-G2 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T5-G2 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T5-G2 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T5-G2 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T5-G2 Osc2 Fine End	0	4194304	Value	ValueOutput
+T5-G2 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T5-G2 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T5-G2 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T5-G2 Osc2 Gain End	0	4194304	Value	ValueOutput
+T5-G2 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T5-G2 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T5-G2 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T5-G2 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T5-G2 Sample Start	0	4194304	Value	ValueOutput
+T5-G2 Sample End	0	4194304	Value	ValueOutput
+T5-G2 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T5-G2 Dist1 Amt End	0	4194304	Value	ValueOutput
+T5-G2 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T5-G2 Dist1 Tone End	0	4194304	Value	ValueOutput
+T5-G2 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T5-G2 Dist2 Amt End	0	4194304	Value	ValueOutput
+T5-G2 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T5-G2 Dist2 Tone End	0	4194304	Value	ValueOutput
+T5-G2 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T5-G2 Flt Cutoff End	0	4194304	Value	ValueOutput
+T5-G2 Flt Res Start	0	4194304	Value	ValueOutput
+T5-G2 Flt Res End	0	4194304	Value	ValueOutput
+T5-G2 MixGain Start	0	4194304	Value	ValueOutput
+T5-G2 MixGain End	0	4194304	Value	ValueOutput
+T5-G2 MixPan Start	0	4194304	Value	ValueOutput
+T5-G2 MixPan End	0	4194304	Value	ValueOutput
+T5-G2 Env1 Att	0	4194304	Value	ValueOutput
+T5-G2 Env1 Att Curve	0	4194304	Value	ValueOutput
+T5-G2 Env1 Hold	0	4194304	Value	ValueOutput
+T5-G2 Env1 Dcy	0	4194304	Value	ValueOutput
+T5-G2 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T5-G2 Env1 Sust	0	4194304	Value	ValueOutput
+T5-G2 Env1 Rel	0	4194304	Value	ValueOutput
+T5-G2 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T5-G2 Env2 Att	0	4194304	Value	ValueOutput
+T5-G2 Env2 Att Curve	0	4194304	Value	ValueOutput
+T5-G2 Env2 Hold	0	4194304	Value	ValueOutput
+T5-G2 Env2 Dcy	0	4194304	Value	ValueOutput
+T5-G2 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T5-G2 Env2 Sust	0	4194304	Value	ValueOutput
+T5-G2 Env2 Rel	0	4194304	Value	ValueOutput
+T5-G2 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T5-G2 Env3 Att	0	4194304	Value	ValueOutput
+T5-G2 Env3 Att Curve	0	4194304	Value	ValueOutput
+T5-G2 Env3 Hold	0	4194304	Value	ValueOutput
+T5-G2 Env3 Dcy	0	4194304	Value	ValueOutput
+T5-G2 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T5-G2 Env3 Sust	0	4194304	Value	ValueOutput
+T5-G2 Env3 Rel	0	4194304	Value	ValueOutput
+T5-G2 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T5-G2 Env4 Att	0	4194304	Value	ValueOutput
+T5-G2 Env4 Att Curve	0	4194304	Value	ValueOutput
+T5-G2 Env4 Hold	0	4194304	Value	ValueOutput
+T5-G2 Env4 Dcy	0	4194304	Value	ValueOutput
+T5-G2 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T5-G2 Env4 Sust	0	4194304	Value	ValueOutput
+T5-G2 Env4 Rel	0	4194304	Value	ValueOutput
+T5-G2 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T5-G2 LFO1 Rate	0	4194304	Value	ValueOutput
+T5-G2 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T5-G2 LFO1 Depth	0	4194304	Value	ValueOutput
+T5-G2 LFO1 Phase	0	4194304	Value	ValueOutput
+T5-G2 LFO1 Shape	0	4194304	Value	ValueOutput
+T5-G2 LFO1 Attack	0	4194304	Value	ValueOutput
+T5-G2 LFO1 Invert	0	4194304	Value	ValueOutput
+T5-G2 LFO1 Restart	0	4194304	Value	ValueOutput
+T5-G2 LFO2 Rate	0	4194304	Value	ValueOutput
+T5-G2 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T5-G2 LFO2 Depth	0	4194304	Value	ValueOutput
+T5-G2 LFO2 Phase	0	4194304	Value	ValueOutput
+T5-G2 LFO2 Shape	0	4194304	Value	ValueOutput
+T5-G2 LFO2 Attack	0	4194304	Value	ValueOutput
+T5-G2 LFO2 Invert	0	4194304	Value	ValueOutput
+T5-G2 LFO2 Restart	0	4194304	Value	ValueOutput
+T5-G2 LFO3 Rate	0	4194304	Value	ValueOutput
+T5-G2 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T5-G2 LFO3 Depth	0	4194304	Value	ValueOutput
+T5-G2 LFO3 Phase	0	4194304	Value	ValueOutput
+T5-G2 LFO3 Shape	0	4194304	Value	ValueOutput
+T5-G2 LFO3 Attack	0	4194304	Value	ValueOutput
+T5-G2 LFO3 Invert	0	4194304	Value	ValueOutput
+T5-G2 LFO3 Restart	0	4194304	Value	ValueOutput
+T5-G2 LFO4 Rate	0	4194304	Value	ValueOutput
+T5-G2 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T5-G2 LFO4 Depth	0	4194304	Value	ValueOutput
+T5-G2 LFO4 Phase	0	4194304	Value	ValueOutput
+T5-G2 LFO4 Shape	0	4194304	Value	ValueOutput
+T5-G2 LFO4 Attack	0	4194304	Value	ValueOutput
+T5-G2 LFO4 Invert	0	4194304	Value	ValueOutput
+T5-G2 LFO4 Restart	0	4194304	Value	ValueOutput
+T5-G3 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T5-G3 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T5-G3 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T5-G3 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T5-G3 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T5-G3 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T5-G3 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T5-G3 Osc2 Fine End	0	4194304	Value	ValueOutput
+T5-G3 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T5-G3 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T5-G3 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T5-G3 Osc2 Gain End	0	4194304	Value	ValueOutput
+T5-G3 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T5-G3 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T5-G3 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T5-G3 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T5-G3 Sample Start	0	4194304	Value	ValueOutput
+T5-G3 Sample End	0	4194304	Value	ValueOutput
+T5-G3 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T5-G3 Dist1 Amt End	0	4194304	Value	ValueOutput
+T5-G3 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T5-G3 Dist1 Tone End	0	4194304	Value	ValueOutput
+T5-G3 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T5-G3 Dist2 Amt End	0	4194304	Value	ValueOutput
+T5-G3 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T5-G3 Dist2 Tone End	0	4194304	Value	ValueOutput
+T5-G3 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T5-G3 Flt Cutoff End	0	4194304	Value	ValueOutput
+T5-G3 Flt Res Start	0	4194304	Value	ValueOutput
+T5-G3 Flt Res End	0	4194304	Value	ValueOutput
+T5-G3 MixGain Start	0	4194304	Value	ValueOutput
+T5-G3 MixGain End	0	4194304	Value	ValueOutput
+T5-G3 MixPan Start	0	4194304	Value	ValueOutput
+T5-G3 MixPan End	0	4194304	Value	ValueOutput
+T5-G3 Env1 Att	0	4194304	Value	ValueOutput
+T5-G3 Env1 Att Curve	0	4194304	Value	ValueOutput
+T5-G3 Env1 Hold	0	4194304	Value	ValueOutput
+T5-G3 Env1 Dcy	0	4194304	Value	ValueOutput
+T5-G3 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T5-G3 Env1 Sust	0	4194304	Value	ValueOutput
+T5-G3 Env1 Rel	0	4194304	Value	ValueOutput
+T5-G3 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T5-G3 Env2 Att	0	4194304	Value	ValueOutput
+T5-G3 Env2 Att Curve	0	4194304	Value	ValueOutput
+T5-G3 Env2 Hold	0	4194304	Value	ValueOutput
+T5-G3 Env2 Dcy	0	4194304	Value	ValueOutput
+T5-G3 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T5-G3 Env2 Sust	0	4194304	Value	ValueOutput
+T5-G3 Env2 Rel	0	4194304	Value	ValueOutput
+T5-G3 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T5-G3 Env3 Att	0	4194304	Value	ValueOutput
+T5-G3 Env3 Att Curve	0	4194304	Value	ValueOutput
+T5-G3 Env3 Hold	0	4194304	Value	ValueOutput
+T5-G3 Env3 Dcy	0	4194304	Value	ValueOutput
+T5-G3 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T5-G3 Env3 Sust	0	4194304	Value	ValueOutput
+T5-G3 Env3 Rel	0	4194304	Value	ValueOutput
+T5-G3 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T5-G3 Env4 Att	0	4194304	Value	ValueOutput
+T5-G3 Env4 Att Curve	0	4194304	Value	ValueOutput
+T5-G3 Env4 Hold	0	4194304	Value	ValueOutput
+T5-G3 Env4 Dcy	0	4194304	Value	ValueOutput
+T5-G3 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T5-G3 Env4 Sust	0	4194304	Value	ValueOutput
+T5-G3 Env4 Rel	0	4194304	Value	ValueOutput
+T5-G3 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T5-G3 LFO1 Rate	0	4194304	Value	ValueOutput
+T5-G3 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T5-G3 LFO1 Depth	0	4194304	Value	ValueOutput
+T5-G3 LFO1 Phase	0	4194304	Value	ValueOutput
+T5-G3 LFO1 Shape	0	4194304	Value	ValueOutput
+T5-G3 LFO1 Attack	0	4194304	Value	ValueOutput
+T5-G3 LFO1 Invert	0	4194304	Value	ValueOutput
+T5-G3 LFO1 Restart	0	4194304	Value	ValueOutput
+T5-G3 LFO2 Rate	0	4194304	Value	ValueOutput
+T5-G3 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T5-G3 LFO2 Depth	0	4194304	Value	ValueOutput
+T5-G3 LFO2 Phase	0	4194304	Value	ValueOutput
+T5-G3 LFO2 Shape	0	4194304	Value	ValueOutput
+T5-G3 LFO2 Attack	0	4194304	Value	ValueOutput
+T5-G3 LFO2 Invert	0	4194304	Value	ValueOutput
+T5-G3 LFO2 Restart	0	4194304	Value	ValueOutput
+T5-G3 LFO3 Rate	0	4194304	Value	ValueOutput
+T5-G3 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T5-G3 LFO3 Depth	0	4194304	Value	ValueOutput
+T5-G3 LFO3 Phase	0	4194304	Value	ValueOutput
+T5-G3 LFO3 Shape	0	4194304	Value	ValueOutput
+T5-G3 LFO3 Attack	0	4194304	Value	ValueOutput
+T5-G3 LFO3 Invert	0	4194304	Value	ValueOutput
+T5-G3 LFO3 Restart	0	4194304	Value	ValueOutput
+T5-G3 LFO4 Rate	0	4194304	Value	ValueOutput
+T5-G3 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T5-G3 LFO4 Depth	0	4194304	Value	ValueOutput
+T5-G3 LFO4 Phase	0	4194304	Value	ValueOutput
+T5-G3 LFO4 Shape	0	4194304	Value	ValueOutput
+T5-G3 LFO4 Attack	0	4194304	Value	ValueOutput
+T5-G3 LFO4 Invert	0	4194304	Value	ValueOutput
+T5-G3 LFO4 Restart	0	4194304	Value	ValueOutput
+T6-G1 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T6-G1 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T6-G1 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T6-G1 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T6-G1 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T6-G1 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T6-G1 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T6-G1 Osc2 Fine End	0	4194304	Value	ValueOutput
+T6-G1 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T6-G1 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T6-G1 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T6-G1 Osc2 Gain End	0	4194304	Value	ValueOutput
+T6-G1 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T6-G1 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T6-G1 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T6-G1 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T6-G1 Sample Start	0	4194304	Value	ValueOutput
+T6-G1 Sample End	0	4194304	Value	ValueOutput
+T6-G1 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T6-G1 Dist1 Amt End	0	4194304	Value	ValueOutput
+T6-G1 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T6-G1 Dist1 Tone End	0	4194304	Value	ValueOutput
+T6-G1 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T6-G1 Dist2 Amt End	0	4194304	Value	ValueOutput
+T6-G1 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T6-G1 Dist2 Tone End	0	4194304	Value	ValueOutput
+T6-G1 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T6-G1 Flt Cutoff End	0	4194304	Value	ValueOutput
+T6-G1 Flt Res Start	0	4194304	Value	ValueOutput
+T6-G1 Flt Res End	0	4194304	Value	ValueOutput
+T6-G1 MixGain Start	0	4194304	Value	ValueOutput
+T6-G1 MixGain End	0	4194304	Value	ValueOutput
+T6-G1 MixPan Start	0	4194304	Value	ValueOutput
+T6-G1 MixPan End	0	4194304	Value	ValueOutput
+T6-G1 Env1 Att	0	4194304	Value	ValueOutput
+T6-G1 Env1 Att Curve	0	4194304	Value	ValueOutput
+T6-G1 Env1 Hold	0	4194304	Value	ValueOutput
+T6-G1 Env1 Dcy	0	4194304	Value	ValueOutput
+T6-G1 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T6-G1 Env1 Sust	0	4194304	Value	ValueOutput
+T6-G1 Env1 Rel	0	4194304	Value	ValueOutput
+T6-G1 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T6-G1 Env2 Att	0	4194304	Value	ValueOutput
+T6-G1 Env2 Att Curve	0	4194304	Value	ValueOutput
+T6-G1 Env2 Hold	0	4194304	Value	ValueOutput
+T6-G1 Env2 Dcy	0	4194304	Value	ValueOutput
+T6-G1 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T6-G1 Env2 Sust	0	4194304	Value	ValueOutput
+T6-G1 Env2 Rel	0	4194304	Value	ValueOutput
+T6-G1 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T6-G1 Env3 Att	0	4194304	Value	ValueOutput
+T6-G1 Env3 Att Curve	0	4194304	Value	ValueOutput
+T6-G1 Env3 Hold	0	4194304	Value	ValueOutput
+T6-G1 Env3 Dcy	0	4194304	Value	ValueOutput
+T6-G1 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T6-G1 Env3 Sust	0	4194304	Value	ValueOutput
+T6-G1 Env3 Rel	0	4194304	Value	ValueOutput
+T6-G1 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T6-G1 Env4 Att	0	4194304	Value	ValueOutput
+T6-G1 Env4 Att Curve	0	4194304	Value	ValueOutput
+T6-G1 Env4 Hold	0	4194304	Value	ValueOutput
+T6-G1 Env4 Dcy	0	4194304	Value	ValueOutput
+T6-G1 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T6-G1 Env4 Sust	0	4194304	Value	ValueOutput
+T6-G1 Env4 Rel	0	4194304	Value	ValueOutput
+T6-G1 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T6-G1 LFO1 Rate	0	4194304	Value	ValueOutput
+T6-G1 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T6-G1 LFO1 Depth	0	4194304	Value	ValueOutput
+T6-G1 LFO1 Phase	0	4194304	Value	ValueOutput
+T6-G1 LFO1 Shape	0	4194304	Value	ValueOutput
+T6-G1 LFO1 Attack	0	4194304	Value	ValueOutput
+T6-G1 LFO1 Invert	0	4194304	Value	ValueOutput
+T6-G1 LFO1 Restart	0	4194304	Value	ValueOutput
+T6-G1 LFO2 Rate	0	4194304	Value	ValueOutput
+T6-G1 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T6-G1 LFO2 Depth	0	4194304	Value	ValueOutput
+T6-G1 LFO2 Phase	0	4194304	Value	ValueOutput
+T6-G1 LFO2 Shape	0	4194304	Value	ValueOutput
+T6-G1 LFO2 Attack	0	4194304	Value	ValueOutput
+T6-G1 LFO2 Invert	0	4194304	Value	ValueOutput
+T6-G1 LFO2 Restart	0	4194304	Value	ValueOutput
+T6-G1 LFO3 Rate	0	4194304	Value	ValueOutput
+T6-G1 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T6-G1 LFO3 Depth	0	4194304	Value	ValueOutput
+T6-G1 LFO3 Phase	0	4194304	Value	ValueOutput
+T6-G1 LFO3 Shape	0	4194304	Value	ValueOutput
+T6-G1 LFO3 Attack	0	4194304	Value	ValueOutput
+T6-G1 LFO3 Invert	0	4194304	Value	ValueOutput
+T6-G1 LFO3 Restart	0	4194304	Value	ValueOutput
+T6-G1 LFO4 Rate	0	4194304	Value	ValueOutput
+T6-G1 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T6-G1 LFO4 Depth	0	4194304	Value	ValueOutput
+T6-G1 LFO4 Phase	0	4194304	Value	ValueOutput
+T6-G1 LFO4 Shape	0	4194304	Value	ValueOutput
+T6-G1 LFO4 Attack	0	4194304	Value	ValueOutput
+T6-G1 LFO4 Invert	0	4194304	Value	ValueOutput
+T6-G1 LFO4 Restart	0	4194304	Value	ValueOutput
+T6-G2 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T6-G2 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T6-G2 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T6-G2 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T6-G2 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T6-G2 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T6-G2 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T6-G2 Osc2 Fine End	0	4194304	Value	ValueOutput
+T6-G2 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T6-G2 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T6-G2 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T6-G2 Osc2 Gain End	0	4194304	Value	ValueOutput
+T6-G2 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T6-G2 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T6-G2 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T6-G2 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T6-G2 Sample Start	0	4194304	Value	ValueOutput
+T6-G2 Sample End	0	4194304	Value	ValueOutput
+T6-G2 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T6-G2 Dist1 Amt End	0	4194304	Value	ValueOutput
+T6-G2 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T6-G2 Dist1 Tone End	0	4194304	Value	ValueOutput
+T6-G2 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T6-G2 Dist2 Amt End	0	4194304	Value	ValueOutput
+T6-G2 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T6-G2 Dist2 Tone End	0	4194304	Value	ValueOutput
+T6-G2 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T6-G2 Flt Cutoff End	0	4194304	Value	ValueOutput
+T6-G2 Flt Res Start	0	4194304	Value	ValueOutput
+T6-G2 Flt Res End	0	4194304	Value	ValueOutput
+T6-G2 MixGain Start	0	4194304	Value	ValueOutput
+T6-G2 MixGain End	0	4194304	Value	ValueOutput
+T6-G2 MixPan Start	0	4194304	Value	ValueOutput
+T6-G2 MixPan End	0	4194304	Value	ValueOutput
+T6-G2 Env1 Att	0	4194304	Value	ValueOutput
+T6-G2 Env1 Att Curve	0	4194304	Value	ValueOutput
+T6-G2 Env1 Hold	0	4194304	Value	ValueOutput
+T6-G2 Env1 Dcy	0	4194304	Value	ValueOutput
+T6-G2 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T6-G2 Env1 Sust	0	4194304	Value	ValueOutput
+T6-G2 Env1 Rel	0	4194304	Value	ValueOutput
+T6-G2 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T6-G2 Env2 Att	0	4194304	Value	ValueOutput
+T6-G2 Env2 Att Curve	0	4194304	Value	ValueOutput
+T6-G2 Env2 Hold	0	4194304	Value	ValueOutput
+T6-G2 Env2 Dcy	0	4194304	Value	ValueOutput
+T6-G2 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T6-G2 Env2 Sust	0	4194304	Value	ValueOutput
+T6-G2 Env2 Rel	0	4194304	Value	ValueOutput
+T6-G2 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T6-G2 Env3 Att	0	4194304	Value	ValueOutput
+T6-G2 Env3 Att Curve	0	4194304	Value	ValueOutput
+T6-G2 Env3 Hold	0	4194304	Value	ValueOutput
+T6-G2 Env3 Dcy	0	4194304	Value	ValueOutput
+T6-G2 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T6-G2 Env3 Sust	0	4194304	Value	ValueOutput
+T6-G2 Env3 Rel	0	4194304	Value	ValueOutput
+T6-G2 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T6-G2 Env4 Att	0	4194304	Value	ValueOutput
+T6-G2 Env4 Att Curve	0	4194304	Value	ValueOutput
+T6-G2 Env4 Hold	0	4194304	Value	ValueOutput
+T6-G2 Env4 Dcy	0	4194304	Value	ValueOutput
+T6-G2 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T6-G2 Env4 Sust	0	4194304	Value	ValueOutput
+T6-G2 Env4 Rel	0	4194304	Value	ValueOutput
+T6-G2 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T6-G2 LFO1 Rate	0	4194304	Value	ValueOutput
+T6-G2 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T6-G2 LFO1 Depth	0	4194304	Value	ValueOutput
+T6-G2 LFO1 Phase	0	4194304	Value	ValueOutput
+T6-G2 LFO1 Shape	0	4194304	Value	ValueOutput
+T6-G2 LFO1 Attack	0	4194304	Value	ValueOutput
+T6-G2 LFO1 Invert	0	4194304	Value	ValueOutput
+T6-G2 LFO1 Restart	0	4194304	Value	ValueOutput
+T6-G2 LFO2 Rate	0	4194304	Value	ValueOutput
+T6-G2 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T6-G2 LFO2 Depth	0	4194304	Value	ValueOutput
+T6-G2 LFO2 Phase	0	4194304	Value	ValueOutput
+T6-G2 LFO2 Shape	0	4194304	Value	ValueOutput
+T6-G2 LFO2 Attack	0	4194304	Value	ValueOutput
+T6-G2 LFO2 Invert	0	4194304	Value	ValueOutput
+T6-G2 LFO2 Restart	0	4194304	Value	ValueOutput
+T6-G2 LFO3 Rate	0	4194304	Value	ValueOutput
+T6-G2 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T6-G2 LFO3 Depth	0	4194304	Value	ValueOutput
+T6-G2 LFO3 Phase	0	4194304	Value	ValueOutput
+T6-G2 LFO3 Shape	0	4194304	Value	ValueOutput
+T6-G2 LFO3 Attack	0	4194304	Value	ValueOutput
+T6-G2 LFO3 Invert	0	4194304	Value	ValueOutput
+T6-G2 LFO3 Restart	0	4194304	Value	ValueOutput
+T6-G2 LFO4 Rate	0	4194304	Value	ValueOutput
+T6-G2 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T6-G2 LFO4 Depth	0	4194304	Value	ValueOutput
+T6-G2 LFO4 Phase	0	4194304	Value	ValueOutput
+T6-G2 LFO4 Shape	0	4194304	Value	ValueOutput
+T6-G2 LFO4 Attack	0	4194304	Value	ValueOutput
+T6-G2 LFO4 Invert	0	4194304	Value	ValueOutput
+T6-G2 LFO4 Restart	0	4194304	Value	ValueOutput
+T6-G3 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T6-G3 Osc1/Smpl Coarse 	0	4194304	Value	ValueOutput
+T6-G3 Osc2 Coarse Start	0	4194304	Value	ValueOutput
+T6-G3 Osc2 Coarse End	0	4194304	Value	ValueOutput
+T6-G3 Osc1/Smpl Fine St	0	4194304	Value	ValueOutput
+T6-G3 Osc1/Smpl Fine En	0	4194304	Value	ValueOutput
+T6-G3 Osc2 Fine Start	0	4194304	Value	ValueOutput
+T6-G3 Osc2 Fine End	0	4194304	Value	ValueOutput
+T6-G3 Osc1/Smpl Gain St	0	4194304	Value	ValueOutput
+T6-G3 Osc1/Smpl Gain En	0	4194304	Value	ValueOutput
+T6-G3 Osc2 Gain Start	0	4194304	Value	ValueOutput
+T6-G3 Osc2 Gain End	0	4194304	Value	ValueOutput
+T6-G3 Osc1 WaveShape St	0	4194304	Value	ValueOutput
+T6-G3 Osc1 WaveShape En	0	4194304	Value	ValueOutput
+T6-G3 Osc2 WaveShape St	0	4194304	Value	ValueOutput
+T6-G3 Osc2 WaveShape En	0	4194304	Value	ValueOutput
+T6-G3 Sample Start	0	4194304	Value	ValueOutput
+T6-G3 Sample End	0	4194304	Value	ValueOutput
+T6-G3 Dist1 Amt Start	0	4194304	Value	ValueOutput
+T6-G3 Dist1 Amt End	0	4194304	Value	ValueOutput
+T6-G3 Dist1 Tone Start	0	4194304	Value	ValueOutput
+T6-G3 Dist1 Tone End	0	4194304	Value	ValueOutput
+T6-G3 Dist2 Amt Start	0	4194304	Value	ValueOutput
+T6-G3 Dist2 Amt End	0	4194304	Value	ValueOutput
+T6-G3 Dist2 Tone Start	0	4194304	Value	ValueOutput
+T6-G3 Dist2 Tone End	0	4194304	Value	ValueOutput
+T6-G3 Flt Cutoff Start	0	4194304	Value	ValueOutput
+T6-G3 Flt Cutoff End	0	4194304	Value	ValueOutput
+T6-G3 Flt Res Start	0	4194304	Value	ValueOutput
+T6-G3 Flt Res End	0	4194304	Value	ValueOutput
+T6-G3 MixGain Start	0	4194304	Value	ValueOutput
+T6-G3 MixGain End	0	4194304	Value	ValueOutput
+T6-G3 MixPan Start	0	4194304	Value	ValueOutput
+T6-G3 MixPan End	0	4194304	Value	ValueOutput
+T6-G3 Env1 Att	0	4194304	Value	ValueOutput
+T6-G3 Env1 Att Curve	0	4194304	Value	ValueOutput
+T6-G3 Env1 Hold	0	4194304	Value	ValueOutput
+T6-G3 Env1 Dcy	0	4194304	Value	ValueOutput
+T6-G3 Env1 Dcy Curve	0	4194304	Value	ValueOutput
+T6-G3 Env1 Sust	0	4194304	Value	ValueOutput
+T6-G3 Env1 Rel	0	4194304	Value	ValueOutput
+T6-G3 Env1 Rel Curve	0	4194304	Value	ValueOutput
+T6-G3 Env2 Att	0	4194304	Value	ValueOutput
+T6-G3 Env2 Att Curve	0	4194304	Value	ValueOutput
+T6-G3 Env2 Hold	0	4194304	Value	ValueOutput
+T6-G3 Env2 Dcy	0	4194304	Value	ValueOutput
+T6-G3 Env2 Dcy Curve	0	4194304	Value	ValueOutput
+T6-G3 Env2 Sust	0	4194304	Value	ValueOutput
+T6-G3 Env2 Rel	0	4194304	Value	ValueOutput
+T6-G3 Env2 Rel Curve	0	4194304	Value	ValueOutput
+T6-G3 Env3 Att	0	4194304	Value	ValueOutput
+T6-G3 Env3 Att Curve	0	4194304	Value	ValueOutput
+T6-G3 Env3 Hold	0	4194304	Value	ValueOutput
+T6-G3 Env3 Dcy	0	4194304	Value	ValueOutput
+T6-G3 Env3 Dcy Curve	0	4194304	Value	ValueOutput
+T6-G3 Env3 Sust	0	4194304	Value	ValueOutput
+T6-G3 Env3 Rel	0	4194304	Value	ValueOutput
+T6-G3 Env3 Rel Curve	0	4194304	Value	ValueOutput
+T6-G3 Env4 Att	0	4194304	Value	ValueOutput
+T6-G3 Env4 Att Curve	0	4194304	Value	ValueOutput
+T6-G3 Env4 Hold	0	4194304	Value	ValueOutput
+T6-G3 Env4 Dcy	0	4194304	Value	ValueOutput
+T6-G3 Env4 Dcy Curve	0	4194304	Value	ValueOutput
+T6-G3 Env4 Sust	0	4194304	Value	ValueOutput
+T6-G3 Env4 Rel	0	4194304	Value	ValueOutput
+T6-G3 Env4 Rel Curve	0	4194304	Value	ValueOutput
+T6-G3 LFO1 Rate	0	4194304	Value	ValueOutput
+T6-G3 LFO1 Sync Rate	0	4194304	Value	ValueOutput
+T6-G3 LFO1 Depth	0	4194304	Value	ValueOutput
+T6-G3 LFO1 Phase	0	4194304	Value	ValueOutput
+T6-G3 LFO1 Shape	0	4194304	Value	ValueOutput
+T6-G3 LFO1 Attack	0	4194304	Value	ValueOutput
+T6-G3 LFO1 Invert	0	4194304	Value	ValueOutput
+T6-G3 LFO1 Restart	0	4194304	Value	ValueOutput
+T6-G3 LFO2 Rate	0	4194304	Value	ValueOutput
+T6-G3 LFO2 Sync Rate	0	4194304	Value	ValueOutput
+T6-G3 LFO2 Depth	0	4194304	Value	ValueOutput
+T6-G3 LFO2 Phase	0	4194304	Value	ValueOutput
+T6-G3 LFO2 Shape	0	4194304	Value	ValueOutput
+T6-G3 LFO2 Attack	0	4194304	Value	ValueOutput
+T6-G3 LFO2 Invert	0	4194304	Value	ValueOutput
+T6-G3 LFO2 Restart	0	4194304	Value	ValueOutput
+T6-G3 LFO3 Rate	0	4194304	Value	ValueOutput
+T6-G3 LFO3 Sync Rate	0	4194304	Value	ValueOutput
+T6-G3 LFO3 Depth	0	4194304	Value	ValueOutput
+T6-G3 LFO3 Phase	0	4194304	Value	ValueOutput
+T6-G3 LFO3 Shape	0	4194304	Value	ValueOutput
+T6-G3 LFO3 Attack	0	4194304	Value	ValueOutput
+T6-G3 LFO3 Invert	0	4194304	Value	ValueOutput
+T6-G3 LFO3 Restart	0	4194304	Value	ValueOutput
+T6-G3 LFO4 Rate	0	4194304	Value	ValueOutput
+T6-G3 LFO4 Sync Rate	0	4194304	Value	ValueOutput
+T6-G3 LFO4 Depth	0	4194304	Value	ValueOutput
+T6-G3 LFO4 Phase	0	4194304	Value	ValueOutput
+T6-G3 LFO4 Shape	0	4194304	Value	ValueOutput
+T6-G3 LFO4 Attack	0	4194304	Value	ValueOutput
+T6-G3 LFO4 Invert	0	4194304	Value	ValueOutput
+T6-G3 LFO4 Restart	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

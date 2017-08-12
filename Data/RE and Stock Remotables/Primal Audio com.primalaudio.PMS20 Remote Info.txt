@@ -1,0 +1,22 @@
+Scope
+Manufacturer	Model
+Primal Audio	com.primalaudio.PMS20
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Highpass Cutoff	0	4194304	Value	ValueOutput
+Highpass Modulation	0	4194304	Value	ValueOutput
+Highpass Peak	0	4194304	Value	ValueOutput
+Lowpass Cutoff	0	4194304	Value	ValueOutput
+Lowpass Modulation	0	4194304	Value	ValueOutput
+Lowpass Peak	0	4194304	Value	ValueOutput
+Input Level	0	4194304	Value	ValueOutput
+Rage	0	1	Toggle	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Auto	0	1	Toggle	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

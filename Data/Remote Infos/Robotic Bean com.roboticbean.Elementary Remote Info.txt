@@ -1,0 +1,48 @@
+Scope
+Manufacturer	Model
+Robotic Bean	com.roboticbean.Elementary
+
+Remotable	Min	Max	Input type	Output type
+Trigger 1	0	1	Toggle	ValueOutput
+Trigger 2	0	1	Toggle	ValueOutput
+Trigger 3	0	1	Toggle	ValueOutput
+Clock 1 Enable	0	1	Toggle	ValueOutput
+Clock 1 Rate	0	8	Value	ValueOutput
+Clock 1 Gate Width	0	4194304	Value	ValueOutput
+Clock 1 Invert	0	1	Toggle	ValueOutput
+Clock 2 Enable	0	1	Toggle	ValueOutput
+Clock 2 Rate	0	8	Value	ValueOutput
+Clock 2 Gate Width	0	4194304	Value	ValueOutput
+Clock 2 Invert	0	1	Toggle	ValueOutput
+Clock 3 Enable	0	1	Toggle	ValueOutput
+Clock 3 Rate	0	8	Value	ValueOutput
+Clock 3 Gate Width	0	4194304	Value	ValueOutput
+Clock 3 Invert	0	1	Toggle	ValueOutput
+Enable Outputs	0	1	Toggle	ValueOutput
+Slide	0	240	Value	ValueOutput
+Shuffle Amount	0	4194304	Value	ValueOutput
+Shuffle Resolution	0	2	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+Gate LED 01	0	5	-	ValueOutput
+Gate LED 02	0	5	-	ValueOutput
+Gate LED 03	0	5	-	ValueOutput
+Gate LED 04	0	5	-	ValueOutput
+Gate LED 05	0	5	-	ValueOutput
+Gate LED 06	0	5	-	ValueOutput
+Gate LED 07	0	5	-	ValueOutput
+Gate LED 08	0	5	-	ValueOutput
+Gate LED 09	0	5	-	ValueOutput
+Gate LED 10	0	5	-	ValueOutput
+Gate LED 11	0	5	-	ValueOutput
+Gate LED 12	0	5	-	ValueOutput
+Clock LED 1	0	5	-	ValueOutput
+Input LED 1	0	5	-	ValueOutput
+Clock LED 2	0	5	-	ValueOutput
+Input LED 2	0	5	-	ValueOutput
+Clock LED 3	0	5	-	ValueOutput
+Input LED 3	0	5	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

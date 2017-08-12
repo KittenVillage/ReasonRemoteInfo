@@ -1,0 +1,77 @@
+Scope
+Manufacturer	Model
+Plugin Alliance	vst.uaFa.Unfiltered Audio Fault x64
+Note: Will match scope definitions for vst.uaFa.Unfiltered Audio Fault x64 or vst.uaFa
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Pitch Shift L	0	4194304	Value	ValueOutput
+Pitch Shift R	0	4194304	Value	ValueOutput
+Quantize	0	4194304	Value	ValueOutput
+Link P. Shift	0	4194304	Value	ValueOutput
+Mono	0	4194304	Value	ValueOutput
+Shift Amount	0	4194304	Value	ValueOutput
+Shift Mult	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+FShift Spread	0	4194304	Value	ValueOutput
+FM Freq Mult	0	4194304	Value	ValueOutput
+FM Depth	0	4194304	Value	ValueOutput
+FM Mode	0	4194304	Value	ValueOutput
+Shift L FB	0	4194304	Value	ValueOutput
+Shift R FB	0	4194304	Value	ValueOutput
+Link Delay FB	0	4194304	Value	ValueOutput
+Shift X FB	0	4194304	Value	ValueOutput
+Delay L FB	0	4194304	Value	ValueOutput
+Delay R FB	0	4194304	Value	ValueOutput
+Delay X FB	0	4194304	Value	ValueOutput
+Link Shifter FB	0	4194304	Value	ValueOutput
+Stabilize	0	4194304	Value	ValueOutput
+Kill	0	4194304	Value	ValueOutput
+LP Cutoff	0	4194304	Value	ValueOutput
+HP Cutoff	0	4194304	Value	ValueOutput
+Filter All	0	4194304	Value	ValueOutput
+Tempo Sync	0	4194304	Value	ValueOutput
+Delay L Time	0	4194304	Value	ValueOutput
+Delay R Time	0	4194304	Value	ValueOutput
+Link Delay	0	4194304	Value	ValueOutput
+Sample Rate	0	4194304	Value	ValueOutput
+Soft Clip	0	4194304	Value	ValueOutput
+Anti-Alias	0	4194304	Value	ValueOutput
+Ring Mode	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Stereo Width	0	4194304	Value	ValueOutput
+MS Mode	0	4194304	Value	ValueOutput
+ModCtrl1	0	4194304	Value	ValueOutput
+ModCtrl2	0	4194304	Value	ValueOutput
+ModCtrl3	0	4194304	Value	ValueOutput
+ModCtrl4	0	4194304	Value	ValueOutput
+ModCtrl5	0	4194304	Value	ValueOutput
+ModCtrl6	0	4194304	Value	ValueOutput
+ModCtrl7	0	4194304	Value	ValueOutput
+ModCtrl8	0	4194304	Value	ValueOutput
+ModCtrl9	0	4194304	Value	ValueOutput
+ModCtrl10	0	4194304	Value	ValueOutput
+ModCtrl11	0	4194304	Value	ValueOutput
+ModCtrl12	0	4194304	Value	ValueOutput
+ModCtrl13	0	4194304	Value	ValueOutput
+ModCtrl14	0	4194304	Value	ValueOutput
+ModCtrl15	0	4194304	Value	ValueOutput
+ModCtrl16	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

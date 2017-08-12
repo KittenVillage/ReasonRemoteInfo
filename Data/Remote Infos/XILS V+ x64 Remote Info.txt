@@ -1,0 +1,143 @@
+Scope
+Manufacturer	Model
+XILS-lab	vst.XeV%2B.XILS V+ x64
+Note: Will match scope definitions for vst.XeV%2B.XILS V+ x64 or vst.XeV%2B
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+ArpRate 	0	4194304	Value	ValueOutput
+ArpSwing	0	4194304	Value	ValueOutput
+ArpGate 	0	4194304	Value	ValueOutput
+Gen Lev 	0	4194304	Value	ValueOutput
+GlobHiss	0	4194304	Value	ValueOutput
+GlobTune	0	4194304	Value	ValueOutput
+ExtSyLev	0	4194304	Value	ValueOutput
+OscWavFr	0	4194304	Value	ValueOutput
+StrinLev	0	4194304	Value	ValueOutput
+StriTone	0	4194304	Value	ValueOutput
+StriFilt	0	4194304	Value	ValueOutput
+StriAttc	0	4194304	Value	ValueOutput
+StrEnsDW	0	4194304	Value	ValueOutput
+HVoicLev	0	4194304	Value	ValueOutput
+HVoicAtt	0	4194304	Value	ValueOutput
+Hum8 Lev	0	4194304	Value	ValueOutput
+Hum4 Lev	0	4194304	Value	ValueOutput
+HumReson	0	4194304	Value	ValueOutput
+HumFrmt 	0	4194304	Value	ValueOutput
+HumEnsDW	0	4194304	Value	ValueOutput
+VocoTone	0	4194304	Value	ValueOutput
+VocMcLev	0	4194304	Value	ValueOutput
+VocEnsDW	0	4194304	Value	ValueOutput
+VocConFr	0	4194304	Value	ValueOutput
+VocNoise	0	4194304	Value	ValueOutput
+Slew Att	0	4194304	Value	ValueOutput
+Slew Rel	0	4194304	Value	ValueOutput
+Quality 	0	4194304	Value	ValueOutput
+dirMcLev	0	4194304	Value	ValueOutput
+VibraRat	0	4194304	Value	ValueOutput
+VibraDel	0	4194304	Value	ValueOutput
+VibraDpt	0	4194304	Value	ValueOutput
+LfoFreq 	0	4194304	Value	ValueOutput
+EnvDel  	0	4194304	Value	ValueOutput
+EnvAtt  	0	4194304	Value	ValueOutput
+EnvDel  	0	4194304	Value	ValueOutput
+EnvSus  	0	4194304	Value	ValueOutput
+EnvRel  	0	4194304	Value	ValueOutput
+GblRelea	0	4194304	Value	ValueOutput
+PitShift	0	4194304	Value	ValueOutput
+PitchSet	0	4194304	Value	ValueOutput
+VocoTime	0	4194304	Value	ValueOutput
+PitQual 	0	4194304	Value	ValueOutput
+PitZero 	0	4194304	Value	ValueOutput
+PitLowFr	0	4194304	Value	ValueOutput
+PitHigFr	0	4194304	Value	ValueOutput
+Modul1Am	0	4194304	Value	ValueOutput
+Modul2Am	0	4194304	Value	ValueOutput
+Modul3Am	0	4194304	Value	ValueOutput
+Modul4Am	0	4194304	Value	ValueOutput
+Modul5Am	0	4194304	Value	ValueOutput
+Modul6Am	0	4194304	Value	ValueOutput
+PitcBend	0	4194304	Value	ValueOutput
+ModWheel	0	4194304	Value	ValueOutput
+ReverbTi	0	4194304	Value	ValueOutput
+ReverbFr	0	4194304	Value	ValueOutput
+ReverbLe	0	4194304	Value	ValueOutput
+XHumans	0	4194304	Value	ValueOutput
+YHumans	0	4194304	Value	ValueOutput
+XString	0	4194304	Value	ValueOutput
+YString	0	4194304	Value	ValueOutput
+XVocode	0	4194304	Value	ValueOutput
+YVocode	0	4194304	Value	ValueOutput
+XEnsLef	0	4194304	Value	ValueOutput
+YEnsLef	0	4194304	Value	ValueOutput
+XEnsRig	0	4194304	Value	ValueOutput
+YEnsRig	0	4194304	Value	ValueOutput
+XDirMic	0	4194304	Value	ValueOutput
+YDirMic	0	4194304	Value	ValueOutput
+WidSpace	0	4194304	Value	ValueOutput
+DirSpace	0	4194304	Value	ValueOutput
+MicPosSp	0	4194304	Value	ValueOutput
+MicPosSp	0	4194304	Value	ValueOutput
+PhaserSp	0	4194304	Value	ValueOutput
+PhaserAm	0	4194304	Value	ValueOutput
+PhaserSt	0	4194304	Value	ValueOutput
+PhaserRe	0	4194304	Value	ValueOutput
+PhaserSw	0	4194304	Value	ValueOutput
+PhaserDW	0	4194304	Value	ValueOutput
+ArpOnOff	0	4194304	Value	ValueOutput
+Arp   Up	0	4194304	Value	ValueOutput
+Arp Down	0	4194304	Value	ValueOutput
+ArpOctav	0	4194304	Value	ValueOutput
+ArpPoly 	0	4194304	Value	ValueOutput
+ArpLast 	0	4194304	Value	ValueOutput
+ArpBreak	0	4194304	Value	ValueOutput
+ArpMidSy	0	4194304	Value	ValueOutput
+KeybHold	0	4194304	Value	ValueOutput
+VocSelec	0	4194304	Value	ValueOutput
+VUpperOn	0	4194304	Value	ValueOutput
+VLowerOn	0	4194304	Value	ValueOutput
+VEnsemOn	0	4194304	Value	ValueOutput
+HLower 8	0	4194304	Value	ValueOutput
+HLower 4	0	4194304	Value	ValueOutput
+HUpper 8	0	4194304	Value	ValueOutput
+HUpper 4	0	4194304	Value	ValueOutput
+HEnsembl	0	4194304	Value	ValueOutput
+SUpperOn	0	4194304	Value	ValueOutput
+SLowerOn	0	4194304	Value	ValueOutput
+SAttackM	0	4194304	Value	ValueOutput
+HAttackM	0	4194304	Value	ValueOutput
+StrWavef	0	4194304	Value	ValueOutput
+LFO Sine	0	4194304	Value	ValueOutput
+LFO Tria	0	4194304	Value	ValueOutput
+LFO Squa	0	4194304	Value	ValueOutput
+LFO Ramp	0	4194304	Value	ValueOutput
+LFO saw 	0	4194304	Value	ValueOutput
+LFO S&H 	0	4194304	Value	ValueOutput
+LFOMSync	0	4194304	Value	ValueOutput
+EnvMSync	0	4194304	Value	ValueOutput
+PitchBOn	0	4194304	Value	ValueOutput
+Freeze  	0	4194304	Value	ValueOutput
+Water fx	0	4194304	Value	ValueOutput
+Pitch Rg	0	4194304	Value	ValueOutput
+LegacRel	0	4194304	Value	ValueOutput
+ByPStreo	0	4194304	Value	ValueOutput
+ByPRevrb	0	4194304	Value	ValueOutput
+PhaserOn	0	4194304	Value	ValueOutput
+EnableFx	0	4194304	Value	ValueOutput
+GenByPas	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

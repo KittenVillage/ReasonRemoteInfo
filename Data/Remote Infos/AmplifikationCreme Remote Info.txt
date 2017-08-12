@@ -1,0 +1,67 @@
+Scope
+Manufacturer	Model
+Kuassa, Inc.	vst.KSAc.AmplifikationCreme
+Note: Will match scope definitions for vst.KSAc.AmplifikationCreme or vst.KSAc
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+bypass	0	4194304	Value	ValueOutput
+inChannel	0	4194304	Value	ValueOutput
+inputVol	0	4194304	Value	ValueOutput
+gateOn	0	4194304	Value	ValueOutput
+gateThr	0	4194304	Value	ValueOutput
+gateAtt	0	4194304	Value	ValueOutput
+gateDec	0	4194304	Value	ValueOutput
+hiq	0	4194304	Value	ValueOutput
+fxOn	0	4194304	Value	ValueOutput
+fxType	0	4194304	Value	ValueOutput
+fxDrive	0	4194304	Value	ValueOutput
+fxTone	0	4194304	Value	ValueOutput
+fxLevel	0	4194304	Value	ValueOutput
+ampOn	0	4194304	Value	ValueOutput
+ampType	0	4194304	Value	ValueOutput
+ampChannel	0	4194304	Value	ValueOutput
+ampGain	0	4194304	Value	ValueOutput
+ampLow	0	4194304	Value	ValueOutput
+ampMid	0	4194304	Value	ValueOutput
+ampHigh	0	4194304	Value	ValueOutput
+ampMaster	0	4194304	Value	ValueOutput
+cabIrType	0	4194304	Value	ValueOutput
+cabOn1	0	4194304	Value	ValueOutput
+cabType1	0	4194304	Value	ValueOutput
+micType1	0	4194304	Value	ValueOutput
+micAngle1	0	4194304	Value	ValueOutput
+micAxis1	0	4194304	Value	ValueOutput
+micDistance1	0	4194304	Value	ValueOutput
+micPhase1	0	4194304	Value	ValueOutput
+micVol1	0	4194304	Value	ValueOutput
+micPan1	0	4194304	Value	ValueOutput
+cabOn2	0	4194304	Value	ValueOutput
+cabType2	0	4194304	Value	ValueOutput
+micType2	0	4194304	Value	ValueOutput
+micAngle2	0	4194304	Value	ValueOutput
+micAxis2	0	4194304	Value	ValueOutput
+micDistance2	0	4194304	Value	ValueOutput
+micPhase2	0	4194304	Value	ValueOutput
+micVol2	0	4194304	Value	ValueOutput
+micPan2	0	4194304	Value	ValueOutput
+micRatio	0	4194304	Value	ValueOutput
+outputVol	0	4194304	Value	ValueOutput
+limiterOn	0	4194304	Value	ValueOutput
+autoResample	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

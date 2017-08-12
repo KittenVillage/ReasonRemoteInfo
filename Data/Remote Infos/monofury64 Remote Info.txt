@@ -1,0 +1,92 @@
+Scope
+Manufacturer	Model
+Full Bucket Music	vst.1416.monofury64
+Note: Will match scope definitions for vst.1416.monofury64 or vst.1416
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+KeyAssgn	0	4194304	Value	ValueOutput
+Trigger	0	4194304	Value	ValueOutput
+AutoDamp	0	4194304	Value	ValueOutput
+Hold	0	4194304	Value	ValueOutput
+Chord #1	0	4194304	Value	ValueOutput
+Chord #2	0	4194304	Value	ValueOutput
+Chord #3	0	4194304	Value	ValueOutput
+Chord #4	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+OutRange	0	4194304	Value	ValueOutput
+Trnspose	0	4194304	Value	ValueOutput
+MstrTune	0	4194304	Value	ValueOutput
+Detune	0	4194304	Value	ValueOutput
+Portamnt	0	4194304	Value	ValueOutput
+PBTarget	0	4194304	Value	ValueOutput
+PBIntens	0	4194304	Value	ValueOutput
+MWTarget	0	4194304	Value	ValueOutput
+MWIntens	0	4194304	Value	ValueOutput
+Wave 1	0	4194304	Value	ValueOutput
+Octave 1	0	4194304	Value	ValueOutput
+Level 1	0	4194304	Value	ValueOutput
+Tune 2	0	4194304	Value	ValueOutput
+Wave 2	0	4194304	Value	ValueOutput
+Octave 2	0	4194304	Value	ValueOutput
+Level 2	0	4194304	Value	ValueOutput
+Tune 3	0	4194304	Value	ValueOutput
+Wave 3	0	4194304	Value	ValueOutput
+Octave 3	0	4194304	Value	ValueOutput
+Level 3	0	4194304	Value	ValueOutput
+Tune 4	0	4194304	Value	ValueOutput
+Wave 4	0	4194304	Value	ValueOutput
+Octave 4	0	4194304	Value	ValueOutput
+Level 4	0	4194304	Value	ValueOutput
+PWM	0	4194304	Value	ValueOutput
+PWM Src	0	4194304	Value	ValueOutput
+PW	0	4194304	Value	ValueOutput
+Noise	0	4194304	Value	ValueOutput
+Effects	0	4194304	Value	ValueOutput
+FX X-Mod	0	4194304	Value	ValueOutput
+FX FM	0	4194304	Value	ValueOutput
+FX FMSrc	0	4194304	Value	ValueOutput
+FX Type	0	4194304	Value	ValueOutput
+FX Mode	0	4194304	Value	ValueOutput
+CutOff	0	4194304	Value	ValueOutput
+Reso	0	4194304	Value	ValueOutput
+EGIntens	0	4194304	Value	ValueOutput
+KeyTrack	0	4194304	Value	ValueOutput
+MG1 Wave	0	4194304	Value	ValueOutput
+MG1 Rate	0	4194304	Value	ValueOutput
+MG2 Rate	0	4194304	Value	ValueOutput
+EG1 A	0	4194304	Value	ValueOutput
+EG1 D	0	4194304	Value	ValueOutput
+EG1 S	0	4194304	Value	ValueOutput
+EG1 R	0	4194304	Value	ValueOutput
+EG2 A	0	4194304	Value	ValueOutput
+EG2 D	0	4194304	Value	ValueOutput
+EG2 S	0	4194304	Value	ValueOutput
+EG2 R	0	4194304	Value	ValueOutput
+ARPRange	0	4194304	Value	ValueOutput
+ARP Mode	0	4194304	Value	ValueOutput
+ARPState	0	4194304	Value	ValueOutput
+MWOvride	0	4194304	Value	ValueOutput
+FXReset	0	4194304	Value	ValueOutput
+FXFrqShS	0	4194304	Value	ValueOutput
+FXFrqShD	0	4194304	Value	ValueOutput
+ARP Trig	0	4194304	Value	ValueOutput
+ARPTempo	0	4194304	Value	ValueOutput
+VCF Velo	0	4194304	Value	ValueOutput
+VCA Velo	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

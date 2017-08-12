@@ -1,0 +1,166 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.JPSHarmonicSynth
+
+Remotable	Min	Max	Input type	Output type
+Master Volume	0	4194304	Value	ValueOutput
+Polyphonic Voices	0	63	Value	ValueOutput
+DHG Edit Select	0	1	Toggle	ValueOutput
+Aftertouch Enable	0	1	Toggle	ValueOutput
+Velocity Enable	0	1	Toggle	ValueOutput
+Expression Enable	0	1	Toggle	ValueOutput
+Voice Select	0	2	Value	ValueOutput
+Osc 1 Octave	0	3	Value	ValueOutput
+DHG 1 Harmonic 1	0	4194304	Value	ValueOutput
+DHG 1 Harmonic 2	0	4194304	Value	ValueOutput
+DHG 1 Harmonic 3	0	4194304	Value	ValueOutput
+DHG 1 Harmonic 4	0	4194304	Value	ValueOutput
+DHG 1 Harmonic 5	0	4194304	Value	ValueOutput
+DHG 1 Harmonic 6	0	4194304	Value	ValueOutput
+DHG 1 Harmonic 7	0	4194304	Value	ValueOutput
+DHG 1 Harmonic 8	0	4194304	Value	ValueOutput
+DHG 1 Harmonic 9	0	4194304	Value	ValueOutput
+DHG 1 Harmonic 10	0	4194304	Value	ValueOutput
+DHG 1 Harmonic 11	0	4194304	Value	ValueOutput
+DHG 1 Harmonic 12	0	4194304	Value	ValueOutput
+DHG 1 Harmonic 13	0	4194304	Value	ValueOutput
+DHG 1 Harmonic 14	0	4194304	Value	ValueOutput
+DHG 1 Harmonic 15	0	4194304	Value	ValueOutput
+DHG 1 Harmonic 16	0	4194304	Value	ValueOutput
+Osc 1 Shape	0	4194304	Value	ValueOutput
+Osc 1 Filter	0	4194304	Value	ValueOutput
+Osc 1 Tune	0	4194304	Value	ValueOutput
+Osc 1 Volume	0	4194304	Value	ValueOutput
+Ring Mod	0	1	Toggle	ValueOutput
+Osc 2 Octave	0	3	Value	ValueOutput
+DHG 2 Harmonic 1	0	4194304	Value	ValueOutput
+DHG 2 Harmonic 2	0	4194304	Value	ValueOutput
+DHG 2 Harmonic 3	0	4194304	Value	ValueOutput
+DHG 2 Harmonic 4	0	4194304	Value	ValueOutput
+DHG 2 Harmonic 5	0	4194304	Value	ValueOutput
+DHG 2 Harmonic 6	0	4194304	Value	ValueOutput
+DHG 2 Harmonic 7	0	4194304	Value	ValueOutput
+DHG 2 Harmonic 8	0	4194304	Value	ValueOutput
+DHG 2 Harmonic 9	0	4194304	Value	ValueOutput
+DHG 2 Harmonic 10	0	4194304	Value	ValueOutput
+DHG 2 Harmonic 11	0	4194304	Value	ValueOutput
+DHG 2 Harmonic 12	0	4194304	Value	ValueOutput
+DHG 2 Harmonic 13	0	4194304	Value	ValueOutput
+DHG 2 Harmonic 14	0	4194304	Value	ValueOutput
+DHG 2 Harmonic 15	0	4194304	Value	ValueOutput
+DHG 2 Harmonic 16	0	4194304	Value	ValueOutput
+Osc 2 Shape	0	4194304	Value	ValueOutput
+Osc 2 Filter	0	4194304	Value	ValueOutput
+Osc 2 Tune	0	4194304	Value	ValueOutput
+Osc 2 Volume	0	4194304	Value	ValueOutput
+Osc 1 Pan	0	4194304	Value	ValueOutput
+Osc 1 HG	0	1	Toggle	ValueOutput
+Osc 1 Clarinet	0	1	Toggle	ValueOutput
+Osc 1 Pulse	0	1	Toggle	ValueOutput
+Osc 1 Flute	0	1	Toggle	ValueOutput
+Osc 1 Horn	0	1	Toggle	ValueOutput
+Osc 1 Reed	0	1	Toggle	ValueOutput
+Osc 1 Strings	0	1	Toggle	ValueOutput
+Osc 1 Pitchbend Time	0	4194304	Value	ValueOutput
+Osc 1 Pitchbend Depth	0	4194304	Value	ValueOutput
+Osc 1 Portamento Speed	0	4194304	Value	ValueOutput
+Osc 2 Pan	0	4194304	Value	ValueOutput
+Osc 2 HG	0	1	Toggle	ValueOutput
+Osc 2 Sync	0	1	Toggle	ValueOutput
+Osc 2 Pulse	0	1	Toggle	ValueOutput
+Osc 2 Flute	0	1	Toggle	ValueOutput
+Osc 2 Horn	0	1	Toggle	ValueOutput
+Osc 2 Reed	0	1	Toggle	ValueOutput
+Osc 2 Complex	0	1	Toggle	ValueOutput
+Osc 2 Pitchbend Time	0	4194304	Value	ValueOutput
+Osc 2 Pitchbend Depth	0	4194304	Value	ValueOutput
+Osc 2 Portamento Speed	0	4194304	Value	ValueOutput
+Osc 1 Attack	0	4194304	Value	ValueOutput
+Osc 1 Decay	0	4194304	Value	ValueOutput
+Osc 1 Sustain	0	4194304	Value	ValueOutput
+Osc 1 Release	0	4194304	Value	ValueOutput
+Osc 2 Trigger Mode	0	1	Toggle	ValueOutput
+Osc 2 Attack	0	4194304	Value	ValueOutput
+Osc 2 Decay	0	4194304	Value	ValueOutput
+Osc 2 Sustain	0	4194304	Value	ValueOutput
+Osc 2 Release	0	4194304	Value	ValueOutput
+Osc 2 Note Off Attack	0	4194304	Value	ValueOutput
+Osc 2 Note Off Hold	0	4194304	Value	ValueOutput
+Osc 2 Note Off Level	0	4194304	Value	ValueOutput
+Osc 2 Note Off Decay	0	4194304	Value	ValueOutput
+Noise Frequency	0	4194304	Value	ValueOutput
+Osc 1 Noise Depth	0	4194304	Value	ValueOutput
+Osc 2 Noise Depth	0	4194304	Value	ValueOutput
+LFO Mode	0	1	Toggle	ValueOutput
+LFO Sync	0	1	Toggle	ValueOutput
+LFO Rate Hz	0	4194304	Value	ValueOutput
+LFO Rate Sync	0	39	Value	ValueOutput
+Osc 1 Tremulant Shape	0	5	Value	ValueOutput
+Osc 1 Vibrato Depth	0	4194304	Value	ValueOutput
+Osc 1 Tremolo Depth	0	4194304	Value	ValueOutput
+Osc 2 Tremulant Shape	0	5	Value	ValueOutput
+Osc 2 Vibrato Depth	0	4194304	Value	ValueOutput
+Osc 2 Tremolo Depth	0	4194304	Value	ValueOutput
+Filter Sweep	0	5	Value	ValueOutput
+Filter Speed	0	4194304	Value	ValueOutput
+Filter Depth	0	4194304	Value	ValueOutput
+Filter Tremulant	0	4194304	Value	ValueOutput
+Filter Q	0	4194304	Value	ValueOutput
+Filter Frequency	0	4194304	Value	ValueOutput
+Low Pass Mix	0	4194304	Value	ValueOutput
+Band Pass Mix	0	4194304	Value	ValueOutput
+High Pass Mix	0	4194304	Value	ValueOutput
+DHG 2 Filter	0	1	Toggle	ValueOutput
+Sequencer Hold	0	1	Toggle	ValueOutput
+Sequencer Mode	0	2	Value	ValueOutput
+Sequencer Speed Hz	0	4194304	Value	ValueOutput
+Sequencer Speed Sync	0	31	Value	ValueOutput
+Distortion Enable	0	1	Toggle	ValueOutput
+Distortion Band	0	3	Value	ValueOutput
+Clean Gain	0	4194304	Value	ValueOutput
+Dirty Gain	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Chorus Enable	0	1	Toggle	ValueOutput
+Chorus Type	0	3	Value	ValueOutput
+Chorus Mode	0	1	Toggle	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Flanger Enable	0	1	Toggle	ValueOutput
+Flanger Sync	0	1	Toggle	ValueOutput
+Flanger Range	0	4194304	Value	ValueOutput
+Flanger Color	0	4194304	Value	ValueOutput
+Flanger Offset	0	1	Toggle	ValueOutput
+Flanger Rate Hz	0	4194304	Value	ValueOutput
+Flanger Rate Sync	0	27	Value	ValueOutput
+Flanger Mix	0	4194304	Value	ValueOutput
+Phaser Enable	0	1	Toggle	ValueOutput
+Phaser Sync	0	1	Toggle	ValueOutput
+Phaser Range	0	4194304	Value	ValueOutput
+Phaser Color	0	4194304	Value	ValueOutput
+Phaser Offset	0	1	Toggle	ValueOutput
+Phaser Rate Hz	0	4194304	Value	ValueOutput
+Phaser Rate Sync	0	27	Value	ValueOutput
+Phaser Mix	0	4194304	Value	ValueOutput
+Delay Enable	0	1	Toggle	ValueOutput
+Delay Type	0	1	Toggle	ValueOutput
+Delay Sync	0	1	Toggle	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Left Time Hz	0	4194304	Value	ValueOutput
+Delay Left Time Sync	0	19	Value	ValueOutput
+Delay Right Time Hz	0	4194304	Value	ValueOutput
+Delay Right Time Sync	0	19	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Reverb Enable	0	1	Toggle	ValueOutput
+Reverb Mod	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Damp	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

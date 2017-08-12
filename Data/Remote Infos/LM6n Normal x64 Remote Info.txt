@@ -1,0 +1,43 @@
+Scope
+Manufacturer	Model
+TC Electronic	vst.L%17%02%0C.LM6n Normal x64
+Note: Will match scope definitions for vst.L%17%02%0C.LM6n Normal x64 or vst.L%17%02%0C
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Left Descriptor	0	4194304	Value	ValueOutput
+Right Descriptor	0	4194304	Value	ValueOutput
+Target Loudness	0	4194304	Value	ValueOutput
+Radar Speed	0	4194304	Value	ValueOutput
+Radar Resolution	0	4194304	Value	ValueOutput
+Momentary Range	0	4194304	Value	ValueOutput
+Low Level Below	0	4194304	Value	ValueOutput
+Loudness Unit	0	4194304	Value	ValueOutput
+Loudness Standard	0	4194304	Value	ValueOutput
+Sliding Loudness Time	0	4194304	Value	ValueOutput
+Max Loudness Time	0	4194304	Value	ValueOutput
+Peak Indicator	0	4194304	Value	ValueOutput
+Surround Channel Order	0	4194304	Value	ValueOutput
+Radar Color	0	4194304	Value	ValueOutput
+Follow Transport	0	4194304	Value	ValueOutput
+Reset on Play	0	4194304	Value	ValueOutput
+Yellow Upper Limit	0	4194304	Value	ValueOutput
+Yellow Lower Limit	0	4194304	Value	ValueOutput
+Red Upper Limit	0	4194304	Value	ValueOutput
+Red Lower Limit	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

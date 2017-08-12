@@ -1,0 +1,78 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.Charlotte
+
+Remotable	Min	Max	Input type	Output type
+Tempo Sync	0	1	Toggle	ValueOutput
+Trigger Mode	0	1	Toggle	ValueOutput
+Loop	0	1	Toggle	ValueOutput
+Voices	0	8	Value	ValueOutput
+Priority	0	6	Value	ValueOutput
+Gate Mode	0	2	Value	ValueOutput
+Left Env Audio Scale	0	4194304	Value	ValueOutput
+Right Env Audio Scale	0	4194304	Value	ValueOutput
+Left Env Audio Offset ms	0	4194304	Value	ValueOutput
+Right Env Audio Offset ms	0	4194304	Value	ValueOutput
+Left Env Audio Offset sync	0	28	Value	ValueOutput
+Right Env Audio Offset sync	0	28	Value	ValueOutput
+Stage 1 Time ms	0	4194304	Value	ValueOutput
+Stage 2 Time ms	0	4194304	Value	ValueOutput
+Stage 3 Time ms	0	4194304	Value	ValueOutput
+Stage 4 Time ms	0	4194304	Value	ValueOutput
+Stage 5 Time ms	0	4194304	Value	ValueOutput
+Stage 6 Time ms	0	4194304	Value	ValueOutput
+Stage 7 Time ms	0	4194304	Value	ValueOutput
+Stage 8 Time ms	0	4194304	Value	ValueOutput
+Stage 9 Time ms	0	4194304	Value	ValueOutput
+Stage 1 Time sync	0	4194304	Value	ValueOutput
+Stage 2 Time sync	0	4194304	Value	ValueOutput
+Stage 3 Time sync	0	4194304	Value	ValueOutput
+Stage 4 Time sync	0	4194304	Value	ValueOutput
+Stage 5 Time sync	0	4194304	Value	ValueOutput
+Stage 6 Time sync	0	4194304	Value	ValueOutput
+Stage 7 Time sync	0	4194304	Value	ValueOutput
+Stage 8 Time sync	0	4194304	Value	ValueOutput
+Stage 9 Time sync	0	4194304	Value	ValueOutput
+Stage 1 Level	0	4194304	Value	ValueOutput
+Stage 2 Level	0	4194304	Value	ValueOutput
+Stage 3 Level	0	4194304	Value	ValueOutput
+Stage 4 Level	0	4194304	Value	ValueOutput
+Stage 5 Level	0	4194304	Value	ValueOutput
+Stage 7 Level	0	4194304	Value	ValueOutput
+Stage 8 Level	0	4194304	Value	ValueOutput
+Stage 9 Level	0	4194304	Value	ValueOutput
+Stage 1 Curve	0	4194304	Value	ValueOutput
+Stage 2 Curve	0	4194304	Value	ValueOutput
+Stage 3 Curve	0	4194304	Value	ValueOutput
+Stage 4 Curve	0	4194304	Value	ValueOutput
+Stage 5 Curve	0	4194304	Value	ValueOutput
+Stage 7 Curve	0	4194304	Value	ValueOutput
+Stage 8 Curve	0	4194304	Value	ValueOutput
+Stage 9 Curve	0	4194304	Value	ValueOutput
+Key On	0	4194304	Value	ValueOutput
+Aftertouch	0	4194304	Value	ValueOutput
+Key Off	0	4194304	Value	ValueOutput
+Stage 1 Vel Mod Time	0	4194304	Value	ValueOutput
+Stage 2 Vel Mod Time	0	4194304	Value	ValueOutput
+Stage 3 Vel Mod Time	0	4194304	Value	ValueOutput
+Stage 4 Vel Mod Time	0	4194304	Value	ValueOutput
+Stage 5 Vel Mod Time	0	4194304	Value	ValueOutput
+Stage 6 Vel Mod Time	0	4194304	Value	ValueOutput
+Stage 7 Vel Mod Time	0	4194304	Value	ValueOutput
+Stage 8 Vel Mod Time	0	4194304	Value	ValueOutput
+Stage 9 Vel Mod Time	0	4194304	Value	ValueOutput
+Stage 1 Vel Mod Level	0	4194304	Value	ValueOutput
+Stage 2 Vel Mod Level	0	4194304	Value	ValueOutput
+Stage 3 Vel Mod Level	0	4194304	Value	ValueOutput
+Stage 4 Vel Mod Level	0	4194304	Value	ValueOutput
+Stage 5 Vel Mod Level	0	4194304	Value	ValueOutput
+Stage 6 Vel Mod Level	0	4194304	Value	ValueOutput
+Stage 7 Vel Mod Level	0	4194304	Value	ValueOutput
+Stage 8 Vel Mod Level	0	4194304	Value	ValueOutput
+Stage 9 Vel Mod Level	0	4194304	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

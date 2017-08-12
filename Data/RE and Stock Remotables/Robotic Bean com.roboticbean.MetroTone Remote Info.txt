@@ -1,0 +1,16 @@
+Scope
+Manufacturer	Model
+Robotic Bean	com.roboticbean.MetroTone
+
+Remotable	Min	Max	Input type	Output type
+Metronome On/Off	0	1	Toggle	ValueOutput
+Tone	0	3	Value	ValueOutput
+Double Speed	0	1	Toggle	ValueOutput
+Beat Level	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+On LED	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

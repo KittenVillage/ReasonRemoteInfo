@@ -1,0 +1,82 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.IMax.IL Maximus
+Note: Will match scope definitions for vst.IMax.IL Maximus or vst.IMax
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Low band frequency	0	4194304	Value	ValueOutput
+Low band slope	0	4194304	Value	ValueOutput
+High band frequency	0	4194304	Value	ValueOutput
+High band slope	0	4194304	Value	ValueOutput
+LMH lookahead delay	0	4194304	Value	ValueOutput
+LMH mix	0	4194304	Value	ValueOutput
+Low cut	0	4194304	Value	ValueOutput
+Low band mode	0	4194304	Value	ValueOutput
+Low band pre gain	0	4194304	Value	ValueOutput
+Low band post gain	0	4194304	Value	ValueOutput
+Low band stereo separat	0	4194304	Value	ValueOutput
+Low band soft saturatio	0	4194304	Value	ValueOutput
+Low band soft saturatio	0	4194304	Value	ValueOutput
+Low band attack time	0	4194304	Value	ValueOutput
+Low band release 2 time	0	4194304	Value	ValueOutput
+Low band attack / relea	0	4194304	Value	ValueOutput
+Low band release time	0	4194304	Value	ValueOutput
+Low band release curve	0	4194304	Value	ValueOutput
+Low band lookahead wind	0	4194304	Value	ValueOutput
+Low band lookahead mode	0	4194304	Value	ValueOutput
+Mid band mode	0	4194304	Value	ValueOutput
+Mid band pre gain	0	4194304	Value	ValueOutput
+Mid band post gain	0	4194304	Value	ValueOutput
+Mid band stereo separat	0	4194304	Value	ValueOutput
+Mid band soft saturatio	0	4194304	Value	ValueOutput
+Mid band soft saturatio	0	4194304	Value	ValueOutput
+Mid band attack time	0	4194304	Value	ValueOutput
+Mid band release 2 time	0	4194304	Value	ValueOutput
+Mid band attack / relea	0	4194304	Value	ValueOutput
+Mid band release time	0	4194304	Value	ValueOutput
+Mid band release curve	0	4194304	Value	ValueOutput
+Mid band lookahead wind	0	4194304	Value	ValueOutput
+Mid band lookahead mode	0	4194304	Value	ValueOutput
+High band mode	0	4194304	Value	ValueOutput
+High band pre gain	0	4194304	Value	ValueOutput
+High band post gain	0	4194304	Value	ValueOutput
+High band stereo separa	0	4194304	Value	ValueOutput
+High band soft saturati	0	4194304	Value	ValueOutput
+High band soft saturati	0	4194304	Value	ValueOutput
+High band attack time	0	4194304	Value	ValueOutput
+High band release 2 tim	0	4194304	Value	ValueOutput
+High band attack / rele	0	4194304	Value	ValueOutput
+High band release time	0	4194304	Value	ValueOutput
+High band release curve	0	4194304	Value	ValueOutput
+High band lookahead win	0	4194304	Value	ValueOutput
+High band lookahead mod	0	4194304	Value	ValueOutput
+Master mode	0	4194304	Value	ValueOutput
+Master pre gain	0	4194304	Value	ValueOutput
+Master post gain	0	4194304	Value	ValueOutput
+Master stereo separatio	0	4194304	Value	ValueOutput
+Master soft saturation 	0	4194304	Value	ValueOutput
+Master soft saturation 	0	4194304	Value	ValueOutput
+Master attack time	0	4194304	Value	ValueOutput
+Master release 2 time	0	4194304	Value	ValueOutput
+Master attack / release	0	4194304	Value	ValueOutput
+Master release time	0	4194304	Value	ValueOutput
+Master release curve	0	4194304	Value	ValueOutput
+Master lookahead window	0	4194304	Value	ValueOutput
+Master lookahead mode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,99 @@
+Scope
+Manufacturer	Model
+Arturia	vst.Stag.Stage-73 V
+Note: Will match scope definitions for vst.Stag.Stage-73 V or vst.Stag
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Pickup Distance	0	4194304	Value	ValueOutput
+Pickup Alignment	0	4194304	Value	ValueOutput
+Tuning	0	4194304	Value	ValueOutput
+Tonebar Resonance	0	4194304	Value	ValueOutput
+Damper Distance	0	4194304	Value	ValueOutput
+Dynamics	0	4194304	Value	ValueOutput
+Hammer Hardness	0	4194304	Value	ValueOutput
+Hammer Noise	0	4194304	Value	ValueOutput
+Chorus Type	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Amount	0	4194304	Value	ValueOutput
+Chorus Stereo Rate	0	4194304	Value	ValueOutput
+Chorus Stereo Width	0	4194304	Value	ValueOutput
+Chorus Delay	0	4194304	Value	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Chorus On/Off	0	4194304	Value	ValueOutput
+Flanger Rate	0	4194304	Value	ValueOutput
+Flanger Depth	0	4194304	Value	ValueOutput
+Flanger Res	0	4194304	Value	ValueOutput
+Flanger Delay	0	4194304	Value	ValueOutput
+Flanger On/Off	0	4194304	Value	ValueOutput
+Phaser Rate	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Phaser Feedback	0	4194304	Value	ValueOutput
+Phaser Stereo	0	4194304	Value	ValueOutput
+Phaser On/Off	0	4194304	Value	ValueOutput
+Compressor Thresh	0	4194304	Value	ValueOutput
+Compressor Ratio	0	4194304	Value	ValueOutput
+Compressor Attack	0	4194304	Value	ValueOutput
+Compressor Release	0	4194304	Value	ValueOutput
+Compressor Input	0	4194304	Value	ValueOutput
+Compressor Makeup	0	4194304	Value	ValueOutput
+Compressor On/Off	0	4194304	Value	ValueOutput
+Overdrive Drive	0	4194304	Value	ValueOutput
+Overdrive Tone	0	4194304	Value	ValueOutput
+Overdrive Output	0	4194304	Value	ValueOutput
+Overdrive On/Off	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay FB Tone	0	4194304	Value	ValueOutput
+Delay LFO Depth	0	4194304	Value	ValueOutput
+Delay LFO Rate	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Delay On/Off	0	4194304	Value	ValueOutput
+Auto Wah Frequency	0	4194304	Value	ValueOutput
+Auto Wah Threshold	0	4194304	Value	ValueOutput
+Auto Wah Modulation Dept	0	4194304	Value	ValueOutput
+Auto Wah Auto Rate	0	4194304	Value	ValueOutput
+Auto-Wah On/Off	0	4194304	Value	ValueOutput
+Guitar Amp Bass	0	4194304	Value	ValueOutput
+Guitar Amp Mid	0	4194304	Value	ValueOutput
+Guitar Amp Trebble	0	4194304	Value	ValueOutput
+Guitar Amp Volume	0	4194304	Value	ValueOutput
+Guitar Amp Bright	0	4194304	Value	ValueOutput
+Guitar Amp Reverb	0	4194304	Value	ValueOutput
+Guitar Amp Speed	0	4194304	Value	ValueOutput
+Guitar Amp Intensity	0	4194304	Value	ValueOutput
+Guitar Amp MvPulled	0	4194304	Value	ValueOutput
+Guitar Amp Master Volume	0	4194304	Value	ValueOutput
+Guitar Amp On Axis	0	4194304	Value	ValueOutput
+Guitar Amp On	0	4194304	Value	ValueOutput
+Tone Circuit Model	0	4194304	Value	ValueOutput
+Tone Circuit Tone/Bass B	0	4194304	Value	ValueOutput
+Tone Circuit Volume	0	4194304	Value	ValueOutput
+Preamp Vibrato On	0	4194304	Value	ValueOutput
+Preamp Vibrato Speed	0	4194304	Value	ValueOutput
+Preamp Vibrato Intensity	0	4194304	Value	ValueOutput
+Preamp Volume	0	4194304	Value	ValueOutput
+Preamp Bass	0	4194304	Value	ValueOutput
+Preamp Treble	0	4194304	Value	ValueOutput
+PowerAmp On	0	4194304	Value	ValueOutput
+Wah-wah pedal	0	4194304	Value	ValueOutput
+Volume pedal	0	4194304	Value	ValueOutput
+Previous Preset	0	4194304	Value	ValueOutput
+Next Preset	0	4194304	Value	ValueOutput
+Panic	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

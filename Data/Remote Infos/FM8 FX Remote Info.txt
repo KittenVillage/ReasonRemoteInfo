@@ -1,0 +1,1117 @@
+Scope
+Manufacturer	Model
+Native Instruments GmbH	vst.Ni%868.FM8 FX
+Note: Will match scope definitions for vst.Ni%868.FM8 FX or vst.Ni%868
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+EasyFX Strength	0	4194304	Value	ValueOutput
+Easy Brightness	0	4194304	Value	ValueOutput
+Easy Harmonic	0	4194304	Value	ValueOutput
+Easy Detune	0	4194304	Value	ValueOutput
+Easy Env Amount	0	4194304	Value	ValueOutput
+Easy Timbre Vel	0	4194304	Value	ValueOutput
+Easy TimEnv Att	0	4194304	Value	ValueOutput
+Easy TimEnv Dec	0	4194304	Value	ValueOutput
+Easy TimEnv Sus	0	4194304	Value	ValueOutput
+Easy TimEnv Rel	0	4194304	Value	ValueOutput
+Easy LFO Rate	0	4194304	Value	ValueOutput
+Easy LFOVibrato	0	4194304	Value	ValueOutput
+Easy LFO Timbre	0	4194304	Value	ValueOutput
+Easy LFOTremolo	0	4194304	Value	ValueOutput
+Easy Volume	0	4194304	Value	ValueOutput
+Easy Stereo	0	4194304	Value	ValueOutput
+Easy Output Vel	0	4194304	Value	ValueOutput
+Easy TimEnv Att	0	4194304	Value	ValueOutput
+Easy TimEnv Dec	0	4194304	Value	ValueOutput
+Easy TimEnv Sus	0	4194304	Value	ValueOutput
+Easy TimEnv Rel	0	4194304	Value	ValueOutput
+Morph X	0	4194304	Value	ValueOutput
+Morph Y	0	4194304	Value	ValueOutput
+Morph Random X	0	4194304	Value	ValueOutput
+Morph Random Y	0	4194304	Value	ValueOutput
+Morph Rnd. Seed	0	4194304	Value	ValueOutput
+Effects Amnt BL	0	4194304	Value	ValueOutput
+Effects Amnt BR	0	4194304	Value	ValueOutput
+Effects Amnt TR	0	4194304	Value	ValueOutput
+Effects Amnt TL	0	4194304	Value	ValueOutput
+Ov On/Off	0	4194304	Value	ValueOutput
+Ov Drive	0	4194304	Value	ValueOutput
+Ov Tone	0	4194304	Value	ValueOutput
+Ov Bass	0	4194304	Value	ValueOutput
+Ov Volume	0	4194304	Value	ValueOutput
+TA On/Off	0	4194304	Value	ValueOutput
+TA Drive	0	4194304	Value	ValueOutput
+TA Volume	0	4194304	Value	ValueOutput
+Cb On/Off	0	4194304	Value	ValueOutput
+Cb Type	0	4194304	Value	ValueOutput
+Cb Size	0	4194304	Value	ValueOutput
+Cb Air	0	4194304	Value	ValueOutput
+Cb Bass	0	4194304	Value	ValueOutput
+Cb Treble	0	4194304	Value	ValueOutput
+SQ On/Off	0	4194304	Value	ValueOutput
+SQ LowFrequency	0	4194304	Value	ValueOutput
+SQ Low Gain	0	4194304	Value	ValueOutput
+SQ HiFrequency	0	4194304	Value	ValueOutput
+SQ High Gain	0	4194304	Value	ValueOutput
+SQ Volume	0	4194304	Value	ValueOutput
+PQ On/Off	0	4194304	Value	ValueOutput
+PQ Frequency 1	0	4194304	Value	ValueOutput
+PQ Gain 1	0	4194304	Value	ValueOutput
+PQ Quality 1	0	4194304	Value	ValueOutput
+PQ Frequency 2	0	4194304	Value	ValueOutput
+PQ Gain 2	0	4194304	Value	ValueOutput
+PQ Quality 2	0	4194304	Value	ValueOutput
+PQ Volume	0	4194304	Value	ValueOutput
+TW On/Off	0	4194304	Value	ValueOutput
+TW Mouth	0	4194304	Value	ValueOutput
+TW ModWheel	0	4194304	Value	ValueOutput
+TW Size	0	4194304	Value	ValueOutput
+TW Bright	0	4194304	Value	ValueOutput
+Ph On/Off	0	4194304	Value	ValueOutput
+Ph Mod. Rate	0	4194304	Value	ValueOutput
+Ph Color	0	4194304	Value	ValueOutput
+Ph Rotate	0	4194304	Value	ValueOutput
+Ph SweepMinimum	0	4194304	Value	ValueOutput
+Ph SweepMaximum	0	4194304	Value	ValueOutput
+Ph Tempo Sync	0	4194304	Value	ValueOutput
+Ph Dry/Wet	0	4194304	Value	ValueOutput
+Ph Invert	0	4194304	Value	ValueOutput
+Ph Notches	0	4194304	Value	ValueOutput
+Fl On/Off	0	4194304	Value	ValueOutput
+Fl Mod. Rate	0	4194304	Value	ValueOutput
+Fl Static	0	4194304	Value	ValueOutput
+Fl Mod. Depth	0	4194304	Value	ValueOutput
+Fl Color	0	4194304	Value	ValueOutput
+Fl Rotate	0	4194304	Value	ValueOutput
+Fl Tempo Sync	0	4194304	Value	ValueOutput
+Fl Invert	0	4194304	Value	ValueOutput
+Fl Dry/Wet	0	4194304	Value	ValueOutput
+Tr On/Off	0	4194304	Value	ValueOutput
+Tr Rate	0	4194304	Value	ValueOutput
+Tr Intensity	0	4194304	Value	ValueOutput
+Tr Tempo Sync	0	4194304	Value	ValueOutput
+Tr Panning	0	4194304	Value	ValueOutput
+Tr PulseWidth	0	4194304	Value	ValueOutput
+Tr Attack	0	4194304	Value	ValueOutput
+Tr Decay	0	4194304	Value	ValueOutput
+Rv On/Off	0	4194304	Value	ValueOutput
+Rv Dry/Wet	0	4194304	Value	ValueOutput
+Rv Bright	0	4194304	Value	ValueOutput
+Rv Roomsize	0	4194304	Value	ValueOutput
+Rv Treble	0	4194304	Value	ValueOutput
+PD On/Off	0	4194304	Value	ValueOutput
+PD Dry/Wet	0	4194304	Value	ValueOutput
+PD: Delay Time	0	4194304	Value	ValueOutput
+PD: Reverse	0	4194304	Value	ValueOutput
+PD: Detune	0	4194304	Value	ValueOutput
+PD: Feedback	0	4194304	Value	ValueOutput
+PD: PitchShift	0	4194304	Value	ValueOutput
+Dl Tempo Sync	0	4194304	Value	ValueOutput
+PD Stereo	0	4194304	Value	ValueOutput
+Dl: Delay Time	0	4194304	Value	ValueOutput
+Dl Diffusion	0	4194304	Value	ValueOutput
+Dl Mod. Depth	0	4194304	Value	ValueOutput
+Dl: Feedback	0	4194304	Value	ValueOutput
+Dl High Cut	0	4194304	Value	ValueOutput
+Dl LowCut	0	4194304	Value	ValueOutput
+Dl Invert	0	4194304	Value	ValueOutput
+Dl On/Off	0	4194304	Value	ValueOutput
+Dl Dry/Wet	0	4194304	Value	ValueOutput
+Dl Mod. Rate	0	4194304	Value	ValueOutput
+Dl Sync Delays	0	4194304	Value	ValueOutput
+Dl Tempo Sync	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Input Volume	0	4194304	Value	ValueOutput
+Master Tune	0	4194304	Value	ValueOutput
+Pitch Transpose	0	4194304	Value	ValueOutput
+Unison Voices	0	4194304	Value	ValueOutput
+Unison Detune	0	4194304	Value	ValueOutput
+Unison Mono	0	4194304	Value	ValueOutput
+Unison Dynamic	0	4194304	Value	ValueOutput
+Unison Pan	0	4194304	Value	ValueOutput
+Portamento On	0	4194304	Value	ValueOutput
+Portamento Auto	0	4194304	Value	ValueOutput
+Portamento Time	0	4194304	Value	ValueOutput
+Analog Qual. BL	0	4194304	Value	ValueOutput
+Analog Qual. BR	0	4194304	Value	ValueOutput
+Analog Qual. TR	0	4194304	Value	ValueOutput
+Analog Qual. TL	0	4194304	Value	ValueOutput
+Digital Qual.BL	0	4194304	Value	ValueOutput
+Digital Qual.BR	0	4194304	Value	ValueOutput
+Digital Qual.TR	0	4194304	Value	ValueOutput
+Digital Qual.TL	0	4194304	Value	ValueOutput
+Arpeggiator On	0	4194304	Value	ValueOutput
+Arp Note Length	0	4194304	Value	ValueOutput
+Arp Fixed Vel.	0	4194304	Value	ValueOutput
+Arp Velocity	0	4194304	Value	ValueOutput
+Arp Accent	0	4194304	Value	ValueOutput
+Arp Shuffle	0	4194304	Value	ValueOutput
+Arp Hold	0	4194304	Value	ValueOutput
+Arp Rot. Right	0	4194304	Value	ValueOutput
+Arp Rot. Left	0	4194304	Value	ValueOutput
+Arp Num Steps	0	4194304	Value	ValueOutput
+Arp Mode	0	4194304	Value	ValueOutput
+Arp Down	0	4194304	Value	ValueOutput
+Arp 1 Shot	0	4194304	Value	ValueOutput
+Arp Tempo	0	4194304	Value	ValueOutput
+Arp Tripplets	0	4194304	Value	ValueOutput
+Arp Dotted	0	4194304	Value	ValueOutput
+Arp Key Sync	0	4194304	Value	ValueOutput
+Arp BPM Sync	0	4194304	Value	ValueOutput
+Arp BPM	0	4194304	Value	ValueOutput
+Arp Split On	0	4194304	Value	ValueOutput
+Arp Split Note	0	4194304	Value	ValueOutput
+Arp Split Bass	0	4194304	Value	ValueOutput
+Reserved158	0	4194304	Value	ValueOutput
+Reserved159	0	4194304	Value	ValueOutput
+Reserved160	0	4194304	Value	ValueOutput
+Reserved161	0	4194304	Value	ValueOutput
+Reserved162	0	4194304	Value	ValueOutput
+Reserved163	0	4194304	Value	ValueOutput
+Reserved164	0	4194304	Value	ValueOutput
+Microt.RootNote	0	4194304	Value	ValueOutput
+MC 	0	4194304	Value	ValueOutput
+MC#	0	4194304	Value	ValueOutput
+MD 	0	4194304	Value	ValueOutput
+MD#	0	4194304	Value	ValueOutput
+ME 	0	4194304	Value	ValueOutput
+MF 	0	4194304	Value	ValueOutput
+MF#	0	4194304	Value	ValueOutput
+MG 	0	4194304	Value	ValueOutput
+MG#	0	4194304	Value	ValueOutput
+MA 	0	4194304	Value	ValueOutput
+MA#	0	4194304	Value	ValueOutput
+MH 	0	4194304	Value	ValueOutput
+FM-Mtrx A->A BL	0	4194304	Value	ValueOutput
+FM-Mtrx A->A BR	0	4194304	Value	ValueOutput
+FM-Mtrx A->A TR	0	4194304	Value	ValueOutput
+FM-Mtrx A->A TL	0	4194304	Value	ValueOutput
+FM-Mtrx A->B BL	0	4194304	Value	ValueOutput
+FM-Mtrx A->B BR	0	4194304	Value	ValueOutput
+FM-Mtrx A->B TR	0	4194304	Value	ValueOutput
+FM-Mtrx A->B TL	0	4194304	Value	ValueOutput
+FM-Mtrx A->C BL	0	4194304	Value	ValueOutput
+FM-Mtrx A->C BR	0	4194304	Value	ValueOutput
+FM-Mtrx A->C TR	0	4194304	Value	ValueOutput
+FM-Mtrx A->C TL	0	4194304	Value	ValueOutput
+FM-Mtrx A->D BL	0	4194304	Value	ValueOutput
+FM-Mtrx A->D BR	0	4194304	Value	ValueOutput
+FM-Mtrx A->D TR	0	4194304	Value	ValueOutput
+FM-Mtrx A->D TL	0	4194304	Value	ValueOutput
+FM-Mtrx A->E BL	0	4194304	Value	ValueOutput
+FM-Mtrx A->E BR	0	4194304	Value	ValueOutput
+FM-Mtrx A->E TR	0	4194304	Value	ValueOutput
+FM-Mtrx A->E TL	0	4194304	Value	ValueOutput
+FM-Mtrx A->F BL	0	4194304	Value	ValueOutput
+FM-Mtrx A->F BR	0	4194304	Value	ValueOutput
+FM-Mtrx A->F TR	0	4194304	Value	ValueOutput
+FM-Mtrx A->F TL	0	4194304	Value	ValueOutput
+FM-Mtrx A->X BL	0	4194304	Value	ValueOutput
+FM-Mtrx A->X BR	0	4194304	Value	ValueOutput
+FM-Mtrx A->X TR	0	4194304	Value	ValueOutput
+FM-Mtrx A->X TL	0	4194304	Value	ValueOutput
+FM-Mtrx A->Z BL	0	4194304	Value	ValueOutput
+FM-Mtrx A->Z BR	0	4194304	Value	ValueOutput
+FM-Mtrx A->Z TR	0	4194304	Value	ValueOutput
+FM-Mtrx A->Z TL	0	4194304	Value	ValueOutput
+FM-Mtrx A->O BL	0	4194304	Value	ValueOutput
+FM-Mtrx A->O BR	0	4194304	Value	ValueOutput
+FM-Mtrx A->O TR	0	4194304	Value	ValueOutput
+FM-Mtrx A->O TL	0	4194304	Value	ValueOutput
+FM-Mtrx A->P BL	0	4194304	Value	ValueOutput
+FM-Mtrx A->P BR	0	4194304	Value	ValueOutput
+FM-Mtrx A->P TR	0	4194304	Value	ValueOutput
+FM-Mtrx A->P TL	0	4194304	Value	ValueOutput
+FM-Mtrx A->I BL	0	4194304	Value	ValueOutput
+FM-Mtrx A->I BR	0	4194304	Value	ValueOutput
+FM-Mtrx A->I TR	0	4194304	Value	ValueOutput
+FM-Mtrx A->I TL	0	4194304	Value	ValueOutput
+FM-Mtrx B->A BL	0	4194304	Value	ValueOutput
+FM-Mtrx B->A BR	0	4194304	Value	ValueOutput
+FM-Mtrx B->A TR	0	4194304	Value	ValueOutput
+FM-Mtrx B->A TL	0	4194304	Value	ValueOutput
+FM-Mtrx B->B BL	0	4194304	Value	ValueOutput
+FM-Mtrx B->B BR	0	4194304	Value	ValueOutput
+FM-Mtrx B->B TR	0	4194304	Value	ValueOutput
+FM-Mtrx B->B TL	0	4194304	Value	ValueOutput
+FM-Mtrx B->C BL	0	4194304	Value	ValueOutput
+FM-Mtrx B->C BR	0	4194304	Value	ValueOutput
+FM-Mtrx B->C TR	0	4194304	Value	ValueOutput
+FM-Mtrx B->C TL	0	4194304	Value	ValueOutput
+FM-Mtrx B->D BL	0	4194304	Value	ValueOutput
+FM-Mtrx B->D BR	0	4194304	Value	ValueOutput
+FM-Mtrx B->D TR	0	4194304	Value	ValueOutput
+FM-Mtrx B->D TL	0	4194304	Value	ValueOutput
+FM-Mtrx B->E BL	0	4194304	Value	ValueOutput
+FM-Mtrx B->E BR	0	4194304	Value	ValueOutput
+FM-Mtrx B->E TR	0	4194304	Value	ValueOutput
+FM-Mtrx B->E TL	0	4194304	Value	ValueOutput
+FM-Mtrx B->F BL	0	4194304	Value	ValueOutput
+FM-Mtrx B->F BR	0	4194304	Value	ValueOutput
+FM-Mtrx B->F TR	0	4194304	Value	ValueOutput
+FM-Mtrx B->F TL	0	4194304	Value	ValueOutput
+FM-Mtrx B->X BL	0	4194304	Value	ValueOutput
+FM-Mtrx B->X BR	0	4194304	Value	ValueOutput
+FM-Mtrx B->X TR	0	4194304	Value	ValueOutput
+FM-Mtrx B->X TL	0	4194304	Value	ValueOutput
+FM-Mtrx B->Z BL	0	4194304	Value	ValueOutput
+FM-Mtrx B->Z BR	0	4194304	Value	ValueOutput
+FM-Mtrx B->Z TR	0	4194304	Value	ValueOutput
+FM-Mtrx B->Z TL	0	4194304	Value	ValueOutput
+FM-Mtrx B->O BL	0	4194304	Value	ValueOutput
+FM-Mtrx B->O BR	0	4194304	Value	ValueOutput
+FM-Mtrx B->O TR	0	4194304	Value	ValueOutput
+FM-Mtrx B->O TL	0	4194304	Value	ValueOutput
+FM-Mtrx B->P BL	0	4194304	Value	ValueOutput
+FM-Mtrx B->P BR	0	4194304	Value	ValueOutput
+FM-Mtrx B->P TR	0	4194304	Value	ValueOutput
+FM-Mtrx B->P TL	0	4194304	Value	ValueOutput
+FM-Mtrx B->I BL	0	4194304	Value	ValueOutput
+FM-Mtrx B->I BR	0	4194304	Value	ValueOutput
+FM-Mtrx B->I TR	0	4194304	Value	ValueOutput
+FM-Mtrx B->I TL	0	4194304	Value	ValueOutput
+FM-Mtrx C->A BL	0	4194304	Value	ValueOutput
+FM-Mtrx C->A BR	0	4194304	Value	ValueOutput
+FM-Mtrx C->A TR	0	4194304	Value	ValueOutput
+FM-Mtrx C->A TL	0	4194304	Value	ValueOutput
+FM-Mtrx C->B BL	0	4194304	Value	ValueOutput
+FM-Mtrx C->B BR	0	4194304	Value	ValueOutput
+FM-Mtrx C->B TR	0	4194304	Value	ValueOutput
+FM-Mtrx C->B TL	0	4194304	Value	ValueOutput
+FM-Mtrx C->C BL	0	4194304	Value	ValueOutput
+FM-Mtrx C->C BR	0	4194304	Value	ValueOutput
+FM-Mtrx C->C TR	0	4194304	Value	ValueOutput
+FM-Mtrx C->C TL	0	4194304	Value	ValueOutput
+FM-Mtrx C->D BL	0	4194304	Value	ValueOutput
+FM-Mtrx C->D BR	0	4194304	Value	ValueOutput
+FM-Mtrx C->D TR	0	4194304	Value	ValueOutput
+FM-Mtrx C->D TL	0	4194304	Value	ValueOutput
+FM-Mtrx C->E BL	0	4194304	Value	ValueOutput
+FM-Mtrx C->E BR	0	4194304	Value	ValueOutput
+FM-Mtrx C->E TR	0	4194304	Value	ValueOutput
+FM-Mtrx C->E TL	0	4194304	Value	ValueOutput
+FM-Mtrx C->F BL	0	4194304	Value	ValueOutput
+FM-Mtrx C->F BR	0	4194304	Value	ValueOutput
+FM-Mtrx C->F TR	0	4194304	Value	ValueOutput
+FM-Mtrx C->F TL	0	4194304	Value	ValueOutput
+FM-Mtrx C->X BL	0	4194304	Value	ValueOutput
+FM-Mtrx C->X BR	0	4194304	Value	ValueOutput
+FM-Mtrx C->X TR	0	4194304	Value	ValueOutput
+FM-Mtrx C->X TL	0	4194304	Value	ValueOutput
+FM-Mtrx C->Z BL	0	4194304	Value	ValueOutput
+FM-Mtrx C->Z BR	0	4194304	Value	ValueOutput
+FM-Mtrx C->Z TR	0	4194304	Value	ValueOutput
+FM-Mtrx C->Z TL	0	4194304	Value	ValueOutput
+FM-Mtrx C->O BL	0	4194304	Value	ValueOutput
+FM-Mtrx C->O BR	0	4194304	Value	ValueOutput
+FM-Mtrx C->O TR	0	4194304	Value	ValueOutput
+FM-Mtrx C->O TL	0	4194304	Value	ValueOutput
+FM-Mtrx C->P BL	0	4194304	Value	ValueOutput
+FM-Mtrx C->P BR	0	4194304	Value	ValueOutput
+FM-Mtrx C->P TR	0	4194304	Value	ValueOutput
+FM-Mtrx C->P TL	0	4194304	Value	ValueOutput
+FM-Mtrx C->I BL	0	4194304	Value	ValueOutput
+FM-Mtrx C->I BR	0	4194304	Value	ValueOutput
+FM-Mtrx C->I TR	0	4194304	Value	ValueOutput
+FM-Mtrx C->I TL	0	4194304	Value	ValueOutput
+FM-Mtrx D->A BL	0	4194304	Value	ValueOutput
+FM-Mtrx D->A BR	0	4194304	Value	ValueOutput
+FM-Mtrx D->A TR	0	4194304	Value	ValueOutput
+FM-Mtrx D->A TL	0	4194304	Value	ValueOutput
+FM-Mtrx D->B BL	0	4194304	Value	ValueOutput
+FM-Mtrx D->B BR	0	4194304	Value	ValueOutput
+FM-Mtrx D->B TR	0	4194304	Value	ValueOutput
+FM-Mtrx D->B TL	0	4194304	Value	ValueOutput
+FM-Mtrx D->C BL	0	4194304	Value	ValueOutput
+FM-Mtrx D->C BR	0	4194304	Value	ValueOutput
+FM-Mtrx D->C TR	0	4194304	Value	ValueOutput
+FM-Mtrx D->C TL	0	4194304	Value	ValueOutput
+FM-Mtrx D->D BL	0	4194304	Value	ValueOutput
+FM-Mtrx D->D BR	0	4194304	Value	ValueOutput
+FM-Mtrx D->D TR	0	4194304	Value	ValueOutput
+FM-Mtrx D->D TL	0	4194304	Value	ValueOutput
+FM-Mtrx D->E BL	0	4194304	Value	ValueOutput
+FM-Mtrx D->E BR	0	4194304	Value	ValueOutput
+FM-Mtrx D->E TR	0	4194304	Value	ValueOutput
+FM-Mtrx D->E TL	0	4194304	Value	ValueOutput
+FM-Mtrx D->F BL	0	4194304	Value	ValueOutput
+FM-Mtrx D->F BR	0	4194304	Value	ValueOutput
+FM-Mtrx D->F TR	0	4194304	Value	ValueOutput
+FM-Mtrx D->F TL	0	4194304	Value	ValueOutput
+FM-Mtrx D->X BL	0	4194304	Value	ValueOutput
+FM-Mtrx D->X BR	0	4194304	Value	ValueOutput
+FM-Mtrx D->X TR	0	4194304	Value	ValueOutput
+FM-Mtrx D->X TL	0	4194304	Value	ValueOutput
+FM-Mtrx D->Z BL	0	4194304	Value	ValueOutput
+FM-Mtrx D->Z BR	0	4194304	Value	ValueOutput
+FM-Mtrx D->Z TR	0	4194304	Value	ValueOutput
+FM-Mtrx D->Z TL	0	4194304	Value	ValueOutput
+FM-Mtrx D->O BL	0	4194304	Value	ValueOutput
+FM-Mtrx D->O BR	0	4194304	Value	ValueOutput
+FM-Mtrx D->O TR	0	4194304	Value	ValueOutput
+FM-Mtrx D->O TL	0	4194304	Value	ValueOutput
+FM-Mtrx D->P BL	0	4194304	Value	ValueOutput
+FM-Mtrx D->P BR	0	4194304	Value	ValueOutput
+FM-Mtrx D->P TR	0	4194304	Value	ValueOutput
+FM-Mtrx D->P TL	0	4194304	Value	ValueOutput
+FM-Mtrx D->I BL	0	4194304	Value	ValueOutput
+FM-Mtrx D->I BR	0	4194304	Value	ValueOutput
+FM-Mtrx D->I TR	0	4194304	Value	ValueOutput
+FM-Mtrx D->I TL	0	4194304	Value	ValueOutput
+FM-Mtrx E->A BL	0	4194304	Value	ValueOutput
+FM-Mtrx E->A BR	0	4194304	Value	ValueOutput
+FM-Mtrx E->A TR	0	4194304	Value	ValueOutput
+FM-Mtrx E->A TL	0	4194304	Value	ValueOutput
+FM-Mtrx E->B BL	0	4194304	Value	ValueOutput
+FM-Mtrx E->B BR	0	4194304	Value	ValueOutput
+FM-Mtrx E->B TR	0	4194304	Value	ValueOutput
+FM-Mtrx E->B TL	0	4194304	Value	ValueOutput
+FM-Mtrx E->C BL	0	4194304	Value	ValueOutput
+FM-Mtrx E->C BR	0	4194304	Value	ValueOutput
+FM-Mtrx E->C TR	0	4194304	Value	ValueOutput
+FM-Mtrx E->C TL	0	4194304	Value	ValueOutput
+FM-Mtrx E->D BL	0	4194304	Value	ValueOutput
+FM-Mtrx E->D BR	0	4194304	Value	ValueOutput
+FM-Mtrx E->D TR	0	4194304	Value	ValueOutput
+FM-Mtrx E->D TL	0	4194304	Value	ValueOutput
+FM-Mtrx E->E BL	0	4194304	Value	ValueOutput
+FM-Mtrx E->E BR	0	4194304	Value	ValueOutput
+FM-Mtrx E->E TR	0	4194304	Value	ValueOutput
+FM-Mtrx E->E TL	0	4194304	Value	ValueOutput
+FM-Mtrx E->F BL	0	4194304	Value	ValueOutput
+FM-Mtrx E->F BR	0	4194304	Value	ValueOutput
+FM-Mtrx E->F TR	0	4194304	Value	ValueOutput
+FM-Mtrx E->F TL	0	4194304	Value	ValueOutput
+FM-Mtrx E->X BL	0	4194304	Value	ValueOutput
+FM-Mtrx E->X BR	0	4194304	Value	ValueOutput
+FM-Mtrx E->X TR	0	4194304	Value	ValueOutput
+FM-Mtrx E->X TL	0	4194304	Value	ValueOutput
+FM-Mtrx E->Z BL	0	4194304	Value	ValueOutput
+FM-Mtrx E->Z BR	0	4194304	Value	ValueOutput
+FM-Mtrx E->Z TR	0	4194304	Value	ValueOutput
+FM-Mtrx E->Z TL	0	4194304	Value	ValueOutput
+FM-Mtrx E->O BL	0	4194304	Value	ValueOutput
+FM-Mtrx E->O BR	0	4194304	Value	ValueOutput
+FM-Mtrx E->O TR	0	4194304	Value	ValueOutput
+FM-Mtrx E->O TL	0	4194304	Value	ValueOutput
+FM-Mtrx E->P BL	0	4194304	Value	ValueOutput
+FM-Mtrx E->P BR	0	4194304	Value	ValueOutput
+FM-Mtrx E->P TR	0	4194304	Value	ValueOutput
+FM-Mtrx E->P TL	0	4194304	Value	ValueOutput
+FM-Mtrx E->I BL	0	4194304	Value	ValueOutput
+FM-Mtrx E->I BR	0	4194304	Value	ValueOutput
+FM-Mtrx E->I TR	0	4194304	Value	ValueOutput
+FM-Mtrx E->I TL	0	4194304	Value	ValueOutput
+FM-Mtrx F->A BL	0	4194304	Value	ValueOutput
+FM-Mtrx F->A BR	0	4194304	Value	ValueOutput
+FM-Mtrx F->A TR	0	4194304	Value	ValueOutput
+FM-Mtrx F->A TL	0	4194304	Value	ValueOutput
+FM-Mtrx F->B BL	0	4194304	Value	ValueOutput
+FM-Mtrx F->B BR	0	4194304	Value	ValueOutput
+FM-Mtrx F->B TR	0	4194304	Value	ValueOutput
+FM-Mtrx F->B TL	0	4194304	Value	ValueOutput
+FM-Mtrx F->C BL	0	4194304	Value	ValueOutput
+FM-Mtrx F->C BR	0	4194304	Value	ValueOutput
+FM-Mtrx F->C TR	0	4194304	Value	ValueOutput
+FM-Mtrx F->C TL	0	4194304	Value	ValueOutput
+FM-Mtrx F->D BL	0	4194304	Value	ValueOutput
+FM-Mtrx F->D BR	0	4194304	Value	ValueOutput
+FM-Mtrx F->D TR	0	4194304	Value	ValueOutput
+FM-Mtrx F->D TL	0	4194304	Value	ValueOutput
+FM-Mtrx F->E BL	0	4194304	Value	ValueOutput
+FM-Mtrx F->E BR	0	4194304	Value	ValueOutput
+FM-Mtrx F->E TR	0	4194304	Value	ValueOutput
+FM-Mtrx F->E TL	0	4194304	Value	ValueOutput
+FM-Mtrx F->F BL	0	4194304	Value	ValueOutput
+FM-Mtrx F->F BR	0	4194304	Value	ValueOutput
+FM-Mtrx F->F TR	0	4194304	Value	ValueOutput
+FM-Mtrx F->F TL	0	4194304	Value	ValueOutput
+FM-Mtrx F->X BL	0	4194304	Value	ValueOutput
+FM-Mtrx F->X BR	0	4194304	Value	ValueOutput
+FM-Mtrx F->X TR	0	4194304	Value	ValueOutput
+FM-Mtrx F->X TL	0	4194304	Value	ValueOutput
+FM-Mtrx F->Z BL	0	4194304	Value	ValueOutput
+FM-Mtrx F->Z BR	0	4194304	Value	ValueOutput
+FM-Mtrx F->Z TR	0	4194304	Value	ValueOutput
+FM-Mtrx F->Z TL	0	4194304	Value	ValueOutput
+FM-Mtrx F->O BL	0	4194304	Value	ValueOutput
+FM-Mtrx F->O BR	0	4194304	Value	ValueOutput
+FM-Mtrx F->O TR	0	4194304	Value	ValueOutput
+FM-Mtrx F->O TL	0	4194304	Value	ValueOutput
+FM-Mtrx F->P BL	0	4194304	Value	ValueOutput
+FM-Mtrx F->P BR	0	4194304	Value	ValueOutput
+FM-Mtrx F->P TR	0	4194304	Value	ValueOutput
+FM-Mtrx F->P TL	0	4194304	Value	ValueOutput
+FM-Mtrx F->I BL	0	4194304	Value	ValueOutput
+FM-Mtrx F->I BR	0	4194304	Value	ValueOutput
+FM-Mtrx F->I TR	0	4194304	Value	ValueOutput
+FM-Mtrx F->I TL	0	4194304	Value	ValueOutput
+FM-Mtrx X->A BL	0	4194304	Value	ValueOutput
+FM-Mtrx X->A BR	0	4194304	Value	ValueOutput
+FM-Mtrx X->A TR	0	4194304	Value	ValueOutput
+FM-Mtrx X->A TL	0	4194304	Value	ValueOutput
+FM-Mtrx X->B BL	0	4194304	Value	ValueOutput
+FM-Mtrx X->B BR	0	4194304	Value	ValueOutput
+FM-Mtrx X->B TR	0	4194304	Value	ValueOutput
+FM-Mtrx X->B TL	0	4194304	Value	ValueOutput
+FM-Mtrx X->C BL	0	4194304	Value	ValueOutput
+FM-Mtrx X->C BR	0	4194304	Value	ValueOutput
+FM-Mtrx X->C TR	0	4194304	Value	ValueOutput
+FM-Mtrx X->C TL	0	4194304	Value	ValueOutput
+FM-Mtrx X->D BL	0	4194304	Value	ValueOutput
+FM-Mtrx X->D BR	0	4194304	Value	ValueOutput
+FM-Mtrx X->D TR	0	4194304	Value	ValueOutput
+FM-Mtrx X->D TL	0	4194304	Value	ValueOutput
+FM-Mtrx X->E BL	0	4194304	Value	ValueOutput
+FM-Mtrx X->E BR	0	4194304	Value	ValueOutput
+FM-Mtrx X->E TR	0	4194304	Value	ValueOutput
+FM-Mtrx X->E TL	0	4194304	Value	ValueOutput
+FM-Mtrx X->F BL	0	4194304	Value	ValueOutput
+FM-Mtrx X->F BR	0	4194304	Value	ValueOutput
+FM-Mtrx X->F TR	0	4194304	Value	ValueOutput
+FM-Mtrx X->F TL	0	4194304	Value	ValueOutput
+FM-Mtrx X->Z BL	0	4194304	Value	ValueOutput
+FM-Mtrx X->Z BR	0	4194304	Value	ValueOutput
+FM-Mtrx X->Z TR	0	4194304	Value	ValueOutput
+FM-Mtrx X->Z TL	0	4194304	Value	ValueOutput
+FM-Mtrx X->O BL	0	4194304	Value	ValueOutput
+FM-Mtrx X->O BR	0	4194304	Value	ValueOutput
+FM-Mtrx X->O TR	0	4194304	Value	ValueOutput
+FM-Mtrx X->O TL	0	4194304	Value	ValueOutput
+FM-Mtrx X->P BL	0	4194304	Value	ValueOutput
+FM-Mtrx X->P BR	0	4194304	Value	ValueOutput
+FM-Mtrx X->P TR	0	4194304	Value	ValueOutput
+FM-Mtrx X->P TL	0	4194304	Value	ValueOutput
+FM-Mtrx X->I BL	0	4194304	Value	ValueOutput
+FM-Mtrx X->I BR	0	4194304	Value	ValueOutput
+FM-Mtrx X->I TR	0	4194304	Value	ValueOutput
+FM-Mtrx X->I TL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->A BL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->A BR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->A TR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->A TL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->B BL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->B BR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->B TR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->B TL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->C BL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->C BR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->C TR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->C TL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->D BL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->D BR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->D TR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->D TL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->E BL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->E BR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->E TR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->E TL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->F BL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->F BR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->F TR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->F TL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->X BL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->X BR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->X TR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->X TL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->O BL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->O BR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->O TR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->O TL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->P BL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->P BR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->P TR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->P TL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->I BL	0	4194304	Value	ValueOutput
+FM-Mtrx Z->I BR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->I TR	0	4194304	Value	ValueOutput
+FM-Mtrx Z->I TL	0	4194304	Value	ValueOutput
+FM-Mtrx I->A BL	0	4194304	Value	ValueOutput
+FM-Mtrx I->A BR	0	4194304	Value	ValueOutput
+FM-Mtrx I->A TR	0	4194304	Value	ValueOutput
+FM-Mtrx I->A TL	0	4194304	Value	ValueOutput
+FM-Mtrx I->B BL	0	4194304	Value	ValueOutput
+FM-Mtrx I->B BR	0	4194304	Value	ValueOutput
+FM-Mtrx I->B TR	0	4194304	Value	ValueOutput
+FM-Mtrx I->B TL	0	4194304	Value	ValueOutput
+FM-Mtrx I->C BL	0	4194304	Value	ValueOutput
+FM-Mtrx I->C BR	0	4194304	Value	ValueOutput
+FM-Mtrx I->C TR	0	4194304	Value	ValueOutput
+FM-Mtrx I->C TL	0	4194304	Value	ValueOutput
+FM-Mtrx I->D BL	0	4194304	Value	ValueOutput
+FM-Mtrx I->D BR	0	4194304	Value	ValueOutput
+FM-Mtrx I->D TR	0	4194304	Value	ValueOutput
+FM-Mtrx I->D TL	0	4194304	Value	ValueOutput
+FM-Mtrx I->E BL	0	4194304	Value	ValueOutput
+FM-Mtrx I->E BR	0	4194304	Value	ValueOutput
+FM-Mtrx I->E TR	0	4194304	Value	ValueOutput
+FM-Mtrx I->E TL	0	4194304	Value	ValueOutput
+FM-Mtrx I->F BL	0	4194304	Value	ValueOutput
+FM-Mtrx I->F BR	0	4194304	Value	ValueOutput
+FM-Mtrx I->F TR	0	4194304	Value	ValueOutput
+FM-Mtrx I->F TL	0	4194304	Value	ValueOutput
+FM-Mtrx I->X BL	0	4194304	Value	ValueOutput
+FM-Mtrx I->X BR	0	4194304	Value	ValueOutput
+FM-Mtrx I->X TR	0	4194304	Value	ValueOutput
+FM-Mtrx I->X TL	0	4194304	Value	ValueOutput
+FM-Mtrx I->Z BL	0	4194304	Value	ValueOutput
+FM-Mtrx I->Z BR	0	4194304	Value	ValueOutput
+FM-Mtrx I->Z TR	0	4194304	Value	ValueOutput
+FM-Mtrx I->Z TL	0	4194304	Value	ValueOutput
+FM-Mtrx I->O BL	0	4194304	Value	ValueOutput
+FM-Mtrx I->O BR	0	4194304	Value	ValueOutput
+FM-Mtrx I->O TR	0	4194304	Value	ValueOutput
+FM-Mtrx I->O TL	0	4194304	Value	ValueOutput
+FM-Mtrx I->P BL	0	4194304	Value	ValueOutput
+FM-Mtrx I->P BR	0	4194304	Value	ValueOutput
+FM-Mtrx I->P TR	0	4194304	Value	ValueOutput
+FM-Mtrx I->P TL	0	4194304	Value	ValueOutput
+FM-Mtrx I->I BL	0	4194304	Value	ValueOutput
+FM-Mtrx I->I BR	0	4194304	Value	ValueOutput
+FM-Mtrx I->I TR	0	4194304	Value	ValueOutput
+FM-Mtrx I->I TL	0	4194304	Value	ValueOutput
+Filter Bypass	0	4194304	Value	ValueOutput
+Sat Bypass	0	4194304	Value	ValueOutput
+PitchEnvAmount	0	4194304	Value	ValueOutput
+Stretch Octaves	0	4194304	Value	ValueOutput
+Pitchbend Mode	0	4194304	Value	ValueOutput
+Input On/Off BL	0	4194304	Value	ValueOutput
+Input On/Off BR	0	4194304	Value	ValueOutput
+Input On/Off TR	0	4194304	Value	ValueOutput
+Input On/Off TL	0	4194304	Value	ValueOutput
+Op. A TempoSync	0	4194304	Value	ValueOutput
+Op. B TempoSync	0	4194304	Value	ValueOutput
+Op. C TempoSync	0	4194304	Value	ValueOutput
+Op. D TempoSync	0	4194304	Value	ValueOutput
+Op. E TempoSync	0	4194304	Value	ValueOutput
+Op. F TempoSync	0	4194304	Value	ValueOutput
+Op. X TempoSync	0	4194304	Value	ValueOutput
+Op. Z TempoSync	0	4194304	Value	ValueOutput
+Pitch TempoSync	0	4194304	Value	ValueOutput
+Op. A FreeRun	0	4194304	Value	ValueOutput
+Op. B FreeRun	0	4194304	Value	ValueOutput
+Op. C FreeRun	0	4194304	Value	ValueOutput
+Op. D FreeRun	0	4194304	Value	ValueOutput
+Op. E FreeRun	0	4194304	Value	ValueOutput
+Op. F FreeRun	0	4194304	Value	ValueOutput
+Op. X FreeRun	0	4194304	Value	ValueOutput
+Op. Z FreeRun	0	4194304	Value	ValueOutput
+Pitch FreeRun	0	4194304	Value	ValueOutput
+Op. A Vel Sens	0	4194304	Value	ValueOutput
+Op. B Vel Sens	0	4194304	Value	ValueOutput
+Op. C Vel Sens	0	4194304	Value	ValueOutput
+Op. D Vel Sens	0	4194304	Value	ValueOutput
+Op. E Vel Sens	0	4194304	Value	ValueOutput
+Op. F Vel Sens	0	4194304	Value	ValueOutput
+Op. X Vel Sens	0	4194304	Value	ValueOutput
+Op. Z Vel Sens	0	4194304	Value	ValueOutput
+Pitch Vel Sens	0	4194304	Value	ValueOutput
+Op. AEnvKeyScal	0	4194304	Value	ValueOutput
+Op. BEnvKeyScal	0	4194304	Value	ValueOutput
+Op. CEnvKeyScal	0	4194304	Value	ValueOutput
+Op. DEnvKeyScal	0	4194304	Value	ValueOutput
+Op. EEnvKeyScal	0	4194304	Value	ValueOutput
+Op. FEnvKeyScal	0	4194304	Value	ValueOutput
+Op. XEnvKeyScal	0	4194304	Value	ValueOutput
+Op. ZEnvKeyScal	0	4194304	Value	ValueOutput
+PitchEnvKeyScal	0	4194304	Value	ValueOutput
+Op. AEnvVelScal	0	4194304	Value	ValueOutput
+Op. BEnvVelScal	0	4194304	Value	ValueOutput
+Op. CEnvVelScal	0	4194304	Value	ValueOutput
+Op. DEnvVelScal	0	4194304	Value	ValueOutput
+Op. EEnvVelScal	0	4194304	Value	ValueOutput
+Op. FEnvVelScal	0	4194304	Value	ValueOutput
+Op. XEnvVelScal	0	4194304	Value	ValueOutput
+Op. ZEnvVelScal	0	4194304	Value	ValueOutput
+PitchEnvVelScal	0	4194304	Value	ValueOutput
+Op. A Wave Inv	0	4194304	Value	ValueOutput
+Op. B Wave Inv	0	4194304	Value	ValueOutput
+Op. C Wave Inv	0	4194304	Value	ValueOutput
+Op. D Wave Inv	0	4194304	Value	ValueOutput
+Op. E Wave Inv	0	4194304	Value	ValueOutput
+Op. F Wave Inv	0	4194304	Value	ValueOutput
+Op. X Wave Inv	0	4194304	Value	ValueOutput
+Op. Z Wave Inv	0	4194304	Value	ValueOutput
+Pitch Wave Inv	0	4194304	Value	ValueOutput
+Op. A P.Env	0	4194304	Value	ValueOutput
+Op. B P.Env	0	4194304	Value	ValueOutput
+Op. C P.Env	0	4194304	Value	ValueOutput
+Op. D P.Env	0	4194304	Value	ValueOutput
+Op. E P.Env	0	4194304	Value	ValueOutput
+Op. F P.Env	0	4194304	Value	ValueOutput
+Op. X P.Env	0	4194304	Value	ValueOutput
+Op. Z P.Env	0	4194304	Value	ValueOutput
+Pitch P.Env	0	4194304	Value	ValueOutput
+Op. A Env Loop	0	4194304	Value	ValueOutput
+Op. B Env Loop	0	4194304	Value	ValueOutput
+Op. C Env Loop	0	4194304	Value	ValueOutput
+Op. D Env Loop	0	4194304	Value	ValueOutput
+Op. E Env Loop	0	4194304	Value	ValueOutput
+Op. F Env Loop	0	4194304	Value	ValueOutput
+Op. X Env Loop	0	4194304	Value	ValueOutput
+Op. Z Env Loop	0	4194304	Value	ValueOutput
+Pitch Env Loop	0	4194304	Value	ValueOutput
+Op. A Env Rel	0	4194304	Value	ValueOutput
+Op. B Env Rel	0	4194304	Value	ValueOutput
+Op. C Env Rel	0	4194304	Value	ValueOutput
+Op. D Env Rel	0	4194304	Value	ValueOutput
+Op. E Env Rel	0	4194304	Value	ValueOutput
+Op. F Env Rel	0	4194304	Value	ValueOutput
+Op. X Env Rel	0	4194304	Value	ValueOutput
+Op. Z Env Rel	0	4194304	Value	ValueOutput
+Pitch Env Rel	0	4194304	Value	ValueOutput
+Op. A On/Off BL	0	4194304	Value	ValueOutput
+Op. A On/Off BR	0	4194304	Value	ValueOutput
+Op. A On/Off TR	0	4194304	Value	ValueOutput
+Op. A On/Off TL	0	4194304	Value	ValueOutput
+Op. B On/Off BL	0	4194304	Value	ValueOutput
+Op. B On/Off BR	0	4194304	Value	ValueOutput
+Op. B On/Off TR	0	4194304	Value	ValueOutput
+Op. B On/Off TL	0	4194304	Value	ValueOutput
+Op. C On/Off BL	0	4194304	Value	ValueOutput
+Op. C On/Off BR	0	4194304	Value	ValueOutput
+Op. C On/Off TR	0	4194304	Value	ValueOutput
+Op. C On/Off TL	0	4194304	Value	ValueOutput
+Op. D On/Off BL	0	4194304	Value	ValueOutput
+Op. D On/Off BR	0	4194304	Value	ValueOutput
+Op. D On/Off TR	0	4194304	Value	ValueOutput
+Op. D On/Off TL	0	4194304	Value	ValueOutput
+Op. E On/Off BL	0	4194304	Value	ValueOutput
+Op. E On/Off BR	0	4194304	Value	ValueOutput
+Op. E On/Off TR	0	4194304	Value	ValueOutput
+Op. E On/Off TL	0	4194304	Value	ValueOutput
+Op. F On/Off BL	0	4194304	Value	ValueOutput
+Op. F On/Off BR	0	4194304	Value	ValueOutput
+Op. F On/Off TR	0	4194304	Value	ValueOutput
+Op. F On/Off TL	0	4194304	Value	ValueOutput
+Op. X On/Off BL	0	4194304	Value	ValueOutput
+Op. X On/Off BR	0	4194304	Value	ValueOutput
+Op. X On/Off TR	0	4194304	Value	ValueOutput
+Op. X On/Off TL	0	4194304	Value	ValueOutput
+Op. Z On/Off BL	0	4194304	Value	ValueOutput
+Op. Z On/Off BR	0	4194304	Value	ValueOutput
+Op. Z On/Off TR	0	4194304	Value	ValueOutput
+Op. Z On/Off TL	0	4194304	Value	ValueOutput
+Pitch On/Off BL	0	4194304	Value	ValueOutput
+Pitch On/Off BR	0	4194304	Value	ValueOutput
+Pitch On/Off TR	0	4194304	Value	ValueOutput
+Pitch On/Off TL	0	4194304	Value	ValueOutput
+A Out Level BL	0	4194304	Value	ValueOutput
+A Out Level BR	0	4194304	Value	ValueOutput
+A Out Level TR	0	4194304	Value	ValueOutput
+A Out Level TL	0	4194304	Value	ValueOutput
+B Out Level BL	0	4194304	Value	ValueOutput
+B Out Level BR	0	4194304	Value	ValueOutput
+B Out Level TR	0	4194304	Value	ValueOutput
+B Out Level TL	0	4194304	Value	ValueOutput
+C Out Level BL	0	4194304	Value	ValueOutput
+C Out Level BR	0	4194304	Value	ValueOutput
+C Out Level TR	0	4194304	Value	ValueOutput
+C Out Level TL	0	4194304	Value	ValueOutput
+D Out Level BL	0	4194304	Value	ValueOutput
+D Out Level BR	0	4194304	Value	ValueOutput
+D Out Level TR	0	4194304	Value	ValueOutput
+D Out Level TL	0	4194304	Value	ValueOutput
+E Out Level BL	0	4194304	Value	ValueOutput
+E Out Level BR	0	4194304	Value	ValueOutput
+E Out Level TR	0	4194304	Value	ValueOutput
+E Out Level TL	0	4194304	Value	ValueOutput
+F Out Level BL	0	4194304	Value	ValueOutput
+F Out Level BR	0	4194304	Value	ValueOutput
+F Out Level TR	0	4194304	Value	ValueOutput
+F Out Level TL	0	4194304	Value	ValueOutput
+X Out Level BL	0	4194304	Value	ValueOutput
+X Out Level BR	0	4194304	Value	ValueOutput
+X Out Level TR	0	4194304	Value	ValueOutput
+X Out Level TL	0	4194304	Value	ValueOutput
+Z Out Level BL	0	4194304	Value	ValueOutput
+Z Out Level BR	0	4194304	Value	ValueOutput
+Z Out Level TR	0	4194304	Value	ValueOutput
+Z Out Level TL	0	4194304	Value	ValueOutput
+P Out Level BL	0	4194304	Value	ValueOutput
+P Out Level BR	0	4194304	Value	ValueOutput
+P Out Level TR	0	4194304	Value	ValueOutput
+P Out Level TL	0	4194304	Value	ValueOutput
+A WaveformBL	0	4194304	Value	ValueOutput
+A WaveformBR	0	4194304	Value	ValueOutput
+A WaveformTR	0	4194304	Value	ValueOutput
+A WaveformTL	0	4194304	Value	ValueOutput
+B WaveformBL	0	4194304	Value	ValueOutput
+B WaveformBR	0	4194304	Value	ValueOutput
+B WaveformTR	0	4194304	Value	ValueOutput
+B WaveformTL	0	4194304	Value	ValueOutput
+C WaveformBL	0	4194304	Value	ValueOutput
+C WaveformBR	0	4194304	Value	ValueOutput
+C WaveformTR	0	4194304	Value	ValueOutput
+C WaveformTL	0	4194304	Value	ValueOutput
+D WaveformBL	0	4194304	Value	ValueOutput
+D WaveformBR	0	4194304	Value	ValueOutput
+D WaveformTR	0	4194304	Value	ValueOutput
+D WaveformTL	0	4194304	Value	ValueOutput
+E WaveformBL	0	4194304	Value	ValueOutput
+E WaveformBR	0	4194304	Value	ValueOutput
+E WaveformTR	0	4194304	Value	ValueOutput
+E WaveformTL	0	4194304	Value	ValueOutput
+F WaveformBL	0	4194304	Value	ValueOutput
+F WaveformBR	0	4194304	Value	ValueOutput
+F WaveformTR	0	4194304	Value	ValueOutput
+F WaveformTL	0	4194304	Value	ValueOutput
+X WaveformBL	0	4194304	Value	ValueOutput
+X WaveformBR	0	4194304	Value	ValueOutput
+X WaveformTR	0	4194304	Value	ValueOutput
+X WaveformTL	0	4194304	Value	ValueOutput
+Z WaveformBL	0	4194304	Value	ValueOutput
+Z WaveformBR	0	4194304	Value	ValueOutput
+Z WaveformTR	0	4194304	Value	ValueOutput
+Z WaveformTL	0	4194304	Value	ValueOutput
+P WaveformBL	0	4194304	Value	ValueOutput
+P WaveformBR	0	4194304	Value	ValueOutput
+P WaveformTR	0	4194304	Value	ValueOutput
+P WaveformTL	0	4194304	Value	ValueOutput
+Op. A RatioBL	0	4194304	Value	ValueOutput
+Op. A RatioBR	0	4194304	Value	ValueOutput
+Op. A RatioTR	0	4194304	Value	ValueOutput
+Op. A RatioTL	0	4194304	Value	ValueOutput
+Op. B RatioBL	0	4194304	Value	ValueOutput
+Op. B RatioBR	0	4194304	Value	ValueOutput
+Op. B RatioTR	0	4194304	Value	ValueOutput
+Op. B RatioTL	0	4194304	Value	ValueOutput
+Op. C RatioBL	0	4194304	Value	ValueOutput
+Op. C RatioBR	0	4194304	Value	ValueOutput
+Op. C RatioTR	0	4194304	Value	ValueOutput
+Op. C RatioTL	0	4194304	Value	ValueOutput
+Op. D RatioBL	0	4194304	Value	ValueOutput
+Op. D RatioBR	0	4194304	Value	ValueOutput
+Op. D RatioTR	0	4194304	Value	ValueOutput
+Op. D RatioTL	0	4194304	Value	ValueOutput
+Op. E RatioBL	0	4194304	Value	ValueOutput
+Op. E RatioBR	0	4194304	Value	ValueOutput
+Op. E RatioTR	0	4194304	Value	ValueOutput
+Op. E RatioTL	0	4194304	Value	ValueOutput
+Op. F RatioBL	0	4194304	Value	ValueOutput
+Op. F RatioBR	0	4194304	Value	ValueOutput
+Op. F RatioTR	0	4194304	Value	ValueOutput
+Op. F RatioTL	0	4194304	Value	ValueOutput
+Op. X RatioBL	0	4194304	Value	ValueOutput
+Op. X RatioBR	0	4194304	Value	ValueOutput
+Op. X RatioTR	0	4194304	Value	ValueOutput
+Op. X RatioTL	0	4194304	Value	ValueOutput
+Op. Z RatioBL	0	4194304	Value	ValueOutput
+Op. Z RatioBR	0	4194304	Value	ValueOutput
+Op. Z RatioTR	0	4194304	Value	ValueOutput
+Op. Z RatioTL	0	4194304	Value	ValueOutput
+Pitch RatioBL	0	4194304	Value	ValueOutput
+Pitch RatioBR	0	4194304	Value	ValueOutput
+Pitch RatioTR	0	4194304	Value	ValueOutput
+Pitch RatioTL	0	4194304	Value	ValueOutput
+Op. A OffsetBL	0	4194304	Value	ValueOutput
+Op. A OffsetBR	0	4194304	Value	ValueOutput
+Op. A OffsetTR	0	4194304	Value	ValueOutput
+Op. A OffsetTL	0	4194304	Value	ValueOutput
+Op. B OffsetBL	0	4194304	Value	ValueOutput
+Op. B OffsetBR	0	4194304	Value	ValueOutput
+Op. B OffsetTR	0	4194304	Value	ValueOutput
+Op. B OffsetTL	0	4194304	Value	ValueOutput
+Op. C OffsetBL	0	4194304	Value	ValueOutput
+Op. C OffsetBR	0	4194304	Value	ValueOutput
+Op. C OffsetTR	0	4194304	Value	ValueOutput
+Op. C OffsetTL	0	4194304	Value	ValueOutput
+Op. D OffsetBL	0	4194304	Value	ValueOutput
+Op. D OffsetBR	0	4194304	Value	ValueOutput
+Op. D OffsetTR	0	4194304	Value	ValueOutput
+Op. D OffsetTL	0	4194304	Value	ValueOutput
+Op. E OffsetBL	0	4194304	Value	ValueOutput
+Op. E OffsetBR	0	4194304	Value	ValueOutput
+Op. E OffsetTR	0	4194304	Value	ValueOutput
+Op. E OffsetTL	0	4194304	Value	ValueOutput
+Op. F OffsetBL	0	4194304	Value	ValueOutput
+Op. F OffsetBR	0	4194304	Value	ValueOutput
+Op. F OffsetTR	0	4194304	Value	ValueOutput
+Op. F OffsetTL	0	4194304	Value	ValueOutput
+Op. X OffsetBL	0	4194304	Value	ValueOutput
+Op. X OffsetBR	0	4194304	Value	ValueOutput
+Op. X OffsetTR	0	4194304	Value	ValueOutput
+Op. X OffsetTL	0	4194304	Value	ValueOutput
+Op. Z OffsetBL	0	4194304	Value	ValueOutput
+Op. Z OffsetBR	0	4194304	Value	ValueOutput
+Op. Z OffsetTR	0	4194304	Value	ValueOutput
+Op. Z OffsetTL	0	4194304	Value	ValueOutput
+Pitch OffsetBL	0	4194304	Value	ValueOutput
+Pitch OffsetBR	0	4194304	Value	ValueOutput
+Pitch OffsetTR	0	4194304	Value	ValueOutput
+Pitch OffsetTL	0	4194304	Value	ValueOutput
+Filt. Serial BL	0	4194304	Value	ValueOutput
+Filt. Serial BR	0	4194304	Value	ValueOutput
+Filt. Serial TR	0	4194304	Value	ValueOutput
+Filt. Serial TL	0	4194304	Value	ValueOutput
+Filter Mix BL	0	4194304	Value	ValueOutput
+Filter Mix BR	0	4194304	Value	ValueOutput
+Filter Mix TR	0	4194304	Value	ValueOutput
+Filter Mix TL	0	4194304	Value	ValueOutput
+Filt. 1 Mode BL	0	4194304	Value	ValueOutput
+Filt. 1 Mode BR	0	4194304	Value	ValueOutput
+Filt. 1 Mode TR	0	4194304	Value	ValueOutput
+Filt. 1 Mode TL	0	4194304	Value	ValueOutput
+Filt. 2 Mode BL	0	4194304	Value	ValueOutput
+Filt. 2 Mode BR	0	4194304	Value	ValueOutput
+Filt. 2 Mode TR	0	4194304	Value	ValueOutput
+Filt. 2 Mode TL	0	4194304	Value	ValueOutput
+Filt. Cutoff BL	0	4194304	Value	ValueOutput
+Filt. Cutoff BR	0	4194304	Value	ValueOutput
+Filt. Cutoff TR	0	4194304	Value	ValueOutput
+Filt. Cutoff TL	0	4194304	Value	ValueOutput
+Filt. Spread BL	0	4194304	Value	ValueOutput
+Filt. Spread BR	0	4194304	Value	ValueOutput
+Filt. Spread TR	0	4194304	Value	ValueOutput
+Filt. Spread TL	0	4194304	Value	ValueOutput
+FiltEnvAmnt BL	0	4194304	Value	ValueOutput
+FiltEnvAmnt BR	0	4194304	Value	ValueOutput
+FiltEnvAmnt TR	0	4194304	Value	ValueOutput
+FiltEnvAmnt TL	0	4194304	Value	ValueOutput
+Filter 1 Res BL	0	4194304	Value	ValueOutput
+Filter 1 Res BR	0	4194304	Value	ValueOutput
+Filter 1 Res TR	0	4194304	Value	ValueOutput
+Filter 1 Res TL	0	4194304	Value	ValueOutput
+Filter 2 Res BL	0	4194304	Value	ValueOutput
+Filter 2 Res BR	0	4194304	Value	ValueOutput
+Filter 2 Res TR	0	4194304	Value	ValueOutput
+Filter 2 Res TL	0	4194304	Value	ValueOutput
+Noise Cutoff BL	0	4194304	Value	ValueOutput
+Noise Cutoff BR	0	4194304	Value	ValueOutput
+Noise Cutoff TR	0	4194304	Value	ValueOutput
+Noise Cutoff TL	0	4194304	Value	ValueOutput
+Noise Res BL	0	4194304	Value	ValueOutput
+Noise Res BR	0	4194304	Value	ValueOutput
+Noise Res TR	0	4194304	Value	ValueOutput
+Noise Res TL	0	4194304	Value	ValueOutput
+Noise Ampltd BL	0	4194304	Value	ValueOutput
+Noise Ampltd BR	0	4194304	Value	ValueOutput
+Noise Ampltd TR	0	4194304	Value	ValueOutput
+Noise Ampltd TL	0	4194304	Value	ValueOutput
+Sat Gain BL	0	4194304	Value	ValueOutput
+Sat Gain BR	0	4194304	Value	ValueOutput
+Sat Gain TR	0	4194304	Value	ValueOutput
+Sat Gain TL	0	4194304	Value	ValueOutput
+Sat Level BL	0	4194304	Value	ValueOutput
+Sat Level BR	0	4194304	Value	ValueOutput
+Sat Level TR	0	4194304	Value	ValueOutput
+Sat Level TL	0	4194304	Value	ValueOutput
+Sat Asym BL	0	4194304	Value	ValueOutput
+Sat Asym BR	0	4194304	Value	ValueOutput
+Sat Asym TR	0	4194304	Value	ValueOutput
+Sat Asym TL	0	4194304	Value	ValueOutput
+Op. A Mod PB Up	0	4194304	Value	ValueOutput
+Op. B Mod PB Up	0	4194304	Value	ValueOutput
+Op. C Mod PB Up	0	4194304	Value	ValueOutput
+Op. D Mod PB Up	0	4194304	Value	ValueOutput
+Op. E Mod PB Up	0	4194304	Value	ValueOutput
+Op. F Mod PB Up	0	4194304	Value	ValueOutput
+Op. X Mod PB Up	0	4194304	Value	ValueOutput
+Op. Z Mod PB Up	0	4194304	Value	ValueOutput
+Pitch Mod PB Up	0	4194304	Value	ValueOutput
+Op. A ModPBDown	0	4194304	Value	ValueOutput
+Op. B ModPBDown	0	4194304	Value	ValueOutput
+Op. C ModPBDown	0	4194304	Value	ValueOutput
+Op. D ModPBDown	0	4194304	Value	ValueOutput
+Op. E ModPBDown	0	4194304	Value	ValueOutput
+Op. F ModPBDown	0	4194304	Value	ValueOutput
+Op. X ModPBDown	0	4194304	Value	ValueOutput
+Op. Z ModPBDown	0	4194304	Value	ValueOutput
+Pitch ModPBDown	0	4194304	Value	ValueOutput
+Op. A Mod ATC	0	4194304	Value	ValueOutput
+Op. B Mod ATC	0	4194304	Value	ValueOutput
+Op. C Mod ATC	0	4194304	Value	ValueOutput
+Op. D Mod ATC	0	4194304	Value	ValueOutput
+Op. E Mod ATC	0	4194304	Value	ValueOutput
+Op. F Mod ATC	0	4194304	Value	ValueOutput
+Op. X Mod ATC	0	4194304	Value	ValueOutput
+Op. Z Mod ATC	0	4194304	Value	ValueOutput
+Pitch Mod ATC	0	4194304	Value	ValueOutput
+Op. A Mod MW	0	4194304	Value	ValueOutput
+Op. B Mod MW	0	4194304	Value	ValueOutput
+Op. C Mod MW	0	4194304	Value	ValueOutput
+Op. D Mod MW	0	4194304	Value	ValueOutput
+Op. E Mod MW	0	4194304	Value	ValueOutput
+Op. F Mod MW	0	4194304	Value	ValueOutput
+Op. X Mod MW	0	4194304	Value	ValueOutput
+Op. Z Mod MW	0	4194304	Value	ValueOutput
+Pitch Mod MW	0	4194304	Value	ValueOutput
+Op. A Mod BC	0	4194304	Value	ValueOutput
+Op. B Mod BC	0	4194304	Value	ValueOutput
+Op. C Mod BC	0	4194304	Value	ValueOutput
+Op. D Mod BC	0	4194304	Value	ValueOutput
+Op. E Mod BC	0	4194304	Value	ValueOutput
+Op. F Mod BC	0	4194304	Value	ValueOutput
+Op. X Mod BC	0	4194304	Value	ValueOutput
+Op. Z Mod BC	0	4194304	Value	ValueOutput
+Pitch Mod BC	0	4194304	Value	ValueOutput
+Op. A Mod Ctlr1	0	4194304	Value	ValueOutput
+Op. B Mod Ctlr1	0	4194304	Value	ValueOutput
+Op. C Mod Ctlr1	0	4194304	Value	ValueOutput
+Op. D Mod Ctlr1	0	4194304	Value	ValueOutput
+Op. E Mod Ctlr1	0	4194304	Value	ValueOutput
+Op. F Mod Ctlr1	0	4194304	Value	ValueOutput
+Op. X Mod Ctlr1	0	4194304	Value	ValueOutput
+Op. Z Mod Ctlr1	0	4194304	Value	ValueOutput
+Pitch Mod Ctlr1	0	4194304	Value	ValueOutput
+Op. A Mod Ctlr2	0	4194304	Value	ValueOutput
+Op. B Mod Ctlr2	0	4194304	Value	ValueOutput
+Op. C Mod Ctlr2	0	4194304	Value	ValueOutput
+Op. D Mod Ctlr2	0	4194304	Value	ValueOutput
+Op. E Mod Ctlr2	0	4194304	Value	ValueOutput
+Op. F Mod Ctlr2	0	4194304	Value	ValueOutput
+Op. X Mod Ctlr2	0	4194304	Value	ValueOutput
+Op. Z Mod Ctlr2	0	4194304	Value	ValueOutput
+Pitch Mod Ctlr2	0	4194304	Value	ValueOutput
+Op. A Mod Input	0	4194304	Value	ValueOutput
+Op. B Mod Input	0	4194304	Value	ValueOutput
+Op. C Mod Input	0	4194304	Value	ValueOutput
+Op. D Mod Input	0	4194304	Value	ValueOutput
+Op. E Mod Input	0	4194304	Value	ValueOutput
+Op. F Mod Input	0	4194304	Value	ValueOutput
+Op. X Mod Input	0	4194304	Value	ValueOutput
+Op. Z Mod Input	0	4194304	Value	ValueOutput
+Pitch Mod Input	0	4194304	Value	ValueOutput
+Op. A Mod LFO 1	0	4194304	Value	ValueOutput
+Op. B Mod LFO 1	0	4194304	Value	ValueOutput
+Op. C Mod LFO 1	0	4194304	Value	ValueOutput
+Op. D Mod LFO 1	0	4194304	Value	ValueOutput
+Op. E Mod LFO 1	0	4194304	Value	ValueOutput
+Op. F Mod LFO 1	0	4194304	Value	ValueOutput
+Op. X Mod LFO 1	0	4194304	Value	ValueOutput
+Op. Z Mod LFO 1	0	4194304	Value	ValueOutput
+Pitch Mod LFO 1	0	4194304	Value	ValueOutput
+Op. A LFO1*ATC	0	4194304	Value	ValueOutput
+Op. B LFO1*ATC	0	4194304	Value	ValueOutput
+Op. C LFO1*ATC	0	4194304	Value	ValueOutput
+Op. D LFO1*ATC	0	4194304	Value	ValueOutput
+Op. E LFO1*ATC	0	4194304	Value	ValueOutput
+Op. F LFO1*ATC	0	4194304	Value	ValueOutput
+Op. X LFO1*ATC	0	4194304	Value	ValueOutput
+Op. Z LFO1*ATC	0	4194304	Value	ValueOutput
+Pitch LFO1*ATC	0	4194304	Value	ValueOutput
+Op. A LFO1*MW	0	4194304	Value	ValueOutput
+Op. B LFO1*MW	0	4194304	Value	ValueOutput
+Op. C LFO1*MW	0	4194304	Value	ValueOutput
+Op. D LFO1*MW	0	4194304	Value	ValueOutput
+Op. E LFO1*MW	0	4194304	Value	ValueOutput
+Op. F LFO1*MW	0	4194304	Value	ValueOutput
+Op. X LFO1*MW	0	4194304	Value	ValueOutput
+Op. Z LFO1*MW	0	4194304	Value	ValueOutput
+Pitch LFO1*MW	0	4194304	Value	ValueOutput
+Op. A LFO1*BC	0	4194304	Value	ValueOutput
+Op. B LFO1*BC	0	4194304	Value	ValueOutput
+Op. C LFO1*BC	0	4194304	Value	ValueOutput
+Op. D LFO1*BC	0	4194304	Value	ValueOutput
+Op. E LFO1*BC	0	4194304	Value	ValueOutput
+Op. F LFO1*BC	0	4194304	Value	ValueOutput
+Op. X LFO1*BC	0	4194304	Value	ValueOutput
+Op. Z LFO1*BC	0	4194304	Value	ValueOutput
+Pitch LFO1*BC	0	4194304	Value	ValueOutput
+Op. A LFO1*Ctr1	0	4194304	Value	ValueOutput
+Op. B LFO1*Ctr1	0	4194304	Value	ValueOutput
+Op. C LFO1*Ctr1	0	4194304	Value	ValueOutput
+Op. D LFO1*Ctr1	0	4194304	Value	ValueOutput
+Op. E LFO1*Ctr1	0	4194304	Value	ValueOutput
+Op. F LFO1*Ctr1	0	4194304	Value	ValueOutput
+Op. X LFO1*Ctr1	0	4194304	Value	ValueOutput
+Op. Z LFO1*Ctr1	0	4194304	Value	ValueOutput
+Pitch LFO1*Ctr1	0	4194304	Value	ValueOutput
+Op. A LFO1*Ctr2	0	4194304	Value	ValueOutput
+Op. B LFO1*Ctr2	0	4194304	Value	ValueOutput
+Op. C LFO1*Ctr2	0	4194304	Value	ValueOutput
+Op. D LFO1*Ctr2	0	4194304	Value	ValueOutput
+Op. E LFO1*Ctr2	0	4194304	Value	ValueOutput
+Op. F LFO1*Ctr2	0	4194304	Value	ValueOutput
+Op. X LFO1*Ctr2	0	4194304	Value	ValueOutput
+Op. Z LFO1*Ctr2	0	4194304	Value	ValueOutput
+Pitch LFO1*Ctr2	0	4194304	Value	ValueOutput
+Op. A Mod LFO 2	0	4194304	Value	ValueOutput
+Op. B Mod LFO 2	0	4194304	Value	ValueOutput
+Op. C Mod LFO 2	0	4194304	Value	ValueOutput
+Op. D Mod LFO 2	0	4194304	Value	ValueOutput
+Op. E Mod LFO 2	0	4194304	Value	ValueOutput
+Op. F Mod LFO 2	0	4194304	Value	ValueOutput
+Op. X Mod LFO 2	0	4194304	Value	ValueOutput
+Op. Z Mod LFO 2	0	4194304	Value	ValueOutput
+Pitch Mod LFO 2	0	4194304	Value	ValueOutput
+Op. A LFO2*ATC	0	4194304	Value	ValueOutput
+Op. B LFO2*ATC	0	4194304	Value	ValueOutput
+Op. C LFO2*ATC	0	4194304	Value	ValueOutput
+Op. D LFO2*ATC	0	4194304	Value	ValueOutput
+Op. E LFO2*ATC	0	4194304	Value	ValueOutput
+Op. F LFO2*ATC	0	4194304	Value	ValueOutput
+Op. X LFO2*ATC	0	4194304	Value	ValueOutput
+Op. Z LFO2*ATC	0	4194304	Value	ValueOutput
+Pitch LFO2*ATC	0	4194304	Value	ValueOutput
+Op. A LFO2*MW	0	4194304	Value	ValueOutput
+Op. B LFO2*MW	0	4194304	Value	ValueOutput
+Op. C LFO2*MW	0	4194304	Value	ValueOutput
+Op. D LFO2*MW	0	4194304	Value	ValueOutput
+Op. E LFO2*MW	0	4194304	Value	ValueOutput
+Op. F LFO2*MW	0	4194304	Value	ValueOutput
+Op. X LFO2*MW	0	4194304	Value	ValueOutput
+Op. Z LFO2*MW	0	4194304	Value	ValueOutput
+Pitch LFO2*MW	0	4194304	Value	ValueOutput
+Op. A LFO2*BC	0	4194304	Value	ValueOutput
+Op. B LFO2*BC	0	4194304	Value	ValueOutput
+Op. C LFO2*BC	0	4194304	Value	ValueOutput
+Op. D LFO2*BC	0	4194304	Value	ValueOutput
+Op. E LFO2*BC	0	4194304	Value	ValueOutput
+Op. F LFO2*BC	0	4194304	Value	ValueOutput
+Op. X LFO2*BC	0	4194304	Value	ValueOutput
+Op. Z LFO2*BC	0	4194304	Value	ValueOutput
+Pitch LFO2*BC	0	4194304	Value	ValueOutput
+Op. A LFO2*Ctr1	0	4194304	Value	ValueOutput
+Op. B LFO2*Ctr1	0	4194304	Value	ValueOutput
+Op. C LFO2*Ctr1	0	4194304	Value	ValueOutput
+Op. D LFO2*Ctr1	0	4194304	Value	ValueOutput
+Op. E LFO2*Ctr1	0	4194304	Value	ValueOutput
+Op. F LFO2*Ctr1	0	4194304	Value	ValueOutput
+Op. X LFO2*Ctr1	0	4194304	Value	ValueOutput
+Op. Z LFO2*Ctr1	0	4194304	Value	ValueOutput
+Pitch LFO2*Ctr1	0	4194304	Value	ValueOutput
+Op. A LFO2*Ctr2	0	4194304	Value	ValueOutput
+Op. B LFO2*Ctr2	0	4194304	Value	ValueOutput
+Op. C LFO2*Ctr2	0	4194304	Value	ValueOutput
+Op. D LFO2*Ctr2	0	4194304	Value	ValueOutput
+Op. E LFO2*Ctr2	0	4194304	Value	ValueOutput
+Op. F LFO2*Ctr2	0	4194304	Value	ValueOutput
+Op. X LFO2*Ctr2	0	4194304	Value	ValueOutput
+Op. Z LFO2*Ctr2	0	4194304	Value	ValueOutput
+Pitch LFO2*Ctr2	0	4194304	Value	ValueOutput
+LFO 1 Invert	0	4194304	Value	ValueOutput
+LFO 2 Invert	0	4194304	Value	ValueOutput
+LFO 1 On/Off	0	4194304	Value	ValueOutput
+LFO1 Waveform	0	4194304	Value	ValueOutput
+LFO 1 Rate	0	4194304	Value	ValueOutput
+LFO1 Delay Time	0	4194304	Value	ValueOutput
+LFO1 FreeRun	0	4194304	Value	ValueOutput
+LFO1 Tempo Sync	0	4194304	Value	ValueOutput
+LFO1 Vel. Scale	0	4194304	Value	ValueOutput
+LFO1 Key Scale	0	4194304	Value	ValueOutput
+LFO 2 On/Off	0	4194304	Value	ValueOutput
+LFO2 Waveform	0	4194304	Value	ValueOutput
+LFO 2 Rate	0	4194304	Value	ValueOutput
+LFO2 Delay Time	0	4194304	Value	ValueOutput
+LFO2 FreeRun	0	4194304	Value	ValueOutput
+LFO2 Tempo Sync	0	4194304	Value	ValueOutput
+LFO2 Vel. Scale	0	4194304	Value	ValueOutput
+LFO2 Key Scale	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

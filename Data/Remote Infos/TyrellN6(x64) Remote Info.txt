@@ -1,0 +1,115 @@
+Scope
+Manufacturer	Model
+u-he	vst.tYn6.TyrellN6(x64)
+Note: Will match scope definitions for vst.tYn6.TyrellN6(x64) or vst.tYn6
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+main: Output	0	4194304	Value	ValueOutput
+PCore: Matrix1 Source	0	4194304	Value	ValueOutput
+PCore: Matrix1 Depth	0	4194304	Value	ValueOutput
+PCore: Matrix1 ViaSrc	0	4194304	Value	ValueOutput
+PCore: Matrix1 Via	0	4194304	Value	ValueOutput
+PCore: Matrix2 Source	0	4194304	Value	ValueOutput
+PCore: Matrix2 Depth	0	4194304	Value	ValueOutput
+PCore: Matrix2 ViaSrc	0	4194304	Value	ValueOutput
+PCore: Matrix2 Via	0	4194304	Value	ValueOutput
+VCC: Voice Stack	0	4194304	Value	ValueOutput
+VCC: Mode	0	4194304	Value	ValueOutput
+VCC: GlideMode	0	4194304	Value	ValueOutput
+VCC: Glide	0	4194304	Value	ValueOutput
+VCC: Glide2	0	4194304	Value	ValueOutput
+VCC: PortaRange	0	4194304	Value	ValueOutput
+VCC: PitchBend Up	0	4194304	Value	ValueOutput
+VCC: PitchBend Down	0	4194304	Value	ValueOutput
+VCC: Transpose	0	4194304	Value	ValueOutput
+ENV1: Attack	0	4194304	Value	ValueOutput
+ENV1: Decay	0	4194304	Value	ValueOutput
+ENV1: Sustain	0	4194304	Value	ValueOutput
+ENV1: Fall-Rise	0	4194304	Value	ValueOutput
+ENV1: Release	0	4194304	Value	ValueOutput
+ENV1: Velocity	0	4194304	Value	ValueOutput
+ENV1: KeyTrack	0	4194304	Value	ValueOutput
+ENV1: Trigger	0	4194304	Value	ValueOutput
+ENV2: Attack	0	4194304	Value	ValueOutput
+ENV2: Decay	0	4194304	Value	ValueOutput
+ENV2: Sustain	0	4194304	Value	ValueOutput
+ENV2: Fall-Rise	0	4194304	Value	ValueOutput
+ENV2: Release	0	4194304	Value	ValueOutput
+ENV2: Velocity	0	4194304	Value	ValueOutput
+ENV2: KeyTrack	0	4194304	Value	ValueOutput
+ENV2: Trigger	0	4194304	Value	ValueOutput
+LFO1: Sync	0	4194304	Value	ValueOutput
+LFO1: Delay	0	4194304	Value	ValueOutput
+LFO2: Sync	0	4194304	Value	ValueOutput
+LFO2: Delay	0	4194304	Value	ValueOutput
+Tyrell: Shape1	0	4194304	Value	ValueOutput
+Tyrell: TuneModSrc1	0	4194304	Value	ValueOutput
+Tyrell: TuneModDepth1	0	4194304	Value	ValueOutput
+Tyrell: Shape2	0	4194304	Value	ValueOutput
+Tyrell: Tune2	0	4194304	Value	ValueOutput
+Tyrell: FineTune2	0	4194304	Value	ValueOutput
+Tyrell: TuneModSrc2	0	4194304	Value	ValueOutput
+Tyrell: TuneModDepth2	0	4194304	Value	ValueOutput
+Tyrell: PWDepth	0	4194304	Value	ValueOutput
+Tyrell: PWSrc	0	4194304	Value	ValueOutput
+Tyrell: Detune	0	4194304	Value	ValueOutput
+Tyrell: SoftSync	0	4194304	Value	ValueOutput
+Tyrell: Vibrato	0	4194304	Value	ValueOutput
+Tyrell: RingModIn1	0	4194304	Value	ValueOutput
+Tyrell: RingModIn2	0	4194304	Value	ValueOutput
+Tyrell: NoiseColour	0	4194304	Value	ValueOutput
+Tyrell: OscVolume1	0	4194304	Value	ValueOutput
+Tyrell: OscVolume2	0	4194304	Value	ValueOutput
+Tyrell: SubVolume	0	4194304	Value	ValueOutput
+Tyrell: NoiseVolume	0	4194304	Value	ValueOutput
+Tyrell: RingModulator	0	4194304	Value	ValueOutput
+Tyrell: Feedback	0	4194304	Value	ValueOutput
+Tyrell: VCFMode	0	4194304	Value	ValueOutput
+Tyrell: VCFPoles	0	4194304	Value	ValueOutput
+Tyrell: Cutoff	0	4194304	Value	ValueOutput
+Tyrell: FreqModSrc1	0	4194304	Value	ValueOutput
+Tyrell: FreqModDepth1	0	4194304	Value	ValueOutput
+Tyrell: FreqModSrc2	0	4194304	Value	ValueOutput
+Tyrell: FreqModDepth2	0	4194304	Value	ValueOutput
+Tyrell: KeyFollow	0	4194304	Value	ValueOutput
+Tyrell: Resonance	0	4194304	Value	ValueOutput
+Tyrell: MixSpread	0	4194304	Value	ValueOutput
+Tyrell: AudioRateSrc	0	4194304	Value	ValueOutput
+Tyrell: AudioRateDest	0	4194304	Value	ValueOutput
+Tyrell: XModDepth	0	4194304	Value	ValueOutput
+Tyrell: AudioRateModSrc	0	4194304	Value	ValueOutput
+Chrs1: Type	0	4194304	Value	ValueOutput
+Chrs1: Rate	0	4194304	Value	ValueOutput
+Chrs1: Depth	0	4194304	Value	ValueOutput
+Chrs1: Wet	0	4194304	Value	ValueOutput
+LFO1: Restart	0	4194304	Value	ValueOutput
+LFO1: Waveform	0	4194304	Value	ValueOutput
+LFO1: Phase	0	4194304	Value	ValueOutput
+LFO1: Polarity	0	4194304	Value	ValueOutput
+LFO1: DepthMod Dpt1	0	4194304	Value	ValueOutput
+LFO1: Rate	0	4194304	Value	ValueOutput
+LFO1: FreqMod Dpt	0	4194304	Value	ValueOutput
+LFO2: Restart	0	4194304	Value	ValueOutput
+LFO2: Waveform	0	4194304	Value	ValueOutput
+LFO2: Phase	0	4194304	Value	ValueOutput
+LFO2: Polarity	0	4194304	Value	ValueOutput
+LFO2: DepthMod Dpt1	0	4194304	Value	ValueOutput
+LFO2: Rate	0	4194304	Value	ValueOutput
+LFO2: FreqMod Dpt	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

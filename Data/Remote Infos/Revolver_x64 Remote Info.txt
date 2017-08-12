@@ -1,0 +1,90 @@
+Scope
+Manufacturer	Model
+McDSP	vst.Rvlr.Revolver_x64
+Note: Will match scope definitions for vst.Rvlr.Revolver_x64 or vst.Rvlr
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input Level	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Wet Solo Enable	0	4194304	Value	ValueOutput
+Pre Delay	0	4194304	Value	ValueOutput
+Impulse Respons	0	4194304	Value	ValueOutput
+Wet Level	0	4194304	Value	ValueOutput
+Dry Level	0	4194304	Value	ValueOutput
+Tab Display Pag	0	4194304	Value	ValueOutput
+Display Page	0	4194304	Value	ValueOutput
+Impulse Respons	0	4194304	Value	ValueOutput
+LF Color	0	4194304	Value	ValueOutput
+LF Color Freque	0	4194304	Value	ValueOutput
+HF Color	0	4194304	Value	ValueOutput
+HF Color Freque	0	4194304	Value	ValueOutput
+Zoom	0	4194304	Value	ValueOutput
+IR Tail Cut	0	4194304	Value	ValueOutput
+Latency Mode	0	4194304	Value	ValueOutput
+Stereo Mode	0	4194304	Value	ValueOutput
+EQ Gain 1	0	4194304	Value	ValueOutput
+EQ Frequency 1	0	4194304	Value	ValueOutput
+EQ Gain 2	0	4194304	Value	ValueOutput
+EQ Frequency 2	0	4194304	Value	ValueOutput
+EQ Gain 3	0	4194304	Value	ValueOutput
+EQ Frequency 3	0	4194304	Value	ValueOutput
+Delay Length 1	0	4194304	Value	ValueOutput
+Delay Groove 1	0	4194304	Value	ValueOutput
+Delay Note 1	0	4194304	Value	ValueOutput
+Delay Triplet 1	0	4194304	Value	ValueOutput
+Delay Dotted 1	0	4194304	Value	ValueOutput
+Delay Feedback 	0	4194304	Value	ValueOutput
+Delay Pan 1	0	4194304	Value	ValueOutput
+Delay Length 2	0	4194304	Value	ValueOutput
+Delay Groove 2	0	4194304	Value	ValueOutput
+Delay Note 2	0	4194304	Value	ValueOutput
+Delay Triplet 2	0	4194304	Value	ValueOutput
+Delay Dotted 2	0	4194304	Value	ValueOutput
+Delay Feedback 	0	4194304	Value	ValueOutput
+Delay Pan 2	0	4194304	Value	ValueOutput
+Delay Clock Syn	0	4194304	Value	ValueOutput
+Delay BPM	0	4194304	Value	ValueOutput
+Delay Meter Num	0	4194304	Value	ValueOutput
+Delay Meter Den	0	4194304	Value	ValueOutput
+Tweak Split	0	4194304	Value	ValueOutput
+Tweak Split Del	0	4194304	Value	ValueOutput
+Tweak Split Dam	0	4194304	Value	ValueOutput
+Tweak Split Pan	0	4194304	Value	ValueOutput
+Tweak Split Dif	0	4194304	Value	ValueOutput
+Tweak Diffusion	0	4194304	Value	ValueOutput
+Delay Level 1	0	4194304	Value	ValueOutput
+Delay Level 2	0	4194304	Value	ValueOutput
+XOver Gain 1	0	4194304	Value	ValueOutput
+XOver Frequency	0	4194304	Value	ValueOutput
+XOver Gain 2	0	4194304	Value	ValueOutput
+XOver Frequency	0	4194304	Value	ValueOutput
+XOver Gain 3	0	4194304	Value	ValueOutput
+Contour Hold	0	4194304	Value	ValueOutput
+Contour Sustain	0	4194304	Value	ValueOutput
+Reverb Level	0	4194304	Value	ValueOutput
+Main Status Ena	0	4194304	Value	ValueOutput
+EQ Status Enabl	0	4194304	Value	ValueOutput
+Delay 1 Status 	0	4194304	Value	ValueOutput
+Delay 2 Status 	0	4194304	Value	ValueOutput
+Tweak Status En	0	4194304	Value	ValueOutput
+Contour Status 	0	4194304	Value	ValueOutput
+XOver Status En	0	4194304	Value	ValueOutput
+EQ Insertion Po	0	4194304	Value	ValueOutput
+EQ Routing Mode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

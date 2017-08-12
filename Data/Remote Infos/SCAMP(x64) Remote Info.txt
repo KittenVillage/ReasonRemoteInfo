@@ -1,0 +1,46 @@
+Scope
+Manufacturer	Model
+AdmiralQuality.com	vst.AQI1.SCAMP(x64)
+Note: Will match scope definitions for vst.AQI1.SCAMP(x64) or vst.AQI1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+InTrim	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Stages	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Reso	0	4194304	Value	ValueOutput
+EnvAmt	0	4194304	Value	ValueOutput
+EnvAttk	0	4194304	Value	ValueOutput
+EnvRel	0	4194304	Value	ValueOutput
+OutTrim	0	4194304	Value	ValueOutput
+OutSat	0	4194304	Value	ValueOutput
+BP1	0	4194304	Value	ValueOutput
+BP2	0	4194304	Value	ValueOutput
+BP3	0	4194304	Value	ValueOutput
+BP4	0	4194304	Value	ValueOutput
+BP5	0	4194304	Value	ValueOutput
+BP6	0	4194304	Value	ValueOutput
+Quality	0	4194304	Value	ValueOutput
+CCRange	0	4194304	Value	ValueOutput
+LFOAmt	0	4194304	Value	ValueOutput
+LFORate	0	4194304	Value	ValueOutput
+LFOSync	0	4194304	Value	ValueOutput
+LFOWave	0	4194304	Value	ValueOutput
+WetMix	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

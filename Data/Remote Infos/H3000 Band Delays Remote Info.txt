@@ -1,0 +1,158 @@
+Scope
+Manufacturer	Model
+Eventide	vst.BDls.H3000 Band Delays
+Note: Will match scope definitions for vst.BDls.H3000 Band Delays or vst.BDls
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Softkey1 Polari	0	4194304	Value	ValueOutput
+Softkey2 Polari	0	4194304	Value	ValueOutput
+Softkey3 Polari	0	4194304	Value	ValueOutput
+Softkey4 Polari	0	4194304	Value	ValueOutput
+Wet/Dry Mix	0	4194304	Value	ValueOutput
+Input Level	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+FG Type	0	4194304	Value	ValueOutput
+FG Amplitude	0	4194304	Value	ValueOutput
+FG Rate	0	4194304	Value	ValueOutput
+FG Tempo Based	0	4194304	Value	ValueOutput
+FG Beats per Cy	0	4194304	Value	ValueOutput
+FG Trigger	0	4194304	Value	ValueOutput
+Wet/Dry Mix Mod	0	4194304	Value	ValueOutput
+Wet/Dry Mix Min	0	4194304	Value	ValueOutput
+Wet/Dry Mix Max	0	4194304	Value	ValueOutput
+FG Amplitude Mo	0	4194304	Value	ValueOutput
+FG Amplitude Mi	0	4194304	Value	ValueOutput
+FG Amplitude Ma	0	4194304	Value	ValueOutput
+FG Rate Mod	0	4194304	Value	ValueOutput
+FG Rate Min	0	4194304	Value	ValueOutput
+FG Rate Max	0	4194304	Value	ValueOutput
+FG Beats per Cy	0	4194304	Value	ValueOutput
+FG Beats per Cy	0	4194304	Value	ValueOutput
+FG Trigger Mod	0	4194304	Value	ValueOutput
+FG Trigger Min	0	4194304	Value	ValueOutput
+FG Trigger Max	0	4194304	Value	ValueOutput
+Softkey 1	0	4194304	Value	ValueOutput
+Softkey 2	0	4194304	Value	ValueOutput
+Softkey 3	0	4194304	Value	ValueOutput
+Softkey 4	0	4194304	Value	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+Meter Numerator	0	4194304	Value	ValueOutput
+Meter Denominat	0	4194304	Value	ValueOutput
+Global Delay	0	4194304	Value	ValueOutput
+Global Frequenc	0	4194304	Value	ValueOutput
+Global Q Factor	0	4194304	Value	ValueOutput
+Global Pan	0	4194304	Value	ValueOutput
+Feedback Delay	0	4194304	Value	ValueOutput
+Feedback Delay 	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Enable1	0	4194304	Value	ValueOutput
+PhaseInvert1	0	4194304	Value	ValueOutput
+Frequency1	0	4194304	Value	ValueOutput
+Q Factor1	0	4194304	Value	ValueOutput
+Filter Type1	0	4194304	Value	ValueOutput
+Delay1	0	4194304	Value	ValueOutput
+Delay1 Beats	0	4194304	Value	ValueOutput
+Level1	0	4194304	Value	ValueOutput
+Pan1	0	4194304	Value	ValueOutput
+Enable2	0	4194304	Value	ValueOutput
+PhaseInvert2	0	4194304	Value	ValueOutput
+Frequency2	0	4194304	Value	ValueOutput
+Q Factor2	0	4194304	Value	ValueOutput
+Filter Type2	0	4194304	Value	ValueOutput
+Delay2	0	4194304	Value	ValueOutput
+Delay2 Beats	0	4194304	Value	ValueOutput
+Level2	0	4194304	Value	ValueOutput
+Pan2	0	4194304	Value	ValueOutput
+Enable3	0	4194304	Value	ValueOutput
+PhaseInvert3	0	4194304	Value	ValueOutput
+Frequency3	0	4194304	Value	ValueOutput
+Q Factor3	0	4194304	Value	ValueOutput
+Filter Type3	0	4194304	Value	ValueOutput
+Delay3	0	4194304	Value	ValueOutput
+Delay3 Beats	0	4194304	Value	ValueOutput
+Level3	0	4194304	Value	ValueOutput
+Pan3	0	4194304	Value	ValueOutput
+Enable4	0	4194304	Value	ValueOutput
+PhaseInvert4	0	4194304	Value	ValueOutput
+Frequency4	0	4194304	Value	ValueOutput
+Q Factor4	0	4194304	Value	ValueOutput
+Filter Type4	0	4194304	Value	ValueOutput
+Delay4	0	4194304	Value	ValueOutput
+Delay4 Beats	0	4194304	Value	ValueOutput
+Level4	0	4194304	Value	ValueOutput
+Pan4	0	4194304	Value	ValueOutput
+Enable5	0	4194304	Value	ValueOutput
+PhaseInvert5	0	4194304	Value	ValueOutput
+Frequency5	0	4194304	Value	ValueOutput
+Q Factor5	0	4194304	Value	ValueOutput
+Filter Type5	0	4194304	Value	ValueOutput
+Delay5	0	4194304	Value	ValueOutput
+Delay5 Beats	0	4194304	Value	ValueOutput
+Level5	0	4194304	Value	ValueOutput
+Pan5	0	4194304	Value	ValueOutput
+Enable6	0	4194304	Value	ValueOutput
+PhaseInvert6	0	4194304	Value	ValueOutput
+Frequency6	0	4194304	Value	ValueOutput
+Q Factor6	0	4194304	Value	ValueOutput
+Filter Type6	0	4194304	Value	ValueOutput
+Delay6	0	4194304	Value	ValueOutput
+Delay6 Beats	0	4194304	Value	ValueOutput
+Level6	0	4194304	Value	ValueOutput
+Pan6	0	4194304	Value	ValueOutput
+Enable7	0	4194304	Value	ValueOutput
+PhaseInvert7	0	4194304	Value	ValueOutput
+Frequency7	0	4194304	Value	ValueOutput
+Q Factor7	0	4194304	Value	ValueOutput
+Filter Type7	0	4194304	Value	ValueOutput
+Delay7	0	4194304	Value	ValueOutput
+Delay7 Beats	0	4194304	Value	ValueOutput
+Level7	0	4194304	Value	ValueOutput
+Pan7	0	4194304	Value	ValueOutput
+Enable8	0	4194304	Value	ValueOutput
+PhaseInvert8	0	4194304	Value	ValueOutput
+Frequency8	0	4194304	Value	ValueOutput
+Q Factor8	0	4194304	Value	ValueOutput
+Filter Type8	0	4194304	Value	ValueOutput
+Delay8	0	4194304	Value	ValueOutput
+Delay8 Beats	0	4194304	Value	ValueOutput
+Level8	0	4194304	Value	ValueOutput
+Pan8	0	4194304	Value	ValueOutput
+Midi Mode	0	4194304	Value	ValueOutput
+Global Delay Mo	0	4194304	Value	ValueOutput
+Global Delay Mi	0	4194304	Value	ValueOutput
+Global Delay Ma	0	4194304	Value	ValueOutput
+Global Frequenc	0	4194304	Value	ValueOutput
+Global Frequenc	0	4194304	Value	ValueOutput
+Global Frequenc	0	4194304	Value	ValueOutput
+Global Q Factor	0	4194304	Value	ValueOutput
+Global Q Factor	0	4194304	Value	ValueOutput
+Global Q Factor	0	4194304	Value	ValueOutput
+Global Pan Mod	0	4194304	Value	ValueOutput
+Global Pan Min	0	4194304	Value	ValueOutput
+Global Pan Max	0	4194304	Value	ValueOutput
+Feedback Delay 	0	4194304	Value	ValueOutput
+Feedback Delay 	0	4194304	Value	ValueOutput
+Feedback Delay 	0	4194304	Value	ValueOutput
+Feedback Mod	0	4194304	Value	ValueOutput
+Feedback Min	0	4194304	Value	ValueOutput
+Feedback Max	0	4194304	Value	ValueOutput
+Tempo Based	0	4194304	Value	ValueOutput
+Session Tempo E	0	4194304	Value	ValueOutput
+Snapshots	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

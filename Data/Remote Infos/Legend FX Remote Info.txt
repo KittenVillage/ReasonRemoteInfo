@@ -1,0 +1,94 @@
+Scope
+Manufacturer	Model
+Synapse Audio	vst.ETRF.Legend FX
+Note: Will match scope definitions for vst.ETRF.Legend FX or vst.ETRF
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+ModWheel	0	4194304	Value	ValueOutput
+Output Volume	0	4194304	Value	ValueOutput
+Unison Spread	0	4194304	Value	ValueOutput
+Unison Detune	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Modulation Mix	0	4194304	Value	ValueOutput
+Modulation OSC	0	4194304	Value	ValueOutput
+Modulation FLT	0	4194304	Value	ValueOutput
+Tuning Coarse	0	4194304	Value	ValueOutput
+Tuning Fine	0	4194304	Value	ValueOutput
+Osc 1 Active	0	4194304	Value	ValueOutput
+Osc 1 Wave	0	4194304	Value	ValueOutput
+Osc 1 Range	0	4194304	Value	ValueOutput
+Osc 1 Semi	0	4194304	Value	ValueOutput
+Osc 1 Fine	0	4194304	Value	ValueOutput
+Osc 2 Active	0	4194304	Value	ValueOutput
+Osc 2 Wave	0	4194304	Value	ValueOutput
+Osc 2 Range	0	4194304	Value	ValueOutput
+Osc 2 Semi	0	4194304	Value	ValueOutput
+Osc 2 Fine	0	4194304	Value	ValueOutput
+Osc 3 Active	0	4194304	Value	ValueOutput
+Osc 3 KTRK	0	4194304	Value	ValueOutput
+Osc 3 Wave	0	4194304	Value	ValueOutput
+Osc 3 Range	0	4194304	Value	ValueOutput
+Osc 3 Semi	0	4194304	Value	ValueOutput
+Osc 3 Fine	0	4194304	Value	ValueOutput
+Mixer Osc 1	0	4194304	Value	ValueOutput
+Mixer Osc 2	0	4194304	Value	ValueOutput
+Mixer Osc 3	0	4194304	Value	ValueOutput
+Mixer Noise	0	4194304	Value	ValueOutput
+Mixer Noise Type	0	4194304	Value	ValueOutput
+Mixer Drive	0	4194304	Value	ValueOutput
+Mixer Feedback	0	4194304	Value	ValueOutput
+Filter Type	0	4194304	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter Env Amount	0	4194304	Value	ValueOutput
+Filter Env Attack	0	4194304	Value	ValueOutput
+Filter Env Decay	0	4194304	Value	ValueOutput
+Filter Env Sustain	0	4194304	Value	ValueOutput
+Filter Env Release	0	4194304	Value	ValueOutput
+Filter Keytrack 1	0	4194304	Value	ValueOutput
+Filter Keytrack 2	0	4194304	Value	ValueOutput
+Amplifier Env Attack	0	4194304	Value	ValueOutput
+Amplifier Env Decay	0	4194304	Value	ValueOutput
+Amplifier Env Sustain	0	4194304	Value	ValueOutput
+Amplifier Env Release	0	4194304	Value	ValueOutput
+Opts Mod Pitch Range	0	4194304	Value	ValueOutput
+Opts Mod Shape	0	4194304	Value	ValueOutput
+Opts Mod Cutoff Range	0	4194304	Value	ValueOutput
+Opts Osc Keytracking	0	4194304	Value	ValueOutput
+Opts Osc Drift	0	4194304	Value	ValueOutput
+Opts Flt Cutoff Range	0	4194304	Value	ValueOutput
+Opts Flt Reso Range	0	4194304	Value	ValueOutput
+Opts Flt Symmetry	0	4194304	Value	ValueOutput
+Opts Amt Saturation	0	4194304	Value	ValueOutput
+Effects Active	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Width	0	4194304	Value	ValueOutput
+Delay Dry/Wet	0	4194304	Value	ValueOutput
+Reverb Time	0	4194304	Value	ValueOutput
+Reverb Color	0	4194304	Value	ValueOutput
+Reverb Width	0	4194304	Value	ValueOutput
+Reverb Dry/Wet	0	4194304	Value	ValueOutput
+VCA On/Constant	0	4194304	Value	ValueOutput
+Velocity Target	0	4194304	Value	ValueOutput
+Velocity Amount	0	4194304	Value	ValueOutput
+Aftertouch Target	0	4194304	Value	ValueOutput
+Aftertouch Amount	0	4194304	Value	ValueOutput
+Filter LP/BP	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

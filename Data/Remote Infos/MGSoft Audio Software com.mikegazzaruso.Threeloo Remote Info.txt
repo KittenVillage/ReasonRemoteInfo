@@ -1,0 +1,25 @@
+Scope
+Manufacturer	Model
+MGSoft Audio Software	com.mikegazzaruso.Threeloo
+
+Remotable	Min	Max	Input type	Output type
+LFO 1 Frequency	0	4194304	Value	ValueOutput
+LFO 1 Waveform	0	3	Value	ValueOutput
+LFO 1 Phase	0	4194304	Value	ValueOutput
+LFO 1 Freq Sync	0	15	Value	ValueOutput
+LFO 1 Is Sync	0	1	Toggle	ValueOutput
+LFO 2 Frequency	0	4194304	Value	ValueOutput
+LFO 2 Waveform	0	3	Value	ValueOutput
+LFO 2 Phase	0	4194304	Value	ValueOutput
+LFO 2 Freq Sync	0	15	Value	ValueOutput
+LFO 2 Is Sync	0	1	Toggle	ValueOutput
+LFO 3 Frequency	0	4194304	Value	ValueOutput
+LFO 3 Waveform	0	3	Value	ValueOutput
+LFO 3 Phase	0	4194304	Value	ValueOutput
+LFO 3 Freq Sync	0	15	Value	ValueOutput
+LFO 3 Is Sync	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

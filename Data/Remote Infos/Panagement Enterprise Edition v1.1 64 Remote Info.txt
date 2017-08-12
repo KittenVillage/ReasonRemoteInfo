@@ -1,0 +1,64 @@
+Scope
+Manufacturer	Model
+Auburn Sounds	vst.%40s21.Panagement Enterprise Edition v1_1 64
+Note: Will match scope definitions for vst.%40s21.Panagement Enterprise Edition v1_1 64 or vst.%40s21
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Distance	0	4194304	Value	ValueOutput
+Stereo Width	0	4194304	Value	ValueOutput
+M-to-S Amount.	0	4194304	Value	ValueOutput
+M-to-S Delay	0	4194304	Value	ValueOutput
+M-to-S Lowpass	0	4194304	Value	ValueOutput
+Tilt	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Head size	0	4194304	Value	ValueOutput
+Spectral Pan	0	4194304	Value	ValueOutput
+LFO Wave	0	4194304	Value	ValueOutput
+LFO Synced	0	4194304	Value	ValueOutput
+LFO Tempo	0	4194304	Value	ValueOutput
+LFO Phase	0	4194304	Value	ValueOutput
+LFO Freq	0	4194304	Value	ValueOutput
+LFO > Pan	0	4194304	Value	ValueOutput
+LFO > Distance	0	4194304	Value	ValueOutput
+LFO > Gain	0	4194304	Value	ValueOutput
+LFO > Tilt	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Dry / Wet	0	4194304	Value	ValueOutput
+Test Mono	0	4194304	Value	ValueOutput
+Reserved #0	0	4194304	Value	ValueOutput
+Reserved #1	0	4194304	Value	ValueOutput
+Reserved #2	0	4194304	Value	ValueOutput
+Reserved #3	0	4194304	Value	ValueOutput
+Reserved #4	0	4194304	Value	ValueOutput
+Reserved #5	0	4194304	Value	ValueOutput
+Reserved #6	0	4194304	Value	ValueOutput
+Reserved #7	0	4194304	Value	ValueOutput
+Reserved #8	0	4194304	Value	ValueOutput
+Reserved #9	0	4194304	Value	ValueOutput
+Reserved #10	0	4194304	Value	ValueOutput
+Reserved #11	0	4194304	Value	ValueOutput
+Reserved #12	0	4194304	Value	ValueOutput
+Reserved #13	0	4194304	Value	ValueOutput
+Reserved #14	0	4194304	Value	ValueOutput
+Reserved #15	0	4194304	Value	ValueOutput
+Reserved #16	0	4194304	Value	ValueOutput
+Reserved #17	0	4194304	Value	ValueOutput
+Reserved #19	0	4194304	Value	ValueOutput
+Reserved #20	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

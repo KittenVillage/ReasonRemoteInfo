@@ -1,0 +1,42 @@
+Scope
+Manufacturer	Model
+PSPaudioware.com	vst.PP25.PSP 2445 x64
+Note: Will match scope definitions for vst.PP25.PSP 2445 x64 or vst.PP25
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Power	0	4194304	Value	ValueOutput
+Engine	0	4194304	Value	ValueOutput
+P244out	0	4194304	Value	ValueOutput
+P245out	0	4194304	Value	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Reflect	0	4194304	Value	ValueOutput
+Time	0	4194304	Value	ValueOutput
+ModMul	0	4194304	Value	ValueOutput
+HPF	0	4194304	Value	ValueOutput
+LowBoost	0	4194304	Value	ValueOutput
+LoAdj	0	4194304	Value	ValueOutput
+HiDamp	0	4194304	Value	ValueOutput
+HiAdj	0	4194304	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+Balance	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+OutGain	0	4194304	Value	ValueOutput
+Flap	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

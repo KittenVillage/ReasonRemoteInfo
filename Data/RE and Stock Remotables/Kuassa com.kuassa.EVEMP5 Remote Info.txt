@@ -1,0 +1,32 @@
+Scope
+Manufacturer	Model
+Kuassa	com.kuassa.EVEMP5
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Input Volume	0	4194304	Value	ValueOutput
+Saturation On/Off	0	1	Toggle	ValueOutput
+Saturation Auto Level On/Off	0	1	Toggle	ValueOutput
+Output Volume	0	4194304	Value	ValueOutput
+Phase On/Off	0	1	Toggle	ValueOutput
+MEQ On/Off	0	1	Toggle	ValueOutput
+MEQ Low Freq	0	4	Value	ValueOutput
+MEQ Low Peak	0	4194304	Value	ValueOutput
+MEQ Mid Freq	0	10	Value	ValueOutput
+MEQ Mid Dip	0	4194304	Value	ValueOutput
+MEQ High Freq	0	4	Value	ValueOutput
+MEQ High Peak	0	4194304	Value	ValueOutput
+EQP On/Off	0	1	Toggle	ValueOutput
+EQP Low Freq	0	3	Value	ValueOutput
+EQP Low Boost	0	4194304	Value	ValueOutput
+EQP Low Atten	0	4194304	Value	ValueOutput
+EQP HighBoost Freq	0	6	Value	ValueOutput
+EQP HighBoost	0	4194304	Value	ValueOutput
+EQP HighBoost Bandwidth	0	4194304	Value	ValueOutput
+EQP HighAtten Freq	0	2	Value	ValueOutput
+EQP HighAtten	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

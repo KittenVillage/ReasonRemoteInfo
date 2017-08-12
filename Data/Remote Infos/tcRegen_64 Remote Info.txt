@@ -1,0 +1,131 @@
+Scope
+Manufacturer	Model
+ToneCarver	vst.tcRg.tcRegen_64
+Note: Will match scope definitions for vst.tcRg.tcRegen_64 or vst.tcRg
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Wet	0	4194304	Value	ValueOutput
+Dry	0	4194304	Value	ValueOutput
+Dry_Out	0	4194304	Value	ValueOutput
+Level	0	4194304	Value	ValueOutput
+Play	0	4194304	Value	ValueOutput
+Pause	0	4194304	Value	ValueOutput
+Stop	0	4194304	Value	ValueOutput
+Rewind	0	4194304	Value	ValueOutput
+Reset	0	4194304	Value	ValueOutput
+G_Regen	0	4194304	Value	ValueOutput
+G_Blend	0	4194304	Value	ValueOutput
+G_Rate	0	4194304	Value	ValueOutput
+HostSync	0	4194304	Value	ValueOutput
+FocSync	0	4194304	Value	ValueOutput
+Record	0	4194304	Value	ValueOutput
+Replace	0	4194304	Value	ValueOutput
+Atten	0	4194304	Value	ValueOutput
+RecLevel	0	4194304	Value	ValueOutput
+RecDir	0	4194304	Value	ValueOutput
+RecRate	0	4194304	Value	ValueOutput
+RecRegen	0	4194304	Value	ValueOutput
+RecLength	0	4194304	Value	ValueOutput
+RecAPlay	0	4194304	Value	ValueOutput
+RecBlend	0	4194304	Value	ValueOutput
+RecPrev	0	4194304	Value	ValueOutput
+RecNext	0	4194304	Value	ValueOutput
+Rec_A	0	4194304	Value	ValueOutput
+Rec_B	0	4194304	Value	ValueOutput
+Rec_C	0	4194304	Value	ValueOutput
+Rec_D	0	4194304	Value	ValueOutput
+Multiply	0	4194304	Value	ValueOutput
+Divide	0	4194304	Value	ValueOutput
+Undo	0	4194304	Value	ValueOutput
+Redo	0	4194304	Value	ValueOutput
+UndoAll	0	4194304	Value	ValueOutput
+RedoAll	0	4194304	Value	ValueOutput
+LayerUp	0	4194304	Value	ValueOutput
+LayerDn	0	4194304	Value	ValueOutput
+T1_Start	0	4194304	Value	ValueOutput
+T2_Start	0	4194304	Value	ValueOutput
+T3_Start	0	4194304	Value	ValueOutput
+T4_Start	0	4194304	Value	ValueOutput
+T1_Rwnd	0	4194304	Value	ValueOutput
+T2_Rwnd	0	4194304	Value	ValueOutput
+T3_Rwnd	0	4194304	Value	ValueOutput
+T4_Rwnd	0	4194304	Value	ValueOutput
+T1_Mute	0	4194304	Value	ValueOutput
+T2_Mute	0	4194304	Value	ValueOutput
+T3_Mute	0	4194304	Value	ValueOutput
+T4_Mute	0	4194304	Value	ValueOutput
+T1_Solo	0	4194304	Value	ValueOutput
+T2_Solo	0	4194304	Value	ValueOutput
+T3_Solo	0	4194304	Value	ValueOutput
+T4_Solo	0	4194304	Value	ValueOutput
+T1_Out	0	4194304	Value	ValueOutput
+T2_Out	0	4194304	Value	ValueOutput
+T3_Out	0	4194304	Value	ValueOutput
+T4_Out	0	4194304	Value	ValueOutput
+T1_Rate	0	4194304	Value	ValueOutput
+T2_Rate	0	4194304	Value	ValueOutput
+T3_Rate	0	4194304	Value	ValueOutput
+T4_Rate	0	4194304	Value	ValueOutput
+T1_Dir	0	4194304	Value	ValueOutput
+T2_Dir	0	4194304	Value	ValueOutput
+T3_Dir	0	4194304	Value	ValueOutput
+T4_Dir	0	4194304	Value	ValueOutput
+T1_Regen	0	4194304	Value	ValueOutput
+T2_Regen	0	4194304	Value	ValueOutput
+T3_Regen	0	4194304	Value	ValueOutput
+T4_Regen	0	4194304	Value	ValueOutput
+T1_Level	0	4194304	Value	ValueOutput
+T2_Level	0	4194304	Value	ValueOutput
+T3_Level	0	4194304	Value	ValueOutput
+T4_Level	0	4194304	Value	ValueOutput
+T1_Blend	0	4194304	Value	ValueOutput
+T2_Blend	0	4194304	Value	ValueOutput
+T3_Blend	0	4194304	Value	ValueOutput
+T4_Blend	0	4194304	Value	ValueOutput
+T1_Dflt	0	4194304	Value	ValueOutput
+T2_Dflt	0	4194304	Value	ValueOutput
+T3_Dflt	0	4194304	Value	ValueOutput
+T4_Dflt	0	4194304	Value	ValueOutput
+T1_Phase	0	4194304	Value	ValueOutput
+T2_Phase	0	4194304	Value	ValueOutput
+T3_Phase	0	4194304	Value	ValueOutput
+T4_Phase	0	4194304	Value	ValueOutput
+T1_Pan	0	4194304	Value	ValueOutput
+T2_Pan	0	4194304	Value	ValueOutput
+T3_Pan	0	4194304	Value	ValueOutput
+T4_Pan	0	4194304	Value	ValueOutput
+LyrLevel	0	4194304	Value	ValueOutput
+LyrDir	0	4194304	Value	ValueOutput
+LyrRate	0	4194304	Value	ValueOutput
+LyrRegen	0	4194304	Value	ValueOutput
+LyrBlend	0	4194304	Value	ValueOutput
+LyrPhase	0	4194304	Value	ValueOutput
+LyrMute	0	4194304	Value	ValueOutput
+LyrPan	0	4194304	Value	ValueOutput
+LyrDflt	0	4194304	Value	ValueOutput
+LayerPrv	0	4194304	Value	ValueOutput
+LayerNxt	0	4194304	Value	ValueOutput
+PlayPrev	0	4194304	Value	ValueOutput
+PlayNext	0	4194304	Value	ValueOutput
+Play_A	0	4194304	Value	ValueOutput
+Play_B	0	4194304	Value	ValueOutput
+Play_C	0	4194304	Value	ValueOutput
+Play_D	0	4194304	Value	ValueOutput
+Panic	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

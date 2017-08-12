@@ -1,0 +1,24 @@
+Scope
+Manufacturer	Model
+CodeDiggers	ru.laboratoriait.DQ
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Detection Filter Preview	0	1	Toggle	ValueOutput
+Detection Highpass Freq	0	4194304	Value	ValueOutput
+Detection Lowpass Freq	0	4194304	Value	ValueOutput
+Threshold Preview	0	1	Toggle	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Comp/Expand Intensity	0	4194304	Value	ValueOutput
+Makeup	0	4194304	Value	ValueOutput
+Processing Low Freq	0	4194304	Value	ValueOutput
+Processing High Freq	0	4194304	Value	ValueOutput
+Link to Detection Range	0	1	Toggle	ValueOutput
+Attack Time	0	4194304	Value	ValueOutput
+Lookahead Enabled	0	1	Toggle	ValueOutput
+Release Time	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

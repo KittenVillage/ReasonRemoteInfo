@@ -1,0 +1,18 @@
+Scope
+Manufacturer	Model
+DLD Technology	com.dldtechnology.revolution
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Angle	0	4194304	Value	ValueOutput
+Distance	0	4194304	Value	ValueOutput
+Distance Attenuation	0	4194304	Value	ValueOutput
+Zoom	0	100	Value	ValueOutput
+Elevation	0	90	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Dry / Wet	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

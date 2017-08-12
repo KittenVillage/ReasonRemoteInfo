@@ -1,0 +1,195 @@
+Scope
+Manufacturer	Model
+Oxe Music Software	vst.OXFM.oxevst64
+Note: Will match scope definitions for vst.OXFM.oxevst64 or vst.OXFM
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+OPA On/Off	0	4194304	Value	ValueOutput
+OPA Waveform	0	4194304	Value	ValueOutput
+OPA Coarse Tune	0	4194304	Value	ValueOutput
+OPA Fine Tune	0	4194304	Value	ValueOutput
+OPA Keyb Track	0	4194304	Value	ValueOutput
+OPA KeybScaling	0	4194304	Value	ValueOutput
+OPA VlSensivity	0	4194304	Value	ValueOutput
+OPA Delay Time	0	4194304	Value	ValueOutput
+OPA Attack Time	0	4194304	Value	ValueOutput
+OPA Decay Time	0	4194304	Value	ValueOutput
+OPA Sustain Lvl	0	4194304	Value	ValueOutput
+OPA SustainTime	0	4194304	Value	ValueOutput
+OPA ReleaseTime	0	4194304	Value	ValueOutput
+OPB On/Off	0	4194304	Value	ValueOutput
+OPB Waveform	0	4194304	Value	ValueOutput
+OPB Coarse Tune	0	4194304	Value	ValueOutput
+OPB Fine Tune	0	4194304	Value	ValueOutput
+OPB Keyb Track	0	4194304	Value	ValueOutput
+OPB KeybScaling	0	4194304	Value	ValueOutput
+OPB VlSensivity	0	4194304	Value	ValueOutput
+OPB Delay Time	0	4194304	Value	ValueOutput
+OPB Attack Time	0	4194304	Value	ValueOutput
+OPB Decay Time	0	4194304	Value	ValueOutput
+OPB Sustain Lvl	0	4194304	Value	ValueOutput
+OPB SustainTime	0	4194304	Value	ValueOutput
+OPB ReleaseTime	0	4194304	Value	ValueOutput
+OPC On/Off	0	4194304	Value	ValueOutput
+OPC Waveform	0	4194304	Value	ValueOutput
+OPC Coarse Tune	0	4194304	Value	ValueOutput
+OPC Fine Tune	0	4194304	Value	ValueOutput
+OPC Keyb Track	0	4194304	Value	ValueOutput
+OPC KeybScaling	0	4194304	Value	ValueOutput
+OPC VlSensivity	0	4194304	Value	ValueOutput
+OPC Delay Time	0	4194304	Value	ValueOutput
+OPC Attack Time	0	4194304	Value	ValueOutput
+OPC Decay Time	0	4194304	Value	ValueOutput
+OPC Sustain Lvl	0	4194304	Value	ValueOutput
+OPC SustainTime	0	4194304	Value	ValueOutput
+OPC ReleaseTime	0	4194304	Value	ValueOutput
+OPD On/Off	0	4194304	Value	ValueOutput
+OPD Waveform	0	4194304	Value	ValueOutput
+OPD Coarse Tune	0	4194304	Value	ValueOutput
+OPD Fine Tune	0	4194304	Value	ValueOutput
+OPD Keyb Track	0	4194304	Value	ValueOutput
+OPD KeybScaling	0	4194304	Value	ValueOutput
+OPD VlSensivity	0	4194304	Value	ValueOutput
+OPD Delay Time	0	4194304	Value	ValueOutput
+OPD Attack Time	0	4194304	Value	ValueOutput
+OPD Decay Time	0	4194304	Value	ValueOutput
+OPD Sustain Lvl	0	4194304	Value	ValueOutput
+OPD SustainTime	0	4194304	Value	ValueOutput
+OPD ReleaseTime	0	4194304	Value	ValueOutput
+OPE On/Off	0	4194304	Value	ValueOutput
+OPE Waveform	0	4194304	Value	ValueOutput
+OPE Coarse Tune	0	4194304	Value	ValueOutput
+OPE Fine Tune	0	4194304	Value	ValueOutput
+OPE Keyb Track	0	4194304	Value	ValueOutput
+OPE KeybScaling	0	4194304	Value	ValueOutput
+OPE VlSensivity	0	4194304	Value	ValueOutput
+OPE Delay Time	0	4194304	Value	ValueOutput
+OPE Attack Time	0	4194304	Value	ValueOutput
+OPE Decay Time	0	4194304	Value	ValueOutput
+OPE Sustain Lvl	0	4194304	Value	ValueOutput
+OPE SustainTime	0	4194304	Value	ValueOutput
+OPE ReleaseTime	0	4194304	Value	ValueOutput
+OPF On/Off	0	4194304	Value	ValueOutput
+OPF Waveform	0	4194304	Value	ValueOutput
+OPF Coarse Tune	0	4194304	Value	ValueOutput
+OPF Fine Tune	0	4194304	Value	ValueOutput
+OPF Keyb Track	0	4194304	Value	ValueOutput
+OPF KeybScaling	0	4194304	Value	ValueOutput
+OPF VlSensivity	0	4194304	Value	ValueOutput
+OPF Delay Time	0	4194304	Value	ValueOutput
+OPF Attack Time	0	4194304	Value	ValueOutput
+OPF Decay Time	0	4194304	Value	ValueOutput
+OPF Sustain Lvl	0	4194304	Value	ValueOutput
+OPF SustainTime	0	4194304	Value	ValueOutput
+OPF ReleaseTime	0	4194304	Value	ValueOutput
+OPX On/Off	0	4194304	Value	ValueOutput
+OPX Cuttof	0	4194304	Value	ValueOutput
+OPX Resonance	0	4194304	Value	ValueOutput
+OPX Amount	0	4194304	Value	ValueOutput
+OPX Bypass	0	4194304	Value	ValueOutput
+OPX KeybScaling	0	4194304	Value	ValueOutput
+OPX VlSensivity	0	4194304	Value	ValueOutput
+OPX Delay Time	0	4194304	Value	ValueOutput
+OPX Attack Time	0	4194304	Value	ValueOutput
+OPX Decay Time	0	4194304	Value	ValueOutput
+OPX Sustain Lvl	0	4194304	Value	ValueOutput
+OPX SustainTime	0	4194304	Value	ValueOutput
+OPX ReleaseTime	0	4194304	Value	ValueOutput
+OPZ On/Off	0	4194304	Value	ValueOutput
+OPZ Cuttof	0	4194304	Value	ValueOutput
+OPZ Resonance	0	4194304	Value	ValueOutput
+OPZ Type	0	4194304	Value	ValueOutput
+OPZ Keyb Track	0	4194304	Value	ValueOutput
+OPX KeybScaling	0	4194304	Value	ValueOutput
+OPX VlSensivity	0	4194304	Value	ValueOutput
+OPZ Delay Time	0	4194304	Value	ValueOutput
+OPZ Attack Time	0	4194304	Value	ValueOutput
+OPZ Decay Time	0	4194304	Value	ValueOutput
+OPZ Sustain Lvl	0	4194304	Value	ValueOutput
+OPZ SustainTime	0	4194304	Value	ValueOutput
+OPZ ReleaseTime	0	4194304	Value	ValueOutput
+OPA Self Mod	0	4194304	Value	ValueOutput
+FM OPA->OPB	0	4194304	Value	ValueOutput
+FM OPA->OPC	0	4194304	Value	ValueOutput
+FM OPA->OPD	0	4194304	Value	ValueOutput
+FM OPA->OPE	0	4194304	Value	ValueOutput
+FM OPA->OPF	0	4194304	Value	ValueOutput
+FM OPA->OPX	0	4194304	Value	ValueOutput
+FM OPA->OPZ	0	4194304	Value	ValueOutput
+OPA Output	0	4194304	Value	ValueOutput
+OPA Pan	0	4194304	Value	ValueOutput
+OPB Self Mod	0	4194304	Value	ValueOutput
+FM OPB->OPC	0	4194304	Value	ValueOutput
+FM OPB->OPD	0	4194304	Value	ValueOutput
+FM OPB->OPE	0	4194304	Value	ValueOutput
+FM OPB->OPF	0	4194304	Value	ValueOutput
+FM OPB->OPX	0	4194304	Value	ValueOutput
+FM OPB->OPZ	0	4194304	Value	ValueOutput
+OPB Output	0	4194304	Value	ValueOutput
+OPB Pan	0	4194304	Value	ValueOutput
+OPC Self Mod	0	4194304	Value	ValueOutput
+FM OPC->OPD	0	4194304	Value	ValueOutput
+FM OPC->OPE	0	4194304	Value	ValueOutput
+FM OPC->OPF	0	4194304	Value	ValueOutput
+FM OPC->OPX	0	4194304	Value	ValueOutput
+FM OPC->OPZ	0	4194304	Value	ValueOutput
+OPC Output	0	4194304	Value	ValueOutput
+OPC Pan	0	4194304	Value	ValueOutput
+OPD Self Mod	0	4194304	Value	ValueOutput
+FM OPD->OPE	0	4194304	Value	ValueOutput
+FM OPD->OPF	0	4194304	Value	ValueOutput
+FM OPD->OPX	0	4194304	Value	ValueOutput
+FM OPD->OPZ	0	4194304	Value	ValueOutput
+OPD Output	0	4194304	Value	ValueOutput
+OPD Pan	0	4194304	Value	ValueOutput
+OPE Self Mod	0	4194304	Value	ValueOutput
+FM OPE->OPF	0	4194304	Value	ValueOutput
+FM OPE->OPX	0	4194304	Value	ValueOutput
+FM OPE->OPZ	0	4194304	Value	ValueOutput
+OPE Output	0	4194304	Value	ValueOutput
+OPE Pan	0	4194304	Value	ValueOutput
+OPF Self Mod	0	4194304	Value	ValueOutput
+FM OPF->OPX	0	4194304	Value	ValueOutput
+FM OPF->OPZ	0	4194304	Value	ValueOutput
+OPF Output	0	4194304	Value	ValueOutput
+OPF Pan	0	4194304	Value	ValueOutput
+FM OPX->OPZ	0	4194304	Value	ValueOutput
+OPX Output	0	4194304	Value	ValueOutput
+OPX Pan	0	4194304	Value	ValueOutput
+OPZ Output	0	4194304	Value	ValueOutput
+OPZ Pan	0	4194304	Value	ValueOutput
+LFO Waveform	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Depth	0	4194304	Value	ValueOutput
+LFO Delay	0	4194304	Value	ValueOutput
+LFO Destination	0	4194304	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Pitch Curve	0	4194304	Value	ValueOutput
+PitchCurveTime	0	4194304	Value	ValueOutput
+Mod Destination	0	4194304	Value	ValueOutput
+High Quality	0	4194304	Value	ValueOutput
+Reverb Time	0	4194304	Value	ValueOutput
+Reverb Damp	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay LFO Rate	0	4194304	Value	ValueOutput
+Delay LFO Amt	0	4194304	Value	ValueOutput
+Reverb Level	0	4194304	Value	ValueOutput
+Delay Level	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

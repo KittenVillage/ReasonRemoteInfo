@@ -1,0 +1,48 @@
+Scope
+Manufacturer	Model
+u-he	vst.UcD1.Uhbik-D(x64)
+Note: Will match scope definitions for vst.UcD1.Uhbik-D(x64) or vst.UcD1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+main: Active #Dly1	0	4194304	Value	ValueOutput
+Dly1: Speed	0	4194304	Value	ValueOutput
+Dly1: ModRate	0	4194304	Value	ValueOutput
+Dly1: ModDepth	0	4194304	Value	ValueOutput
+Dly1: Delay1	0	4194304	Value	ValueOutput
+Dly1: Pan1	0	4194304	Value	ValueOutput
+Dly1: Vol1	0	4194304	Value	ValueOutput
+Dly1: Delay2	0	4194304	Value	ValueOutput
+Dly1: Pan2	0	4194304	Value	ValueOutput
+Dly1: Vol2	0	4194304	Value	ValueOutput
+Dly1: Delay3	0	4194304	Value	ValueOutput
+Dly1: Pan3	0	4194304	Value	ValueOutput
+Dly1: Vol3	0	4194304	Value	ValueOutput
+Dly1: Delay4	0	4194304	Value	ValueOutput
+Dly1: Pan4	0	4194304	Value	ValueOutput
+Dly1: Vol4	0	4194304	Value	ValueOutput
+Dly1: Delay5	0	4194304	Value	ValueOutput
+Dly1: Pan5	0	4194304	Value	ValueOutput
+Dly1: Vol5	0	4194304	Value	ValueOutput
+Dly1: Feedback	0	4194304	Value	ValueOutput
+Dly1: HiCut	0	4194304	Value	ValueOutput
+Dly1: LoCut	0	4194304	Value	ValueOutput
+Dly1: SoftClip	0	4194304	Value	ValueOutput
+Dly1: Mix	0	4194304	Value	ValueOutput
+Dly1: OutputDB	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

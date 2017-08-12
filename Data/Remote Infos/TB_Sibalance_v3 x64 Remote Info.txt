@@ -1,0 +1,56 @@
+Scope
+Manufacturer	Model
+ToneBoosters	vst.T3SB.TB_Sibalance_v3 x64
+Note: Will match scope definitions for vst.T3SB.TB_Sibalance_v3 x64 or vst.T3SB
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+MidSide	0	4194304	Value	ValueOutput
+AnlTime	0	4194304	Value	ValueOutput
+VcStFrq	0	4194304	Value	ValueOutput
+VcEdFrq	0	4194304	Value	ValueOutput
+DsAbsTh	0	4194304	Value	ValueOutput
+DsStFrq	0	4194304	Value	ValueOutput
+DsEdFrq	0	4194304	Value	ValueOutput
+DsAttck	0	4194304	Value	ValueOutput
+DsRelse	0	4194304	Value	ValueOutput
+DsThrsh	0	4194304	Value	ValueOutput
+DsRatio	0	4194304	Value	ValueOutput
+DsKnee	0	4194304	Value	ValueOutput
+DsRange	0	4194304	Value	ValueOutput
+DryWet	0	4194304	Value	ValueOutput
+Algrtm	0	4194304	Value	ValueOutput
+HQMode	0	4194304	Value	ValueOutput
+DsTonal	0	4194304	Value	ValueOutput
+Slope	0	4194304	Value	ValueOutput
+Listen	0	4194304	Value	ValueOutput
+SCEQ	0	4194304	Value	ValueOutput
+Handle	0	4194304	Value	ValueOutput
+Freq1	0	4194304	Value	ValueOutput
+Gain1	0	4194304	Value	ValueOutput
+Actve1	0	4194304	Value	ValueOutput
+Q1	0	4194304	Value	ValueOutput
+Freq2	0	4194304	Value	ValueOutput
+Gain2	0	4194304	Value	ValueOutput
+Actve2	0	4194304	Value	ValueOutput
+Q2	0	4194304	Value	ValueOutput
+Freq3	0	4194304	Value	ValueOutput
+Gain3	0	4194304	Value	ValueOutput
+Actve3	0	4194304	Value	ValueOutput
+Q3	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

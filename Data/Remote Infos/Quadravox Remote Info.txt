@@ -1,0 +1,68 @@
+Scope
+Manufacturer	Model
+Eventide	vst.QudW.Quadravox
+Note: Will match scope definitions for vst.QudW.Quadravox or vst.QudW
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Tempo Enable	0	4194304	Value	ValueOutput
+Session Tempo E	0	4194304	Value	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+Key	0	4194304	Value	ValueOutput
+Master Tune	0	4194304	Value	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+Pitch Tracking 	0	4194304	Value	ValueOutput
+Instrument	0	4194304	Value	ValueOutput
+Minimum Pitch	0	4194304	Value	ValueOutput
+Crossfade	0	4194304	Value	ValueOutput
+Input Level	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Wet/Dry Mix	0	4194304	Value	ValueOutput
+Loop Feedback	0	4194304	Value	ValueOutput
+Loop Delay	0	4194304	Value	ValueOutput
+Randomize	0	4194304	Value	ValueOutput
+Level1	0	4194304	Value	ValueOutput
+Feedback1	0	4194304	Value	ValueOutput
+Pan1	0	4194304	Value	ValueOutput
+Delay1	0	4194304	Value	ValueOutput
+Shift1	0	4194304	Value	ValueOutput
+Interval1	0	4194304	Value	ValueOutput
+Enable1	0	4194304	Value	ValueOutput
+Level2	0	4194304	Value	ValueOutput
+Feedback2	0	4194304	Value	ValueOutput
+Pan2	0	4194304	Value	ValueOutput
+Delay2	0	4194304	Value	ValueOutput
+Shift2	0	4194304	Value	ValueOutput
+Interval2	0	4194304	Value	ValueOutput
+Enable2	0	4194304	Value	ValueOutput
+Level3	0	4194304	Value	ValueOutput
+Feedback3	0	4194304	Value	ValueOutput
+Pan3	0	4194304	Value	ValueOutput
+Delay3	0	4194304	Value	ValueOutput
+Shift3	0	4194304	Value	ValueOutput
+Interval3	0	4194304	Value	ValueOutput
+Enable3	0	4194304	Value	ValueOutput
+Level4	0	4194304	Value	ValueOutput
+Feedback4	0	4194304	Value	ValueOutput
+Pan4	0	4194304	Value	ValueOutput
+Delay4	0	4194304	Value	ValueOutput
+Shift4	0	4194304	Value	ValueOutput
+Interval4	0	4194304	Value	ValueOutput
+Enable4	0	4194304	Value	ValueOutput
+Snapshots	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

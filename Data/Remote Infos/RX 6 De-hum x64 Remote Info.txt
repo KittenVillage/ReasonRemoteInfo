@@ -1,0 +1,50 @@
+Scope
+Manufacturer	Model
+iZotope, Inc.	vst.Zn6H.RX 6 De-hum x64
+Note: Will match scope definitions for vst.Zn6H.RX 6 De-hum x64 or vst.Zn6H
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Enable learning	0	4194304	Value	ValueOutput
+Enable adaptive learnin	0	4194304	Value	ValueOutput
+Base frequency	0	4194304	Value	ValueOutput
+Notch frequency	0	4194304	Value	ValueOutput
+Filter Q	0	4194304	Value	ValueOutput
+Linear-phase filters	0	4194304	Value	ValueOutput
+Enable highpass	0	4194304	Value	ValueOutput
+Highpass freq.	0	4194304	Value	ValueOutput
+Highpass Q	0	4194304	Value	ValueOutput
+Enable lowpass	0	4194304	Value	ValueOutput
+Lowpass freq.	0	4194304	Value	ValueOutput
+Lowpass Q	0	4194304	Value	ValueOutput
+Number of harmonics	0	4194304	Value	ValueOutput
+Harmonic 1 gain	0	4194304	Value	ValueOutput
+Harmonic 2 gain	0	4194304	Value	ValueOutput
+Harmonic 3 gain	0	4194304	Value	ValueOutput
+Harmonic 4 gain	0	4194304	Value	ValueOutput
+Harmonic 5 gain	0	4194304	Value	ValueOutput
+Harmonic 6 gain	0	4194304	Value	ValueOutput
+Harmonic 7 gain	0	4194304	Value	ValueOutput
+Harmonic 8 gain	0	4194304	Value	ValueOutput
+Linking type	0	4194304	Value	ValueOutput
+Harmonic base slope	0	4194304	Value	ValueOutput
+Harmonic base odd slope	0	4194304	Value	ValueOutput
+Enable DC offset	0	4194304	Value	ValueOutput
+Output hum only	0	4194304	Value	ValueOutput
+Global bypass	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

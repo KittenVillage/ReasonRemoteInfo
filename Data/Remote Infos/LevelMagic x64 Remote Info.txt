@@ -1,0 +1,65 @@
+Scope
+Manufacturer	Model
+Junger Audio / Flux::	vst.fxLe.LevelMagic x64
+Note: Will match scope definitions for vst.fxLe.LevelMagic x64 or vst.fxLe
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Morphing	0	4194304	Value	ValueOutput
+Loudness Control Mode	0	4194304	Value	ValueOutput
+Link Mode	0	4194304	Value	ValueOutput
+Expert Mode Enable	0	4194304	Value	ValueOutput
+Src 1 Clear History	0	4194304	Value	ValueOutput
+Src 1 Input Gain Enable	0	4194304	Value	ValueOutput
+Src 1 Input Gain	0	4194304	Value	ValueOutput
+Src 1 Leveler Enable	0	4194304	Value	ValueOutput
+Src 1 Leveler Processing	0	4194304	Value	ValueOutput
+Src 1 Leveler Operating 	0	4194304	Value	ValueOutput
+Src 1 Leveler Time	0	4194304	Value	ValueOutput
+Src 1 Leveler Max Gain	0	4194304	Value	ValueOutput
+Src 1 Leveler Freeze Lev	0	4194304	Value	ValueOutput
+Src 1 Transient Max Gain	0	4194304	Value	ValueOutput
+Src 1 Transient Response	0	4194304	Value	ValueOutput
+Src 1 Limiter Enable	0	4194304	Value	ValueOutput
+Src 1 Limiter Processing	0	4194304	Value	ValueOutput
+Src 1 Limiter Max True P	0	4194304	Value	ValueOutput
+Src 1 Expert Initial Dyn	0	4194304	Value	ValueOutput
+Src 1 Expert AGC Recover	0	4194304	Value	ValueOutput
+Src 1 Processing Thresho	0	4194304	Value	ValueOutput
+Src 1 Below Threshold Mo	0	4194304	Value	ValueOutput
+Src 2 Clear History	0	4194304	Value	ValueOutput
+Src 2 Input Gain Enable	0	4194304	Value	ValueOutput
+Src 2 Input Gain	0	4194304	Value	ValueOutput
+Src 2 Leveler Enable	0	4194304	Value	ValueOutput
+Src 2 Leveler Processing	0	4194304	Value	ValueOutput
+Src 2 Leveler Operating 	0	4194304	Value	ValueOutput
+Src 2 Leveler Time	0	4194304	Value	ValueOutput
+Src 2 Leveler Max Gain	0	4194304	Value	ValueOutput
+Src 2 Leveler Freeze Lev	0	4194304	Value	ValueOutput
+Src 2 Transient Max Gain	0	4194304	Value	ValueOutput
+Src 2 Transient Response	0	4194304	Value	ValueOutput
+Src 2 Limiter Enable	0	4194304	Value	ValueOutput
+Src 2 Limiter Processing	0	4194304	Value	ValueOutput
+Src 2 Limiter Max True P	0	4194304	Value	ValueOutput
+Src 2 Expert Initial Dyn	0	4194304	Value	ValueOutput
+Src 2 Expert AGC Recover	0	4194304	Value	ValueOutput
+Src 2 Processing Thresho	0	4194304	Value	ValueOutput
+Src 2 Below Threshold Mo	0	4194304	Value	ValueOutput
+Morphing Automation	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

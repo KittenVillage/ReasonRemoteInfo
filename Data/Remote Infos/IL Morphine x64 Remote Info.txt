@@ -1,0 +1,163 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.MorF.IL Morphine x64
+Note: Will match scope definitions for vst.MorF.IL Morphine x64 or vst.MorF
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+Velocity Curve	0	4194304	Value	ValueOutput
+Bend Range	0	4194304	Value	ValueOutput
+Transpose	0	4194304	Value	ValueOutput
+Fine Tune	0	4194304	Value	ValueOutput
+Overdrive	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Wet	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Enable	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Stereo	0	4194304	Value	ValueOutput
+Delay Modulation	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Wet	0	4194304	Value	ValueOutput
+Delay On	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Reverb Enable	0	4194304	Value	ValueOutput
+Eq Band 1	0	4194304	Value	ValueOutput
+Eq Band 2	0	4194304	Value	ValueOutput
+Eq Band 3	0	4194304	Value	ValueOutput
+Eq Band 4	0	4194304	Value	ValueOutput
+Eq Band 5	0	4194304	Value	ValueOutput
+Eq Band 6	0	4194304	Value	ValueOutput
+Eq Band 7	0	4194304	Value	ValueOutput
+Eq Band 8	0	4194304	Value	ValueOutput
+Eq Enable	0	4194304	Value	ValueOutput
+Master Attack	0	4194304	Value	ValueOutput
+Master Decay	0	4194304	Value	ValueOutput
+Master Sustain	0	4194304	Value	ValueOutput
+Master Release	0	4194304	Value	ValueOutput
+Noise Mix	0	4194304	Value	ValueOutput
+Noise Pan	0	4194304	Value	ValueOutput
+Noise Mute	0	4194304	Value	ValueOutput
+Noise Mono Mode	0	4194304	Value	ValueOutput
+Noise VelSens	0	4194304	Value	ValueOutput
+Noise Ratio	0	4194304	Value	ValueOutput
+Noise Flt Cutoff	0	4194304	Value	ValueOutput
+Noise Flt Resonance	0	4194304	Value	ValueOutput
+Noise Flt KeyTrk	0	4194304	Value	ValueOutput
+Gen A: Release Loop	0	4194304	Value	ValueOutput
+Gen A: Tempo Sync	0	4194304	Value	ValueOutput
+Gen A: Rate	0	4194304	Value	ValueOutput
+Gen A: Rate VelTrk	0	4194304	Value	ValueOutput
+Gen A: Rate KeyTrk	0	4194304	Value	ValueOutput
+Gen A: PWM Free	0	4194304	Value	ValueOutput
+Gen A: PWM Rate	0	4194304	Value	ValueOutput
+Gen A: PWM Phase	0	4194304	Value	ValueOutput
+Gen A: Detune Range	0	4194304	Value	ValueOutput
+Gen A: Panning Range	0	4194304	Value	ValueOutput
+Gen B: Release Loop	0	4194304	Value	ValueOutput
+Gen B: Tempo Sync	0	4194304	Value	ValueOutput
+Gen B: Rate	0	4194304	Value	ValueOutput
+Gen B: Rate VelTrk	0	4194304	Value	ValueOutput
+Gen B: Rate KeyTrk	0	4194304	Value	ValueOutput
+Gen B: PWM Free	0	4194304	Value	ValueOutput
+Gen B: PWM Rate	0	4194304	Value	ValueOutput
+Gen B: PWM Phase	0	4194304	Value	ValueOutput
+Gen B: Detune Range	0	4194304	Value	ValueOutput
+Gen B: Panning Range	0	4194304	Value	ValueOutput
+Gen C: Release Loop	0	4194304	Value	ValueOutput
+Gen C: Tempo Sync	0	4194304	Value	ValueOutput
+Gen C: Rate	0	4194304	Value	ValueOutput
+Gen C: Rate VelTrk	0	4194304	Value	ValueOutput
+Gen C: Rate KeyTrk	0	4194304	Value	ValueOutput
+Gen C: PWM Free	0	4194304	Value	ValueOutput
+Gen C: PWM Rate	0	4194304	Value	ValueOutput
+Gen C: PWM Phase	0	4194304	Value	ValueOutput
+Gen C: Detune Range	0	4194304	Value	ValueOutput
+Gen C: Panning Range	0	4194304	Value	ValueOutput
+Gen D: Release Loop	0	4194304	Value	ValueOutput
+Gen D: Tempo Sync	0	4194304	Value	ValueOutput
+Gen D: Rate	0	4194304	Value	ValueOutput
+Gen D: Rate VelTrk	0	4194304	Value	ValueOutput
+Gen D: Rate KeyTrk	0	4194304	Value	ValueOutput
+Gen D: PWM Free	0	4194304	Value	ValueOutput
+Gen D: PWM Rate	0	4194304	Value	ValueOutput
+Gen D: PWM Phase	0	4194304	Value	ValueOutput
+Gen D: Detune Range	0	4194304	Value	ValueOutput
+Gen D: Panning Range	0	4194304	Value	ValueOutput
+Morph: Tempo Sync	0	4194304	Value	ValueOutput
+Morph: Rate	0	4194304	Value	ValueOutput
+Morph: Rate KeyTrk	0	4194304	Value	ValueOutput
+Morph: Rate VelTrk	0	4194304	Value	ValueOutput
+Gen A: Mix	0	4194304	Value	ValueOutput
+Gen A: Pan	0	4194304	Value	ValueOutput
+Gen A: Mute	0	4194304	Value	ValueOutput
+Gen B: Mix	0	4194304	Value	ValueOutput
+Gen B: Pan	0	4194304	Value	ValueOutput
+Gen B: Mute	0	4194304	Value	ValueOutput
+Gen C: Mix	0	4194304	Value	ValueOutput
+Gen C: Pan	0	4194304	Value	ValueOutput
+Gen C: Mute	0	4194304	Value	ValueOutput
+Gen D: Mix	0	4194304	Value	ValueOutput
+Gen D: Pan	0	4194304	Value	ValueOutput
+Gen D: Mute	0	4194304	Value	ValueOutput
+Eg1: Release Loop	0	4194304	Value	ValueOutput
+Eg1: Tempo Sync	0	4194304	Value	ValueOutput
+Eg1: Rate	0	4194304	Value	ValueOutput
+Eg1: Rate KeyTrk	0	4194304	Value	ValueOutput
+Eg1: Rate VelTrk	0	4194304	Value	ValueOutput
+Eg1: Velocity	0	4194304	Value	ValueOutput
+Eg2: Release Loop	0	4194304	Value	ValueOutput
+Eg2: Tempo Sync	0	4194304	Value	ValueOutput
+Eg2: Rate	0	4194304	Value	ValueOutput
+Eg2: Rate KeyTrk	0	4194304	Value	ValueOutput
+Eg2: Rate VelTrk	0	4194304	Value	ValueOutput
+Eg2: Velocity	0	4194304	Value	ValueOutput
+Eg3: Release Loop	0	4194304	Value	ValueOutput
+Eg3: Tempo Sync	0	4194304	Value	ValueOutput
+Eg3: Rate	0	4194304	Value	ValueOutput
+Eg3: Rate KeyTrk	0	4194304	Value	ValueOutput
+Eg3: Rate VelTrk	0	4194304	Value	ValueOutput
+Eg3: Velocity	0	4194304	Value	ValueOutput
+Eg4: Release Loop	0	4194304	Value	ValueOutput
+Eg4: Tempo Sync	0	4194304	Value	ValueOutput
+Eg4: Rate	0	4194304	Value	ValueOutput
+Eg4: Rate KeyTrk	0	4194304	Value	ValueOutput
+Eg4: Rate VelTrk	0	4194304	Value	ValueOutput
+Eg4: Velocity	0	4194304	Value	ValueOutput
+Polyphony	0	4194304	Value	ValueOutput
+Glide Mode	0	4194304	Value	ValueOutput
+Noise Loop Mode	0	4194304	Value	ValueOutput
+Noise Flt Mode	0	4194304	Value	ValueOutput
+Morph: Loop Mode	0	4194304	Value	ValueOutput
+Gen A: Loop Mode	0	4194304	Value	ValueOutput
+Gen A: PWM Mode	0	4194304	Value	ValueOutput
+Gen B: Loop Mode	0	4194304	Value	ValueOutput
+Gen B: PWM Mode	0	4194304	Value	ValueOutput
+Gen C: Loop Mode	0	4194304	Value	ValueOutput
+Gen C: PWM Mode	0	4194304	Value	ValueOutput
+Gen D: Loop Mode	0	4194304	Value	ValueOutput
+Gen D: PWM Mode	0	4194304	Value	ValueOutput
+Eg4: Loop Mode	0	4194304	Value	ValueOutput
+Eg3: Loop Mode	0	4194304	Value	ValueOutput
+Eg2: Loop Mode	0	4194304	Value	ValueOutput
+Eg1: Loop Mode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

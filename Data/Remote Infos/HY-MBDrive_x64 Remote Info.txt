@@ -1,0 +1,52 @@
+Scope
+Manufacturer	Model
+hyakken	vst.hy05.HY-MBDrive_x64
+Note: Will match scope definitions for vst.hy05.HY-MBDrive_x64 or vst.hy05
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+cross freq mid-	0	4194304	Value	ValueOutput
+cross freq lo-m	0	4194304	Value	ValueOutput
+drive hi band	0	4194304	Value	ValueOutput
+drive mid band	0	4194304	Value	ValueOutput
+drive lo band	0	4194304	Value	ValueOutput
+drive type hi b	0	4194304	Value	ValueOutput
+drive type mid 	0	4194304	Value	ValueOutput
+drive type lo b	0	4194304	Value	ValueOutput
+width hi band	0	4194304	Value	ValueOutput
+width mid band	0	4194304	Value	ValueOutput
+width lo band	0	4194304	Value	ValueOutput
+pan hi band	0	4194304	Value	ValueOutput
+pan mid band	0	4194304	Value	ValueOutput
+pan lo band	0	4194304	Value	ValueOutput
+level hi band	0	4194304	Value	ValueOutput
+level mid band	0	4194304	Value	ValueOutput
+level lo band	0	4194304	Value	ValueOutput
+mute hi band	0	4194304	Value	ValueOutput
+mute mid band	0	4194304	Value	ValueOutput
+mute lo band	0	4194304	Value	ValueOutput
+solo hi band	0	4194304	Value	ValueOutput
+solo mid band	0	4194304	Value	ValueOutput
+solo lo band	0	4194304	Value	ValueOutput
+bypass hi band	0	4194304	Value	ValueOutput
+bypass mid band	0	4194304	Value	ValueOutput
+bypass lo band	0	4194304	Value	ValueOutput
+master out volu	0	4194304	Value	ValueOutput
+bypass master	0	4194304	Value	ValueOutput
+clipping master	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

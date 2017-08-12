@@ -1,0 +1,64 @@
+Scope
+Manufacturer	Model
+Waves	vst.GQMM.WaveShell-VST 9_91_x64.GEQ Classic Mono
+Note: Will match scope definitions for vst.GQMM.WaveShell-VST 9_91_x64.GEQ Classic Mono or vst.GQMM
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+P25Hz	0	4194304	Value	ValueOutput
+P31Hz	0	4194304	Value	ValueOutput
+P40Hz	0	4194304	Value	ValueOutput
+P50Hz	0	4194304	Value	ValueOutput
+P63Hz	0	4194304	Value	ValueOutput
+P80Hz	0	4194304	Value	ValueOutput
+P100Hz	0	4194304	Value	ValueOutput
+P125Hz	0	4194304	Value	ValueOutput
+P160Hz	0	4194304	Value	ValueOutput
+P200Hz	0	4194304	Value	ValueOutput
+P250Hz	0	4194304	Value	ValueOutput
+P315Hz	0	4194304	Value	ValueOutput
+P400Hz	0	4194304	Value	ValueOutput
+P500Hz	0	4194304	Value	ValueOutput
+P630Hz	0	4194304	Value	ValueOutput
+P800Hz	0	4194304	Value	ValueOutput
+P1Khz	0	4194304	Value	ValueOutput
+P1.25Khz	0	4194304	Value	ValueOutput
+P1.6Khz	0	4194304	Value	ValueOutput
+P2Khz	0	4194304	Value	ValueOutput
+P2.5Khz	0	4194304	Value	ValueOutput
+P3.15Khz	0	4194304	Value	ValueOutput
+P4Khz	0	4194304	Value	ValueOutput
+P5Khz	0	4194304	Value	ValueOutput
+P6.3Khz	0	4194304	Value	ValueOutput
+P8Khz	0	4194304	Value	ValueOutput
+P10Khz	0	4194304	Value	ValueOutput
+P12.5Khz	0	4194304	Value	ValueOutput
+P16Khz	0	4194304	Value	ValueOutput
+P20Khz	0	4194304	Value	ValueOutput
+Q	0	4194304	Value	ValueOutput
+MasterG	0	4194304	Value	ValueOutput
+HiPass OnOff	0	4194304	Value	ValueOutput
+HiPass	0	4194304	Value	ValueOutput
+LoPass OnOff	0	4194304	Value	ValueOutput
+LoPass	0	4194304	Value	ValueOutput
+Bell OnOff	0	4194304	Value	ValueOutput
+Bell Freq	0	4194304	Value	ValueOutput
+Bell Gain	0	4194304	Value	ValueOutput
+Bell Q	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

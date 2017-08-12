@@ -1,0 +1,74 @@
+Scope
+Manufacturer	Model
+Multi-D	nl.multid.CVMutant
+
+Remotable	Min	Max	Input type	Output type
+Lfo Sync	0	1	Toggle	ValueOutput
+Lfo Rate	0	4194304	Value	ValueOutput
+Lfo Rate Synced	0	21	Value	ValueOutput
+Lfo Ping Pong	0	1	Toggle	ValueOutput
+Trigger Time	0	4194304	Value	ValueOutput
+Trigger Sustain Position	0	4194304	Value	ValueOutput
+Trigger Sustain Width	0	4194304	Value	ValueOutput
+Trigger Sustain Ping Pong	0	1	Toggle	ValueOutput
+Trigger Release To Sustain End	0	1	Toggle	ValueOutput
+Trigger Rate Keyboard Track	0	4194304	Value	ValueOutput
+Trigger Velocity To Amplitude	0	4194304	Value	ValueOutput
+Envelope Stage 1 Value	0	4194304	Value	ValueOutput
+Envelope Stage 1 Curve	0	4194304	Value	ValueOutput
+Envelope Stage 1 Width	0	4194304	Value	ValueOutput
+Envelope Stage 2 Value	0	4194304	Value	ValueOutput
+Envelope Stage 2 Curve	0	4194304	Value	ValueOutput
+Envelope Stage 2 Width	0	4194304	Value	ValueOutput
+Envelope Stage 3 Value	0	4194304	Value	ValueOutput
+Envelope Stage 3 Curve	0	4194304	Value	ValueOutput
+Envelope Stage 3 Width	0	4194304	Value	ValueOutput
+Envelope Stage 4 Value	0	4194304	Value	ValueOutput
+Envelope Stage 4 Curve	0	4194304	Value	ValueOutput
+Envelope Stage 4 Width	0	4194304	Value	ValueOutput
+Envelope Stage 5 Value	0	4194304	Value	ValueOutput
+Envelope Stage 5 Curve	0	4194304	Value	ValueOutput
+Envelope Stage 5 Width	0	4194304	Value	ValueOutput
+Envelope Stage 6 Value	0	4194304	Value	ValueOutput
+Envelope Stage 6 Curve	0	4194304	Value	ValueOutput
+Envelope Stage 6 Width	0	4194304	Value	ValueOutput
+Envelope Stage 7 Value	0	4194304	Value	ValueOutput
+Envelope Stage 7 Curve	0	4194304	Value	ValueOutput
+Envelope Stage 7 Width	0	4194304	Value	ValueOutput
+Envelope Stage 8 Value	0	4194304	Value	ValueOutput
+Envelope Stage 8 Curve	0	4194304	Value	ValueOutput
+Envelope Stage 8 Width	0	4194304	Value	ValueOutput
+Envelope Stage 9 Value	0	4194304	Value	ValueOutput
+Envelope Stage 9 Curve	0	4194304	Value	ValueOutput
+Envelope Stage 9 Width	0	4194304	Value	ValueOutput
+Envelope Stage 10 Value	0	4194304	Value	ValueOutput
+Envelope Stage 10 Curve	0	4194304	Value	ValueOutput
+Envelope Stage 10 Width	0	4194304	Value	ValueOutput
+Envelope Stage 11 Value	0	4194304	Value	ValueOutput
+Envelope Stage 11 Curve	0	4194304	Value	ValueOutput
+Envelope Stage 11 Width	0	4194304	Value	ValueOutput
+Envelope Stage 12 Value	0	4194304	Value	ValueOutput
+Envelope Stage 12 Curve	0	4194304	Value	ValueOutput
+Envelope Stage 12 Width	0	4194304	Value	ValueOutput
+Envelope Stage 13 Value	0	4194304	Value	ValueOutput
+Envelope Stage 13 Curve	0	4194304	Value	ValueOutput
+Envelope Stage 13 Width	0	4194304	Value	ValueOutput
+Envelope Stage 14 Value	0	4194304	Value	ValueOutput
+Envelope Stage 14 Curve	0	4194304	Value	ValueOutput
+Envelope Stage 14 Width	0	4194304	Value	ValueOutput
+Envelope Stage 15 Value	0	4194304	Value	ValueOutput
+Envelope Stage 15 Curve	0	4194304	Value	ValueOutput
+Envelope Stage 15 Width	0	4194304	Value	ValueOutput
+Envelope Stage 16 Value	0	4194304	Value	ValueOutput
+Envelope Stage 16 Curve	0	4194304	Value	ValueOutput
+Envelope Stage 16 Width	0	4194304	Value	ValueOutput
+Big Knob	0	4194304	Value	ValueOutput
+Stage count	0	14	Value	ValueOutput
+Input Shift	0	4194304	Value	ValueOutput
+Input Wrap	0	1	Toggle	ValueOutput
+Input Indicator Source	0	6	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

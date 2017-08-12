@@ -1,0 +1,24 @@
+Scope
+Manufacturer	Model
+u-he	com.uheplugins.UhbikA
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+pre-delay	0	4194304	Value	ValueOutput
+operation	0	2	Value	ValueOutput
+size	0	4194304	Value	ValueOutput
+spread	0	4194304	Value	ValueOutput
+hf-range	0	4194304	Value	ValueOutput
+decay	0	4194304	Value	ValueOutput
+density	0	4194304	Value	ValueOutput
+bass	0	4194304	Value	ValueOutput
+treble freq	0	4194304	Value	ValueOutput
+Treble	0	4194304	Value	ValueOutput
+reverb	0	4194304	Value	ValueOutput
+mix	0	4194304	Value	ValueOutput
+modulation	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

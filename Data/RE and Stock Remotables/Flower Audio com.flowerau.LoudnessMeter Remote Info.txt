@@ -1,0 +1,14 @@
+Scope
+Manufacturer	Model
+Flower Audio	com.flowerau.LoudnessMeter
+
+Remotable	Min	Max	Input type	Output type
+Input Mode	0	1	Toggle	ValueOutput
+Algorithm	0	1	Toggle	ValueOutput
+Time Window	0	3	Value	ValueOutput
+Big Display Mode	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

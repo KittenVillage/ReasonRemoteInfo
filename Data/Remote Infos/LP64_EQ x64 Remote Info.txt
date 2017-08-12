@@ -1,0 +1,106 @@
+Scope
+Manufacturer	Model
+Cakewalk	vst.CWlq.LP64_EQ x64
+Note: Will match scope definitions for vst.CWlq.LP64_EQ x64 or vst.CWlq
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Enabled	0	4194304	Value	ValueOutput
+EQ Mode	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+EQ1 Enablen	0	4194304	Value	ValueOutput
+EQ1 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ1 Gain (dB)	0	4194304	Value	ValueOutput
+EQ1 Q	0	4194304	Value	ValueOutput
+EQ2 Enable	0	4194304	Value	ValueOutput
+EQ2 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ2 Gain (dB)	0	4194304	Value	ValueOutput
+EQ2 Q	0	4194304	Value	ValueOutput
+EQ3 Enable	0	4194304	Value	ValueOutput
+EQ3 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ3 Gain (dB)	0	4194304	Value	ValueOutput
+EQ3 Q	0	4194304	Value	ValueOutput
+EQ4 Enable	0	4194304	Value	ValueOutput
+EQ4 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ4 Gain (dB)	0	4194304	Value	ValueOutput
+EQ4 Q	0	4194304	Value	ValueOutput
+EQ5 Enable	0	4194304	Value	ValueOutput
+EQ5 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ5 Gain (dB)	0	4194304	Value	ValueOutput
+EQ5 Q	0	4194304	Value	ValueOutput
+EQ6 Enable	0	4194304	Value	ValueOutput
+EQ6 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ6 Gain (dB)	0	4194304	Value	ValueOutput
+EQ6 Q	0	4194304	Value	ValueOutput
+EQ7 Enable	0	4194304	Value	ValueOutput
+EQ7 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ7 Gain (dB)	0	4194304	Value	ValueOutput
+EQ7 Q	0	4194304	Value	ValueOutput
+EQ8 Enable	0	4194304	Value	ValueOutput
+EQ8 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ8 Gain (dB)	0	4194304	Value	ValueOutput
+EQ8 Q	0	4194304	Value	ValueOutput
+EQ9 Enable	0	4194304	Value	ValueOutput
+EQ9 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ9 Gain (dB)	0	4194304	Value	ValueOutput
+EQ9 Q	0	4194304	Value	ValueOutput
+EQ10 Enable	0	4194304	Value	ValueOutput
+EQ10 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ10 Gain (dB)	0	4194304	Value	ValueOutput
+EQ10 Q	0	4194304	Value	ValueOutput
+EQ11 Enable	0	4194304	Value	ValueOutput
+EQ11 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ11 Gain (dB)	0	4194304	Value	ValueOutput
+EQ11 Q	0	4194304	Value	ValueOutput
+EQ12 Enable	0	4194304	Value	ValueOutput
+EQ12 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ12 Gain (dB)	0	4194304	Value	ValueOutput
+EQ12 Q	0	4194304	Value	ValueOutput
+EQ13 Enable	0	4194304	Value	ValueOutput
+EQ13 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ13 Gain (dB)	0	4194304	Value	ValueOutput
+EQ13 Q	0	4194304	Value	ValueOutput
+EQ14 Enable	0	4194304	Value	ValueOutput
+EQ14 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ14 Gain (dB)	0	4194304	Value	ValueOutput
+EQ14 Q	0	4194304	Value	ValueOutput
+EQ15 Enable	0	4194304	Value	ValueOutput
+EQ15 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ15 Gain (dB)	0	4194304	Value	ValueOutput
+EQ15 Q	0	4194304	Value	ValueOutput
+EQ16 Enable	0	4194304	Value	ValueOutput
+EQ16 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ16 Gain (dB)	0	4194304	Value	ValueOutput
+EQ16 Q	0	4194304	Value	ValueOutput
+EQ17 Enable	0	4194304	Value	ValueOutput
+EQ17 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ17 Gain (dB)	0	4194304	Value	ValueOutput
+EQ17 Q	0	4194304	Value	ValueOutput
+EQ18 Enable	0	4194304	Value	ValueOutput
+EQ18 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ18 Gain (dB)	0	4194304	Value	ValueOutput
+EQ18 Q	0	4194304	Value	ValueOutput
+EQ19 Enable	0	4194304	Value	ValueOutput
+EQ19 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ19 Gain (dB)	0	4194304	Value	ValueOutput
+EQ19 Q	0	4194304	Value	ValueOutput
+EQ20 Enable	0	4194304	Value	ValueOutput
+EQ20 Freq (Hz)	0	4194304	Value	ValueOutput
+EQ20 Gain (dB)	0	4194304	Value	ValueOutput
+EQ20 Q	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,72 @@
+Scope
+Manufacturer	Model
+PSPaudioware.com	vst.PSsF.PSP stompFilter x64
+Note: Will match scope definitions for vst.PSsF.PSP stompFilter x64 or vst.PSsF
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Byps	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+FrzMode	0	4194304	Value	ValueOutput
+Freeze	0	4194304	Value	ValueOutput
+LFOwave	0	4194304	Value	ValueOutput
+LFOfltr	0	4194304	Value	ValueOutput
+LFOwidh	0	4194304	Value	ValueOutput
+LFOsync	0	4194304	Value	ValueOutput
+LFOfreq	0	4194304	Value	ValueOutput
+LFOnote	0	4194304	Value	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+RNDtype	0	4194304	Value	ValueOutput
+LFOrnd	0	4194304	Value	ValueOutput
+LFOsprd	0	4194304	Value	ValueOutput
+ELfoRSt	0	4194304	Value	ValueOutput
+EnLfoRt	0	4194304	Value	ValueOutput
+ELfoDSt	0	4194304	Value	ValueOutput
+EnLfoDt	0	4194304	Value	ValueOutput
+FltrTyp	0	4194304	Value	ValueOutput
+FltrSlp	0	4194304	Value	ValueOutput
+FltrRes	0	4194304	Value	ValueOutput
+FltrCut	0	4194304	Value	ValueOutput
+FltrSat	0	4194304	Value	ValueOutput
+ThrsMod	0	4194304	Value	ValueOutput
+Thresh	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+AtkExtn	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Range	0	4194304	Value	ValueOutput
+LfFrqSt	0	4194304	Value	ValueOutput
+LfoFreq	0	4194304	Value	ValueOutput
+LGainSt	0	4194304	Value	ValueOutput
+LfoGain	0	4194304	Value	ValueOutput
+EnFrqSt	0	4194304	Value	ValueOutput
+EnvFreq	0	4194304	Value	ValueOutput
+EGainSt	0	4194304	Value	ValueOutput
+EnvGain	0	4194304	Value	ValueOutput
+Route	0	4194304	Value	ValueOutput
+LimStat	0	4194304	Value	ValueOutput
+LimLvl	0	4194304	Value	ValueOutput
+SatStat	0	4194304	Value	ValueOutput
+SatLvl	0	4194304	Value	ValueOutput
+DryStat	0	4194304	Value	ValueOutput
+Dry	0	4194304	Value	ValueOutput
+WetStat	0	4194304	Value	ValueOutput
+Wet	0	4194304	Value	ValueOutput
+DW_Glb	0	4194304	Value	ValueOutput
+AllMod	0	4194304	Value	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

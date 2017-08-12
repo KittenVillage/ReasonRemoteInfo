@@ -1,0 +1,130 @@
+Scope
+Manufacturer	Model
+TAL - Togu Audio Line	vst.15b2.TAL-Elek7ro-II x64
+Note: Will match scope definitions for vst.15b2.TAL-Elek7ro-II x64 or vst.15b2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Param	0	4194304	Value	ValueOutput
+VOLUME	0	4194304	Value	ValueOutput
+MASTERPITCH	0	4194304	Value	ValueOutput
+PORTAMENTO	0	4194304	Value	ValueOutput
+PORTAMENTOMODE	0	4194304	Value	ValueOutput
+TRANSPOSE	0	4194304	Value	ValueOutput
+MASTERPITCH	0	4194304	Value	ValueOutput
+VCOMODULATION	0	4194304	Value	ValueOutput
+VCFMODULATION	0	4194304	Value	ValueOutput
+VCORANGE	0	4194304	Value	ValueOutput
+NOISEVOLUME	0	4194304	Value	ValueOutput
+OSC1VOLUME	0	4194304	Value	ValueOutput
+OSC2VOLUME	0	4194304	Value	ValueOutput
+OSC3VOLUME	0	4194304	Value	ValueOutput
+CUTOFF	0	4194304	Value	ValueOutput
+RESONANCE	0	4194304	Value	ValueOutput
+VCFENVELOPE	0	4194304	Value	ValueOutput
+VCFKEYBOARD	0	4194304	Value	ValueOutput
+VCFATTACK	0	4194304	Value	ValueOutput
+VCFDECAY	0	4194304	Value	ValueOutput
+VCFSUSTAIN	0	4194304	Value	ValueOutput
+VCFRELEASE	0	4194304	Value	ValueOutput
+AMPATTACK	0	4194304	Value	ValueOutput
+AMPDECAY	0	4194304	Value	ValueOutput
+AMPSUSTAIN	0	4194304	Value	ValueOutput
+AMPRELEASE	0	4194304	Value	ValueOutput
+OSC1TUNE	0	4194304	Value	ValueOutput
+OSC1FINETUNE	0	4194304	Value	ValueOutput
+OSC1WAVEFORM	0	4194304	Value	ValueOutput
+OSC1PW	0	4194304	Value	ValueOutput
+OSC1SYNC	0	4194304	Value	ValueOutput
+OSC2TUNE	0	4194304	Value	ValueOutput
+OSC2FINETUNE	0	4194304	Value	ValueOutput
+OSC2WAVEFORM	0	4194304	Value	ValueOutput
+OSC2FM	0	4194304	Value	ValueOutput
+OSC2SYNC	0	4194304	Value	ValueOutput
+OSC3TUNE	0	4194304	Value	ValueOutput
+OSC3WAVEFORM	0	4194304	Value	ValueOutput
+LFO1RATE	0	4194304	Value	ValueOutput
+LFO1INTENSITY	0	4194304	Value	ValueOutput
+LFO1WAVEFORM	0	4194304	Value	ValueOutput
+LFO1SYNC	0	4194304	Value	ValueOutput
+LFO1DESTINATION	0	4194304	Value	ValueOutput
+LFO2RATE	0	4194304	Value	ValueOutput
+LFO2INTENSITY	0	4194304	Value	ValueOutput
+LFO2WAVEFORM	0	4194304	Value	ValueOutput
+LFO2SYNC	0	4194304	Value	ValueOutput
+LFO2DESTINATION	0	4194304	Value	ValueOutput
+VCFBENDER	0	4194304	Value	ValueOutput
+VCOBENDER	0	4194304	Value	ValueOutput
+MODBENDER	0	4194304	Value	ValueOutput
+POLY	0	4194304	Value	ValueOutput
+FILTERTYPE	0	4194304	Value	ValueOutput
+PHASE	0	4194304	Value	ValueOutput
+HIGHCUT	0	4194304	Value	ValueOutput
+ABOUTWINDOW	0	4194304	Value	ValueOutput
+FREEATTACK	0	4194304	Value	ValueOutput
+FREEDECAY	0	4194304	Value	ValueOutput
+FREEINTENSITY	0	4194304	Value	ValueOutput
+FREEDESTINATION	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+PANIC	0	4194304	Value	ValueOutput
+MIDILEARN	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

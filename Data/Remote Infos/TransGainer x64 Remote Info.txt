@@ -1,0 +1,66 @@
+Scope
+Manufacturer	Model
+Voxengo	vst.376w.TransGainer x64
+Note: Will match scope definitions for vst.376w.TransGainer x64 or vst.376w
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Oversmp	0	4194304	Value	ValueOutput
+Algorit	0	4194304	Value	ValueOutput
+P1DetDly	0	4194304	Value	ValueOutput
+P1Contr	0	4194304	Value	ValueOutput
+P1TrGain	0	4194304	Value	ValueOutput
+P1SuGain	0	4194304	Value	ValueOutput
+P1OGain	0	4194304	Value	ValueOutput
+P1Auto	0	4194304	Value	ValueOutput
+P1Mode	0	4194304	Value	ValueOutput
+P1DetThr	0	4194304	Value	ValueOutput
+P1TrAtk	0	4194304	Value	ValueOutput
+P1TrDcay	0	4194304	Value	ValueOutput
+P2DetDly	0	4194304	Value	ValueOutput
+P2Contr	0	4194304	Value	ValueOutput
+P2TrGain	0	4194304	Value	ValueOutput
+P2SuGain	0	4194304	Value	ValueOutput
+P2OGain	0	4194304	Value	ValueOutput
+P2Auto	0	4194304	Value	ValueOutput
+P2Mode	0	4194304	Value	ValueOutput
+P2DetThr	0	4194304	Value	ValueOutput
+P2TrAtk	0	4194304	Value	ValueOutput
+P2TrDcay	0	4194304	Value	ValueOutput
+P3DetDly	0	4194304	Value	ValueOutput
+P3Contr	0	4194304	Value	ValueOutput
+P3TrGain	0	4194304	Value	ValueOutput
+P3SuGain	0	4194304	Value	ValueOutput
+P3OGain	0	4194304	Value	ValueOutput
+P3Auto	0	4194304	Value	ValueOutput
+P3Mode	0	4194304	Value	ValueOutput
+P3DetThr	0	4194304	Value	ValueOutput
+P3TrAtk	0	4194304	Value	ValueOutput
+P3TrDcay	0	4194304	Value	ValueOutput
+P4DetDly	0	4194304	Value	ValueOutput
+P4Contr	0	4194304	Value	ValueOutput
+P4TrGain	0	4194304	Value	ValueOutput
+P4SuGain	0	4194304	Value	ValueOutput
+P4OGain	0	4194304	Value	ValueOutput
+P4Auto	0	4194304	Value	ValueOutput
+P4Mode	0	4194304	Value	ValueOutput
+P4DetThr	0	4194304	Value	ValueOutput
+P4TrAtk	0	4194304	Value	ValueOutput
+P4TrDcay	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

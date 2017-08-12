@@ -1,0 +1,86 @@
+Scope
+Manufacturer	Model
+Relab	vst._LX4.LX480Complete x64
+Note: Will match scope definitions for vst._LX4.LX480Complete x64 or vst._LX4
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+BPS	0	4194304	Value	ValueOutput
+RTM	0	4194304	Value	ValueOutput
+SIZ	0	4194304	Value	ValueOutput
+LEV	0	4194304	Value	ValueOutput
+MIX	0	4194304	Value	ValueOutput
+WID	0	4194304	Value	ValueOutput
+PDL	0	4194304	Value	ValueOutput
+SHP	0	4194304	Value	ValueOutput
+SPR	0	4194304	Value	ValueOutput
+DIF	0	4194304	Value	ValueOutput
+DL1	0	4194304	Value	ValueOutput
+LV1	0	4194304	Value	ValueOutput
+DL2	0	4194304	Value	ValueOutput
+LV2	0	4194304	Value	ValueOutput
+DL3	0	4194304	Value	ValueOutput
+LV3	0	4194304	Value	ValueOutput
+DL4	0	4194304	Value	ValueOutput
+LV4	0	4194304	Value	ValueOutput
+DL5	0	4194304	Value	ValueOutput
+LV5	0	4194304	Value	ValueOutput
+DL6	0	4194304	Value	ValueOutput
+LV6	0	4194304	Value	ValueOutput
+DCO	0	4194304	Value	ValueOutput
+CHR	0	4194304	Value	ValueOutput
+CHD	0	4194304	Value	ValueOutput
+SPN	0	4194304	Value	ValueOutput
+WAN	0	4194304	Value	ValueOutput
+BAS	0	4194304	Value	ValueOutput
+BXO	0	4194304	Value	ValueOutput
+HIG	0	4194304	Value	ValueOutput
+HXO	0	4194304	Value	ValueOutput
+LOF	0	4194304	Value	ValueOutput
+LOS	0	4194304	Value	ValueOutput
+HIF	0	4194304	Value	ValueOutput
+HIS	0	4194304	Value	ValueOutput
+LNK	0	4194304	Value	ValueOutput
+ERM	0	4194304	Value	ValueOutput
+CHT	0	4194304	Value	ValueOutput
+AMS	0	4194304	Value	ValueOutput
+RTL	0	4194304	Value	ValueOutput
+IND	0	4194304	Value	ValueOutput
+MST	0	4194304	Value	ValueOutput
+ROL	0	4194304	Value	ValueOutput
+ROR	0	4194304	Value	ValueOutput
+RSL	0	4194304	Value	ValueOutput
+RSR	0	4194304	Value	ValueOutput
+DLL	0	4194304	Value	ValueOutput
+DLR	0	4194304	Value	ValueOutput
+PNL	0	4194304	Value	ValueOutput
+PNR	0	4194304	Value	ValueOutput
+FNL	0	4194304	Value	ValueOutput
+FNR	0	4194304	Value	ValueOutput
+FB1	0	4194304	Value	ValueOutput
+FB2	0	4194304	Value	ValueOutput
+FB3	0	4194304	Value	ValueOutput
+FB4	0	4194304	Value	ValueOutput
+DDL1	0	4194304	Value	ValueOutput
+DDL2	0	4194304	Value	ValueOutput
+DDL3	0	4194304	Value	ValueOutput
+DDL4	0	4194304	Value	ValueOutput
+DCC	0	4194304	Value	ValueOutput
+TFT	0	4194304	Value	ValueOutput
+FLT	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

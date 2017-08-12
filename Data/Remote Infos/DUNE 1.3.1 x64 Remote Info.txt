@@ -1,0 +1,134 @@
+Scope
+Manufacturer	Model
+Synapse Audio	vst.SWSP.DUNE 1_3_1 x64
+Note: Will match scope definitions for vst.SWSP.DUNE 1_3_1 x64 or vst.SWSP
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Osc 1 Shape	0	4194304	Value	ValueOutput
+Osc 1 Coarse	0	4194304	Value	ValueOutput
+Osc 1 Fine	0	4194304	Value	ValueOutput
+Osc 1 Fat	0	4194304	Value	ValueOutput
+Osc 1 Wave	0	4194304	Value	ValueOutput
+Osc 2 Shape	0	4194304	Value	ValueOutput
+Osc 2 Coarse	0	4194304	Value	ValueOutput
+Osc 2 Fine	0	4194304	Value	ValueOutput
+Osc 2 Fat	0	4194304	Value	ValueOutput
+Osc 2 Wave	0	4194304	Value	ValueOutput
+Osc 3 Shape	0	4194304	Value	ValueOutput
+Osc 3 Level	0	4194304	Value	ValueOutput
+Osc Mix	0	4194304	Value	ValueOutput
+Noise Colour	0	4194304	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+Osc Common RM	0	4194304	Value	ValueOutput
+Osc Common PW	0	4194304	Value	ValueOutput
+Osc FM	0	4194304	Value	ValueOutput
+Amp Attack	0	4194304	Value	ValueOutput
+Amp Decay	0	4194304	Value	ValueOutput
+Amp Sustain	0	4194304	Value	ValueOutput
+Amp Release	0	4194304	Value	ValueOutput
+Filter Attack	0	4194304	Value	ValueOutput
+Filter Decay	0	4194304	Value	ValueOutput
+Filter Sustain	0	4194304	Value	ValueOutput
+Filter Release	0	4194304	Value	ValueOutput
+Filter Keytrack	0	4194304	Value	ValueOutput
+Filter Reserved	0	4194304	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter Env Amt	0	4194304	Value	ValueOutput
+Filter Offset	0	4194304	Value	ValueOutput
+Osc Sync	0	4194304	Value	ValueOutput
+LFO 1 Shape	0	4194304	Value	ValueOutput
+LFO 1 Rate	0	4194304	Value	ValueOutput
+LFO 1 Skew	0	4194304	Value	ValueOutput
+LFO 1 Fade In	0	4194304	Value	ValueOutput
+LFO 1 Sync	0	4194304	Value	ValueOutput
+LFO 1 Reset	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+LFO 2 Shape	0	4194304	Value	ValueOutput
+LFO 2 Rate	0	4194304	Value	ValueOutput
+LFO 2 Skew	0	4194304	Value	ValueOutput
+LFO 2 Fade In	0	4194304	Value	ValueOutput
+LFO 2 Sync	0	4194304	Value	ValueOutput
+LFO 2 Reset	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+LFO 3 Shape	0	4194304	Value	ValueOutput
+LFO 3 Rate	0	4194304	Value	ValueOutput
+LFO 3 Skew	0	4194304	Value	ValueOutput
+LFO 3 Fade In	0	4194304	Value	ValueOutput
+LFO 3 Sync	0	4194304	Value	ValueOutput
+LFO 3 Reset	0	4194304	Value	ValueOutput
+Mod Attack	0	4194304	Value	ValueOutput
+Mod Decay	0	4194304	Value	ValueOutput
+Mod Sustain	0	4194304	Value	ValueOutput
+Mod Release	0	4194304	Value	ValueOutput
+FM Feedback	0	4194304	Value	ValueOutput
+Voice 1	0	4194304	Value	ValueOutput
+Voice 2	0	4194304	Value	ValueOutput
+Voice 3	0	4194304	Value	ValueOutput
+Voice 4	0	4194304	Value	ValueOutput
+Voice 5	0	4194304	Value	ValueOutput
+Voice 6	0	4194304	Value	ValueOutput
+Voice 7	0	4194304	Value	ValueOutput
+Voice 8	0	4194304	Value	ValueOutput
+Arp Range	0	4194304	Value	ValueOutput
+Arp Rate	0	4194304	Value	ValueOutput
+Arp Length	0	4194304	Value	ValueOutput
+Arp Swing	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Voice Spread	0	4194304	Value	ValueOutput
+Voice Detune	0	4194304	Value	ValueOutput
+Voices	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+FX Phaser Type	0	4194304	Value	ValueOutput
+FX Phaser Rate	0	4194304	Value	ValueOutput
+FX Phaser Freq	0	4194304	Value	ValueOutput
+FX Phaser Fbk	0	4194304	Value	ValueOutput
+FX Phaser Amt	0	4194304	Value	ValueOutput
+FX Phaser Depth	0	4194304	Value	ValueOutput
+FX Delay Type	0	4194304	Value	ValueOutput
+FX Delay Colour	0	4194304	Value	ValueOutput
+FX Delay Feedbk	0	4194304	Value	ValueOutput
+FX Delay Amt	0	4194304	Value	ValueOutput
+FX Delay Rate-L	0	4194304	Value	ValueOutput
+FX Delay Rate-R	0	4194304	Value	ValueOutput
+FX Reverb Type	0	4194304	Value	ValueOutput
+FX Reverb Damp	0	4194304	Value	ValueOutput
+FX Reverb Decay	0	4194304	Value	ValueOutput
+FX Reverb Amt	0	4194304	Value	ValueOutput
+FX Reverb Predly	0	4194304	Value	ValueOutput
+FX Reverb Locut	0	4194304	Value	ValueOutput
+FX Dist Type	0	4194304	Value	ValueOutput
+FX Dist Colour	0	4194304	Value	ValueOutput
+FX Dist Drive	0	4194304	Value	ValueOutput
+FX Dist Amt	0	4194304	Value	ValueOutput
+FX EQ-1 Type	0	4194304	Value	ValueOutput
+FX EQ-1 Freq	0	4194304	Value	ValueOutput
+FX EQ-1 Q	0	4194304	Value	ValueOutput
+FX EQ-1 Gain	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+FX EQ-2 Type	0	4194304	Value	ValueOutput
+FX EQ-2 Freq	0	4194304	Value	ValueOutput
+FX EQ-2 Q	0	4194304	Value	ValueOutput
+FX EQ-2 Gain	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

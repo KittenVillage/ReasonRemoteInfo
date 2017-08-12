@@ -1,0 +1,55 @@
+Scope
+Manufacturer	Model
+Full Bucket Music	vst.kern.kern64
+Note: Will match scope definitions for vst.kern.kern64 or vst.kern
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Monophon	0	4194304	Value	ValueOutput
+PB Range	0	4194304	Value	ValueOutput
+Portamnt	0	4194304	Value	ValueOutput
+M. Tune	0	4194304	Value	ValueOutput
+Osc Wave	0	4194304	Value	ValueOutput
+FM	0	4194304	Value	ValueOutput
+FM Src	0	4194304	Value	ValueOutput
+Osc2Trns	0	4194304	Value	ValueOutput
+Osc2Tune	0	4194304	Value	ValueOutput
+Sync	0	4194304	Value	ValueOutput
+Flt Mode	0	4194304	Value	ValueOutput
+Flt Freq	0	4194304	Value	ValueOutput
+Flt Reso	0	4194304	Value	ValueOutput
+Flt Env	0	4194304	Value	ValueOutput
+Flt LFO	0	4194304	Value	ValueOutput
+Flt Keyb	0	4194304	Value	ValueOutput
+Flt Velo	0	4194304	Value	ValueOutput
+Amp Velo	0	4194304	Value	ValueOutput
+LFO Wave	0	4194304	Value	ValueOutput
+LFO Freq	0	4194304	Value	ValueOutput
+FltEnv A	0	4194304	Value	ValueOutput
+FltEnv D	0	4194304	Value	ValueOutput
+FltEnv S	0	4194304	Value	ValueOutput
+AmpEnv A	0	4194304	Value	ValueOutput
+AmpEnv D	0	4194304	Value	ValueOutput
+AmpEnv S	0	4194304	Value	ValueOutput
+AmpEnv R	0	4194304	Value	ValueOutput
+Chorus	0	4194304	Value	ValueOutput
+Cho LFO1	0	4194304	Value	ValueOutput
+Cho LFO2	0	4194304	Value	ValueOutput
+Cho Dpt	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

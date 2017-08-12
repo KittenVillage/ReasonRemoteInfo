@@ -1,0 +1,310 @@
+Scope
+Manufacturer	Model
+u-he	vst.uR_1.Repro-1(x64)
+Note: Will match scope definitions for vst.uR_1.Repro-1(x64) or vst.uR_1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+main: Output	0	4194304	Value	ValueOutput
+MM1: Source	0	4194304	Value	ValueOutput
+MM1: Depth1	0	4194304	Value	ValueOutput
+MM2: Source	0	4194304	Value	ValueOutput
+MM2: Depth1	0	4194304	Value	ValueOutput
+LFO: Sync Mode	0	4194304	Value	ValueOutput
+LFO: Frequency	0	4194304	Value	ValueOutput
+LFO: Square Wave	0	4194304	Value	ValueOutput
+LFO: Triangle Wave	0	4194304	Value	ValueOutput
+LFO: Saw Wave	0	4194304	Value	ValueOutput
+HCLK: Time Base	0	4194304	Value	ValueOutput
+MIDI: Glide	0	4194304	Value	ValueOutput
+MIDI: Glide Mode	0	4194304	Value	ValueOutput
+MIDI: Trigger Mode	0	4194304	Value	ValueOutput
+MIDI: Repeat Mode	0	4194304	Value	ValueOutput
+MIDI: Drone Mode	0	4194304	Value	ValueOutput
+MIDI: Master Tune	0	4194304	Value	ValueOutput
+Seq1: Step 1 Note	0	4194304	Value	ValueOutput
+Seq1: Step 2 Note	0	4194304	Value	ValueOutput
+Seq1: Step 3 Note	0	4194304	Value	ValueOutput
+Seq1: Step 4 Note	0	4194304	Value	ValueOutput
+Seq1: Step 5 Note	0	4194304	Value	ValueOutput
+Seq1: Step 6 Note	0	4194304	Value	ValueOutput
+Seq1: Step 7 Note	0	4194304	Value	ValueOutput
+Seq1: Step 8 Note	0	4194304	Value	ValueOutput
+Seq1: Step 9 Note	0	4194304	Value	ValueOutput
+Seq1: Step 10 Note	0	4194304	Value	ValueOutput
+Seq1: Step 11 Note	0	4194304	Value	ValueOutput
+Seq1: Step 12 Note	0	4194304	Value	ValueOutput
+Seq1: Step 13 Note	0	4194304	Value	ValueOutput
+Seq1: Step 14 Note	0	4194304	Value	ValueOutput
+Seq1: Step 15 Note	0	4194304	Value	ValueOutput
+Seq1: Step 16 Note	0	4194304	Value	ValueOutput
+Seq1: Step 17 Note	0	4194304	Value	ValueOutput
+Seq1: Step 18 Note	0	4194304	Value	ValueOutput
+Seq1: Step 19 Note	0	4194304	Value	ValueOutput
+Seq1: Step 20 Note	0	4194304	Value	ValueOutput
+Seq1: Step 21 Note	0	4194304	Value	ValueOutput
+Seq1: Step 22 Note	0	4194304	Value	ValueOutput
+Seq1: Step 23 Note	0	4194304	Value	ValueOutput
+Seq1: Step 24 Note	0	4194304	Value	ValueOutput
+Seq1: Step 25 Note	0	4194304	Value	ValueOutput
+Seq1: Step 26 Note	0	4194304	Value	ValueOutput
+Seq1: Step 27 Note	0	4194304	Value	ValueOutput
+Seq1: Step 28 Note	0	4194304	Value	ValueOutput
+Seq1: Step 29 Note	0	4194304	Value	ValueOutput
+Seq1: Step 30 Note	0	4194304	Value	ValueOutput
+Seq1: Step 31 Note	0	4194304	Value	ValueOutput
+Seq1: Step 32 Note	0	4194304	Value	ValueOutput
+Seq1: Step 1 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 2 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 3 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 4 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 5 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 6 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 7 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 8 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 9 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 10 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 11 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 12 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 13 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 14 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 15 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 16 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 17 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 18 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 19 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 20 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 21 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 22 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 23 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 24 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 25 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 26 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 27 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 28 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 29 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 30 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 31 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 32 Velo	0	4194304	Value	ValueOutput
+Seq1: Step 1 Type	0	4194304	Value	ValueOutput
+Seq1: Step 2 Type	0	4194304	Value	ValueOutput
+Seq1: Step 3 Type	0	4194304	Value	ValueOutput
+Seq1: Step 4 Type	0	4194304	Value	ValueOutput
+Seq1: Step 5 Type	0	4194304	Value	ValueOutput
+Seq1: Step 6 Type	0	4194304	Value	ValueOutput
+Seq1: Step 7 Type	0	4194304	Value	ValueOutput
+Seq1: Step 8 Type	0	4194304	Value	ValueOutput
+Seq1: Step 9 Type	0	4194304	Value	ValueOutput
+Seq1: Step 10 Type	0	4194304	Value	ValueOutput
+Seq1: Step 11 Type	0	4194304	Value	ValueOutput
+Seq1: Step 12 Type	0	4194304	Value	ValueOutput
+Seq1: Step 13 Type	0	4194304	Value	ValueOutput
+Seq1: Step 14 Type	0	4194304	Value	ValueOutput
+Seq1: Step 15 Type	0	4194304	Value	ValueOutput
+Seq1: Step 16 Type	0	4194304	Value	ValueOutput
+Seq1: Step 17 Type	0	4194304	Value	ValueOutput
+Seq1: Step 18 Type	0	4194304	Value	ValueOutput
+Seq1: Step 19 Type	0	4194304	Value	ValueOutput
+Seq1: Step 20 Type	0	4194304	Value	ValueOutput
+Seq1: Step 21 Type	0	4194304	Value	ValueOutput
+Seq1: Step 22 Type	0	4194304	Value	ValueOutput
+Seq1: Step 23 Type	0	4194304	Value	ValueOutput
+Seq1: Step 24 Type	0	4194304	Value	ValueOutput
+Seq1: Step 25 Type	0	4194304	Value	ValueOutput
+Seq1: Step 26 Type	0	4194304	Value	ValueOutput
+Seq1: Step 27 Type	0	4194304	Value	ValueOutput
+Seq1: Step 28 Type	0	4194304	Value	ValueOutput
+Seq1: Step 29 Type	0	4194304	Value	ValueOutput
+Seq1: Step 30 Type	0	4194304	Value	ValueOutput
+Seq1: Step 31 Type	0	4194304	Value	ValueOutput
+Seq1: Step 32 Type	0	4194304	Value	ValueOutput
+Seq2: Step 1 Note	0	4194304	Value	ValueOutput
+Seq2: Step 2 Note	0	4194304	Value	ValueOutput
+Seq2: Step 3 Note	0	4194304	Value	ValueOutput
+Seq2: Step 4 Note	0	4194304	Value	ValueOutput
+Seq2: Step 5 Note	0	4194304	Value	ValueOutput
+Seq2: Step 6 Note	0	4194304	Value	ValueOutput
+Seq2: Step 7 Note	0	4194304	Value	ValueOutput
+Seq2: Step 8 Note	0	4194304	Value	ValueOutput
+Seq2: Step 9 Note	0	4194304	Value	ValueOutput
+Seq2: Step 10 Note	0	4194304	Value	ValueOutput
+Seq2: Step 11 Note	0	4194304	Value	ValueOutput
+Seq2: Step 12 Note	0	4194304	Value	ValueOutput
+Seq2: Step 13 Note	0	4194304	Value	ValueOutput
+Seq2: Step 14 Note	0	4194304	Value	ValueOutput
+Seq2: Step 15 Note	0	4194304	Value	ValueOutput
+Seq2: Step 16 Note	0	4194304	Value	ValueOutput
+Seq2: Step 17 Note	0	4194304	Value	ValueOutput
+Seq2: Step 18 Note	0	4194304	Value	ValueOutput
+Seq2: Step 19 Note	0	4194304	Value	ValueOutput
+Seq2: Step 20 Note	0	4194304	Value	ValueOutput
+Seq2: Step 21 Note	0	4194304	Value	ValueOutput
+Seq2: Step 22 Note	0	4194304	Value	ValueOutput
+Seq2: Step 23 Note	0	4194304	Value	ValueOutput
+Seq2: Step 24 Note	0	4194304	Value	ValueOutput
+Seq2: Step 25 Note	0	4194304	Value	ValueOutput
+Seq2: Step 26 Note	0	4194304	Value	ValueOutput
+Seq2: Step 27 Note	0	4194304	Value	ValueOutput
+Seq2: Step 28 Note	0	4194304	Value	ValueOutput
+Seq2: Step 29 Note	0	4194304	Value	ValueOutput
+Seq2: Step 30 Note	0	4194304	Value	ValueOutput
+Seq2: Step 31 Note	0	4194304	Value	ValueOutput
+Seq2: Step 32 Note	0	4194304	Value	ValueOutput
+Seq2: Step 1 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 2 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 3 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 4 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 5 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 6 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 7 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 8 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 9 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 10 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 11 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 12 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 13 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 14 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 15 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 16 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 17 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 18 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 19 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 20 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 21 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 22 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 23 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 24 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 25 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 26 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 27 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 28 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 29 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 30 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 31 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 32 Velo	0	4194304	Value	ValueOutput
+Seq2: Step 1 Type	0	4194304	Value	ValueOutput
+Seq2: Step 2 Type	0	4194304	Value	ValueOutput
+Seq2: Step 3 Type	0	4194304	Value	ValueOutput
+Seq2: Step 4 Type	0	4194304	Value	ValueOutput
+Seq2: Step 5 Type	0	4194304	Value	ValueOutput
+Seq2: Step 6 Type	0	4194304	Value	ValueOutput
+Seq2: Step 7 Type	0	4194304	Value	ValueOutput
+Seq2: Step 8 Type	0	4194304	Value	ValueOutput
+Seq2: Step 9 Type	0	4194304	Value	ValueOutput
+Seq2: Step 10 Type	0	4194304	Value	ValueOutput
+Seq2: Step 11 Type	0	4194304	Value	ValueOutput
+Seq2: Step 12 Type	0	4194304	Value	ValueOutput
+Seq2: Step 13 Type	0	4194304	Value	ValueOutput
+Seq2: Step 14 Type	0	4194304	Value	ValueOutput
+Seq2: Step 15 Type	0	4194304	Value	ValueOutput
+Seq2: Step 16 Type	0	4194304	Value	ValueOutput
+Seq2: Step 17 Type	0	4194304	Value	ValueOutput
+Seq2: Step 18 Type	0	4194304	Value	ValueOutput
+Seq2: Step 19 Type	0	4194304	Value	ValueOutput
+Seq2: Step 20 Type	0	4194304	Value	ValueOutput
+Seq2: Step 21 Type	0	4194304	Value	ValueOutput
+Seq2: Step 22 Type	0	4194304	Value	ValueOutput
+Seq2: Step 23 Type	0	4194304	Value	ValueOutput
+Seq2: Step 24 Type	0	4194304	Value	ValueOutput
+Seq2: Step 25 Type	0	4194304	Value	ValueOutput
+Seq2: Step 26 Type	0	4194304	Value	ValueOutput
+Seq2: Step 27 Type	0	4194304	Value	ValueOutput
+Seq2: Step 28 Type	0	4194304	Value	ValueOutput
+Seq2: Step 29 Type	0	4194304	Value	ValueOutput
+Seq2: Step 30 Type	0	4194304	Value	ValueOutput
+Seq2: Step 31 Type	0	4194304	Value	ValueOutput
+Seq2: Step 32 Type	0	4194304	Value	ValueOutput
+FEnv: Attack	0	4194304	Value	ValueOutput
+FEnv: Decay	0	4194304	Value	ValueOutput
+FEnv: Sustain	0	4194304	Value	ValueOutput
+FEnv: Release	0	4194304	Value	ValueOutput
+AEnv: Attack	0	4194304	Value	ValueOutput
+AEnv: Decay	0	4194304	Value	ValueOutput
+AEnv: Sustain	0	4194304	Value	ValueOutput
+AEnv: Release	0	4194304	Value	ValueOutput
+OscA: Octave	0	4194304	Value	ValueOutput
+OscA: Frequency	0	4194304	Value	ValueOutput
+OscA: Fine Tune	0	4194304	Value	ValueOutput
+OscA: Saw Wave	0	4194304	Value	ValueOutput
+OscA: Pulse Wave	0	4194304	Value	ValueOutput
+OscA: Pulse Width	0	4194304	Value	ValueOutput
+OscA: Hard Sync	0	4194304	Value	ValueOutput
+OscA: Freq Mod	0	4194304	Value	ValueOutput
+OscA: PW Mod	0	4194304	Value	ValueOutput
+OscB: Octave	0	4194304	Value	ValueOutput
+OscB: Frequency	0	4194304	Value	ValueOutput
+OscB: Fine Tune	0	4194304	Value	ValueOutput
+OscB: Saw Wave	0	4194304	Value	ValueOutput
+OscB: Triangle Wave	0	4194304	Value	ValueOutput
+OscB: Pulse Wave	0	4194304	Value	ValueOutput
+OscB: Pulse Width	0	4194304	Value	ValueOutput
+OscB: Low Frequency	0	4194304	Value	ValueOutput
+OscB: Keyboard Pitched	0	4194304	Value	ValueOutput
+OscB: Freq Mod	0	4194304	Value	ValueOutput
+OscB: PW Mod	0	4194304	Value	ValueOutput
+Mod: LFO Amount	0	4194304	Value	ValueOutput
+Mod: Osc B Amount	0	4194304	Value	ValueOutput
+Mod: Filter Env Amount	0	4194304	Value	ValueOutput
+Mod: LFO Route	0	4194304	Value	ValueOutput
+Mod: Osc B Route	0	4194304	Value	ValueOutput
+Mod: Filter Env Route	0	4194304	Value	ValueOutput
+MIX: Osc A	0	4194304	Value	ValueOutput
+MIX: Osc B	0	4194304	Value	ValueOutput
+MIX: Noise/Feedback	0	4194304	Value	ValueOutput
+MIX: NoiFB	0	4194304	Value	ValueOutput
+Filter: KTSrc	0	4194304	Value	ValueOutput
+Filter: Cutoff	0	4194304	Value	ValueOutput
+Filter: Resonance	0	4194304	Value	ValueOutput
+Filter: Keyboard Amount	0	4194304	Value	ValueOutput
+Filter: Envelope Amount	0	4194304	Value	ValueOutput
+Filter: Filter Mod	0	4194304	Value	ValueOutput
+Amp: Volume Curve	0	4194304	Value	ValueOutput
+Jaws: Ripples	0	4194304	Value	ValueOutput
+Jaws: Folds	0	4194304	Value	ValueOutput
+Jaws: Bias	0	4194304	Value	ValueOutput
+Jaws: BiasMod	0	4194304	Value	ValueOutput
+Jaws: Fold Mod Trigger	0	4194304	Value	ValueOutput
+Jaws: Fold Mod Depth	0	4194304	Value	ValueOutput
+Jaws: Fold Mod Attack	0	4194304	Value	ValueOutput
+Jaws: Fold Mod Release	0	4194304	Value	ValueOutput
+Lyrebrd: Sync	0	4194304	Value	ValueOutput
+Lyrebrd: Mode	0	4194304	Value	ValueOutput
+Lyrebrd: Delay Time	0	4194304	Value	ValueOutput
+Lyrebrd: Regeneration	0	4194304	Value	ValueOutput
+Lyrebrd: Mix	0	4194304	Value	ValueOutput
+Lyrebrd: Modulation	0	4194304	Value	ValueOutput
+Lyrebrd: Flavour	0	4194304	Value	ValueOutput
+ResQ: Bass Frequency	0	4194304	Value	ValueOutput
+ResQ: Bass Gain (EQ)	0	4194304	Value	ValueOutput
+ResQ: Bass Vol (Res)	0	4194304	Value	ValueOutput
+ResQ: Mid Frequency	0	4194304	Value	ValueOutput
+ResQ: Mid Gain (EQ)	0	4194304	Value	ValueOutput
+ResQ: Mid Vol (Res)	0	4194304	Value	ValueOutput
+ResQ: High Frequency	0	4194304	Value	ValueOutput
+ResQ: High Gain (EQ)	0	4194304	Value	ValueOutput
+ResQ: High Vol (Res)	0	4194304	Value	ValueOutput
+ResQ: Q/Resonance	0	4194304	Value	ValueOutput
+ResQ: Mode	0	4194304	Value	ValueOutput
+Drench: Pre-Delay	0	4194304	Value	ValueOutput
+Drench: Decay	0	4194304	Value	ValueOutput
+Drench: Tone	0	4194304	Value	ValueOutput
+Drench: Dry/Wet Mix	0	4194304	Value	ValueOutput
+SoniCon: Gain	0	4194304	Value	ValueOutput
+SoniCon: Stereo Width	0	4194304	Value	ValueOutput
+SoniCon: Transient	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

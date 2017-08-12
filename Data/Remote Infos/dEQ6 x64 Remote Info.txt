@@ -1,0 +1,120 @@
+Scope
+Manufacturer	Model
+TBProAudio	vst.TBPB.dEQ6 x64
+Note: Will match scope definitions for vst.TBPB.dEQ6 x64 or vst.TBPB
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+OS Mode	0	4194304	Value	ValueOutput
+AB	0	4194304	Value	ValueOutput
+Channel Mode	0	4194304	Value	ValueOutput
+Analyzer Mode	0	4194304	Value	ValueOutput
+SideChain	0	4194304	Value	ValueOutput
+Active 1	0	4194304	Value	ValueOutput
+Type 1	0	4194304	Value	ValueOutput
+ChMode 1	0	4194304	Value	ValueOutput
+Freq 1	0	4194304	Value	ValueOutput
+Q 1	0	4194304	Value	ValueOutput
+Makeup 1	0	4194304	Value	ValueOutput
+Threshold 1	0	4194304	Value	ValueOutput
+Ratio 1	0	4194304	Value	ValueOutput
+Attack 1	0	4194304	Value	ValueOutput
+Release 1	0	4194304	Value	ValueOutput
+Range 1	0	4194304	Value	ValueOutput
+Solo 1	0	4194304	Value	ValueOutput
+ExtSC 1	0	4194304	Value	ValueOutput
+Active 2	0	4194304	Value	ValueOutput
+Type 2	0	4194304	Value	ValueOutput
+ChMode 2	0	4194304	Value	ValueOutput
+Freq 2	0	4194304	Value	ValueOutput
+Q 2	0	4194304	Value	ValueOutput
+Makeup 2	0	4194304	Value	ValueOutput
+Threshold 2	0	4194304	Value	ValueOutput
+Ratio 2	0	4194304	Value	ValueOutput
+Attack 2	0	4194304	Value	ValueOutput
+Release 2	0	4194304	Value	ValueOutput
+Range 2	0	4194304	Value	ValueOutput
+Solo 2	0	4194304	Value	ValueOutput
+ExtSC 2	0	4194304	Value	ValueOutput
+Active 3	0	4194304	Value	ValueOutput
+Type 3	0	4194304	Value	ValueOutput
+ChMode 3	0	4194304	Value	ValueOutput
+Freq 3	0	4194304	Value	ValueOutput
+Q 3	0	4194304	Value	ValueOutput
+Makeup 3	0	4194304	Value	ValueOutput
+Threshold 3	0	4194304	Value	ValueOutput
+Ratio 3	0	4194304	Value	ValueOutput
+Attack 3	0	4194304	Value	ValueOutput
+Release 3	0	4194304	Value	ValueOutput
+Range 3	0	4194304	Value	ValueOutput
+Solo 3	0	4194304	Value	ValueOutput
+ExtSC 3	0	4194304	Value	ValueOutput
+Active 4	0	4194304	Value	ValueOutput
+Type 4	0	4194304	Value	ValueOutput
+ChMode 4	0	4194304	Value	ValueOutput
+Freq 4	0	4194304	Value	ValueOutput
+Q 4	0	4194304	Value	ValueOutput
+Makeup 4	0	4194304	Value	ValueOutput
+Threshold 4	0	4194304	Value	ValueOutput
+Ratio 4	0	4194304	Value	ValueOutput
+Attack 4	0	4194304	Value	ValueOutput
+Release 4	0	4194304	Value	ValueOutput
+Range 4	0	4194304	Value	ValueOutput
+Solo 4	0	4194304	Value	ValueOutput
+ExtSC 4	0	4194304	Value	ValueOutput
+Active 5	0	4194304	Value	ValueOutput
+Type 5	0	4194304	Value	ValueOutput
+ChMode 5	0	4194304	Value	ValueOutput
+Freq 5	0	4194304	Value	ValueOutput
+Q 5	0	4194304	Value	ValueOutput
+Makeup 5	0	4194304	Value	ValueOutput
+Threshold 5	0	4194304	Value	ValueOutput
+Ratio 5	0	4194304	Value	ValueOutput
+Attack 5	0	4194304	Value	ValueOutput
+Release 5	0	4194304	Value	ValueOutput
+Range 5	0	4194304	Value	ValueOutput
+Solo 5	0	4194304	Value	ValueOutput
+ExtSC 5	0	4194304	Value	ValueOutput
+Active 6	0	4194304	Value	ValueOutput
+Type 6	0	4194304	Value	ValueOutput
+ChMode 6	0	4194304	Value	ValueOutput
+Freq 6	0	4194304	Value	ValueOutput
+Q 6	0	4194304	Value	ValueOutput
+Makeup 6	0	4194304	Value	ValueOutput
+Threshold 6	0	4194304	Value	ValueOutput
+Ratio 6	0	4194304	Value	ValueOutput
+Attack 6	0	4194304	Value	ValueOutput
+Release 6	0	4194304	Value	ValueOutput
+Range 6	0	4194304	Value	ValueOutput
+Solo 6	0	4194304	Value	ValueOutput
+ExtSC 6	0	4194304	Value	ValueOutput
+FScale	0	4194304	Value	ValueOutput
+FOffset	0	4194304	Value	ValueOutput
+GScale	0	4194304	Value	ValueOutput
+GOffset	0	4194304	Value	ValueOutput
+DBOffset	0	4194304	Value	ValueOutput
+Slope	0	4194304	Value	ValueOutput
+Spec AGV In	0	4194304	Value	ValueOutput
+Spec Live In	0	4194304	Value	ValueOutput
+Spec AGV Out	0	4194304	Value	ValueOutput
+Spec Live Out	0	4194304	Value	ValueOutput
+Hold	0	4194304	Value	ValueOutput
+Reset	0	4194304	Value	ValueOutput
+Spec Live Out	0	4194304	Value	ValueOutput
+Spec Live Out	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

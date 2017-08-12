@@ -1,0 +1,389 @@
+Scope
+Manufacturer	Model
+LiquidSonics	vst.834p.Reverberate-x64
+Note: Will match scope definitions for vst.834p.Reverberate-x64 or vst.834p
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+ReverbMi	0	4194304	Value	ValueOutput
+WetLockI	0	4194304	Value	ValueOutput
+IR1/2Mix	0	4194304	Value	ValueOutput
+IRMixMod	0	4194304	Value	ValueOutput
+MasterSt	0	4194304	Value	ValueOutput
+MxModOrd	0	4194304	Value	ValueOutput
+IROnOff1	0	4194304	Value	ValueOutput
+IRTplgy1	0	4194304	Value	ValueOutput
+IRWidth1	0	4194304	Value	ValueOutput
+IRNorm1	0	4194304	Value	ValueOutput
+IRGain1	0	4194304	Value	ValueOutput
+IRBal1	0	4194304	Value	ValueOutput
+IRBal1Md	0	4194304	Value	ValueOutput
+IRBal1Ph	0	4194304	Value	ValueOutput
+IR1St	0	4194304	Value	ValueOutput
+Length1	0	4194304	Value	ValueOutput
+CropStrt	0	4194304	Value	ValueOutput
+CropEnd1	0	4194304	Value	ValueOutput
+IRRev1	0	4194304	Value	ValueOutput
+PreDelay	0	4194304	Value	ValueOutput
+Attack1	0	4194304	Value	ValueOutput
+Decay1	0	4194304	Value	ValueOutput
+Sustain1	0	4194304	Value	ValueOutput
+Hold1	0	4194304	Value	ValueOutput
+Release1	0	4194304	Value	ValueOutput
+Atk1Shp	0	4194304	Value	ValueOutput
+Dec1Shp	0	4194304	Value	ValueOutput
+Rel1Shp	0	4194304	Value	ValueOutput
+Atk1ShpI	0	4194304	Value	ValueOutput
+Dec1ShpI	0	4194304	Value	ValueOutput
+Rel1ShpI	0	4194304	Value	ValueOutput
+ERSize1	0	4194304	Value	ValueOutput
+ERDiff1	0	4194304	Value	ValueOutput
+ERDist1	0	4194304	Value	ValueOutput
+ERPos1	0	4194304	Value	ValueOutput
+ERSepr1	0	4194304	Value	ValueOutput
+ERDpth1	0	4194304	Value	ValueOutput
+TailLen1	0	4194304	Value	ValueOutput
+TailDif1	0	4194304	Value	ValueOutput
+TailVrn1	0	4194304	Value	ValueOutput
+TailCnv1	0	4194304	Value	ValueOutput
+IRXCha1	0	4194304	Value	ValueOutput
+IROnOff2	0	4194304	Value	ValueOutput
+IRTplgy2	0	4194304	Value	ValueOutput
+IRWidth2	0	4194304	Value	ValueOutput
+IRNorm2	0	4194304	Value	ValueOutput
+IRGain2	0	4194304	Value	ValueOutput
+IRBal2	0	4194304	Value	ValueOutput
+IRBal2Md	0	4194304	Value	ValueOutput
+IRBal2Ph	0	4194304	Value	ValueOutput
+IR2St	0	4194304	Value	ValueOutput
+Length2	0	4194304	Value	ValueOutput
+CropStrt	0	4194304	Value	ValueOutput
+CropEnd2	0	4194304	Value	ValueOutput
+IRRev2	0	4194304	Value	ValueOutput
+PreDelay	0	4194304	Value	ValueOutput
+Attack2	0	4194304	Value	ValueOutput
+Decay2	0	4194304	Value	ValueOutput
+Sustain2	0	4194304	Value	ValueOutput
+Hold2	0	4194304	Value	ValueOutput
+Release2	0	4194304	Value	ValueOutput
+Atk2Shp	0	4194304	Value	ValueOutput
+Dec2Shp	0	4194304	Value	ValueOutput
+Rel2Shp	0	4194304	Value	ValueOutput
+Atk2ShpI	0	4194304	Value	ValueOutput
+Dec2ShpI	0	4194304	Value	ValueOutput
+Rel2ShpI	0	4194304	Value	ValueOutput
+ERSize2	0	4194304	Value	ValueOutput
+ERDiff2	0	4194304	Value	ValueOutput
+ERDist2	0	4194304	Value	ValueOutput
+ERPos2	0	4194304	Value	ValueOutput
+ERSepr2	0	4194304	Value	ValueOutput
+ERDpth2	0	4194304	Value	ValueOutput
+TailLen2	0	4194304	Value	ValueOutput
+TailDif2	0	4194304	Value	ValueOutput
+TailVrn2	0	4194304	Value	ValueOutput
+TailCnv2	0	4194304	Value	ValueOutput
+IRXCha2	0	4194304	Value	ValueOutput
+IR1Flt	0	4194304	Value	ValueOutput
+IR1Flt1	0	4194304	Value	ValueOutput
+IR1Mode1	0	4194304	Value	ValueOutput
+IR1Freq1	0	4194304	Value	ValueOutput
+IR1Gain1	0	4194304	Value	ValueOutput
+IR1Q1	0	4194304	Value	ValueOutput
+IR1Flt2	0	4194304	Value	ValueOutput
+IR1Mode2	0	4194304	Value	ValueOutput
+IR1Freq2	0	4194304	Value	ValueOutput
+IR1Gain2	0	4194304	Value	ValueOutput
+IR1Q2	0	4194304	Value	ValueOutput
+IR1Flt3	0	4194304	Value	ValueOutput
+IR1Mode3	0	4194304	Value	ValueOutput
+IR1Freq3	0	4194304	Value	ValueOutput
+IR1Gain3	0	4194304	Value	ValueOutput
+IR1Q3	0	4194304	Value	ValueOutput
+IR1Flt4	0	4194304	Value	ValueOutput
+IR1Mode4	0	4194304	Value	ValueOutput
+IR1Freq4	0	4194304	Value	ValueOutput
+IR1Gain4	0	4194304	Value	ValueOutput
+IR1Q4	0	4194304	Value	ValueOutput
+IR1Flt5	0	4194304	Value	ValueOutput
+IR1Mode5	0	4194304	Value	ValueOutput
+IR1Freq5	0	4194304	Value	ValueOutput
+IR1Gain5	0	4194304	Value	ValueOutput
+IR1Q5	0	4194304	Value	ValueOutput
+IR2Flt	0	4194304	Value	ValueOutput
+IR2Flt1	0	4194304	Value	ValueOutput
+IR2Mode1	0	4194304	Value	ValueOutput
+IR2Freq1	0	4194304	Value	ValueOutput
+IR2Gain1	0	4194304	Value	ValueOutput
+IR2Q1	0	4194304	Value	ValueOutput
+IR2Flt2	0	4194304	Value	ValueOutput
+IR2Mode2	0	4194304	Value	ValueOutput
+IR2Freq2	0	4194304	Value	ValueOutput
+IR2Gain2	0	4194304	Value	ValueOutput
+IR2Q2	0	4194304	Value	ValueOutput
+IR2Flt3	0	4194304	Value	ValueOutput
+IR2Mode3	0	4194304	Value	ValueOutput
+IR2Freq3	0	4194304	Value	ValueOutput
+IR2Gain3	0	4194304	Value	ValueOutput
+IR2Q3	0	4194304	Value	ValueOutput
+IR2Flt4	0	4194304	Value	ValueOutput
+IR2Mode4	0	4194304	Value	ValueOutput
+IR2Freq4	0	4194304	Value	ValueOutput
+IR2Gain4	0	4194304	Value	ValueOutput
+IR2Q4	0	4194304	Value	ValueOutput
+IR2Flt5	0	4194304	Value	ValueOutput
+IR2Mode5	0	4194304	Value	ValueOutput
+IR2Freq5	0	4194304	Value	ValueOutput
+IR2Gain5	0	4194304	Value	ValueOutput
+IR2Q5	0	4194304	Value	ValueOutput
+IR1Fq1to	0	4194304	Value	ValueOutput
+IR1Fq1st	0	4194304	Value	ValueOutput
+IR1Fq1en	0	4194304	Value	ValueOutput
+IR1Gn1to	0	4194304	Value	ValueOutput
+IR1Gn1st	0	4194304	Value	ValueOutput
+IR1Gn1en	0	4194304	Value	ValueOutput
+IR1Fq2to	0	4194304	Value	ValueOutput
+IR1Fq2st	0	4194304	Value	ValueOutput
+IR1Fq2en	0	4194304	Value	ValueOutput
+IR1Gn2to	0	4194304	Value	ValueOutput
+IR1Gn2st	0	4194304	Value	ValueOutput
+IR1Gn2en	0	4194304	Value	ValueOutput
+IR1Fq3to	0	4194304	Value	ValueOutput
+IR1Fq3st	0	4194304	Value	ValueOutput
+IR1Fq3en	0	4194304	Value	ValueOutput
+IR1Gn3to	0	4194304	Value	ValueOutput
+IR1Gn3st	0	4194304	Value	ValueOutput
+IR1Gn3en	0	4194304	Value	ValueOutput
+IR1Fq4to	0	4194304	Value	ValueOutput
+IR1Fq4st	0	4194304	Value	ValueOutput
+IR1Fq4en	0	4194304	Value	ValueOutput
+IR1Gn4to	0	4194304	Value	ValueOutput
+IR1Gn4st	0	4194304	Value	ValueOutput
+IR1Gn4en	0	4194304	Value	ValueOutput
+IR1Fq5to	0	4194304	Value	ValueOutput
+IR1Fq5st	0	4194304	Value	ValueOutput
+IR1Fq5en	0	4194304	Value	ValueOutput
+IR1Gn5to	0	4194304	Value	ValueOutput
+IR1Gn5st	0	4194304	Value	ValueOutput
+IR1Gn5en	0	4194304	Value	ValueOutput
+IR2Fq1to	0	4194304	Value	ValueOutput
+IR2Fq1st	0	4194304	Value	ValueOutput
+IR2Fq1en	0	4194304	Value	ValueOutput
+IR2Gn1to	0	4194304	Value	ValueOutput
+IR2Gn1st	0	4194304	Value	ValueOutput
+IR2Gn2en	0	4194304	Value	ValueOutput
+IR2Fq2to	0	4194304	Value	ValueOutput
+IR2Fq2st	0	4194304	Value	ValueOutput
+IR2Fq2en	0	4194304	Value	ValueOutput
+IR2Gn2to	0	4194304	Value	ValueOutput
+IR2Gn2st	0	4194304	Value	ValueOutput
+IR2Gn2en	0	4194304	Value	ValueOutput
+IR2Fq3to	0	4194304	Value	ValueOutput
+IR2Fq3st	0	4194304	Value	ValueOutput
+IR2Fq3en	0	4194304	Value	ValueOutput
+IR2Gn3to	0	4194304	Value	ValueOutput
+IR2Gn3st	0	4194304	Value	ValueOutput
+IR2Gn3en	0	4194304	Value	ValueOutput
+IR2Fq4to	0	4194304	Value	ValueOutput
+IR2Fq4st	0	4194304	Value	ValueOutput
+IR2Fq4en	0	4194304	Value	ValueOutput
+IR2Gn4to	0	4194304	Value	ValueOutput
+IR2Gn4st	0	4194304	Value	ValueOutput
+IR2Gn4en	0	4194304	Value	ValueOutput
+IR2Fq5to	0	4194304	Value	ValueOutput
+IR2Fq5st	0	4194304	Value	ValueOutput
+IR2Fq5en	0	4194304	Value	ValueOutput
+IR2Gn5to	0	4194304	Value	ValueOutput
+IR2Gn5st	0	4194304	Value	ValueOutput
+IR2Gn5en	0	4194304	Value	ValueOutput
+EQ1Frq1S	0	4194304	Value	ValueOutput
+EQ1Frq2S	0	4194304	Value	ValueOutput
+EQ1Frq3S	0	4194304	Value	ValueOutput
+EQ1Frq4S	0	4194304	Value	ValueOutput
+EQ1Frq5S	0	4194304	Value	ValueOutput
+EQ2Frq1S	0	4194304	Value	ValueOutput
+EQ2Frq2S	0	4194304	Value	ValueOutput
+EQ2Frq3S	0	4194304	Value	ValueOutput
+EQ2Frq4S	0	4194304	Value	ValueOutput
+EQ2Frq5S	0	4194304	Value	ValueOutput
+EQ1Gn1S	0	4194304	Value	ValueOutput
+EQ1Gn2S	0	4194304	Value	ValueOutput
+EQ1Gn3S	0	4194304	Value	ValueOutput
+EQ1Gn4S	0	4194304	Value	ValueOutput
+EQ1Gn5S	0	4194304	Value	ValueOutput
+EQ2Gn1S	0	4194304	Value	ValueOutput
+EQ2Gn2S	0	4194304	Value	ValueOutput
+EQ2Gn3S	0	4194304	Value	ValueOutput
+EQ2Gn4S	0	4194304	Value	ValueOutput
+EQ2Gn5S	0	4194304	Value	ValueOutput
+LFO1Rate	0	4194304	Value	ValueOutput
+LFO2Rate	0	4194304	Value	ValueOutput
+LFO3Rate	0	4194304	Value	ValueOutput
+Filters	0	4194304	Value	ValueOutput
+Filter#1	0	4194304	Value	ValueOutput
+Mode #1	0	4194304	Value	ValueOutput
+Freq #1	0	4194304	Value	ValueOutput
+FrqMod#1	0	4194304	Value	ValueOutput
+FrqMPh#1	0	4194304	Value	ValueOutput
+Gain #1	0	4194304	Value	ValueOutput
+GainM#1	0	4194304	Value	ValueOutput
+GainMP#1	0	4194304	Value	ValueOutput
+Q #1	0	4194304	Value	ValueOutput
+Filter#2	0	4194304	Value	ValueOutput
+Mode #2	0	4194304	Value	ValueOutput
+Freq #2	0	4194304	Value	ValueOutput
+FrqMod#2	0	4194304	Value	ValueOutput
+FrqMPh#2	0	4194304	Value	ValueOutput
+Gain #2	0	4194304	Value	ValueOutput
+GainM#2	0	4194304	Value	ValueOutput
+GainMP#2	0	4194304	Value	ValueOutput
+Q #2	0	4194304	Value	ValueOutput
+Filter#3	0	4194304	Value	ValueOutput
+Mode #3	0	4194304	Value	ValueOutput
+Freq #3	0	4194304	Value	ValueOutput
+FrqMod#3	0	4194304	Value	ValueOutput
+FrqMPh#3	0	4194304	Value	ValueOutput
+Gain #3	0	4194304	Value	ValueOutput
+GainM#3	0	4194304	Value	ValueOutput
+GainMP#3	0	4194304	Value	ValueOutput
+Q #3	0	4194304	Value	ValueOutput
+Filter#4	0	4194304	Value	ValueOutput
+Mode #4	0	4194304	Value	ValueOutput
+Freq #4	0	4194304	Value	ValueOutput
+FrqMod#4	0	4194304	Value	ValueOutput
+FrqMPh#4	0	4194304	Value	ValueOutput
+Gain #4	0	4194304	Value	ValueOutput
+GainM#4	0	4194304	Value	ValueOutput
+GainMP#4	0	4194304	Value	ValueOutput
+Q #4	0	4194304	Value	ValueOutput
+Filter#5	0	4194304	Value	ValueOutput
+Mode #5	0	4194304	Value	ValueOutput
+Freq #5	0	4194304	Value	ValueOutput
+FrqMod#5	0	4194304	Value	ValueOutput
+FrqMPh#5	0	4194304	Value	ValueOutput
+Gain #5	0	4194304	Value	ValueOutput
+GainM#5	0	4194304	Value	ValueOutput
+GainMP#5	0	4194304	Value	ValueOutput
+Q #5	0	4194304	Value	ValueOutput
+ChrMFdB	0	4194304	Value	ValueOutput
+ChrMWdth	0	4194304	Value	ValueOutput
+ChrMDry	0	4194304	Value	ValueOutput
+ChrMWet	0	4194304	Value	ValueOutput
+ChrMDly	0	4194304	Value	ValueOutput
+ChrMDlMd	0	4194304	Value	ValueOutput
+ChrMDlRt	0	4194304	Value	ValueOutput
+ChrMTgle	0	4194304	Value	ValueOutput
+Chr1FdB	0	4194304	Value	ValueOutput
+Chr1Wdth	0	4194304	Value	ValueOutput
+Chr1Dry	0	4194304	Value	ValueOutput
+Chr1Wet	0	4194304	Value	ValueOutput
+Chr1Dly	0	4194304	Value	ValueOutput
+Chr1DlMd	0	4194304	Value	ValueOutput
+Chr1DlRt	0	4194304	Value	ValueOutput
+Chr1Tgle	0	4194304	Value	ValueOutput
+Chr2FdB	0	4194304	Value	ValueOutput
+Chr2Wdth	0	4194304	Value	ValueOutput
+Chr2Dry	0	4194304	Value	ValueOutput
+Chr2Wet	0	4194304	Value	ValueOutput
+Chr2Dly	0	4194304	Value	ValueOutput
+Chr2DlMd	0	4194304	Value	ValueOutput
+Chr2DlRt	0	4194304	Value	ValueOutput
+Chr2Tgle	0	4194304	Value	ValueOutput
+IRChain	0	4194304	Value	ValueOutput
+DlyMLDry	0	4194304	Value	ValueOutput
+DlyMLTgl	0	4194304	Value	ValueOutput
+DlyMLDlM	0	4194304	Value	ValueOutput
+DlyMLDlR	0	4194304	Value	ValueOutput
+DlyMLFdB	0	4194304	Value	ValueOutput
+DlyMLFBO	0	4194304	Value	ValueOutput
+DlyMLWet	0	4194304	Value	ValueOutput
+DlyMRTgl	0	4194304	Value	ValueOutput
+DlyMRDlM	0	4194304	Value	ValueOutput
+DlyMRDlR	0	4194304	Value	ValueOutput
+DlyMRFdB	0	4194304	Value	ValueOutput
+DlyMRFBO	0	4194304	Value	ValueOutput
+DlyMRWet	0	4194304	Value	ValueOutput
+DlyM-LkL	0	4194304	Value	ValueOutput
+DlyM-LkR	0	4194304	Value	ValueOutput
+Dly1LDry	0	4194304	Value	ValueOutput
+Dly1LTgl	0	4194304	Value	ValueOutput
+Dly1LDlM	0	4194304	Value	ValueOutput
+Dly1LDlR	0	4194304	Value	ValueOutput
+Dly1LFdB	0	4194304	Value	ValueOutput
+Dly1LFBO	0	4194304	Value	ValueOutput
+Dly1LWet	0	4194304	Value	ValueOutput
+Dly1RTgl	0	4194304	Value	ValueOutput
+Dly1RDlM	0	4194304	Value	ValueOutput
+Dly1RDlR	0	4194304	Value	ValueOutput
+Dly1RFdB	0	4194304	Value	ValueOutput
+Dly1RFBO	0	4194304	Value	ValueOutput
+Dly1RWet	0	4194304	Value	ValueOutput
+Dly1-LkL	0	4194304	Value	ValueOutput
+Dly1-LkR	0	4194304	Value	ValueOutput
+Dly2LDry	0	4194304	Value	ValueOutput
+Dly2LTgl	0	4194304	Value	ValueOutput
+Dly2LDlM	0	4194304	Value	ValueOutput
+Dly2LDlR	0	4194304	Value	ValueOutput
+Dly2LFdB	0	4194304	Value	ValueOutput
+Dly2LFBO	0	4194304	Value	ValueOutput
+Dly2LWet	0	4194304	Value	ValueOutput
+Dly2RTgl	0	4194304	Value	ValueOutput
+Dly2RDlM	0	4194304	Value	ValueOutput
+Dly2RDlR	0	4194304	Value	ValueOutput
+Dly2RFdB	0	4194304	Value	ValueOutput
+Dly2RFBO	0	4194304	Value	ValueOutput
+Dly2RWet	0	4194304	Value	ValueOutput
+Dly2-LkL	0	4194304	Value	ValueOutput
+Dly2-LkR	0	4194304	Value	ValueOutput
+GainLock	0	4194304	Value	ValueOutput
+MixLock	0	4194304	Value	ValueOutput
+STSTog1	0	4194304	Value	ValueOutput
+STSGain1	0	4194304	Value	ValueOutput
+STSFreq1	0	4194304	Value	ValueOutput
+STSFrqT1	0	4194304	Value	ValueOutput
+STSDly1	0	4194304	Value	ValueOutput
+STSTog2	0	4194304	Value	ValueOutput
+STSGain2	0	4194304	Value	ValueOutput
+STSFreq2	0	4194304	Value	ValueOutput
+STSFrqT2	0	4194304	Value	ValueOutput
+STSDly2	0	4194304	Value	ValueOutput
+Prog#Sel	0	4194304	Value	ValueOutput
+ShnWet1	0	4194304	Value	ValueOutput
+ShnWet2	0	4194304	Value	ValueOutput
+IRMixLaw	0	4194304	Value	ValueOutput
+IR1SM-SP	0	4194304	Value	ValueOutput
+IR1SM1Tg	0	4194304	Value	ValueOutput
+IR1SM1MR	0	4194304	Value	ValueOutput
+IR1SM1MD	0	4194304	Value	ValueOutput
+IR1SM2Tg	0	4194304	Value	ValueOutput
+IR1SM2MR	0	4194304	Value	ValueOutput
+IR1SM2MD	0	4194304	Value	ValueOutput
+IR2SM-SP	0	4194304	Value	ValueOutput
+IR2SM1Tg	0	4194304	Value	ValueOutput
+IR2SM1MR	0	4194304	Value	ValueOutput
+IR2SM1MD	0	4194304	Value	ValueOutput
+IR2SM2Tg	0	4194304	Value	ValueOutput
+IR2SM2MR	0	4194304	Value	ValueOutput
+IR2SM2MD	0	4194304	Value	ValueOutput
+FIR1Mix	0	4194304	Value	ValueOutput
+FIR2Mix	0	4194304	Value	ValueOutput
+FIR1Rate	0	4194304	Value	ValueOutput
+FIR2Rate	0	4194304	Value	ValueOutput
+FIR1NoHd	0	4194304	Value	ValueOutput
+FIR2NoHd	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

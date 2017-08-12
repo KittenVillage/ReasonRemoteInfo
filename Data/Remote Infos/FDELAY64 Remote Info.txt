@@ -1,0 +1,112 @@
+Scope
+Manufacturer	Model
+VirSyn	vst.VFDL.FDELAY64
+Note: Will match scope definitions for vst.VFDL.FDELAY64 or vst.VFDL
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Output gain	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Sync	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Y-Mod	0	4194304	Value	ValueOutput
+Cross	0	4194304	Value	ValueOutput
+XPand	0	4194304	Value	ValueOutput
+X-Shift	0	4194304	Value	ValueOutput
+Channel Level 01	0	4194304	Value	ValueOutput
+Channel Level 02	0	4194304	Value	ValueOutput
+Channel Level 03	0	4194304	Value	ValueOutput
+Channel Level 04	0	4194304	Value	ValueOutput
+Channel Level 05	0	4194304	Value	ValueOutput
+Channel Level 06	0	4194304	Value	ValueOutput
+Channel Level 07	0	4194304	Value	ValueOutput
+Channel Level 08	0	4194304	Value	ValueOutput
+Channel Level 09	0	4194304	Value	ValueOutput
+Channel Level 10	0	4194304	Value	ValueOutput
+Channel Level 11	0	4194304	Value	ValueOutput
+Channel Level 12	0	4194304	Value	ValueOutput
+Channel Level 13	0	4194304	Value	ValueOutput
+Channel Level 14	0	4194304	Value	ValueOutput
+Channel Level 15	0	4194304	Value	ValueOutput
+Channel Level 16	0	4194304	Value	ValueOutput
+Channel Level 17	0	4194304	Value	ValueOutput
+Channel Level 18	0	4194304	Value	ValueOutput
+Channel Level 19	0	4194304	Value	ValueOutput
+Channel Level 20	0	4194304	Value	ValueOutput
+Channel Level 21	0	4194304	Value	ValueOutput
+Channel Level 22	0	4194304	Value	ValueOutput
+Channel Level 23	0	4194304	Value	ValueOutput
+Channel Level 24	0	4194304	Value	ValueOutput
+Channel Level 25	0	4194304	Value	ValueOutput
+Channel Level 26	0	4194304	Value	ValueOutput
+Channel Level 27	0	4194304	Value	ValueOutput
+Channel Feedback 01	0	4194304	Value	ValueOutput
+Channel Feedback 02	0	4194304	Value	ValueOutput
+Channel Feedback 03	0	4194304	Value	ValueOutput
+Channel Feedback 04	0	4194304	Value	ValueOutput
+Channel Feedback 05	0	4194304	Value	ValueOutput
+Channel Feedback 06	0	4194304	Value	ValueOutput
+Channel Feedback 07	0	4194304	Value	ValueOutput
+Channel Feedback 08	0	4194304	Value	ValueOutput
+Channel Feedback 09	0	4194304	Value	ValueOutput
+Channel Feedback 10	0	4194304	Value	ValueOutput
+Channel Feedback 11	0	4194304	Value	ValueOutput
+Channel Feedback 12	0	4194304	Value	ValueOutput
+Channel Feedback 13	0	4194304	Value	ValueOutput
+Channel Feedback 14	0	4194304	Value	ValueOutput
+Channel Feedback 15	0	4194304	Value	ValueOutput
+Channel Feedback 16	0	4194304	Value	ValueOutput
+Channel Feedback 17	0	4194304	Value	ValueOutput
+Channel Feedback 18	0	4194304	Value	ValueOutput
+Channel Feedback 19	0	4194304	Value	ValueOutput
+Channel Feedback 20	0	4194304	Value	ValueOutput
+Channel Feedback 21	0	4194304	Value	ValueOutput
+Channel Feedback 22	0	4194304	Value	ValueOutput
+Channel Feedback 23	0	4194304	Value	ValueOutput
+Channel Feedback 24	0	4194304	Value	ValueOutput
+Channel Feedback 25	0	4194304	Value	ValueOutput
+Channel Feedback 26	0	4194304	Value	ValueOutput
+Channel Feedback 27	0	4194304	Value	ValueOutput
+Channel Delay 01	0	4194304	Value	ValueOutput
+Channel Delay 02	0	4194304	Value	ValueOutput
+Channel Delay 03	0	4194304	Value	ValueOutput
+Channel Delay 04	0	4194304	Value	ValueOutput
+Channel Delay 05	0	4194304	Value	ValueOutput
+Channel Delay 06	0	4194304	Value	ValueOutput
+Channel Delay 07	0	4194304	Value	ValueOutput
+Channel Delay 08	0	4194304	Value	ValueOutput
+Channel Delay 09	0	4194304	Value	ValueOutput
+Channel Delay 10	0	4194304	Value	ValueOutput
+Channel Delay 11	0	4194304	Value	ValueOutput
+Channel Delay 12	0	4194304	Value	ValueOutput
+Channel Delay 13	0	4194304	Value	ValueOutput
+Channel Delay 14	0	4194304	Value	ValueOutput
+Channel Delay 15	0	4194304	Value	ValueOutput
+Channel Delay 16	0	4194304	Value	ValueOutput
+Channel Delay 17	0	4194304	Value	ValueOutput
+Channel Delay 18	0	4194304	Value	ValueOutput
+Channel Delay 19	0	4194304	Value	ValueOutput
+Channel Delay 20	0	4194304	Value	ValueOutput
+Channel Delay 21	0	4194304	Value	ValueOutput
+Channel Delay 22	0	4194304	Value	ValueOutput
+Channel Delay 23	0	4194304	Value	ValueOutput
+Channel Delay 24	0	4194304	Value	ValueOutput
+Channel Delay 25	0	4194304	Value	ValueOutput
+Channel Delay 26	0	4194304	Value	ValueOutput
+Channel Delay 27	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

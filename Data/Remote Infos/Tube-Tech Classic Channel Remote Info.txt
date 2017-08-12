@@ -1,0 +1,51 @@
+Scope
+Manufacturer	Model
+Softube	vst.TTCC.Tube-Tech Classic Channel
+Note: Will match scope definitions for vst.TTCC.Tube-Tech Classic Channel or vst.TTCC
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+P LoBost	0	4194304	Value	ValueOutput
+P LoAtt	0	4194304	Value	ValueOutput
+P LoFreq	0	4194304	Value	ValueOutput
+P HiBW	0	4194304	Value	ValueOutput
+P HiBost	0	4194304	Value	ValueOutput
+P HiFreq	0	4194304	Value	ValueOutput
+P HiAtt	0	4194304	Value	ValueOutput
+P AttSel	0	4194304	Value	ValueOutput
+P OutVol	0	4194304	Value	ValueOutput
+M LoFreq	0	4194304	Value	ValueOutput
+M LoPeak	0	4194304	Value	ValueOutput
+M MidFrq	0	4194304	Value	ValueOutput
+M MidDip	0	4194304	Value	ValueOutput
+M HiFreq	0	4194304	Value	ValueOutput
+M HiPeak	0	4194304	Value	ValueOutput
+M OutVol	0	4194304	Value	ValueOutput
+C Gain	0	4194304	Value	ValueOutput
+C Ratio	0	4194304	Value	ValueOutput
+C Thresh	0	4194304	Value	ValueOutput
+C Meter	0	4194304	Value	ValueOutput
+C Attack	0	4194304	Value	ValueOutput
+C Rel	0	4194304	Value	ValueOutput
+C Sel AR	0	4194304	Value	ValueOutput
+C Sidchn	0	4194304	Value	ValueOutput
+PE1C In	0	4194304	Value	ValueOutput
+ME1B In	0	4194304	Value	ValueOutput
+CL1B In	0	4194304	Value	ValueOutput
+CompB4Eq	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

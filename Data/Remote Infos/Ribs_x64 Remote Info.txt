@@ -1,0 +1,136 @@
+Scope
+Manufacturer	Model
+Eugene Yakshin	vst.Ribs.Ribs_x64
+Note: Will match scope definitions for vst.Ribs.Ribs_x64 or vst.Ribs
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+perfomance mode	0	4194304	Value	ValueOutput
+refill mode	0	4194304	Value	ValueOutput
+refill denum	0	4194304	Value	ValueOutput
+refill nom	0	4194304	Value	ValueOutput
+refill all	0	4194304	Value	ValueOutput
+refill this	0	4194304	Value	ValueOutput
+base len denum	0	4194304	Value	ValueOutput
+base len nom	0	4194304	Value	ValueOutput
+play rate	0	4194304	Value	ValueOutput
+wobble amount	0	4194304	Value	ValueOutput
+wobble freq	0	4194304	Value	ValueOutput
+wobble internal	0	4194304	Value	ValueOutput
+wobble external	0	4194304	Value	ValueOutput
+wobble sync voices	0	4194304	Value	ValueOutput
+step	0	4194304	Value	ValueOutput
+step *_ base len	0	4194304	Value	ValueOutput
+step *_ repeat	0	4194304	Value	ValueOutput
+step *_ playrate	0	4194304	Value	ValueOutput
+repeat	0	4194304	Value	ValueOutput
+error int	0	4194304	Value	ValueOutput
+error ext	0	4194304	Value	ValueOutput
+preserve pos while err	0	4194304	Value	ValueOutput
+return playhead	0	4194304	Value	ValueOutput
+wrap/mirror	0	4194304	Value	ValueOutput
+playhead position	0	4194304	Value	ValueOutput
+playhead glide	0	4194304	Value	ValueOutput
+selection start	0	4194304	Value	ValueOutput
+selection end	0	4194304	Value	ValueOutput
+clear selection	0	4194304	Value	ValueOutput
+select this/all	0	4194304	Value	ValueOutput
+buffer size (sec)	0	4194304	Value	ValueOutput
+own/common buf	0	4194304	Value	ValueOutput
+picked buffer	0	4194304	Value	ValueOutput
+request picked buf	0	4194304	Value	ValueOutput
+grain overlap	0	4194304	Value	ValueOutput
+window type	0	4194304	Value	ValueOutput
+gaps probability	0	4194304	Value	ValueOutput
+gaps mono/stereo	0	4194304	Value	ValueOutput
+input fills gaps	0	4194304	Value	ValueOutput
+env A	0	4194304	Value	ValueOutput
+env D	0	4194304	Value	ValueOutput
+env S	0	4194304	Value	ValueOutput
+env R	0	4194304	Value	ValueOutput
+rearticulate fwd	0	4194304	Value	ValueOutput
+rearticulate back	0	4194304	Value	ValueOutput
+flt env A	0	4194304	Value	ValueOutput
+flt env D	0	4194304	Value	ValueOutput
+flt env S	0	4194304	Value	ValueOutput
+flt env R	0	4194304	Value	ValueOutput
+flt on/off	0	4194304	Value	ValueOutput
+flt model	0	4194304	Value	ValueOutput
+flt pass type	0	4194304	Value	ValueOutput
+flt freq	0	4194304	Value	ValueOutput
+flt q	0	4194304	Value	ValueOutput
+flt follows note	0	4194304	Value	ValueOutput
+flt freq shift	0	4194304	Value	ValueOutput
+flt envelope	0	4194304	Value	ValueOutput
+flt prop playrate	0	4194304	Value	ValueOutput
+auto gain amnt	0	4194304	Value	ValueOutput
+agc local/global	0	4194304	Value	ValueOutput
+agc hardness	0	4194304	Value	ValueOutput
+agc speed	0	4194304	Value	ValueOutput
+DC removal	0	4194304	Value	ValueOutput
+active voices	0	4194304	Value	ValueOutput
+poly/mono	0	4194304	Value	ValueOutput
+glide	0	4194304	Value	ValueOutput
+glide head	0	4194304	Value	ValueOutput
+glide in release	0	4194304	Value	ValueOutput
+beat num C	0	4194304	Value	ValueOutput
+beat den C	0	4194304	Value	ValueOutput
+beat num C#	0	4194304	Value	ValueOutput
+beat den C#	0	4194304	Value	ValueOutput
+beat num D	0	4194304	Value	ValueOutput
+beat den D	0	4194304	Value	ValueOutput
+beat num D#	0	4194304	Value	ValueOutput
+beat den D#	0	4194304	Value	ValueOutput
+beat num E	0	4194304	Value	ValueOutput
+beat den E	0	4194304	Value	ValueOutput
+beat num F	0	4194304	Value	ValueOutput
+beat den F	0	4194304	Value	ValueOutput
+beat num F#	0	4194304	Value	ValueOutput
+beat den F#	0	4194304	Value	ValueOutput
+beat num G	0	4194304	Value	ValueOutput
+beat den G	0	4194304	Value	ValueOutput
+beat num G#	0	4194304	Value	ValueOutput
+beat den G#	0	4194304	Value	ValueOutput
+beat num A	0	4194304	Value	ValueOutput
+beat den A	0	4194304	Value	ValueOutput
+beat num A#	0	4194304	Value	ValueOutput
+beat den A#	0	4194304	Value	ValueOutput
+beat num B	0	4194304	Value	ValueOutput
+beat den B	0	4194304	Value	ValueOutput
+extrude input	0	4194304	Value	ValueOutput
+mix	0	4194304	Value	ValueOutput
+amp	0	4194304	Value	ValueOutput
+MIDI Panic	0	4194304	Value	ValueOutput
+?	0	4194304	Value	ValueOutput
+buf min visible	0	4194304	Value	ValueOutput
+buf max visible	0	4194304	Value	ValueOutput
+use for C	0	4194304	Value	ValueOutput
+use for C#	0	4194304	Value	ValueOutput
+use for D	0	4194304	Value	ValueOutput
+use for D#	0	4194304	Value	ValueOutput
+use for E	0	4194304	Value	ValueOutput
+use for F	0	4194304	Value	ValueOutput
+use for F#	0	4194304	Value	ValueOutput
+use for G	0	4194304	Value	ValueOutput
+use for G#	0	4194304	Value	ValueOutput
+use for A	0	4194304	Value	ValueOutput
+use for A#	0	4194304	Value	ValueOutput
+use for B	0	4194304	Value	ValueOutput
+per buf input	0	4194304	Value	ValueOutput
+ 	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,53 @@
+Scope
+Manufacturer	Model
+Sonic Anomaly	vst.QCOM.QuadraCom_x64
+Note: Will match scope definitions for vst.QCOM.QuadraCom_x64 or vst.QCOM
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+LO Compress	0	4194304	Value	ValueOutput
+LM Compress	0	4194304	Value	ValueOutput
+HM Compress	0	4194304	Value	ValueOutput
+HI Compress	0	4194304	Value	ValueOutput
+Compressor	0	4194304	Value	ValueOutput
+LO Transient	0	4194304	Value	ValueOutput
+LM Transient	0	4194304	Value	ValueOutput
+HM Transient	0	4194304	Value	ValueOutput
+HI Transient	0	4194304	Value	ValueOutput
+Transient	0	4194304	Value	ValueOutput
+LO Gain	0	4194304	Value	ValueOutput
+LM Gain	0	4194304	Value	ValueOutput
+HM Gain	0	4194304	Value	ValueOutput
+HI Gain	0	4194304	Value	ValueOutput
+EQ	0	4194304	Value	ValueOutput
+LO Solo	0	4194304	Value	ValueOutput
+LM Solo	0	4194304	Value	ValueOutput
+HM Solo	0	4194304	Value	ValueOutput
+HI Solo	0	4194304	Value	ValueOutput
+LO Bypass	0	4194304	Value	ValueOutput
+LM Bypass	0	4194304	Value	ValueOutput
+HM Bypass	0	4194304	Value	ValueOutput
+HI Bypass	0	4194304	Value	ValueOutput
+Inertia	0	4194304	Value	ValueOutput
+Punch	0	4194304	Value	ValueOutput
+M-S Balance	0	4194304	Value	ValueOutput
+Stereo/M-S	0	4194304	Value	ValueOutput
+Mix Level	0	4194304	Value	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

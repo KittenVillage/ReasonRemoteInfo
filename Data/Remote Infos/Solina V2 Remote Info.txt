@@ -1,0 +1,115 @@
+Scope
+Manufacturer	Model
+Arturia	vst.Sol2.Solina V2
+Note: Will match scope definitions for vst.Sol2.Solina V2 or vst.Sol2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Poly Mode	0	4194304	Value	ValueOutput
+Velocity Level	0	4194304	Value	ValueOutput
+Velocity Brightness	0	4194304	Value	ValueOutput
+Aftertouch Level	0	4194304	Value	ValueOutput
+Aftertouch Brightness	0	4194304	Value	ValueOutput
+LFO Delay	0	4194304	Value	ValueOutput
+LFO Fade	0	4194304	Value	ValueOutput
+LFO Waveform	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Sync	0	4194304	Value	ValueOutput
+LFO Ratio	0	4194304	Value	ValueOutput
+LFO Retrigger	0	4194304	Value	ValueOutput
+Vibrato	0	4194304	Value	ValueOutput
+Tremolo	0	4194304	Value	ValueOutput
+VCF Cutoff	0	4194304	Value	ValueOutput
+VCF Resonance	0	4194304	Value	ValueOutput
+VCF Modulation	0	4194304	Value	ValueOutput
+VCF Envelope	0	4194304	Value	ValueOutput
+VCF Attack	0	4194304	Value	ValueOutput
+VCF Release	0	4194304	Value	ValueOutput
+Arp On/Off	0	4194304	Value	ValueOutput
+Arp Rate	0	4194304	Value	ValueOutput
+Arp Sync	0	4194304	Value	ValueOutput
+Arp Ratio	0	4194304	Value	ValueOutput
+Arp Mode	0	4194304	Value	ValueOutput
+Contrabass	0	4194304	Value	ValueOutput
+Cello	0	4194304	Value	ValueOutput
+Bass Sustain	0	4194304	Value	ValueOutput
+Bass Volume	0	4194304	Value	ValueOutput
+Viola	0	4194304	Value	ValueOutput
+Violin	0	4194304	Value	ValueOutput
+Trumpet	0	4194304	Value	ValueOutput
+Horn	0	4194304	Value	ValueOutput
+Humana	0	4194304	Value	ValueOutput
+Upper Sustain	0	4194304	Value	ValueOutput
+Upper Volume	0	4194304	Value	ValueOutput
+Resonator Mode	0	4194304	Value	ValueOutput
+Resonator Cutoff 1	0	4194304	Value	ValueOutput
+Resonator Resonance 1	0	4194304	Value	ValueOutput
+Resonator Gain 1	0	4194304	Value	ValueOutput
+Resonator Cutoff 2	0	4194304	Value	ValueOutput
+Resonator Resonance 2	0	4194304	Value	ValueOutput
+Resonator Gain 2	0	4194304	Value	ValueOutput
+Resonator Cutoff 3	0	4194304	Value	ValueOutput
+Resonator Resonance 3	0	4194304	Value	ValueOutput
+Resonator Gain 3	0	4194304	Value	ValueOutput
+Crescendo	0	4194304	Value	ValueOutput
+Ensemble On/Off	0	4194304	Value	ValueOutput
+Ensemble Stereo	0	4194304	Value	ValueOutput
+FX 1 Type	0	4194304	Value	ValueOutput
+FX 1 Mix	0	4194304	Value	ValueOutput
+Phaser Rate 1	0	4194304	Value	ValueOutput
+Phaser Ratio 1	0	4194304	Value	ValueOutput
+Phaser Feedback 1	0	4194304	Value	ValueOutput
+Phaser Depth 1	0	4194304	Value	ValueOutput
+Phaser Dual Mode	0	4194304	Value	ValueOutput
+Phaser Rate 2	0	4194304	Value	ValueOutput
+Phaser Ratio 2	0	4194304	Value	ValueOutput
+Phaser Feedback 2	0	4194304	Value	ValueOutput
+Phaser Depth 2	0	4194304	Value	ValueOutput
+Phaser Sync	0	4194304	Value	ValueOutput
+Chorus Type	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Amount	0	4194304	Value	ValueOutput
+Chorus Stereo Rate	0	4194304	Value	ValueOutput
+Chorus Stereo Width	0	4194304	Value	ValueOutput
+Chorus Delay	0	4194304	Value	ValueOutput
+FX 2 Type	0	4194304	Value	ValueOutput
+FX 2 Mix	0	4194304	Value	ValueOutput
+Analog Delay Time	0	4194304	Value	ValueOutput
+Analog Delay Feedback	0	4194304	Value	ValueOutput
+Analog Delay FB Tone	0	4194304	Value	ValueOutput
+Analog Delay LFO Depth	0	4194304	Value	ValueOutput
+Analog Delay LFO Rate	0	4194304	Value	ValueOutput
+Digital Delay Time 1	0	4194304	Value	ValueOutput
+Digital Delay Ratio 1	0	4194304	Value	ValueOutput
+Digital Delay Feedback 1	0	4194304	Value	ValueOutput
+Digital Delay Link	0	4194304	Value	ValueOutput
+Digital Delay Time 2	0	4194304	Value	ValueOutput
+Digital Delay Ratio 2	0	4194304	Value	ValueOutput
+Digital Delay Feedback 2	0	4194304	Value	ValueOutput
+Digital Delay Ping-Pong	0	4194304	Value	ValueOutput
+Digital Delay Damping	0	4194304	Value	ValueOutput
+Digital Delay Sync	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Reverb Model	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Mod Amount	0	4194304	Value	ValueOutput
+Mod Wheel	0	4194304	Value	ValueOutput
+Pitch Amount	0	4194304	Value	ValueOutput
+Previous Preset	0	4194304	Value	ValueOutput
+Next Preset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

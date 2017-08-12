@@ -1,0 +1,151 @@
+Scope
+Manufacturer	Model
+Infected Mushroom	vst.PvMn.Manipulator
+Note: Will match scope definitions for vst.PvMn.Manipulator or vst.PvMn
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Formant	0	4194304	Value	ValueOutput
+Pitch	0	4194304	Value	ValueOutput
+Ratio	0	4194304	Value	ValueOutput
+Harmonics	0	4194304	Value	ValueOutput
+FM	0	4194304	Value	ValueOutput
+Alternator	0	4194304	Value	ValueOutput
+Octave	0	4194304	Value	ValueOutput
+Wetdry	0	4194304	Value	ValueOutput
+Stereo	0	4194304	Value	ValueOutput
+Smear	0	4194304	Value	ValueOutput
+Detune	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Smooth	0	4194304	Value	ValueOutput
+Formant_mod1	0	4194304	Value	ValueOutput
+Formant_mod2	0	4194304	Value	ValueOutput
+Formant_mod3	0	4194304	Value	ValueOutput
+Formant_mod4	0	4194304	Value	ValueOutput
+Pitch_mod1	0	4194304	Value	ValueOutput
+Pitch_mod2	0	4194304	Value	ValueOutput
+Pitch_mod3	0	4194304	Value	ValueOutput
+Pitch_mod4	0	4194304	Value	ValueOutput
+Ratio_mod1	0	4194304	Value	ValueOutput
+Ratio_mod2	0	4194304	Value	ValueOutput
+Ratio_mod3	0	4194304	Value	ValueOutput
+Ratio_mod4	0	4194304	Value	ValueOutput
+Harmonics_mod1	0	4194304	Value	ValueOutput
+Harmonics_mod2	0	4194304	Value	ValueOutput
+Harmonics_mod3	0	4194304	Value	ValueOutput
+Harmonics_mod4	0	4194304	Value	ValueOutput
+FM_mod1	0	4194304	Value	ValueOutput
+FM_mod2	0	4194304	Value	ValueOutput
+FM_mod3	0	4194304	Value	ValueOutput
+FM_mod4	0	4194304	Value	ValueOutput
+Alternator_mod1	0	4194304	Value	ValueOutput
+Alternator_mod2	0	4194304	Value	ValueOutput
+Alternator_mod3	0	4194304	Value	ValueOutput
+Alternator_mod4	0	4194304	Value	ValueOutput
+Octave_mod1	0	4194304	Value	ValueOutput
+Octave_mod2	0	4194304	Value	ValueOutput
+Octave_mod3	0	4194304	Value	ValueOutput
+Octave_mod4	0	4194304	Value	ValueOutput
+Slot1_mod2	0	4194304	Value	ValueOutput
+Slot1_mod3	0	4194304	Value	ValueOutput
+Slot1_mod4	0	4194304	Value	ValueOutput
+Slot2_mod1	0	4194304	Value	ValueOutput
+Slot2_mod3	0	4194304	Value	ValueOutput
+Slot2_mod4	0	4194304	Value	ValueOutput
+Slot3_mod1	0	4194304	Value	ValueOutput
+Slot3_mod2	0	4194304	Value	ValueOutput
+Slot3_mod4	0	4194304	Value	ValueOutput
+Slot4_mod1	0	4194304	Value	ValueOutput
+Slot4_mod2	0	4194304	Value	ValueOutput
+Slot4_mod3	0	4194304	Value	ValueOutput
+MetaKnobSnap1	0	4194304	Value	ValueOutput
+MetaKnobSnap2	0	4194304	Value	ValueOutput
+MetaKnobSnap3	0	4194304	Value	ValueOutput
+MetaKnobSnap4	0	4194304	Value	ValueOutput
+MetaKnobUniBi1	0	4194304	Value	ValueOutput
+MetaKnobUniBi2	0	4194304	Value	ValueOutput
+MetaKnobUniBi3	0	4194304	Value	ValueOutput
+MetaKnobUniBi4	0	4194304	Value	ValueOutput
+Follower1_Attack	0	4194304	Value	ValueOutput
+Follower1_Releas	0	4194304	Value	ValueOutput
+Follower2_Attack	0	4194304	Value	ValueOutput
+Follower2_Releas	0	4194304	Value	ValueOutput
+Follower3_Attack	0	4194304	Value	ValueOutput
+Follower3_Releas	0	4194304	Value	ValueOutput
+Follower4_Attack	0	4194304	Value	ValueOutput
+Follower4_Releas	0	4194304	Value	ValueOutput
+Envelope1_Attack	0	4194304	Value	ValueOutput
+Envelope1_Decay	0	4194304	Value	ValueOutput
+Envelope1_Sustai	0	4194304	Value	ValueOutput
+Envelope1_Releas	0	4194304	Value	ValueOutput
+Envelope2_Attack	0	4194304	Value	ValueOutput
+Envelope2_Decay	0	4194304	Value	ValueOutput
+Envelope2_Sustai	0	4194304	Value	ValueOutput
+Envelope2_Releas	0	4194304	Value	ValueOutput
+Envelope3_Attack	0	4194304	Value	ValueOutput
+Envelope3_Decay	0	4194304	Value	ValueOutput
+Envelope3_Sustai	0	4194304	Value	ValueOutput
+Envelope3_Releas	0	4194304	Value	ValueOutput
+Envelope4_Attack	0	4194304	Value	ValueOutput
+Envelope4_Decay	0	4194304	Value	ValueOutput
+Envelope4_Sustai	0	4194304	Value	ValueOutput
+Envelope4_Releas	0	4194304	Value	ValueOutput
+MidiControl1	0	4194304	Value	ValueOutput
+MidiControl2	0	4194304	Value	ValueOutput
+MidiControl3	0	4194304	Value	ValueOutput
+MidiControl4	0	4194304	Value	ValueOutput
+Seq1_Rate	0	4194304	Value	ValueOutput
+Seq1_Shape	0	4194304	Value	ValueOutput
+Seq2_Rate	0	4194304	Value	ValueOutput
+Seq2_Shape	0	4194304	Value	ValueOutput
+Seq3_Rate	0	4194304	Value	ValueOutput
+Seq3_Shape	0	4194304	Value	ValueOutput
+Seq4_Rate	0	4194304	Value	ValueOutput
+Seq4_Shape	0	4194304	Value	ValueOutput
+Seq1_Sync	0	4194304	Value	ValueOutput
+Seq1_Retrig	0	4194304	Value	ValueOutput
+Seq2_Sync	0	4194304	Value	ValueOutput
+Seq2_Retrig	0	4194304	Value	ValueOutput
+Seq3_Sync	0	4194304	Value	ValueOutput
+Seq3_Retrig	0	4194304	Value	ValueOutput
+Seq4_Sync	0	4194304	Value	ValueOutput
+Seq4_Retrig	0	4194304	Value	ValueOutput
+Gate_Attack	0	4194304	Value	ValueOutput
+Gate_Release	0	4194304	Value	ValueOutput
+Debug1	0	4194304	Value	ValueOutput
+Debug2	0	4194304	Value	ValueOutput
+Debug3	0	4194304	Value	ValueOutput
+Debug4	0	4194304	Value	ValueOutput
+MetaKnob1	0	4194304	Value	ValueOutput
+MetaKnob2	0	4194304	Value	ValueOutput
+MetaKnob3	0	4194304	Value	ValueOutput
+MetaKnob4	0	4194304	Value	ValueOutput
+Seq1_Pattern	0	4194304	Value	ValueOutput
+Seq2_Pattern	0	4194304	Value	ValueOutput
+Seq3_Pattern	0	4194304	Value	ValueOutput
+Seq4_Pattern	0	4194304	Value	ValueOutput
+Slot1_Select	0	4194304	Value	ValueOutput
+Slot2_Select	0	4194304	Value	ValueOutput
+Slot3_Select	0	4194304	Value	ValueOutput
+Slot4_Select	0	4194304	Value	ValueOutput
+Slot1_Power	0	4194304	Value	ValueOutput
+Slot2_Power	0	4194304	Value	ValueOutput
+Slot3_Power	0	4194304	Value	ValueOutput
+Slot4_Power	0	4194304	Value	ValueOutput
+GlideMidiOnly	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,64 @@
+Scope
+Manufacturer	Model
+MeldaProduction	vst.MTuE.MTurboEQ x64
+Note: Will match scope definitions for vst.MTuE.MTurboEQ x64 or vst.MTuE
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input gain	0	4194304	Value	ValueOutput
+Dry/wet	0	4194304	Value	ValueOutput
+Saturation	0	4194304	Value	ValueOutput
+Param 4	0	4194304	Value	ValueOutput
+High-pass	0	4194304	Value	ValueOutput
+Low-pass	0	4194304	Value	ValueOutput
+Param 7	0	4194304	Value	ValueOutput
+Param 8	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Frequency	0	4194304	Value	ValueOutput
+Param 11	0	4194304	Value	ValueOutput
+Param 12	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Frequency	0	4194304	Value	ValueOutput
+Param 15	0	4194304	Value	ValueOutput
+Param 16	0	4194304	Value	ValueOutput
+Gain 1	0	4194304	Value	ValueOutput
+Gain 2	0	4194304	Value	ValueOutput
+Gain 3	0	4194304	Value	ValueOutput
+Gain 4	0	4194304	Value	ValueOutput
+Param 21	0	4194304	Value	ValueOutput
+Param 22	0	4194304	Value	ValueOutput
+Frequency 1	0	4194304	Value	ValueOutput
+Frequency 2	0	4194304	Value	ValueOutput
+Frequency  3	0	4194304	Value	ValueOutput
+Frequency 4	0	4194304	Value	ValueOutput
+Param 27	0	4194304	Value	ValueOutput
+Param 28	0	4194304	Value	ValueOutput
+Param 29	0	4194304	Value	ValueOutput
+Param 30	0	4194304	Value	ValueOutput
+Param 31	0	4194304	Value	ValueOutput
+Param 32	0	4194304	Value	ValueOutput
+Param 33	0	4194304	Value	ValueOutput
+Param 34	0	4194304	Value	ValueOutput
+Param 35	0	4194304	Value	ValueOutput
+Param 36	0	4194304	Value	ValueOutput
+Param 37	0	4194304	Value	ValueOutput
+Param 38	0	4194304	Value	ValueOutput
+Param 39	0	4194304	Value	ValueOutput
+Param 40	0	4194304	Value	ValueOutput
+Active preset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

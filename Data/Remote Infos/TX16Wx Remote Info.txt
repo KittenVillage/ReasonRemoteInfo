@@ -1,0 +1,151 @@
+Scope
+Manufacturer	Model
+CWITEC	vst.TX16.TX16Wx
+Note: Will match scope definitions for vst.TX16.TX16Wx or vst.TX16
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Param000	0	4194304	Value	ValueOutput
+Param001	0	4194304	Value	ValueOutput
+Param002	0	4194304	Value	ValueOutput
+Param003	0	4194304	Value	ValueOutput
+Param004	0	4194304	Value	ValueOutput
+Param005	0	4194304	Value	ValueOutput
+Param006	0	4194304	Value	ValueOutput
+Param007	0	4194304	Value	ValueOutput
+Param008	0	4194304	Value	ValueOutput
+Param009	0	4194304	Value	ValueOutput
+Param010	0	4194304	Value	ValueOutput
+Param011	0	4194304	Value	ValueOutput
+Param012	0	4194304	Value	ValueOutput
+Param013	0	4194304	Value	ValueOutput
+Param014	0	4194304	Value	ValueOutput
+Param015	0	4194304	Value	ValueOutput
+Param016	0	4194304	Value	ValueOutput
+Param017	0	4194304	Value	ValueOutput
+Param018	0	4194304	Value	ValueOutput
+Param019	0	4194304	Value	ValueOutput
+Param020	0	4194304	Value	ValueOutput
+Param021	0	4194304	Value	ValueOutput
+Param022	0	4194304	Value	ValueOutput
+Param023	0	4194304	Value	ValueOutput
+Param024	0	4194304	Value	ValueOutput
+Param025	0	4194304	Value	ValueOutput
+Param026	0	4194304	Value	ValueOutput
+Param027	0	4194304	Value	ValueOutput
+Param028	0	4194304	Value	ValueOutput
+Param029	0	4194304	Value	ValueOutput
+Param030	0	4194304	Value	ValueOutput
+Param031	0	4194304	Value	ValueOutput
+Param032	0	4194304	Value	ValueOutput
+Param033	0	4194304	Value	ValueOutput
+Param034	0	4194304	Value	ValueOutput
+Param035	0	4194304	Value	ValueOutput
+Param036	0	4194304	Value	ValueOutput
+Param037	0	4194304	Value	ValueOutput
+Param038	0	4194304	Value	ValueOutput
+Param039	0	4194304	Value	ValueOutput
+Param040	0	4194304	Value	ValueOutput
+Param041	0	4194304	Value	ValueOutput
+Param042	0	4194304	Value	ValueOutput
+Param043	0	4194304	Value	ValueOutput
+Param044	0	4194304	Value	ValueOutput
+Param045	0	4194304	Value	ValueOutput
+Param046	0	4194304	Value	ValueOutput
+Param047	0	4194304	Value	ValueOutput
+Param048	0	4194304	Value	ValueOutput
+Param049	0	4194304	Value	ValueOutput
+Param050	0	4194304	Value	ValueOutput
+Param051	0	4194304	Value	ValueOutput
+Param052	0	4194304	Value	ValueOutput
+Param053	0	4194304	Value	ValueOutput
+Param054	0	4194304	Value	ValueOutput
+Param055	0	4194304	Value	ValueOutput
+Param056	0	4194304	Value	ValueOutput
+Param057	0	4194304	Value	ValueOutput
+Param058	0	4194304	Value	ValueOutput
+Param059	0	4194304	Value	ValueOutput
+Param060	0	4194304	Value	ValueOutput
+Param061	0	4194304	Value	ValueOutput
+Param062	0	4194304	Value	ValueOutput
+Param063	0	4194304	Value	ValueOutput
+Param064	0	4194304	Value	ValueOutput
+Param065	0	4194304	Value	ValueOutput
+Param066	0	4194304	Value	ValueOutput
+Param067	0	4194304	Value	ValueOutput
+Param068	0	4194304	Value	ValueOutput
+Param069	0	4194304	Value	ValueOutput
+Param070	0	4194304	Value	ValueOutput
+Param071	0	4194304	Value	ValueOutput
+Param072	0	4194304	Value	ValueOutput
+Param073	0	4194304	Value	ValueOutput
+Param074	0	4194304	Value	ValueOutput
+Param075	0	4194304	Value	ValueOutput
+Param076	0	4194304	Value	ValueOutput
+Param077	0	4194304	Value	ValueOutput
+Param078	0	4194304	Value	ValueOutput
+Param079	0	4194304	Value	ValueOutput
+Param080	0	4194304	Value	ValueOutput
+Param081	0	4194304	Value	ValueOutput
+Param082	0	4194304	Value	ValueOutput
+Param083	0	4194304	Value	ValueOutput
+Param084	0	4194304	Value	ValueOutput
+Param085	0	4194304	Value	ValueOutput
+Param086	0	4194304	Value	ValueOutput
+Param087	0	4194304	Value	ValueOutput
+Param088	0	4194304	Value	ValueOutput
+Param089	0	4194304	Value	ValueOutput
+Param090	0	4194304	Value	ValueOutput
+Param091	0	4194304	Value	ValueOutput
+Param092	0	4194304	Value	ValueOutput
+Param093	0	4194304	Value	ValueOutput
+Param094	0	4194304	Value	ValueOutput
+Param095	0	4194304	Value	ValueOutput
+Param096	0	4194304	Value	ValueOutput
+Param097	0	4194304	Value	ValueOutput
+Param098	0	4194304	Value	ValueOutput
+Param099	0	4194304	Value	ValueOutput
+Param100	0	4194304	Value	ValueOutput
+Param101	0	4194304	Value	ValueOutput
+Param102	0	4194304	Value	ValueOutput
+Param103	0	4194304	Value	ValueOutput
+Param104	0	4194304	Value	ValueOutput
+Param105	0	4194304	Value	ValueOutput
+Param106	0	4194304	Value	ValueOutput
+Param107	0	4194304	Value	ValueOutput
+Param108	0	4194304	Value	ValueOutput
+Param109	0	4194304	Value	ValueOutput
+Param110	0	4194304	Value	ValueOutput
+Param111	0	4194304	Value	ValueOutput
+Param112	0	4194304	Value	ValueOutput
+Param113	0	4194304	Value	ValueOutput
+Param114	0	4194304	Value	ValueOutput
+Param115	0	4194304	Value	ValueOutput
+Param116	0	4194304	Value	ValueOutput
+Param117	0	4194304	Value	ValueOutput
+Param118	0	4194304	Value	ValueOutput
+Param119	0	4194304	Value	ValueOutput
+Param120	0	4194304	Value	ValueOutput
+Param121	0	4194304	Value	ValueOutput
+Param122	0	4194304	Value	ValueOutput
+Param123	0	4194304	Value	ValueOutput
+Param124	0	4194304	Value	ValueOutput
+Param125	0	4194304	Value	ValueOutput
+Param126	0	4194304	Value	ValueOutput
+Param127	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

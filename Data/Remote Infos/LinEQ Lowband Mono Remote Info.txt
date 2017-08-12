@@ -1,0 +1,43 @@
+Scope
+Manufacturer	Model
+Waves	vst.LQSM.WaveShell-VST 9_91_x64.LinEQ Lowband Mono
+Note: Will match scope definitions for vst.LQSM.WaveShell-VST 9_91_x64.LinEQ Lowband Mono or vst.LQSM
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Band1 On/Off	0	4194304	Value	ValueOutput
+Band1 Type	0	4194304	Value	ValueOutput
+Band1 Gain	0	4194304	Value	ValueOutput
+Band1 Frq	0	4194304	Value	ValueOutput
+Band1 Q	0	4194304	Value	ValueOutput
+Band2 On/Off	0	4194304	Value	ValueOutput
+Band2 Type	0	4194304	Value	ValueOutput
+Band2 Gain	0	4194304	Value	ValueOutput
+Band2 Frq	0	4194304	Value	ValueOutput
+Band2 Q	0	4194304	Value	ValueOutput
+Band3 On/Off	0	4194304	Value	ValueOutput
+Band3 Type	0	4194304	Value	ValueOutput
+Band3 Gain	0	4194304	Value	ValueOutput
+Band3 Frq	0	4194304	Value	ValueOutput
+Band3 Q	0	4194304	Value	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Trim	0	4194304	Value	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+Dither type	0	4194304	Value	ValueOutput
+Method	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

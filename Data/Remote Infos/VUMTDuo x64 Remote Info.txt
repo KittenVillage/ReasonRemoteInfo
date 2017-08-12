@@ -1,0 +1,44 @@
+Scope
+Manufacturer	Model
+Klanghelm	vst.VUTd.VUMTDuo x64
+Note: Will match scope definitions for vst.VUTd.VUMTDuo x64 or vst.VUTd
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Channel Mode	0	4194304	Value	ValueOutput
+Skin	0	4194304	Value	ValueOutput
+Out Ch 1	0	4194304	Value	ValueOutput
+Out Ch 2	0	4194304	Value	ValueOutput
+VU Reference Level	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Peak Reference Level	0	4194304	Value	ValueOutput
+Clip Reference Level	0	4194304	Value	ValueOutput
+Clip Hold	0	4194304	Value	ValueOutput
+Link	0	4194304	Value	ValueOutput
+Mid	0	4194304	Value	ValueOutput
+Side	0	4194304	Value	ValueOutput
+Show VU/Peak Values	0	4194304	Value	ValueOutput
+Show Hold Needle	0	4194304	Value	ValueOutput
+PPM Rise	0	4194304	Value	ValueOutput
+PPM Fallback	0	4194304	Value	ValueOutput
+VU Rise	0	4194304	Value	ValueOutput
+VU Fallback	0	4194304	Value	ValueOutput
+Overshoot	0	4194304	Value	ValueOutput
+Settings	0	4194304	Value	ValueOutput
+PPM Reference Level	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

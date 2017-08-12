@@ -1,0 +1,42 @@
+Scope
+Manufacturer	Model
+Xfer Records	vst.XfTT.OTT_x64
+Note: Will match scope definitions for vst.XfTT.OTT_x64 or vst.XfTT
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Time	0	4194304	Value	ValueOutput
+In Gain	0	4194304	Value	ValueOutput
+Out Gain	0	4194304	Value	ValueOutput
+Clean XOV	0	4194304	Value	ValueOutput
+Thresh L	0	4194304	Value	ValueOutput
+Thresh M	0	4194304	Value	ValueOutput
+Thresh H	0	4194304	Value	ValueOutput
+Gain L	0	4194304	Value	ValueOutput
+Gain M	0	4194304	Value	ValueOutput
+Gain H	0	4194304	Value	ValueOutput
+Byp Upwd L	0	4194304	Value	ValueOutput
+Byp Upwd M	0	4194304	Value	ValueOutput
+Byp Upwd H	0	4194304	Value	ValueOutput
+Byp Dnwd L	0	4194304	Value	ValueOutput
+Byp Dnwd M	0	4194304	Value	ValueOutput
+Byp Dnwd H	0	4194304	Value	ValueOutput
+Upwd Strgth	0	4194304	Value	ValueOutput
+Dnwd Strgth	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,43 @@
+Scope
+Manufacturer	Model
+PSPaudioware.com	vst.Pe2s.PSP E27se x64
+Note: Will match scope definitions for vst.Pe2s.PSP E27se x64 or vst.Pe2s
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Power	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+P2x	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Hpf	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+P28k	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+TrfoDs	0	4194304	Value	ValueOutput
+AmpDsb	0	4194304	Value	ValueOutput
+Proc	0	4194304	Value	ValueOutput
+LShelf	0	4194304	Value	ValueOutput
+LFreq	0	4194304	Value	ValueOutput
+LGain	0	4194304	Value	ValueOutput
+MFreq	0	4194304	Value	ValueOutput
+MGain	0	4194304	Value	ValueOutput
+HShelf	0	4194304	Value	ValueOutput
+HFreq	0	4194304	Value	ValueOutput
+HGain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,151 @@
+Scope
+Manufacturer	Model
+Native Instruments GmbH	vst.NBa4.Battery 4
+Note: Will match scope definitions for vst.NBa4.Battery 4 or vst.NBa4
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+#000	0	4194304	Value	ValueOutput
+#001	0	4194304	Value	ValueOutput
+#002	0	4194304	Value	ValueOutput
+#003	0	4194304	Value	ValueOutput
+#004	0	4194304	Value	ValueOutput
+#005	0	4194304	Value	ValueOutput
+#006	0	4194304	Value	ValueOutput
+#007	0	4194304	Value	ValueOutput
+#008	0	4194304	Value	ValueOutput
+#009	0	4194304	Value	ValueOutput
+#010	0	4194304	Value	ValueOutput
+#011	0	4194304	Value	ValueOutput
+#012	0	4194304	Value	ValueOutput
+#013	0	4194304	Value	ValueOutput
+#014	0	4194304	Value	ValueOutput
+#015	0	4194304	Value	ValueOutput
+#016	0	4194304	Value	ValueOutput
+#017	0	4194304	Value	ValueOutput
+#018	0	4194304	Value	ValueOutput
+#019	0	4194304	Value	ValueOutput
+#020	0	4194304	Value	ValueOutput
+#021	0	4194304	Value	ValueOutput
+#022	0	4194304	Value	ValueOutput
+#023	0	4194304	Value	ValueOutput
+#024	0	4194304	Value	ValueOutput
+#025	0	4194304	Value	ValueOutput
+#026	0	4194304	Value	ValueOutput
+#027	0	4194304	Value	ValueOutput
+#028	0	4194304	Value	ValueOutput
+#029	0	4194304	Value	ValueOutput
+#030	0	4194304	Value	ValueOutput
+#031	0	4194304	Value	ValueOutput
+#032	0	4194304	Value	ValueOutput
+#033	0	4194304	Value	ValueOutput
+#034	0	4194304	Value	ValueOutput
+#035	0	4194304	Value	ValueOutput
+#036	0	4194304	Value	ValueOutput
+#037	0	4194304	Value	ValueOutput
+#038	0	4194304	Value	ValueOutput
+#039	0	4194304	Value	ValueOutput
+#040	0	4194304	Value	ValueOutput
+#041	0	4194304	Value	ValueOutput
+#042	0	4194304	Value	ValueOutput
+#043	0	4194304	Value	ValueOutput
+#044	0	4194304	Value	ValueOutput
+#045	0	4194304	Value	ValueOutput
+#046	0	4194304	Value	ValueOutput
+#047	0	4194304	Value	ValueOutput
+#048	0	4194304	Value	ValueOutput
+#049	0	4194304	Value	ValueOutput
+#050	0	4194304	Value	ValueOutput
+#051	0	4194304	Value	ValueOutput
+#052	0	4194304	Value	ValueOutput
+#053	0	4194304	Value	ValueOutput
+#054	0	4194304	Value	ValueOutput
+#055	0	4194304	Value	ValueOutput
+#056	0	4194304	Value	ValueOutput
+#057	0	4194304	Value	ValueOutput
+#058	0	4194304	Value	ValueOutput
+#059	0	4194304	Value	ValueOutput
+#060	0	4194304	Value	ValueOutput
+#061	0	4194304	Value	ValueOutput
+#062	0	4194304	Value	ValueOutput
+#063	0	4194304	Value	ValueOutput
+#064	0	4194304	Value	ValueOutput
+#065	0	4194304	Value	ValueOutput
+#066	0	4194304	Value	ValueOutput
+#067	0	4194304	Value	ValueOutput
+#068	0	4194304	Value	ValueOutput
+#069	0	4194304	Value	ValueOutput
+#070	0	4194304	Value	ValueOutput
+#071	0	4194304	Value	ValueOutput
+#072	0	4194304	Value	ValueOutput
+#073	0	4194304	Value	ValueOutput
+#074	0	4194304	Value	ValueOutput
+#075	0	4194304	Value	ValueOutput
+#076	0	4194304	Value	ValueOutput
+#077	0	4194304	Value	ValueOutput
+#078	0	4194304	Value	ValueOutput
+#079	0	4194304	Value	ValueOutput
+#080	0	4194304	Value	ValueOutput
+#081	0	4194304	Value	ValueOutput
+#082	0	4194304	Value	ValueOutput
+#083	0	4194304	Value	ValueOutput
+#084	0	4194304	Value	ValueOutput
+#085	0	4194304	Value	ValueOutput
+#086	0	4194304	Value	ValueOutput
+#087	0	4194304	Value	ValueOutput
+#088	0	4194304	Value	ValueOutput
+#089	0	4194304	Value	ValueOutput
+#090	0	4194304	Value	ValueOutput
+#091	0	4194304	Value	ValueOutput
+#092	0	4194304	Value	ValueOutput
+#093	0	4194304	Value	ValueOutput
+#094	0	4194304	Value	ValueOutput
+#095	0	4194304	Value	ValueOutput
+#096	0	4194304	Value	ValueOutput
+#097	0	4194304	Value	ValueOutput
+#098	0	4194304	Value	ValueOutput
+#099	0	4194304	Value	ValueOutput
+#100	0	4194304	Value	ValueOutput
+#101	0	4194304	Value	ValueOutput
+#102	0	4194304	Value	ValueOutput
+#103	0	4194304	Value	ValueOutput
+#104	0	4194304	Value	ValueOutput
+#105	0	4194304	Value	ValueOutput
+#106	0	4194304	Value	ValueOutput
+#107	0	4194304	Value	ValueOutput
+#108	0	4194304	Value	ValueOutput
+#109	0	4194304	Value	ValueOutput
+#110	0	4194304	Value	ValueOutput
+#111	0	4194304	Value	ValueOutput
+#112	0	4194304	Value	ValueOutput
+#113	0	4194304	Value	ValueOutput
+#114	0	4194304	Value	ValueOutput
+#115	0	4194304	Value	ValueOutput
+#116	0	4194304	Value	ValueOutput
+#117	0	4194304	Value	ValueOutput
+#118	0	4194304	Value	ValueOutput
+#119	0	4194304	Value	ValueOutput
+#120	0	4194304	Value	ValueOutput
+#121	0	4194304	Value	ValueOutput
+#122	0	4194304	Value	ValueOutput
+#123	0	4194304	Value	ValueOutput
+#124	0	4194304	Value	ValueOutput
+#125	0	4194304	Value	ValueOutput
+#126	0	4194304	Value	ValueOutput
+#127	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

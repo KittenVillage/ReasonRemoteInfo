@@ -1,0 +1,45 @@
+Scope
+Manufacturer	Model
+Stagecraft Software	vst.GlMa.SC Glitch Machine 64
+Note: Will match scope definitions for vst.GlMa.SC Glitch Machine 64 or vst.GlMa
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Dry	0	4194304	Value	ValueOutput
+Wet	0	4194304	Value	ValueOutput
+Stutter Enable	0	4194304	Value	ValueOutput
+Stutter 1/4	0	4194304	Value	ValueOutput
+Stutter 1/8	0	4194304	Value	ValueOutput
+Stutter 1/16	0	4194304	Value	ValueOutput
+Stutter 1/2	0	4194304	Value	ValueOutput
+Length	0	4194304	Value	ValueOutput
+Repeats	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Reverse Chance	0	4194304	Value	ValueOutput
+Pitch Chance	0	4194304	Value	ValueOutput
+Pitch Shift	0	4194304	Value	ValueOutput
+Pitch Ramp	0	4194304	Value	ValueOutput
+Filter Mix	0	4194304	Value	ValueOutput
+Filter Freq	0	4194304	Value	ValueOutput
+Filter Res	0	4194304	Value	ValueOutput
+Filter LFO F	0	4194304	Value	ValueOutput
+Filter LFO %	0	4194304	Value	ValueOutput
+Filter Warp	0	4194304	Value	ValueOutput
+Filter Phase	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

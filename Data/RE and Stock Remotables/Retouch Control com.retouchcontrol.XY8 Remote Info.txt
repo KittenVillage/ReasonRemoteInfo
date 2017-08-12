@@ -1,0 +1,28 @@
+Scope
+Manufacturer	Model
+Retouch Control	com.retouchcontrol.XY8
+
+Remotable	Min	Max	Input type	Output type
+PadA X Blue	0	4194304	Value	ValueOutput
+PadA Y Blue	0	4194304	Value	ValueOutput
+PadA X Green	0	4194304	Value	ValueOutput
+PadA Y Green	0	4194304	Value	ValueOutput
+PadA X Red	0	4194304	Value	ValueOutput
+PadA Y Red	0	4194304	Value	ValueOutput
+PadA X Yellow	0	4194304	Value	ValueOutput
+PadA Y Yellow	0	4194304	Value	ValueOutput
+PadB X Blue	0	4194304	Value	ValueOutput
+PadB Y Blue	0	4194304	Value	ValueOutput
+PadB X Green	0	4194304	Value	ValueOutput
+PadB Y Green	0	4194304	Value	ValueOutput
+PadB X Red	0	4194304	Value	ValueOutput
+PadB Y Red	0	4194304	Value	ValueOutput
+PadB X Yellow	0	4194304	Value	ValueOutput
+PadB Y Yellow	0	4194304	Value	ValueOutput
+PadA Selector	0	3	Value	ValueOutput
+PadB Selector	0	3	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,92 @@
+Scope
+Manufacturer	Model
+u-he	vst.FSQ6.FilterscapeQ6(x64)
+Note: Will match scope definitions for vst.FSQ6.FilterscapeQ6(x64) or vst.FSQ6
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+main: Output	0	4194304	Value	ValueOutput
+main: Active #EF1	0	4194304	Value	ValueOutput
+main: Active #EF2	0	4194304	Value	ValueOutput
+main: Active #EF3	0	4194304	Value	ValueOutput
+main: Active #EF4	0	4194304	Value	ValueOutput
+EF1: Mode	0	4194304	Value	ValueOutput
+EF1: Attenuation	0	4194304	Value	ValueOutput
+EF1: Attack	0	4194304	Value	ValueOutput
+EF1: Release	0	4194304	Value	ValueOutput
+EF1: Threshold	0	4194304	Value	ValueOutput
+EF1: Smooth	0	4194304	Value	ValueOutput
+EF1: FilterType	0	4194304	Value	ValueOutput
+EF1: FilterCutoff	0	4194304	Value	ValueOutput
+EF2: Mode	0	4194304	Value	ValueOutput
+EF2: Attenuation	0	4194304	Value	ValueOutput
+EF2: Attack	0	4194304	Value	ValueOutput
+EF2: Release	0	4194304	Value	ValueOutput
+EF2: Threshold	0	4194304	Value	ValueOutput
+EF2: Smooth	0	4194304	Value	ValueOutput
+EF2: FilterType	0	4194304	Value	ValueOutput
+EF2: FilterCutoff	0	4194304	Value	ValueOutput
+EF3: Mode	0	4194304	Value	ValueOutput
+EF3: Attenuation	0	4194304	Value	ValueOutput
+EF3: Attack	0	4194304	Value	ValueOutput
+EF3: Release	0	4194304	Value	ValueOutput
+EF3: Threshold	0	4194304	Value	ValueOutput
+EF3: Smooth	0	4194304	Value	ValueOutput
+EF3: FilterType	0	4194304	Value	ValueOutput
+EF3: FilterCutoff	0	4194304	Value	ValueOutput
+EF4: Mode	0	4194304	Value	ValueOutput
+EF4: Attenuation	0	4194304	Value	ValueOutput
+EF4: Attack	0	4194304	Value	ValueOutput
+EF4: Release	0	4194304	Value	ValueOutput
+EF4: Threshold	0	4194304	Value	ValueOutput
+EF4: Smooth	0	4194304	Value	ValueOutput
+EF4: FilterType	0	4194304	Value	ValueOutput
+EF4: FilterCutoff	0	4194304	Value	ValueOutput
+EQ1: Gain Scale	0	4194304	Value	ValueOutput
+EQ1: Snapshot Morph	0	4194304	Value	ValueOutput
+EQ1: Mod: Band1 FM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band1 GM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band2 FM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band2 GM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band3 FM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band3 GM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band4 FM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band4 GM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band5 FM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band5 GM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band6 FM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band6 GM	0	4194304	Value	ValueOutput
+EQ1: Mod: Output M	0	4194304	Value	ValueOutput
+EQ1: Mod: Band1 FMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band1 GMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band2 FMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band2 GMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band3 FMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band3 GMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band4 FMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band4 GMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band5 FMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band5 GMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band6 FMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band6 GMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Output MS	0	4194304	Value	ValueOutput
+EQ1: Auto Proceed Mode	0	4194304	Value	ValueOutput
+EQ1: Auto Proceed Time	0	4194304	Value	ValueOutput
+EQ1: Mod: Snapshot S	0	4194304	Value	ValueOutput
+EQ1: Mod: Snapshot D	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

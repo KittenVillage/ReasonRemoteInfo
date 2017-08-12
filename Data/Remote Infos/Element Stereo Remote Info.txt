@@ -1,0 +1,190 @@
+Scope
+Manufacturer	Model
+Waves	vst.JFGS.WaveShell-VST 9_91_x64.Element Stereo
+Note: Will match scope definitions for vst.JFGS.WaveShell-VST 9_91_x64.Element Stereo or vst.JFGS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Osc Sub	0	4194304	Value	ValueOutput
+Mod1 Src	0	4194304	Value	ValueOutput
+Mod1 Dest	0	4194304	Value	ValueOutput
+Mod1 Depth	0	4194304	Value	ValueOutput
+Mod1 Pol	0	4194304	Value	ValueOutput
+Mod1 Onoff	0	4194304	Value	ValueOutput
+Mod2 Src	0	4194304	Value	ValueOutput
+Mod2 Dest	0	4194304	Value	ValueOutput
+Mod2 Depth	0	4194304	Value	ValueOutput
+Mod2 Pol	0	4194304	Value	ValueOutput
+Mod2 Onoff	0	4194304	Value	ValueOutput
+Mod3 Src	0	4194304	Value	ValueOutput
+Mod3 Dest	0	4194304	Value	ValueOutput
+Mod3 Depth	0	4194304	Value	ValueOutput
+Mod3 Pol	0	4194304	Value	ValueOutput
+Mod3 Onoff	0	4194304	Value	ValueOutput
+Mod4 Src	0	4194304	Value	ValueOutput
+Mod4 Dest	0	4194304	Value	ValueOutput
+Mod4 Depth	0	4194304	Value	ValueOutput
+Mod4 Pol	0	4194304	Value	ValueOutput
+Mod4 Onoff	0	4194304	Value	ValueOutput
+Mod5 Src	0	4194304	Value	ValueOutput
+Mod5 Dest	0	4194304	Value	ValueOutput
+Mod5 Depth	0	4194304	Value	ValueOutput
+Mod5 Pol	0	4194304	Value	ValueOutput
+Mod5 Onoff	0	4194304	Value	ValueOutput
+Mod6 Src	0	4194304	Value	ValueOutput
+Mod6 Dest	0	4194304	Value	ValueOutput
+Mod6 Depth	0	4194304	Value	ValueOutput
+Mod6 Pol	0	4194304	Value	ValueOutput
+Mod6 Onoff	0	4194304	Value	ValueOutput
+Portamento Type	0	4194304	Value	ValueOutput
+Arp Time	0	4194304	Value	ValueOutput
+Osc2 Contrl	0	4194304	Value	ValueOutput
+Osc1 Contrl	0	4194304	Value	ValueOutput
+Arp Mode	0	4194304	Value	ValueOutput
+Arp Oct	0	4194304	Value	ValueOutput
+Osc2 Finetune	0	4194304	Value	ValueOutput
+Osc1 Finetune	0	4194304	Value	ValueOutput
+Osc2 Oct	0	4194304	Value	ValueOutput
+Osc1 Oct	0	4194304	Value	ValueOutput
+Dist Loc	0	4194304	Value	ValueOutput
+Distortion	0	4194304	Value	ValueOutput
+Crusher	0	4194304	Value	ValueOutput
+Mod Wheel	0	4194304	Value	ValueOutput
+Osc2 PhM	0	4194304	Value	ValueOutput
+Osc1 Sinemod	0	4194304	Value	ValueOutput
+Env3 Velocity	0	4194304	Value	ValueOutput
+Env3 Shape	0	4194304	Value	ValueOutput
+Vca Env Shape	0	4194304	Value	ValueOutput
+Vca Env Punch	0	4194304	Value	ValueOutput
+Vcf Env Shape	0	4194304	Value	ValueOutput
+Vcf Env Velocity	0	4194304	Value	ValueOutput
+Vca Env Velocity	0	4194304	Value	ValueOutput
+Step4 Onoff	0	4194304	Value	ValueOutput
+Seq Steps	0	4194304	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+Step1 Pitch	0	4194304	Value	ValueOutput
+Step1 Onoff	0	4194304	Value	ValueOutput
+Step2 Onoff	0	4194304	Value	ValueOutput
+Step2 Pitch	0	4194304	Value	ValueOutput
+Step3 Onoff	0	4194304	Value	ValueOutput
+Step3 Pitch	0	4194304	Value	ValueOutput
+Step4 Pitch	0	4194304	Value	ValueOutput
+Step8 Pitch	0	4194304	Value	ValueOutput
+Step8 Onoff	0	4194304	Value	ValueOutput
+Step7 Pitch	0	4194304	Value	ValueOutput
+Step7 Onoff	0	4194304	Value	ValueOutput
+Step6 Pitch	0	4194304	Value	ValueOutput
+Step6 Onoff	0	4194304	Value	ValueOutput
+Step5 Onoff	0	4194304	Value	ValueOutput
+Step5 Pitch	0	4194304	Value	ValueOutput
+Step13 Pitch	0	4194304	Value	ValueOutput
+Step13 Onoff	0	4194304	Value	ValueOutput
+Step14 Onoff	0	4194304	Value	ValueOutput
+Step14 Pitch	0	4194304	Value	ValueOutput
+Step15 Onoff	0	4194304	Value	ValueOutput
+Step15 Pitch	0	4194304	Value	ValueOutput
+Step16 Onoff	0	4194304	Value	ValueOutput
+Step16 Pitch	0	4194304	Value	ValueOutput
+Step12 Pitch	0	4194304	Value	ValueOutput
+Step12 Onoff	0	4194304	Value	ValueOutput
+Step11 Pitch	0	4194304	Value	ValueOutput
+Step11 Onoff	0	4194304	Value	ValueOutput
+Step10 Pitch	0	4194304	Value	ValueOutput
+Step10 Onoff	0	4194304	Value	ValueOutput
+Step9 Onoff	0	4194304	Value	ValueOutput
+Step9 Pitch	0	4194304	Value	ValueOutput
+Arp Rate	0	4194304	Value	ValueOutput
+Arp Gate	0	4194304	Value	ValueOutput
+Osc2 Onoff	0	4194304	Value	ValueOutput
+Osc1 Onoff	0	4194304	Value	ValueOutput
+Osc Noise	0	4194304	Value	ValueOutput
+Lfo2 Led	0	4194304	Value	ValueOutput
+Lfo1 Led	0	4194304	Value	ValueOutput
+Lfo4 Led	0	4194304	Value	ValueOutput
+Lfo3 Led	0	4194304	Value	ValueOutput
+Rev Mix	0	4194304	Value	ValueOutput
+Dly Right	0	4194304	Value	ValueOutput
+Dly Mix	0	4194304	Value	ValueOutput
+Dly Left	0	4194304	Value	ValueOutput
+Dly Fdbk	0	4194304	Value	ValueOutput
+Lfo4 Syncrate	0	4194304	Value	ValueOutput
+Lfo3 Type	0	4194304	Value	ValueOutput
+Lfo4 Type	0	4194304	Value	ValueOutput
+Lfo3 Syncrate	0	4194304	Value	ValueOutput
+Eq 1500hz	0	4194304	Value	ValueOutput
+Eq 9000hz	0	4194304	Value	ValueOutput
+Eq 600hz	0	4194304	Value	ValueOutput
+Eq 100hz	0	4194304	Value	ValueOutput
+Osc Ringmod	0	4194304	Value	ValueOutput
+Eq Lp Freq	0	4194304	Value	ValueOutput
+Eq Hp Freq	0	4194304	Value	ValueOutput
+Osc Retrig	0	4194304	Value	ValueOutput
+Osc Unison	0	4194304	Value	ValueOutput
+Vcf Slope	0	4194304	Value	ValueOutput
+Env3 Sustain	0	4194304	Value	ValueOutput
+Env3 Decay	0	4194304	Value	ValueOutput
+Env3 Release	0	4194304	Value	ValueOutput
+Env3 Attk	0	4194304	Value	ValueOutput
+Lfo2 Rate	0	4194304	Value	ValueOutput
+Lfo2 Type	0	4194304	Value	ValueOutput
+Lfo1 Type	0	4194304	Value	ValueOutput
+Lfo1 Rate	0	4194304	Value	ValueOutput
+Crs Mix	0	4194304	Value	ValueOutput
+Osc Mono	0	4194304	Value	ValueOutput
+Portamento Time	0	4194304	Value	ValueOutput
+Osc2 Pw	0	4194304	Value	ValueOutput
+Osc1 Pw	0	4194304	Value	ValueOutput
+Vcf Ctof Fm	0	4194304	Value	ValueOutput
+Vcf Kbd Trk	0	4194304	Value	ValueOutput
+Osc2 Fm	0	4194304	Value	ValueOutput
+Osc2 Tune	0	4194304	Value	ValueOutput
+Osc1 Tune	0	4194304	Value	ValueOutput
+Osc2 Sync	0	4194304	Value	ValueOutput
+Osc Mix	0	4194304	Value	ValueOutput
+Osc1 Type	0	4194304	Value	ValueOutput
+Osc2 Type	0	4194304	Value	ValueOutput
+Vcf Env Depth	0	4194304	Value	ValueOutput
+Vca Env Attk	0	4194304	Value	ValueOutput
+Vca Env Release	0	4194304	Value	ValueOutput
+Vca Env Decay	0	4194304	Value	ValueOutput
+Vca Env Sustain	0	4194304	Value	ValueOutput
+Vcf Cutoff	0	4194304	Value	ValueOutput
+Vcf Env Sustain	0	4194304	Value	ValueOutput
+Vcf Env Decay	0	4194304	Value	ValueOutput
+Vcf Env Release	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Vcf Res	0	4194304	Value	ValueOutput
+Vcf Env Attk	0	4194304	Value	ValueOutput
+Vcf Type	0	4194304	Value	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+Tempo Source	0	4194304	Value	ValueOutput
+Voices	0	4194304	Value	ValueOutput
+HD	0	4194304	Value	ValueOutput
+Hold	0	4194304	Value	ValueOutput
+Crusher Type	0	4194304	Value	ValueOutput
+Bend Range	0	4194304	Value	ValueOutput
+Lfo1 Syncrate	0	4194304	Value	ValueOutput
+LFO1 Sync	0	4194304	Value	ValueOutput
+Lfo2 Syncrate	0	4194304	Value	ValueOutput
+LFO2 Sync	0	4194304	Value	ValueOutput
+LFO3 Sync	0	4194304	Value	ValueOutput
+Lfo3 Rate	0	4194304	Value	ValueOutput
+LFO4 Sync	0	4194304	Value	ValueOutput
+Lfo4 Rate	0	4194304	Value	ValueOutput
+Arp/Seq Retrigger	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

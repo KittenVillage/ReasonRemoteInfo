@@ -1,0 +1,64 @@
+Scope
+Manufacturer	Model
+Waves	vst.MT2X.WaveShell-VST 9_91_x64.SuperTap 2-Taps Mono/Stereo
+Note: Will match scope definitions for vst.MT2X.WaveShell-VST 9_91_x64.SuperTap 2-Taps Mono/Stereo or vst.MT2X
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Tempo BPM	0	4194304	Value	ValueOutput
+Tempo MS	0	4194304	Value	ValueOutput
+Direct On	0	4194304	Value	ValueOutput
+Direct Gain	0	4194304	Value	ValueOutput
+Direct Pan	0	4194304	Value	ValueOutput
+Out Gain	0	4194304	Value	ValueOutput
+FB On/Off	0	4194304	Value	ValueOutput
+FB Gain	0	4194304	Value	ValueOutput
+FB Pan	0	4194304	Value	ValueOutput
+FB FilterType	0	4194304	Value	ValueOutput
+FB Freq	0	4194304	Value	ValueOutput
+FB FilterGain	0	4194304	Value	ValueOutput
+FB Filter On/Off	0	4194304	Value	ValueOutput
+FB Source	0	4194304	Value	ValueOutput
+Tap Pad	0	4194304	Value	ValueOutput
+Pad Mode	0	4194304	Value	ValueOutput
+Graph Grids	0	4194304	Value	ValueOutput
+Graph Mode	0	4194304	Value	ValueOutput
+Modulation On	0	4194304	Value	ValueOutput
+Modulation Rate	0	4194304	Value	ValueOutput
+Modulation Depth	0	4194304	Value	ValueOutput
+Tap 1 Delay	0	4194304	Value	ValueOutput
+Tap 2 Delay	0	4194304	Value	ValueOutput
+FB Delay	0	4194304	Value	ValueOutput
+Snap On	0	4194304	Value	ValueOutput
+Tap 1 On/off	0	4194304	Value	ValueOutput
+Tap 1 Gain	0	4194304	Value	ValueOutput
+Tap 1 Pan	0	4194304	Value	ValueOutput
+Tap 1 FilterType	0	4194304	Value	ValueOutput
+Tap 1 Freq	0	4194304	Value	ValueOutput
+Tap 1 Fltr Gain	0	4194304	Value	ValueOutput
+Tap 1 Filter On/Off	0	4194304	Value	ValueOutput
+Tap 2 On/off	0	4194304	Value	ValueOutput
+Tap 2 Gain	0	4194304	Value	ValueOutput
+Tap 2 Pan	0	4194304	Value	ValueOutput
+Tap 2 FilterType	0	4194304	Value	ValueOutput
+Tap 2 Freq	0	4194304	Value	ValueOutput
+Tap 2 Fltr Gain	0	4194304	Value	ValueOutput
+Tap 2 Filter On/Off	0	4194304	Value	ValueOutput
+Sync On	0	4194304	Value	ValueOutput
+Modulation Sync On	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

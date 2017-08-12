@@ -1,0 +1,96 @@
+Scope
+Manufacturer	Model
+AudioRealism	vst.apx3.ABLProFX x64
+Note: Will match scope definitions for vst.apx3.ABLProFX x64 or vst.apx3
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master Tuning	0	4194304	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Envelope Mod	0	4194304	Value	ValueOutput
+VCF Tracking	0	4194304	Value	ValueOutput
+Accent Amount	0	4194304	Value	ValueOutput
+VCO Boost	0	4194304	Value	ValueOutput
+VCO-1&2 Shaper	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+VCO-2 Mod	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+VCO-1 Waveform	0	4194304	Value	ValueOutput
+VCO-1 Pulse Width	0	4194304	Value	ValueOutput
+VCO-1 Filter Mod	0	4194304	Value	ValueOutput
+VCO-1 Fine Tune	0	4194304	Value	ValueOutput
+VCO-1 Range	0	4194304	Value	ValueOutput
+VCO-2 Waveform	0	4194304	Value	ValueOutput
+VCO-2 Pulse Width	0	4194304	Value	ValueOutput
+VCO-2 Freq Mod	0	4194304	Value	ValueOutput
+VCO-2 Fine Tune	0	4194304	Value	ValueOutput
+VCO-2 Range	0	4194304	Value	ValueOutput
+NG Color	0	4194304	Value	ValueOutput
+Glide time	0	4194304	Value	ValueOutput
+Gate time	0	4194304	Value	ValueOutput
+VCO-1 Level	0	4194304	Value	ValueOutput
+VCO-2 Level	0	4194304	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+AUX Level	0	4194304	Value	ValueOutput
+MG Wave	0	4194304	Value	ValueOutput
+MG Frequency	0	4194304	Value	ValueOutput
+MG Amount	0	4194304	Value	ValueOutput
+MG Modulation	0	4194304	Value	ValueOutput
+MG VCO1 Dest	0	4194304	Value	ValueOutput
+MG VCO2 Dest	0	4194304	Value	ValueOutput
+MG VCF Dest	0	4194304	Value	ValueOutput
+MG VCA Dest	0	4194304	Value	ValueOutput
+MG PW1 Dest	0	4194304	Value	ValueOutput
+Ring 1x2	0	4194304	Value	ValueOutput
+Sync 2->1	0	4194304	Value	ValueOutput
+Accent Decay	0	4194304	Value	ValueOutput
+Accent Volume	0	4194304	Value	ValueOutput
+Accent Ext.	0	4194304	Value	ValueOutput
+Accent Manual	0	4194304	Value	ValueOutput
+VCA Attack	0	4194304	Value	ValueOutput
+VCA Decay	0	4194304	Value	ValueOutput
+VCA Sustain	0	4194304	Value	ValueOutput
+VCA Release	0	4194304	Value	ValueOutput
+VCF Attack	0	4194304	Value	ValueOutput
+VCF Decay	0	4194304	Value	ValueOutput
+VCF Sustain	0	4194304	Value	ValueOutput
+VCF Release	0	4194304	Value	ValueOutput
+Delay Amount	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Left	0	4194304	Value	ValueOutput
+Delay Right	0	4194304	Value	ValueOutput
+VCO-1 Shape	0	4194304	Value	ValueOutput
+VCO-2 Shape	0	4194304	Value	ValueOutput
+MG Retrigger	0	4194304	Value	ValueOutput
+MG Audio Output	0	4194304	Value	ValueOutput
+Env Follow Attack	0	4194304	Value	ValueOutput
+Env Follow Release	0	4194304	Value	ValueOutput
+Output Variable	0	4194304	Value	ValueOutput
+Output Bias	0	4194304	Value	ValueOutput
+Output Variable	0	4194304	Value	ValueOutput
+Output Lag time	0	4194304	Value	ValueOutput
+MG Bpm Sync	0	4194304	Value	ValueOutput
+Delay Bpm Sync	0	4194304	Value	ValueOutput
+Trigger Mode	0	4194304	Value	ValueOutput
+VEG Trigger Source	0	4194304	Value	ValueOutput
+MEG Trigger Source	0	4194304	Value	ValueOutput
+Inverter 1 Mode	0	4194304	Value	ValueOutput
+Inverter 2 Mode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,278 @@
+Scope
+Manufacturer	Model
+Synapse Audio	vst.TxIc.Toxic2 x64
+Note: Will match scope definitions for vst.TxIc.Toxic2 x64 or vst.TxIc
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master: Gain	0	4194304	Value	ValueOutput
+Master: Pan	0	4194304	Value	ValueOutput
+Master: Pitch	0	4194304	Value	ValueOutput
+KBD: Un. Voices	0	4194304	Value	ValueOutput
+KBD: Un. Detune	0	4194304	Value	ValueOutput
+KBD: Mono Mode	0	4194304	Value	ValueOutput
+KBD: Porta Mode	0	4194304	Value	ValueOutput
+KBD: Slide Time	0	4194304	Value	ValueOutput
+KBD: Dis. Vel.	0	4194304	Value	ValueOutput
+KBD: Vel. Curve	0	4194304	Value	ValueOutput
+KBD: FM Break	0	4194304	Value	ValueOutput
+KBD: FM Curve	0	4194304	Value	ValueOutput
+KBD: PWL Range	0	4194304	Value	ValueOutput
+KBD: Polyphony	0	4194304	Value	ValueOutput
+Flt: Cutoff	0	4194304	Value	ValueOutput
+Flt: Resonance	0	4194304	Value	ValueOutput
+Flt: KeyTrack	0	4194304	Value	ValueOutput
+Flt: VelTrack	0	4194304	Value	ValueOutput
+Flt: High-Pass	0	4194304	Value	ValueOutput
+Flt: LFO 1 Amnt	0	4194304	Value	ValueOutput
+Flt: EGF Amnt	0	4194304	Value	ValueOutput
+Flt: Invert EGF	0	4194304	Value	ValueOutput
+Flt: Enable	0	4194304	Value	ValueOutput
+Flt: EGF Attack	0	4194304	Value	ValueOutput
+Flt: EGF Decay	0	4194304	Value	ValueOutput
+Flt: EGF Sus	0	4194304	Value	ValueOutput
+Flt: EGF Rel	0	4194304	Value	ValueOutput
+Flt: EG-2-Pitch	0	4194304	Value	ValueOutput
+Amp: Attack	0	4194304	Value	ValueOutput
+Amp: Decay	0	4194304	Value	ValueOutput
+Amp: Sustain	0	4194304	Value	ValueOutput
+Amp: Release	0	4194304	Value	ValueOutput
+Lfo1: Speed	0	4194304	Value	ValueOutput
+Lfo1: Free Run	0	4194304	Value	ValueOutput
+Lfo1: Tmp Speed	0	4194304	Value	ValueOutput
+Lfo1: Tmp Sync	0	4194304	Value	ValueOutput
+Lfo2: Speed	0	4194304	Value	ValueOutput
+Lfo2: Free Run	0	4194304	Value	ValueOutput
+Lfo2: Tmp Speed	0	4194304	Value	ValueOutput
+Lfo2: Tmp Sync	0	4194304	Value	ValueOutput
+Lfo2 to Pitch	0	4194304	Value	ValueOutput
+FX2: Delay	0	4194304	Value	ValueOutput
+FX2: Feedback	0	4194304	Value	ValueOutput
+FX2: Mod. Rate	0	4194304	Value	ValueOutput
+FX2: Mod. Depth	0	4194304	Value	ValueOutput
+FX2: Tmp Sync	0	4194304	Value	ValueOutput
+FX2: Tmp Delay	0	4194304	Value	ValueOutput
+FX2: Blur	0	4194304	Value	ValueOutput
+FX2: Cutoff	0	4194304	Value	ValueOutput
+FX2: Wet Level	0	4194304	Value	ValueOutput
+FX2: Enable	0	4194304	Value	ValueOutput
+FX1: Delay	0	4194304	Value	ValueOutput
+FX1: Feedback	0	4194304	Value	ValueOutput
+FX1: Mod. Rate	0	4194304	Value	ValueOutput
+FX1: Mod. Depth	0	4194304	Value	ValueOutput
+FX1: Cutoff	0	4194304	Value	ValueOutput
+FX1: Wet Level	0	4194304	Value	ValueOutput
+FX1: Inv. Fdbk	0	4194304	Value	ValueOutput
+FX1: Inv. Wet	0	4194304	Value	ValueOutput
+FX1: Enable	0	4194304	Value	ValueOutput
+Master: Dist	0	4194304	Value	ValueOutput
+EQ: 250 Hz	0	4194304	Value	ValueOutput
+EQ: 500 Hz	0	4194304	Value	ValueOutput
+EQ: 1000 Hz	0	4194304	Value	ValueOutput
+EQ: 2000 Hz	0	4194304	Value	ValueOutput
+EQ: 4000 Hz	0	4194304	Value	ValueOutput
+EQ: 8000 Hz	0	4194304	Value	ValueOutput
+EQ: Enable	0	4194304	Value	ValueOutput
+Seq: PingPong	0	4194304	Value	ValueOutput
+Seq: Num. Steps	0	4194304	Value	ValueOutput
+Seq: Random	0	4194304	Value	ValueOutput
+Seq: Swing	0	4194304	Value	ValueOutput
+Seq: Pos. 1	0	4194304	Value	ValueOutput
+Seq: Pos. 2	0	4194304	Value	ValueOutput
+Seq: Pos. 3	0	4194304	Value	ValueOutput
+Seq: Pos. 4	0	4194304	Value	ValueOutput
+Seq: Pos. 5	0	4194304	Value	ValueOutput
+Seq: Pos. 6	0	4194304	Value	ValueOutput
+Seq: Pos. 7	0	4194304	Value	ValueOutput
+Seq: Pos. 8	0	4194304	Value	ValueOutput
+Seq: Pos. 9	0	4194304	Value	ValueOutput
+Seq: Pos. 10	0	4194304	Value	ValueOutput
+Seq: Pos. 11	0	4194304	Value	ValueOutput
+Seq: Pos. 12	0	4194304	Value	ValueOutput
+Seq: Pos. 13	0	4194304	Value	ValueOutput
+Seq: Pos. 14	0	4194304	Value	ValueOutput
+Seq: Pos. 15	0	4194304	Value	ValueOutput
+Seq: Pos. 16	0	4194304	Value	ValueOutput
+Seq: Pos. 17	0	4194304	Value	ValueOutput
+Seq: Pos. 18	0	4194304	Value	ValueOutput
+Seq: Pos. 19	0	4194304	Value	ValueOutput
+Seq: Pos. 20	0	4194304	Value	ValueOutput
+Seq: Pos. 21	0	4194304	Value	ValueOutput
+Seq: Pos. 22	0	4194304	Value	ValueOutput
+Seq: Pos. 23	0	4194304	Value	ValueOutput
+Seq: Pos. 24	0	4194304	Value	ValueOutput
+Seq: Pos. 25	0	4194304	Value	ValueOutput
+Seq: Pos. 26	0	4194304	Value	ValueOutput
+Seq: Pos. 27	0	4194304	Value	ValueOutput
+Seq: Pos. 28	0	4194304	Value	ValueOutput
+Seq: Pos. 29	0	4194304	Value	ValueOutput
+Seq: Pos. 30	0	4194304	Value	ValueOutput
+Seq: Pos. 31	0	4194304	Value	ValueOutput
+Seq: Pos. 32	0	4194304	Value	ValueOutput
+Seq: Enable	0	4194304	Value	ValueOutput
+Osc1: enable	0	4194304	Value	ValueOutput
+Osc1: inv. wave	0	4194304	Value	ValueOutput
+Osc1: velocity	0	4194304	Value	ValueOutput
+Osc1: initial	0	4194304	Value	ValueOutput
+Osc1: attack	0	4194304	Value	ValueOutput
+Osc1: decay	0	4194304	Value	ValueOutput
+Osc1: sustain	0	4194304	Value	ValueOutput
+Osc1: release	0	4194304	Value	ValueOutput
+Osc1: atk slope	0	4194304	Value	ValueOutput
+Osc1: dec slope	0	4194304	Value	ValueOutput
+Osc1: coarse	0	4194304	Value	ValueOutput
+Osc1: fine tune	0	4194304	Value	ValueOutput
+Osc1: frq. x100	0	4194304	Value	ValueOutput
+Osc1: frq. x1	0	4194304	Value	ValueOutput
+Osc1: frq. 0.01	0	4194304	Value	ValueOutput
+Osc1: level	0	4194304	Value	ValueOutput
+Osc1: pan	0	4194304	Value	ValueOutput
+Osc1: FM 1	0	4194304	Value	ValueOutput
+Osc1: FM 2	0	4194304	Value	ValueOutput
+Osc1: FM 3	0	4194304	Value	ValueOutput
+Osc1: FM 4	0	4194304	Value	ValueOutput
+Osc1: FM 5	0	4194304	Value	ValueOutput
+Osc1: FM 6	0	4194304	Value	ValueOutput
+Osc1: lfo 1	0	4194304	Value	ValueOutput
+Osc1: lfo 2	0	4194304	Value	ValueOutput
+Osc2: enable	0	4194304	Value	ValueOutput
+Osc2: inv. wave	0	4194304	Value	ValueOutput
+Osc2: velocity	0	4194304	Value	ValueOutput
+Osc2: initial	0	4194304	Value	ValueOutput
+Osc2: attack	0	4194304	Value	ValueOutput
+Osc2: decay	0	4194304	Value	ValueOutput
+Osc2: sustain	0	4194304	Value	ValueOutput
+Osc2: release	0	4194304	Value	ValueOutput
+Osc2: atk slope	0	4194304	Value	ValueOutput
+Osc2: dec slope	0	4194304	Value	ValueOutput
+Osc2: coarse	0	4194304	Value	ValueOutput
+Osc2: fine tune	0	4194304	Value	ValueOutput
+Osc2: frq. x100	0	4194304	Value	ValueOutput
+Osc2: frq. x1	0	4194304	Value	ValueOutput
+Osc2: frq. 0.01	0	4194304	Value	ValueOutput
+Osc2: level	0	4194304	Value	ValueOutput
+Osc2: pan	0	4194304	Value	ValueOutput
+Osc2: FM 1	0	4194304	Value	ValueOutput
+Osc2: FM 2	0	4194304	Value	ValueOutput
+Osc2: FM 3	0	4194304	Value	ValueOutput
+Osc2: FM 4	0	4194304	Value	ValueOutput
+Osc2: FM 5	0	4194304	Value	ValueOutput
+Osc2: FM 6	0	4194304	Value	ValueOutput
+Osc2: lfo 1	0	4194304	Value	ValueOutput
+Osc2: lfo 2	0	4194304	Value	ValueOutput
+Osc3: enable	0	4194304	Value	ValueOutput
+Osc3: inv. wave	0	4194304	Value	ValueOutput
+Osc3: velocity	0	4194304	Value	ValueOutput
+Osc3: initial	0	4194304	Value	ValueOutput
+Osc3: attack	0	4194304	Value	ValueOutput
+Osc3: decay	0	4194304	Value	ValueOutput
+Osc3: sustain	0	4194304	Value	ValueOutput
+Osc3: release	0	4194304	Value	ValueOutput
+Osc3: atk slope	0	4194304	Value	ValueOutput
+Osc3: dec slope	0	4194304	Value	ValueOutput
+Osc3: coarse	0	4194304	Value	ValueOutput
+Osc3: fine tune	0	4194304	Value	ValueOutput
+Osc3: frq. x100	0	4194304	Value	ValueOutput
+Osc3: frq. x1	0	4194304	Value	ValueOutput
+Osc3: frq. 0.01	0	4194304	Value	ValueOutput
+Osc3: level	0	4194304	Value	ValueOutput
+Osc3: pan	0	4194304	Value	ValueOutput
+Osc3: FM 1	0	4194304	Value	ValueOutput
+Osc3: FM 2	0	4194304	Value	ValueOutput
+Osc3: FM 3	0	4194304	Value	ValueOutput
+Osc3: FM 4	0	4194304	Value	ValueOutput
+Osc3: FM 5	0	4194304	Value	ValueOutput
+Osc3: FM 6	0	4194304	Value	ValueOutput
+Osc3: lfo 1	0	4194304	Value	ValueOutput
+Osc3: lfo 2	0	4194304	Value	ValueOutput
+Osc4: enable	0	4194304	Value	ValueOutput
+Osc4: inv. wave	0	4194304	Value	ValueOutput
+Osc4: velocity	0	4194304	Value	ValueOutput
+Osc4: initial	0	4194304	Value	ValueOutput
+Osc4: attack	0	4194304	Value	ValueOutput
+Osc4: decay	0	4194304	Value	ValueOutput
+Osc4: sustain	0	4194304	Value	ValueOutput
+Osc4: release	0	4194304	Value	ValueOutput
+Osc4: atk slope	0	4194304	Value	ValueOutput
+Osc4: dec slope	0	4194304	Value	ValueOutput
+Osc4: coarse	0	4194304	Value	ValueOutput
+Osc4: fine tune	0	4194304	Value	ValueOutput
+Osc4: frq. x100	0	4194304	Value	ValueOutput
+Osc4: frq. x1	0	4194304	Value	ValueOutput
+Osc4: frq. 0.01	0	4194304	Value	ValueOutput
+Osc4: level	0	4194304	Value	ValueOutput
+Osc4: pan	0	4194304	Value	ValueOutput
+Osc4: FM 1	0	4194304	Value	ValueOutput
+Osc4: FM 2	0	4194304	Value	ValueOutput
+Osc4: FM 3	0	4194304	Value	ValueOutput
+Osc4: FM 4	0	4194304	Value	ValueOutput
+Osc4: FM 5	0	4194304	Value	ValueOutput
+Osc4: FM 6	0	4194304	Value	ValueOutput
+Osc4: lfo 1	0	4194304	Value	ValueOutput
+Osc4: lfo 2	0	4194304	Value	ValueOutput
+Osc5: enable	0	4194304	Value	ValueOutput
+Osc5: inv. wave	0	4194304	Value	ValueOutput
+Osc5: velocity	0	4194304	Value	ValueOutput
+Osc5: initial	0	4194304	Value	ValueOutput
+Osc5: attack	0	4194304	Value	ValueOutput
+Osc5: decay	0	4194304	Value	ValueOutput
+Osc5: sustain	0	4194304	Value	ValueOutput
+Osc5: release	0	4194304	Value	ValueOutput
+Osc5: atk slope	0	4194304	Value	ValueOutput
+Osc5: dec slope	0	4194304	Value	ValueOutput
+Osc5: coarse	0	4194304	Value	ValueOutput
+Osc5: fine tune	0	4194304	Value	ValueOutput
+Osc5: frq. x100	0	4194304	Value	ValueOutput
+Osc5: frq. x1	0	4194304	Value	ValueOutput
+Osc5: frq. 0.01	0	4194304	Value	ValueOutput
+Osc5: level	0	4194304	Value	ValueOutput
+Osc5: pan	0	4194304	Value	ValueOutput
+Osc5: FM 1	0	4194304	Value	ValueOutput
+Osc5: FM 2	0	4194304	Value	ValueOutput
+Osc5: FM 3	0	4194304	Value	ValueOutput
+Osc5: FM 4	0	4194304	Value	ValueOutput
+Osc5: FM 5	0	4194304	Value	ValueOutput
+Osc5: FM 6	0	4194304	Value	ValueOutput
+Osc5: lfo 1	0	4194304	Value	ValueOutput
+Osc5: lfo 2	0	4194304	Value	ValueOutput
+Osc6: enable	0	4194304	Value	ValueOutput
+Osc6: inv. wave	0	4194304	Value	ValueOutput
+Osc6: velocity	0	4194304	Value	ValueOutput
+Osc6: initial	0	4194304	Value	ValueOutput
+Osc6: attack	0	4194304	Value	ValueOutput
+Osc6: decay	0	4194304	Value	ValueOutput
+Osc6: sustain	0	4194304	Value	ValueOutput
+Osc6: release	0	4194304	Value	ValueOutput
+Osc6: atk slope	0	4194304	Value	ValueOutput
+Osc6: dec slope	0	4194304	Value	ValueOutput
+Osc6: coarse	0	4194304	Value	ValueOutput
+Osc6: fine tune	0	4194304	Value	ValueOutput
+Osc6: frq. x100	0	4194304	Value	ValueOutput
+Osc6: frq. x1	0	4194304	Value	ValueOutput
+Osc6: frq. 0.01	0	4194304	Value	ValueOutput
+Osc6: level	0	4194304	Value	ValueOutput
+Osc6: pan	0	4194304	Value	ValueOutput
+Osc6: FM 1	0	4194304	Value	ValueOutput
+Osc6: FM 2	0	4194304	Value	ValueOutput
+Osc6: FM 3	0	4194304	Value	ValueOutput
+Osc6: FM 4	0	4194304	Value	ValueOutput
+Osc6: FM 5	0	4194304	Value	ValueOutput
+Osc6: FM 6	0	4194304	Value	ValueOutput
+Osc6: lfo 1	0	4194304	Value	ValueOutput
+Osc6: lfo 2	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

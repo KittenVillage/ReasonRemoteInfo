@@ -1,0 +1,803 @@
+Scope
+Manufacturer	Model
+Blamsoft, Inc.	com.blamsoft.Zero
+
+Remotable	Min	Max	Input type	Output type
+Chorus Enable	0	1	Toggle	ValueOutput
+Chorus Delay	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Feedback	0	4194304	Value	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Delay Enable	0	1	Toggle	ValueOutput
+Left Delay Time	0	13	Value	ValueOutput
+Right Delay Time	0	13	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Mode	0	2	Value	ValueOutput
+Delay Width	0	4194304	Value	ValueOutput
+Feedback Tone	0	4194304	Value	ValueOutput
+Feedback Pan	0	4194304	Value	ValueOutput
+Modulation Amount	0	4194304	Value	ValueOutput
+Modulation Rate	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Op 1 Pan Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 1 Pan Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 1 Pan Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 1 Pan Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 1 Pan Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 1 Pan Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 1 Pan Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 1 Pan Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 1 Pan Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 1 Pan Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 1 Pan Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 1 Pan Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 1 Pan Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 1 Pan Envelope Loop Mode	0	21	Value	ValueOutput
+Op 2 Pan Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 2 Pan Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 2 Pan Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 2 Pan Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 2 Pan Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 2 Pan Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 2 Pan Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 2 Pan Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 2 Pan Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 2 Pan Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 2 Pan Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 2 Pan Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 2 Pan Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 2 Pan Envelope Loop Mode	0	21	Value	ValueOutput
+Op 3 Pan Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 3 Pan Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 3 Pan Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 3 Pan Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 3 Pan Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 3 Pan Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 3 Pan Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 3 Pan Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 3 Pan Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 3 Pan Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 3 Pan Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 3 Pan Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 3 Pan Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 3 Pan Envelope Loop Mode	0	21	Value	ValueOutput
+Op 4 Pan Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 4 Pan Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 4 Pan Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 4 Pan Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 4 Pan Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 4 Pan Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 4 Pan Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 4 Pan Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 4 Pan Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 4 Pan Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 4 Pan Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 4 Pan Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 4 Pan Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 4 Pan Envelope Loop Mode	0	21	Value	ValueOutput
+Op 5 Pan Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 5 Pan Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 5 Pan Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 5 Pan Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 5 Pan Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 5 Pan Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 5 Pan Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 5 Pan Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 5 Pan Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 5 Pan Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 5 Pan Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 5 Pan Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 5 Pan Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 5 Pan Envelope Loop Mode	0	21	Value	ValueOutput
+Op 6 Pan Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 6 Pan Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 6 Pan Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 6 Pan Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 6 Pan Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 6 Pan Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 6 Pan Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 6 Pan Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 6 Pan Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 6 Pan Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 6 Pan Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 6 Pan Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 6 Pan Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 6 Pan Envelope Loop Mode	0	21	Value	ValueOutput
+Op 1 Volume Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 1 Volume Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 1 Volume Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 1 Volume Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 1 Volume Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 1 Volume Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 1 Volume Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 1 Volume Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 1 Volume Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 1 Volume Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 1 Volume Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 1 Volume Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 1 Volume Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 1 Volume Envelope Loop Mode	0	21	Value	ValueOutput
+Op 2 Volume Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 2 Volume Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 2 Volume Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 2 Volume Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 2 Volume Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 2 Volume Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 2 Volume Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 2 Volume Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 2 Volume Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 2 Volume Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 2 Volume Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 2 Volume Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 2 Volume Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 2 Volume Envelope Loop Mode	0	21	Value	ValueOutput
+Op 3 Volume Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 3 Volume Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 3 Volume Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 3 Volume Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 3 Volume Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 3 Volume Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 3 Volume Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 3 Volume Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 3 Volume Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 3 Volume Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 3 Volume Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 3 Volume Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 3 Volume Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 3 Volume Envelope Loop Mode	0	21	Value	ValueOutput
+Op 4 Volume Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 4 Volume Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 4 Volume Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 4 Volume Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 4 Volume Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 4 Volume Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 4 Volume Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 4 Volume Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 4 Volume Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 4 Volume Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 4 Volume Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 4 Volume Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 4 Volume Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 4 Volume Envelope Loop Mode	0	21	Value	ValueOutput
+Op 5 Volume Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 5 Volume Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 5 Volume Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 5 Volume Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 5 Volume Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 5 Volume Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 5 Volume Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 5 Volume Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 5 Volume Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 5 Volume Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 5 Volume Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 5 Volume Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 5 Volume Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 5 Volume Envelope Loop Mode	0	21	Value	ValueOutput
+Op 6 Volume Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 6 Volume Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 6 Volume Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 6 Volume Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 6 Volume Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 6 Volume Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 6 Volume Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 6 Volume Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 6 Volume Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 6 Volume Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 6 Volume Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 6 Volume Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 6 Volume Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 6 Volume Envelope Loop Mode	0	21	Value	ValueOutput
+Op 1 Modulation Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 1 Modulation Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 1 Modulation Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 1 Modulation Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 1 Modulation Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 1 Modulation Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 1 Modulation Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 1 Modulation Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 1 Modulation Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 1 Modulation Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 1 Modulation Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 1 Modulation Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 1 Modulation Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 1 Modulation Envelope Loop Mode	0	21	Value	ValueOutput
+Op 2 Modulation Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 2 Modulation Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 2 Modulation Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 2 Modulation Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 2 Modulation Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 2 Modulation Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 2 Modulation Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 2 Modulation Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 2 Modulation Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 2 Modulation Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 2 Modulation Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 2 Modulation Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 2 Modulation Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 2 Modulation Envelope Loop Mode	0	21	Value	ValueOutput
+Op 3 Modulation Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 3 Modulation Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 3 Modulation Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 3 Modulation Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 3 Modulation Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 3 Modulation Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 3 Modulation Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 3 Modulation Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 3 Modulation Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 3 Modulation Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 3 Modulation Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 3 Modulation Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 3 Modulation Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 3 Modulation Envelope Loop Mode	0	21	Value	ValueOutput
+Op 4 Modulation Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 4 Modulation Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 4 Modulation Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 4 Modulation Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 4 Modulation Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 4 Modulation Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 4 Modulation Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 4 Modulation Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 4 Modulation Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 4 Modulation Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 4 Modulation Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 4 Modulation Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 4 Modulation Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 4 Modulation Envelope Loop Mode	0	21	Value	ValueOutput
+Op 5 Modulation Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 5 Modulation Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 5 Modulation Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 5 Modulation Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 5 Modulation Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 5 Modulation Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 5 Modulation Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 5 Modulation Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 5 Modulation Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 5 Modulation Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 5 Modulation Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 5 Modulation Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 5 Modulation Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 5 Modulation Envelope Loop Mode	0	21	Value	ValueOutput
+Op 6 Modulation Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 6 Modulation Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 6 Modulation Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 6 Modulation Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 6 Modulation Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 6 Modulation Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 6 Modulation Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 6 Modulation Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 6 Modulation Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 6 Modulation Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 6 Modulation Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 6 Modulation Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 6 Modulation Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 6 Modulation Envelope Loop Mode	0	21	Value	ValueOutput
+Op 1 Pitch Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 1 Pitch Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 1 Pitch Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 1 Pitch Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 1 Pitch Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 1 Pitch Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 1 Pitch Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 1 Pitch Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 1 Pitch Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 1 Pitch Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 1 Pitch Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 1 Pitch Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 1 Pitch Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 1 Pitch Envelope Loop Mode	0	21	Value	ValueOutput
+Op 2 Pitch Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 2 Pitch Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 2 Pitch Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 2 Pitch Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 2 Pitch Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 2 Pitch Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 2 Pitch Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 2 Pitch Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 2 Pitch Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 2 Pitch Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 2 Pitch Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 2 Pitch Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 2 Pitch Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 2 Pitch Envelope Loop Mode	0	21	Value	ValueOutput
+Op 3 Pitch Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 3 Pitch Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 3 Pitch Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 3 Pitch Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 3 Pitch Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 3 Pitch Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 3 Pitch Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 3 Pitch Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 3 Pitch Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 3 Pitch Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 3 Pitch Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 3 Pitch Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 3 Pitch Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 3 Pitch Envelope Loop Mode	0	21	Value	ValueOutput
+Op 4 Pitch Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 4 Pitch Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 4 Pitch Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 4 Pitch Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 4 Pitch Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 4 Pitch Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 4 Pitch Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 4 Pitch Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 4 Pitch Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 4 Pitch Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 4 Pitch Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 4 Pitch Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 4 Pitch Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 4 Pitch Envelope Loop Mode	0	21	Value	ValueOutput
+Op 5 Pitch Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 5 Pitch Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 5 Pitch Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 5 Pitch Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 5 Pitch Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 5 Pitch Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 5 Pitch Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 5 Pitch Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 5 Pitch Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 5 Pitch Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 5 Pitch Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 5 Pitch Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 5 Pitch Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 5 Pitch Envelope Loop Mode	0	21	Value	ValueOutput
+Op 6 Pitch Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 6 Pitch Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 6 Pitch Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 6 Pitch Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 6 Pitch Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 6 Pitch Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 6 Pitch Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 6 Pitch Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 6 Pitch Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 6 Pitch Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 6 Pitch Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 6 Pitch Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 6 Pitch Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 6 Pitch Envelope Loop Mode	0	21	Value	ValueOutput
+Op 1 Phase Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 1 Phase Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 1 Phase Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 1 Phase Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 1 Phase Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 1 Phase Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 1 Phase Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 1 Phase Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 1 Phase Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 1 Phase Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 1 Phase Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 1 Phase Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 1 Phase Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 1 Phase Envelope Loop Mode	0	21	Value	ValueOutput
+Op 2 Phase Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 2 Phase Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 2 Phase Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 2 Phase Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 2 Phase Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 2 Phase Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 2 Phase Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 2 Phase Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 2 Phase Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 2 Phase Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 2 Phase Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 2 Phase Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 2 Phase Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 2 Phase Envelope Loop Mode	0	21	Value	ValueOutput
+Op 3 Phase Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 3 Phase Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 3 Phase Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 3 Phase Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 3 Phase Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 3 Phase Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 3 Phase Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 3 Phase Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 3 Phase Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 3 Phase Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 3 Phase Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 3 Phase Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 3 Phase Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 3 Phase Envelope Loop Mode	0	21	Value	ValueOutput
+Op 4 Phase Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 4 Phase Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 4 Phase Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 4 Phase Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 4 Phase Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 4 Phase Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 4 Phase Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 4 Phase Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 4 Phase Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 4 Phase Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 4 Phase Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 4 Phase Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 4 Phase Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 4 Phase Envelope Loop Mode	0	21	Value	ValueOutput
+Op 5 Phase Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 5 Phase Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 5 Phase Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 5 Phase Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 5 Phase Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 5 Phase Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 5 Phase Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 5 Phase Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 5 Phase Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 5 Phase Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 5 Phase Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 5 Phase Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 5 Phase Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 5 Phase Envelope Loop Mode	0	21	Value	ValueOutput
+Op 6 Phase Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Op 6 Phase Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Op 6 Phase Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Op 6 Phase Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Op 6 Phase Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Op 6 Phase Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Op 6 Phase Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Op 6 Phase Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Op 6 Phase Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Op 6 Phase Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Op 6 Phase Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Op 6 Phase Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Op 6 Phase Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Op 6 Phase Envelope Loop Mode	0	21	Value	ValueOutput
+Filter 1 Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Filter 1 Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Filter 1 Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Filter 1 Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Filter 1 Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Filter 1 Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Filter 1 Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Filter 1 Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Filter 1 Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Filter 1 Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Filter 1 Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Filter 1 Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Filter 1 Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Filter 1 Envelope Loop Mode	0	21	Value	ValueOutput
+Filter 2 Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Filter 2 Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Filter 2 Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Filter 2 Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Filter 2 Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Filter 2 Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Filter 2 Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Filter 2 Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Filter 2 Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Filter 2 Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Filter 2 Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Filter 2 Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Filter 2 Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Filter 2 Envelope Loop Mode	0	21	Value	ValueOutput
+Amp Envelope Stage 0 Level	0	4194304	Value	ValueOutput
+Amp Envelope Stage 1 Level	0	4194304	Value	ValueOutput
+Amp Envelope Stage 2 Level	0	4194304	Value	ValueOutput
+Amp Envelope Stage 3 Level	0	4194304	Value	ValueOutput
+Amp Envelope Stage 4 Level	0	4194304	Value	ValueOutput
+Amp Envelope Stage 5 Level	0	4194304	Value	ValueOutput
+Amp Envelope Stage 6 Level	0	4194304	Value	ValueOutput
+Amp Envelope Stage 1 Time	0	4194304	Value	ValueOutput
+Amp Envelope Stage 2 Time	0	4194304	Value	ValueOutput
+Amp Envelope Stage 3 Time	0	4194304	Value	ValueOutput
+Amp Envelope Stage 4 Time	0	4194304	Value	ValueOutput
+Amp Envelope Stage 5 Time	0	4194304	Value	ValueOutput
+Amp Envelope Stage 6 Time	0	4194304	Value	ValueOutput
+Amp Envelope Loop Mode	0	21	Value	ValueOutput
+Filter 1 Mode	0	15	Value	ValueOutput
+Filter 1 Frequency	0	4194304	Value	ValueOutput
+Filter 1 Post Decimation	0	1	Toggle	ValueOutput
+Filter 1 Decimation	0	4194304	Value	ValueOutput
+Filter 1 Resonance	0	4194304	Value	ValueOutput
+Filter 1 Envelope Amount	0	4194304	Value	ValueOutput
+Filter 2 Mode	0	15	Value	ValueOutput
+Filter 2 Frequency	0	4194304	Value	ValueOutput
+Filter 1 Amount	0	4194304	Value	ValueOutput
+Filter 2 Saturation	0	4194304	Value	ValueOutput
+Filter 2 Resonance	0	4194304	Value	ValueOutput
+Filter 2 Envelope Amount	0	4194304	Value	ValueOutput
+Global LFO Selection	0	1	Toggle	ValueOutput
+LFO 1 Sync	0	21	Value	ValueOutput
+LFO 2 Sync	0	21	Value	ValueOutput
+LFO 1 Rate	0	4194304	Value	ValueOutput
+LFO 2 Rate	0	4194304	Value	ValueOutput
+LFO 1 Wave	0	4194304	Value	ValueOutput
+LFO 2 Wave	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Pitch Wheel Range	0	24	Value	ValueOutput
+Monophonic Legato	0	1	Toggle	ValueOutput
+Polyphony	0	11	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+FM/RM Selection	0	1	Toggle	ValueOutput
+Op 1 Solo	0	1	Toggle	ValueOutput
+Op 2 Solo	0	1	Toggle	ValueOutput
+Op 3 Solo	0	1	Toggle	ValueOutput
+Op 4 Solo	0	1	Toggle	ValueOutput
+Op 5 Solo	0	1	Toggle	ValueOutput
+Op 6 Solo	0	1	Toggle	ValueOutput
+Filter 1 Solo	0	1	Toggle	ValueOutput
+Filter 2 Solo	0	1	Toggle	ValueOutput
+Op 1 to Op 1 FM	0	4194304	Value	ValueOutput
+Op 1 to Op 1 RM	0	4194304	Value	ValueOutput
+Op 2 to Op 1 FM	0	4194304	Value	ValueOutput
+Op 2 to Op 1 RM	0	4194304	Value	ValueOutput
+Op 3 to Op 1 FM	0	4194304	Value	ValueOutput
+Op 3 to Op 1 RM	0	4194304	Value	ValueOutput
+Op 4 to Op 1 FM	0	4194304	Value	ValueOutput
+Op 4 to Op 1 RM	0	4194304	Value	ValueOutput
+Op 5 to Op 1 FM	0	4194304	Value	ValueOutput
+Op 5 to Op 1 RM	0	4194304	Value	ValueOutput
+Op 6 to Op 1 FM	0	4194304	Value	ValueOutput
+Op 6 to Op 1 RM	0	4194304	Value	ValueOutput
+Op 1 to Op 2 FM	0	4194304	Value	ValueOutput
+Op 1 to Op 2 RM	0	4194304	Value	ValueOutput
+Op 2 to Op 2 FM	0	4194304	Value	ValueOutput
+Op 2 to Op 2 RM	0	4194304	Value	ValueOutput
+Op 3 to Op 2 FM	0	4194304	Value	ValueOutput
+Op 3 to Op 2 RM	0	4194304	Value	ValueOutput
+Op 4 to Op 2 FM	0	4194304	Value	ValueOutput
+Op 4 to Op 2 RM	0	4194304	Value	ValueOutput
+Op 5 to Op 2 FM	0	4194304	Value	ValueOutput
+Op 5 to Op 2 RM	0	4194304	Value	ValueOutput
+Op 6 to Op 2 FM	0	4194304	Value	ValueOutput
+Op 6 to Op 2 RM	0	4194304	Value	ValueOutput
+Op 1 to Op 3 FM	0	4194304	Value	ValueOutput
+Op 1 to Op 3 RM	0	4194304	Value	ValueOutput
+Op 2 to Op 3 FM	0	4194304	Value	ValueOutput
+Op 2 to Op 3 RM	0	4194304	Value	ValueOutput
+Op 3 to Op 3 FM	0	4194304	Value	ValueOutput
+Op 3 to Op 3 RM	0	4194304	Value	ValueOutput
+Op 4 to Op 3 FM	0	4194304	Value	ValueOutput
+Op 4 to Op 3 RM	0	4194304	Value	ValueOutput
+Op 5 to Op 3 FM	0	4194304	Value	ValueOutput
+Op 5 to Op 3 RM	0	4194304	Value	ValueOutput
+Op 6 to Op 3 FM	0	4194304	Value	ValueOutput
+Op 6 to Op 3 RM	0	4194304	Value	ValueOutput
+Op 1 to Op 4 FM	0	4194304	Value	ValueOutput
+Op 1 to Op 4 RM	0	4194304	Value	ValueOutput
+Op 2 to Op 4 FM	0	4194304	Value	ValueOutput
+Op 2 to Op 4 RM	0	4194304	Value	ValueOutput
+Op 3 to Op 4 FM	0	4194304	Value	ValueOutput
+Op 3 to Op 4 RM	0	4194304	Value	ValueOutput
+Op 4 to Op 4 FM	0	4194304	Value	ValueOutput
+Op 4 to Op 4 RM	0	4194304	Value	ValueOutput
+Op 5 to Op 4 FM	0	4194304	Value	ValueOutput
+Op 5 to Op 4 RM	0	4194304	Value	ValueOutput
+Op 6 to Op 4 FM	0	4194304	Value	ValueOutput
+Op 6 to Op 4 RM	0	4194304	Value	ValueOutput
+Op 1 to Op 5 FM	0	4194304	Value	ValueOutput
+Op 1 to Op 5 RM	0	4194304	Value	ValueOutput
+Op 2 to Op 5 FM	0	4194304	Value	ValueOutput
+Op 2 to Op 5 RM	0	4194304	Value	ValueOutput
+Op 3 to Op 5 FM	0	4194304	Value	ValueOutput
+Op 3 to Op 5 RM	0	4194304	Value	ValueOutput
+Op 4 to Op 5 FM	0	4194304	Value	ValueOutput
+Op 4 to Op 5 RM	0	4194304	Value	ValueOutput
+Op 5 to Op 5 FM	0	4194304	Value	ValueOutput
+Op 5 to Op 5 RM	0	4194304	Value	ValueOutput
+Op 6 to Op 5 FM	0	4194304	Value	ValueOutput
+Op 6 to Op 5 RM	0	4194304	Value	ValueOutput
+Op 1 to Op 6 FM	0	4194304	Value	ValueOutput
+Op 1 to Op 6 RM	0	4194304	Value	ValueOutput
+Op 2 to Op 6 FM	0	4194304	Value	ValueOutput
+Op 2 to Op 6 RM	0	4194304	Value	ValueOutput
+Op 3 to Op 6 FM	0	4194304	Value	ValueOutput
+Op 3 to Op 6 RM	0	4194304	Value	ValueOutput
+Op 4 to Op 6 FM	0	4194304	Value	ValueOutput
+Op 4 to Op 6 RM	0	4194304	Value	ValueOutput
+Op 5 to Op 6 FM	0	4194304	Value	ValueOutput
+Op 5 to Op 6 RM	0	4194304	Value	ValueOutput
+Op 6 to Op 6 FM	0	4194304	Value	ValueOutput
+Op 6 to Op 6 RM	0	4194304	Value	ValueOutput
+Op 1 to Filter 1	0	4194304	Value	ValueOutput
+Op 2 to Filter 1	0	4194304	Value	ValueOutput
+Op 3 to Filter 1	0	4194304	Value	ValueOutput
+Op 4 to Filter 1	0	4194304	Value	ValueOutput
+Op 5 to Filter 1	0	4194304	Value	ValueOutput
+Op 6 to Filter 1	0	4194304	Value	ValueOutput
+Op 1 to Filter 2	0	4194304	Value	ValueOutput
+Op 2 to Filter 2	0	4194304	Value	ValueOutput
+Op 3 to Filter 2	0	4194304	Value	ValueOutput
+Op 4 to Filter 2	0	4194304	Value	ValueOutput
+Op 5 to Filter 2	0	4194304	Value	ValueOutput
+Op 6 to Filter 2	0	4194304	Value	ValueOutput
+Op 1 Pan	0	4194304	Value	ValueOutput
+Op 2 Pan	0	4194304	Value	ValueOutput
+Op 3 Pan	0	4194304	Value	ValueOutput
+Op 4 Pan	0	4194304	Value	ValueOutput
+Op 5 Pan	0	4194304	Value	ValueOutput
+Op 6 Pan	0	4194304	Value	ValueOutput
+Filter 1 Pan	0	4194304	Value	ValueOutput
+Filter 2 Pan	0	4194304	Value	ValueOutput
+Op 1 Output	0	4194304	Value	ValueOutput
+Op 2 Output	0	4194304	Value	ValueOutput
+Op 3 Output	0	4194304	Value	ValueOutput
+Op 4 Output	0	4194304	Value	ValueOutput
+Op 5 Output	0	4194304	Value	ValueOutput
+Op 6 Output	0	4194304	Value	ValueOutput
+Filter 1 Output	0	4194304	Value	ValueOutput
+Filter 2 Output	0	4194304	Value	ValueOutput
+Modifier X	0	4194304	Value	ValueOutput
+Modifier Y	0	4194304	Value	ValueOutput
+Operator Selection	0	5	Value	ValueOutput
+Envelope/Harmonics Selection	0	11	Value	ValueOutput
+Op 1 Pan Envelope Amount	0	4194304	Value	ValueOutput
+Op 2 Pan Envelope Amount	0	4194304	Value	ValueOutput
+Op 3 Pan Envelope Amount	0	4194304	Value	ValueOutput
+Op 4 Pan Envelope Amount	0	4194304	Value	ValueOutput
+Op 5 Pan Envelope Amount	0	4194304	Value	ValueOutput
+Op 6 Pan Envelope Amount	0	4194304	Value	ValueOutput
+Op 1 Volume Envelope Amount	0	4194304	Value	ValueOutput
+Op 2 Volume Envelope Amount	0	4194304	Value	ValueOutput
+Op 3 Volume Envelope Amount	0	4194304	Value	ValueOutput
+Op 4 Volume Envelope Amount	0	4194304	Value	ValueOutput
+Op 5 Volume Envelope Amount	0	4194304	Value	ValueOutput
+Op 6 Volume Envelope Amount	0	4194304	Value	ValueOutput
+Op 1 Modulation Envelope Amount	0	4194304	Value	ValueOutput
+Op 2 Modulation Envelope Amount	0	4194304	Value	ValueOutput
+Op 3 Modulation Envelope Amount	0	4194304	Value	ValueOutput
+Op 4 Modulation Envelope Amount	0	4194304	Value	ValueOutput
+Op 5 Modulation Envelope Amount	0	4194304	Value	ValueOutput
+Op 6 Modulation Envelope Amount	0	4194304	Value	ValueOutput
+Op 1 Pitch Envelope Amount	0	4194304	Value	ValueOutput
+Op 2 Pitch Envelope Amount	0	4194304	Value	ValueOutput
+Op 3 Pitch Envelope Amount	0	4194304	Value	ValueOutput
+Op 4 Pitch Envelope Amount	0	4194304	Value	ValueOutput
+Op 5 Pitch Envelope Amount	0	4194304	Value	ValueOutput
+Op 6 Pitch Envelope Amount	0	4194304	Value	ValueOutput
+Op 1 Phase Envelope Amount	0	4194304	Value	ValueOutput
+Op 2 Phase Envelope Amount	0	4194304	Value	ValueOutput
+Op 3 Phase Envelope Amount	0	4194304	Value	ValueOutput
+Op 4 Phase Envelope Amount	0	4194304	Value	ValueOutput
+Op 5 Phase Envelope Amount	0	4194304	Value	ValueOutput
+Op 6 Phase Envelope Amount	0	4194304	Value	ValueOutput
+Op 1 Coarse Semitones	0	72	Value	ValueOutput
+Op 2 Coarse Semitones	0	72	Value	ValueOutput
+Op 3 Coarse Semitones	0	72	Value	ValueOutput
+Op 4 Coarse Semitones	0	72	Value	ValueOutput
+Op 5 Coarse Semitones	0	72	Value	ValueOutput
+Op 6 Coarse Semitones	0	72	Value	ValueOutput
+Op 1 Fine Semitones	0	4194304	Value	ValueOutput
+Op 2 Fine Semitones	0	4194304	Value	ValueOutput
+Op 3 Fine Semitones	0	4194304	Value	ValueOutput
+Op 4 Fine Semitones	0	4194304	Value	ValueOutput
+Op 5 Fine Semitones	0	4194304	Value	ValueOutput
+Op 6 Fine Semitones	0	4194304	Value	ValueOutput
+Op 1 LFO Sync	0	21	Value	ValueOutput
+Op 2 LFO Sync	0	21	Value	ValueOutput
+Op 3 LFO Sync	0	21	Value	ValueOutput
+Op 4 LFO Sync	0	21	Value	ValueOutput
+Op 5 LFO Sync	0	21	Value	ValueOutput
+Op 6 LFO Sync	0	21	Value	ValueOutput
+Op 1 LFO Rate	0	4194304	Value	ValueOutput
+Op 2 LFO Rate	0	4194304	Value	ValueOutput
+Op 3 LFO Rate	0	4194304	Value	ValueOutput
+Op 4 LFO Rate	0	4194304	Value	ValueOutput
+Op 5 LFO Rate	0	4194304	Value	ValueOutput
+Op 6 LFO Rate	0	4194304	Value	ValueOutput
+Op 1 LFO Wave	0	4194304	Value	ValueOutput
+Op 2 LFO Wave	0	4194304	Value	ValueOutput
+Op 3 LFO Wave	0	4194304	Value	ValueOutput
+Op 4 LFO Wave	0	4194304	Value	ValueOutput
+Op 5 LFO Wave	0	4194304	Value	ValueOutput
+Op 6 LFO Wave	0	4194304	Value	ValueOutput
+Op 1 LFO Pan Amount	0	4194304	Value	ValueOutput
+Op 2 LFO Pan Amount	0	4194304	Value	ValueOutput
+Op 3 LFO Pan Amount	0	4194304	Value	ValueOutput
+Op 4 LFO Pan Amount	0	4194304	Value	ValueOutput
+Op 5 LFO Pan Amount	0	4194304	Value	ValueOutput
+Op 6 LFO Pan Amount	0	4194304	Value	ValueOutput
+Op 1 LFO Volume Amount	0	4194304	Value	ValueOutput
+Op 2 LFO Volume Amount	0	4194304	Value	ValueOutput
+Op 3 LFO Volume Amount	0	4194304	Value	ValueOutput
+Op 4 LFO Volume Amount	0	4194304	Value	ValueOutput
+Op 5 LFO Volume Amount	0	4194304	Value	ValueOutput
+Op 6 LFO Volume Amount	0	4194304	Value	ValueOutput
+Op 1 LFO Modulation Amount	0	4194304	Value	ValueOutput
+Op 2 LFO Modulation Amount	0	4194304	Value	ValueOutput
+Op 3 LFO Modulation Amount	0	4194304	Value	ValueOutput
+Op 4 LFO Modulation Amount	0	4194304	Value	ValueOutput
+Op 5 LFO Modulation Amount	0	4194304	Value	ValueOutput
+Op 6 LFO Modulation Amount	0	4194304	Value	ValueOutput
+Op 1 LFO Pitch Amount	0	4194304	Value	ValueOutput
+Op 2 LFO Pitch Amount	0	4194304	Value	ValueOutput
+Op 3 LFO Pitch Amount	0	4194304	Value	ValueOutput
+Op 4 LFO Pitch Amount	0	4194304	Value	ValueOutput
+Op 5 LFO Pitch Amount	0	4194304	Value	ValueOutput
+Op 6 LFO Pitch Amount	0	4194304	Value	ValueOutput
+Op 1 LFO Phase Amount	0	4194304	Value	ValueOutput
+Op 2 LFO Phase Amount	0	4194304	Value	ValueOutput
+Op 3 LFO Phase Amount	0	4194304	Value	ValueOutput
+Op 4 LFO Phase Amount	0	4194304	Value	ValueOutput
+Op 5 LFO Phase Amount	0	4194304	Value	ValueOutput
+Op 6 LFO Phase Amount	0	4194304	Value	ValueOutput
+Op 1 Noise Mix	0	4194304	Value	ValueOutput
+Op 2 Noise Mix	0	4194304	Value	ValueOutput
+Op 3 Noise Mix	0	4194304	Value	ValueOutput
+Op 4 Noise Mix	0	4194304	Value	ValueOutput
+Op 5 Noise Mix	0	4194304	Value	ValueOutput
+Op 6 Noise Mix	0	4194304	Value	ValueOutput
+Op 1 Volume	0	4194304	Value	ValueOutput
+Op 2 Volume	0	4194304	Value	ValueOutput
+Op 3 Volume	0	4194304	Value	ValueOutput
+Op 4 Volume	0	4194304	Value	ValueOutput
+Op 5 Volume	0	4194304	Value	ValueOutput
+Op 6 Volume	0	4194304	Value	ValueOutput
+Reverb Enable	0	1	Toggle	ValueOutput
+Reverb Low Time	0	4194304	Value	ValueOutput
+Reverb Mid Time	0	4194304	Value	ValueOutput
+Reverb Low-Mid Crossover	0	4194304	Value	ValueOutput
+Reverb Damping	0	4194304	Value	ValueOutput
+Reverb Input Delay	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Routing 1 Source	0	33	Value	ValueOutput
+Routing 2 Source	0	33	Value	ValueOutput
+Routing 3 Source	0	33	Value	ValueOutput
+Routing 4 Source	0	33	Value	ValueOutput
+Routing 5 Source	0	33	Value	ValueOutput
+Routing 6 Source	0	33	Value	ValueOutput
+Routing 1 Destination Amount	0	4194304	Value	ValueOutput
+Routing 2 Destination Amount	0	4194304	Value	ValueOutput
+Routing 3 Destination Amount	0	4194304	Value	ValueOutput
+Routing 4 Destination Amount	0	4194304	Value	ValueOutput
+Routing 5 Destination Amount	0	4194304	Value	ValueOutput
+Routing 6 Destination Amount	0	4194304	Value	ValueOutput
+Routing 1 Destination	0	167	Value	ValueOutput
+Routing 2 Destination	0	167	Value	ValueOutput
+Routing 3 Destination	0	167	Value	ValueOutput
+Routing 4 Destination	0	167	Value	ValueOutput
+Routing 5 Destination	0	167	Value	ValueOutput
+Routing 6 Destination	0	167	Value	ValueOutput
+Routing 1 Scale Amount	0	4194304	Value	ValueOutput
+Routing 2 Scale Amount	0	4194304	Value	ValueOutput
+Routing 3 Scale Amount	0	4194304	Value	ValueOutput
+Routing 4 Scale Amount	0	4194304	Value	ValueOutput
+Routing 5 Scale Amount	0	4194304	Value	ValueOutput
+Routing 6 Scale Amount	0	4194304	Value	ValueOutput
+Routing 1 Scale	0	29	Value	ValueOutput
+Routing 2 Scale	0	29	Value	ValueOutput
+Routing 3 Scale	0	29	Value	ValueOutput
+Routing 4 Scale	0	29	Value	ValueOutput
+Routing 5 Scale	0	29	Value	ValueOutput
+Routing 6 Scale	0	29	Value	ValueOutput
+Number of Voices	0	3	Value	ValueOutput
+Detuning	0	4194304	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Op 1 Wave	0	4194304	Value	ValueOutput
+Op 2 Wave	0	4194304	Value	ValueOutput
+Op 3 Wave	0	4194304	Value	ValueOutput
+Op 4 Wave	0	4194304	Value	ValueOutput
+Op 5 Wave	0	4194304	Value	ValueOutput
+Op 6 Wave	0	4194304	Value	ValueOutput
+Op 1 Number of Harmonics	0	100	Value	ValueOutput
+Op 2 Number of Harmonics	0	100	Value	ValueOutput
+Op 3 Number of Harmonics	0	100	Value	ValueOutput
+Op 4 Number of Harmonics	0	100	Value	ValueOutput
+Op 5 Number of Harmonics	0	100	Value	ValueOutput
+Op 6 Number of Harmonics	0	100	Value	ValueOutput
+Op 1 Ratio	0	5	Value	ValueOutput
+Op 2 Ratio	0	5	Value	ValueOutput
+Op 3 Ratio	0	5	Value	ValueOutput
+Op 4 Ratio	0	5	Value	ValueOutput
+Op 5 Ratio	0	5	Value	ValueOutput
+Op 6 Ratio	0	5	Value	ValueOutput
+Op 1 Phase Coherence	0	4194304	Value	ValueOutput
+Op 2 Phase Coherence	0	4194304	Value	ValueOutput
+Op 3 Phase Coherence	0	4194304	Value	ValueOutput
+Op 4 Phase Coherence	0	4194304	Value	ValueOutput
+Op 5 Phase Coherence	0	4194304	Value	ValueOutput
+Op 6 Phase Coherence	0	4194304	Value	ValueOutput
+Op 1 Key Reset	0	4194304	Value	ValueOutput
+Op 2 Key Reset	0	4194304	Value	ValueOutput
+Op 3 Key Reset	0	4194304	Value	ValueOutput
+Op 4 Key Reset	0	4194304	Value	ValueOutput
+Op 5 Key Reset	0	4194304	Value	ValueOutput
+Op 6 Key Reset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

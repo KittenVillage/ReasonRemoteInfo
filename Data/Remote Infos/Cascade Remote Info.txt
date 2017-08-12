@@ -1,0 +1,89 @@
+Scope
+Manufacturer	Model
+112dB	vst.Casc.Cascade
+Note: Will match scope definitions for vst.Casc.Cascade or vst.Casc
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+VCO Mix	0	4194304	Value	ValueOutput
+VCO-1 Wave	0	4194304	Value	ValueOutput
+VCO-1 Coarse Tun	0	4194304	Value	ValueOutput
+VCO-1 Fine Tune	0	4194304	Value	ValueOutput
+VCO-1 Shape	0	4194304	Value	ValueOutput
+VCO-2 Wave	0	4194304	Value	ValueOutput
+VCO-2 Coarse Tun	0	4194304	Value	ValueOutput
+VCO-2 Fine Tune	0	4194304	Value	ValueOutput
+VCO-2 Shape	0	4194304	Value	ValueOutput
+VCO-Mod LFO	0	4194304	Value	ValueOutput
+VCO-Mod Env-1	0	4194304	Value	ValueOutput
+VCO-Mod Env-2	0	4194304	Value	ValueOutput
+VCO-1 Pitch Mod	0	4194304	Value	ValueOutput
+VCO-2 Pitch Mod	0	4194304	Value	ValueOutput
+VCO-1 Shape Mod	0	4194304	Value	ValueOutput
+VCO-2 Shape Mod	0	4194304	Value	ValueOutput
+LFO Early	0	4194304	Value	ValueOutput
+LFO Late	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Phase	0	4194304	Value	ValueOutput
+LFO Wave	0	4194304	Value	ValueOutput
+LFO Nom	0	4194304	Value	ValueOutput
+LFO Denom	0	4194304	Value	ValueOutput
+LFO-Mod Env-1	0	4194304	Value	ValueOutput
+LFO-Mod Env-2	0	4194304	Value	ValueOutput
+VCF Cutoff	0	4194304	Value	ValueOutput
+VCF Reson	0	4194304	Value	ValueOutput
+VCF-Mod LFO	0	4194304	Value	ValueOutput
+VCF-Mod Env-1	0	4194304	Value	ValueOutput
+VCF-Mod Env-2	0	4194304	Value	ValueOutput
+VCF-Mod Velocity	0	4194304	Value	ValueOutput
+VCF-Mod Key	0	4194304	Value	ValueOutput
+Env-1 Attack Cur	0	4194304	Value	ValueOutput
+Env-1 Attack	0	4194304	Value	ValueOutput
+Env-1 Decay	0	4194304	Value	ValueOutput
+Env-1 Sustain	0	4194304	Value	ValueOutput
+Env-1 Release	0	4194304	Value	ValueOutput
+Env-1 Sensitivit	0	4194304	Value	ValueOutput
+Env-1 Velocity	0	4194304	Value	ValueOutput
+Env-2 Stage	0	4194304	Value	ValueOutput
+Env-2 Time	0	4194304	Value	ValueOutput
+Env-2 Level	0	4194304	Value	ValueOutput
+Env-2 Curve	0	4194304	Value	ValueOutput
+Env-2 Early	0	4194304	Value	ValueOutput
+Env-2 Repeat	0	4194304	Value	ValueOutput
+Dry/Wet Mix	0	4194304	Value	ValueOutput
+Casc-Active	0	4194304	Value	ValueOutput
+Casc-Render	0	4194304	Value	ValueOutput
+Casc-Density	0	4194304	Value	ValueOutput
+Casc-Spread	0	4194304	Value	ValueOutput
+Casc-Freeze	0	4194304	Value	ValueOutput
+Casc-Time	0	4194304	Value	ValueOutput
+Casc-Windowed	0	4194304	Value	ValueOutput
+Casc-Width	0	4194304	Value	ValueOutput
+Casc-Gain	0	4194304	Value	ValueOutput
+Casc-Mod LFO	0	4194304	Value	ValueOutput
+Casc-Mod Env-2	0	4194304	Value	ValueOutput
+Casc-Mod Delays	0	4194304	Value	ValueOutput
+Drive Active	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+Casc-Cutoff	0	4194304	Value	ValueOutput
+Casc-Resonance	0	4194304	Value	ValueOutput
+Casc-Filter-Mod 	0	4194304	Value	ValueOutput
+Casc-Filter-Mod 	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

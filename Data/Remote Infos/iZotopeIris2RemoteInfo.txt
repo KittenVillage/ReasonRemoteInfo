@@ -1,0 +1,193 @@
+Scope
+Manufacturer	Model
+iZotope, Inc.	vst.Zir2.iZotope Iris 2
+Note: Will match scope definitions for vst.Zir2.iZotope Iris 2 or vst.Zir2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Macro 1	0	4194304	Value	ValueOutput
+Macro 2	0	4194304	Value	ValueOutput
+Macro 3	0	4194304	Value	ValueOutput
+Macro 4	0	4194304	Value	ValueOutput
+Macro 5	0	4194304	Value	ValueOutput
+Macro 6	0	4194304	Value	ValueOutput
+Macro 7	0	4194304	Value	ValueOutput
+Macro 8	0	4194304	Value	ValueOutput
+Global Output	0	4194304	Value	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+Intensity	0	4194304	Value	ValueOutput
+Mix- Sample 1	0	4194304	Value	ValueOutput
+Mix- Sample 2	0	4194304	Value	ValueOutput
+Mix- Sample 3	0	4194304	Value	ValueOutput
+Mix- Sample 4	0	4194304	Value	ValueOutput
+Master Gain	0	4194304	Value	ValueOutput
+Master Pan	0	4194304	Value	ValueOutput
+Master Velocity	0	4194304	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter Keyboard Trackin	0	4194304	Value	ValueOutput
+Filter Enable	0	4194304	Value	ValueOutput
+Filter Type	0	4194304	Value	ValueOutput
+Mute- Sample 1	0	4194304	Value	ValueOutput
+Mute- Sample 2	0	4194304	Value	ValueOutput
+Mute- Sample 3	0	4194304	Value	ValueOutput
+Mute- Sample 4	0	4194304	Value	ValueOutput
+Coarse Tune- Sample 1	0	4194304	Value	ValueOutput
+Coarse Tune- Sample 2	0	4194304	Value	ValueOutput
+Coarse Tune- Sample 3	0	4194304	Value	ValueOutput
+Coarse Tune- Sample 4	0	4194304	Value	ValueOutput
+Fine Tune- Sample 1	0	4194304	Value	ValueOutput
+Fine Tune- Sample 2	0	4194304	Value	ValueOutput
+Fine Tune- Sample 3	0	4194304	Value	ValueOutput
+Fine Tune- Sample 4	0	4194304	Value	ValueOutput
+Pan- Sample 1	0	4194304	Value	ValueOutput
+Pan- Sample 2	0	4194304	Value	ValueOutput
+Pan- Sample 3	0	4194304	Value	ValueOutput
+Pan- Sample 4	0	4194304	Value	ValueOutput
+Gain- Sample 1	0	4194304	Value	ValueOutput
+Gain- Sample 2	0	4194304	Value	ValueOutput
+Gain- Sample 3	0	4194304	Value	ValueOutput
+Gain- Sample 4	0	4194304	Value	ValueOutput
+Playback mode- Sample 1	0	4194304	Value	ValueOutput
+Playback mode- Sample 2	0	4194304	Value	ValueOutput
+Playback mode- Sample 3	0	4194304	Value	ValueOutput
+Playback mode- Sample 4	0	4194304	Value	ValueOutput
+Loop Enable- Sample 1	0	4194304	Value	ValueOutput
+Loop Enable- Sample 2	0	4194304	Value	ValueOutput
+Loop Enable- Sample 3	0	4194304	Value	ValueOutput
+Loop Enable- Sample 4	0	4194304	Value	ValueOutput
+Retrigger- Sample 1	0	4194304	Value	ValueOutput
+Retrigger- Sample 2	0	4194304	Value	ValueOutput
+Retrigger- Sample 3	0	4194304	Value	ValueOutput
+Retrigger- Sample 4	0	4194304	Value	ValueOutput
+Delay Send- Sample 1	0	4194304	Value	ValueOutput
+Delay Send- Sample 2	0	4194304	Value	ValueOutput
+Delay Send- Sample 3	0	4194304	Value	ValueOutput
+Delay Send- Sample 4	0	4194304	Value	ValueOutput
+Chorus Send- Sample 1	0	4194304	Value	ValueOutput
+Chorus Send- Sample 2	0	4194304	Value	ValueOutput
+Chorus Send- Sample 3	0	4194304	Value	ValueOutput
+Chorus Send- Sample 4	0	4194304	Value	ValueOutput
+Distortion Send- Sample	0	4194304	Value	ValueOutput
+Distortion Send- Sample	0	4194304	Value	ValueOutput
+Distortion Send- Sample	0	4194304	Value	ValueOutput
+Distortion Send- Sample	0	4194304	Value	ValueOutput
+Reverb Send- Sample 1	0	4194304	Value	ValueOutput
+Reverb Send- Sample 2	0	4194304	Value	ValueOutput
+Reverb Send- Sample 3	0	4194304	Value	ValueOutput
+Reverb Send- Sample 4	0	4194304	Value	ValueOutput
+Delay Master Wet/Dry	0	4194304	Value	ValueOutput
+Chorus Master WetDry	0	4194304	Value	ValueOutput
+Distortion Master Wet/D	0	4194304	Value	ValueOutput
+Reverb Master WetDry	0	4194304	Value	ValueOutput
+Delay Time Left	0	4194304	Value	ValueOutput
+Delay Time Right	0	4194304	Value	ValueOutput
+Delay Sync Time Left	0	4194304	Value	ValueOutput
+Delay Sync Time Right	0	4194304	Value	ValueOutput
+Delay Feedback Left	0	4194304	Value	ValueOutput
+Delay Feedback Right	0	4194304	Value	ValueOutput
+Delay Pan	0	4194304	Value	ValueOutput
+Delay Cutoff Low	0	4194304	Value	ValueOutput
+Delay Cutoff High	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Delay	0	4194304	Value	ValueOutput
+Chorus Width	0	4194304	Value	ValueOutput
+Chorus Feedback	0	4194304	Value	ValueOutput
+Distortion Amount	0	4194304	Value	ValueOutput
+Distortion Tone	0	4194304	Value	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Density	0	4194304	Value	ValueOutput
+Reverb Pre-delay	0	4194304	Value	ValueOutput
+Reverb Width	0	4194304	Value	ValueOutput
+Reverb Low Cutoff	0	4194304	Value	ValueOutput
+Reverb High Cutoff	0	4194304	Value	ValueOutput
+Delay Enabled- Master	0	4194304	Value	ValueOutput
+Delay Enabled-Send	0	4194304	Value	ValueOutput
+Delay Host Sync	0	4194304	Value	ValueOutput
+Delay Crossmix	0	4194304	Value	ValueOutput
+Delay Analog	0	4194304	Value	ValueOutput
+Chorus Enable- Master	0	4194304	Value	ValueOutput
+Chorus Enable- Send	0	4194304	Value	ValueOutput
+Distortion Enable- Mast	0	4194304	Value	ValueOutput
+Distortion Enable- Send	0	4194304	Value	ValueOutput
+Reverb Enable- Master	0	4194304	Value	ValueOutput
+Reverb Enable- Send	0	4194304	Value	ValueOutput
+Effects Mode	0	4194304	Value	ValueOutput
+Distortion Type	0	4194304	Value	ValueOutput
+LFO 1 Rate	0	4194304	Value	ValueOutput
+LFO 2 Rate	0	4194304	Value	ValueOutput
+LFO 3 Rate	0	4194304	Value	ValueOutput
+LFO 4 Rate	0	4194304	Value	ValueOutput
+LFO 5 Rate	0	4194304	Value	ValueOutput
+LFO 1 Rate (synced)	0	4194304	Value	ValueOutput
+LFO 2 Rate (synced)	0	4194304	Value	ValueOutput
+LFO 3 Rate (synced)	0	4194304	Value	ValueOutput
+LFO 4 Rate (synced)	0	4194304	Value	ValueOutput
+LFO 5 Rate (synced)	0	4194304	Value	ValueOutput
+LFO 1 Depth	0	4194304	Value	ValueOutput
+LFO 2 Depth	0	4194304	Value	ValueOutput
+LFO 3 Depth	0	4194304	Value	ValueOutput
+LFO 4 Depth	0	4194304	Value	ValueOutput
+LFO 5 Depth	0	4194304	Value	ValueOutput
+LFO 1 Shape	0	4194304	Value	ValueOutput
+LFO 2 Shape	0	4194304	Value	ValueOutput
+LFO 3 Shape	0	4194304	Value	ValueOutput
+LFO 4 Shape	0	4194304	Value	ValueOutput
+LFO 5 Shape	0	4194304	Value	ValueOutput
+LFO 1 Attack	0	4194304	Value	ValueOutput
+LFO 2 Attack	0	4194304	Value	ValueOutput
+LFO 3 Attack	0	4194304	Value	ValueOutput
+LFO 4 Attack	0	4194304	Value	ValueOutput
+LFO 5 Attack	0	4194304	Value	ValueOutput
+LFO 1 Phase	0	4194304	Value	ValueOutput
+LFO 2 Phase	0	4194304	Value	ValueOutput
+LFO 3 Phase	0	4194304	Value	ValueOutput
+LFO 4 Phase	0	4194304	Value	ValueOutput
+LFO 5 Phase	0	4194304	Value	ValueOutput
+LFO 1 Sync	0	4194304	Value	ValueOutput
+LFO 2 Sync	0	4194304	Value	ValueOutput
+LFO 3 Sync	0	4194304	Value	ValueOutput
+LFO 4 Sync	0	4194304	Value	ValueOutput
+LFO 5 Sync	0	4194304	Value	ValueOutput
+LFO 1 Restart	0	4194304	Value	ValueOutput
+LFO 2 Restart	0	4194304	Value	ValueOutput
+LFO 3 Restart	0	4194304	Value	ValueOutput
+LFO 4 Restart	0	4194304	Value	ValueOutput
+LFO 5 Restart	0	4194304	Value	ValueOutput
+Env 1 Attack	0	4194304	Value	ValueOutput
+Env 2 Attack	0	4194304	Value	ValueOutput
+Env 3 Attack	0	4194304	Value	ValueOutput
+Env 4 Attack	0	4194304	Value	ValueOutput
+Env 5 Attack	0	4194304	Value	ValueOutput
+Env 1 Decay	0	4194304	Value	ValueOutput
+Env 2 Decay	0	4194304	Value	ValueOutput
+Env 3 Decay	0	4194304	Value	ValueOutput
+Env 4 Decay	0	4194304	Value	ValueOutput
+Env 5 Decay	0	4194304	Value	ValueOutput
+Env 1 Sustain	0	4194304	Value	ValueOutput
+Env 2 Sustain	0	4194304	Value	ValueOutput
+Env 3 Sustain	0	4194304	Value	ValueOutput
+Env 4 Sustain	0	4194304	Value	ValueOutput
+Env 5 Sustain	0	4194304	Value	ValueOutput
+Env 1 Release	0	4194304	Value	ValueOutput
+Env 2 Release	0	4194304	Value	ValueOutput
+Env 3 Release	0	4194304	Value	ValueOutput
+Env 4 Release	0	4194304	Value	ValueOutput
+Env 5 Release	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

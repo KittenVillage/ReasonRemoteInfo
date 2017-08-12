@@ -1,0 +1,76 @@
+Scope
+Manufacturer	Model
+LinPlug	vst.SX2u.SaxLab2 64
+Note: Will match scope definitions for vst.SX2u.SaxLab2 64 or vst.SX2u
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Body Freq	0	4194304	Value	ValueOutput
+Body Res	0	4194304	Value	ValueOutput
+Body Bright	0	4194304	Value	ValueOutput
+Perform CT	0	4194304	Value	ValueOutput
+Enhance	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+LFO Delay	0	4194304	Value	ValueOutput
+LFO Attack	0	4194304	Value	ValueOutput
+LFO Pitch	0	4194304	Value	ValueOutput
+LFO Amp	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+Mono Mode	0	4194304	Value	ValueOutput
+Soundset	0	4194304	Value	ValueOutput
+Growl Random	0	4194304	Value	ValueOutput
+Growl	0	4194304	Value	ValueOutput
+Main Keys	0	4194304	Value	ValueOutput
+Main Vol	0	4194304	Value	ValueOutput
+Main Air	0	4194304	Value	ValueOutput
+Dev Body	0	4194304	Value	ValueOutput
+Dev Air	0	4194304	Value	ValueOutput
+Dev Pitch	0	4194304	Value	ValueOutput
+Chorus On	0	4194304	Value	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Chorus Time	0	4194304	Value	ValueOutput
+Chorus Freq	0	4194304	Value	ValueOutput
+Reverb On	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Reverb Time	0	4194304	Value	ValueOutput
+Reverb Damp	0	4194304	Value	ValueOutput
+Tune Coarse	0	4194304	Value	ValueOutput
+Tune Fine	0	4194304	Value	ValueOutput
+Tune Display	0	4194304	Value	ValueOutput
+Amp Sens	0	4194304	Value	ValueOutput
+Amp Curve	0	4194304	Value	ValueOutput
+Amp Src	0	4194304	Value	ValueOutput
+Bright Sens	0	4194304	Value	ValueOutput
+Bright Curve	0	4194304	Value	ValueOutput
+Bright Src	0	4194304	Value	ValueOutput
+Reverb Sens	0	4194304	Value	ValueOutput
+Reverb Curve	0	4194304	Value	ValueOutput
+Reverb Src	0	4194304	Value	ValueOutput
+Growl Sens	0	4194304	Value	ValueOutput
+Growl Curve	0	4194304	Value	ValueOutput
+Growl Src	0	4194304	Value	ValueOutput
+LFO AT	0	4194304	Value	ValueOutput
+LFO PW	0	4194304	Value	ValueOutput
+LFO MW	0	4194304	Value	ValueOutput
+LFO CTD	0	4194304	Value	ValueOutput
+PB Down	0	4194304	Value	ValueOutput
+PB Up	0	4194304	Value	ValueOutput
+Scoop	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

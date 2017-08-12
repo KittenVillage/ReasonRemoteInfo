@@ -1,0 +1,43 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.Vcdx.IL Vocodex
+Note: Will match scope definitions for vst.Vcdx.IL Vocodex or vst.Vcdx
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Wet level	0	4194304	Value	ValueOutput
+Soundgoodizing level	0	4194304	Value	ValueOutput
+Modulator pass-through 	0	4194304	Value	ValueOutput
+Modulator pass-through 	0	4194304	Value	ValueOutput
+Carrier pass-through le	0	4194304	Value	ValueOutput
+Carrier pass-through lo	0	4194304	Value	ValueOutput
+Carrier added noise lev	0	4194304	Value	ValueOutput
+Carrier added noise hig	0	4194304	Value	ValueOutput
+Hold time	0	4194304	Value	ValueOutput
+Attack time	0	4194304	Value	ValueOutput
+Attack curve	0	4194304	Value	ValueOutput
+Release time	0	4194304	Value	ValueOutput
+Release curve	0	4194304	Value	ValueOutput
+Freeze envelope	0	4194304	Value	ValueOutput
+Band width	0	4194304	Value	ValueOutput
+Filter flatness	0	4194304	Value	ValueOutput
+Modulator band width mu	0	4194304	Value	ValueOutput
+Modulator pitch shift	0	4194304	Value	ValueOutput
+Modulator unison shift	0	4194304	Value	ValueOutput
+Modulator unison pannin	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

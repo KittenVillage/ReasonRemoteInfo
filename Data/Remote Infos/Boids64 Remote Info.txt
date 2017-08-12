@@ -1,0 +1,143 @@
+Scope
+Manufacturer	Model
+ToneCarver	vst.tcBd.Boids64
+Note: Will match scope definitions for vst.tcBd.Boids64 or vst.tcBd
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+BdCount	0	4194304	Value	ValueOutput
+BdCountM	0	4194304	Value	ValueOutput
+BdCountD	0	4194304	Value	ValueOutput
+BdSpeed	0	4194304	Value	ValueOutput
+BdSpeedM	0	4194304	Value	ValueOutput
+BdSpeedD	0	4194304	Value	ValueOutput
+BdCentr	0	4194304	Value	ValueOutput
+BdCentrM	0	4194304	Value	ValueOutput
+BdCentrD	0	4194304	Value	ValueOutput
+BdAlign	0	4194304	Value	ValueOutput
+BdAlignM	0	4194304	Value	ValueOutput
+BdAlignD	0	4194304	Value	ValueOutput
+BdRepel	0	4194304	Value	ValueOutput
+BdRepelM	0	4194304	Value	ValueOutput
+BdRepelD	0	4194304	Value	ValueOutput
+BdComf	0	4194304	Value	ValueOutput
+BdComfM	0	4194304	Value	ValueOutput
+BdComfD	0	4194304	Value	ValueOutput
+BdFollw	0	4194304	Value	ValueOutput
+BdFollwM	0	4194304	Value	ValueOutput
+BdFollwD	0	4194304	Value	ValueOutput
+ChCount	0	4194304	Value	ValueOutput
+ChCountM	0	4194304	Value	ValueOutput
+ChCountD	0	4194304	Value	ValueOutput
+ChPep	0	4194304	Value	ValueOutput
+ChPepM	0	4194304	Value	ValueOutput
+ChPepD	0	4194304	Value	ValueOutput
+ChSpeed	0	4194304	Value	ValueOutput
+ChSpeedM	0	4194304	Value	ValueOutput
+ChSpeedD	0	4194304	Value	ValueOutput
+UpdTime	0	4194304	Value	ValueOutput
+DelayOn	0	4194304	Value	ValueOutput
+TapCount	0	4194304	Value	ValueOutput
+DTime	0	4194304	Value	ValueOutput
+DTimeM	0	4194304	Value	ValueOutput
+DTimeD	0	4194304	Value	ValueOutput
+DTimeS	0	4194304	Value	ValueOutput
+DSmooth	0	4194304	Value	ValueOutput
+DFbk	0	4194304	Value	ValueOutput
+DFbkM	0	4194304	Value	ValueOutput
+DFbkD	0	4194304	Value	ValueOutput
+DPan	0	4194304	Value	ValueOutput
+DPanM	0	4194304	Value	ValueOutput
+DPanD	0	4194304	Value	ValueOutput
+DLpf	0	4194304	Value	ValueOutput
+GrainOn	0	4194304	Value	ValueOutput
+GrnCount	0	4194304	Value	ValueOutput
+GLen	0	4194304	Value	ValueOutput
+GLenM	0	4194304	Value	ValueOutput
+GLenD	0	4194304	Value	ValueOutput
+GLenS	0	4194304	Value	ValueOutput
+GIot	0	4194304	Value	ValueOutput
+GIotM	0	4194304	Value	ValueOutput
+GIotD	0	4194304	Value	ValueOutput
+GIotS	0	4194304	Value	ValueOutput
+GXpose	0	4194304	Value	ValueOutput
+GXposeM	0	4194304	Value	ValueOutput
+GXposeD	0	4194304	Value	ValueOutput
+GDelay	0	4194304	Value	ValueOutput
+GDelayM	0	4194304	Value	ValueOutput
+GDelayD	0	4194304	Value	ValueOutput
+GDelayS	0	4194304	Value	ValueOutput
+GSrc	0	4194304	Value	ValueOutput
+GSrcM	0	4194304	Value	ValueOutput
+GSrcD	0	4194304	Value	ValueOutput
+GPan	0	4194304	Value	ValueOutput
+GPanM	0	4194304	Value	ValueOutput
+GPanD	0	4194304	Value	ValueOutput
+GAmpl	0	4194304	Value	ValueOutput
+GAmplM	0	4194304	Value	ValueOutput
+GAmplD	0	4194304	Value	ValueOutput
+GDir	0	4194304	Value	ValueOutput
+GDirM	0	4194304	Value	ValueOutput
+GDirD	0	4194304	Value	ValueOutput
+GEnvelop	0	4194304	Value	ValueOutput
+GEnvSkew	0	4194304	Value	ValueOutput
+GFdbk	0	4194304	Value	ValueOutput
+GFdbkM	0	4194304	Value	ValueOutput
+GFdbkD	0	4194304	Value	ValueOutput
+GHpf	0	4194304	Value	ValueOutput
+GLpf	0	4194304	Value	ValueOutput
+Lfo1Shap	0	4194304	Value	ValueOutput
+Lfo1Rate	0	4194304	Value	ValueOutput
+Lfo1Skew	0	4194304	Value	ValueOutput
+Lfo1Mode	0	4194304	Value	ValueOutput
+Lfo1Dpth	0	4194304	Value	ValueOutput
+Lfo2Shap	0	4194304	Value	ValueOutput
+Lfo2Rate	0	4194304	Value	ValueOutput
+Lfo2Skew	0	4194304	Value	ValueOutput
+Lfo2Mode	0	4194304	Value	ValueOutput
+Lfo2Dpth	0	4194304	Value	ValueOutput
+Lfo3Shap	0	4194304	Value	ValueOutput
+Lfo3Rate	0	4194304	Value	ValueOutput
+Lfo3Skew	0	4194304	Value	ValueOutput
+Lfo3Mode	0	4194304	Value	ValueOutput
+Lfo3Dpth	0	4194304	Value	ValueOutput
+Lfo4Shap	0	4194304	Value	ValueOutput
+Lfo4Rate	0	4194304	Value	ValueOutput
+Lfo4Skew	0	4194304	Value	ValueOutput
+Lfo4Mode	0	4194304	Value	ValueOutput
+Lfo4Dpth	0	4194304	Value	ValueOutput
+MxTgt1	0	4194304	Value	ValueOutput
+MxMod1	0	4194304	Value	ValueOutput
+MxDph1	0	4194304	Value	ValueOutput
+MxTgt2	0	4194304	Value	ValueOutput
+MxMod2	0	4194304	Value	ValueOutput
+MxDph2	0	4194304	Value	ValueOutput
+MxTgt3	0	4194304	Value	ValueOutput
+MxMod3	0	4194304	Value	ValueOutput
+MxDph3	0	4194304	Value	ValueOutput
+MxTgt4	0	4194304	Value	ValueOutput
+MxMod4	0	4194304	Value	ValueOutput
+MxDph4	0	4194304	Value	ValueOutput
+DryOut	0	4194304	Value	ValueOutput
+DelayOut	0	4194304	Value	ValueOutput
+GrainOut	0	4194304	Value	ValueOutput
+Grn2Dly	0	4194304	Value	ValueOutput
+Dry2Dly	0	4194304	Value	ValueOutput
+DryEnabl	0	4194304	Value	ValueOutput
+Panic	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

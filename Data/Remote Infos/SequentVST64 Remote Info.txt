@@ -1,0 +1,156 @@
+Scope
+Manufacturer	Model
+Loomer	vst.Lmaf.SequentVST64
+Note: Will match scope definitions for vst.Lmaf.SequentVST64 or vst.Lmaf
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+LoopOn	0	4194304	Value	ValueOutput
+LoopDiv	0	4194304	Value	ValueOutput
+LoopSteps	0	4194304	Value	ValueOutput
+LoopRndDir	0	4194304	Value	ValueOutput
+LoopFade	0	4194304	Value	ValueOutput
+LoopMixMode	0	4194304	Value	ValueOutput
+LoopVol	0	4194304	Value	ValueOutput
+LoopTrigOn	0	4194304	Value	ValueOutput
+LoopTrigRnd	0	4194304	Value	ValueOutput
+LoopRptsScl	0	4194304	Value	ValueOutput
+LoopRptsRnd	0	4194304	Value	ValueOutput
+LoopLenScl	0	4194304	Value	ValueOutput
+LoopLenRnd	0	4194304	Value	ValueOutput
+LoopOffstScl	0	4194304	Value	ValueOutput
+LoopOffstRnd	0	4194304	Value	ValueOutput
+LoopRvrsOn	0	4194304	Value	ValueOutput
+LoopRvrsRnd	0	4194304	Value	ValueOutput
+LoopPtchScl	0	4194304	Value	ValueOutput
+LoopPtchRnd	0	4194304	Value	ValueOutput
+LoopPtchDcyScl	0	4194304	Value	ValueOutput
+LoopPtchDcyRnd	0	4194304	Value	ValueOutput
+LoopSyncOn	0	4194304	Value	ValueOutput
+LoopSyncRnd	0	4194304	Value	ValueOutput
+LoopLvlScl	0	4194304	Value	ValueOutput
+LoopLvlRnd	0	4194304	Value	ValueOutput
+LoopLvlDcyScl	0	4194304	Value	ValueOutput
+LoopLvlDcyRnd	0	4194304	Value	ValueOutput
+Fltr1On	0	4194304	Value	ValueOutput
+Fltr1Div	0	4194304	Value	ValueOutput
+Fltr1Steps	0	4194304	Value	ValueOutput
+Fltr1RndDir	0	4194304	Value	ValueOutput
+Fltr1Type	0	4194304	Value	ValueOutput
+Fltr1Vol	0	4194304	Value	ValueOutput
+Fltr1CutoffScl	0	4194304	Value	ValueOutput
+Fltr1CutoffSmth	0	4194304	Value	ValueOutput
+Fltr1CutoffRnd	0	4194304	Value	ValueOutput
+Fltr1ResScl	0	4194304	Value	ValueOutput
+Fltr1ResSmth	0	4194304	Value	ValueOutput
+Fltr1ResRnd	0	4194304	Value	ValueOutput
+Fltr2On	0	4194304	Value	ValueOutput
+Fltr2Div	0	4194304	Value	ValueOutput
+Fltr2Steps	0	4194304	Value	ValueOutput
+Fltr2RndDir	0	4194304	Value	ValueOutput
+Fltr2Type	0	4194304	Value	ValueOutput
+Fltr2Vol	0	4194304	Value	ValueOutput
+Fltr2CutoffScl	0	4194304	Value	ValueOutput
+Fltr2CutoffSmth	0	4194304	Value	ValueOutput
+Fltr2CutoffRnd	0	4194304	Value	ValueOutput
+Fltr2ResScale	0	4194304	Value	ValueOutput
+Fltr2ResSmth	0	4194304	Value	ValueOutput
+Fltr2ResRand	0	4194304	Value	ValueOutput
+DstrtOn	0	4194304	Value	ValueOutput
+DstrtDiv	0	4194304	Value	ValueOutput
+DstrtSteps	0	4194304	Value	ValueOutput
+DstrtRndDir	0	4194304	Value	ValueOutput
+DstrtVol	0	4194304	Value	ValueOutput
+DstrtDriveScl	0	4194304	Value	ValueOutput
+DstrtDriveSmth	0	4194304	Value	ValueOutput
+DstrtDriveRnd	0	4194304	Value	ValueOutput
+GateOn	0	4194304	Value	ValueOutput
+GateDiv	0	4194304	Value	ValueOutput
+GateSteps	0	4194304	Value	ValueOutput
+GateRndDir	0	4194304	Value	ValueOutput
+GateVol	0	4194304	Value	ValueOutput
+GateTrigOn	0	4194304	Value	ValueOutput
+GateTrigRnd	0	4194304	Value	ValueOutput
+GateDpthScl	0	4194304	Value	ValueOutput
+GateDpthRnd	0	4194304	Value	ValueOutput
+GateSlewScl	0	4194304	Value	ValueOutput
+GateSlewRnd	0	4194304	Value	ValueOutput
+PanOn	0	4194304	Value	ValueOutput
+PanDiv	0	4194304	Value	ValueOutput
+PanSteps	0	4194304	Value	ValueOutput
+PanRndDir	0	4194304	Value	ValueOutput
+PanVol	0	4194304	Value	ValueOutput
+PanPosScl	0	4194304	Value	ValueOutput
+PanPosSmth	0	4194304	Value	ValueOutput
+PanPosRnd	0	4194304	Value	ValueOutput
+DlyOn	0	4194304	Value	ValueOutput
+DlyDiv	0	4194304	Value	ValueOutput
+DlySteps	0	4194304	Value	ValueOutput
+DlyRndDir	0	4194304	Value	ValueOutput
+DlySync	0	4194304	Value	ValueOutput
+DlyVol	0	4194304	Value	ValueOutput
+DlySendScl	0	4194304	Value	ValueOutput
+DlySendSmth	0	4194304	Value	ValueOutput
+DlySendRnd	0	4194304	Value	ValueOutput
+DlyTimeScl	0	4194304	Value	ValueOutput
+DlyTimeSmth	0	4194304	Value	ValueOutput
+DlyTimeRnd	0	4194304	Value	ValueOutput
+DlyFdbk	0	4194304	Value	ValueOutput
+DlyFdbkSmth	0	4194304	Value	ValueOutput
+DlyFdbkRnd	0	4194304	Value	ValueOutput
+CurrentPattern	0	4194304	Value	ValueOutput
+TopPanelView	0	4194304	Value	ValueOutput
+OutputCrossfade	0	4194304	Value	ValueOutput
+OutputVolume	0	4194304	Value	ValueOutput
+SelectedEffect	0	4194304	Value	ValueOutput
+LoopVisParam	0	4194304	Value	ValueOutput
+LoopRptsLink	0	4194304	Value	ValueOutput
+LoopLenLink	0	4194304	Value	ValueOutput
+LoopOffstLink	0	4194304	Value	ValueOutput
+LoopPtchLink	0	4194304	Value	ValueOutput
+LoopPtchDcyLink	0	4194304	Value	ValueOutput
+LoopLvlLink	0	4194304	Value	ValueOutput
+LoopLvlDcyLink	0	4194304	Value	ValueOutput
+Fltr1CutoffLink	0	4194304	Value	ValueOutput
+Fltr1ResLink	0	4194304	Value	ValueOutput
+Fltr2CutoffLink	0	4194304	Value	ValueOutput
+Fltr2ResLink	0	4194304	Value	ValueOutput
+DstrtDriveLink	0	4194304	Value	ValueOutput
+GateVisParam	0	4194304	Value	ValueOutput
+GateDepthLink	0	4194304	Value	ValueOutput
+GateSlewLink	0	4194304	Value	ValueOutput
+PanPosLink	0	4194304	Value	ValueOutput
+DlyVisParam	0	4194304	Value	ValueOutput
+DlySendLink	0	4194304	Value	ValueOutput
+DlyTimeLink	0	4194304	Value	ValueOutput
+DlyFdkbLink	0	4194304	Value	ValueOutput
+MasterOn	0	4194304	Value	ValueOutput
+MasterDiv	0	4194304	Value	ValueOutput
+MasterSteps	0	4194304	Value	ValueOutput
+MasterRndDir	0	4194304	Value	ValueOutput
+DelayThru	0	4194304	Value	ValueOutput
+DstrtMode	0	4194304	Value	ValueOutput
+LoopStart	0	4194304	Value	ValueOutput
+Fltr1Start	0	4194304	Value	ValueOutput
+Fltr2Start	0	4194304	Value	ValueOutput
+DstrtStart	0	4194304	Value	ValueOutput
+GateStart	0	4194304	Value	ValueOutput
+PanStart	0	4194304	Value	ValueOutput
+DlyStart	0	4194304	Value	ValueOutput
+MasterStart	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,146 @@
+Scope
+Manufacturer	Model
+Loomer	vst.Lmai.CumulusVST64
+Note: Will match scope definitions for vst.Lmai.CumulusVST64 or vst.Lmai
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+SeqOn	0	4194304	Value	ValueOutput
+SeqSync	0	4194304	Value	ValueOutput
+SeqIntTempo	0	4194304	Value	ValueOutput
+SeqDiv	0	4194304	Value	ValueOutput
+SeqSteps	0	4194304	Value	ValueOutput
+LinkScenes	0	4194304	Value	ValueOutput
+AutoSelect	0	4194304	Value	ValueOutput
+Mode1	0	4194304	Value	ValueOutput
+Direction1	0	4194304	Value	ValueOutput
+Pitch1	0	4194304	Value	ValueOutput
+PitchJit1	0	4194304	Value	ValueOutput
+Speed1	0	4194304	Value	ValueOutput
+PositionJit1	0	4194304	Value	ValueOutput
+GrainSize1	0	4194304	Value	ValueOutput
+GrainSizeJit1	0	4194304	Value	ValueOutput
+Pan1	0	4194304	Value	ValueOutput
+PanJit1	0	4194304	Value	ValueOutput
+GrainShape1	0	4194304	Value	ValueOutput
+Density1	0	4194304	Value	ValueOutput
+Volume1	0	4194304	Value	ValueOutput
+Decay1	0	4194304	Value	ValueOutput
+Mode2	0	4194304	Value	ValueOutput
+Direction2	0	4194304	Value	ValueOutput
+Pitch2	0	4194304	Value	ValueOutput
+PitchJit2	0	4194304	Value	ValueOutput
+Speed2	0	4194304	Value	ValueOutput
+PositionJit2	0	4194304	Value	ValueOutput
+GrainSize2	0	4194304	Value	ValueOutput
+GrainSizeJit2	0	4194304	Value	ValueOutput
+Pan2	0	4194304	Value	ValueOutput
+PanJit2	0	4194304	Value	ValueOutput
+GrainShape2	0	4194304	Value	ValueOutput
+Density2	0	4194304	Value	ValueOutput
+Volume2	0	4194304	Value	ValueOutput
+Decay2	0	4194304	Value	ValueOutput
+Mode3	0	4194304	Value	ValueOutput
+Direction3	0	4194304	Value	ValueOutput
+Pitch3	0	4194304	Value	ValueOutput
+PitchJit3	0	4194304	Value	ValueOutput
+Speed3	0	4194304	Value	ValueOutput
+PositionJit3	0	4194304	Value	ValueOutput
+GrainSize3	0	4194304	Value	ValueOutput
+GrainSizeJit3	0	4194304	Value	ValueOutput
+Pan3	0	4194304	Value	ValueOutput
+PanJit3	0	4194304	Value	ValueOutput
+GrainShape3	0	4194304	Value	ValueOutput
+Density3	0	4194304	Value	ValueOutput
+Volume3	0	4194304	Value	ValueOutput
+Decay3	0	4194304	Value	ValueOutput
+Mode4	0	4194304	Value	ValueOutput
+Direction4	0	4194304	Value	ValueOutput
+Pitch4	0	4194304	Value	ValueOutput
+PitchJit4	0	4194304	Value	ValueOutput
+Speed4	0	4194304	Value	ValueOutput
+PositionJit4	0	4194304	Value	ValueOutput
+GrainSize4	0	4194304	Value	ValueOutput
+GrainSizeJit4	0	4194304	Value	ValueOutput
+Pan4	0	4194304	Value	ValueOutput
+PanJit4	0	4194304	Value	ValueOutput
+GrainShape4	0	4194304	Value	ValueOutput
+Density4	0	4194304	Value	ValueOutput
+Volume4	0	4194304	Value	ValueOutput
+Decay4	0	4194304	Value	ValueOutput
+Mode5	0	4194304	Value	ValueOutput
+Direction5	0	4194304	Value	ValueOutput
+Pitch5	0	4194304	Value	ValueOutput
+PitchJit5	0	4194304	Value	ValueOutput
+Speed5	0	4194304	Value	ValueOutput
+PositionJit5	0	4194304	Value	ValueOutput
+GrainSize5	0	4194304	Value	ValueOutput
+GrainSizeJit5	0	4194304	Value	ValueOutput
+Pan5	0	4194304	Value	ValueOutput
+PanJit5	0	4194304	Value	ValueOutput
+GrainShape5	0	4194304	Value	ValueOutput
+Density5	0	4194304	Value	ValueOutput
+Volume5	0	4194304	Value	ValueOutput
+Decay5	0	4194304	Value	ValueOutput
+Mode6	0	4194304	Value	ValueOutput
+Direction6	0	4194304	Value	ValueOutput
+Pitch6	0	4194304	Value	ValueOutput
+PitchJit6	0	4194304	Value	ValueOutput
+Speed6	0	4194304	Value	ValueOutput
+PositionJit6	0	4194304	Value	ValueOutput
+GrainSize6	0	4194304	Value	ValueOutput
+GrainSizeJit6	0	4194304	Value	ValueOutput
+Pan6	0	4194304	Value	ValueOutput
+PanJit6	0	4194304	Value	ValueOutput
+GrainShape6	0	4194304	Value	ValueOutput
+Density6	0	4194304	Value	ValueOutput
+Volume6	0	4194304	Value	ValueOutput
+Decay6	0	4194304	Value	ValueOutput
+Mode7	0	4194304	Value	ValueOutput
+Direction7	0	4194304	Value	ValueOutput
+Pitch7	0	4194304	Value	ValueOutput
+PitchJit7	0	4194304	Value	ValueOutput
+Speed7	0	4194304	Value	ValueOutput
+PositionJit7	0	4194304	Value	ValueOutput
+GrainSize7	0	4194304	Value	ValueOutput
+GrainSizeJit7	0	4194304	Value	ValueOutput
+Pan7	0	4194304	Value	ValueOutput
+PanJit7	0	4194304	Value	ValueOutput
+GrainShape7	0	4194304	Value	ValueOutput
+Density7	0	4194304	Value	ValueOutput
+Volume7	0	4194304	Value	ValueOutput
+Decay7	0	4194304	Value	ValueOutput
+Mode8	0	4194304	Value	ValueOutput
+Direction8	0	4194304	Value	ValueOutput
+Pitch8	0	4194304	Value	ValueOutput
+PitchJit8	0	4194304	Value	ValueOutput
+Speed8	0	4194304	Value	ValueOutput
+PositionJit8	0	4194304	Value	ValueOutput
+GrainSize8	0	4194304	Value	ValueOutput
+GrainSizeJit8	0	4194304	Value	ValueOutput
+Pan8	0	4194304	Value	ValueOutput
+PanJit8	0	4194304	Value	ValueOutput
+GrainShape8	0	4194304	Value	ValueOutput
+Density8	0	4194304	Value	ValueOutput
+Volume8	0	4194304	Value	ValueOutput
+Decay8	0	4194304	Value	ValueOutput
+Scene	0	4194304	Value	ValueOutput
+ReverbAmount	0	4194304	Value	ValueOutput
+ReverbMix	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

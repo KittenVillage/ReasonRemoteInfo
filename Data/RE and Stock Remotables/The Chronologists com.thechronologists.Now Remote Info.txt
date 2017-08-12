@@ -1,0 +1,50 @@
+Scope
+Manufacturer	Model
+The Chronologists	com.thechronologists.Now
+
+Remotable	Min	Max	Input type	Output type
+Counter Max 1	0	127	Value	ValueOutput
+Accept Count 1	0	1	Toggle	ValueOutput
+Reset 1	0	1	Toggle	ValueOutput
+Threshold 1	0	4194304	Value	ValueOutput
+Counter Max 2	0	127	Value	ValueOutput
+Accept Count 2	0	1	Toggle	ValueOutput
+Reset 2	0	1	Toggle	ValueOutput
+Threshold 2	0	4194304	Value	ValueOutput
+Counter Max 3	0	127	Value	ValueOutput
+Accept Count 3	0	1	Toggle	ValueOutput
+Reset 3	0	1	Toggle	ValueOutput
+Threshold 3	0	4194304	Value	ValueOutput
+Counter Max 4	0	127	Value	ValueOutput
+Accept Count 4	0	1	Toggle	ValueOutput
+Reset 4	0	1	Toggle	ValueOutput
+Threshold 4	0	4194304	Value	ValueOutput
+Counter Max 5	0	127	Value	ValueOutput
+Accept Count 5	0	1	Toggle	ValueOutput
+Reset 5	0	1	Toggle	ValueOutput
+Threshold 5	0	4194304	Value	ValueOutput
+Counter Max 6	0	127	Value	ValueOutput
+Accept Count 6	0	1	Toggle	ValueOutput
+Reset 6	0	1	Toggle	ValueOutput
+Threshold 6	0	4194304	Value	ValueOutput
+Counter Max 7	0	127	Value	ValueOutput
+Accept Count 7	0	1	Toggle	ValueOutput
+Reset 7	0	1	Toggle	ValueOutput
+Threshold 7	0	4194304	Value	ValueOutput
+Counter Max 8	0	127	Value	ValueOutput
+Accept Count 8	0	1	Toggle	ValueOutput
+Reset 8	0	1	Toggle	ValueOutput
+Threshold 8	0	4194304	Value	ValueOutput
+Counter Max 9	0	127	Value	ValueOutput
+Accept Count 9	0	1	Toggle	ValueOutput
+Reset 9	0	1	Toggle	ValueOutput
+Threshold 9	0	4194304	Value	ValueOutput
+Counter Max 10	0	127	Value	ValueOutput
+Accept Count 10	0	1	Toggle	ValueOutput
+Reset 10	0	1	Toggle	ValueOutput
+Threshold 10	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

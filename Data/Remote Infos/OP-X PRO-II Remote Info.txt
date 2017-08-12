@@ -1,0 +1,165 @@
+Scope
+Manufacturer	Model
+SonicProjects	vst.%B5P%C9%26.OP-X PRO-II
+Note: Will match scope definitions for vst.%B5P%C9%26.OP-X PRO-II or vst.%B5P%C9%26
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Pan1	0	4194304	Value	ValueOutput
+S Filter	0	4194304	Value	ValueOutput
+Osc Tune	0	4194304	Value	ValueOutput
+Osc1 On	0	4194304	Value	ValueOutput
+Pulse Osc1	0	4194304	Value	ValueOutput
+Pitchbend	0	4194304	Value	ValueOutput
+Trim POR5	0	4194304	Value	ValueOutput
+III Arp LFO	0	4194304	Value	ValueOutput
+Filt Tune	0	4194304	Value	ValueOutput
+Trim DEC5	0	4194304	Value	ValueOutput
+Osc2 Half	0	4194304	Value	ValueOutput
+Filt Mix	0	4194304	Value	ValueOutput
+Trim POR1	0	4194304	Value	ValueOutput
+LFO to Filt Mix	0	4194304	Value	ValueOutput
+ArpOn	0	4194304	Value	ValueOutput
+R Amp	0	4194304	Value	ValueOutput
+Ring	0	4194304	Value	ValueOutput
+Reverb Amt	0	4194304	Value	ValueOutput
+Trim VCF2	0	4194304	Value	ValueOutput
+Oct High	0	4194304	Value	ValueOutput
+Master Tune	0	4194304	Value	ValueOutput
+Trim POR6	0	4194304	Value	ValueOutput
+Quant Freq2	0	4194304	Value	ValueOutput
+Trim DEC3	0	4194304	Value	ValueOutput
+Freq Osc2	0	4194304	Value	ValueOutput
+PP Mode	0	4194304	Value	ValueOutput
+Env to Filt Mix	0	4194304	Value	ValueOutput
+Quant Freq1	0	4194304	Value	ValueOutput
+A Filter	0	4194304	Value	ValueOutput
+LFO Sine	0	4194304	Value	ValueOutput
+Trim REL4	0	4194304	Value	ValueOutput
+Saw Osc1	0	4194304	Value	ValueOutput
+v2 mute	0	4194304	Value	ValueOutput
+Trim VCF1	0	4194304	Value	ValueOutput
+D Filter	0	4194304	Value	ValueOutput
+ArpSteps	0	4194304	Value	ValueOutput
+Delay Feed	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Osc2 Detune	0	4194304	Value	ValueOutput
+LFO to PW2	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Trim POR3	0	4194304	Value	ValueOutput
+LFO to Filter	0	4194304	Value	ValueOutput
+Env	0	4194304	Value	ValueOutput
+D Amp	0	4194304	Value	ValueOutput
+Damp	0	4194304	Value	ValueOutput
+LFO Freq Depth	0	4194304	Value	ValueOutput
+O2o	0	4194304	Value	ValueOutput
+Vel Top	0	4194304	Value	ValueOutput
+Pitch Osc2	0	4194304	Value	ValueOutput
+Effects On	0	4194304	Value	ValueOutput
+LFO Sync	0	4194304	Value	ValueOutput
+v6 mute	0	4194304	Value	ValueOutput
+Freq Osc1	0	4194304	Value	ValueOutput
+Trim REL3	0	4194304	Value	ValueOutput
+Osc2 only	0	4194304	Value	ValueOutput
+W-LFO Rate	0	4194304	Value	ValueOutput
+Trim REL1	0	4194304	Value	ValueOutput
+Delay Amt	0	4194304	Value	ValueOutput
+PW-FILT Phase	0	4194304	Value	ValueOutput
+v4 mute	0	4194304	Value	ValueOutput
+Trim VCF5	0	4194304	Value	ValueOutput
+LFO to PW1	0	4194304	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+Saw Osc2	0	4194304	Value	ValueOutput
+Trim DEC2	0	4194304	Value	ValueOutput
+Pan6	0	4194304	Value	ValueOutput
+Trim REL2	0	4194304	Value	ValueOutput
+PM neg.	0	4194304	Value	ValueOutput
+ArpSpeed	0	4194304	Value	ValueOutput
+Trim VCF3	0	4194304	Value	ValueOutput
+Vel Bottom	0	4194304	Value	ValueOutput
+v5 mute	0	4194304	Value	ValueOutput
+Noise Half	0	4194304	Value	ValueOutput
+Env Tune	0	4194304	Value	ValueOutput
+Key Track	0	4194304	Value	ValueOutput
+LFO to Amp	0	4194304	Value	ValueOutput
+LFO to Osc1	0	4194304	Value	ValueOutput
+Modulation	0	4194304	Value	ValueOutput
+Trim POR2	0	4194304	Value	ValueOutput
+Trim REL6	0	4194304	Value	ValueOutput
+LFO to Osc2	0	4194304	Value	ValueOutput
+Unisono	0	4194304	Value	ValueOutput
+P1o	0	4194304	Value	ValueOutput
+P24dB	0	4194304	Value	ValueOutput
+CC Send	0	4194304	Value	ValueOutput
+Pan2	0	4194304	Value	ValueOutput
+PM	0	4194304	Value	ValueOutput
+Oct Low	0	4194304	Value	ValueOutput
+Trim DEC6	0	4194304	Value	ValueOutput
+Env Amt	0	4194304	Value	ValueOutput
+LFO PW Depth	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Reverb Damp	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Key Track Amt	0	4194304	Value	ValueOutput
+Sync	0	4194304	Value	ValueOutput
+LFO S/H	0	4194304	Value	ValueOutput
+LFO Square	0	4194304	Value	ValueOutput
+Polyphony	0	4194304	Value	ValueOutput
+R Filter	0	4194304	Value	ValueOutput
+Noise Full	0	4194304	Value	ValueOutput
+Pulse Width	0	4194304	Value	ValueOutput
+Arp Sync	0	4194304	Value	ValueOutput
+X-Mod	0	4194304	Value	ValueOutput
+Pulse Osc2	0	4194304	Value	ValueOutput
+Trim REL5	0	4194304	Value	ValueOutput
+OM neg.	0	4194304	Value	ValueOutput
+LFO Osc Phase	0	4194304	Value	ValueOutput
+Osc2 Full	0	4194304	Value	ValueOutput
+Delay Sync	0	4194304	Value	ValueOutput
+OM	0	4194304	Value	ValueOutput
+Pitch Osc1	0	4194304	Value	ValueOutput
+Trim POR4	0	4194304	Value	ValueOutput
+Filt Type	0	4194304	Value	ValueOutput
+Trim VCF4	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+A.Touch Filt.	0	4194304	Value	ValueOutput
+A.Touch Vib.	0	4194304	Value	ValueOutput
+Pan4	0	4194304	Value	ValueOutput
+Pan5	0	4194304	Value	ValueOutput
+v3 mute	0	4194304	Value	ValueOutput
+W-LFO 1/2	0	4194304	Value	ValueOutput
+XMd Depth	0	4194304	Value	ValueOutput
+CC Mode	0	4194304	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Pan Mod	0	4194304	Value	ValueOutput
+Trim DEC4	0	4194304	Value	ValueOutput
+Trim VCF6	0	4194304	Value	ValueOutput
+v1 mute	0	4194304	Value	ValueOutput
+Trim DEC1	0	4194304	Value	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Pan3	0	4194304	Value	ValueOutput
+S Amp	0	4194304	Value	ValueOutput
+Oct Mid	0	4194304	Value	ValueOutput
+P+12	0	4194304	Value	ValueOutput
+Osc2 Offset	0	4194304	Value	ValueOutput
+A Amp	0	4194304	Value	ValueOutput
+Reverb Width	0	4194304	Value	ValueOutput
+Port Detune	0	4194304	Value	ValueOutput
+Legato	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

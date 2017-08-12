@@ -1,0 +1,417 @@
+Scope
+Manufacturer	Model
+Alien Seed Tech	com.alienseed.KRON
+
+Remotable	Min	Max	Input type	Output type
+Device Enable	0	1	Toggle	ValueOutput
+Run While Stopped	0	1	Toggle	ValueOutput
+Display Enable	0	1	Toggle	ValueOutput
+Phase Reset	0	1	Toggle	ValueOutput
+Note Retrigger	0	2	Value	ValueOutput
+Shaper Curve Enable	0	1	Toggle	ValueOutput
+Shaper Curve Type	0	4	Value	ValueOutput
+Shaper Curve Ignore Level	0	1	Toggle	ValueOutput
+User Knob 1	0	4194304	Value	ValueOutput
+User Knob 2	0	4194304	Value	ValueOutput
+User Knob 3	0	4194304	Value	ValueOutput
+User Knob 4	0	4194304	Value	ValueOutput
+User Button 1	0	1	Toggle	ValueOutput
+User Button 2	0	1	Toggle	ValueOutput
+User Button 3	0	1	Toggle	ValueOutput
+User Button 4	0	1	Toggle	ValueOutput
+User 2d 5	0	4194304	Value	ValueOutput
+User 2d 6	0	4194304	Value	ValueOutput
+User 2d 7	0	4194304	Value	ValueOutput
+User 2d 8	0	4194304	Value	ValueOutput
+Envelope Enable	0	1	Toggle	ValueOutput
+Envelope Gate Channel	0	3	Value	ValueOutput
+Envelope Sync	0	1	Toggle	ValueOutput
+Envelope Invert	0	1	Toggle	ValueOutput
+Envelope Attack Free	0	4194304	Value	ValueOutput
+Envelope Attack Sync	0	37	Value	ValueOutput
+Envelope Decay Free	0	4194304	Value	ValueOutput
+Envelope Decay Sync	0	37	Value	ValueOutput
+Envelope Sustain	0	4194304	Value	ValueOutput
+Envelope Release Free	0	4194304	Value	ValueOutput
+Envelope Release Sync	0	37	Value	ValueOutput
+Envelope Level	0	4194304	Value	ValueOutput
+Envelope Loop	0	1	Toggle	ValueOutput
+Gate 1 Enable	0	1	Toggle	ValueOutput
+Gate 1 Trigger	0	1	Toggle	ValueOutput
+Gate 1 Quant Channel	0	3	Value	ValueOutput
+Gate 1 Source Channel	0	58	Value	ValueOutput
+Gate 2 Enable	0	1	Toggle	ValueOutput
+Gate 2 Trigger	0	1	Toggle	ValueOutput
+Gate 2 Quant Channel	0	3	Value	ValueOutput
+Gate 2 Source Channel	0	58	Value	ValueOutput
+LFO 1 Enable	0	1	Toggle	ValueOutput
+LFO 1 Waveform	0	17	Value	ValueOutput
+LFO 1 Frequency Free	0	4194304	Value	ValueOutput
+LFO 1 Frequency Sync	0	36	Value	ValueOutput
+LFO 1 Frequency Sync B	0	36	Value	ValueOutput
+LFO 1 Frequency Fine	0	4194304	Value	ValueOutput
+LFO 1 Sync	0	2	Value	ValueOutput
+LFO 1 Sync Mode	0	1	Toggle	ValueOutput
+LFO 1 Phase	0	4194304	Value	ValueOutput
+LFO 1 Level	0	4194304	Value	ValueOutput
+LFO 1 Invert	0	1	Toggle	ValueOutput
+LFO 1 High	0	4194304	Value	ValueOutput
+LFO 1 Midpoint	0	4194304	Value	ValueOutput
+LFO 1 Low	0	4194304	Value	ValueOutput
+LFO 1 Warp	0	1	Toggle	ValueOutput
+LFO 1 Curve Type	0	8	Value	ValueOutput
+LFO 1 Curve	0	4194304	Value	ValueOutput
+LFO 1 Curve Shape	0	57	Value	ValueOutput
+LFO 1 Curve Mid	0	4194304	Value	ValueOutput
+LFO 1 Phase Curve	0	4194304	Value	ValueOutput
+LFO 1 Curve Mul	0	36	Value	ValueOutput
+LFO 1 Quant Channel	0	3	Value	ValueOutput
+LFO 1 Gate Channel	0	3	Value	ValueOutput
+LFO 1 Gate Type	0	4	Value	ValueOutput
+LFO 1 Polarity	0	1	Toggle	ValueOutput
+LFO 1 Steps	0	62	Value	ValueOutput
+LFO 1 Steps Type	0	11	Value	ValueOutput
+LFO 1 Steps n/a	0	62	Value	ValueOutput
+LFO 1 Freq Free Dummy	0	4194304	Value	ValueOutput
+LFO 1 Freq Sync Dummy	0	36	Value	ValueOutput
+LFO 2 Enable	0	1	Toggle	ValueOutput
+LFO 2 Waveform	0	17	Value	ValueOutput
+LFO 2 Frequency Free	0	4194304	Value	ValueOutput
+LFO 2 Frequency Sync	0	36	Value	ValueOutput
+LFO 2 Frequency Sync B	0	36	Value	ValueOutput
+LFO 2 Frequency Fine	0	4194304	Value	ValueOutput
+LFO 2 Sync	0	2	Value	ValueOutput
+LFO 2 Sync Mode	0	1	Toggle	ValueOutput
+LFO 2 Phase	0	4194304	Value	ValueOutput
+LFO 2 Level	0	4194304	Value	ValueOutput
+LFO 2 Invert	0	1	Toggle	ValueOutput
+LFO 2 High	0	4194304	Value	ValueOutput
+LFO 2 Midpoint	0	4194304	Value	ValueOutput
+LFO 2 Low	0	4194304	Value	ValueOutput
+LFO 2 Warp	0	1	Toggle	ValueOutput
+LFO 2 Curve Type	0	8	Value	ValueOutput
+LFO 2 Curve	0	4194304	Value	ValueOutput
+LFO 2 Curve Shape	0	57	Value	ValueOutput
+LFO 2 Curve Mid	0	4194304	Value	ValueOutput
+LFO 2 Phase Curve	0	4194304	Value	ValueOutput
+LFO 2 Curve Mul	0	36	Value	ValueOutput
+LFO 2 Quant Channel	0	3	Value	ValueOutput
+LFO 2 Gate Channel	0	3	Value	ValueOutput
+LFO 2 Gate Type	0	4	Value	ValueOutput
+LFO 2 Polarity	0	1	Toggle	ValueOutput
+LFO 2 Steps Type	0	11	Value	ValueOutput
+LFO 2 Steps	0	62	Value	ValueOutput
+LFO 3 Enable	0	1	Toggle	ValueOutput
+LFO 3 Waveform	0	17	Value	ValueOutput
+LFO 3 Frequency Free	0	4194304	Value	ValueOutput
+LFO 3 Frequency Sync	0	36	Value	ValueOutput
+LFO 3 Frequency Sync B	0	36	Value	ValueOutput
+LFO 3 Frequency Fine	0	4194304	Value	ValueOutput
+LFO 3 Sync	0	2	Value	ValueOutput
+LFO 3 Sync Mode	0	1	Toggle	ValueOutput
+LFO 3 Phase	0	4194304	Value	ValueOutput
+LFO 3 Level	0	4194304	Value	ValueOutput
+LFO 3 Invert	0	1	Toggle	ValueOutput
+LFO 3 High	0	4194304	Value	ValueOutput
+LFO 3 Midpoint	0	4194304	Value	ValueOutput
+LFO 3 Low	0	4194304	Value	ValueOutput
+LFO 3 Warp	0	1	Toggle	ValueOutput
+LFO 3 Curve Type	0	8	Value	ValueOutput
+LFO 3 Curve	0	4194304	Value	ValueOutput
+LFO 3 Curve Shape	0	57	Value	ValueOutput
+LFO 3 Curve Mid	0	4194304	Value	ValueOutput
+LFO 3 Phase Curve	0	4194304	Value	ValueOutput
+LFO 3 Curve Mul	0	36	Value	ValueOutput
+LFO 3 Quant Channel	0	3	Value	ValueOutput
+LFO 3 Gate Channel	0	3	Value	ValueOutput
+LFO 3 Gate Type	0	4	Value	ValueOutput
+LFO 3 Polarity	0	1	Toggle	ValueOutput
+LFO 3 Steps Type	0	11	Value	ValueOutput
+LFO 3 Steps	0	62	Value	ValueOutput
+LFO 4 Enable	0	1	Toggle	ValueOutput
+LFO 4 Waveform	0	17	Value	ValueOutput
+LFO 4 Frequency Free	0	4194304	Value	ValueOutput
+LFO 4 Frequency Sync	0	36	Value	ValueOutput
+LFO 4 Frequency Sync B	0	36	Value	ValueOutput
+LFO 4 Frequency Fine	0	4194304	Value	ValueOutput
+LFO 4 Sync	0	2	Value	ValueOutput
+LFO 4 Sync Mode	0	1	Toggle	ValueOutput
+LFO 4 Phase	0	4194304	Value	ValueOutput
+LFO 4 Level	0	4194304	Value	ValueOutput
+LFO 4 Invert	0	1	Toggle	ValueOutput
+LFO 4 High	0	4194304	Value	ValueOutput
+LFO 4 Midpoint	0	4194304	Value	ValueOutput
+LFO 4 Low	0	4194304	Value	ValueOutput
+LFO 4 Warp	0	1	Toggle	ValueOutput
+LFO 4 Curve Type	0	8	Value	ValueOutput
+LFO 4 Curve	0	4194304	Value	ValueOutput
+LFO 4 Curve Mid	0	4194304	Value	ValueOutput
+LFO 4 Phase Curve	0	4194304	Value	ValueOutput
+LFO 4 Curve Mul	0	36	Value	ValueOutput
+LFO 4 Quant Channel	0	3	Value	ValueOutput
+LFO 4 Gate Channel	0	3	Value	ValueOutput
+LFO 4 Steps	0	62	Value	ValueOutput
+Grid Enable	0	1	Toggle	ValueOutput
+Grid Function	0	14	Value	ValueOutput
+Grid Frequency Free	0	4194304	Value	ValueOutput
+Grid Frequency Sync	0	36	Value	ValueOutput
+Grid Frequency Sync B	0	36	Value	ValueOutput
+Grid No Frequency	0	1	Toggle	ValueOutput
+Grid Sync	0	2	Value	ValueOutput
+Grid Env Sync	0	1	Toggle	ValueOutput
+Grid Phase	0	4194304	Value	ValueOutput
+Grid Level	0	4194304	Value	ValueOutput
+Grid Invert	0	1	Toggle	ValueOutput
+Grid Smooth Batches	0	256	Value	ValueOutput
+Grid High	0	4194304	Value	ValueOutput
+Grid Midpoint	0	4194304	Value	ValueOutput
+Grid Low	0	4194304	Value	ValueOutput
+Grid Warp	0	1	Toggle	ValueOutput
+Grid Quant Channel	0	3	Value	ValueOutput
+Grid Gate Channel	0	3	Value	ValueOutput
+Grid Gate Type	0	3	Value	ValueOutput
+Grid Polarity	0	1	Toggle	ValueOutput
+Grid Source A	0	9	Value	ValueOutput
+Grid Source B	0	9	Value	ValueOutput
+Grid Button A1	0	1	Toggle	ValueOutput
+Grid Button A2	0	1	Toggle	ValueOutput
+Grid Button A3	0	1	Toggle	ValueOutput
+Grid Button A4	0	1	Toggle	ValueOutput
+Grid Button B1	0	1	Toggle	ValueOutput
+Grid Button B2	0	1	Toggle	ValueOutput
+Grid Button B3	0	1	Toggle	ValueOutput
+Grid Button B4	0	1	Toggle	ValueOutput
+Grid Fader	0	4194304	Value	ValueOutput
+Grid Fade LFO	0	1	Toggle	ValueOutput
+Grid Crossfader Curve Amount	0	4194304	Value	ValueOutput
+Grid Crossfader Curve Type	0	4	Value	ValueOutput
+Grid Delay Enable	0	1	Toggle	ValueOutput
+Grid Delay Length Free	0	4194304	Value	ValueOutput
+Grid Delay Length Sync	0	36	Value	ValueOutput
+Grid Delay Length Sync B	0	36	Value	ValueOutput
+Grid Delay Sync	0	2	Value	ValueOutput
+Grid Delay Feedback	0	4194304	Value	ValueOutput
+Grid Delay Mix	0	4194304	Value	ValueOutput
+Quantizer 1 Enable	0	1	Toggle	ValueOutput
+Quant 1 Gate Channel	0	3	Value	ValueOutput
+Quantizer 1 Frequency Free	0	4194304	Value	ValueOutput
+Quantizer 1 Frequency Sync	0	36	Value	ValueOutput
+Quantizer 1 Frequency Sync B	0	36	Value	ValueOutput
+Quantizer 1 Sync	0	2	Value	ValueOutput
+Quant 1 Phase	0	4194304	Value	ValueOutput
+Quant 1 Smooth	0	4194304	Value	ValueOutput
+Quant 1 Gate Length	0	4194304	Value	ValueOutput
+Quant 1 Velocity	0	4194304	Value	ValueOutput
+Quant 1 Sync Mode	0	1	Toggle	ValueOutput
+Quantizer 2 Enable	0	1	Toggle	ValueOutput
+Quant 2 Gate Channel	0	3	Value	ValueOutput
+Quantizer 2 Frequency Free	0	4194304	Value	ValueOutput
+Quantizer 2 Frequency Sync	0	36	Value	ValueOutput
+Quantizer 2 Frequency Sync B	0	36	Value	ValueOutput
+Quantizer 2 Sync	0	2	Value	ValueOutput
+Quant 2 Phase	0	4194304	Value	ValueOutput
+Quant 2 Smooth	0	4194304	Value	ValueOutput
+Quant 2 Gate Length	0	4194304	Value	ValueOutput
+Quant 2 Velocity	0	4194304	Value	ValueOutput
+Quant 2 Sync Mode	0	1	Toggle	ValueOutput
+Mod LFO 1 Amount	0	4194304	Value	ValueOutput
+Mod LFO 2 Amount	0	4194304	Value	ValueOutput
+Mod LFO 3 Amount	0	4194304	Value	ValueOutput
+Mod Grid 1 Amount	0	4194304	Value	ValueOutput
+Mod Grid 2 Amount	0	4194304	Value	ValueOutput
+Mod Grid 3 Amount	0	4194304	Value	ValueOutput
+Display Select	0	11	Value	ValueOutput
+Display Select 2	0	11	Value	ValueOutput
+Display Enable 1	0	1	Toggle	ValueOutput
+Display Enable 2	0	1	Toggle	ValueOutput
+Extra User Knobs	0	1	Toggle	ValueOutput
+Wave Editor Tool	0	16	Value	ValueOutput
+Editor Draw Smooth Amount	0	31	Value	ValueOutput
+Editor Copy From	0	3	Value	ValueOutput
+Grid Snap X Number	0	62	Value	ValueOutput
+Grid Snap X Number 2	0	62	Value	ValueOutput
+Grid Snap X Number 3	0	62	Value	ValueOutput
+Grid Snap X Number 4	0	62	Value	ValueOutput
+Grid Snap X Number 5	0	62	Value	ValueOutput
+Grid Snap X Number 6	0	62	Value	ValueOutput
+Grid Snap X Number 7	0	62	Value	ValueOutput
+Grid Snap Y Number	0	62	Value	ValueOutput
+Grid Snap Y Number 2	0	62	Value	ValueOutput
+Grid Snap Y Number 3	0	62	Value	ValueOutput
+Grid Snap Y Number 4	0	62	Value	ValueOutput
+Grid Snap Y Number 5	0	62	Value	ValueOutput
+Grid Snap Y Number 6	0	62	Value	ValueOutput
+Grid Snap Y Number 7	0	62	Value	ValueOutput
+Grid Snap X	0	1	Toggle	ValueOutput
+Grid Snap Y	0	1	Toggle	ValueOutput
+Editor Width	0	4194304	Value	ValueOutput
+Wave Editor Select	0	7	Value	ValueOutput
+Editor Smooth 1	0	4194304	Value	ValueOutput
+Editor Smooth 2	0	4194304	Value	ValueOutput
+Editor Smooth 3	0	4194304	Value	ValueOutput
+Editor Smooth 4	0	4194304	Value	ValueOutput
+Editor Smooth X	0	4194304	Value	ValueOutput
+Editor Smooth Y	0	4194304	Value	ValueOutput
+Editor Smooth Z	0	4194304	Value	ValueOutput
+Editor Num Points 1	0	30	Value	ValueOutput
+Editor Num Points 2	0	30	Value	ValueOutput
+Editor Num Points 3	0	30	Value	ValueOutput
+Editor Num Points 4	0	30	Value	ValueOutput
+Editor Num Points X	0	62	Value	ValueOutput
+Editor Num Points Y	0	62	Value	ValueOutput
+Editor Num Points Z	0	126	Value	ValueOutput
+Editor Smooth Type 1	0	1	Toggle	ValueOutput
+Editor Smooth Type 2	0	1	Toggle	ValueOutput
+Editor Smooth Type 3	0	1	Toggle	ValueOutput
+Editor Smooth Type 4	0	1	Toggle	ValueOutput
+Editor Smooth Type X	0	1	Toggle	ValueOutput
+Editor Smooth Type Y	0	1	Toggle	ValueOutput
+Editor Smooth Type Z	0	1	Toggle	ValueOutput
+Editor Dummy 1	0	30	Value	ValueOutput
+Editor Dummy 2	0	62	Value	ValueOutput
+Editor Dummy 3	0	126	Value	ValueOutput
+Scope Speed	0	63	Value	ValueOutput
+Scope Source	0	58	Value	ValueOutput
+Scope Select	0	6	Value	ValueOutput
+LFO Width	0	4194304	Value	ValueOutput
+Scope FPS	0	9	Value	ValueOutput
+Scope Uni	0	1	Toggle	ValueOutput
+LFO Iterations	0	7	Value	ValueOutput
+Scope Freeze	0	1	Toggle	ValueOutput
+LFO 2 Steps n/a	0	62	Value	ValueOutput
+LFO 3 Steps n/a	0	62	Value	ValueOutput
+LFO 4 Steps n/a	0	62	Value	ValueOutput
+LFO 4 Steps Type	0	11	Value	ValueOutput
+LFO 4 Curve Shape	0	57	Value	ValueOutput
+LFO 4 Polarity	0	1	Toggle	ValueOutput
+LFO 4 Gate Type	0	4	Value	ValueOutput
+LFO 1 Curve Phase	0	1	Toggle	ValueOutput
+LFO 2 Curve Phase	0	1	Toggle	ValueOutput
+LFO 3 Curve Phase	0	1	Toggle	ValueOutput
+LFO 4 Curve Phase	0	1	Toggle	ValueOutput
+LFO 1 Curve Mid Dir	0	1	Toggle	ValueOutput
+LFO 2 Curve Mid Dir	0	1	Toggle	ValueOutput
+LFO 3 Curve Mid Dir	0	1	Toggle	ValueOutput
+LFO 4 Curve Mid Dir	0	1	Toggle	ValueOutput
+LFO 1 Curve Mid Curve	0	1	Toggle	ValueOutput
+LFO 2 Curve Mid Curve	0	1	Toggle	ValueOutput
+LFO 3 Curve Mid Curve	0	1	Toggle	ValueOutput
+LFO 4 Curve Mid Curve	0	1	Toggle	ValueOutput
+LFO 1 Smooth Batches	0	256	Value	ValueOutput
+LFO 2 Smooth Batches	0	256	Value	ValueOutput
+LFO 3 Smooth Batches	0	256	Value	ValueOutput
+LFO 4 Smooth Batches	0	256	Value	ValueOutput
+Curve Mod Type	0	2	Value	ValueOutput
+Alt Scale Mod	0	1	Toggle	ValueOutput
+Quant 1 Gate Type	0	4	Value	ValueOutput
+Quant 2 Gate Type	0	4	Value	ValueOutput
+Quant 1 Smooth Type	0	9	Value	ValueOutput
+Quant 2 Smooth Type	0	9	Value	ValueOutput
+Quant 3 Type	0	4	Value	ValueOutput
+Display FPS	0	10	Value	ValueOutput
+Indy Run	0	1	Toggle	ValueOutput
+Run Order	0	7	Value	ValueOutput
+Phase Reset Sync	0	6	Value	ValueOutput
+Display Color Primary Red	0	255	Value	ValueOutput
+Display Color Primary Green	0	255	Value	ValueOutput
+Display Color Primary Blue	0	255	Value	ValueOutput
+Display Color Secondary Red	0	255	Value	ValueOutput
+Display Color Secondary Green	0	255	Value	ValueOutput
+Display Color Secondary Blue	0	255	Value	ValueOutput
+Display Color Dummy	0	255	Value	ValueOutput
+User Knob 1 Polarity	0	1	Toggle	ValueOutput
+User Knob 2 Polarity	0	1	Toggle	ValueOutput
+User Knob 3 Polarity	0	1	Toggle	ValueOutput
+User Knob 4 Polarity	0	1	Toggle	ValueOutput
+Envelope Bi	0	1	Toggle	ValueOutput
+Mod LFO 1 Source	0	58	Value	ValueOutput
+Mod LFO 2 Source	0	58	Value	ValueOutput
+Mod LFO 3 Source	0	58	Value	ValueOutput
+Mod LFO 4 Source	0	58	Value	ValueOutput
+Mod LFO 5 Source	0	58	Value	ValueOutput
+Mod LFO 6 Source	0	58	Value	ValueOutput
+Mod LFO 7 Source	0	58	Value	ValueOutput
+Mod LFO 8 Source	0	58	Value	ValueOutput
+Mod LFO 9 Source	0	58	Value	ValueOutput
+Mod LFO 1 Dest	0	77	Value	ValueOutput
+Mod LFO 2 Dest	0	77	Value	ValueOutput
+Mod LFO 3 Dest	0	77	Value	ValueOutput
+Mod LFO 4 Dest	0	77	Value	ValueOutput
+Mod LFO 5 Dest	0	77	Value	ValueOutput
+Mod LFO 6 Dest	0	77	Value	ValueOutput
+Mod LFO 7 Dest	0	77	Value	ValueOutput
+Mod LFO 8 Dest	0	77	Value	ValueOutput
+Mod LFO 9 Dest	0	77	Value	ValueOutput
+Mod LFO 1 Control	0	57	Value	ValueOutput
+Mod LFO 2 Control	0	57	Value	ValueOutput
+Mod LFO 3 Control	0	57	Value	ValueOutput
+Mod LFO 4 Control	0	57	Value	ValueOutput
+Mod LFO 5 Control	0	57	Value	ValueOutput
+Mod LFO 6 Control	0	57	Value	ValueOutput
+Mod LFO 7 Control	0	57	Value	ValueOutput
+Mod LFO 8 Control	0	57	Value	ValueOutput
+Mod LFO 9 Control	0	57	Value	ValueOutput
+Mod LFO 4 Amount	0	4194304	Value	ValueOutput
+Mod LFO 5 Amount	0	4194304	Value	ValueOutput
+Mod LFO 6 Amount	0	4194304	Value	ValueOutput
+Mod LFO 7 Amount	0	4194304	Value	ValueOutput
+Mod LFO 8 Amount	0	4194304	Value	ValueOutput
+Mod LFO 9 Amount	0	4194304	Value	ValueOutput
+Mod Grid 1 Source	0	58	Value	ValueOutput
+Mod Grid 2 Source	0	58	Value	ValueOutput
+Mod Grid 3 Source	0	58	Value	ValueOutput
+Mod Grid 4 Source	0	58	Value	ValueOutput
+Mod Grid 5 Source	0	58	Value	ValueOutput
+Mod Grid 6 Source	0	58	Value	ValueOutput
+Mod Grid 1 Control	0	64	Value	ValueOutput
+Mod Grid 2 Control	0	64	Value	ValueOutput
+Mod Grid 3 Control	0	64	Value	ValueOutput
+Mod Grid 4 Control	0	64	Value	ValueOutput
+Mod Grid 5 Control	0	64	Value	ValueOutput
+Mod Grid 6 Control	0	64	Value	ValueOutput
+Mod Grid 4 Amount	0	4194304	Value	ValueOutput
+Mod Grid 5 Amount	0	4194304	Value	ValueOutput
+Mod Grid 6 Amount	0	4194304	Value	ValueOutput
+Mod Quant 1 Source	0	58	Value	ValueOutput
+Mod Quant 2 Source	0	58	Value	ValueOutput
+Mod Quant 3 Source	0	58	Value	ValueOutput
+Mod Quant 1 Dest	0	7	Value	ValueOutput
+Mod Quant 2 Dest	0	7	Value	ValueOutput
+Mod Quant 3 Dest	0	7	Value	ValueOutput
+Mod Quant 1 Control	0	21	Value	ValueOutput
+Mod Quant 2 Control	0	21	Value	ValueOutput
+Mod Quant 3 Control	0	21	Value	ValueOutput
+Mod Quant 1 Amount	0	4194304	Value	ValueOutput
+Mod Quant 2 Amount	0	4194304	Value	ValueOutput
+Mod Quant 3 Amount	0	4194304	Value	ValueOutput
+Mod Env 1 Source	0	58	Value	ValueOutput
+Mod Env 2 Source	0	58	Value	ValueOutput
+Mod Env 1 Control	0	20	Value	ValueOutput
+Mod Env 2 Control	0	20	Value	ValueOutput
+Mod Env 1 Amount	0	4194304	Value	ValueOutput
+Mod Env 2 Amount	0	4194304	Value	ValueOutput
+Mod LFO Scaled 1 Source	0	58	Value	ValueOutput
+Mod LFO Scaled 2 Source	0	58	Value	ValueOutput
+Mod LFO Scaled 3 Source	0	58	Value	ValueOutput
+Mod LFO Scaled 1 Dest	0	35	Value	ValueOutput
+Mod LFO Scaled 2 Dest	0	35	Value	ValueOutput
+Mod LFO Scaled 3 Dest	0	35	Value	ValueOutput
+Mod LFO Scaled 1 Amount	0	4194304	Value	ValueOutput
+Mod LFO Scaled 2 Amount	0	4194304	Value	ValueOutput
+Mod LFO Scaled 3 Amount	0	4194304	Value	ValueOutput
+Mod Grid Scaled 1 Source	0	58	Value	ValueOutput
+Mod Grid Scaled 2 Source	0	58	Value	ValueOutput
+Mod Grid Scaled 1 Dest	0	26	Value	ValueOutput
+Mod Grid Scaled 2 Dest	0	26	Value	ValueOutput
+Mod Grid Scaled 1 Amount	0	4194304	Value	ValueOutput
+Mod Grid Scaled 2 Amount	0	4194304	Value	ValueOutput
+Mod Quant Scaled 1 Source	0	58	Value	ValueOutput
+Mod Quant Scaled 1 Dest	0	7	Value	ValueOutput
+Mod Quant Scaled 1 Amount	0	4194304	Value	ValueOutput
+Meter Color	0	9	Value	ValueOutput
+Color Scheme	0	6	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

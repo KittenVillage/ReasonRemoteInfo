@@ -1,0 +1,120 @@
+Scope
+Manufacturer	Model
+Glitchmachines	vst.GlSu.Subvert x64
+Note: Will match scope definitions for vst.GlSu.Subvert x64 or vst.GlSu
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Channel1_Input_	0	4194304	Value	ValueOutput
+Channel1_Filter	0	4194304	Value	ValueOutput
+Channel1_Filter	0	4194304	Value	ValueOutput
+Channel1_Filter	0	4194304	Value	ValueOutput
+Channel1_Filter	0	4194304	Value	ValueOutput
+Channel1_Ringmo	0	4194304	Value	ValueOutput
+Channel1_Ringmo	0	4194304	Value	ValueOutput
+Channel1_Ringmo	0	4194304	Value	ValueOutput
+Channel1_Ringmo	0	4194304	Value	ValueOutput
+Channel1_Metali	0	4194304	Value	ValueOutput
+Channel1_Metali	0	4194304	Value	ValueOutput
+Channel1_Metali	0	4194304	Value	ValueOutput
+Channel1_Distor	0	4194304	Value	ValueOutput
+Channel1_Distor	0	4194304	Value	ValueOutput
+Channel1_Distor	0	4194304	Value	ValueOutput
+Channel1_Distor	0	4194304	Value	ValueOutput
+Channel1_BitCru	0	4194304	Value	ValueOutput
+Channel1_BitCru	0	4194304	Value	ValueOutput
+Channel1_Reduce	0	4194304	Value	ValueOutput
+Channel1_Reduce	0	4194304	Value	ValueOutput
+Channel1_Output	0	4194304	Value	ValueOutput
+Channel2_Input_	0	4194304	Value	ValueOutput
+Channel2_Filter	0	4194304	Value	ValueOutput
+Channel2_Filter	0	4194304	Value	ValueOutput
+Channel2_Filter	0	4194304	Value	ValueOutput
+Channel2_Filter	0	4194304	Value	ValueOutput
+Channel2_Ringmo	0	4194304	Value	ValueOutput
+Channel2_Ringmo	0	4194304	Value	ValueOutput
+Channel2_Ringmo	0	4194304	Value	ValueOutput
+Channel2_Ringmo	0	4194304	Value	ValueOutput
+Channel2_Metali	0	4194304	Value	ValueOutput
+Channel2_Metali	0	4194304	Value	ValueOutput
+Channel2_Metali	0	4194304	Value	ValueOutput
+Channel2_Distor	0	4194304	Value	ValueOutput
+Channel2_Distor	0	4194304	Value	ValueOutput
+Channel2_Distor	0	4194304	Value	ValueOutput
+Channel2_Distor	0	4194304	Value	ValueOutput
+Channel2_BitCru	0	4194304	Value	ValueOutput
+Channel2_BitCru	0	4194304	Value	ValueOutput
+Channel2_Reduce	0	4194304	Value	ValueOutput
+Channel2_Reduce	0	4194304	Value	ValueOutput
+Channel2_Output	0	4194304	Value	ValueOutput
+Channel3_Input_	0	4194304	Value	ValueOutput
+Channel3_Filter	0	4194304	Value	ValueOutput
+Channel3_Filter	0	4194304	Value	ValueOutput
+Channel3_Filter	0	4194304	Value	ValueOutput
+Channel3_Filter	0	4194304	Value	ValueOutput
+Channel3_Ringmo	0	4194304	Value	ValueOutput
+Channel3_Ringmo	0	4194304	Value	ValueOutput
+Channel3_Ringmo	0	4194304	Value	ValueOutput
+Channel3_Ringmo	0	4194304	Value	ValueOutput
+Channel3_Metali	0	4194304	Value	ValueOutput
+Channel3_Metali	0	4194304	Value	ValueOutput
+Channel3_Metali	0	4194304	Value	ValueOutput
+Channel3_Distor	0	4194304	Value	ValueOutput
+Channel3_Distor	0	4194304	Value	ValueOutput
+Channel3_Distor	0	4194304	Value	ValueOutput
+Channel3_Distor	0	4194304	Value	ValueOutput
+Channel3_BitCru	0	4194304	Value	ValueOutput
+Channel3_BitCru	0	4194304	Value	ValueOutput
+Channel3_Reduce	0	4194304	Value	ValueOutput
+Channel3_Reduce	0	4194304	Value	ValueOutput
+Channel3_Output	0	4194304	Value	ValueOutput
+Equalizer_Low_F	0	4194304	Value	ValueOutput
+Equalizer_Low_G	0	4194304	Value	ValueOutput
+Equalizer_Mid_F	0	4194304	Value	ValueOutput
+Equalizer_Mid_G	0	4194304	Value	ValueOutput
+Equalizer_High_	0	4194304	Value	ValueOutput
+Equalizer_High_	0	4194304	Value	ValueOutput
+Output_Gain_Gai	0	4194304	Value	ValueOutput
+Dry_Wet_Mix	0	4194304	Value	ValueOutput
+ENV1_Sensitivit	0	4194304	Value	ValueOutput
+ENV1_Attack	0	4194304	Value	ValueOutput
+ENV1_Release	0	4194304	Value	ValueOutput
+ENV2_Sensitivit	0	4194304	Value	ValueOutput
+ENV2_Attack	0	4194304	Value	ValueOutput
+ENV2_Release	0	4194304	Value	ValueOutput
+LFO1_Rate	0	4194304	Value	ValueOutput
+LFO1_Waveform	0	4194304	Value	ValueOutput
+LFO1_Sync	0	4194304	Value	ValueOutput
+LFO1_Synced_Rat	0	4194304	Value	ValueOutput
+LFO2_Rate	0	4194304	Value	ValueOutput
+LFO2_Waveform	0	4194304	Value	ValueOutput
+LFO2_Sync	0	4194304	Value	ValueOutput
+LFO2_Synced_Rat	0	4194304	Value	ValueOutput
+LFO3_Rate	0	4194304	Value	ValueOutput
+LFO3_Waveform	0	4194304	Value	ValueOutput
+LFO3_Sync	0	4194304	Value	ValueOutput
+LFO3_Synced_Rat	0	4194304	Value	ValueOutput
+LFO4_Rate	0	4194304	Value	ValueOutput
+LFO4_Waveform	0	4194304	Value	ValueOutput
+LFO4_Sync	0	4194304	Value	ValueOutput
+LFO4_Synced_Rat	0	4194304	Value	ValueOutput
+MOD_MIX1_Mix	0	4194304	Value	ValueOutput
+MOD_MIX2_Mix	0	4194304	Value	ValueOutput
+MOD_MIX3_Mix	0	4194304	Value	ValueOutput
+MOD_MIX4_Mix	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

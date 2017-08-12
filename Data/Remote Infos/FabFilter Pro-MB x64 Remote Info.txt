@@ -1,0 +1,174 @@
+Scope
+Manufacturer	Model
+FabFilter	vst.FPMb.FabFilter Pro-MB x64
+Note: Will match scope definitions for vst.FPMb.FabFilter Pro-MB x64 or vst.FPMb
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Band 1 State	0	4194304	Value	ValueOutput
+Band 1 Low Crossover	0	4194304	Value	ValueOutput
+Band 1 Low Slope	0	4194304	Value	ValueOutput
+Band 1 High Crossover	0	4194304	Value	ValueOutput
+Band 1 High Slope	0	4194304	Value	ValueOutput
+Band 1 Dynamics Mode	0	4194304	Value	ValueOutput
+Band 1 Threshold	0	4194304	Value	ValueOutput
+Band 1 Range	0	4194304	Value	ValueOutput
+Band 1 Ratio	0	4194304	Value	ValueOutput
+Band 1 Attack	0	4194304	Value	ValueOutput
+Band 1 Release	0	4194304	Value	ValueOutput
+Band 1 Knee	0	4194304	Value	ValueOutput
+Band 1 Lookahead	0	4194304	Value	ValueOutput
+Band 1 Level	0	4194304	Value	ValueOutput
+Band 1 Pan	0	4194304	Value	ValueOutput
+Band 1 Side Chain Filter	0	4194304	Value	ValueOutput
+Band 1 Side Chain Low Fr	0	4194304	Value	ValueOutput
+Band 1 Side Chain High F	0	4194304	Value	ValueOutput
+Band 1 Side Chain Input	0	4194304	Value	ValueOutput
+Band 1 Stereo Link	0	4194304	Value	ValueOutput
+Band 1 Stereo Link Mode	0	4194304	Value	ValueOutput
+Band 1 Solo/Mute State	0	4194304	Value	ValueOutput
+Band 2 State	0	4194304	Value	ValueOutput
+Band 2 Low Crossover	0	4194304	Value	ValueOutput
+Band 2 Low Slope	0	4194304	Value	ValueOutput
+Band 2 High Crossover	0	4194304	Value	ValueOutput
+Band 2 High Slope	0	4194304	Value	ValueOutput
+Band 2 Dynamics Mode	0	4194304	Value	ValueOutput
+Band 2 Threshold	0	4194304	Value	ValueOutput
+Band 2 Range	0	4194304	Value	ValueOutput
+Band 2 Ratio	0	4194304	Value	ValueOutput
+Band 2 Attack	0	4194304	Value	ValueOutput
+Band 2 Release	0	4194304	Value	ValueOutput
+Band 2 Knee	0	4194304	Value	ValueOutput
+Band 2 Lookahead	0	4194304	Value	ValueOutput
+Band 2 Level	0	4194304	Value	ValueOutput
+Band 2 Pan	0	4194304	Value	ValueOutput
+Band 2 Side Chain Filter	0	4194304	Value	ValueOutput
+Band 2 Side Chain Low Fr	0	4194304	Value	ValueOutput
+Band 2 Side Chain High F	0	4194304	Value	ValueOutput
+Band 2 Side Chain Input	0	4194304	Value	ValueOutput
+Band 2 Stereo Link	0	4194304	Value	ValueOutput
+Band 2 Stereo Link Mode	0	4194304	Value	ValueOutput
+Band 2 Solo/Mute State	0	4194304	Value	ValueOutput
+Band 3 State	0	4194304	Value	ValueOutput
+Band 3 Low Crossover	0	4194304	Value	ValueOutput
+Band 3 Low Slope	0	4194304	Value	ValueOutput
+Band 3 High Crossover	0	4194304	Value	ValueOutput
+Band 3 High Slope	0	4194304	Value	ValueOutput
+Band 3 Dynamics Mode	0	4194304	Value	ValueOutput
+Band 3 Threshold	0	4194304	Value	ValueOutput
+Band 3 Range	0	4194304	Value	ValueOutput
+Band 3 Ratio	0	4194304	Value	ValueOutput
+Band 3 Attack	0	4194304	Value	ValueOutput
+Band 3 Release	0	4194304	Value	ValueOutput
+Band 3 Knee	0	4194304	Value	ValueOutput
+Band 3 Lookahead	0	4194304	Value	ValueOutput
+Band 3 Level	0	4194304	Value	ValueOutput
+Band 3 Pan	0	4194304	Value	ValueOutput
+Band 3 Side Chain Filter	0	4194304	Value	ValueOutput
+Band 3 Side Chain Low Fr	0	4194304	Value	ValueOutput
+Band 3 Side Chain High F	0	4194304	Value	ValueOutput
+Band 3 Side Chain Input	0	4194304	Value	ValueOutput
+Band 3 Stereo Link	0	4194304	Value	ValueOutput
+Band 3 Stereo Link Mode	0	4194304	Value	ValueOutput
+Band 3 Solo/Mute State	0	4194304	Value	ValueOutput
+Band 4 State	0	4194304	Value	ValueOutput
+Band 4 Low Crossover	0	4194304	Value	ValueOutput
+Band 4 Low Slope	0	4194304	Value	ValueOutput
+Band 4 High Crossover	0	4194304	Value	ValueOutput
+Band 4 High Slope	0	4194304	Value	ValueOutput
+Band 4 Dynamics Mode	0	4194304	Value	ValueOutput
+Band 4 Threshold	0	4194304	Value	ValueOutput
+Band 4 Range	0	4194304	Value	ValueOutput
+Band 4 Ratio	0	4194304	Value	ValueOutput
+Band 4 Attack	0	4194304	Value	ValueOutput
+Band 4 Release	0	4194304	Value	ValueOutput
+Band 4 Knee	0	4194304	Value	ValueOutput
+Band 4 Lookahead	0	4194304	Value	ValueOutput
+Band 4 Level	0	4194304	Value	ValueOutput
+Band 4 Pan	0	4194304	Value	ValueOutput
+Band 4 Side Chain Filter	0	4194304	Value	ValueOutput
+Band 4 Side Chain Low Fr	0	4194304	Value	ValueOutput
+Band 4 Side Chain High F	0	4194304	Value	ValueOutput
+Band 4 Side Chain Input	0	4194304	Value	ValueOutput
+Band 4 Stereo Link	0	4194304	Value	ValueOutput
+Band 4 Stereo Link Mode	0	4194304	Value	ValueOutput
+Band 4 Solo/Mute State	0	4194304	Value	ValueOutput
+Band 5 State	0	4194304	Value	ValueOutput
+Band 5 Low Crossover	0	4194304	Value	ValueOutput
+Band 5 Low Slope	0	4194304	Value	ValueOutput
+Band 5 High Crossover	0	4194304	Value	ValueOutput
+Band 5 High Slope	0	4194304	Value	ValueOutput
+Band 5 Dynamics Mode	0	4194304	Value	ValueOutput
+Band 5 Threshold	0	4194304	Value	ValueOutput
+Band 5 Range	0	4194304	Value	ValueOutput
+Band 5 Ratio	0	4194304	Value	ValueOutput
+Band 5 Attack	0	4194304	Value	ValueOutput
+Band 5 Release	0	4194304	Value	ValueOutput
+Band 5 Knee	0	4194304	Value	ValueOutput
+Band 5 Lookahead	0	4194304	Value	ValueOutput
+Band 5 Level	0	4194304	Value	ValueOutput
+Band 5 Pan	0	4194304	Value	ValueOutput
+Band 5 Side Chain Filter	0	4194304	Value	ValueOutput
+Band 5 Side Chain Low Fr	0	4194304	Value	ValueOutput
+Band 5 Side Chain High F	0	4194304	Value	ValueOutput
+Band 5 Side Chain Input	0	4194304	Value	ValueOutput
+Band 5 Stereo Link	0	4194304	Value	ValueOutput
+Band 5 Stereo Link Mode	0	4194304	Value	ValueOutput
+Band 5 Solo/Mute State	0	4194304	Value	ValueOutput
+Band 6 State	0	4194304	Value	ValueOutput
+Band 6 Low Crossover	0	4194304	Value	ValueOutput
+Band 6 Low Slope	0	4194304	Value	ValueOutput
+Band 6 High Crossover	0	4194304	Value	ValueOutput
+Band 6 High Slope	0	4194304	Value	ValueOutput
+Band 6 Dynamics Mode	0	4194304	Value	ValueOutput
+Band 6 Threshold	0	4194304	Value	ValueOutput
+Band 6 Range	0	4194304	Value	ValueOutput
+Band 6 Ratio	0	4194304	Value	ValueOutput
+Band 6 Attack	0	4194304	Value	ValueOutput
+Band 6 Release	0	4194304	Value	ValueOutput
+Band 6 Knee	0	4194304	Value	ValueOutput
+Band 6 Lookahead	0	4194304	Value	ValueOutput
+Band 6 Level	0	4194304	Value	ValueOutput
+Band 6 Pan	0	4194304	Value	ValueOutput
+Band 6 Side Chain Filter	0	4194304	Value	ValueOutput
+Band 6 Side Chain Low Fr	0	4194304	Value	ValueOutput
+Band 6 Side Chain High F	0	4194304	Value	ValueOutput
+Band 6 Side Chain Input	0	4194304	Value	ValueOutput
+Band 6 Stereo Link	0	4194304	Value	ValueOutput
+Band 6 Stereo Link Mode	0	4194304	Value	ValueOutput
+Band 6 Solo/Mute State	0	4194304	Value	ValueOutput
+Audition Side Chain	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Input Level	0	4194304	Value	ValueOutput
+Input Pan	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Output Pan	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Processing Mode	0	4194304	Value	ValueOutput
+Oversampling	0	4194304	Value	ValueOutput
+Lookahead Enabled	0	4194304	Value	ValueOutput
+Expert Mode	0	4194304	Value	ValueOutput
+Midi State	0	4194304	Value	ValueOutput
+Display Range	0	4194304	Value	ValueOutput
+Analyzer	0	4194304	Value	ValueOutput
+Analyzer Resolution	0	4194304	Value	ValueOutput
+Analyzer Speed	0	4194304	Value	ValueOutput
+Analyzer Tilt	0	4194304	Value	ValueOutput
+Analyzer Freeze	0	4194304	Value	ValueOutput
+Analyzer Side Chain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

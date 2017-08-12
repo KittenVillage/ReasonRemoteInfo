@@ -1,0 +1,59 @@
+Scope
+Manufacturer	Model
+Soundspot	vst.g3tz.Overtone
+Note: Will match scope definitions for vst.g3tz.Overtone or vst.g3tz
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Frequency 1	0	4194304	Value	ValueOutput
+Frequency 2	0	4194304	Value	ValueOutput
+Frequency 3	0	4194304	Value	ValueOutput
+Frequency 4	0	4194304	Value	ValueOutput
+Frequency 5	0	4194304	Value	ValueOutput
+Frequency 6	0	4194304	Value	ValueOutput
+Frequency 7	0	4194304	Value	ValueOutput
+Frequency 8	0	4194304	Value	ValueOutput
+Gain 1	0	4194304	Value	ValueOutput
+Gain 2	0	4194304	Value	ValueOutput
+Gain 3	0	4194304	Value	ValueOutput
+Gain 4	0	4194304	Value	ValueOutput
+Gain 5	0	4194304	Value	ValueOutput
+Gain 6	0	4194304	Value	ValueOutput
+Gain 7	0	4194304	Value	ValueOutput
+Gain 8	0	4194304	Value	ValueOutput
+Quality 1	0	4194304	Value	ValueOutput
+Quality 2	0	4194304	Value	ValueOutput
+Quality 3	0	4194304	Value	ValueOutput
+Quality 4	0	4194304	Value	ValueOutput
+Quality 5	0	4194304	Value	ValueOutput
+Quality 6	0	4194304	Value	ValueOutput
+Quality 7	0	4194304	Value	ValueOutput
+Quality 8	0	4194304	Value	ValueOutput
+Filter type 1	0	4194304	Value	ValueOutput
+Filter type 2	0	4194304	Value	ValueOutput
+Filter type 3	0	4194304	Value	ValueOutput
+Filter type 4	0	4194304	Value	ValueOutput
+Filter type 5	0	4194304	Value	ValueOutput
+Filter type 6	0	4194304	Value	ValueOutput
+Filter type 7	0	4194304	Value	ValueOutput
+Filter type 8	0	4194304	Value	ValueOutput
+Solo	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Link	0	4194304	Value	ValueOutput
+bypass	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

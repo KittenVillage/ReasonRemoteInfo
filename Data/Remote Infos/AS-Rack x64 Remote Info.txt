@@ -1,0 +1,118 @@
+Scope
+Manufacturer	Model
+Nomad Factory	vst.ARck.AS-Rack x64
+Note: Will match scope definitions for vst.ARck.AS-Rack x64 or vst.ARck
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Power	0	4194304	Value	ValueOutput
+Pre-Amp VU In/Out	0	4194304	Value	ValueOutput
+Pre-Amp Mono	0	4194304	Value	ValueOutput
+Pre-Amp Phase	0	4194304	Value	ValueOutput
+Pre-Amp Input Pad	0	4194304	Value	ValueOutput
+Pre-Amp Tube Drive	0	4194304	Value	ValueOutput
+Pre-Amp Output	0	4194304	Value	ValueOutput
+Pre-Amp Clipper	0	4194304	Value	ValueOutput
+Pre-Amp Tube Bias	0	4194304	Value	ValueOutput
+Pre-Amp Fat Mode	0	4194304	Value	ValueOutput
+Exciter Input	0	4194304	Value	ValueOutput
+Exciter Output	0	4194304	Value	ValueOutput
+Stereo Width	0	4194304	Value	ValueOutput
+Stereo Width In/Out	0	4194304	Value	ValueOutput
+Exciter In/Out	0	4194304	Value	ValueOutput
+Exciter Clarity	0	4194304	Value	ValueOutput
+Exciter Diffuse	0	4194304	Value	ValueOutput
+Exciter Fullness	0	4194304	Value	ValueOutput
+Exciter Clipper	0	4194304	Value	ValueOutput
+Exciter Display Type	0	4194304	Value	ValueOutput
+Gate/Exp Input	0	4194304	Value	ValueOutput
+Gate/Exp Output	0	4194304	Value	ValueOutput
+Gate/Exp Threshold	0	4194304	Value	ValueOutput
+Gate/Exp Hold	0	4194304	Value	ValueOutput
+Gate/Exp Release	0	4194304	Value	ValueOutput
+Gate/Exp Range	0	4194304	Value	ValueOutput
+Gate/Exp Fast Attack	0	4194304	Value	ValueOutput
+Gate/Exp Mode	0	4194304	Value	ValueOutput
+Gate/Exp SC HPF	0	4194304	Value	ValueOutput
+Gate/Exp SC HPF Slope	0	4194304	Value	ValueOutput
+Gate/Exp SC LPF	0	4194304	Value	ValueOutput
+Gate/Exp SC LPF Slope	0	4194304	Value	ValueOutput
+Gate/Exp SC Listen	0	4194304	Value	ValueOutput
+Gate/Exp Clipper	0	4194304	Value	ValueOutput
+Gate/Exp In/Out	0	4194304	Value	ValueOutput
+Gate/Exp Display Type	0	4194304	Value	ValueOutput
+Comp/Lim Input	0	4194304	Value	ValueOutput
+Comp/Lim Output	0	4194304	Value	ValueOutput
+Comp/Lim Threshold	0	4194304	Value	ValueOutput
+Comp/Lim Ratio	0	4194304	Value	ValueOutput
+Comp/Lim Release	0	4194304	Value	ValueOutput
+Comp/Lim Lin Release	0	4194304	Value	ValueOutput
+Comp/Lim Direct	0	4194304	Value	ValueOutput
+Comp/Lim Fast Attack	0	4194304	Value	ValueOutput
+Comp/Lim SC Freq	0	4194304	Value	ValueOutput
+Comp/Lim SC Slope	0	4194304	Value	ValueOutput
+Comp/Lim Knee	0	4194304	Value	ValueOutput
+Comp/Lim Clipper	0	4194304	Value	ValueOutput
+Comp/Lim In/Out	0	4194304	Value	ValueOutput
+Comp/Lim Display Type	0	4194304	Value	ValueOutput
+State EQ Input	0	4194304	Value	ValueOutput
+State EQ Output	0	4194304	Value	ValueOutput
+State EQ HF Gain	0	4194304	Value	ValueOutput
+State EQ HF Freq	0	4194304	Value	ValueOutput
+State EQ HF Mode	0	4194304	Value	ValueOutput
+State EQ HMF Gain	0	4194304	Value	ValueOutput
+State EQ HMF Freq	0	4194304	Value	ValueOutput
+State EQ HMF Mode	0	4194304	Value	ValueOutput
+State EQ LMF Gain	0	4194304	Value	ValueOutput
+State EQ LMF Freq	0	4194304	Value	ValueOutput
+State EQ LMF Mode	0	4194304	Value	ValueOutput
+State EQ LF Gain	0	4194304	Value	ValueOutput
+State EQ LF Freq	0	4194304	Value	ValueOutput
+State EQ LF Mode	0	4194304	Value	ValueOutput
+State EQ Model	0	4194304	Value	ValueOutput
+State EQ Clipper	0	4194304	Value	ValueOutput
+State EQ HPF	0	4194304	Value	ValueOutput
+State EQ In/Out	0	4194304	Value	ValueOutput
+State EQ Display Type	0	4194304	Value	ValueOutput
+Pulse EQ Input	0	4194304	Value	ValueOutput
+Pulse EQ Output	0	4194304	Value	ValueOutput
+Pulse EQ HF Cut	0	4194304	Value	ValueOutput
+Pulse EQ HF Cut Freq	0	4194304	Value	ValueOutput
+Pulse EQ HF Boost	0	4194304	Value	ValueOutput
+Pulse EQ HF Freq	0	4194304	Value	ValueOutput
+Pulse EQ HF Bandwidth	0	4194304	Value	ValueOutput
+Pulse EQ LF Cut	0	4194304	Value	ValueOutput
+Pulse EQ LF Cut Freq	0	4194304	Value	ValueOutput
+Pulse EQ LF Boost	0	4194304	Value	ValueOutput
+Pulse EQ Clipper	0	4194304	Value	ValueOutput
+Pulse EQ HPF	0	4194304	Value	ValueOutput
+Pulse EQ In/Out	0	4194304	Value	ValueOutput
+Pulse EQ Display Type	0	4194304	Value	ValueOutput
+Bus Comp Input	0	4194304	Value	ValueOutput
+Bus Comp Output	0	4194304	Value	ValueOutput
+Bus Comp Threshold	0	4194304	Value	ValueOutput
+Bus Comp Attack	0	4194304	Value	ValueOutput
+Bus Comp Release	0	4194304	Value	ValueOutput
+Bus Comp Ratio	0	4194304	Value	ValueOutput
+Bus Comp SC Freq	0	4194304	Value	ValueOutput
+Bus Comp SC Slope	0	4194304	Value	ValueOutput
+Bus Comp Clipper	0	4194304	Value	ValueOutput
+Bus Comp In/Out	0	4194304	Value	ValueOutput
+Bus Comp Display Type	0	4194304	Value	ValueOutput
+VU Calibration	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,69 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	vst.SBTH.Thesys x64
+Note: Will match scope definitions for vst.SBTH.Thesys x64 or vst.SBTH
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Root_Key	0	4194304	Value	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+Midi_Out_Octave	0	4194304	Value	ValueOutput
+Midi_Out_Transpo_	0	4194304	Value	ValueOutput
+Swingfactor	0	4194304	Value	ValueOutput
+Gate_Time_Button_	0	4194304	Value	ValueOutput
+MasterGateTime	0	4194304	Value	ValueOutput
+VeloGate_Button	0	4194304	Value	ValueOutput
+Velocity_Thresho_	0	4194304	Value	ValueOutput
+Looper_Button	0	4194304	Value	ValueOutput
+Looper_Steps	0	4194304	Value	ValueOutput
+Slowdown_Button	0	4194304	Value	ValueOutput
+Slowdown_Rate	0	4194304	Value	ValueOutput
+Retrigger_Button_	0	4194304	Value	ValueOutput
+HalfSpeed_Button_	0	4194304	Value	ValueOutput
+StepPlay_Button	0	4194304	Value	ValueOutput
+Mute_Button	0	4194304	Value	ValueOutput
+Synth_Level	0	4194304	Value	ValueOutput
+Synth_Pan	0	4194304	Value	ValueOutput
+Synth_Wave	0	4194304	Value	ValueOutput
+Synth_Detune	0	4194304	Value	ValueOutput
+SynthAttack	0	4194304	Value	ValueOutput
+SynthDecay	0	4194304	Value	ValueOutput
+SynthSustain	0	4194304	Value	ValueOutput
+SynthRelease	0	4194304	Value	ValueOutput
+Filter_Cutoff	0	4194304	Value	ValueOutput
+Synth_Reso	0	4194304	Value	ValueOutput
+Synth_Peak	0	4194304	Value	ValueOutput
+Synth_F_Attack	0	4194304	Value	ValueOutput
+Synth_F_Decay	0	4194304	Value	ValueOutput
+Synth_F_Sustain	0	4194304	Value	ValueOutput
+Synth_F_Release	0	4194304	Value	ValueOutput
+Delay_Left	0	4194304	Value	ValueOutput
+Delay_Right	0	4194304	Value	ValueOutput
+Delay_Feed	0	4194304	Value	ValueOutput
+Delay_Mix	0	4194304	Value	ValueOutput
+GateTimeMultiply_	0	4194304	Value	ValueOutput
+All_Mods_Off	0	4194304	Value	ValueOutput
+Modtrack_1_on_of_	0	4194304	Value	ValueOutput
+Modtrack2_on_off_	0	4194304	Value	ValueOutput
+Modtrack3_on_off_	0	4194304	Value	ValueOutput
+Modtrack4_on_off_	0	4194304	Value	ValueOutput
+Modtrack5_on_off_	0	4194304	Value	ValueOutput
+Modtrack6_on_off_	0	4194304	Value	ValueOutput
+Modtrack7_on_off_	0	4194304	Value	ValueOutput
+Modtrack8_on_off_	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

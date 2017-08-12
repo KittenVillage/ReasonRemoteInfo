@@ -1,0 +1,55 @@
+Scope
+Manufacturer	Model
+Slate Digital	vst.VBCk.VBC Rack x64
+Note: Will match scope definitions for vst.VBCk.VBC Rack x64 or vst.VBCk
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Red Attack	0	4194304	Value	ValueOutput
+Grey Make-Up Gain	0	4194304	Value	ValueOutput
+MU Release Left	0	4194304	Value	ValueOutput
+Grey Bypass	0	4194304	Value	ValueOutput
+Red Ratio	0	4194304	Value	ValueOutput
+MU Mix	0	4194304	Value	ValueOutput
+MU Make-Up Gain Right	0	4194304	Value	ValueOutput
+MU Input Gain Right	0	4194304	Value	ValueOutput
+Red Threshold	0	4194304	Value	ValueOutput
+MU Input Gain Left	0	4194304	Value	ValueOutput
+Grey Attack	0	4194304	Value	ValueOutput
+MU Threshold Left	0	4194304	Value	ValueOutput
+MU Attack Left	0	4194304	Value	ValueOutput
+Grey Release	0	4194304	Value	ValueOutput
+Grey Ratio	0	4194304	Value	ValueOutput
+MU Threshold Right	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Red Release	0	4194304	Value	ValueOutput
+Grey Mix	0	4194304	Value	ValueOutput
+Red Make-Up Gain	0	4194304	Value	ValueOutput
+Red Mix	0	4194304	Value	ValueOutput
+MU Release Right	0	4194304	Value	ValueOutput
+MU Make-Up Gain Left	0	4194304	Value	ValueOutput
+MU Bypass	0	4194304	Value	ValueOutput
+Red Drive	0	4194304	Value	ValueOutput
+Grey HPF	0	4194304	Value	ValueOutput
+Red Bypass	0	4194304	Value	ValueOutput
+MU Attack Right	0	4194304	Value	ValueOutput
+Red HPF	0	4194304	Value	ValueOutput
+MU HPF Right	0	4194304	Value	ValueOutput
+MU HPF Left	0	4194304	Value	ValueOutput
+Grey Threshold	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

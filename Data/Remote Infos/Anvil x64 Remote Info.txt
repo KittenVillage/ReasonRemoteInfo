@@ -1,0 +1,49 @@
+Scope
+Manufacturer	Model
+Ignite Amps	vst.ANV2.Anvil x64
+Note: Will match scope definitions for vst.ANV2.Anvil x64 or vst.ANV2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Channel	0	4194304	Value	ValueOutput
+Bright Clean	0	4194304	Value	ValueOutput
+Bright Rhythm	0	4194304	Value	ValueOutput
+Bright Lead	0	4194304	Value	ValueOutput
+Shape Lead	0	4194304	Value	ValueOutput
+Plugin Mode	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Gain Clean	0	4194304	Value	ValueOutput
+Gain Rhythm	0	4194304	Value	ValueOutput
+Gain Lead	0	4194304	Value	ValueOutput
+Volume Clean	0	4194304	Value	ValueOutput
+Volume Rhythm	0	4194304	Value	ValueOutput
+Volume Lead	0	4194304	Value	ValueOutput
+Lows Clean	0	4194304	Value	ValueOutput
+Lows Rhythm	0	4194304	Value	ValueOutput
+Lows Lead	0	4194304	Value	ValueOutput
+Mids Clean	0	4194304	Value	ValueOutput
+Mids Rhythm	0	4194304	Value	ValueOutput
+Mids Lead	0	4194304	Value	ValueOutput
+Treble Clean	0	4194304	Value	ValueOutput
+Treble Rhythm	0	4194304	Value	ValueOutput
+Treble Lead	0	4194304	Value	ValueOutput
+Presence Lead	0	4194304	Value	ValueOutput
+Input Level	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Oversampling	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

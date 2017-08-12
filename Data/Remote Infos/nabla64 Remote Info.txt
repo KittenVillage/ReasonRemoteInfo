@@ -1,0 +1,78 @@
+Scope
+Manufacturer	Model
+Full Bucket Music	vst.dl50.nabla64
+Note: Will match scope definitions for vst.dl50.nabla64 or vst.dl50
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+GOD Mode	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Syn Vol	0	4194304	Value	ValueOutput
+Syn Pan	0	4194304	Value	ValueOutput
+Str Vol	0	4194304	Value	ValueOutput
+Str Pan	0	4194304	Value	ValueOutput
+Tune	0	4194304	Value	ValueOutput
+Octave	0	4194304	Value	ValueOutput
+Joy FM	0	4194304	Value	ValueOutput
+Joy FM	0	4194304	Value	ValueOutput
+Joy fcM	0	4194304	Value	ValueOutput
+Joy fcM	0	4194304	Value	ValueOutput
+MW Src	0	4194304	Value	ValueOutput
+MG Vib	0	4194304	Value	ValueOutput
+MG Speed	0	4194304	Value	ValueOutput
+SG 16'	0	4194304	Value	ValueOutput
+SG 8'	0	4194304	Value	ValueOutput
+SG 4'	0	4194304	Value	ValueOutput
+SG 2'	0	4194304	Value	ValueOutput
+SG Noise	0	4194304	Value	ValueOutput
+Syn EG A	0	4194304	Value	ValueOutput
+Syn EG D	0	4194304	Value	ValueOutput
+Syn EG S	0	4194304	Value	ValueOutput
+Syn EG R	0	4194304	Value	ValueOutput
+VCA Mode	0	4194304	Value	ValueOutput
+Syn Trig	0	4194304	Value	ValueOutput
+VCF Freq	0	4194304	Value	ValueOutput
+VCF Reso	0	4194304	Value	ValueOutput
+VCF EG	0	4194304	Value	ValueOutput
+VCF Mode	0	4194304	Value	ValueOutput
+VCF KbdF	0	4194304	Value	ValueOutput
+Str Oct	0	4194304	Value	ValueOutput
+Str EG A	0	4194304	Value	ValueOutput
+Str EG R	0	4194304	Value	ValueOutput
+Str Trig	0	4194304	Value	ValueOutput
+EQ Low	0	4194304	Value	ValueOutput
+EQ High	0	4194304	Value	ValueOutput
+Phaser	0	4194304	Value	ValueOutput
+Ph Speed	0	4194304	Value	ValueOutput
+Ph Feed	0	4194304	Value	ValueOutput
+Ph Mix	0	4194304	Value	ValueOutput
+Ph Freq	0	4194304	Value	ValueOutput
+Ph Mod	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Dly Time	0	4194304	Value	ValueOutput
+Dly Feed	0	4194304	Value	ValueOutput
+Dly Mix	0	4194304	Value	ValueOutput
+Ens1 Dly	0	4194304	Value	ValueOutput
+Ens2 Dly	0	4194304	Value	ValueOutput
+Ens Spd1	0	4194304	Value	ValueOutput
+Ens Spd2	0	4194304	Value	ValueOutput
+Ens 1to1	0	4194304	Value	ValueOutput
+Ens 1to2	0	4194304	Value	ValueOutput
+Ens 2to1	0	4194304	Value	ValueOutput
+Ens 2to2	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

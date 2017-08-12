@@ -1,0 +1,61 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	vst.sbvo.Vogue x64
+Note: Will match scope definitions for vst.sbvo.Vogue x64 or vst.sbvo
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+master	0	4194304	Value	ValueOutput
+gate_thres	0	4194304	Value	ValueOutput
+gate_speed	0	4194304	Value	ValueOutput
+preamp_gain	0	4194304	Value	ValueOutput
+hipass_freq	0	4194304	Value	ValueOutput
+overdrive	0	4194304	Value	ValueOutput
+compression	0	4194304	Value	ValueOutput
+compress_speed	0	4194304	Value	ValueOutput
+split_freq	0	4194304	Value	ValueOutput
+dyn_eq_response	0	4194304	Value	ValueOutput
+high_comp	0	4194304	Value	ValueOutput
+high_level	0	4194304	Value	ValueOutput
+mid_comp	0	4194304	Value	ValueOutput
+mid_level	0	4194304	Value	ValueOutput
+low_comp	0	4194304	Value	ValueOutput
+low_level	0	4194304	Value	ValueOutput
+filter_cutoff	0	4194304	Value	ValueOutput
+filter_reso	0	4194304	Value	ValueOutput
+filter_sig_flow	0	4194304	Value	ValueOutput
+filter_type	0	4194304	Value	ValueOutput
+dly_time	0	4194304	Value	ValueOutput
+dly_feedback	0	4194304	Value	ValueOutput
+dly_level	0	4194304	Value	ValueOutput
+delay_power	0	4194304	Value	ValueOutput
+rvb_room	0	4194304	Value	ValueOutput
+rvb_decay	0	4194304	Value	ValueOutput
+rvb_level	0	4194304	Value	ValueOutput
+reverb_power	0	4194304	Value	ValueOutput
+fx_return	0	4194304	Value	ValueOutput
+ef_amount	0	4194304	Value	ValueOutput
+ef_speed	0	4194304	Value	ValueOutput
+ef_power	0	4194304	Value	ValueOutput
+followertarget	0	4194304	Value	ValueOutput
+efinvert	0	4194304	Value	ValueOutput
+lfo_amount	0	4194304	Value	ValueOutput
+lfo_speed	0	4194304	Value	ValueOutput
+lfo_power	0	4194304	Value	ValueOutput
+syncmode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

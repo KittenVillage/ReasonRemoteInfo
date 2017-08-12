@@ -1,0 +1,67 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	vst.sbro.Robotronic x64
+Note: Will match scope definitions for vst.sbro.Robotronic x64 or vst.sbro
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+filtertype	0	4194304	Value	ValueOutput
+in1_gate	0	4194304	Value	ValueOutput
+in1_comp_ratio	0	4194304	Value	ValueOutput
+in1_comp_speed	0	4194304	Value	ValueOutput
+in1_gain	0	4194304	Value	ValueOutput
+in2_gate	0	4194304	Value	ValueOutput
+in2_comp_ratio	0	4194304	Value	ValueOutput
+in2_comp_speed	0	4194304	Value	ValueOutput
+in2_gain	0	4194304	Value	ValueOutput
+focus	0	4194304	Value	ValueOutput
+shift	0	4194304	Value	ValueOutput
+response	0	4194304	Value	ValueOutput
+modwheel	0	4194304	Value	ValueOutput
+loop	0	4194304	Value	ValueOutput
+retrigger	0	4194304	Value	ValueOutput
+waveform	0	4194304	Value	ValueOutput
+noise	0	4194304	Value	ValueOutput
+octave	0	4194304	Value	ValueOutput
+pitchbend_range	0	4194304	Value	ValueOutput
+pulswidth	0	4194304	Value	ValueOutput
+cutoff	0	4194304	Value	ValueOutput
+resonance	0	4194304	Value	ValueOutput
+synth_level	0	4194304	Value	ValueOutput
+mix	0	4194304	Value	ValueOutput
+eq_low	0	4194304	Value	ValueOutput
+eq_mid	0	4194304	Value	ValueOutput
+eq_high	0	4194304	Value	ValueOutput
+mastercomp	0	4194304	Value	ValueOutput
+compspeed	0	4194304	Value	ValueOutput
+master_level	0	4194304	Value	ValueOutput
+Room	0	4194304	Value	ValueOutput
+Damp	0	4194304	Value	ValueOutput
+DryWet	0	4194304	Value	ValueOutput
+delaytime	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+DryWet	0	4194304	Value	ValueOutput
+Rate	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Stages	0	4194304	Value	ValueOutput
+Bitrate	0	4194304	Value	ValueOutput
+Samplerate	0	4194304	Value	ValueOutput
+Distortion	0	4194304	Value	ValueOutput
+sampler_pitch	0	4194304	Value	ValueOutput
+sampler_level	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

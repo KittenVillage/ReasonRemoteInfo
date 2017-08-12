@@ -1,0 +1,309 @@
+Scope
+Manufacturer	Model
+Little Endian	vst.LESW.SpectrumWorx
+Note: Will match scope definitions for vst.LESW.SpectrumWorx or vst.LESW
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+In	0	4194304	Value	ValueOutput
+Out	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+FFT size	0	4194304	Value	ValueOutput
+Overlap factor	0	4194304	Value	ValueOutput
+Window type	0	4194304	Value	ValueOutput
+Input mode	0	4194304	Value	ValueOutput
+Module 1	0	4194304	Value	ValueOutput
+Module 2	0	4194304	Value	ValueOutput
+Module 3	0	4194304	Value	ValueOutput
+Module 4	0	4194304	Value	ValueOutput
+Module 5	0	4194304	Value	ValueOutput
+M1.Bypass	0	4194304	Value	ValueOutput
+M1.Gain	0	4194304	Value	ValueOutput
+M1.Wet	0	4194304	Value	ValueOutput
+M1.Start frequency	0	4194304	Value	ValueOutput
+M1.Stop frequency	0	4194304	Value	ValueOutput
+M1.P1	0	4194304	Value	ValueOutput
+M1.P2	0	4194304	Value	ValueOutput
+M1.P3	0	4194304	Value	ValueOutput
+M1.P4	0	4194304	Value	ValueOutput
+M1.P5	0	4194304	Value	ValueOutput
+M2.Bypass	0	4194304	Value	ValueOutput
+M2.Gain	0	4194304	Value	ValueOutput
+M2.Wet	0	4194304	Value	ValueOutput
+M2.Start frequency	0	4194304	Value	ValueOutput
+M2.Stop frequency	0	4194304	Value	ValueOutput
+M2.P1	0	4194304	Value	ValueOutput
+M2.P2	0	4194304	Value	ValueOutput
+M2.P3	0	4194304	Value	ValueOutput
+M2.P4	0	4194304	Value	ValueOutput
+M2.P5	0	4194304	Value	ValueOutput
+M3.Bypass	0	4194304	Value	ValueOutput
+M3.Gain	0	4194304	Value	ValueOutput
+M3.Wet	0	4194304	Value	ValueOutput
+M3.Start frequency	0	4194304	Value	ValueOutput
+M3.Stop frequency	0	4194304	Value	ValueOutput
+M3.P1	0	4194304	Value	ValueOutput
+M3.P2	0	4194304	Value	ValueOutput
+M3.P3	0	4194304	Value	ValueOutput
+M3.P4	0	4194304	Value	ValueOutput
+M3.P5	0	4194304	Value	ValueOutput
+M4.Bypass	0	4194304	Value	ValueOutput
+M4.Gain	0	4194304	Value	ValueOutput
+M4.Wet	0	4194304	Value	ValueOutput
+M4.Start frequency	0	4194304	Value	ValueOutput
+M4.Stop frequency	0	4194304	Value	ValueOutput
+M4.P1	0	4194304	Value	ValueOutput
+M4.P2	0	4194304	Value	ValueOutput
+M4.P3	0	4194304	Value	ValueOutput
+M4.P4	0	4194304	Value	ValueOutput
+M4.P5	0	4194304	Value	ValueOutput
+M5.Bypass	0	4194304	Value	ValueOutput
+M5.Gain	0	4194304	Value	ValueOutput
+M5.Wet	0	4194304	Value	ValueOutput
+M5.Start frequency	0	4194304	Value	ValueOutput
+M5.Stop frequency	0	4194304	Value	ValueOutput
+M5.P1	0	4194304	Value	ValueOutput
+M5.P2	0	4194304	Value	ValueOutput
+M5.P3	0	4194304	Value	ValueOutput
+M5.P4	0	4194304	Value	ValueOutput
+M5.P5	0	4194304	Value	ValueOutput
+M1.Gain.LFO.on	0	4194304	Value	ValueOutput
+M1.Gain.LFO.T	0	4194304	Value	ValueOutput
+M1.Gain.LFO.ph	0	4194304	Value	ValueOutput
+M1.Gain.LFO.lbnd	0	4194304	Value	ValueOutput
+M1.Gain.LFO.ubnd	0	4194304	Value	ValueOutput
+M1.Wet.LFO.on	0	4194304	Value	ValueOutput
+M1.Wet.LFO.T	0	4194304	Value	ValueOutput
+M1.Wet.LFO.ph	0	4194304	Value	ValueOutput
+M1.Wet.LFO.lbnd	0	4194304	Value	ValueOutput
+M1.Wet.LFO.ubnd	0	4194304	Value	ValueOutput
+M1.Start frequency.LFO.o	0	4194304	Value	ValueOutput
+M1.Start frequency.LFO.T	0	4194304	Value	ValueOutput
+M1.Start frequency.LFO.p	0	4194304	Value	ValueOutput
+M1.Start frequency.LFO.l	0	4194304	Value	ValueOutput
+M1.Start frequency.LFO.u	0	4194304	Value	ValueOutput
+M1.Stop frequency.LFO.on	0	4194304	Value	ValueOutput
+M1.Stop frequency.LFO.T	0	4194304	Value	ValueOutput
+M1.Stop frequency.LFO.ph	0	4194304	Value	ValueOutput
+M1.Stop frequency.LFO.lb	0	4194304	Value	ValueOutput
+M1.Stop frequency.LFO.ub	0	4194304	Value	ValueOutput
+M1.P1.LFO.on	0	4194304	Value	ValueOutput
+M1.P1.LFO.T	0	4194304	Value	ValueOutput
+M1.P1.LFO.ph	0	4194304	Value	ValueOutput
+M1.P1.LFO.lbnd	0	4194304	Value	ValueOutput
+M1.P1.LFO.ubnd	0	4194304	Value	ValueOutput
+M1.P2.LFO.on	0	4194304	Value	ValueOutput
+M1.P2.LFO.T	0	4194304	Value	ValueOutput
+M1.P2.LFO.ph	0	4194304	Value	ValueOutput
+M1.P2.LFO.lbnd	0	4194304	Value	ValueOutput
+M1.P2.LFO.ubnd	0	4194304	Value	ValueOutput
+M1.P3.LFO.on	0	4194304	Value	ValueOutput
+M1.P3.LFO.T	0	4194304	Value	ValueOutput
+M1.P3.LFO.ph	0	4194304	Value	ValueOutput
+M1.P3.LFO.lbnd	0	4194304	Value	ValueOutput
+M1.P3.LFO.ubnd	0	4194304	Value	ValueOutput
+M1.P4.LFO.on	0	4194304	Value	ValueOutput
+M1.P4.LFO.T	0	4194304	Value	ValueOutput
+M1.P4.LFO.ph	0	4194304	Value	ValueOutput
+M1.P4.LFO.lbnd	0	4194304	Value	ValueOutput
+M1.P4.LFO.ubnd	0	4194304	Value	ValueOutput
+M1.P5.LFO.on	0	4194304	Value	ValueOutput
+M1.P5.LFO.T	0	4194304	Value	ValueOutput
+M1.P5.LFO.ph	0	4194304	Value	ValueOutput
+M1.P5.LFO.lbnd	0	4194304	Value	ValueOutput
+M1.P5.LFO.ubnd	0	4194304	Value	ValueOutput
+M2.Gain.LFO.on	0	4194304	Value	ValueOutput
+M2.Gain.LFO.T	0	4194304	Value	ValueOutput
+M2.Gain.LFO.ph	0	4194304	Value	ValueOutput
+M2.Gain.LFO.lbnd	0	4194304	Value	ValueOutput
+M2.Gain.LFO.ubnd	0	4194304	Value	ValueOutput
+M2.Wet.LFO.on	0	4194304	Value	ValueOutput
+M2.Wet.LFO.T	0	4194304	Value	ValueOutput
+M2.Wet.LFO.ph	0	4194304	Value	ValueOutput
+M2.Wet.LFO.lbnd	0	4194304	Value	ValueOutput
+M2.Wet.LFO.ubnd	0	4194304	Value	ValueOutput
+M2.Start frequency.LFO.o	0	4194304	Value	ValueOutput
+M2.Start frequency.LFO.T	0	4194304	Value	ValueOutput
+M2.Start frequency.LFO.p	0	4194304	Value	ValueOutput
+M2.Start frequency.LFO.l	0	4194304	Value	ValueOutput
+M2.Start frequency.LFO.u	0	4194304	Value	ValueOutput
+M2.Stop frequency.LFO.on	0	4194304	Value	ValueOutput
+M2.Stop frequency.LFO.T	0	4194304	Value	ValueOutput
+M2.Stop frequency.LFO.ph	0	4194304	Value	ValueOutput
+M2.Stop frequency.LFO.lb	0	4194304	Value	ValueOutput
+M2.Stop frequency.LFO.ub	0	4194304	Value	ValueOutput
+M2.P1.LFO.on	0	4194304	Value	ValueOutput
+M2.P1.LFO.T	0	4194304	Value	ValueOutput
+M2.P1.LFO.ph	0	4194304	Value	ValueOutput
+M2.P1.LFO.lbnd	0	4194304	Value	ValueOutput
+M2.P1.LFO.ubnd	0	4194304	Value	ValueOutput
+M2.P2.LFO.on	0	4194304	Value	ValueOutput
+M2.P2.LFO.T	0	4194304	Value	ValueOutput
+M2.P2.LFO.ph	0	4194304	Value	ValueOutput
+M2.P2.LFO.lbnd	0	4194304	Value	ValueOutput
+M2.P2.LFO.ubnd	0	4194304	Value	ValueOutput
+M2.P3.LFO.on	0	4194304	Value	ValueOutput
+M2.P3.LFO.T	0	4194304	Value	ValueOutput
+M2.P3.LFO.ph	0	4194304	Value	ValueOutput
+M2.P3.LFO.lbnd	0	4194304	Value	ValueOutput
+M2.P3.LFO.ubnd	0	4194304	Value	ValueOutput
+M2.P4.LFO.on	0	4194304	Value	ValueOutput
+M2.P4.LFO.T	0	4194304	Value	ValueOutput
+M2.P4.LFO.ph	0	4194304	Value	ValueOutput
+M2.P4.LFO.lbnd	0	4194304	Value	ValueOutput
+M2.P4.LFO.ubnd	0	4194304	Value	ValueOutput
+M2.P5.LFO.on	0	4194304	Value	ValueOutput
+M2.P5.LFO.T	0	4194304	Value	ValueOutput
+M2.P5.LFO.ph	0	4194304	Value	ValueOutput
+M2.P5.LFO.lbnd	0	4194304	Value	ValueOutput
+M2.P5.LFO.ubnd	0	4194304	Value	ValueOutput
+M3.Gain.LFO.on	0	4194304	Value	ValueOutput
+M3.Gain.LFO.T	0	4194304	Value	ValueOutput
+M3.Gain.LFO.ph	0	4194304	Value	ValueOutput
+M3.Gain.LFO.lbnd	0	4194304	Value	ValueOutput
+M3.Gain.LFO.ubnd	0	4194304	Value	ValueOutput
+M3.Wet.LFO.on	0	4194304	Value	ValueOutput
+M3.Wet.LFO.T	0	4194304	Value	ValueOutput
+M3.Wet.LFO.ph	0	4194304	Value	ValueOutput
+M3.Wet.LFO.lbnd	0	4194304	Value	ValueOutput
+M3.Wet.LFO.ubnd	0	4194304	Value	ValueOutput
+M3.Start frequency.LFO.o	0	4194304	Value	ValueOutput
+M3.Start frequency.LFO.T	0	4194304	Value	ValueOutput
+M3.Start frequency.LFO.p	0	4194304	Value	ValueOutput
+M3.Start frequency.LFO.l	0	4194304	Value	ValueOutput
+M3.Start frequency.LFO.u	0	4194304	Value	ValueOutput
+M3.Stop frequency.LFO.on	0	4194304	Value	ValueOutput
+M3.Stop frequency.LFO.T	0	4194304	Value	ValueOutput
+M3.Stop frequency.LFO.ph	0	4194304	Value	ValueOutput
+M3.Stop frequency.LFO.lb	0	4194304	Value	ValueOutput
+M3.Stop frequency.LFO.ub	0	4194304	Value	ValueOutput
+M3.P1.LFO.on	0	4194304	Value	ValueOutput
+M3.P1.LFO.T	0	4194304	Value	ValueOutput
+M3.P1.LFO.ph	0	4194304	Value	ValueOutput
+M3.P1.LFO.lbnd	0	4194304	Value	ValueOutput
+M3.P1.LFO.ubnd	0	4194304	Value	ValueOutput
+M3.P2.LFO.on	0	4194304	Value	ValueOutput
+M3.P2.LFO.T	0	4194304	Value	ValueOutput
+M3.P2.LFO.ph	0	4194304	Value	ValueOutput
+M3.P2.LFO.lbnd	0	4194304	Value	ValueOutput
+M3.P2.LFO.ubnd	0	4194304	Value	ValueOutput
+M3.P3.LFO.on	0	4194304	Value	ValueOutput
+M3.P3.LFO.T	0	4194304	Value	ValueOutput
+M3.P3.LFO.ph	0	4194304	Value	ValueOutput
+M3.P3.LFO.lbnd	0	4194304	Value	ValueOutput
+M3.P3.LFO.ubnd	0	4194304	Value	ValueOutput
+M3.P4.LFO.on	0	4194304	Value	ValueOutput
+M3.P4.LFO.T	0	4194304	Value	ValueOutput
+M3.P4.LFO.ph	0	4194304	Value	ValueOutput
+M3.P4.LFO.lbnd	0	4194304	Value	ValueOutput
+M3.P4.LFO.ubnd	0	4194304	Value	ValueOutput
+M3.P5.LFO.on	0	4194304	Value	ValueOutput
+M3.P5.LFO.T	0	4194304	Value	ValueOutput
+M3.P5.LFO.ph	0	4194304	Value	ValueOutput
+M3.P5.LFO.lbnd	0	4194304	Value	ValueOutput
+M3.P5.LFO.ubnd	0	4194304	Value	ValueOutput
+M4.Gain.LFO.on	0	4194304	Value	ValueOutput
+M4.Gain.LFO.T	0	4194304	Value	ValueOutput
+M4.Gain.LFO.ph	0	4194304	Value	ValueOutput
+M4.Gain.LFO.lbnd	0	4194304	Value	ValueOutput
+M4.Gain.LFO.ubnd	0	4194304	Value	ValueOutput
+M4.Wet.LFO.on	0	4194304	Value	ValueOutput
+M4.Wet.LFO.T	0	4194304	Value	ValueOutput
+M4.Wet.LFO.ph	0	4194304	Value	ValueOutput
+M4.Wet.LFO.lbnd	0	4194304	Value	ValueOutput
+M4.Wet.LFO.ubnd	0	4194304	Value	ValueOutput
+M4.Start frequency.LFO.o	0	4194304	Value	ValueOutput
+M4.Start frequency.LFO.T	0	4194304	Value	ValueOutput
+M4.Start frequency.LFO.p	0	4194304	Value	ValueOutput
+M4.Start frequency.LFO.l	0	4194304	Value	ValueOutput
+M4.Start frequency.LFO.u	0	4194304	Value	ValueOutput
+M4.Stop frequency.LFO.on	0	4194304	Value	ValueOutput
+M4.Stop frequency.LFO.T	0	4194304	Value	ValueOutput
+M4.Stop frequency.LFO.ph	0	4194304	Value	ValueOutput
+M4.Stop frequency.LFO.lb	0	4194304	Value	ValueOutput
+M4.Stop frequency.LFO.ub	0	4194304	Value	ValueOutput
+M4.P1.LFO.on	0	4194304	Value	ValueOutput
+M4.P1.LFO.T	0	4194304	Value	ValueOutput
+M4.P1.LFO.ph	0	4194304	Value	ValueOutput
+M4.P1.LFO.lbnd	0	4194304	Value	ValueOutput
+M4.P1.LFO.ubnd	0	4194304	Value	ValueOutput
+M4.P2.LFO.on	0	4194304	Value	ValueOutput
+M4.P2.LFO.T	0	4194304	Value	ValueOutput
+M4.P2.LFO.ph	0	4194304	Value	ValueOutput
+M4.P2.LFO.lbnd	0	4194304	Value	ValueOutput
+M4.P2.LFO.ubnd	0	4194304	Value	ValueOutput
+M4.P3.LFO.on	0	4194304	Value	ValueOutput
+M4.P3.LFO.T	0	4194304	Value	ValueOutput
+M4.P3.LFO.ph	0	4194304	Value	ValueOutput
+M4.P3.LFO.lbnd	0	4194304	Value	ValueOutput
+M4.P3.LFO.ubnd	0	4194304	Value	ValueOutput
+M4.P4.LFO.on	0	4194304	Value	ValueOutput
+M4.P4.LFO.T	0	4194304	Value	ValueOutput
+M4.P4.LFO.ph	0	4194304	Value	ValueOutput
+M4.P4.LFO.lbnd	0	4194304	Value	ValueOutput
+M4.P4.LFO.ubnd	0	4194304	Value	ValueOutput
+M4.P5.LFO.on	0	4194304	Value	ValueOutput
+M4.P5.LFO.T	0	4194304	Value	ValueOutput
+M4.P5.LFO.ph	0	4194304	Value	ValueOutput
+M4.P5.LFO.lbnd	0	4194304	Value	ValueOutput
+M4.P5.LFO.ubnd	0	4194304	Value	ValueOutput
+M5.Gain.LFO.on	0	4194304	Value	ValueOutput
+M5.Gain.LFO.T	0	4194304	Value	ValueOutput
+M5.Gain.LFO.ph	0	4194304	Value	ValueOutput
+M5.Gain.LFO.lbnd	0	4194304	Value	ValueOutput
+M5.Gain.LFO.ubnd	0	4194304	Value	ValueOutput
+M5.Wet.LFO.on	0	4194304	Value	ValueOutput
+M5.Wet.LFO.T	0	4194304	Value	ValueOutput
+M5.Wet.LFO.ph	0	4194304	Value	ValueOutput
+M5.Wet.LFO.lbnd	0	4194304	Value	ValueOutput
+M5.Wet.LFO.ubnd	0	4194304	Value	ValueOutput
+M5.Start frequency.LFO.o	0	4194304	Value	ValueOutput
+M5.Start frequency.LFO.T	0	4194304	Value	ValueOutput
+M5.Start frequency.LFO.p	0	4194304	Value	ValueOutput
+M5.Start frequency.LFO.l	0	4194304	Value	ValueOutput
+M5.Start frequency.LFO.u	0	4194304	Value	ValueOutput
+M5.Stop frequency.LFO.on	0	4194304	Value	ValueOutput
+M5.Stop frequency.LFO.T	0	4194304	Value	ValueOutput
+M5.Stop frequency.LFO.ph	0	4194304	Value	ValueOutput
+M5.Stop frequency.LFO.lb	0	4194304	Value	ValueOutput
+M5.Stop frequency.LFO.ub	0	4194304	Value	ValueOutput
+M5.P1.LFO.on	0	4194304	Value	ValueOutput
+M5.P1.LFO.T	0	4194304	Value	ValueOutput
+M5.P1.LFO.ph	0	4194304	Value	ValueOutput
+M5.P1.LFO.lbnd	0	4194304	Value	ValueOutput
+M5.P1.LFO.ubnd	0	4194304	Value	ValueOutput
+M5.P2.LFO.on	0	4194304	Value	ValueOutput
+M5.P2.LFO.T	0	4194304	Value	ValueOutput
+M5.P2.LFO.ph	0	4194304	Value	ValueOutput
+M5.P2.LFO.lbnd	0	4194304	Value	ValueOutput
+M5.P2.LFO.ubnd	0	4194304	Value	ValueOutput
+M5.P3.LFO.on	0	4194304	Value	ValueOutput
+M5.P3.LFO.T	0	4194304	Value	ValueOutput
+M5.P3.LFO.ph	0	4194304	Value	ValueOutput
+M5.P3.LFO.lbnd	0	4194304	Value	ValueOutput
+M5.P3.LFO.ubnd	0	4194304	Value	ValueOutput
+M5.P4.LFO.on	0	4194304	Value	ValueOutput
+M5.P4.LFO.T	0	4194304	Value	ValueOutput
+M5.P4.LFO.ph	0	4194304	Value	ValueOutput
+M5.P4.LFO.lbnd	0	4194304	Value	ValueOutput
+M5.P4.LFO.ubnd	0	4194304	Value	ValueOutput
+M5.P5.LFO.on	0	4194304	Value	ValueOutput
+M5.P5.LFO.T	0	4194304	Value	ValueOutput
+M5.P5.LFO.ph	0	4194304	Value	ValueOutput
+M5.P5.LFO.lbnd	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

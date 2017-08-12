@@ -1,0 +1,53 @@
+Scope
+Manufacturer	Model
+Markbass	vst.Mbs1.Mark Studio 1-64
+Note: Will match scope definitions for vst.Mbs1.Mark Studio 1-64 or vst.Mbs1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+P000:Amp Model	0	4194304	Value	ValueOutput
+P001:Cab Model	0	4194304	Value	ValueOutput
+P002:Mic Model	0	4194304	Value	ValueOutput
+P003:Gain	0	4194304	Value	ValueOutput
+P004:C Ratio	0	4194304	Value	ValueOutput
+P005:Low	0	4194304	Value	ValueOutput
+P006:MF Low	0	4194304	Value	ValueOutput
+P007:MF Low Level	0	4194304	Value	ValueOutput
+P008:MF High	0	4194304	Value	ValueOutput
+P009:MF High Leve	0	4194304	Value	ValueOutput
+P010:High	0	4194304	Value	ValueOutput
+P011:VLE	0	4194304	Value	ValueOutput
+P012:VPF	0	4194304	Value	ValueOutput
+P013:Line Out	0	4194304	Value	ValueOutput
+P014:Master	0	4194304	Value	ValueOutput
+P015:comprEnable	0	4194304	Value	ValueOutput
+P016:comprGain	0	4194304	Value	ValueOutput
+P017:comprRatio	0	4194304	Value	ValueOutput
+P018:comprAttack	0	4194304	Value	ValueOutput
+P019:comprRelease	0	4194304	Value	ValueOutput
+P020:micPos	0	4194304	Value	ValueOutput
+P021:micDist	0	4194304	Value	ValueOutput
+P022:phase	0	4194304	Value	ValueOutput
+P023:ultraBass	0	4194304	Value	ValueOutput
+P024:Direct	0	4194304	Value	ValueOutput
+P025:Tweeter	0	4194304	Value	ValueOutput
+P026:Rear	0	4194304	Value	ValueOutput
+P027:Room	0	4194304	Value	ValueOutput
+P028:Poweron	0	4194304	Value	ValueOutput
+P029:Compr Pos	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

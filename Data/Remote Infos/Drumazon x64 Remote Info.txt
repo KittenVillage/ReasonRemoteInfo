@@ -1,0 +1,107 @@
+Scope
+Manufacturer	Model
+D16 Group Audio Software	vst.D4M2.Drumazon x64
+Note: Will match scope definitions for vst.D4M2.Drumazon x64 or vst.D4M2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bass Drum Level	0	4194304	Value	ValueOutput
+Snare Drum Leve	0	4194304	Value	ValueOutput
+Low Tom Level	0	4194304	Value	ValueOutput
+Mid Tom Level	0	4194304	Value	ValueOutput
+Hi Tom Level	0	4194304	Value	ValueOutput
+Rim Shot Level	0	4194304	Value	ValueOutput
+Hand Clap Level	0	4194304	Value	ValueOutput
+Closed Hi Hat L	0	4194304	Value	ValueOutput
+Open Hi Hat Lev	0	4194304	Value	ValueOutput
+Crash Level	0	4194304	Value	ValueOutput
+Ride Level	0	4194304	Value	ValueOutput
+Accent Level	0	4194304	Value	ValueOutput
+Bass Drum Tune	0	4194304	Value	ValueOutput
+Bass Drum Pitch	0	4194304	Value	ValueOutput
+Bass Drum Attac	0	4194304	Value	ValueOutput
+Bass Drum Decay	0	4194304	Value	ValueOutput
+Bass Drum Tune 	0	4194304	Value	ValueOutput
+Snare Drum Tune	0	4194304	Value	ValueOutput
+Snare Drum Tone	0	4194304	Value	ValueOutput
+Snare Drum Tune	0	4194304	Value	ValueOutput
+Snare Drum Deca	0	4194304	Value	ValueOutput
+Snare Drum Snap	0	4194304	Value	ValueOutput
+Low Tom Tune	0	4194304	Value	ValueOutput
+Low Tom Tone	0	4194304	Value	ValueOutput
+Low Tom Tune De	0	4194304	Value	ValueOutput
+Low Tom Decay	0	4194304	Value	ValueOutput
+Low Tom Tune De	0	4194304	Value	ValueOutput
+Mid Tom Tune	0	4194304	Value	ValueOutput
+Mid Tom Tone	0	4194304	Value	ValueOutput
+Mid Tom Tune De	0	4194304	Value	ValueOutput
+Mid Tom Decay	0	4194304	Value	ValueOutput
+Mid Tom Tune De	0	4194304	Value	ValueOutput
+Hi Tom Tune	0	4194304	Value	ValueOutput
+Hi Tom Tone	0	4194304	Value	ValueOutput
+Hi Tom Tune Dep	0	4194304	Value	ValueOutput
+Hi Tom Decay	0	4194304	Value	ValueOutput
+Hi Tom Tune Dec	0	4194304	Value	ValueOutput
+Rim Shot Tune	0	4194304	Value	ValueOutput
+Rim Shot Decay	0	4194304	Value	ValueOutput
+Hand Clap Tune	0	4194304	Value	ValueOutput
+Hand Clap Rever	0	4194304	Value	ValueOutput
+Closed Hi Hat T	0	4194304	Value	ValueOutput
+Closed Hi Hat D	0	4194304	Value	ValueOutput
+Open Hi Hat Tun	0	4194304	Value	ValueOutput
+Open Hi Hat Dec	0	4194304	Value	ValueOutput
+Crash Tune	0	4194304	Value	ValueOutput
+Crash Decay	0	4194304	Value	ValueOutput
+Ride Tune	0	4194304	Value	ValueOutput
+Ride Decay	0	4194304	Value	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Bass Drum Mute	0	4194304	Value	ValueOutput
+Snare Drum Mute	0	4194304	Value	ValueOutput
+Low Tom Mute	0	4194304	Value	ValueOutput
+Mid Tom Mute	0	4194304	Value	ValueOutput
+Hi Tom Mute	0	4194304	Value	ValueOutput
+Rim Shot Mute	0	4194304	Value	ValueOutput
+Hand Clap Mute	0	4194304	Value	ValueOutput
+Closed Hi Hat M	0	4194304	Value	ValueOutput
+Open Hi Hat Mut	0	4194304	Value	ValueOutput
+Crash Mute	0	4194304	Value	ValueOutput
+Ride Mute	0	4194304	Value	ValueOutput
+Bass Drum Solo	0	4194304	Value	ValueOutput
+Snare Drum Solo	0	4194304	Value	ValueOutput
+Low Tom Solo	0	4194304	Value	ValueOutput
+Mid Tom Solo	0	4194304	Value	ValueOutput
+Hi Tom Solo	0	4194304	Value	ValueOutput
+Rim Shot Solo	0	4194304	Value	ValueOutput
+Hand Clap Solo	0	4194304	Value	ValueOutput
+Closed Hi Hat S	0	4194304	Value	ValueOutput
+Open Hi Hat Sol	0	4194304	Value	ValueOutput
+Crash Solo	0	4194304	Value	ValueOutput
+Ride Solo	0	4194304	Value	ValueOutput
+Bass Drum Rand 	0	4194304	Value	ValueOutput
+Snare Drum Rand	0	4194304	Value	ValueOutput
+Low Tom Rand Th	0	4194304	Value	ValueOutput
+Mid Tom Rand Th	0	4194304	Value	ValueOutput
+Hi Tom Rand Thr	0	4194304	Value	ValueOutput
+Rim Shot Rand T	0	4194304	Value	ValueOutput
+Hand Clap Rand 	0	4194304	Value	ValueOutput
+Closed Hi Hat R	0	4194304	Value	ValueOutput
+Open Hi Hat Ran	0	4194304	Value	ValueOutput
+Crash Rand Thre	0	4194304	Value	ValueOutput
+Ride Rand Thres	0	4194304	Value	ValueOutput
+Accent Rand Thr	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

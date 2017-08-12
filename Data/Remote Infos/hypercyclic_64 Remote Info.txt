@@ -1,0 +1,56 @@
+Scope
+Manufacturer	Model
+mucoder	vst.MU04.hypercyclic_64
+Note: Will match scope definitions for vst.MU04.hypercyclic_64 or vst.MU04
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Step	0	4194304	Value	ValueOutput
+Mod-Step	0	4194304	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+Mod-Velocity	0	4194304	Value	ValueOutput
+Gate	0	4194304	Value	ValueOutput
+Mod-Gate	0	4194304	Value	ValueOutput
+Beats	0	4194304	Value	ValueOutput
+Mod-Beats	0	4194304	Value	ValueOutput
+Groove	0	4194304	Value	ValueOutput
+Mod-Groove	0	4194304	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+Mod-Width	0	4194304	Value	ValueOutput
+Doubling	0	4194304	Value	ValueOutput
+Mod-Doubling	0	4194304	Value	ValueOutput
+Arp mask	0	4194304	Value	ValueOutput
+Mod-Arp	0	4194304	Value	ValueOutput
+L1/Shape	0	4194304	Value	ValueOutput
+L1/Frequency	0	4194304	Value	ValueOutput
+L1/Per	0	4194304	Value	ValueOutput
+L1/Level	0	4194304	Value	ValueOutput
+L1/Phase	0	4194304	Value	ValueOutput
+L1/DC Offset	0	4194304	Value	ValueOutput
+L1/Pulse width	0	4194304	Value	ValueOutput
+L1/Noise	0	4194304	Value	ValueOutput
+L2/Shape	0	4194304	Value	ValueOutput
+L2/Frequency	0	4194304	Value	ValueOutput
+L2/Per	0	4194304	Value	ValueOutput
+L2/Level	0	4194304	Value	ValueOutput
+L2/Phase	0	4194304	Value	ValueOutput
+L2/DC Offset	0	4194304	Value	ValueOutput
+L2/Pulse width	0	4194304	Value	ValueOutput
+L2/Noise	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

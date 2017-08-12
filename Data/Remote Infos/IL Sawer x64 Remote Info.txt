@@ -1,0 +1,96 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.SaWR.IL Sawer x64
+Note: Will match scope definitions for vst.SaWR.IL Sawer x64 or vst.SaWR
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Master Pan	0	4194304	Value	ValueOutput
+Master Attack	0	4194304	Value	ValueOutput
+Master Decay	0	4194304	Value	ValueOutput
+Master Sustain	0	4194304	Value	ValueOutput
+Master Release	0	4194304	Value	ValueOutput
+Transpose	0	4194304	Value	ValueOutput
+Fine Tune	0	4194304	Value	ValueOutput
+Mono Mode	0	4194304	Value	ValueOutput
+Glide TimeMode	0	4194304	Value	ValueOutput
+Glide KeyMode	0	4194304	Value	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+Octaver	0	4194304	Value	ValueOutput
+Unison Rtrg	0	4194304	Value	ValueOutput
+Unison	0	4194304	Value	ValueOutput
+Unison Detune	0	4194304	Value	ValueOutput
+Unison Pan	0	4194304	Value	ValueOutput
+Sub-Saw Phs	0	4194304	Value	ValueOutput
+Sub-Saw Hrm	0	4194304	Value	ValueOutput
+Sub-Saw Level	0	4194304	Value	ValueOutput
+Sub-Saw Detune	0	4194304	Value	ValueOutput
+Sub-Saw Retrig	0	4194304	Value	ValueOutput
+Sub-Saw Invert	0	4194304	Value	ValueOutput
+Sub-Saw Square	0	4194304	Value	ValueOutput
+Osc Sync Frq	0	4194304	Value	ValueOutput
+Osc Sync	0	4194304	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Reso	0	4194304	Value	ValueOutput
+Filter KeyTrk	0	4194304	Value	ValueOutput
+Filter VelTrk	0	4194304	Value	ValueOutput
+Filter Mode	0	4194304	Value	ValueOutput
+EGF Attack	0	4194304	Value	ValueOutput
+EGF Decay	0	4194304	Value	ValueOutput
+EGF Sustain	0	4194304	Value	ValueOutput
+EGF Release	0	4194304	Value	ValueOutput
+EGF Amount	0	4194304	Value	ValueOutput
+EGF Dest	0	4194304	Value	ValueOutput
+LFO Shape	0	4194304	Value	ValueOutput
+LFO Speed	0	4194304	Value	ValueOutput
+LFO Tmp Sync	0	4194304	Value	ValueOutput
+LFO Attack	0	4194304	Value	ValueOutput
+LFO Release	0	4194304	Value	ValueOutput
+LFO Retrig	0	4194304	Value	ValueOutput
+LFO Invert	0	4194304	Value	ValueOutput
+LFO Amount	0	4194304	Value	ValueOutput
+LFO Dest	0	4194304	Value	ValueOutput
+Chorus On	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Phaser On	0	4194304	Value	ValueOutput
+Phaser Center	0	4194304	Value	ValueOutput
+Phaser Rate	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Phaser Fdbk	0	4194304	Value	ValueOutput
+Phaser Mix	0	4194304	Value	ValueOutput
+Delay On	0	4194304	Value	ValueOutput
+Delay Left	0	4194304	Value	ValueOutput
+Delay Right	0	4194304	Value	ValueOutput
+Delay Fdbk	0	4194304	Value	ValueOutput
+Delay Depth	0	4194304	Value	ValueOutput
+Delay LoCut	0	4194304	Value	ValueOutput
+Delay HiCut	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Reverb On	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb HiCut	0	4194304	Value	ValueOutput
+Reverb Damp	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Arp Play	0	4194304	Value	ValueOutput
+Arp Mode	0	4194304	Value	ValueOutput
+Arp Range	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

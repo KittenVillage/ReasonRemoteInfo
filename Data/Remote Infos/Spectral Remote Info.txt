@@ -1,0 +1,1264 @@
+Scope
+Manufacturer	Model
+LinPlug	vst.LSP1.Spectral
+Note: Will match scope definitions for vst.LSP1.Spectral or vst.LSP1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Osc 1 On/Off	0	4194304	Value	ValueOutput
+Osc 1 Semi	0	4194304	Value	ValueOutput
+Osc 1 Cent	0	4194304	Value	ValueOutput
+Osc 1 Track	0	4194304	Value	ValueOutput
+Osc 1 Free-Run	0	4194304	Value	ValueOutput
+Osc 1 X-Mod 1	0	4194304	Value	ValueOutput
+Osc 1 X-Mod 2	0	4194304	Value	ValueOutput
+Osc 1 Wave-Mix	0	4194304	Value	ValueOutput
+Osc 1 Symmetry	0	4194304	Value	ValueOutput
+Osc 1 Start Phase	0	4194304	Value	ValueOutput
+Osc 1 Spread Detune	0	4194304	Value	ValueOutput
+Osc 1 Spread Volume	0	4194304	Value	ValueOutput
+Osc 1 Spread Stereo	0	4194304	Value	ValueOutput
+Osc 1 Spread Voices	0	4194304	Value	ValueOutput
+Osc 1 Gain	0	4194304	Value	ValueOutput
+Osc 2 On/Off	0	4194304	Value	ValueOutput
+Osc 2 Semi	0	4194304	Value	ValueOutput
+Osc 2 Cent	0	4194304	Value	ValueOutput
+Osc 2 Track	0	4194304	Value	ValueOutput
+Osc 2 Free-Run	0	4194304	Value	ValueOutput
+Osc 2 X-Mod 1	0	4194304	Value	ValueOutput
+Osc 2 X-Mod 2	0	4194304	Value	ValueOutput
+Osc 2 Wave-Mix	0	4194304	Value	ValueOutput
+Osc 2 Symmetry	0	4194304	Value	ValueOutput
+Osc 2 Start Phase	0	4194304	Value	ValueOutput
+Osc 2 Spread Detune	0	4194304	Value	ValueOutput
+Osc 2 Spread Volume	0	4194304	Value	ValueOutput
+Osc 2 Spread Stereo	0	4194304	Value	ValueOutput
+Osc 2 Spread Voices	0	4194304	Value	ValueOutput
+Osc 2 Gain	0	4194304	Value	ValueOutput
+Osc 3 On/Off	0	4194304	Value	ValueOutput
+Osc 3 Semi	0	4194304	Value	ValueOutput
+Osc 3 Cent	0	4194304	Value	ValueOutput
+Osc 3 Track	0	4194304	Value	ValueOutput
+Osc 3 Free-Run	0	4194304	Value	ValueOutput
+Osc 3 X-Mod 1	0	4194304	Value	ValueOutput
+Osc 3 X-Mod 2	0	4194304	Value	ValueOutput
+Osc 3 Wave-Mix	0	4194304	Value	ValueOutput
+Osc 3 Symmetry	0	4194304	Value	ValueOutput
+Osc 3 Start Phase	0	4194304	Value	ValueOutput
+Osc 3 Spread Detune	0	4194304	Value	ValueOutput
+Osc 3 Spread Volume	0	4194304	Value	ValueOutput
+Osc 3 Spread Stereo	0	4194304	Value	ValueOutput
+Osc 3 Spread Voices	0	4194304	Value	ValueOutput
+Osc 3 Gain	0	4194304	Value	ValueOutput
+Osc 4 On/Off	0	4194304	Value	ValueOutput
+Osc 4 Semi	0	4194304	Value	ValueOutput
+Osc 4 Cent	0	4194304	Value	ValueOutput
+Osc 4 Track	0	4194304	Value	ValueOutput
+Osc 4 Free-Run	0	4194304	Value	ValueOutput
+Osc 4 X-Mod 1	0	4194304	Value	ValueOutput
+Osc 4 X-Mod 2	0	4194304	Value	ValueOutput
+Osc 4 Wave-Mix	0	4194304	Value	ValueOutput
+Osc 4 Symmetry	0	4194304	Value	ValueOutput
+Osc 4 Start Phase	0	4194304	Value	ValueOutput
+Osc 4 Spread Detune	0	4194304	Value	ValueOutput
+Osc 4 Spread Volume	0	4194304	Value	ValueOutput
+Osc 4 Spread Stereo	0	4194304	Value	ValueOutput
+Osc 4 Spread Voices	0	4194304	Value	ValueOutput
+Osc 4 Gain	0	4194304	Value	ValueOutput
+Fil 1 On/Bypass	0	4194304	Value	ValueOutput
+Fil 1 Frequency	0	4194304	Value	ValueOutput
+Fil 1 Resonance	0	4194304	Value	ValueOutput
+Fil 1 Key-Track	0	4194304	Value	ValueOutput
+Fil 1 Env-Depth	0	4194304	Value	ValueOutput
+Fil 1 Velocity	0	4194304	Value	ValueOutput
+Fil 1 X-Mod 1	0	4194304	Value	ValueOutput
+Fil 1 X-Mod 2	0	4194304	Value	ValueOutput
+Fil 1 Volume	0	4194304	Value	ValueOutput
+Fil 1 Pan	0	4194304	Value	ValueOutput
+Fil 1 LP Offset	0	4194304	Value	ValueOutput
+Fil 1 LP Type	0	4194304	Value	ValueOutput
+Fil 1 Route Balance	0	4194304	Value	ValueOutput
+Fil 2 On/Bypass	0	4194304	Value	ValueOutput
+Fil 2 Frequency	0	4194304	Value	ValueOutput
+Fil 2 Resonance	0	4194304	Value	ValueOutput
+Fil 2 Key-Track	0	4194304	Value	ValueOutput
+Fil 2 Env-Depth	0	4194304	Value	ValueOutput
+Fil 2 Velocity	0	4194304	Value	ValueOutput
+Fil 2 X-Mod 1	0	4194304	Value	ValueOutput
+Fil 2 X-Mod 2	0	4194304	Value	ValueOutput
+Fil 2 Volume	0	4194304	Value	ValueOutput
+Fil 2 Pan	0	4194304	Value	ValueOutput
+Fil 2 LP Offset	0	4194304	Value	ValueOutput
+Fil 2 LP Type	0	4194304	Value	ValueOutput
+Fil 2 Route Balance	0	4194304	Value	ValueOutput
+Fil 3 On/Bypass	0	4194304	Value	ValueOutput
+Fil 3 Frequency	0	4194304	Value	ValueOutput
+Fil 3 Resonance	0	4194304	Value	ValueOutput
+Fil 3 Key-Track	0	4194304	Value	ValueOutput
+Fil 3 Env-Depth	0	4194304	Value	ValueOutput
+Fil 3 Velocity	0	4194304	Value	ValueOutput
+Fil 3 X-Mod 1	0	4194304	Value	ValueOutput
+Fil 3 X-Mod 2	0	4194304	Value	ValueOutput
+Fil 3 Volume	0	4194304	Value	ValueOutput
+Fil 3 Pan	0	4194304	Value	ValueOutput
+Fil 3 LP Offset	0	4194304	Value	ValueOutput
+Fil 3 LP Type	0	4194304	Value	ValueOutput
+Fil 3 Route Balance	0	4194304	Value	ValueOutput
+Fil 4 On/Bypass	0	4194304	Value	ValueOutput
+Fil 4 Frequency	0	4194304	Value	ValueOutput
+Fil 4 Resonance	0	4194304	Value	ValueOutput
+Fil 4 Key-Track	0	4194304	Value	ValueOutput
+Fil 4 Env-Depth	0	4194304	Value	ValueOutput
+Fil 4 Velocity	0	4194304	Value	ValueOutput
+Fil 4 X-Mod 1	0	4194304	Value	ValueOutput
+Fil 4 X-Mod 2	0	4194304	Value	ValueOutput
+Fil 4 Volume	0	4194304	Value	ValueOutput
+Fil 4 Pan	0	4194304	Value	ValueOutput
+Fil 4 LP Offset	0	4194304	Value	ValueOutput
+Fil 4 LP Type	0	4194304	Value	ValueOutput
+Fil 4 Route Balance	0	4194304	Value	ValueOutput
+Amp 1 Env Attack	0	4194304	Value	ValueOutput
+Amp 1 Env Hold	0	4194304	Value	ValueOutput
+Amp 1 Env Decay	0	4194304	Value	ValueOutput
+Amp 1 Env Sustain	0	4194304	Value	ValueOutput
+Amp 1 Env Fade	0	4194304	Value	ValueOutput
+Amp 1 Env Release	0	4194304	Value	ValueOutput
+Amp 1 Env Attack Curve	0	4194304	Value	ValueOutput
+Amp 1 Env Decay Curve	0	4194304	Value	ValueOutput
+Amp 1 Env Fade Curve	0	4194304	Value	ValueOutput
+Amp 1 Env Release Curve	0	4194304	Value	ValueOutput
+Amp 1 Env Pitch Scale	0	4194304	Value	ValueOutput
+Amp 1 Env Velo. Scale	0	4194304	Value	ValueOutput
+Amp 1 Env Sync	0	4194304	Value	ValueOutput
+Amp 1 Env AHD Mode	0	4194304	Value	ValueOutput
+Amp 1 Env Sync A	0	4194304	Value	ValueOutput
+Amp 1 Env Sync H	0	4194304	Value	ValueOutput
+Amp 1 Env Sync D	0	4194304	Value	ValueOutput
+Amp 1 Env Sustain	0	4194304	Value	ValueOutput
+Amp 1 Env Sync F	0	4194304	Value	ValueOutput
+Amp 1 Env Sync R	0	4194304	Value	ValueOutput
+Amp 1 Env Attack Curve	0	4194304	Value	ValueOutput
+Amp 1 Env Decay Curve	0	4194304	Value	ValueOutput
+Amp 1 Env Fade Curve	0	4194304	Value	ValueOutput
+Amp 1 Env Release Curve	0	4194304	Value	ValueOutput
+Amp 2 Env Attack	0	4194304	Value	ValueOutput
+Amp 2 Env Hold	0	4194304	Value	ValueOutput
+Amp 2 Env Decay	0	4194304	Value	ValueOutput
+Amp 2 Env Sustain	0	4194304	Value	ValueOutput
+Amp 2 Env Fade	0	4194304	Value	ValueOutput
+Amp 2 Env Release	0	4194304	Value	ValueOutput
+Amp 2 Env Attack Curve	0	4194304	Value	ValueOutput
+Amp 2 Env Decay Curve	0	4194304	Value	ValueOutput
+Amp 2 Env Fade Curve	0	4194304	Value	ValueOutput
+Amp 2 Env Release Curve	0	4194304	Value	ValueOutput
+Amp 2 Env Pitch Scale	0	4194304	Value	ValueOutput
+Amp 2 Env Velo. Scale	0	4194304	Value	ValueOutput
+Amp 2 Env Sync	0	4194304	Value	ValueOutput
+Amp 2 Env AHD Mode	0	4194304	Value	ValueOutput
+Amp 2 Env Sync A	0	4194304	Value	ValueOutput
+Amp 2 Env Sync H	0	4194304	Value	ValueOutput
+Amp 2 Env Sync D	0	4194304	Value	ValueOutput
+Amp 2 Env Sustain	0	4194304	Value	ValueOutput
+Amp 2 Env Sync F	0	4194304	Value	ValueOutput
+Amp 2 Env Sync R	0	4194304	Value	ValueOutput
+Amp 2 Env Attack Curve	0	4194304	Value	ValueOutput
+Amp 2 Env Decay Curve	0	4194304	Value	ValueOutput
+Amp 2 Env Fade Curve	0	4194304	Value	ValueOutput
+Amp 2 Env Release Curve	0	4194304	Value	ValueOutput
+Amp 3 Env Attack	0	4194304	Value	ValueOutput
+Amp 3 Env Hold	0	4194304	Value	ValueOutput
+Amp 3 Env Decay	0	4194304	Value	ValueOutput
+Amp 3 Env Sustain	0	4194304	Value	ValueOutput
+Amp 3 Env Fade	0	4194304	Value	ValueOutput
+Amp 3 Env Release	0	4194304	Value	ValueOutput
+Amp 3 Env Attack Curve	0	4194304	Value	ValueOutput
+Amp 3 Env Decay Curve	0	4194304	Value	ValueOutput
+Amp 3 Env Fade Curve	0	4194304	Value	ValueOutput
+Amp 3 Env Release Curve	0	4194304	Value	ValueOutput
+Amp 3 Env Pitch Scale	0	4194304	Value	ValueOutput
+Amp 3 Env Velo. Scale	0	4194304	Value	ValueOutput
+Amp 3 Env Sync	0	4194304	Value	ValueOutput
+Amp 3 Env AHD Mode	0	4194304	Value	ValueOutput
+Amp 3 Env Sync A	0	4194304	Value	ValueOutput
+Amp 3 Env Sync H	0	4194304	Value	ValueOutput
+Amp 3 Env Sync D	0	4194304	Value	ValueOutput
+Amp 3 Env Sustain	0	4194304	Value	ValueOutput
+Amp 3 Env Sync F	0	4194304	Value	ValueOutput
+Amp 3 Env Sync R	0	4194304	Value	ValueOutput
+Amp 3 Env Attack Curve	0	4194304	Value	ValueOutput
+Amp 3 Env Decay Curve	0	4194304	Value	ValueOutput
+Amp 3 Env Fade Curve	0	4194304	Value	ValueOutput
+Amp 3 Env Release Curve	0	4194304	Value	ValueOutput
+Amp 4 Env Attack	0	4194304	Value	ValueOutput
+Amp 4 Env Hold	0	4194304	Value	ValueOutput
+Amp 4 Env Decay	0	4194304	Value	ValueOutput
+Amp 4 Env Sustain	0	4194304	Value	ValueOutput
+Amp 4 Env Fade	0	4194304	Value	ValueOutput
+Amp 4 Env Release	0	4194304	Value	ValueOutput
+Amp 4 Env Attack Curve	0	4194304	Value	ValueOutput
+Amp 4 Env Decay Curve	0	4194304	Value	ValueOutput
+Amp 4 Env Fade Curve	0	4194304	Value	ValueOutput
+Amp 4 Env Release Curve	0	4194304	Value	ValueOutput
+Amp 4 Env Pitch Scale	0	4194304	Value	ValueOutput
+Amp 4 Env Velo. Scale	0	4194304	Value	ValueOutput
+Amp 4 Env Sync	0	4194304	Value	ValueOutput
+Amp 4 Env AHD Mode	0	4194304	Value	ValueOutput
+Amp 4 Env Sync A	0	4194304	Value	ValueOutput
+Amp 4 Env Sync H	0	4194304	Value	ValueOutput
+Amp 4 Env Sync D	0	4194304	Value	ValueOutput
+Amp 4 Env Sustain	0	4194304	Value	ValueOutput
+Amp 4 Env Sync F	0	4194304	Value	ValueOutput
+Amp 4 Env Sync R	0	4194304	Value	ValueOutput
+Amp 4 Env Attack Curve	0	4194304	Value	ValueOutput
+Amp 4 Env Decay Curve	0	4194304	Value	ValueOutput
+Amp 4 Env Fade Curve	0	4194304	Value	ValueOutput
+Amp 4 Env Release Curve	0	4194304	Value	ValueOutput
+Cut 1 Env Attack	0	4194304	Value	ValueOutput
+Cut 1 Env Hold	0	4194304	Value	ValueOutput
+Cut 1 Env Decay	0	4194304	Value	ValueOutput
+Cut 1 Env Sustain	0	4194304	Value	ValueOutput
+Cut 1 Env Fade	0	4194304	Value	ValueOutput
+Cut 1 Env Release	0	4194304	Value	ValueOutput
+Cut 1 Env Attack Curve	0	4194304	Value	ValueOutput
+Cut 1 Env Decay Curve	0	4194304	Value	ValueOutput
+Cut 1 Env Fade Curve	0	4194304	Value	ValueOutput
+Cut 1 Env Release Curve	0	4194304	Value	ValueOutput
+Cut 1 Env Pitch Scale	0	4194304	Value	ValueOutput
+Cut 1 Env Velo. Scale	0	4194304	Value	ValueOutput
+Cut 1 Env Sync	0	4194304	Value	ValueOutput
+Cut 1 Env AHD Mode	0	4194304	Value	ValueOutput
+Cut 1 Env Sync A	0	4194304	Value	ValueOutput
+Cut 1 Env Sync H	0	4194304	Value	ValueOutput
+Cut 1 Env Sync D	0	4194304	Value	ValueOutput
+Cut 1 Env Sustain	0	4194304	Value	ValueOutput
+Cut 1 Env Sync F	0	4194304	Value	ValueOutput
+Cut 1 Env Sync R	0	4194304	Value	ValueOutput
+Cut 1 Env Attack Curve	0	4194304	Value	ValueOutput
+Cut 1 Env Decay Curve	0	4194304	Value	ValueOutput
+Cut 1 Env Fade Curve	0	4194304	Value	ValueOutput
+Cut 1 Env Release Curve	0	4194304	Value	ValueOutput
+Cut 2 Env Attack	0	4194304	Value	ValueOutput
+Cut 2 Env Hold	0	4194304	Value	ValueOutput
+Cut 2 Env Decay	0	4194304	Value	ValueOutput
+Cut 2 Env Sustain	0	4194304	Value	ValueOutput
+Cut 2 Env Fade	0	4194304	Value	ValueOutput
+Cut 2 Env Release	0	4194304	Value	ValueOutput
+Cut 2 Env Attack Curve	0	4194304	Value	ValueOutput
+Cut 2 Env Decay Curve	0	4194304	Value	ValueOutput
+Cut 2 Env Fade Curve	0	4194304	Value	ValueOutput
+Cut 2 Env Release Curve	0	4194304	Value	ValueOutput
+Cut 2 Env Pitch Scale	0	4194304	Value	ValueOutput
+Cut 2 Env Velo. Scale	0	4194304	Value	ValueOutput
+Cut 2 Env Sync	0	4194304	Value	ValueOutput
+Cut 2 Env AHD Mode	0	4194304	Value	ValueOutput
+Cut 2 Env Sync A	0	4194304	Value	ValueOutput
+Cut 2 Env Sync H	0	4194304	Value	ValueOutput
+Cut 2 Env Sync D	0	4194304	Value	ValueOutput
+Cut 2 Env Sustain	0	4194304	Value	ValueOutput
+Cut 2 Env Sync F	0	4194304	Value	ValueOutput
+Cut 2 Env Sync R	0	4194304	Value	ValueOutput
+Cut 2 Env Attack Curve	0	4194304	Value	ValueOutput
+Cut 2 Env Decay Curve	0	4194304	Value	ValueOutput
+Cut 2 Env Fade Curve	0	4194304	Value	ValueOutput
+Cut 2 Env Release Curve	0	4194304	Value	ValueOutput
+Cut 3 Env Attack	0	4194304	Value	ValueOutput
+Cut 3 Env Hold	0	4194304	Value	ValueOutput
+Cut 3 Env Decay	0	4194304	Value	ValueOutput
+Cut 3 Env Sustain	0	4194304	Value	ValueOutput
+Cut 3 Env Fade	0	4194304	Value	ValueOutput
+Cut 3 Env Release	0	4194304	Value	ValueOutput
+Cut 3 Env Attack Curve	0	4194304	Value	ValueOutput
+Cut 3 Env Decay Curve	0	4194304	Value	ValueOutput
+Cut 3 Env Fade Curve	0	4194304	Value	ValueOutput
+Cut 3 Env Release Curve	0	4194304	Value	ValueOutput
+Cut 3 Env Pitch Scale	0	4194304	Value	ValueOutput
+Cut 3 Env Velo. Scale	0	4194304	Value	ValueOutput
+Cut 3 Env Sync	0	4194304	Value	ValueOutput
+Cut 3 Env AHD Mode	0	4194304	Value	ValueOutput
+Cut 3 Env Sync A	0	4194304	Value	ValueOutput
+Cut 3 Env Sync H	0	4194304	Value	ValueOutput
+Cut 3 Env Sync D	0	4194304	Value	ValueOutput
+Cut 3 Env Sustain	0	4194304	Value	ValueOutput
+Cut 3 Env Sync F	0	4194304	Value	ValueOutput
+Cut 3 Env Sync R	0	4194304	Value	ValueOutput
+Cut 3 Env Attack Curve	0	4194304	Value	ValueOutput
+Cut 3 Env Decay Curve	0	4194304	Value	ValueOutput
+Cut 3 Env Fade Curve	0	4194304	Value	ValueOutput
+Cut 3 Env Release Curve	0	4194304	Value	ValueOutput
+Cut 4 Env Attack	0	4194304	Value	ValueOutput
+Cut 4 Env Hold	0	4194304	Value	ValueOutput
+Cut 4 Env Decay	0	4194304	Value	ValueOutput
+Cut 4 Env Sustain	0	4194304	Value	ValueOutput
+Cut 4 Env Fade	0	4194304	Value	ValueOutput
+Cut 4 Env Release	0	4194304	Value	ValueOutput
+Cut 4 Env Attack Curve	0	4194304	Value	ValueOutput
+Cut 4 Env Decay Curve	0	4194304	Value	ValueOutput
+Cut 4 Env Fade Curve	0	4194304	Value	ValueOutput
+Cut 4 Env Release Curve	0	4194304	Value	ValueOutput
+Cut 4 Env Pitch Scale	0	4194304	Value	ValueOutput
+Cut 4 Env Velo. Scale	0	4194304	Value	ValueOutput
+Cut 4 Env Sync	0	4194304	Value	ValueOutput
+Cut 4 Env AHD Mode	0	4194304	Value	ValueOutput
+Cut 4 Env Sync A	0	4194304	Value	ValueOutput
+Cut 4 Env Sync H	0	4194304	Value	ValueOutput
+Cut 4 Env Sync D	0	4194304	Value	ValueOutput
+Cut 4 Env Sustain	0	4194304	Value	ValueOutput
+Cut 4 Env Sync F	0	4194304	Value	ValueOutput
+Cut 4 Env Sync R	0	4194304	Value	ValueOutput
+Cut 4 Env Attack Curve	0	4194304	Value	ValueOutput
+Cut 4 Env Decay Curve	0	4194304	Value	ValueOutput
+Cut 4 Env Fade Curve	0	4194304	Value	ValueOutput
+Cut 4 Env Release Curve	0	4194304	Value	ValueOutput
+Mod 1 Env Attack	0	4194304	Value	ValueOutput
+Mod 1 Env Hold	0	4194304	Value	ValueOutput
+Mod 1 Env Decay	0	4194304	Value	ValueOutput
+Mod 1 Env Sustain	0	4194304	Value	ValueOutput
+Mod 1 Env Fade	0	4194304	Value	ValueOutput
+Mod 1 Env Release	0	4194304	Value	ValueOutput
+Mod 1 Env Attack Curve	0	4194304	Value	ValueOutput
+Mod 1 Env Decay Curve	0	4194304	Value	ValueOutput
+Mod 1 Env Fade Curve	0	4194304	Value	ValueOutput
+Mod 1 Env Release Curve	0	4194304	Value	ValueOutput
+Mod 1 Env Pitch Scale	0	4194304	Value	ValueOutput
+Mod 1 Env Velo. Scale	0	4194304	Value	ValueOutput
+Mod 1 Env Sync	0	4194304	Value	ValueOutput
+Mod 1 Env AHD Mode	0	4194304	Value	ValueOutput
+Mod 1 Env Sync A	0	4194304	Value	ValueOutput
+Mod 1 Env Sync H	0	4194304	Value	ValueOutput
+Mod 1 Env Sync D	0	4194304	Value	ValueOutput
+Mod 1 Env Sustain	0	4194304	Value	ValueOutput
+Mod 1 Env Sync F	0	4194304	Value	ValueOutput
+Mod 1 Env Sync R	0	4194304	Value	ValueOutput
+Mod 1 Env Attack Curve	0	4194304	Value	ValueOutput
+Mod 1 Env Decay Curve	0	4194304	Value	ValueOutput
+Mod 1 Env Fade Curve	0	4194304	Value	ValueOutput
+Mod 1 Env Release Curve	0	4194304	Value	ValueOutput
+Mod 2 Env Attack	0	4194304	Value	ValueOutput
+Mod 2 Env Hold	0	4194304	Value	ValueOutput
+Mod 2 Env Decay	0	4194304	Value	ValueOutput
+Mod 2 Env Sustain	0	4194304	Value	ValueOutput
+Mod 2 Env Fade	0	4194304	Value	ValueOutput
+Mod 2 Env Release	0	4194304	Value	ValueOutput
+Mod 2 Env Attack Curve	0	4194304	Value	ValueOutput
+Mod 2 Env Decay Curve	0	4194304	Value	ValueOutput
+Mod 2 Env Fade Curve	0	4194304	Value	ValueOutput
+Mod 2 Env Release Curve	0	4194304	Value	ValueOutput
+Mod 2 Env Pitch Scale	0	4194304	Value	ValueOutput
+Mod 2 Env Velo. Scale	0	4194304	Value	ValueOutput
+Mod 2 Env Sync	0	4194304	Value	ValueOutput
+Mod 2 Env AHD Mode	0	4194304	Value	ValueOutput
+Mod 2 Env Sync A	0	4194304	Value	ValueOutput
+Mod 2 Env Sync H	0	4194304	Value	ValueOutput
+Mod 2 Env Sync D	0	4194304	Value	ValueOutput
+Mod 2 Env Sustain	0	4194304	Value	ValueOutput
+Mod 2 Env Sync F	0	4194304	Value	ValueOutput
+Mod 2 Env Sync R	0	4194304	Value	ValueOutput
+Mod 2 Env Attack Curve	0	4194304	Value	ValueOutput
+Mod 2 Env Decay Curve	0	4194304	Value	ValueOutput
+Mod 2 Env Fade Curve	0	4194304	Value	ValueOutput
+Mod 2 Env Release Curve	0	4194304	Value	ValueOutput
+Mod 3 Env Attack	0	4194304	Value	ValueOutput
+Mod 3 Env Hold	0	4194304	Value	ValueOutput
+Mod 3 Env Decay	0	4194304	Value	ValueOutput
+Mod 3 Env Sustain	0	4194304	Value	ValueOutput
+Mod 3 Env Fade	0	4194304	Value	ValueOutput
+Mod 3 Env Release	0	4194304	Value	ValueOutput
+Mod 3 Env Attack Curve	0	4194304	Value	ValueOutput
+Mod 3 Env Decay Curve	0	4194304	Value	ValueOutput
+Mod 3 Env Fade Curve	0	4194304	Value	ValueOutput
+Mod 3 Env Release Curve	0	4194304	Value	ValueOutput
+Mod 3 Env Pitch Scale	0	4194304	Value	ValueOutput
+Mod 3 Env Velo. Scale	0	4194304	Value	ValueOutput
+Mod 3 Env Sync	0	4194304	Value	ValueOutput
+Mod 3 Env AHD Mode	0	4194304	Value	ValueOutput
+Mod 3 Env Sync A	0	4194304	Value	ValueOutput
+Mod 3 Env Sync H	0	4194304	Value	ValueOutput
+Mod 3 Env Sync D	0	4194304	Value	ValueOutput
+Mod 3 Env Sustain	0	4194304	Value	ValueOutput
+Mod 3 Env Sync F	0	4194304	Value	ValueOutput
+Mod 3 Env Sync R	0	4194304	Value	ValueOutput
+Mod 3 Env Attack Curve	0	4194304	Value	ValueOutput
+Mod 3 Env Decay Curve	0	4194304	Value	ValueOutput
+Mod 3 Env Fade Curve	0	4194304	Value	ValueOutput
+Mod 3 Env Release Curve	0	4194304	Value	ValueOutput
+Main Env Attack	0	4194304	Value	ValueOutput
+Main Env Hold	0	4194304	Value	ValueOutput
+Main Env Decay	0	4194304	Value	ValueOutput
+Main Env Sustain	0	4194304	Value	ValueOutput
+Main Env Fade	0	4194304	Value	ValueOutput
+Main Env Release	0	4194304	Value	ValueOutput
+Main Env Attack Curve	0	4194304	Value	ValueOutput
+Main Env Decay Curve	0	4194304	Value	ValueOutput
+Main Env Fade Curve	0	4194304	Value	ValueOutput
+Main Env Release Curve	0	4194304	Value	ValueOutput
+Main Env Pitch Scale	0	4194304	Value	ValueOutput
+Main Env Velo. Scale	0	4194304	Value	ValueOutput
+Main Env Sync	0	4194304	Value	ValueOutput
+Main Env AHD Mode	0	4194304	Value	ValueOutput
+Main Env Sync A	0	4194304	Value	ValueOutput
+Main Env Sync H	0	4194304	Value	ValueOutput
+Main Env Sync D	0	4194304	Value	ValueOutput
+Main Env Sustain	0	4194304	Value	ValueOutput
+Main Env Sync F	0	4194304	Value	ValueOutput
+Main Env Sync R	0	4194304	Value	ValueOutput
+Main Env Attack Curve	0	4194304	Value	ValueOutput
+Main Env Decay Curve	0	4194304	Value	ValueOutput
+Main Env Fade Curve	0	4194304	Value	ValueOutput
+Main Env Release Curve	0	4194304	Value	ValueOutput
+LFO 1 Sync	0	4194304	Value	ValueOutput
+LFO 1 Frequency	0	4194304	Value	ValueOutput
+LFO 1 Wave	0	4194304	Value	ValueOutput
+LFO 1 Mode	0	4194304	Value	ValueOutput
+LFO 1 Polar Mode	0	4194304	Value	ValueOutput
+LFO 1 Delay	0	4194304	Value	ValueOutput
+LFO 1 Atack	0	4194304	Value	ValueOutput
+LFO 1 Phase	0	4194304	Value	ValueOutput
+LFO 1 Free-Run	0	4194304	Value	ValueOutput
+LFO 1 Symmetry	0	4194304	Value	ValueOutput
+LFO 1 Smooth	0	4194304	Value	ValueOutput
+LFO 2 Sync	0	4194304	Value	ValueOutput
+LFO 2 Frequency	0	4194304	Value	ValueOutput
+LFO 2 Wave	0	4194304	Value	ValueOutput
+LFO 2 Mode	0	4194304	Value	ValueOutput
+LFO 2 Polar Mode	0	4194304	Value	ValueOutput
+LFO 2 Delay	0	4194304	Value	ValueOutput
+LFO 2 Atack	0	4194304	Value	ValueOutput
+LFO 2 Phase	0	4194304	Value	ValueOutput
+LFO 2 Free-Run	0	4194304	Value	ValueOutput
+LFO 2 Symmetry	0	4194304	Value	ValueOutput
+LFO 2 Smooth	0	4194304	Value	ValueOutput
+LFO 3 Sync	0	4194304	Value	ValueOutput
+LFO 3 Frequency	0	4194304	Value	ValueOutput
+LFO 3 Wave	0	4194304	Value	ValueOutput
+LFO 3 Mode	0	4194304	Value	ValueOutput
+LFO 3 Polar Mode	0	4194304	Value	ValueOutput
+LFO 3 Delay	0	4194304	Value	ValueOutput
+LFO 3 Atack	0	4194304	Value	ValueOutput
+LFO 3 Phase	0	4194304	Value	ValueOutput
+LFO 3 Free-Run	0	4194304	Value	ValueOutput
+LFO 3 Symmetry	0	4194304	Value	ValueOutput
+LFO 3 Smooth	0	4194304	Value	ValueOutput
+LFO 4 Sync	0	4194304	Value	ValueOutput
+LFO 4 Frequency	0	4194304	Value	ValueOutput
+LFO 4 Wave	0	4194304	Value	ValueOutput
+LFO 4 Mode	0	4194304	Value	ValueOutput
+LFO 4 Polar Mode	0	4194304	Value	ValueOutput
+LFO 4 Delay	0	4194304	Value	ValueOutput
+LFO 4 Atack	0	4194304	Value	ValueOutput
+LFO 4 Phase	0	4194304	Value	ValueOutput
+LFO 4 Free-Run	0	4194304	Value	ValueOutput
+LFO 4 Symmetry	0	4194304	Value	ValueOutput
+LFO 4 Smooth	0	4194304	Value	ValueOutput
+LFO 5 Sync	0	4194304	Value	ValueOutput
+LFO 5 Frequency	0	4194304	Value	ValueOutput
+LFO 5 Wave	0	4194304	Value	ValueOutput
+LFO 5 Mode	0	4194304	Value	ValueOutput
+LFO 5 Polar Mode	0	4194304	Value	ValueOutput
+LFO 5 Delay	0	4194304	Value	ValueOutput
+LFO 5 Atack	0	4194304	Value	ValueOutput
+LFO 5 Phase	0	4194304	Value	ValueOutput
+LFO 5 Free-Run	0	4194304	Value	ValueOutput
+LFO 5 Symmetry	0	4194304	Value	ValueOutput
+LFO 5 Smooth	0	4194304	Value	ValueOutput
+Matrix Amount 1 	0	4194304	Value	ValueOutput
+Matrix Amount 2 	0	4194304	Value	ValueOutput
+Matrix Amount 3 	0	4194304	Value	ValueOutput
+Matrix Amount 4 	0	4194304	Value	ValueOutput
+Matrix Amount 5 	0	4194304	Value	ValueOutput
+Matrix Amount 6 	0	4194304	Value	ValueOutput
+Matrix Amount 7 	0	4194304	Value	ValueOutput
+Matrix Amount 8 	0	4194304	Value	ValueOutput
+Matrix Amount 9 	0	4194304	Value	ValueOutput
+Matrix Amount 10 	0	4194304	Value	ValueOutput
+Matrix Amount 11 	0	4194304	Value	ValueOutput
+Matrix Amount 12 	0	4194304	Value	ValueOutput
+Matrix Amount 13 	0	4194304	Value	ValueOutput
+Matrix Amount 14 	0	4194304	Value	ValueOutput
+Matrix Amount 15 	0	4194304	Value	ValueOutput
+Matrix Amount 16 	0	4194304	Value	ValueOutput
+Matrix Amount 17 	0	4194304	Value	ValueOutput
+Matrix Amount 18 	0	4194304	Value	ValueOutput
+Matrix Amount 19 	0	4194304	Value	ValueOutput
+Matrix Amount 20 	0	4194304	Value	ValueOutput
+Matrix Amount 21 	0	4194304	Value	ValueOutput
+Matrix Amount 22 	0	4194304	Value	ValueOutput
+Matrix Amount 23 	0	4194304	Value	ValueOutput
+Matrix Amount 24 	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Fx 1 On/Off	0	4194304	Value	ValueOutput
+Fx 1 Type	0	4194304	Value	ValueOutput
+Fx 1 Routing	0	4194304	Value	ValueOutput
+Delay Mod 1 Wet	0	4194304	Value	ValueOutput
+Delay Mod 1 Time	0	4194304	Value	ValueOutput
+Delay Mod 1 Sync	0	4194304	Value	ValueOutput
+Delay Mod 1 Feedback	0	4194304	Value	ValueOutput
+Delay Mod 1 Cut Lo	0	4194304	Value	ValueOutput
+Delay Mod 1 Cut Hi	0	4194304	Value	ValueOutput
+Delay Mod 1 Rate	0	4194304	Value	ValueOutput
+Delay Mod 1 Rate Sync	0	4194304	Value	ValueOutput
+Delay Mod 1 Depth	0	4194304	Value	ValueOutput
+Delay Mod 1 Stereo	0	4194304	Value	ValueOutput
+Chorus 1 1 Wet	0	4194304	Value	ValueOutput
+Chorus 1 1 Time	0	4194304	Value	ValueOutput
+Chorus 1 1 Time Spread	0	4194304	Value	ValueOutput
+Chorus 1 1 Rate	0	4194304	Value	ValueOutput
+Chorus 1 1 Rate Spread	0	4194304	Value	ValueOutput
+Chorus 1 1 Inverse	0	4194304	Value	ValueOutput
+Chorus 1 1 Pan	0	4194304	Value	ValueOutput
+Chorus 1 1 Stereo	0	4194304	Value	ValueOutput
+Chorus 2 1 Wet	0	4194304	Value	ValueOutput
+Chorus 2 1 Time	0	4194304	Value	ValueOutput
+Chorus 2 1 Rate	0	4194304	Value	ValueOutput
+Chorus 2 1 Stereo	0	4194304	Value	ValueOutput
+Phaser 1 Wet	0	4194304	Value	ValueOutput
+Phaser 1 Rate	0	4194304	Value	ValueOutput
+Phaser 1 Rate Sync	0	4194304	Value	ValueOutput
+Phaser 1 Depth	0	4194304	Value	ValueOutput
+Phaser 1 Center	0	4194304	Value	ValueOutput
+Phaser 1 Feedback	0	4194304	Value	ValueOutput
+Phaser 1 Inverse	0	4194304	Value	ValueOutput
+Phaser 1 Stages	0	4194304	Value	ValueOutput
+Phaser 1 Stereo	0	4194304	Value	ValueOutput
+Filter 1 Wet	0	4194304	Value	ValueOutput
+Filter 1 Saturation	0	4194304	Value	ValueOutput
+Filter 1 Type(Fx)	0	4194304	Value	ValueOutput
+Filter 1 Cutoff(Fx)	0	4194304	Value	ValueOutput
+Filter 1 Reson(Fx)	0	4194304	Value	ValueOutput
+Filter 1 Mod Rate	0	4194304	Value	ValueOutput
+Filter 1 Mod Sync	0	4194304	Value	ValueOutput
+Filter 1 Mod Depth	0	4194304	Value	ValueOutput
+Filter 1 Level(Fx)	0	4194304	Value	ValueOutput
+Reverb 1 Wet	0	4194304	Value	ValueOutput
+Reverb 1 Room	0	4194304	Value	ValueOutput
+Reverb 1 Damp	0	4194304	Value	ValueOutput
+Reverb 1 Pre-Delay	0	4194304	Value	ValueOutput
+Reverb 1 Pre-D Sync	0	4194304	Value	ValueOutput
+Reverb 1 Modulation	0	4194304	Value	ValueOutput
+Reverb 1 Mod On/Off	0	4194304	Value	ValueOutput
+Delay St 1 Wet	0	4194304	Value	ValueOutput
+Delay St 1 Stereo	0	4194304	Value	ValueOutput
+Delay St 1 Time Left	0	4194304	Value	ValueOutput
+Delay St 1 Sync Left	0	4194304	Value	ValueOutput
+Delay St 1 Time Right	0	4194304	Value	ValueOutput
+Delay St 1 Sync Right	0	4194304	Value	ValueOutput
+Delay St 1 Feedback	0	4194304	Value	ValueOutput
+Delay St 1 Filter HP	0	4194304	Value	ValueOutput
+Delay St 1 Filter LP	0	4194304	Value	ValueOutput
+Delay St 1 Fil in Fb	0	4194304	Value	ValueOutput
+Delay St 1 Fade Link	0	4194304	Value	ValueOutput
+Delay PP 1 Wet	0	4194304	Value	ValueOutput
+Delay PP 1 Time Cen	0	4194304	Value	ValueOutput
+Delay PP 1 Sync Cen	0	4194304	Value	ValueOutput
+Delay PP 1 Balance	0	4194304	Value	ValueOutput
+Delay PP 1 Time Left	0	4194304	Value	ValueOutput
+Delay PP 1 Sync Left	0	4194304	Value	ValueOutput
+Delay PP 1 Time Right	0	4194304	Value	ValueOutput
+Delay PP 1 Sync Right	0	4194304	Value	ValueOutput
+Delay PP 1 Feedback	0	4194304	Value	ValueOutput
+Delay PP 1 Pan Left	0	4194304	Value	ValueOutput
+Delay PP 1 Pan Right	0	4194304	Value	ValueOutput
+Delay PP 1 Feedback Mode	0	4194304	Value	ValueOutput
+EQ 1 Wet	0	4194304	Value	ValueOutput
+EQ 1 Freq 1	0	4194304	Value	ValueOutput
+EQ 1 Gain 1	0	4194304	Value	ValueOutput
+EQ 1 Q 1	0	4194304	Value	ValueOutput
+EQ 1 Freq 2	0	4194304	Value	ValueOutput
+EQ 1 Gain 2	0	4194304	Value	ValueOutput
+EQ 1 Q 2	0	4194304	Value	ValueOutput
+Compressor 1 Wet	0	4194304	Value	ValueOutput
+Compressor 1 Ratio	0	4194304	Value	ValueOutput
+Compressor 1 Threshold	0	4194304	Value	ValueOutput
+Compressor 1 Attack	0	4194304	Value	ValueOutput
+Compressor 1 Release	0	4194304	Value	ValueOutput
+Compressor 1 Volume	0	4194304	Value	ValueOutput
+WahWah 1 Wet	0	4194304	Value	ValueOutput
+WahWah 1 Cutoff	0	4194304	Value	ValueOutput
+WahWah 1 Resonance	0	4194304	Value	ValueOutput
+WahWah 1 Sensivity	0	4194304	Value	ValueOutput
+WahWah 1 Attack	0	4194304	Value	ValueOutput
+WahWah 1 Release	0	4194304	Value	ValueOutput
+WahWah 1 Volume	0	4194304	Value	ValueOutput
+Flanger 1 Wet	0	4194304	Value	ValueOutput
+Flanger 1 Time	0	4194304	Value	ValueOutput
+Flanger 1 Feedback	0	4194304	Value	ValueOutput
+Flanger 1 Inv. FB	0	4194304	Value	ValueOutput
+Flanger 1 Stereo	0	4194304	Value	ValueOutput
+Flanger 1 Rate	0	4194304	Value	ValueOutput
+Flanger 1 Rate Sync	0	4194304	Value	ValueOutput
+Flanger 1 Mod Depth	0	4194304	Value	ValueOutput
+Flanger 1 Pan Depth	0	4194304	Value	ValueOutput
+Gator 1 Wet	0	4194304	Value	ValueOutput
+Gator 1 Left	0	4194304	Value	ValueOutput
+Gator 1 Right	0	4194304	Value	ValueOutput
+Gator 1 Sync	0	4194304	Value	ValueOutput
+Gator 1 Smooth	0	4194304	Value	ValueOutput
+Gator 1 Link	0	4194304	Value	ValueOutput
+Crush 1 Wet	0	4194304	Value	ValueOutput
+Crush 1 Bits	0	4194304	Value	ValueOutput
+Crush 1 Divider	0	4194304	Value	ValueOutput
+Crush 1 Mode	0	4194304	Value	ValueOutput
+Crush 1 Filter	0	4194304	Value	ValueOutput
+Crush 1 Cutoff	0	4194304	Value	ValueOutput
+Crush 1 Reso	0	4194304	Value	ValueOutput
+Crush 1 Fil.Post	0	4194304	Value	ValueOutput
+Crush 1 Fil.Auto	0	4194304	Value	ValueOutput
+Fx 2 On/Off	0	4194304	Value	ValueOutput
+Fx 2 Type	0	4194304	Value	ValueOutput
+Fx 2 Routing	0	4194304	Value	ValueOutput
+Delay Mod 2 Wet	0	4194304	Value	ValueOutput
+Delay Mod 2 Time	0	4194304	Value	ValueOutput
+Delay Mod 2 Sync	0	4194304	Value	ValueOutput
+Delay Mod 2 Feedback	0	4194304	Value	ValueOutput
+Delay Mod 2 Cut Lo	0	4194304	Value	ValueOutput
+Delay Mod 2 Cut Hi	0	4194304	Value	ValueOutput
+Delay Mod 2 Rate	0	4194304	Value	ValueOutput
+Delay Mod 2 Rate Sync	0	4194304	Value	ValueOutput
+Delay Mod 2 Depth	0	4194304	Value	ValueOutput
+Delay Mod 2 Stereo	0	4194304	Value	ValueOutput
+Chorus 1 2 Wet	0	4194304	Value	ValueOutput
+Chorus 1 2 Time	0	4194304	Value	ValueOutput
+Chorus 1 2 Time Spread	0	4194304	Value	ValueOutput
+Chorus 1 2 Rate	0	4194304	Value	ValueOutput
+Chorus 1 2 Rate Spread	0	4194304	Value	ValueOutput
+Chorus 1 2 Inverse	0	4194304	Value	ValueOutput
+Chorus 1 2 Pan	0	4194304	Value	ValueOutput
+Chorus 1 2 Stereo	0	4194304	Value	ValueOutput
+Chorus 2 2 Wet	0	4194304	Value	ValueOutput
+Chorus 2 2 Time	0	4194304	Value	ValueOutput
+Chorus 2 2 Rate	0	4194304	Value	ValueOutput
+Chorus 2 2 Stereo	0	4194304	Value	ValueOutput
+Phaser 2 Wet	0	4194304	Value	ValueOutput
+Phaser 2 Rate	0	4194304	Value	ValueOutput
+Phaser 2 Rate Sync	0	4194304	Value	ValueOutput
+Phaser 2 Depth	0	4194304	Value	ValueOutput
+Phaser 2 Center	0	4194304	Value	ValueOutput
+Phaser 2 Feedback	0	4194304	Value	ValueOutput
+Phaser 2 Inverse	0	4194304	Value	ValueOutput
+Phaser 2 Stages	0	4194304	Value	ValueOutput
+Phaser 2 Stereo	0	4194304	Value	ValueOutput
+Filter 2 Wet	0	4194304	Value	ValueOutput
+Filter 2 Saturation	0	4194304	Value	ValueOutput
+Filter 2 Type(Fx)	0	4194304	Value	ValueOutput
+Filter 2 Cutoff(Fx)	0	4194304	Value	ValueOutput
+Filter 2 Reson(Fx)	0	4194304	Value	ValueOutput
+Filter 2 Mod Rate	0	4194304	Value	ValueOutput
+Filter 2 Mod Sync	0	4194304	Value	ValueOutput
+Filter 2 Mod Depth	0	4194304	Value	ValueOutput
+Filter 2 Level(Fx)	0	4194304	Value	ValueOutput
+Reverb 2 Wet	0	4194304	Value	ValueOutput
+Reverb 2 Room	0	4194304	Value	ValueOutput
+Reverb 2 Damp	0	4194304	Value	ValueOutput
+Reverb 2 Pre-Delay	0	4194304	Value	ValueOutput
+Reverb 2 Pre-D Sync	0	4194304	Value	ValueOutput
+Reverb 2 Modulation	0	4194304	Value	ValueOutput
+Reverb 2 Mod On/Off	0	4194304	Value	ValueOutput
+Delay St 2 Wet	0	4194304	Value	ValueOutput
+Delay St 2 Stereo	0	4194304	Value	ValueOutput
+Delay St 2 Time Left	0	4194304	Value	ValueOutput
+Delay St 2 Sync Left	0	4194304	Value	ValueOutput
+Delay St 2 Time Right	0	4194304	Value	ValueOutput
+Delay St 2 Sync Right	0	4194304	Value	ValueOutput
+Delay St 2 Feedback	0	4194304	Value	ValueOutput
+Delay St 2 Filter HP	0	4194304	Value	ValueOutput
+Delay St 2 Filter LP	0	4194304	Value	ValueOutput
+Delay St 2 Fil in Fb	0	4194304	Value	ValueOutput
+Delay St 2 Fade Link	0	4194304	Value	ValueOutput
+Delay PP 2 Wet	0	4194304	Value	ValueOutput
+Delay PP 2 Time Cen	0	4194304	Value	ValueOutput
+Delay PP 2 Sync Cen	0	4194304	Value	ValueOutput
+Delay PP 2 Balance	0	4194304	Value	ValueOutput
+Delay PP 2 Time Left	0	4194304	Value	ValueOutput
+Delay PP 2 Sync Left	0	4194304	Value	ValueOutput
+Delay PP 2 Time Right	0	4194304	Value	ValueOutput
+Delay PP 2 Sync Right	0	4194304	Value	ValueOutput
+Delay PP 2 Feedback	0	4194304	Value	ValueOutput
+Delay PP 2 Pan Left	0	4194304	Value	ValueOutput
+Delay PP 2 Pan Right	0	4194304	Value	ValueOutput
+Delay PP 2 Feedback Mode	0	4194304	Value	ValueOutput
+EQ 2 Wet	0	4194304	Value	ValueOutput
+EQ 2 Freq 1	0	4194304	Value	ValueOutput
+EQ 2 Gain 1	0	4194304	Value	ValueOutput
+EQ 2 Q 1	0	4194304	Value	ValueOutput
+EQ 2 Freq 2	0	4194304	Value	ValueOutput
+EQ 2 Gain 2	0	4194304	Value	ValueOutput
+EQ 2 Q 2	0	4194304	Value	ValueOutput
+Compressor 2 Wet	0	4194304	Value	ValueOutput
+Compressor 2 Ratio	0	4194304	Value	ValueOutput
+Compressor 2 Threshold	0	4194304	Value	ValueOutput
+Compressor 2 Attack	0	4194304	Value	ValueOutput
+Compressor 2 Release	0	4194304	Value	ValueOutput
+Compressor 2 Volume	0	4194304	Value	ValueOutput
+WahWah 2 Wet	0	4194304	Value	ValueOutput
+WahWah 2 Cutoff	0	4194304	Value	ValueOutput
+WahWah 2 Resonance	0	4194304	Value	ValueOutput
+WahWah 2 Sensivity	0	4194304	Value	ValueOutput
+WahWah 2 Attack	0	4194304	Value	ValueOutput
+WahWah 2 Release	0	4194304	Value	ValueOutput
+WahWah 2 Volume	0	4194304	Value	ValueOutput
+Flanger 2 Wet	0	4194304	Value	ValueOutput
+Flanger 2 Time	0	4194304	Value	ValueOutput
+Flanger 2 Feedback	0	4194304	Value	ValueOutput
+Flanger 2 Inv. FB	0	4194304	Value	ValueOutput
+Flanger 2 Stereo	0	4194304	Value	ValueOutput
+Flanger 2 Rate	0	4194304	Value	ValueOutput
+Flanger 2 Rate Sync	0	4194304	Value	ValueOutput
+Flanger 2 Mod Depth	0	4194304	Value	ValueOutput
+Flanger 2 Pan Depth	0	4194304	Value	ValueOutput
+Gator 2 Wet	0	4194304	Value	ValueOutput
+Gator 2 Left	0	4194304	Value	ValueOutput
+Gator 2 Right	0	4194304	Value	ValueOutput
+Gator 2 Sync	0	4194304	Value	ValueOutput
+Gator 2 Smooth	0	4194304	Value	ValueOutput
+Gator 2 Link	0	4194304	Value	ValueOutput
+Crush 2 Wet	0	4194304	Value	ValueOutput
+Crush 2 Bits	0	4194304	Value	ValueOutput
+Crush 2 Divider	0	4194304	Value	ValueOutput
+Crush 2 Mode	0	4194304	Value	ValueOutput
+Crush 2 Filter	0	4194304	Value	ValueOutput
+Crush 2 Cutoff	0	4194304	Value	ValueOutput
+Crush 2 Reso	0	4194304	Value	ValueOutput
+Crush 2 Fil.Post	0	4194304	Value	ValueOutput
+Crush 2 Fil.Auto	0	4194304	Value	ValueOutput
+Fx 3 On/Off	0	4194304	Value	ValueOutput
+Fx 3 Type	0	4194304	Value	ValueOutput
+Fx 3 Routing	0	4194304	Value	ValueOutput
+Delay Mod 3 Wet	0	4194304	Value	ValueOutput
+Delay Mod 3 Time	0	4194304	Value	ValueOutput
+Delay Mod 3 Sync	0	4194304	Value	ValueOutput
+Delay Mod 3 Feedback	0	4194304	Value	ValueOutput
+Delay Mod 3 Cut Lo	0	4194304	Value	ValueOutput
+Delay Mod 3 Cut Hi	0	4194304	Value	ValueOutput
+Delay Mod 3 Rate	0	4194304	Value	ValueOutput
+Delay Mod 3 Rate Sync	0	4194304	Value	ValueOutput
+Delay Mod 3 Depth	0	4194304	Value	ValueOutput
+Delay Mod 3 Stereo	0	4194304	Value	ValueOutput
+Chorus 1 3 Wet	0	4194304	Value	ValueOutput
+Chorus 1 3 Time	0	4194304	Value	ValueOutput
+Chorus 1 3 Time Spread	0	4194304	Value	ValueOutput
+Chorus 1 3 Rate	0	4194304	Value	ValueOutput
+Chorus 1 3 Rate Spread	0	4194304	Value	ValueOutput
+Chorus 1 3 Inverse	0	4194304	Value	ValueOutput
+Chorus 1 3 Pan	0	4194304	Value	ValueOutput
+Chorus 1 3 Stereo	0	4194304	Value	ValueOutput
+Chorus 2 3 Wet	0	4194304	Value	ValueOutput
+Chorus 2 3 Time	0	4194304	Value	ValueOutput
+Chorus 2 3 Rate	0	4194304	Value	ValueOutput
+Chorus 2 3 Stereo	0	4194304	Value	ValueOutput
+Phaser 3 Wet	0	4194304	Value	ValueOutput
+Phaser 3 Rate	0	4194304	Value	ValueOutput
+Phaser 3 Rate Sync	0	4194304	Value	ValueOutput
+Phaser 3 Depth	0	4194304	Value	ValueOutput
+Phaser 3 Center	0	4194304	Value	ValueOutput
+Phaser 3 Feedback	0	4194304	Value	ValueOutput
+Phaser 3 Inverse	0	4194304	Value	ValueOutput
+Phaser 3 Stages	0	4194304	Value	ValueOutput
+Phaser 3 Stereo	0	4194304	Value	ValueOutput
+Filter 3 Wet	0	4194304	Value	ValueOutput
+Filter 3 Saturation	0	4194304	Value	ValueOutput
+Filter 3 Type(Fx)	0	4194304	Value	ValueOutput
+Filter 3 Cutoff(Fx)	0	4194304	Value	ValueOutput
+Filter 3 Reson(Fx)	0	4194304	Value	ValueOutput
+Filter 3 Mod Rate	0	4194304	Value	ValueOutput
+Filter 3 Mod Sync	0	4194304	Value	ValueOutput
+Filter 3 Mod Depth	0	4194304	Value	ValueOutput
+Filter 3 Level(Fx)	0	4194304	Value	ValueOutput
+Reverb 3 Wet	0	4194304	Value	ValueOutput
+Reverb 3 Room	0	4194304	Value	ValueOutput
+Reverb 3 Damp	0	4194304	Value	ValueOutput
+Reverb 3 Pre-Delay	0	4194304	Value	ValueOutput
+Reverb 3 Pre-D Sync	0	4194304	Value	ValueOutput
+Reverb 3 Modulation	0	4194304	Value	ValueOutput
+Reverb 3 Mod On/Off	0	4194304	Value	ValueOutput
+Delay St 3 Wet	0	4194304	Value	ValueOutput
+Delay St 3 Stereo	0	4194304	Value	ValueOutput
+Delay St 3 Time Left	0	4194304	Value	ValueOutput
+Delay St 3 Sync Left	0	4194304	Value	ValueOutput
+Delay St 3 Time Right	0	4194304	Value	ValueOutput
+Delay St 3 Sync Right	0	4194304	Value	ValueOutput
+Delay St 3 Feedback	0	4194304	Value	ValueOutput
+Delay St 3 Filter HP	0	4194304	Value	ValueOutput
+Delay St 3 Filter LP	0	4194304	Value	ValueOutput
+Delay St 3 Fil in Fb	0	4194304	Value	ValueOutput
+Delay St 3 Fade Link	0	4194304	Value	ValueOutput
+Delay PP 3 Wet	0	4194304	Value	ValueOutput
+Delay PP 3 Time Cen	0	4194304	Value	ValueOutput
+Delay PP 3 Sync Cen	0	4194304	Value	ValueOutput
+Delay PP 3 Balance	0	4194304	Value	ValueOutput
+Delay PP 3 Time Left	0	4194304	Value	ValueOutput
+Delay PP 3 Sync Left	0	4194304	Value	ValueOutput
+Delay PP 3 Time Right	0	4194304	Value	ValueOutput
+Delay PP 3 Sync Right	0	4194304	Value	ValueOutput
+Delay PP 3 Feedback	0	4194304	Value	ValueOutput
+Delay PP 3 Pan Left	0	4194304	Value	ValueOutput
+Delay PP 3 Pan Right	0	4194304	Value	ValueOutput
+Delay PP 3 Feedback Mode	0	4194304	Value	ValueOutput
+EQ 3 Wet	0	4194304	Value	ValueOutput
+EQ 3 Freq 1	0	4194304	Value	ValueOutput
+EQ 3 Gain 1	0	4194304	Value	ValueOutput
+EQ 3 Q 1	0	4194304	Value	ValueOutput
+EQ 3 Freq 2	0	4194304	Value	ValueOutput
+EQ 3 Gain 2	0	4194304	Value	ValueOutput
+EQ 3 Q 2	0	4194304	Value	ValueOutput
+Compressor 3 Wet	0	4194304	Value	ValueOutput
+Compressor 3 Ratio	0	4194304	Value	ValueOutput
+Compressor 3 Threshold	0	4194304	Value	ValueOutput
+Compressor 3 Attack	0	4194304	Value	ValueOutput
+Compressor 3 Release	0	4194304	Value	ValueOutput
+Compressor 3 Volume	0	4194304	Value	ValueOutput
+WahWah 3 Wet	0	4194304	Value	ValueOutput
+WahWah 3 Cutoff	0	4194304	Value	ValueOutput
+WahWah 3 Resonance	0	4194304	Value	ValueOutput
+WahWah 3 Sensivity	0	4194304	Value	ValueOutput
+WahWah 3 Attack	0	4194304	Value	ValueOutput
+WahWah 3 Release	0	4194304	Value	ValueOutput
+WahWah 3 Volume	0	4194304	Value	ValueOutput
+Flanger 3 Wet	0	4194304	Value	ValueOutput
+Flanger 3 Time	0	4194304	Value	ValueOutput
+Flanger 3 Feedback	0	4194304	Value	ValueOutput
+Flanger 3 Inv. FB	0	4194304	Value	ValueOutput
+Flanger 3 Stereo	0	4194304	Value	ValueOutput
+Flanger 3 Rate	0	4194304	Value	ValueOutput
+Flanger 3 Rate Sync	0	4194304	Value	ValueOutput
+Flanger 3 Mod Depth	0	4194304	Value	ValueOutput
+Flanger 3 Pan Depth	0	4194304	Value	ValueOutput
+Gator 3 Wet	0	4194304	Value	ValueOutput
+Gator 3 Left	0	4194304	Value	ValueOutput
+Gator 3 Right	0	4194304	Value	ValueOutput
+Gator 3 Sync	0	4194304	Value	ValueOutput
+Gator 3 Smooth	0	4194304	Value	ValueOutput
+Gator 3 Link	0	4194304	Value	ValueOutput
+Crush 3 Wet	0	4194304	Value	ValueOutput
+Crush 3 Bits	0	4194304	Value	ValueOutput
+Crush 3 Divider	0	4194304	Value	ValueOutput
+Crush 3 Mode	0	4194304	Value	ValueOutput
+Crush 3 Filter	0	4194304	Value	ValueOutput
+Crush 3 Cutoff	0	4194304	Value	ValueOutput
+Crush 3 Reso	0	4194304	Value	ValueOutput
+Crush 3 Fil.Post	0	4194304	Value	ValueOutput
+Crush 3 Fil.Auto	0	4194304	Value	ValueOutput
+Fx 4 On/Off	0	4194304	Value	ValueOutput
+Fx 4 Type	0	4194304	Value	ValueOutput
+Fx 4 Routing	0	4194304	Value	ValueOutput
+Delay Mod 4 Wet	0	4194304	Value	ValueOutput
+Delay Mod 4 Time	0	4194304	Value	ValueOutput
+Delay Mod 4 Sync	0	4194304	Value	ValueOutput
+Delay Mod 4 Feedback	0	4194304	Value	ValueOutput
+Delay Mod 4 Cut Lo	0	4194304	Value	ValueOutput
+Delay Mod 4 Cut Hi	0	4194304	Value	ValueOutput
+Delay Mod 4 Rate	0	4194304	Value	ValueOutput
+Delay Mod 4 Rate Sync	0	4194304	Value	ValueOutput
+Delay Mod 4 Depth	0	4194304	Value	ValueOutput
+Delay Mod 4 Stereo	0	4194304	Value	ValueOutput
+Chorus 1 4 Wet	0	4194304	Value	ValueOutput
+Chorus 1 4 Time	0	4194304	Value	ValueOutput
+Chorus 1 4 Time Spread	0	4194304	Value	ValueOutput
+Chorus 1 4 Rate	0	4194304	Value	ValueOutput
+Chorus 1 4 Rate Spread	0	4194304	Value	ValueOutput
+Chorus 1 4 Inverse	0	4194304	Value	ValueOutput
+Chorus 1 4 Pan	0	4194304	Value	ValueOutput
+Chorus 1 4 Stereo	0	4194304	Value	ValueOutput
+Chorus 2 4 Wet	0	4194304	Value	ValueOutput
+Chorus 2 4 Time	0	4194304	Value	ValueOutput
+Chorus 2 4 Rate	0	4194304	Value	ValueOutput
+Chorus 2 4 Stereo	0	4194304	Value	ValueOutput
+Phaser 4 Wet	0	4194304	Value	ValueOutput
+Phaser 4 Rate	0	4194304	Value	ValueOutput
+Phaser 4 Rate Sync	0	4194304	Value	ValueOutput
+Phaser 4 Depth	0	4194304	Value	ValueOutput
+Phaser 4 Center	0	4194304	Value	ValueOutput
+Phaser 4 Feedback	0	4194304	Value	ValueOutput
+Phaser 4 Inverse	0	4194304	Value	ValueOutput
+Phaser 4 Stages	0	4194304	Value	ValueOutput
+Phaser 4 Stereo	0	4194304	Value	ValueOutput
+Filter 4 Wet	0	4194304	Value	ValueOutput
+Filter 4 Saturation	0	4194304	Value	ValueOutput
+Filter 4 Type(Fx)	0	4194304	Value	ValueOutput
+Filter 4 Cutoff(Fx)	0	4194304	Value	ValueOutput
+Filter 4 Reson(Fx)	0	4194304	Value	ValueOutput
+Filter 4 Mod Rate	0	4194304	Value	ValueOutput
+Filter 4 Mod Sync	0	4194304	Value	ValueOutput
+Filter 4 Mod Depth	0	4194304	Value	ValueOutput
+Filter 4 Level(Fx)	0	4194304	Value	ValueOutput
+Reverb 4 Wet	0	4194304	Value	ValueOutput
+Reverb 4 Room	0	4194304	Value	ValueOutput
+Reverb 4 Damp	0	4194304	Value	ValueOutput
+Reverb 4 Pre-Delay	0	4194304	Value	ValueOutput
+Reverb 4 Pre-D Sync	0	4194304	Value	ValueOutput
+Reverb 4 Modulation	0	4194304	Value	ValueOutput
+Reverb 4 Mod On/Off	0	4194304	Value	ValueOutput
+Delay St 4 Wet	0	4194304	Value	ValueOutput
+Delay St 4 Stereo	0	4194304	Value	ValueOutput
+Delay St 4 Time Left	0	4194304	Value	ValueOutput
+Delay St 4 Sync Left	0	4194304	Value	ValueOutput
+Delay St 4 Time Right	0	4194304	Value	ValueOutput
+Delay St 4 Sync Right	0	4194304	Value	ValueOutput
+Delay St 4 Feedback	0	4194304	Value	ValueOutput
+Delay St 4 Filter HP	0	4194304	Value	ValueOutput
+Delay St 4 Filter LP	0	4194304	Value	ValueOutput
+Delay St 4 Fil in Fb	0	4194304	Value	ValueOutput
+Delay St 4 Fade Link	0	4194304	Value	ValueOutput
+Delay PP 4 Wet	0	4194304	Value	ValueOutput
+Delay PP 4 Time Cen	0	4194304	Value	ValueOutput
+Delay PP 4 Sync Cen	0	4194304	Value	ValueOutput
+Delay PP 4 Balance	0	4194304	Value	ValueOutput
+Delay PP 4 Time Left	0	4194304	Value	ValueOutput
+Delay PP 4 Sync Left	0	4194304	Value	ValueOutput
+Delay PP 4 Time Right	0	4194304	Value	ValueOutput
+Delay PP 4 Sync Right	0	4194304	Value	ValueOutput
+Delay PP 4 Feedback	0	4194304	Value	ValueOutput
+Delay PP 4 Pan Left	0	4194304	Value	ValueOutput
+Delay PP 4 Pan Right	0	4194304	Value	ValueOutput
+Delay PP 4 Feedback Mode	0	4194304	Value	ValueOutput
+EQ 4 Wet	0	4194304	Value	ValueOutput
+EQ 4 Freq 1	0	4194304	Value	ValueOutput
+EQ 4 Gain 1	0	4194304	Value	ValueOutput
+EQ 4 Q 1	0	4194304	Value	ValueOutput
+EQ 4 Freq 2	0	4194304	Value	ValueOutput
+EQ 4 Gain 2	0	4194304	Value	ValueOutput
+EQ 4 Q 2	0	4194304	Value	ValueOutput
+Compressor 4 Wet	0	4194304	Value	ValueOutput
+Compressor 4 Ratio	0	4194304	Value	ValueOutput
+Compressor 4 Threshold	0	4194304	Value	ValueOutput
+Compressor 4 Attack	0	4194304	Value	ValueOutput
+Compressor 4 Release	0	4194304	Value	ValueOutput
+Compressor 4 Volume	0	4194304	Value	ValueOutput
+WahWah 4 Wet	0	4194304	Value	ValueOutput
+WahWah 4 Cutoff	0	4194304	Value	ValueOutput
+WahWah 4 Resonance	0	4194304	Value	ValueOutput
+WahWah 4 Sensivity	0	4194304	Value	ValueOutput
+WahWah 4 Attack	0	4194304	Value	ValueOutput
+WahWah 4 Release	0	4194304	Value	ValueOutput
+WahWah 4 Volume	0	4194304	Value	ValueOutput
+Flanger 4 Wet	0	4194304	Value	ValueOutput
+Flanger 4 Time	0	4194304	Value	ValueOutput
+Flanger 4 Feedback	0	4194304	Value	ValueOutput
+Flanger 4 Inv. FB	0	4194304	Value	ValueOutput
+Flanger 4 Stereo	0	4194304	Value	ValueOutput
+Flanger 4 Rate	0	4194304	Value	ValueOutput
+Flanger 4 Rate Sync	0	4194304	Value	ValueOutput
+Flanger 4 Mod Depth	0	4194304	Value	ValueOutput
+Flanger 4 Pan Depth	0	4194304	Value	ValueOutput
+Gator 4 Wet	0	4194304	Value	ValueOutput
+Gator 4 Left	0	4194304	Value	ValueOutput
+Gator 4 Right	0	4194304	Value	ValueOutput
+Gator 4 Sync	0	4194304	Value	ValueOutput
+Gator 4 Smooth	0	4194304	Value	ValueOutput
+Gator 4 Link	0	4194304	Value	ValueOutput
+Crush 4 Wet	0	4194304	Value	ValueOutput
+Crush 4 Bits	0	4194304	Value	ValueOutput
+Crush 4 Divider	0	4194304	Value	ValueOutput
+Crush 4 Mode	0	4194304	Value	ValueOutput
+Crush 4 Filter	0	4194304	Value	ValueOutput
+Crush 4 Cutoff	0	4194304	Value	ValueOutput
+Crush 4 Reso	0	4194304	Value	ValueOutput
+Crush 4 Fil.Post	0	4194304	Value	ValueOutput
+Crush 4 Fil.Auto	0	4194304	Value	ValueOutput
+Fx 5 On/Off	0	4194304	Value	ValueOutput
+Fx 5 Type	0	4194304	Value	ValueOutput
+Fx 5 Routing	0	4194304	Value	ValueOutput
+Delay Mod 5 Wet	0	4194304	Value	ValueOutput
+Delay Mod 5 Time	0	4194304	Value	ValueOutput
+Delay Mod 5 Sync	0	4194304	Value	ValueOutput
+Delay Mod 5 Feedback	0	4194304	Value	ValueOutput
+Delay Mod 5 Cut Lo	0	4194304	Value	ValueOutput
+Delay Mod 5 Cut Hi	0	4194304	Value	ValueOutput
+Delay Mod 5 Rate	0	4194304	Value	ValueOutput
+Delay Mod 5 Rate Sync	0	4194304	Value	ValueOutput
+Delay Mod 5 Depth	0	4194304	Value	ValueOutput
+Delay Mod 5 Stereo	0	4194304	Value	ValueOutput
+Chorus 1 5 Wet	0	4194304	Value	ValueOutput
+Chorus 1 5 Time	0	4194304	Value	ValueOutput
+Chorus 1 5 Time Spread	0	4194304	Value	ValueOutput
+Chorus 1 5 Rate	0	4194304	Value	ValueOutput
+Chorus 1 5 Rate Spread	0	4194304	Value	ValueOutput
+Chorus 1 5 Inverse	0	4194304	Value	ValueOutput
+Chorus 1 5 Pan	0	4194304	Value	ValueOutput
+Chorus 1 5 Stereo	0	4194304	Value	ValueOutput
+Chorus 2 5 Wet	0	4194304	Value	ValueOutput
+Chorus 2 5 Time	0	4194304	Value	ValueOutput
+Chorus 2 5 Rate	0	4194304	Value	ValueOutput
+Chorus 2 5 Stereo	0	4194304	Value	ValueOutput
+Phaser 5 Wet	0	4194304	Value	ValueOutput
+Phaser 5 Rate	0	4194304	Value	ValueOutput
+Phaser 5 Rate Sync	0	4194304	Value	ValueOutput
+Phaser 5 Depth	0	4194304	Value	ValueOutput
+Phaser 5 Center	0	4194304	Value	ValueOutput
+Phaser 5 Feedback	0	4194304	Value	ValueOutput
+Phaser 5 Inverse	0	4194304	Value	ValueOutput
+Phaser 5 Stages	0	4194304	Value	ValueOutput
+Phaser 5 Stereo	0	4194304	Value	ValueOutput
+Filter 5 Wet	0	4194304	Value	ValueOutput
+Filter 5 Saturation	0	4194304	Value	ValueOutput
+Filter 5 Type(Fx)	0	4194304	Value	ValueOutput
+Filter 5 Cutoff(Fx)	0	4194304	Value	ValueOutput
+Filter 5 Reson(Fx)	0	4194304	Value	ValueOutput
+Filter 5 Mod Rate	0	4194304	Value	ValueOutput
+Filter 5 Mod Sync	0	4194304	Value	ValueOutput
+Filter 5 Mod Depth	0	4194304	Value	ValueOutput
+Filter 5 Level(Fx)	0	4194304	Value	ValueOutput
+Reverb 5 Wet	0	4194304	Value	ValueOutput
+Reverb 5 Room	0	4194304	Value	ValueOutput
+Reverb 5 Damp	0	4194304	Value	ValueOutput
+Reverb 5 Pre-Delay	0	4194304	Value	ValueOutput
+Reverb 5 Pre-D Sync	0	4194304	Value	ValueOutput
+Reverb 5 Modulation	0	4194304	Value	ValueOutput
+Reverb 5 Mod On/Off	0	4194304	Value	ValueOutput
+Delay St 5 Wet	0	4194304	Value	ValueOutput
+Delay St 5 Stereo	0	4194304	Value	ValueOutput
+Delay St 5 Time Left	0	4194304	Value	ValueOutput
+Delay St 5 Sync Left	0	4194304	Value	ValueOutput
+Delay St 5 Time Right	0	4194304	Value	ValueOutput
+Delay St 5 Sync Right	0	4194304	Value	ValueOutput
+Delay St 5 Feedback	0	4194304	Value	ValueOutput
+Delay St 5 Filter HP	0	4194304	Value	ValueOutput
+Delay St 5 Filter LP	0	4194304	Value	ValueOutput
+Delay St 5 Fil in Fb	0	4194304	Value	ValueOutput
+Delay St 5 Fade Link	0	4194304	Value	ValueOutput
+Delay PP 5 Wet	0	4194304	Value	ValueOutput
+Delay PP 5 Time Cen	0	4194304	Value	ValueOutput
+Delay PP 5 Sync Cen	0	4194304	Value	ValueOutput
+Delay PP 5 Balance	0	4194304	Value	ValueOutput
+Delay PP 5 Time Left	0	4194304	Value	ValueOutput
+Delay PP 5 Sync Left	0	4194304	Value	ValueOutput
+Delay PP 5 Time Right	0	4194304	Value	ValueOutput
+Delay PP 5 Sync Right	0	4194304	Value	ValueOutput
+Delay PP 5 Feedback	0	4194304	Value	ValueOutput
+Delay PP 5 Pan Left	0	4194304	Value	ValueOutput
+Delay PP 5 Pan Right	0	4194304	Value	ValueOutput
+Delay PP 5 Feedback Mode	0	4194304	Value	ValueOutput
+EQ 5 Wet	0	4194304	Value	ValueOutput
+EQ 5 Freq 1	0	4194304	Value	ValueOutput
+EQ 5 Gain 1	0	4194304	Value	ValueOutput
+EQ 5 Q 1	0	4194304	Value	ValueOutput
+EQ 5 Freq 2	0	4194304	Value	ValueOutput
+EQ 5 Gain 2	0	4194304	Value	ValueOutput
+EQ 5 Q 2	0	4194304	Value	ValueOutput
+Compressor 5 Wet	0	4194304	Value	ValueOutput
+Compressor 5 Ratio	0	4194304	Value	ValueOutput
+Compressor 5 Threshold	0	4194304	Value	ValueOutput
+Compressor 5 Attack	0	4194304	Value	ValueOutput
+Compressor 5 Release	0	4194304	Value	ValueOutput
+Compressor 5 Volume	0	4194304	Value	ValueOutput
+WahWah 5 Wet	0	4194304	Value	ValueOutput
+WahWah 5 Cutoff	0	4194304	Value	ValueOutput
+WahWah 5 Resonance	0	4194304	Value	ValueOutput
+WahWah 5 Sensivity	0	4194304	Value	ValueOutput
+WahWah 5 Attack	0	4194304	Value	ValueOutput
+WahWah 5 Release	0	4194304	Value	ValueOutput
+WahWah 5 Volume	0	4194304	Value	ValueOutput
+Flanger 5 Wet	0	4194304	Value	ValueOutput
+Flanger 5 Time	0	4194304	Value	ValueOutput
+Flanger 5 Feedback	0	4194304	Value	ValueOutput
+Flanger 5 Inv. FB	0	4194304	Value	ValueOutput
+Flanger 5 Stereo	0	4194304	Value	ValueOutput
+Flanger 5 Rate	0	4194304	Value	ValueOutput
+Flanger 5 Rate Sync	0	4194304	Value	ValueOutput
+Flanger 5 Mod Depth	0	4194304	Value	ValueOutput
+Flanger 5 Pan Depth	0	4194304	Value	ValueOutput
+Gator 5 Wet	0	4194304	Value	ValueOutput
+Gator 5 Left	0	4194304	Value	ValueOutput
+Gator 5 Right	0	4194304	Value	ValueOutput
+Gator 5 Sync	0	4194304	Value	ValueOutput
+Gator 5 Smooth	0	4194304	Value	ValueOutput
+Gator 5 Link	0	4194304	Value	ValueOutput
+Crush 5 Wet	0	4194304	Value	ValueOutput
+Crush 5 Bits	0	4194304	Value	ValueOutput
+Crush 5 Divider	0	4194304	Value	ValueOutput
+Crush 5 Mode	0	4194304	Value	ValueOutput
+Crush 5 Filter	0	4194304	Value	ValueOutput
+Crush 5 Cutoff	0	4194304	Value	ValueOutput
+Crush 5 Reso	0	4194304	Value	ValueOutput
+Crush 5 Fil.Post	0	4194304	Value	ValueOutput
+Crush 5 Fil.Auto	0	4194304	Value	ValueOutput
+Fx 6 On/Off	0	4194304	Value	ValueOutput
+Fx 6 Type	0	4194304	Value	ValueOutput
+Fx 6 Routing	0	4194304	Value	ValueOutput
+Delay Mod 6 Wet	0	4194304	Value	ValueOutput
+Delay Mod 6 Time	0	4194304	Value	ValueOutput
+Delay Mod 6 Sync	0	4194304	Value	ValueOutput
+Delay Mod 6 Feedback	0	4194304	Value	ValueOutput
+Delay Mod 6 Cut Lo	0	4194304	Value	ValueOutput
+Delay Mod 6 Cut Hi	0	4194304	Value	ValueOutput
+Delay Mod 6 Rate	0	4194304	Value	ValueOutput
+Delay Mod 6 Rate Sync	0	4194304	Value	ValueOutput
+Delay Mod 6 Depth	0	4194304	Value	ValueOutput
+Delay Mod 6 Stereo	0	4194304	Value	ValueOutput
+Chorus 1 6 Wet	0	4194304	Value	ValueOutput
+Chorus 1 6 Time	0	4194304	Value	ValueOutput
+Chorus 1 6 Time Spread	0	4194304	Value	ValueOutput
+Chorus 1 6 Rate	0	4194304	Value	ValueOutput
+Chorus 1 6 Rate Spread	0	4194304	Value	ValueOutput
+Chorus 1 6 Inverse	0	4194304	Value	ValueOutput
+Chorus 1 6 Pan	0	4194304	Value	ValueOutput
+Chorus 1 6 Stereo	0	4194304	Value	ValueOutput
+Chorus 2 6 Wet	0	4194304	Value	ValueOutput
+Chorus 2 6 Time	0	4194304	Value	ValueOutput
+Chorus 2 6 Rate	0	4194304	Value	ValueOutput
+Chorus 2 6 Stereo	0	4194304	Value	ValueOutput
+Phaser 6 Wet	0	4194304	Value	ValueOutput
+Phaser 6 Rate	0	4194304	Value	ValueOutput
+Phaser 6 Rate Sync	0	4194304	Value	ValueOutput
+Phaser 6 Depth	0	4194304	Value	ValueOutput
+Phaser 6 Center	0	4194304	Value	ValueOutput
+Phaser 6 Feedback	0	4194304	Value	ValueOutput
+Phaser 6 Inverse	0	4194304	Value	ValueOutput
+Phaser 6 Stages	0	4194304	Value	ValueOutput
+Phaser 6 Stereo	0	4194304	Value	ValueOutput
+Filter 6 Wet	0	4194304	Value	ValueOutput
+Filter 6 Saturation	0	4194304	Value	ValueOutput
+Filter 6 Type(Fx)	0	4194304	Value	ValueOutput
+Filter 6 Cutoff(Fx)	0	4194304	Value	ValueOutput
+Filter 6 Reson(Fx)	0	4194304	Value	ValueOutput
+Filter 6 Mod Rate	0	4194304	Value	ValueOutput
+Filter 6 Mod Sync	0	4194304	Value	ValueOutput
+Filter 6 Mod Depth	0	4194304	Value	ValueOutput
+Filter 6 Level(Fx)	0	4194304	Value	ValueOutput
+Reverb 6 Wet	0	4194304	Value	ValueOutput
+Reverb 6 Room	0	4194304	Value	ValueOutput
+Reverb 6 Damp	0	4194304	Value	ValueOutput
+Reverb 6 Pre-Delay	0	4194304	Value	ValueOutput
+Reverb 6 Pre-D Sync	0	4194304	Value	ValueOutput
+Reverb 6 Modulation	0	4194304	Value	ValueOutput
+Reverb 6 Mod On/Off	0	4194304	Value	ValueOutput
+Delay St 6 Wet	0	4194304	Value	ValueOutput
+Delay St 6 Stereo	0	4194304	Value	ValueOutput
+Delay St 6 Time Left	0	4194304	Value	ValueOutput
+Delay St 6 Sync Left	0	4194304	Value	ValueOutput
+Delay St 6 Time Right	0	4194304	Value	ValueOutput
+Delay St 6 Sync Right	0	4194304	Value	ValueOutput
+Delay St 6 Feedback	0	4194304	Value	ValueOutput
+Delay St 6 Filter HP	0	4194304	Value	ValueOutput
+Delay St 6 Filter LP	0	4194304	Value	ValueOutput
+Delay St 6 Fil in Fb	0	4194304	Value	ValueOutput
+Delay St 6 Fade Link	0	4194304	Value	ValueOutput
+Delay PP 6 Wet	0	4194304	Value	ValueOutput
+Delay PP 6 Time Cen	0	4194304	Value	ValueOutput
+Delay PP 6 Sync Cen	0	4194304	Value	ValueOutput
+Delay PP 6 Balance	0	4194304	Value	ValueOutput
+Delay PP 6 Time Left	0	4194304	Value	ValueOutput
+Delay PP 6 Sync Left	0	4194304	Value	ValueOutput
+Delay PP 6 Time Right	0	4194304	Value	ValueOutput
+Delay PP 6 Sync Right	0	4194304	Value	ValueOutput
+Delay PP 6 Feedback	0	4194304	Value	ValueOutput
+Delay PP 6 Pan Left	0	4194304	Value	ValueOutput
+Delay PP 6 Pan Right	0	4194304	Value	ValueOutput
+Delay PP 6 Feedback Mode	0	4194304	Value	ValueOutput
+EQ 6 Wet	0	4194304	Value	ValueOutput
+EQ 6 Freq 1	0	4194304	Value	ValueOutput
+EQ 6 Gain 1	0	4194304	Value	ValueOutput
+EQ 6 Q 1	0	4194304	Value	ValueOutput
+EQ 6 Freq 2	0	4194304	Value	ValueOutput
+EQ 6 Gain 2	0	4194304	Value	ValueOutput
+EQ 6 Q 2	0	4194304	Value	ValueOutput
+Compressor 6 Wet	0	4194304	Value	ValueOutput
+Compressor 6 Ratio	0	4194304	Value	ValueOutput
+Compressor 6 Threshold	0	4194304	Value	ValueOutput
+Compressor 6 Attack	0	4194304	Value	ValueOutput
+Compressor 6 Release	0	4194304	Value	ValueOutput
+Compressor 6 Volume	0	4194304	Value	ValueOutput
+WahWah 6 Wet	0	4194304	Value	ValueOutput
+WahWah 6 Cutoff	0	4194304	Value	ValueOutput
+WahWah 6 Resonance	0	4194304	Value	ValueOutput
+WahWah 6 Sensivity	0	4194304	Value	ValueOutput
+WahWah 6 Attack	0	4194304	Value	ValueOutput
+WahWah 6 Release	0	4194304	Value	ValueOutput
+WahWah 6 Volume	0	4194304	Value	ValueOutput
+Flanger 6 Wet	0	4194304	Value	ValueOutput
+Flanger 6 Time	0	4194304	Value	ValueOutput
+Flanger 6 Feedback	0	4194304	Value	ValueOutput
+Flanger 6 Inv. FB	0	4194304	Value	ValueOutput
+Flanger 6 Stereo	0	4194304	Value	ValueOutput
+Flanger 6 Rate	0	4194304	Value	ValueOutput
+Flanger 6 Rate Sync	0	4194304	Value	ValueOutput
+Flanger 6 Mod Depth	0	4194304	Value	ValueOutput
+Flanger 6 Pan Depth	0	4194304	Value	ValueOutput
+Gator 6 Wet	0	4194304	Value	ValueOutput
+Gator 6 Left	0	4194304	Value	ValueOutput
+Gator 6 Right	0	4194304	Value	ValueOutput
+Gator 6 Sync	0	4194304	Value	ValueOutput
+Gator 6 Smooth	0	4194304	Value	ValueOutput
+Gator 6 Link	0	4194304	Value	ValueOutput
+Crush 6 Wet	0	4194304	Value	ValueOutput
+Crush 6 Bits	0	4194304	Value	ValueOutput
+Crush 6 Divider	0	4194304	Value	ValueOutput
+Crush 6 Mode	0	4194304	Value	ValueOutput
+Crush 6 Filter	0	4194304	Value	ValueOutput
+Crush 6 Cutoff	0	4194304	Value	ValueOutput
+Crush 6 Reso	0	4194304	Value	ValueOutput
+Crush 6 Fil.Post	0	4194304	Value	ValueOutput
+Crush 6 Fil.Auto	0	4194304	Value	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+Glide Sync	0	4194304	Value	ValueOutput
+Glide Curve	0	4194304	Value	ValueOutput
+Glide Time/Rate	0	4194304	Value	ValueOutput
+Glide Mode	0	4194304	Value	ValueOutput
+Glide to Pitch	0	4194304	Value	ValueOutput
+Glide to Pitch	0	4194304	Value	ValueOutput
+Glide to Pitch	0	4194304	Value	ValueOutput
+Glide to Pitch	0	4194304	Value	ValueOutput
+Glide to Cutoff	0	4194304	Value	ValueOutput
+Glide to Cutoff	0	4194304	Value	ValueOutput
+Glide to Cutoff	0	4194304	Value	ValueOutput
+Glide to Cutoff	0	4194304	Value	ValueOutput
+Glide Note Source	0	4194304	Value	ValueOutput
+Glide Velocity	0	4194304	Value	ValueOutput
+Glide Alternate Source	0	4194304	Value	ValueOutput
+Glide Random Source	0	4194304	Value	ValueOutput
+Glide Bend	0	4194304	Value	ValueOutput
+MasEQ On	0	4194304	Value	ValueOutput
+MasEQ Low Freq	0	4194304	Value	ValueOutput
+MasEQ Low Stages	0	4194304	Value	ValueOutput
+MasEQ Freq 1	0	4194304	Value	ValueOutput
+MasEQ Gain 1	0	4194304	Value	ValueOutput
+MasEQ Q 1	0	4194304	Value	ValueOutput
+MasEQ Freq 2	0	4194304	Value	ValueOutput
+MasEQ Gain 2	0	4194304	Value	ValueOutput
+MasEQ Q 2	0	4194304	Value	ValueOutput
+MasEQ Hi Freq	0	4194304	Value	ValueOutput
+MasEQ Hi Stages	0	4194304	Value	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Velocity to Volume	0	4194304	Value	ValueOutput
+Precision	0	4194304	Value	ValueOutput
+Voices	0	4194304	Value	ValueOutput
+Arp Swing	0	4194304	Value	ValueOutput
+Arp Velocity	0	4194304	Value	ValueOutput
+hidden/reserved	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

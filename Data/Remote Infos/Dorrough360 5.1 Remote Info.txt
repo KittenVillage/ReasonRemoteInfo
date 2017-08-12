@@ -1,0 +1,37 @@
+Scope
+Manufacturer	Model
+Waves	vst.DRG6.WaveShell-VST 9_91_x64.Dorrough360 5_1
+Note: Will match scope definitions for vst.DRG6.WaveShell-VST 9_91_x64.Dorrough360 5_1 or vst.DRG6
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Display Style	0	4194304	Value	ValueOutput
+Display Size	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Peak Auto	0	4194304	Value	ValueOutput
+Peak Hold	0	4194304	Value	ValueOutput
+Peak Reset	0	4194304	Value	ValueOutput
+Overs Display	0	4194304	Value	ValueOutput
+Overs Reset	0	4194304	Value	ValueOutput
+Sum/Diff and Phase Mode	0	4194304	Value	ValueOutput
+Surround Format	0	4194304	Value	ValueOutput
+SumDiff1	0	4194304	Value	ValueOutput
+SumDiff2	0	4194304	Value	ValueOutput
+Phase1	0	4194304	Value	ValueOutput
+Phase2	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

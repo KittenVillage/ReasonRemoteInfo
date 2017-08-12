@@ -1,0 +1,44 @@
+Scope
+Manufacturer	Model
+DlogB	org.dlogb.SplitterEffect
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Lo Band Compressor Ratio	0	4194304	Value	ValueOutput
+Lo Band Threshold	0	4194304	Value	ValueOutput
+Lo Band Sharpness	0	4194304	Value	ValueOutput
+Lo Band Attack	0	4194304	Value	ValueOutput
+Lo Band Release	0	4194304	Value	ValueOutput
+Lo Band Gain	0	4194304	Value	ValueOutput
+Lo Band Bypass	0	1	Toggle	ValueOutput
+Lo Band Solo	0	1	Toggle	ValueOutput
+Lo Band Sidechain Ignore	0	1	Toggle	ValueOutput
+Mid Band Compressor Ratio	0	4194304	Value	ValueOutput
+Mid Band Threshold	0	4194304	Value	ValueOutput
+Mid Band Sharpness	0	4194304	Value	ValueOutput
+Mid Band Attack	0	4194304	Value	ValueOutput
+Mid Band Release	0	4194304	Value	ValueOutput
+Mid Band Gain	0	4194304	Value	ValueOutput
+Mid Band Bypass	0	1	Toggle	ValueOutput
+Mid Band Solo	0	1	Toggle	ValueOutput
+Mid Band Sidechain Ignore	0	1	Toggle	ValueOutput
+Hi Band Compressor Ratio	0	4194304	Value	ValueOutput
+Hi Band Threshold	0	4194304	Value	ValueOutput
+Hi Band Sharpness	0	4194304	Value	ValueOutput
+Hi Band Attack	0	4194304	Value	ValueOutput
+Hi Band Release	0	4194304	Value	ValueOutput
+Hi Band Gain	0	4194304	Value	ValueOutput
+Hi Band Bypass	0	1	Toggle	ValueOutput
+Hi Band Solo	0	1	Toggle	ValueOutput
+Hi Band Sidechain Ignore	0	1	Toggle	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Lo/Mid Frequency	0	4194304	Value	ValueOutput
+Mid/Hi Frequency	0	4194304	Value	ValueOutput
+Lo/Mid Filter Type	0	3	Value	ValueOutput
+Mid/Hi Filter Type	0	3	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

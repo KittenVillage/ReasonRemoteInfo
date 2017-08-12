@@ -1,0 +1,326 @@
+Scope
+Manufacturer	Model
+Propellerheads	ReGroove Mixer
+
+Remotable	Min	Max	Input type	Output type
+Pattern Shuffle	0	127	Value	ValueOutput
+A1 Groove Ch On	0	1	Toggle	ValueOutput
+A1 Patch Name	0	0	-	TextOutput
+A1 Select Patch	0	0	Delta	TextOutput
+A1 Select Next Patch	0	0	Trig	TextOutput
+A1 Select Previous Patch	0	0	Trig	TextOutput
+A1 Groove Amount	0	100	Value	ValueOutput
+A1 Slide	-120	120	Value	ValueOutput
+A1 Shuffle	25	75	Value	ValueOutput
+A1 Pre-Align	0	1	Toggle	ValueOutput
+A1 Use Global Shuffle	0	1	Toggle	ValueOutput
+A2 Groove Ch On	0	1	Toggle	ValueOutput
+A2 Patch Name	0	0	-	TextOutput
+A2 Select Patch	0	0	Delta	TextOutput
+A2 Select Next Patch	0	0	Trig	TextOutput
+A2 Select Previous Patch	0	0	Trig	TextOutput
+A2 Groove Amount	0	100	Value	ValueOutput
+A2 Slide	-120	120	Value	ValueOutput
+A2 Shuffle	25	75	Value	ValueOutput
+A2 Pre-Align	0	1	Toggle	ValueOutput
+A2 Use Global Shuffle	0	1	Toggle	ValueOutput
+A3 Groove Ch On	0	1	Toggle	ValueOutput
+A3 Patch Name	0	0	-	TextOutput
+A3 Select Patch	0	0	Delta	TextOutput
+A3 Select Next Patch	0	0	Trig	TextOutput
+A3 Select Previous Patch	0	0	Trig	TextOutput
+A3 Groove Amount	0	100	Value	ValueOutput
+A3 Slide	-120	120	Value	ValueOutput
+A3 Shuffle	25	75	Value	ValueOutput
+A3 Pre-Align	0	1	Toggle	ValueOutput
+A3 Use Global Shuffle	0	1	Toggle	ValueOutput
+A4 Groove Ch On	0	1	Toggle	ValueOutput
+A4 Patch Name	0	0	-	TextOutput
+A4 Select Patch	0	0	Delta	TextOutput
+A4 Select Next Patch	0	0	Trig	TextOutput
+A4 Select Previous Patch	0	0	Trig	TextOutput
+A4 Groove Amount	0	100	Value	ValueOutput
+A4 Slide	-120	120	Value	ValueOutput
+A4 Shuffle	25	75	Value	ValueOutput
+A4 Pre-Align	0	1	Toggle	ValueOutput
+A4 Use Global Shuffle	0	1	Toggle	ValueOutput
+A5 Groove Ch On	0	1	Toggle	ValueOutput
+A5 Patch Name	0	0	-	TextOutput
+A5 Select Patch	0	0	Delta	TextOutput
+A5 Select Next Patch	0	0	Trig	TextOutput
+A5 Select Previous Patch	0	0	Trig	TextOutput
+A5 Groove Amount	0	100	Value	ValueOutput
+A5 Slide	-120	120	Value	ValueOutput
+A5 Shuffle	25	75	Value	ValueOutput
+A5 Pre-Align	0	1	Toggle	ValueOutput
+A5 Use Global Shuffle	0	1	Toggle	ValueOutput
+A6 Groove Ch On	0	1	Toggle	ValueOutput
+A6 Patch Name	0	0	-	TextOutput
+A6 Select Patch	0	0	Delta	TextOutput
+A6 Select Next Patch	0	0	Trig	TextOutput
+A6 Select Previous Patch	0	0	Trig	TextOutput
+A6 Groove Amount	0	100	Value	ValueOutput
+A6 Slide	-120	120	Value	ValueOutput
+A6 Shuffle	25	75	Value	ValueOutput
+A6 Pre-Align	0	1	Toggle	ValueOutput
+A6 Use Global Shuffle	0	1	Toggle	ValueOutput
+A7 Groove Ch On	0	1	Toggle	ValueOutput
+A7 Patch Name	0	0	-	TextOutput
+A7 Select Patch	0	0	Delta	TextOutput
+A7 Select Next Patch	0	0	Trig	TextOutput
+A7 Select Previous Patch	0	0	Trig	TextOutput
+A7 Groove Amount	0	100	Value	ValueOutput
+A7 Slide	-120	120	Value	ValueOutput
+A7 Shuffle	25	75	Value	ValueOutput
+A7 Pre-Align	0	1	Toggle	ValueOutput
+A7 Use Global Shuffle	0	1	Toggle	ValueOutput
+A8 Groove Ch On	0	1	Toggle	ValueOutput
+A8 Patch Name	0	0	-	TextOutput
+A8 Select Patch	0	0	Delta	TextOutput
+A8 Select Next Patch	0	0	Trig	TextOutput
+A8 Select Previous Patch	0	0	Trig	TextOutput
+A8 Groove Amount	0	100	Value	ValueOutput
+A8 Slide	-120	120	Value	ValueOutput
+A8 Shuffle	25	75	Value	ValueOutput
+A8 Pre-Align	0	1	Toggle	ValueOutput
+A8 Use Global Shuffle	0	1	Toggle	ValueOutput
+B1 Groove Ch On	0	1	Toggle	ValueOutput
+B1 Patch Name	0	0	-	TextOutput
+B1 Select Patch	0	0	Delta	TextOutput
+B1 Select Next Patch	0	0	Trig	TextOutput
+B1 Select Previous Patch	0	0	Trig	TextOutput
+B1 Groove Amount	0	100	Value	ValueOutput
+B1 Slide	-120	120	Value	ValueOutput
+B1 Shuffle	25	75	Value	ValueOutput
+B1 Pre-Align	0	1	Toggle	ValueOutput
+B1 Use Global Shuffle	0	1	Toggle	ValueOutput
+B2 Groove Ch On	0	1	Toggle	ValueOutput
+B2 Patch Name	0	0	-	TextOutput
+B2 Select Patch	0	0	Delta	TextOutput
+B2 Select Next Patch	0	0	Trig	TextOutput
+B2 Select Previous Patch	0	0	Trig	TextOutput
+B2 Groove Amount	0	100	Value	ValueOutput
+B2 Slide	-120	120	Value	ValueOutput
+B2 Shuffle	25	75	Value	ValueOutput
+B2 Pre-Align	0	1	Toggle	ValueOutput
+B2 Use Global Shuffle	0	1	Toggle	ValueOutput
+B3 Groove Ch On	0	1	Toggle	ValueOutput
+B3 Patch Name	0	0	-	TextOutput
+B3 Select Patch	0	0	Delta	TextOutput
+B3 Select Next Patch	0	0	Trig	TextOutput
+B3 Select Previous Patch	0	0	Trig	TextOutput
+B3 Groove Amount	0	100	Value	ValueOutput
+B3 Slide	-120	120	Value	ValueOutput
+B3 Shuffle	25	75	Value	ValueOutput
+B3 Pre-Align	0	1	Toggle	ValueOutput
+B3 Use Global Shuffle	0	1	Toggle	ValueOutput
+B4 Groove Ch On	0	1	Toggle	ValueOutput
+B4 Patch Name	0	0	-	TextOutput
+B4 Select Patch	0	0	Delta	TextOutput
+B4 Select Next Patch	0	0	Trig	TextOutput
+B4 Select Previous Patch	0	0	Trig	TextOutput
+B4 Groove Amount	0	100	Value	ValueOutput
+B4 Slide	-120	120	Value	ValueOutput
+B4 Shuffle	25	75	Value	ValueOutput
+B4 Pre-Align	0	1	Toggle	ValueOutput
+B4 Use Global Shuffle	0	1	Toggle	ValueOutput
+B5 Groove Ch On	0	1	Toggle	ValueOutput
+B5 Patch Name	0	0	-	TextOutput
+B5 Select Patch	0	0	Delta	TextOutput
+B5 Select Next Patch	0	0	Trig	TextOutput
+B5 Select Previous Patch	0	0	Trig	TextOutput
+B5 Groove Amount	0	100	Value	ValueOutput
+B5 Slide	-120	120	Value	ValueOutput
+B5 Shuffle	25	75	Value	ValueOutput
+B5 Pre-Align	0	1	Toggle	ValueOutput
+B5 Use Global Shuffle	0	1	Toggle	ValueOutput
+B6 Groove Ch On	0	1	Toggle	ValueOutput
+B6 Patch Name	0	0	-	TextOutput
+B6 Select Patch	0	0	Delta	TextOutput
+B6 Select Next Patch	0	0	Trig	TextOutput
+B6 Select Previous Patch	0	0	Trig	TextOutput
+B6 Groove Amount	0	100	Value	ValueOutput
+B6 Slide	-120	120	Value	ValueOutput
+B6 Shuffle	25	75	Value	ValueOutput
+B6 Pre-Align	0	1	Toggle	ValueOutput
+B6 Use Global Shuffle	0	1	Toggle	ValueOutput
+B7 Groove Ch On	0	1	Toggle	ValueOutput
+B7 Patch Name	0	0	-	TextOutput
+B7 Select Patch	0	0	Delta	TextOutput
+B7 Select Next Patch	0	0	Trig	TextOutput
+B7 Select Previous Patch	0	0	Trig	TextOutput
+B7 Groove Amount	0	100	Value	ValueOutput
+B7 Slide	-120	120	Value	ValueOutput
+B7 Shuffle	25	75	Value	ValueOutput
+B7 Pre-Align	0	1	Toggle	ValueOutput
+B7 Use Global Shuffle	0	1	Toggle	ValueOutput
+B8 Groove Ch On	0	1	Toggle	ValueOutput
+B8 Patch Name	0	0	-	TextOutput
+B8 Select Patch	0	0	Delta	TextOutput
+B8 Select Next Patch	0	0	Trig	TextOutput
+B8 Select Previous Patch	0	0	Trig	TextOutput
+B8 Groove Amount	0	100	Value	ValueOutput
+B8 Slide	-120	120	Value	ValueOutput
+B8 Shuffle	25	75	Value	ValueOutput
+B8 Pre-Align	0	1	Toggle	ValueOutput
+B8 Use Global Shuffle	0	1	Toggle	ValueOutput
+C1 Groove Ch On	0	1	Toggle	ValueOutput
+C1 Patch Name	0	0	-	TextOutput
+C1 Select Patch	0	0	Delta	TextOutput
+C1 Select Next Patch	0	0	Trig	TextOutput
+C1 Select Previous Patch	0	0	Trig	TextOutput
+C1 Groove Amount	0	100	Value	ValueOutput
+C1 Slide	-120	120	Value	ValueOutput
+C1 Shuffle	25	75	Value	ValueOutput
+C1 Pre-Align	0	1	Toggle	ValueOutput
+C1 Use Global Shuffle	0	1	Toggle	ValueOutput
+C2 Groove Ch On	0	1	Toggle	ValueOutput
+C2 Patch Name	0	0	-	TextOutput
+C2 Select Patch	0	0	Delta	TextOutput
+C2 Select Next Patch	0	0	Trig	TextOutput
+C2 Select Previous Patch	0	0	Trig	TextOutput
+C2 Groove Amount	0	100	Value	ValueOutput
+C2 Slide	-120	120	Value	ValueOutput
+C2 Shuffle	25	75	Value	ValueOutput
+C2 Pre-Align	0	1	Toggle	ValueOutput
+C2 Use Global Shuffle	0	1	Toggle	ValueOutput
+C3 Groove Ch On	0	1	Toggle	ValueOutput
+C3 Patch Name	0	0	-	TextOutput
+C3 Select Patch	0	0	Delta	TextOutput
+C3 Select Next Patch	0	0	Trig	TextOutput
+C3 Select Previous Patch	0	0	Trig	TextOutput
+C3 Groove Amount	0	100	Value	ValueOutput
+C3 Slide	-120	120	Value	ValueOutput
+C3 Shuffle	25	75	Value	ValueOutput
+C3 Pre-Align	0	1	Toggle	ValueOutput
+C3 Use Global Shuffle	0	1	Toggle	ValueOutput
+C4 Groove Ch On	0	1	Toggle	ValueOutput
+C4 Patch Name	0	0	-	TextOutput
+C4 Select Patch	0	0	Delta	TextOutput
+C4 Select Next Patch	0	0	Trig	TextOutput
+C4 Select Previous Patch	0	0	Trig	TextOutput
+C4 Groove Amount	0	100	Value	ValueOutput
+C4 Slide	-120	120	Value	ValueOutput
+C4 Shuffle	25	75	Value	ValueOutput
+C4 Pre-Align	0	1	Toggle	ValueOutput
+C4 Use Global Shuffle	0	1	Toggle	ValueOutput
+C5 Groove Ch On	0	1	Toggle	ValueOutput
+C5 Patch Name	0	0	-	TextOutput
+C5 Select Patch	0	0	Delta	TextOutput
+C5 Select Next Patch	0	0	Trig	TextOutput
+C5 Select Previous Patch	0	0	Trig	TextOutput
+C5 Groove Amount	0	100	Value	ValueOutput
+C5 Slide	-120	120	Value	ValueOutput
+C5 Shuffle	25	75	Value	ValueOutput
+C5 Pre-Align	0	1	Toggle	ValueOutput
+C5 Use Global Shuffle	0	1	Toggle	ValueOutput
+C6 Groove Ch On	0	1	Toggle	ValueOutput
+C6 Patch Name	0	0	-	TextOutput
+C6 Select Patch	0	0	Delta	TextOutput
+C6 Select Next Patch	0	0	Trig	TextOutput
+C6 Select Previous Patch	0	0	Trig	TextOutput
+C6 Groove Amount	0	100	Value	ValueOutput
+C6 Slide	-120	120	Value	ValueOutput
+C6 Shuffle	25	75	Value	ValueOutput
+C6 Pre-Align	0	1	Toggle	ValueOutput
+C6 Use Global Shuffle	0	1	Toggle	ValueOutput
+C7 Groove Ch On	0	1	Toggle	ValueOutput
+C7 Patch Name	0	0	-	TextOutput
+C7 Select Patch	0	0	Delta	TextOutput
+C7 Select Next Patch	0	0	Trig	TextOutput
+C7 Select Previous Patch	0	0	Trig	TextOutput
+C7 Groove Amount	0	100	Value	ValueOutput
+C7 Slide	-120	120	Value	ValueOutput
+C7 Shuffle	25	75	Value	ValueOutput
+C7 Pre-Align	0	1	Toggle	ValueOutput
+C7 Use Global Shuffle	0	1	Toggle	ValueOutput
+C8 Groove Ch On	0	1	Toggle	ValueOutput
+C8 Patch Name	0	0	-	TextOutput
+C8 Select Patch	0	0	Delta	TextOutput
+C8 Select Next Patch	0	0	Trig	TextOutput
+C8 Select Previous Patch	0	0	Trig	TextOutput
+C8 Groove Amount	0	100	Value	ValueOutput
+C8 Slide	-120	120	Value	ValueOutput
+C8 Shuffle	25	75	Value	ValueOutput
+C8 Pre-Align	0	1	Toggle	ValueOutput
+C8 Use Global Shuffle	0	1	Toggle	ValueOutput
+D1 Groove Ch On	0	1	Toggle	ValueOutput
+D1 Patch Name	0	0	-	TextOutput
+D1 Select Patch	0	0	Delta	TextOutput
+D1 Select Next Patch	0	0	Trig	TextOutput
+D1 Select Previous Patch	0	0	Trig	TextOutput
+D1 Groove Amount	0	100	Value	ValueOutput
+D1 Slide	-120	120	Value	ValueOutput
+D1 Shuffle	25	75	Value	ValueOutput
+D1 Pre-Align	0	1	Toggle	ValueOutput
+D1 Use Global Shuffle	0	1	Toggle	ValueOutput
+D2 Groove Ch On	0	1	Toggle	ValueOutput
+D2 Patch Name	0	0	-	TextOutput
+D2 Select Patch	0	0	Delta	TextOutput
+D2 Select Next Patch	0	0	Trig	TextOutput
+D2 Select Previous Patch	0	0	Trig	TextOutput
+D2 Groove Amount	0	100	Value	ValueOutput
+D2 Slide	-120	120	Value	ValueOutput
+D2 Shuffle	25	75	Value	ValueOutput
+D2 Pre-Align	0	1	Toggle	ValueOutput
+D2 Use Global Shuffle	0	1	Toggle	ValueOutput
+D3 Groove Ch On	0	1	Toggle	ValueOutput
+D3 Patch Name	0	0	-	TextOutput
+D3 Select Patch	0	0	Delta	TextOutput
+D3 Select Next Patch	0	0	Trig	TextOutput
+D3 Select Previous Patch	0	0	Trig	TextOutput
+D3 Groove Amount	0	100	Value	ValueOutput
+D3 Slide	-120	120	Value	ValueOutput
+D3 Shuffle	25	75	Value	ValueOutput
+D3 Pre-Align	0	1	Toggle	ValueOutput
+D3 Use Global Shuffle	0	1	Toggle	ValueOutput
+D4 Groove Ch On	0	1	Toggle	ValueOutput
+D4 Patch Name	0	0	-	TextOutput
+D4 Select Patch	0	0	Delta	TextOutput
+D4 Select Next Patch	0	0	Trig	TextOutput
+D4 Select Previous Patch	0	0	Trig	TextOutput
+D4 Groove Amount	0	100	Value	ValueOutput
+D4 Slide	-120	120	Value	ValueOutput
+D4 Shuffle	25	75	Value	ValueOutput
+D4 Pre-Align	0	1	Toggle	ValueOutput
+D4 Use Global Shuffle	0	1	Toggle	ValueOutput
+D5 Groove Ch On	0	1	Toggle	ValueOutput
+D5 Patch Name	0	0	-	TextOutput
+D5 Select Patch	0	0	Delta	TextOutput
+D5 Select Next Patch	0	0	Trig	TextOutput
+D5 Select Previous Patch	0	0	Trig	TextOutput
+D5 Groove Amount	0	100	Value	ValueOutput
+D5 Slide	-120	120	Value	ValueOutput
+D5 Shuffle	25	75	Value	ValueOutput
+D5 Pre-Align	0	1	Toggle	ValueOutput
+D5 Use Global Shuffle	0	1	Toggle	ValueOutput
+D6 Groove Ch On	0	1	Toggle	ValueOutput
+D6 Patch Name	0	0	-	TextOutput
+D6 Select Patch	0	0	Delta	TextOutput
+D6 Select Next Patch	0	0	Trig	TextOutput
+D6 Select Previous Patch	0	0	Trig	TextOutput
+D6 Groove Amount	0	100	Value	ValueOutput
+D6 Slide	-120	120	Value	ValueOutput
+D6 Shuffle	25	75	Value	ValueOutput
+D6 Pre-Align	0	1	Toggle	ValueOutput
+D6 Use Global Shuffle	0	1	Toggle	ValueOutput
+D7 Groove Ch On	0	1	Toggle	ValueOutput
+D7 Patch Name	0	0	-	TextOutput
+D7 Select Patch	0	0	Delta	TextOutput
+D7 Select Next Patch	0	0	Trig	TextOutput
+D7 Select Previous Patch	0	0	Trig	TextOutput
+D7 Groove Amount	0	100	Value	ValueOutput
+D7 Slide	-120	120	Value	ValueOutput
+D7 Shuffle	25	75	Value	ValueOutput
+D7 Pre-Align	0	1	Toggle	ValueOutput
+D7 Use Global Shuffle	0	1	Toggle	ValueOutput
+D8 Groove Ch On	0	1	Toggle	ValueOutput
+D8 Patch Name	0	0	-	TextOutput
+D8 Select Patch	0	0	Delta	TextOutput
+D8 Select Next Patch	0	0	Trig	TextOutput
+D8 Select Previous Patch	0	0	Trig	TextOutput
+D8 Groove Amount	0	100	Value	ValueOutput
+D8 Slide	-120	120	Value	ValueOutput
+D8 Shuffle	25	75	Value	ValueOutput
+D8 Pre-Align	0	1	Toggle	ValueOutput
+D8 Use Global Shuffle	0	1	Toggle	ValueOutput

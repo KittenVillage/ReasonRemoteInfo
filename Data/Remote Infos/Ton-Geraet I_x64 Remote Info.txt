@@ -1,0 +1,120 @@
+Scope
+Manufacturer	Model
+SyS Audioresearch	vst.48sl.Ton-Geraet I_x64
+Note: Will match scope definitions for vst.48sl.Ton-Geraet I_x64 or vst.48sl
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+VC1 Fre	0	4194304	Value	ValueOutput
+VC1 Oct	0	4194304	Value	ValueOutput
+VC1 Fin	0	4194304	Value	ValueOutput
+VC1 Lvl	0	4194304	Value	ValueOutput
+VE1 Del	0	4194304	Value	ValueOutput
+VE1 Att	0	4194304	Value	ValueOutput
+VE1 Dec	0	4194304	Value	ValueOutput
+VE1 Sus	0	4194304	Value	ValueOutput
+VE1 Rel	0	4194304	Value	ValueOutput
+Mo1 Pat	0	4194304	Value	ValueOutput
+Mo1 St1	0	4194304	Value	ValueOutput
+Mo1 St2	0	4194304	Value	ValueOutput
+Mo1 St3	0	4194304	Value	ValueOutput
+Mo1 St4	0	4194304	Value	ValueOutput
+Mo1 St5	0	4194304	Value	ValueOutput
+Mo1 St6	0	4194304	Value	ValueOutput
+Mo1 St7	0	4194304	Value	ValueOutput
+Mo1 St8	0	4194304	Value	ValueOutput
+Mo1 Spd	0	4194304	Value	ValueOutput
+Mo1 Snc	0	4194304	Value	ValueOutput
+Mo1 Png	0	4194304	Value	ValueOutput
+Mo1 Rtg	0	4194304	Value	ValueOutput
+MF1 Wav	0	4194304	Value	ValueOutput
+MF1 Spd	0	4194304	Value	ValueOutput
+MF1 Scl	0	4194304	Value	ValueOutput
+MM1 Rat	0	4194304	Value	ValueOutput
+MM1 Wav	0	4194304	Value	ValueOutput
+MM1 Scl	0	4194304	Value	ValueOutput
+MF1 Snc	0	4194304	Value	ValueOutput
+MF1 Rtg	0	4194304	Value	ValueOutput
+ME1 Act	0	4194304	Value	ValueOutput
+ME1 Del	0	4194304	Value	ValueOutput
+ME1 Att	0	4194304	Value	ValueOutput
+ME1 Dec	0	4194304	Value	ValueOutput
+ME1 Sus	0	4194304	Value	ValueOutput
+ME1 Rel	0	4194304	Value	ValueOutput
+FF1 Cut	0	4194304	Value	ValueOutput
+FF1 Vel	0	4194304	Value	ValueOutput
+FM1 LFO	0	4194304	Value	ValueOutput
+FM1 Scl	0	4194304	Value	ValueOutput
+FM1 Rtg	0	4194304	Value	ValueOutput
+FM1 Snc	0	4194304	Value	ValueOutput
+FE1 Act	0	4194304	Value	ValueOutput
+FE1 Del	0	4194304	Value	ValueOutput
+FE1 Att	0	4194304	Value	ValueOutput
+FE1 Dec	0	4194304	Value	ValueOutput
+FE1 Sus	0	4194304	Value	ValueOutput
+FE1 Rel	0	4194304	Value	ValueOutput
+VC2 Fre	0	4194304	Value	ValueOutput
+VC2 Oct	0	4194304	Value	ValueOutput
+VC2 Fin	0	4194304	Value	ValueOutput
+VC2 Lvl	0	4194304	Value	ValueOutput
+VE2 Del	0	4194304	Value	ValueOutput
+VE2 Att	0	4194304	Value	ValueOutput
+VE2 Dec	0	4194304	Value	ValueOutput
+VE2 Sus	0	4194304	Value	ValueOutput
+VE2 Rel	0	4194304	Value	ValueOutput
+Mo2 Pat	0	4194304	Value	ValueOutput
+Mo2 St1	0	4194304	Value	ValueOutput
+Mo2 St2	0	4194304	Value	ValueOutput
+Mo2 St3	0	4194304	Value	ValueOutput
+Mo2 St4	0	4194304	Value	ValueOutput
+Mo2 St5	0	4194304	Value	ValueOutput
+Mo2 St6	0	4194304	Value	ValueOutput
+Mo2 St7	0	4194304	Value	ValueOutput
+Mo2 St8	0	4194304	Value	ValueOutput
+Mo2 Spd	0	4194304	Value	ValueOutput
+Mo2 Snc	0	4194304	Value	ValueOutput
+Mo2 Png	0	4194304	Value	ValueOutput
+Mo2 Rtg	0	4194304	Value	ValueOutput
+MF2 Wav	0	4194304	Value	ValueOutput
+MF2 Spd	0	4194304	Value	ValueOutput
+MF2 Scl	0	4194304	Value	ValueOutput
+MM2 Rat	0	4194304	Value	ValueOutput
+MM2 Wav	0	4194304	Value	ValueOutput
+MM2 Scl	0	4194304	Value	ValueOutput
+MF2 Snc	0	4194304	Value	ValueOutput
+MF2 Rtg	0	4194304	Value	ValueOutput
+ME2 Act	0	4194304	Value	ValueOutput
+ME2 Del	0	4194304	Value	ValueOutput
+ME2 Att	0	4194304	Value	ValueOutput
+ME2 Dec	0	4194304	Value	ValueOutput
+ME2 Sus	0	4194304	Value	ValueOutput
+ME2 Rel	0	4194304	Value	ValueOutput
+FF2 Cut	0	4194304	Value	ValueOutput
+FF2 Vel	0	4194304	Value	ValueOutput
+FM2 LFO	0	4194304	Value	ValueOutput
+FM2 Scl	0	4194304	Value	ValueOutput
+FM2 Rtg	0	4194304	Value	ValueOutput
+FM2 Snc	0	4194304	Value	ValueOutput
+FE2 Act	0	4194304	Value	ValueOutput
+FE2 Del	0	4194304	Value	ValueOutput
+FE2 Att	0	4194304	Value	ValueOutput
+FE2 Dec	0	4194304	Value	ValueOutput
+FE2 Sus	0	4194304	Value	ValueOutput
+FE2 Rel	0	4194304	Value	ValueOutput
+MIX Mod	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

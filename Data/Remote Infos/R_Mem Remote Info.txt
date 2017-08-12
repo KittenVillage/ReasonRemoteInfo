@@ -1,0 +1,97 @@
+Scope
+Manufacturer	Model
+Inear_Display	vst.RMid.R_Mem
+Note: Will match scope definitions for vst.RMid.R_Mem or vst.RMid
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Size	0	4194304	Value	ValueOutput
+Ratio	0	4194304	Value	ValueOutput
+Window	0	4194304	Value	ValueOutput
+Repeats	0	4194304	Value	ValueOutput
+Freeze	0	4194304	Value	ValueOutput
+Level Jitter	0	4194304	Value	ValueOutput
+Size Jitter	0	4194304	Value	ValueOutput
+Ratio Jitter	0	4194304	Value	ValueOutput
+Jitter Rate	0	4194304	Value	ValueOutput
+Density	0	4194304	Value	ValueOutput
+Frequency	0	4194304	Value	ValueOutput
+Ring Amount	0	4194304	Value	ValueOutput
+Filter	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Time	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Wave	0	4194304	Value	ValueOutput
+Rate	0	4194304	Value	ValueOutput
+Wave	0	4194304	Value	ValueOutput
+Rate	0	4194304	Value	ValueOutput
+Wave	0	4194304	Value	ValueOutput
+Rate	0	4194304	Value	ValueOutput
+Wave	0	4194304	Value	ValueOutput
+Rate	0	4194304	Value	ValueOutput
+SizeMod1	0	4194304	Value	ValueOutput
+SizeMod2	0	4194304	Value	ValueOutput
+SizeMod3	0	4194304	Value	ValueOutput
+SizeMod4	0	4194304	Value	ValueOutput
+SizeModDepth	0	4194304	Value	ValueOutput
+RatioMod1	0	4194304	Value	ValueOutput
+RatioMod2	0	4194304	Value	ValueOutput
+RatioMod3	0	4194304	Value	ValueOutput
+RatioMod4	0	4194304	Value	ValueOutput
+RatioModDepth	0	4194304	Value	ValueOutput
+RingmodMod1	0	4194304	Value	ValueOutput
+RingmodMod2	0	4194304	Value	ValueOutput
+RingmodMod3	0	4194304	Value	ValueOutput
+RingmodMod4	0	4194304	Value	ValueOutput
+RingmodModDepth	0	4194304	Value	ValueOutput
+CutoffMod1	0	4194304	Value	ValueOutput
+CutoffMod2	0	4194304	Value	ValueOutput
+CutoffMod3	0	4194304	Value	ValueOutput
+CutoffMod4	0	4194304	Value	ValueOutput
+CutoffModDepth	0	4194304	Value	ValueOutput
+Rate1Mod1	0	4194304	Value	ValueOutput
+Rate1Mod2	0	4194304	Value	ValueOutput
+Rate1Mod3	0	4194304	Value	ValueOutput
+Rate1Mod4	0	4194304	Value	ValueOutput
+Rate1ModDepth	0	4194304	Value	ValueOutput
+Rate2Mod1	0	4194304	Value	ValueOutput
+Rate2Mod2	0	4194304	Value	ValueOutput
+Rate2Mod3	0	4194304	Value	ValueOutput
+Rate2Mod4	0	4194304	Value	ValueOutput
+Rate2ModDepth	0	4194304	Value	ValueOutput
+Rate3Mod1	0	4194304	Value	ValueOutput
+Rate3Mod2	0	4194304	Value	ValueOutput
+Rate3Mod3	0	4194304	Value	ValueOutput
+Rate3Mod4	0	4194304	Value	ValueOutput
+Rate3ModDepth	0	4194304	Value	ValueOutput
+Rate4Mod1	0	4194304	Value	ValueOutput
+Rate4Mod2	0	4194304	Value	ValueOutput
+Rate4Mod3	0	4194304	Value	ValueOutput
+Rate4Mod4	0	4194304	Value	ValueOutput
+Rate4ModDepth	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Store A	0	4194304	Value	ValueOutput
+Store B	0	4194304	Value	ValueOutput
+Morph	0	4194304	Value	ValueOutput
+Random A	0	4194304	Value	ValueOutput
+Random B	0	4194304	Value	ValueOutput
+Matrix Reset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

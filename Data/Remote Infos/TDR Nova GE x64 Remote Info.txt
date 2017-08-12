@@ -1,0 +1,143 @@
+Scope
+Manufacturer	Model
+Tokyo Dawn Labs	vst.Td51.TDR Nova GE x64
+Note: Will match scope definitions for vst.Td51.TDR Nova GE x64 or vst.Td51
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Band 1 selected	0	4194304	Value	ValueOutput
+Band 1 Active	0	4194304	Value	ValueOutput
+Band 1 Gain	0	4194304	Value	ValueOutput
+Band 1 Q	0	4194304	Value	ValueOutput
+Band 1 Frequenc	0	4194304	Value	ValueOutput
+Band 1 Type	0	4194304	Value	ValueOutput
+Band SC 1 Q	0	4194304	Value	ValueOutput
+Band 1 SC Frequ	0	4194304	Value	ValueOutput
+Band 1 SC Type	0	4194304	Value	ValueOutput
+Band 1 Dyn	0	4194304	Value	ValueOutput
+Band 1 Threshol	0	4194304	Value	ValueOutput
+Band 1 Ratio	0	4194304	Value	ValueOutput
+Band 1 Split	0	4194304	Value	ValueOutput
+Band 1 Attack	0	4194304	Value	ValueOutput
+Band 1 Release 	0	4194304	Value	ValueOutput
+Band 1 Release	0	4194304	Value	ValueOutput
+Band 2 selected	0	4194304	Value	ValueOutput
+Band 2 Active	0	4194304	Value	ValueOutput
+Band 2 Gain	0	4194304	Value	ValueOutput
+Band 2 Q	0	4194304	Value	ValueOutput
+Band 2 Frequenc	0	4194304	Value	ValueOutput
+Band 2 Type	0	4194304	Value	ValueOutput
+Band SC 2 Q	0	4194304	Value	ValueOutput
+Band 2 SC Frequ	0	4194304	Value	ValueOutput
+Band 2 SC Type	0	4194304	Value	ValueOutput
+Band 2 Dyn	0	4194304	Value	ValueOutput
+Band 2 Threshol	0	4194304	Value	ValueOutput
+Band 2 Ratio	0	4194304	Value	ValueOutput
+Band 2 Split	0	4194304	Value	ValueOutput
+Band 2 Attack	0	4194304	Value	ValueOutput
+Band 2 Release 	0	4194304	Value	ValueOutput
+Band 2 Release	0	4194304	Value	ValueOutput
+Band 3 selected	0	4194304	Value	ValueOutput
+Band 3 Active	0	4194304	Value	ValueOutput
+Band 3 Gain	0	4194304	Value	ValueOutput
+Band 3 Q	0	4194304	Value	ValueOutput
+Band 3 Frequenc	0	4194304	Value	ValueOutput
+Band 3 Type	0	4194304	Value	ValueOutput
+Band SC 3 Q	0	4194304	Value	ValueOutput
+Band 3 SC Frequ	0	4194304	Value	ValueOutput
+Band 3 SC Type	0	4194304	Value	ValueOutput
+Band 3 Dyn	0	4194304	Value	ValueOutput
+Band 3 Threshol	0	4194304	Value	ValueOutput
+Band 3 Ratio	0	4194304	Value	ValueOutput
+Band 3 Split	0	4194304	Value	ValueOutput
+Band 3 Attack	0	4194304	Value	ValueOutput
+Band 3 Release 	0	4194304	Value	ValueOutput
+Band 3 Release	0	4194304	Value	ValueOutput
+Band 4 selected	0	4194304	Value	ValueOutput
+Band 4 Active	0	4194304	Value	ValueOutput
+Band 4 Gain	0	4194304	Value	ValueOutput
+Band 4 Q	0	4194304	Value	ValueOutput
+Band 4 Frequenc	0	4194304	Value	ValueOutput
+Band 4 Type	0	4194304	Value	ValueOutput
+Band SC 4 Q	0	4194304	Value	ValueOutput
+Band 4 SC Frequ	0	4194304	Value	ValueOutput
+Band 4 SC Type	0	4194304	Value	ValueOutput
+Band 4 Dyn	0	4194304	Value	ValueOutput
+Band 4 Threshol	0	4194304	Value	ValueOutput
+Band 4 Ratio	0	4194304	Value	ValueOutput
+Band 4 Split	0	4194304	Value	ValueOutput
+Band 4 Attack	0	4194304	Value	ValueOutput
+Band 4 Release 	0	4194304	Value	ValueOutput
+Band 4 Release	0	4194304	Value	ValueOutput
+Band 5 selected	0	4194304	Value	ValueOutput
+Band 5 Active	0	4194304	Value	ValueOutput
+Band 5 Gain	0	4194304	Value	ValueOutput
+Band 5 Q	0	4194304	Value	ValueOutput
+Band 5 Frequenc	0	4194304	Value	ValueOutput
+Band 5 Type	0	4194304	Value	ValueOutput
+Band SC 5 Q	0	4194304	Value	ValueOutput
+Band 5 SC Frequ	0	4194304	Value	ValueOutput
+Band 5 SC Type	0	4194304	Value	ValueOutput
+Band 5 Dyn	0	4194304	Value	ValueOutput
+Band 5 Threshol	0	4194304	Value	ValueOutput
+Band 5 Ratio	0	4194304	Value	ValueOutput
+Band 5 Split	0	4194304	Value	ValueOutput
+Band 5 Attack	0	4194304	Value	ValueOutput
+Band 5 Release 	0	4194304	Value	ValueOutput
+Band 5 Release	0	4194304	Value	ValueOutput
+Band 6 selected	0	4194304	Value	ValueOutput
+Band 6 Active	0	4194304	Value	ValueOutput
+Band 6 Gain	0	4194304	Value	ValueOutput
+Band 6 Q	0	4194304	Value	ValueOutput
+Band 6 Frequenc	0	4194304	Value	ValueOutput
+Band 6 Type	0	4194304	Value	ValueOutput
+Band SC 6 Q	0	4194304	Value	ValueOutput
+Band 6 SC Frequ	0	4194304	Value	ValueOutput
+Band 6 SC Type	0	4194304	Value	ValueOutput
+Band 6 Dyn	0	4194304	Value	ValueOutput
+Band 6 Threshol	0	4194304	Value	ValueOutput
+Band 6 Ratio	0	4194304	Value	ValueOutput
+Band 6 Split	0	4194304	Value	ValueOutput
+Band 6 Attack	0	4194304	Value	ValueOutput
+Band 6 Release 	0	4194304	Value	ValueOutput
+Band 6 Release	0	4194304	Value	ValueOutput
+HP Selected	0	4194304	Value	ValueOutput
+HP Active	0	4194304	Value	ValueOutput
+HP Frequency	0	4194304	Value	ValueOutput
+HP Type	0	4194304	Value	ValueOutput
+LP Selected	0	4194304	Value	ValueOutput
+LP Active	0	4194304	Value	ValueOutput
+LP Frequency	0	4194304	Value	ValueOutput
+LP Type	0	4194304	Value	ValueOutput
+Wide Band Gain	0	4194304	Value	ValueOutput
+Wide Band Dyn	0	4194304	Value	ValueOutput
+Wide Band Thres	0	4194304	Value	ValueOutput
+Wide Band Ratio	0	4194304	Value	ValueOutput
+Wide Band Attac	0	4194304	Value	ValueOutput
+Wide Band Relea	0	4194304	Value	ValueOutput
+Wide Band Relea	0	4194304	Value	ValueOutput
+Master bypass	0	4194304	Value	ValueOutput
+Dynamic delta	0	4194304	Value	ValueOutput
+Dry Mix	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+EQ Auto Gain	0	4194304	Value	ValueOutput
+Quality	0	4194304	Value	ValueOutput
+Channels	0	4194304	Value	ValueOutput
+Analyzer Mode	0	4194304	Value	ValueOutput
+Sidechain Mode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,48 @@
+Scope
+Manufacturer	Model
+GVST	vst.gyAv.GSnap
+Note: Will match scope definitions for vst.gyAv.GSnap or vst.gyAv
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+MinFreq	0	4194304	Value	ValueOutput
+MaxFreq	0	4194304	Value	ValueOutput
+Gate	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+CorThrsh	0	4194304	Value	ValueOutput
+CorAmt	0	4194304	Value	ValueOutput
+CorAtk	0	4194304	Value	ValueOutput
+CorRel	0	4194304	Value	ValueOutput
+Note00	0	4194304	Value	ValueOutput
+Note01	0	4194304	Value	ValueOutput
+Note02	0	4194304	Value	ValueOutput
+Note03	0	4194304	Value	ValueOutput
+Note04	0	4194304	Value	ValueOutput
+Note05	0	4194304	Value	ValueOutput
+Note06	0	4194304	Value	ValueOutput
+Note07	0	4194304	Value	ValueOutput
+Note08	0	4194304	Value	ValueOutput
+Note09	0	4194304	Value	ValueOutput
+Note10	0	4194304	Value	ValueOutput
+Note11	0	4194304	Value	ValueOutput
+MidiMode	0	4194304	Value	ValueOutput
+BendAmt	0	4194304	Value	ValueOutput
+VibAmt	0	4194304	Value	ValueOutput
+VibSpeed	0	4194304	Value	ValueOutput
+Calib	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

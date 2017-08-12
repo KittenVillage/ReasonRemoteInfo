@@ -1,0 +1,123 @@
+Scope
+Manufacturer	Model
+Robotic Bean	com.roboticbean.Euclid
+
+Remotable	Min	Max	Input type	Output type
+Mute 01	0	1	Toggle	ValueOutput
+Mute 02	0	1	Toggle	ValueOutput
+Mute 03	0	1	Toggle	ValueOutput
+Mute 04	0	1	Toggle	ValueOutput
+Mute 05	0	1	Toggle	ValueOutput
+Mute 06	0	1	Toggle	ValueOutput
+Mute 07	0	1	Toggle	ValueOutput
+Mute 08	0	1	Toggle	ValueOutput
+Mute 09	0	1	Toggle	ValueOutput
+Mute 10	0	1	Toggle	ValueOutput
+Mute 11	0	1	Toggle	ValueOutput
+Mute 12	0	1	Toggle	ValueOutput
+Mute 13	0	1	Toggle	ValueOutput
+Mute 14	0	1	Toggle	ValueOutput
+Mute 15	0	1	Toggle	ValueOutput
+Mute 16	0	1	Toggle	ValueOutput
+Mute 17	0	1	Toggle	ValueOutput
+Mute 18	0	1	Toggle	ValueOutput
+Mute 19	0	1	Toggle	ValueOutput
+Mute 20	0	1	Toggle	ValueOutput
+Mute 21	0	1	Toggle	ValueOutput
+Mute 22	0	1	Toggle	ValueOutput
+Mute 23	0	1	Toggle	ValueOutput
+Mute 24	0	1	Toggle	ValueOutput
+Mute 25	0	1	Toggle	ValueOutput
+Mute 26	0	1	Toggle	ValueOutput
+Mute 27	0	1	Toggle	ValueOutput
+Mute 28	0	1	Toggle	ValueOutput
+Mute 29	0	1	Toggle	ValueOutput
+Mute 30	0	1	Toggle	ValueOutput
+Mute 31	0	1	Toggle	ValueOutput
+Mute 32	0	1	Toggle	ValueOutput
+Velocity 01	0	4194304	Value	ValueOutput
+Velocity 02	0	4194304	Value	ValueOutput
+Velocity 03	0	4194304	Value	ValueOutput
+Velocity 04	0	4194304	Value	ValueOutput
+Velocity 05	0	4194304	Value	ValueOutput
+Velocity 06	0	4194304	Value	ValueOutput
+Velocity 07	0	4194304	Value	ValueOutput
+Velocity 08	0	4194304	Value	ValueOutput
+Velocity 09	0	4194304	Value	ValueOutput
+Velocity 10	0	4194304	Value	ValueOutput
+Velocity 11	0	4194304	Value	ValueOutput
+Velocity 12	0	4194304	Value	ValueOutput
+Velocity 13	0	4194304	Value	ValueOutput
+Velocity 14	0	4194304	Value	ValueOutput
+Velocity 15	0	4194304	Value	ValueOutput
+Velocity 16	0	4194304	Value	ValueOutput
+Velocity 17	0	4194304	Value	ValueOutput
+Velocity 18	0	4194304	Value	ValueOutput
+Velocity 19	0	4194304	Value	ValueOutput
+Velocity 20	0	4194304	Value	ValueOutput
+Velocity 21	0	4194304	Value	ValueOutput
+Velocity 22	0	4194304	Value	ValueOutput
+Velocity 23	0	4194304	Value	ValueOutput
+Velocity 24	0	4194304	Value	ValueOutput
+Velocity 25	0	4194304	Value	ValueOutput
+Velocity 26	0	4194304	Value	ValueOutput
+Velocity 27	0	4194304	Value	ValueOutput
+Velocity 28	0	4194304	Value	ValueOutput
+Velocity 29	0	4194304	Value	ValueOutput
+Velocity 30	0	4194304	Value	ValueOutput
+Velocity 31	0	4194304	Value	ValueOutput
+Velocity 32	0	4194304	Value	ValueOutput
+Manual Reset	0	1	Toggle	ValueOutput
+Algorithm	0	1	Toggle	ValueOutput
+Steps	0	32	Value	ValueOutput
+Density	0	4194304	Value	ValueOutput
+Offset	0	32	Value	ValueOutput
+Polyrhythmic Mode	0	1	Toggle	ValueOutput
+Resolution	0	8	Value	ValueOutput
+Polyrhythmic Resolution	0	19	Value	ValueOutput
+Slide	0	240	Value	ValueOutput
+Shuffle	0	4194304	Value	ValueOutput
+Shuffle Mode	0	2	Value	ValueOutput
+Gate Width	0	4194304	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+Enable Outputs	0	1	Toggle	ValueOutput
+Pitch	0	127	Value	ValueOutput
+Current Step	0	31	-	ValueOutput
+Gate Lamp	0	1	-	ValueOutput
+Step 01	0	1	-	ValueOutput
+Step 02	0	1	-	ValueOutput
+Step 03	0	1	-	ValueOutput
+Step 04	0	1	-	ValueOutput
+Step 05	0	1	-	ValueOutput
+Step 06	0	1	-	ValueOutput
+Step 07	0	1	-	ValueOutput
+Step 08	0	1	-	ValueOutput
+Step 09	0	1	-	ValueOutput
+Step 10	0	1	-	ValueOutput
+Step 11	0	1	-	ValueOutput
+Step 12	0	1	-	ValueOutput
+Step 13	0	1	-	ValueOutput
+Step 14	0	1	-	ValueOutput
+Step 15	0	1	-	ValueOutput
+Step 16	0	1	-	ValueOutput
+Step 17	0	1	-	ValueOutput
+Step 18	0	1	-	ValueOutput
+Step 19	0	1	-	ValueOutput
+Step 20	0	1	-	ValueOutput
+Step 21	0	1	-	ValueOutput
+Step 22	0	1	-	ValueOutput
+Step 23	0	1	-	ValueOutput
+Step 24	0	1	-	ValueOutput
+Step 25	0	1	-	ValueOutput
+Step 26	0	1	-	ValueOutput
+Step 27	0	1	-	ValueOutput
+Step 28	0	1	-	ValueOutput
+Step 29	0	1	-	ValueOutput
+Step 30	0	1	-	ValueOutput
+Step 31	0	1	-	ValueOutput
+Step 32	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

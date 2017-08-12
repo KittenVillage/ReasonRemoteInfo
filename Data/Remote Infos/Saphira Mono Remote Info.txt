@@ -1,0 +1,68 @@
+Scope
+Manufacturer	Model
+Waves	vst.PRSM.WaveShell-VST 9_91_x64.Saphira Mono
+Note: Will match scope definitions for vst.PRSM.WaveShell-VST 9_91_x64.Saphira Mono or vst.PRSM
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Edge Send	0	4194304	Value	ValueOutput
+Edge Return	0	4194304	Value	ValueOutput
+Warmth Send	0	4194304	Value	ValueOutput
+Warmth Return	0	4194304	Value	ValueOutput
+Edge On/Off	0	4194304	Value	ValueOutput
+Warmth On/Off	0	4194304	Value	ValueOutput
+Harmonics Modes	0	4194304	Value	ValueOutput
+Tape Speed	0	4194304	Value	ValueOutput
+Tape Depth	0	4194304	Value	ValueOutput
+Tape Depth On/Off	0	4194304	Value	ValueOutput
+EQ Bypass	0	4194304	Value	ValueOutput
+Display	0	4194304	Value	ValueOutput
+Edge Band1 Gain	0	4194304	Value	ValueOutput
+Edge Band1 Freq	0	4194304	Value	ValueOutput
+Edge Band1 Type	0	4194304	Value	ValueOutput
+Edge Band1 On/Off	0	4194304	Value	ValueOutput
+Edge Band2 Gain	0	4194304	Value	ValueOutput
+Edge Band2 Freq	0	4194304	Value	ValueOutput
+Edge Band2 Q	0	4194304	Value	ValueOutput
+Edge Band2 On/Off	0	4194304	Value	ValueOutput
+Edge Band3 Gain	0	4194304	Value	ValueOutput
+Edge Band3 Freq	0	4194304	Value	ValueOutput
+Edge Band3 Q	0	4194304	Value	ValueOutput
+Edge Band3 On/Off	0	4194304	Value	ValueOutput
+Edge Band4 Gain	0	4194304	Value	ValueOutput
+Edge Band4 Freq	0	4194304	Value	ValueOutput
+Edge Band4 Type	0	4194304	Value	ValueOutput
+Edge Band4 On/Off	0	4194304	Value	ValueOutput
+Warmth Band1 Gain	0	4194304	Value	ValueOutput
+Warmth Band1 Freq	0	4194304	Value	ValueOutput
+Warmth Band1 Type	0	4194304	Value	ValueOutput
+Warmth Band1 On/Off	0	4194304	Value	ValueOutput
+Warmth Band2 Gain	0	4194304	Value	ValueOutput
+Warmth Band2 Freq	0	4194304	Value	ValueOutput
+Warmth Band2 Q	0	4194304	Value	ValueOutput
+Warmth Band2 On/Off	0	4194304	Value	ValueOutput
+Warmth Band3 Gain	0	4194304	Value	ValueOutput
+Warmth Band3 Freq	0	4194304	Value	ValueOutput
+Warmth Band3 Q	0	4194304	Value	ValueOutput
+Warmth Band3 On/Off	0	4194304	Value	ValueOutput
+Warmth Band4 Gain	0	4194304	Value	ValueOutput
+Warmth Band4 Freq	0	4194304	Value	ValueOutput
+Warmth Band4 Type	0	4194304	Value	ValueOutput
+Warmth Band4 On/Off	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

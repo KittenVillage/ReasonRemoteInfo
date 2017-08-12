@@ -1,0 +1,48 @@
+Scope
+Manufacturer	Model
+hyakken	vst.hy03.HY-Filter_x64
+Note: Will match scope definitions for vst.hy03.HY-Filter_x64 or vst.hy03
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+filter_menu	0	4194304	Value	ValueOutput
+tel_filter_char	0	4194304	Value	ValueOutput
+tel_noise	0	4194304	Value	ValueOutput
+tel_out_gain	0	4194304	Value	ValueOutput
+tel_out_mode	0	4194304	Value	ValueOutput
+tel_byp	0	4194304	Value	ValueOutput
+svf_filter_type	0	4194304	Value	ValueOutput
+svf_filter_cuto	0	4194304	Value	ValueOutput
+svf_filter_reso	0	4194304	Value	ValueOutput
+svf_env_amt	0	4194304	Value	ValueOutput
+svf_lfo_amt	0	4194304	Value	ValueOutput
+lfo rate	0	4194304	Value	ValueOutput
+lfo waveform	0	4194304	Value	ValueOutput
+formant vowel	0	4194304	Value	ValueOutput
+formant smooth	0	4194304	Value	ValueOutput
+formant q	0	4194304	Value	ValueOutput
+formant gain	0	4194304	Value	ValueOutput
+formant env amt	0	4194304	Value	ValueOutput
+formant lfo amt	0	4194304	Value	ValueOutput
+comb delay	0	4194304	Value	ValueOutput
+comb feedback	0	4194304	Value	ValueOutput
+comb tone	0	4194304	Value	ValueOutput
+comb env amt	0	4194304	Value	ValueOutput
+comb lfo amt	0	4194304	Value	ValueOutput
+output volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

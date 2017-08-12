@@ -1,0 +1,99 @@
+Scope
+Manufacturer	Model
+Native Instruments GmbH	vst.Ni%249.Passive EQ
+Note: Will match scope definitions for vst.Ni%249.Passive EQ or vst.Ni%249
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Low 1 On/Off	0	4194304	Value	ValueOutput
+L1 Gain	0	4194304	Value	ValueOutput
+L1 G.Mode	0	4194304	Value	ValueOutput
+L1 BW.Mode	0	4194304	Value	ValueOutput
+L1 BW	0	4194304	Value	ValueOutput
+L1 Freq	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+L1 Link	0	4194304	Value	ValueOutput
+Low Mid 1 On/Off	0	4194304	Value	ValueOutput
+LM1 Gain	0	4194304	Value	ValueOutput
+LM1 G.Mode	0	4194304	Value	ValueOutput
+LM1 BW.Mode	0	4194304	Value	ValueOutput
+LM1 BW	0	4194304	Value	ValueOutput
+LM1 Freq	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+LM1 Link	0	4194304	Value	ValueOutput
+High Mid 1 On/Of	0	4194304	Value	ValueOutput
+HM1 Gain	0	4194304	Value	ValueOutput
+HM1 G.Mode	0	4194304	Value	ValueOutput
+HM1 BW.Mode	0	4194304	Value	ValueOutput
+HM1 BW	0	4194304	Value	ValueOutput
+HM1 Freq	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+HM1 Link	0	4194304	Value	ValueOutput
+High 1 On/Off	0	4194304	Value	ValueOutput
+H1 Gain	0	4194304	Value	ValueOutput
+H1 G.Mode	0	4194304	Value	ValueOutput
+H1 BW.Mode	0	4194304	Value	ValueOutput
+H1 BW	0	4194304	Value	ValueOutput
+H1 Freq	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+H1 Link	0	4194304	Value	ValueOutput
+LP 1	0	4194304	Value	ValueOutput
+HP 1	0	4194304	Value	ValueOutput
+Gain 1	0	4194304	Value	ValueOutput
+Link 1	0	4194304	Value	ValueOutput
+LP 2	0	4194304	Value	ValueOutput
+HP 2	0	4194304	Value	ValueOutput
+Gain 2	0	4194304	Value	ValueOutput
+Link 2	0	4194304	Value	ValueOutput
+Low 2 On/Off	0	4194304	Value	ValueOutput
+L2 Gain	0	4194304	Value	ValueOutput
+L2 G.Mode	0	4194304	Value	ValueOutput
+L2 BW.Mode	0	4194304	Value	ValueOutput
+L2 BW	0	4194304	Value	ValueOutput
+L2 Freq	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+L2 Link	0	4194304	Value	ValueOutput
+Low Mid 2 On/Off	0	4194304	Value	ValueOutput
+LM2 Gain	0	4194304	Value	ValueOutput
+LM2 G.Mode	0	4194304	Value	ValueOutput
+LM2 BW.Mode	0	4194304	Value	ValueOutput
+LM2 BW	0	4194304	Value	ValueOutput
+LM2 Freq	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+LM2 Link	0	4194304	Value	ValueOutput
+High Mid 2 On/Of	0	4194304	Value	ValueOutput
+HM2 Gain	0	4194304	Value	ValueOutput
+HM2 G.Mode	0	4194304	Value	ValueOutput
+HM2 BW.Mode	0	4194304	Value	ValueOutput
+HM2 BW	0	4194304	Value	ValueOutput
+HM2 Freq	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+HM2 Link	0	4194304	Value	ValueOutput
+High 2 On/Off	0	4194304	Value	ValueOutput
+H2 Gain	0	4194304	Value	ValueOutput
+H2 G.Mode	0	4194304	Value	ValueOutput
+H2 BW.Mode	0	4194304	Value	ValueOutput
+H2 BW	0	4194304	Value	ValueOutput
+H2 Freq	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+H2 Link	0	4194304	Value	ValueOutput
+MS Mode	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

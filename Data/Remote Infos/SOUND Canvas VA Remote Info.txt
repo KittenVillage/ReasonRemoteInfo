@@ -1,0 +1,1889 @@
+Scope
+Manufacturer	Model
+Roland	vst.scva.SOUND Canvas VA
+Note: Will match scope definitions for vst.scva.SOUND Canvas VA or vst.scva
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Volume 1	0	4194304	Value	ValueOutput
+Volume 2	0	4194304	Value	ValueOutput
+Volume 3	0	4194304	Value	ValueOutput
+Volume 4	0	4194304	Value	ValueOutput
+Volume 5	0	4194304	Value	ValueOutput
+Volume 6	0	4194304	Value	ValueOutput
+Volume 7	0	4194304	Value	ValueOutput
+Volume 8	0	4194304	Value	ValueOutput
+Volume 9	0	4194304	Value	ValueOutput
+Volume 10	0	4194304	Value	ValueOutput
+Volume 11	0	4194304	Value	ValueOutput
+Volume 12	0	4194304	Value	ValueOutput
+Volume 13	0	4194304	Value	ValueOutput
+Volume 14	0	4194304	Value	ValueOutput
+Volume 15	0	4194304	Value	ValueOutput
+Volume 16	0	4194304	Value	ValueOutput
+Pan 1	0	4194304	Value	ValueOutput
+Pan 2	0	4194304	Value	ValueOutput
+Pan 3	0	4194304	Value	ValueOutput
+Pan 4	0	4194304	Value	ValueOutput
+Pan 5	0	4194304	Value	ValueOutput
+Pan 6	0	4194304	Value	ValueOutput
+Pan 7	0	4194304	Value	ValueOutput
+Pan 8	0	4194304	Value	ValueOutput
+Pan 9	0	4194304	Value	ValueOutput
+Pan 10	0	4194304	Value	ValueOutput
+Pan 11	0	4194304	Value	ValueOutput
+Pan 12	0	4194304	Value	ValueOutput
+Pan 13	0	4194304	Value	ValueOutput
+Pan 14	0	4194304	Value	ValueOutput
+Pan 15	0	4194304	Value	ValueOutput
+Pan 16	0	4194304	Value	ValueOutput
+Reverb Send 1	0	4194304	Value	ValueOutput
+Reverb Send 2	0	4194304	Value	ValueOutput
+Reverb Send 3	0	4194304	Value	ValueOutput
+Reverb Send 4	0	4194304	Value	ValueOutput
+Reverb Send 5	0	4194304	Value	ValueOutput
+Reverb Send 6	0	4194304	Value	ValueOutput
+Reverb Send 7	0	4194304	Value	ValueOutput
+Reverb Send 8	0	4194304	Value	ValueOutput
+Reverb Send 9	0	4194304	Value	ValueOutput
+Reverb Send 10	0	4194304	Value	ValueOutput
+Reverb Send 11	0	4194304	Value	ValueOutput
+Reverb Send 12	0	4194304	Value	ValueOutput
+Reverb Send 13	0	4194304	Value	ValueOutput
+Reverb Send 14	0	4194304	Value	ValueOutput
+Reverb Send 15	0	4194304	Value	ValueOutput
+Reverb Send 16	0	4194304	Value	ValueOutput
+Chorus Send 1	0	4194304	Value	ValueOutput
+Chorus Send 2	0	4194304	Value	ValueOutput
+Chorus Send 3	0	4194304	Value	ValueOutput
+Chorus Send 4	0	4194304	Value	ValueOutput
+Chorus Send 5	0	4194304	Value	ValueOutput
+Chorus Send 6	0	4194304	Value	ValueOutput
+Chorus Send 7	0	4194304	Value	ValueOutput
+Chorus Send 8	0	4194304	Value	ValueOutput
+Chorus Send 9	0	4194304	Value	ValueOutput
+Chorus Send 10	0	4194304	Value	ValueOutput
+Chorus Send 11	0	4194304	Value	ValueOutput
+Chorus Send 12	0	4194304	Value	ValueOutput
+Chorus Send 13	0	4194304	Value	ValueOutput
+Chorus Send 14	0	4194304	Value	ValueOutput
+Chorus Send 15	0	4194304	Value	ValueOutput
+Chorus Send 16	0	4194304	Value	ValueOutput
+Delay Send 1	0	4194304	Value	ValueOutput
+Delay Send 2	0	4194304	Value	ValueOutput
+Delay Send 3	0	4194304	Value	ValueOutput
+Delay Send 4	0	4194304	Value	ValueOutput
+Delay Send 5	0	4194304	Value	ValueOutput
+Delay Send 6	0	4194304	Value	ValueOutput
+Delay Send 7	0	4194304	Value	ValueOutput
+Delay Send 8	0	4194304	Value	ValueOutput
+Delay Send 9	0	4194304	Value	ValueOutput
+Delay Send 10	0	4194304	Value	ValueOutput
+Delay Send 11	0	4194304	Value	ValueOutput
+Delay Send 12	0	4194304	Value	ValueOutput
+Delay Send 13	0	4194304	Value	ValueOutput
+Delay Send 14	0	4194304	Value	ValueOutput
+Delay Send 15	0	4194304	Value	ValueOutput
+Delay Send 16	0	4194304	Value	ValueOutput
+Bend Pitch Control 1	0	4194304	Value	ValueOutput
+Bend Pitch Control 2	0	4194304	Value	ValueOutput
+Bend Pitch Control 3	0	4194304	Value	ValueOutput
+Bend Pitch Control 4	0	4194304	Value	ValueOutput
+Bend Pitch Control 5	0	4194304	Value	ValueOutput
+Bend Pitch Control 6	0	4194304	Value	ValueOutput
+Bend Pitch Control 7	0	4194304	Value	ValueOutput
+Bend Pitch Control 8	0	4194304	Value	ValueOutput
+Bend Pitch Control 9	0	4194304	Value	ValueOutput
+Bend Pitch Control 10	0	4194304	Value	ValueOutput
+Bend Pitch Control 11	0	4194304	Value	ValueOutput
+Bend Pitch Control 12	0	4194304	Value	ValueOutput
+Bend Pitch Control 13	0	4194304	Value	ValueOutput
+Bend Pitch Control 14	0	4194304	Value	ValueOutput
+Bend Pitch Control 15	0	4194304	Value	ValueOutput
+Bend Pitch Control 16	0	4194304	Value	ValueOutput
+EQ1 ON/OFF	0	4194304	Value	ValueOutput
+EQ2 ON/OFF	0	4194304	Value	ValueOutput
+EQ3 ON/OFF	0	4194304	Value	ValueOutput
+EQ4 ON/OFF	0	4194304	Value	ValueOutput
+EQ5 ON/OFF	0	4194304	Value	ValueOutput
+EQ6 ON/OFF	0	4194304	Value	ValueOutput
+EQ7 ON/OFF	0	4194304	Value	ValueOutput
+EQ8 ON/OFF	0	4194304	Value	ValueOutput
+EQ9 ON/OFF	0	4194304	Value	ValueOutput
+EQ10 ON/OFF	0	4194304	Value	ValueOutput
+EQ11 ON/OFF	0	4194304	Value	ValueOutput
+EQ12 ON/OFF	0	4194304	Value	ValueOutput
+EQ13 ON/OFF	0	4194304	Value	ValueOutput
+EQ14 ON/OFF	0	4194304	Value	ValueOutput
+EQ15 ON/OFF	0	4194304	Value	ValueOutput
+EQ16 ON/OFF	0	4194304	Value	ValueOutput
+Part EFX Assign 1	0	4194304	Value	ValueOutput
+Part EFX Assign 2	0	4194304	Value	ValueOutput
+Part EFX Assign 3	0	4194304	Value	ValueOutput
+Part EFX Assign 4	0	4194304	Value	ValueOutput
+Part EFX Assign 5	0	4194304	Value	ValueOutput
+Part EFX Assign 6	0	4194304	Value	ValueOutput
+Part EFX Assign 7	0	4194304	Value	ValueOutput
+Part EFX Assign 8	0	4194304	Value	ValueOutput
+Part EFX Assign 9	0	4194304	Value	ValueOutput
+Part EFX Assign 10	0	4194304	Value	ValueOutput
+Part EFX Assign 11	0	4194304	Value	ValueOutput
+Part EFX Assign 12	0	4194304	Value	ValueOutput
+Part EFX Assign 13	0	4194304	Value	ValueOutput
+Part EFX Assign 14	0	4194304	Value	ValueOutput
+Part EFX Assign 15	0	4194304	Value	ValueOutput
+Part EFX Assign 16	0	4194304	Value	ValueOutput
+Cutoff Frequency 1	0	4194304	Value	ValueOutput
+Cutoff Frequency 2	0	4194304	Value	ValueOutput
+Cutoff Frequency 3	0	4194304	Value	ValueOutput
+Cutoff Frequency 4	0	4194304	Value	ValueOutput
+Cutoff Frequency 5	0	4194304	Value	ValueOutput
+Cutoff Frequency 6	0	4194304	Value	ValueOutput
+Cutoff Frequency 7	0	4194304	Value	ValueOutput
+Cutoff Frequency 8	0	4194304	Value	ValueOutput
+Cutoff Frequency 9	0	4194304	Value	ValueOutput
+Cutoff Frequency 10	0	4194304	Value	ValueOutput
+Cutoff Frequency 11	0	4194304	Value	ValueOutput
+Cutoff Frequency 12	0	4194304	Value	ValueOutput
+Cutoff Frequency 13	0	4194304	Value	ValueOutput
+Cutoff Frequency 14	0	4194304	Value	ValueOutput
+Cutoff Frequency 15	0	4194304	Value	ValueOutput
+Cutoff Frequency 16	0	4194304	Value	ValueOutput
+Resonance 1	0	4194304	Value	ValueOutput
+Resonance 2	0	4194304	Value	ValueOutput
+Resonance 3	0	4194304	Value	ValueOutput
+Resonance 4	0	4194304	Value	ValueOutput
+Resonance 5	0	4194304	Value	ValueOutput
+Resonance 6	0	4194304	Value	ValueOutput
+Resonance 7	0	4194304	Value	ValueOutput
+Resonance 8	0	4194304	Value	ValueOutput
+Resonance 9	0	4194304	Value	ValueOutput
+Resonance 10	0	4194304	Value	ValueOutput
+Resonance 11	0	4194304	Value	ValueOutput
+Resonance 12	0	4194304	Value	ValueOutput
+Resonance 13	0	4194304	Value	ValueOutput
+Resonance 14	0	4194304	Value	ValueOutput
+Resonance 15	0	4194304	Value	ValueOutput
+Resonance 16	0	4194304	Value	ValueOutput
+Attack Time 1	0	4194304	Value	ValueOutput
+Attack Time 2	0	4194304	Value	ValueOutput
+Attack Time 3	0	4194304	Value	ValueOutput
+Attack Time 4	0	4194304	Value	ValueOutput
+Attack Time 5	0	4194304	Value	ValueOutput
+Attack Time 6	0	4194304	Value	ValueOutput
+Attack Time 7	0	4194304	Value	ValueOutput
+Attack Time 8	0	4194304	Value	ValueOutput
+Attack Time 9	0	4194304	Value	ValueOutput
+Attack Time 10	0	4194304	Value	ValueOutput
+Attack Time 11	0	4194304	Value	ValueOutput
+Attack Time 12	0	4194304	Value	ValueOutput
+Attack Time 13	0	4194304	Value	ValueOutput
+Attack Time 14	0	4194304	Value	ValueOutput
+Attack Time 15	0	4194304	Value	ValueOutput
+Attack Time 16	0	4194304	Value	ValueOutput
+Decay Time 1	0	4194304	Value	ValueOutput
+Decay Time 2	0	4194304	Value	ValueOutput
+Decay Time 3	0	4194304	Value	ValueOutput
+Decay Time 4	0	4194304	Value	ValueOutput
+Decay Time 5	0	4194304	Value	ValueOutput
+Decay Time 6	0	4194304	Value	ValueOutput
+Decay Time 7	0	4194304	Value	ValueOutput
+Decay Time 8	0	4194304	Value	ValueOutput
+Decay Time 9	0	4194304	Value	ValueOutput
+Decay Time 10	0	4194304	Value	ValueOutput
+Decay Time 11	0	4194304	Value	ValueOutput
+Decay Time 12	0	4194304	Value	ValueOutput
+Decay Time 13	0	4194304	Value	ValueOutput
+Decay Time 14	0	4194304	Value	ValueOutput
+Decay Time 15	0	4194304	Value	ValueOutput
+Decay Time 16	0	4194304	Value	ValueOutput
+Release Time 1	0	4194304	Value	ValueOutput
+Release Time 2	0	4194304	Value	ValueOutput
+Release Time 3	0	4194304	Value	ValueOutput
+Release Time 4	0	4194304	Value	ValueOutput
+Release Time 5	0	4194304	Value	ValueOutput
+Release Time 6	0	4194304	Value	ValueOutput
+Release Time 7	0	4194304	Value	ValueOutput
+Release Time 8	0	4194304	Value	ValueOutput
+Release Time 9	0	4194304	Value	ValueOutput
+Release Time 10	0	4194304	Value	ValueOutput
+Release Time 11	0	4194304	Value	ValueOutput
+Release Time 12	0	4194304	Value	ValueOutput
+Release Time 13	0	4194304	Value	ValueOutput
+Release Time 14	0	4194304	Value	ValueOutput
+Release Time 15	0	4194304	Value	ValueOutput
+Release Time 16	0	4194304	Value	ValueOutput
+Vibrato Rate 1	0	4194304	Value	ValueOutput
+Vibrato Rate 2	0	4194304	Value	ValueOutput
+Vibrato Rate 3	0	4194304	Value	ValueOutput
+Vibrato Rate 4	0	4194304	Value	ValueOutput
+Vibrato Rate 5	0	4194304	Value	ValueOutput
+Vibrato Rate 6	0	4194304	Value	ValueOutput
+Vibrato Rate 7	0	4194304	Value	ValueOutput
+Vibrato Rate 8	0	4194304	Value	ValueOutput
+Vibrato Rate 9	0	4194304	Value	ValueOutput
+Vibrato Rate 10	0	4194304	Value	ValueOutput
+Vibrato Rate 11	0	4194304	Value	ValueOutput
+Vibrato Rate 12	0	4194304	Value	ValueOutput
+Vibrato Rate 13	0	4194304	Value	ValueOutput
+Vibrato Rate 14	0	4194304	Value	ValueOutput
+Vibrato Rate 15	0	4194304	Value	ValueOutput
+Vibrato Rate 16	0	4194304	Value	ValueOutput
+Vibrato Depth 1	0	4194304	Value	ValueOutput
+Vibrato Depth 2	0	4194304	Value	ValueOutput
+Vibrato Depth 3	0	4194304	Value	ValueOutput
+Vibrato Depth 4	0	4194304	Value	ValueOutput
+Vibrato Depth 5	0	4194304	Value	ValueOutput
+Vibrato Depth 6	0	4194304	Value	ValueOutput
+Vibrato Depth 7	0	4194304	Value	ValueOutput
+Vibrato Depth 8	0	4194304	Value	ValueOutput
+Vibrato Depth 9	0	4194304	Value	ValueOutput
+Vibrato Depth 10	0	4194304	Value	ValueOutput
+Vibrato Depth 11	0	4194304	Value	ValueOutput
+Vibrato Depth 12	0	4194304	Value	ValueOutput
+Vibrato Depth 13	0	4194304	Value	ValueOutput
+Vibrato Depth 14	0	4194304	Value	ValueOutput
+Vibrato Depth 15	0	4194304	Value	ValueOutput
+Vibrato Depth 16	0	4194304	Value	ValueOutput
+Vibrato Delay 1	0	4194304	Value	ValueOutput
+Vibrato Delay 2	0	4194304	Value	ValueOutput
+Vibrato Delay 3	0	4194304	Value	ValueOutput
+Vibrato Delay 4	0	4194304	Value	ValueOutput
+Vibrato Delay 5	0	4194304	Value	ValueOutput
+Vibrato Delay 6	0	4194304	Value	ValueOutput
+Vibrato Delay 7	0	4194304	Value	ValueOutput
+Vibrato Delay 8	0	4194304	Value	ValueOutput
+Vibrato Delay 9	0	4194304	Value	ValueOutput
+Vibrato Delay 10	0	4194304	Value	ValueOutput
+Vibrato Delay 11	0	4194304	Value	ValueOutput
+Vibrato Delay 12	0	4194304	Value	ValueOutput
+Vibrato Delay 13	0	4194304	Value	ValueOutput
+Vibrato Delay 14	0	4194304	Value	ValueOutput
+Vibrato Delay 15	0	4194304	Value	ValueOutput
+Vibrato Delay 16	0	4194304	Value	ValueOutput
+Pitch Key Shift 1	0	4194304	Value	ValueOutput
+Pitch Key Shift 2	0	4194304	Value	ValueOutput
+Pitch Key Shift 3	0	4194304	Value	ValueOutput
+Pitch Key Shift 4	0	4194304	Value	ValueOutput
+Pitch Key Shift 5	0	4194304	Value	ValueOutput
+Pitch Key Shift 6	0	4194304	Value	ValueOutput
+Pitch Key Shift 7	0	4194304	Value	ValueOutput
+Pitch Key Shift 8	0	4194304	Value	ValueOutput
+Pitch Key Shift 9	0	4194304	Value	ValueOutput
+Pitch Key Shift 10	0	4194304	Value	ValueOutput
+Pitch Key Shift 11	0	4194304	Value	ValueOutput
+Pitch Key Shift 12	0	4194304	Value	ValueOutput
+Pitch Key Shift 13	0	4194304	Value	ValueOutput
+Pitch Key Shift 14	0	4194304	Value	ValueOutput
+Pitch Key Shift 15	0	4194304	Value	ValueOutput
+Pitch Key Shift 16	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Master Pan	0	4194304	Value	ValueOutput
+Master Key	0	4194304	Value	ValueOutput
+Drum Key-1 0 (C-1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 1 (C#-1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 2 (D-1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 3 (D#-1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 4 (E-1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 5 (F-1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 6 (F#-1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 7 (G-1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 8 (G#-1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 9 (A-1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 10 (A#-1) Pit	0	4194304	Value	ValueOutput
+Drum Key-1 11 (B-1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 12 (C0) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 13 (C#0) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 14 (D0) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 15 (D#0) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 16 (E0) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 17 (F0) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 18 (F#0) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 19 (G0) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 20 (G#0) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 21 (A0) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 22 (A#0) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 23 (B0) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 24 (C1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 25 (C#1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 26 (D1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 27 (D#1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 28 (E1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 29 (F1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 30 (F#1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 31 (G1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 32 (G#1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 33 (A1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 34 (A#1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 35 (B1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 36 (C2) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 37 (C#2) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 38 (D2) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 39 (D#2) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 40 (E2) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 41 (F2) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 42 (F#2) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 43 (G2) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 44 (G#2) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 45 (A2) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 46 (A#2) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 47 (B2) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 48 (C3) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 49 (C#3) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 50 (D3) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 51 (D#3) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 52 (E3) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 53 (F3) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 54 (F#3) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 55 (G3) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 56 (G#3) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 57 (A3) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 58 (A#3) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 59 (B3) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 60 (C4) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 61 (C#4) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 62 (D4) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 63 (D#4) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 64 (E4) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 65 (F4) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 66 (F#4) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 67 (G4) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 68 (G#4) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 69 (A4) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 70 (A#4) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 71 (B4) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 72 (C5) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 73 (C#5) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 74 (D5) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 75 (D#5) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 76 (E5) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 77 (F5) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 78 (F#5) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 79 (G5) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 80 (G#5) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 81 (A5) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 82 (A#5) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 83 (B5) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 84 (C6) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 85 (C#6) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 86 (D6) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 87 (D#6) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 88 (E6) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 89 (F6) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 90 (F#6) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 91 (G6) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 92 (G#6) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 93 (A6) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 94 (A#6) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 95 (B6) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 96 (C7) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 97 (C#7) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 98 (D7) Pitch	0	4194304	Value	ValueOutput
+Drum Key-1 99 (D#7) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 100 (E7) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 101 (F7) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 102 (F#7) Pit	0	4194304	Value	ValueOutput
+Drum Key-1 103 (G7) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 104 (G#7) Pit	0	4194304	Value	ValueOutput
+Drum Key-1 105 (A7) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 106 (A#7) Pit	0	4194304	Value	ValueOutput
+Drum Key-1 107 (B7) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 108 (C8) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 109 (C#8) Pit	0	4194304	Value	ValueOutput
+Drum Key-1 110 (D8) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 111 (D#8) Pit	0	4194304	Value	ValueOutput
+Drum Key-1 112 (E8) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 113 (F8) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 114 (F#8) Pit	0	4194304	Value	ValueOutput
+Drum Key-1 115 (G8) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 116 (G#8) Pit	0	4194304	Value	ValueOutput
+Drum Key-1 117 (A8) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 118 (A#8) Pit	0	4194304	Value	ValueOutput
+Drum Key-1 119 (B8) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 120 (C9) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 121 (C#9) Pit	0	4194304	Value	ValueOutput
+Drum Key-1 122 (D9) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 123 (D#9) Pit	0	4194304	Value	ValueOutput
+Drum Key-1 124 (E9) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 125 (F9) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 126 (F#9) Pit	0	4194304	Value	ValueOutput
+Drum Key-1 127 (G9) Pitc	0	4194304	Value	ValueOutput
+Drum Key-1 0 (C-1) Level	0	4194304	Value	ValueOutput
+Drum Key-1 1 (C#-1) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 2 (D-1) Level	0	4194304	Value	ValueOutput
+Drum Key-1 3 (D#-1) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 4 (E-1) Level	0	4194304	Value	ValueOutput
+Drum Key-1 5 (F-1) Level	0	4194304	Value	ValueOutput
+Drum Key-1 6 (F#-1) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 7 (G-1) Level	0	4194304	Value	ValueOutput
+Drum Key-1 8 (G#-1) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 9 (A-1) Level	0	4194304	Value	ValueOutput
+Drum Key-1 10 (A#-1) Lev	0	4194304	Value	ValueOutput
+Drum Key-1 11 (B-1) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 12 (C0) Level	0	4194304	Value	ValueOutput
+Drum Key-1 13 (C#0) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 14 (D0) Level	0	4194304	Value	ValueOutput
+Drum Key-1 15 (D#0) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 16 (E0) Level	0	4194304	Value	ValueOutput
+Drum Key-1 17 (F0) Level	0	4194304	Value	ValueOutput
+Drum Key-1 18 (F#0) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 19 (G0) Level	0	4194304	Value	ValueOutput
+Drum Key-1 20 (G#0) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 21 (A0) Level	0	4194304	Value	ValueOutput
+Drum Key-1 22 (A#0) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 23 (B0) Level	0	4194304	Value	ValueOutput
+Drum Key-1 24 (C1) Level	0	4194304	Value	ValueOutput
+Drum Key-1 25 (C#1) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 26 (D1) Level	0	4194304	Value	ValueOutput
+Drum Key-1 27 (D#1) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 28 (E1) Level	0	4194304	Value	ValueOutput
+Drum Key-1 29 (F1) Level	0	4194304	Value	ValueOutput
+Drum Key-1 30 (F#1) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 31 (G1) Level	0	4194304	Value	ValueOutput
+Drum Key-1 32 (G#1) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 33 (A1) Level	0	4194304	Value	ValueOutput
+Drum Key-1 34 (A#1) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 35 (B1) Level	0	4194304	Value	ValueOutput
+Drum Key-1 36 (C2) Level	0	4194304	Value	ValueOutput
+Drum Key-1 37 (C#2) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 38 (D2) Level	0	4194304	Value	ValueOutput
+Drum Key-1 39 (D#2) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 40 (E2) Level	0	4194304	Value	ValueOutput
+Drum Key-1 41 (F2) Level	0	4194304	Value	ValueOutput
+Drum Key-1 42 (F#2) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 43 (G2) Level	0	4194304	Value	ValueOutput
+Drum Key-1 44 (G#2) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 45 (A2) Level	0	4194304	Value	ValueOutput
+Drum Key-1 46 (A#2) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 47 (B2) Level	0	4194304	Value	ValueOutput
+Drum Key-1 48 (C3) Level	0	4194304	Value	ValueOutput
+Drum Key-1 49 (C#3) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 50 (D3) Level	0	4194304	Value	ValueOutput
+Drum Key-1 51 (D#3) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 52 (E3) Level	0	4194304	Value	ValueOutput
+Drum Key-1 53 (F3) Level	0	4194304	Value	ValueOutput
+Drum Key-1 54 (F#3) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 55 (G3) Level	0	4194304	Value	ValueOutput
+Drum Key-1 56 (G#3) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 57 (A3) Level	0	4194304	Value	ValueOutput
+Drum Key-1 58 (A#3) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 59 (B3) Level	0	4194304	Value	ValueOutput
+Drum Key-1 60 (C4) Level	0	4194304	Value	ValueOutput
+Drum Key-1 61 (C#4) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 62 (D4) Level	0	4194304	Value	ValueOutput
+Drum Key-1 63 (D#4) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 64 (E4) Level	0	4194304	Value	ValueOutput
+Drum Key-1 65 (F4) Level	0	4194304	Value	ValueOutput
+Drum Key-1 66 (F#4) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 67 (G4) Level	0	4194304	Value	ValueOutput
+Drum Key-1 68 (G#4) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 69 (A4) Level	0	4194304	Value	ValueOutput
+Drum Key-1 70 (A#4) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 71 (B4) Level	0	4194304	Value	ValueOutput
+Drum Key-1 72 (C5) Level	0	4194304	Value	ValueOutput
+Drum Key-1 73 (C#5) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 74 (D5) Level	0	4194304	Value	ValueOutput
+Drum Key-1 75 (D#5) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 76 (E5) Level	0	4194304	Value	ValueOutput
+Drum Key-1 77 (F5) Level	0	4194304	Value	ValueOutput
+Drum Key-1 78 (F#5) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 79 (G5) Level	0	4194304	Value	ValueOutput
+Drum Key-1 80 (G#5) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 81 (A5) Level	0	4194304	Value	ValueOutput
+Drum Key-1 82 (A#5) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 83 (B5) Level	0	4194304	Value	ValueOutput
+Drum Key-1 84 (C6) Level	0	4194304	Value	ValueOutput
+Drum Key-1 85 (C#6) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 86 (D6) Level	0	4194304	Value	ValueOutput
+Drum Key-1 87 (D#6) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 88 (E6) Level	0	4194304	Value	ValueOutput
+Drum Key-1 89 (F6) Level	0	4194304	Value	ValueOutput
+Drum Key-1 90 (F#6) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 91 (G6) Level	0	4194304	Value	ValueOutput
+Drum Key-1 92 (G#6) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 93 (A6) Level	0	4194304	Value	ValueOutput
+Drum Key-1 94 (A#6) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 95 (B6) Level	0	4194304	Value	ValueOutput
+Drum Key-1 96 (C7) Level	0	4194304	Value	ValueOutput
+Drum Key-1 97 (C#7) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 98 (D7) Level	0	4194304	Value	ValueOutput
+Drum Key-1 99 (D#7) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 100 (E7) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 101 (F7) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 102 (F#7) Lev	0	4194304	Value	ValueOutput
+Drum Key-1 103 (G7) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 104 (G#7) Lev	0	4194304	Value	ValueOutput
+Drum Key-1 105 (A7) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 106 (A#7) Lev	0	4194304	Value	ValueOutput
+Drum Key-1 107 (B7) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 108 (C8) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 109 (C#8) Lev	0	4194304	Value	ValueOutput
+Drum Key-1 110 (D8) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 111 (D#8) Lev	0	4194304	Value	ValueOutput
+Drum Key-1 112 (E8) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 113 (F8) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 114 (F#8) Lev	0	4194304	Value	ValueOutput
+Drum Key-1 115 (G8) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 116 (G#8) Lev	0	4194304	Value	ValueOutput
+Drum Key-1 117 (A8) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 118 (A#8) Lev	0	4194304	Value	ValueOutput
+Drum Key-1 119 (B8) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 120 (C9) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 121 (C#9) Lev	0	4194304	Value	ValueOutput
+Drum Key-1 122 (D9) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 123 (D#9) Lev	0	4194304	Value	ValueOutput
+Drum Key-1 124 (E9) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 125 (F9) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 126 (F#9) Lev	0	4194304	Value	ValueOutput
+Drum Key-1 127 (G9) Leve	0	4194304	Value	ValueOutput
+Drum Key-1 0 (C-1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 1 (C#-1) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 2 (D-1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 3 (D#-1) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 4 (E-1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 5 (F-1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 6 (F#-1) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 7 (G-1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 8 (G#-1) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 9 (A-1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 10 (A#-1) Pan	0	4194304	Value	ValueOutput
+Drum Key-1 11 (B-1) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 12 (C0) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 13 (C#0) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 14 (D0) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 15 (D#0) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 16 (E0) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 17 (F0) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 18 (F#0) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 19 (G0) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 20 (G#0) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 21 (A0) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 22 (A#0) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 23 (B0) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 24 (C1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 25 (C#1) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 26 (D1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 27 (D#1) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 28 (E1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 29 (F1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 30 (F#1) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 31 (G1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 32 (G#1) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 33 (A1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 34 (A#1) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 35 (B1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 36 (C2) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 37 (C#2) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 38 (D2) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 39 (D#2) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 40 (E2) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 41 (F2) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 42 (F#2) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 43 (G2) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 44 (G#2) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 45 (A2) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 46 (A#2) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 47 (B2) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 48 (C3) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 49 (C#3) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 50 (D3) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 51 (D#3) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 52 (E3) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 53 (F3) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 54 (F#3) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 55 (G3) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 56 (G#3) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 57 (A3) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 58 (A#3) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 59 (B3) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 60 (C4) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 61 (C#4) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 62 (D4) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 63 (D#4) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 64 (E4) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 65 (F4) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 66 (F#4) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 67 (G4) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 68 (G#4) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 69 (A4) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 70 (A#4) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 71 (B4) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 72 (C5) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 73 (C#5) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 74 (D5) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 75 (D#5) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 76 (E5) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 77 (F5) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 78 (F#5) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 79 (G5) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 80 (G#5) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 81 (A5) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 82 (A#5) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 83 (B5) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 84 (C6) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 85 (C#6) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 86 (D6) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 87 (D#6) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 88 (E6) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 89 (F6) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 90 (F#6) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 91 (G6) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 92 (G#6) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 93 (A6) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 94 (A#6) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 95 (B6) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 96 (C7) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 97 (C#7) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 98 (D7) Panpo	0	4194304	Value	ValueOutput
+Drum Key-1 99 (D#7) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 100 (E7) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 101 (F7) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 102 (F#7) Pan	0	4194304	Value	ValueOutput
+Drum Key-1 103 (G7) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 104 (G#7) Pan	0	4194304	Value	ValueOutput
+Drum Key-1 105 (A7) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 106 (A#7) Pan	0	4194304	Value	ValueOutput
+Drum Key-1 107 (B7) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 108 (C8) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 109 (C#8) Pan	0	4194304	Value	ValueOutput
+Drum Key-1 110 (D8) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 111 (D#8) Pan	0	4194304	Value	ValueOutput
+Drum Key-1 112 (E8) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 113 (F8) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 114 (F#8) Pan	0	4194304	Value	ValueOutput
+Drum Key-1 115 (G8) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 116 (G#8) Pan	0	4194304	Value	ValueOutput
+Drum Key-1 117 (A8) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 118 (A#8) Pan	0	4194304	Value	ValueOutput
+Drum Key-1 119 (B8) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 120 (C9) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 121 (C#9) Pan	0	4194304	Value	ValueOutput
+Drum Key-1 122 (D9) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 123 (D#9) Pan	0	4194304	Value	ValueOutput
+Drum Key-1 124 (E9) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 125 (F9) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 126 (F#9) Pan	0	4194304	Value	ValueOutput
+Drum Key-1 127 (G9) Panp	0	4194304	Value	ValueOutput
+Drum Key-1 0 (C-1) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 1 (C#-1) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 2 (D-1) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 3 (D#-1) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 4 (E-1) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 5 (F-1) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 6 (F#-1) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 7 (G-1) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 8 (G#-1) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 9 (A-1) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 10 (A#-1) Rev	0	4194304	Value	ValueOutput
+Drum Key-1 11 (B-1) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 12 (C0) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 13 (C#0) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 14 (D0) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 15 (D#0) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 16 (E0) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 17 (F0) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 18 (F#0) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 19 (G0) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 20 (G#0) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 21 (A0) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 22 (A#0) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 23 (B0) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 24 (C1) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 25 (C#1) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 26 (D1) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 27 (D#1) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 28 (E1) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 29 (F1) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 30 (F#1) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 31 (G1) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 32 (G#1) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 33 (A1) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 34 (A#1) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 35 (B1) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 36 (C2) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 37 (C#2) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 38 (D2) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 39 (D#2) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 40 (E2) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 41 (F2) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 42 (F#2) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 43 (G2) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 44 (G#2) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 45 (A2) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 46 (A#2) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 47 (B2) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 48 (C3) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 49 (C#3) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 50 (D3) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 51 (D#3) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 52 (E3) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 53 (F3) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 54 (F#3) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 55 (G3) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 56 (G#3) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 57 (A3) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 58 (A#3) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 59 (B3) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 60 (C4) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 61 (C#4) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 62 (D4) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 63 (D#4) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 64 (E4) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 65 (F4) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 66 (F#4) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 67 (G4) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 68 (G#4) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 69 (A4) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 70 (A#4) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 71 (B4) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 72 (C5) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 73 (C#5) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 74 (D5) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 75 (D#5) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 76 (E5) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 77 (F5) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 78 (F#5) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 79 (G5) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 80 (G#5) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 81 (A5) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 82 (A#5) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 83 (B5) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 84 (C6) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 85 (C#6) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 86 (D6) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 87 (D#6) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 88 (E6) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 89 (F6) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 90 (F#6) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 91 (G6) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 92 (G#6) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 93 (A6) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 94 (A#6) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 95 (B6) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 96 (C7) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 97 (C#7) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 98 (D7) Rever	0	4194304	Value	ValueOutput
+Drum Key-1 99 (D#7) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 100 (E7) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 101 (F7) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 102 (F#7) Rev	0	4194304	Value	ValueOutput
+Drum Key-1 103 (G7) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 104 (G#7) Rev	0	4194304	Value	ValueOutput
+Drum Key-1 105 (A7) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 106 (A#7) Rev	0	4194304	Value	ValueOutput
+Drum Key-1 107 (B7) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 108 (C8) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 109 (C#8) Rev	0	4194304	Value	ValueOutput
+Drum Key-1 110 (D8) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 111 (D#8) Rev	0	4194304	Value	ValueOutput
+Drum Key-1 112 (E8) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 113 (F8) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 114 (F#8) Rev	0	4194304	Value	ValueOutput
+Drum Key-1 115 (G8) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 116 (G#8) Rev	0	4194304	Value	ValueOutput
+Drum Key-1 117 (A8) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 118 (A#8) Rev	0	4194304	Value	ValueOutput
+Drum Key-1 119 (B8) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 120 (C9) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 121 (C#9) Rev	0	4194304	Value	ValueOutput
+Drum Key-1 122 (D9) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 123 (D#9) Rev	0	4194304	Value	ValueOutput
+Drum Key-1 124 (E9) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 125 (F9) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 126 (F#9) Rev	0	4194304	Value	ValueOutput
+Drum Key-1 127 (G9) Reve	0	4194304	Value	ValueOutput
+Drum Key-1 0 (C-1) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 1 (C#-1) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 2 (D-1) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 3 (D#-1) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 4 (E-1) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 5 (F-1) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 6 (F#-1) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 7 (G-1) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 8 (G#-1) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 9 (A-1) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 10 (A#-1) Cho	0	4194304	Value	ValueOutput
+Drum Key-1 11 (B-1) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 12 (C0) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 13 (C#0) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 14 (D0) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 15 (D#0) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 16 (E0) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 17 (F0) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 18 (F#0) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 19 (G0) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 20 (G#0) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 21 (A0) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 22 (A#0) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 23 (B0) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 24 (C1) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 25 (C#1) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 26 (D1) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 27 (D#1) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 28 (E1) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 29 (F1) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 30 (F#1) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 31 (G1) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 32 (G#1) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 33 (A1) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 34 (A#1) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 35 (B1) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 36 (C2) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 37 (C#2) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 38 (D2) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 39 (D#2) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 40 (E2) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 41 (F2) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 42 (F#2) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 43 (G2) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 44 (G#2) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 45 (A2) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 46 (A#2) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 47 (B2) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 48 (C3) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 49 (C#3) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 50 (D3) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 51 (D#3) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 52 (E3) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 53 (F3) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 54 (F#3) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 55 (G3) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 56 (G#3) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 57 (A3) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 58 (A#3) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 59 (B3) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 60 (C4) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 61 (C#4) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 62 (D4) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 63 (D#4) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 64 (E4) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 65 (F4) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 66 (F#4) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 67 (G4) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 68 (G#4) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 69 (A4) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 70 (A#4) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 71 (B4) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 72 (C5) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 73 (C#5) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 74 (D5) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 75 (D#5) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 76 (E5) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 77 (F5) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 78 (F#5) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 79 (G5) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 80 (G#5) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 81 (A5) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 82 (A#5) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 83 (B5) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 84 (C6) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 85 (C#6) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 86 (D6) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 87 (D#6) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 88 (E6) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 89 (F6) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 90 (F#6) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 91 (G6) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 92 (G#6) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 93 (A6) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 94 (A#6) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 95 (B6) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 96 (C7) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 97 (C#7) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 98 (D7) Choru	0	4194304	Value	ValueOutput
+Drum Key-1 99 (D#7) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 100 (E7) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 101 (F7) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 102 (F#7) Cho	0	4194304	Value	ValueOutput
+Drum Key-1 103 (G7) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 104 (G#7) Cho	0	4194304	Value	ValueOutput
+Drum Key-1 105 (A7) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 106 (A#7) Cho	0	4194304	Value	ValueOutput
+Drum Key-1 107 (B7) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 108 (C8) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 109 (C#8) Cho	0	4194304	Value	ValueOutput
+Drum Key-1 110 (D8) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 111 (D#8) Cho	0	4194304	Value	ValueOutput
+Drum Key-1 112 (E8) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 113 (F8) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 114 (F#8) Cho	0	4194304	Value	ValueOutput
+Drum Key-1 115 (G8) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 116 (G#8) Cho	0	4194304	Value	ValueOutput
+Drum Key-1 117 (A8) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 118 (A#8) Cho	0	4194304	Value	ValueOutput
+Drum Key-1 119 (B8) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 120 (C9) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 121 (C#9) Cho	0	4194304	Value	ValueOutput
+Drum Key-1 122 (D9) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 123 (D#9) Cho	0	4194304	Value	ValueOutput
+Drum Key-1 124 (E9) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 125 (F9) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 126 (F#9) Cho	0	4194304	Value	ValueOutput
+Drum Key-1 127 (G9) Chor	0	4194304	Value	ValueOutput
+Drum Key-1 0 (C-1) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 1 (C#-1) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 2 (D-1) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 3 (D#-1) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 4 (E-1) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 5 (F-1) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 6 (F#-1) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 7 (G-1) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 8 (G#-1) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 9 (A-1) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 10 (A#-1) Del	0	4194304	Value	ValueOutput
+Drum Key-1 11 (B-1) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 12 (C0) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 13 (C#0) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 14 (D0) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 15 (D#0) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 16 (E0) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 17 (F0) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 18 (F#0) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 19 (G0) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 20 (G#0) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 21 (A0) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 22 (A#0) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 23 (B0) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 24 (C1) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 25 (C#1) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 26 (D1) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 27 (D#1) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 28 (E1) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 29 (F1) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 30 (F#1) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 31 (G1) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 32 (G#1) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 33 (A1) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 34 (A#1) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 35 (B1) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 36 (C2) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 37 (C#2) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 38 (D2) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 39 (D#2) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 40 (E2) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 41 (F2) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 42 (F#2) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 43 (G2) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 44 (G#2) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 45 (A2) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 46 (A#2) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 47 (B2) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 48 (C3) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 49 (C#3) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 50 (D3) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 51 (D#3) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 52 (E3) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 53 (F3) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 54 (F#3) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 55 (G3) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 56 (G#3) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 57 (A3) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 58 (A#3) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 59 (B3) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 60 (C4) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 61 (C#4) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 62 (D4) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 63 (D#4) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 64 (E4) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 65 (F4) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 66 (F#4) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 67 (G4) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 68 (G#4) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 69 (A4) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 70 (A#4) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 71 (B4) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 72 (C5) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 73 (C#5) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 74 (D5) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 75 (D#5) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 76 (E5) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 77 (F5) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 78 (F#5) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 79 (G5) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 80 (G#5) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 81 (A5) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 82 (A#5) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 83 (B5) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 84 (C6) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 85 (C#6) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 86 (D6) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 87 (D#6) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 88 (E6) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 89 (F6) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 90 (F#6) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 91 (G6) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 92 (G#6) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 93 (A6) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 94 (A#6) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 95 (B6) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 96 (C7) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 97 (C#7) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 98 (D7) Delay	0	4194304	Value	ValueOutput
+Drum Key-1 99 (D#7) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 100 (E7) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 101 (F7) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 102 (F#7) Del	0	4194304	Value	ValueOutput
+Drum Key-1 103 (G7) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 104 (G#7) Del	0	4194304	Value	ValueOutput
+Drum Key-1 105 (A7) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 106 (A#7) Del	0	4194304	Value	ValueOutput
+Drum Key-1 107 (B7) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 108 (C8) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 109 (C#8) Del	0	4194304	Value	ValueOutput
+Drum Key-1 110 (D8) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 111 (D#8) Del	0	4194304	Value	ValueOutput
+Drum Key-1 112 (E8) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 113 (F8) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 114 (F#8) Del	0	4194304	Value	ValueOutput
+Drum Key-1 115 (G8) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 116 (G#8) Del	0	4194304	Value	ValueOutput
+Drum Key-1 117 (A8) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 118 (A#8) Del	0	4194304	Value	ValueOutput
+Drum Key-1 119 (B8) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 120 (C9) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 121 (C#9) Del	0	4194304	Value	ValueOutput
+Drum Key-1 122 (D9) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 123 (D#9) Del	0	4194304	Value	ValueOutput
+Drum Key-1 124 (E9) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 125 (F9) Dela	0	4194304	Value	ValueOutput
+Drum Key-1 126 (F#9) Del	0	4194304	Value	ValueOutput
+Drum Key-1 127 (G9) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 0 (C-1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 1 (C#-1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 2 (D-1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 3 (D#-1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 4 (E-1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 5 (F-1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 6 (F#-1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 7 (G-1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 8 (G#-1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 9 (A-1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 10 (A#-1) Pit	0	4194304	Value	ValueOutput
+Drum Key-2 11 (B-1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 12 (C0) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 13 (C#0) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 14 (D0) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 15 (D#0) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 16 (E0) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 17 (F0) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 18 (F#0) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 19 (G0) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 20 (G#0) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 21 (A0) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 22 (A#0) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 23 (B0) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 24 (C1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 25 (C#1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 26 (D1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 27 (D#1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 28 (E1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 29 (F1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 30 (F#1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 31 (G1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 32 (G#1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 33 (A1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 34 (A#1) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 35 (B1) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 36 (C2) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 37 (C#2) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 38 (D2) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 39 (D#2) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 40 (E2) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 41 (F2) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 42 (F#2) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 43 (G2) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 44 (G#2) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 45 (A2) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 46 (A#2) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 47 (B2) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 48 (C3) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 49 (C#3) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 50 (D3) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 51 (D#3) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 52 (E3) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 53 (F3) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 54 (F#3) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 55 (G3) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 56 (G#3) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 57 (A3) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 58 (A#3) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 59 (B3) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 60 (C4) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 61 (C#4) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 62 (D4) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 63 (D#4) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 64 (E4) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 65 (F4) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 66 (F#4) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 67 (G4) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 68 (G#4) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 69 (A4) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 70 (A#4) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 71 (B4) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 72 (C5) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 73 (C#5) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 74 (D5) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 75 (D#5) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 76 (E5) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 77 (F5) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 78 (F#5) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 79 (G5) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 80 (G#5) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 81 (A5) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 82 (A#5) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 83 (B5) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 84 (C6) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 85 (C#6) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 86 (D6) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 87 (D#6) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 88 (E6) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 89 (F6) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 90 (F#6) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 91 (G6) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 92 (G#6) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 93 (A6) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 94 (A#6) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 95 (B6) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 96 (C7) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 97 (C#7) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 98 (D7) Pitch	0	4194304	Value	ValueOutput
+Drum Key-2 99 (D#7) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 100 (E7) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 101 (F7) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 102 (F#7) Pit	0	4194304	Value	ValueOutput
+Drum Key-2 103 (G7) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 104 (G#7) Pit	0	4194304	Value	ValueOutput
+Drum Key-2 105 (A7) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 106 (A#7) Pit	0	4194304	Value	ValueOutput
+Drum Key-2 107 (B7) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 108 (C8) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 109 (C#8) Pit	0	4194304	Value	ValueOutput
+Drum Key-2 110 (D8) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 111 (D#8) Pit	0	4194304	Value	ValueOutput
+Drum Key-2 112 (E8) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 113 (F8) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 114 (F#8) Pit	0	4194304	Value	ValueOutput
+Drum Key-2 115 (G8) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 116 (G#8) Pit	0	4194304	Value	ValueOutput
+Drum Key-2 117 (A8) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 118 (A#8) Pit	0	4194304	Value	ValueOutput
+Drum Key-2 119 (B8) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 120 (C9) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 121 (C#9) Pit	0	4194304	Value	ValueOutput
+Drum Key-2 122 (D9) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 123 (D#9) Pit	0	4194304	Value	ValueOutput
+Drum Key-2 124 (E9) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 125 (F9) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 126 (F#9) Pit	0	4194304	Value	ValueOutput
+Drum Key-2 127 (G9) Pitc	0	4194304	Value	ValueOutput
+Drum Key-2 0 (C-1) Level	0	4194304	Value	ValueOutput
+Drum Key-2 1 (C#-1) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 2 (D-1) Level	0	4194304	Value	ValueOutput
+Drum Key-2 3 (D#-1) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 4 (E-1) Level	0	4194304	Value	ValueOutput
+Drum Key-2 5 (F-1) Level	0	4194304	Value	ValueOutput
+Drum Key-2 6 (F#-1) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 7 (G-1) Level	0	4194304	Value	ValueOutput
+Drum Key-2 8 (G#-1) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 9 (A-1) Level	0	4194304	Value	ValueOutput
+Drum Key-2 10 (A#-1) Lev	0	4194304	Value	ValueOutput
+Drum Key-2 11 (B-1) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 12 (C0) Level	0	4194304	Value	ValueOutput
+Drum Key-2 13 (C#0) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 14 (D0) Level	0	4194304	Value	ValueOutput
+Drum Key-2 15 (D#0) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 16 (E0) Level	0	4194304	Value	ValueOutput
+Drum Key-2 17 (F0) Level	0	4194304	Value	ValueOutput
+Drum Key-2 18 (F#0) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 19 (G0) Level	0	4194304	Value	ValueOutput
+Drum Key-2 20 (G#0) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 21 (A0) Level	0	4194304	Value	ValueOutput
+Drum Key-2 22 (A#0) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 23 (B0) Level	0	4194304	Value	ValueOutput
+Drum Key-2 24 (C1) Level	0	4194304	Value	ValueOutput
+Drum Key-2 25 (C#1) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 26 (D1) Level	0	4194304	Value	ValueOutput
+Drum Key-2 27 (D#1) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 28 (E1) Level	0	4194304	Value	ValueOutput
+Drum Key-2 29 (F1) Level	0	4194304	Value	ValueOutput
+Drum Key-2 30 (F#1) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 31 (G1) Level	0	4194304	Value	ValueOutput
+Drum Key-2 32 (G#1) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 33 (A1) Level	0	4194304	Value	ValueOutput
+Drum Key-2 34 (A#1) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 35 (B1) Level	0	4194304	Value	ValueOutput
+Drum Key-2 36 (C2) Level	0	4194304	Value	ValueOutput
+Drum Key-2 37 (C#2) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 38 (D2) Level	0	4194304	Value	ValueOutput
+Drum Key-2 39 (D#2) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 40 (E2) Level	0	4194304	Value	ValueOutput
+Drum Key-2 41 (F2) Level	0	4194304	Value	ValueOutput
+Drum Key-2 42 (F#2) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 43 (G2) Level	0	4194304	Value	ValueOutput
+Drum Key-2 44 (G#2) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 45 (A2) Level	0	4194304	Value	ValueOutput
+Drum Key-2 46 (A#2) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 47 (B2) Level	0	4194304	Value	ValueOutput
+Drum Key-2 48 (C3) Level	0	4194304	Value	ValueOutput
+Drum Key-2 49 (C#3) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 50 (D3) Level	0	4194304	Value	ValueOutput
+Drum Key-2 51 (D#3) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 52 (E3) Level	0	4194304	Value	ValueOutput
+Drum Key-2 53 (F3) Level	0	4194304	Value	ValueOutput
+Drum Key-2 54 (F#3) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 55 (G3) Level	0	4194304	Value	ValueOutput
+Drum Key-2 56 (G#3) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 57 (A3) Level	0	4194304	Value	ValueOutput
+Drum Key-2 58 (A#3) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 59 (B3) Level	0	4194304	Value	ValueOutput
+Drum Key-2 60 (C4) Level	0	4194304	Value	ValueOutput
+Drum Key-2 61 (C#4) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 62 (D4) Level	0	4194304	Value	ValueOutput
+Drum Key-2 63 (D#4) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 64 (E4) Level	0	4194304	Value	ValueOutput
+Drum Key-2 65 (F4) Level	0	4194304	Value	ValueOutput
+Drum Key-2 66 (F#4) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 67 (G4) Level	0	4194304	Value	ValueOutput
+Drum Key-2 68 (G#4) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 69 (A4) Level	0	4194304	Value	ValueOutput
+Drum Key-2 70 (A#4) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 71 (B4) Level	0	4194304	Value	ValueOutput
+Drum Key-2 72 (C5) Level	0	4194304	Value	ValueOutput
+Drum Key-2 73 (C#5) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 74 (D5) Level	0	4194304	Value	ValueOutput
+Drum Key-2 75 (D#5) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 76 (E5) Level	0	4194304	Value	ValueOutput
+Drum Key-2 77 (F5) Level	0	4194304	Value	ValueOutput
+Drum Key-2 78 (F#5) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 79 (G5) Level	0	4194304	Value	ValueOutput
+Drum Key-2 80 (G#5) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 81 (A5) Level	0	4194304	Value	ValueOutput
+Drum Key-2 82 (A#5) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 83 (B5) Level	0	4194304	Value	ValueOutput
+Drum Key-2 84 (C6) Level	0	4194304	Value	ValueOutput
+Drum Key-2 85 (C#6) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 86 (D6) Level	0	4194304	Value	ValueOutput
+Drum Key-2 87 (D#6) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 88 (E6) Level	0	4194304	Value	ValueOutput
+Drum Key-2 89 (F6) Level	0	4194304	Value	ValueOutput
+Drum Key-2 90 (F#6) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 91 (G6) Level	0	4194304	Value	ValueOutput
+Drum Key-2 92 (G#6) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 93 (A6) Level	0	4194304	Value	ValueOutput
+Drum Key-2 94 (A#6) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 95 (B6) Level	0	4194304	Value	ValueOutput
+Drum Key-2 96 (C7) Level	0	4194304	Value	ValueOutput
+Drum Key-2 97 (C#7) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 98 (D7) Level	0	4194304	Value	ValueOutput
+Drum Key-2 99 (D#7) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 100 (E7) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 101 (F7) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 102 (F#7) Lev	0	4194304	Value	ValueOutput
+Drum Key-2 103 (G7) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 104 (G#7) Lev	0	4194304	Value	ValueOutput
+Drum Key-2 105 (A7) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 106 (A#7) Lev	0	4194304	Value	ValueOutput
+Drum Key-2 107 (B7) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 108 (C8) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 109 (C#8) Lev	0	4194304	Value	ValueOutput
+Drum Key-2 110 (D8) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 111 (D#8) Lev	0	4194304	Value	ValueOutput
+Drum Key-2 112 (E8) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 113 (F8) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 114 (F#8) Lev	0	4194304	Value	ValueOutput
+Drum Key-2 115 (G8) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 116 (G#8) Lev	0	4194304	Value	ValueOutput
+Drum Key-2 117 (A8) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 118 (A#8) Lev	0	4194304	Value	ValueOutput
+Drum Key-2 119 (B8) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 120 (C9) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 121 (C#9) Lev	0	4194304	Value	ValueOutput
+Drum Key-2 122 (D9) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 123 (D#9) Lev	0	4194304	Value	ValueOutput
+Drum Key-2 124 (E9) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 125 (F9) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 126 (F#9) Lev	0	4194304	Value	ValueOutput
+Drum Key-2 127 (G9) Leve	0	4194304	Value	ValueOutput
+Drum Key-2 0 (C-1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 1 (C#-1) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 2 (D-1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 3 (D#-1) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 4 (E-1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 5 (F-1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 6 (F#-1) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 7 (G-1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 8 (G#-1) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 9 (A-1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 10 (A#-1) Pan	0	4194304	Value	ValueOutput
+Drum Key-2 11 (B-1) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 12 (C0) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 13 (C#0) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 14 (D0) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 15 (D#0) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 16 (E0) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 17 (F0) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 18 (F#0) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 19 (G0) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 20 (G#0) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 21 (A0) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 22 (A#0) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 23 (B0) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 24 (C1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 25 (C#1) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 26 (D1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 27 (D#1) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 28 (E1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 29 (F1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 30 (F#1) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 31 (G1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 32 (G#1) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 33 (A1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 34 (A#1) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 35 (B1) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 36 (C2) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 37 (C#2) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 38 (D2) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 39 (D#2) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 40 (E2) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 41 (F2) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 42 (F#2) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 43 (G2) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 44 (G#2) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 45 (A2) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 46 (A#2) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 47 (B2) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 48 (C3) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 49 (C#3) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 50 (D3) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 51 (D#3) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 52 (E3) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 53 (F3) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 54 (F#3) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 55 (G3) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 56 (G#3) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 57 (A3) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 58 (A#3) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 59 (B3) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 60 (C4) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 61 (C#4) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 62 (D4) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 63 (D#4) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 64 (E4) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 65 (F4) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 66 (F#4) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 67 (G4) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 68 (G#4) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 69 (A4) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 70 (A#4) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 71 (B4) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 72 (C5) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 73 (C#5) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 74 (D5) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 75 (D#5) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 76 (E5) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 77 (F5) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 78 (F#5) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 79 (G5) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 80 (G#5) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 81 (A5) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 82 (A#5) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 83 (B5) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 84 (C6) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 85 (C#6) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 86 (D6) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 87 (D#6) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 88 (E6) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 89 (F6) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 90 (F#6) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 91 (G6) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 92 (G#6) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 93 (A6) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 94 (A#6) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 95 (B6) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 96 (C7) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 97 (C#7) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 98 (D7) Panpo	0	4194304	Value	ValueOutput
+Drum Key-2 99 (D#7) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 100 (E7) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 101 (F7) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 102 (F#7) Pan	0	4194304	Value	ValueOutput
+Drum Key-2 103 (G7) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 104 (G#7) Pan	0	4194304	Value	ValueOutput
+Drum Key-2 105 (A7) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 106 (A#7) Pan	0	4194304	Value	ValueOutput
+Drum Key-2 107 (B7) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 108 (C8) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 109 (C#8) Pan	0	4194304	Value	ValueOutput
+Drum Key-2 110 (D8) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 111 (D#8) Pan	0	4194304	Value	ValueOutput
+Drum Key-2 112 (E8) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 113 (F8) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 114 (F#8) Pan	0	4194304	Value	ValueOutput
+Drum Key-2 115 (G8) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 116 (G#8) Pan	0	4194304	Value	ValueOutput
+Drum Key-2 117 (A8) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 118 (A#8) Pan	0	4194304	Value	ValueOutput
+Drum Key-2 119 (B8) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 120 (C9) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 121 (C#9) Pan	0	4194304	Value	ValueOutput
+Drum Key-2 122 (D9) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 123 (D#9) Pan	0	4194304	Value	ValueOutput
+Drum Key-2 124 (E9) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 125 (F9) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 126 (F#9) Pan	0	4194304	Value	ValueOutput
+Drum Key-2 127 (G9) Panp	0	4194304	Value	ValueOutput
+Drum Key-2 0 (C-1) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 1 (C#-1) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 2 (D-1) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 3 (D#-1) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 4 (E-1) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 5 (F-1) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 6 (F#-1) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 7 (G-1) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 8 (G#-1) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 9 (A-1) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 10 (A#-1) Rev	0	4194304	Value	ValueOutput
+Drum Key-2 11 (B-1) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 12 (C0) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 13 (C#0) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 14 (D0) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 15 (D#0) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 16 (E0) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 17 (F0) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 18 (F#0) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 19 (G0) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 20 (G#0) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 21 (A0) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 22 (A#0) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 23 (B0) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 24 (C1) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 25 (C#1) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 26 (D1) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 27 (D#1) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 28 (E1) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 29 (F1) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 30 (F#1) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 31 (G1) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 32 (G#1) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 33 (A1) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 34 (A#1) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 35 (B1) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 36 (C2) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 37 (C#2) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 38 (D2) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 39 (D#2) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 40 (E2) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 41 (F2) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 42 (F#2) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 43 (G2) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 44 (G#2) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 45 (A2) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 46 (A#2) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 47 (B2) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 48 (C3) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 49 (C#3) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 50 (D3) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 51 (D#3) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 52 (E3) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 53 (F3) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 54 (F#3) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 55 (G3) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 56 (G#3) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 57 (A3) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 58 (A#3) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 59 (B3) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 60 (C4) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 61 (C#4) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 62 (D4) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 63 (D#4) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 64 (E4) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 65 (F4) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 66 (F#4) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 67 (G4) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 68 (G#4) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 69 (A4) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 70 (A#4) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 71 (B4) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 72 (C5) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 73 (C#5) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 74 (D5) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 75 (D#5) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 76 (E5) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 77 (F5) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 78 (F#5) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 79 (G5) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 80 (G#5) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 81 (A5) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 82 (A#5) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 83 (B5) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 84 (C6) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 85 (C#6) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 86 (D6) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 87 (D#6) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 88 (E6) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 89 (F6) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 90 (F#6) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 91 (G6) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 92 (G#6) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 93 (A6) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 94 (A#6) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 95 (B6) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 96 (C7) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 97 (C#7) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 98 (D7) Rever	0	4194304	Value	ValueOutput
+Drum Key-2 99 (D#7) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 100 (E7) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 101 (F7) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 102 (F#7) Rev	0	4194304	Value	ValueOutput
+Drum Key-2 103 (G7) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 104 (G#7) Rev	0	4194304	Value	ValueOutput
+Drum Key-2 105 (A7) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 106 (A#7) Rev	0	4194304	Value	ValueOutput
+Drum Key-2 107 (B7) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 108 (C8) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 109 (C#8) Rev	0	4194304	Value	ValueOutput
+Drum Key-2 110 (D8) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 111 (D#8) Rev	0	4194304	Value	ValueOutput
+Drum Key-2 112 (E8) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 113 (F8) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 114 (F#8) Rev	0	4194304	Value	ValueOutput
+Drum Key-2 115 (G8) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 116 (G#8) Rev	0	4194304	Value	ValueOutput
+Drum Key-2 117 (A8) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 118 (A#8) Rev	0	4194304	Value	ValueOutput
+Drum Key-2 119 (B8) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 120 (C9) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 121 (C#9) Rev	0	4194304	Value	ValueOutput
+Drum Key-2 122 (D9) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 123 (D#9) Rev	0	4194304	Value	ValueOutput
+Drum Key-2 124 (E9) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 125 (F9) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 126 (F#9) Rev	0	4194304	Value	ValueOutput
+Drum Key-2 127 (G9) Reve	0	4194304	Value	ValueOutput
+Drum Key-2 0 (C-1) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 1 (C#-1) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 2 (D-1) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 3 (D#-1) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 4 (E-1) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 5 (F-1) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 6 (F#-1) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 7 (G-1) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 8 (G#-1) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 9 (A-1) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 10 (A#-1) Cho	0	4194304	Value	ValueOutput
+Drum Key-2 11 (B-1) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 12 (C0) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 13 (C#0) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 14 (D0) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 15 (D#0) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 16 (E0) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 17 (F0) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 18 (F#0) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 19 (G0) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 20 (G#0) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 21 (A0) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 22 (A#0) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 23 (B0) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 24 (C1) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 25 (C#1) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 26 (D1) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 27 (D#1) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 28 (E1) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 29 (F1) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 30 (F#1) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 31 (G1) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 32 (G#1) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 33 (A1) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 34 (A#1) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 35 (B1) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 36 (C2) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 37 (C#2) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 38 (D2) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 39 (D#2) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 40 (E2) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 41 (F2) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 42 (F#2) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 43 (G2) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 44 (G#2) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 45 (A2) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 46 (A#2) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 47 (B2) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 48 (C3) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 49 (C#3) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 50 (D3) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 51 (D#3) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 52 (E3) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 53 (F3) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 54 (F#3) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 55 (G3) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 56 (G#3) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 57 (A3) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 58 (A#3) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 59 (B3) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 60 (C4) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 61 (C#4) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 62 (D4) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 63 (D#4) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 64 (E4) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 65 (F4) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 66 (F#4) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 67 (G4) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 68 (G#4) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 69 (A4) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 70 (A#4) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 71 (B4) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 72 (C5) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 73 (C#5) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 74 (D5) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 75 (D#5) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 76 (E5) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 77 (F5) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 78 (F#5) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 79 (G5) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 80 (G#5) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 81 (A5) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 82 (A#5) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 83 (B5) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 84 (C6) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 85 (C#6) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 86 (D6) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 87 (D#6) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 88 (E6) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 89 (F6) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 90 (F#6) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 91 (G6) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 92 (G#6) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 93 (A6) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 94 (A#6) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 95 (B6) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 96 (C7) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 97 (C#7) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 98 (D7) Choru	0	4194304	Value	ValueOutput
+Drum Key-2 99 (D#7) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 100 (E7) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 101 (F7) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 102 (F#7) Cho	0	4194304	Value	ValueOutput
+Drum Key-2 103 (G7) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 104 (G#7) Cho	0	4194304	Value	ValueOutput
+Drum Key-2 105 (A7) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 106 (A#7) Cho	0	4194304	Value	ValueOutput
+Drum Key-2 107 (B7) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 108 (C8) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 109 (C#8) Cho	0	4194304	Value	ValueOutput
+Drum Key-2 110 (D8) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 111 (D#8) Cho	0	4194304	Value	ValueOutput
+Drum Key-2 112 (E8) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 113 (F8) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 114 (F#8) Cho	0	4194304	Value	ValueOutput
+Drum Key-2 115 (G8) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 116 (G#8) Cho	0	4194304	Value	ValueOutput
+Drum Key-2 117 (A8) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 118 (A#8) Cho	0	4194304	Value	ValueOutput
+Drum Key-2 119 (B8) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 120 (C9) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 121 (C#9) Cho	0	4194304	Value	ValueOutput
+Drum Key-2 122 (D9) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 123 (D#9) Cho	0	4194304	Value	ValueOutput
+Drum Key-2 124 (E9) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 125 (F9) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 126 (F#9) Cho	0	4194304	Value	ValueOutput
+Drum Key-2 127 (G9) Chor	0	4194304	Value	ValueOutput
+Drum Key-2 0 (C-1) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 1 (C#-1) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 2 (D-1) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 3 (D#-1) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 4 (E-1) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 5 (F-1) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 6 (F#-1) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 7 (G-1) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 8 (G#-1) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 9 (A-1) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 10 (A#-1) Del	0	4194304	Value	ValueOutput
+Drum Key-2 11 (B-1) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 12 (C0) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 13 (C#0) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 14 (D0) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 15 (D#0) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 16 (E0) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 17 (F0) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 18 (F#0) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 19 (G0) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 20 (G#0) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 21 (A0) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 22 (A#0) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 23 (B0) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 24 (C1) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 25 (C#1) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 26 (D1) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 27 (D#1) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 28 (E1) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 29 (F1) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 30 (F#1) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 31 (G1) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 32 (G#1) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 33 (A1) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 34 (A#1) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 35 (B1) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 36 (C2) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 37 (C#2) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 38 (D2) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 39 (D#2) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 40 (E2) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 41 (F2) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 42 (F#2) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 43 (G2) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 44 (G#2) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 45 (A2) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 46 (A#2) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 47 (B2) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 48 (C3) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 49 (C#3) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 50 (D3) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 51 (D#3) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 52 (E3) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 53 (F3) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 54 (F#3) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 55 (G3) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 56 (G#3) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 57 (A3) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 58 (A#3) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 59 (B3) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 60 (C4) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 61 (C#4) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 62 (D4) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 63 (D#4) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 64 (E4) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 65 (F4) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 66 (F#4) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 67 (G4) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 68 (G#4) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 69 (A4) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 70 (A#4) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 71 (B4) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 72 (C5) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 73 (C#5) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 74 (D5) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 75 (D#5) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 76 (E5) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 77 (F5) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 78 (F#5) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 79 (G5) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 80 (G#5) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 81 (A5) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 82 (A#5) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 83 (B5) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 84 (C6) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 85 (C#6) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 86 (D6) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 87 (D#6) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 88 (E6) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 89 (F6) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 90 (F#6) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 91 (G6) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 92 (G#6) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 93 (A6) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 94 (A#6) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 95 (B6) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 96 (C7) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 97 (C#7) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 98 (D7) Delay	0	4194304	Value	ValueOutput
+Drum Key-2 99 (D#7) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 100 (E7) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 101 (F7) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 102 (F#7) Del	0	4194304	Value	ValueOutput
+Drum Key-2 103 (G7) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 104 (G#7) Del	0	4194304	Value	ValueOutput
+Drum Key-2 105 (A7) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 106 (A#7) Del	0	4194304	Value	ValueOutput
+Drum Key-2 107 (B7) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 108 (C8) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 109 (C#8) Del	0	4194304	Value	ValueOutput
+Drum Key-2 110 (D8) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 111 (D#8) Del	0	4194304	Value	ValueOutput
+Drum Key-2 112 (E8) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 113 (F8) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 114 (F#8) Del	0	4194304	Value	ValueOutput
+Drum Key-2 115 (G8) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 116 (G#8) Del	0	4194304	Value	ValueOutput
+Drum Key-2 117 (A8) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 118 (A#8) Del	0	4194304	Value	ValueOutput
+Drum Key-2 119 (B8) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 120 (C9) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 121 (C#9) Del	0	4194304	Value	ValueOutput
+Drum Key-2 122 (D9) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 123 (D#9) Del	0	4194304	Value	ValueOutput
+Drum Key-2 124 (E9) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 125 (F9) Dela	0	4194304	Value	ValueOutput
+Drum Key-2 126 (F#9) Del	0	4194304	Value	ValueOutput
+Drum Key-2 127 (G9) Dela	0	4194304	Value	ValueOutput
+Reverb Macro	0	4194304	Value	ValueOutput
+Reverb Character	0	4194304	Value	ValueOutput
+Reverb Pre-LPF	0	4194304	Value	ValueOutput
+Reverb Level	0	4194304	Value	ValueOutput
+Reverb Time	0	4194304	Value	ValueOutput
+Reverb Delay Feedback	0	4194304	Value	ValueOutput
+Reverb Predelay Time	0	4194304	Value	ValueOutput
+Chorus Macro	0	4194304	Value	ValueOutput
+Chorus Pre-LPF	0	4194304	Value	ValueOutput
+Chorus Level	0	4194304	Value	ValueOutput
+Chorus Feedback	0	4194304	Value	ValueOutput
+Chorus Delay	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Send Level to Rev	0	4194304	Value	ValueOutput
+Chorus Send Level to Del	0	4194304	Value	ValueOutput
+Delay Macro	0	4194304	Value	ValueOutput
+Delay Pre-LPF	0	4194304	Value	ValueOutput
+Delay Time Center	0	4194304	Value	ValueOutput
+Delay Time Ratio Left	0	4194304	Value	ValueOutput
+Delay Time Ratio Right	0	4194304	Value	ValueOutput
+Delay Level Center	0	4194304	Value	ValueOutput
+Delay Level Left	0	4194304	Value	ValueOutput
+Delay Level Right	0	4194304	Value	ValueOutput
+Delay Level	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Send Level to Rev	0	4194304	Value	ValueOutput
+EQ Low Freq	0	4194304	Value	ValueOutput
+EQ Low Gain	0	4194304	Value	ValueOutput
+EQ High Freq	0	4194304	Value	ValueOutput
+EQ High Gain	0	4194304	Value	ValueOutput
+EFX Parameter 1	0	4194304	Value	ValueOutput
+EFX Parameter 2	0	4194304	Value	ValueOutput
+EFX Parameter 3	0	4194304	Value	ValueOutput
+EFX Parameter 4	0	4194304	Value	ValueOutput
+EFX Parameter 5	0	4194304	Value	ValueOutput
+EFX Parameter 6	0	4194304	Value	ValueOutput
+EFX Parameter 7	0	4194304	Value	ValueOutput
+EFX Parameter 8	0	4194304	Value	ValueOutput
+EFX Parameter 9	0	4194304	Value	ValueOutput
+EFX Parameter 10	0	4194304	Value	ValueOutput
+EFX Parameter 11	0	4194304	Value	ValueOutput
+EFX Parameter 12	0	4194304	Value	ValueOutput
+EFX Parameter 13	0	4194304	Value	ValueOutput
+EFX Parameter 14	0	4194304	Value	ValueOutput
+EFX Parameter 15	0	4194304	Value	ValueOutput
+EFX Parameter 16	0	4194304	Value	ValueOutput
+EFX Parameter 17	0	4194304	Value	ValueOutput
+EFX Parameter 18	0	4194304	Value	ValueOutput
+EFX Parameter 19	0	4194304	Value	ValueOutput
+EFX Parameter 20	0	4194304	Value	ValueOutput
+Send Level to Reverb	0	4194304	Value	ValueOutput
+Send Level to Chorus	0	4194304	Value	ValueOutput
+Send Level to Delay	0	4194304	Value	ValueOutput
+EFX Send EQ Switch	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

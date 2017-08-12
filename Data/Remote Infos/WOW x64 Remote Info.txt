@@ -1,0 +1,83 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	vst.sbwo.WOW x64
+Note: Will match scope definitions for vst.sbwo.WOW x64 or vst.sbwo
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Vowelcutoff	0	4194304	Value	ValueOutput
+Master	0	4194304	Value	ValueOutput
+Mix_Dry_Wet	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Overdrive	0	4194304	Value	ValueOutput
+EF_Freq_Range	0	4194304	Value	ValueOutput
+EFAttack	0	4194304	Value	ValueOutput
+EFRelease	0	4194304	Value	ValueOutput
+EF_Gain	0	4194304	Value	ValueOutput
+LFO_Rate	0	4194304	Value	ValueOutput
+LFO_Wave	0	4194304	Value	ValueOutput
+LFO_TrigOnOff	0	4194304	Value	ValueOutput
+LFO_TrigSens	0	4194304	Value	ValueOutput
+Stepseq_Glide	0	4194304	Value	ValueOutput
+xxx	0	4194304	Value	ValueOutput
+Stepseq_Tempo	0	4194304	Value	ValueOutput
+CutoffEFAmt	0	4194304	Value	ValueOutput
+CutoffLFOAmt	0	4194304	Value	ValueOutput
+CutoffSeqAmt	0	4194304	Value	ValueOutput
+VowelEFAmt	0	4194304	Value	ValueOutput
+VowelLFOAmt	0	4194304	Value	ValueOutput
+VowelSeqAmt	0	4194304	Value	ValueOutput
+ResoEFAmt	0	4194304	Value	ValueOutput
+ResoLFOAmt	0	4194304	Value	ValueOutput
+ResoSeqAmt	0	4194304	Value	ValueOutput
+DriveEFAmt	0	4194304	Value	ValueOutput
+DriveLFOAmt	0	4194304	Value	ValueOutput
+DriveSeqAmt	0	4194304	Value	ValueOutput
+MixEFAmt	0	4194304	Value	ValueOutput
+MixLFOAmt	0	4194304	Value	ValueOutput
+MixSeqAmt	0	4194304	Value	ValueOutput
+EFRangeLFOmod	0	4194304	Value	ValueOutput
+EFRangeSEQmod	0	4194304	Value	ValueOutput
+EFAttLFOmod	0	4194304	Value	ValueOutput
+EFAttSeqMod	0	4194304	Value	ValueOutput
+EFRelLFOMod	0	4194304	Value	ValueOutput
+EFRelSeqMod	0	4194304	Value	ValueOutput
+EFGainLFOMod	0	4194304	Value	ValueOutput
+EFGainSeqMod	0	4194304	Value	ValueOutput
+LFOrateEFmod	0	4194304	Value	ValueOutput
+LFOrateSeqmod	0	4194304	Value	ValueOutput
+LFOwaveEFmod	0	4194304	Value	ValueOutput
+LFOwaveSeqmod	0	4194304	Value	ValueOutput
+LFOtrigEFmod	0	4194304	Value	ValueOutput
+LFOtrigSEQmod	0	4194304	Value	ValueOutput
+SeqtempoEFmod	0	4194304	Value	ValueOutput
+SeqtempoLFOmod	0	4194304	Value	ValueOutput
+SeqGlideEFmod	0	4194304	Value	ValueOutput
+SeqGlideLFOmod	0	4194304	Value	ValueOutput
+MasterEFamt	0	4194304	Value	ValueOutput
+MasterLFOamt	0	4194304	Value	ValueOutput
+MasterSEQamt	0	4194304	Value	ValueOutput
+empty	0	4194304	Value	ValueOutput
+empty	0	4194304	Value	ValueOutput
+empty	0	4194304	Value	ValueOutput
+empty	0	4194304	Value	ValueOutput
+empty	0	4194304	Value	ValueOutput
+Vowel_A	0	4194304	Value	ValueOutput
+Vowel_B	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

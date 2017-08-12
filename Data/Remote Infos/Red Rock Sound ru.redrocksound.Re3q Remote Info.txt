@@ -1,0 +1,19 @@
+Scope
+Manufacturer	Model
+Red Rock Sound	ru.redrocksound.Re3q
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Input Attenutaion	0	4194304	Value	ValueOutput
+Sub 10Hz	0	4194304	Value	ValueOutput
+Band 40Hz	0	4194304	Value	ValueOutput
+Band 160Hz	0	4194304	Value	ValueOutput
+Band 650Hz	0	4194304	Value	ValueOutput
+Band 2500Hz	0	4194304	Value	ValueOutput
+Rock Gain	0	4194304	Value	ValueOutput
+Rock Band	0	5	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,210 @@
+Scope
+Manufacturer	Model
+Studio Corbach	nl.studiocorbach.MixfoodUnisonXs
+
+Remotable	Min	Max	Input type	Output type
+Volume	0	4194304	Value	ValueOutput
+Sample Quality	0	2	Value	ValueOutput
+Glide Time Osc 1	0	4194304	Value	ValueOutput
+Pan Left-Right	0	4194304	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+AMP/Filter Envelope Switch	0	1	Toggle	ValueOutput
+Osc 1 and 2 On/Off	0	1	Toggle	ValueOutput
+Pitchbend Range	0	12	Value	ValueOutput
+Modwheel Filter Cutoff Depth	0	4194304	Value	ValueOutput
+Modwheel Filter Resonance Depth	0	4194304	Value	ValueOutput
+Modwheel Sub Osc On/Off	0	1	Toggle	ValueOutput
+Master Filter Type	0	5	Value	ValueOutput
+Master Filter Cutoff	0	4194304	Value	ValueOutput
+Master Filter Resonance	0	4194304	Value	ValueOutput
+Level Osc 1	0	4194304	Value	ValueOutput
+Waveform Osc 1	0	549	Value	ValueOutput
+Semitones Tune Osc 1	0	4194304	Value	ValueOutput
+Fine Tune Osc 1	0	4194304	Value	ValueOutput
+Sample Shaper Osc 1	0	4194304	Value	ValueOutput
+Level Osc 2	0	4194304	Value	ValueOutput
+Waveform Osc 2	0	549	Value	ValueOutput
+Semitones Tune Osc 2	0	4194304	Value	ValueOutput
+Fine Tune Osc 2	0	4194304	Value	ValueOutput
+Sample Shaper Osc 2	0	4194304	Value	ValueOutput
+Osc 3 on/off	0	1	Toggle	ValueOutput
+Waveform Osc 3	0	24	Value	ValueOutput
+Level Osc 3	0	4194304	Value	ValueOutput
+Semitones Tune Osc 3	0	4194304	Value	ValueOutput
+Fine Tune Osc 3	0	4194304	Value	ValueOutput
+Sample Start Osc 3	0	4194304	Value	ValueOutput
+Pan Left-Right Osc 3	0	4194304	Value	ValueOutput
+Envelope Switch Osc 3	0	1	Toggle	ValueOutput
+Cutoff Sub Osc	0	4194304	Value	ValueOutput
+Resonance Sub Osc	0	4194304	Value	ValueOutput
+Level Sub Osc	0	4194304	Value	ValueOutput
+Waveform Sub Osc	0	6	Value	ValueOutput
+Semitones Tune Sub Osc	0	4194304	Value	ValueOutput
+Fine Tune Sub Osc	0	4194304	Value	ValueOutput
+Glide Time Sub Osc	0	4194304	Value	ValueOutput
+Unison Voices	0	2	Value	ValueOutput
+Unison Detune	0	4194304	Value	ValueOutput
+Unison Spread	0	4194304	Value	ValueOutput
+Filter Type	0	3	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filtertype Osc 3	0	3	Value	ValueOutput
+Filter Cutoff Osc 3	0	4194304	Value	ValueOutput
+Filter Resonance Osc 3	0	4194304	Value	ValueOutput
+Haas Effect On/Off	0	1	Toggle	ValueOutput
+Haas Effect Width	0	4194304	Value	ValueOutput
+Haas Effect Swap Left/Right	0	1	Toggle	ValueOutput
+EQ 1 Gain	0	4194304	Value	ValueOutput
+EQ 1 Frequency	0	4194304	Value	ValueOutput
+EQ 1 Q	0	4194304	Value	ValueOutput
+EQ 2 Gain	0	4194304	Value	ValueOutput
+EQ 2 Frequency	0	4194304	Value	ValueOutput
+EQ 2 Q	0	4194304	Value	ValueOutput
+EQ 1 Gain Osc 3	0	4194304	Value	ValueOutput
+EQ 1 Frequency Osc 3	0	4194304	Value	ValueOutput
+EQ 1 Q Osc 3	0	4194304	Value	ValueOutput
+EQ 2 Gain Osc 3	0	4194304	Value	ValueOutput
+EQ 2 Frequency Osc 3	0	4194304	Value	ValueOutput
+EQ 2 Q Osc 3	0	4194304	Value	ValueOutput
+Distortion Drive	0	4194304	Value	ValueOutput
+Distortion Mode	0	1	Toggle	ValueOutput
+Distortion Low Cut	0	4194304	Value	ValueOutput
+Distortion High Cut	0	4194304	Value	ValueOutput
+Distortion Mix	0	4194304	Value	ValueOutput
+Flanger Rate	0	4194304	Value	ValueOutput
+Flanger Depth	0	4194304	Value	ValueOutput
+Flanger Delay	0	4194304	Value	ValueOutput
+Flanger Feedback	0	4194304	Value	ValueOutput
+Flanger Phase	0	4194304	Value	ValueOutput
+Flanger Mix	0	4194304	Value	ValueOutput
+Phaser Rate	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Phaser Feedback	0	4194304	Value	ValueOutput
+Phaser Center	0	4194304	Value	ValueOutput
+Phaser Spread	0	4194304	Value	ValueOutput
+Phaser Mix	0	4194304	Value	ValueOutput
+Phaser Rate Osc 3	0	4194304	Value	ValueOutput
+Phaser Depth Osc 3	0	4194304	Value	ValueOutput
+Phaser Feedback Osc 3	0	4194304	Value	ValueOutput
+Phaser Center Osc 3	0	4194304	Value	ValueOutput
+Phaser Spread Osc 3	0	4194304	Value	ValueOutput
+Phaser Mix Osc 3	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Delay	0	4194304	Value	ValueOutput
+Chorus Voices	0	3	Value	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Chorus Rate Osc 3	0	4194304	Value	ValueOutput
+Chorus Depth Osc 3	0	4194304	Value	ValueOutput
+Chorus Mix Osc 3	0	4194304	Value	ValueOutput
+Delay Time (sync)	0	15	Value	ValueOutput
+Delay Sync On/Off	0	1	Toggle	ValueOutput
+Delay Time (linear)	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Delay Left/Right	0	4194304	Value	ValueOutput
+Delay Mode	0	3	Value	ValueOutput
+Delay Time (sync) Osc 3	0	15	Value	ValueOutput
+Delay Sync On/Off Osc 3	0	1	Toggle	ValueOutput
+Delay Time (linear) Osc 3	0	4194304	Value	ValueOutput
+Delay Feedback Osc 3	0	4194304	Value	ValueOutput
+Delay Mix Osc 3	0	4194304	Value	ValueOutput
+Delay Left/Right Osc 3	0	4194304	Value	ValueOutput
+Delay Mode Osc 3	0	3	Value	ValueOutput
+Reverb Time	0	4194304	Value	ValueOutput
+Reverb Pre Delay	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Reverb Low Cut	0	4194304	Value	ValueOutput
+Reverb High Cut	0	4194304	Value	ValueOutput
+Reverb Damping	0	4194304	Value	ValueOutput
+Reverb Time Osc 3	0	4194304	Value	ValueOutput
+Reverb Pre Delay Osc 3	0	4194304	Value	ValueOutput
+Reverb Mix Osc 3	0	4194304	Value	ValueOutput
+Reverb Low Cut Osc 3	0	4194304	Value	ValueOutput
+Reverb High Cut Osc 3	0	4194304	Value	ValueOutput
+Reverb Damping Osc 3	0	4194304	Value	ValueOutput
+Eq Fx Freuency	0	4194304	Value	ValueOutput
+Eq Fx Width	0	4194304	Value	ValueOutput
+Eq Fx Gain	0	4194304	Value	ValueOutput
+EQ Fx Frequency Osc 3	0	4194304	Value	ValueOutput
+EQ Fx Width Osc 3	0	4194304	Value	ValueOutput
+EQ Fx Gain Osc 3	0	4194304	Value	ValueOutput
+Pitchdrop Depth	0	4194304	Value	ValueOutput
+Pitchdrop Smooth	0	4194304	Value	ValueOutput
+Pitchdrop Sub Osc On/Off	0	1	Toggle	ValueOutput
+Pitchdrop Depth Osc 3	0	4194304	Value	ValueOutput
+Pitchdrop Smooth Osc 3	0	4194304	Value	ValueOutput
+LFO Waveform	0	5	Value	ValueOutput
+LFO Rate (linear)	0	4194304	Value	ValueOutput
+LFO Rate (sync)	0	44	Value	ValueOutput
+LFO Start Phase	0	4194304	Value	ValueOutput
+LFO Sync	0	1	Toggle	ValueOutput
+LFO Retrigger	0	1	Toggle	ValueOutput
+LFO Tune Depth	0	4194304	Value	ValueOutput
+LFO Tune Smooth	0	4194304	Value	ValueOutput
+LFO Volume Depth	0	4194304	Value	ValueOutput
+LFO Volume Smooth	0	4194304	Value	ValueOutput
+LFO Pan Depth	0	4194304	Value	ValueOutput
+LFO Pan Smooth	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Depth	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Smooth	0	4194304	Value	ValueOutput
+LFO Filter Resonance Depth	0	4194304	Value	ValueOutput
+LFO Filter Resonance Smooth	0	4194304	Value	ValueOutput
+LFO Sub Osc On/Off	0	1	Toggle	ValueOutput
+LFO Eq Fx Frequency Depth	0	4194304	Value	ValueOutput
+LFO Eq Fx Frequency Smooth	0	4194304	Value	ValueOutput
+LFO Waveform Osc 3	0	5	Value	ValueOutput
+LFO Rate (linear) Osc 3	0	4194304	Value	ValueOutput
+LFO Rate (sync) Osc 3	0	44	Value	ValueOutput
+LFO Start Phase Osc 3	0	4194304	Value	ValueOutput
+LFO Sync Phase Osc 3	0	1	Toggle	ValueOutput
+LFO Retrig Phase Osc 3	0	1	Toggle	ValueOutput
+LFO EQ Fx Frequency Depth Osc 3	0	4194304	Value	ValueOutput
+LFO EQ Fx Smooth Osc 3	0	4194304	Value	ValueOutput
+LFO Tune Depth Osc 3	0	4194304	Value	ValueOutput
+LFO Tune Smooth Osc 3	0	4194304	Value	ValueOutput
+LFO Volume Depth Osc 3	0	4194304	Value	ValueOutput
+LFO Volume Smooth Osc 3	0	4194304	Value	ValueOutput
+LFO Pan Depth Osc 3	0	4194304	Value	ValueOutput
+LFO Pan Smooth Osc 3	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Depth Osc 3	0	4194304	Value	ValueOutput
+LFO Filter Cutoff Smooth Osc 3	0	4194304	Value	ValueOutput
+LFO Filter Resonance Depth Osc 3	0	4194304	Value	ValueOutput
+LFO Filter Resonance Smooth Osc 3	0	4194304	Value	ValueOutput
+Amp Envelope Amount	0	4194304	Value	ValueOutput
+Amp Envelope Invert	0	1	Toggle	ValueOutput
+Amp Envelope Attack	0	4194304	Value	ValueOutput
+Amp Envelope Decay	0	4194304	Value	ValueOutput
+Amp Envelope Sustain	0	4194304	Value	ValueOutput
+Amp Envelope Release	0	4194304	Value	ValueOutput
+Amp Envelope Sub Osc On/Off	0	1	Toggle	ValueOutput
+Amp Envelope Amount Osc 3	0	4194304	Value	ValueOutput
+Amp Envelope Invert Osc 3	0	1	Toggle	ValueOutput
+Amp Envelope Attack Osc 3	0	4194304	Value	ValueOutput
+Amp Envelope Decay Osc 3	0	4194304	Value	ValueOutput
+Amp Envelope Sustain Osc 3	0	4194304	Value	ValueOutput
+Amp Envelope Release Osc 3	0	4194304	Value	ValueOutput
+Filter Envelope Depth	0	4194304	Value	ValueOutput
+Filter Envelope Invert	0	1	Toggle	ValueOutput
+Filter Envelope Attack	0	4194304	Value	ValueOutput
+Filter Envelope Decay	0	4194304	Value	ValueOutput
+Filter Envelope Sustain	0	4194304	Value	ValueOutput
+Filter Envelope Release	0	4194304	Value	ValueOutput
+Filter Envelope Sub Osc On/Off	0	1	Toggle	ValueOutput
+Filter Envelope Amount Osc 3	0	4194304	Value	ValueOutput
+Filter Envelope Invert Osc 3	0	1	Toggle	ValueOutput
+Filter Envelope Attack Osc 3	0	4194304	Value	ValueOutput
+Filter Envelope Decay Osc 3	0	4194304	Value	ValueOutput
+Filter Envelope Sustain Osc 3	0	4194304	Value	ValueOutput
+Filter Envelope Release Osc 3	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

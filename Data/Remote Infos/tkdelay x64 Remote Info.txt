@@ -1,0 +1,73 @@
+Scope
+Manufacturer	Model
+Tritik	vst.tkDl.tkdelay x64
+Note: Will match scope definitions for vst.tkDl.tkdelay x64 or vst.tkDl
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Delays Link	0	4194304	Value	ValueOutput
+Phase Left	0	4194304	Value	ValueOutput
+Phase Right	0	4194304	Value	ValueOutput
+Input Gains Link	0	4194304	Value	ValueOutput
+Left Input Gain	0	4194304	Value	ValueOutput
+Right Input Gain	0	4194304	Value	ValueOutput
+Times Link	0	4194304	Value	ValueOutput
+Sync Left	0	4194304	Value	ValueOutput
+Sync Right	0	4194304	Value	ValueOutput
+Time Left	0	4194304	Value	ValueOutput
+Time Right	0	4194304	Value	ValueOutput
+Time Synced Left	0	4194304	Value	ValueOutput
+Time Synced Righ	0	4194304	Value	ValueOutput
+Feedback Link	0	4194304	Value	ValueOutput
+Feedback Left	0	4194304	Value	ValueOutput
+Feedback Right	0	4194304	Value	ValueOutput
+Feedback Crossin	0	4194304	Value	ValueOutput
+Mod Link	0	4194304	Value	ValueOutput
+Left Mod Rate	0	4194304	Value	ValueOutput
+Left Mod Amp	0	4194304	Value	ValueOutput
+Right Mod Rate	0	4194304	Value	ValueOutput
+Right Mod Amp	0	4194304	Value	ValueOutput
+Reverse	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Freq Shift Link	0	4194304	Value	ValueOutput
+Freq Shift Left	0	4194304	Value	ValueOutput
+Freq Shift Right	0	4194304	Value	ValueOutput
+Filter Type	0	4194304	Value	ValueOutput
+Filter Active	0	4194304	Value	ValueOutput
+Filter In Feedba	0	4194304	Value	ValueOutput
+LP Filter Freq	0	4194304	Value	ValueOutput
+LP Filter Res	0	4194304	Value	ValueOutput
+BP Filter Freq	0	4194304	Value	ValueOutput
+BP Filter Bandwi	0	4194304	Value	ValueOutput
+HP Filter Freq	0	4194304	Value	ValueOutput
+HP Filter Res	0	4194304	Value	ValueOutput
+HPLP Filter HP F	0	4194304	Value	ValueOutput
+HPLP Filter LP F	0	4194304	Value	ValueOutput
+Filter LFO Rate	0	4194304	Value	ValueOutput
+Filter LFO Depth	0	4194304	Value	ValueOutput
+Filter Sync	0	4194304	Value	ValueOutput
+Filter Synced Ti	0	4194304	Value	ValueOutput
+Ducking Active	0	4194304	Value	ValueOutput
+Ducking Threshol	0	4194304	Value	ValueOutput
+Ducking Ratio	0	4194304	Value	ValueOutput
+Ducking Attack	0	4194304	Value	ValueOutput
+Ducking Release	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

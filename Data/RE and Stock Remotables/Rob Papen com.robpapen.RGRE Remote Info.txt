@@ -1,0 +1,510 @@
+Scope
+Manufacturer	Model
+Rob Papen	com.robpapen.RGRE
+
+Remotable	Min	Max	Input type	Output type
+Model_Type	0	5	Value	ValueOutput
+Down Volume	0	4194304	Value	ValueOutput
+Up Volume	0	4194304	Value	ValueOutput
+Ghost Volume	0	4194304	Value	ValueOutput
+Down Decay	0	4194304	Value	ValueOutput
+Up Decay	0	4194304	Value	ValueOutput
+Ghost Decay	0	4194304	Value	ValueOutput
+Filter Mode	0	14	Value	ValueOutput
+Filter Cutoff Frequency	0	4194304	Value	ValueOutput
+Filter Q	0	4194304	Value	ValueOutput
+Filter Vowel	0	4194304	Value	ValueOutput
+Filter Distortion	0	4194304	Value	ValueOutput
+Filter Envelope Amount	0	4194304	Value	ValueOutput
+Velocity > Filter Frequency	0	4194304	Value	ValueOutput
+Mod Wheel > Filter Frequency	0	4194304	Value	ValueOutput
+Filter LFO Amount	0	4194304	Value	ValueOutput
+Filter LFO Mode	0	1	Toggle	ValueOutput
+Filter LFO Type	0	5	Value	ValueOutput
+Filter LFO Speed Sync	0	1	Toggle	ValueOutput
+Filter LFO Speed MS	0	4194304	Value	ValueOutput
+Filter LFO Speed QB	0	33	Value	ValueOutput
+Filter LFO Mod Source	0	31	Value	ValueOutput
+Filter LFO Mod Amount	0	4194304	Value	ValueOutput
+Filter Envelope Attack	0	4194304	Value	ValueOutput
+Filter Envelope Decay	0	4194304	Value	ValueOutput
+Filter Envelope Sustain	0	4194304	Value	ValueOutput
+Filter Envelope Fade	0	4194304	Value	ValueOutput
+Filter Envelope Release	0	4194304	Value	ValueOutput
+Pitch LFO Amount	0	4194304	Value	ValueOutput
+Pitch LFO Speed Sync	0	1	Toggle	ValueOutput
+Pitch LFO Speed MS	0	4194304	Value	ValueOutput
+Pitch LFO Speed QB	0	33	Value	ValueOutput
+Pitch LFO Mod Amount	0	4194304	Value	ValueOutput
+Pitch LFO Mod Source	0	31	Value	ValueOutput
+Pitch Bend Up	0	15	Value	ValueOutput
+Pitch Bend Down	0	15	Value	ValueOutput
+Velocity > Volume	0	4194304	Value	ValueOutput
+Main Panning	0	4194304	Value	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Mod 1 Source	0	31	Value	ValueOutput
+Mod 1 Amount	0	4194304	Value	ValueOutput
+Mod 1 Destination	0	22	Value	ValueOutput
+Mod 2 Source	0	31	Value	ValueOutput
+Mod 2 Amount	0	4194304	Value	ValueOutput
+Mod 2 Destination	0	22	Value	ValueOutput
+EQ On / Off	0	1	Toggle	ValueOutput
+EQ 60hz	0	4194304	Value	ValueOutput
+EQ 200hz	0	4194304	Value	ValueOutput
+EQ 600hz	0	4194304	Value	ValueOutput
+EQ 2kHz	0	4194304	Value	ValueOutput
+EQ 8Khz	0	4194304	Value	ValueOutput
+FX On/Off	0	1	Toggle	ValueOutput
+FX1 Bypass	0	1	Toggle	ValueOutput
+FX1 Type	0	21	Value	ValueOutput
+FX1 Mix	0	4194304	Value	ValueOutput
+FX1 Pan	0	4194304	Value	ValueOutput
+FX1 None1	0	4194304	Value	ValueOutput
+FX1 None2	0	4194304	Value	ValueOutput
+FX1 None3	0	4194304	Value	ValueOutput
+FX1 None4	0	4194304	Value	ValueOutput
+FX1 None5	0	4194304	Value	ValueOutput
+FX1 None6	0	4194304	Value	ValueOutput
+FX1 None7	0	4194304	Value	ValueOutput
+FX1 None8	0	4194304	Value	ValueOutput
+FX1 Mono Delay Length	0	14	Value	ValueOutput
+FX1 Mono Delay Feedback	0	4194304	Value	ValueOutput
+FX1 Mono Delay LP Filter	0	4194304	Value	ValueOutput
+FX1 Mono Delay HP Filter	0	4194304	Value	ValueOutput
+FX1 Mono Delay Widen	0	4194304	Value	ValueOutput
+FX1 Mono Delay Mod Amount	0	4194304	Value	ValueOutput
+FX1 Mono Delay Mod Speed	0	4194304	Value	ValueOutput
+FX1 Stereo Delay Left Delay	0	14	Value	ValueOutput
+FX1 Stereo Delay Right Delay	0	14	Value	ValueOutput
+FX1 Stereo Delay Feedback	0	4194304	Value	ValueOutput
+FX1 Stereo Delay CrossFeed	0	4194304	Value	ValueOutput
+FX1 Stereo Delay LP Filter	0	4194304	Value	ValueOutput
+FX1 Stereo Delay HP Filter	0	4194304	Value	ValueOutput
+FX1 Stereo Delay Mod Amount	0	4194304	Value	ValueOutput
+FX1 Stereo Delay Feed Equal	0	1	Toggle	ValueOutput
+FX1 Comb Filter Frequency 1	0	4194304	Value	ValueOutput
+FX1 Comb Filter Feed 1	0	4194304	Value	ValueOutput
+FX1 Comb Filter Mod 1	0	4194304	Value	ValueOutput
+FX1 Comb Filter Mod Speed 1	0	30	Value	ValueOutput
+FX1 Comb Filter Frequency 2	0	4194304	Value	ValueOutput
+FX1 Comb Filter Feed 2	0	4194304	Value	ValueOutput
+FX1 Comb Filter Mod 2	0	4194304	Value	ValueOutput
+FX1 Comb Filter Mod Speed 2	0	30	Value	ValueOutput
+FX1 Reverb Pre	0	4194304	Value	ValueOutput
+FX1 Reverb Size	0	4194304	Value	ValueOutput
+FX1 Reverb Length	0	4194304	Value	ValueOutput
+FX1 Reverb Damp	0	4194304	Value	ValueOutput
+FX1 Reverb Spread	0	4194304	Value	ValueOutput
+FX1 Reverb LP Filter	0	4194304	Value	ValueOutput
+FX1 Reverb HP Filter	0	4194304	Value	ValueOutput
+FX1 Chorus Length	0	4194304	Value	ValueOutput
+FX1 Chorus Width	0	4194304	Value	ValueOutput
+FX1 Chorus Speed	0	4194304	Value	ValueOutput
+FX1 Chorus Spread	0	4194304	Value	ValueOutput
+FX1 Chorus LP Filter	0	4194304	Value	ValueOutput
+FX1 Chorus Widen	0	4194304	Value	ValueOutput
+FX1 Chorus / Delay Length	0	4194304	Value	ValueOutput
+FX1 Chorus / Delay Width	0	4194304	Value	ValueOutput
+FX1 Chorus / Delay Speed	0	4194304	Value	ValueOutput
+FX1 Chorus / Delay Spread	0	4194304	Value	ValueOutput
+FX1 Chorus / Delay Delay Length	0	14	Value	ValueOutput
+FX1 Chorus / Delay Delay Feed	0	4194304	Value	ValueOutput
+FX1 Chorus / Delay Delay Volume	0	4194304	Value	ValueOutput
+FX1 Flanger Length	0	4194304	Value	ValueOutput
+FX1 Flanger Width	0	4194304	Value	ValueOutput
+FX1 Flanger Speed	0	30	Value	ValueOutput
+FX1 Flanger Feedback	0	4194304	Value	ValueOutput
+FX1 Flanger Pan Mod	0	4194304	Value	ValueOutput
+FX1 Flanger LP Filter	0	4194304	Value	ValueOutput
+FX1 Flanger HP Filter	0	4194304	Value	ValueOutput
+FX1 Phaser Stages	0	7	Value	ValueOutput
+FX1 Phaser Pitch	0	4194304	Value	ValueOutput
+FX1 Phaser Feedback	0	4194304	Value	ValueOutput
+FX1 Phaser Width	0	4194304	Value	ValueOutput
+FX1 Phaser Speed	0	30	Value	ValueOutput
+FX1 Phaser Spread	0	4194304	Value	ValueOutput
+FX1 Phaser Pan	0	4194304	Value	ValueOutput
+FX1 Ensemble Length	0	4194304	Value	ValueOutput
+FX1 Ensemble Width	0	4194304	Value	ValueOutput
+FX1 Ensemble Speed	0	4194304	Value	ValueOutput
+FX1 Ensemble Feedback	0	4194304	Value	ValueOutput
+FX1 Ensemble Amount	0	4194304	Value	ValueOutput
+FX1 Ensemble Spread	0	4194304	Value	ValueOutput
+FX1 FX Filter Type	0	13	Value	ValueOutput
+FX1 FX Filter Frequency	0	4194304	Value	ValueOutput
+FX1 FX Filter Q	0	4194304	Value	ValueOutput
+FX1 FX Filter Distort	0	4194304	Value	ValueOutput
+FX1 FX Filter Smooth	0	4194304	Value	ValueOutput
+FX1 WahWah Delay Low Frequency	0	4194304	Value	ValueOutput
+FX1 WahWah Delay High Frequency	0	4194304	Value	ValueOutput
+FX1 WahWah Delay Speed	0	30	Value	ValueOutput
+FX1 WahWah Delay Res	0	4194304	Value	ValueOutput
+FX1 WahWah Delay Length	0	14	Value	ValueOutput
+FX1 WahWah Delay Feedback	0	4194304	Value	ValueOutput
+FX1 WahWah Delay Volume	0	4194304	Value	ValueOutput
+FX1 AutoWah Type	0	1	Toggle	ValueOutput
+FX1 AutoWah Low Frequency	0	4194304	Value	ValueOutput
+FX1 AutoWah High Frequency	0	4194304	Value	ValueOutput
+FX1 AutoWah Amount	0	4194304	Value	ValueOutput
+FX1 AutoWah Q	0	4194304	Value	ValueOutput
+FX1 AutoWah Smooth	0	4194304	Value	ValueOutput
+FX1 Amp Sim Type	0	5	Value	ValueOutput
+FX1 Amp Sim Distort	0	4194304	Value	ValueOutput
+FX1 Amp Sim Bass	0	4194304	Value	ValueOutput
+FX1 Amp Sim Treble	0	4194304	Value	ValueOutput
+FX1 Amp Sim Boost	0	4194304	Value	ValueOutput
+FX1 Cab Sim Type	0	3	Value	ValueOutput
+FX1 Cab Sim Distort	0	4194304	Value	ValueOutput
+FX1 Cab Sim Bass	0	4194304	Value	ValueOutput
+FX1 Cab Sim Treble	0	4194304	Value	ValueOutput
+FX1 Cab Sim Boost	0	4194304	Value	ValueOutput
+FX1 Distort Limit	0	4194304	Value	ValueOutput
+FX1 Distort Rectification	0	4194304	Value	ValueOutput
+FX1 Distort Saturation	0	4194304	Value	ValueOutput
+FX1 Distort Tone	0	4194304	Value	ValueOutput
+FX1 Distort Emphasis	0	4194304	Value	ValueOutput
+FX1 Distort Boost	0	4194304	Value	ValueOutput
+FX1 Distort Mod Wheel	0	4194304	Value	ValueOutput
+FX1 Low Fi Bits	0	4194304	Value	ValueOutput
+FX1 Low Fi Sample Rate	0	4194304	Value	ValueOutput
+FX1 Low Fi LP Filter	0	4194304	Value	ValueOutput
+FX1 Low Fi Mod Wheel	0	4194304	Value	ValueOutput
+FX1 Waveshaper Top	0	4194304	Value	ValueOutput
+FX1 Waveshaper Bottom	0	4194304	Value	ValueOutput
+FX1 Waveshaper Rectification	0	4194304	Value	ValueOutput
+FX1 Waveshaper LP Filter	0	4194304	Value	ValueOutput
+FX1 Waveshaper Mod Amount	0	4194304	Value	ValueOutput
+FX1 Waveshaper Mod Speed	0	30	Value	ValueOutput
+FX1 Multi-Distort Type	0	11	Value	ValueOutput
+FX1 Multi-Distort PreBoost	0	4194304	Value	ValueOutput
+FX1 Multi-Distort Amount 1	0	4194304	Value	ValueOutput
+FX1 Multi-Distort Amount 2	0	4194304	Value	ValueOutput
+FX1 Multi-Distort Normalize	0	4194304	Value	ValueOutput
+FX1 Multi-Distort LP Filter	0	4194304	Value	ValueOutput
+FX1 Multi-Distort HP Filter	0	4194304	Value	ValueOutput
+FX1 Multi-Distort Boost	0	4194304	Value	ValueOutput
+FX1 Widener Amount	0	4194304	Value	ValueOutput
+FX1 Widener Width	0	4194304	Value	ValueOutput
+FX1 Widener Speed	0	4194304	Value	ValueOutput
+FX1 Widener LP Filter	0	4194304	Value	ValueOutput
+FX1 Widener HP Filter	0	4194304	Value	ValueOutput
+FX1 AutoPan Amount	0	4194304	Value	ValueOutput
+FX1 AutoPan Speed	0	30	Value	ValueOutput
+FX1 Compressor Threshold	0	4194304	Value	ValueOutput
+FX1 Compressor Ratio	0	4194304	Value	ValueOutput
+FX1 Compressor Attack	0	4194304	Value	ValueOutput
+FX1 Compressor Release	0	4194304	Value	ValueOutput
+FX1 Compressor Boost	0	4194304	Value	ValueOutput
+FX2 Bypass	0	1	Toggle	ValueOutput
+FX2 Type	0	21	Value	ValueOutput
+FX2 Mix	0	4194304	Value	ValueOutput
+FX2 Pan	0	4194304	Value	ValueOutput
+FX2 None1	0	4194304	Value	ValueOutput
+FX2 None2	0	4194304	Value	ValueOutput
+FX2 None3	0	4194304	Value	ValueOutput
+FX2 None4	0	4194304	Value	ValueOutput
+FX2 None5	0	4194304	Value	ValueOutput
+FX2 None6	0	4194304	Value	ValueOutput
+FX2 None7	0	4194304	Value	ValueOutput
+FX2 None8	0	4194304	Value	ValueOutput
+FX2 Mono Delay Length	0	14	Value	ValueOutput
+FX2 Mono Delay Feedback	0	4194304	Value	ValueOutput
+FX2 Mono Delay LP Filter	0	4194304	Value	ValueOutput
+FX2 Mono Delay HP Filter	0	4194304	Value	ValueOutput
+FX2 Mono Delay Widen	0	4194304	Value	ValueOutput
+FX2 Mono Delay Mod Amount	0	4194304	Value	ValueOutput
+FX2 Mono Delay Mod Speed	0	4194304	Value	ValueOutput
+FX2 Stereo Delay Left Delay	0	14	Value	ValueOutput
+FX2 Stereo Delay Right Delay	0	14	Value	ValueOutput
+FX2 Stereo Delay Feedback	0	4194304	Value	ValueOutput
+FX2 Stereo Delay CrossFeed	0	4194304	Value	ValueOutput
+FX2 Stereo Delay LP Filter	0	4194304	Value	ValueOutput
+FX2 Stereo Delay HP Filter	0	4194304	Value	ValueOutput
+FX2 Stereo Delay Mod Amount	0	4194304	Value	ValueOutput
+FX2 Stereo Delay Feed Equal	0	1	Toggle	ValueOutput
+FX2 Comb Filter Frequency 1	0	4194304	Value	ValueOutput
+FX2 Comb Filter Feed 1	0	4194304	Value	ValueOutput
+FX2 Comb Filter Mod 1	0	4194304	Value	ValueOutput
+FX2 Comb Filter Mod Speed 1	0	30	Value	ValueOutput
+FX2 Comb Filter Frequency 2	0	4194304	Value	ValueOutput
+FX2 Comb Filter Feed 2	0	4194304	Value	ValueOutput
+FX2 Comb Filter Mod 2	0	4194304	Value	ValueOutput
+FX2 Comb Filter Mod Speed 2	0	30	Value	ValueOutput
+FX2 Reverb Pre	0	4194304	Value	ValueOutput
+FX2 Reverb Size	0	4194304	Value	ValueOutput
+FX2 Reverb Length	0	4194304	Value	ValueOutput
+FX2 Reverb Damp	0	4194304	Value	ValueOutput
+FX2 Reverb Spread	0	4194304	Value	ValueOutput
+FX2 Reverb LP Filter	0	4194304	Value	ValueOutput
+FX2 Reverb HP Filter	0	4194304	Value	ValueOutput
+FX2 Chorus Length	0	4194304	Value	ValueOutput
+FX2 Chorus Width	0	4194304	Value	ValueOutput
+FX2 Chorus Speed	0	4194304	Value	ValueOutput
+FX2 Chorus Spread	0	4194304	Value	ValueOutput
+FX2 Chorus LP Filter	0	4194304	Value	ValueOutput
+FX2 Chorus Widen	0	4194304	Value	ValueOutput
+FX2 Chorus / Delay Length	0	4194304	Value	ValueOutput
+FX2 Chorus / Delay Width	0	4194304	Value	ValueOutput
+FX2 Chorus / Delay Speed	0	4194304	Value	ValueOutput
+FX2 Chorus / Delay Spread	0	4194304	Value	ValueOutput
+FX2 Chorus / Delay Delay Length	0	14	Value	ValueOutput
+FX2 Chorus / Delay Delay Feed	0	4194304	Value	ValueOutput
+FX2 Chorus / Delay Delay Volume	0	4194304	Value	ValueOutput
+FX2 Flanger Length	0	4194304	Value	ValueOutput
+FX2 Flanger Width	0	4194304	Value	ValueOutput
+FX2 Flanger Speed	0	30	Value	ValueOutput
+FX2 Flanger Feedback	0	4194304	Value	ValueOutput
+FX2 Flanger Pan Mod	0	4194304	Value	ValueOutput
+FX2 Flanger LP Filter	0	4194304	Value	ValueOutput
+FX2 Flanger HP Filter	0	4194304	Value	ValueOutput
+FX2 Phaser Stages	0	7	Value	ValueOutput
+FX2 Phaser Pitch	0	4194304	Value	ValueOutput
+FX2 Phaser Feedback	0	4194304	Value	ValueOutput
+FX2 Phaser Width	0	4194304	Value	ValueOutput
+FX2 Phaser Speed	0	30	Value	ValueOutput
+FX2 Phaser Spread	0	4194304	Value	ValueOutput
+FX2 Phaser Pan	0	4194304	Value	ValueOutput
+FX2 Ensemble Length	0	4194304	Value	ValueOutput
+FX2 Ensemble Width	0	4194304	Value	ValueOutput
+FX2 Ensemble Speed	0	4194304	Value	ValueOutput
+FX2 Ensemble Feedback	0	4194304	Value	ValueOutput
+FX2 Ensemble Amount	0	4194304	Value	ValueOutput
+FX2 Ensemble Spread	0	4194304	Value	ValueOutput
+FX2 FX Filter Type	0	13	Value	ValueOutput
+FX2 FX Filter Frequency	0	4194304	Value	ValueOutput
+FX2 FX Filter Q	0	4194304	Value	ValueOutput
+FX2 FX Filter Distort	0	4194304	Value	ValueOutput
+FX2 FX Filter Smooth	0	4194304	Value	ValueOutput
+FX2 WahWah Delay Low Frequency	0	4194304	Value	ValueOutput
+FX2 WahWah Delay High Frequency	0	4194304	Value	ValueOutput
+FX2 WahWah Delay Speed	0	30	Value	ValueOutput
+FX2 WahWah Delay Res	0	4194304	Value	ValueOutput
+FX2 WahWah Delay Length	0	14	Value	ValueOutput
+FX2 WahWah Delay Feedback	0	4194304	Value	ValueOutput
+FX2 WahWah Delay Volume	0	4194304	Value	ValueOutput
+FX2 AutoWah Type	0	1	Toggle	ValueOutput
+FX2 AutoWah Low Frequency	0	4194304	Value	ValueOutput
+FX2 AutoWah High Frequency	0	4194304	Value	ValueOutput
+FX2 AutoWah Amount	0	4194304	Value	ValueOutput
+FX2 AutoWah Q	0	4194304	Value	ValueOutput
+FX2 AutoWah Smooth	0	4194304	Value	ValueOutput
+FX2 Amp Sim Type	0	5	Value	ValueOutput
+FX2 Amp Sim Distort	0	4194304	Value	ValueOutput
+FX2 Amp Sim Bass	0	4194304	Value	ValueOutput
+FX2 Amp Sim Treble	0	4194304	Value	ValueOutput
+FX2 Amp Sim Boost	0	4194304	Value	ValueOutput
+FX2 Cab Sim Type	0	3	Value	ValueOutput
+FX2 Cab Sim Distort	0	4194304	Value	ValueOutput
+FX2 Cab Sim Bass	0	4194304	Value	ValueOutput
+FX2 Cab Sim Treble	0	4194304	Value	ValueOutput
+FX2 Cab Sim Boost	0	4194304	Value	ValueOutput
+FX2 Distort Limit	0	4194304	Value	ValueOutput
+FX2 Distort Rectification	0	4194304	Value	ValueOutput
+FX2 Distort Saturation	0	4194304	Value	ValueOutput
+FX2 Distort Tone	0	4194304	Value	ValueOutput
+FX2 Distort Emphasis	0	4194304	Value	ValueOutput
+FX2 Distort Boost	0	4194304	Value	ValueOutput
+FX2 Distort Mod Wheel	0	4194304	Value	ValueOutput
+FX2 Low Fi Bits	0	4194304	Value	ValueOutput
+FX2 Low Fi Sample Rate	0	4194304	Value	ValueOutput
+FX2 Low Fi LP Filter	0	4194304	Value	ValueOutput
+FX2 Low Fi Mod Wheel	0	4194304	Value	ValueOutput
+FX2 Waveshaper Top	0	4194304	Value	ValueOutput
+FX2 Waveshaper Bottom	0	4194304	Value	ValueOutput
+FX2 Waveshaper Rectification	0	4194304	Value	ValueOutput
+FX2 Waveshaper LP Filter	0	4194304	Value	ValueOutput
+FX2 Waveshaper Mod Amount	0	4194304	Value	ValueOutput
+FX2 Waveshaper Mod Speed	0	30	Value	ValueOutput
+FX2 Multi-Distort Type	0	11	Value	ValueOutput
+FX2 Multi-Distort PreBoost	0	4194304	Value	ValueOutput
+FX2 Multi-Distort Amount 1	0	4194304	Value	ValueOutput
+FX2 Multi-Distort Amount 2	0	4194304	Value	ValueOutput
+FX2 Multi-Distort Normalize	0	4194304	Value	ValueOutput
+FX2 Multi-Distort LP Filter	0	4194304	Value	ValueOutput
+FX2 Multi-Distort HP Filter	0	4194304	Value	ValueOutput
+FX2 Multi-Distort Boost	0	4194304	Value	ValueOutput
+FX2 Widener Amount	0	4194304	Value	ValueOutput
+FX2 Widener Width	0	4194304	Value	ValueOutput
+FX2 Widener Speed	0	4194304	Value	ValueOutput
+FX2 Widener LP Filter	0	4194304	Value	ValueOutput
+FX2 Widener HP Filter	0	4194304	Value	ValueOutput
+FX2 AutoPan Amount	0	4194304	Value	ValueOutput
+FX2 AutoPan Speed	0	30	Value	ValueOutput
+FX2 Compressor Threshold	0	4194304	Value	ValueOutput
+FX2 Compressor Ratio	0	4194304	Value	ValueOutput
+FX2 Compressor Attack	0	4194304	Value	ValueOutput
+FX2 Compressor Release	0	4194304	Value	ValueOutput
+FX2 Compressor Boost	0	4194304	Value	ValueOutput
+FX3 Bypass	0	1	Toggle	ValueOutput
+FX3 Type	0	21	Value	ValueOutput
+FX3 Mix	0	4194304	Value	ValueOutput
+FX3 Pan	0	4194304	Value	ValueOutput
+FX3 None1	0	4194304	Value	ValueOutput
+FX3 None2	0	4194304	Value	ValueOutput
+FX3 None3	0	4194304	Value	ValueOutput
+FX3 None4	0	4194304	Value	ValueOutput
+FX3 None5	0	4194304	Value	ValueOutput
+FX3 None6	0	4194304	Value	ValueOutput
+FX3 None7	0	4194304	Value	ValueOutput
+FX3 None8	0	4194304	Value	ValueOutput
+FX3 Mono Delay Length	0	14	Value	ValueOutput
+FX3 Mono Delay Feedback	0	4194304	Value	ValueOutput
+FX3 Mono Delay LP Filter	0	4194304	Value	ValueOutput
+FX3 Mono Delay HP Filter	0	4194304	Value	ValueOutput
+FX3 Mono Delay Widen	0	4194304	Value	ValueOutput
+FX3 Mono Delay Mod Amount	0	4194304	Value	ValueOutput
+FX3 Mono Delay Mod Speed	0	4194304	Value	ValueOutput
+FX3 Stereo Delay Left Delay	0	14	Value	ValueOutput
+FX3 Stereo Delay Right Delay	0	14	Value	ValueOutput
+FX3 Stereo Delay Feedback	0	4194304	Value	ValueOutput
+FX3 Stereo Delay CrossFeed	0	4194304	Value	ValueOutput
+FX3 Stereo Delay LP Filter	0	4194304	Value	ValueOutput
+FX3 Stereo Delay HP Filter	0	4194304	Value	ValueOutput
+FX3 Stereo Delay Mod Amount	0	4194304	Value	ValueOutput
+FX3 Stereo Delay Feed Equal	0	1	Toggle	ValueOutput
+FX3 Comb Filter Frequency 1	0	4194304	Value	ValueOutput
+FX3 Comb Filter Feed 1	0	4194304	Value	ValueOutput
+FX3 Comb Filter Mod 1	0	4194304	Value	ValueOutput
+FX3 Comb Filter Mod Speed 1	0	30	Value	ValueOutput
+FX3 Comb Filter Frequency 2	0	4194304	Value	ValueOutput
+FX3 Comb Filter Feed 2	0	4194304	Value	ValueOutput
+FX3 Comb Filter Mod 2	0	4194304	Value	ValueOutput
+FX3 Comb Filter Mod Speed 2	0	30	Value	ValueOutput
+FX3 Reverb Pre	0	4194304	Value	ValueOutput
+FX3 Reverb Size	0	4194304	Value	ValueOutput
+FX3 Reverb Length	0	4194304	Value	ValueOutput
+FX3 Reverb Damp	0	4194304	Value	ValueOutput
+FX3 Reverb Spread	0	4194304	Value	ValueOutput
+FX3 Reverb LP Filter	0	4194304	Value	ValueOutput
+FX3 Reverb HP Filter	0	4194304	Value	ValueOutput
+FX3 Chorus Length	0	4194304	Value	ValueOutput
+FX3 Chorus Width	0	4194304	Value	ValueOutput
+FX3 Chorus Speed	0	4194304	Value	ValueOutput
+FX3 Chorus Spread	0	4194304	Value	ValueOutput
+FX3 Chorus LP Filter	0	4194304	Value	ValueOutput
+FX3 Chorus Widen	0	4194304	Value	ValueOutput
+FX3 Chorus / Delay Length	0	4194304	Value	ValueOutput
+FX3 Chorus / Delay Width	0	4194304	Value	ValueOutput
+FX3 Chorus / Delay Speed	0	4194304	Value	ValueOutput
+FX3 Chorus / Delay Spread	0	4194304	Value	ValueOutput
+FX3 Chorus / Delay Delay Length	0	14	Value	ValueOutput
+FX3 Chorus / Delay Delay Feed	0	4194304	Value	ValueOutput
+FX3 Chorus / Delay Delay Volume	0	4194304	Value	ValueOutput
+FX3 Flanger Length	0	4194304	Value	ValueOutput
+FX3 Flanger Width	0	4194304	Value	ValueOutput
+FX3 Flanger Speed	0	30	Value	ValueOutput
+FX3 Flanger Feedback	0	4194304	Value	ValueOutput
+FX3 Flanger Pan Mod	0	4194304	Value	ValueOutput
+FX3 Flanger LP Filter	0	4194304	Value	ValueOutput
+FX3 Flanger HP Filter	0	4194304	Value	ValueOutput
+FX3 Phaser Stages	0	7	Value	ValueOutput
+FX3 Phaser Pitch	0	4194304	Value	ValueOutput
+FX3 Phaser Feedback	0	4194304	Value	ValueOutput
+FX3 Phaser Width	0	4194304	Value	ValueOutput
+FX3 Phaser Speed	0	30	Value	ValueOutput
+FX3 Phaser Spread	0	4194304	Value	ValueOutput
+FX3 Phaser Pan	0	4194304	Value	ValueOutput
+FX3 Ensemble Length	0	4194304	Value	ValueOutput
+FX3 Ensemble Width	0	4194304	Value	ValueOutput
+FX3 Ensemble Speed	0	4194304	Value	ValueOutput
+FX3 Ensemble Feedback	0	4194304	Value	ValueOutput
+FX3 Ensemble Amount	0	4194304	Value	ValueOutput
+FX3 Ensemble Spread	0	4194304	Value	ValueOutput
+FX3 FX Filter Type	0	13	Value	ValueOutput
+FX3 FX Filter Frequency	0	4194304	Value	ValueOutput
+FX3 FX Filter Q	0	4194304	Value	ValueOutput
+FX3 FX Filter Distort	0	4194304	Value	ValueOutput
+FX3 FX Filter Smooth	0	4194304	Value	ValueOutput
+FX3 WahWah Delay Low Frequency	0	4194304	Value	ValueOutput
+FX3 WahWah Delay High Frequency	0	4194304	Value	ValueOutput
+FX3 WahWah Delay Speed	0	30	Value	ValueOutput
+FX3 WahWah Delay Res	0	4194304	Value	ValueOutput
+FX3 WahWah Delay Length	0	14	Value	ValueOutput
+FX3 WahWah Delay Feedback	0	4194304	Value	ValueOutput
+FX3 WahWah Delay Volume	0	4194304	Value	ValueOutput
+FX3 AutoWah Type	0	1	Toggle	ValueOutput
+FX3 AutoWah Low Frequency	0	4194304	Value	ValueOutput
+FX3 AutoWah High Frequency	0	4194304	Value	ValueOutput
+FX3 AutoWah Amount	0	4194304	Value	ValueOutput
+FX3 AutoWah Q	0	4194304	Value	ValueOutput
+FX3 AutoWah Smooth	0	4194304	Value	ValueOutput
+FX3 Amp Sim Type	0	5	Value	ValueOutput
+FX3 Amp Sim Distort	0	4194304	Value	ValueOutput
+FX3 Amp Sim Bass	0	4194304	Value	ValueOutput
+FX3 Amp Sim Treble	0	4194304	Value	ValueOutput
+FX3 Amp Sim Boost	0	4194304	Value	ValueOutput
+FX3 Cab Sim Type	0	3	Value	ValueOutput
+FX3 Cab Sim Distort	0	4194304	Value	ValueOutput
+FX3 Cab Sim Bass	0	4194304	Value	ValueOutput
+FX3 Cab Sim Treble	0	4194304	Value	ValueOutput
+FX3 Cab Sim Boost	0	4194304	Value	ValueOutput
+FX3 Distort Limit	0	4194304	Value	ValueOutput
+FX3 Distort Rectification	0	4194304	Value	ValueOutput
+FX3 Distort Saturation	0	4194304	Value	ValueOutput
+FX3 Distort Tone	0	4194304	Value	ValueOutput
+FX3 Distort Emphasis	0	4194304	Value	ValueOutput
+FX3 Distort Boost	0	4194304	Value	ValueOutput
+FX3 Distort Mod Wheel	0	4194304	Value	ValueOutput
+FX3 Low Fi Bits	0	4194304	Value	ValueOutput
+FX3 Low Fi Sample Rate	0	4194304	Value	ValueOutput
+FX3 Low Fi LP Filter	0	4194304	Value	ValueOutput
+FX3 Low Fi Mod Wheel	0	4194304	Value	ValueOutput
+FX3 Waveshaper Top	0	4194304	Value	ValueOutput
+FX3 Waveshaper Bottom	0	4194304	Value	ValueOutput
+FX3 Waveshaper Rectification	0	4194304	Value	ValueOutput
+FX3 Waveshaper LP Filter	0	4194304	Value	ValueOutput
+FX3 Waveshaper Mod Amount	0	4194304	Value	ValueOutput
+FX3 Waveshaper Mod Speed	0	30	Value	ValueOutput
+FX3 Multi-Distort Type	0	11	Value	ValueOutput
+FX3 Multi-Distort PreBoost	0	4194304	Value	ValueOutput
+FX3 Multi-Distort Amount 1	0	4194304	Value	ValueOutput
+FX3 Multi-Distort Amount 2	0	4194304	Value	ValueOutput
+FX3 Multi-Distort Normalize	0	4194304	Value	ValueOutput
+FX3 Multi-Distort LP Filter	0	4194304	Value	ValueOutput
+FX3 Multi-Distort HP Filter	0	4194304	Value	ValueOutput
+FX3 Multi-Distort Boost	0	4194304	Value	ValueOutput
+FX3 Widener Amount	0	4194304	Value	ValueOutput
+FX3 Widener Width	0	4194304	Value	ValueOutput
+FX3 Widener Speed	0	4194304	Value	ValueOutput
+FX3 Widener LP Filter	0	4194304	Value	ValueOutput
+FX3 Widener HP Filter	0	4194304	Value	ValueOutput
+FX3 AutoPan Amount	0	4194304	Value	ValueOutput
+FX3 AutoPan Speed	0	30	Value	ValueOutput
+FX3 Compressor Threshold	0	4194304	Value	ValueOutput
+FX3 Compressor Ratio	0	4194304	Value	ValueOutput
+FX3 Compressor Attack	0	4194304	Value	ValueOutput
+FX3 Compressor Release	0	4194304	Value	ValueOutput
+FX3 Compressor Boost	0	4194304	Value	ValueOutput
+Gater On	0	1	Toggle	ValueOutput
+Gater Mix	0	4194304	Value	ValueOutput
+Gater Pan	0	4194304	Value	ValueOutput
+Gater Speed	0	30	Value	ValueOutput
+Gater Smooth	0	4194304	Value	ValueOutput
+Gater Mode	0	2	Value	ValueOutput
+Gater Syn	0	1	Toggle	ValueOutput
+FX Mod Source 1	0	31	Value	ValueOutput
+FX Mod Amount 1	0	4194304	Value	ValueOutput
+FX Mod Destination 1	0	30	Value	ValueOutput
+FX Mod Source 2	0	31	Value	ValueOutput
+FX Mod Amount 2	0	4194304	Value	ValueOutput
+FX Mod Destination 2	0	30	Value	ValueOutput
+Sequencer Selected	0	1	Toggle	ValueOutput
+Sequencer Reset	0	1	Toggle	ValueOutput
+Sequencer Release	0	1	Toggle	ValueOutput
+Sequencer Sync	0	1	Toggle	ValueOutput
+Sequencer Latch	0	1	Toggle	ValueOutput
+Sequencer Show	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

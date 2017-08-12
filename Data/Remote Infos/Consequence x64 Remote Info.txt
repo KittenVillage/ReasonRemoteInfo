@@ -1,0 +1,110 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	vst.SBCs.Consequence x64
+Note: Will match scope definitions for vst.SBCs.Consequence x64 or vst.SBCs
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+MasterLevel	0	4194304	Value	ValueOutput
+MasterAttack	0	4194304	Value	ValueOutput
+MasterRelease	0	4194304	Value	ValueOutput
+Kicklevel	0	4194304	Value	ValueOutput
+Kicktone	0	4194304	Value	ValueOutput
+Kick2Sidechain	0	4194304	Value	ValueOutput
+CompressorDepth	0	4194304	Value	ValueOutput
+CompressorSpeed	0	4194304	Value	ValueOutput
+Osc1_TrigMode	0	4194304	Value	ValueOutput
+Osc1_TrigEach	0	4194304	Value	ValueOutput
+Osc1_Octave	0	4194304	Value	ValueOutput
+Osc1_Polycrush	0	4194304	Value	ValueOutput
+Osc1_Age	0	4194304	Value	ValueOutput
+Osc1_Attack	0	4194304	Value	ValueOutput
+Osc1_Decay	0	4194304	Value	ValueOutput
+Osc1_Sustain	0	4194304	Value	ValueOutput
+Osc1_Release	0	4194304	Value	ValueOutput
+Osc1_Level	0	4194304	Value	ValueOutput
+Osc1_Pan	0	4194304	Value	ValueOutput
+Osc2_TrigMode	0	4194304	Value	ValueOutput
+Osc2_TrigEach	0	4194304	Value	ValueOutput
+Osc2_Ocatve	0	4194304	Value	ValueOutput
+Osc2_Polycrush	0	4194304	Value	ValueOutput
+Osc2_Age	0	4194304	Value	ValueOutput
+Osc2_Attack	0	4194304	Value	ValueOutput
+Osc2_Decay	0	4194304	Value	ValueOutput
+Osc2_Sustain	0	4194304	Value	ValueOutput
+Osc2_Release	0	4194304	Value	ValueOutput
+Osc2_Level	0	4194304	Value	ValueOutput
+Osc2_Pan	0	4194304	Value	ValueOutput
+Osc3_TrigMode	0	4194304	Value	ValueOutput
+Osc3_TrigEach	0	4194304	Value	ValueOutput
+Osc3_Octave	0	4194304	Value	ValueOutput
+Osc3_Polycrush	0	4194304	Value	ValueOutput
+Osc3_Age	0	4194304	Value	ValueOutput
+Osc3_Attack	0	4194304	Value	ValueOutput
+Osc3_Deacy	0	4194304	Value	ValueOutput
+Osc3_Sustain	0	4194304	Value	ValueOutput
+Osc3_Release	0	4194304	Value	ValueOutput
+Osc3_Level	0	4194304	Value	ValueOutput
+Osc3_Pan	0	4194304	Value	ValueOutput
+Filter_TrigMode	0	4194304	Value	ValueOutput
+Filter_TrigEach	0	4194304	Value	ValueOutput
+Filter_Invert	0	4194304	Value	ValueOutput
+FilterVoiceMode	0	4194304	Value	ValueOutput
+Filter_Age	0	4194304	Value	ValueOutput
+Filter_Attack	0	4194304	Value	ValueOutput
+Filter_Decay	0	4194304	Value	ValueOutput
+Filter_Sustain	0	4194304	Value	ValueOutput
+Filter_Release	0	4194304	Value	ValueOutput
+Filter_Cutoff	0	4194304	Value	ValueOutput
+Filter_Reso	0	4194304	Value	ValueOutput
+Filter_Peak	0	4194304	Value	ValueOutput
+Filter_Mix	0	4194304	Value	ValueOutput
+RVS_Size	0	4194304	Value	ValueOutput
+RVS_Decay	0	4194304	Value	ValueOutput
+RVS_Xfade	0	4194304	Value	ValueOutput
+RVS_Mix	0	4194304	Value	ValueOutput
+CHS_Rate	0	4194304	Value	ValueOutput
+CHS_Depth	0	4194304	Value	ValueOutput
+CHS_Shape	0	4194304	Value	ValueOutput
+CHS_Mix	0	4194304	Value	ValueOutput
+PHS_Rate	0	4194304	Value	ValueOutput
+PHS_Depth	0	4194304	Value	ValueOutput
+PHS_Feed	0	4194304	Value	ValueOutput
+PHS_Mix	0	4194304	Value	ValueOutput
+DLY_Time	0	4194304	Value	ValueOutput
+DLY_Width	0	4194304	Value	ValueOutput
+DLY_Feed	0	4194304	Value	ValueOutput
+DLY_Mix	0	4194304	Value	ValueOutput
+RVB_Size	0	4194304	Value	ValueOutput
+RVB_Width	0	4194304	Value	ValueOutput
+RVB_Damp	0	4194304	Value	ValueOutput
+RVB_Mix	0	4194304	Value	ValueOutput
+Chord_Select	0	4194304	Value	ValueOutput
+ManualChordSel	0	4194304	Value	ValueOutput
+ClockDivide	0	4194304	Value	ValueOutput
+Swingfactor	0	4194304	Value	ValueOutput
+PatternKeys	0	4194304	Value	ValueOutput
+ChordSeqDivide	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+ShiftArp	0	4194304	Value	ValueOutput
+Transpose	0	4194304	Value	ValueOutput
+Mastertune	0	4194304	Value	ValueOutput
+DLY16Time_L	0	4194304	Value	ValueOutput
+DLY16Time_R	0	4194304	Value	ValueOutput
+Dly_Feed_16	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,43 @@
+Scope
+Manufacturer	Model
+sleepyCat	vst.S2v3.Crush
+Note: Will match scope definitions for vst.S2v3.Crush or vst.S2v3
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bias	0	4194304	Value	ValueOutput
+Slope	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Pre Gain	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Edge	0	4194304	Value	ValueOutput
+Filt	0	4194304	Value	ValueOutput
+Alias	0	4194304	Value	ValueOutput
+B1	0	4194304	Value	ValueOutput
+B2	0	4194304	Value	ValueOutput
+B3	0	4194304	Value	ValueOutput
+PitchBend	0	4194304	Value	ValueOutput
+MIDI Vol	0	4194304	Value	ValueOutput
+MIDI Pan	0	4194304	Value	ValueOutput
+MIDI Mod Wheel	0	4194304	Value	ValueOutput
+MIDI Expression	0	4194304	Value	ValueOutput
+MIDI Channel Pressure	0	4194304	Value	ValueOutput
+MIDI Sustain Pedal	0	4194304	Value	ValueOutput
+All Notes Off	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

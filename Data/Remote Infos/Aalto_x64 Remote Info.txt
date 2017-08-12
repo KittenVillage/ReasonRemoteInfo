@@ -1,0 +1,150 @@
+Scope
+Manufacturer	Model
+Madrona Labs	vst.Aalt.Aalto_x64
+Note: Will match scope definitions for vst.Aalt.Aalto_x64 or vst.Aalt
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+key_voices	0	4194304	Value	ValueOutput
+key_mod	0	4194304	Value	ValueOutput
+key_bend	0	4194304	Value	ValueOutput
+key_unison	0	4194304	Value	ValueOutput
+key_glide	0	4194304	Value	ValueOutput
+seq_wave	0	4194304	Value	ValueOutput
+seq_local	0	4194304	Value	ValueOutput
+seq_host	0	4194304	Value	ValueOutput
+seq_loop	0	4194304	Value	ValueOutput
+seq_trig	0	4194304	Value	ValueOutput
+seq_rate	0	4194304	Value	ValueOutput
+seq_ratio	0	4194304	Value	ValueOutput
+seq_rate_p	0	4194304	Value	ValueOutput
+seq_steps	0	4194304	Value	ValueOutput
+seq_steps_p	0	4194304	Value	ValueOutput
+seq_offset	0	4194304	Value	ValueOutput
+seq_offset_p	0	4194304	Value	ValueOutput
+seq_range	0	4194304	Value	ValueOutput
+seq_quantize	0	4194304	Value	ValueOutput
+seq_glide	0	4194304	Value	ValueOutput
+seq_pw	0	4194304	Value	ValueOutput
+seq_value_delay	0	4194304	Value	ValueOutput
+seq_pulse_delay	0	4194304	Value	ValueOutput
+seq_value0	0	4194304	Value	ValueOutput
+seq_value1	0	4194304	Value	ValueOutput
+seq_value2	0	4194304	Value	ValueOutput
+seq_value3	0	4194304	Value	ValueOutput
+seq_value4	0	4194304	Value	ValueOutput
+seq_value5	0	4194304	Value	ValueOutput
+seq_value6	0	4194304	Value	ValueOutput
+seq_value7	0	4194304	Value	ValueOutput
+seq_value8	0	4194304	Value	ValueOutput
+seq_value9	0	4194304	Value	ValueOutput
+seq_value10	0	4194304	Value	ValueOutput
+seq_value11	0	4194304	Value	ValueOutput
+seq_value12	0	4194304	Value	ValueOutput
+seq_value13	0	4194304	Value	ValueOutput
+seq_value14	0	4194304	Value	ValueOutput
+seq_value15	0	4194304	Value	ValueOutput
+seq_pulse0	0	4194304	Value	ValueOutput
+seq_pulse1	0	4194304	Value	ValueOutput
+seq_pulse2	0	4194304	Value	ValueOutput
+seq_pulse3	0	4194304	Value	ValueOutput
+seq_pulse4	0	4194304	Value	ValueOutput
+seq_pulse5	0	4194304	Value	ValueOutput
+seq_pulse6	0	4194304	Value	ValueOutput
+seq_pulse7	0	4194304	Value	ValueOutput
+seq_pulse8	0	4194304	Value	ValueOutput
+seq_pulse9	0	4194304	Value	ValueOutput
+seq_pulse10	0	4194304	Value	ValueOutput
+seq_pulse11	0	4194304	Value	ValueOutput
+seq_pulse12	0	4194304	Value	ValueOutput
+seq_pulse13	0	4194304	Value	ValueOutput
+seq_pulse14	0	4194304	Value	ValueOutput
+seq_pulse15	0	4194304	Value	ValueOutput
+lfo_freq	0	4194304	Value	ValueOutput
+lfo_noise	0	4194304	Value	ValueOutput
+lfo_level	0	4194304	Value	ValueOutput
+lfo_level_p	0	4194304	Value	ValueOutput
+lfo_freq_p	0	4194304	Value	ValueOutput
+env1_attack	0	4194304	Value	ValueOutput
+env1_decay	0	4194304	Value	ValueOutput
+env1_sustain	0	4194304	Value	ValueOutput
+env1_release	0	4194304	Value	ValueOutput
+env1_level	0	4194304	Value	ValueOutput
+env1_xvel	0	4194304	Value	ValueOutput
+env1_trig_selec	0	4194304	Value	ValueOutput
+env1_attack_p	0	4194304	Value	ValueOutput
+env1_decay_p	0	4194304	Value	ValueOutput
+env1_release_p	0	4194304	Value	ValueOutput
+env2_repeat	0	4194304	Value	ValueOutput
+env2_delay	0	4194304	Value	ValueOutput
+env2_attack	0	4194304	Value	ValueOutput
+env2_sustain	0	4194304	Value	ValueOutput
+env2_release	0	4194304	Value	ValueOutput
+env2_xvel	0	4194304	Value	ValueOutput
+env2_trig_selec	0	4194304	Value	ValueOutput
+env2_xenv1	0	4194304	Value	ValueOutput
+env2_delay_p	0	4194304	Value	ValueOutput
+env2_attack_p	0	4194304	Value	ValueOutput
+env2_repeat_p	0	4194304	Value	ValueOutput
+osc_noise	0	4194304	Value	ValueOutput
+osc_ratio	0	4194304	Value	ValueOutput
+osc_offset	0	4194304	Value	ValueOutput
+osc_index	0	4194304	Value	ValueOutput
+osc_timbre	0	4194304	Value	ValueOutput
+osc_pitch	0	4194304	Value	ValueOutput
+osc_waveshape	0	4194304	Value	ValueOutput
+osc_noise_p	0	4194304	Value	ValueOutput
+osc_ratio_p	0	4194304	Value	ValueOutput
+osc_offset_p	0	4194304	Value	ValueOutput
+osc_index_p	0	4194304	Value	ValueOutput
+osc_timbre_p	0	4194304	Value	ValueOutput
+osc_pitch_exp_p	0	4194304	Value	ValueOutput
+osc_pitch_lin_p	0	4194304	Value	ValueOutput
+osc_waveshape_p	0	4194304	Value	ValueOutput
+osc_carrier_out	0	4194304	Value	ValueOutput
+osc_mod_out	0	4194304	Value	ValueOutput
+gate_level	0	4194304	Value	ValueOutput
+gate_mode	0	4194304	Value	ValueOutput
+gate_decay	0	4194304	Value	ValueOutput
+gate_level_p	0	4194304	Value	ValueOutput
+delay_input	0	4194304	Value	ValueOutput
+delay_peakfreq	0	4194304	Value	ValueOutput
+delay_drive	0	4194304	Value	ValueOutput
+delay_peakres	0	4194304	Value	ValueOutput
+delay_feedback	0	4194304	Value	ValueOutput
+delay_freq	0	4194304	Value	ValueOutput
+delay_input_p	0	4194304	Value	ValueOutput
+delay_peakfreq_	0	4194304	Value	ValueOutput
+delay_drive_p	0	4194304	Value	ValueOutput
+delay_peakres_p	0	4194304	Value	ValueOutput
+delay_feedback_	0	4194304	Value	ValueOutput
+delay_freq_p	0	4194304	Value	ValueOutput
+delay_output_we	0	4194304	Value	ValueOutput
+delay_output_dr	0	4194304	Value	ValueOutput
+filter_cutoff	0	4194304	Value	ValueOutput
+filter_q	0	4194304	Value	ValueOutput
+filter_mix	0	4194304	Value	ValueOutput
+filter_cutoff_p	0	4194304	Value	ValueOutput
+filter_q_p	0	4194304	Value	ValueOutput
+filter_mix_p	0	4194304	Value	ValueOutput
+output_input_ga	0	4194304	Value	ValueOutput
+output_reverb	0	4194304	Value	ValueOutput
+output_pan	0	4194304	Value	ValueOutput
+output_reverb_p	0	4194304	Value	ValueOutput
+output_pan_p	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

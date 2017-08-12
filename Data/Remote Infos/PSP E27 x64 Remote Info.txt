@@ -1,0 +1,81 @@
+Scope
+Manufacturer	Model
+PSPaudioware.com	vst.Pe27.PSP E27 x64
+Note: Will match scope definitions for vst.Pe27.PSP E27 x64 or vst.Pe27
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Power	0	4194304	Value	ValueOutput
+BpsCh1	0	4194304	Value	ValueOutput
+BpsCh2	0	4194304	Value	ValueOutput
+Channel	0	4194304	Value	ValueOutput
+MS	0	4194304	Value	ValueOutput
+PA11	0	4194304	Value	ValueOutput
+P2x	0	4194304	Value	ValueOutput
+Link	0	4194304	Value	ValueOutput
+DriveL	0	4194304	Value	ValueOutput
+DriveR	0	4194304	Value	ValueOutput
+HpfL	0	4194304	Value	ValueOutput
+HpfR	0	4194304	Value	ValueOutput
+OutputL	0	4194304	Value	ValueOutput
+OutputR	0	4194304	Value	ValueOutput
+P28kL	0	4194304	Value	ValueOutput
+P28kR	0	4194304	Value	ValueOutput
+PhaseL	0	4194304	Value	ValueOutput
+PhaseR	0	4194304	Value	ValueOutput
+TrfoDsL	0	4194304	Value	ValueOutput
+TrfoDsR	0	4194304	Value	ValueOutput
+AmpDsbL	0	4194304	Value	ValueOutput
+AmpDsbR	0	4194304	Value	ValueOutput
+ProcL	0	4194304	Value	ValueOutput
+ProcR	0	4194304	Value	ValueOutput
+LShelfL	0	4194304	Value	ValueOutput
+LShelfR	0	4194304	Value	ValueOutput
+LFreqL	0	4194304	Value	ValueOutput
+LFreqR	0	4194304	Value	ValueOutput
+LGainL	0	4194304	Value	ValueOutput
+LGainR	0	4194304	Value	ValueOutput
+MFreqL	0	4194304	Value	ValueOutput
+MFreqR	0	4194304	Value	ValueOutput
+MGainL	0	4194304	Value	ValueOutput
+MGainR	0	4194304	Value	ValueOutput
+HShelfL	0	4194304	Value	ValueOutput
+HShelfR	0	4194304	Value	ValueOutput
+HFreqL	0	4194304	Value	ValueOutput
+HFreqR	0	4194304	Value	ValueOutput
+HGainL	0	4194304	Value	ValueOutput
+HGainR	0	4194304	Value	ValueOutput
+ProcL2	0	4194304	Value	ValueOutput
+ProcR2	0	4194304	Value	ValueOutput
+LShlfL2	0	4194304	Value	ValueOutput
+LShlfR2	0	4194304	Value	ValueOutput
+LFreqL2	0	4194304	Value	ValueOutput
+LFreqR2	0	4194304	Value	ValueOutput
+LGainL2	0	4194304	Value	ValueOutput
+LGainR2	0	4194304	Value	ValueOutput
+MFreqL2	0	4194304	Value	ValueOutput
+MFreqR2	0	4194304	Value	ValueOutput
+MGainL2	0	4194304	Value	ValueOutput
+MGainR2	0	4194304	Value	ValueOutput
+HShlfL2	0	4194304	Value	ValueOutput
+HShlfR2	0	4194304	Value	ValueOutput
+HFreqL2	0	4194304	Value	ValueOutput
+HFreqR2	0	4194304	Value	ValueOutput
+HGainL2	0	4194304	Value	ValueOutput
+HGainR2	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

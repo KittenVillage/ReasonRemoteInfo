@@ -1,0 +1,113 @@
+Scope
+Manufacturer	Model
+Loomer	vst.Lxae.StringVST64_FX
+Note: Will match scope definitions for vst.Lxae.StringVST64_FX or vst.Lxae
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+L1Voicing	0	4194304	Value	ValueOutput
+L1Osc16	0	4194304	Value	ValueOutput
+L1Osc8	0	4194304	Value	ValueOutput
+L1Osc4	0	4194304	Value	ValueOutput
+L1AmpRetrig	0	4194304	Value	ValueOutput
+L1AmpAttack	0	4194304	Value	ValueOutput
+L1AmpRelease	0	4194304	Value	ValueOutput
+L1VelTrack	0	4194304	Value	ValueOutput
+L1FltrType	0	4194304	Value	ValueOutput
+L1FltrCutoff	0	4194304	Value	ValueOutput
+L1FltrRes	0	4194304	Value	ValueOutput
+L1FltrEnvMod	0	4194304	Value	ValueOutput
+L1FltrLFOMod	0	4194304	Value	ValueOutput
+L1FltrAftrTch	0	4194304	Value	ValueOutput
+L1FltrVelTrack	0	4194304	Value	ValueOutput
+L1FltrHP	0	4194304	Value	ValueOutput
+L1FltrLP	0	4194304	Value	ValueOutput
+L1EQ50HzGain	0	4194304	Value	ValueOutput
+L1EQ100HzGain	0	4194304	Value	ValueOutput
+L1EQ200HzGain	0	4194304	Value	ValueOutput
+L1EQ400HzGain	0	4194304	Value	ValueOutput
+L1EQ800HzGain	0	4194304	Value	ValueOutput
+L1EQ1600HzGain	0	4194304	Value	ValueOutput
+L1EQ3200HzGain	0	4194304	Value	ValueOutput
+L1EQ6400HzGain	0	4194304	Value	ValueOutput
+L1EQ12800HzGain	0	4194304	Value	ValueOutput
+L1Filter2Route	0	4194304	Value	ValueOutput
+L1Effects	0	4194304	Value	ValueOutput
+L2Voicing	0	4194304	Value	ValueOutput
+L2Osc8	0	4194304	Value	ValueOutput
+L2Osc4	0	4194304	Value	ValueOutput
+L2Osc2	0	4194304	Value	ValueOutput
+L2AmpRetrig	0	4194304	Value	ValueOutput
+L2AmpAttack	0	4194304	Value	ValueOutput
+L2AmpRelease	0	4194304	Value	ValueOutput
+L2VelTrack	0	4194304	Value	ValueOutput
+L2FltrType	0	4194304	Value	ValueOutput
+L2FltrCutoff	0	4194304	Value	ValueOutput
+L2FltrRes	0	4194304	Value	ValueOutput
+L2FltrEnvMod	0	4194304	Value	ValueOutput
+L2FltrLFOMod	0	4194304	Value	ValueOutput
+L2FltrAftrTch	0	4194304	Value	ValueOutput
+L2FltrVelTrack	0	4194304	Value	ValueOutput
+L2FltrHP	0	4194304	Value	ValueOutput
+L2FltrLP	0	4194304	Value	ValueOutput
+L2EQ50HzGain	0	4194304	Value	ValueOutput
+L2EQ100HzGain	0	4194304	Value	ValueOutput
+L2EQ200HzGain	0	4194304	Value	ValueOutput
+L2EQ400HzGain	0	4194304	Value	ValueOutput
+L2EQ800HzGain	0	4194304	Value	ValueOutput
+L2EQ1600HzGain	0	4194304	Value	ValueOutput
+L2EQ3200HzGain	0	4194304	Value	ValueOutput
+L2EQ6400HzGain	0	4194304	Value	ValueOutput
+L2EQ12800HzGain	0	4194304	Value	ValueOutput
+L2Effects	0	4194304	Value	ValueOutput
+EffectsModVis	0	4194304	Value	ValueOutput
+LFOSync	0	4194304	Value	ValueOutput
+LFOSyncRate	0	4194304	Value	ValueOutput
+LFORate	0	4194304	Value	ValueOutput
+VibratoScaling	0	4194304	Value	ValueOutput
+VibratoDepth	0	4194304	Value	ValueOutput
+ModEnvAttack	0	4194304	Value	ValueOutput
+ModEnvDecay	0	4194304	Value	ValueOutput
+ModEnvSustain	0	4194304	Value	ValueOutput
+ModEnvRelease	0	4194304	Value	ValueOutput
+ModEnvRetrig	0	4194304	Value	ValueOutput
+ChorusType	0	4194304	Value	ValueOutput
+ChorusRate	0	4194304	Value	ValueOutput
+ChorusDepth	0	4194304	Value	ValueOutput
+ChorusWidth	0	4194304	Value	ValueOutput
+PhaserSync	0	4194304	Value	ValueOutput
+PhaserSyncRate	0	4194304	Value	ValueOutput
+PhaserRate	0	4194304	Value	ValueOutput
+PhaserColour	0	4194304	Value	ValueOutput
+PhaserMix	0	4194304	Value	ValueOutput
+DelayTempoSync	0	4194304	Value	ValueOutput
+DelayLSyncTime	0	4194304	Value	ValueOutput
+DelayLTime	0	4194304	Value	ValueOutput
+DelayRSyncTime	0	4194304	Value	ValueOutput
+DelayRTime	0	4194304	Value	ValueOutput
+DelayLFdbk	0	4194304	Value	ValueOutput
+DelayRFdbk	0	4194304	Value	ValueOutput
+DelayMix	0	4194304	Value	ValueOutput
+DelayLink	0	4194304	Value	ValueOutput
+L1SplitHigh	0	4194304	Value	ValueOutput
+L2SplitLow	0	4194304	Value	ValueOutput
+OutputVolume	0	4194304	Value	ValueOutput
+L1Volume	0	4194304	Value	ValueOutput
+L2Volume	0	4194304	Value	ValueOutput
+MasterTuning	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

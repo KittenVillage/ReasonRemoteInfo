@@ -1,0 +1,181 @@
+Scope
+Manufacturer	Model
+XILS-lab	vst.XVc2.XILS 3_2 x64
+Note: Will match scope definitions for vst.XVc2.XILS 3_2 x64 or vst.XVc2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+O1CTune 	0	4194304	Value	ValueOutput
+O1Shape 	0	4194304	Value	ValueOutput
+O1SinVol	0	4194304	Value	ValueOutput
+O1SawVol	0	4194304	Value	ValueOutput
+O2CTune 	0	4194304	Value	ValueOutput
+O2Shape 	0	4194304	Value	ValueOutput
+O2SquVol	0	4194304	Value	ValueOutput
+O2TriVol	0	4194304	Value	ValueOutput
+O3CTune 	0	4194304	Value	ValueOutput
+O3Width 	0	4194304	Value	ValueOutput
+O3SquVol	0	4194304	Value	ValueOutput
+O3TriVol	0	4194304	Value	ValueOutput
+NoiColor	0	4194304	Value	ValueOutput
+NoiVolum	0	4194304	Value	ValueOutput
+FiltrFre	0	4194304	Value	ValueOutput
+FiltrRes	0	4194304	Value	ValueOutput
+FiltrLev	0	4194304	Value	ValueOutput
+EnvVcaAt	0	4194304	Value	ValueOutput
+EnvVcaOn	0	4194304	Value	ValueOutput
+EnvVcaDc	0	4194304	Value	ValueOutput
+EnvVcaOf	0	4194304	Value	ValueOutput
+VcaLevel	0	4194304	Value	ValueOutput
+EnvVcaLv	0	4194304	Value	ValueOutput
+RingMLev	0	4194304	Value	ValueOutput
+RevrbMix	0	4194304	Value	ValueOutput
+RevrbLev	0	4194304	Value	ValueOutput
+Inpu1Lev	0	4194304	Value	ValueOutput
+Inpu2Lev	0	4194304	Value	ValueOutput
+PanLeft 	0	4194304	Value	ValueOutput
+PanRight	0	4194304	Value	ValueOutput
+Outp1Lev	0	4194304	Value	ValueOutput
+Outp2Lev	0	4194304	Value	ValueOutput
+Out1Freq	0	4194304	Value	ValueOutput
+Out2Freq	0	4194304	Value	ValueOutput
+StiRangV	0	4194304	Value	ValueOutput
+StiRangH	0	4194304	Value	ValueOutput
+StickVrt	0	4194304	Value	ValueOutput
+StickHrz	0	4194304	Value	ValueOutput
+Detune  	0	4194304	Value	ValueOutput
+InGatNiv	0	4194304	Value	ValueOutput
+InGatOpe	0	4194304	Value	ValueOutput
+InGatClo	0	4194304	Value	ValueOutput
+InGatAtt	0	4194304	Value	ValueOutput
+InGatRel	0	4194304	Value	ValueOutput
+Glide   	0	4194304	Value	ValueOutput
+PtchBend	0	4194304	Value	ValueOutput
+ModWheel	0	4194304	Value	ValueOutput
+PitQual 	0	4194304	Value	ValueOutput
+PitZero 	0	4194304	Value	ValueOutput
+PitLowFr	0	4194304	Value	ValueOutput
+PitHigFr	0	4194304	Value	ValueOutput
+PitOuLev	0	4194304	Value	ValueOutput
+TrnsSens	0	4194304	Value	ValueOutput
+TrnsTime	0	4194304	Value	ValueOutput
+TrnsRels	0	4194304	Value	ValueOutput
+TrnsOuLe	0	4194304	Value	ValueOutput
+Env.FAtt	0	4194304	Value	ValueOutput
+Env.FRel	0	4194304	Value	ValueOutput
+Env.FLev	0	4194304	Value	ValueOutput
+EnvSp1At	0	4194304	Value	ValueOutput
+EnvSp1On	0	4194304	Value	ValueOutput
+EnvSp1Dc	0	4194304	Value	ValueOutput
+EnvSp1Of	0	4194304	Value	ValueOutput
+EnvSp1Lv	0	4194304	Value	ValueOutput
+EnvSp2At	0	4194304	Value	ValueOutput
+EnvSp2On	0	4194304	Value	ValueOutput
+EnvSp2Dc	0	4194304	Value	ValueOutput
+EnvSp2Of	0	4194304	Value	ValueOutput
+EnvSp2Lv	0	4194304	Value	ValueOutput
+LfoWidth	0	4194304	Value	ValueOutput
+LfoRate 	0	4194304	Value	ValueOutput
+LfoDelay	0	4194304	Value	ValueOutput
+LfoFadIn	0	4194304	Value	ValueOutput
+LfoLevel	0	4194304	Value	ValueOutput
+S&HLevel	0	4194304	Value	ValueOutput
+S&H Rate	0	4194304	Value	ValueOutput
+ProcDely	0	4194304	Value	ValueOutput
+ProcAtta	0	4194304	Value	ValueOutput
+ProcRele	0	4194304	Value	ValueOutput
+ProcLev 	0	4194304	Value	ValueOutput
+ARangSeq	0	4194304	Value	ValueOutput
+BRangSeq	0	4194304	Value	ValueOutput
+CRangSeq	0	4194304	Value	ValueOutput
+DRangSeq	0	4194304	Value	ValueOutput
+ERangSeq	0	4194304	Value	ValueOutput
+FRangSeq	0	4194304	Value	ValueOutput
+SlewASeq	0	4194304	Value	ValueOutput
+SlewCSeq	0	4194304	Value	ValueOutput
+SlewESeq	0	4194304	Value	ValueOutput
+ClkRtSeq	0	4194304	Value	ValueOutput
+SusTiSq1	0	4194304	Value	ValueOutput
+SusTiSq2	0	4194304	Value	ValueOutput
+SusTiSq3	0	4194304	Value	ValueOutput
+DelLTime	0	4194304	Value	ValueOutput
+DelRTime	0	4194304	Value	ValueOutput
+DelLFdB 	0	4194304	Value	ValueOutput
+DelRFdB 	0	4194304	Value	ValueOutput
+DelDryWt	0	4194304	Value	ValueOutput
+ChorSpd 	0	4194304	Value	ValueOutput
+ChorAmnt	0	4194304	Value	ValueOutput
+ChorDryW	0	4194304	Value	ValueOutput
+PhaserSp	0	4194304	Value	ValueOutput
+PhaserAm	0	4194304	Value	ValueOutput
+PhaserSt	0	4194304	Value	ValueOutput
+PhaserRe	0	4194304	Value	ValueOutput
+PhaserSw	0	4194304	Value	ValueOutput
+PhaserDW	0	4194304	Value	ValueOutput
+GenLevel	0	4194304	Value	ValueOutput
+GenTune 	0	4194304	Value	ValueOutput
+Detune  	0	4194304	Value	ValueOutput
+WheeRang	0	4194304	Value	ValueOutput
+VeloRang	0	4194304	Value	ValueOutput
+AftrRang	0	4194304	Value	ValueOutput
+Key1Rang	0	4194304	Value	ValueOutput
+Key2Rang	0	4194304	Value	ValueOutput
+KbTrgDel	0	4194304	Value	ValueOutput
+O1Range 	0	4194304	Value	ValueOutput
+O2Range 	0	4194304	Value	ValueOutput
+O3Shape 	0	4194304	Value	ValueOutput
+EnvVcATy	0	4194304	Value	ValueOutput
+FiltType	0	4194304	Value	ValueOutput
+RevrbTyp	0	4194304	Value	ValueOutput
+Out1FSel	0	4194304	Value	ValueOutput
+Out2FSel	0	4194304	Value	ValueOutput
+SoloLeft	0	4194304	Value	ValueOutput
+OnGenOn 	0	4194304	Value	ValueOutput
+LegatoOn	0	4194304	Value	ValueOutput
+PortamOn	0	4194304	Value	ValueOutput
+GlisseOn	0	4194304	Value	ValueOutput
+Priority	0	4194304	Value	ValueOutput
+KeybHold	0	4194304	Value	ValueOutput
+PBndRang	0	4194304	Value	ValueOutput
+EnvSp1Ty	0	4194304	Value	ValueOutput
+EnvSp2Ty	0	4194304	Value	ValueOutput
+Lfo Wave	0	4194304	Value	ValueOutput
+LfoSync 	0	4194304	Value	ValueOutput
+S&HSynch	0	4194304	Value	ValueOutput
+ProcType	0	4194304	Value	ValueOutput
+ProcInv 	0	4194304	Value	ValueOutput
+RecorSeq	0	4194304	Value	ValueOutput
+NextStSq	0	4194304	Value	ValueOutput
+StartSeq	0	4194304	Value	ValueOutput
+StopSequ	0	4194304	Value	ValueOutput
+ResetSeq	0	4194304	Value	ValueOutput
+AValuSeq	0	4194304	Value	ValueOutput
+BValuSeq	0	4194304	Value	ValueOutput
+CValuSeq	0	4194304	Value	ValueOutput
+DValuSeq	0	4194304	Value	ValueOutput
+EValuSeq	0	4194304	Value	ValueOutput
+FValuSeq	0	4194304	Value	ValueOutput
+DelSyncr	0	4194304	Value	ValueOutput
+DelOn/Of	0	4194304	Value	ValueOutput
+ChorOnOf	0	4194304	Value	ValueOutput
+ChorType	0	4194304	Value	ValueOutput
+PhaserOn	0	4194304	Value	ValueOutput
+TrigDlSy	0	4194304	Value	ValueOutput
+PitSnap 	0	4194304	Value	ValueOutput
+PitRange	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

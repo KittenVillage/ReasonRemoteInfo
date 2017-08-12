@@ -1,0 +1,62 @@
+Scope
+Manufacturer	Model
+iZotope, Inc.	vst.ZnBd.Neutron Compressor x64
+Note: Will match scope definitions for vst.ZnBd.Neutron Compressor x64 or vst.ZnBd
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Global Bypass	0	4194304	Value	ValueOutput
+Global Dirty Flag	0	4194304	Value	ValueOutput
+Global Input Gain	0	4194304	Value	ValueOutput
+Global Output Gain	0	4194304	Value	ValueOutput
+C1 B1 Bypass	0	4194304	Value	ValueOutput
+C1 B1 Attack	0	4194304	Value	ValueOutput
+C1 B1 Ratio	0	4194304	Value	ValueOutput
+C1 B1 Release	0	4194304	Value	ValueOutput
+C1 B1 Knee	0	4194304	Value	ValueOutput
+C1 B1 Threshold	0	4194304	Value	ValueOutput
+C1 B1 Gain	0	4194304	Value	ValueOutput
+C1 B1 Mix	0	4194304	Value	ValueOutput
+C1 B2 Bypass	0	4194304	Value	ValueOutput
+C1 B2 Attack	0	4194304	Value	ValueOutput
+C1 B2 Ratio	0	4194304	Value	ValueOutput
+C1 B2 Release	0	4194304	Value	ValueOutput
+C1 B2 Knee	0	4194304	Value	ValueOutput
+C1 B2 Threshold	0	4194304	Value	ValueOutput
+C1 B2 Gain	0	4194304	Value	ValueOutput
+C1 B2 Mix	0	4194304	Value	ValueOutput
+C1 B3 Bypass	0	4194304	Value	ValueOutput
+C1 B3 Attack	0	4194304	Value	ValueOutput
+C1 B3 Ratio	0	4194304	Value	ValueOutput
+C1 B3 Release	0	4194304	Value	ValueOutput
+C1 B3 Knee	0	4194304	Value	ValueOutput
+C1 B3 Threshold	0	4194304	Value	ValueOutput
+C1 B3 Gain	0	4194304	Value	ValueOutput
+C1 B3 Mix	0	4194304	Value	ValueOutput
+C1 Level Detection Meth	0	4194304	Value	ValueOutput
+C1 Auto Release	0	4194304	Value	ValueOutput
+C1 Auto Gain	0	4194304	Value	ValueOutput
+C1 Detection Filter HP 	0	4194304	Value	ValueOutput
+C1 Detection Filter HP 	0	4194304	Value	ValueOutput
+C1 Detection Filter LP 	0	4194304	Value	ValueOutput
+C1 Detection Filter LP 	0	4194304	Value	ValueOutput
+C1 Vintage Mode	0	4194304	Value	ValueOutput
+C1 Global Gain	0	4194304	Value	ValueOutput
+C1 Global Mix	0	4194304	Value	ValueOutput
+C1 Process LFE	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

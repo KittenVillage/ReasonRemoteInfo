@@ -1,0 +1,39 @@
+Scope
+Manufacturer	Model
+Plugin Alliance	vst.bxrf.bx_refinement x64
+Note: Will match scope definitions for vst.bxrf.bx_refinement x64 or vst.bxrf
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Bank	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Damping	0	4194304	Value	ValueOutput
+Chrctr	0	4194304	Value	ValueOutput
+Channels	0	4194304	Value	ValueOutput
+Sat	0	4194304	Value	ValueOutput
+Presence	0	4194304	Value	ValueOutput
+DampMod	0	4194304	Value	ValueOutput
+DynSpeed	0	4194304	Value	ValueOutput
+DRange	0	4194304	Value	ValueOutput
+LFODrtn	0	4194304	Value	ValueOutput
+LFODepth	0	4194304	Value	ValueOutput
+LFO Sync	0	4194304	Value	ValueOutput
+LFOPhase	0	4194304	Value	ValueOutput
+SoloF	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,295 @@
+Scope
+Manufacturer	Model
+Sound Guru	vst.Mngl.Mangle64
+Note: Will match scope definitions for vst.Mngl.Mangle64 or vst.Mngl
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+s1 Position	0	4194304	Value	ValueOutput
+s1 Amp	0	4194304	Value	ValueOutput
+s1 Grain rate	0	4194304	Value	ValueOutput
+s1 Pitch ratio	0	4194304	Value	ValueOutput
+s1 Reverse prob	0	4194304	Value	ValueOutput
+s1 Pan	0	4194304	Value	ValueOutput
+s1 Filter cutof	0	4194304	Value	ValueOutput
+s1 Filter reson	0	4194304	Value	ValueOutput
+s1 Filter stere	0	4194304	Value	ValueOutput
+s1 Grain attack	0	4194304	Value	ValueOutput
+s1 Grain releas	0	4194304	Value	ValueOutput
+s1 Grain sustai	0	4194304	Value	ValueOutput
+s1 Grain length	0	4194304	Value	ValueOutput
+s1 Voice attack	0	4194304	Value	ValueOutput
+s1 Voice decay 	0	4194304	Value	ValueOutput
+s1 Voice releas	0	4194304	Value	ValueOutput
+s1 Voice sustai	0	4194304	Value	ValueOutput
+s1 Voice veloci	0	4194304	Value	ValueOutput
+s1 LFO1 rate	0	4194304	Value	ValueOutput
+s1 LFO2 rate	0	4194304	Value	ValueOutput
+s1 Seq1 grains 	0	4194304	Value	ValueOutput
+s1 Seq1 time pe	0	4194304	Value	ValueOutput
+s1 Seq2 grains 	0	4194304	Value	ValueOutput
+s1 Seq2 time pe	0	4194304	Value	ValueOutput
+s1 Seq3 grains 	0	4194304	Value	ValueOutput
+s1 Seq3 time pe	0	4194304	Value	ValueOutput
+s1 Seq4 grains 	0	4194304	Value	ValueOutput
+s1 Seq4 time pe	0	4194304	Value	ValueOutput
+s1 Macro knob 1	0	4194304	Value	ValueOutput
+s1 Macro knob 2	0	4194304	Value	ValueOutput
+s1 Macro knob 3	0	4194304	Value	ValueOutput
+s1 Macro knob 4	0	4194304	Value	ValueOutput
+s1 Loop speed	0	4194304	Value	ValueOutput
+s1 Loop amount	0	4194304	Value	ValueOutput
+s2 Position	0	4194304	Value	ValueOutput
+s2 Amp	0	4194304	Value	ValueOutput
+s2 Grain rate	0	4194304	Value	ValueOutput
+s2 Pitch ratio	0	4194304	Value	ValueOutput
+s2 Reverse prob	0	4194304	Value	ValueOutput
+s2 Pan	0	4194304	Value	ValueOutput
+s2 Filter cutof	0	4194304	Value	ValueOutput
+s2 Filter reson	0	4194304	Value	ValueOutput
+s2 Filter stere	0	4194304	Value	ValueOutput
+s2 Grain attack	0	4194304	Value	ValueOutput
+s2 Grain releas	0	4194304	Value	ValueOutput
+s2 Grain sustai	0	4194304	Value	ValueOutput
+s2 Grain length	0	4194304	Value	ValueOutput
+s2 Voice attack	0	4194304	Value	ValueOutput
+s2 Voice decay 	0	4194304	Value	ValueOutput
+s2 Voice releas	0	4194304	Value	ValueOutput
+s2 Voice sustai	0	4194304	Value	ValueOutput
+s2 Voice veloci	0	4194304	Value	ValueOutput
+s2 LFO1 rate	0	4194304	Value	ValueOutput
+s2 LFO2 rate	0	4194304	Value	ValueOutput
+s2 Seq1 grains 	0	4194304	Value	ValueOutput
+s2 Seq1 time pe	0	4194304	Value	ValueOutput
+s2 Seq2 grains 	0	4194304	Value	ValueOutput
+s2 Seq2 time pe	0	4194304	Value	ValueOutput
+s2 Seq3 grains 	0	4194304	Value	ValueOutput
+s2 Seq3 time pe	0	4194304	Value	ValueOutput
+s2 Seq4 grains 	0	4194304	Value	ValueOutput
+s2 Seq4 time pe	0	4194304	Value	ValueOutput
+s2 Macro knob 1	0	4194304	Value	ValueOutput
+s2 Macro knob 2	0	4194304	Value	ValueOutput
+s2 Macro knob 3	0	4194304	Value	ValueOutput
+s2 Macro knob 4	0	4194304	Value	ValueOutput
+s2 Loop speed	0	4194304	Value	ValueOutput
+s2 Loop amount	0	4194304	Value	ValueOutput
+s3 Position	0	4194304	Value	ValueOutput
+s3 Amp	0	4194304	Value	ValueOutput
+s3 Grain rate	0	4194304	Value	ValueOutput
+s3 Pitch ratio	0	4194304	Value	ValueOutput
+s3 Reverse prob	0	4194304	Value	ValueOutput
+s3 Pan	0	4194304	Value	ValueOutput
+s3 Filter cutof	0	4194304	Value	ValueOutput
+s3 Filter reson	0	4194304	Value	ValueOutput
+s3 Filter stere	0	4194304	Value	ValueOutput
+s3 Grain attack	0	4194304	Value	ValueOutput
+s3 Grain releas	0	4194304	Value	ValueOutput
+s3 Grain sustai	0	4194304	Value	ValueOutput
+s3 Grain length	0	4194304	Value	ValueOutput
+s3 Voice attack	0	4194304	Value	ValueOutput
+s3 Voice decay 	0	4194304	Value	ValueOutput
+s3 Voice releas	0	4194304	Value	ValueOutput
+s3 Voice sustai	0	4194304	Value	ValueOutput
+s3 Voice veloci	0	4194304	Value	ValueOutput
+s3 LFO1 rate	0	4194304	Value	ValueOutput
+s3 LFO2 rate	0	4194304	Value	ValueOutput
+s3 Seq1 grains 	0	4194304	Value	ValueOutput
+s3 Seq1 time pe	0	4194304	Value	ValueOutput
+s3 Seq2 grains 	0	4194304	Value	ValueOutput
+s3 Seq2 time pe	0	4194304	Value	ValueOutput
+s3 Seq3 grains 	0	4194304	Value	ValueOutput
+s3 Seq3 time pe	0	4194304	Value	ValueOutput
+s3 Seq4 grains 	0	4194304	Value	ValueOutput
+s3 Seq4 time pe	0	4194304	Value	ValueOutput
+s3 Macro knob 1	0	4194304	Value	ValueOutput
+s3 Macro knob 2	0	4194304	Value	ValueOutput
+s3 Macro knob 3	0	4194304	Value	ValueOutput
+s3 Macro knob 4	0	4194304	Value	ValueOutput
+s3 Loop speed	0	4194304	Value	ValueOutput
+s3 Loop amount	0	4194304	Value	ValueOutput
+s4 Position	0	4194304	Value	ValueOutput
+s4 Amp	0	4194304	Value	ValueOutput
+s4 Grain rate	0	4194304	Value	ValueOutput
+s4 Pitch ratio	0	4194304	Value	ValueOutput
+s4 Reverse prob	0	4194304	Value	ValueOutput
+s4 Pan	0	4194304	Value	ValueOutput
+s4 Filter cutof	0	4194304	Value	ValueOutput
+s4 Filter reson	0	4194304	Value	ValueOutput
+s4 Filter stere	0	4194304	Value	ValueOutput
+s4 Grain attack	0	4194304	Value	ValueOutput
+s4 Grain releas	0	4194304	Value	ValueOutput
+s4 Grain sustai	0	4194304	Value	ValueOutput
+s4 Grain length	0	4194304	Value	ValueOutput
+s4 Voice attack	0	4194304	Value	ValueOutput
+s4 Voice decay 	0	4194304	Value	ValueOutput
+s4 Voice releas	0	4194304	Value	ValueOutput
+s4 Voice sustai	0	4194304	Value	ValueOutput
+s4 Voice veloci	0	4194304	Value	ValueOutput
+s4 LFO1 rate	0	4194304	Value	ValueOutput
+s4 LFO2 rate	0	4194304	Value	ValueOutput
+s4 Seq1 grains 	0	4194304	Value	ValueOutput
+s4 Seq1 time pe	0	4194304	Value	ValueOutput
+s4 Seq2 grains 	0	4194304	Value	ValueOutput
+s4 Seq2 time pe	0	4194304	Value	ValueOutput
+s4 Seq3 grains 	0	4194304	Value	ValueOutput
+s4 Seq3 time pe	0	4194304	Value	ValueOutput
+s4 Seq4 grains 	0	4194304	Value	ValueOutput
+s4 Seq4 time pe	0	4194304	Value	ValueOutput
+s4 Macro knob 1	0	4194304	Value	ValueOutput
+s4 Macro knob 2	0	4194304	Value	ValueOutput
+s4 Macro knob 3	0	4194304	Value	ValueOutput
+s4 Macro knob 4	0	4194304	Value	ValueOutput
+s4 Loop speed	0	4194304	Value	ValueOutput
+s4 Loop amount	0	4194304	Value	ValueOutput
+s5 Position	0	4194304	Value	ValueOutput
+s5 Amp	0	4194304	Value	ValueOutput
+s5 Grain rate	0	4194304	Value	ValueOutput
+s5 Pitch ratio	0	4194304	Value	ValueOutput
+s5 Reverse prob	0	4194304	Value	ValueOutput
+s5 Pan	0	4194304	Value	ValueOutput
+s5 Filter cutof	0	4194304	Value	ValueOutput
+s5 Filter reson	0	4194304	Value	ValueOutput
+s5 Filter stere	0	4194304	Value	ValueOutput
+s5 Grain attack	0	4194304	Value	ValueOutput
+s5 Grain releas	0	4194304	Value	ValueOutput
+s5 Grain sustai	0	4194304	Value	ValueOutput
+s5 Grain length	0	4194304	Value	ValueOutput
+s5 Voice attack	0	4194304	Value	ValueOutput
+s5 Voice decay 	0	4194304	Value	ValueOutput
+s5 Voice releas	0	4194304	Value	ValueOutput
+s5 Voice sustai	0	4194304	Value	ValueOutput
+s5 Voice veloci	0	4194304	Value	ValueOutput
+s5 LFO1 rate	0	4194304	Value	ValueOutput
+s5 LFO2 rate	0	4194304	Value	ValueOutput
+s5 Seq1 grains 	0	4194304	Value	ValueOutput
+s5 Seq1 time pe	0	4194304	Value	ValueOutput
+s5 Seq2 grains 	0	4194304	Value	ValueOutput
+s5 Seq2 time pe	0	4194304	Value	ValueOutput
+s5 Seq3 grains 	0	4194304	Value	ValueOutput
+s5 Seq3 time pe	0	4194304	Value	ValueOutput
+s5 Seq4 grains 	0	4194304	Value	ValueOutput
+s5 Seq4 time pe	0	4194304	Value	ValueOutput
+s5 Macro knob 1	0	4194304	Value	ValueOutput
+s5 Macro knob 2	0	4194304	Value	ValueOutput
+s5 Macro knob 3	0	4194304	Value	ValueOutput
+s5 Macro knob 4	0	4194304	Value	ValueOutput
+s5 Loop speed	0	4194304	Value	ValueOutput
+s5 Loop amount	0	4194304	Value	ValueOutput
+s6 Position	0	4194304	Value	ValueOutput
+s6 Amp	0	4194304	Value	ValueOutput
+s6 Grain rate	0	4194304	Value	ValueOutput
+s6 Pitch ratio	0	4194304	Value	ValueOutput
+s6 Reverse prob	0	4194304	Value	ValueOutput
+s6 Pan	0	4194304	Value	ValueOutput
+s6 Filter cutof	0	4194304	Value	ValueOutput
+s6 Filter reson	0	4194304	Value	ValueOutput
+s6 Filter stere	0	4194304	Value	ValueOutput
+s6 Grain attack	0	4194304	Value	ValueOutput
+s6 Grain releas	0	4194304	Value	ValueOutput
+s6 Grain sustai	0	4194304	Value	ValueOutput
+s6 Grain length	0	4194304	Value	ValueOutput
+s6 Voice attack	0	4194304	Value	ValueOutput
+s6 Voice decay 	0	4194304	Value	ValueOutput
+s6 Voice releas	0	4194304	Value	ValueOutput
+s6 Voice sustai	0	4194304	Value	ValueOutput
+s6 Voice veloci	0	4194304	Value	ValueOutput
+s6 LFO1 rate	0	4194304	Value	ValueOutput
+s6 LFO2 rate	0	4194304	Value	ValueOutput
+s6 Seq1 grains 	0	4194304	Value	ValueOutput
+s6 Seq1 time pe	0	4194304	Value	ValueOutput
+s6 Seq2 grains 	0	4194304	Value	ValueOutput
+s6 Seq2 time pe	0	4194304	Value	ValueOutput
+s6 Seq3 grains 	0	4194304	Value	ValueOutput
+s6 Seq3 time pe	0	4194304	Value	ValueOutput
+s6 Seq4 grains 	0	4194304	Value	ValueOutput
+s6 Seq4 time pe	0	4194304	Value	ValueOutput
+s6 Macro knob 1	0	4194304	Value	ValueOutput
+s6 Macro knob 2	0	4194304	Value	ValueOutput
+s6 Macro knob 3	0	4194304	Value	ValueOutput
+s6 Macro knob 4	0	4194304	Value	ValueOutput
+s6 Loop speed	0	4194304	Value	ValueOutput
+s6 Loop amount	0	4194304	Value	ValueOutput
+s7 Position	0	4194304	Value	ValueOutput
+s7 Amp	0	4194304	Value	ValueOutput
+s7 Grain rate	0	4194304	Value	ValueOutput
+s7 Pitch ratio	0	4194304	Value	ValueOutput
+s7 Reverse prob	0	4194304	Value	ValueOutput
+s7 Pan	0	4194304	Value	ValueOutput
+s7 Filter cutof	0	4194304	Value	ValueOutput
+s7 Filter reson	0	4194304	Value	ValueOutput
+s7 Filter stere	0	4194304	Value	ValueOutput
+s7 Grain attack	0	4194304	Value	ValueOutput
+s7 Grain releas	0	4194304	Value	ValueOutput
+s7 Grain sustai	0	4194304	Value	ValueOutput
+s7 Grain length	0	4194304	Value	ValueOutput
+s7 Voice attack	0	4194304	Value	ValueOutput
+s7 Voice decay 	0	4194304	Value	ValueOutput
+s7 Voice releas	0	4194304	Value	ValueOutput
+s7 Voice sustai	0	4194304	Value	ValueOutput
+s7 Voice veloci	0	4194304	Value	ValueOutput
+s7 LFO1 rate	0	4194304	Value	ValueOutput
+s7 LFO2 rate	0	4194304	Value	ValueOutput
+s7 Seq1 grains 	0	4194304	Value	ValueOutput
+s7 Seq1 time pe	0	4194304	Value	ValueOutput
+s7 Seq2 grains 	0	4194304	Value	ValueOutput
+s7 Seq2 time pe	0	4194304	Value	ValueOutput
+s7 Seq3 grains 	0	4194304	Value	ValueOutput
+s7 Seq3 time pe	0	4194304	Value	ValueOutput
+s7 Seq4 grains 	0	4194304	Value	ValueOutput
+s7 Seq4 time pe	0	4194304	Value	ValueOutput
+s7 Macro knob 1	0	4194304	Value	ValueOutput
+s7 Macro knob 2	0	4194304	Value	ValueOutput
+s7 Macro knob 3	0	4194304	Value	ValueOutput
+s7 Macro knob 4	0	4194304	Value	ValueOutput
+s7 Loop speed	0	4194304	Value	ValueOutput
+s7 Loop amount	0	4194304	Value	ValueOutput
+s8 Position	0	4194304	Value	ValueOutput
+s8 Amp	0	4194304	Value	ValueOutput
+s8 Grain rate	0	4194304	Value	ValueOutput
+s8 Pitch ratio	0	4194304	Value	ValueOutput
+s8 Reverse prob	0	4194304	Value	ValueOutput
+s8 Pan	0	4194304	Value	ValueOutput
+s8 Filter cutof	0	4194304	Value	ValueOutput
+s8 Filter reson	0	4194304	Value	ValueOutput
+s8 Filter stere	0	4194304	Value	ValueOutput
+s8 Grain attack	0	4194304	Value	ValueOutput
+s8 Grain releas	0	4194304	Value	ValueOutput
+s8 Grain sustai	0	4194304	Value	ValueOutput
+s8 Grain length	0	4194304	Value	ValueOutput
+s8 Voice attack	0	4194304	Value	ValueOutput
+s8 Voice decay 	0	4194304	Value	ValueOutput
+s8 Voice releas	0	4194304	Value	ValueOutput
+s8 Voice sustai	0	4194304	Value	ValueOutput
+s8 Voice veloci	0	4194304	Value	ValueOutput
+s8 LFO1 rate	0	4194304	Value	ValueOutput
+s8 LFO2 rate	0	4194304	Value	ValueOutput
+s8 Seq1 grains 	0	4194304	Value	ValueOutput
+s8 Seq1 time pe	0	4194304	Value	ValueOutput
+s8 Seq2 grains 	0	4194304	Value	ValueOutput
+s8 Seq2 time pe	0	4194304	Value	ValueOutput
+s8 Seq3 grains 	0	4194304	Value	ValueOutput
+s8 Seq3 time pe	0	4194304	Value	ValueOutput
+s8 Seq4 grains 	0	4194304	Value	ValueOutput
+s8 Seq4 time pe	0	4194304	Value	ValueOutput
+s8 Macro knob 1	0	4194304	Value	ValueOutput
+s8 Macro knob 2	0	4194304	Value	ValueOutput
+s8 Macro knob 3	0	4194304	Value	ValueOutput
+s8 Macro knob 4	0	4194304	Value	ValueOutput
+s8 Loop speed	0	4194304	Value	ValueOutput
+s8 Loop amount	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

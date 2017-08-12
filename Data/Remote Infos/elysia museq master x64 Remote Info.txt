@@ -1,0 +1,70 @@
+Scope
+Manufacturer	Model
+Plugin Alliance	vst.mus2.elysia museq master x64
+Note: Will match scope definitions for vst.mus2.elysia museq master x64 or vst.mus2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+MS Mode	0	4194304	Value	ValueOutput
+Link	0	4194304	Value	ValueOutput
+Warm	0	4194304	Value	ValueOutput
+Active 1	0	4194304	Value	ValueOutput
+Lo Gain1	0	4194304	Value	ValueOutput
+Lo Type1	0	4194304	Value	ValueOutput
+Lo Mode1	0	4194304	Value	ValueOutput
+Lo Freq1	0	4194304	Value	ValueOutput
+BtmGain1	0	4194304	Value	ValueOutput
+Btm Q 1	0	4194304	Value	ValueOutput
+BtmMode1	0	4194304	Value	ValueOutput
+BF 1	0	4194304	Value	ValueOutput
+MidGain1	0	4194304	Value	ValueOutput
+Mid Q 1	0	4194304	Value	ValueOutput
+MidMode1	0	4194304	Value	ValueOutput
+MidFreq1	0	4194304	Value	ValueOutput
+TopGain1	0	4194304	Value	ValueOutput
+Top Q 1	0	4194304	Value	ValueOutput
+TopMode1	0	4194304	Value	ValueOutput
+TopFreq1	0	4194304	Value	ValueOutput
+Hi Gain1	0	4194304	Value	ValueOutput
+Hi Type1	0	4194304	Value	ValueOutput
+Hi Mode1	0	4194304	Value	ValueOutput
+Hi Freq1	0	4194304	Value	ValueOutput
+Out 1	0	4194304	Value	ValueOutput
+Active 2	0	4194304	Value	ValueOutput
+Lo Gain2	0	4194304	Value	ValueOutput
+Lo Type2	0	4194304	Value	ValueOutput
+Lo Mode2	0	4194304	Value	ValueOutput
+Lo Freq2	0	4194304	Value	ValueOutput
+BtmGain2	0	4194304	Value	ValueOutput
+Btm Q 2	0	4194304	Value	ValueOutput
+BtmMode2	0	4194304	Value	ValueOutput
+BF 2	0	4194304	Value	ValueOutput
+MidGain2	0	4194304	Value	ValueOutput
+Mid Q 2	0	4194304	Value	ValueOutput
+MidMode2	0	4194304	Value	ValueOutput
+MidFreq2	0	4194304	Value	ValueOutput
+TopGain2	0	4194304	Value	ValueOutput
+Top Q 2	0	4194304	Value	ValueOutput
+TopMode2	0	4194304	Value	ValueOutput
+TopFreq2	0	4194304	Value	ValueOutput
+Hi Gain2	0	4194304	Value	ValueOutput
+Hi Type2	0	4194304	Value	ValueOutput
+Hi Mode2	0	4194304	Value	ValueOutput
+Hi Freq2	0	4194304	Value	ValueOutput
+Out 2	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

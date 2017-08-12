@@ -1,0 +1,55 @@
+Scope
+Manufacturer	Model
+Xfer Records	vst.Nr8v.Cthulhu_x64
+Note: Will match scope definitions for vst.Nr8v.Cthulhu_x64 or vst.Nr8v
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Transpos	0	4194304	Value	ValueOutput
+Swing 	0	4194304	Value	ValueOutput
+Gate	0	4194304	Value	ValueOutput
+Pattern	0	4194304	Value	ValueOutput
+Arp_No C 	0	4194304	Value	ValueOutput
+Arp_No C#	0	4194304	Value	ValueOutput
+Arp_No D 	0	4194304	Value	ValueOutput
+Arp_No D#	0	4194304	Value	ValueOutput
+Arp_No E 	0	4194304	Value	ValueOutput
+Arp_No F 	0	4194304	Value	ValueOutput
+Arp_No F#	0	4194304	Value	ValueOutput
+Arp_No G 	0	4194304	Value	ValueOutput
+Arp_No G#	0	4194304	Value	ValueOutput
+Arp_No A 	0	4194304	Value	ValueOutput
+Arp_No A#	0	4194304	Value	ValueOutput
+Arp_No B 	0	4194304	Value	ValueOutput
+Chords ON	0	4194304	Value	ValueOutput
+Arp ON	0	4194304	Value	ValueOutput
+Rate P01	0	4194304	Value	ValueOutput
+Rate P02	0	4194304	Value	ValueOutput
+Rate P03	0	4194304	Value	ValueOutput
+Rate P04	0	4194304	Value	ValueOutput
+Rate P05	0	4194304	Value	ValueOutput
+Rate P06	0	4194304	Value	ValueOutput
+Rate P07	0	4194304	Value	ValueOutput
+Rate P08	0	4194304	Value	ValueOutput
+Rate P09	0	4194304	Value	ValueOutput
+Rate P10	0	4194304	Value	ValueOutput
+Rate P11	0	4194304	Value	ValueOutput
+Rate P12	0	4194304	Value	ValueOutput
+MIDILatch	0	4194304	Value	ValueOutput
+ArpFreeRate	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

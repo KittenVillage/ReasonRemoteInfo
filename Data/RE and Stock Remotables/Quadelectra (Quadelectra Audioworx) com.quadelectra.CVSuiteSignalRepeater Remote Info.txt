@@ -1,0 +1,26 @@
+Scope
+Manufacturer	Model
+Quadelectra (Quadelectra Audioworx)	com.quadelectra.CVSuiteSignalRepeater
+
+Remotable	Min	Max	Input type	Output type
+Repeater 1: Enabled	0	1	Toggle	ValueOutput
+Repeater 1: Delay (Time)	0	4194304	Value	ValueOutput
+Repeater 1: Delay (Steps)	0	15	Value	ValueOutput
+Repeater 1: Unit Type	0	2	Value	ValueOutput
+Repeater 2: Enabled	0	1	Toggle	ValueOutput
+Repeater 2: Delay (Time)	0	4194304	Value	ValueOutput
+Repeater 2: Delay (Steps)	0	15	Value	ValueOutput
+Repeater 2: Unit Type	0	2	Value	ValueOutput
+Repeater 3: Enabled	0	1	Toggle	ValueOutput
+Repeater 3: Delay (Time)	0	4194304	Value	ValueOutput
+Repeater 3: Delay (Steps)	0	15	Value	ValueOutput
+Repeater 3: Unit Type	0	2	Value	ValueOutput
+Repeater 4: Enabled	0	1	Toggle	ValueOutput
+Repeater 4: Delay (Time)	0	4194304	Value	ValueOutput
+Repeater 4: Delay (Steps)	0	15	Value	ValueOutput
+Repeater 4: Unit Type	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,29 @@
+Scope
+Manufacturer	Model
+Devoloop	com.devoloop.Holedo
+
+Remotable	Min	Max	Input type	Output type
+Sensitivity	0	4194304	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Ratio	0	4194304	Value	ValueOutput
+Ratio Fixed	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Gate	0	1	Toggle	ValueOutput
+Knee	0	1	Toggle	ValueOutput
+Rage	0	1	Toggle	ValueOutput
+Rage Tone	0	4194304	Value	ValueOutput
+Nurgle	0	4194304	Value	ValueOutput
+Khorne	0	4194304	Value	ValueOutput
+Tubes Number	0	9	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Signal Routing	0	1	Toggle	ValueOutput
+Key In	0	1	Toggle	ValueOutput
+Key Listen	0	1	Toggle	ValueOutput
+Make-Up	0	4194304	Value	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

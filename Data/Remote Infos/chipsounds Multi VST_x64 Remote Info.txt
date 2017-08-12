@@ -1,0 +1,151 @@
+Scope
+Manufacturer	Model
+Plogue Art et Technologie, Inc	vst.PMGO.chipsounds Multi VST_x64
+Note: Will match scope definitions for vst.PMGO.chipsounds Multi VST_x64 or vst.PMGO
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+p000	0	4194304	Value	ValueOutput
+Pitch LFO Depth	0	4194304	Value	ValueOutput
+PWM Ratio	0	4194304	Value	ValueOutput
+PWM LFO Freq	0	4194304	Value	ValueOutput
+PWM LFO Depth	0	4194304	Value	ValueOutput
+Portamento Time	0	4194304	Value	ValueOutput
+p006	0	4194304	Value	ValueOutput
+CC007	0	4194304	Value	ValueOutput
+p008	0	4194304	Value	ValueOutput
+p009	0	4194304	Value	ValueOutput
+CC010	0	4194304	Value	ValueOutput
+Expression	0	4194304	Value	ValueOutput
+CC012	0	4194304	Value	ValueOutput
+Amp EG Hold	0	4194304	Value	ValueOutput
+Pitch EG Hold	0	4194304	Value	ValueOutput
+Pitch EG Depth	0	4194304	Value	ValueOutput
+Pitch EG Attack	0	4194304	Value	ValueOutput
+Pitch EG Decay	0	4194304	Value	ValueOutput
+Pitch EG Sustain	0	4194304	Value	ValueOutput
+Pitch EG Release	0	4194304	Value	ValueOutput
+Private	0	4194304	Value	ValueOutput
+Private	0	4194304	Value	ValueOutput
+p022	0	4194304	Value	ValueOutput
+p023	0	4194304	Value	ValueOutput
+Extra0	0	4194304	Value	ValueOutput
+Extra1	0	4194304	Value	ValueOutput
+Extra2	0	4194304	Value	ValueOutput
+Extra3	0	4194304	Value	ValueOutput
+DMG Wave VPos	0	4194304	Value	ValueOutput
+DMG Wave PMode	0	4194304	Value	ValueOutput
+p030	0	4194304	Value	ValueOutput
+p031	0	4194304	Value	ValueOutput
+p032	0	4194304	Value	ValueOutput
+p033	0	4194304	Value	ValueOutput
+p034	0	4194304	Value	ValueOutput
+p035	0	4194304	Value	ValueOutput
+p036	0	4194304	Value	ValueOutput
+p037	0	4194304	Value	ValueOutput
+p038	0	4194304	Value	ValueOutput
+p039	0	4194304	Value	ValueOutput
+p040	0	4194304	Value	ValueOutput
+p041	0	4194304	Value	ValueOutput
+p042	0	4194304	Value	ValueOutput
+p043	0	4194304	Value	ValueOutput
+p044	0	4194304	Value	ValueOutput
+p045	0	4194304	Value	ValueOutput
+p046	0	4194304	Value	ValueOutput
+p047	0	4194304	Value	ValueOutput
+p048	0	4194304	Value	ValueOutput
+p049	0	4194304	Value	ValueOutput
+p050	0	4194304	Value	ValueOutput
+p051	0	4194304	Value	ValueOutput
+p052	0	4194304	Value	ValueOutput
+p053	0	4194304	Value	ValueOutput
+p054	0	4194304	Value	ValueOutput
+p055	0	4194304	Value	ValueOutput
+p056	0	4194304	Value	ValueOutput
+p057	0	4194304	Value	ValueOutput
+p058	0	4194304	Value	ValueOutput
+p059	0	4194304	Value	ValueOutput
+p060	0	4194304	Value	ValueOutput
+p061	0	4194304	Value	ValueOutput
+p062	0	4194304	Value	ValueOutput
+p063	0	4194304	Value	ValueOutput
+p064	0	4194304	Value	ValueOutput
+p065	0	4194304	Value	ValueOutput
+p066	0	4194304	Value	ValueOutput
+p067	0	4194304	Value	ValueOutput
+p068	0	4194304	Value	ValueOutput
+p069	0	4194304	Value	ValueOutput
+Amp EG Sustain	0	4194304	Value	ValueOutput
+Filter Res/Buzz	0	4194304	Value	ValueOutput
+Amp EG Release	0	4194304	Value	ValueOutput
+Amp EG Attack	0	4194304	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Amp EG Decay	0	4194304	Value	ValueOutput
+Pitch LFO Freq	0	4194304	Value	ValueOutput
+p077	0	4194304	Value	ValueOutput
+Pitch LFO Delay	0	4194304	Value	ValueOutput
+Filter LP On/Off	0	4194304	Value	ValueOutput
+Filter BP On/Off	0	4194304	Value	ValueOutput
+Filter HP On/Off	0	4194304	Value	ValueOutput
+Filter EG Attack	0	4194304	Value	ValueOutput
+Filter EG Decay	0	4194304	Value	ValueOutput
+Filter EG Sustain	0	4194304	Value	ValueOutput
+Filter EG Release	0	4194304	Value	ValueOutput
+Pitch LFO Type	0	4194304	Value	ValueOutput
+p087	0	4194304	Value	ValueOutput
+p088	0	4194304	Value	ValueOutput
+Amp LFO Type	0	4194304	Value	ValueOutput
+Amp LFO Freq	0	4194304	Value	ValueOutput
+p091	0	4194304	Value	ValueOutput
+Amp LFO Depth	0	4194304	Value	ValueOutput
+p093	0	4194304	Value	ValueOutput
+p094	0	4194304	Value	ValueOutput
+p095	0	4194304	Value	ValueOutput
+p096	0	4194304	Value	ValueOutput
+p097	0	4194304	Value	ValueOutput
+p098	0	4194304	Value	ValueOutput
+p099	0	4194304	Value	ValueOutput
+p100	0	4194304	Value	ValueOutput
+p101	0	4194304	Value	ValueOutput
+p102	0	4194304	Value	ValueOutput
+p103	0	4194304	Value	ValueOutput
+p104	0	4194304	Value	ValueOutput
+p105	0	4194304	Value	ValueOutput
+p106	0	4194304	Value	ValueOutput
+p107	0	4194304	Value	ValueOutput
+p108	0	4194304	Value	ValueOutput
+p109	0	4194304	Value	ValueOutput
+p110	0	4194304	Value	ValueOutput
+p111	0	4194304	Value	ValueOutput
+p112	0	4194304	Value	ValueOutput
+p113	0	4194304	Value	ValueOutput
+p114	0	4194304	Value	ValueOutput
+p115	0	4194304	Value	ValueOutput
+p116	0	4194304	Value	ValueOutput
+p117	0	4194304	Value	ValueOutput
+p118	0	4194304	Value	ValueOutput
+p119	0	4194304	Value	ValueOutput
+p120	0	4194304	Value	ValueOutput
+p121	0	4194304	Value	ValueOutput
+p122	0	4194304	Value	ValueOutput
+p123	0	4194304	Value	ValueOutput
+p124	0	4194304	Value	ValueOutput
+p125	0	4194304	Value	ValueOutput
+p126	0	4194304	Value	ValueOutput
+p127	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

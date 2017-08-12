@@ -1,0 +1,31 @@
+Scope
+Manufacturer	Model
+Lexicon	vst.Lsp1.LexPitchShift x64
+Note: Will match scope definitions for vst.Lsp1.LexPitchShift x64 or vst.Lsp1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Pitch Shift Typ	0	4194304	Value	ValueOutput
+Shift Percent	0	4194304	Value	ValueOutput
+Shift Semitone	0	4194304	Value	ValueOutput
+Shift Cent	0	4194304	Value	ValueOutput
+Crossfade	0	4194304	Value	ValueOutput
+Low Shift Fc	0	4194304	Value	ValueOutput
+Smart Shift	0	4194304	Value	ValueOutput
+Correlation Mod	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

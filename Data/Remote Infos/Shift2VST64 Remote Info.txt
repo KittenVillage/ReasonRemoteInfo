@@ -1,0 +1,190 @@
+Scope
+Manufacturer	Model
+Loomer	vst.Lmah.Shift2VST64
+Note: Will match scope definitions for vst.Lmah.Shift2VST64 or vst.Lmah
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+VisibleVoice	0	4194304	Value	ValueOutput
+On1	0	4194304	Value	ValueOutput
+DelayTime1	0	4194304	Value	ValueOutput
+SyncTime1	0	4194304	Value	ValueOutput
+Feedback1	0	4194304	Value	ValueOutput
+ShiftMode1	0	4194304	Value	ValueOutput
+Tune1	0	4194304	Value	ValueOutput
+DiatonicTune1	0	4194304	Value	ValueOutput
+FilterType1	0	4194304	Value	ValueOutput
+FltrCutoff1	0	4194304	Value	ValueOutput
+FltrRes1	0	4194304	Value	ValueOutput
+Pan1	0	4194304	Value	ValueOutput
+WetVolume1	0	4194304	Value	ValueOutput
+TimeModSrc1	0	4194304	Value	ValueOutput
+TimeMod1	0	4194304	Value	ValueOutput
+FeedbackModSrc1	0	4194304	Value	ValueOutput
+FeedbackMod1	0	4194304	Value	ValueOutput
+TuneModSrc1	0	4194304	Value	ValueOutput
+TuneMod1	0	4194304	Value	ValueOutput
+CutoffModSrc1	0	4194304	Value	ValueOutput
+CutoffMod1	0	4194304	Value	ValueOutput
+ResModSrc1	0	4194304	Value	ValueOutput
+ResMod1	0	4194304	Value	ValueOutput
+PanModSrc1	0	4194304	Value	ValueOutput
+PanMod1	0	4194304	Value	ValueOutput
+VolModSrc1	0	4194304	Value	ValueOutput
+VolumeMod1	0	4194304	Value	ValueOutput
+On2	0	4194304	Value	ValueOutput
+DelayTime2	0	4194304	Value	ValueOutput
+SyncTime2	0	4194304	Value	ValueOutput
+Feedback2	0	4194304	Value	ValueOutput
+ShiftMode2	0	4194304	Value	ValueOutput
+Tune2	0	4194304	Value	ValueOutput
+DiatonicTune2	0	4194304	Value	ValueOutput
+FilterType2	0	4194304	Value	ValueOutput
+FltrCutoff2	0	4194304	Value	ValueOutput
+FltrRes2	0	4194304	Value	ValueOutput
+Pan2	0	4194304	Value	ValueOutput
+WetVolume2	0	4194304	Value	ValueOutput
+TimeModSrc2	0	4194304	Value	ValueOutput
+TimeMod2	0	4194304	Value	ValueOutput
+FeedbackModSrc2	0	4194304	Value	ValueOutput
+FeedbackMod2	0	4194304	Value	ValueOutput
+TuneModSrc2	0	4194304	Value	ValueOutput
+TuneMod2	0	4194304	Value	ValueOutput
+CutoffModSrc2	0	4194304	Value	ValueOutput
+CutoffMod2	0	4194304	Value	ValueOutput
+ResModSrc2	0	4194304	Value	ValueOutput
+ResMod2	0	4194304	Value	ValueOutput
+PanModSrc2	0	4194304	Value	ValueOutput
+PanMod2	0	4194304	Value	ValueOutput
+VolModSrc2	0	4194304	Value	ValueOutput
+VolumeMod2	0	4194304	Value	ValueOutput
+On3	0	4194304	Value	ValueOutput
+DelayTime3	0	4194304	Value	ValueOutput
+SyncTime3	0	4194304	Value	ValueOutput
+Feedback3	0	4194304	Value	ValueOutput
+ShiftMode3	0	4194304	Value	ValueOutput
+Tune3	0	4194304	Value	ValueOutput
+DiatonicTune3	0	4194304	Value	ValueOutput
+FilterType3	0	4194304	Value	ValueOutput
+FltrCutoff3	0	4194304	Value	ValueOutput
+FltrRes3	0	4194304	Value	ValueOutput
+Pan3	0	4194304	Value	ValueOutput
+WetVolume3	0	4194304	Value	ValueOutput
+TimeModSrc3	0	4194304	Value	ValueOutput
+TimeMod3	0	4194304	Value	ValueOutput
+FeedbackModSrc3	0	4194304	Value	ValueOutput
+FeedbackMod3	0	4194304	Value	ValueOutput
+TuneModSrc3	0	4194304	Value	ValueOutput
+TuneMod3	0	4194304	Value	ValueOutput
+CutoffModSrc3	0	4194304	Value	ValueOutput
+CutoffMod3	0	4194304	Value	ValueOutput
+ResModSrc3	0	4194304	Value	ValueOutput
+ResMod3	0	4194304	Value	ValueOutput
+PanModSrc3	0	4194304	Value	ValueOutput
+PanMod3	0	4194304	Value	ValueOutput
+VolModSrc3	0	4194304	Value	ValueOutput
+VolumeMod3	0	4194304	Value	ValueOutput
+On4	0	4194304	Value	ValueOutput
+DelayTime4	0	4194304	Value	ValueOutput
+SyncTime4	0	4194304	Value	ValueOutput
+Feedback4	0	4194304	Value	ValueOutput
+ShiftMode4	0	4194304	Value	ValueOutput
+Tune4	0	4194304	Value	ValueOutput
+DiatonicTune4	0	4194304	Value	ValueOutput
+FilterType4	0	4194304	Value	ValueOutput
+FltrCutoff4	0	4194304	Value	ValueOutput
+FltrRes4	0	4194304	Value	ValueOutput
+Pan4	0	4194304	Value	ValueOutput
+WetVolume4	0	4194304	Value	ValueOutput
+TimeModSrc4	0	4194304	Value	ValueOutput
+TimeMod4	0	4194304	Value	ValueOutput
+FeedbackModSrc4	0	4194304	Value	ValueOutput
+FeedbackMod4	0	4194304	Value	ValueOutput
+TuneModSrc4	0	4194304	Value	ValueOutput
+TuneMod4	0	4194304	Value	ValueOutput
+CutoffModSrc4	0	4194304	Value	ValueOutput
+CutoffMod4	0	4194304	Value	ValueOutput
+ResModSrc4	0	4194304	Value	ValueOutput
+ResMod4	0	4194304	Value	ValueOutput
+PanModSrc4	0	4194304	Value	ValueOutput
+PanMod4	0	4194304	Value	ValueOutput
+VolModSrc4	0	4194304	Value	ValueOutput
+VolumeMod4	0	4194304	Value	ValueOutput
+On5	0	4194304	Value	ValueOutput
+DelayTime5	0	4194304	Value	ValueOutput
+SyncTime5	0	4194304	Value	ValueOutput
+Feedback5	0	4194304	Value	ValueOutput
+ShiftMode5	0	4194304	Value	ValueOutput
+Tune5	0	4194304	Value	ValueOutput
+DiatonicTune5	0	4194304	Value	ValueOutput
+FilterType5	0	4194304	Value	ValueOutput
+FltrCutoff5	0	4194304	Value	ValueOutput
+FltrRes5	0	4194304	Value	ValueOutput
+Pan5	0	4194304	Value	ValueOutput
+WetVolume5	0	4194304	Value	ValueOutput
+TimeModSrc5	0	4194304	Value	ValueOutput
+TimeMod5	0	4194304	Value	ValueOutput
+FeedbackModSrc5	0	4194304	Value	ValueOutput
+FeedbackMod5	0	4194304	Value	ValueOutput
+TuneModSrc5	0	4194304	Value	ValueOutput
+TuneMod5	0	4194304	Value	ValueOutput
+CutoffModSrc5	0	4194304	Value	ValueOutput
+CutoffMod5	0	4194304	Value	ValueOutput
+ResModSrc5	0	4194304	Value	ValueOutput
+ResMod5	0	4194304	Value	ValueOutput
+PanModSrc5	0	4194304	Value	ValueOutput
+PanMod5	0	4194304	Value	ValueOutput
+VolModSrc5	0	4194304	Value	ValueOutput
+VolumeMod5	0	4194304	Value	ValueOutput
+GridVertical	0	4194304	Value	ValueOutput
+GridHorizontal	0	4194304	Value	ValueOutput
+GridVertLock	0	4194304	Value	ValueOutput
+GridHorizLock	0	4194304	Value	ValueOutput
+TempoSync	0	4194304	Value	ValueOutput
+TimeSnap	0	4194304	Value	ValueOutput
+BottomPanel	0	4194304	Value	ValueOutput
+LFO	0	4194304	Value	ValueOutput
+LFO1Shape	0	4194304	Value	ValueOutput
+LFO1TempoSync	0	4194304	Value	ValueOutput
+LFO1SyncRate	0	4194304	Value	ValueOutput
+LFO1Rate	0	4194304	Value	ValueOutput
+LFO2Shape	0	4194304	Value	ValueOutput
+LFO2TempoSync	0	4194304	Value	ValueOutput
+LFO2SyncRate	0	4194304	Value	ValueOutput
+LFO2Rate	0	4194304	Value	ValueOutput
+LFO3Shape	0	4194304	Value	ValueOutput
+LFO3TempoSync	0	4194304	Value	ValueOutput
+LFO3SyncRate	0	4194304	Value	ValueOutput
+LFO3Rate	0	4194304	Value	ValueOutput
+LFO4Shape	0	4194304	Value	ValueOutput
+LFO4TempoSync	0	4194304	Value	ValueOutput
+LFO4SyncRate	0	4194304	Value	ValueOutput
+LFO4Rate	0	4194304	Value	ValueOutput
+GrainSize	0	4194304	Value	ValueOutput
+GrainRange	0	4194304	Value	ValueOutput
+GrainShape	0	4194304	Value	ValueOutput
+DryVolume	0	4194304	Value	ValueOutput
+TrackChannel	0	4194304	Value	ValueOutput
+TrackHP	0	4194304	Value	ValueOutput
+TrackLP	0	4194304	Value	ValueOutput
+TrackSpeed	0	4194304	Value	ValueOutput
+TrackKey	0	4194304	Value	ValueOutput
+TrackScale	0	4194304	Value	ValueOutput
+InputVolume	0	4194304	Value	ValueOutput
+OutputVolume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

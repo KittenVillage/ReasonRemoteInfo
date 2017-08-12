@@ -1,0 +1,38 @@
+Scope
+Manufacturer	Model
+Joey Sturgis Tones	vst.FinA.Finality Advanced x64
+Note: Will match scope definitions for vst.FinA.Finality Advanced x64 or vst.FinA
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Lookahead	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+HPF Frequency	0	4194304	Value	ValueOutput
+HPF Sidechain monitor	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Color	0	4194304	Value	ValueOutput
+HPF Sidechain	0	4194304	Value	ValueOutput
+Autogain	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Aggro	0	4194304	Value	ValueOutput
+Meter Mode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

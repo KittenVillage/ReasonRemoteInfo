@@ -1,0 +1,56 @@
+Scope
+Manufacturer	Model
+Kazrog LLC	vst.THM4.Thermionik M4 x64
+Note: Will match scope definitions for vst.THM4.Thermionik M4 x64 or vst.THM4
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+M_Output	0	4194304	Value	ValueOutput
+M_Input	0	4194304	Value	ValueOutput
+M_WetDry	0	4194304	Value	ValueOutput
+M_Force_Mono	0	4194304	Value	ValueOutput
+M_Preset_Loaded	0	4194304	Value	ValueOutput
+M_Preset_Modded	0	4194304	Value	ValueOutput
+Amp_Gain	0	4194304	Value	ValueOutput
+Amp_Gain_2	0	4194304	Value	ValueOutput
+Amp_Bass	0	4194304	Value	ValueOutput
+Amp_Mid	0	4194304	Value	ValueOutput
+Amp_High	0	4194304	Value	ValueOutput
+Amp_Depth	0	4194304	Value	ValueOutput
+Amp_Presence	0	4194304	Value	ValueOutput
+Amp_Saturation	0	4194304	Value	ValueOutput
+Amp_Bright	0	4194304	Value	ValueOutput
+Amp_Fat	0	4194304	Value	ValueOutput
+Amp_Boost	0	4194304	Value	ValueOutput
+Amp_Channel	0	4194304	Value	ValueOutput
+Amp_Presence_On	0	4194304	Value	ValueOutput
+Amp_Depth_On	0	4194304	Value	ValueOutput
+Preamp_On	0	4194304	Value	ValueOutput
+Poweramp_On	0	4194304	Value	ValueOutput
+Amp_Trim	0	4194304	Value	ValueOutput
+Quality	0	4194304	Value	ValueOutput
+GEQ_Band_1	0	4194304	Value	ValueOutput
+GEQ_Band_2	0	4194304	Value	ValueOutput
+GEQ_Band_3	0	4194304	Value	ValueOutput
+GEQ_Band_4	0	4194304	Value	ValueOutput
+GEQ_Band_5	0	4194304	Value	ValueOutput
+GEQ_On	0	4194304	Value	ValueOutput
+Amp_Reverb_Amt	0	4194304	Value	ValueOutput
+Amp_PresShift	0	4194304	Value	ValueOutput
+Amp_MidGain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

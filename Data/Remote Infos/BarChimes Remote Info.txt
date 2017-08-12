@@ -1,0 +1,85 @@
+Scope
+Manufacturer	Model
+QuikQuak	vst.BaCh.BarChimes
+Note: Will match scope definitions for vst.BaCh.BarChimes or vst.BaCh
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bar 01	0	4194304	Value	ValueOutput
+Bar 02	0	4194304	Value	ValueOutput
+Bar 03	0	4194304	Value	ValueOutput
+Bar 04	0	4194304	Value	ValueOutput
+Bar 05	0	4194304	Value	ValueOutput
+Bar 06	0	4194304	Value	ValueOutput
+Bar 07	0	4194304	Value	ValueOutput
+Bar 08	0	4194304	Value	ValueOutput
+Bar 09	0	4194304	Value	ValueOutput
+Bar 10	0	4194304	Value	ValueOutput
+Bar 11	0	4194304	Value	ValueOutput
+Bar 12	0	4194304	Value	ValueOutput
+Bar 13	0	4194304	Value	ValueOutput
+Bar 14	0	4194304	Value	ValueOutput
+Bar 15	0	4194304	Value	ValueOutput
+Bar 16	0	4194304	Value	ValueOutput
+Bar 17	0	4194304	Value	ValueOutput
+Bar 18	0	4194304	Value	ValueOutput
+Bar 19	0	4194304	Value	ValueOutput
+Bar 20	0	4194304	Value	ValueOutput
+Bar 21	0	4194304	Value	ValueOutput
+Bar 22	0	4194304	Value	ValueOutput
+Bar 23	0	4194304	Value	ValueOutput
+Bar 24	0	4194304	Value	ValueOutput
+Bar 25	0	4194304	Value	ValueOutput
+Bar 26	0	4194304	Value	ValueOutput
+Bar 27	0	4194304	Value	ValueOutput
+Bar 28	0	4194304	Value	ValueOutput
+Bar 29	0	4194304	Value	ValueOutput
+Bar 30	0	4194304	Value	ValueOutput
+Bar 31	0	4194304	Value	ValueOutput
+Bar 32	0	4194304	Value	ValueOutput
+Bar 33	0	4194304	Value	ValueOutput
+Bar 34	0	4194304	Value	ValueOutput
+Bar 35	0	4194304	Value	ValueOutput
+Bar 36	0	4194304	Value	ValueOutput
+Gravity	0	4194304	Value	ValueOutput
+Horizontal Influence	0	4194304	Value	ValueOutput
+Velocity Influence	0	4194304	Value	ValueOutput
+Time Delta	0	4194304	Value	ValueOutput
+Time Delta Audio	0	4194304	Value	ValueOutput
+Random hit amount	0	4194304	Value	ValueOutput
+Collision reaction	0	4194304	Value	ValueOutput
+Wind Direction	0	4194304	Value	ValueOutput
+Wind Amount	0	4194304	Value	ValueOutput
+Partial 1 offset	0	4194304	Value	ValueOutput
+Partial 2 offset	0	4194304	Value	ValueOutput
+Decay time	0	4194304	Value	ValueOutput
+Percussion decay	0	4194304	Value	ValueOutput
+Stereo width	0	4194304	Value	ValueOutput
+Band boost Frequency	0	4194304	Value	ValueOutput
+Ring gain	0	4194304	Value	ValueOutput
+Ring timbre	0	4194304	Value	ValueOutput
+Size to gain bias	0	4194304	Value	ValueOutput
+Partial gain	0	4194304	Value	ValueOutput
+Global Pitch offset	0	4194304	Value	ValueOutput
+Master gain	0	4194304	Value	ValueOutput
+Dampener key	0	4194304	Value	ValueOutput
+Input base octave	0	4194304	Value	ValueOutput
+Visual Collisions	0	4194304	Value	ValueOutput
+Wind only on play	0	4194304	Value	ValueOutput
+internal	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

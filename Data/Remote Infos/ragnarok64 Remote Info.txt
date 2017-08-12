@@ -1,0 +1,83 @@
+Scope
+Manufacturer	Model
+Hans Peter Willems + Bjoern Arlt	vst.hpbo.ragnarok64
+Note: Will match scope definitions for vst.hpbo.ragnarok64 or vst.hpbo
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Voices	0	4194304	Value	ValueOutput
+Portamnt	0	4194304	Value	ValueOutput
+Porta Lg	0	4194304	Value	ValueOutput
+PB Range	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+M. Tune	0	4194304	Value	ValueOutput
+Detune	0	4194304	Value	ValueOutput
+I. Tune	0	4194304	Value	ValueOutput
+FM Amt	0	4194304	Value	ValueOutput
+Square16	0	4194304	Value	ValueOutput
+Square 8	0	4194304	Value	ValueOutput
+Square 4	0	4194304	Value	ValueOutput
+Square 2	0	4194304	Value	ValueOutput
+Pulse 16	0	4194304	Value	ValueOutput
+Pulse 8	0	4194304	Value	ValueOutput
+Pulse 4	0	4194304	Value	ValueOutput
+Pulse 2	0	4194304	Value	ValueOutput
+Intvl 16	0	4194304	Value	ValueOutput
+Intvl 8	0	4194304	Value	ValueOutput
+Intvl 4	0	4194304	Value	ValueOutput
+Intvl 2	0	4194304	Value	ValueOutput
+Multi 16	0	4194304	Value	ValueOutput
+Multi 8	0	4194304	Value	ValueOutput
+Multi 4	0	4194304	Value	ValueOutput
+Multi 2	0	4194304	Value	ValueOutput
+NoiseMix	0	4194304	Value	ValueOutput
+Flt Mode	0	4194304	Value	ValueOutput
+Flt Pole	0	4194304	Value	ValueOutput
+Flt Freq	0	4194304	Value	ValueOutput
+Flt Reso	0	4194304	Value	ValueOutput
+Flt Env	0	4194304	Value	ValueOutput
+Flt LFO	0	4194304	Value	ValueOutput
+Flt Keyb	0	4194304	Value	ValueOutput
+LFO Freq	0	4194304	Value	ValueOutput
+LFO Dly	0	4194304	Value	ValueOutput
+Trg Mode	0	4194304	Value	ValueOutput
+Trg Len	0	4194304	Value	ValueOutput
+Env RTrg	0	4194304	Value	ValueOutput
+FltEnv M	0	4194304	Value	ValueOutput
+FltEnv A	0	4194304	Value	ValueOutput
+FltEnv D	0	4194304	Value	ValueOutput
+FltEnv S	0	4194304	Value	ValueOutput
+FltEnv R	0	4194304	Value	ValueOutput
+AmpEnv M	0	4194304	Value	ValueOutput
+AmpEnv A	0	4194304	Value	ValueOutput
+AmpEnv D	0	4194304	Value	ValueOutput
+AmpEnv S	0	4194304	Value	ValueOutput
+AmpEnv R	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+EQ 100	0	4194304	Value	ValueOutput
+EQ 200	0	4194304	Value	ValueOutput
+EQ 400	0	4194304	Value	ValueOutput
+EQ 1K	0	4194304	Value	ValueOutput
+EQ 2.5K	0	4194304	Value	ValueOutput
+EQ 5K	0	4194304	Value	ValueOutput
+EQ 12K	0	4194304	Value	ValueOutput
+SyncRate	0	4194304	Value	ValueOutput
+MW > FM	0	4194304	Value	ValueOutput
+MW > FcM	0	4194304	Value	ValueOutput
+MW > Fc	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

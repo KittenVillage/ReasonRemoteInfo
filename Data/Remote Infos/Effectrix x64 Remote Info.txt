@@ -1,0 +1,140 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	vst.sbef.Effectrix x64
+Note: Will match scope definitions for vst.sbef.Effectrix x64 or vst.sbef
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+PatternKeys	0	4194304	Value	ValueOutput
+masterlevel	0	4194304	Value	ValueOutput
+XloopSize	0	4194304	Value	ValueOutput
+XloopEnvelope	0	4194304	Value	ValueOutput
+XloopSizechng	0	4194304	Value	ValueOutput
+XloopPitchChng	0	4194304	Value	ValueOutput
+XloopMix	0	4194304	Value	ValueOutput
+LoopSize	0	4194304	Value	ValueOutput
+LoopxFade	0	4194304	Value	ValueOutput
+LoopDir	0	4194304	Value	ValueOutput
+LoopDecay	0	4194304	Value	ValueOutput
+LoopMix	0	4194304	Value	ValueOutput
+ScratchSize	0	4194304	Value	ValueOutput
+ScratchFWD	0	4194304	Value	ValueOutput
+ScratchFwdSlope	0	4194304	Value	ValueOutput
+ScratchBWD	0	4194304	Value	ValueOutput
+ScratchBwdSlope	0	4194304	Value	ValueOutput
+ScratchMix	0	4194304	Value	ValueOutput
+ReversSize	0	4194304	Value	ValueOutput
+ReversXfade	0	4194304	Value	ValueOutput
+ReverseDecay	0	4194304	Value	ValueOutput
+ReversMix	0	4194304	Value	ValueOutput
+StretchSpeed	0	4194304	Value	ValueOutput
+StretchGrains	0	4194304	Value	ValueOutput
+StretchFade	0	4194304	Value	ValueOutput
+StretchMix	0	4194304	Value	ValueOutput
+VinylSpeed	0	4194304	Value	ValueOutput
+VinylSize	0	4194304	Value	ValueOutput
+VinylSlope	0	4194304	Value	ValueOutput
+StopMix	0	4194304	Value	ValueOutput
+TonalTune	0	4194304	Value	ValueOutput
+TonalFeed	0	4194304	Value	ValueOutput
+TonalWidth	0	4194304	Value	ValueOutput
+TonalHP	0	4194304	Value	ValueOutput
+TonalLevel	0	4194304	Value	ValueOutput
+TonalMix	0	4194304	Value	ValueOutput
+StutterTempo	0	4194304	Value	ValueOutput
+StutterAttack	0	4194304	Value	ValueOutput
+StutterDecay	0	4194304	Value	ValueOutput
+StutterMix	0	4194304	Value	ValueOutput
+CrushBit	0	4194304	Value	ValueOutput
+CrushReduce	0	4194304	Value	ValueOutput
+CrushDistort	0	4194304	Value	ValueOutput
+CrushMix	0	4194304	Value	ValueOutput
+FilterCutoff	0	4194304	Value	ValueOutput
+FilterReso	0	4194304	Value	ValueOutput
+FilterPeak	0	4194304	Value	ValueOutput
+FilterAttack	0	4194304	Value	ValueOutput
+FilterDecay	0	4194304	Value	ValueOutput
+FilterMix	0	4194304	Value	ValueOutput
+PhaserRate	0	4194304	Value	ValueOutput
+PhaserStages	0	4194304	Value	ValueOutput
+PhaserDepth	0	4194304	Value	ValueOutput
+PhaserFeed	0	4194304	Value	ValueOutput
+PhaserWidth	0	4194304	Value	ValueOutput
+PhaserMix	0	4194304	Value	ValueOutput
+ChorusRate	0	4194304	Value	ValueOutput
+ChorusDepth	0	4194304	Value	ValueOutput
+ChorusFeed	0	4194304	Value	ValueOutput
+ChorusWidth	0	4194304	Value	ValueOutput
+ChorusMix	0	4194304	Value	ValueOutput
+DelayLeft	0	4194304	Value	ValueOutput
+DelayFeed	0	4194304	Value	ValueOutput
+DelayDiff	0	4194304	Value	ValueOutput
+DelayWidth	0	4194304	Value	ValueOutput
+DelayDryLev	0	4194304	Value	ValueOutput
+DelayMix	0	4194304	Value	ValueOutput
+ReverbRoom	0	4194304	Value	ValueOutput
+ReverbDamp	0	4194304	Value	ValueOutput
+ReverbWidth	0	4194304	Value	ValueOutput
+ReverbHP	0	4194304	Value	ValueOutput
+ReverbDryLevel	0	4194304	Value	ValueOutput
+ReverbMix	0	4194304	Value	ValueOutput
+XloopSmoothA	0	4194304	Value	ValueOutput
+XloopSmoothB	0	4194304	Value	ValueOutput
+LoopSmoothA	0	4194304	Value	ValueOutput
+LoopSmoothB	0	4194304	Value	ValueOutput
+StretchSmoothA	0	4194304	Value	ValueOutput
+StretchSmoothB	0	4194304	Value	ValueOutput
+ScratchSmoothA	0	4194304	Value	ValueOutput
+ScratchSmoothB	0	4194304	Value	ValueOutput
+ReverseSmoothA	0	4194304	Value	ValueOutput
+ReverseSmoothB	0	4194304	Value	ValueOutput
+VinylSmoothA	0	4194304	Value	ValueOutput
+VinylSmoothB	0	4194304	Value	ValueOutput
+TonalSmoothA	0	4194304	Value	ValueOutput
+TonalSmoothB	0	4194304	Value	ValueOutput
+StutterSmoothA	0	4194304	Value	ValueOutput
+StutterSmoothB	0	4194304	Value	ValueOutput
+CrushSmoothA	0	4194304	Value	ValueOutput
+CrushSmoothB	0	4194304	Value	ValueOutput
+FilterSmoothA	0	4194304	Value	ValueOutput
+FilterSmoothB	0	4194304	Value	ValueOutput
+PhaserSmoothA	0	4194304	Value	ValueOutput
+PhaserSmoothB	0	4194304	Value	ValueOutput
+ChorusSmoothA	0	4194304	Value	ValueOutput
+ChorusSmoothB	0	4194304	Value	ValueOutput
+DelaySmoothA	0	4194304	Value	ValueOutput
+DelaySmoothB	0	4194304	Value	ValueOutput
+ReverbSmoothA	0	4194304	Value	ValueOutput
+ReverbSmoothB	0	4194304	Value	ValueOutput
+GlobalWet	0	4194304	Value	ValueOutput
+Bypass_X_Loop	0	4194304	Value	ValueOutput
+Bypass_Loop	0	4194304	Value	ValueOutput
+Bypass_Scratchlo_	0	4194304	Value	ValueOutput
+Bypass_Reverse	0	4194304	Value	ValueOutput
+Bypass_Stretch	0	4194304	Value	ValueOutput
+Bypass_Vinyl	0	4194304	Value	ValueOutput
+Bypass_Tonaldela_	0	4194304	Value	ValueOutput
+Bypass_Stutter	0	4194304	Value	ValueOutput
+Bypass_Crush	0	4194304	Value	ValueOutput
+Bypass_Filter	0	4194304	Value	ValueOutput
+Bypass_Phaser	0	4194304	Value	ValueOutput
+Bypass_Chorus	0	4194304	Value	ValueOutput
+Bypass_Delay	0	4194304	Value	ValueOutput
+Bypass_Reverb	0	4194304	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

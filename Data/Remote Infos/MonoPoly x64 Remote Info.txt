@@ -1,0 +1,223 @@
+Scope
+Manufacturer	Model
+KORG	vst.KLMP.MonoPoly x64
+Note: Will match scope definitions for vst.KLMP.MonoPoly x64 or vst.KLMP
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master VCO Tune	0	4194304	Value	ValueOutput
+VCO 1 Waveform	0	4194304	Value	ValueOutput
+VCO 1 Semitone	0	4194304	Value	ValueOutput
+VCO 1 Level	0	4194304	Value	ValueOutput
+VCO 2 Tune	0	4194304	Value	ValueOutput
+VCO 2 Waveform	0	4194304	Value	ValueOutput
+VCO 2 Semitone	0	4194304	Value	ValueOutput
+VCO 2 Level	0	4194304	Value	ValueOutput
+VCO 3 Tune	0	4194304	Value	ValueOutput
+VCO 3 Waveform	0	4194304	Value	ValueOutput
+VCO 3 Semitone	0	4194304	Value	ValueOutput
+VCO 3 Level	0	4194304	Value	ValueOutput
+VCO 4 Tune	0	4194304	Value	ValueOutput
+VCO 4 Waveform	0	4194304	Value	ValueOutput
+VCO 4 Semitone	0	4194304	Value	ValueOutput
+VCO 4 Level	0	4194304	Value	ValueOutput
+Portamento Time	0	4194304	Value	ValueOutput
+Detune	0	4194304	Value	ValueOutput
+Transpose	0	4194304	Value	ValueOutput
+PWM Src Bipolar	0	4194304	Value	ValueOutput
+PWM Source	0	4194304	Value	ValueOutput
+PWM Intensity	0	4194304	Value	ValueOutput
+PW Width	0	4194304	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+VCF Cutoff	0	4194304	Value	ValueOutput
+VCF Resonance	0	4194304	Value	ValueOutput
+VCF EG Intensity	0	4194304	Value	ValueOutput
+VCF KBD Track	0	4194304	Value	ValueOutput
+VCF EG Attack	0	4194304	Value	ValueOutput
+VCF EG Decay	0	4194304	Value	ValueOutput
+VCF EG Sustain	0	4194304	Value	ValueOutput
+VCF EG Release	0	4194304	Value	ValueOutput
+VCA EG Attack	0	4194304	Value	ValueOutput
+VCA EG Decay	0	4194304	Value	ValueOutput
+VCA EG Sustain	0	4194304	Value	ValueOutput
+VCA EG Release	0	4194304	Value	ValueOutput
+VCO Modulation	0	4194304	Value	ValueOutput
+VCO Mod Type	0	4194304	Value	ValueOutput
+VCO Mod Mode	0	4194304	Value	ValueOutput
+VCO Mod X-Mod Intensity	0	4194304	Value	ValueOutput
+VCO Mod Freq Mod Bipolar	0	4194304	Value	ValueOutput
+VCO Mod Freq Mod Source	0	4194304	Value	ValueOutput
+VCO Mod Freq Mod Int	0	4194304	Value	ValueOutput
+MG 1 Waveform	0	4194304	Value	ValueOutput
+MG 1 Frequency	0	4194304	Value	ValueOutput
+MG 1 Key Sync	0	4194304	Value	ValueOutput
+MG 1 Tempo Sync	0	4194304	Value	ValueOutput
+MG 1 Base Note	0	4194304	Value	ValueOutput
+MG 1 Times	0	4194304	Value	ValueOutput
+MG 2 Waveform	0	4194304	Value	ValueOutput
+MG 2 Frequency	0	4194304	Value	ValueOutput
+MG 2 Key Sync	0	4194304	Value	ValueOutput
+MG 2 Tempo Sync	0	4194304	Value	ValueOutput
+MG 2 Base Note	0	4194304	Value	ValueOutput
+MG 2 Times	0	4194304	Value	ValueOutput
+Bend Range	0	4194304	Value	ValueOutput
+Trigger Mode	0	4194304	Value	ValueOutput
+Key Assign Mode	0	4194304	Value	ValueOutput
+Key Assign Hold	0	4194304	Value	ValueOutput
+Arp Range	0	4194304	Value	ValueOutput
+Arp Mode	0	4194304	Value	ValueOutput
+Arp Switch	0	4194304	Value	ValueOutput
+Arp Latch	0	4194304	Value	ValueOutput
+Virtual Patch 1 Source	0	4194304	Value	ValueOutput
+Virtual Patch 2 Source	0	4194304	Value	ValueOutput
+Virtual Patch 3 Source	0	4194304	Value	ValueOutput
+Virtual Patch 4 Source	0	4194304	Value	ValueOutput
+Virtual Patch 5 Source	0	4194304	Value	ValueOutput
+Virtual Patch 6 Source	0	4194304	Value	ValueOutput
+Virtual Patch 7 Source	0	4194304	Value	ValueOutput
+Virtual Patch 8 Source	0	4194304	Value	ValueOutput
+Virtual Patch 1 Dest	0	4194304	Value	ValueOutput
+Virtual Patch 2 Dest	0	4194304	Value	ValueOutput
+Virtual Patch 3 Dest	0	4194304	Value	ValueOutput
+Virtual Patch 4 Dest	0	4194304	Value	ValueOutput
+Virtual Patch 5 Dest	0	4194304	Value	ValueOutput
+Virtual Patch 6 Dest	0	4194304	Value	ValueOutput
+Virtual Patch 7 Dest	0	4194304	Value	ValueOutput
+Virtual Patch 8 Dest	0	4194304	Value	ValueOutput
+Virtual Patch 1 Int	0	4194304	Value	ValueOutput
+Virtual Patch 2 Int	0	4194304	Value	ValueOutput
+Virtual Patch 3 Int	0	4194304	Value	ValueOutput
+Virtual Patch 4 Int	0	4194304	Value	ValueOutput
+Virtual Patch 5 Int	0	4194304	Value	ValueOutput
+Virtual Patch 6 Int	0	4194304	Value	ValueOutput
+Virtual Patch 7 Int	0	4194304	Value	ValueOutput
+Virtual Patch 8 Int	0	4194304	Value	ValueOutput
+Total Voices	0	4194304	Value	ValueOutput
+Unison Voices	0	4194304	Value	ValueOutput
+Unison Detune	0	4194304	Value	ValueOutput
+Unison Spread	0	4194304	Value	ValueOutput
+Analog	0	4194304	Value	ValueOutput
+Panpot	0	4194304	Value	ValueOutput
+Output Volume	0	4194304	Value	ValueOutput
+Master Panpot	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+FX1 ON/OFF	0	4194304	Value	ValueOutput
+FX1 Dry/Wet	0	4194304	Value	ValueOutput
+FX1 Input Gain	0	4194304	Value	ValueOutput
+FX1 Output Gain	0	4194304	Value	ValueOutput
+FX1 DMod:Dry/Wet Src	0	4194304	Value	ValueOutput
+FX1 DMod:Dry/Wet Amt	0	4194304	Value	ValueOutput
+FX1 DMod:Dry/Wet	0	4194304	Value	ValueOutput
+FX1 Effect Type	0	4194304	Value	ValueOutput
+FX1 DMod0:Source	0	4194304	Value	ValueOutput
+FX1 DMod0:Amount	0	4194304	Value	ValueOutput
+FX1 DMod:LFO Freq	0	4194304	Value	ValueOutput
+FX1 DMod1:Source	0	4194304	Value	ValueOutput
+FX1 DMod1:Amount	0	4194304	Value	ValueOutput
+FX1 DMod:Depth	0	4194304	Value	ValueOutput
+FX1 DMod2:Source	0	4194304	Value	ValueOutput
+FX1 DMod2:Amount	0	4194304	Value	ValueOutput
+FX1 DMod2:Value	0	4194304	Value	ValueOutput
+FX1 DMod3:Source	0	4194304	Value	ValueOutput
+FX1 DMod3:Amount	0	4194304	Value	ValueOutput
+FX1 DMod3:Value	0	4194304	Value	ValueOutput
+FX1 LFO Waveform	0	4194304	Value	ValueOutput
+FX1 LFO Shape	0	4194304	Value	ValueOutput
+FX1 LFO L-R Phase	0	4194304	Value	ValueOutput
+FX1 LFO Freq	0	4194304	Value	ValueOutput
+FX1 Tempo Sync	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+FX1 Base Note	0	4194304	Value	ValueOutput
+FX1 LFO Times	0	4194304	Value	ValueOutput
+FX1 Manual	0	4194304	Value	ValueOutput
+FX1 Depth	0	4194304	Value	ValueOutput
+FX1 Resonance	0	4194304	Value	ValueOutput
+FX1 High Damp	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+FX2 ON/OFF	0	4194304	Value	ValueOutput
+FX2 Dry/Wet	0	4194304	Value	ValueOutput
+FX2 Input Gain	0	4194304	Value	ValueOutput
+FX2 Output Gain	0	4194304	Value	ValueOutput
+FX2 DMod:Dry/Wet Src	0	4194304	Value	ValueOutput
+FX2 DMod:Dry/Wet Amt	0	4194304	Value	ValueOutput
+FX2 DMod:Dry/Wet	0	4194304	Value	ValueOutput
+FX2 Effect Type	0	4194304	Value	ValueOutput
+FX2 DMod0:Source	0	4194304	Value	ValueOutput
+FX2 DMod0:Amount	0	4194304	Value	ValueOutput
+FX2 DMod:L Feedback	0	4194304	Value	ValueOutput
+FX2 DMod1:Source	0	4194304	Value	ValueOutput
+FX2 DMod1:Amount	0	4194304	Value	ValueOutput
+FX2 DMod:R Feedback	0	4194304	Value	ValueOutput
+FX2 DMod2:Source	0	4194304	Value	ValueOutput
+FX2 DMod2:Amount	0	4194304	Value	ValueOutput
+FX2 DMod:Input Level	0	4194304	Value	ValueOutput
+FX2 DMod3:Source	0	4194304	Value	ValueOutput
+FX2 DMod3:Amount	0	4194304	Value	ValueOutput
+FX2 DMod3:Value	0	4194304	Value	ValueOutput
+FX2 Stereo/Cross	0	4194304	Value	ValueOutput
+FX2 L Delay Time	0	4194304	Value	ValueOutput
+FX2 R Delay Time	0	4194304	Value	ValueOutput
+FX2 L Feedback	0	4194304	Value	ValueOutput
+FX2 R Feedback	0	4194304	Value	ValueOutput
+FX2 High Damp	0	4194304	Value	ValueOutput
+FX2 Low Damp	0	4194304	Value	ValueOutput
+FX2 Input Trim	0	4194304	Value	ValueOutput
+FX2 Spread	0	4194304	Value	ValueOutput
+FX2 Tempo Sync	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+FX2 Base Note	0	4194304	Value	ValueOutput
+FX2 L Times	0	4194304	Value	ValueOutput
+FX2 R Times	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Unknown	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

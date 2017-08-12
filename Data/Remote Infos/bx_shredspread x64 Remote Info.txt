@@ -1,0 +1,39 @@
+Scope
+Manufacturer	Model
+Plugin Alliance	vst.bxgm.bx_shredspread x64
+Note: Will match scope definitions for vst.bxgm.bx_shredspread x64 or vst.bxgm
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Gain On	0	4194304	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+Width On	0	4194304	Value	ValueOutput
+Mid Solo	0	4194304	Value	ValueOutput
+Solo Pan	0	4194304	Value	ValueOutput
+Pan On	0	4194304	Value	ValueOutput
+Thresh	0	4194304	Value	ValueOutput
+TOn	0	4194304	Value	ValueOutput
+Auto	0	4194304	Value	ValueOutput
+MMkr	0	4194304	Value	ValueOutput
+MMkrOn	0	4194304	Value	ValueOutput
+Setting	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Shred	0	4194304	Value	ValueOutput
+Shred O	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,33 @@
+Scope
+Manufacturer	Model
+Fiedler Audio	com.fiedler_audio.AD480RE
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Room Size	0	999	Value	ValueOutput
+Reverb Length	0	999	Value	ValueOutput
+Dimension	0	999	Value	ValueOutput
+Dry Distance	0	999	Value	ValueOutput
+Dry Distance On/Off	0	1	Toggle	ValueOutput
+Spread	0	999	Value	ValueOutput
+Cross Feed Amount	0	999	Value	ValueOutput
+Cross Delay	0	1999	Value	ValueOutput
+Cross Feed On/Off	0	1	Toggle	ValueOutput
+Cross Phase L	0	1	Toggle	ValueOutput
+Cross Phase R	0	1	Toggle	ValueOutput
+High Damp Frequency	0	6000	Value	ValueOutput
+High Damp Level	0	999	Value	ValueOutput
+Low Damp Frequency	0	6000	Value	ValueOutput
+Low Damp Level	0	999	Value	ValueOutput
+High Cut Filter	0	6000	Value	ValueOutput
+Low Cut Filter	0	6000	Value	ValueOutput
+In Bypass	0	1	Toggle	ValueOutput
+Out Bypass	0	1	Toggle	ValueOutput
+Volume	0	999	Value	ValueOutput
+Mix	0	999	Value	ValueOutput
+Pre Delay	0	1999	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

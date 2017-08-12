@@ -1,0 +1,59 @@
+Scope
+Manufacturer	Model
+PSPaudioware.com	vst.PS42.PSP Lexicon PSP42 x64
+Note: Will match scope definitions for vst.PS42.PSP Lexicon PSP42 x64 or vst.PS42
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+DlyTime	0	4194304	Value	ValueOutput
+Dlyx2	0	4194304	Value	ValueOutput
+DlyInv	0	4194304	Value	ValueOutput
+Fbck	0	4194304	Value	ValueOutput
+HiCut	0	4194304	Value	ValueOutput
+FbInv	0	4194304	Value	ValueOutput
+ManVCO	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Waveform	0	4194304	Value	ValueOutput
+Rate	0	4194304	Value	ValueOutput
+RptInf	0	4194304	Value	ValueOutput
+Power	0	4194304	Value	ValueOutput
+Dly<>Clk	0	4194304	Value	ValueOutput
+Num	0	4194304	Value	ValueOutput
+Den	0	4194304	Value	ValueOutput
+CC# Input	0	4194304	Value	ValueOutput
+CC# Output	0	4194304	Value	ValueOutput
+CC# Mix	0	4194304	Value	ValueOutput
+CC# DlyTime	0	4194304	Value	ValueOutput
+CC# Dlyx2	0	4194304	Value	ValueOutput
+CC# DlyInv	0	4194304	Value	ValueOutput
+CC# Fbck	0	4194304	Value	ValueOutput
+CC# HiCut	0	4194304	Value	ValueOutput
+CC# FbInv	0	4194304	Value	ValueOutput
+CC# ManVCO	0	4194304	Value	ValueOutput
+CC# Depth	0	4194304	Value	ValueOutput
+CC# Waveform	0	4194304	Value	ValueOutput
+CC# Rate	0	4194304	Value	ValueOutput
+CC# RptInf	0	4194304	Value	ValueOutput
+CC# Power	0	4194304	Value	ValueOutput
+CC# Dly<>Clk	0	4194304	Value	ValueOutput
+CC# Num	0	4194304	Value	ValueOutput
+CC# Den	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

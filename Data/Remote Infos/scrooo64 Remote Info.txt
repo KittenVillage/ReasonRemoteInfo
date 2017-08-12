@@ -1,0 +1,134 @@
+Scope
+Manufacturer	Model
+Bjoern Arlt @ Full Bucket Music	vst.3315.scrooo64
+Note: Will match scope definitions for vst.3315.scrooo64 or vst.3315
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Voices	0	4194304	Value	ValueOutput
+Free Run	0	4194304	Value	ValueOutput
+Portamnt	0	4194304	Value	ValueOutput
+PB Range	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+SoftClip	0	4194304	Value	ValueOutput
+Pitch 1	0	4194304	Value	ValueOutput
+Tune 1	0	4194304	Value	ValueOutput
+FM1Amt 1	0	4194304	Value	ValueOutput
+FM1Src 1	0	4194304	Value	ValueOutput
+FM2Amt 1	0	4194304	Value	ValueOutput
+FM2Src 1	0	4194304	Value	ValueOutput
+Pitch 2	0	4194304	Value	ValueOutput
+Tune 2	0	4194304	Value	ValueOutput
+FM1Amt 2	0	4194304	Value	ValueOutput
+FM1Src 2	0	4194304	Value	ValueOutput
+FM2Amt 2	0	4194304	Value	ValueOutput
+FM2Src 2	0	4194304	Value	ValueOutput
+Type F1	0	4194304	Value	ValueOutput
+Bw F1	0	4194304	Value	ValueOutput
+Freq F1	0	4194304	Value	ValueOutput
+Part F1	0	4194304	Value	ValueOutput
+Vol F1	0	4194304	Value	ValueOutput
+Osc1 F1	0	4194304	Value	ValueOutput
+Send1 F1	0	4194304	Value	ValueOutput
+Osc2 F1	0	4194304	Value	ValueOutput
+Send2 F1	0	4194304	Value	ValueOutput
+FM1Am F1	0	4194304	Value	ValueOutput
+FM1Sc F1	0	4194304	Value	ValueOutput
+FM2Am F1	0	4194304	Value	ValueOutput
+FM2Sc F1	0	4194304	Value	ValueOutput
+AMAmt F1	0	4194304	Value	ValueOutput
+AMSrc F1	0	4194304	Value	ValueOutput
+Type F2	0	4194304	Value	ValueOutput
+Bw F2	0	4194304	Value	ValueOutput
+Freq F2	0	4194304	Value	ValueOutput
+Part F2	0	4194304	Value	ValueOutput
+Vol F2	0	4194304	Value	ValueOutput
+Osc1 F2	0	4194304	Value	ValueOutput
+Send1 F2	0	4194304	Value	ValueOutput
+Osc2 F2	0	4194304	Value	ValueOutput
+Send2 F2	0	4194304	Value	ValueOutput
+FM1Am F2	0	4194304	Value	ValueOutput
+FM1Sc F2	0	4194304	Value	ValueOutput
+FM2Am F2	0	4194304	Value	ValueOutput
+FM2Sc F2	0	4194304	Value	ValueOutput
+AMAmt F2	0	4194304	Value	ValueOutput
+AMSrc F2	0	4194304	Value	ValueOutput
+Type F3	0	4194304	Value	ValueOutput
+Bw F3	0	4194304	Value	ValueOutput
+Freq F3	0	4194304	Value	ValueOutput
+Part F3	0	4194304	Value	ValueOutput
+Vol F3	0	4194304	Value	ValueOutput
+Osc1 F3	0	4194304	Value	ValueOutput
+Send1 F3	0	4194304	Value	ValueOutput
+Osc2 F3	0	4194304	Value	ValueOutput
+Send2 F3	0	4194304	Value	ValueOutput
+FM1Am F3	0	4194304	Value	ValueOutput
+FM1Sc F3	0	4194304	Value	ValueOutput
+FM2Am F3	0	4194304	Value	ValueOutput
+FM2Sc F3	0	4194304	Value	ValueOutput
+AMAmt F3	0	4194304	Value	ValueOutput
+AMSrc F3	0	4194304	Value	ValueOutput
+Volume 1	0	4194304	Value	ValueOutput
+AM1Amt 1	0	4194304	Value	ValueOutput
+AM1Src 1	0	4194304	Value	ValueOutput
+AM2Amt 1	0	4194304	Value	ValueOutput
+AM2Src 1	0	4194304	Value	ValueOutput
+Pan 1	0	4194304	Value	ValueOutput
+PanAmt 1	0	4194304	Value	ValueOutput
+PanSrc 1	0	4194304	Value	ValueOutput
+Volume 2	0	4194304	Value	ValueOutput
+AM1Amt 2	0	4194304	Value	ValueOutput
+AM1Src 2	0	4194304	Value	ValueOutput
+AM2Amt 2	0	4194304	Value	ValueOutput
+AM2Src 2	0	4194304	Value	ValueOutput
+Pan 2	0	4194304	Value	ValueOutput
+PanAmt 2	0	4194304	Value	ValueOutput
+PanSrc 2	0	4194304	Value	ValueOutput
+LFOShp 1	0	4194304	Value	ValueOutput
+LFOSyn 1	0	4194304	Value	ValueOutput
+LFORtg 1	0	4194304	Value	ValueOutput
+LFOFrq 1	0	4194304	Value	ValueOutput
+LFOMod 1	0	4194304	Value	ValueOutput
+LFOSrc 1	0	4194304	Value	ValueOutput
+LFOShp 2	0	4194304	Value	ValueOutput
+LFOSyn 2	0	4194304	Value	ValueOutput
+LFORtg 2	0	4194304	Value	ValueOutput
+LFOFrq 2	0	4194304	Value	ValueOutput
+LFOMod 2	0	4194304	Value	ValueOutput
+LFOSrc 2	0	4194304	Value	ValueOutput
+LFOShp 3	0	4194304	Value	ValueOutput
+LFOSyn 3	0	4194304	Value	ValueOutput
+LFORtg 3	0	4194304	Value	ValueOutput
+LFOFrq 3	0	4194304	Value	ValueOutput
+LFOMod 3	0	4194304	Value	ValueOutput
+LFOSrc 3	0	4194304	Value	ValueOutput
+Env A 1	0	4194304	Value	ValueOutput
+Env D 1	0	4194304	Value	ValueOutput
+Env S 1	0	4194304	Value	ValueOutput
+Env R 1	0	4194304	Value	ValueOutput
+Env Dly2	0	4194304	Value	ValueOutput
+Env A 2	0	4194304	Value	ValueOutput
+Env D 2	0	4194304	Value	ValueOutput
+Env S 2	0	4194304	Value	ValueOutput
+Env R 2	0	4194304	Value	ValueOutput
+Env Dly3	0	4194304	Value	ValueOutput
+Env A 3	0	4194304	Value	ValueOutput
+Env D 3	0	4194304	Value	ValueOutput
+Env S 3	0	4194304	Value	ValueOutput
+Env R 3	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

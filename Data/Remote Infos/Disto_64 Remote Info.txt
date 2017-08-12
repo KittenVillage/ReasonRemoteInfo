@@ -1,0 +1,71 @@
+Scope
+Manufacturer	Model
+www.sknote.it	vst.%00DST.Disto_64
+Note: Will match scope definitions for vst.%00DST.Disto_64 or vst.%00DST
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Atk	0	4194304	Value	ValueOutput
+Rls	0	4194304	Value	ValueOutput
+Vol	0	4194304	Value	ValueOutput
+Gain2	0	4194304	Value	ValueOutput
+Atk2	0	4194304	Value	ValueOutput
+Rls2	0	4194304	Value	ValueOutput
+Vol2	0	4194304	Value	ValueOutput
+Hot	0	4194304	Value	ValueOutput
+Warm	0	4194304	Value	ValueOutput
+Hot2	0	4194304	Value	ValueOutput
+Warm2	0	4194304	Value	ValueOutput
+Filter	0	4194304	Value	ValueOutput
+Stereo	0	4194304	Value	ValueOutput
+SCFilter	0	4194304	Value	ValueOutput
+BypC1_Puls	0	4194304	Value	ValueOutput
+Ratio1_Puls	0	4194304	Value	ValueOutput
+Dist1_Puls	0	4194304	Value	ValueOutput
+Stereo_Puls	0	4194304	Value	ValueOutput
+BypC2_Puls	0	4194304	Value	ValueOutput
+Ratio2_puls	0	4194304	Value	ValueOutput
+Dist2_Puls	0	4194304	Value	ValueOutput
+BypDist1_Puls	0	4194304	Value	ValueOutput
+Trafo1_puls	0	4194304	Value	ValueOutput
+Warmth1_puls	0	4194304	Value	ValueOutput
+BypDist2_Puls	0	4194304	Value	ValueOutput
+Trafo2_Puls	0	4194304	Value	ValueOutput
+Warmth2_Puls	0	4194304	Value	ValueOutput
+Ratio	0	4194304	Value	ValueOutput
+Ratio2	0	4194304	Value	ValueOutput
+Dist	0	4194304	Value	ValueOutput
+Dist2	0	4194304	Value	ValueOutput
+Trafo	0	4194304	Value	ValueOutput
+Trafo2	0	4194304	Value	ValueOutput
+WarmthSw	0	4194304	Value	ValueOutput
+WarmthSw2	0	4194304	Value	ValueOutput
+BypComp1	0	4194304	Value	ValueOutput
+BypComp2	0	4194304	Value	ValueOutput
+BypFat1	0	4194304	Value	ValueOutput
+Bypfat2	0	4194304	Value	ValueOutput
+UK Mode 1	0	4194304	Value	ValueOutput
+UK Mode 2	0	4194304	Value	ValueOutput
+Algo	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+Auto Gain	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

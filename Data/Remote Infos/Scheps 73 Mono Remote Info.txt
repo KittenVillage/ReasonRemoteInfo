@@ -1,0 +1,41 @@
+Scope
+Manufacturer	Model
+Waves	vst.N73M.WaveShell-VST 9_91_x64.Scheps 73 Mono
+Note: Will match scope definitions for vst.N73M.WaveShell-VST 9_91_x64.Scheps 73 Mono or vst.N73M
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+PreAmp	0	4194304	Value	ValueOutput
+PreAmp Drive	0	4194304	Value	ValueOutput
+PreAmp On/Off	0	4194304	Value	ValueOutput
+High On/Off	0	4194304	Value	ValueOutput
+High Gain	0	4194304	Value	ValueOutput
+Mid On/Off	0	4194304	Value	ValueOutput
+Mid Frequency	0	4194304	Value	ValueOutput
+Mid Gain	0	4194304	Value	ValueOutput
+Low On/Off	0	4194304	Value	ValueOutput
+Low Frequency	0	4194304	Value	ValueOutput
+Low Gain	0	4194304	Value	ValueOutput
+High Pass	0	4194304	Value	ValueOutput
+High Pass On/Off	0	4194304	Value	ValueOutput
+EQ	0	4194304	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Link I/O	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

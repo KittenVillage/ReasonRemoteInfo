@@ -1,0 +1,108 @@
+Scope
+Manufacturer	Model
+Inear_Display	vst.inDa.Danaides
+Note: Will match scope definitions for vst.inDa.Danaides or vst.inDa
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+FxSeqRate	0	4194304	Value	ValueOutput
+FxSeqLength	0	4194304	Value	ValueOutput
+FxSeqRandom	0	4194304	Value	ValueOutput
+FxSeqStep0	0	4194304	Value	ValueOutput
+FxSeqStep1	0	4194304	Value	ValueOutput
+FxSeqStep2	0	4194304	Value	ValueOutput
+FxSeqStep3	0	4194304	Value	ValueOutput
+FxSeqStep4	0	4194304	Value	ValueOutput
+FxSeqStep5	0	4194304	Value	ValueOutput
+FxSeqStep6	0	4194304	Value	ValueOutput
+FxSeqStep7	0	4194304	Value	ValueOutput
+FxSeqStep8	0	4194304	Value	ValueOutput
+FxSeqStep9	0	4194304	Value	ValueOutput
+FxSeqStep10	0	4194304	Value	ValueOutput
+FxSeqStep11	0	4194304	Value	ValueOutput
+FxSeqStep12	0	4194304	Value	ValueOutput
+FxSeqStep13	0	4194304	Value	ValueOutput
+FxSeqStep14	0	4194304	Value	ValueOutput
+FxSeqStep15	0	4194304	Value	ValueOutput
+DWSeqRate	0	4194304	Value	ValueOutput
+DWSeqLength	0	4194304	Value	ValueOutput
+DWSeqRandom	0	4194304	Value	ValueOutput
+DWSeqStep0	0	4194304	Value	ValueOutput
+DWSeqStep1	0	4194304	Value	ValueOutput
+DWSeqStep2	0	4194304	Value	ValueOutput
+DWSeqStep3	0	4194304	Value	ValueOutput
+DWSeqStep4	0	4194304	Value	ValueOutput
+DWSeqStep5	0	4194304	Value	ValueOutput
+DWSeqStep6	0	4194304	Value	ValueOutput
+DWSeqStep7	0	4194304	Value	ValueOutput
+DWSeqStep8	0	4194304	Value	ValueOutput
+DWSeqStep9	0	4194304	Value	ValueOutput
+DWSeqStep10	0	4194304	Value	ValueOutput
+DWSeqStep11	0	4194304	Value	ValueOutput
+DWSeqStep12	0	4194304	Value	ValueOutput
+DWSeqStep13	0	4194304	Value	ValueOutput
+DWSeqStep14	0	4194304	Value	ValueOutput
+DWSeqStep15	0	4194304	Value	ValueOutput
+FilterMorph	0	4194304	Value	ValueOutput
+FilterMorphModS	0	4194304	Value	ValueOutput
+FilterMorphModD	0	4194304	Value	ValueOutput
+FilterCut	0	4194304	Value	ValueOutput
+FilterCutModSrc	0	4194304	Value	ValueOutput
+FilterCutModDep	0	4194304	Value	ValueOutput
+FilterRes	0	4194304	Value	ValueOutput
+FilterResModSrc	0	4194304	Value	ValueOutput
+FilterResModDep	0	4194304	Value	ValueOutput
+DrillSize	0	4194304	Value	ValueOutput
+DrillSizeModSrc	0	4194304	Value	ValueOutput
+DrillSizeModDep	0	4194304	Value	ValueOutput
+DrillRatio	0	4194304	Value	ValueOutput
+DrillRatioModSr	0	4194304	Value	ValueOutput
+DrillRatioModDe	0	4194304	Value	ValueOutput
+MetalizerTime	0	4194304	Value	ValueOutput
+MetalizerTimeMo	0	4194304	Value	ValueOutput
+MetalizerTimeMo	0	4194304	Value	ValueOutput
+MetalizerFeedba	0	4194304	Value	ValueOutput
+MetalizerFeedMo	0	4194304	Value	ValueOutput
+MetalizerFeedMo	0	4194304	Value	ValueOutput
+Reduction	0	4194304	Value	ValueOutput
+ReductionModSrc	0	4194304	Value	ValueOutput
+ReductionModDep	0	4194304	Value	ValueOutput
+Lfo1_Morph	0	4194304	Value	ValueOutput
+Lfo1A_Wave	0	4194304	Value	ValueOutput
+Lfo1A_Sync	0	4194304	Value	ValueOutput
+Lfo1A_Rate	0	4194304	Value	ValueOutput
+Lfo1A_SyncedRat	0	4194304	Value	ValueOutput
+Lfo1A_Retrigger	0	4194304	Value	ValueOutput
+Lfo1B_Wave	0	4194304	Value	ValueOutput
+Lfo1B_Sync	0	4194304	Value	ValueOutput
+Lfo1B_Rate	0	4194304	Value	ValueOutput
+Lfo1B_SyncedRat	0	4194304	Value	ValueOutput
+Lfo1B_Retrigger	0	4194304	Value	ValueOutput
+Lfo2_Morph_Mod	0	4194304	Value	ValueOutput
+Lfo2_Morph	0	4194304	Value	ValueOutput
+Lfo2A_Wave	0	4194304	Value	ValueOutput
+Lfo2A_Sync	0	4194304	Value	ValueOutput
+Lfo2A_Rate	0	4194304	Value	ValueOutput
+Lfo2A_SyncedRat	0	4194304	Value	ValueOutput
+Lfo2A_Retrigger	0	4194304	Value	ValueOutput
+Lfo2B_Wave	0	4194304	Value	ValueOutput
+Lfo2B_Sync	0	4194304	Value	ValueOutput
+Lfo2B_Rate	0	4194304	Value	ValueOutput
+Lfo2B_SyncedRat	0	4194304	Value	ValueOutput
+Lfo2B_Retrigger	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

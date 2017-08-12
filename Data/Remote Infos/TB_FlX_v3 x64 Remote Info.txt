@@ -1,0 +1,212 @@
+Scope
+Manufacturer	Model
+ToneBoosters	vst.T3FL.TB_FlX_v3 x64
+Note: Will match scope definitions for vst.T3FL.TB_FlX_v3 x64 or vst.T3FL
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+S1Freq	0	4194304	Value	ValueOutput
+S1Gain	0	4194304	Value	ValueOutput
+S1OnOff	0	4194304	Value	ValueOutput
+S1Q	0	4194304	Value	ValueOutput
+S1FType	0	4194304	Value	ValueOutput
+S1Mode	0	4194304	Value	ValueOutput
+S1P1x	0	4194304	Value	ValueOutput
+S1P1y	0	4194304	Value	ValueOutput
+S1P1a	0	4194304	Value	ValueOutput
+S1P2x	0	4194304	Value	ValueOutput
+S1P2y	0	4194304	Value	ValueOutput
+S1P2a	0	4194304	Value	ValueOutput
+S1P3x	0	4194304	Value	ValueOutput
+S1P3y	0	4194304	Value	ValueOutput
+S1P3a	0	4194304	Value	ValueOutput
+S1Dyno	0	4194304	Value	ValueOutput
+S1SoftK	0	4194304	Value	ValueOutput
+S1Attck	0	4194304	Value	ValueOutput
+S1Rlese	0	4194304	Value	ValueOutput
+S1Makup	0	4194304	Value	ValueOutput
+S1AutoR	0	4194304	Value	ValueOutput
+S1Amnt	0	4194304	Value	ValueOutput
+S1ScMode	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+S2Freq	0	4194304	Value	ValueOutput
+S2Gain	0	4194304	Value	ValueOutput
+S2OnOff	0	4194304	Value	ValueOutput
+S2Q	0	4194304	Value	ValueOutput
+S2FType	0	4194304	Value	ValueOutput
+S2Mode	0	4194304	Value	ValueOutput
+S2P1x	0	4194304	Value	ValueOutput
+S2P1y	0	4194304	Value	ValueOutput
+S2P1a	0	4194304	Value	ValueOutput
+S2P2x	0	4194304	Value	ValueOutput
+S2P2y	0	4194304	Value	ValueOutput
+S2P2a	0	4194304	Value	ValueOutput
+S2P3x	0	4194304	Value	ValueOutput
+S2P3y	0	4194304	Value	ValueOutput
+S2P3a	0	4194304	Value	ValueOutput
+S2Dyno	0	4194304	Value	ValueOutput
+S2SoftK	0	4194304	Value	ValueOutput
+S2Attck	0	4194304	Value	ValueOutput
+S2Rlese	0	4194304	Value	ValueOutput
+S2Makup	0	4194304	Value	ValueOutput
+S2AutoR	0	4194304	Value	ValueOutput
+S2Amnt	0	4194304	Value	ValueOutput
+S2ScMode	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+S3Freq	0	4194304	Value	ValueOutput
+S3Gain	0	4194304	Value	ValueOutput
+S3OnOff	0	4194304	Value	ValueOutput
+S3Q	0	4194304	Value	ValueOutput
+S3FType	0	4194304	Value	ValueOutput
+S3Mode	0	4194304	Value	ValueOutput
+S3P1x	0	4194304	Value	ValueOutput
+S3P1y	0	4194304	Value	ValueOutput
+S3P1a	0	4194304	Value	ValueOutput
+S3P2x	0	4194304	Value	ValueOutput
+S3P2y	0	4194304	Value	ValueOutput
+S3P2a	0	4194304	Value	ValueOutput
+S3P3x	0	4194304	Value	ValueOutput
+S3P3y	0	4194304	Value	ValueOutput
+S3P3a	0	4194304	Value	ValueOutput
+S3Dyno	0	4194304	Value	ValueOutput
+S3SoftK	0	4194304	Value	ValueOutput
+S3Attck	0	4194304	Value	ValueOutput
+S3Rlese	0	4194304	Value	ValueOutput
+S3Makup	0	4194304	Value	ValueOutput
+S3AutoR	0	4194304	Value	ValueOutput
+S3Amnt	0	4194304	Value	ValueOutput
+S3ScMode	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+S4Freq	0	4194304	Value	ValueOutput
+S4Gain	0	4194304	Value	ValueOutput
+S4OnOff	0	4194304	Value	ValueOutput
+S4Q	0	4194304	Value	ValueOutput
+S4FType	0	4194304	Value	ValueOutput
+S4Mode	0	4194304	Value	ValueOutput
+S4P1x	0	4194304	Value	ValueOutput
+S4P1y	0	4194304	Value	ValueOutput
+S4P1a	0	4194304	Value	ValueOutput
+S4P2x	0	4194304	Value	ValueOutput
+S4P2y	0	4194304	Value	ValueOutput
+S4P2a	0	4194304	Value	ValueOutput
+S4P3x	0	4194304	Value	ValueOutput
+S4P3y	0	4194304	Value	ValueOutput
+S4P3a	0	4194304	Value	ValueOutput
+S4Dyno	0	4194304	Value	ValueOutput
+S4SoftK	0	4194304	Value	ValueOutput
+S4Attck	0	4194304	Value	ValueOutput
+S4Rlese	0	4194304	Value	ValueOutput
+S4Makup	0	4194304	Value	ValueOutput
+S4AutoR	0	4194304	Value	ValueOutput
+S4Amnt	0	4194304	Value	ValueOutput
+S4ScMode	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+S5Freq	0	4194304	Value	ValueOutput
+S5Gain	0	4194304	Value	ValueOutput
+S5OnOff	0	4194304	Value	ValueOutput
+S5Q	0	4194304	Value	ValueOutput
+S5FType	0	4194304	Value	ValueOutput
+S5Mode	0	4194304	Value	ValueOutput
+S5P1x	0	4194304	Value	ValueOutput
+S5P1y	0	4194304	Value	ValueOutput
+S5P1a	0	4194304	Value	ValueOutput
+S5P2x	0	4194304	Value	ValueOutput
+S5P2y	0	4194304	Value	ValueOutput
+S5P2a	0	4194304	Value	ValueOutput
+S5P3x	0	4194304	Value	ValueOutput
+S5P3y	0	4194304	Value	ValueOutput
+S5P3a	0	4194304	Value	ValueOutput
+S5Dyno	0	4194304	Value	ValueOutput
+S5SoftK	0	4194304	Value	ValueOutput
+S5Attck	0	4194304	Value	ValueOutput
+S5Rlese	0	4194304	Value	ValueOutput
+S5Makup	0	4194304	Value	ValueOutput
+S5AutoR	0	4194304	Value	ValueOutput
+S5Amnt	0	4194304	Value	ValueOutput
+S5ScMode	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+S6Freq	0	4194304	Value	ValueOutput
+S6Gain	0	4194304	Value	ValueOutput
+S6OnOff	0	4194304	Value	ValueOutput
+S6Q	0	4194304	Value	ValueOutput
+S6FType	0	4194304	Value	ValueOutput
+S6Mode	0	4194304	Value	ValueOutput
+S6P1x	0	4194304	Value	ValueOutput
+S6P1y	0	4194304	Value	ValueOutput
+S6P1a	0	4194304	Value	ValueOutput
+S6P2x	0	4194304	Value	ValueOutput
+S6P2y	0	4194304	Value	ValueOutput
+S6P2a	0	4194304	Value	ValueOutput
+S6P3x	0	4194304	Value	ValueOutput
+S6P3y	0	4194304	Value	ValueOutput
+S6P3a	0	4194304	Value	ValueOutput
+S6Dyno	0	4194304	Value	ValueOutput
+S6SoftK	0	4194304	Value	ValueOutput
+S6Attck	0	4194304	Value	ValueOutput
+S6Rlese	0	4194304	Value	ValueOutput
+S6Makup	0	4194304	Value	ValueOutput
+S6AutoR	0	4194304	Value	ValueOutput
+S6Amnt	0	4194304	Value	ValueOutput
+S6ScMode	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Section	0	4194304	Value	ValueOutput
+DCFilter	0	4194304	Value	ValueOutput
+InGain	0	4194304	Value	ValueOutput
+OutGain	0	4194304	Value	ValueOutput
+CompEdit	0	4194304	Value	ValueOutput
+EqEdit	0	4194304	Value	ValueOutput
+AutoPhse	0	4194304	Value	ValueOutput
+WetOut	0	4194304	Value	ValueOutput
+Analyzr	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

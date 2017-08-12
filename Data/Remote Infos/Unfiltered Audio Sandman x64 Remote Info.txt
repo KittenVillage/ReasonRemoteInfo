@@ -1,0 +1,58 @@
+Scope
+Manufacturer	Model
+Plugin Alliance	vst.snDM.Unfiltered Audio Sandman x64
+Note: Will match scope definitions for vst.snDM.Unfiltered Audio Sandman x64 or vst.snDM
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Sample Rate	0	4194304	Value	ValueOutput
+Sleep	0	4194304	Value	ValueOutput
+Tempo Sync	0	4194304	Value	ValueOutput
+Kill Switch	0	4194304	Value	ValueOutput
+Start Time	0	4194304	Value	ValueOutput
+End Time	0	4194304	Value	ValueOutput
+Ping Pong	0	4194304	Value	ValueOutput
+Lock Delay Time	0	4194304	Value	ValueOutput
+Lock Freeze Tim	0	4194304	Value	ValueOutput
+Dirt	0	4194304	Value	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Filter	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+LFO 1 Enabled	0	4194304	Value	ValueOutput
+LFO 1 Frequency	0	4194304	Value	ValueOutput
+LFO 1 Waveform	0	4194304	Value	ValueOutput
+LFO 1 Tempo Syn	0	4194304	Value	ValueOutput
+L1>Delay	0	4194304	Value	ValueOutput
+L1>Start	0	4194304	Value	ValueOutput
+LFO 1 End Depth	0	4194304	Value	ValueOutput
+LFO 1 SR Depth	0	4194304	Value	ValueOutput
+L1>FeedB	0	4194304	Value	ValueOutput
+LFO 2 Enabled	0	4194304	Value	ValueOutput
+LFO 2 Frequency	0	4194304	Value	ValueOutput
+LFO 2 Waveform	0	4194304	Value	ValueOutput
+LFO 2 Tempo Syn	0	4194304	Value	ValueOutput
+L2>Delay	0	4194304	Value	ValueOutput
+L2>Start	0	4194304	Value	ValueOutput
+LFO 2 End Depth	0	4194304	Value	ValueOutput
+LFO 2 SR Depth	0	4194304	Value	ValueOutput
+L2>FeedB	0	4194304	Value	ValueOutput
+Remove Clicks	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

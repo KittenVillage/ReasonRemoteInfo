@@ -1,0 +1,181 @@
+Scope
+Manufacturer	Model
+Arturia	vst.OBS2.SEM V2
+Note: Will match scope definitions for vst.OBS2.SEM V2 or vst.OBS2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Master Tune	0	4194304	Value	ValueOutput
+VCO1 Freq (fine)	0	4194304	Value	ValueOutput
+VCO1 Freq (coarse)	0	4194304	Value	ValueOutput
+VCO1 PW	0	4194304	Value	ValueOutput
+VCO1 Modulation Amount	0	4194304	Value	ValueOutput
+VCO2 Freq (fine)	0	4194304	Value	ValueOutput
+VCO2 Freq (coarse)	0	4194304	Value	ValueOutput
+VCO2 PW	0	4194304	Value	ValueOutput
+VCO2 Modulation Amount	0	4194304	Value	ValueOutput
+VCO Hard Sync	0	4194304	Value	ValueOutput
+ENV1 Attack	0	4194304	Value	ValueOutput
+ENV1 Decay	0	4194304	Value	ValueOutput
+ENV1 Sustain	0	4194304	Value	ValueOutput
+ENV2 Attack	0	4194304	Value	ValueOutput
+ENV2 Decay	0	4194304	Value	ValueOutput
+ENV2 Sustain	0	4194304	Value	ValueOutput
+VCF Freq	0	4194304	Value	ValueOutput
+VCF Mode	0	4194304	Value	ValueOutput
+VCF Res	0	4194304	Value	ValueOutput
+VCF Modulation Amount	0	4194304	Value	ValueOutput
+VCO1 Mix	0	4194304	Value	ValueOutput
+VCO2 Mix	0	4194304	Value	ValueOutput
+SubOsc/Noise Mix	0	4194304	Value	ValueOutput
+LFO1 Freq	0	4194304	Value	ValueOutput
+LFO1 Sync	0	4194304	Value	ValueOutput
+LFO1 Freq ratio	0	4194304	Value	ValueOutput
+VCO1 Modulation Source	0	4194304	Value	ValueOutput
+VCO2 Modulation Source	0	4194304	Value	ValueOutput
+VCF Modulation Source	0	4194304	Value	ValueOutput
+SubOsc Pulse Width	0	4194304	Value	ValueOutput
+SubOsc Waveshape	0	4194304	Value	ValueOutput
+SubOsc Octave	0	4194304	Value	ValueOutput
+LFO2 Freq	0	4194304	Value	ValueOutput
+LFO2 Freq ratio	0	4194304	Value	ValueOutput
+LFO2 Waveshape	0	4194304	Value	ValueOutput
+LFO2 Sync	0	4194304	Value	ValueOutput
+Transpose	0	4194304	Value	ValueOutput
+Portamento On/Off	0	4194304	Value	ValueOutput
+Portamento Time	0	4194304	Value	ValueOutput
+Arpeggiator	0	4194304	Value	ValueOutput
+Arpeggiator sync	0	4194304	Value	ValueOutput
+Arpeggiator rate	0	4194304	Value	ValueOutput
+Arpeggiator rate (sync)	0	4194304	Value	ValueOutput
+Arpeggiator mode	0	4194304	Value	ValueOutput
+Arpeggiator octave	0	4194304	Value	ValueOutput
+Overdrive drive	0	4194304	Value	ValueOutput
+Overdrive dry/wet	0	4194304	Value	ValueOutput
+Overdrive On/Off	0	4194304	Value	ValueOutput
+Chorus rate	0	4194304	Value	ValueOutput
+Chorus rate (sync)	0	4194304	Value	ValueOutput
+Chorus shape	0	4194304	Value	ValueOutput
+Chorus feedback	0	4194304	Value	ValueOutput
+Chorus delay	0	4194304	Value	ValueOutput
+Chorus depth	0	4194304	Value	ValueOutput
+Chorus spread	0	4194304	Value	ValueOutput
+Chorus tempo sync	0	4194304	Value	ValueOutput
+Chorus dry/wet	0	4194304	Value	ValueOutput
+Chorus On/Off	0	4194304	Value	ValueOutput
+Delay Time left	0	4194304	Value	ValueOutput
+Delay Time left (sync)	0	4194304	Value	ValueOutput
+Delay Time right	0	4194304	Value	ValueOutput
+Delay Time right (sync)	0	4194304	Value	ValueOutput
+Delay feedback left	0	4194304	Value	ValueOutput
+Delay feedback right	0	4194304	Value	ValueOutput
+Delay Ping Pong	0	4194304	Value	ValueOutput
+Delay link	0	4194304	Value	ValueOutput
+Delay damping	0	4194304	Value	ValueOutput
+Delay tempo sync	0	4194304	Value	ValueOutput
+Delay dry/wet	0	4194304	Value	ValueOutput
+Delay On/Off	0	4194304	Value	ValueOutput
+Voice Progr board 1 para	0	4194304	Value	ValueOutput
+Voice Progr board 1 para	0	4194304	Value	ValueOutput
+Voice Progr board 1 para	0	4194304	Value	ValueOutput
+Voice Progr board 1 para	0	4194304	Value	ValueOutput
+Voice Progr board 1 para	0	4194304	Value	ValueOutput
+Voice Progr board 1 para	0	4194304	Value	ValueOutput
+Voice Progr board 2 para	0	4194304	Value	ValueOutput
+Voice Progr board 2 para	0	4194304	Value	ValueOutput
+Voice Progr board 2 para	0	4194304	Value	ValueOutput
+Voice Progr board 2 para	0	4194304	Value	ValueOutput
+Voice Progr board 2 para	0	4194304	Value	ValueOutput
+Voice Progr board 2 para	0	4194304	Value	ValueOutput
+Voice Progr board 3 para	0	4194304	Value	ValueOutput
+Voice Progr board 3 para	0	4194304	Value	ValueOutput
+Voice Progr board 3 para	0	4194304	Value	ValueOutput
+Voice Progr board 3 para	0	4194304	Value	ValueOutput
+Voice Progr board 3 para	0	4194304	Value	ValueOutput
+Voice Progr board 3 para	0	4194304	Value	ValueOutput
+Voice Progr board 4 para	0	4194304	Value	ValueOutput
+Voice Progr board 4 para	0	4194304	Value	ValueOutput
+Voice Progr board 4 para	0	4194304	Value	ValueOutput
+Voice Progr board 4 para	0	4194304	Value	ValueOutput
+Voice Progr board 4 para	0	4194304	Value	ValueOutput
+Voice Progr board 4 para	0	4194304	Value	ValueOutput
+Voice Progr board 5 para	0	4194304	Value	ValueOutput
+Voice Progr board 5 para	0	4194304	Value	ValueOutput
+Voice Progr board 5 para	0	4194304	Value	ValueOutput
+Voice Progr board 5 para	0	4194304	Value	ValueOutput
+Voice Progr board 5 para	0	4194304	Value	ValueOutput
+Voice Progr board 5 para	0	4194304	Value	ValueOutput
+Voice Progr board 6 para	0	4194304	Value	ValueOutput
+Voice Progr board 6 para	0	4194304	Value	ValueOutput
+Voice Progr board 6 para	0	4194304	Value	ValueOutput
+Voice Progr board 6 para	0	4194304	Value	ValueOutput
+Voice Progr board 6 para	0	4194304	Value	ValueOutput
+Voice Progr board 6 para	0	4194304	Value	ValueOutput
+Voice Progr board 7 para	0	4194304	Value	ValueOutput
+Voice Progr board 7 para	0	4194304	Value	ValueOutput
+Voice Progr board 7 para	0	4194304	Value	ValueOutput
+Voice Progr board 7 para	0	4194304	Value	ValueOutput
+Voice Progr board 7 para	0	4194304	Value	ValueOutput
+Voice Progr board 7 para	0	4194304	Value	ValueOutput
+Voice Progr board 8 para	0	4194304	Value	ValueOutput
+Voice Progr board 8 para	0	4194304	Value	ValueOutput
+Voice Progr board 8 para	0	4194304	Value	ValueOutput
+Voice Progr board 8 para	0	4194304	Value	ValueOutput
+Voice Progr board 8 para	0	4194304	Value	ValueOutput
+Voice Progr board 8 para	0	4194304	Value	ValueOutput
+Board 1 On/Off	0	4194304	Value	ValueOutput
+Board 2 On/Off	0	4194304	Value	ValueOutput
+Board 3 On/Off	0	4194304	Value	ValueOutput
+Board 4 On/Off	0	4194304	Value	ValueOutput
+Board 5 On/Off	0	4194304	Value	ValueOutput
+Board 6 On/Off	0	4194304	Value	ValueOutput
+Board 7 On/Off	0	4194304	Value	ValueOutput
+Board 8 On/Off	0	4194304	Value	ValueOutput
+Voice Programmer param 1	0	4194304	Value	ValueOutput
+Voice Programmer param 2	0	4194304	Value	ValueOutput
+Voice Programmer param 3	0	4194304	Value	ValueOutput
+Voice Programmer param 4	0	4194304	Value	ValueOutput
+Voice Programmer param 5	0	4194304	Value	ValueOutput
+Voice Programmer param 6	0	4194304	Value	ValueOutput
+Keyboard Follow param 1 	0	4194304	Value	ValueOutput
+Keyboard Follow param 2 	0	4194304	Value	ValueOutput
+Keyboard Follow param 3 	0	4194304	Value	ValueOutput
+Keyboard Follow param 4 	0	4194304	Value	ValueOutput
+Keyboard Follow param 5 	0	4194304	Value	ValueOutput
+Keyboard Follow param 6 	0	4194304	Value	ValueOutput
+Playing Modes	0	4194304	Value	ValueOutput
+Voice Programmer On/Off	0	4194304	Value	ValueOutput
+Keyboard Follow On/Off	0	4194304	Value	ValueOutput
+Clip On/Off	0	4194304	Value	ValueOutput
+Modulation Matrix On/Off	0	4194304	Value	ValueOutput
+Modulation 1 Amount	0	4194304	Value	ValueOutput
+Modulation 2 Amount	0	4194304	Value	ValueOutput
+Modulation 3 Amount	0	4194304	Value	ValueOutput
+Modulation 4 Amount	0	4194304	Value	ValueOutput
+Modulation 5 Amount	0	4194304	Value	ValueOutput
+Modulation 6 Amount	0	4194304	Value	ValueOutput
+Modulation 7 Amount	0	4194304	Value	ValueOutput
+Modulation 8 Amount	0	4194304	Value	ValueOutput
+LFO2 Fade In	0	4194304	Value	ValueOutput
+LFO2 Retrig	0	4194304	Value	ValueOutput
+Overdrive damping	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Previous Preset	0	4194304	Value	ValueOutput
+Next Preset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

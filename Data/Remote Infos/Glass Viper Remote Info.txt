@@ -1,0 +1,113 @@
+Scope
+Manufacturer	Model
+QuikQuak	vst.GlVi.Glass Viper
+Note: Will match scope definitions for vst.GlVi.Glass Viper or vst.GlVi
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+  	0	4194304	Value	ValueOutput
+Vol env. gain	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Vol key follow	0	4194304	Value	ValueOutput
+Noise gain	0	4194304	Value	ValueOutput
+Shaper A gain	0	4194304	Value	ValueOutput
+Shaper A freq	0	4194304	Value	ValueOutput
+Shaper A phase	0	4194304	Value	ValueOutput
+Shaper B gain	0	4194304	Value	ValueOutput
+Shaper B freq	0	4194304	Value	ValueOutput
+Shaper B phase	0	4194304	Value	ValueOutput
+Shaper C gain	0	4194304	Value	ValueOutput
+Shaper C Freq	0	4194304	Value	ValueOutput
+Shaper C phase	0	4194304	Value	ValueOutput
+Shaper D gain	0	4194304	Value	ValueOutput
+Shaper D freq	0	4194304	Value	ValueOutput
+Shaper D phase	0	4194304	Value	ValueOutput
+Waveform phase	0	4194304	Value	ValueOutput
+Fine tune	0	4194304	Value	ValueOutput
+Course tune	0	4194304	Value	ValueOutput
+Octave tune	0	4194304	Value	ValueOutput
+Pitch key follow	0	4194304	Value	ValueOutput
+Filter Type	0	4194304	Value	ValueOutput
+Filter frequency	0	4194304	Value	ValueOutput
+Filter resonance	0	4194304	Value	ValueOutput
+Filter env gain	0	4194304	Value	ValueOutput
+Filter vel. sens.	0	4194304	Value	ValueOutput
+Filter speed sens.	0	4194304	Value	ValueOutput
+Filter key follow	0	4194304	Value	ValueOutput
+Filter LFO number	0	4194304	Value	ValueOutput
+Filter LFO Gain	0	4194304	Value	ValueOutput
+Gain vel. sens.	0	4194304	Value	ValueOutput
+Gain speed sens.	0	4194304	Value	ValueOutput
+Amp LFO number	0	4194304	Value	ValueOutput
+Amp LFO gain	0	4194304	Value	ValueOutput
+Pitch env gain	0	4194304	Value	ValueOutput
+Pitch sens.	0	4194304	Value	ValueOutput
+Pitch speed sens.	0	4194304	Value	ValueOutput
+Pitch LFO number	0	4194304	Value	ValueOutput
+Pitch LFO gain	0	4194304	Value	ValueOutput
+Part On / Off	0	4194304	Value	ValueOutput
+Part Solo	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Delay gain	0	4194304	Value	ValueOutput
+Delay time	0	4194304	Value	ValueOutput
+Delay feedback	0	4194304	Value	ValueOutput
+LFO 1 Waveform type	0	4194304	Value	ValueOutput
+LFO 1 trigger	0	4194304	Value	ValueOutput
+LFO 2 Waveform type	0	4194304	Value	ValueOutput
+LFO 2 trigger	0	4194304	Value	ValueOutput
+LFO 3 Waveform type	0	4194304	Value	ValueOutput
+LFO 3 trigger	0	4194304	Value	ValueOutput
+EQ Bass Freq	0	4194304	Value	ValueOutput
+EQ Bass Gain	0	4194304	Value	ValueOutput
+EQ Treble freq	0	4194304	Value	ValueOutput
+EQ Treble gain	0	4194304	Value	ValueOutput
+Wave shape	0	4194304	Value	ValueOutput
+Edit mode select	0	4194304	Value	ValueOutput
+Paint mode select	0	4194304	Value	ValueOutput
+Shaper interpolation typ	0	4194304	Value	ValueOutput
+Reverb Wet gain	0	4194304	Value	ValueOutput
+Reverb Dry gain	0	4194304	Value	ValueOutput
+Reverb length	0	4194304	Value	ValueOutput
+Reverb Low pass	0	4194304	Value	ValueOutput
+Reverb High pass	0	4194304	Value	ValueOutput
+Chorus ratio	0	4194304	Value	ValueOutput
+Chorus Time	0	4194304	Value	ValueOutput
+Chorus speed	0	4194304	Value	ValueOutput
+Chorus depth	0	4194304	Value	ValueOutput
+Chorus feedback	0	4194304	Value	ValueOutput
+Global volume	0	4194304	Value	ValueOutput
+Polyphony	0	4194304	Value	ValueOutput
+Portamento speed	0	4194304	Value	ValueOutput
+Instrument catagory	0	4194304	Value	ValueOutput
+Pitch controller	0	4194304	Value	ValueOutput
+Filter controller	0	4194304	Value	ValueOutput
+Volume controller	0	4194304	Value	ValueOutput
+Lfo 1 controller	0	4194304	Value	ValueOutput
+Lfo 2 controller	0	4194304	Value	ValueOutput
+Lfo 3 controller	0	4194304	Value	ValueOutput
+Pitch bend amount	0	4194304	Value	ValueOutput
+Filter controller gain	0	4194304	Value	ValueOutput
+Volume controller gain	0	4194304	Value	ValueOutput
+Lfo 1 controller gain	0	4194304	Value	ValueOutput
+Lfo 2 controller gain	0	4194304	Value	ValueOutput
+Lfo 3 controller gain	0	4194304	Value	ValueOutput
+Trigger Env on legato	0	4194304	Value	ValueOutput
+ring mod by	0	4194304	Value	ValueOutput
+Current instrument	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

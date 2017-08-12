@@ -1,0 +1,812 @@
+Scope
+Manufacturer	Model
+Flux:: - IRCAM	vst.ISP3.SpatV3 x64
+Note: Will match scope definitions for vst.ISP3.SpatV3 x64 or vst.ISP3
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Morphing	0	4194304	Value	ValueOutput
+Input Level	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Channel Mode	0	4194304	Value	ValueOutput
+Reverb Density	0	4194304	Value	ValueOutput
+Panning Type	0	4194304	Value	ValueOutput
+Decoding Type	0	4194304	Value	ValueOutput
+HRTF	0	4194304	Value	ValueOutput
+Sub Cutoff Freq	0	4194304	Value	ValueOutput
+Sub Slope	0	4194304	Value	ValueOutput
+Sub Gain	0	4194304	Value	ValueOutput
+Src1 Enable	0	4194304	Value	ValueOutput
+Src1 Solo	0	4194304	Value	ValueOutput
+Src1 InvPhase	0	4194304	Value	ValueOutput
+Src1 Stereo Width	0	4194304	Value	ValueOutput
+Src1 Room Target	0	4194304	Value	ValueOutput
+Src1 Azimuth	0	4194304	Value	ValueOutput
+Src1 Elevation	0	4194304	Value	ValueOutput
+Src1 Distance	0	4194304	Value	ValueOutput
+Src1 Yaw	0	4194304	Value	ValueOutput
+Src1 Pitch	0	4194304	Value	ValueOutput
+Src1 Roll	0	4194304	Value	ValueOutput
+Src1 Aperture	0	4194304	Value	ValueOutput
+Src1 Early Width	0	4194304	Value	ValueOutput
+Src1 Radius	0	4194304	Value	ValueOutput
+Src1 DirectionRelative	0	4194304	Value	ValueOutput
+Src1 Presence	0	4194304	Value	ValueOutput
+Src1 Warmth	0	4194304	Value	ValueOutput
+Src1 Brillance	0	4194304	Value	ValueOutput
+Src1 Room Presence	0	4194304	Value	ValueOutput
+Src1 Run.Reverberance	0	4194304	Value	ValueOutput
+Src1 Envelopment	0	4194304	Value	ValueOutput
+Src1 Doppler	0	4194304	Value	ValueOutput
+Src1 Air Apsorption	0	4194304	Value	ValueOutput
+Src1 Drop Mode	0	4194304	Value	ValueOutput
+Src1 Drop Factor	0	4194304	Value	ValueOutput
+Src1 PanRev Factor	0	4194304	Value	ValueOutput
+Src1 Input Gain	0	4194304	Value	ValueOutput
+Src1 Output Gain	0	4194304	Value	ValueOutput
+Src1 Axis Global Gain	0	4194304	Value	ValueOutput
+Src1 Axis LowGain	0	4194304	Value	ValueOutput
+Src1 Axis MidGain	0	4194304	Value	ValueOutput
+Src1 Axis HiGain	0	4194304	Value	ValueOutput
+Src1 Axis LowFreq	0	4194304	Value	ValueOutput
+Src1 Axis HighFreq	0	4194304	Value	ValueOutput
+Src1 Omni GlobalGain	0	4194304	Value	ValueOutput
+Src1 Omni LowGain	0	4194304	Value	ValueOutput
+Src1 Omni MidGain	0	4194304	Value	ValueOutput
+Src1 Omni HiGain	0	4194304	Value	ValueOutput
+Src1 Omni LowFreq	0	4194304	Value	ValueOutput
+Src1 Omni HighFreq	0	4194304	Value	ValueOutput
+Src2 Enable	0	4194304	Value	ValueOutput
+Src2 Solo	0	4194304	Value	ValueOutput
+Src2 InvPhase	0	4194304	Value	ValueOutput
+Src2 StereoPair	0	4194304	Value	ValueOutput
+Src2 Stereo Width	0	4194304	Value	ValueOutput
+Src2 Room Target	0	4194304	Value	ValueOutput
+Src2 Azimuth	0	4194304	Value	ValueOutput
+Src2 Elevation	0	4194304	Value	ValueOutput
+Src2 Distance	0	4194304	Value	ValueOutput
+Src2 Yaw	0	4194304	Value	ValueOutput
+Src2 Pitch	0	4194304	Value	ValueOutput
+Src2 Roll	0	4194304	Value	ValueOutput
+Src2 Aperture	0	4194304	Value	ValueOutput
+Src2 Early Width	0	4194304	Value	ValueOutput
+Src2 Radius	0	4194304	Value	ValueOutput
+Src2 DirectionRelative	0	4194304	Value	ValueOutput
+Src2 Presence	0	4194304	Value	ValueOutput
+Src2 Warmth	0	4194304	Value	ValueOutput
+Src2 Brillance	0	4194304	Value	ValueOutput
+Src2 Room Presence	0	4194304	Value	ValueOutput
+Src2 Run.Reverberance	0	4194304	Value	ValueOutput
+Src2 Envelopment	0	4194304	Value	ValueOutput
+Src2 Doppler	0	4194304	Value	ValueOutput
+Src2 Air Apsorption	0	4194304	Value	ValueOutput
+Src2 Drop Mode	0	4194304	Value	ValueOutput
+Src2 Drop Factor	0	4194304	Value	ValueOutput
+Src2 PanRev Factor	0	4194304	Value	ValueOutput
+Src2 Input Gain	0	4194304	Value	ValueOutput
+Src2 Output Gain	0	4194304	Value	ValueOutput
+Src2 Axis Global Gain	0	4194304	Value	ValueOutput
+Src2 Axis LowGain	0	4194304	Value	ValueOutput
+Src2 Axis MidGain	0	4194304	Value	ValueOutput
+Src2 Axis HiGain	0	4194304	Value	ValueOutput
+Src2 Axis LowFreq	0	4194304	Value	ValueOutput
+Src2 Axis HighFreq	0	4194304	Value	ValueOutput
+Src2 Omni GlobalGain	0	4194304	Value	ValueOutput
+Src2 Omni LowGain	0	4194304	Value	ValueOutput
+Src2 Omni MidGain	0	4194304	Value	ValueOutput
+Src2 Omni HiGain	0	4194304	Value	ValueOutput
+Src2 Omni LowFreq	0	4194304	Value	ValueOutput
+Src2 Omni HighFreq	0	4194304	Value	ValueOutput
+Src3 Enable	0	4194304	Value	ValueOutput
+Src3 Solo	0	4194304	Value	ValueOutput
+Src3 InvPhase	0	4194304	Value	ValueOutput
+Src3 Stereo Width	0	4194304	Value	ValueOutput
+Src3 Room Target	0	4194304	Value	ValueOutput
+Src3 Azimuth	0	4194304	Value	ValueOutput
+Src3 Elevation	0	4194304	Value	ValueOutput
+Src3 Distance	0	4194304	Value	ValueOutput
+Src3 Yaw	0	4194304	Value	ValueOutput
+Src3 Pitch	0	4194304	Value	ValueOutput
+Src3 Roll	0	4194304	Value	ValueOutput
+Src3 Aperture	0	4194304	Value	ValueOutput
+Src3 Early Width	0	4194304	Value	ValueOutput
+Src3 Radius	0	4194304	Value	ValueOutput
+Src3 DirectionRelative	0	4194304	Value	ValueOutput
+Src3 Presence	0	4194304	Value	ValueOutput
+Src3 Warmth	0	4194304	Value	ValueOutput
+Src3 Brillance	0	4194304	Value	ValueOutput
+Src3 Room Presence	0	4194304	Value	ValueOutput
+Src3 Run.Reverberance	0	4194304	Value	ValueOutput
+Src3 Envelopment	0	4194304	Value	ValueOutput
+Src3 Doppler	0	4194304	Value	ValueOutput
+Src3 Air Apsorption	0	4194304	Value	ValueOutput
+Src3 Drop Mode	0	4194304	Value	ValueOutput
+Src3 Drop Factor	0	4194304	Value	ValueOutput
+Src3 PanRev Factor	0	4194304	Value	ValueOutput
+Src3 Input Gain	0	4194304	Value	ValueOutput
+Src3 Output Gain	0	4194304	Value	ValueOutput
+Src3 Axis Global Gain	0	4194304	Value	ValueOutput
+Src3 Axis LowGain	0	4194304	Value	ValueOutput
+Src3 Axis MidGain	0	4194304	Value	ValueOutput
+Src3 Axis HiGain	0	4194304	Value	ValueOutput
+Src3 Axis LowFreq	0	4194304	Value	ValueOutput
+Src3 Axis HighFreq	0	4194304	Value	ValueOutput
+Src3 Omni GlobalGain	0	4194304	Value	ValueOutput
+Src3 Omni LowGain	0	4194304	Value	ValueOutput
+Src3 Omni MidGain	0	4194304	Value	ValueOutput
+Src3 Omni HiGain	0	4194304	Value	ValueOutput
+Src3 Omni LowFreq	0	4194304	Value	ValueOutput
+Src3 Omni HighFreq	0	4194304	Value	ValueOutput
+Src4 Enable	0	4194304	Value	ValueOutput
+Src4 Solo	0	4194304	Value	ValueOutput
+Src4 InvPhase	0	4194304	Value	ValueOutput
+Src4 StereoPair	0	4194304	Value	ValueOutput
+Src4 Stereo Width	0	4194304	Value	ValueOutput
+Src4 Room Target	0	4194304	Value	ValueOutput
+Src4 Azimuth	0	4194304	Value	ValueOutput
+Src4 Elevation	0	4194304	Value	ValueOutput
+Src4 Distance	0	4194304	Value	ValueOutput
+Src4 Yaw	0	4194304	Value	ValueOutput
+Src4 Pitch	0	4194304	Value	ValueOutput
+Src4 Roll	0	4194304	Value	ValueOutput
+Src4 Aperture	0	4194304	Value	ValueOutput
+Src4 Early Width	0	4194304	Value	ValueOutput
+Src4 Radius	0	4194304	Value	ValueOutput
+Src4 DirectionRelative	0	4194304	Value	ValueOutput
+Src4 Presence	0	4194304	Value	ValueOutput
+Src4 Warmth	0	4194304	Value	ValueOutput
+Src4 Brillance	0	4194304	Value	ValueOutput
+Src4 Room Presence	0	4194304	Value	ValueOutput
+Src4 Run.Reverberance	0	4194304	Value	ValueOutput
+Src4 Envelopment	0	4194304	Value	ValueOutput
+Src4 Doppler	0	4194304	Value	ValueOutput
+Src4 Air Apsorption	0	4194304	Value	ValueOutput
+Src4 Drop Mode	0	4194304	Value	ValueOutput
+Src4 Drop Factor	0	4194304	Value	ValueOutput
+Src4 PanRev Factor	0	4194304	Value	ValueOutput
+Src4 Input Gain	0	4194304	Value	ValueOutput
+Src4 Output Gain	0	4194304	Value	ValueOutput
+Src4 Axis Global Gain	0	4194304	Value	ValueOutput
+Src4 Axis LowGain	0	4194304	Value	ValueOutput
+Src4 Axis MidGain	0	4194304	Value	ValueOutput
+Src4 Axis HiGain	0	4194304	Value	ValueOutput
+Src4 Axis LowFreq	0	4194304	Value	ValueOutput
+Src4 Axis HighFreq	0	4194304	Value	ValueOutput
+Src4 Omni GlobalGain	0	4194304	Value	ValueOutput
+Src4 Omni LowGain	0	4194304	Value	ValueOutput
+Src4 Omni MidGain	0	4194304	Value	ValueOutput
+Src4 Omni HiGain	0	4194304	Value	ValueOutput
+Src4 Omni LowFreq	0	4194304	Value	ValueOutput
+Src4 Omni HighFreq	0	4194304	Value	ValueOutput
+Src5 Enable	0	4194304	Value	ValueOutput
+Src5 Solo	0	4194304	Value	ValueOutput
+Src5 InvPhase	0	4194304	Value	ValueOutput
+Src5 Stereo Width	0	4194304	Value	ValueOutput
+Src5 Room Target	0	4194304	Value	ValueOutput
+Src5 Azimuth	0	4194304	Value	ValueOutput
+Src5 Elevation	0	4194304	Value	ValueOutput
+Src5 Distance	0	4194304	Value	ValueOutput
+Src5 Yaw	0	4194304	Value	ValueOutput
+Src5 Pitch	0	4194304	Value	ValueOutput
+Src5 Roll	0	4194304	Value	ValueOutput
+Src5 Aperture	0	4194304	Value	ValueOutput
+Src5 Early Width	0	4194304	Value	ValueOutput
+Src5 Radius	0	4194304	Value	ValueOutput
+Src5 DirectionRelative	0	4194304	Value	ValueOutput
+Src5 Presence	0	4194304	Value	ValueOutput
+Src5 Warmth	0	4194304	Value	ValueOutput
+Src5 Brillance	0	4194304	Value	ValueOutput
+Src5 Room Presence	0	4194304	Value	ValueOutput
+Src5 Run.Reverberance	0	4194304	Value	ValueOutput
+Src5 Envelopment	0	4194304	Value	ValueOutput
+Src5 Doppler	0	4194304	Value	ValueOutput
+Src5 Air Apsorption	0	4194304	Value	ValueOutput
+Src5 Drop Mode	0	4194304	Value	ValueOutput
+Src5 Drop Factor	0	4194304	Value	ValueOutput
+Src5 PanRev Factor	0	4194304	Value	ValueOutput
+Src5 Input Gain	0	4194304	Value	ValueOutput
+Src5 Output Gain	0	4194304	Value	ValueOutput
+Src5 Axis Global Gain	0	4194304	Value	ValueOutput
+Src5 Axis LowGain	0	4194304	Value	ValueOutput
+Src5 Axis MidGain	0	4194304	Value	ValueOutput
+Src5 Axis HiGain	0	4194304	Value	ValueOutput
+Src5 Axis LowFreq	0	4194304	Value	ValueOutput
+Src5 Axis HighFreq	0	4194304	Value	ValueOutput
+Src5 Omni GlobalGain	0	4194304	Value	ValueOutput
+Src5 Omni LowGain	0	4194304	Value	ValueOutput
+Src5 Omni MidGain	0	4194304	Value	ValueOutput
+Src5 Omni HiGain	0	4194304	Value	ValueOutput
+Src5 Omni LowFreq	0	4194304	Value	ValueOutput
+Src5 Omni HighFreq	0	4194304	Value	ValueOutput
+Src6 Enable	0	4194304	Value	ValueOutput
+Src6 Solo	0	4194304	Value	ValueOutput
+Src6 InvPhase	0	4194304	Value	ValueOutput
+Src6 StereoPair	0	4194304	Value	ValueOutput
+Src6 Stereo Width	0	4194304	Value	ValueOutput
+Src6 Room Target	0	4194304	Value	ValueOutput
+Src6 Azimuth	0	4194304	Value	ValueOutput
+Src6 Elevation	0	4194304	Value	ValueOutput
+Src6 Distance	0	4194304	Value	ValueOutput
+Src6 Yaw	0	4194304	Value	ValueOutput
+Src6 Pitch	0	4194304	Value	ValueOutput
+Src6 Roll	0	4194304	Value	ValueOutput
+Src6 Aperture	0	4194304	Value	ValueOutput
+Src6 Early Width	0	4194304	Value	ValueOutput
+Src6 Radius	0	4194304	Value	ValueOutput
+Src6 DirectionRelative	0	4194304	Value	ValueOutput
+Src6 Presence	0	4194304	Value	ValueOutput
+Src6 Warmth	0	4194304	Value	ValueOutput
+Src6 Brillance	0	4194304	Value	ValueOutput
+Src6 Room Presence	0	4194304	Value	ValueOutput
+Src6 Run.Reverberance	0	4194304	Value	ValueOutput
+Src6 Envelopment	0	4194304	Value	ValueOutput
+Src6 Doppler	0	4194304	Value	ValueOutput
+Src6 Air Apsorption	0	4194304	Value	ValueOutput
+Src6 Drop Mode	0	4194304	Value	ValueOutput
+Src6 Drop Factor	0	4194304	Value	ValueOutput
+Src6 PanRev Factor	0	4194304	Value	ValueOutput
+Src6 Input Gain	0	4194304	Value	ValueOutput
+Src6 Output Gain	0	4194304	Value	ValueOutput
+Src6 Axis Global Gain	0	4194304	Value	ValueOutput
+Src6 Axis LowGain	0	4194304	Value	ValueOutput
+Src6 Axis MidGain	0	4194304	Value	ValueOutput
+Src6 Axis HiGain	0	4194304	Value	ValueOutput
+Src6 Axis LowFreq	0	4194304	Value	ValueOutput
+Src6 Axis HighFreq	0	4194304	Value	ValueOutput
+Src6 Omni GlobalGain	0	4194304	Value	ValueOutput
+Src6 Omni LowGain	0	4194304	Value	ValueOutput
+Src6 Omni MidGain	0	4194304	Value	ValueOutput
+Src6 Omni HiGain	0	4194304	Value	ValueOutput
+Src6 Omni LowFreq	0	4194304	Value	ValueOutput
+Src6 Omni HighFreq	0	4194304	Value	ValueOutput
+Src7 Enable	0	4194304	Value	ValueOutput
+Src7 Solo	0	4194304	Value	ValueOutput
+Src7 InvPhase	0	4194304	Value	ValueOutput
+Src7 Stereo Width	0	4194304	Value	ValueOutput
+Src7 Room Target	0	4194304	Value	ValueOutput
+Src7 Azimuth	0	4194304	Value	ValueOutput
+Src7 Elevation	0	4194304	Value	ValueOutput
+Src7 Distance	0	4194304	Value	ValueOutput
+Src7 Yaw	0	4194304	Value	ValueOutput
+Src7 Pitch	0	4194304	Value	ValueOutput
+Src7 Roll	0	4194304	Value	ValueOutput
+Src7 Aperture	0	4194304	Value	ValueOutput
+Src7 Early Width	0	4194304	Value	ValueOutput
+Src7 Radius	0	4194304	Value	ValueOutput
+Src7 DirectionRelative	0	4194304	Value	ValueOutput
+Src7 Presence	0	4194304	Value	ValueOutput
+Src7 Warmth	0	4194304	Value	ValueOutput
+Src7 Brillance	0	4194304	Value	ValueOutput
+Src7 Room Presence	0	4194304	Value	ValueOutput
+Src7 Run.Reverberance	0	4194304	Value	ValueOutput
+Src7 Envelopment	0	4194304	Value	ValueOutput
+Src7 Doppler	0	4194304	Value	ValueOutput
+Src7 Air Apsorption	0	4194304	Value	ValueOutput
+Src7 Drop Mode	0	4194304	Value	ValueOutput
+Src7 Drop Factor	0	4194304	Value	ValueOutput
+Src7 PanRev Factor	0	4194304	Value	ValueOutput
+Src7 Input Gain	0	4194304	Value	ValueOutput
+Src7 Output Gain	0	4194304	Value	ValueOutput
+Src7 Axis Global Gain	0	4194304	Value	ValueOutput
+Src7 Axis LowGain	0	4194304	Value	ValueOutput
+Src7 Axis MidGain	0	4194304	Value	ValueOutput
+Src7 Axis HiGain	0	4194304	Value	ValueOutput
+Src7 Axis LowFreq	0	4194304	Value	ValueOutput
+Src7 Axis HighFreq	0	4194304	Value	ValueOutput
+Src7 Omni GlobalGain	0	4194304	Value	ValueOutput
+Src7 Omni LowGain	0	4194304	Value	ValueOutput
+Src7 Omni MidGain	0	4194304	Value	ValueOutput
+Src7 Omni HiGain	0	4194304	Value	ValueOutput
+Src7 Omni LowFreq	0	4194304	Value	ValueOutput
+Src7 Omni HighFreq	0	4194304	Value	ValueOutput
+Src8 Enable	0	4194304	Value	ValueOutput
+Src8 Solo	0	4194304	Value	ValueOutput
+Src8 InvPhase	0	4194304	Value	ValueOutput
+Src8 StereoPair	0	4194304	Value	ValueOutput
+Src8 Stereo Width	0	4194304	Value	ValueOutput
+Src8 Room Target	0	4194304	Value	ValueOutput
+Src8 Azimuth	0	4194304	Value	ValueOutput
+Src8 Elevation	0	4194304	Value	ValueOutput
+Src8 Distance	0	4194304	Value	ValueOutput
+Src8 Yaw	0	4194304	Value	ValueOutput
+Src8 Pitch	0	4194304	Value	ValueOutput
+Src8 Roll	0	4194304	Value	ValueOutput
+Src8 Aperture	0	4194304	Value	ValueOutput
+Src8 Early Width	0	4194304	Value	ValueOutput
+Src8 Radius	0	4194304	Value	ValueOutput
+Src8 DirectionRelative	0	4194304	Value	ValueOutput
+Src8 Presence	0	4194304	Value	ValueOutput
+Src8 Warmth	0	4194304	Value	ValueOutput
+Src8 Brillance	0	4194304	Value	ValueOutput
+Src8 Room Presence	0	4194304	Value	ValueOutput
+Src8 Run.Reverberance	0	4194304	Value	ValueOutput
+Src8 Envelopment	0	4194304	Value	ValueOutput
+Src8 Doppler	0	4194304	Value	ValueOutput
+Src8 Air Apsorption	0	4194304	Value	ValueOutput
+Src8 Drop Mode	0	4194304	Value	ValueOutput
+Src8 Drop Factor	0	4194304	Value	ValueOutput
+Src8 PanRev Factor	0	4194304	Value	ValueOutput
+Src8 Input Gain	0	4194304	Value	ValueOutput
+Src8 Output Gain	0	4194304	Value	ValueOutput
+Src8 Axis Global Gain	0	4194304	Value	ValueOutput
+Src8 Axis LowGain	0	4194304	Value	ValueOutput
+Src8 Axis MidGain	0	4194304	Value	ValueOutput
+Src8 Axis HiGain	0	4194304	Value	ValueOutput
+Src8 Axis LowFreq	0	4194304	Value	ValueOutput
+Src8 Axis HighFreq	0	4194304	Value	ValueOutput
+Src8 Omni GlobalGain	0	4194304	Value	ValueOutput
+Src8 Omni LowGain	0	4194304	Value	ValueOutput
+Src8 Omni MidGain	0	4194304	Value	ValueOutput
+Src8 Omni HiGain	0	4194304	Value	ValueOutput
+Src8 Omni LowFreq	0	4194304	Value	ValueOutput
+Src8 Omni HighFreq	0	4194304	Value	ValueOutput
+Src9 Enable	0	4194304	Value	ValueOutput
+Src9 Solo	0	4194304	Value	ValueOutput
+Src9 InvPhase	0	4194304	Value	ValueOutput
+Src9 Stereo Width	0	4194304	Value	ValueOutput
+Src9 Room Target	0	4194304	Value	ValueOutput
+Src9 Azimuth	0	4194304	Value	ValueOutput
+Src9 Elevation	0	4194304	Value	ValueOutput
+Src9 Distance	0	4194304	Value	ValueOutput
+Src9 Yaw	0	4194304	Value	ValueOutput
+Src9 Pitch	0	4194304	Value	ValueOutput
+Src9 Roll	0	4194304	Value	ValueOutput
+Src9 Aperture	0	4194304	Value	ValueOutput
+Src9 Early Width	0	4194304	Value	ValueOutput
+Src9 Radius	0	4194304	Value	ValueOutput
+Src9 DirectionRelative	0	4194304	Value	ValueOutput
+Src9 Presence	0	4194304	Value	ValueOutput
+Src9 Warmth	0	4194304	Value	ValueOutput
+Src9 Brillance	0	4194304	Value	ValueOutput
+Src9 Room Presence	0	4194304	Value	ValueOutput
+Src9 Run.Reverberance	0	4194304	Value	ValueOutput
+Src9 Envelopment	0	4194304	Value	ValueOutput
+Src9 Doppler	0	4194304	Value	ValueOutput
+Src9 Air Apsorption	0	4194304	Value	ValueOutput
+Src9 Drop Mode	0	4194304	Value	ValueOutput
+Src9 Drop Factor	0	4194304	Value	ValueOutput
+Src9 PanRev Factor	0	4194304	Value	ValueOutput
+Src9 Input Gain	0	4194304	Value	ValueOutput
+Src9 Output Gain	0	4194304	Value	ValueOutput
+Src9 Axis Global Gain	0	4194304	Value	ValueOutput
+Src9 Axis LowGain	0	4194304	Value	ValueOutput
+Src9 Axis MidGain	0	4194304	Value	ValueOutput
+Src9 Axis HiGain	0	4194304	Value	ValueOutput
+Src9 Axis LowFreq	0	4194304	Value	ValueOutput
+Src9 Axis HighFreq	0	4194304	Value	ValueOutput
+Src9 Omni GlobalGain	0	4194304	Value	ValueOutput
+Src9 Omni LowGain	0	4194304	Value	ValueOutput
+Src9 Omni MidGain	0	4194304	Value	ValueOutput
+Src9 Omni HiGain	0	4194304	Value	ValueOutput
+Src9 Omni LowFreq	0	4194304	Value	ValueOutput
+Src9 Omni HighFreq	0	4194304	Value	ValueOutput
+Src10 Enable	0	4194304	Value	ValueOutput
+Src10 Solo	0	4194304	Value	ValueOutput
+Src10 InvPhase	0	4194304	Value	ValueOutput
+Src10 StereoPair	0	4194304	Value	ValueOutput
+Src10 Stereo Width	0	4194304	Value	ValueOutput
+Src10 Room Target	0	4194304	Value	ValueOutput
+Src10 Azimuth	0	4194304	Value	ValueOutput
+Src10 Elevation	0	4194304	Value	ValueOutput
+Src10 Distance	0	4194304	Value	ValueOutput
+Src10 Yaw	0	4194304	Value	ValueOutput
+Src10 Pitch	0	4194304	Value	ValueOutput
+Src10 Roll	0	4194304	Value	ValueOutput
+Src10 Aperture	0	4194304	Value	ValueOutput
+Src10 Early Width	0	4194304	Value	ValueOutput
+Src10 Radius	0	4194304	Value	ValueOutput
+Src10 DirectionRelative	0	4194304	Value	ValueOutput
+Src10 Presence	0	4194304	Value	ValueOutput
+Src10 Warmth	0	4194304	Value	ValueOutput
+Src10 Brillance	0	4194304	Value	ValueOutput
+Src10 Room Presence	0	4194304	Value	ValueOutput
+Src10 Run.Reverberance	0	4194304	Value	ValueOutput
+Src10 Envelopment	0	4194304	Value	ValueOutput
+Src10 Doppler	0	4194304	Value	ValueOutput
+Src10 Air Apsorption	0	4194304	Value	ValueOutput
+Src10 Drop Mode	0	4194304	Value	ValueOutput
+Src10 Drop Factor	0	4194304	Value	ValueOutput
+Src10 PanRev Factor	0	4194304	Value	ValueOutput
+Src10 Input Gain	0	4194304	Value	ValueOutput
+Src10 Output Gain	0	4194304	Value	ValueOutput
+Src10 Axis Global Gain	0	4194304	Value	ValueOutput
+Src10 Axis LowGain	0	4194304	Value	ValueOutput
+Src10 Axis MidGain	0	4194304	Value	ValueOutput
+Src10 Axis HiGain	0	4194304	Value	ValueOutput
+Src10 Axis LowFreq	0	4194304	Value	ValueOutput
+Src10 Axis HighFreq	0	4194304	Value	ValueOutput
+Src10 Omni GlobalGain	0	4194304	Value	ValueOutput
+Src10 Omni LowGain	0	4194304	Value	ValueOutput
+Src10 Omni MidGain	0	4194304	Value	ValueOutput
+Src10 Omni HiGain	0	4194304	Value	ValueOutput
+Src10 Omni LowFreq	0	4194304	Value	ValueOutput
+Src10 Omni HighFreq	0	4194304	Value	ValueOutput
+Src11 Enable	0	4194304	Value	ValueOutput
+Src11 Solo	0	4194304	Value	ValueOutput
+Src11 InvPhase	0	4194304	Value	ValueOutput
+Src11 Stereo Width	0	4194304	Value	ValueOutput
+Src11 Room Target	0	4194304	Value	ValueOutput
+Src11 Azimuth	0	4194304	Value	ValueOutput
+Src11 Elevation	0	4194304	Value	ValueOutput
+Src11 Distance	0	4194304	Value	ValueOutput
+Src11 Yaw	0	4194304	Value	ValueOutput
+Src11 Pitch	0	4194304	Value	ValueOutput
+Src11 Roll	0	4194304	Value	ValueOutput
+Src11 Aperture	0	4194304	Value	ValueOutput
+Src11 Early Width	0	4194304	Value	ValueOutput
+Src11 Radius	0	4194304	Value	ValueOutput
+Src11 DirectionRelative	0	4194304	Value	ValueOutput
+Src11 Presence	0	4194304	Value	ValueOutput
+Src11 Warmth	0	4194304	Value	ValueOutput
+Src11 Brillance	0	4194304	Value	ValueOutput
+Src11 Room Presence	0	4194304	Value	ValueOutput
+Src11 Run.Reverberance	0	4194304	Value	ValueOutput
+Src11 Envelopment	0	4194304	Value	ValueOutput
+Src11 Doppler	0	4194304	Value	ValueOutput
+Src11 Air Apsorption	0	4194304	Value	ValueOutput
+Src11 Drop Mode	0	4194304	Value	ValueOutput
+Src11 Drop Factor	0	4194304	Value	ValueOutput
+Src11 PanRev Factor	0	4194304	Value	ValueOutput
+Src11 Input Gain	0	4194304	Value	ValueOutput
+Src11 Output Gain	0	4194304	Value	ValueOutput
+Src11 Axis Global Gain	0	4194304	Value	ValueOutput
+Src11 Axis LowGain	0	4194304	Value	ValueOutput
+Src11 Axis MidGain	0	4194304	Value	ValueOutput
+Src11 Axis HiGain	0	4194304	Value	ValueOutput
+Src11 Axis LowFreq	0	4194304	Value	ValueOutput
+Src11 Axis HighFreq	0	4194304	Value	ValueOutput
+Src11 Omni GlobalGain	0	4194304	Value	ValueOutput
+Src11 Omni LowGain	0	4194304	Value	ValueOutput
+Src11 Omni MidGain	0	4194304	Value	ValueOutput
+Src11 Omni HiGain	0	4194304	Value	ValueOutput
+Src11 Omni LowFreq	0	4194304	Value	ValueOutput
+Src11 Omni HighFreq	0	4194304	Value	ValueOutput
+Src12 Enable	0	4194304	Value	ValueOutput
+Src12 Solo	0	4194304	Value	ValueOutput
+Src12 InvPhase	0	4194304	Value	ValueOutput
+Src12 StereoPair	0	4194304	Value	ValueOutput
+Src12 Stereo Width	0	4194304	Value	ValueOutput
+Src12 Room Target	0	4194304	Value	ValueOutput
+Src12 Azimuth	0	4194304	Value	ValueOutput
+Src12 Elevation	0	4194304	Value	ValueOutput
+Src12 Distance	0	4194304	Value	ValueOutput
+Src12 Yaw	0	4194304	Value	ValueOutput
+Src12 Pitch	0	4194304	Value	ValueOutput
+Src12 Roll	0	4194304	Value	ValueOutput
+Src12 Aperture	0	4194304	Value	ValueOutput
+Src12 Early Width	0	4194304	Value	ValueOutput
+Src12 Radius	0	4194304	Value	ValueOutput
+Src12 DirectionRelative	0	4194304	Value	ValueOutput
+Src12 Presence	0	4194304	Value	ValueOutput
+Src12 Warmth	0	4194304	Value	ValueOutput
+Src12 Brillance	0	4194304	Value	ValueOutput
+Src12 Room Presence	0	4194304	Value	ValueOutput
+Src12 Run.Reverberance	0	4194304	Value	ValueOutput
+Src12 Envelopment	0	4194304	Value	ValueOutput
+Src12 Doppler	0	4194304	Value	ValueOutput
+Src12 Air Apsorption	0	4194304	Value	ValueOutput
+Src12 Drop Mode	0	4194304	Value	ValueOutput
+Src12 Drop Factor	0	4194304	Value	ValueOutput
+Src12 PanRev Factor	0	4194304	Value	ValueOutput
+Src12 Input Gain	0	4194304	Value	ValueOutput
+Src12 Output Gain	0	4194304	Value	ValueOutput
+Src12 Axis Global Gain	0	4194304	Value	ValueOutput
+Src12 Axis LowGain	0	4194304	Value	ValueOutput
+Src12 Axis MidGain	0	4194304	Value	ValueOutput
+Src12 Axis HiGain	0	4194304	Value	ValueOutput
+Src12 Axis LowFreq	0	4194304	Value	ValueOutput
+Src12 Axis HighFreq	0	4194304	Value	ValueOutput
+Src12 Omni GlobalGain	0	4194304	Value	ValueOutput
+Src12 Omni LowGain	0	4194304	Value	ValueOutput
+Src12 Omni MidGain	0	4194304	Value	ValueOutput
+Src12 Omni HiGain	0	4194304	Value	ValueOutput
+Src12 Omni LowFreq	0	4194304	Value	ValueOutput
+Src12 Omni HighFreq	0	4194304	Value	ValueOutput
+Src13 Enable	0	4194304	Value	ValueOutput
+Src13 Solo	0	4194304	Value	ValueOutput
+Src13 InvPhase	0	4194304	Value	ValueOutput
+Src13 Stereo Width	0	4194304	Value	ValueOutput
+Src13 Room Target	0	4194304	Value	ValueOutput
+Src13 Azimuth	0	4194304	Value	ValueOutput
+Src13 Elevation	0	4194304	Value	ValueOutput
+Src13 Distance	0	4194304	Value	ValueOutput
+Src13 Yaw	0	4194304	Value	ValueOutput
+Src13 Pitch	0	4194304	Value	ValueOutput
+Src13 Roll	0	4194304	Value	ValueOutput
+Src13 Aperture	0	4194304	Value	ValueOutput
+Src13 Early Width	0	4194304	Value	ValueOutput
+Src13 Radius	0	4194304	Value	ValueOutput
+Src13 DirectionRelative	0	4194304	Value	ValueOutput
+Src13 Presence	0	4194304	Value	ValueOutput
+Src13 Warmth	0	4194304	Value	ValueOutput
+Src13 Brillance	0	4194304	Value	ValueOutput
+Src13 Room Presence	0	4194304	Value	ValueOutput
+Src13 Run.Reverberance	0	4194304	Value	ValueOutput
+Src13 Envelopment	0	4194304	Value	ValueOutput
+Src13 Doppler	0	4194304	Value	ValueOutput
+Src13 Air Apsorption	0	4194304	Value	ValueOutput
+Src13 Drop Mode	0	4194304	Value	ValueOutput
+Src13 Drop Factor	0	4194304	Value	ValueOutput
+Src13 PanRev Factor	0	4194304	Value	ValueOutput
+Src13 Input Gain	0	4194304	Value	ValueOutput
+Src13 Output Gain	0	4194304	Value	ValueOutput
+Src13 Axis Global Gain	0	4194304	Value	ValueOutput
+Src13 Axis LowGain	0	4194304	Value	ValueOutput
+Src13 Axis MidGain	0	4194304	Value	ValueOutput
+Src13 Axis HiGain	0	4194304	Value	ValueOutput
+Src13 Axis LowFreq	0	4194304	Value	ValueOutput
+Src13 Axis HighFreq	0	4194304	Value	ValueOutput
+Src13 Omni GlobalGain	0	4194304	Value	ValueOutput
+Src13 Omni LowGain	0	4194304	Value	ValueOutput
+Src13 Omni MidGain	0	4194304	Value	ValueOutput
+Src13 Omni HiGain	0	4194304	Value	ValueOutput
+Src13 Omni LowFreq	0	4194304	Value	ValueOutput
+Src13 Omni HighFreq	0	4194304	Value	ValueOutput
+Src14 Enable	0	4194304	Value	ValueOutput
+Src14 Solo	0	4194304	Value	ValueOutput
+Src14 InvPhase	0	4194304	Value	ValueOutput
+Src14 StereoPair	0	4194304	Value	ValueOutput
+Src14 Stereo Width	0	4194304	Value	ValueOutput
+Src14 Room Target	0	4194304	Value	ValueOutput
+Src14 Azimuth	0	4194304	Value	ValueOutput
+Src14 Elevation	0	4194304	Value	ValueOutput
+Src14 Distance	0	4194304	Value	ValueOutput
+Src14 Yaw	0	4194304	Value	ValueOutput
+Src14 Pitch	0	4194304	Value	ValueOutput
+Src14 Roll	0	4194304	Value	ValueOutput
+Src14 Aperture	0	4194304	Value	ValueOutput
+Src14 Early Width	0	4194304	Value	ValueOutput
+Src14 Radius	0	4194304	Value	ValueOutput
+Src14 DirectionRelative	0	4194304	Value	ValueOutput
+Src14 Presence	0	4194304	Value	ValueOutput
+Src14 Warmth	0	4194304	Value	ValueOutput
+Src14 Brillance	0	4194304	Value	ValueOutput
+Src14 Room Presence	0	4194304	Value	ValueOutput
+Src14 Run.Reverberance	0	4194304	Value	ValueOutput
+Src14 Envelopment	0	4194304	Value	ValueOutput
+Src14 Doppler	0	4194304	Value	ValueOutput
+Src14 Air Apsorption	0	4194304	Value	ValueOutput
+Src14 Drop Mode	0	4194304	Value	ValueOutput
+Src14 Drop Factor	0	4194304	Value	ValueOutput
+Src14 PanRev Factor	0	4194304	Value	ValueOutput
+Src14 Input Gain	0	4194304	Value	ValueOutput
+Src14 Output Gain	0	4194304	Value	ValueOutput
+Src14 Axis Global Gain	0	4194304	Value	ValueOutput
+Src14 Axis LowGain	0	4194304	Value	ValueOutput
+Src14 Axis MidGain	0	4194304	Value	ValueOutput
+Src14 Axis HiGain	0	4194304	Value	ValueOutput
+Src14 Axis LowFreq	0	4194304	Value	ValueOutput
+Src14 Axis HighFreq	0	4194304	Value	ValueOutput
+Src14 Omni GlobalGain	0	4194304	Value	ValueOutput
+Src14 Omni LowGain	0	4194304	Value	ValueOutput
+Src14 Omni MidGain	0	4194304	Value	ValueOutput
+Src14 Omni HiGain	0	4194304	Value	ValueOutput
+Src14 Omni LowFreq	0	4194304	Value	ValueOutput
+Src14 Omni HighFreq	0	4194304	Value	ValueOutput
+Src15 Enable	0	4194304	Value	ValueOutput
+Src15 Solo	0	4194304	Value	ValueOutput
+Src15 InvPhase	0	4194304	Value	ValueOutput
+Src15 Stereo Width	0	4194304	Value	ValueOutput
+Src15 Room Target	0	4194304	Value	ValueOutput
+Src15 Azimuth	0	4194304	Value	ValueOutput
+Src15 Elevation	0	4194304	Value	ValueOutput
+Src15 Distance	0	4194304	Value	ValueOutput
+Src15 Yaw	0	4194304	Value	ValueOutput
+Src15 Pitch	0	4194304	Value	ValueOutput
+Src15 Roll	0	4194304	Value	ValueOutput
+Src15 Aperture	0	4194304	Value	ValueOutput
+Src15 Early Width	0	4194304	Value	ValueOutput
+Src15 Radius	0	4194304	Value	ValueOutput
+Src15 DirectionRelative	0	4194304	Value	ValueOutput
+Src15 Presence	0	4194304	Value	ValueOutput
+Src15 Warmth	0	4194304	Value	ValueOutput
+Src15 Brillance	0	4194304	Value	ValueOutput
+Src15 Room Presence	0	4194304	Value	ValueOutput
+Src15 Run.Reverberance	0	4194304	Value	ValueOutput
+Src15 Envelopment	0	4194304	Value	ValueOutput
+Src15 Doppler	0	4194304	Value	ValueOutput
+Src15 Air Apsorption	0	4194304	Value	ValueOutput
+Src15 Drop Mode	0	4194304	Value	ValueOutput
+Src15 Drop Factor	0	4194304	Value	ValueOutput
+Src15 PanRev Factor	0	4194304	Value	ValueOutput
+Src15 Input Gain	0	4194304	Value	ValueOutput
+Src15 Output Gain	0	4194304	Value	ValueOutput
+Src15 Axis Global Gain	0	4194304	Value	ValueOutput
+Src15 Axis LowGain	0	4194304	Value	ValueOutput
+Src15 Axis MidGain	0	4194304	Value	ValueOutput
+Src15 Axis HiGain	0	4194304	Value	ValueOutput
+Src15 Axis LowFreq	0	4194304	Value	ValueOutput
+Src15 Axis HighFreq	0	4194304	Value	ValueOutput
+Src15 Omni GlobalGain	0	4194304	Value	ValueOutput
+Src15 Omni LowGain	0	4194304	Value	ValueOutput
+Src15 Omni MidGain	0	4194304	Value	ValueOutput
+Src15 Omni HiGain	0	4194304	Value	ValueOutput
+Src15 Omni LowFreq	0	4194304	Value	ValueOutput
+Src15 Omni HighFreq	0	4194304	Value	ValueOutput
+Src16 Enable	0	4194304	Value	ValueOutput
+Src16 Solo	0	4194304	Value	ValueOutput
+Src16 InvPhase	0	4194304	Value	ValueOutput
+Src16 StereoPair	0	4194304	Value	ValueOutput
+Src16 Stereo Width	0	4194304	Value	ValueOutput
+Src16 Room Target	0	4194304	Value	ValueOutput
+Src16 Azimuth	0	4194304	Value	ValueOutput
+Src16 Elevation	0	4194304	Value	ValueOutput
+Src16 Distance	0	4194304	Value	ValueOutput
+Src16 Yaw	0	4194304	Value	ValueOutput
+Src16 Pitch	0	4194304	Value	ValueOutput
+Src16 Roll	0	4194304	Value	ValueOutput
+Src16 Aperture	0	4194304	Value	ValueOutput
+Src16 Early Width	0	4194304	Value	ValueOutput
+Src16 Radius	0	4194304	Value	ValueOutput
+Src16 DirectionRelative	0	4194304	Value	ValueOutput
+Src16 Presence	0	4194304	Value	ValueOutput
+Src16 Warmth	0	4194304	Value	ValueOutput
+Src16 Brillance	0	4194304	Value	ValueOutput
+Src16 Room Presence	0	4194304	Value	ValueOutput
+Src16 Run.Reverberance	0	4194304	Value	ValueOutput
+Src16 Envelopment	0	4194304	Value	ValueOutput
+Src16 Doppler	0	4194304	Value	ValueOutput
+Src16 Air Apsorption	0	4194304	Value	ValueOutput
+Src16 Drop Mode	0	4194304	Value	ValueOutput
+Src16 Drop Factor	0	4194304	Value	ValueOutput
+Src16 PanRev Factor	0	4194304	Value	ValueOutput
+Src16 Input Gain	0	4194304	Value	ValueOutput
+Src16 Output Gain	0	4194304	Value	ValueOutput
+Src16 Axis Global Gain	0	4194304	Value	ValueOutput
+Src16 Axis LowGain	0	4194304	Value	ValueOutput
+Src16 Axis MidGain	0	4194304	Value	ValueOutput
+Src16 Axis HiGain	0	4194304	Value	ValueOutput
+Src16 Axis LowFreq	0	4194304	Value	ValueOutput
+Src16 Axis HighFreq	0	4194304	Value	ValueOutput
+Src16 Omni GlobalGain	0	4194304	Value	ValueOutput
+Src16 Omni LowGain	0	4194304	Value	ValueOutput
+Src16 Omni MidGain	0	4194304	Value	ValueOutput
+Src16 Omni HiGain	0	4194304	Value	ValueOutput
+Src16 Omni LowFreq	0	4194304	Value	ValueOutput
+Src16 Omni HighFreq	0	4194304	Value	ValueOutput
+Room1 Enabled	0	4194304	Value	ValueOutput
+Room1 Input Gain	0	4194304	Value	ValueOutput
+Room1 Output Gain	0	4194304	Value	ValueOutput
+Room1 Size	0	4194304	Value	ValueOutput
+Room1 Reverberance	0	4194304	Value	ValueOutput
+Room1 Heavyness	0	4194304	Value	ValueOutput
+Room1 Liveness	0	4194304	Value	ValueOutput
+Room1 Early Min	0	4194304	Value	ValueOutput
+Room1 Early Max	0	4194304	Value	ValueOutput
+Room1 Early Dist	0	4194304	Value	ValueOutput
+Room1 Early Shape	0	4194304	Value	ValueOutput
+Room1 Cluster Min	0	4194304	Value	ValueOutput
+Room1 Cluster Max	0	4194304	Value	ValueOutput
+Room1 Cluster Dist	0	4194304	Value	ValueOutput
+Room1 Reverb Start	0	4194304	Value	ValueOutput
+Room1 Modal Density	0	4194304	Value	ValueOutput
+Room1 Infinite	0	4194304	Value	ValueOutput
+Room1 Air Absorption	0	4194304	Value	ValueOutput
+Room1 Air Abs.RollOff	0	4194304	Value	ValueOutput
+Room1 Crossover LowFreq	0	4194304	Value	ValueOutput
+Room1 Crossover HiFreq	0	4194304	Value	ValueOutput
+Room2 Enabled	0	4194304	Value	ValueOutput
+Room2 Input Gain	0	4194304	Value	ValueOutput
+Room2 Output Gain	0	4194304	Value	ValueOutput
+Room2 Size	0	4194304	Value	ValueOutput
+Room2 Reverberance	0	4194304	Value	ValueOutput
+Room2 Heavyness	0	4194304	Value	ValueOutput
+Room2 Liveness	0	4194304	Value	ValueOutput
+Room2 Early Min	0	4194304	Value	ValueOutput
+Room2 Early Max	0	4194304	Value	ValueOutput
+Room2 Early Dist	0	4194304	Value	ValueOutput
+Room2 Early Shape	0	4194304	Value	ValueOutput
+Room2 Cluster Min	0	4194304	Value	ValueOutput
+Room2 Cluster Max	0	4194304	Value	ValueOutput
+Room2 Cluster Dist	0	4194304	Value	ValueOutput
+Room2 Reverb Start	0	4194304	Value	ValueOutput
+Room2 Modal Density	0	4194304	Value	ValueOutput
+Room2 Infinite	0	4194304	Value	ValueOutput
+Room2 Air Absorption	0	4194304	Value	ValueOutput
+Room2 Air Abs.RollOff	0	4194304	Value	ValueOutput
+Room2 Crossover LowFreq	0	4194304	Value	ValueOutput
+Room2 Crossover HiFreq	0	4194304	Value	ValueOutput
+Room3 Enabled	0	4194304	Value	ValueOutput
+Room3 Input Gain	0	4194304	Value	ValueOutput
+Room3 Output Gain	0	4194304	Value	ValueOutput
+Room3 Size	0	4194304	Value	ValueOutput
+Room3 Reverberance	0	4194304	Value	ValueOutput
+Room3 Heavyness	0	4194304	Value	ValueOutput
+Room3 Liveness	0	4194304	Value	ValueOutput
+Room3 Early Min	0	4194304	Value	ValueOutput
+Room3 Early Max	0	4194304	Value	ValueOutput
+Room3 Early Dist	0	4194304	Value	ValueOutput
+Room3 Early Shape	0	4194304	Value	ValueOutput
+Room3 Cluster Min	0	4194304	Value	ValueOutput
+Room3 Cluster Max	0	4194304	Value	ValueOutput
+Room3 Cluster Dist	0	4194304	Value	ValueOutput
+Room3 Reverb Start	0	4194304	Value	ValueOutput
+Room3 Modal Density	0	4194304	Value	ValueOutput
+Room3 Infinite	0	4194304	Value	ValueOutput
+Room3 Air Absorption	0	4194304	Value	ValueOutput
+Room3 Air Abs.RollOff	0	4194304	Value	ValueOutput
+Room3 Crossover LowFreq	0	4194304	Value	ValueOutput
+Room3 Crossover HiFreq	0	4194304	Value	ValueOutput
+Out1 Enable	0	4194304	Value	ValueOutput
+Out1 SubEnable	0	4194304	Value	ValueOutput
+Out1 SubSendLevel	0	4194304	Value	ValueOutput
+Out1 Output Delay	0	4194304	Value	ValueOutput
+Out1 Routing Matrix	0	4194304	Value	ValueOutput
+Mono	0	4194304	Value	ValueOutput
+Out1 Elevation	0	4194304	Value	ValueOutput
+Out1 Distance	0	4194304	Value	ValueOutput
+Out2 Enable	0	4194304	Value	ValueOutput
+Out2 SubEnable	0	4194304	Value	ValueOutput
+Out2 SubSendLevel	0	4194304	Value	ValueOutput
+Out2 Output Delay	0	4194304	Value	ValueOutput
+Out2 Routing Matrix	0	4194304	Value	ValueOutput
+Right	0	4194304	Value	ValueOutput
+Out2 Elevation	0	4194304	Value	ValueOutput
+Out2 Distance	0	4194304	Value	ValueOutput
+Out3 Enable	0	4194304	Value	ValueOutput
+Out3 SubEnable	0	4194304	Value	ValueOutput
+Out3 SubSendLevel	0	4194304	Value	ValueOutput
+Out3 Output Delay	0	4194304	Value	ValueOutput
+Out3 Routing Matrix	0	4194304	Value	ValueOutput
+Out3 Azimuth	0	4194304	Value	ValueOutput
+Out3 Elevation	0	4194304	Value	ValueOutput
+Out3 Distance	0	4194304	Value	ValueOutput
+Out4 Enable	0	4194304	Value	ValueOutput
+Out4 SubEnable	0	4194304	Value	ValueOutput
+Out4 SubSendLevel	0	4194304	Value	ValueOutput
+Out4 Output Delay	0	4194304	Value	ValueOutput
+Out4 Routing Matrix	0	4194304	Value	ValueOutput
+Out4 Azimuth	0	4194304	Value	ValueOutput
+Out4 Elevation	0	4194304	Value	ValueOutput
+Out4 Distance	0	4194304	Value	ValueOutput
+Out5 Enable	0	4194304	Value	ValueOutput
+Out5 SubEnable	0	4194304	Value	ValueOutput
+Out5 SubSendLevel	0	4194304	Value	ValueOutput
+Out5 Output Delay	0	4194304	Value	ValueOutput
+Out5 Routing Matrix	0	4194304	Value	ValueOutput
+Out5 Azimuth	0	4194304	Value	ValueOutput
+Out5 Elevation	0	4194304	Value	ValueOutput
+Out5 Distance	0	4194304	Value	ValueOutput
+Out6 Enable	0	4194304	Value	ValueOutput
+Out6 SubEnable	0	4194304	Value	ValueOutput
+Out6 SubSendLevel	0	4194304	Value	ValueOutput
+Out6 Output Delay	0	4194304	Value	ValueOutput
+Out6 Routing Matrix	0	4194304	Value	ValueOutput
+Out6 Azimuth	0	4194304	Value	ValueOutput
+Out6 Elevation	0	4194304	Value	ValueOutput
+Out6 Distance	0	4194304	Value	ValueOutput
+Out7 Enable	0	4194304	Value	ValueOutput
+Out7 SubEnable	0	4194304	Value	ValueOutput
+Out7 SubSendLevel	0	4194304	Value	ValueOutput
+Out7 Output Delay	0	4194304	Value	ValueOutput
+Out7 Routing Matrix	0	4194304	Value	ValueOutput
+Out7 Azimuth	0	4194304	Value	ValueOutput
+Out7 Elevation	0	4194304	Value	ValueOutput
+Out7 Distance	0	4194304	Value	ValueOutput
+Out8 Enable	0	4194304	Value	ValueOutput
+Out8 SubEnable	0	4194304	Value	ValueOutput
+Out8 SubSendLevel	0	4194304	Value	ValueOutput
+Out8 Output Delay	0	4194304	Value	ValueOutput
+Out8 Routing Matrix	0	4194304	Value	ValueOutput
+Out8 Azimuth	0	4194304	Value	ValueOutput
+Out8 Elevation	0	4194304	Value	ValueOutput
+Out8 Distance	0	4194304	Value	ValueOutput
+LockedSpeakers	0	4194304	Value	ValueOutput
+Morphing Automation	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

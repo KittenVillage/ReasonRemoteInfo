@@ -1,0 +1,51 @@
+Scope
+Manufacturer	Model
+TBProAudio	vst.TBP2.Impress x64
+Note: Will match scope definitions for vst.TBP2.Impress x64 or vst.TBP2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+OS Mode	0	4194304	Value	ValueOutput
+Monitor	0	4194304	Value	ValueOutput
+Channel Selector Input	0	4194304	Value	ValueOutput
+Enable MBFilter Input	0	4194304	Value	ValueOutput
+LowCut MBFilter Input	0	4194304	Value	ValueOutput
+HiCut MBFilter Input	0	4194304	Value	ValueOutput
+Slope MBFilter Input	0	4194304	Value	ValueOutput
+Detector Selector	0	4194304	Value	ValueOutput
+Channel Selector Detecto	0	4194304	Value	ValueOutput
+Enable Filter Detector	0	4194304	Value	ValueOutput
+LowCut Filter Input	0	4194304	Value	ValueOutput
+HiCut Filter Input	0	4194304	Value	ValueOutput
+Slope Filter Detector	0	4194304	Value	ValueOutput
+Comp Type	0	4194304	Value	ValueOutput
+Detection	0	4194304	Value	ValueOutput
+RMS Window	0	4194304	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+GainStage Mode	0	4194304	Value	ValueOutput
+Ratio	0	4194304	Value	ValueOutput
+Knee	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+AutoRelease	0	4194304	Value	ValueOutput
+MakeUpGain	0	4194304	Value	ValueOutput
+AutoMakeUpGain	0	4194304	Value	ValueOutput
+DryWet	0	4194304	Value	ValueOutput
+LookAhead	0	4194304	Value	ValueOutput
+MaxGr	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

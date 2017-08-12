@@ -1,0 +1,129 @@
+Scope
+Manufacturer	Model
+Arturia	vst.Farf.Farfisa V
+Note: Will match scope definitions for vst.Farf.Farfisa V or vst.Farf
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bass Volume	0	4194304	Value	ValueOutput
+Grey Keys	0	4194304	Value	ValueOutput
+Bass On/Off	0	4194304	Value	ValueOutput
+Bass Voice	0	4194304	Value	ValueOutput
+Bass Perc	0	4194304	Value	ValueOutput
+Bass Decay	0	4194304	Value	ValueOutput
+Vibrato Rate	0	4194304	Value	ValueOutput
+Vibrato Depth	0	4194304	Value	ValueOutput
+Vibrato On/Off	0	4194304	Value	ValueOutput
+Reverb On/Off	0	4194304	Value	ValueOutput
+Tremolo On/Off	0	4194304	Value	ValueOutput
+Tremolo Sync	0	4194304	Value	ValueOutput
+Tremolo Rate	0	4194304	Value	ValueOutput
+Tremolo Ratio	0	4194304	Value	ValueOutput
+Repeat On/Off	0	4194304	Value	ValueOutput
+Repeat Sync	0	4194304	Value	ValueOutput
+Repeat Rate	0	4194304	Value	ValueOutput
+Repeat Ratio	0	4194304	Value	ValueOutput
+Repeat/Perc	0	4194304	Value	ValueOutput
+Perc Attack	0	4194304	Value	ValueOutput
+MTB 16	0	4194304	Value	ValueOutput
+MTB 8	0	4194304	Value	ValueOutput
+MTB 4	0	4194304	Value	ValueOutput
+MTB 2-2/3	0	4194304	Value	ValueOutput
+All Boost	0	4194304	Value	ValueOutput
+MT Boost	0	4194304	Value	ValueOutput
+Bass 16	0	4194304	Value	ValueOutput
+Strings 16	0	4194304	Value	ValueOutput
+Flute 8	0	4194304	Value	ValueOutput
+Oboe 8	0	4194304	Value	ValueOutput
+Trumpet 8	0	4194304	Value	ValueOutput
+Strings 8	0	4194304	Value	ValueOutput
+Flute 4	0	4194304	Value	ValueOutput
+Strings 4	0	4194304	Value	ValueOutput
+P2-2/3	0	4194304	Value	ValueOutput
+Brilliant	0	4194304	Value	ValueOutput
+Tuning C	0	4194304	Value	ValueOutput
+Tuning C#	0	4194304	Value	ValueOutput
+Tuning D	0	4194304	Value	ValueOutput
+Tuning D#	0	4194304	Value	ValueOutput
+Tuning E	0	4194304	Value	ValueOutput
+Tuning F	0	4194304	Value	ValueOutput
+Tuning F#	0	4194304	Value	ValueOutput
+Tuning G	0	4194304	Value	ValueOutput
+Tuning G#	0	4194304	Value	ValueOutput
+Tuning A	0	4194304	Value	ValueOutput
+Tuning A#	0	4194304	Value	ValueOutput
+Tuning B	0	4194304	Value	ValueOutput
+Bass Wave	0	4194304	Value	ValueOutput
+Bass Tone	0	4194304	Value	ValueOutput
+Bass Res	0	4194304	Value	ValueOutput
+Noise	0	4194304	Value	ValueOutput
+Voice Mode	0	4194304	Value	ValueOutput
+AR Env On/Off	0	4194304	Value	ValueOutput
+AR Env Attack	0	4194304	Value	ValueOutput
+AR Env Release	0	4194304	Value	ValueOutput
+Offset	0	4194304	Value	ValueOutput
+User Wave	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Master Bass	0	4194304	Value	ValueOutput
+Master Treble	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Reverb Type	0	4194304	Value	ValueOutput
+Knee Lever MIDI	0	4194304	Value	ValueOutput
+Knee Lever Wah	0	4194304	Value	ValueOutput
+Knee Lever CC	0	4194304	Value	ValueOutput
+Swell Pedal	0	4194304	Value	ValueOutput
+Flanger On/Off	0	4194304	Value	ValueOutput
+Flanger Rate	0	4194304	Value	ValueOutput
+Flanger Depth	0	4194304	Value	ValueOutput
+Flanger Res	0	4194304	Value	ValueOutput
+Flanger Delay	0	4194304	Value	ValueOutput
+Phaser On/Off	0	4194304	Value	ValueOutput
+Phaser Rate	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Phaser Feedback	0	4194304	Value	ValueOutput
+Phaser Stereo	0	4194304	Value	ValueOutput
+Chorus On/Off	0	4194304	Value	ValueOutput
+Chorus Type	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Amount	0	4194304	Value	ValueOutput
+Chorus Stereo Rate	0	4194304	Value	ValueOutput
+Chorus Stereo Width	0	4194304	Value	ValueOutput
+Chorus Delay	0	4194304	Value	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Delay On/Off	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay FB Tone	0	4194304	Value	ValueOutput
+Delay LFO Depth	0	4194304	Value	ValueOutput
+Delay LFO Rate	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Overdrive On/Off	0	4194304	Value	ValueOutput
+Overdrive Drive	0	4194304	Value	ValueOutput
+Overdrive Tone	0	4194304	Value	ValueOutput
+Overdrive Output	0	4194304	Value	ValueOutput
+Amp Power	0	4194304	Value	ValueOutput
+Amp Bright	0	4194304	Value	ValueOutput
+Amp Volume	0	4194304	Value	ValueOutput
+Amp Treble	0	4194304	Value	ValueOutput
+Amp Middle	0	4194304	Value	ValueOutput
+Amp Bass	0	4194304	Value	ValueOutput
+Amp Master	0	4194304	Value	ValueOutput
+Amp Mic	0	4194304	Value	ValueOutput
+Previous Preset	0	4194304	Value	ValueOutput
+Next Preset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

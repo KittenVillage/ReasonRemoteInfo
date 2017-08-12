@@ -1,0 +1,46 @@
+Scope
+Manufacturer	Model
+Ochen K.	com.ochenk.Repeat
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Loop Point End Set	0	1	Toggle	ValueOutput
+Loop Point Clear	0	1	Toggle	ValueOutput
+Play	0	1	Toggle	ValueOutput
+Record	0	1	Toggle	ValueOutput
+Channel 1 Clear	0	1	Toggle	ValueOutput
+Channel 1 Mute	0	1	Toggle	ValueOutput
+Channel 1 Aux 1	0	4194304	Value	ValueOutput
+Channel 1 Aux 2	0	4194304	Value	ValueOutput
+Channel 1 Volume	0	4194304	Value	ValueOutput
+Channel 1 Enable	0	1	Toggle	ValueOutput
+Channel 2 Clear	0	1	Toggle	ValueOutput
+Channel 2 Mute	0	1	Toggle	ValueOutput
+Channel 2 Aux 1	0	4194304	Value	ValueOutput
+Channel 2 Aux 2	0	4194304	Value	ValueOutput
+Channel 2 Volume	0	4194304	Value	ValueOutput
+Channel 2 Enable	0	1	Toggle	ValueOutput
+Channel 3 Clear	0	1	Toggle	ValueOutput
+Channel 3 Mute	0	1	Toggle	ValueOutput
+Channel 3 Aux 1	0	4194304	Value	ValueOutput
+Channel 3 Aux 2	0	4194304	Value	ValueOutput
+Channel 3 Volume	0	4194304	Value	ValueOutput
+Channel 3 Enable	0	1	Toggle	ValueOutput
+Channel 4 Clear	0	1	Toggle	ValueOutput
+Channel 4 Mute	0	1	Toggle	ValueOutput
+Channel 4 Aux 1	0	4194304	Value	ValueOutput
+Channel 4 Aux 2	0	4194304	Value	ValueOutput
+Channel 4 Volume	0	4194304	Value	ValueOutput
+Channel 4 Enable	0	1	Toggle	ValueOutput
+Channel 1 Bounce Destination	0	1	Toggle	ValueOutput
+Channel 2 Bounce Destination	0	1	Toggle	ValueOutput
+Channel 3 Bounce Destination	0	1	Toggle	ValueOutput
+Channel 4 Bounce Destination	0	1	Toggle	ValueOutput
+Bounce	0	1	Toggle	ValueOutput
+Master Output Volume	0	4194304	Value	ValueOutput
+Tempo Tap	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

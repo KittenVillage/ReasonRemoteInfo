@@ -1,0 +1,257 @@
+Scope
+Manufacturer	Model
+AdmiralQuality.com	vst.AQI2.LilPoly-Ana_x64
+Note: Will match scope definitions for vst.AQI2.LilPoly-Ana_x64 or vst.AQI2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Tune	0	4194304	Value	ValueOutput
+Pitch	0	4194304	Value	ValueOutput
+Quality	0	4194304	Value	ValueOutput
+CCExpr	0	4194304	Value	ValueOutput
+CCIn1	0	4194304	Value	ValueOutput
+CCIn2	0	4194304	Value	ValueOutput
+FInput-1	0	4194304	Value	ValueOutput
+FInput-2	0	4194304	Value	ValueOutput
+Wheel	0	4194304	Value	ValueOutput
+PortaTim	0	4194304	Value	ValueOutput
+PortaLeg	0	4194304	Value	ValueOutput
+Detune	0	4194304	Value	ValueOutput
+Priority	0	4194304	Value	ValueOutput
+CycleAsn	0	4194304	Value	ValueOutput
+TrigLeg	0	4194304	Value	ValueOutput
+P-phony	0	4194304	Value	ValueOutput
+PolyMode	0	4194304	Value	ValueOutput
+PB-Range	0	4194304	Value	ValueOutput
+KBOctave	0	4194304	Value	ValueOutput
+Rsrvd02	0	4194304	Value	ValueOutput
+Rsrvd03	0	4194304	Value	ValueOutput
+E1VelLev	0	4194304	Value	ValueOutput
+E1VlATim	0	4194304	Value	ValueOutput
+E1VlDTim	0	4194304	Value	ValueOutput
+E1VlRTim	0	4194304	Value	ValueOutput
+E1RVel	0	4194304	Value	ValueOutput
+E1KeyTim	0	4194304	Value	ValueOutput
+E1Curve	0	4194304	Value	ValueOutput
+E1Attack	0	4194304	Value	ValueOutput
+E1Decay	0	4194304	Value	ValueOutput
+E1Sustai	0	4194304	Value	ValueOutput
+E1Releas	0	4194304	Value	ValueOutput
+Rsrvd04	0	4194304	Value	ValueOutput
+Rsrvd05	0	4194304	Value	ValueOutput
+E2VelLev	0	4194304	Value	ValueOutput
+E2VlATim	0	4194304	Value	ValueOutput
+E2VlDTim	0	4194304	Value	ValueOutput
+E2VlRTim	0	4194304	Value	ValueOutput
+E2RVel	0	4194304	Value	ValueOutput
+E2KeyTim	0	4194304	Value	ValueOutput
+E2Curve	0	4194304	Value	ValueOutput
+E2Attack	0	4194304	Value	ValueOutput
+E2Decay	0	4194304	Value	ValueOutput
+E2Sustai	0	4194304	Value	ValueOutput
+E2Releas	0	4194304	Value	ValueOutput
+Rsrvd06	0	4194304	Value	ValueOutput
+Rsrvd07	0	4194304	Value	ValueOutput
+E3VelLev	0	4194304	Value	ValueOutput
+E3VlATim	0	4194304	Value	ValueOutput
+E3VlDTim	0	4194304	Value	ValueOutput
+E3VlRTim	0	4194304	Value	ValueOutput
+E3RVel	0	4194304	Value	ValueOutput
+E3KeyTim	0	4194304	Value	ValueOutput
+E3Curve	0	4194304	Value	ValueOutput
+E3Attack	0	4194304	Value	ValueOutput
+E3Decay	0	4194304	Value	ValueOutput
+E3Sustai	0	4194304	Value	ValueOutput
+E3Releas	0	4194304	Value	ValueOutput
+Rsrvd08	0	4194304	Value	ValueOutput
+Rsrvd09	0	4194304	Value	ValueOutput
+O1Octave	0	4194304	Value	ValueOutput
+O1Semito	0	4194304	Value	ValueOutput
+O1Fine	0	4194304	Value	ValueOutput
+O1KBTrak	0	4194304	Value	ValueOutput
+O1WNoise	0	4194304	Value	ValueOutput
+O1Wave	0	4194304	Value	ValueOutput
+O1Inv	0	4194304	Value	ValueOutput
+O1PW	0	4194304	Value	ValueOutput
+O1Dest	0	4194304	Value	ValueOutput
+O1ALevel	0	4194304	Value	ValueOutput
+O1DM/WFM	0	4194304	Value	ValueOutput
+O1DMSrc	0	4194304	Value	ValueOutput
+O1DMAmt	0	4194304	Value	ValueOutput
+O1PWMSrc	0	4194304	Value	ValueOutput
+O1PWMAmt	0	4194304	Value	ValueOutput
+O1FMSrc	0	4194304	Value	ValueOutput
+O1FMAmt	0	4194304	Value	ValueOutput
+O1AMSrc	0	4194304	Value	ValueOutput
+O1AMAmt	0	4194304	Value	ValueOutput
+O1Phase	0	4194304	Value	ValueOutput
+O1Retrig	0	4194304	Value	ValueOutput
+O2Octave	0	4194304	Value	ValueOutput
+O2Semito	0	4194304	Value	ValueOutput
+O2Fine	0	4194304	Value	ValueOutput
+O2KBTrak	0	4194304	Value	ValueOutput
+O2Sync	0	4194304	Value	ValueOutput
+O2Wave	0	4194304	Value	ValueOutput
+O2Inv	0	4194304	Value	ValueOutput
+O2PW	0	4194304	Value	ValueOutput
+O2Dest	0	4194304	Value	ValueOutput
+O2ALevel	0	4194304	Value	ValueOutput
+O2DM/WFM	0	4194304	Value	ValueOutput
+O2DMSrc	0	4194304	Value	ValueOutput
+O2DMAmt	0	4194304	Value	ValueOutput
+O2PWMSrc	0	4194304	Value	ValueOutput
+O2PWMAmt	0	4194304	Value	ValueOutput
+O2FMSrc	0	4194304	Value	ValueOutput
+O2FMAmt	0	4194304	Value	ValueOutput
+O2AMSrc	0	4194304	Value	ValueOutput
+O2AMAmt	0	4194304	Value	ValueOutput
+O2Phase	0	4194304	Value	ValueOutput
+O2Retrig	0	4194304	Value	ValueOutput
+O3Octave	0	4194304	Value	ValueOutput
+O3Semito	0	4194304	Value	ValueOutput
+O3Fine	0	4194304	Value	ValueOutput
+O3KBTrak	0	4194304	Value	ValueOutput
+O3Sync	0	4194304	Value	ValueOutput
+O3Wave	0	4194304	Value	ValueOutput
+O3Inv	0	4194304	Value	ValueOutput
+O3PW	0	4194304	Value	ValueOutput
+O3Dest	0	4194304	Value	ValueOutput
+O3ALevel	0	4194304	Value	ValueOutput
+O3DM/WFM	0	4194304	Value	ValueOutput
+O3DMSrc	0	4194304	Value	ValueOutput
+O3DMAmt	0	4194304	Value	ValueOutput
+O3PWMSrc	0	4194304	Value	ValueOutput
+O3PWMAmt	0	4194304	Value	ValueOutput
+O3FMSrc	0	4194304	Value	ValueOutput
+O3FMAmt	0	4194304	Value	ValueOutput
+O3AMSrc	0	4194304	Value	ValueOutput
+O3AMAmt	0	4194304	Value	ValueOutput
+O3Phase	0	4194304	Value	ValueOutput
+O3Retrig	0	4194304	Value	ValueOutput
+F1Cutoff	0	4194304	Value	ValueOutput
+F1Reso	0	4194304	Value	ValueOutput
+F1KBTrak	0	4194304	Value	ValueOutput
+F1Dest	0	4194304	Value	ValueOutput
+F1CFMSrc	0	4194304	Value	ValueOutput
+F1CFMAmt	0	4194304	Value	ValueOutput
+F1CFM/RM	0	4194304	Value	ValueOutput
+F1CRMSrc	0	4194304	Value	ValueOutput
+F1CRMAmt	0	4194304	Value	ValueOutput
+F1Stages	0	4194304	Value	ValueOutput
+F1HPF	0	4194304	Value	ValueOutput
+F1Input1	0	4194304	Value	ValueOutput
+F1Input2	0	4194304	Value	ValueOutput
+F1Phase	0	4194304	Value	ValueOutput
+Rsrvd10	0	4194304	Value	ValueOutput
+Rsrvd11	0	4194304	Value	ValueOutput
+F2Cutoff	0	4194304	Value	ValueOutput
+F2Reso	0	4194304	Value	ValueOutput
+F2KBTrak	0	4194304	Value	ValueOutput
+F2Dest	0	4194304	Value	ValueOutput
+F2CFMSrc	0	4194304	Value	ValueOutput
+F2CFMAmt	0	4194304	Value	ValueOutput
+F2CFM/RM	0	4194304	Value	ValueOutput
+F2CRMSrc	0	4194304	Value	ValueOutput
+F2CRMAmt	0	4194304	Value	ValueOutput
+F2Stages	0	4194304	Value	ValueOutput
+F2HPF	0	4194304	Value	ValueOutput
+F2Input1	0	4194304	Value	ValueOutput
+F2Input2	0	4194304	Value	ValueOutput
+F2Phase	0	4194304	Value	ValueOutput
+Rsrvd12	0	4194304	Value	ValueOutput
+Rsrvd13	0	4194304	Value	ValueOutput
+L1Delay	0	4194304	Value	ValueOutput
+L1Phase	0	4194304	Value	ValueOutput
+L1Retrig	0	4194304	Value	ValueOutput
+L1Wave	0	4194304	Value	ValueOutput
+L1Sync	0	4194304	Value	ValueOutput
+L1Wheel	0	4194304	Value	ValueOutput
+L1Rate	0	4194304	Value	ValueOutput
+L1Range	0	4194304	Value	ValueOutput
+Rsrvd14	0	4194304	Value	ValueOutput
+Rsrvd15	0	4194304	Value	ValueOutput
+L2Delay	0	4194304	Value	ValueOutput
+L2Phase	0	4194304	Value	ValueOutput
+L2Retrig	0	4194304	Value	ValueOutput
+L2Wave	0	4194304	Value	ValueOutput
+L2Sync	0	4194304	Value	ValueOutput
+L2Wheel	0	4194304	Value	ValueOutput
+L2Rate	0	4194304	Value	ValueOutput
+L2Range	0	4194304	Value	ValueOutput
+Rsrvd16	0	4194304	Value	ValueOutput
+Rsrvd17	0	4194304	Value	ValueOutput
+A1Src	0	4194304	Value	ValueOutput
+A1Gain	0	4194304	Value	ValueOutput
+A1Pan	0	4194304	Value	ValueOutput
+A1PMSrc	0	4194304	Value	ValueOutput
+A1PMAmt	0	4194304	Value	ValueOutput
+A1Click	0	4194304	Value	ValueOutput
+A1PM/AM	0	4194304	Value	ValueOutput
+A2Src	0	4194304	Value	ValueOutput
+A2Gain	0	4194304	Value	ValueOutput
+A2Pan	0	4194304	Value	ValueOutput
+A2PMSrc	0	4194304	Value	ValueOutput
+A2PMAmt	0	4194304	Value	ValueOutput
+A2Click	0	4194304	Value	ValueOutput
+A2PM/AM	0	4194304	Value	ValueOutput
+M1Src1	0	4194304	Value	ValueOutput
+M1Amt1	0	4194304	Value	ValueOutput
+M1Func1	0	4194304	Value	ValueOutput
+M1Src2	0	4194304	Value	ValueOutput
+M1Amt2	0	4194304	Value	ValueOutput
+M1Func2	0	4194304	Value	ValueOutput
+M1Src3	0	4194304	Value	ValueOutput
+M1Amt3	0	4194304	Value	ValueOutput
+M1Func3	0	4194304	Value	ValueOutput
+M1Src4	0	4194304	Value	ValueOutput
+M1Amt4	0	4194304	Value	ValueOutput
+M1SHSync	0	4194304	Value	ValueOutput
+M1SHOn	0	4194304	Value	ValueOutput
+M1SHRate	0	4194304	Value	ValueOutput
+M1Lag	0	4194304	Value	ValueOutput
+M1Rect	0	4194304	Value	ValueOutput
+Rsrvd19	0	4194304	Value	ValueOutput
+M2Src1	0	4194304	Value	ValueOutput
+M2Amt1	0	4194304	Value	ValueOutput
+M2Func1	0	4194304	Value	ValueOutput
+M2Src2	0	4194304	Value	ValueOutput
+M2Amt2	0	4194304	Value	ValueOutput
+M2Func2	0	4194304	Value	ValueOutput
+M2Src3	0	4194304	Value	ValueOutput
+M2Amt3	0	4194304	Value	ValueOutput
+M2Func3	0	4194304	Value	ValueOutput
+M2Src4	0	4194304	Value	ValueOutput
+M2Amt4	0	4194304	Value	ValueOutput
+M2SHSync	0	4194304	Value	ValueOutput
+M2SHOn	0	4194304	Value	ValueOutput
+M2SHRate	0	4194304	Value	ValueOutput
+M2Lag	0	4194304	Value	ValueOutput
+M2Rect	0	4194304	Value	ValueOutput
+Rsrvd21	0	4194304	Value	ValueOutput
+O1FM/PM	0	4194304	Value	ValueOutput
+O2FM/PM	0	4194304	Value	ValueOutput
+O3FM/PM	0	4194304	Value	ValueOutput
+Hold	0	4194304	Value	ValueOutput
+GangCF	0	4194304	Value	ValueOutput
+GangReso	0	4194304	Value	ValueOutput
+Drift	0	4194304	Value	ValueOutput
+Sat	0	4194304	Value	ValueOutput
+DC Cut	0	4194304	Value	ValueOutput
+Anti	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

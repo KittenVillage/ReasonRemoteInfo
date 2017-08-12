@@ -1,0 +1,152 @@
+Scope
+Manufacturer	Model
+Overloud	vst.BVB2.BREVERB 2-64
+Note: Will match scope definitions for vst.BVB2.BREVERB 2-64 or vst.BVB2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+MASTER:Dry Level	0	4194304	Value	ValueOutput
+MASTER:Wet Level	0	4194304	Value	ValueOutput
+Fader 1	0	4194304	Value	ValueOutput
+Fader 2	0	4194304	Value	ValueOutput
+Fader 3	0	4194304	Value	ValueOutput
+Fader 4	0	4194304	Value	ValueOutput
+Fader 5	0	4194304	Value	ValueOutput
+Fader 6	0	4194304	Value	ValueOutput
+MASTER:Dry L Pan	0	4194304	Value	ValueOutput
+MASTER:Dry R Pan	0	4194304	Value	ValueOutput
+MASTER:Wet L Pan	0	4194304	Value	ValueOutput
+MASTER:Wet R Pan	0	4194304	Value	ValueOutput
+GATE:Threshold	0	4194304	Value	ValueOutput
+GATE:Attack Time	0	4194304	Value	ValueOutput
+GATE:Hold Time	0	4194304	Value	ValueOutput
+GATE:Release Tim	0	4194304	Value	ValueOutput
+GATE:Slope	0	4194304	Value	ValueOutput
+EQ:EQ1 Gain	0	4194304	Value	ValueOutput
+EQ:EQ1 Freq	0	4194304	Value	ValueOutput
+EQ:EQ1 Q	0	4194304	Value	ValueOutput
+EQ:EQ2 Gain	0	4194304	Value	ValueOutput
+EQ:EQ2 Freq	0	4194304	Value	ValueOutput
+EQ:EQ2 Q	0	4194304	Value	ValueOutput
+HALL:Time	0	4194304	Value	ValueOutput
+HALL:Size	0	4194304	Value	ValueOutput
+HALL:Diffusion	0	4194304	Value	ValueOutput
+HALL:Shape	0	4194304	Value	ValueOutput
+HALL:Spread	0	4194304	Value	ValueOutput
+HALL:Predelay	0	4194304	Value	ValueOutput
+HALL:Regen L	0	4194304	Value	ValueOutput
+HALL:Regen R	0	4194304	Value	ValueOutput
+HALL:Motion	0	4194304	Value	ValueOutput
+HALL:Depth	0	4194304	Value	ValueOutput
+HALL:High	0	4194304	Value	ValueOutput
+HALL:High Freq	0	4194304	Value	ValueOutput
+HALL:Damping	0	4194304	Value	ValueOutput
+HALL:Low	0	4194304	Value	ValueOutput
+HALL:Low Freq	0	4194304	Value	ValueOutput
+HALL:Low Cut	0	4194304	Value	ValueOutput
+PLATE:Time	0	4194304	Value	ValueOutput
+PLATE:Size	0	4194304	Value	ValueOutput
+PLATE:Diffusion	0	4194304	Value	ValueOutput
+PLATE:Shape	0	4194304	Value	ValueOutput
+PLATE:Predelay	0	4194304	Value	ValueOutput
+PLATE:Regen	0	4194304	Value	ValueOutput
+PLATE:Motion	0	4194304	Value	ValueOutput
+PLATE:High	0	4194304	Value	ValueOutput
+PLATE:High Freq	0	4194304	Value	ValueOutput
+PLATE:Damping	0	4194304	Value	ValueOutput
+PLATE:Low	0	4194304	Value	ValueOutput
+PLATE:Low Freq	0	4194304	Value	ValueOutput
+ROOM:Time	0	4194304	Value	ValueOutput
+ROOM:Size	0	4194304	Value	ValueOutput
+ROOM:Diffusion	0	4194304	Value	ValueOutput
+ROOM:Decay	0	4194304	Value	ValueOutput
+ROOM:Predelay	0	4194304	Value	ValueOutput
+ROOM:Motion	0	4194304	Value	ValueOutput
+ROOM:Depth	0	4194304	Value	ValueOutput
+ROOM:High	0	4194304	Value	ValueOutput
+ROOM:Damping	0	4194304	Value	ValueOutput
+ROOM:Low	0	4194304	Value	ValueOutput
+INVERSE:Time	0	4194304	Value	ValueOutput
+INVERSE:Diffusio	0	4194304	Value	ValueOutput
+INVERSE:Predelay	0	4194304	Value	ValueOutput
+INVERSE:Motion	0	4194304	Value	ValueOutput
+INVERSE:Depth	0	4194304	Value	ValueOutput
+INVERSE:High	0	4194304	Value	ValueOutput
+INVERSE:Low	0	4194304	Value	ValueOutput
+SPC SMALL:Time	0	4194304	Value	ValueOutput
+SPC SMALL:Reverb	0	4194304	Value	ValueOutput
+SPC SMALL:Predel	0	4194304	Value	ValueOutput
+SPC SMALL:Early 	0	4194304	Value	ValueOutput
+SPC SMALL:Reverb	0	4194304	Value	ValueOutput
+SPC SMALL:Early 	0	4194304	Value	ValueOutput
+SPC SMALL:Early 	0	4194304	Value	ValueOutput
+SPC SMALL:Early 	0	4194304	Value	ValueOutput
+SPC SMALL:Diffus	0	4194304	Value	ValueOutput
+SPC SMALL:Low Cu	0	4194304	Value	ValueOutput
+SPC SMALL:Low Da	0	4194304	Value	ValueOutput
+SPC SMALL:High C	0	4194304	Value	ValueOutput
+SPC SMALL:High S	0	4194304	Value	ValueOutput
+SPC SMALL:Low De	0	4194304	Value	ValueOutput
+SPC SMALL:Low XO	0	4194304	Value	ValueOutput
+SPC SMALL:Low Mi	0	4194304	Value	ValueOutput
+SPC SMALL:Mid XO	0	4194304	Value	ValueOutput
+SPC SMALL:High M	0	4194304	Value	ValueOutput
+SPC SMALL:High X	0	4194304	Value	ValueOutput
+SPC SMALL:High D	0	4194304	Value	ValueOutput
+SPC SMALL:Stereo	0	4194304	Value	ValueOutput
+SPC LARGE:Time	0	4194304	Value	ValueOutput
+SPC LARGE:Reverb	0	4194304	Value	ValueOutput
+SPC LARGE:Predel	0	4194304	Value	ValueOutput
+SPC LARGE:Early 	0	4194304	Value	ValueOutput
+SPC LARGE:Reverb	0	4194304	Value	ValueOutput
+SPC LARGE:Early 	0	4194304	Value	ValueOutput
+SPC LARGE:Early 	0	4194304	Value	ValueOutput
+SPC LARGE:Early 	0	4194304	Value	ValueOutput
+SPC LARGE:Diffus	0	4194304	Value	ValueOutput
+SPC LARGE:Low Cu	0	4194304	Value	ValueOutput
+SPC LARGE:Low Da	0	4194304	Value	ValueOutput
+SPC LARGE:High C	0	4194304	Value	ValueOutput
+SPC LARGE:High S	0	4194304	Value	ValueOutput
+SPC LARGE:Low De	0	4194304	Value	ValueOutput
+SPC LARGE:Low XO	0	4194304	Value	ValueOutput
+SPC LARGE:Low Mi	0	4194304	Value	ValueOutput
+SPC LARGE:Mid XO	0	4194304	Value	ValueOutput
+SPC LARGE:High M	0	4194304	Value	ValueOutput
+SPC LARGE:High X	0	4194304	Value	ValueOutput
+SPC LARGE:High D	0	4194304	Value	ValueOutput
+SPC LARGE:Stereo	0	4194304	Value	ValueOutput
+SOURCE:Time	0	4194304	Value	ValueOutput
+SOURCE:Predelay	0	4194304	Value	ValueOutput
+SOURCE:Early Lev	0	4194304	Value	ValueOutput
+SOURCE:Reverb Le	0	4194304	Value	ValueOutput
+SOURCE:Src1 Radi	0	4194304	Value	ValueOutput
+SOURCE:Src1 Leve	0	4194304	Value	ValueOutput
+SOURCE:Src2 Radi	0	4194304	Value	ValueOutput
+SOURCE:Src2 Leve	0	4194304	Value	ValueOutput
+SOURCE:Early Low	0	4194304	Value	ValueOutput
+SOURCE:Early Hig	0	4194304	Value	ValueOutput
+SOURCE:Early Sta	0	4194304	Value	ValueOutput
+SOURCE:Early Sto	0	4194304	Value	ValueOutput
+SOURCE:Early Dec	0	4194304	Value	ValueOutput
+SOURCE:Size	0	4194304	Value	ValueOutput
+SOURCE:Diffusion	0	4194304	Value	ValueOutput
+SOURCE:Low Cut	0	4194304	Value	ValueOutput
+SOURCE:Low Damp	0	4194304	Value	ValueOutput
+SOURCE:High Cut	0	4194304	Value	ValueOutput
+SOURCE:High Soft	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

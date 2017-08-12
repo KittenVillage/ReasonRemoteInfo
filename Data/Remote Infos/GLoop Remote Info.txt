@@ -1,0 +1,51 @@
+Scope
+Manufacturer	Model
+GVST	vst.gyBh.GLoop
+Note: Will match scope definitions for vst.gyBh.GLoop or vst.gyBh
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+PlayStop	0	4194304	Value	ValueOutput
+RecOvdb	0	4194304	Value	ValueOutput
+ClrLast	0	4194304	Value	ValueOutput
+ClrAll	0	4194304	Value	ValueOutput
+RecllOne	0	4194304	Value	ValueOutput
+RecllAll	0	4194304	Value	ValueOutput
+Reset	0	4194304	Value	ValueOutput
+ThruLvl	0	4194304	Value	ValueOutput
+LoopLvl	0	4194304	Value	ValueOutput
+Master	0	4194304	Value	ValueOutput
+LoopSolo	0	4194304	Value	ValueOutput
+HostSync	0	4194304	Value	ValueOutput
+LoopLen	0	4194304	Value	ValueOutput
+BeatSnap	0	4194304	Value	ValueOutput
+AutoPlay	0	4194304	Value	ValueOutput
+AutoOvdb	0	4194304	Value	ValueOutput
+CCTrig	0	4194304	Value	ValueOutput
+NoteTrig	0	4194304	Value	ValueOutput
+TrgPlay	0	4194304	Value	ValueOutput
+TrgRec	0	4194304	Value	ValueOutput
+TrgClLst	0	4194304	Value	ValueOutput
+TrgClAll	0	4194304	Value	ValueOutput
+TrgRcOne	0	4194304	Value	ValueOutput
+TrgRcAll	0	4194304	Value	ValueOutput
+TrgReset	0	4194304	Value	ValueOutput
+WaitSgnl	0	4194304	Value	ValueOutput
+SgnlThrs	0	4194304	Value	ValueOutput
+UseDoubl	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,61 @@
+Scope
+Manufacturer	Model
+ToneCarver	vst.tcHr.HarmonyRotator64
+Note: Will match scope definitions for vst.tcHr.HarmonyRotator64 or vst.tcHr
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+MainMute	0	4194304	Value	ValueOutput
+MainChan	0	4194304	Value	ValueOutput
+MnDelay	0	4194304	Value	ValueOutput
+ParMute	0	4194304	Value	ValueOutput
+ParChan	0	4194304	Value	ValueOutput
+ParVel	0	4194304	Value	ValueOutput
+ParMute	0	4194304	Value	ValueOutput
+pDelay	0	4194304	Value	ValueOutput
+v1Mute	0	4194304	Value	ValueOutput
+v1Chan	0	4194304	Value	ValueOutput
+v1Vel	0	4194304	Value	ValueOutput
+v1Int1	0	4194304	Value	ValueOutput
+v1Int2	0	4194304	Value	ValueOutput
+v1Int3	0	4194304	Value	ValueOutput
+v1Int4	0	4194304	Value	ValueOutput
+v1Mute1	0	4194304	Value	ValueOutput
+v1Mute2	0	4194304	Value	ValueOutput
+v1Mute3	0	4194304	Value	ValueOutput
+v1Mute4	0	4194304	Value	ValueOutput
+v1algo	0	4194304	Value	ValueOutput
+v1Delay	0	4194304	Value	ValueOutput
+v2Mute	0	4194304	Value	ValueOutput
+v2Chan	0	4194304	Value	ValueOutput
+v2Vel	0	4194304	Value	ValueOutput
+v2Int1	0	4194304	Value	ValueOutput
+v2Int2	0	4194304	Value	ValueOutput
+v2Int3	0	4194304	Value	ValueOutput
+v2Int4	0	4194304	Value	ValueOutput
+v2Mute1	0	4194304	Value	ValueOutput
+v2Mute2	0	4194304	Value	ValueOutput
+v2Mute3	0	4194304	Value	ValueOutput
+v2Mute4	0	4194304	Value	ValueOutput
+v2algo	0	4194304	Value	ValueOutput
+v2Delay	0	4194304	Value	ValueOutput
+Snap	0	4194304	Value	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+Tonic	0	4194304	Value	ValueOutput
+Human	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

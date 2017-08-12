@@ -1,0 +1,45 @@
+Scope
+Manufacturer	Model
+Kuassa, Inc	vst.Kev5.EVE-MP5
+Note: Will match scope definitions for vst.Kev5.EVE-MP5 or vst.Kev5
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+bypass	0	4194304	Value	ValueOutput
+inputVol	0	4194304	Value	ValueOutput
+saturationOn	0	4194304	Value	ValueOutput
+saturationAutoL	0	4194304	Value	ValueOutput
+meqOn	0	4194304	Value	ValueOutput
+meqLowFreq	0	4194304	Value	ValueOutput
+meqLowPeak	0	4194304	Value	ValueOutput
+meqMidFreq	0	4194304	Value	ValueOutput
+meqMidDip	0	4194304	Value	ValueOutput
+meqHighFreq	0	4194304	Value	ValueOutput
+meqHighPeak	0	4194304	Value	ValueOutput
+eqpOn	0	4194304	Value	ValueOutput
+eqpLowFreq	0	4194304	Value	ValueOutput
+eqpLowBoost	0	4194304	Value	ValueOutput
+eqpLowAtten	0	4194304	Value	ValueOutput
+eqpHighBoostFre	0	4194304	Value	ValueOutput
+eqpHighBoost	0	4194304	Value	ValueOutput
+eqpHighBoostBan	0	4194304	Value	ValueOutput
+eqpHighAttenFre	0	4194304	Value	ValueOutput
+eqpHighAtten	0	4194304	Value	ValueOutput
+outputVol	0	4194304	Value	ValueOutput
+phaseOn	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

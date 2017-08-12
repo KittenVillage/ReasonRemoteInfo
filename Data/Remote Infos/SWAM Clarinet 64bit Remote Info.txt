@@ -1,0 +1,110 @@
+Scope
+Manufacturer	Model
+SWAM	vst.ClaS.SWAM Clarinet 64bit
+Note: Will match scope definitions for vst.ClaS.SWAM Clarinet 64bit or vst.ClaS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Pan Pot	0	4194304	Value	ValueOutput
+Master Tune Hz	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Reverb Time	0	4194304	Value	ValueOutput
+Transpose	0	4194304	Value	ValueOutput
+Pitch Bend Up	0	4194304	Value	ValueOutput
+Pitch Bend Down	0	4194304	Value	ValueOutput
+Harm Struct	0	4194304	Value	ValueOutput
+Falldown	0	4194304	Value	ValueOutput
+Overblow Switch	0	4194304	Value	ValueOutput
+Sub-Harm Intens	0	4194304	Value	ValueOutput
+Growl Intensity	0	4194304	Value	ValueOutput
+Flutter Intensi	0	4194304	Value	ValueOutput
+IR selected	0	4194304	Value	ValueOutput
+Random Dynamic	0	4194304	Value	ValueOutput
+Dynamic Pitch	0	4194304	Value	ValueOutput
+Attack Type	0	4194304	Value	ValueOutput
+Release Time	0	4194304	Value	ValueOutput
+Formant	0	4194304	Value	ValueOutput
+Compressor	0	4194304	Value	ValueOutput
+Modal Resonance	0	4194304	Value	ValueOutput
+Breath Noise	0	4194304	Value	ValueOutput
+Keys Noise	0	4194304	Value	ValueOutput
+Harm. Trans Int	0	4194304	Value	ValueOutput
+Portamento Ctrl	0	4194304	Value	ValueOutput
+Ramp Time	0	4194304	Value	ValueOutput
+Max Port Time	0	4194304	Value	ValueOutput
+Vel Port Gain	0	4194304	Value	ValueOutput
+Auto Expr. Port	0	4194304	Value	ValueOutput
+Vibr Rate	0	4194304	Value	ValueOutput
+Vibrato Rate Ra	0	4194304	Value	ValueOutput
+Overblow Thresh	0	4194304	Value	ValueOutput
+Expr. Pedal Typ	0	4194304	Value	ValueOutput
+Pan Pot Type	0	4194304	Value	ValueOutput
+Chrom Legato ON	0	4194304	Value	ValueOutput
+Vel-Expr Bias	0	4194304	Value	ValueOutput
+Expression CC	0	4194304	Value	ValueOutput
+Vibrato Depth C	0	4194304	Value	ValueOutput
+Vibrato Rate CC	0	4194304	Value	ValueOutput
+Portamento Time	0	4194304	Value	ValueOutput
+Harmonic Struct	0	4194304	Value	ValueOutput
+Sub Harmonics C	0	4194304	Value	ValueOutput
+Growl CC	0	4194304	Value	ValueOutput
+Flutter Tongue 	0	4194304	Value	ValueOutput
+Breath Noise CC	0	4194304	Value	ValueOutput
+Keys Noise CC	0	4194304	Value	ValueOutput
+Overblow CC	0	4194304	Value	ValueOutput
+Falldown CC	0	4194304	Value	ValueOutput
+Dynamic Pitch C	0	4194304	Value	ValueOutput
+Expr. CC AutoLe	0	4194304	Value	ValueOutput
+KS Oct.Transp.	0	4194304	Value	ValueOutput
+MicroTuning CC	0	4194304	Value	ValueOutput
+Microtune C	0	4194304	Value	ValueOutput
+Microtune C#	0	4194304	Value	ValueOutput
+Microtune D	0	4194304	Value	ValueOutput
+Microtune D#	0	4194304	Value	ValueOutput
+Microtune E	0	4194304	Value	ValueOutput
+Microtune F	0	4194304	Value	ValueOutput
+Microtune F#	0	4194304	Value	ValueOutput
+Microtune G	0	4194304	Value	ValueOutput
+Microtune G#	0	4194304	Value	ValueOutput
+Microtune A	0	4194304	Value	ValueOutput
+Microtune A#	0	4194304	Value	ValueOutput
+Microtune B	0	4194304	Value	ValueOutput
+Temperam	0	4194304	Value	ValueOutput
+AttackStart	0	4194304	Value	ValueOutput
+Microtune C	0	4194304	Value	ValueOutput
+Microtune C#	0	4194304	Value	ValueOutput
+Microtune D	0	4194304	Value	ValueOutput
+Microtune D#	0	4194304	Value	ValueOutput
+Microtune E	0	4194304	Value	ValueOutput
+Microtune F	0	4194304	Value	ValueOutput
+Microtune F#	0	4194304	Value	ValueOutput
+Microtune G	0	4194304	Value	ValueOutput
+Microtune G#	0	4194304	Value	ValueOutput
+Microtune A	0	4194304	Value	ValueOutput
+Microtune A#	0	4194304	Value	ValueOutput
+Microtune B	0	4194304	Value	ValueOutput
+Main Volume CC	0	4194304	Value	ValueOutput
+Pan CC	0	4194304	Value	ValueOutput
+Reverb Mix CC	0	4194304	Value	ValueOutput
+BC Mode	0	4194304	Value	ValueOutput
+BC AttakSens	0	4194304	Value	ValueOutput
+Formant CC	0	4194304	Value	ValueOutput
+Legato Mode	0	4194304	Value	ValueOutput
+K.S. MIDI CH	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

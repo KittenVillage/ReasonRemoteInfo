@@ -1,0 +1,823 @@
+Scope
+Manufacturer	Model
+Rob Papen	vst.RpDL.RP-Delay x64
+Note: Will match scope definitions for vst.RpDL.RP-Delay x64 or vst.RpDL
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Global Length	0	4194304	Value	ValueOutput
+Global Feedback	0	4194304	Value	ValueOutput
+Trigger Volume Sens.	0	4194304	Value	ValueOutput
+EQ Low	0	4194304	Value	ValueOutput
+EQ Mid	0	4194304	Value	ValueOutput
+EQ High	0	4194304	Value	ValueOutput
+Delay 1A Volume	0	4194304	Value	ValueOutput
+Delay 1B Volume	0	4194304	Value	ValueOutput
+Delay 1C Volume	0	4194304	Value	ValueOutput
+Delay 2A Volume	0	4194304	Value	ValueOutput
+Delay 2B Volume	0	4194304	Value	ValueOutput
+Delay 2C Volume	0	4194304	Value	ValueOutput
+Delay 1A Mix	0	4194304	Value	ValueOutput
+Delay 1B Mix	0	4194304	Value	ValueOutput
+Delay 1C Mix	0	4194304	Value	ValueOutput
+Delay 2A Mix	0	4194304	Value	ValueOutput
+Delay 2B Mix	0	4194304	Value	ValueOutput
+Delay 2C Mix	0	4194304	Value	ValueOutput
+Delay 1A Pan	0	4194304	Value	ValueOutput
+Delay 1B Pan	0	4194304	Value	ValueOutput
+Delay 1C Pan	0	4194304	Value	ValueOutput
+Delay 2A Pan	0	4194304	Value	ValueOutput
+Delay 2B Pan	0	4194304	Value	ValueOutput
+Delay 2C Pan	0	4194304	Value	ValueOutput
+Delay 1A Left Len	0	4194304	Value	ValueOutput
+Delay 1B Len	0	4194304	Value	ValueOutput
+Delay 1C Len	0	4194304	Value	ValueOutput
+Delay 2A Left Len	0	4194304	Value	ValueOutput
+Delay 2B Len	0	4194304	Value	ValueOutput
+Delay 2C Len	0	4194304	Value	ValueOutput
+Delay 1A Right Len	0	4194304	Value	ValueOutput
+Delay 1B Right Len	0	4194304	Value	ValueOutput
+Delay 1C Right Len	0	4194304	Value	ValueOutput
+Delay 2A Right Len	0	4194304	Value	ValueOutput
+Delay 2B Right Len	0	4194304	Value	ValueOutput
+Delay 2C Right Len	0	4194304	Value	ValueOutput
+Delay 1A Feed	0	4194304	Value	ValueOutput
+Delay 1B Feed	0	4194304	Value	ValueOutput
+Delay 1C Feed	0	4194304	Value	ValueOutput
+Delay 2A Feed	0	4194304	Value	ValueOutput
+Delay 2B Feed	0	4194304	Value	ValueOutput
+Delay 2C Feed	0	4194304	Value	ValueOutput
+Delay 1A Cross-Feed	0	4194304	Value	ValueOutput
+Delay 1B Cross-Feed	0	4194304	Value	ValueOutput
+Delay 1C Cross-Feed	0	4194304	Value	ValueOutput
+Delay 2A Cross-Feed	0	4194304	Value	ValueOutput
+Delay 2B Cross-Feed	0	4194304	Value	ValueOutput
+Delay 2C Cross-Feed	0	4194304	Value	ValueOutput
+Delay 1A LP Freq	0	4194304	Value	ValueOutput
+Delay 1B LP Freq	0	4194304	Value	ValueOutput
+Delay 1C LP Freq	0	4194304	Value	ValueOutput
+Delay 2A LP Freq	0	4194304	Value	ValueOutput
+Delay 2B LP Freq	0	4194304	Value	ValueOutput
+Delay 2C LP Freq	0	4194304	Value	ValueOutput
+Delay 1A HP Freq	0	4194304	Value	ValueOutput
+Delay 1B HP Freq	0	4194304	Value	ValueOutput
+Delay 1C HP Freq	0	4194304	Value	ValueOutput
+Delay 2A HP Freq	0	4194304	Value	ValueOutput
+Delay 2B HP Freq	0	4194304	Value	ValueOutput
+Delay 2C HP Freq	0	4194304	Value	ValueOutput
+Delay 1A Filter Freq	0	4194304	Value	ValueOutput
+Delay 1B Filter Freq	0	4194304	Value	ValueOutput
+Delay 1C Filter Freq	0	4194304	Value	ValueOutput
+Delay 2A Filter Freq	0	4194304	Value	ValueOutput
+Delay 2B Filter Freq	0	4194304	Value	ValueOutput
+Delay 2C Filter Freq	0	4194304	Value	ValueOutput
+Delay 1A Filter Q	0	4194304	Value	ValueOutput
+Delay 1B Filter Q	0	4194304	Value	ValueOutput
+Delay 1C Filter Q	0	4194304	Value	ValueOutput
+Delay 2A Filter Q	0	4194304	Value	ValueOutput
+Delay 2B Filter Q	0	4194304	Value	ValueOutput
+Delay 2C Filter Q	0	4194304	Value	ValueOutput
+Delay 1A Distort	0	4194304	Value	ValueOutput
+Delay 1B Distort	0	4194304	Value	ValueOutput
+Delay 1C Distort	0	4194304	Value	ValueOutput
+Delay 2A Distort	0	4194304	Value	ValueOutput
+Delay 2B Distort	0	4194304	Value	ValueOutput
+Delay 2C Distort	0	4194304	Value	ValueOutput
+Delay 1A Limiter	0	4194304	Value	ValueOutput
+Delay 1B Limiter	0	4194304	Value	ValueOutput
+Delay 1C Limiter	0	4194304	Value	ValueOutput
+Delay 2A Limiter	0	4194304	Value	ValueOutput
+Delay 2B Limiter	0	4194304	Value	ValueOutput
+Delay 2C Limiter	0	4194304	Value	ValueOutput
+Reverser 1 Volume	0	4194304	Value	ValueOutput
+Reverser 2 Volume	0	4194304	Value	ValueOutput
+Reverser 1 Mix	0	4194304	Value	ValueOutput
+Reverser 2 Mix	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+Reverser 1 Pan	0	4194304	Value	ValueOutput
+Reverser 2 Pan	0	4194304	Value	ValueOutput
+Reverser 1 Left Len	0	4194304	Value	ValueOutput
+Reverser 2 Len	0	4194304	Value	ValueOutput
+Reverser 1 Right Len	0	4194304	Value	ValueOutput
+Reverser 2 Right Len	0	4194304	Value	ValueOutput
+Reverse 1	0	4194304	Value	ValueOutput
+Reverser 2	0	4194304	Value	ValueOutput
+Reverser 1 Position	0	4194304	Value	ValueOutput
+Reverser 2 Position	0	4194304	Value	ValueOutput
+Reverser 1 Stereo	0	4194304	Value	ValueOutput
+Reverser 2 Stereo	0	4194304	Value	ValueOutput
+Reverser 1 Trigger	0	4194304	Value	ValueOutput
+Reverser 2 Trigger	0	4194304	Value	ValueOutput
+Reverser 1 Sync	0	4194304	Value	ValueOutput
+Reverser 2 Sync	0	4194304	Value	ValueOutput
+Reverser 1 Filter Type	0	4194304	Value	ValueOutput
+Reverser 2 Filter Type	0	4194304	Value	ValueOutput
+Reverser 1 Filter Freq	0	4194304	Value	ValueOutput
+Reverser 2 Filter Freq	0	4194304	Value	ValueOutput
+Reverser 1 Filter Q	0	4194304	Value	ValueOutput
+Reverser 2 Filter Q	0	4194304	Value	ValueOutput
+Reverser 1 Distort Type	0	4194304	Value	ValueOutput
+Reverser 2 Distort Type	0	4194304	Value	ValueOutput
+Reverser 1 Distortion	0	4194304	Value	ValueOutput
+Reverser 2 Distortion	0	4194304	Value	ValueOutput
+Delay 1	0	4194304	Value	ValueOutput
+Delay 2	0	4194304	Value	ValueOutput
+Reverser 1 Dist. Vol.	0	4194304	Value	ValueOutput
+Reverser 2 Dist. Vol.	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+Envelope 1 Trigger	0	4194304	Value	ValueOutput
+Envelope 2 Trigger	0	4194304	Value	ValueOutput
+Envelope 3 Trigger	0	4194304	Value	ValueOutput
+Envelope 4 Trigger	0	4194304	Value	ValueOutput
+Envelope 1 Attack	0	4194304	Value	ValueOutput
+Envelope 2 Attack	0	4194304	Value	ValueOutput
+Envelope 3 Attack	0	4194304	Value	ValueOutput
+Envelope 4 Attack	0	4194304	Value	ValueOutput
+Envelope 1 Hold	0	4194304	Value	ValueOutput
+Envelope 2 Hold	0	4194304	Value	ValueOutput
+Envelope 3 Hold	0	4194304	Value	ValueOutput
+Envelope 4 Hold	0	4194304	Value	ValueOutput
+Envelope 1 Decay	0	4194304	Value	ValueOutput
+Envelope 2 Decay	0	4194304	Value	ValueOutput
+Envelope 3 Decay	0	4194304	Value	ValueOutput
+Envelope 4 Decay	0	4194304	Value	ValueOutput
+Envelope 1 Destination	0	4194304	Value	ValueOutput
+Envelope 2 Destination	0	4194304	Value	ValueOutput
+Envelope 3 Destination	0	4194304	Value	ValueOutput
+Envelope 4 Destination	0	4194304	Value	ValueOutput
+Envelope 1 Amount	0	4194304	Value	ValueOutput
+Envelope 2 Amount	0	4194304	Value	ValueOutput
+Envelope 3 Amount	0	4194304	Value	ValueOutput
+Envelope 4 Amount	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+Lfo 1 Trigger	0	4194304	Value	ValueOutput
+Lfo 2 Trigger	0	4194304	Value	ValueOutput
+Lfo 3 Trigger	0	4194304	Value	ValueOutput
+Lfo 4 Trigger	0	4194304	Value	ValueOutput
+Lfo 1 Sync	0	4194304	Value	ValueOutput
+Lfo 2 Sync	0	4194304	Value	ValueOutput
+Lfo 3 Sync	0	4194304	Value	ValueOutput
+Lfo 4 Sync	0	4194304	Value	ValueOutput
+Lfo 1 Wave	0	4194304	Value	ValueOutput
+Lfo 2 Wave	0	4194304	Value	ValueOutput
+Lfo 3 Wave	0	4194304	Value	ValueOutput
+Lfo 4 Wave	0	4194304	Value	ValueOutput
+Lfo 1 Speed	0	4194304	Value	ValueOutput
+Lfo 2 Speed	0	4194304	Value	ValueOutput
+Lfo 3 Speed	0	4194304	Value	ValueOutput
+Lfo 4 Speed	0	4194304	Value	ValueOutput
+Lfo 1 Hum	0	4194304	Value	ValueOutput
+Lfo 2 Hum	0	4194304	Value	ValueOutput
+Lfo 3 Hum	0	4194304	Value	ValueOutput
+Lfo 4 Hum	0	4194304	Value	ValueOutput
+Lfo 1 Shape	0	4194304	Value	ValueOutput
+Lfo 2 Shape	0	4194304	Value	ValueOutput
+Lfo 3 Shape	0	4194304	Value	ValueOutput
+Lfo 4 Shape	0	4194304	Value	ValueOutput
+Lfo 1 Destination	0	4194304	Value	ValueOutput
+Lfo 2 Destination	0	4194304	Value	ValueOutput
+Lfo 3 Destination	0	4194304	Value	ValueOutput
+Lfo 4 Destination	0	4194304	Value	ValueOutput
+Lfo 1 Amount	0	4194304	Value	ValueOutput
+Lfo 2 Amount	0	4194304	Value	ValueOutput
+Lfo 3 Amount	0	4194304	Value	ValueOutput
+Lfo 4 Amount	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+Mod 1 Source	0	4194304	Value	ValueOutput
+Mod 2 Source	0	4194304	Value	ValueOutput
+Mod 3 Source	0	4194304	Value	ValueOutput
+Mod 4 Source	0	4194304	Value	ValueOutput
+Mod 5 Source	0	4194304	Value	ValueOutput
+Mod 6 Source	0	4194304	Value	ValueOutput
+Mod 7 Source	0	4194304	Value	ValueOutput
+Mod 8 Source	0	4194304	Value	ValueOutput
+Mod 1 Amount	0	4194304	Value	ValueOutput
+Mod 2 Amount	0	4194304	Value	ValueOutput
+Mod 3 Amount	0	4194304	Value	ValueOutput
+Mod 4 Amount	0	4194304	Value	ValueOutput
+Mod 5 Amount	0	4194304	Value	ValueOutput
+Mod 6 Amount	0	4194304	Value	ValueOutput
+Mod 7 Amount	0	4194304	Value	ValueOutput
+Mod 8 Amount	0	4194304	Value	ValueOutput
+Mod 1 Destination	0	4194304	Value	ValueOutput
+Mod 2 Destination	0	4194304	Value	ValueOutput
+Mod 3 Destination	0	4194304	Value	ValueOutput
+Mod 4 Destination	0	4194304	Value	ValueOutput
+Mod 5 Destination	0	4194304	Value	ValueOutput
+Mod 6 Destination	0	4194304	Value	ValueOutput
+Mod 7 Destination	0	4194304	Value	ValueOutput
+Mod 8 Destination	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+Seq 1 Trigger	0	4194304	Value	ValueOutput
+Seq 2 Trigger	0	4194304	Value	ValueOutput
+Seq 3 Trigger	0	4194304	Value	ValueOutput
+Seq 4 Trigger	0	4194304	Value	ValueOutput
+Seq 1 Start	0	4194304	Value	ValueOutput
+Seq 2 Start	0	4194304	Value	ValueOutput
+Seq 3 Start	0	4194304	Value	ValueOutput
+Seq 4 Start	0	4194304	Value	ValueOutput
+Seq 1 End	0	4194304	Value	ValueOutput
+Seq 2 End	0	4194304	Value	ValueOutput
+Seq 3 End	0	4194304	Value	ValueOutput
+Seq 4 End	0	4194304	Value	ValueOutput
+Seq 1 Speed	0	4194304	Value	ValueOutput
+Seq 2 Speed	0	4194304	Value	ValueOutput
+Seq 3 Speed	0	4194304	Value	ValueOutput
+Seq 4 Speed	0	4194304	Value	ValueOutput
+Seq 1 Swing	0	4194304	Value	ValueOutput
+Seq 2 Swing	0	4194304	Value	ValueOutput
+Seq 3 Swing	0	4194304	Value	ValueOutput
+Seq 4 Swing	0	4194304	Value	ValueOutput
+Seq 1 Amount	0	4194304	Value	ValueOutput
+Seq 2 Amount	0	4194304	Value	ValueOutput
+Seq 3 Amount	0	4194304	Value	ValueOutput
+Seq 4 Amount	0	4194304	Value	ValueOutput
+Seq 1 Dest	0	4194304	Value	ValueOutput
+Seq 2 Dest	0	4194304	Value	ValueOutput
+Seq 3 Dest	0	4194304	Value	ValueOutput
+Seq 4 Dest	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+Seq 1 - Step 01	0	4194304	Value	ValueOutput
+Seq 1 - Step 02	0	4194304	Value	ValueOutput
+Seq 1 - Step 03	0	4194304	Value	ValueOutput
+Seq 1 - Step 04	0	4194304	Value	ValueOutput
+Seq 1 - Step 05	0	4194304	Value	ValueOutput
+Seq 1 - Step 06	0	4194304	Value	ValueOutput
+Seq 1 - Step 07	0	4194304	Value	ValueOutput
+Seq 1 - Step 08	0	4194304	Value	ValueOutput
+Seq 1 - Step 09	0	4194304	Value	ValueOutput
+Seq 1 - Step 10	0	4194304	Value	ValueOutput
+Seq 1 - Step 11	0	4194304	Value	ValueOutput
+Seq 1 - Step 12	0	4194304	Value	ValueOutput
+Seq 1 - Step 13	0	4194304	Value	ValueOutput
+Seq 1 - Step 14	0	4194304	Value	ValueOutput
+Seq 1 - Step 15	0	4194304	Value	ValueOutput
+Seq 1 - Step 16	0	4194304	Value	ValueOutput
+Seq 2 - Step 01	0	4194304	Value	ValueOutput
+Seq 2 - Step 02	0	4194304	Value	ValueOutput
+Seq 2 - Step 03	0	4194304	Value	ValueOutput
+Seq 2 - Step 04	0	4194304	Value	ValueOutput
+Seq 2 - Step 05	0	4194304	Value	ValueOutput
+Seq 2 - Step 06	0	4194304	Value	ValueOutput
+Seq 2 - Step 07	0	4194304	Value	ValueOutput
+Seq 2 - Step 08	0	4194304	Value	ValueOutput
+Seq 2 - Step 09	0	4194304	Value	ValueOutput
+Seq 2 - Step 10	0	4194304	Value	ValueOutput
+Seq 2 - Step 11	0	4194304	Value	ValueOutput
+Seq 2 - Step 12	0	4194304	Value	ValueOutput
+Seq 2 - Step 13	0	4194304	Value	ValueOutput
+Seq 2 - Step 14	0	4194304	Value	ValueOutput
+Seq 2 - Step 15	0	4194304	Value	ValueOutput
+Seq 2 - Step 16	0	4194304	Value	ValueOutput
+Seq 3 - Step 01	0	4194304	Value	ValueOutput
+Seq 3 - Step 02	0	4194304	Value	ValueOutput
+Seq 3 - Step 03	0	4194304	Value	ValueOutput
+Seq 3 - Step 04	0	4194304	Value	ValueOutput
+Seq 3 - Step 05	0	4194304	Value	ValueOutput
+Seq 3 - Step 06	0	4194304	Value	ValueOutput
+Seq 3 - Step 07	0	4194304	Value	ValueOutput
+Seq 3 - Step 08	0	4194304	Value	ValueOutput
+Seq 3 - Step 09	0	4194304	Value	ValueOutput
+Seq 3 - Step 10	0	4194304	Value	ValueOutput
+Seq 3 - Step 11	0	4194304	Value	ValueOutput
+Seq 3 - Step 12	0	4194304	Value	ValueOutput
+Seq 3 - Step 13	0	4194304	Value	ValueOutput
+Seq 3 - Step 14	0	4194304	Value	ValueOutput
+Seq 3 - Step 15	0	4194304	Value	ValueOutput
+Seq 3 - Step 16	0	4194304	Value	ValueOutput
+Seq 4 - Step 01	0	4194304	Value	ValueOutput
+Seq 4 - Step 02	0	4194304	Value	ValueOutput
+Seq 4 - Step 03	0	4194304	Value	ValueOutput
+Seq 4 - Step 04	0	4194304	Value	ValueOutput
+Seq 4 - Step 05	0	4194304	Value	ValueOutput
+Seq 4 - Step 06	0	4194304	Value	ValueOutput
+Seq 4 - Step 07	0	4194304	Value	ValueOutput
+Seq 4 - Step 08	0	4194304	Value	ValueOutput
+Seq 4 - Step 09	0	4194304	Value	ValueOutput
+Seq 4 - Step 10	0	4194304	Value	ValueOutput
+Seq 4 - Step 11	0	4194304	Value	ValueOutput
+Seq 4 - Step 12	0	4194304	Value	ValueOutput
+Seq 4 - Step 13	0	4194304	Value	ValueOutput
+Seq 4 - Step 14	0	4194304	Value	ValueOutput
+Seq 4 - Step 15	0	4194304	Value	ValueOutput
+Seq 4 - Step 16	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+Delay 1A	0	4194304	Value	ValueOutput
+Delay 1B	0	4194304	Value	ValueOutput
+Delay 1C	0	4194304	Value	ValueOutput
+Delay 2A	0	4194304	Value	ValueOutput
+Delay 2B	0	4194304	Value	ValueOutput
+Delay 2C	0	4194304	Value	ValueOutput
+Delay 1A Stereo	0	4194304	Value	ValueOutput
+Delay 1B Stereo	0	4194304	Value	ValueOutput
+Delay 1C Stereo	0	4194304	Value	ValueOutput
+Delay 2A Stereo	0	4194304	Value	ValueOutput
+Delay 2B Stereo	0	4194304	Value	ValueOutput
+Delay 2C Stereo	0	4194304	Value	ValueOutput
+Delay 1A Sync	0	4194304	Value	ValueOutput
+Delay 1B Sync	0	4194304	Value	ValueOutput
+Delay 1C Sync	0	4194304	Value	ValueOutput
+Delay 2A Sync	0	4194304	Value	ValueOutput
+Delay 2B Sync	0	4194304	Value	ValueOutput
+Delay 2C Sync	0	4194304	Value	ValueOutput
+Delay 1A Filter Type	0	4194304	Value	ValueOutput
+Delay 1B Filter Type	0	4194304	Value	ValueOutput
+Delay 1C Filter Type	0	4194304	Value	ValueOutput
+Delay 2A Filter Type	0	4194304	Value	ValueOutput
+Delay 2B Filter Type	0	4194304	Value	ValueOutput
+Delay 2C Filter Type	0	4194304	Value	ValueOutput
+Delay 1A Distort Feed	0	4194304	Value	ValueOutput
+Delay 1B Distort Feed	0	4194304	Value	ValueOutput
+Delay 1C Distort Feed	0	4194304	Value	ValueOutput
+Delay 2A Distort Feed	0	4194304	Value	ValueOutput
+Delay 2B Distort Feed	0	4194304	Value	ValueOutput
+Delay 2C Distort Feed	0	4194304	Value	ValueOutput
+Delay 1A Distortion Type	0	4194304	Value	ValueOutput
+Delay 1B Distortion Type	0	4194304	Value	ValueOutput
+Delay 1C Distortion Type	0	4194304	Value	ValueOutput
+Delay 2A Distortion Type	0	4194304	Value	ValueOutput
+Delay 2B Distortion Type	0	4194304	Value	ValueOutput
+Delay 2C Distortion Type	0	4194304	Value	ValueOutput
+Tape Delay 1	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+Tape Delay 2	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+Delay 1A Negative Feed	0	4194304	Value	ValueOutput
+Delay 1B Negative Feed	0	4194304	Value	ValueOutput
+Delay 1C Negative Feed	0	4194304	Value	ValueOutput
+Delay 2A Negative Feed	0	4194304	Value	ValueOutput
+Delay 2B Negative Feed	0	4194304	Value	ValueOutput
+Delay 2C Negative Feed	0	4194304	Value	ValueOutput
+Delay 1A Equal Feed	0	4194304	Value	ValueOutput
+Delay 1B Equal Feed	0	4194304	Value	ValueOutput
+Delay 1C Equal Feed	0	4194304	Value	ValueOutput
+Delay 2A Equal Feed	0	4194304	Value	ValueOutput
+Delay 2B Equal Feed	0	4194304	Value	ValueOutput
+Delay 2C Equal Feed	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+Send Mode	0	4194304	Value	ValueOutput
+Envelope Follower Speed	0	4194304	Value	ValueOutput
+Envelope Follower Boost	0	4194304	Value	ValueOutput
+Global Modulation Amt	0	4194304	Value	ValueOutput
+Modulation Bypass	0	4194304	Value	ValueOutput
+Delay Model	0	4194304	Value	ValueOutput
+Trigger 1 CC	0	4194304	Value	ValueOutput
+Trigger 2 CC	0	4194304	Value	ValueOutput
+Trigger 3 CC	0	4194304	Value	ValueOutput
+Trigger 4 CC	0	4194304	Value	ValueOutput
+EQ	0	4194304	Value	ValueOutput
+Sequencer Syncing	0	4194304	Value	ValueOutput
+Stereo / Mono Mix	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+~~~	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

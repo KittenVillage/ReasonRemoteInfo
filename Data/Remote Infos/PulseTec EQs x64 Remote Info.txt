@@ -1,0 +1,47 @@
+Scope
+Manufacturer	Model
+Nomad Factory	vst.Ntec.PulseTec EQs x64
+Note: Will match scope definitions for vst.Ntec.PulseTec EQs x64 or vst.Ntec
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Internal Use	0	4194304	Value	ValueOutput
+Power	0	4194304	Value	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Clipper	0	4194304	Value	ValueOutput
+Meter	0	4194304	Value	ValueOutput
+MEQ5-OnOff	0	4194304	Value	ValueOutput
+MEQ5-Vintage	0	4194304	Value	ValueOutput
+MEQ5-LoFreq	0	4194304	Value	ValueOutput
+MEQ5-LoBoost	0	4194304	Value	ValueOutput
+MEQ5-MidFreq	0	4194304	Value	ValueOutput
+MEQ5-MidAtten	0	4194304	Value	ValueOutput
+MEQ5-HiFreq	0	4194304	Value	ValueOutput
+MEQ5-HiBoost	0	4194304	Value	ValueOutput
+EQP1-OnOff	0	4194304	Value	ValueOutput
+EQP1-Vintage	0	4194304	Value	ValueOutput
+EQP1-LoBoost	0	4194304	Value	ValueOutput
+EQP1-LoAtten	0	4194304	Value	ValueOutput
+EQP1-LoFreq	0	4194304	Value	ValueOutput
+Bandwidth	0	4194304	Value	ValueOutput
+EQP1-HiBoost	0	4194304	Value	ValueOutput
+EQP1-HiFreq	0	4194304	Value	ValueOutput
+EQP1-HiAtten	0	4194304	Value	ValueOutput
+EQP1-AttenSel	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

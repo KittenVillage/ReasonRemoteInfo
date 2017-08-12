@@ -1,0 +1,64 @@
+Scope
+Manufacturer	Model
+DDMF	vst.ThSt.TheStrip
+Note: Will match scope definitions for vst.ThSt.TheStrip or vst.ThSt
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+compThreshold	0	4194304	Value	ValueOutput
+compRatio	0	4194304	Value	ValueOutput
+compAttack	0	4194304	Value	ValueOutput
+compRelease	0	4194304	Value	ValueOutput
+LowFreq	0	4194304	Value	ValueOutput
+LowGain	0	4194304	Value	ValueOutput
+LowMidFreq	0	4194304	Value	ValueOutput
+LowMidGain	0	4194304	Value	ValueOutput
+LowMidQ	0	4194304	Value	ValueOutput
+MidFreq	0	4194304	Value	ValueOutput
+MidGain	0	4194304	Value	ValueOutput
+MidQ	0	4194304	Value	ValueOutput
+HighMidFreq	0	4194304	Value	ValueOutput
+HighMidGain	0	4194304	Value	ValueOutput
+HighMidQ	0	4194304	Value	ValueOutput
+HighFreq	0	4194304	Value	ValueOutput
+HighGain	0	4194304	Value	ValueOutput
+Outgain	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+LMF_In	0	4194304	Value	ValueOutput
+MF_In	0	4194304	Value	ValueOutput
+HMF_In	0	4194304	Value	ValueOutput
+LFHF_In	0	4194304	Value	ValueOutput
+Lowcut_In	0	4194304	Value	ValueOutput
+Lowshelf_In	0	4194304	Value	ValueOutput
+Highcut_In	0	4194304	Value	ValueOutput
+Highshelf_In	0	4194304	Value	ValueOutput
+HighpassFreq	0	4194304	Value	ValueOutput
+LowpassFreq	0	4194304	Value	ValueOutput
+gateThreshold	0	4194304	Value	ValueOutput
+gateRange	0	4194304	Value	ValueOutput
+gateAttack	0	4194304	Value	ValueOutput
+gateRelease	0	4194304	Value	ValueOutput
+inputGain	0	4194304	Value	ValueOutput
+outputGain	0	4194304	Value	ValueOutput
+eqOn	0	4194304	Value	ValueOutput
+compOn	0	4194304	Value	ValueOutput
+gateOn	0	4194304	Value	ValueOutput
+compBeforeEq	0	4194304	Value	ValueOutput
+oversampling	0	4194304	Value	ValueOutput
+phaseInvert	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

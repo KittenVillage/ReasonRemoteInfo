@@ -1,0 +1,70 @@
+Scope
+Manufacturer	Model
+Nomad Factory	vst.HBmc.E-Channel x64
+Note: Will match scope definitions for vst.HBmc.E-Channel x64 or vst.HBmc
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+HPF Freq	0	4194304	Value	ValueOutput
+LPF Freq	0	4194304	Value	ValueOutput
+Master EQ	0	4194304	Value	ValueOutput
+LoShelf Insert	0	4194304	Value	ValueOutput
+LoShelf Gain	0	4194304	Value	ValueOutput
+LoShelf Freq	0	4194304	Value	ValueOutput
+Band A Insert	0	4194304	Value	ValueOutput
+Band A Gain	0	4194304	Value	ValueOutput
+Band A Freq	0	4194304	Value	ValueOutput
+Band A BW	0	4194304	Value	ValueOutput
+Band B Insert	0	4194304	Value	ValueOutput
+Band B Gain	0	4194304	Value	ValueOutput
+Band B Freq	0	4194304	Value	ValueOutput
+Band B BW	0	4194304	Value	ValueOutput
+Band C Insert	0	4194304	Value	ValueOutput
+Band C Gain	0	4194304	Value	ValueOutput
+Band C Freq	0	4194304	Value	ValueOutput
+Band C BW	0	4194304	Value	ValueOutput
+HiShelf Insert	0	4194304	Value	ValueOutput
+HiShelf Gain	0	4194304	Value	ValueOutput
+HiShelf Freq	0	4194304	Value	ValueOutput
+CP Insert	0	4194304	Value	ValueOutput
+CP PreEQ	0	4194304	Value	ValueOutput
+CP Threshold	0	4194304	Value	ValueOutput
+CP Ratio	0	4194304	Value	ValueOutput
+CP Attack	0	4194304	Value	ValueOutput
+CP Release	0	4194304	Value	ValueOutput
+CP MakeUp	0	4194304	Value	ValueOutput
+CP Type	0	4194304	Value	ValueOutput
+DS Insert	0	4194304	Value	ValueOutput
+DS Filter	0	4194304	Value	ValueOutput
+DS Freq	0	4194304	Value	ValueOutput
+DS Threshold	0	4194304	Value	ValueOutput
+DS Attack	0	4194304	Value	ValueOutput
+DS Listen	0	4194304	Value	ValueOutput
+Gate Insert	0	4194304	Value	ValueOutput
+Gate Threshold	0	4194304	Value	ValueOutput
+Gate Attack	0	4194304	Value	ValueOutput
+Gate Release	0	4194304	Value	ValueOutput
+In Gain	0	4194304	Value	ValueOutput
+Out Gain	0	4194304	Value	ValueOutput
+Limit	0	4194304	Value	ValueOutput
+Swap	0	4194304	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Mono	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

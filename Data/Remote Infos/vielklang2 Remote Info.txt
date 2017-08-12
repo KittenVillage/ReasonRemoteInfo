@@ -1,0 +1,47 @@
+Scope
+Manufacturer	Model
+zplane	vst.Vlk2.vielklang2
+Note: Will match scope definitions for vst.Vlk2.vielklang2 or vst.Vlk2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Voice 1-Gain	0	4194304	Value	ValueOutput
+Voice 1-Pan	0	4194304	Value	ValueOutput
+Voice 1-Tune	0	4194304	Value	ValueOutput
+Voice 1-Drift	0	4194304	Value	ValueOutput
+Voice 1-Timing	0	4194304	Value	ValueOutput
+Voice 1-Shape	0	4194304	Value	ValueOutput
+Voice 2-Gain	0	4194304	Value	ValueOutput
+Voice 2-Pan	0	4194304	Value	ValueOutput
+Voice 2-Tune	0	4194304	Value	ValueOutput
+Voice 2-Drift	0	4194304	Value	ValueOutput
+Voice 2-Timing	0	4194304	Value	ValueOutput
+Voice 2-Shape	0	4194304	Value	ValueOutput
+Voice 3-Gain	0	4194304	Value	ValueOutput
+Voice 3-Pan	0	4194304	Value	ValueOutput
+Voice 3-Tune	0	4194304	Value	ValueOutput
+Voice 3-Drift	0	4194304	Value	ValueOutput
+Voice 3-Timing	0	4194304	Value	ValueOutput
+Voice 3-Shape	0	4194304	Value	ValueOutput
+Voice 4-Gain	0	4194304	Value	ValueOutput
+Voice 4-Pan	0	4194304	Value	ValueOutput
+Voice 4-Tune	0	4194304	Value	ValueOutput
+Voice 4-Drift	0	4194304	Value	ValueOutput
+Voice 4-Timing	0	4194304	Value	ValueOutput
+Voice 4-Shape	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,48 @@
+Scope
+Manufacturer	Model
+Volko Audio	vst.VKQG.QG
+Note: Will match scope definitions for vst.VKQG.QG or vst.VKQG
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+P31Hz Level	0	4194304	Value	ValueOutput
+P63Hz Level	0	4194304	Value	ValueOutput
+P125Hz Level	0	4194304	Value	ValueOutput
+P250Hz Level	0	4194304	Value	ValueOutput
+P500Hz Level	0	4194304	Value	ValueOutput
+P1kHz Level	0	4194304	Value	ValueOutput
+P2kHz Level	0	4194304	Value	ValueOutput
+P4kHz Level	0	4194304	Value	ValueOutput
+P8kHz Level	0	4194304	Value	ValueOutput
+P16kHz Level	0	4194304	Value	ValueOutput
+P31Hz Switch	0	4194304	Value	ValueOutput
+P63Hz Switch	0	4194304	Value	ValueOutput
+P125Hz Switch	0	4194304	Value	ValueOutput
+P250Hz Switch	0	4194304	Value	ValueOutput
+P500Hz Switch	0	4194304	Value	ValueOutput
+P1kHz Switch	0	4194304	Value	ValueOutput
+P2kHz Switch	0	4194304	Value	ValueOutput
+P4kHz Switch	0	4194304	Value	ValueOutput
+P8kHz Switch	0	4194304	Value	ValueOutput
+P16kHz Switch	0	4194304	Value	ValueOutput
+Output DB	0	4194304	Value	ValueOutput
+Bell Shape Symme	0	4194304	Value	ValueOutput
+MeterInput	0	4194304	Value	ValueOutput
+MeterOutput	0	4194304	Value	ValueOutput
+Power Button	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,40 @@
+Scope
+Manufacturer	Model
+u-he	com.uheplugins.UhbikD
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Delay1	0	4194304	Value	ValueOutput
+Pan1	0	4194304	Value	ValueOutput
+Vol1	0	4194304	Value	ValueOutput
+Feedback1	0	1	Toggle	ValueOutput
+Delay2	0	4194304	Value	ValueOutput
+Pan2	0	4194304	Value	ValueOutput
+Vol2	0	4194304	Value	ValueOutput
+Feedback2	0	1	Toggle	ValueOutput
+Delay3	0	4194304	Value	ValueOutput
+Pan3	0	4194304	Value	ValueOutput
+Vol3	0	4194304	Value	ValueOutput
+Feedback3	0	1	Toggle	ValueOutput
+Delay4	0	4194304	Value	ValueOutput
+Pan4	0	4194304	Value	ValueOutput
+Vol4	0	4194304	Value	ValueOutput
+Feedback4	0	1	Toggle	ValueOutput
+Delay5	0	4194304	Value	ValueOutput
+Pan5	0	4194304	Value	ValueOutput
+Vol5	0	4194304	Value	ValueOutput
+Feedback5	0	1	Toggle	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+ModType	0	1	Toggle	ValueOutput
+ModRate	0	4194304	Value	ValueOutput
+ModDepth	0	4194304	Value	ValueOutput
+SoftClip	0	4194304	Value	ValueOutput
+HiCut	0	4194304	Value	ValueOutput
+LoCut	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

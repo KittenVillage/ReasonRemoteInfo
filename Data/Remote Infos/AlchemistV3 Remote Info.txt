@@ -1,0 +1,443 @@
+Scope
+Manufacturer	Model
+Flux:: sound and picture development	vst.fxAl.AlchemistV3
+Note: Will match scope definitions for vst.fxAl.AlchemistV3 or vst.fxAl
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Flux:: bypass	0	4194304	Value	ValueOutput
+Morphing	0	4194304	Value	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Clipper	0	4194304	Value	ValueOutput
+ClipperKnee	0	4194304	Value	ValueOutput
+DryMix	0	4194304	Value	ValueOutput
+PhaseInv	0	4194304	Value	ValueOutput
+NumberOfBands	0	4194304	Value	ValueOutput
+Frequency 1	0	4194304	Value	ValueOutput
+Slope 1	0	4194304	Value	ValueOutput
+Frequency 2	0	4194304	Value	ValueOutput
+Slope 2	0	4194304	Value	ValueOutput
+Frequency 3	0	4194304	Value	ValueOutput
+Slope 3	0	4194304	Value	ValueOutput
+Frequency 4	0	4194304	Value	ValueOutput
+Slope 4	0	4194304	Value	ValueOutput
+Band 1 Solo	0	4194304	Value	ValueOutput
+Band 1 Link Channels	0	4194304	Value	ValueOutput
+Band 1 Bypass	0	4194304	Value	ValueOutput
+Band 1 Input Gain	0	4194304	Value	ValueOutput
+Band 1 Output Gain	0	4194304	Value	ValueOutput
+Band 1 BS Enable	0	4194304	Value	ValueOutput
+Band 1 BS Gain Compensat	0	4194304	Value	ValueOutput
+Band 1 BS Speed	0	4194304	Value	ValueOutput
+Band 1 BS Mode	0	4194304	Value	ValueOutput
+Band 1 BS Amount	0	4194304	Value	ValueOutput
+Band 1 BS Period	0	4194304	Value	ValueOutput
+Band 1 BS Post Dyn	0	4194304	Value	ValueOutput
+Band 1 Enable MS	0	4194304	Value	ValueOutput
+Band 1 MS Width	0	4194304	Value	ValueOutput
+Band 1 Auto Delay	0	4194304	Value	ValueOutput
+Band 1 Delay	0	4194304	Value	ValueOutput
+Band 1 Mode	0	4194304	Value	ValueOutput
+Band 1 Attack	0	4194304	Value	ValueOutput
+Band 1 Release Mode	0	4194304	Value	ValueOutput
+Band 1 Release Min	0	4194304	Value	ValueOutput
+Band 1 Release Max	0	4194304	Value	ValueOutput
+Band 1 Dynamic Factor	0	4194304	Value	ValueOutput
+Band 1 Dyn Velocity	0	4194304	Value	ValueOutput
+Band 1 Comp Enable	0	4194304	Value	ValueOutput
+Band 1 Comp Peak / Rms	0	4194304	Value	ValueOutput
+Band 1 Comp Dynamic Rati	0	4194304	Value	ValueOutput
+Band 1 Comp Invert Dynam	0	4194304	Value	ValueOutput
+Band 1 Comp L.I.D.	0	4194304	Value	ValueOutput
+Band 1 Comp L.I.D. Thres	0	4194304	Value	ValueOutput
+Band 1 Comp H Max	0	4194304	Value	ValueOutput
+Band 1 Comp Ratio	0	4194304	Value	ValueOutput
+Band 1 Comp Ratio Inf	0	4194304	Value	ValueOutput
+Band 1 Compressor Thresh	0	4194304	Value	ValueOutput
+Band 1 Compressor Knee	0	4194304	Value	ValueOutput
+Band 1 Compressor Limit	0	4194304	Value	ValueOutput
+Band 1 Compressor Hold	0	4194304	Value	ValueOutput
+Band 1 DComp Enable	0	4194304	Value	ValueOutput
+Band 1 DComp Peak / Rms	0	4194304	Value	ValueOutput
+Band 1 DComp Dynamic Rat	0	4194304	Value	ValueOutput
+Band 1 DComp Invert Dyna	0	4194304	Value	ValueOutput
+Band 1 DComp L.I.D.	0	4194304	Value	ValueOutput
+Band 1 DComp L.I.D. Thre	0	4194304	Value	ValueOutput
+Band 1 DComp H Max	0	4194304	Value	ValueOutput
+Band 1 DComp Ratio	0	4194304	Value	ValueOutput
+Band 1 DComp Ratio Inf	0	4194304	Value	ValueOutput
+Band 1 DCompressor Thres	0	4194304	Value	ValueOutput
+Band 1 DCompressor Knee	0	4194304	Value	ValueOutput
+Band 1 DCompressor Limit	0	4194304	Value	ValueOutput
+Band 1 DCompressor Hold	0	4194304	Value	ValueOutput
+Band 1 Exp Enable	0	4194304	Value	ValueOutput
+Band 1 Exp Peak / Rms	0	4194304	Value	ValueOutput
+Band 1 Exp Dynamic Ratio	0	4194304	Value	ValueOutput
+Band 1 Exp Invert Dynami	0	4194304	Value	ValueOutput
+Band 1 Exp L.I.D.	0	4194304	Value	ValueOutput
+Band 1 Exp L.I.D. Thresh	0	4194304	Value	ValueOutput
+Band 1 Exp H Max	0	4194304	Value	ValueOutput
+Band 1 Exp Ratio	0	4194304	Value	ValueOutput
+Band 1 Exp Ratio Inf	0	4194304	Value	ValueOutput
+Band 1 Expander Threshol	0	4194304	Value	ValueOutput
+Band 1 Expander Knee	0	4194304	Value	ValueOutput
+Band 1 Expander Limit	0	4194304	Value	ValueOutput
+Band 1 Expander Hold	0	4194304	Value	ValueOutput
+Band 1 DExp Enable	0	4194304	Value	ValueOutput
+Band 1 DExp Peak / Rms	0	4194304	Value	ValueOutput
+Band 1 DExp Dynamic Rati	0	4194304	Value	ValueOutput
+Band 1 DExp Invert Dynam	0	4194304	Value	ValueOutput
+Band 1 DExp L.I.D.	0	4194304	Value	ValueOutput
+Band 1 DExp L.I.D. Thres	0	4194304	Value	ValueOutput
+Band 1 DExp H Max	0	4194304	Value	ValueOutput
+Band 1 DExp Ratio	0	4194304	Value	ValueOutput
+Band 1 DExp Ratio Inf	0	4194304	Value	ValueOutput
+Band 1 DExpander Thresho	0	4194304	Value	ValueOutput
+Band 1 DExpander Knee	0	4194304	Value	ValueOutput
+Band 1 DExpander Limit	0	4194304	Value	ValueOutput
+Band 1 DExpander Hold	0	4194304	Value	ValueOutput
+Band 2 Solo	0	4194304	Value	ValueOutput
+Band 2 Link Channels	0	4194304	Value	ValueOutput
+Band 2 Bypass	0	4194304	Value	ValueOutput
+Band 2 Input Gain	0	4194304	Value	ValueOutput
+Band 2 Output Gain	0	4194304	Value	ValueOutput
+Band 2 BS Enable	0	4194304	Value	ValueOutput
+Band 2 BS Gain Compensat	0	4194304	Value	ValueOutput
+Band 2 BS Speed	0	4194304	Value	ValueOutput
+Band 2 BS Mode	0	4194304	Value	ValueOutput
+Band 2 BS Amount	0	4194304	Value	ValueOutput
+Band 2 BS Period	0	4194304	Value	ValueOutput
+Band 2 BS Post Dyn	0	4194304	Value	ValueOutput
+Band 2 Enable MS	0	4194304	Value	ValueOutput
+Band 2 MS Width	0	4194304	Value	ValueOutput
+Band 2 Auto Delay	0	4194304	Value	ValueOutput
+Band 2 Delay	0	4194304	Value	ValueOutput
+Band 2 Mode	0	4194304	Value	ValueOutput
+Band 2 Attack	0	4194304	Value	ValueOutput
+Band 2 Release Mode	0	4194304	Value	ValueOutput
+Band 2 Release Min	0	4194304	Value	ValueOutput
+Band 2 Release Max	0	4194304	Value	ValueOutput
+Band 2 Dynamic Factor	0	4194304	Value	ValueOutput
+Band 2 Dyn Velocity	0	4194304	Value	ValueOutput
+Band 2 Comp Enable	0	4194304	Value	ValueOutput
+Band 2 Comp Peak / Rms	0	4194304	Value	ValueOutput
+Band 2 Comp Dynamic Rati	0	4194304	Value	ValueOutput
+Band 2 Comp Invert Dynam	0	4194304	Value	ValueOutput
+Band 2 Comp L.I.D.	0	4194304	Value	ValueOutput
+Band 2 Comp L.I.D. Thres	0	4194304	Value	ValueOutput
+Band 2 Comp H Max	0	4194304	Value	ValueOutput
+Band 2 Comp Ratio	0	4194304	Value	ValueOutput
+Band 2 Comp Ratio Inf	0	4194304	Value	ValueOutput
+Band 2 Compressor Thresh	0	4194304	Value	ValueOutput
+Band 2 Compressor Knee	0	4194304	Value	ValueOutput
+Band 2 Compressor Limit	0	4194304	Value	ValueOutput
+Band 2 Compressor Hold	0	4194304	Value	ValueOutput
+Band 2 DComp Enable	0	4194304	Value	ValueOutput
+Band 2 DComp Peak / Rms	0	4194304	Value	ValueOutput
+Band 2 DComp Dynamic Rat	0	4194304	Value	ValueOutput
+Band 2 DComp Invert Dyna	0	4194304	Value	ValueOutput
+Band 2 DComp L.I.D.	0	4194304	Value	ValueOutput
+Band 2 DComp L.I.D. Thre	0	4194304	Value	ValueOutput
+Band 2 DComp H Max	0	4194304	Value	ValueOutput
+Band 2 DComp Ratio	0	4194304	Value	ValueOutput
+Band 2 DComp Ratio Inf	0	4194304	Value	ValueOutput
+Band 2 DCompressor Thres	0	4194304	Value	ValueOutput
+Band 2 DCompressor Knee	0	4194304	Value	ValueOutput
+Band 2 DCompressor Limit	0	4194304	Value	ValueOutput
+Band 2 DCompressor Hold	0	4194304	Value	ValueOutput
+Band 2 Exp Enable	0	4194304	Value	ValueOutput
+Band 2 Exp Peak / Rms	0	4194304	Value	ValueOutput
+Band 2 Exp Dynamic Ratio	0	4194304	Value	ValueOutput
+Band 2 Exp Invert Dynami	0	4194304	Value	ValueOutput
+Band 2 Exp L.I.D.	0	4194304	Value	ValueOutput
+Band 2 Exp L.I.D. Thresh	0	4194304	Value	ValueOutput
+Band 2 Exp H Max	0	4194304	Value	ValueOutput
+Band 2 Exp Ratio	0	4194304	Value	ValueOutput
+Band 2 Exp Ratio Inf	0	4194304	Value	ValueOutput
+Band 2 Expander Threshol	0	4194304	Value	ValueOutput
+Band 2 Expander Knee	0	4194304	Value	ValueOutput
+Band 2 Expander Limit	0	4194304	Value	ValueOutput
+Band 2 Expander Hold	0	4194304	Value	ValueOutput
+Band 2 DExp Enable	0	4194304	Value	ValueOutput
+Band 2 DExp Peak / Rms	0	4194304	Value	ValueOutput
+Band 2 DExp Dynamic Rati	0	4194304	Value	ValueOutput
+Band 2 DExp Invert Dynam	0	4194304	Value	ValueOutput
+Band 2 DExp L.I.D.	0	4194304	Value	ValueOutput
+Band 2 DExp L.I.D. Thres	0	4194304	Value	ValueOutput
+Band 2 DExp H Max	0	4194304	Value	ValueOutput
+Band 2 DExp Ratio	0	4194304	Value	ValueOutput
+Band 2 DExp Ratio Inf	0	4194304	Value	ValueOutput
+Band 2 DExpander Thresho	0	4194304	Value	ValueOutput
+Band 2 DExpander Knee	0	4194304	Value	ValueOutput
+Band 2 DExpander Limit	0	4194304	Value	ValueOutput
+Band 2 DExpander Hold	0	4194304	Value	ValueOutput
+Band 3 Solo	0	4194304	Value	ValueOutput
+Band 3 Link Channels	0	4194304	Value	ValueOutput
+Band 3 Bypass	0	4194304	Value	ValueOutput
+Band 3 Input Gain	0	4194304	Value	ValueOutput
+Band 3 Output Gain	0	4194304	Value	ValueOutput
+Band 3 BS Enable	0	4194304	Value	ValueOutput
+Band 3 BS Gain Compensat	0	4194304	Value	ValueOutput
+Band 3 BS Speed	0	4194304	Value	ValueOutput
+Band 3 BS Mode	0	4194304	Value	ValueOutput
+Band 3 BS Amount	0	4194304	Value	ValueOutput
+Band 3 BS Period	0	4194304	Value	ValueOutput
+Band 3 BS Post Dyn	0	4194304	Value	ValueOutput
+Band 3 Enable MS	0	4194304	Value	ValueOutput
+Band 3 MS Width	0	4194304	Value	ValueOutput
+Band 3 Auto Delay	0	4194304	Value	ValueOutput
+Band 3 Delay	0	4194304	Value	ValueOutput
+Band 3 Mode	0	4194304	Value	ValueOutput
+Band 3 Attack	0	4194304	Value	ValueOutput
+Band 3 Release Mode	0	4194304	Value	ValueOutput
+Band 3 Release Min	0	4194304	Value	ValueOutput
+Band 3 Release Max	0	4194304	Value	ValueOutput
+Band 3 Dynamic Factor	0	4194304	Value	ValueOutput
+Band 3 Dyn Velocity	0	4194304	Value	ValueOutput
+Band 3 Comp Enable	0	4194304	Value	ValueOutput
+Band 3 Comp Peak / Rms	0	4194304	Value	ValueOutput
+Band 3 Comp Dynamic Rati	0	4194304	Value	ValueOutput
+Band 3 Comp Invert Dynam	0	4194304	Value	ValueOutput
+Band 3 Comp L.I.D.	0	4194304	Value	ValueOutput
+Band 3 Comp L.I.D. Thres	0	4194304	Value	ValueOutput
+Band 3 Comp H Max	0	4194304	Value	ValueOutput
+Band 3 Comp Ratio	0	4194304	Value	ValueOutput
+Band 3 Comp Ratio Inf	0	4194304	Value	ValueOutput
+Band 3 Compressor Thresh	0	4194304	Value	ValueOutput
+Band 3 Compressor Knee	0	4194304	Value	ValueOutput
+Band 3 Compressor Limit	0	4194304	Value	ValueOutput
+Band 3 Compressor Hold	0	4194304	Value	ValueOutput
+Band 3 DComp Enable	0	4194304	Value	ValueOutput
+Band 3 DComp Peak / Rms	0	4194304	Value	ValueOutput
+Band 3 DComp Dynamic Rat	0	4194304	Value	ValueOutput
+Band 3 DComp Invert Dyna	0	4194304	Value	ValueOutput
+Band 3 DComp L.I.D.	0	4194304	Value	ValueOutput
+Band 3 DComp L.I.D. Thre	0	4194304	Value	ValueOutput
+Band 3 DComp H Max	0	4194304	Value	ValueOutput
+Band 3 DComp Ratio	0	4194304	Value	ValueOutput
+Band 3 DComp Ratio Inf	0	4194304	Value	ValueOutput
+Band 3 DCompressor Thres	0	4194304	Value	ValueOutput
+Band 3 DCompressor Knee	0	4194304	Value	ValueOutput
+Band 3 DCompressor Limit	0	4194304	Value	ValueOutput
+Band 3 DCompressor Hold	0	4194304	Value	ValueOutput
+Band 3 Exp Enable	0	4194304	Value	ValueOutput
+Band 3 Exp Peak / Rms	0	4194304	Value	ValueOutput
+Band 3 Exp Dynamic Ratio	0	4194304	Value	ValueOutput
+Band 3 Exp Invert Dynami	0	4194304	Value	ValueOutput
+Band 3 Exp L.I.D.	0	4194304	Value	ValueOutput
+Band 3 Exp L.I.D. Thresh	0	4194304	Value	ValueOutput
+Band 3 Exp H Max	0	4194304	Value	ValueOutput
+Band 3 Exp Ratio	0	4194304	Value	ValueOutput
+Band 3 Exp Ratio Inf	0	4194304	Value	ValueOutput
+Band 3 Expander Threshol	0	4194304	Value	ValueOutput
+Band 3 Expander Knee	0	4194304	Value	ValueOutput
+Band 3 Expander Limit	0	4194304	Value	ValueOutput
+Band 3 Expander Hold	0	4194304	Value	ValueOutput
+Band 3 DExp Enable	0	4194304	Value	ValueOutput
+Band 3 DExp Peak / Rms	0	4194304	Value	ValueOutput
+Band 3 DExp Dynamic Rati	0	4194304	Value	ValueOutput
+Band 3 DExp Invert Dynam	0	4194304	Value	ValueOutput
+Band 3 DExp L.I.D.	0	4194304	Value	ValueOutput
+Band 3 DExp L.I.D. Thres	0	4194304	Value	ValueOutput
+Band 3 DExp H Max	0	4194304	Value	ValueOutput
+Band 3 DExp Ratio	0	4194304	Value	ValueOutput
+Band 3 DExp Ratio Inf	0	4194304	Value	ValueOutput
+Band 3 DExpander Thresho	0	4194304	Value	ValueOutput
+Band 3 DExpander Knee	0	4194304	Value	ValueOutput
+Band 3 DExpander Limit	0	4194304	Value	ValueOutput
+Band 3 DExpander Hold	0	4194304	Value	ValueOutput
+Band 4 Solo	0	4194304	Value	ValueOutput
+Band 4 Link Channels	0	4194304	Value	ValueOutput
+Band 4 Bypass	0	4194304	Value	ValueOutput
+Band 4 Input Gain	0	4194304	Value	ValueOutput
+Band 4 Output Gain	0	4194304	Value	ValueOutput
+Band 4 BS Enable	0	4194304	Value	ValueOutput
+Band 4 BS Gain Compensat	0	4194304	Value	ValueOutput
+Band 4 BS Speed	0	4194304	Value	ValueOutput
+Band 4 BS Mode	0	4194304	Value	ValueOutput
+Band 4 BS Amount	0	4194304	Value	ValueOutput
+Band 4 BS Period	0	4194304	Value	ValueOutput
+Band 4 BS Post Dyn	0	4194304	Value	ValueOutput
+Band 4 Enable MS	0	4194304	Value	ValueOutput
+Band 4 MS Width	0	4194304	Value	ValueOutput
+Band 4 Auto Delay	0	4194304	Value	ValueOutput
+Band 4 Delay	0	4194304	Value	ValueOutput
+Band 4 Mode	0	4194304	Value	ValueOutput
+Band 4 Attack	0	4194304	Value	ValueOutput
+Band 4 Release Mode	0	4194304	Value	ValueOutput
+Band 4 Release Min	0	4194304	Value	ValueOutput
+Band 4 Release Max	0	4194304	Value	ValueOutput
+Band 4 Dynamic Factor	0	4194304	Value	ValueOutput
+Band 4 Dyn Velocity	0	4194304	Value	ValueOutput
+Band 4 Comp Enable	0	4194304	Value	ValueOutput
+Band 4 Comp Peak / Rms	0	4194304	Value	ValueOutput
+Band 4 Comp Dynamic Rati	0	4194304	Value	ValueOutput
+Band 4 Comp Invert Dynam	0	4194304	Value	ValueOutput
+Band 4 Comp L.I.D.	0	4194304	Value	ValueOutput
+Band 4 Comp L.I.D. Thres	0	4194304	Value	ValueOutput
+Band 4 Comp H Max	0	4194304	Value	ValueOutput
+Band 4 Comp Ratio	0	4194304	Value	ValueOutput
+Band 4 Comp Ratio Inf	0	4194304	Value	ValueOutput
+Band 4 Compressor Thresh	0	4194304	Value	ValueOutput
+Band 4 Compressor Knee	0	4194304	Value	ValueOutput
+Band 4 Compressor Limit	0	4194304	Value	ValueOutput
+Band 4 Compressor Hold	0	4194304	Value	ValueOutput
+Band 4 DComp Enable	0	4194304	Value	ValueOutput
+Band 4 DComp Peak / Rms	0	4194304	Value	ValueOutput
+Band 4 DComp Dynamic Rat	0	4194304	Value	ValueOutput
+Band 4 DComp Invert Dyna	0	4194304	Value	ValueOutput
+Band 4 DComp L.I.D.	0	4194304	Value	ValueOutput
+Band 4 DComp L.I.D. Thre	0	4194304	Value	ValueOutput
+Band 4 DComp H Max	0	4194304	Value	ValueOutput
+Band 4 DComp Ratio	0	4194304	Value	ValueOutput
+Band 4 DComp Ratio Inf	0	4194304	Value	ValueOutput
+Band 4 DCompressor Thres	0	4194304	Value	ValueOutput
+Band 4 DCompressor Knee	0	4194304	Value	ValueOutput
+Band 4 DCompressor Limit	0	4194304	Value	ValueOutput
+Band 4 DCompressor Hold	0	4194304	Value	ValueOutput
+Band 4 Exp Enable	0	4194304	Value	ValueOutput
+Band 4 Exp Peak / Rms	0	4194304	Value	ValueOutput
+Band 4 Exp Dynamic Ratio	0	4194304	Value	ValueOutput
+Band 4 Exp Invert Dynami	0	4194304	Value	ValueOutput
+Band 4 Exp L.I.D.	0	4194304	Value	ValueOutput
+Band 4 Exp L.I.D. Thresh	0	4194304	Value	ValueOutput
+Band 4 Exp H Max	0	4194304	Value	ValueOutput
+Band 4 Exp Ratio	0	4194304	Value	ValueOutput
+Band 4 Exp Ratio Inf	0	4194304	Value	ValueOutput
+Band 4 Expander Threshol	0	4194304	Value	ValueOutput
+Band 4 Expander Knee	0	4194304	Value	ValueOutput
+Band 4 Expander Limit	0	4194304	Value	ValueOutput
+Band 4 Expander Hold	0	4194304	Value	ValueOutput
+Band 4 DExp Enable	0	4194304	Value	ValueOutput
+Band 4 DExp Peak / Rms	0	4194304	Value	ValueOutput
+Band 4 DExp Dynamic Rati	0	4194304	Value	ValueOutput
+Band 4 DExp Invert Dynam	0	4194304	Value	ValueOutput
+Band 4 DExp L.I.D.	0	4194304	Value	ValueOutput
+Band 4 DExp L.I.D. Thres	0	4194304	Value	ValueOutput
+Band 4 DExp H Max	0	4194304	Value	ValueOutput
+Band 4 DExp Ratio	0	4194304	Value	ValueOutput
+Band 4 DExp Ratio Inf	0	4194304	Value	ValueOutput
+Band 4 DExpander Thresho	0	4194304	Value	ValueOutput
+Band 4 DExpander Knee	0	4194304	Value	ValueOutput
+Band 4 DExpander Limit	0	4194304	Value	ValueOutput
+Band 4 DExpander Hold	0	4194304	Value	ValueOutput
+Band 5 Solo	0	4194304	Value	ValueOutput
+Band 5 Link Channels	0	4194304	Value	ValueOutput
+Band 5 Bypass	0	4194304	Value	ValueOutput
+Band 5 Input Gain	0	4194304	Value	ValueOutput
+Band 5 Output Gain	0	4194304	Value	ValueOutput
+Band 5 BS Enable	0	4194304	Value	ValueOutput
+Band 5 BS Gain Compensat	0	4194304	Value	ValueOutput
+Band 5 BS Speed	0	4194304	Value	ValueOutput
+Band 5 BS Mode	0	4194304	Value	ValueOutput
+Band 5 BS Amount	0	4194304	Value	ValueOutput
+Band 5 BS Period	0	4194304	Value	ValueOutput
+Band 5 BS Post Dyn	0	4194304	Value	ValueOutput
+Band 5 Enable MS	0	4194304	Value	ValueOutput
+Band 5 MS Width	0	4194304	Value	ValueOutput
+Band 5 Auto Delay	0	4194304	Value	ValueOutput
+Band 5 Delay	0	4194304	Value	ValueOutput
+Band 5 Mode	0	4194304	Value	ValueOutput
+Band 5 Attack	0	4194304	Value	ValueOutput
+Band 5 Release Mode	0	4194304	Value	ValueOutput
+Band 5 Release Min	0	4194304	Value	ValueOutput
+Band 5 Release Max	0	4194304	Value	ValueOutput
+Band 5 Dynamic Factor	0	4194304	Value	ValueOutput
+Band 5 Dyn Velocity	0	4194304	Value	ValueOutput
+Band 5 Comp Enable	0	4194304	Value	ValueOutput
+Band 5 Comp Peak / Rms	0	4194304	Value	ValueOutput
+Band 5 Comp Dynamic Rati	0	4194304	Value	ValueOutput
+Band 5 Comp Invert Dynam	0	4194304	Value	ValueOutput
+Band 5 Comp L.I.D.	0	4194304	Value	ValueOutput
+Band 5 Comp L.I.D. Thres	0	4194304	Value	ValueOutput
+Band 5 Comp H Max	0	4194304	Value	ValueOutput
+Band 5 Comp Ratio	0	4194304	Value	ValueOutput
+Band 5 Comp Ratio Inf	0	4194304	Value	ValueOutput
+Band 5 Compressor Thresh	0	4194304	Value	ValueOutput
+Band 5 Compressor Knee	0	4194304	Value	ValueOutput
+Band 5 Compressor Limit	0	4194304	Value	ValueOutput
+Band 5 Compressor Hold	0	4194304	Value	ValueOutput
+Band 5 DComp Enable	0	4194304	Value	ValueOutput
+Band 5 DComp Peak / Rms	0	4194304	Value	ValueOutput
+Band 5 DComp Dynamic Rat	0	4194304	Value	ValueOutput
+Band 5 DComp Invert Dyna	0	4194304	Value	ValueOutput
+Band 5 DComp L.I.D.	0	4194304	Value	ValueOutput
+Band 5 DComp L.I.D. Thre	0	4194304	Value	ValueOutput
+Band 5 DComp H Max	0	4194304	Value	ValueOutput
+Band 5 DComp Ratio	0	4194304	Value	ValueOutput
+Band 5 DComp Ratio Inf	0	4194304	Value	ValueOutput
+Band 5 DCompressor Thres	0	4194304	Value	ValueOutput
+Band 5 DCompressor Knee	0	4194304	Value	ValueOutput
+Band 5 DCompressor Limit	0	4194304	Value	ValueOutput
+Band 5 DCompressor Hold	0	4194304	Value	ValueOutput
+Band 5 Exp Enable	0	4194304	Value	ValueOutput
+Band 5 Exp Peak / Rms	0	4194304	Value	ValueOutput
+Band 5 Exp Dynamic Ratio	0	4194304	Value	ValueOutput
+Band 5 Exp Invert Dynami	0	4194304	Value	ValueOutput
+Band 5 Exp L.I.D.	0	4194304	Value	ValueOutput
+Band 5 Exp L.I.D. Thresh	0	4194304	Value	ValueOutput
+Band 5 Exp H Max	0	4194304	Value	ValueOutput
+Band 5 Exp Ratio	0	4194304	Value	ValueOutput
+Band 5 Exp Ratio Inf	0	4194304	Value	ValueOutput
+Band 5 Expander Threshol	0	4194304	Value	ValueOutput
+Band 5 Expander Knee	0	4194304	Value	ValueOutput
+Band 5 Expander Limit	0	4194304	Value	ValueOutput
+Band 5 Expander Hold	0	4194304	Value	ValueOutput
+Band 5 DExp Enable	0	4194304	Value	ValueOutput
+Band 5 DExp Peak / Rms	0	4194304	Value	ValueOutput
+Band 5 DExp Dynamic Rati	0	4194304	Value	ValueOutput
+Band 5 DExp Invert Dynam	0	4194304	Value	ValueOutput
+Band 5 DExp L.I.D.	0	4194304	Value	ValueOutput
+Band 5 DExp L.I.D. Thres	0	4194304	Value	ValueOutput
+Band 5 DExp H Max	0	4194304	Value	ValueOutput
+Band 5 DExp Ratio	0	4194304	Value	ValueOutput
+Band 5 DExp Ratio Inf	0	4194304	Value	ValueOutput
+Band 5 DExpander Thresho	0	4194304	Value	ValueOutput
+Band 5 DExpander Knee	0	4194304	Value	ValueOutput
+Band 5 DExpander Limit	0	4194304	Value	ValueOutput
+Band 5 DExpander Hold	0	4194304	Value	ValueOutput
+Band 1 Link	0	4194304	Value	ValueOutput
+Band 2 Link	0	4194304	Value	ValueOutput
+Band 3 Link	0	4194304	Value	ValueOutput
+Band 4 Link	0	4194304	Value	ValueOutput
+Band 5 Link	0	4194304	Value	ValueOutput
+Process Channel 1	0	4194304	Value	ValueOutput
+Process Channel 2	0	4194304	Value	ValueOutput
+Process Channel 3	0	4194304	Value	ValueOutput
+Process Channel 4	0	4194304	Value	ValueOutput
+Process Channel 5	0	4194304	Value	ValueOutput
+Process Channel 6	0	4194304	Value	ValueOutput
+Process Channel 7	0	4194304	Value	ValueOutput
+Process Channel 8	0	4194304	Value	ValueOutput
+Send Channel  1 To SideC	0	4194304	Value	ValueOutput
+Send Channel  2 To SideC	0	4194304	Value	ValueOutput
+Send Channel  3 To SideC	0	4194304	Value	ValueOutput
+Send Channel  4 To SideC	0	4194304	Value	ValueOutput
+Send Channel  5 To SideC	0	4194304	Value	ValueOutput
+Send Channel  6 To SideC	0	4194304	Value	ValueOutput
+Send Channel  7 To SideC	0	4194304	Value	ValueOutput
+Send Channel  8 To SideC	0	4194304	Value	ValueOutput
+Selected Band	0	4194304	Value	ValueOutput
+Selected Dyn	0	4194304	Value	ValueOutput
+ResetSolo	0	4194304	Value	ValueOutput
+Clipper Ceiling	0	4194304	Value	ValueOutput
+ToolTips Display time	0	4194304	Value	ValueOutput
+Enable ToolTips	0	4194304	Value	ValueOutput
+Morphing Automation	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,249 @@
+Scope
+Manufacturer	Model
+One Small Clue	vst.6D83.Poise
+Note: Will match scope definitions for vst.6D83.Poise or vst.6D83
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+-- Pad 1 --	0	4194304	Value	ValueOutput
+P01 Pitch	0	4194304	Value	ValueOutput
+P01 Volume	0	4194304	Value	ValueOutput
+P01 Balance	0	4194304	Value	ValueOutput
+P01 Vel->Amp	0	4194304	Value	ValueOutput
+P01 Vel->Fx Par 1	0	4194304	Value	ValueOutput
+P01 Vel->Fx Par 2	0	4194304	Value	ValueOutput
+P01 Humanise Pitch	0	4194304	Value	ValueOutput
+P01 Humanise Time	0	4194304	Value	ValueOutput
+P01 Humanise Velocity	0	4194304	Value	ValueOutput
+P01 Fx Par 1	0	4194304	Value	ValueOutput
+P01 Fx Par 2	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-- Pad 2 --	0	4194304	Value	ValueOutput
+P02 Pitch	0	4194304	Value	ValueOutput
+P02 Volume	0	4194304	Value	ValueOutput
+P02 Balance	0	4194304	Value	ValueOutput
+P02 Vel->Amp	0	4194304	Value	ValueOutput
+P02 Vel->Fx Par 1	0	4194304	Value	ValueOutput
+P02 Vel->Fx Par 2	0	4194304	Value	ValueOutput
+P02 Humanise Pitch	0	4194304	Value	ValueOutput
+P02 Humanise Time	0	4194304	Value	ValueOutput
+P02 Humanise Velocity	0	4194304	Value	ValueOutput
+P02 Fx Par 1	0	4194304	Value	ValueOutput
+P02 Fx Par 2	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-- Pad 3 --	0	4194304	Value	ValueOutput
+P03 Pitch	0	4194304	Value	ValueOutput
+P03 Volume	0	4194304	Value	ValueOutput
+P03 Balance	0	4194304	Value	ValueOutput
+P03 Vel->Amp	0	4194304	Value	ValueOutput
+P03 Vel->Fx Par 1	0	4194304	Value	ValueOutput
+P03 Vel->Fx Par 2	0	4194304	Value	ValueOutput
+P03 Humanise Pitch	0	4194304	Value	ValueOutput
+P03 Humanise Time	0	4194304	Value	ValueOutput
+P03 Humanise Velocity	0	4194304	Value	ValueOutput
+P03 Fx Par 1	0	4194304	Value	ValueOutput
+P03 Fx Par 2	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-- Pad 4 --	0	4194304	Value	ValueOutput
+P04 Pitch	0	4194304	Value	ValueOutput
+P04 Volume	0	4194304	Value	ValueOutput
+P04 Balance	0	4194304	Value	ValueOutput
+P04 Vel->Amp	0	4194304	Value	ValueOutput
+P04 Vel->Fx Par 1	0	4194304	Value	ValueOutput
+P04 Vel->Fx Par 2	0	4194304	Value	ValueOutput
+P04 Humanise Pitch	0	4194304	Value	ValueOutput
+P04 Humanise Time	0	4194304	Value	ValueOutput
+P04 Humanise Velocity	0	4194304	Value	ValueOutput
+P04 Fx Par 1	0	4194304	Value	ValueOutput
+P04 Fx Par 2	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-- Pad 5 --	0	4194304	Value	ValueOutput
+P05 Pitch	0	4194304	Value	ValueOutput
+P05 Volume	0	4194304	Value	ValueOutput
+P05 Balance	0	4194304	Value	ValueOutput
+P05 Vel->Amp	0	4194304	Value	ValueOutput
+P05 Vel->Fx Par 1	0	4194304	Value	ValueOutput
+P05 Vel->Fx Par 2	0	4194304	Value	ValueOutput
+P05 Humanise Pitch	0	4194304	Value	ValueOutput
+P05 Humanise Time	0	4194304	Value	ValueOutput
+P05 Humanise Velocity	0	4194304	Value	ValueOutput
+P05 Fx Par 1	0	4194304	Value	ValueOutput
+P05 Fx Par 2	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-- Pad 6 --	0	4194304	Value	ValueOutput
+P06 Pitch	0	4194304	Value	ValueOutput
+P06 Volume	0	4194304	Value	ValueOutput
+P06 Balance	0	4194304	Value	ValueOutput
+P06 Vel->Amp	0	4194304	Value	ValueOutput
+P06 Vel->Fx Par 1	0	4194304	Value	ValueOutput
+P06 Vel->Fx Par 2	0	4194304	Value	ValueOutput
+P06 Humanise Pitch	0	4194304	Value	ValueOutput
+P06 Humanise Time	0	4194304	Value	ValueOutput
+P06 Humanise Velocity	0	4194304	Value	ValueOutput
+P06 Fx Par 1	0	4194304	Value	ValueOutput
+P06 Fx Par 2	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-- Pad 7 --	0	4194304	Value	ValueOutput
+P07 Pitch	0	4194304	Value	ValueOutput
+P07 Volume	0	4194304	Value	ValueOutput
+P07 Balance	0	4194304	Value	ValueOutput
+P07 Vel->Amp	0	4194304	Value	ValueOutput
+P07 Vel->Fx Par 1	0	4194304	Value	ValueOutput
+P07 Vel->Fx Par 2	0	4194304	Value	ValueOutput
+P07 Humanise Pitch	0	4194304	Value	ValueOutput
+P07 Humanise Time	0	4194304	Value	ValueOutput
+P07 Humanise Velocity	0	4194304	Value	ValueOutput
+P07 Fx Par 1	0	4194304	Value	ValueOutput
+P07 Fx Par 2	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-- Pad 8 --	0	4194304	Value	ValueOutput
+P08 Pitch	0	4194304	Value	ValueOutput
+P08 Volume	0	4194304	Value	ValueOutput
+P08 Balance	0	4194304	Value	ValueOutput
+P08 Vel->Amp	0	4194304	Value	ValueOutput
+P08 Vel->Fx Par 1	0	4194304	Value	ValueOutput
+P08 Vel->Fx Par 2	0	4194304	Value	ValueOutput
+P08 Humanise Pitch	0	4194304	Value	ValueOutput
+P08 Humanise Time	0	4194304	Value	ValueOutput
+P08 Humanise Velocity	0	4194304	Value	ValueOutput
+P08 Fx Par 1	0	4194304	Value	ValueOutput
+P08 Fx Par 2	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-- Pad 9 --	0	4194304	Value	ValueOutput
+P09 Pitch	0	4194304	Value	ValueOutput
+P09 Volume	0	4194304	Value	ValueOutput
+P09 Balance	0	4194304	Value	ValueOutput
+P09 Vel->Amp	0	4194304	Value	ValueOutput
+P09 Vel->Fx Par 1	0	4194304	Value	ValueOutput
+P09 Vel->Fx Par 2	0	4194304	Value	ValueOutput
+P09 Humanise Pitch	0	4194304	Value	ValueOutput
+P09 Humanise Time	0	4194304	Value	ValueOutput
+P09 Humanise Velocity	0	4194304	Value	ValueOutput
+P09 Fx Par 1	0	4194304	Value	ValueOutput
+P09 Fx Par 2	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-- Pad 10 --	0	4194304	Value	ValueOutput
+P10 Pitch	0	4194304	Value	ValueOutput
+P10 Volume	0	4194304	Value	ValueOutput
+P10 Balance	0	4194304	Value	ValueOutput
+P10 Vel->Amp	0	4194304	Value	ValueOutput
+P10 Vel->Fx Par 1	0	4194304	Value	ValueOutput
+P10 Vel->Fx Par 2	0	4194304	Value	ValueOutput
+P10 Humanise Pitch	0	4194304	Value	ValueOutput
+P10 Humanise Time	0	4194304	Value	ValueOutput
+P10 Humanise Velocity	0	4194304	Value	ValueOutput
+P10 Fx Par 1	0	4194304	Value	ValueOutput
+P10 Fx Par 2	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-- Pad 11 --	0	4194304	Value	ValueOutput
+P11 Pitch	0	4194304	Value	ValueOutput
+P11 Volume	0	4194304	Value	ValueOutput
+P11 Balance	0	4194304	Value	ValueOutput
+P11 Vel->Amp	0	4194304	Value	ValueOutput
+P11 Vel->Fx Par 1	0	4194304	Value	ValueOutput
+P11 Vel->Fx Par 2	0	4194304	Value	ValueOutput
+P11 Humanise Pitch	0	4194304	Value	ValueOutput
+P11 Humanise Time	0	4194304	Value	ValueOutput
+P11 Humanise Velocity	0	4194304	Value	ValueOutput
+P11 Fx Par 1	0	4194304	Value	ValueOutput
+P11 Fx Par 2	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-- Pad 12 --	0	4194304	Value	ValueOutput
+P12 Pitch	0	4194304	Value	ValueOutput
+P12 Volume	0	4194304	Value	ValueOutput
+P12 Balance	0	4194304	Value	ValueOutput
+P12 Vel->Amp	0	4194304	Value	ValueOutput
+P12 Vel->Fx Par 1	0	4194304	Value	ValueOutput
+P12 Vel->Fx Par 2	0	4194304	Value	ValueOutput
+P12 Humanise Pitch	0	4194304	Value	ValueOutput
+P12 Humanise Time	0	4194304	Value	ValueOutput
+P12 Humanise Velocity	0	4194304	Value	ValueOutput
+P12 Fx Par 1	0	4194304	Value	ValueOutput
+P12 Fx Par 2	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-- Pad 13 --	0	4194304	Value	ValueOutput
+P13 Pitch	0	4194304	Value	ValueOutput
+P13 Volume	0	4194304	Value	ValueOutput
+P13 Balance	0	4194304	Value	ValueOutput
+P13 Vel->Amp	0	4194304	Value	ValueOutput
+P13 Vel->Fx Par 1	0	4194304	Value	ValueOutput
+P13 Vel->Fx Par 2	0	4194304	Value	ValueOutput
+P13 Humanise Pitch	0	4194304	Value	ValueOutput
+P13 Humanise Time	0	4194304	Value	ValueOutput
+P13 Humanise Velocity	0	4194304	Value	ValueOutput
+P13 Fx Par 1	0	4194304	Value	ValueOutput
+P13 Fx Par 2	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-- Pad 14 --	0	4194304	Value	ValueOutput
+P14 Pitch	0	4194304	Value	ValueOutput
+P14 Volume	0	4194304	Value	ValueOutput
+P14 Balance	0	4194304	Value	ValueOutput
+P14 Vel->Amp	0	4194304	Value	ValueOutput
+P14 Vel->Fx Par 1	0	4194304	Value	ValueOutput
+P14 Vel->Fx Par 2	0	4194304	Value	ValueOutput
+P14 Humanise Pitch	0	4194304	Value	ValueOutput
+P14 Humanise Time	0	4194304	Value	ValueOutput
+P14 Humanise Velocity	0	4194304	Value	ValueOutput
+P14 Fx Par 1	0	4194304	Value	ValueOutput
+P14 Fx Par 2	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-- Pad 15 --	0	4194304	Value	ValueOutput
+P15 Pitch	0	4194304	Value	ValueOutput
+P15 Volume	0	4194304	Value	ValueOutput
+P15 Balance	0	4194304	Value	ValueOutput
+P15 Vel->Amp	0	4194304	Value	ValueOutput
+P15 Vel->Fx Par 1	0	4194304	Value	ValueOutput
+P15 Vel->Fx Par 2	0	4194304	Value	ValueOutput
+P15 Humanise Pitch	0	4194304	Value	ValueOutput
+P15 Humanise Time	0	4194304	Value	ValueOutput
+P15 Humanise Velocity	0	4194304	Value	ValueOutput
+P15 Fx Par 1	0	4194304	Value	ValueOutput
+P15 Fx Par 2	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-- Pad 16 --	0	4194304	Value	ValueOutput
+P16 Pitch	0	4194304	Value	ValueOutput
+P16 Volume	0	4194304	Value	ValueOutput
+P16 Balance	0	4194304	Value	ValueOutput
+P16 Vel->Amp	0	4194304	Value	ValueOutput
+P16 Vel->Fx Par 1	0	4194304	Value	ValueOutput
+P16 Vel->Fx Par 2	0	4194304	Value	ValueOutput
+P16 Humanise Pitch	0	4194304	Value	ValueOutput
+P16 Humanise Time	0	4194304	Value	ValueOutput
+P16 Humanise Velocity	0	4194304	Value	ValueOutput
+P16 Fx Par 1	0	4194304	Value	ValueOutput
+P16 Fx Par 2	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+-Reserved-	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

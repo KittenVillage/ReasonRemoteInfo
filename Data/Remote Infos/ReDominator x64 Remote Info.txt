@@ -1,0 +1,75 @@
+Scope
+Manufacturer	Model
+AudioRealism	vst.ReDo.ReDominator x64
+Note: Will match scope definitions for vst.ReDo.ReDominator x64 or vst.ReDo
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+DCO Range	0	4194304	Value	ValueOutput
+DCO LFO	0	4194304	Value	ValueOutput
+DCO Env	0	4194304	Value	ValueOutput
+DCO Env Mode	0	4194304	Value	ValueOutput
+DCO After	0	4194304	Value	ValueOutput
+Bender Range	0	4194304	Value	ValueOutput
+DCO Pulse	0	4194304	Value	ValueOutput
+DCO Saw	0	4194304	Value	ValueOutput
+DCO Sub	0	4194304	Value	ValueOutput
+Sub Level	0	4194304	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+DCO PWM	0	4194304	Value	ValueOutput
+DCO PWM Rate	0	4194304	Value	ValueOutput
+VCF HPF	0	4194304	Value	ValueOutput
+VCF Freq	0	4194304	Value	ValueOutput
+VCF Reso	0	4194304	Value	ValueOutput
+VCF ENV	0	4194304	Value	ValueOutput
+VCF Env Mode	0	4194304	Value	ValueOutput
+VCF LFO	0	4194304	Value	ValueOutput
+VCF Key Follow	0	4194304	Value	ValueOutput
+VCF After	0	4194304	Value	ValueOutput
+VCA Level	0	4194304	Value	ValueOutput
+VCA Env Mode	0	4194304	Value	ValueOutput
+VCA After	0	4194304	Value	ValueOutput
+Chorus	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Delay	0	4194304	Value	ValueOutput
+Env T1	0	4194304	Value	ValueOutput
+Env L1	0	4194304	Value	ValueOutput
+Env T2	0	4194304	Value	ValueOutput
+Env L2	0	4194304	Value	ValueOutput
+Env T3	0	4194304	Value	ValueOutput
+Env L3	0	4194304	Value	ValueOutput
+Env T4	0	4194304	Value	ValueOutput
+Env Key Follow	0	4194304	Value	ValueOutput
+Porta Time	0	4194304	Value	ValueOutput
+Porta Mode	0	4194304	Value	ValueOutput
+Poly Mode	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Chord Write	0	4194304	Value	ValueOutput
+Chord Mode	0	4194304	Value	ValueOutput
+Chord Count	0	4194304	Value	ValueOutput
+Chord Note 0	0	4194304	Value	ValueOutput
+Chord Note 1	0	4194304	Value	ValueOutput
+Chord Note 2	0	4194304	Value	ValueOutput
+Chord Note 3	0	4194304	Value	ValueOutput
+Chord Note 4	0	4194304	Value	ValueOutput
+Chord Note 5	0	4194304	Value	ValueOutput
+Aftertouch Enabled	0	4194304	Value	ValueOutput
+Retrig DCO	0	4194304	Value	ValueOutput
+Retrig LFO	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

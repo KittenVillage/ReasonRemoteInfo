@@ -1,0 +1,1682 @@
+Scope
+Manufacturer	Model
+Overloud	vst.TH-3.TH3-64
+Note: Will match scope definitions for vst.TH-3.TH3-64 or vst.TH-3
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Slot 1	0	4194304	Value	ValueOutput
+Slot 2	0	4194304	Value	ValueOutput
+Slot 3	0	4194304	Value	ValueOutput
+Slot 4	0	4194304	Value	ValueOutput
+Slot 5	0	4194304	Value	ValueOutput
+Slot 6	0	4194304	Value	ValueOutput
+Slot 7	0	4194304	Value	ValueOutput
+Slot 8	0	4194304	Value	ValueOutput
+Master Sensitivity	0	4194304	Value	ValueOutput
+Master Output Level	0	4194304	Value	ValueOutput
+Master Noise Gate	0	4194304	Value	ValueOutput
+Master Low	0	4194304	Value	ValueOutput
+Master High	0	4194304	Value	ValueOutput
+Master Reverb	0	4194304	Value	ValueOutput
+Master Delay	0	4194304	Value	ValueOutput
+Master In Source	0	4194304	Value	ValueOutput
+Master Tuner On/Off	0	4194304	Value	ValueOutput
+Master Tuner Mute	0	4194304	Value	ValueOutput
+Splitter Balance	0	4194304	Value	ValueOutput
+Splitter X-OVER FREQ	0	4194304	Value	ValueOutput
+Splitter FREQ SPREAD	0	4194304	Value	ValueOutput
+Splitter Mode	0	4194304	Value	ValueOutput
+Splitter Invert	0	4194304	Value	ValueOutput
+Mixer Force Mono	0	4194304	Value	ValueOutput
+Mixer Phase 1	0	4194304	Value	ValueOutput
+Mixer DELAY 1	0	4194304	Value	ValueOutput
+Mixer WIDTH 1	0	4194304	Value	ValueOutput
+Mixer PAN 1	0	4194304	Value	ValueOutput
+Mixer LEVEL 1	0	4194304	Value	ValueOutput
+Mixer PHASE 2	0	4194304	Value	ValueOutput
+Mixer DELAY 2	0	4194304	Value	ValueOutput
+Mixer WIDTH 2	0	4194304	Value	ValueOutput
+Mixer PAN 2	0	4194304	Value	ValueOutput
+Mixer LEVEL 2	0	4194304	Value	ValueOutput
+Mixer Balance	0	4194304	Value	ValueOutput
+Looper Power	0	4194304	Value	ValueOutput
+Looper Metronome	0	4194304	Value	ValueOutput
+Looper Rec Pan	0	4194304	Value	ValueOutput
+Looper Rec Volume	0	4194304	Value	ValueOutput
+Looper Play Volume	0	4194304	Value	ValueOutput
+Looper Reverse	0	4194304	Value	ValueOutput
+Looper Autostart	0	4194304	Value	ValueOutput
+DVmark Maragold Clean Po	0	4194304	Value	ValueOutput
+DVmark Maragold Clean Ga	0	4194304	Value	ValueOutput
+DVmark Maragold Clean Ma	0	4194304	Value	ValueOutput
+DVmark Maragold Clean Pr	0	4194304	Value	ValueOutput
+DVmark Maragold Clean Ba	0	4194304	Value	ValueOutput
+DVmark Maragold Clean Mi	0	4194304	Value	ValueOutput
+DVmark Maragold Clean Hi	0	4194304	Value	ValueOutput
+DVmark Maragold Dist Pow	0	4194304	Value	ValueOutput
+DVmark Maragold Dist Gai	0	4194304	Value	ValueOutput
+DVmark Maragold Dist Mas	0	4194304	Value	ValueOutput
+DVmark Maragold Dist Pre	0	4194304	Value	ValueOutput
+DVmark Maragold Dist Bas	0	4194304	Value	ValueOutput
+DVmark Maragold Dist Mid	0	4194304	Value	ValueOutput
+DVmark Maragold Dist Hig	0	4194304	Value	ValueOutput
+Rock '75 (UK) Power	0	4194304	Value	ValueOutput
+Rock '75 (UK) DRIVE	0	4194304	Value	ValueOutput
+Rock '75 (UK) BASS	0	4194304	Value	ValueOutput
+Rock '75 (UK) MID	0	4194304	Value	ValueOutput
+Rock '75 (UK) TREBLE	0	4194304	Value	ValueOutput
+Rock '75 (UK) PRESENCE	0	4194304	Value	ValueOutput
+Rock '75 (UK) VOLUME	0	4194304	Value	ValueOutput
+Rock '75 (UK) LEVEL	0	4194304	Value	ValueOutput
+Rock 900 (UK) CH. A Powe	0	4194304	Value	ValueOutput
+Rock 900 (UK) CH. A DRIV	0	4194304	Value	ValueOutput
+Rock 900 (UK) CH. A BASS	0	4194304	Value	ValueOutput
+Rock 900 (UK) CH. A MID	0	4194304	Value	ValueOutput
+Rock 900 (UK) CH. A TREB	0	4194304	Value	ValueOutput
+Rock 900 (UK) CH. A PRES	0	4194304	Value	ValueOutput
+Rock 900 (UK) CH. A VOLU	0	4194304	Value	ValueOutput
+Rock 900 (UK) CH. A LEVE	0	4194304	Value	ValueOutput
+Rock 900 (UK) CH. B Powe	0	4194304	Value	ValueOutput
+Rock 900 (UK) CH. B DRIV	0	4194304	Value	ValueOutput
+Rock 900 (UK) CH. B BASS	0	4194304	Value	ValueOutput
+Rock 900 (UK) CH. B MID	0	4194304	Value	ValueOutput
+Rock 900 (UK) CH. B TREB	0	4194304	Value	ValueOutput
+Rock 900 (UK) CH. B PRES	0	4194304	Value	ValueOutput
+Rock 900 (UK) CH. B VOLU	0	4194304	Value	ValueOutput
+Rock 900 (UK) CH. B LEVE	0	4194304	Value	ValueOutput
+Modern (US) CH1 Power	0	4194304	Value	ValueOutput
+Modern (US) CH1 MODE	0	4194304	Value	ValueOutput
+Modern (US) CH1 DRIVE	0	4194304	Value	ValueOutput
+Modern (US) CH1 BASS	0	4194304	Value	ValueOutput
+Modern (US) CH1 MID	0	4194304	Value	ValueOutput
+Modern (US) CH1 TREBLE	0	4194304	Value	ValueOutput
+Modern (US) CH1 PRES	0	4194304	Value	ValueOutput
+Modern (US) CH1 VOLUME	0	4194304	Value	ValueOutput
+Modern (US) CH1 LEVEL	0	4194304	Value	ValueOutput
+Modern (US) CH2 Power	0	4194304	Value	ValueOutput
+Modern (US) CH2 MODE	0	4194304	Value	ValueOutput
+Modern (US) CH2 DRIVE	0	4194304	Value	ValueOutput
+Modern (US) CH2 BASS	0	4194304	Value	ValueOutput
+Modern (US) CH2 MID	0	4194304	Value	ValueOutput
+Modern (US) CH2 TREBLE	0	4194304	Value	ValueOutput
+Modern (US) CH2 PRES	0	4194304	Value	ValueOutput
+Modern (US) CH2 VOLUME	0	4194304	Value	ValueOutput
+Modern (US) CH2 LEVEL	0	4194304	Value	ValueOutput
+Modern (US) CH3 Power	0	4194304	Value	ValueOutput
+Modern (US) CH3 MODE	0	4194304	Value	ValueOutput
+Modern (US) CH3 DRIVE	0	4194304	Value	ValueOutput
+Modern (US) CH3 BASS	0	4194304	Value	ValueOutput
+Modern (US) CH3 MID	0	4194304	Value	ValueOutput
+Modern (US) CH3 TREBLE	0	4194304	Value	ValueOutput
+Modern (US) CH3 PRES	0	4194304	Value	ValueOutput
+Modern (US) CH3 VOLUME	0	4194304	Value	ValueOutput
+Modern (US) CH3 LEVEL	0	4194304	Value	ValueOutput
+Slo 88 (US) Clean Power	0	4194304	Value	ValueOutput
+Slo 88 (US) Clean DRIVE	0	4194304	Value	ValueOutput
+Slo 88 (US) Clean BASS	0	4194304	Value	ValueOutput
+Slo 88 (US) Clean MID	0	4194304	Value	ValueOutput
+Slo 88 (US) Clean TREBLE	0	4194304	Value	ValueOutput
+Slo 88 (US) Clean VOLUME	0	4194304	Value	ValueOutput
+Slo 88 (US) Clean LEVEL	0	4194304	Value	ValueOutput
+Slo 88 (US) Crunch Power	0	4194304	Value	ValueOutput
+Slo 88 (US) Crunch DRIVE	0	4194304	Value	ValueOutput
+Slo 88 (US) Crunch BASS	0	4194304	Value	ValueOutput
+Slo 88 (US) Crunch MID	0	4194304	Value	ValueOutput
+Slo 88 (US) Crunch TREBL	0	4194304	Value	ValueOutput
+Slo 88 (US) Crunch VOLUM	0	4194304	Value	ValueOutput
+Slo 88 (US) Crunch LEVEL	0	4194304	Value	ValueOutput
+Slo 88 (US) Lead Power	0	4194304	Value	ValueOutput
+Slo 88 (US) Lead DRIVE	0	4194304	Value	ValueOutput
+Slo 88 (US) Lead BASS	0	4194304	Value	ValueOutput
+Slo 88 (US) Lead MID	0	4194304	Value	ValueOutput
+Slo 88 (US) Lead TREBLE	0	4194304	Value	ValueOutput
+Slo 88 (US) Lead VOLUME	0	4194304	Value	ValueOutput
+Slo 88 (US) Lead LEVEL	0	4194304	Value	ValueOutput
+Heavy51 (US) Rhythm Powe	0	4194304	Value	ValueOutput
+Heavy51 (US) Rhythm DRIV	0	4194304	Value	ValueOutput
+Heavy51 (US) Rhythm BASS	0	4194304	Value	ValueOutput
+Heavy51 (US) Rhythm MID	0	4194304	Value	ValueOutput
+Heavy51 (US) Rhythm TREB	0	4194304	Value	ValueOutput
+Heavy51 (US) Rhythm PRES	0	4194304	Value	ValueOutput
+Heavy51 (US) Rhythm VOLU	0	4194304	Value	ValueOutput
+Heavy51 (US) Rhythm LEVE	0	4194304	Value	ValueOutput
+Heavy51 (US) Lead Power	0	4194304	Value	ValueOutput
+Heavy51 (US) Lead DRIVE	0	4194304	Value	ValueOutput
+Heavy51 (US) Lead BASS	0	4194304	Value	ValueOutput
+Heavy51 (US) Lead MID	0	4194304	Value	ValueOutput
+Heavy51 (US) Lead TREBLE	0	4194304	Value	ValueOutput
+Heavy51 (US) Lead PRESEN	0	4194304	Value	ValueOutput
+Heavy51 (US) Lead VOLUME	0	4194304	Value	ValueOutput
+Heavy51 (US) Lead LEVEL	0	4194304	Value	ValueOutput
+Tumble ODS Clean Power	0	4194304	Value	ValueOutput
+Tumble ODS Clean Mode	0	4194304	Value	ValueOutput
+Tumble ODS Clean DRIVE	0	4194304	Value	ValueOutput
+Tumble ODS Clean BASS	0	4194304	Value	ValueOutput
+Tumble ODS Clean MID	0	4194304	Value	ValueOutput
+Tumble ODS Clean TREBLE	0	4194304	Value	ValueOutput
+Tumble ODS Clean PRESENC	0	4194304	Value	ValueOutput
+Tumble ODS Clean VOLUME	0	4194304	Value	ValueOutput
+Tumble ODS Clean LEVEL	0	4194304	Value	ValueOutput
+Tumble ODS Drive Power	0	4194304	Value	ValueOutput
+Tumble ODS Drive Mode	0	4194304	Value	ValueOutput
+Tumble ODS Drive DRIVE	0	4194304	Value	ValueOutput
+Tumble ODS Drive BASS	0	4194304	Value	ValueOutput
+Tumble ODS Drive MID	0	4194304	Value	ValueOutput
+Tumble ODS Drive TREBLE	0	4194304	Value	ValueOutput
+Tumble ODS Drive PRESENC	0	4194304	Value	ValueOutput
+Tumble ODS Drive VOLUME	0	4194304	Value	ValueOutput
+Tumble ODS Drive LEVEL	0	4194304	Value	ValueOutput
+High Wattage Normal Powe	0	4194304	Value	ValueOutput
+High Wattage Normal DRIV	0	4194304	Value	ValueOutput
+High Wattage Normal BASS	0	4194304	Value	ValueOutput
+High Wattage Normal MID	0	4194304	Value	ValueOutput
+High Wattage Normal TREB	0	4194304	Value	ValueOutput
+High Wattage Normal PRES	0	4194304	Value	ValueOutput
+High Wattage Normal VOLU	0	4194304	Value	ValueOutput
+High Wattage Normal LEVE	0	4194304	Value	ValueOutput
+High Wattage Brilliant P	0	4194304	Value	ValueOutput
+High Wattage Brilliant D	0	4194304	Value	ValueOutput
+High Wattage Brilliant B	0	4194304	Value	ValueOutput
+High Wattage Brilliant M	0	4194304	Value	ValueOutput
+High Wattage Brilliant T	0	4194304	Value	ValueOutput
+High Wattage Brilliant P	0	4194304	Value	ValueOutput
+High Wattage Brilliant V	0	4194304	Value	ValueOutput
+High Wattage Brilliant L	0	4194304	Value	ValueOutput
+X.T. See Power	0	4194304	Value	ValueOutput
+X.T. See DRIVE	0	4194304	Value	ValueOutput
+X.T. See BASS	0	4194304	Value	ValueOutput
+X.T. See MID	0	4194304	Value	ValueOutput
+X.T. See TREBLE	0	4194304	Value	ValueOutput
+X.T. See PRES	0	4194304	Value	ValueOutput
+X.T. See VOLUME	0	4194304	Value	ValueOutput
+X.T. See PRE EQ	0	4194304	Value	ValueOutput
+X.T. See PLEXI	0	4194304	Value	ValueOutput
+X.T. See BOOST	0	4194304	Value	ValueOutput
+X.T. See STRUCTURE	0	4194304	Value	ValueOutput
+X.T. See DAMP	0	4194304	Value	ValueOutput
+X.T. See LEVEL	0	4194304	Value	ValueOutput
+Randall LynchBox SL+ Pow	0	4194304	Value	ValueOutput
+Randall LynchBox SL+ GAI	0	4194304	Value	ValueOutput
+Randall LynchBox SL+ BAS	0	4194304	Value	ValueOutput
+Randall LynchBox SL+ MID	0	4194304	Value	ValueOutput
+Randall LynchBox SL+ TRE	0	4194304	Value	ValueOutput
+Randall LynchBox SL+ LEV	0	4194304	Value	ValueOutput
+Randall LynchBox SL+ BRI	0	4194304	Value	ValueOutput
+Randall LynchBox SL+ PRE	0	4194304	Value	ValueOutput
+Randall LynchBox SL+ DEN	0	4194304	Value	ValueOutput
+Randall LynchBox SL+ MAS	0	4194304	Value	ValueOutput
+Randall LynchBox ThreadP	0	4194304	Value	ValueOutput
+Randall LynchBox ThreadP	0	4194304	Value	ValueOutput
+Randall LynchBox ThreadP	0	4194304	Value	ValueOutput
+Randall LynchBox ThreadP	0	4194304	Value	ValueOutput
+Randall LynchBox ThreadP	0	4194304	Value	ValueOutput
+Randall LynchBox ThreadP	0	4194304	Value	ValueOutput
+Randall LynchBox ThreadP	0	4194304	Value	ValueOutput
+Randall LynchBox ThreadP	0	4194304	Value	ValueOutput
+Randall LynchBox ThreadP	0	4194304	Value	ValueOutput
+Randall LynchBox ThreadP	0	4194304	Value	ValueOutput
+Randall LynchBox Top Boo	0	4194304	Value	ValueOutput
+Randall LynchBox Top Boo	0	4194304	Value	ValueOutput
+Randall LynchBox Top Boo	0	4194304	Value	ValueOutput
+Randall LynchBox Top Boo	0	4194304	Value	ValueOutput
+Randall LynchBox Top Boo	0	4194304	Value	ValueOutput
+Randall LynchBox Top Boo	0	4194304	Value	ValueOutput
+Randall LynchBox Top Boo	0	4194304	Value	ValueOutput
+Randall LynchBox Top Boo	0	4194304	Value	ValueOutput
+Randall LynchBox Top Boo	0	4194304	Value	ValueOutput
+Randall LynchBox Top Boo	0	4194304	Value	ValueOutput
+Randall LynchBox SuperV 	0	4194304	Value	ValueOutput
+Randall LynchBox SuperV 	0	4194304	Value	ValueOutput
+Randall LynchBox SuperV 	0	4194304	Value	ValueOutput
+Randall LynchBox SuperV 	0	4194304	Value	ValueOutput
+Randall LynchBox SuperV 	0	4194304	Value	ValueOutput
+Randall LynchBox SuperV 	0	4194304	Value	ValueOutput
+Randall LynchBox SuperV 	0	4194304	Value	ValueOutput
+Randall LynchBox SuperV 	0	4194304	Value	ValueOutput
+Randall LynchBox SuperV 	0	4194304	Value	ValueOutput
+Randall LynchBox SuperV 	0	4194304	Value	ValueOutput
+Randall LynchBox Mr. Sca	0	4194304	Value	ValueOutput
+Randall LynchBox Mr. Sca	0	4194304	Value	ValueOutput
+Randall LynchBox Mr. Sca	0	4194304	Value	ValueOutput
+Randall LynchBox Mr. Sca	0	4194304	Value	ValueOutput
+Randall LynchBox Mr. Sca	0	4194304	Value	ValueOutput
+Randall LynchBox Mr. Sca	0	4194304	Value	ValueOutput
+Randall LynchBox Mr. Sca	0	4194304	Value	ValueOutput
+Randall LynchBox Mr. Sca	0	4194304	Value	ValueOutput
+Randall LynchBox Mr. Sca	0	4194304	Value	ValueOutput
+Randall LynchBox Mr. Sca	0	4194304	Value	ValueOutput
+Randall LynchBox Grail P	0	4194304	Value	ValueOutput
+Randall LynchBox Grail G	0	4194304	Value	ValueOutput
+Randall LynchBox Grail B	0	4194304	Value	ValueOutput
+Randall LynchBox Grail M	0	4194304	Value	ValueOutput
+Randall LynchBox Grail T	0	4194304	Value	ValueOutput
+Randall LynchBox Grail L	0	4194304	Value	ValueOutput
+Randall LynchBox Grail B	0	4194304	Value	ValueOutput
+Randall LynchBox Grail P	0	4194304	Value	ValueOutput
+Randall LynchBox Grail D	0	4194304	Value	ValueOutput
+Randall LynchBox Grail M	0	4194304	Value	ValueOutput
+Randall LynchBox Plexi P	0	4194304	Value	ValueOutput
+Randall LynchBox Plexi G	0	4194304	Value	ValueOutput
+Randall LynchBox Plexi B	0	4194304	Value	ValueOutput
+Randall LynchBox Plexi M	0	4194304	Value	ValueOutput
+Randall LynchBox Plexi T	0	4194304	Value	ValueOutput
+Randall LynchBox Plexi L	0	4194304	Value	ValueOutput
+Randall LynchBox Plexi B	0	4194304	Value	ValueOutput
+Randall LynchBox Plexi P	0	4194304	Value	ValueOutput
+Randall LynchBox Plexi D	0	4194304	Value	ValueOutput
+Randall LynchBox Plexi M	0	4194304	Value	ValueOutput
+Randall LynchBox Tweed P	0	4194304	Value	ValueOutput
+Randall LynchBox Tweed G	0	4194304	Value	ValueOutput
+Randall LynchBox Tweed B	0	4194304	Value	ValueOutput
+Randall LynchBox Tweed M	0	4194304	Value	ValueOutput
+Randall LynchBox Tweed T	0	4194304	Value	ValueOutput
+Randall LynchBox Tweed L	0	4194304	Value	ValueOutput
+Randall LynchBox Tweed B	0	4194304	Value	ValueOutput
+Randall LynchBox Tweed P	0	4194304	Value	ValueOutput
+Randall LynchBox Tweed D	0	4194304	Value	ValueOutput
+Randall LynchBox Tweed M	0	4194304	Value	ValueOutput
+Randall LynchBox XTC Pow	0	4194304	Value	ValueOutput
+Randall LynchBox XTC GAI	0	4194304	Value	ValueOutput
+Randall LynchBox XTC BAS	0	4194304	Value	ValueOutput
+Randall LynchBox XTC MID	0	4194304	Value	ValueOutput
+Randall LynchBox XTC TRE	0	4194304	Value	ValueOutput
+Randall LynchBox XTC LEV	0	4194304	Value	ValueOutput
+Randall LynchBox XTC BRI	0	4194304	Value	ValueOutput
+Randall LynchBox XTC PRE	0	4194304	Value	ValueOutput
+Randall LynchBox XTC DEN	0	4194304	Value	ValueOutput
+Randall LynchBox XTC MAS	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra P	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra G	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra B	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra M	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra T	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra L	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra B	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra P	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra D	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra M	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra X	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra X	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra X	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra X	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra X	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra X	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra X	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra X	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra X	0	4194304	Value	ValueOutput
+Randall LynchBox Ultra X	0	4194304	Value	ValueOutput
+Randall LynchBox Clean P	0	4194304	Value	ValueOutput
+Randall LynchBox Clean G	0	4194304	Value	ValueOutput
+Randall LynchBox Clean B	0	4194304	Value	ValueOutput
+Randall LynchBox Clean M	0	4194304	Value	ValueOutput
+Randall LynchBox Clean T	0	4194304	Value	ValueOutput
+Randall LynchBox Clean L	0	4194304	Value	ValueOutput
+Randall LynchBox Clean B	0	4194304	Value	ValueOutput
+Randall LynchBox Clean P	0	4194304	Value	ValueOutput
+Randall LynchBox Clean D	0	4194304	Value	ValueOutput
+Randall LynchBox Clean M	0	4194304	Value	ValueOutput
+Randall LynchBox BlackFa	0	4194304	Value	ValueOutput
+Randall LynchBox BlackFa	0	4194304	Value	ValueOutput
+Randall LynchBox BlackFa	0	4194304	Value	ValueOutput
+Randall LynchBox BlackFa	0	4194304	Value	ValueOutput
+Randall LynchBox BlackFa	0	4194304	Value	ValueOutput
+Randall LynchBox BlackFa	0	4194304	Value	ValueOutput
+Randall LynchBox BlackFa	0	4194304	Value	ValueOutput
+Randall LynchBox BlackFa	0	4194304	Value	ValueOutput
+Randall LynchBox BlackFa	0	4194304	Value	ValueOutput
+Randall LynchBox BlackFa	0	4194304	Value	ValueOutput
+Bassface '59 (US) Power	0	4194304	Value	ValueOutput
+Bassface '59 (US) BASS	0	4194304	Value	ValueOutput
+Bassface '59 (US) MID	0	4194304	Value	ValueOutput
+Bassface '59 (US) TREBLE	0	4194304	Value	ValueOutput
+Bassface '59 (US) PRESEN	0	4194304	Value	ValueOutput
+Bassface '59 (US) VOLUME	0	4194304	Value	ValueOutput
+Bassface '59 (US) LEVEL	0	4194304	Value	ValueOutput
+Darkface '65 (US) Power	0	4194304	Value	ValueOutput
+Darkface '65 (US) 	0	4194304	Value	ValueOutput
+Darkface '65 (US) VOLUME	0	4194304	Value	ValueOutput
+Darkface '65 (US) BASS	0	4194304	Value	ValueOutput
+Darkface '65 (US) MIDDLE	0	4194304	Value	ValueOutput
+Darkface '65 (US) TREBLE	0	4194304	Value	ValueOutput
+Darkface '65 (US) LEVEL	0	4194304	Value	ValueOutput
+Top30 (UK) Normal Power	0	4194304	Value	ValueOutput
+Top30 (UK) Normal VOLUME	0	4194304	Value	ValueOutput
+Top30 (UK) Normal LEVEL	0	4194304	Value	ValueOutput
+Top30 (UK) Bright Power	0	4194304	Value	ValueOutput
+Top30 (UK) Bright BASS	0	4194304	Value	ValueOutput
+Top30 (UK) Bright TREBLE	0	4194304	Value	ValueOutput
+Top30 (UK) Bright TOP CU	0	4194304	Value	ValueOutput
+Top30 (UK) Bright VOLUME	0	4194304	Value	ValueOutput
+Top30 (UK) Bright LEVEL	0	4194304	Value	ValueOutput
+Rock '64 (UK) Power	0	4194304	Value	ValueOutput
+Rock '64 (UK) BASS	0	4194304	Value	ValueOutput
+Rock '64 (UK) MIDDLE	0	4194304	Value	ValueOutput
+Rock '64 (UK) TREBLE	0	4194304	Value	ValueOutput
+Rock '64 (UK) PRESENCE	0	4194304	Value	ValueOutput
+Rock '64 (UK) VOLUME	0	4194304	Value	ValueOutput
+Rock '64 (UK) LEVEL	0	4194304	Value	ValueOutput
+Brunetti Metropolitan Po	0	4194304	Value	ValueOutput
+Brunetti Metropolitan IN	0	4194304	Value	ValueOutput
+Brunetti Metropolitan SH	0	4194304	Value	ValueOutput
+Brunetti Metropolitan GA	0	4194304	Value	ValueOutput
+Brunetti Metropolitan TE	0	4194304	Value	ValueOutput
+Brunetti Metropolitan AI	0	4194304	Value	ValueOutput
+Brunetti Metropolitan VO	0	4194304	Value	ValueOutput
+Brunetti Metropolitan SP	0	4194304	Value	ValueOutput
+Brunetti Metropolitan LE	0	4194304	Value	ValueOutput
+Brunetti Metropolitan DR	0	4194304	Value	ValueOutput
+Brunetti Singleman Power	0	4194304	Value	ValueOutput
+Brunetti Singleman BRIGH	0	4194304	Value	ValueOutput
+Brunetti Singleman VOLUM	0	4194304	Value	ValueOutput
+Brunetti Singleman COLOR	0	4194304	Value	ValueOutput
+Brunetti Singleman BASS	0	4194304	Value	ValueOutput
+Brunetti Singleman BOOST	0	4194304	Value	ValueOutput
+Brunetti Singleman MIDDL	0	4194304	Value	ValueOutput
+Brunetti Singleman TREBL	0	4194304	Value	ValueOutput
+Brunetti Singleman REVER	0	4194304	Value	ValueOutput
+Brunetti Singleman POWER	0	4194304	Value	ValueOutput
+Brunetti Singleman LEVEL	0	4194304	Value	ValueOutput
+Tweed Deluxe Power	0	4194304	Value	ValueOutput
+Tweed Deluxe TONE	0	4194304	Value	ValueOutput
+Tweed Deluxe VOLUME	0	4194304	Value	ValueOutput
+Tweed Deluxe INPUT	0	4194304	Value	ValueOutput
+Tweed Deluxe BRIGHT	0	4194304	Value	ValueOutput
+Tweed Deluxe LEVEL	0	4194304	Value	ValueOutput
+Lab5 Clean Power	0	4194304	Value	ValueOutput
+Lab5 Clean VOLUME	0	4194304	Value	ValueOutput
+Lab5 Clean BASS	0	4194304	Value	ValueOutput
+Lab5 Clean MIDRANGE	0	4194304	Value	ValueOutput
+Lab5 Clean TREBLE	0	4194304	Value	ValueOutput
+Lab5 Clean LO/HI	0	4194304	Value	ValueOutput
+Lab5 Clean BRIGHT	0	4194304	Value	ValueOutput
+Lab5 Clean COMP	0	4194304	Value	ValueOutput
+Lab5 Clean COMP	0	4194304	Value	ValueOutput
+Lab5 Clean MASTER	0	4194304	Value	ValueOutput
+Lab5 Dist Power	0	4194304	Value	ValueOutput
+Lab5 Dist VOLUME	0	4194304	Value	ValueOutput
+Lab5 Dist BASS	0	4194304	Value	ValueOutput
+Lab5 Dist MIDRANGE	0	4194304	Value	ValueOutput
+Lab5 Dist MID FREQ	0	4194304	Value	ValueOutput
+Lab5 Dist TREBLE	0	4194304	Value	ValueOutput
+Lab5 Dist M-FILTER	0	4194304	Value	ValueOutput
+Lab5 Dist LO/HI	0	4194304	Value	ValueOutput
+Lab5 Dist BRIGHT	0	4194304	Value	ValueOutput
+Lab5 Dist COMP	0	4194304	Value	ValueOutput
+Lab5 Dist COMP	0	4194304	Value	ValueOutput
+Lab5 Dist MASTER	0	4194304	Value	ValueOutput
+Bass SuperTube VR Power	0	4194304	Value	ValueOutput
+Bass SuperTube VR volume	0	4194304	Value	ValueOutput
+Bass SuperTube VR treble	0	4194304	Value	ValueOutput
+Bass SuperTube VR midran	0	4194304	Value	ValueOutput
+Bass SuperTube VR midfre	0	4194304	Value	ValueOutput
+Bass SuperTube VR bass	0	4194304	Value	ValueOutput
+Bass SuperTube VR level	0	4194304	Value	ValueOutput
+Bass SuperTube VR bright	0	4194304	Value	ValueOutput
+Bass SuperTube VR ultra 	0	4194304	Value	ValueOutput
+Bass SuperTube VR ultra 	0	4194304	Value	ValueOutput
+Bass SuperTube CL Power	0	4194304	Value	ValueOutput
+Bass SuperTube CL Gain	0	4194304	Value	ValueOutput
+Bass SuperTube CL Ultra 	0	4194304	Value	ValueOutput
+Bass SuperTube CL Ultra 	0	4194304	Value	ValueOutput
+Bass SuperTube CL Bass	0	4194304	Value	ValueOutput
+Bass SuperTube CL Midran	0	4194304	Value	ValueOutput
+Bass SuperTube CL Freque	0	4194304	Value	ValueOutput
+Bass SuperTube CL Treble	0	4194304	Value	ValueOutput
+Bass SuperTube CL Master	0	4194304	Value	ValueOutput
+Jazz 12'o Power	0	4194304	Value	ValueOutput
+Jazz 12'o VOLUME	0	4194304	Value	ValueOutput
+Jazz 12'o TREBLE	0	4194304	Value	ValueOutput
+Jazz 12'o MIDDLE	0	4194304	Value	ValueOutput
+Jazz 12'o BASS	0	4194304	Value	ValueOutput
+Jazz 12'o DISTORTION	0	4194304	Value	ValueOutput
+Jazz 12'o LEVEL	0	4194304	Value	ValueOutput
+Marcus II Clean Power	0	4194304	Value	ValueOutput
+Marcus II Clean DRIVE	0	4194304	Value	ValueOutput
+Marcus II Clean BASS	0	4194304	Value	ValueOutput
+Marcus II Clean MIDDLE	0	4194304	Value	ValueOutput
+Marcus II Clean TREBLE	0	4194304	Value	ValueOutput
+Marcus II Clean VOLUME	0	4194304	Value	ValueOutput
+Marcus II Clean BRIGHT	0	4194304	Value	ValueOutput
+Marcus II Clean BASS SH	0	4194304	Value	ValueOutput
+Marcus II Clean TREBLE S	0	4194304	Value	ValueOutput
+Marcus II Clean DEEP	0	4194304	Value	ValueOutput
+Marcus II Clean LEVEL	0	4194304	Value	ValueOutput
+Marcus II Lead Power	0	4194304	Value	ValueOutput
+Marcus II Lead VOLUME 1	0	4194304	Value	ValueOutput
+Marcus II Lead BASS	0	4194304	Value	ValueOutput
+Marcus II Lead MIDDLE	0	4194304	Value	ValueOutput
+Marcus II Lead TREBLE	0	4194304	Value	ValueOutput
+Marcus II Lead LEAD DRV	0	4194304	Value	ValueOutput
+Marcus II Lead LEAD MST	0	4194304	Value	ValueOutput
+Marcus II Lead TREBLE SH	0	4194304	Value	ValueOutput
+Marcus II Lead LEAD BRT	0	4194304	Value	ValueOutput
+Marcus II Lead BASS SH	0	4194304	Value	ValueOutput
+Marcus II Lead DEEP	0	4194304	Value	ValueOutput
+Marcus II Lead LEVEL	0	4194304	Value	ValueOutput
+BurnSphere Clean Power	0	4194304	Value	ValueOutput
+BurnSphere Clean Gain	0	4194304	Value	ValueOutput
+BurnSphere Clean Bass	0	4194304	Value	ValueOutput
+BurnSphere Clean Middle	0	4194304	Value	ValueOutput
+BurnSphere Clean Treble	0	4194304	Value	ValueOutput
+BurnSphere Clean Presenc	0	4194304	Value	ValueOutput
+BurnSphere Clean Volume	0	4194304	Value	ValueOutput
+BurnSphere Clean 	0	4194304	Value	ValueOutput
+BurnSphere Clean Bottom	0	4194304	Value	ValueOutput
+BurnSphere Clean Level	0	4194304	Value	ValueOutput
+BurnSphere Lead Power	0	4194304	Value	ValueOutput
+BurnSphere Lead Gain	0	4194304	Value	ValueOutput
+BurnSphere Lead Bass	0	4194304	Value	ValueOutput
+BurnSphere Lead Middle	0	4194304	Value	ValueOutput
+BurnSphere Lead Treble	0	4194304	Value	ValueOutput
+BurnSphere Lead Presence	0	4194304	Value	ValueOutput
+BurnSphere Lead Volume	0	4194304	Value	ValueOutput
+BurnSphere Lead 	0	4194304	Value	ValueOutput
+BurnSphere Lead Bottom	0	4194304	Value	ValueOutput
+BurnSphere Lead Level	0	4194304	Value	ValueOutput
+Plexi - Voice 1 Power	0	4194304	Value	ValueOutput
+Plexi - Voice 1 BASS	0	4194304	Value	ValueOutput
+Plexi - Voice 1 MIDDLE	0	4194304	Value	ValueOutput
+Plexi - Voice 1 TREBLE	0	4194304	Value	ValueOutput
+Plexi - Voice 1 PRESENCE	0	4194304	Value	ValueOutput
+Plexi - Voice 1 VOLUME	0	4194304	Value	ValueOutput
+Plexi - Voice 1 LEVEL	0	4194304	Value	ValueOutput
+Plexi - Voice 2 Power	0	4194304	Value	ValueOutput
+Plexi - Voice 2 BASS	0	4194304	Value	ValueOutput
+Plexi - Voice 2 MIDDLE	0	4194304	Value	ValueOutput
+Plexi - Voice 2 TREBLE	0	4194304	Value	ValueOutput
+Plexi - Voice 2 PRESENCE	0	4194304	Value	ValueOutput
+Plexi - Voice 2 VOLUME	0	4194304	Value	ValueOutput
+Plexi - Voice 2 LEVEL	0	4194304	Value	ValueOutput
+Rock 22.10 Normal Power	0	4194304	Value	ValueOutput
+Rock 22.10 Normal DRIVE	0	4194304	Value	ValueOutput
+Rock 22.10 Normal BASS	0	4194304	Value	ValueOutput
+Rock 22.10 Normal MIDDLE	0	4194304	Value	ValueOutput
+Rock 22.10 Normal TREBLE	0	4194304	Value	ValueOutput
+Rock 22.10 Normal PRES	0	4194304	Value	ValueOutput
+Rock 22.10 Normal VOLUME	0	4194304	Value	ValueOutput
+Rock 22.10 Normal LEVEL	0	4194304	Value	ValueOutput
+Rock 22.10 Boost Power	0	4194304	Value	ValueOutput
+Rock 22.10 Boost DRIVE	0	4194304	Value	ValueOutput
+Rock 22.10 Boost BASS	0	4194304	Value	ValueOutput
+Rock 22.10 Boost MIDDLE	0	4194304	Value	ValueOutput
+Rock 22.10 Boost TREBLE	0	4194304	Value	ValueOutput
+Rock 22.10 Boost PRES	0	4194304	Value	ValueOutput
+Rock 22.10 Boost VOLUME	0	4194304	Value	ValueOutput
+Rock 22.10 Boost LEVEL	0	4194304	Value	ValueOutput
+Overloud Rhythm Power	0	4194304	Value	ValueOutput
+Overloud Rhythm DRIVE	0	4194304	Value	ValueOutput
+Overloud Rhythm BASS	0	4194304	Value	ValueOutput
+Overloud Rhythm MID	0	4194304	Value	ValueOutput
+Overloud Rhythm TREBLE	0	4194304	Value	ValueOutput
+Overloud Rhythm PRES	0	4194304	Value	ValueOutput
+Overloud Rhythm VOLUME	0	4194304	Value	ValueOutput
+Overloud Rhythm LEVEL	0	4194304	Value	ValueOutput
+Overloud Prog Power	0	4194304	Value	ValueOutput
+Overloud Prog GAIN	0	4194304	Value	ValueOutput
+Overloud Prog BASS	0	4194304	Value	ValueOutput
+Overloud Prog MIDDLE	0	4194304	Value	ValueOutput
+Overloud Prog TREBLE	0	4194304	Value	ValueOutput
+Overloud Prog PRES	0	4194304	Value	ValueOutput
+Overloud Prog VOLUME	0	4194304	Value	ValueOutput
+Overloud Prog LEVEL	0	4194304	Value	ValueOutput
+Bass 900 Power	0	4194304	Value	ValueOutput
+Bass 900 DRIVE	0	4194304	Value	ValueOutput
+Bass 900 	0	4194304	Value	ValueOutput
+Bass 900 VALVE BLEND	0	4194304	Value	ValueOutput
+Bass 900 VOLUME	0	4194304	Value	ValueOutput
+Bass 900 BASS	0	4194304	Value	ValueOutput
+Bass 900 120Hz	0	4194304	Value	ValueOutput
+Bass 900 340Hz	0	4194304	Value	ValueOutput
+Bass 900 MID	0	4194304	Value	ValueOutput
+Bass 900 1.3k	0	4194304	Value	ValueOutput
+Bass 900 2.6k	0	4194304	Value	ValueOutput
+Bass 900 TREBLE	0	4194304	Value	ValueOutput
+Overloud Custom Crisp Po	0	4194304	Value	ValueOutput
+Overloud Custom Crisp 	0	4194304	Value	ValueOutput
+Overloud Custom Crisp DR	0	4194304	Value	ValueOutput
+Overloud Custom Crisp BA	0	4194304	Value	ValueOutput
+Overloud Custom Crisp MI	0	4194304	Value	ValueOutput
+Overloud Custom Crisp TR	0	4194304	Value	ValueOutput
+Overloud Custom Crisp PR	0	4194304	Value	ValueOutput
+Overloud Custom Crisp VO	0	4194304	Value	ValueOutput
+Overloud Custom Crisp LE	0	4194304	Value	ValueOutput
+Overloud Custom Rhythm P	0	4194304	Value	ValueOutput
+Overloud Custom Rhythm 	0	4194304	Value	ValueOutput
+Overloud Custom Rhythm D	0	4194304	Value	ValueOutput
+Overloud Custom Rhythm B	0	4194304	Value	ValueOutput
+Overloud Custom Rhythm M	0	4194304	Value	ValueOutput
+Overloud Custom Rhythm T	0	4194304	Value	ValueOutput
+Overloud Custom Rhythm P	0	4194304	Value	ValueOutput
+Overloud Custom Rhythm V	0	4194304	Value	ValueOutput
+Overloud Custom Rhythm L	0	4194304	Value	ValueOutput
+Overloud Custom Power Po	0	4194304	Value	ValueOutput
+Overloud Custom Power 	0	4194304	Value	ValueOutput
+Overloud Custom Power DR	0	4194304	Value	ValueOutput
+Overloud Custom Power BA	0	4194304	Value	ValueOutput
+Overloud Custom Power MI	0	4194304	Value	ValueOutput
+Overloud Custom Power TR	0	4194304	Value	ValueOutput
+Overloud Custom Power PR	0	4194304	Value	ValueOutput
+Overloud Custom Power VO	0	4194304	Value	ValueOutput
+Overloud Custom Power LE	0	4194304	Value	ValueOutput
+Caliper Studio 50 Clean 	0	4194304	Value	ValueOutput
+Caliper Studio 50 Clean 	0	4194304	Value	ValueOutput
+Caliper Studio 50 Clean 	0	4194304	Value	ValueOutput
+Caliper Studio 50 Clean 	0	4194304	Value	ValueOutput
+Caliper Studio 50 Clean 	0	4194304	Value	ValueOutput
+Caliper Studio 50 Clean 	0	4194304	Value	ValueOutput
+Caliper Studio 50 Clean 	0	4194304	Value	ValueOutput
+Caliper Studio 50 Clean 	0	4194304	Value	ValueOutput
+Caliper Studio 50 Lead P	0	4194304	Value	ValueOutput
+Caliper Studio 50 Lead D	0	4194304	Value	ValueOutput
+Caliper Studio 50 Lead B	0	4194304	Value	ValueOutput
+Caliper Studio 50 Lead M	0	4194304	Value	ValueOutput
+Caliper Studio 50 Lead T	0	4194304	Value	ValueOutput
+Caliper Studio 50 Lead P	0	4194304	Value	ValueOutput
+Caliper Studio 50 Lead V	0	4194304	Value	ValueOutput
+Caliper Studio 50 Lead L	0	4194304	Value	ValueOutput
+Brunetti Mercury CH1 Pow	0	4194304	Value	ValueOutput
+Brunetti Mercury CH1 Gai	0	4194304	Value	ValueOutput
+Brunetti Mercury CH1 Vol	0	4194304	Value	ValueOutput
+Brunetti Mercury CH1 Bas	0	4194304	Value	ValueOutput
+Brunetti Mercury CH1 Mid	0	4194304	Value	ValueOutput
+Brunetti Mercury CH1 Tre	0	4194304	Value	ValueOutput
+Brunetti Mercury CH1 Mor	0	4194304	Value	ValueOutput
+Brunetti Mercury CH1 Edg	0	4194304	Value	ValueOutput
+Brunetti Mercury CH2 Pow	0	4194304	Value	ValueOutput
+Brunetti Mercury CH2 Gai	0	4194304	Value	ValueOutput
+Brunetti Mercury CH2 Vol	0	4194304	Value	ValueOutput
+Brunetti Mercury CH2 Bas	0	4194304	Value	ValueOutput
+Brunetti Mercury CH2 Mid	0	4194304	Value	ValueOutput
+Brunetti Mercury CH2 Tre	0	4194304	Value	ValueOutput
+Brunetti Mercury CH2 Mor	0	4194304	Value	ValueOutput
+Brunetti Mercury CH2 Edg	0	4194304	Value	ValueOutput
+Brunetti Mercury CH2 Boo	0	4194304	Value	ValueOutput
+Randall T2 Clean Power	0	4194304	Value	ValueOutput
+Randall T2 Clean Gain	0	4194304	Value	ValueOutput
+Randall T2 Clean Level	0	4194304	Value	ValueOutput
+Randall T2 Clean Bass	0	4194304	Value	ValueOutput
+Randall T2 Clean Mid	0	4194304	Value	ValueOutput
+Randall T2 Clean Mid Fre	0	4194304	Value	ValueOutput
+Randall T2 Clean Treble	0	4194304	Value	ValueOutput
+Randall T2 Clean Density	0	4194304	Value	ValueOutput
+Randall T2 Clean Presenc	0	4194304	Value	ValueOutput
+Randall T2 Clean Master	0	4194304	Value	ValueOutput
+Randall T2 Overdrive Pow	0	4194304	Value	ValueOutput
+Randall T2 Overdrive Gai	0	4194304	Value	ValueOutput
+Randall T2 Overdrive Lev	0	4194304	Value	ValueOutput
+Randall T2 Overdrive Bas	0	4194304	Value	ValueOutput
+Randall T2 Overdrive Mid	0	4194304	Value	ValueOutput
+Randall T2 Overdrive Mid	0	4194304	Value	ValueOutput
+Randall T2 Overdrive Tre	0	4194304	Value	ValueOutput
+Randall T2 Overdrive Den	0	4194304	Value	ValueOutput
+Randall T2 Overdrive Pre	0	4194304	Value	ValueOutput
+Randall T2 Overdrive Mas	0	4194304	Value	ValueOutput
+Randall T2 Boost Power	0	4194304	Value	ValueOutput
+Randall T2 Boost Gain	0	4194304	Value	ValueOutput
+Randall T2 Boost Level	0	4194304	Value	ValueOutput
+Randall T2 Boost Bass	0	4194304	Value	ValueOutput
+Randall T2 Boost Mid	0	4194304	Value	ValueOutput
+Randall T2 Boost Mid Fre	0	4194304	Value	ValueOutput
+Randall T2 Boost Treble	0	4194304	Value	ValueOutput
+Randall T2 Boost Density	0	4194304	Value	ValueOutput
+Randall T2 Boost Presenc	0	4194304	Value	ValueOutput
+Randall T2 Boost Master	0	4194304	Value	ValueOutput
+THD Univalve Power	0	4194304	Value	ValueOutput
+THD Univalve Volume	0	4194304	Value	ValueOutput
+THD Univalve Treble	0	4194304	Value	ValueOutput
+THD Univalve Bass	0	4194304	Value	ValueOutput
+THD Univalve Attitude	0	4194304	Value	ValueOutput
+THD Univalve Attenuator	0	4194304	Value	ValueOutput
+THD Univalve Rock-Roll	0	4194304	Value	ValueOutput
+THD Univalve Noise Reduc	0	4194304	Value	ValueOutput
+THD Univalve Lo-V / Hi-V	0	4194304	Value	ValueOutput
+THD Univalve Full Power	0	4194304	Value	ValueOutput
+THD Flexi 50 Power	0	4194304	Value	ValueOutput
+THD Flexi 50 Volume	0	4194304	Value	ValueOutput
+THD Flexi 50 Treble	0	4194304	Value	ValueOutput
+THD Flexi 50 Mid	0	4194304	Value	ValueOutput
+THD Flexi 50 Bass	0	4194304	Value	ValueOutput
+THD Flexi 50 Gain Boost	0	4194304	Value	ValueOutput
+THD Flexi 50 Tone Boost	0	4194304	Value	ValueOutput
+THD Flexi 50 Master	0	4194304	Value	ValueOutput
+THD Flexi 50 Cut	0	4194304	Value	ValueOutput
+THD Flexi 50 Input	0	4194304	Value	ValueOutput
+THD Flexi 50 Bright	0	4194304	Value	ValueOutput
+THD Flexi 50 Boost	0	4194304	Value	ValueOutput
+THD Flexi 50 Master sw.	0	4194304	Value	ValueOutput
+THD Flexi 50 20-50	0	4194304	Value	ValueOutput
+Brunetti R-Evo Clean Pow	0	4194304	Value	ValueOutput
+Brunetti R-Evo Clean Gai	0	4194304	Value	ValueOutput
+Brunetti R-Evo Clean Bas	0	4194304	Value	ValueOutput
+Brunetti R-Evo Clean Mid	0	4194304	Value	ValueOutput
+Brunetti R-Evo Clean Edg	0	4194304	Value	ValueOutput
+Brunetti R-Evo Clean Mas	0	4194304	Value	ValueOutput
+Brunetti R-Evo Clean Foc	0	4194304	Value	ValueOutput
+Brunetti R-Evo Clean Dep	0	4194304	Value	ValueOutput
+Brunetti R-Evo Clean Lev	0	4194304	Value	ValueOutput
+Brunetti R-Evo Boost Pow	0	4194304	Value	ValueOutput
+Brunetti R-Evo Boost Gai	0	4194304	Value	ValueOutput
+Brunetti R-Evo Boost Bas	0	4194304	Value	ValueOutput
+Brunetti R-Evo Boost Mid	0	4194304	Value	ValueOutput
+Brunetti R-Evo Boost Edg	0	4194304	Value	ValueOutput
+Brunetti R-Evo Boost Mas	0	4194304	Value	ValueOutput
+Brunetti R-Evo Boost Foc	0	4194304	Value	ValueOutput
+Brunetti R-Evo Boost Dep	0	4194304	Value	ValueOutput
+Brunetti R-Evo Boost Lev	0	4194304	Value	ValueOutput
+Brunetti R-Evo XLead Pow	0	4194304	Value	ValueOutput
+Brunetti R-Evo XLead Gai	0	4194304	Value	ValueOutput
+Brunetti R-Evo XLead Bas	0	4194304	Value	ValueOutput
+Brunetti R-Evo XLead Mid	0	4194304	Value	ValueOutput
+Brunetti R-Evo XLead Edg	0	4194304	Value	ValueOutput
+Brunetti R-Evo XLead Mas	0	4194304	Value	ValueOutput
+Brunetti R-Evo XLead Foc	0	4194304	Value	ValueOutput
+Brunetti R-Evo XLead Dep	0	4194304	Value	ValueOutput
+Brunetti R-Evo XLead Lev	0	4194304	Value	ValueOutput
+Overange 120 Power	0	4194304	Value	ValueOutput
+Overange 120 FAC	0	4194304	Value	ValueOutput
+Overange 120 Bass	0	4194304	Value	ValueOutput
+Overange 120 Treble	0	4194304	Value	ValueOutput
+Overange 120 HF Drive	0	4194304	Value	ValueOutput
+Overange 120 Gain	0	4194304	Value	ValueOutput
+Overange 120 Level	0	4194304	Value	ValueOutput
+P1x12 Clst (UK) Power	0	4194304	Value	ValueOutput
+P1x12 Clst (UK) Mic-A Mod	0	4194304	Value	ValueOutput
+P1x12 Clst (UK) Mic-A Pha	0	4194304	Value	ValueOutput
+P1x12 Clst (UK) Mic-B Mod	0	4194304	Value	ValueOutput
+P1x12 Clst (UK) Mic-B Pha	0	4194304	Value	ValueOutput
+P1x12 Clst (UK) Ambience	0	4194304	Value	ValueOutput
+P1x12 Clst (UK) Mic-A Lev	0	4194304	Value	ValueOutput
+P1x12 Clst (UK) Mic-B Lev	0	4194304	Value	ValueOutput
+P1x12 Clst (UK) Rear Mic 	0	4194304	Value	ValueOutput
+P1x12 Clst (UK) 45deg Mic	0	4194304	Value	ValueOutput
+P1x12 Clst (UK) ReSPiRe	0	4194304	Value	ValueOutput
+P1x12 Clst (UK) HPF	0	4194304	Value	ValueOutput
+P1x12 Clst (UK) LPF	0	4194304	Value	ValueOutput
+P4x12 Green (UK) Power	0	4194304	Value	ValueOutput
+P4x12 Green (UK) Mic-A Mo	0	4194304	Value	ValueOutput
+P4x12 Green (UK) Mic-A Ph	0	4194304	Value	ValueOutput
+P4x12 Green (UK) Mic-B Mo	0	4194304	Value	ValueOutput
+P4x12 Green (UK) Mic-B Ph	0	4194304	Value	ValueOutput
+P4x12 Green (UK) Ambience	0	4194304	Value	ValueOutput
+P4x12 Green (UK) Mic-A Le	0	4194304	Value	ValueOutput
+P4x12 Green (UK) Mic-B Le	0	4194304	Value	ValueOutput
+P4x12 Green (UK) Rear Mic	0	4194304	Value	ValueOutput
+P4x12 Green (UK) 45deg Mi	0	4194304	Value	ValueOutput
+P4x12 Green (UK) ReSPiRe	0	4194304	Value	ValueOutput
+P4x12 Green (UK) HPF	0	4194304	Value	ValueOutput
+P4x12 Green (UK) LPF	0	4194304	Value	ValueOutput
+P4x10 OB Tweed '59 (US) P	0	4194304	Value	ValueOutput
+P4x10 OB Tweed '59 (US) M	0	4194304	Value	ValueOutput
+P4x10 OB Tweed '59 (US) M	0	4194304	Value	ValueOutput
+P4x10 OB Tweed '59 (US) M	0	4194304	Value	ValueOutput
+P4x10 OB Tweed '59 (US) M	0	4194304	Value	ValueOutput
+P4x10 OB Tweed '59 (US) A	0	4194304	Value	ValueOutput
+P4x10 OB Tweed '59 (US) M	0	4194304	Value	ValueOutput
+P4x10 OB Tweed '59 (US) M	0	4194304	Value	ValueOutput
+P4x10 OB Tweed '59 (US) R	0	4194304	Value	ValueOutput
+P4x10 OB Tweed '59 (US) 4	0	4194304	Value	ValueOutput
+P4x10 OB Tweed '59 (US) R	0	4194304	Value	ValueOutput
+P4x10 OB Tweed '59 (US) H	0	4194304	Value	ValueOutput
+P4x10 OB Tweed '59 (US) L	0	4194304	Value	ValueOutput
+P4x12 Vintage (UK) Power	0	4194304	Value	ValueOutput
+P4x12 Vintage (UK) Mic-A 	0	4194304	Value	ValueOutput
+P4x12 Vintage (UK) Mic-A 	0	4194304	Value	ValueOutput
+P4x12 Vintage (UK) Mic-B 	0	4194304	Value	ValueOutput
+P4x12 Vintage (UK) Mic-B 	0	4194304	Value	ValueOutput
+P4x12 Vintage (UK) Ambien	0	4194304	Value	ValueOutput
+P4x12 Vintage (UK) Mic-A 	0	4194304	Value	ValueOutput
+P4x12 Vintage (UK) Mic-B 	0	4194304	Value	ValueOutput
+P4x12 Vintage (UK) Rear M	0	4194304	Value	ValueOutput
+P4x12 Vintage (UK) 45deg 	0	4194304	Value	ValueOutput
+P4x12 Vintage (UK) ReSPiR	0	4194304	Value	ValueOutput
+P4x12 Vintage (UK) HPF	0	4194304	Value	ValueOutput
+P4x12 Vintage (UK) LPF	0	4194304	Value	ValueOutput
+P1x12 GK (US) Power	0	4194304	Value	ValueOutput
+P1x12 GK (US) Mic-A Model	0	4194304	Value	ValueOutput
+P1x12 GK (US) Mic-A Phase	0	4194304	Value	ValueOutput
+P1x12 GK (US) Mic-B Model	0	4194304	Value	ValueOutput
+P1x12 GK (US) Mic-B Phase	0	4194304	Value	ValueOutput
+P1x12 GK (US) Ambience	0	4194304	Value	ValueOutput
+P1x12 GK (US) Mic-A Level	0	4194304	Value	ValueOutput
+P1x12 GK (US) Mic-B Level	0	4194304	Value	ValueOutput
+P1x12 GK (US) Rear Mic Le	0	4194304	Value	ValueOutput
+P1x12 GK (US) 45deg Mic L	0	4194304	Value	ValueOutput
+P1x12 GK (US) ReSPiRe	0	4194304	Value	ValueOutput
+P1x12 GK (US) HPF	0	4194304	Value	ValueOutput
+P1x12 GK (US) LPF	0	4194304	Value	ValueOutput
+P4x12 HiPower (UK) Power	0	4194304	Value	ValueOutput
+P4x12 HiPower (UK) Mic-A 	0	4194304	Value	ValueOutput
+P4x12 HiPower (UK) Mic-A 	0	4194304	Value	ValueOutput
+P4x12 HiPower (UK) Mic-B 	0	4194304	Value	ValueOutput
+P4x12 HiPower (UK) Mic-B 	0	4194304	Value	ValueOutput
+P4x12 HiPower (UK) Ambien	0	4194304	Value	ValueOutput
+P4x12 HiPower (UK) Mic-A 	0	4194304	Value	ValueOutput
+P4x12 HiPower (UK) Mic-B 	0	4194304	Value	ValueOutput
+P4x12 HiPower (UK) Rear M	0	4194304	Value	ValueOutput
+P4x12 HiPower (UK) 45deg 	0	4194304	Value	ValueOutput
+P4x12 HiPower (UK) ReSPiR	0	4194304	Value	ValueOutput
+P4x12 HiPower (UK) HPF	0	4194304	Value	ValueOutput
+P4x12 HiPower (UK) LPF	0	4194304	Value	ValueOutput
+P1x10 Caliper 50 (US) Pow	0	4194304	Value	ValueOutput
+P1x10 Caliper 50 (US) Mic	0	4194304	Value	ValueOutput
+P1x10 Caliper 50 (US) Mic	0	4194304	Value	ValueOutput
+P1x10 Caliper 50 (US) Mic	0	4194304	Value	ValueOutput
+P1x10 Caliper 50 (US) Mic	0	4194304	Value	ValueOutput
+P1x10 Caliper 50 (US) Amb	0	4194304	Value	ValueOutput
+P1x10 Caliper 50 (US) Mic	0	4194304	Value	ValueOutput
+P1x10 Caliper 50 (US) Mic	0	4194304	Value	ValueOutput
+P1x10 Caliper 50 (US) Rea	0	4194304	Value	ValueOutput
+P1x10 Caliper 50 (US) 45d	0	4194304	Value	ValueOutput
+P1x10 Caliper 50 (US) ReS	0	4194304	Value	ValueOutput
+P1x10 Caliper 50 (US) HPF	0	4194304	Value	ValueOutput
+P1x10 Caliper 50 (US) LPF	0	4194304	Value	ValueOutput
+P1x12 OB Wanted (US) Powe	0	4194304	Value	ValueOutput
+P1x12 OB Wanted (US) Mic-	0	4194304	Value	ValueOutput
+P1x12 OB Wanted (US) Mic-	0	4194304	Value	ValueOutput
+P1x12 OB Wanted (US) Mic-	0	4194304	Value	ValueOutput
+P1x12 OB Wanted (US) Mic-	0	4194304	Value	ValueOutput
+P1x12 OB Wanted (US) Ambi	0	4194304	Value	ValueOutput
+P1x12 OB Wanted (US) Mic-	0	4194304	Value	ValueOutput
+P1x12 OB Wanted (US) Mic-	0	4194304	Value	ValueOutput
+P1x12 OB Wanted (US) Rear	0	4194304	Value	ValueOutput
+P1x12 OB Wanted (US) 45de	0	4194304	Value	ValueOutput
+P1x12 OB Wanted (US) ReSP	0	4194304	Value	ValueOutput
+P1x12 OB Wanted (US) HPF	0	4194304	Value	ValueOutput
+P1x12 OB Wanted (US) LPF	0	4194304	Value	ValueOutput
+P2x10 OB Prince (US) Powe	0	4194304	Value	ValueOutput
+P2x10 OB Prince (US) Mic-	0	4194304	Value	ValueOutput
+P2x10 OB Prince (US) Mic-	0	4194304	Value	ValueOutput
+P2x10 OB Prince (US) Mic-	0	4194304	Value	ValueOutput
+P2x10 OB Prince (US) Mic-	0	4194304	Value	ValueOutput
+P2x10 OB Prince (US) Ambi	0	4194304	Value	ValueOutput
+P2x10 OB Prince (US) Mic-	0	4194304	Value	ValueOutput
+P2x10 OB Prince (US) Mic-	0	4194304	Value	ValueOutput
+P2x10 OB Prince (US) Rear	0	4194304	Value	ValueOutput
+P2x10 OB Prince (US) 45de	0	4194304	Value	ValueOutput
+P2x10 OB Prince (US) ReSP	0	4194304	Value	ValueOutput
+P2x10 OB Prince (US) HPF	0	4194304	Value	ValueOutput
+P2x10 OB Prince (US) LPF	0	4194304	Value	ValueOutput
+P1x12 OB Eastern (JP) Pow	0	4194304	Value	ValueOutput
+P1x12 OB Eastern (JP) Mic	0	4194304	Value	ValueOutput
+P1x12 OB Eastern (JP) Mic	0	4194304	Value	ValueOutput
+P1x12 OB Eastern (JP) Mic	0	4194304	Value	ValueOutput
+P1x12 OB Eastern (JP) Mic	0	4194304	Value	ValueOutput
+P1x12 OB Eastern (JP) Amb	0	4194304	Value	ValueOutput
+P1x12 OB Eastern (JP) Mic	0	4194304	Value	ValueOutput
+P1x12 OB Eastern (JP) Mic	0	4194304	Value	ValueOutput
+P1x12 OB Eastern (JP) Rea	0	4194304	Value	ValueOutput
+P1x12 OB Eastern (JP) 45d	0	4194304	Value	ValueOutput
+P1x12 OB Eastern (JP) ReS	0	4194304	Value	ValueOutput
+P1x12 OB Eastern (JP) HPF	0	4194304	Value	ValueOutput
+P1x12 OB Eastern (JP) LPF	0	4194304	Value	ValueOutput
+P4x12 England (DE) Power	0	4194304	Value	ValueOutput
+P4x12 England (DE) Mic-A 	0	4194304	Value	ValueOutput
+P4x12 England (DE) Mic-A 	0	4194304	Value	ValueOutput
+P4x12 England (DE) Mic-B 	0	4194304	Value	ValueOutput
+P4x12 England (DE) Mic-B 	0	4194304	Value	ValueOutput
+P4x12 England (DE) Ambien	0	4194304	Value	ValueOutput
+P4x12 England (DE) Mic-A 	0	4194304	Value	ValueOutput
+P4x12 England (DE) Mic-B 	0	4194304	Value	ValueOutput
+P4x12 England (DE) Rear M	0	4194304	Value	ValueOutput
+P4x12 England (DE) 45deg 	0	4194304	Value	ValueOutput
+P4x12 England (DE) ReSPiR	0	4194304	Value	ValueOutput
+P4x12 England (DE) HPF	0	4194304	Value	ValueOutput
+P4x12 England (DE) LPF	0	4194304	Value	ValueOutput
+P1x12 Bluelux (US) Power	0	4194304	Value	ValueOutput
+P1x12 Bluelux (US) Mic-A 	0	4194304	Value	ValueOutput
+P1x12 Bluelux (US) Mic-A 	0	4194304	Value	ValueOutput
+P1x12 Bluelux (US) Mic-B 	0	4194304	Value	ValueOutput
+P1x12 Bluelux (US) Mic-B 	0	4194304	Value	ValueOutput
+P1x12 Bluelux (US) Ambien	0	4194304	Value	ValueOutput
+P1x12 Bluelux (US) Mic-A 	0	4194304	Value	ValueOutput
+P1x12 Bluelux (US) Mic-B 	0	4194304	Value	ValueOutput
+P1x12 Bluelux (US) Rear M	0	4194304	Value	ValueOutput
+P1x12 Bluelux (US) 45deg 	0	4194304	Value	ValueOutput
+P1x12 Bluelux (US) ReSPiR	0	4194304	Value	ValueOutput
+P1x12 Bluelux (US) HPF	0	4194304	Value	ValueOutput
+P1x12 Bluelux (US) LPF	0	4194304	Value	ValueOutput
+P2x12 Alnico '57 (US) Pow	0	4194304	Value	ValueOutput
+P2x12 Alnico '57 (US) Mic	0	4194304	Value	ValueOutput
+P2x12 Alnico '57 (US) Mic	0	4194304	Value	ValueOutput
+P2x12 Alnico '57 (US) Mic	0	4194304	Value	ValueOutput
+P2x12 Alnico '57 (US) Mic	0	4194304	Value	ValueOutput
+P2x12 Alnico '57 (US) Amb	0	4194304	Value	ValueOutput
+P2x12 Alnico '57 (US) Mic	0	4194304	Value	ValueOutput
+P2x12 Alnico '57 (US) Mic	0	4194304	Value	ValueOutput
+P2x12 Alnico '57 (US) Rea	0	4194304	Value	ValueOutput
+P2x12 Alnico '57 (US) 45d	0	4194304	Value	ValueOutput
+P2x12 Alnico '57 (US) ReS	0	4194304	Value	ValueOutput
+P2x12 Alnico '57 (US) HPF	0	4194304	Value	ValueOutput
+P2x12 Alnico '57 (US) LPF	0	4194304	Value	ValueOutput
+P2x12 OB Darkface '65 (US	0	4194304	Value	ValueOutput
+P2x12 OB Darkface '65 (US	0	4194304	Value	ValueOutput
+P2x12 OB Darkface '65 (US	0	4194304	Value	ValueOutput
+P2x12 OB Darkface '65 (US	0	4194304	Value	ValueOutput
+P2x12 OB Darkface '65 (US	0	4194304	Value	ValueOutput
+P2x12 OB Darkface '65 (US	0	4194304	Value	ValueOutput
+P2x12 OB Darkface '65 (US	0	4194304	Value	ValueOutput
+P2x12 OB Darkface '65 (US	0	4194304	Value	ValueOutput
+P2x12 OB Darkface '65 (US	0	4194304	Value	ValueOutput
+P2x12 OB Darkface '65 (US	0	4194304	Value	ValueOutput
+P2x12 OB Darkface '65 (US	0	4194304	Value	ValueOutput
+P2x12 OB Darkface '65 (US	0	4194304	Value	ValueOutput
+P2x12 OB Darkface '65 (US	0	4194304	Value	ValueOutput
+P2x10 OB Vibro (US) Power	0	4194304	Value	ValueOutput
+P2x10 OB Vibro (US) Mic-A	0	4194304	Value	ValueOutput
+P2x10 OB Vibro (US) Mic-A	0	4194304	Value	ValueOutput
+P2x10 OB Vibro (US) Mic-B	0	4194304	Value	ValueOutput
+P2x10 OB Vibro (US) Mic-B	0	4194304	Value	ValueOutput
+P2x10 OB Vibro (US) Ambie	0	4194304	Value	ValueOutput
+P2x10 OB Vibro (US) Mic-A	0	4194304	Value	ValueOutput
+P2x10 OB Vibro (US) Mic-B	0	4194304	Value	ValueOutput
+P2x10 OB Vibro (US) Rear 	0	4194304	Value	ValueOutput
+P2x10 OB Vibro (US) 45deg	0	4194304	Value	ValueOutput
+P2x10 OB Vibro (US) ReSPi	0	4194304	Value	ValueOutput
+P2x10 OB Vibro (US) HPF	0	4194304	Value	ValueOutput
+P2x10 OB Vibro (US) LPF	0	4194304	Value	ValueOutput
+P4x12 Dutch (NL) Power	0	4194304	Value	ValueOutput
+P4x12 Dutch (NL) Mic-A Mo	0	4194304	Value	ValueOutput
+P4x12 Dutch (NL) Mic-A Ph	0	4194304	Value	ValueOutput
+P4x12 Dutch (NL) Mic-B Mo	0	4194304	Value	ValueOutput
+P4x12 Dutch (NL) Mic-B Ph	0	4194304	Value	ValueOutput
+P4x12 Dutch (NL) Ambience	0	4194304	Value	ValueOutput
+P4x12 Dutch (NL) Mic-A Le	0	4194304	Value	ValueOutput
+P4x12 Dutch (NL) Mic-B Le	0	4194304	Value	ValueOutput
+P4x12 Dutch (NL) Rear Mic	0	4194304	Value	ValueOutput
+P4x12 Dutch (NL) 45deg Mi	0	4194304	Value	ValueOutput
+P4x12 Dutch (NL) ReSPiRe	0	4194304	Value	ValueOutput
+P4x12 Dutch (NL) HPF	0	4194304	Value	ValueOutput
+P4x12 Dutch (NL) LPF	0	4194304	Value	ValueOutput
+P2x12 Lane (UK) Power	0	4194304	Value	ValueOutput
+P2x12 Lane (UK) Mic-A Mod	0	4194304	Value	ValueOutput
+P2x12 Lane (UK) Mic-A Pha	0	4194304	Value	ValueOutput
+P2x12 Lane (UK) Mic-B Mod	0	4194304	Value	ValueOutput
+P2x12 Lane (UK) Mic-B Pha	0	4194304	Value	ValueOutput
+P2x12 Lane (UK) Ambience	0	4194304	Value	ValueOutput
+P2x12 Lane (UK) Mic-A Lev	0	4194304	Value	ValueOutput
+P2x12 Lane (UK) Mic-B Lev	0	4194304	Value	ValueOutput
+P2x12 Lane (UK) Rear Mic 	0	4194304	Value	ValueOutput
+P2x12 Lane (UK) 45deg Mic	0	4194304	Value	ValueOutput
+P2x12 Lane (UK) ReSPiRe	0	4194304	Value	ValueOutput
+P2x12 Lane (UK) HPF	0	4194304	Value	ValueOutput
+P2x12 Lane (UK) LPF	0	4194304	Value	ValueOutput
+P2x12 OB Green (UK) Power	0	4194304	Value	ValueOutput
+P2x12 OB Green (UK) Mic-A	0	4194304	Value	ValueOutput
+P2x12 OB Green (UK) Mic-A	0	4194304	Value	ValueOutput
+P2x12 OB Green (UK) Mic-B	0	4194304	Value	ValueOutput
+P2x12 OB Green (UK) Mic-B	0	4194304	Value	ValueOutput
+P2x12 OB Green (UK) Ambie	0	4194304	Value	ValueOutput
+P2x12 OB Green (UK) Mic-A	0	4194304	Value	ValueOutput
+P2x12 OB Green (UK) Mic-B	0	4194304	Value	ValueOutput
+P2x12 OB Green (UK) Rear 	0	4194304	Value	ValueOutput
+P2x12 OB Green (UK) 45deg	0	4194304	Value	ValueOutput
+P2x12 OB Green (UK) ReSPi	0	4194304	Value	ValueOutput
+P2x12 OB Green (UK) HPF	0	4194304	Value	ValueOutput
+P2x12 OB Green (UK) LPF	0	4194304	Value	ValueOutput
+P4x12 Modern (US) Power	0	4194304	Value	ValueOutput
+P4x12 Modern (US) Mic-A M	0	4194304	Value	ValueOutput
+P4x12 Modern (US) Mic-A P	0	4194304	Value	ValueOutput
+P4x12 Modern (US) Mic-B M	0	4194304	Value	ValueOutput
+P4x12 Modern (US) Mic-B P	0	4194304	Value	ValueOutput
+P4x12 Modern (US) Ambienc	0	4194304	Value	ValueOutput
+P4x12 Modern (US) Mic-A L	0	4194304	Value	ValueOutput
+P4x12 Modern (US) Mic-B L	0	4194304	Value	ValueOutput
+P4x12 Modern (US) Rear Mi	0	4194304	Value	ValueOutput
+P4x12 Modern (US) 45deg M	0	4194304	Value	ValueOutput
+P4x12 Modern (US) ReSPiRe	0	4194304	Value	ValueOutput
+P4x12 Modern (US) HPF	0	4194304	Value	ValueOutput
+P4x12 Modern (US) LPF	0	4194304	Value	ValueOutput
+P4x12 Heavy 51 (US) Power	0	4194304	Value	ValueOutput
+P4x12 Heavy 51 (US) Mic-A	0	4194304	Value	ValueOutput
+P4x12 Heavy 51 (US) Mic-A	0	4194304	Value	ValueOutput
+P4x12 Heavy 51 (US) Mic-B	0	4194304	Value	ValueOutput
+P4x12 Heavy 51 (US) Mic-B	0	4194304	Value	ValueOutput
+P4x12 Heavy 51 (US) Ambie	0	4194304	Value	ValueOutput
+P4x12 Heavy 51 (US) Mic-A	0	4194304	Value	ValueOutput
+P4x12 Heavy 51 (US) Mic-B	0	4194304	Value	ValueOutput
+P4x12 Heavy 51 (US) Rear 	0	4194304	Value	ValueOutput
+P4x12 Heavy 51 (US) 45deg	0	4194304	Value	ValueOutput
+P4x12 Heavy 51 (US) ReSPi	0	4194304	Value	ValueOutput
+P4x12 Heavy 51 (US) HPF	0	4194304	Value	ValueOutput
+P4x12 Heavy 51 (US) LPF	0	4194304	Value	ValueOutput
+P2x12 Slo 12k (US) Power	0	4194304	Value	ValueOutput
+P2x12 Slo 12k (US) Mic-A 	0	4194304	Value	ValueOutput
+P2x12 Slo 12k (US) Mic-A 	0	4194304	Value	ValueOutput
+P2x12 Slo 12k (US) Mic-B 	0	4194304	Value	ValueOutput
+P2x12 Slo 12k (US) Mic-B 	0	4194304	Value	ValueOutput
+P2x12 Slo 12k (US) Ambien	0	4194304	Value	ValueOutput
+P2x12 Slo 12k (US) Mic-A 	0	4194304	Value	ValueOutput
+P2x12 Slo 12k (US) Mic-B 	0	4194304	Value	ValueOutput
+P2x12 Slo 12k (US) Rear M	0	4194304	Value	ValueOutput
+P2x12 Slo 12k (US) 45deg 	0	4194304	Value	ValueOutput
+P2x12 Slo 12k (US) ReSPiR	0	4194304	Value	ValueOutput
+P2x12 Slo 12k (US) HPF	0	4194304	Value	ValueOutput
+P2x12 Slo 12k (US) LPF	0	4194304	Value	ValueOutput
+P2x12 OB Top30 (UK) Power	0	4194304	Value	ValueOutput
+P2x12 OB Top30 (UK) Mic-A	0	4194304	Value	ValueOutput
+P2x12 OB Top30 (UK) Mic-A	0	4194304	Value	ValueOutput
+P2x12 OB Top30 (UK) Mic-B	0	4194304	Value	ValueOutput
+P2x12 OB Top30 (UK) Mic-B	0	4194304	Value	ValueOutput
+P2x12 OB Top30 (UK) Ambie	0	4194304	Value	ValueOutput
+P2x12 OB Top30 (UK) Mic-A	0	4194304	Value	ValueOutput
+P2x12 OB Top30 (UK) Mic-B	0	4194304	Value	ValueOutput
+P2x12 OB Top30 (UK) Rear 	0	4194304	Value	ValueOutput
+P2x12 OB Top30 (UK) 45deg	0	4194304	Value	ValueOutput
+P2x12 OB Top30 (UK) ReSPi	0	4194304	Value	ValueOutput
+P2x12 OB Top30 (UK) HPF	0	4194304	Value	ValueOutput
+P2x12 OB Top30 (UK) LPF	0	4194304	Value	ValueOutput
+P2x12 Randall CB Power	0	4194304	Value	ValueOutput
+P2x12 Randall CB Mic-A Mo	0	4194304	Value	ValueOutput
+P2x12 Randall CB Mic-A Ph	0	4194304	Value	ValueOutput
+P2x12 Randall CB Mic-B Mo	0	4194304	Value	ValueOutput
+P2x12 Randall CB Mic-B Ph	0	4194304	Value	ValueOutput
+P2x12 Randall CB Ambience	0	4194304	Value	ValueOutput
+P2x12 Randall CB Mic-A Le	0	4194304	Value	ValueOutput
+P2x12 Randall CB Mic-B Le	0	4194304	Value	ValueOutput
+P2x12 Randall CB Rear Mic	0	4194304	Value	ValueOutput
+P2x12 Randall CB 45deg Mi	0	4194304	Value	ValueOutput
+P2x12 Randall CB ReSPiRe	0	4194304	Value	ValueOutput
+P2x12 Randall CB HPF	0	4194304	Value	ValueOutput
+P2x12 Randall CB LPF	0	4194304	Value	ValueOutput
+P4x12 Randall XL Power	0	4194304	Value	ValueOutput
+P4x12 Randall XL Mic-A Mo	0	4194304	Value	ValueOutput
+P4x12 Randall XL Mic-A Ph	0	4194304	Value	ValueOutput
+P4x12 Randall XL Mic-B Mo	0	4194304	Value	ValueOutput
+P4x12 Randall XL Mic-B Ph	0	4194304	Value	ValueOutput
+P4x12 Randall XL Ambience	0	4194304	Value	ValueOutput
+P4x12 Randall XL Mic-A Le	0	4194304	Value	ValueOutput
+P4x12 Randall XL Mic-B Le	0	4194304	Value	ValueOutput
+P4x12 Randall XL Rear Mic	0	4194304	Value	ValueOutput
+P4x12 Randall XL 45deg Mi	0	4194304	Value	ValueOutput
+P4x12 Randall XL ReSPiRe	0	4194304	Value	ValueOutput
+P4x12 Randall XL HPF	0	4194304	Value	ValueOutput
+P4x12 Randall XL LPF	0	4194304	Value	ValueOutput
+P4x12 Randall XLT100 Powe	0	4194304	Value	ValueOutput
+P4x12 Randall XLT100 Mic-	0	4194304	Value	ValueOutput
+P4x12 Randall XLT100 Mic-	0	4194304	Value	ValueOutput
+P4x12 Randall XLT100 Mic-	0	4194304	Value	ValueOutput
+P4x12 Randall XLT100 Mic-	0	4194304	Value	ValueOutput
+P4x12 Randall XLT100 Ambi	0	4194304	Value	ValueOutput
+P4x12 Randall XLT100 Mic-	0	4194304	Value	ValueOutput
+P4x12 Randall XLT100 Mic-	0	4194304	Value	ValueOutput
+P4x12 Randall XLT100 Rear	0	4194304	Value	ValueOutput
+P4x12 Randall XLT100 45de	0	4194304	Value	ValueOutput
+P4x12 Randall XLT100 ReSP	0	4194304	Value	ValueOutput
+P4x12 Randall XLT100 HPF	0	4194304	Value	ValueOutput
+P4x12 Randall XLT100 LPF	0	4194304	Value	ValueOutput
+P4x12 Randall LB George L	0	4194304	Value	ValueOutput
+P4x12 Randall LB George L	0	4194304	Value	ValueOutput
+P4x12 Randall LB George L	0	4194304	Value	ValueOutput
+P4x12 Randall LB George L	0	4194304	Value	ValueOutput
+P4x12 Randall LB George L	0	4194304	Value	ValueOutput
+P4x12 Randall LB George L	0	4194304	Value	ValueOutput
+P4x12 Randall LB George L	0	4194304	Value	ValueOutput
+P4x12 Randall LB George L	0	4194304	Value	ValueOutput
+P4x12 Randall LB George L	0	4194304	Value	ValueOutput
+P4x12 Randall LB George L	0	4194304	Value	ValueOutput
+P4x12 Randall LB George L	0	4194304	Value	ValueOutput
+P4x12 Randall LB George L	0	4194304	Value	ValueOutput
+P4x12 Randall LB George L	0	4194304	Value	ValueOutput
+P1x12 Brunetti Power	0	4194304	Value	ValueOutput
+P1x12 Brunetti Mic-A Mode	0	4194304	Value	ValueOutput
+P1x12 Brunetti Mic-A Phas	0	4194304	Value	ValueOutput
+P1x12 Brunetti Mic-B Mode	0	4194304	Value	ValueOutput
+P1x12 Brunetti Mic-B Phas	0	4194304	Value	ValueOutput
+P1x12 Brunetti Ambience	0	4194304	Value	ValueOutput
+P1x12 Brunetti Mic-A Leve	0	4194304	Value	ValueOutput
+P1x12 Brunetti Mic-B Leve	0	4194304	Value	ValueOutput
+P1x12 Brunetti Rear Mic L	0	4194304	Value	ValueOutput
+P1x12 Brunetti 45deg Mic 	0	4194304	Value	ValueOutput
+P1x12 Brunetti ReSPiRe	0	4194304	Value	ValueOutput
+P1x12 Brunetti HPF	0	4194304	Value	ValueOutput
+P1x12 Brunetti LPF	0	4194304	Value	ValueOutput
+P2x12 Brunetti Power	0	4194304	Value	ValueOutput
+P2x12 Brunetti Mic-A Mode	0	4194304	Value	ValueOutput
+P2x12 Brunetti Mic-A Phas	0	4194304	Value	ValueOutput
+P2x12 Brunetti Mic-B Mode	0	4194304	Value	ValueOutput
+P2x12 Brunetti Mic-B Phas	0	4194304	Value	ValueOutput
+P2x12 Brunetti Ambience	0	4194304	Value	ValueOutput
+P2x12 Brunetti Mic-A Leve	0	4194304	Value	ValueOutput
+P2x12 Brunetti Mic-B Leve	0	4194304	Value	ValueOutput
+P2x12 Brunetti Rear Mic L	0	4194304	Value	ValueOutput
+P2x12 Brunetti 45deg Mic 	0	4194304	Value	ValueOutput
+P2x12 Brunetti ReSPiRe	0	4194304	Value	ValueOutput
+P2x12 Brunetti HPF	0	4194304	Value	ValueOutput
+P2x12 Brunetti LPF	0	4194304	Value	ValueOutput
+P4x12 Brunetti Custom Pow	0	4194304	Value	ValueOutput
+P4x12 Brunetti Custom Mic	0	4194304	Value	ValueOutput
+P4x12 Brunetti Custom Mic	0	4194304	Value	ValueOutput
+P4x12 Brunetti Custom Mic	0	4194304	Value	ValueOutput
+P4x12 Brunetti Custom Mic	0	4194304	Value	ValueOutput
+P4x12 Brunetti Custom Amb	0	4194304	Value	ValueOutput
+P4x12 Brunetti Custom Mic	0	4194304	Value	ValueOutput
+P4x12 Brunetti Custom Mic	0	4194304	Value	ValueOutput
+P4x12 Brunetti Custom Rea	0	4194304	Value	ValueOutput
+P4x12 Brunetti Custom 45d	0	4194304	Value	ValueOutput
+P4x12 Brunetti Custom ReS	0	4194304	Value	ValueOutput
+P4x12 Brunetti Custom HPF	0	4194304	Value	ValueOutput
+P4x12 Brunetti Custom LPF	0	4194304	Value	ValueOutput
+P1x12 Overloud Power	0	4194304	Value	ValueOutput
+P1x12 Overloud Mic-A Mode	0	4194304	Value	ValueOutput
+P1x12 Overloud Mic-A Phas	0	4194304	Value	ValueOutput
+P1x12 Overloud Mic-B Mode	0	4194304	Value	ValueOutput
+P1x12 Overloud Mic-B Phas	0	4194304	Value	ValueOutput
+P1x12 Overloud Ambience	0	4194304	Value	ValueOutput
+P1x12 Overloud Mic-A Leve	0	4194304	Value	ValueOutput
+P1x12 Overloud Mic-B Leve	0	4194304	Value	ValueOutput
+P1x12 Overloud Rear Mic L	0	4194304	Value	ValueOutput
+P1x12 Overloud 45deg Mic 	0	4194304	Value	ValueOutput
+P1x12 Overloud ReSPiRe	0	4194304	Value	ValueOutput
+P1x12 Overloud HPF	0	4194304	Value	ValueOutput
+P1x12 Overloud LPF	0	4194304	Value	ValueOutput
+P1x8 Brunetti Metropolita	0	4194304	Value	ValueOutput
+P1x8 Brunetti Metropolita	0	4194304	Value	ValueOutput
+P1x8 Brunetti Metropolita	0	4194304	Value	ValueOutput
+P1x8 Brunetti Metropolita	0	4194304	Value	ValueOutput
+P1x8 Brunetti Metropolita	0	4194304	Value	ValueOutput
+P1x8 Brunetti Metropolita	0	4194304	Value	ValueOutput
+P1x8 Brunetti Metropolita	0	4194304	Value	ValueOutput
+P1x8 Brunetti Metropolita	0	4194304	Value	ValueOutput
+P1x8 Brunetti Metropolita	0	4194304	Value	ValueOutput
+P1x8 Brunetti Metropolita	0	4194304	Value	ValueOutput
+P1x8 Brunetti Metropolita	0	4194304	Value	ValueOutput
+P1x8 Brunetti Metropolita	0	4194304	Value	ValueOutput
+P1x8 Brunetti Metropolita	0	4194304	Value	ValueOutput
+P1x12 Brunetti Singleman 	0	4194304	Value	ValueOutput
+P1x12 Brunetti Singleman 	0	4194304	Value	ValueOutput
+P1x12 Brunetti Singleman 	0	4194304	Value	ValueOutput
+P1x12 Brunetti Singleman 	0	4194304	Value	ValueOutput
+P1x12 Brunetti Singleman 	0	4194304	Value	ValueOutput
+P1x12 Brunetti Singleman 	0	4194304	Value	ValueOutput
+P1x12 Brunetti Singleman 	0	4194304	Value	ValueOutput
+P1x12 Brunetti Singleman 	0	4194304	Value	ValueOutput
+P1x12 Brunetti Singleman 	0	4194304	Value	ValueOutput
+P1x12 Brunetti Singleman 	0	4194304	Value	ValueOutput
+P1x12 Brunetti Singleman 	0	4194304	Value	ValueOutput
+P1x12 Brunetti Singleman 	0	4194304	Value	ValueOutput
+P1x12 Brunetti Singleman 	0	4194304	Value	ValueOutput
+P1x10 Winner (US) Power	0	4194304	Value	ValueOutput
+P1x10 Winner (US) Mic-A M	0	4194304	Value	ValueOutput
+P1x10 Winner (US) Mic-A P	0	4194304	Value	ValueOutput
+P1x10 Winner (US) Mic-B M	0	4194304	Value	ValueOutput
+P1x10 Winner (US) Mic-B P	0	4194304	Value	ValueOutput
+P1x10 Winner (US) Ambienc	0	4194304	Value	ValueOutput
+P1x10 Winner (US) Mic-A L	0	4194304	Value	ValueOutput
+P1x10 Winner (US) Mic-B L	0	4194304	Value	ValueOutput
+P1x10 Winner (US) Rear Mi	0	4194304	Value	ValueOutput
+P1x10 Winner (US) 45deg M	0	4194304	Value	ValueOutput
+P1x10 Winner (US) ReSPiRe	0	4194304	Value	ValueOutput
+P1x10 Winner (US) HPF	0	4194304	Value	ValueOutput
+P1x10 Winner (US) LPF	0	4194304	Value	ValueOutput
+P2x12 British State (UK) 	0	4194304	Value	ValueOutput
+P2x12 British State (UK) 	0	4194304	Value	ValueOutput
+P2x12 British State (UK) 	0	4194304	Value	ValueOutput
+P2x12 British State (UK) 	0	4194304	Value	ValueOutput
+P2x12 British State (UK) 	0	4194304	Value	ValueOutput
+P2x12 British State (UK) 	0	4194304	Value	ValueOutput
+P2x12 British State (UK) 	0	4194304	Value	ValueOutput
+P2x12 British State (UK) 	0	4194304	Value	ValueOutput
+P2x12 British State (UK) 	0	4194304	Value	ValueOutput
+P2x12 British State (UK) 	0	4194304	Value	ValueOutput
+P2x12 British State (UK) 	0	4194304	Value	ValueOutput
+P2x12 British State (UK) 	0	4194304	Value	ValueOutput
+P2x12 British State (UK) 	0	4194304	Value	ValueOutput
+P2x12 Jazz 12'o (JP) Powe	0	4194304	Value	ValueOutput
+P2x12 Jazz 12'o (JP) Mic-	0	4194304	Value	ValueOutput
+P2x12 Jazz 12'o (JP) Mic-	0	4194304	Value	ValueOutput
+P2x12 Jazz 12'o (JP) Mic-	0	4194304	Value	ValueOutput
+P2x12 Jazz 12'o (JP) Mic-	0	4194304	Value	ValueOutput
+P2x12 Jazz 12'o (JP) Ambi	0	4194304	Value	ValueOutput
+P2x12 Jazz 12'o (JP) Mic-	0	4194304	Value	ValueOutput
+P2x12 Jazz 12'o (JP) Mic-	0	4194304	Value	ValueOutput
+P2x12 Jazz 12'o (JP) Rear	0	4194304	Value	ValueOutput
+P2x12 Jazz 12'o (JP) 45de	0	4194304	Value	ValueOutput
+P2x12 Jazz 12'o (JP) ReSP	0	4194304	Value	ValueOutput
+P2x12 Jazz 12'o (JP) HPF	0	4194304	Value	ValueOutput
+P2x12 Jazz 12'o (JP) LPF	0	4194304	Value	ValueOutput
+P4x10 Bass Ashes Power	0	4194304	Value	ValueOutput
+P4x10 Bass Ashes Mic-A Mo	0	4194304	Value	ValueOutput
+P4x10 Bass Ashes Mic-A Ph	0	4194304	Value	ValueOutput
+P4x10 Bass Ashes Mic-B Mo	0	4194304	Value	ValueOutput
+P4x10 Bass Ashes Mic-B Ph	0	4194304	Value	ValueOutput
+P4x10 Bass Ashes Ambience	0	4194304	Value	ValueOutput
+P4x10 Bass Ashes Mic-A Le	0	4194304	Value	ValueOutput
+P4x10 Bass Ashes Mic-B Le	0	4194304	Value	ValueOutput
+P4x10 Bass Ashes Rear Mic	0	4194304	Value	ValueOutput
+P4x10 Bass Ashes 45deg Mi	0	4194304	Value	ValueOutput
+P4x10 Bass Ashes ReSPiRe	0	4194304	Value	ValueOutput
+P4x10 Bass Ashes HPF	0	4194304	Value	ValueOutput
+P4x10 Bass Ashes LPF	0	4194304	Value	ValueOutput
+P1x15 Bass Tube Power	0	4194304	Value	ValueOutput
+P1x15 Bass Tube Mic-A Mod	0	4194304	Value	ValueOutput
+P1x15 Bass Tube Mic-A Pha	0	4194304	Value	ValueOutput
+P1x15 Bass Tube Mic-B Mod	0	4194304	Value	ValueOutput
+P1x15 Bass Tube Mic-B Pha	0	4194304	Value	ValueOutput
+P1x15 Bass Tube Ambience	0	4194304	Value	ValueOutput
+P1x15 Bass Tube Mic-A Lev	0	4194304	Value	ValueOutput
+P1x15 Bass Tube Mic-B Lev	0	4194304	Value	ValueOutput
+P1x15 Bass Tube Rear Mic 	0	4194304	Value	ValueOutput
+P1x15 Bass Tube 45deg Mic	0	4194304	Value	ValueOutput
+P1x15 Bass Tube ReSPiRe	0	4194304	Value	ValueOutput
+P1x15 Bass Tube HPF	0	4194304	Value	ValueOutput
+P1x15 Bass Tube LPF	0	4194304	Value	ValueOutput
+Cabinet IR Power	0	4194304	Value	ValueOutput
+Cabinet IR Accuracy	0	4194304	Value	ValueOutput
+Cabinet IR Balance	0	4194304	Value	ValueOutput
+Cabinet IR Delay	0	4194304	Value	ValueOutput
+Cabinet IR Phase 1	0	4194304	Value	ValueOutput
+Cabinet IR Phase 2	0	4194304	Value	ValueOutput
+Cabinet IR HPF	0	4194304	Value	ValueOutput
+Cabinet IR LPF	0	4194304	Value	ValueOutput
+TUBE NINE Power	0	4194304	Value	ValueOutput
+TUBE NINE DRIVE	0	4194304	Value	ValueOutput
+TUBE NINE TONE	0	4194304	Value	ValueOutput
+TUBE NINE LEVEL	0	4194304	Value	ValueOutput
+SDriveOne Power	0	4194304	Value	ValueOutput
+SDriveOne DRIVE	0	4194304	Value	ValueOutput
+SDriveOne TONE	0	4194304	Value	ValueOutput
+SDriveOne LEVEL	0	4194304	Value	ValueOutput
+BeeDeeToo Power	0	4194304	Value	ValueOutput
+BeeDeeToo DRIVE	0	4194304	Value	ValueOutput
+BeeDeeToo TONE	0	4194304	Value	ValueOutput
+BeeDeeToo LEVEL	0	4194304	Value	ValueOutput
+Diode250 Power	0	4194304	Value	ValueOutput
+Diode250 DRIVE	0	4194304	Value	ValueOutput
+Diode250 TONE	0	4194304	Value	ValueOutput
+Diode250 LEVEL	0	4194304	Value	ValueOutput
+distort+ Power	0	4194304	Value	ValueOutput
+distort+ DRIVE	0	4194304	Value	ValueOutput
+distort+ TONE	0	4194304	Value	ValueOutput
+distort+ LEVEL	0	4194304	Value	ValueOutput
+CAT Power	0	4194304	Value	ValueOutput
+CAT DRIVE	0	4194304	Value	ValueOutput
+CAT TONE	0	4194304	Value	ValueOutput
+CAT LEVEL	0	4194304	Value	ValueOutput
+DistOne Power	0	4194304	Value	ValueOutput
+DistOne DRIVE	0	4194304	Value	ValueOutput
+DistOne TONE	0	4194304	Value	ValueOutput
+DistOne LEVEL	0	4194304	Value	ValueOutput
+FatMuff Power	0	4194304	Value	ValueOutput
+FatMuff DRIVE	0	4194304	Value	ValueOutput
+FatMuff TONE	0	4194304	Value	ValueOutput
+FatMuff LEVEL	0	4194304	Value	ValueOutput
+MetalTone Power	0	4194304	Value	ValueOutput
+MetalTone DRIVE	0	4194304	Value	ValueOutput
+MetalTone LOW	0	4194304	Value	ValueOutput
+MetalTone MID	0	4194304	Value	ValueOutput
+MetalTone HIGH	0	4194304	Value	ValueOutput
+MetalTone LEVEL	0	4194304	Value	ValueOutput
+Diode69 Power	0	4194304	Value	ValueOutput
+Diode69 DRIVE	0	4194304	Value	ValueOutput
+Diode69 LOW	0	4194304	Value	ValueOutput
+Diode69 HIGH	0	4194304	Value	ValueOutput
+Diode69 LEVEL	0	4194304	Value	ValueOutput
+FUSSRACE Power	0	4194304	Value	ValueOutput
+FUSSRACE DRIVE	0	4194304	Value	ValueOutput
+FUSSRACE TONE	0	4194304	Value	ValueOutput
+FUSSRACE LEVEL	0	4194304	Value	ValueOutput
+TOON FOX Power	0	4194304	Value	ValueOutput
+TOON FOX SUST	0	4194304	Value	ValueOutput
+TOON FOX M/B	0	4194304	Value	ValueOutput
+TOON FOX VOL	0	4194304	Value	ValueOutput
+TOON FOX OCT	0	4194304	Value	ValueOutput
+Fuzz Blend Power	0	4194304	Value	ValueOutput
+Fuzz Blend DRIVE	0	4194304	Value	ValueOutput
+Fuzz Blend TONE	0	4194304	Value	ValueOutput
+Fuzz Blend LEVEL	0	4194304	Value	ValueOutput
+Digital
+Chorus Power	0	4194304	Value	ValueOutput
+Digital
+Chorus Force Mon	0	4194304	Value	ValueOutput
+Digital
+Chorus SPEED	0	4194304	Value	ValueOutput
+Digital
+Chorus DEPTH	0	4194304	Value	ValueOutput
+Digital
+Chorus MIX	0	4194304	Value	ValueOutput
+Ensemble Power	0	4194304	Value	ValueOutput
+Ensemble Force Mono	0	4194304	Value	ValueOutput
+Ensemble SPEED	0	4194304	Value	ValueOutput
+Ensemble DEPTH	0	4194304	Value	ValueOutput
+Ensemble MIX	0	4194304	Value	ValueOutput
+Dimension Power	0	4194304	Value	ValueOutput
+Dimension Force Mono	0	4194304	Value	ValueOutput
+Dimension MODE	0	4194304	Value	ValueOutput
+CHR-5 Power	0	4194304	Value	ValueOutput
+CHR-5 Force Mono	0	4194304	Value	ValueOutput
+CHR-5 SPEED	0	4194304	Value	ValueOutput
+CHR-5 DEPTH	0	4194304	Value	ValueOutput
+CHR-5 LOW	0	4194304	Value	ValueOutput
+CHR-5 HIGH	0	4194304	Value	ValueOutput
+CHR-5 EFF	0	4194304	Value	ValueOutput
+CHR-2 Power	0	4194304	Value	ValueOutput
+CHR-2 Force Mono	0	4194304	Value	ValueOutput
+CHR-2 SPEED	0	4194304	Value	ValueOutput
+CHR-2 DEPTH	0	4194304	Value	ValueOutput
+CHR-2 EFFECT	0	4194304	Value	ValueOutput
+D-Delay Power	0	4194304	Value	ValueOutput
+D-Delay Force Mono	0	4194304	Value	ValueOutput
+D-Delay TIME	0	4194304	Value	ValueOutput
+D-Delay REPEAT	0	4194304	Value	ValueOutput
+D-Delay STEREO	0	4194304	Value	ValueOutput
+D-Delay EFF	0	4194304	Value	ValueOutput
+RSS
+Compressor Power	0	4194304	Value	ValueOutput
+RSS
+Compressor SUSTAIN	0	4194304	Value	ValueOutput
+RSS
+Compressor RELEASE	0	4194304	Value	ValueOutput
+RSS
+Compressor LEVEL	0	4194304	Value	ValueOutput
+ANALOG
+FLANGER Power	0	4194304	Value	ValueOutput
+ANALOG
+FLANGER Force Mon	0	4194304	Value	ValueOutput
+ANALOG
+FLANGER SPEED	0	4194304	Value	ValueOutput
+ANALOG
+FLANGER DEPTH	0	4194304	Value	ValueOutput
+ANALOG
+FLANGER TONE	0	4194304	Value	ValueOutput
+Mild Flanger Power	0	4194304	Value	ValueOutput
+Mild Flanger Force Mono	0	4194304	Value	ValueOutput
+Mild Flanger SPEED	0	4194304	Value	ValueOutput
+Mild Flanger DEPTH	0	4194304	Value	ValueOutput
+Mild Flanger DELAY	0	4194304	Value	ValueOutput
+Rich Flanger Power	0	4194304	Value	ValueOutput
+Rich Flanger Force Mono	0	4194304	Value	ValueOutput
+Rich Flanger SPEED	0	4194304	Value	ValueOutput
+Rich Flanger DEPTH	0	4194304	Value	ValueOutput
+Rich Flanger DLY	0	4194304	Value	ValueOutput
+Rich Flanger RESO	0	4194304	Value	ValueOutput
+Chorus-Phaser Power	0	4194304	Value	ValueOutput
+Chorus-Phaser Force Mono	0	4194304	Value	ValueOutput
+Chorus-Phaser SPEED	0	4194304	Value	ValueOutput
+Chorus-Phaser DEPTH	0	4194304	Value	ValueOutput
+Chorus-Phaser MIX	0	4194304	Value	ValueOutput
+OBH Phaser Power	0	4194304	Value	ValueOutput
+OBH Phaser Force Mono	0	4194304	Value	ValueOutput
+OBH Phaser SPEED	0	4194304	Value	ValueOutput
+OBH Phaser DEPTH	0	4194304	Value	ValueOutput
+OBH Phaser LEVEL	0	4194304	Value	ValueOutput
+P9-O'
+PHASER Power	0	4194304	Value	ValueOutput
+P9-O'
+PHASER Force Mono	0	4194304	Value	ValueOutput
+P9-O'
+PHASER SPEED	0	4194304	Value	ValueOutput
+P9-O'
+PHASER RES	0	4194304	Value	ValueOutput
+P9-O'
+PHASER LEVEL	0	4194304	Value	ValueOutput
+Octaver Power	0	4194304	Value	ValueOutput
+Octaver TONE	0	4194304	Value	ValueOutput
+Octaver DYN	0	4194304	Value	ValueOutput
+Octaver OCT 1	0	4194304	Value	ValueOutput
+Octaver OCT 2	0	4194304	Value	ValueOutput
+D-Reverb Power	0	4194304	Value	ValueOutput
+D-Reverb Force Mono	0	4194304	Value	ValueOutput
+D-Reverb TIME	0	4194304	Value	ValueOutput
+D-Reverb COLOR	0	4194304	Value	ValueOutput
+D-Reverb WET	0	4194304	Value	ValueOutput
+AmpTrem Power	0	4194304	Value	ValueOutput
+AmpTrem SPEED	0	4194304	Value	ValueOutput
+AmpTrem WAVE	0	4194304	Value	ValueOutput
+AmpTrem INTENS	0	4194304	Value	ValueOutput
+JC Vibrato Power	0	4194304	Value	ValueOutput
+JC Vibrato SPEED	0	4194304	Value	ValueOutput
+JC Vibrato DEPTH	0	4194304	Value	ValueOutput
+JC Vibrato LEVEL	0	4194304	Value	ValueOutput
+UniVibrato Power	0	4194304	Value	ValueOutput
+UniVibrato SPEED	0	4194304	Value	ValueOutput
+UniVibrato DEPTH	0	4194304	Value	ValueOutput
+UniVibrato LEVEL	0	4194304	Value	ValueOutput
+Auto-Wah Power	0	4194304	Value	ValueOutput
+Auto-Wah FILTER	0	4194304	Value	ValueOutput
+Auto-Wah SENS	0	4194304	Value	ValueOutput
+Auto-Wah MODE	0	4194304	Value	ValueOutput
+Gate Expander Power	0	4194304	Value	ValueOutput
+Gate Expander GATE	0	4194304	Value	ValueOutput
+Gate Expander EXP	0	4194304	Value	ValueOutput
+Gate Expander RATIO	0	4194304	Value	ValueOutput
+Gate Expander REL	0	4194304	Value	ValueOutput
+AcGtrSimul Power	0	4194304	Value	ValueOutput
+AcGtrSimul BASS	0	4194304	Value	ValueOutput
+AcGtrSimul TREBLE	0	4194304	Value	ValueOutput
+AcGtrSimul BODY	0	4194304	Value	ValueOutput
+AcGtrSimul LEVEL	0	4194304	Value	ValueOutput
+P7-Band GEQ Power	0	4194304	Value	ValueOutput
+P7-Band GEQ 100	0	4194304	Value	ValueOutput
+P7-Band GEQ 200	0	4194304	Value	ValueOutput
+P7-Band GEQ 400	0	4194304	Value	ValueOutput
+P7-Band GEQ 800	0	4194304	Value	ValueOutput
+P7-Band GEQ 1.6k	0	4194304	Value	ValueOutput
+P7-Band GEQ 3.2k	0	4194304	Value	ValueOutput
+P7-Band GEQ 6.4k	0	4194304	Value	ValueOutput
+P7-Band GEQ LEV	0	4194304	Value	ValueOutput
+GEQ-LoFreq Power	0	4194304	Value	ValueOutput
+GEQ-LoFreq 50	0	4194304	Value	ValueOutput
+GEQ-LoFreq 120	0	4194304	Value	ValueOutput
+GEQ-LoFreq 400	0	4194304	Value	ValueOutput
+GEQ-LoFreq 500	0	4194304	Value	ValueOutput
+GEQ-LoFreq 800	0	4194304	Value	ValueOutput
+GEQ-LoFreq 4.5k	0	4194304	Value	ValueOutput
+GEQ-LoFreq 10k	0	4194304	Value	ValueOutput
+GEQ-LoFreq LEV	0	4194304	Value	ValueOutput
+AMP EQ Power	0	4194304	Value	ValueOutput
+AMP EQ 90	0	4194304	Value	ValueOutput
+AMP EQ 370	0	4194304	Value	ValueOutput
+AMP EQ 720	0	4194304	Value	ValueOutput
+AMP EQ 1.6k	0	4194304	Value	ValueOutput
+AMP EQ 4.8k	0	4194304	Value	ValueOutput
+AMP EQ LEV	0	4194304	Value	ValueOutput
+cry maybe Power	0	4194304	Value	ValueOutput
+cry maybe Filter	0	4194304	Value	ValueOutput
+ROX Power	0	4194304	Value	ValueOutput
+ROX Filter	0	4194304	Value	ValueOutput
+ROX Mode	0	4194304	Value	ValueOutput
+VOLUME Power	0	4194304	Value	ValueOutput
+VOLUME Volume	0	4194304	Value	ValueOutput
+VOLUME RANGE	0	4194304	Value	ValueOutput
+Brunetti Burning Box Pow	0	4194304	Value	ValueOutput
+Brunetti Burning Box LEV	0	4194304	Value	ValueOutput
+Brunetti Burning Box BAL	0	4194304	Value	ValueOutput
+Brunetti Burning Box KNI	0	4194304	Value	ValueOutput
+Brunetti Burning Box FIR	0	4194304	Value	ValueOutput
+Brunetti Vanilla Power	0	4194304	Value	ValueOutput
+Brunetti Vanilla Level	0	4194304	Value	ValueOutput
+Brunetti Vanilla Fat	0	4194304	Value	ValueOutput
+Brunetti Vanilla Tip	0	4194304	Value	ValueOutput
+Brunetti Vanilla Cream	0	4194304	Value	ValueOutput
+Director Ring Power	0	4194304	Value	ValueOutput
+Director Ring Volume	0	4194304	Value	ValueOutput
+Director Ring Pitch	0	4194304	Value	ValueOutput
+Director Ring Range	0	4194304	Value	ValueOutput
+Director Ring Mod	0	4194304	Value	ValueOutput
+V-Treble
+Booster Power	0	4194304	Value	ValueOutput
+V-Treble
+Booster AMOUNT	0	4194304	Value	ValueOutput
+ct pre Power	0	4194304	Value	ValueOutput
+ct pre BASS	0	4194304	Value	ValueOutput
+ct pre TREBLE	0	4194304	Value	ValueOutput
+ct pre VOLUME	0	4194304	Value	ValueOutput
+Wham-me Power	0	4194304	Value	ValueOutput
+Wham-me Pitch	0	4194304	Value	ValueOutput
+Wham-me RANGE	0	4194304	Value	ValueOutput
+Quiet Power	0	4194304	Value	ValueOutput
+Quiet AMOUNT	0	4194304	Value	ValueOutput
+Brunetti Mercury Box Pow	0	4194304	Value	ValueOutput
+Brunetti Mercury Box Gai	0	4194304	Value	ValueOutput
+Brunetti Mercury Box Edg	0	4194304	Value	ValueOutput
+Brunetti Mercury Box Vol	0	4194304	Value	ValueOutput
+Brunetti Mercury Box Bas	0	4194304	Value	ValueOutput
+Brunetti Taxi Drive Powe	0	4194304	Value	ValueOutput
+Brunetti Taxi Drive Driv	0	4194304	Value	ValueOutput
+Brunetti Taxi Drive Tone	0	4194304	Value	ValueOutput
+Brunetti Taxi Drive Volu	0	4194304	Value	ValueOutput
+Brunetti Taxi Drive Fat	0	4194304	Value	ValueOutput
+Comb Chorus Power	0	4194304	Value	ValueOutput
+Comb Chorus Speed	0	4194304	Value	ValueOutput
+Comb Chorus Depth	0	4194304	Value	ValueOutput
+Comb Chorus Delay	0	4194304	Value	ValueOutput
+Comb Chorus High Pass	0	4194304	Value	ValueOutput
+Comb Chorus Low Pass	0	4194304	Value	ValueOutput
+Comb Chorus Mix	0	4194304	Value	ValueOutput
+Comb Chorus Dest	0	4194304	Value	ValueOutput
+Comb Chorus Amount	0	4194304	Value	ValueOutput
+Comb Chorus Level	0	4194304	Value	ValueOutput
+Comb Chorus Force Mono	0	4194304	Value	ValueOutput
+Wave Chorus Power	0	4194304	Value	ValueOutput
+Wave Chorus Speed	0	4194304	Value	ValueOutput
+Wave Chorus Depth	0	4194304	Value	ValueOutput
+Wave Chorus Waveform	0	4194304	Value	ValueOutput
+Wave Chorus Bandwidth	0	4194304	Value	ValueOutput
+Wave Chorus Stereo	0	4194304	Value	ValueOutput
+Wave Chorus Mix	0	4194304	Value	ValueOutput
+Wave Chorus Dest	0	4194304	Value	ValueOutput
+Wave Chorus Amount	0	4194304	Value	ValueOutput
+Wave Chorus Level	0	4194304	Value	ValueOutput
+Wave Chorus Force Mono	0	4194304	Value	ValueOutput
+Filter Chorus Power	0	4194304	Value	ValueOutput
+Filter Chorus Speed	0	4194304	Value	ValueOutput
+Filter Chorus Depth	0	4194304	Value	ValueOutput
+Filter Chorus Filter	0	4194304	Value	ValueOutput
+Filter Chorus Waveform	0	4194304	Value	ValueOutput
+Filter Chorus Mix	0	4194304	Value	ValueOutput
+Filter Chorus Dest	0	4194304	Value	ValueOutput
+Filter Chorus Amount	0	4194304	Value	ValueOutput
+Filter Chorus Level	0	4194304	Value	ValueOutput
+Filter Chorus Force Mono	0	4194304	Value	ValueOutput
+Digital Delay Power	0	4194304	Value	ValueOutput
+Digital Delay Time	0	4194304	Value	ValueOutput
+Digital Delay Regen	0	4194304	Value	ValueOutput
+Digital Delay Spread	0	4194304	Value	ValueOutput
+Digital Delay Low	0	4194304	Value	ValueOutput
+Digital Delay High	0	4194304	Value	ValueOutput
+Digital Delay Delay Leve	0	4194304	Value	ValueOutput
+Digital Delay Dest	0	4194304	Value	ValueOutput
+Digital Delay Amount	0	4194304	Value	ValueOutput
+Digital Delay Level	0	4194304	Value	ValueOutput
+Digital Delay Force Mono	0	4194304	Value	ValueOutput
+Tape Delay Power	0	4194304	Value	ValueOutput
+Tape Delay Time	0	4194304	Value	ValueOutput
+Tape Delay Regen	0	4194304	Value	ValueOutput
+Tape Delay Spread	0	4194304	Value	ValueOutput
+Tape Delay Wow/Flut	0	4194304	Value	ValueOutput
+Tape Delay Dist	0	4194304	Value	ValueOutput
+Tape Delay Dly level	0	4194304	Value	ValueOutput
+Tape Delay Dest	0	4194304	Value	ValueOutput
+Tape Delay Amount	0	4194304	Value	ValueOutput
+Tape Delay Level	0	4194304	Value	ValueOutput
+Tape Delay Force Mono	0	4194304	Value	ValueOutput
+Swept Delay Power	0	4194304	Value	ValueOutput
+Swept Delay Time	0	4194304	Value	ValueOutput
+Swept Delay Regen	0	4194304	Value	ValueOutput
+Swept Delay Spread	0	4194304	Value	ValueOutput
+Swept Delay Speed	0	4194304	Value	ValueOutput
+Swept Delay Depth	0	4194304	Value	ValueOutput
+Swept Delay Delay Level	0	4194304	Value	ValueOutput
+Swept Delay Dest	0	4194304	Value	ValueOutput
+Swept Delay Amount	0	4194304	Value	ValueOutput
+Swept Delay Level	0	4194304	Value	ValueOutput
+Swept Delay Force Mono	0	4194304	Value	ValueOutput
+Filter Delay Power	0	4194304	Value	ValueOutput
+Filter Delay Time	0	4194304	Value	ValueOutput
+Filter Delay Regen	0	4194304	Value	ValueOutput
+Filter Delay Speed	0	4194304	Value	ValueOutput
+Filter Delay Center	0	4194304	Value	ValueOutput
+Filter Delay Depth	0	4194304	Value	ValueOutput
+Filter Delay Delay Level	0	4194304	Value	ValueOutput
+Filter Delay Dest	0	4194304	Value	ValueOutput
+Filter Delay Amount	0	4194304	Value	ValueOutput
+Filter Delay Level	0	4194304	Value	ValueOutput
+Filter Delay Force Mono	0	4194304	Value	ValueOutput
+Comb Delay Power	0	4194304	Value	ValueOutput
+Comb Delay Delay	0	4194304	Value	ValueOutput
+Comb Delay Width	0	4194304	Value	ValueOutput
+Comb Delay Resonance	0	4194304	Value	ValueOutput
+Comb Delay Polarity	0	4194304	Value	ValueOutput
+Comb Delay Color	0	4194304	Value	ValueOutput
+Comb Delay Mix	0	4194304	Value	ValueOutput
+Comb Delay Level	0	4194304	Value	ValueOutput
+Comb Delay Force Mono	0	4194304	Value	ValueOutput
+Spatial Delay Power	0	4194304	Value	ValueOutput
+Spatial Delay Delay	0	4194304	Value	ValueOutput
+Spatial Delay Width	0	4194304	Value	ValueOutput
+Spatial Delay Bass Cut	0	4194304	Value	ValueOutput
+Spatial Delay Treble Cut	0	4194304	Value	ValueOutput
+Spatial Delay Mix	0	4194304	Value	ValueOutput
+Spatial Delay Level	0	4194304	Value	ValueOutput
+Spatial Delay Force Mono	0	4194304	Value	ValueOutput
+Pattern Delay Power	0	4194304	Value	ValueOutput
+Pattern Delay Pattern	0	4194304	Value	ValueOutput
+Pattern Delay Time	0	4194304	Value	ValueOutput
+Pattern Delay Regen	0	4194304	Value	ValueOutput
+Pattern Delay Mode	0	4194304	Value	ValueOutput
+Pattern Delay Color	0	4194304	Value	ValueOutput
+Pattern Delay Stereo Wid	0	4194304	Value	ValueOutput
+Pattern Delay Wet	0	4194304	Value	ValueOutput
+Pattern Delay Level	0	4194304	Value	ValueOutput
+Pattern Delay Force Mono	0	4194304	Value	ValueOutput
+VCA Comp Power	0	4194304	Value	ValueOutput
+VCA Comp Drive	0	4194304	Value	ValueOutput
+VCA Comp Attack	0	4194304	Value	ValueOutput
+VCA Comp Release	0	4194304	Value	ValueOutput
+VCA Comp Sidechain	0	4194304	Value	ValueOutput
+VCA Comp Makeup	0	4194304	Value	ValueOutput
+VariMu Comp Power	0	4194304	Value	ValueOutput
+VariMu Comp Sustain	0	4194304	Value	ValueOutput
+VariMu Comp Release	0	4194304	Value	ValueOutput
+VariMu Comp Ratio	0	4194304	Value	ValueOutput
+VariMu Comp Level	0	4194304	Value	ValueOutput
+Parametric EQ Power	0	4194304	Value	ValueOutput
+Parametric EQ Gain	0	4194304	Value	ValueOutput
+Parametric EQ Frequency	0	4194304	Value	ValueOutput
+Parametric EQ Q	0	4194304	Value	ValueOutput
+Parametric EQ Mode	0	4194304	Value	ValueOutput
+Parametric EQ Gain	0	4194304	Value	ValueOutput
+Parametric EQ Frequency	0	4194304	Value	ValueOutput
+Parametric EQ Q	0	4194304	Value	ValueOutput
+Parametric EQ Mode	0	4194304	Value	ValueOutput
+Parametric EQ Level	0	4194304	Value	ValueOutput
+Comb Flanger Power	0	4194304	Value	ValueOutput
+Comb Flanger Speed	0	4194304	Value	ValueOutput
+Comb Flanger Depth	0	4194304	Value	ValueOutput
+Comb Flanger Delay	0	4194304	Value	ValueOutput
+Comb Flanger Color	0	4194304	Value	ValueOutput
+Comb Flanger Resonance	0	4194304	Value	ValueOutput
+Comb Flanger Mix	0	4194304	Value	ValueOutput
+Comb Flanger Dest	0	4194304	Value	ValueOutput
+Comb Flanger Amount	0	4194304	Value	ValueOutput
+Comb Flanger Level	0	4194304	Value	ValueOutput
+Comb Flanger Force Mono	0	4194304	Value	ValueOutput
+Wave Flanger Power	0	4194304	Value	ValueOutput
+Wave Flanger Speed	0	4194304	Value	ValueOutput
+Wave Flanger Depth	0	4194304	Value	ValueOutput
+Wave Flanger Delay	0	4194304	Value	ValueOutput
+Wave Flanger Mix	0	4194304	Value	ValueOutput
+Wave Flanger Dest	0	4194304	Value	ValueOutput
+Wave Flanger Amount	0	4194304	Value	ValueOutput
+Wave Flanger Level	0	4194304	Value	ValueOutput
+Wave Flanger Force Mono	0	4194304	Value	ValueOutput
+Filter Flanger Power	0	4194304	Value	ValueOutput
+Filter Flanger Speed	0	4194304	Value	ValueOutput
+Filter Flanger Depth	0	4194304	Value	ValueOutput
+Filter Flanger Delay	0	4194304	Value	ValueOutput
+Filter Flanger Resonance	0	4194304	Value	ValueOutput
+Filter Flanger Mix	0	4194304	Value	ValueOutput
+Filter Flanger Dest	0	4194304	Value	ValueOutput
+Filter Flanger Amount	0	4194304	Value	ValueOutput
+Filter Flanger Level	0	4194304	Value	ValueOutput
+Filter Flanger Force Mon	0	4194304	Value	ValueOutput
+Digital Phaser Power	0	4194304	Value	ValueOutput
+Digital Phaser Speed	0	4194304	Value	ValueOutput
+Digital Phaser Depth	0	4194304	Value	ValueOutput
+Digital Phaser Center	0	4194304	Value	ValueOutput
+Digital Phaser Feedback	0	4194304	Value	ValueOutput
+Digital Phaser Stages	0	4194304	Value	ValueOutput
+Digital Phaser Mix	0	4194304	Value	ValueOutput
+Digital Phaser Dest	0	4194304	Value	ValueOutput
+Digital Phaser Amount	0	4194304	Value	ValueOutput
+Digital Phaser Level	0	4194304	Value	ValueOutput
+Digital Phaser Force Mon	0	4194304	Value	ValueOutput
+Pitch Shift Power	0	4194304	Value	ValueOutput
+Pitch Shift Pitch Coarse	0	4194304	Value	ValueOutput
+Pitch Shift Pitch Fine	0	4194304	Value	ValueOutput
+Pitch Shift Dep. Coarse	0	4194304	Value	ValueOutput
+Pitch Shift Dep. Fine	0	4194304	Value	ValueOutput
+Pitch Shift Rate	0	4194304	Value	ValueOutput
+Pitch Shift Mix	0	4194304	Value	ValueOutput
+Pitch Shift Level	0	4194304	Value	ValueOutput
+Plate Reverb Power	0	4194304	Value	ValueOutput
+Plate Reverb Time	0	4194304	Value	ValueOutput
+Plate Reverb Size	0	4194304	Value	ValueOutput
+Plate Reverb Shape	0	4194304	Value	ValueOutput
+Plate Reverb Diffusion	0	4194304	Value	ValueOutput
+Plate Reverb High	0	4194304	Value	ValueOutput
+Plate Reverb Wet	0	4194304	Value	ValueOutput
+Plate Reverb Level	0	4194304	Value	ValueOutput
+Room Reverb Power	0	4194304	Value	ValueOutput
+Room Reverb Time	0	4194304	Value	ValueOutput
+Room Reverb Size	0	4194304	Value	ValueOutput
+Room Reverb Diffusion	0	4194304	Value	ValueOutput
+Room Reverb Decay	0	4194304	Value	ValueOutput
+Room Reverb High	0	4194304	Value	ValueOutput
+Room Reverb Wet	0	4194304	Value	ValueOutput
+Room Reverb Level	0	4194304	Value	ValueOutput
+Hall Reverb Power	0	4194304	Value	ValueOutput
+Hall Reverb Time	0	4194304	Value	ValueOutput
+Hall Reverb Size	0	4194304	Value	ValueOutput
+Hall Reverb Shape	0	4194304	Value	ValueOutput
+Hall Reverb Diffusion	0	4194304	Value	ValueOutput
+Hall Reverb High	0	4194304	Value	ValueOutput
+Hall Reverb Wet	0	4194304	Value	ValueOutput
+Hall Reverb Level	0	4194304	Value	ValueOutput
+Inverse Reverb Power	0	4194304	Value	ValueOutput
+Inverse Reverb Time	0	4194304	Value	ValueOutput
+Inverse Reverb Predelay	0	4194304	Value	ValueOutput
+Inverse Reverb Diffusion	0	4194304	Value	ValueOutput
+Inverse Reverb Low	0	4194304	Value	ValueOutput
+Inverse Reverb High	0	4194304	Value	ValueOutput
+Inverse Reverb Wet	0	4194304	Value	ValueOutput
+Inverse Reverb Level	0	4194304	Value	ValueOutput
+AQTX Spring Rev Power	0	4194304	Value	ValueOutput
+AQTX Spring Rev Time	0	4194304	Value	ValueOutput
+AQTX Spring Rev Bright	0	4194304	Value	ValueOutput
+AQTX Spring Rev Boingy	0	4194304	Value	ValueOutput
+AQTX Spring Rev Tension	0	4194304	Value	ValueOutput
+AQTX Spring Rev Mix	0	4194304	Value	ValueOutput
+AQTX Spring Rev Level	0	4194304	Value	ValueOutput
+Mu-Wah Power	0	4194304	Value	ValueOutput
+Mu-Wah Filter	0	4194304	Value	ValueOutput
+Mu-Wah Speed	0	4194304	Value	ValueOutput
+Mu-Wah Depth	0	4194304	Value	ValueOutput
+Mu-Wah Sensitivity	0	4194304	Value	ValueOutput
+Mu-Wah Release	0	4194304	Value	ValueOutput
+Mu-Wah Mode	0	4194304	Value	ValueOutput
+Mu-Wah Polarity	0	4194304	Value	ValueOutput
+Mu-Wah Level	0	4194304	Value	ValueOutput
+Saint Amp Power	0	4194304	Value	ValueOutput
+Saint Amp Drive	0	4194304	Value	ValueOutput
+Saint Amp Low	0	4194304	Value	ValueOutput
+Saint Amp High	0	4194304	Value	ValueOutput
+Saint Amp Mic	0	4194304	Value	ValueOutput
+Saint Amp Mod	0	4194304	Value	ValueOutput
+Saint Amp Amp	0	4194304	Value	ValueOutput
+Saint Amp Level	0	4194304	Value	ValueOutput
+Harmonizer Power	0	4194304	Value	ValueOutput
+Harmonizer Scale	0	4194304	Value	ValueOutput
+Harmonizer Mode	0	4194304	Value	ValueOutput
+Harmonizer Dry	0	4194304	Value	ValueOutput
+Harmonizer Shift	0	4194304	Value	ValueOutput
+Harmonizer Level	0	4194304	Value	ValueOutput
+Harmonizer Shift	0	4194304	Value	ValueOutput
+Harmonizer Level	0	4194304	Value	ValueOutput
+GOP organizer Power	0	4194304	Value	ValueOutput
+GOP organizer Dry	0	4194304	Value	ValueOutput
+GOP organizer -2 Oct	0	4194304	Value	ValueOutput
+GOP organizer -1 Oct	0	4194304	Value	ValueOutput
+GOP organizer +1 Oct	0	4194304	Value	ValueOutput
+GOP organizer +2 Oct	0	4194304	Value	ValueOutput
+GOP organizer Attack	0	4194304	Value	ValueOutput
+GOP organizer Cutoff	0	4194304	Value	ValueOutput
+GOP organizer Q	0	4194304	Value	ValueOutput
+GOP organizer Detune	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

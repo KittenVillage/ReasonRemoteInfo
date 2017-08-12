@@ -1,0 +1,74 @@
+Scope
+Manufacturer	Model
+Waves	vst.RNTX.WaveShell-VST 9_91_x64.RChannel Mono/Stereo
+Note: Will match scope definitions for vst.RNTX.WaveShell-VST 9_91_x64.RChannel Mono/Stereo or vst.RNTX
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+EQ On/Off	0	4194304	Value	ValueOutput
+Band1 Gain	0	4194304	Value	ValueOutput
+Band2 Gain	0	4194304	Value	ValueOutput
+Band3 Gain	0	4194304	Value	ValueOutput
+Band4 Gain	0	4194304	Value	ValueOutput
+Band1 Frq	0	4194304	Value	ValueOutput
+Band2 Frq	0	4194304	Value	ValueOutput
+Band3 Frq	0	4194304	Value	ValueOutput
+Band4 Frq	0	4194304	Value	ValueOutput
+Band1 Q	0	4194304	Value	ValueOutput
+Band2 Q	0	4194304	Value	ValueOutput
+Band3 Q	0	4194304	Value	ValueOutput
+Band4 Q	0	4194304	Value	ValueOutput
+Band1 Type	0	4194304	Value	ValueOutput
+Band2 Type	0	4194304	Value	ValueOutput
+Band3 Type	0	4194304	Value	ValueOutput
+Band4 Type	0	4194304	Value	ValueOutput
+Band1 On/Off	0	4194304	Value	ValueOutput
+Band2 On/Off	0	4194304	Value	ValueOutput
+Band3 On/Off	0	4194304	Value	ValueOutput
+Band4 On/Off	0	4194304	Value	ValueOutput
+Routing	0	4194304	Value	ValueOutput
+Comp SC Source	0	4194304	Value	ValueOutput
+Comp SC On/Off	0	4194304	Value	ValueOutput
+Comp SC Type	0	4194304	Value	ValueOutput
+Comp SC Freq	0	4194304	Value	ValueOutput
+Comp SC BW	0	4194304	Value	ValueOutput
+Comp SC Listen	0	4194304	Value	ValueOutput
+Gate SC Source	0	4194304	Value	ValueOutput
+Gate SC On/Off	0	4194304	Value	ValueOutput
+Gate SC Type	0	4194304	Value	ValueOutput
+Gate SC Freq	0	4194304	Value	ValueOutput
+Gate SC BW	0	4194304	Value	ValueOutput
+Gate SC Listen	0	4194304	Value	ValueOutput
+Gate Threshold slider	0	4194304	Value	ValueOutput
+Comp Threshold slider	0	4194304	Value	ValueOutput
+Comp Select	0	4194304	Value	ValueOutput
+Compressor On/Off	0	4194304	Value	ValueOutput
+Comp Threshold	0	4194304	Value	ValueOutput
+Comp Ratio	0	4194304	Value	ValueOutput
+Comp Attack	0	4194304	Value	ValueOutput
+Comp Release	0	4194304	Value	ValueOutput
+ARC	0	4194304	Value	ValueOutput
+ExpGate	0	4194304	Value	ValueOutput
+Gate On/Off	0	4194304	Value	ValueOutput
+Gate Thresh	0	4194304	Value	ValueOutput
+Gate Floor	0	4194304	Value	ValueOutput
+Gate Release	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Invert phase	0	4194304	Value	ValueOutput
+Rotation	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

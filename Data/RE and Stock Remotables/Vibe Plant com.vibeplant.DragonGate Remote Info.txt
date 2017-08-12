@@ -1,0 +1,26 @@
+Scope
+Manufacturer	Model
+Vibe Plant	com.vibeplant.DragonGate
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Hysteresis	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Hold	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Floor	0	4194304	Value	ValueOutput
+Filter frequency	0	4194304	Value	ValueOutput
+Input monitor	0	1	Toggle	ValueOutput
+Boost	0	1	Toggle	ValueOutput
+Filter type	0	2	Value	ValueOutput
+Filter	0	1	Toggle	ValueOutput
+Ducking	0	1	Toggle	ValueOutput
+Input level	0	4194304	-	ValueOutput
+Gain reduction	0	4194304	-	ValueOutput
+Sidechain connected	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

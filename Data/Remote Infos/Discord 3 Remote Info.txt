@@ -1,0 +1,64 @@
+Scope
+Manufacturer	Model
+Audio Damage, Inc.	vst.ADd3.Discord 3
+Note: Will match scope definitions for vst.ADd3.Discord 3 or vst.ADd3
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+LShftAmt	0	4194304	Value	ValueOutput
+LBufSize	0	4194304	Value	ValueOutput
+L Delay 	0	4194304	Value	ValueOutput
+LGranDur	0	4194304	Value	ValueOutput
+LGranInt	0	4194304	Value	ValueOutput
+LFeedbak	0	4194304	Value	ValueOutput
+L XFdbak	0	4194304	Value	ValueOutput
+LDlySync	0	4194304	Value	ValueOutput
+LFltFreq	0	4194304	Value	ValueOutput
+LFltWidt	0	4194304	Value	ValueOutput
+RShftAmt	0	4194304	Value	ValueOutput
+RBufSize	0	4194304	Value	ValueOutput
+R Delay 	0	4194304	Value	ValueOutput
+RGranDur	0	4194304	Value	ValueOutput
+RGranInt	0	4194304	Value	ValueOutput
+RFeedbak	0	4194304	Value	ValueOutput
+R XFdbak	0	4194304	Value	ValueOutput
+RDlySync	0	4194304	Value	ValueOutput
+RFltFreq	0	4194304	Value	ValueOutput
+RFltWidt	0	4194304	Value	ValueOutput
+L LFO Rt	0	4194304	Value	ValueOutput
+L LFO Wv	0	4194304	Value	ValueOutput
+L LFOShp	0	4194304	Value	ValueOutput
+L LFOSnc	0	4194304	Value	ValueOutput
+LShftMod	0	4194304	Value	ValueOutput
+L DlyMod	0	4194304	Value	ValueOutput
+LFiltMod	0	4194304	Value	ValueOutput
+R LFO Rt	0	4194304	Value	ValueOutput
+R LFO Wv	0	4194304	Value	ValueOutput
+R LFOShp	0	4194304	Value	ValueOutput
+R LFOSnc	0	4194304	Value	ValueOutput
+RShftMod	0	4194304	Value	ValueOutput
+R DlyMod	0	4194304	Value	ValueOutput
+RFiltMod	0	4194304	Value	ValueOutput
+In Lvl 	0	4194304	Value	ValueOutput
+Out Mix 	0	4194304	Value	ValueOutput
+Out Lvl 	0	4194304	Value	ValueOutput
+Chaos	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Link L&R	0	4194304	Value	ValueOutput
+MIDIShft	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

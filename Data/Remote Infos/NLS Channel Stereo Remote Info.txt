@@ -1,0 +1,71 @@
+Scope
+Manufacturer	Model
+Waves	vst.SSCS.WaveShell-VST 9_91_x64.NLS Channel Stereo
+Note: Will match scope definitions for vst.SSCS.WaveShell-VST 9_91_x64.NLS Channel Stereo or vst.SSCS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+VCA 1 Bypass	0	4194304	Value	ValueOutput
+VCA 1 Noise	0	4194304	Value	ValueOutput
+VCA 1 Drive	0	4194304	Value	ValueOutput
+VCA 1 Trim	0	4194304	Value	ValueOutput
+VCA 1 Studio	0	4194304	Value	ValueOutput
+VCA 2 Bypass	0	4194304	Value	ValueOutput
+VCA 2 Noise	0	4194304	Value	ValueOutput
+VCA 2 Drive	0	4194304	Value	ValueOutput
+VCA 2 Trim	0	4194304	Value	ValueOutput
+VCA 2 Studio	0	4194304	Value	ValueOutput
+VCA 3 Bypass	0	4194304	Value	ValueOutput
+VCA 3 Noise	0	4194304	Value	ValueOutput
+VCA 3 Drive	0	4194304	Value	ValueOutput
+VCA 3 Trim	0	4194304	Value	ValueOutput
+VCA 3 Studio	0	4194304	Value	ValueOutput
+VCA 4 Bypass	0	4194304	Value	ValueOutput
+VCA 4 Noise	0	4194304	Value	ValueOutput
+VCA 4 Drive	0	4194304	Value	ValueOutput
+VCA 4 Trim	0	4194304	Value	ValueOutput
+VCA 4 Studio	0	4194304	Value	ValueOutput
+VCA 5 Bypass	0	4194304	Value	ValueOutput
+VCA 5 Noise	0	4194304	Value	ValueOutput
+VCA 5 Drive	0	4194304	Value	ValueOutput
+VCA 5 Trim	0	4194304	Value	ValueOutput
+VCA 5 Studio	0	4194304	Value	ValueOutput
+VCA 6 Bypass	0	4194304	Value	ValueOutput
+VCA 6 Noise	0	4194304	Value	ValueOutput
+VCA 6 Drive	0	4194304	Value	ValueOutput
+VCA 6 Trim	0	4194304	Value	ValueOutput
+VCA 6 Studio	0	4194304	Value	ValueOutput
+VCA 7 Bypass	0	4194304	Value	ValueOutput
+VCA 7 Noise	0	4194304	Value	ValueOutput
+VCA 7 Drive	0	4194304	Value	ValueOutput
+VCA 7 Trim	0	4194304	Value	ValueOutput
+VCA 7 Studio	0	4194304	Value	ValueOutput
+VCA 8 Bypass	0	4194304	Value	ValueOutput
+VCA 8 Noise	0	4194304	Value	ValueOutput
+VCA 8 Drive	0	4194304	Value	ValueOutput
+VCA 8 Trim	0	4194304	Value	ValueOutput
+VCA 8 Studio	0	4194304	Value	ValueOutput
+Noise	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+VCA Group	0	4194304	Value	ValueOutput
+Studio	0	4194304	Value	ValueOutput
+Link	0	4194304	Value	ValueOutput
+Mic	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,591 @@
+Scope
+Manufacturer	Model
+Studio Corbach	nl.studiocorbach.MixfoodWT4
+
+Remotable	Min	Max	Input type	Output type
+Volume	0	4194304	Value	ValueOutput
+Global Filter Type	0	5	Value	ValueOutput
+Global Filter Cutoff	0	4194304	Value	ValueOutput
+Global Filter Resonance	0	4194304	Value	ValueOutput
+Global Pan	0	4194304	Value	ValueOutput
+Split Drive Low Out	0	4194304	Value	ValueOutput
+Split Drive Mid Out	0	4194304	Value	ValueOutput
+Split Drive High Out	0	4194304	Value	ValueOutput
+Split Drive Low Drive	0	4194304	Value	ValueOutput
+Split Drive Mid Drive	0	4194304	Value	ValueOutput
+Split Drive High Drive	0	4194304	Value	ValueOutput
+Split Drive Low Freq	0	4194304	Value	ValueOutput
+Split Drive High Freq	0	4194304	Value	ValueOutput
+OSC1	0	1	Toggle	ValueOutput
+Unison Osc1	0	3	Value	ValueOutput
+Unison Detune Osc1	0	4194304	Value	ValueOutput
+Unison Spread Osc1	0	4194304	Value	ValueOutput
+Wavetable Osc1	0	399	Value	ValueOutput
+Wavetable Index Osc1	0	4194304	Value	ValueOutput
+Volume Osc1	0	4194304	Value	ValueOutput
+Semitune Osc1	0	4194304	Value	ValueOutput
+Finetune Osc1	0	4194304	Value	ValueOutput
+Pan Osc1	0	4194304	Value	ValueOutput
+Ringmod Osc1	0	1	Toggle	ValueOutput
+Ringmod Freq Osc1	0	4194304	Value	ValueOutput
+Ringmod Mix Osc1	0	4194304	Value	ValueOutput
+Filter Type Osc1	0	2	Value	ValueOutput
+Filter Cutoff Osc1	0	4194304	Value	ValueOutput
+Filter Resonance Osc1	0	4194304	Value	ValueOutput
+Pitchdrop Depth Osc1	0	4194304	Value	ValueOutput
+Pitchdrop Smooth Osc1	0	4194304	Value	ValueOutput
+Eq2 Gain Osc1	0	4194304	Value	ValueOutput
+Eq2 Freq Osc1	0	4194304	Value	ValueOutput
+Flanger Mix Osc1	0	4194304	Value	ValueOutput
+Phaser Mix Osc1	0	4194304	Value	ValueOutput
+Chorus Mix Osc1	0	4194304	Value	ValueOutput
+Delay Mix Osc1	0	4194304	Value	ValueOutput
+Delay L/R Osc1	0	4194304	Value	ValueOutput
+Reverb Mix Osc1	0	4194304	Value	ValueOutput
+Lo-Fi Mix Osc1	0	4194304	Value	ValueOutput
+Amp Envelope Attack Osc1	0	4194304	Value	ValueOutput
+Amp Envelope Decay Osc1	0	4194304	Value	ValueOutput
+Amp Envelope Sustain Osc1	0	4194304	Value	ValueOutput
+Amp Envelope Release Osc1	0	4194304	Value	ValueOutput
+Filter Envelope Depth Osc1	0	4194304	Value	ValueOutput
+Filter Envelope Attack Osc1	0	4194304	Value	ValueOutput
+Filter Envelope Decay Osc1	0	4194304	Value	ValueOutput
+Filter Envelope Sustain Osc1	0	4194304	Value	ValueOutput
+Filter Envelope Release Osc1	0	4194304	Value	ValueOutput
+Modulation Source1 Osc1	0	10	Value	ValueOutput
+Modulation Amount1 Osc1	0	4194304	Value	ValueOutput
+Modulation Smooth1 Osc1	0	4194304	Value	ValueOutput
+Modulation Source2 Osc1	0	10	Value	ValueOutput
+Modulation Amount2 Osc1	0	4194304	Value	ValueOutput
+Modulation Smooth2 Osc1	0	4194304	Value	ValueOutput
+Eq1 Freq Osc1	0	4194304	Value	ValueOutput
+Eq1 Q Osc1	0	4194304	Value	ValueOutput
+Eq1 Gain Osc1	0	4194304	Value	ValueOutput
+Modulation Source1 Eq1 Osc1	0	10	Value	ValueOutput
+Modulation Amount1 Eq1 Osc1	0	4194304	Value	ValueOutput
+Modulation Smooth1 Eq1 Osc1	0	4194304	Value	ValueOutput
+Drive Osc1	0	4194304	Value	ValueOutput
+Modulation Source1 Drvie Osc1	0	10	Value	ValueOutput
+Modulation Amount1 Drvie Osc1	0	4194304	Value	ValueOutput
+Modulation Smooth1 Drvie Osc1	0	4194304	Value	ValueOutput
+OSC2	0	1	Toggle	ValueOutput
+Unison Osc2	0	3	Value	ValueOutput
+Unison Detune Osc2	0	4194304	Value	ValueOutput
+Unison Spread Osc2	0	4194304	Value	ValueOutput
+Wavetable Osc2	0	399	Value	ValueOutput
+Wavetable Index Osc2	0	4194304	Value	ValueOutput
+Volume Osc2	0	4194304	Value	ValueOutput
+Semitune Osc2	0	4194304	Value	ValueOutput
+Finetune Osc2	0	4194304	Value	ValueOutput
+Pan Osc2	0	4194304	Value	ValueOutput
+Ringmod Osc2	0	1	Toggle	ValueOutput
+Ringmod Freq Osc2	0	4194304	Value	ValueOutput
+Ringmod Mix Osc2	0	4194304	Value	ValueOutput
+Filter Type Osc2	0	2	Value	ValueOutput
+Filter Cutoff Osc2	0	4194304	Value	ValueOutput
+Filter Resonance Osc2	0	4194304	Value	ValueOutput
+Pitchdrop Depth Osc2	0	4194304	Value	ValueOutput
+Pitchdrop Smooth Osc2	0	4194304	Value	ValueOutput
+Eq2 Gain Osc2	0	4194304	Value	ValueOutput
+Eq2 Freq Osc2	0	4194304	Value	ValueOutput
+Flanger Mix Osc2	0	4194304	Value	ValueOutput
+Phaser Mix Osc2	0	4194304	Value	ValueOutput
+Chorus Mix Osc2	0	4194304	Value	ValueOutput
+Delay Mix Osc2	0	4194304	Value	ValueOutput
+Delay L/R Osc2	0	4194304	Value	ValueOutput
+Reverb Mix Osc2	0	4194304	Value	ValueOutput
+Lo-Fi Mix Osc2	0	4194304	Value	ValueOutput
+Amp Envelope Attack Osc2	0	4194304	Value	ValueOutput
+Amp Envelope Decay Osc2	0	4194304	Value	ValueOutput
+Amp Envelope Sustain Osc2	0	4194304	Value	ValueOutput
+Amp Envelope Release Osc2	0	4194304	Value	ValueOutput
+Filter Envelope Depth Osc2	0	4194304	Value	ValueOutput
+Filter Envelope Attack Osc2	0	4194304	Value	ValueOutput
+Filter Envelope Decay Osc2	0	4194304	Value	ValueOutput
+Filter Envelope Sustain Osc2	0	4194304	Value	ValueOutput
+Filter Envelope Release Osc2	0	4194304	Value	ValueOutput
+Modulation Source1 Osc2	0	10	Value	ValueOutput
+Modulation Amount1 Osc2	0	4194304	Value	ValueOutput
+Modulation Smooth1 Osc2	0	4194304	Value	ValueOutput
+Modulation Source2 Osc2	0	10	Value	ValueOutput
+Modulation Amount2 Osc2	0	4194304	Value	ValueOutput
+Modulation Smooth2 Osc2	0	4194304	Value	ValueOutput
+Eq1 Freq Osc2	0	4194304	Value	ValueOutput
+Eq1 Q Osc2	0	4194304	Value	ValueOutput
+Eq1 Gain Osc2	0	4194304	Value	ValueOutput
+Modulation Source1 Eq1 Osc2	0	10	Value	ValueOutput
+Modulation Amount1 Eq1 Osc2	0	4194304	Value	ValueOutput
+Modulation Smooth1 Eq1 Osc2	0	4194304	Value	ValueOutput
+Drive Osc2	0	4194304	Value	ValueOutput
+Modulation Source1 Drvie Osc2	0	10	Value	ValueOutput
+Modulation Amount1 Drvie Osc2	0	4194304	Value	ValueOutput
+Modulation Smooth1 Drvie Osc2	0	4194304	Value	ValueOutput
+OSC3	0	1	Toggle	ValueOutput
+Unison Osc3	0	3	Value	ValueOutput
+Unison Detune Osc3	0	4194304	Value	ValueOutput
+Unison Spread Osc3	0	4194304	Value	ValueOutput
+Wavetable Osc3	0	399	Value	ValueOutput
+Wavetable Index Osc3	0	4194304	Value	ValueOutput
+Volume Osc3	0	4194304	Value	ValueOutput
+Semitune Osc3	0	4194304	Value	ValueOutput
+Finetune Osc3	0	4194304	Value	ValueOutput
+Pan Osc3	0	4194304	Value	ValueOutput
+Ringmod Osc3	0	1	Toggle	ValueOutput
+Ringmod Freq Osc3	0	4194304	Value	ValueOutput
+Ringmod Mix Osc3	0	4194304	Value	ValueOutput
+Filter Type Osc3	0	2	Value	ValueOutput
+Filter Cutoff Osc3	0	4194304	Value	ValueOutput
+Filter Resonance Osc3	0	4194304	Value	ValueOutput
+Pitchdrop Depth Osc3	0	4194304	Value	ValueOutput
+Pitchdrop Smooth Osc3	0	4194304	Value	ValueOutput
+Flanger Mix Osc3	0	4194304	Value	ValueOutput
+Phaser Mix Osc3	0	4194304	Value	ValueOutput
+Chorus Mix Osc3	0	4194304	Value	ValueOutput
+Delay Mix Osc3	0	4194304	Value	ValueOutput
+Delay L/R Osc3	0	4194304	Value	ValueOutput
+Reverb Mix Osc3	0	4194304	Value	ValueOutput
+Lo-Fi Mix Osc3	0	4194304	Value	ValueOutput
+Amp Envelope Attack Osc3	0	4194304	Value	ValueOutput
+Amp Envelope Decay Osc3	0	4194304	Value	ValueOutput
+Amp Envelope Sustain Osc3	0	4194304	Value	ValueOutput
+Amp Envelope Release Osc3	0	4194304	Value	ValueOutput
+Filter Envelope Depth Osc3	0	4194304	Value	ValueOutput
+Filter Envelope Attack Osc3	0	4194304	Value	ValueOutput
+Filter Envelope Decay Osc3	0	4194304	Value	ValueOutput
+Filter Envelope Sustain Osc3	0	4194304	Value	ValueOutput
+Filter Envelope Release Osc3	0	4194304	Value	ValueOutput
+Modulation Source1 Osc3	0	10	Value	ValueOutput
+Modulation Amount1 Osc3	0	4194304	Value	ValueOutput
+Modulation Smooth1 Osc3	0	4194304	Value	ValueOutput
+Modulation Source2 Osc3	0	10	Value	ValueOutput
+Modulation Amount2 Osc3	0	4194304	Value	ValueOutput
+Modulation Smooth2 Osc3	0	4194304	Value	ValueOutput
+Eq1 Freq Osc3	0	4194304	Value	ValueOutput
+Eq1 Q Osc3	0	4194304	Value	ValueOutput
+Eq1 Gain Osc3	0	4194304	Value	ValueOutput
+Modulation Source1 Eq1 Osc3	0	10	Value	ValueOutput
+Modulation Amount1 Eq1 Osc3	0	4194304	Value	ValueOutput
+Modulation Smooth1 Eq1 Osc3	0	4194304	Value	ValueOutput
+Drive Osc3	0	4194304	Value	ValueOutput
+Modulation Source1 Drvie Osc3	0	10	Value	ValueOutput
+Modulation Amount1 Drvie Osc3	0	4194304	Value	ValueOutput
+Modulation Smooth1 Drvie Osc3	0	4194304	Value	ValueOutput
+OSC4	0	1	Toggle	ValueOutput
+Unison Osc4	0	3	Value	ValueOutput
+Unison Detune Osc4	0	4194304	Value	ValueOutput
+Unison Spread Osc4	0	4194304	Value	ValueOutput
+Wavetable Osc4	0	399	Value	ValueOutput
+Wavetable Index Osc4	0	4194304	Value	ValueOutput
+Volume Osc4	0	4194304	Value	ValueOutput
+Semitune Osc4	0	4194304	Value	ValueOutput
+Finetune Osc4	0	4194304	Value	ValueOutput
+Pan Osc4	0	4194304	Value	ValueOutput
+Filter Type Osc4	0	2	Value	ValueOutput
+Filter Cutoff Osc4	0	4194304	Value	ValueOutput
+Filter Resonance Osc4	0	4194304	Value	ValueOutput
+Pitchdrop Depth Osc4	0	4194304	Value	ValueOutput
+Pitchdrop Smooth Osc4	0	4194304	Value	ValueOutput
+Flanger Mix Osc4	0	4194304	Value	ValueOutput
+Phaser Mix Osc4	0	4194304	Value	ValueOutput
+Chorus Mix Osc4	0	4194304	Value	ValueOutput
+Delay Mix Osc4	0	4194304	Value	ValueOutput
+Delay L/R Osc4	0	4194304	Value	ValueOutput
+Reverb Mix Osc4	0	4194304	Value	ValueOutput
+Lo-Fi Mix Osc4	0	4194304	Value	ValueOutput
+Amp Envelope Attack Osc4	0	4194304	Value	ValueOutput
+Amp Envelope Decay Osc4	0	4194304	Value	ValueOutput
+Amp Envelope Sustain Osc4	0	4194304	Value	ValueOutput
+Amp Envelope Release Osc4	0	4194304	Value	ValueOutput
+Filter Envelope Depth Osc4	0	4194304	Value	ValueOutput
+Filter Envelope Attack Osc4	0	4194304	Value	ValueOutput
+Filter Envelope Decay Osc4	0	4194304	Value	ValueOutput
+Filter Envelope Sustain Osc4	0	4194304	Value	ValueOutput
+Filter Envelope Release Osc4	0	4194304	Value	ValueOutput
+Modulation Source1 Osc4	0	10	Value	ValueOutput
+Modulation Amount1 Osc4	0	4194304	Value	ValueOutput
+Modulation Smooth1 Osc4	0	4194304	Value	ValueOutput
+Modulation Source2 Osc4	0	10	Value	ValueOutput
+Modulation Amount2 Osc4	0	4194304	Value	ValueOutput
+Modulation Smooth2 Osc4	0	4194304	Value	ValueOutput
+Eq1 Freq Osc4	0	4194304	Value	ValueOutput
+Eq1 Q Osc4	0	4194304	Value	ValueOutput
+Eq1 Gain Osc4	0	4194304	Value	ValueOutput
+Modulation Source1 Eq1 Osc4	0	10	Value	ValueOutput
+Modulation Amount1 Eq1 Osc4	0	4194304	Value	ValueOutput
+Modulation Smooth1 Eq1 Osc4	0	4194304	Value	ValueOutput
+Drive Osc4	0	4194304	Value	ValueOutput
+Modulation Source1 Drvie Osc4	0	10	Value	ValueOutput
+Modulation Amount1 Drvie Osc4	0	4194304	Value	ValueOutput
+Modulation Smooth1 Drvie Osc4	0	4194304	Value	ValueOutput
+Global Glide Time	0	4194304	Value	ValueOutput
+Global Velocity	0	4194304	Value	ValueOutput
+Global Mono/Poly	0	1	Toggle	ValueOutput
+Legato	0	1	Toggle	ValueOutput
+Switch	0	3	Value	ValueOutput
+Haas On/Off Osc1	0	1	Toggle	ValueOutput
+Haas Time Osc1	0	4194304	Value	ValueOutput
+Haas Swap Osc1	0	1	Toggle	ValueOutput
+Eq2 Q Osc1	0	4194304	Value	ValueOutput
+Flanger Rate Osc1	0	4194304	Value	ValueOutput
+Flanger Depth Osc1	0	4194304	Value	ValueOutput
+Flanger Feedback Osc1	0	4194304	Value	ValueOutput
+Flanger Phase Osc1	0	4194304	Value	ValueOutput
+Phaser Rate Osc1	0	4194304	Value	ValueOutput
+Phaser Depth Osc1	0	4194304	Value	ValueOutput
+Phaser Feedback Osc1	0	4194304	Value	ValueOutput
+Phaser Center Osc1	0	4194304	Value	ValueOutput
+Phaser Spread Osc1	0	4194304	Value	ValueOutput
+Chorus Rate Osc1	0	4194304	Value	ValueOutput
+Chorus Depth Osc1	0	4194304	Value	ValueOutput
+Chorus Delay Osc1	0	4194304	Value	ValueOutput
+Chorus Voices Osc1	0	3	Value	ValueOutput
+Deley Time Sync On/Off Osc1	0	15	Value	ValueOutput
+Delay Sync On/Off Osc1	0	1	Toggle	ValueOutput
+Delay Time Linear Osc1	0	4194304	Value	ValueOutput
+Delay Feedback Osc1	0	4194304	Value	ValueOutput
+Delay Mode Osc1	0	3	Value	ValueOutput
+Reverb Time Osc1	0	4194304	Value	ValueOutput
+Reverb Pre Osc1	0	4194304	Value	ValueOutput
+Reverb Low Cut Osc1	0	4194304	Value	ValueOutput
+Reverb High Cut Osc1	0	4194304	Value	ValueOutput
+Reverb Damp Osc1	0	4194304	Value	ValueOutput
+Lo-Fi SampleRate Sync Osc1	0	4194304	Value	ValueOutput
+Lo-Fi Jitter Osc1	0	4194304	Value	ValueOutput
+Envelope1 Attack Osc1	0	4194304	Value	ValueOutput
+Envelope1 Decay Osc1	0	4194304	Value	ValueOutput
+Envelope1 Sustain Osc1	0	4194304	Value	ValueOutput
+Envelope1 Release Osc1	0	4194304	Value	ValueOutput
+Envelope2 Attack Osc1	0	4194304	Value	ValueOutput
+Envelope2 Decay Osc1	0	4194304	Value	ValueOutput
+Envelope2 Sustain Osc1	0	4194304	Value	ValueOutput
+Envelope2 Release Osc1	0	4194304	Value	ValueOutput
+Envelope3 Attack Osc1	0	4194304	Value	ValueOutput
+Envelope3 Decay Osc1	0	4194304	Value	ValueOutput
+Envelope3 Sustain Osc1	0	4194304	Value	ValueOutput
+Envelope3 Release Osc1	0	4194304	Value	ValueOutput
+Amp Envelope Invert Osc1	0	1	Toggle	ValueOutput
+Filter Envelope Invert Osc1	0	1	Toggle	ValueOutput
+Lfo1 Waveform Osc1	0	5	Value	ValueOutput
+Lfo1 Rate Linearear Osc1	0	4194304	Value	ValueOutput
+Lfo1 Rate Sync Osc1	0	44	Value	ValueOutput
+Lfo1 Startphase Osc1	0	4194304	Value	ValueOutput
+Lfo1 Sync On/Off Osc1	0	1	Toggle	ValueOutput
+Lfo1 Retrigger On/Off Osc1	0	1	Toggle	ValueOutput
+Lfo2 Waveform Osc1	0	5	Value	ValueOutput
+Lfo2 Rate Linearear Osc1	0	4194304	Value	ValueOutput
+Lfo2 Rate Sync Osc1	0	44	Value	ValueOutput
+Lfo2 Startphase Osc1	0	4194304	Value	ValueOutput
+Lfo2 Sync On/Off Osc1	0	1	Toggle	ValueOutput
+Lfo2 Retrigger On/Off Osc1	0	1	Toggle	ValueOutput
+Lfo3 Waveform Osc1	0	5	Value	ValueOutput
+Lfo3 Rate Linearear Osc1	0	4194304	Value	ValueOutput
+Lfo3 Rate Sync Osc1	0	44	Value	ValueOutput
+Lfo3 Startphase Osc1	0	4194304	Value	ValueOutput
+Lfo3 Sync On/Off Osc1	0	1	Toggle	ValueOutput
+Lfo3 Retrigger On/Off Osc1	0	1	Toggle	ValueOutput
+Lfo4 Waveform Osc1	0	5	Value	ValueOutput
+Lfo4 Rate Linearear Osc1	0	4194304	Value	ValueOutput
+Lfo4 Rate Sync Osc1	0	44	Value	ValueOutput
+Lfo4 Startphase Osc1	0	4194304	Value	ValueOutput
+Lfo4 Sync On/Off Osc1	0	1	Toggle	ValueOutput
+Lfo4 Retrigger On/Off Osc1	0	1	Toggle	ValueOutput
+Modulation Destination1 Osc1	0	6	Value	ValueOutput
+Modulation Destination2 Osc1	0	6	Value	ValueOutput
+Modulation Source3 Osc1	0	10	Value	ValueOutput
+Modulation Amount3 Osc1	0	4194304	Value	ValueOutput
+Modulation Smooth3 Osc1	0	4194304	Value	ValueOutput
+Modulation Destination3 Osc1	0	6	Value	ValueOutput
+Modulation Source4 Osc1	0	10	Value	ValueOutput
+Modulation Amount4 Osc1	0	4194304	Value	ValueOutput
+Modulation Smooth4 Osc1	0	4194304	Value	ValueOutput
+Modulation Destination4 Osc1	0	6	Value	ValueOutput
+Modulation Destination1 Eq1 Osc1	0	3	Value	ValueOutput
+Modulation Source2 Eq1 Osc1	0	10	Value	ValueOutput
+Modulation Amount2 Eq1 Osc1	0	4194304	Value	ValueOutput
+Modulation Smooth2 Eq1 Osc1	0	4194304	Value	ValueOutput
+Modulation Destination2 Eq1 Osc1	0	3	Value	ValueOutput
+Modulation Destination1 Drvie Osc1	0	1	Toggle	ValueOutput
+Modulation Source2 Drvie Osc1	0	10	Value	ValueOutput
+Modulation Amount2 Drvie Osc1	0	4194304	Value	ValueOutput
+Modulation Smooth2 Drvie Osc1	0	4194304	Value	ValueOutput
+Modulation Destination2 Drvie Osc1	0	1	Toggle	ValueOutput
+Haas On/Off Osc2	0	1	Toggle	ValueOutput
+Haas Time Osc2	0	4194304	Value	ValueOutput
+Haas Swap Osc2	0	1	Toggle	ValueOutput
+Eq2 Q Osc2	0	4194304	Value	ValueOutput
+Flanger Rate Osc2	0	4194304	Value	ValueOutput
+Flanger Depth Osc2	0	4194304	Value	ValueOutput
+Flanger Feedback Osc2	0	4194304	Value	ValueOutput
+Flanger Phase Osc2	0	4194304	Value	ValueOutput
+Phaser Rate Osc2	0	4194304	Value	ValueOutput
+Phaser Depth Osc2	0	4194304	Value	ValueOutput
+Phaser Feedback Osc2	0	4194304	Value	ValueOutput
+Phaser Center Osc2	0	4194304	Value	ValueOutput
+Phaser Spread Osc2	0	4194304	Value	ValueOutput
+Chorus Rate Osc2	0	4194304	Value	ValueOutput
+Chorus Depth Osc2	0	4194304	Value	ValueOutput
+Chorus Delay Osc2	0	4194304	Value	ValueOutput
+Chorus Voices Osc2	0	3	Value	ValueOutput
+Deley Time Sync On/Off Osc2	0	15	Value	ValueOutput
+Delay Sync On/Off Osc2	0	1	Toggle	ValueOutput
+Delay Time Linear Osc2	0	4194304	Value	ValueOutput
+Delay Feedback Osc2	0	4194304	Value	ValueOutput
+Delay Mode Osc2	0	3	Value	ValueOutput
+Reverb Time Osc2	0	4194304	Value	ValueOutput
+Reverb Pre Osc2	0	4194304	Value	ValueOutput
+Reverb Low Cut Osc2	0	4194304	Value	ValueOutput
+Reverb High Cut Osc2	0	4194304	Value	ValueOutput
+Reverb Damp Osc2	0	4194304	Value	ValueOutput
+Lo-Fi SampleRate Sync Osc2	0	4194304	Value	ValueOutput
+Lo-Fi Jitter Osc2	0	4194304	Value	ValueOutput
+Envelope1 Attack Osc2	0	4194304	Value	ValueOutput
+Envelope1 Decay Osc2	0	4194304	Value	ValueOutput
+Envelope1 Sustain Osc2	0	4194304	Value	ValueOutput
+Envelope1 Release Osc2	0	4194304	Value	ValueOutput
+Envelope2 Attack Osc2	0	4194304	Value	ValueOutput
+Envelope2 Decay Osc2	0	4194304	Value	ValueOutput
+Envelope2 Sustain Osc2	0	4194304	Value	ValueOutput
+Envelope2 Release Osc2	0	4194304	Value	ValueOutput
+Envelope3 Attack Osc2	0	4194304	Value	ValueOutput
+Envelope3 Decay Osc2	0	4194304	Value	ValueOutput
+Envelope3 Sustain Osc2	0	4194304	Value	ValueOutput
+Envelope3 Release Osc2	0	4194304	Value	ValueOutput
+Amp Envelope Invert Osc2	0	1	Toggle	ValueOutput
+Filter Envelope Invert Osc2	0	1	Toggle	ValueOutput
+Lfo1 Waveform Osc2	0	5	Value	ValueOutput
+Lfo1 Rate Linearear Osc2	0	4194304	Value	ValueOutput
+Lfo1 Rate Sync Osc2	0	44	Value	ValueOutput
+Lfo1 Startphase Osc2	0	4194304	Value	ValueOutput
+Lfo1 Sync On/Off Osc2	0	1	Toggle	ValueOutput
+Lfo1 Retrigger On/Off Osc2	0	1	Toggle	ValueOutput
+Lfo2 Waveform Osc2	0	5	Value	ValueOutput
+Lfo2 Rate Linearear Osc2	0	4194304	Value	ValueOutput
+Lfo2 Rate Sync Osc2	0	44	Value	ValueOutput
+Lfo2 Startphase Osc2	0	4194304	Value	ValueOutput
+Lfo2 Sync On/Off Osc2	0	1	Toggle	ValueOutput
+Lfo2 Retrigger On/Off Osc2	0	1	Toggle	ValueOutput
+Lfo3 Waveform Osc2	0	5	Value	ValueOutput
+Lfo3 Rate Linearear Osc2	0	4194304	Value	ValueOutput
+Lfo3 Rate Sync Osc2	0	44	Value	ValueOutput
+Lfo3 Startphase Osc2	0	4194304	Value	ValueOutput
+Lfo3 Sync On/Off Osc2	0	1	Toggle	ValueOutput
+Lfo3 Retrigger On/Off Osc2	0	1	Toggle	ValueOutput
+Lfo4 Waveform Osc2	0	5	Value	ValueOutput
+Lfo4 Rate Linearear Osc2	0	4194304	Value	ValueOutput
+Lfo4 Rate Sync Osc2	0	44	Value	ValueOutput
+Lfo4 Startphase Osc2	0	4194304	Value	ValueOutput
+Lfo4 Sync On/Off Osc2	0	1	Toggle	ValueOutput
+Lfo4 Retrigger On/Off Osc2	0	1	Toggle	ValueOutput
+Modulation Destination1 Osc2	0	6	Value	ValueOutput
+Modulation Destination2 Osc2	0	6	Value	ValueOutput
+Modulation Source3 Osc2	0	10	Value	ValueOutput
+Modulation Amount3 Osc2	0	4194304	Value	ValueOutput
+Modulation Smooth3 Osc2	0	4194304	Value	ValueOutput
+Modulation Destination3 Osc2	0	6	Value	ValueOutput
+Modulation Source4 Osc2	0	10	Value	ValueOutput
+Modulation Amount4 Osc2	0	4194304	Value	ValueOutput
+Modulation Smooth4 Osc2	0	4194304	Value	ValueOutput
+Modulation Destination4 Osc2	0	6	Value	ValueOutput
+Modulation Destination1 Eq1 Osc2	0	3	Value	ValueOutput
+Modulation Source2 Eq1 Osc2	0	10	Value	ValueOutput
+Modulation Amount2 Eq1 Osc2	0	4194304	Value	ValueOutput
+Modulation Smooth2 Eq1 Osc2	0	4194304	Value	ValueOutput
+Modulation Destination2 Eq1 Osc2	0	3	Value	ValueOutput
+Modulation Destination1 Drvie Osc2	0	1	Toggle	ValueOutput
+Modulation Source2 Drvie Osc2	0	10	Value	ValueOutput
+Modulation Amount2 Drvie Osc2	0	4194304	Value	ValueOutput
+Modulation Smooth2 Drvie Osc2	0	4194304	Value	ValueOutput
+Modulation Destination2 Drvie Osc2	0	1	Toggle	ValueOutput
+Haas On/Off Osc3	0	1	Toggle	ValueOutput
+Haas Time Osc3	0	4194304	Value	ValueOutput
+Haas Swap Osc3	0	1	Toggle	ValueOutput
+Eq2 Gain Osc3	0	4194304	Value	ValueOutput
+Eq2 Freq Osc3	0	4194304	Value	ValueOutput
+Eq2 Q Osc3	0	4194304	Value	ValueOutput
+Flanger Rate Osc3	0	4194304	Value	ValueOutput
+Flanger Depth Osc3	0	4194304	Value	ValueOutput
+Flanger Feedback Osc3	0	4194304	Value	ValueOutput
+Flanger Phase Osc3	0	4194304	Value	ValueOutput
+Phaser Rate Osc3	0	4194304	Value	ValueOutput
+Phaser Depth Osc3	0	4194304	Value	ValueOutput
+Phaser Feedback Osc3	0	4194304	Value	ValueOutput
+Phaser Center Osc3	0	4194304	Value	ValueOutput
+Phaser Spread Osc3	0	4194304	Value	ValueOutput
+Chorus Rate Osc3	0	4194304	Value	ValueOutput
+Chorus Depth Osc3	0	4194304	Value	ValueOutput
+Chorus Delay Osc3	0	4194304	Value	ValueOutput
+Chorus Voices Osc3	0	3	Value	ValueOutput
+Deley Time Sync On/Off Osc3	0	15	Value	ValueOutput
+Delay Sync On/Off Osc3	0	1	Toggle	ValueOutput
+Delay Time Linear Osc3	0	4194304	Value	ValueOutput
+Delay Feedback Osc3	0	4194304	Value	ValueOutput
+Delay Mode Osc3	0	3	Value	ValueOutput
+Reverb Time Osc3	0	4194304	Value	ValueOutput
+Reverb Pre Osc3	0	4194304	Value	ValueOutput
+Reverb Low Cut Osc3	0	4194304	Value	ValueOutput
+Reverb High Cut Osc3	0	4194304	Value	ValueOutput
+Reverb Damp Osc3	0	4194304	Value	ValueOutput
+Lo-Fi SampleRate Sync Osc3	0	4194304	Value	ValueOutput
+Lo-Fi Jitter Osc3	0	4194304	Value	ValueOutput
+Envelope1 Attack Osc3	0	4194304	Value	ValueOutput
+Envelope1 Decay Osc3	0	4194304	Value	ValueOutput
+Envelope1 Sustain Osc3	0	4194304	Value	ValueOutput
+Envelope1 Release Osc3	0	4194304	Value	ValueOutput
+Envelope2 Attack Osc3	0	4194304	Value	ValueOutput
+Envelope2 Decay Osc3	0	4194304	Value	ValueOutput
+Envelope2 Sustain Osc3	0	4194304	Value	ValueOutput
+Envelope2 Release Osc3	0	4194304	Value	ValueOutput
+Envelope3 Attack Osc3	0	4194304	Value	ValueOutput
+Envelope3 Decay Osc3	0	4194304	Value	ValueOutput
+Envelope3 Sustain Osc3	0	4194304	Value	ValueOutput
+Envelope3 Release Osc3	0	4194304	Value	ValueOutput
+Amp Envelope Invert Osc3	0	1	Toggle	ValueOutput
+Filter Envelope Invert Osc3	0	1	Toggle	ValueOutput
+Lfo1 Waveform Osc3	0	5	Value	ValueOutput
+Lfo1 Rate Linearear Osc3	0	4194304	Value	ValueOutput
+Lfo1 Rate Sync Osc3	0	44	Value	ValueOutput
+Lfo1 Startphase Osc3	0	4194304	Value	ValueOutput
+Lfo1 Sync On/Off Osc3	0	1	Toggle	ValueOutput
+Lfo1 Retrigger On/Off Osc3	0	1	Toggle	ValueOutput
+Lfo2 Waveform Osc3	0	5	Value	ValueOutput
+Lfo2 Rate Linearear Osc3	0	4194304	Value	ValueOutput
+Lfo2 Rate Sync Osc3	0	44	Value	ValueOutput
+Lfo2 Startphase Osc3	0	4194304	Value	ValueOutput
+Lfo2 Sync On/Off Osc3	0	1	Toggle	ValueOutput
+Lfo2 Retrigger On/Off Osc3	0	1	Toggle	ValueOutput
+Lfo3 Waveform Osc3	0	5	Value	ValueOutput
+Lfo3 Rate Linearear Osc3	0	4194304	Value	ValueOutput
+Lfo3 Rate Sync Osc3	0	44	Value	ValueOutput
+Lfo3 Startphase Osc3	0	4194304	Value	ValueOutput
+Lfo3 Sync On/Off Osc3	0	1	Toggle	ValueOutput
+Lfo3 Retrigger On/Off Osc3	0	1	Toggle	ValueOutput
+Lfo4 Waveform Osc3	0	5	Value	ValueOutput
+Lfo4 Rate Linearear Osc3	0	4194304	Value	ValueOutput
+Lfo4 Rate Sync Osc3	0	44	Value	ValueOutput
+Lfo4 Startphase Osc3	0	4194304	Value	ValueOutput
+Lfo4 Sync On/Off Osc3	0	1	Toggle	ValueOutput
+Lfo4 Retrigger On/Off Osc3	0	1	Toggle	ValueOutput
+Modulation Destination1 Osc3	0	6	Value	ValueOutput
+Modulation Destination2 Osc3	0	6	Value	ValueOutput
+Modulation Source3 Osc3	0	10	Value	ValueOutput
+Modulation Amount3 Osc3	0	4194304	Value	ValueOutput
+Modulation Smooth3 Osc3	0	4194304	Value	ValueOutput
+Modulation Destination3 Osc3	0	6	Value	ValueOutput
+Modulation Source4 Osc3	0	10	Value	ValueOutput
+Modulation Amount4 Osc3	0	4194304	Value	ValueOutput
+Modulation Smooth4 Osc3	0	4194304	Value	ValueOutput
+Modulation Destination4 Osc3	0	6	Value	ValueOutput
+Modulation Destination1 Eq1 Osc3	0	3	Value	ValueOutput
+Modulation Source2 Eq1 Osc3	0	10	Value	ValueOutput
+Modulation Amount2 Eq1 Osc3	0	4194304	Value	ValueOutput
+Modulation Smooth2 Eq1 Osc3	0	4194304	Value	ValueOutput
+Modulation Destination2 Eq1 Osc3	0	3	Value	ValueOutput
+Modulation Destination1 Drvie Osc3	0	1	Toggle	ValueOutput
+Modulation Source2 Drvie Osc3	0	10	Value	ValueOutput
+Modulation Amount2 Drvie Osc3	0	4194304	Value	ValueOutput
+Modulation Smooth2 Drvie Osc3	0	4194304	Value	ValueOutput
+Modulation Destination2 Drvie Osc3	0	1	Toggle	ValueOutput
+Ringmod Osc4	0	1	Toggle	ValueOutput
+Ringmod Freq Osc4	0	4194304	Value	ValueOutput
+Ringmod Mix Osc4	0	4194304	Value	ValueOutput
+Haas On/Off Osc4	0	1	Toggle	ValueOutput
+Haas Time Osc4	0	4194304	Value	ValueOutput
+Haas Swap Osc4	0	1	Toggle	ValueOutput
+Eq2 Gain Osc4	0	4194304	Value	ValueOutput
+Eq2 Freq Osc4	0	4194304	Value	ValueOutput
+Eq2 Q Osc4	0	4194304	Value	ValueOutput
+Flanger Rate Osc4	0	4194304	Value	ValueOutput
+Flanger Depth Osc4	0	4194304	Value	ValueOutput
+Flanger Feedback Osc4	0	4194304	Value	ValueOutput
+Flanger Phase Osc4	0	4194304	Value	ValueOutput
+Phaser Rate Osc4	0	4194304	Value	ValueOutput
+Phaser Depth Osc4	0	4194304	Value	ValueOutput
+Phaser Feedback Osc4	0	4194304	Value	ValueOutput
+Phaser Center Osc4	0	4194304	Value	ValueOutput
+Phaser Spread Osc4	0	4194304	Value	ValueOutput
+Chorus Rate Osc4	0	4194304	Value	ValueOutput
+Chorus Depth Osc4	0	4194304	Value	ValueOutput
+Chorus Delay Osc4	0	4194304	Value	ValueOutput
+Chorus Voices Osc4	0	3	Value	ValueOutput
+Deley Time Sync On/Off Osc4	0	15	Value	ValueOutput
+Delay Sync On/Off Osc4	0	1	Toggle	ValueOutput
+Delay Time Linear Osc4	0	4194304	Value	ValueOutput
+Delay Feedback Osc4	0	4194304	Value	ValueOutput
+Delay Mode Osc4	0	3	Value	ValueOutput
+Reverb Time Osc4	0	4194304	Value	ValueOutput
+Reverb Pre Osc4	0	4194304	Value	ValueOutput
+Reverb Low Cut Osc4	0	4194304	Value	ValueOutput
+Reverb High Cut Osc4	0	4194304	Value	ValueOutput
+Reverb Damp Osc4	0	4194304	Value	ValueOutput
+Lo-Fi SampleRate Sync Osc4	0	4194304	Value	ValueOutput
+Lo-Fi Jitter Osc4	0	4194304	Value	ValueOutput
+Envelope1 Attack Osc4	0	4194304	Value	ValueOutput
+Envelope1 Decay Osc4	0	4194304	Value	ValueOutput
+Envelope1 Sustain Osc4	0	4194304	Value	ValueOutput
+Envelope1 Release Osc4	0	4194304	Value	ValueOutput
+Envelope2 Attack Osc4	0	4194304	Value	ValueOutput
+Envelope2 Decay Osc4	0	4194304	Value	ValueOutput
+Envelope2 Sustain Osc4	0	4194304	Value	ValueOutput
+Envelope2 Release Osc4	0	4194304	Value	ValueOutput
+Envelope3 Attack Osc4	0	4194304	Value	ValueOutput
+Envelope3 Decay Osc4	0	4194304	Value	ValueOutput
+Envelope3 Sustain Osc4	0	4194304	Value	ValueOutput
+Envelope3 Release Osc4	0	4194304	Value	ValueOutput
+Amp Envelope Invert Osc4	0	1	Toggle	ValueOutput
+Filter Envelope Invert Osc4	0	1	Toggle	ValueOutput
+Lfo1 Waveform Osc4	0	5	Value	ValueOutput
+Lfo1 Rate Linearear Osc4	0	4194304	Value	ValueOutput
+Lfo1 Rate Sync Osc4	0	44	Value	ValueOutput
+Lfo1 Startphase Osc4	0	4194304	Value	ValueOutput
+Lfo1 Sync On/Off Osc4	0	1	Toggle	ValueOutput
+Lfo1 Retrigger On/Off Osc4	0	1	Toggle	ValueOutput
+Lfo2 Waveform Osc4	0	5	Value	ValueOutput
+Lfo2 Rate Linearear Osc4	0	4194304	Value	ValueOutput
+Lfo2 Rate Sync Osc4	0	44	Value	ValueOutput
+Lfo2 Startphase Osc4	0	4194304	Value	ValueOutput
+Lfo2 Sync On/Off Osc4	0	1	Toggle	ValueOutput
+Lfo2 Retrigger On/Off Osc4	0	1	Toggle	ValueOutput
+Lfo3 Waveform Osc4	0	5	Value	ValueOutput
+Lfo3 Rate Linearear Osc4	0	4194304	Value	ValueOutput
+Lfo3 Rate Sync Osc4	0	44	Value	ValueOutput
+Lfo3 Startphase Osc4	0	4194304	Value	ValueOutput
+Lfo3 Sync On/Off Osc4	0	1	Toggle	ValueOutput
+Lfo3 Retrigger On/Off Osc4	0	1	Toggle	ValueOutput
+Lfo4 Waveform Osc4	0	5	Value	ValueOutput
+Lfo4 Rate Linearear Osc4	0	4194304	Value	ValueOutput
+Lfo4 Rate Sync Osc4	0	44	Value	ValueOutput
+Lfo4 Startphase Osc4	0	4194304	Value	ValueOutput
+Lfo4 Sync On/Off Osc4	0	1	Toggle	ValueOutput
+Lfo4 Retrigger On/Off Osc4	0	1	Toggle	ValueOutput
+Modulation Destination1 Osc4	0	6	Value	ValueOutput
+Modulation Destination2 Osc4	0	6	Value	ValueOutput
+Modulation Source3 Osc4	0	10	Value	ValueOutput
+Modulation Amount3 Osc4	0	4194304	Value	ValueOutput
+Modulation Smooth3 Osc4	0	4194304	Value	ValueOutput
+Modulation Destination3 Osc4	0	6	Value	ValueOutput
+Modulation Source4 Osc4	0	10	Value	ValueOutput
+Modulation Amount4 Osc4	0	4194304	Value	ValueOutput
+Modulation Smooth4 Osc4	0	4194304	Value	ValueOutput
+Modulation Destination4 Osc4	0	6	Value	ValueOutput
+Modulation Destination1 Eq1 Osc4	0	3	Value	ValueOutput
+Modulation Source2 Eq1 Osc4	0	10	Value	ValueOutput
+Modulation Amount2 Eq1 Osc4	0	4194304	Value	ValueOutput
+Modulation Smooth2 Eq1 Osc4	0	4194304	Value	ValueOutput
+Modulation Destination2 Eq1 Osc4	0	3	Value	ValueOutput
+Modulation Destination1 Drvie Osc4	0	1	Toggle	ValueOutput
+Modulation Source2 Drvie Osc4	0	10	Value	ValueOutput
+Modulation Amount2 Drvie Osc4	0	4194304	Value	ValueOutput
+Modulation Smooth2 Drvie Osc4	0	4194304	Value	ValueOutput
+Modulation Destination2 Drvie Osc4	0	1	Toggle	ValueOutput
+Split Drive On/Off	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

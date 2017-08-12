@@ -1,0 +1,280 @@
+Scope
+Manufacturer	Model
+HY-Plugins	vst.Hy14.HY-SEQ16x3_x64
+Note: Will match scope definitions for vst.Hy14.HY-SEQ16x3_x64 or vst.Hy14
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Dummy1	0	4194304	Value	ValueOutput
+dummy2	0	4194304	Value	ValueOutput
+dummy3	0	4194304	Value	ValueOutput
+SEQ1 Pitch01	0	4194304	Value	ValueOutput
+SEQ1 Oct01	0	4194304	Value	ValueOutput
+SEQ1 Velo01	0	4194304	Value	ValueOutput
+SEQ1 Gate01	0	4194304	Value	ValueOutput
+SEQ1 Prob01	0	4194304	Value	ValueOutput
+SEQ1 Tie01	0	4194304	Value	ValueOutput
+SEQ1 Mute01	0	4194304	Value	ValueOutput
+SEQ1 Pitch02	0	4194304	Value	ValueOutput
+SEQ1 Oct02	0	4194304	Value	ValueOutput
+SEQ1 Velo02	0	4194304	Value	ValueOutput
+SEQ1 Gate02	0	4194304	Value	ValueOutput
+SEQ1 Prob02	0	4194304	Value	ValueOutput
+SEQ1 Tie02	0	4194304	Value	ValueOutput
+SEQ1 Mute02	0	4194304	Value	ValueOutput
+SEQ1 Pitch03	0	4194304	Value	ValueOutput
+SEQ1 Oct03	0	4194304	Value	ValueOutput
+SEQ1 Velo03	0	4194304	Value	ValueOutput
+SEQ1 Gate03	0	4194304	Value	ValueOutput
+SEQ1 Prob03	0	4194304	Value	ValueOutput
+SEQ1 Tie03	0	4194304	Value	ValueOutput
+SEQ1 Mute03	0	4194304	Value	ValueOutput
+SEQ1 Pitch04	0	4194304	Value	ValueOutput
+SEQ1 Oct04	0	4194304	Value	ValueOutput
+SEQ1 Velo04	0	4194304	Value	ValueOutput
+SEQ1 Gate04	0	4194304	Value	ValueOutput
+SEQ1 Prob04	0	4194304	Value	ValueOutput
+SEQ1 Tie04	0	4194304	Value	ValueOutput
+SEQ1 Mute04	0	4194304	Value	ValueOutput
+SEQ1 Pitch05	0	4194304	Value	ValueOutput
+SEQ1 Oct05	0	4194304	Value	ValueOutput
+SEQ1 Velo05	0	4194304	Value	ValueOutput
+SEQ1 Gate05	0	4194304	Value	ValueOutput
+SEQ1 Prob05	0	4194304	Value	ValueOutput
+SEQ1 Tie05	0	4194304	Value	ValueOutput
+SEQ1 Mute05	0	4194304	Value	ValueOutput
+SEQ1 Pitch06	0	4194304	Value	ValueOutput
+SEQ1 Oct06	0	4194304	Value	ValueOutput
+SEQ1 Velo06	0	4194304	Value	ValueOutput
+SEQ1 Gate06	0	4194304	Value	ValueOutput
+SEQ1 Prob06	0	4194304	Value	ValueOutput
+SEQ1 Tie06	0	4194304	Value	ValueOutput
+SEQ1 Mute06	0	4194304	Value	ValueOutput
+SEQ1 Pitch07	0	4194304	Value	ValueOutput
+SEQ1 Oct07	0	4194304	Value	ValueOutput
+SEQ1 Velo07	0	4194304	Value	ValueOutput
+SEQ1 Gate07	0	4194304	Value	ValueOutput
+SEQ1 Prob07	0	4194304	Value	ValueOutput
+SEQ1 Tie07	0	4194304	Value	ValueOutput
+SEQ1 Mute07	0	4194304	Value	ValueOutput
+SEQ1 Pitch08	0	4194304	Value	ValueOutput
+SEQ1 Oct08	0	4194304	Value	ValueOutput
+SEQ1 Velo08	0	4194304	Value	ValueOutput
+SEQ1 Gate08	0	4194304	Value	ValueOutput
+SEQ1 Prob08	0	4194304	Value	ValueOutput
+SEQ1 Tie08	0	4194304	Value	ValueOutput
+SEQ1 Mute08	0	4194304	Value	ValueOutput
+SEQ1 Pitch09	0	4194304	Value	ValueOutput
+SEQ1 Oct09	0	4194304	Value	ValueOutput
+SEQ1 Velo09	0	4194304	Value	ValueOutput
+SEQ1 Gate09	0	4194304	Value	ValueOutput
+SEQ1 Prob09	0	4194304	Value	ValueOutput
+SEQ1 Tie09	0	4194304	Value	ValueOutput
+SEQ1 Mute09	0	4194304	Value	ValueOutput
+SEQ1 Pitch10	0	4194304	Value	ValueOutput
+SEQ1 Oct10	0	4194304	Value	ValueOutput
+SEQ1 Velo10	0	4194304	Value	ValueOutput
+SEQ1 Gate10	0	4194304	Value	ValueOutput
+SEQ1 Prob10	0	4194304	Value	ValueOutput
+SEQ1 Tie10	0	4194304	Value	ValueOutput
+SEQ1 Mute10	0	4194304	Value	ValueOutput
+SEQ1 Pitch11	0	4194304	Value	ValueOutput
+SEQ1 Oct11	0	4194304	Value	ValueOutput
+SEQ1 Velo11	0	4194304	Value	ValueOutput
+SEQ1 Gate11	0	4194304	Value	ValueOutput
+SEQ1 Prob11	0	4194304	Value	ValueOutput
+SEQ1 Tie11	0	4194304	Value	ValueOutput
+SEQ1 Mute11	0	4194304	Value	ValueOutput
+SEQ1 Pitch12	0	4194304	Value	ValueOutput
+SEQ1 Oct12	0	4194304	Value	ValueOutput
+SEQ1 Velo12	0	4194304	Value	ValueOutput
+SEQ1 Gate12	0	4194304	Value	ValueOutput
+SEQ1 Prob12	0	4194304	Value	ValueOutput
+SEQ1 Tie12	0	4194304	Value	ValueOutput
+SEQ1 Mute12	0	4194304	Value	ValueOutput
+SEQ1 Pitch13	0	4194304	Value	ValueOutput
+SEQ1 Oct13	0	4194304	Value	ValueOutput
+SEQ1 Velo13	0	4194304	Value	ValueOutput
+SEQ1 Gate13	0	4194304	Value	ValueOutput
+SEQ1 Prob13	0	4194304	Value	ValueOutput
+SEQ1 Tie13	0	4194304	Value	ValueOutput
+SEQ1 Mute13	0	4194304	Value	ValueOutput
+SEQ1 Pitch14	0	4194304	Value	ValueOutput
+SEQ1 Oct14	0	4194304	Value	ValueOutput
+SEQ1 Velo14	0	4194304	Value	ValueOutput
+SEQ1 Gate14	0	4194304	Value	ValueOutput
+SEQ1 Prob14	0	4194304	Value	ValueOutput
+SEQ1 Tie14	0	4194304	Value	ValueOutput
+SEQ1 Mute14	0	4194304	Value	ValueOutput
+SEQ1 Pitch15	0	4194304	Value	ValueOutput
+SEQ1 Oct15	0	4194304	Value	ValueOutput
+SEQ1 Velo15	0	4194304	Value	ValueOutput
+SEQ1 Gate15	0	4194304	Value	ValueOutput
+SEQ1 Prob15	0	4194304	Value	ValueOutput
+SEQ1 Tie15	0	4194304	Value	ValueOutput
+SEQ1 Mute15	0	4194304	Value	ValueOutput
+SEQ1 Pitch16	0	4194304	Value	ValueOutput
+SEQ1 Oct16	0	4194304	Value	ValueOutput
+SEQ1 Velo16	0	4194304	Value	ValueOutput
+SEQ1 Gate16	0	4194304	Value	ValueOutput
+SEQ1 Prob16	0	4194304	Value	ValueOutput
+SEQ1 Tie16	0	4194304	Value	ValueOutput
+SEQ1 Mute16	0	4194304	Value	ValueOutput
+SEQ1 Direction	0	4194304	Value	ValueOutput
+SEQ1 Speed	0	4194304	Value	ValueOutput
+SEQ1 Step Size	0	4194304	Value	ValueOutput
+SEQ1 Start Step	0	4194304	Value	ValueOutput
+Root Note	0	4194304	Value	ValueOutput
+Note Scale	0	4194304	Value	ValueOutput
+SEQ1 Knob Range	0	4194304	Value	ValueOutput
+Global Oct	0	4194304	Value	ValueOutput
+Transpose	0	4194304	Value	ValueOutput
+SEQ2 Val01	0	4194304	Value	ValueOutput
+SEQ2 OnOff01	0	4194304	Value	ValueOutput
+SEQ2 Val02	0	4194304	Value	ValueOutput
+SEQ2 OnOff02	0	4194304	Value	ValueOutput
+SEQ2 Val03	0	4194304	Value	ValueOutput
+SEQ2 OnOff03	0	4194304	Value	ValueOutput
+SEQ2 Val04	0	4194304	Value	ValueOutput
+SEQ2 OnOff04	0	4194304	Value	ValueOutput
+SEQ2 Val05	0	4194304	Value	ValueOutput
+SEQ2 OnOff05	0	4194304	Value	ValueOutput
+SEQ2 Val06	0	4194304	Value	ValueOutput
+SEQ2 OnOff06	0	4194304	Value	ValueOutput
+SEQ2 Val07	0	4194304	Value	ValueOutput
+SEQ2 OnOff07	0	4194304	Value	ValueOutput
+SEQ2 Val08	0	4194304	Value	ValueOutput
+SEQ2 OnOff08	0	4194304	Value	ValueOutput
+SEQ2 Val09	0	4194304	Value	ValueOutput
+SEQ2 OnOff09	0	4194304	Value	ValueOutput
+SEQ2 Val10	0	4194304	Value	ValueOutput
+SEQ2 OnOff10	0	4194304	Value	ValueOutput
+SEQ2 Val11	0	4194304	Value	ValueOutput
+SEQ2 OnOff11	0	4194304	Value	ValueOutput
+SEQ2 Val12	0	4194304	Value	ValueOutput
+SEQ2 OnOff12	0	4194304	Value	ValueOutput
+SEQ2 Val13	0	4194304	Value	ValueOutput
+SEQ2 OnOff13	0	4194304	Value	ValueOutput
+SEQ2 Val14	0	4194304	Value	ValueOutput
+SEQ2 OnOff14	0	4194304	Value	ValueOutput
+SEQ2 Val15	0	4194304	Value	ValueOutput
+SEQ2 OnOff15	0	4194304	Value	ValueOutput
+SEQ2 Val16	0	4194304	Value	ValueOutput
+SEQ2 OnOff16	0	4194304	Value	ValueOutput
+SEQ2 Direction	0	4194304	Value	ValueOutput
+SEQ2 Speed	0	4194304	Value	ValueOutput
+SEQ2 Step Size	0	4194304	Value	ValueOutput
+SEQ2 Start Step	0	4194304	Value	ValueOutput
+SEQ2 Slave	0	4194304	Value	ValueOutput
+SEQ2 Out Min	0	4194304	Value	ValueOutput
+SEQ2 Out Range	0	4194304	Value	ValueOutput
+SEQ2 Rand Range	0	4194304	Value	ValueOutput
+SEQ2 Target Main	0	4194304	Value	ValueOutput
+SEQ2 Target SEQ	0	4194304	Value	ValueOutput
+SEQ2 Target Midi	0	4194304	Value	ValueOutput
+SEQ2 Target CC	0	4194304	Value	ValueOutput
+SEQ3 Val01	0	4194304	Value	ValueOutput
+SEQ3 OnOff01	0	4194304	Value	ValueOutput
+SEQ3 Val02	0	4194304	Value	ValueOutput
+SEQ3 OnOff02	0	4194304	Value	ValueOutput
+SEQ3 Val03	0	4194304	Value	ValueOutput
+SEQ3 OnOff03	0	4194304	Value	ValueOutput
+SEQ3 Val04	0	4194304	Value	ValueOutput
+SEQ3 OnOff04	0	4194304	Value	ValueOutput
+SEQ3 Val05	0	4194304	Value	ValueOutput
+SEQ3 OnOff05	0	4194304	Value	ValueOutput
+SEQ3 Val06	0	4194304	Value	ValueOutput
+SEQ3 OnOff06	0	4194304	Value	ValueOutput
+SEQ3 Val07	0	4194304	Value	ValueOutput
+SEQ3 OnOff07	0	4194304	Value	ValueOutput
+SEQ3 Val08	0	4194304	Value	ValueOutput
+SEQ3 OnOff08	0	4194304	Value	ValueOutput
+SEQ3 Val09	0	4194304	Value	ValueOutput
+SEQ3 OnOff09	0	4194304	Value	ValueOutput
+SEQ3 Val10	0	4194304	Value	ValueOutput
+SEQ3 OnOff10	0	4194304	Value	ValueOutput
+SEQ3 Val11	0	4194304	Value	ValueOutput
+SEQ3 OnOff11	0	4194304	Value	ValueOutput
+SEQ3 Val12	0	4194304	Value	ValueOutput
+SEQ3 OnOff12	0	4194304	Value	ValueOutput
+SEQ3 Val13	0	4194304	Value	ValueOutput
+SEQ3 OnOff13	0	4194304	Value	ValueOutput
+SEQ3 Val14	0	4194304	Value	ValueOutput
+SEQ3 OnOff14	0	4194304	Value	ValueOutput
+SEQ3 Val15	0	4194304	Value	ValueOutput
+SEQ3 OnOff15	0	4194304	Value	ValueOutput
+SEQ3 Val16	0	4194304	Value	ValueOutput
+SEQ3 OnOff16	0	4194304	Value	ValueOutput
+SEQ3 Direction	0	4194304	Value	ValueOutput
+SEQ3 Speed	0	4194304	Value	ValueOutput
+SEQ3 Step Size	0	4194304	Value	ValueOutput
+SEQ3 Start Step	0	4194304	Value	ValueOutput
+SEQ3 Slave	0	4194304	Value	ValueOutput
+SEQ3 Out Min	0	4194304	Value	ValueOutput
+SEQ3 Out Range	0	4194304	Value	ValueOutput
+SEQ3 Rand Range	0	4194304	Value	ValueOutput
+SEQ3 Target Main	0	4194304	Value	ValueOutput
+SEQ3 Target SEQ	0	4194304	Value	ValueOutput
+SEQ3 Target Midi	0	4194304	Value	ValueOutput
+SEQ3 Target CC	0	4194304	Value	ValueOutput
+LFO1 Rate	0	4194304	Value	ValueOutput
+LFO1 Rate Sync	0	4194304	Value	ValueOutput
+LFO1 Phase	0	4194304	Value	ValueOutput
+LFO1 Wave	0	4194304	Value	ValueOutput
+LFO1 Depth	0	4194304	Value	ValueOutput
+LFO1 Target Main	0	4194304	Value	ValueOutput
+LFO1 Target SEQ	0	4194304	Value	ValueOutput
+LFO1 Target SEQ	0	4194304	Value	ValueOutput
+LFO1 Target CC	0	4194304	Value	ValueOutput
+LFO2 Rate	0	4194304	Value	ValueOutput
+LFO2 Rate Sync	0	4194304	Value	ValueOutput
+LFO2 Phase	0	4194304	Value	ValueOutput
+LFO2 Wave	0	4194304	Value	ValueOutput
+LFO2 Depth	0	4194304	Value	ValueOutput
+LFO2 Target Main	0	4194304	Value	ValueOutput
+LFO2 Target SEQ	0	4194304	Value	ValueOutput
+LFO2 Target SEQ	0	4194304	Value	ValueOutput
+LFO2 Target CC	0	4194304	Value	ValueOutput
+Swing Polarity	0	4194304	Value	ValueOutput
+Swing Amount	0	4194304	Value	ValueOutput
+Snapshot	0	4194304	Value	ValueOutput
+Midi Transp On/O	0	4194304	Value	ValueOutput
+Midi OutCh	0	4194304	Value	ValueOutput
+SEQ1 Pitch Rnd	0	4194304	Value	ValueOutput
+SEQ1 Pitch Rst	0	4194304	Value	ValueOutput
+SEQ1 Oct Rnd	0	4194304	Value	ValueOutput
+SEQ1 Oct Rst	0	4194304	Value	ValueOutput
+SEQ1 Velo Rnd	0	4194304	Value	ValueOutput
+SEQ1 Velo Rst	0	4194304	Value	ValueOutput
+SEQ1 Gate Rnd	0	4194304	Value	ValueOutput
+SEQ1 Gate Rst	0	4194304	Value	ValueOutput
+SEQ1 Prob Rnd	0	4194304	Value	ValueOutput
+SEQ1 Prob Rst	0	4194304	Value	ValueOutput
+SEQ1 Tie Rnd	0	4194304	Value	ValueOutput
+SEQ1 Tie Rst	0	4194304	Value	ValueOutput
+SEQ1 Mute Rnd	0	4194304	Value	ValueOutput
+SEQ1 Mute Rst	0	4194304	Value	ValueOutput
+SEQ2 Knob Rnd	0	4194304	Value	ValueOutput
+SEQ2 Knob Rst	0	4194304	Value	ValueOutput
+SEQ2 OnOff Rnd	0	4194304	Value	ValueOutput
+SEQ2 OnOff Rst	0	4194304	Value	ValueOutput
+SEQ3 Knob Rnd	0	4194304	Value	ValueOutput
+SEQ3 Knob Rst	0	4194304	Value	ValueOutput
+SEQ3 OnOff Rnd	0	4194304	Value	ValueOutput
+SEQ3 OnOff Rst	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

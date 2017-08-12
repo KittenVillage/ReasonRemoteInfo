@@ -1,0 +1,49 @@
+Scope
+Manufacturer	Model
+Kuassa	com.kuassa.AmplifikationCreme
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Input Volume	0	4194304	Value	ValueOutput
+Gate On/Off	0	1	Toggle	ValueOutput
+Gate Threshold	0	4194304	Value	ValueOutput
+Gate Attack	0	4194304	Value	ValueOutput
+Gate Decay	0	4194304	Value	ValueOutput
+FX On/Off	0	1	Toggle	ValueOutput
+FX Type	0	2	Value	ValueOutput
+FX Drive	0	4194304	Value	ValueOutput
+FX Tone	0	4194304	Value	ValueOutput
+FX Level	0	4194304	Value	ValueOutput
+Amp On/Off	0	1	Toggle	ValueOutput
+Amp Type	0	2	Value	ValueOutput
+Amp Channel	0	2	Value	ValueOutput
+Amp Gain	0	4194304	Value	ValueOutput
+Amp Low	0	4194304	Value	ValueOutput
+Amp Mid	0	4194304	Value	ValueOutput
+Amp High	0	4194304	Value	ValueOutput
+Amp Vol	0	4194304	Value	ValueOutput
+Cab A On/Off	0	1	Toggle	ValueOutput
+Cab A Type	0	4	Value	ValueOutput
+Mic A Type	0	3	Value	ValueOutput
+Mic A Phase On/Off	0	1	Toggle	ValueOutput
+Mic A Angle	0	1	Toggle	ValueOutput
+Mic A Axis	0	4194304	Value	ValueOutput
+Mic A Distance	0	4194304	Value	ValueOutput
+Mic A Panning	0	4194304	Value	ValueOutput
+Mic A Volume	0	4194304	Value	ValueOutput
+Cab B On/Off	0	1	Toggle	ValueOutput
+Cab B Type	0	4	Value	ValueOutput
+Mic B Type	0	3	Value	ValueOutput
+Mic B Phase On/Off	0	1	Toggle	ValueOutput
+Mic B Angle	0	1	Toggle	ValueOutput
+Mic B Axis	0	4194304	Value	ValueOutput
+Mic B Distance	0	4194304	Value	ValueOutput
+Mic B Panning	0	4194304	Value	ValueOutput
+Mic B Volume	0	4194304	Value	ValueOutput
+Limiter On/Off	0	1	Toggle	ValueOutput
+Output Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

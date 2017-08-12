@@ -1,0 +1,92 @@
+Scope
+Manufacturer	Model
+MLVST	vst.PG8X.PG-8X
+Note: Will match scope definitions for vst.PG8X.PG-8X or vst.PG8X
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+DCO1 RANG	0	4194304	Value	ValueOutput
+DCO1 WAVE	0	4194304	Value	ValueOutput
+DCO1 TUNE	0	4194304	Value	ValueOutput
+DCO1 LFO 	0	4194304	Value	ValueOutput
+DCO1 ENV 	0	4194304	Value	ValueOutput
+DCO2 RANG	0	4194304	Value	ValueOutput
+DCO2 WAVE	0	4194304	Value	ValueOutput
+DCO2 XMOD	0	4194304	Value	ValueOutput
+DCO2 TUNE	0	4194304	Value	ValueOutput
+DCO2 FINE	0	4194304	Value	ValueOutput
+DCO2 LFO 	0	4194304	Value	ValueOutput
+DCO2 ENV 	0	4194304	Value	ValueOutput
+DCO DYNA	0	4194304	Value	ValueOutput
+DCO MODE	0	4194304	Value	ValueOutput
+MIX DCO1	0	4194304	Value	ValueOutput
+MIX DCO2	0	4194304	Value	ValueOutput
+MIX ENV 	0	4194304	Value	ValueOutput
+MIX DYNA	0	4194304	Value	ValueOutput
+MIX MODE	0	4194304	Value	ValueOutput
+HPF FREQ	0	4194304	Value	ValueOutput
+VCF FREQ	0	4194304	Value	ValueOutput
+VCF RESO	0	4194304	Value	ValueOutput
+VCF LFO 	0	4194304	Value	ValueOutput
+VCF ENV 	0	4194304	Value	ValueOutput
+VCF KEY 	0	4194304	Value	ValueOutput
+VCF DYNA	0	4194304	Value	ValueOutput
+VCF MODE	0	4194304	Value	ValueOutput
+VCA LEVEL	0	4194304	Value	ValueOutput
+VCA MODE	0	4194304	Value	ValueOutput
+VCA DYNA	0	4194304	Value	ValueOutput
+CHORUS	0	4194304	Value	ValueOutput
+LFO WAVE	0	4194304	Value	ValueOutput
+LFO DELAY	0	4194304	Value	ValueOutput
+LFO RATE	0	4194304	Value	ValueOutput
+BEND LFO	0	4194304	Value	ValueOutput
+ENV1 ATT 	0	4194304	Value	ValueOutput
+ENV1 DECAY	0	4194304	Value	ValueOutput
+ENV1 SUS 	0	4194304	Value	ValueOutput
+ENV1 REL 	0	4194304	Value	ValueOutput
+ENV1 KEY 	0	4194304	Value	ValueOutput
+ENV2 ATT 	0	4194304	Value	ValueOutput
+ENV2 DECAY	0	4194304	Value	ValueOutput
+ENV2 SUS 	0	4194304	Value	ValueOutput
+ENV2 REL 	0	4194304	Value	ValueOutput
+ENV2 KEY 	0	4194304	Value	ValueOutput
+AT Vibrato   	0	4194304	Value	ValueOutput
+AT Brilliance	0	4194304	Value	ValueOutput
+AT Volume    	0	4194304	Value	ValueOutput
+BEND RANGE	0	4194304	Value	ValueOutput
+PORTAMENTO	0	4194304	Value	ValueOutput
+PORTAMENTO	0	4194304	Value	ValueOutput
+POLYMODE	0	4194304	Value	ValueOutput
+UNISONDETUNE	0	4194304	Value	ValueOutput
+MASTER TUNE	0	4194304	Value	ValueOutput
+OCTAVE STRETCH	0	4194304	Value	ValueOutput
+Tune Reserved	0	4194304	Value	ValueOutput
+SELFNOISE	0	4194304	Value	ValueOutput
+MONO RETRGGER	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+CHORUS SPEED	0	4194304	Value	ValueOutput
+CHORUS DEPTH	0	4194304	Value	ValueOutput
+CHORUS NOISE	0	4194304	Value	ValueOutput
+CHORUS OFFSET	0	4194304	Value	ValueOutput
+CHORUS LEVEL	0	4194304	Value	ValueOutput
+LFO SYNC	0	4194304	Value	ValueOutput
+LFO FREERUN	0	4194304	Value	ValueOutput
+Number of Voices	0	4194304	Value	ValueOutput
+Sysex Mode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

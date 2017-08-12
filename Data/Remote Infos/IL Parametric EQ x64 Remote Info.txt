@@ -1,0 +1,52 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.FPEV.IL Parametric EQ x64
+Note: Will match scope definitions for vst.FPEV.IL Parametric EQ x64 or vst.FPEV
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Band 1 level	0	4194304	Value	ValueOutput
+Band 2 level	0	4194304	Value	ValueOutput
+Band 3 level	0	4194304	Value	ValueOutput
+Band 4 level	0	4194304	Value	ValueOutput
+Band 5 level	0	4194304	Value	ValueOutput
+Band 6 level	0	4194304	Value	ValueOutput
+Band 7 level	0	4194304	Value	ValueOutput
+Band 1 freq	0	4194304	Value	ValueOutput
+Band 2 freq	0	4194304	Value	ValueOutput
+Band 3 freq	0	4194304	Value	ValueOutput
+Band 4 freq	0	4194304	Value	ValueOutput
+Band 5 freq	0	4194304	Value	ValueOutput
+Band 6 freq	0	4194304	Value	ValueOutput
+Band 7 freq	0	4194304	Value	ValueOutput
+Band 1 width	0	4194304	Value	ValueOutput
+Band 2 width	0	4194304	Value	ValueOutput
+Band 3 width	0	4194304	Value	ValueOutput
+Band 4 width	0	4194304	Value	ValueOutput
+Band 5 width	0	4194304	Value	ValueOutput
+Band 6 width	0	4194304	Value	ValueOutput
+Band 7 width	0	4194304	Value	ValueOutput
+Band 1 type	0	4194304	Value	ValueOutput
+Band 2 type	0	4194304	Value	ValueOutput
+Band 3 type	0	4194304	Value	ValueOutput
+Band 4 type	0	4194304	Value	ValueOutput
+Band 5 type	0	4194304	Value	ValueOutput
+Band 6 type	0	4194304	Value	ValueOutput
+Band 7 type	0	4194304	Value	ValueOutput
+Main level	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

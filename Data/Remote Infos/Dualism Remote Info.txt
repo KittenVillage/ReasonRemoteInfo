@@ -1,0 +1,70 @@
+Scope
+Manufacturer	Model
+DMGAudio	vst.DGMo.Dualism
+Note: Will match scope definitions for vst.DGMo.Dualism or vst.DGMo
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+A-B Swap	0	4194304	Value	ValueOutput
+A LR Swap	0	4194304	Value	ValueOutput
+B LR Swap	0	4194304	Value	ValueOutput
+A MS	0	4194304	Value	ValueOutput
+B MS	0	4194304	Value	ValueOutput
+A Phase L	0	4194304	Value	ValueOutput
+A Phase R	0	4194304	Value	ValueOutput
+B Phase L	0	4194304	Value	ValueOutput
+B Phase R	0	4194304	Value	ValueOutput
+A Mute L	0	4194304	Value	ValueOutput
+A Mute R	0	4194304	Value	ValueOutput
+A Mute M	0	4194304	Value	ValueOutput
+A Mute S	0	4194304	Value	ValueOutput
+B Mute L	0	4194304	Value	ValueOutput
+B Mute R	0	4194304	Value	ValueOutput
+B Mute M	0	4194304	Value	ValueOutput
+B Mute S	0	4194304	Value	ValueOutput
+A Pad	0	4194304	Value	ValueOutput
+B Pad	0	4194304	Value	ValueOutput
+AB Delay	0	4194304	Value	ValueOutput
+A Trim	0	4194304	Value	ValueOutput
+B Trim	0	4194304	Value	ValueOutput
+AB Mix	0	4194304	Value	ValueOutput
+Mid HPF	0	4194304	Value	ValueOutput
+Mid HPF Freq	0	4194304	Value	ValueOutput
+Mid HPF Slope	0	4194304	Value	ValueOutput
+Side HPF	0	4194304	Value	ValueOutput
+Side HPF Freq	0	4194304	Value	ValueOutput
+Side HPF Slope	0	4194304	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+Side->Mid	0	4194304	Value	ValueOutput
+Mid->Side	0	4194304	Value	ValueOutput
+Balance	0	4194304	Value	ValueOutput
+Pan L	0	4194304	Value	ValueOutput
+Pan R	0	4194304	Value	ValueOutput
+Dim	0	4194304	Value	ValueOutput
+Mute	0	4194304	Value	ValueOutput
+Master	0	4194304	Value	ValueOutput
+Solo Mid	0	4194304	Value	ValueOutput
+Solo Side	0	4194304	Value	ValueOutput
+Solo Left	0	4194304	Value	ValueOutput
+Solo Right	0	4194304	Value	ValueOutput
+MS Output	0	4194304	Value	ValueOutput
+A/B	0	4194304	Value	ValueOutput
+Use ExtraWide	0	4194304	Value	ValueOutput
+ExtraWide	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,76 @@
+Scope
+Manufacturer	Model
+Camel Audio	vst.CaP3.CamelPhat3 x64
+Note: Will match scope definitions for vst.CaP3.CamelPhat3 x64 or vst.CaP3
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+BpFilterOn	0	4194304	Value	ValueOutput
+BpFilterLow	0	4194304	Value	ValueOutput
+BpFilterHigh	0	4194304	Value	ValueOutput
+BpFilterQLow	0	4194304	Value	ValueOutput
+BpFilterQHigh	0	4194304	Value	ValueOutput
+BpFilterBRMix	0	4194304	Value	ValueOutput
+BpFilterLink	0	4194304	Value	ValueOutput
+DistOn	0	4194304	Value	ValueOutput
+DistBitCrusher	0	4194304	Value	ValueOutput
+DistMech	0	4194304	Value	ValueOutput
+DistTube	0	4194304	Value	ValueOutput
+DistXcita	0	4194304	Value	ValueOutput
+MmFilterOn	0	4194304	Value	ValueOutput
+MmFilterMix	0	4194304	Value	ValueOutput
+MmFilterType	0	4194304	Value	ValueOutput
+MmFilterAttack	0	4194304	Value	ValueOutput
+MmFilterDecay	0	4194304	Value	ValueOutput
+MmFilterEnv	0	4194304	Value	ValueOutput
+MmFilterCutoff	0	4194304	Value	ValueOutput
+MmFilterRes	0	4194304	Value	ValueOutput
+FlangerOn	0	4194304	Value	ValueOutput
+FlangerAmount	0	4194304	Value	ValueOutput
+FlangerRate	0	4194304	Value	ValueOutput
+MagicEQOn	0	4194304	Value	ValueOutput
+MagicEQAmount	0	4194304	Value	ValueOutput
+MagicEQTune	0	4194304	Value	ValueOutput
+CompressOn	0	4194304	Value	ValueOutput
+CompressAmount	0	4194304	Value	ValueOutput
+CompressRelease	0	4194304	Value	ValueOutput
+MasterOn	0	4194304	Value	ValueOutput
+MasterMix	0	4194304	Value	ValueOutput
+MasterVolume	0	4194304	Value	ValueOutput
+Lfo1On	0	4194304	Value	ValueOutput
+Lfo1Target	0	4194304	Value	ValueOutput
+Lfo1Shape	0	4194304	Value	ValueOutput
+Lfo1Depth	0	4194304	Value	ValueOutput
+Lfo1Rate	0	4194304	Value	ValueOutput
+Lfo1Sync	0	4194304	Value	ValueOutput
+Lfo2On	0	4194304	Value	ValueOutput
+Lfo2Target	0	4194304	Value	ValueOutput
+Lfo2Shape	0	4194304	Value	ValueOutput
+Lfo2Depth	0	4194304	Value	ValueOutput
+Lfo2Rate	0	4194304	Value	ValueOutput
+Lfo2Sync	0	4194304	Value	ValueOutput
+MorphXParam	0	4194304	Value	ValueOutput
+MorphYParam	0	4194304	Value	ValueOutput
+CompressMode	0	4194304	Value	ValueOutput
+MagicEQMode	0	4194304	Value	ValueOutput
+Unused1	0	4194304	Value	ValueOutput
+Unused2	0	4194304	Value	ValueOutput
+Unused3	0	4194304	Value	ValueOutput
+Unused4	0	4194304	Value	ValueOutput
+Unused5	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

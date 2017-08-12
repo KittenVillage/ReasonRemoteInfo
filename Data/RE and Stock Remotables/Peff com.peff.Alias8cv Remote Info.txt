@@ -1,0 +1,134 @@
+Scope
+Manufacturer	Model
+Peff	com.peff.Alias8cv
+
+Remotable	Min	Max	Input type	Output type
+Knob A1	0	4194304	Value	ValueOutput
+Knob A2	0	4194304	Value	ValueOutput
+Knob A3	0	4194304	Value	ValueOutput
+Knob A4	0	4194304	Value	ValueOutput
+Knob A5	0	4194304	Value	ValueOutput
+Knob A6	0	4194304	Value	ValueOutput
+Knob A7	0	4194304	Value	ValueOutput
+Knob A8	0	4194304	Value	ValueOutput
+Knob B1	0	4194304	Value	ValueOutput
+Knob B2	0	4194304	Value	ValueOutput
+Knob B3	0	4194304	Value	ValueOutput
+Knob B4	0	4194304	Value	ValueOutput
+Knob B5	0	4194304	Value	ValueOutput
+Knob B6	0	4194304	Value	ValueOutput
+Knob B7	0	4194304	Value	ValueOutput
+Knob B8	0	4194304	Value	ValueOutput
+Fader 1	0	4194304	Value	ValueOutput
+Fader 2	0	4194304	Value	ValueOutput
+Fader 3	0	4194304	Value	ValueOutput
+Fader 4	0	4194304	Value	ValueOutput
+Fader 5	0	4194304	Value	ValueOutput
+Fader 6	0	4194304	Value	ValueOutput
+Fader 7	0	4194304	Value	ValueOutput
+Fader 8	0	4194304	Value	ValueOutput
+Toggle 1	0	1	Toggle	ValueOutput
+Toggle 2	0	1	Toggle	ValueOutput
+Toggle 3	0	1	Toggle	ValueOutput
+Toggle 4	0	1	Toggle	ValueOutput
+Toggle 5	0	1	Toggle	ValueOutput
+Toggle 6	0	1	Toggle	ValueOutput
+Toggle 7	0	1	Toggle	ValueOutput
+Toggle 8	0	1	Toggle	ValueOutput
+Momentary 1	0	1	Toggle	ValueOutput
+Momentary 2	0	1	Toggle	ValueOutput
+Momentary 3	0	1	Toggle	ValueOutput
+Momentary 4	0	1	Toggle	ValueOutput
+Momentary 5	0	1	Toggle	ValueOutput
+Momentary 6	0	1	Toggle	ValueOutput
+Momentary 7	0	1	Toggle	ValueOutput
+Momentary 8	0	1	Toggle	ValueOutput
+Select	0	40	Value	ValueOutput
+Scale A1	0	4194304	Value	ValueOutput
+Scale A2	0	4194304	Value	ValueOutput
+Scale A3	0	4194304	Value	ValueOutput
+Scale A4	0	4194304	Value	ValueOutput
+Scale A5	0	4194304	Value	ValueOutput
+Scale A6	0	4194304	Value	ValueOutput
+Scale A7	0	4194304	Value	ValueOutput
+Scale A8	0	4194304	Value	ValueOutput
+Scale B1	0	4194304	Value	ValueOutput
+Scale B2	0	4194304	Value	ValueOutput
+Scale B3	0	4194304	Value	ValueOutput
+Scale B4	0	4194304	Value	ValueOutput
+Scale B5	0	4194304	Value	ValueOutput
+Scale B6	0	4194304	Value	ValueOutput
+Scale B7	0	4194304	Value	ValueOutput
+Scale B8	0	4194304	Value	ValueOutput
+Scale F1	0	4194304	Value	ValueOutput
+Scale F2	0	4194304	Value	ValueOutput
+Scale F3	0	4194304	Value	ValueOutput
+Scale F4	0	4194304	Value	ValueOutput
+Scale F5	0	4194304	Value	ValueOutput
+Scale F6	0	4194304	Value	ValueOutput
+Scale F7	0	4194304	Value	ValueOutput
+Scale F8	0	4194304	Value	ValueOutput
+Scale T1	0	4194304	Value	ValueOutput
+Scale T2	0	4194304	Value	ValueOutput
+Scale T3	0	4194304	Value	ValueOutput
+Scale T4	0	4194304	Value	ValueOutput
+Scale T5	0	4194304	Value	ValueOutput
+Scale T6	0	4194304	Value	ValueOutput
+Scale T7	0	4194304	Value	ValueOutput
+Scale T8	0	4194304	Value	ValueOutput
+Scale M1	0	4194304	Value	ValueOutput
+Scale M2	0	4194304	Value	ValueOutput
+Scale M3	0	4194304	Value	ValueOutput
+Scale M4	0	4194304	Value	ValueOutput
+Scale M5	0	4194304	Value	ValueOutput
+Scale M6	0	4194304	Value	ValueOutput
+Scale M7	0	4194304	Value	ValueOutput
+Scale M8	0	4194304	Value	ValueOutput
+Scale Master Fader	0	4194304	Value	ValueOutput
+CV Mod A1	0	8	Value	ValueOutput
+CV Mod A2	0	8	Value	ValueOutput
+CV Mod A3	0	8	Value	ValueOutput
+CV Mod A4	0	8	Value	ValueOutput
+CV Mod A5	0	8	Value	ValueOutput
+CV Mod A6	0	8	Value	ValueOutput
+CV Mod A7	0	8	Value	ValueOutput
+CV Mod A8	0	8	Value	ValueOutput
+CV Mod B1	0	8	Value	ValueOutput
+CV Mod B2	0	8	Value	ValueOutput
+CV Mod B3	0	8	Value	ValueOutput
+CV Mod B4	0	8	Value	ValueOutput
+CV Mod B5	0	8	Value	ValueOutput
+CV Mod B6	0	8	Value	ValueOutput
+CV Mod B7	0	8	Value	ValueOutput
+CV Mod B8	0	8	Value	ValueOutput
+CV Mod F1	0	8	Value	ValueOutput
+CV Mod F2	0	8	Value	ValueOutput
+CV Mod F3	0	8	Value	ValueOutput
+CV Mod F4	0	8	Value	ValueOutput
+CV Mod F5	0	8	Value	ValueOutput
+CV Mod F6	0	8	Value	ValueOutput
+CV Mod F7	0	8	Value	ValueOutput
+CV Mod F8	0	8	Value	ValueOutput
+CV Mod T1	0	8	Value	ValueOutput
+CV Mod T2	0	8	Value	ValueOutput
+CV Mod T3	0	8	Value	ValueOutput
+CV Mod T4	0	8	Value	ValueOutput
+CV Mod T5	0	8	Value	ValueOutput
+CV Mod T6	0	8	Value	ValueOutput
+CV Mod T7	0	8	Value	ValueOutput
+CV Mod T8	0	8	Value	ValueOutput
+CV Mod M1	0	8	Value	ValueOutput
+CV Mod M2	0	8	Value	ValueOutput
+CV Mod M3	0	8	Value	ValueOutput
+CV Mod M4	0	8	Value	ValueOutput
+CV Mod M5	0	8	Value	ValueOutput
+CV Mod M6	0	8	Value	ValueOutput
+CV Mod M7	0	8	Value	ValueOutput
+CV Mod M8	0	8	Value	ValueOutput
+CV Mod Master Fader	0	8	Value	ValueOutput
+Master Fader	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

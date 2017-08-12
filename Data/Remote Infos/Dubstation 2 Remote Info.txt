@@ -1,0 +1,40 @@
+Scope
+Manufacturer	Model
+Audio Damage, Inc.	vst.DSv2.Dubstation 2
+Note: Will match scope definitions for vst.DSv2.Dubstation 2 or vst.DSv2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input Drive	0	4194304	Value	ValueOutput
+High Cut	0	4194304	Value	ValueOutput
+Low Cut	0	4194304	Value	ValueOutput
+Saturation	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Depth	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+--	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+x2 Time	0	4194304	Value	ValueOutput
+Tempo Sync	0	4194304	Value	ValueOutput
+Loop	0	4194304	Value	ValueOutput
+Reverse	0	4194304	Value	ValueOutput
+Ping-Pong	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

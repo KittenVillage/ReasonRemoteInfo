@@ -1,0 +1,35 @@
+Scope
+Manufacturer	Model
+Nomad Factory	vst.PEQB.BT Equalizer PEQ2B-3 x64
+Note: Will match scope definitions for vst.PEQB.BT Equalizer PEQ2B-3 x64 or vst.PEQB
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Internal Use	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Low Boost	0	4194304	Value	ValueOutput
+Low Atten	0	4194304	Value	ValueOutput
+Low Freq	0	4194304	Value	ValueOutput
+High Boost	0	4194304	Value	ValueOutput
+High Freq	0	4194304	Value	ValueOutput
+Bandwidth	0	4194304	Value	ValueOutput
+High Atten	0	4194304	Value	ValueOutput
+High Atten Freq	0	4194304	Value	ValueOutput
+Limiter	0	4194304	Value	ValueOutput
+Trim	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

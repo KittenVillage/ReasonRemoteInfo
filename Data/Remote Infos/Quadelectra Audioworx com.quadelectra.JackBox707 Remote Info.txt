@@ -1,0 +1,40 @@
+Scope
+Manufacturer	Model
+Quadelectra Audioworx	com.quadelectra.JackBox707
+
+Remotable	Min	Max	Input type	Output type
+BD Level	0	4194304	Value	ValueOutput
+SD Level	0	4194304	Value	ValueOutput
+LT Level	0	4194304	Value	ValueOutput
+MT Level	0	4194304	Value	ValueOutput
+HT Level	0	4194304	Value	ValueOutput
+RIM / COW Level	0	4194304	Value	ValueOutput
+HCLAP / TAMB Level	0	4194304	Value	ValueOutput
+HH Level	0	4194304	Value	ValueOutput
+RIDE Level	0	4194304	Value	ValueOutput
+CRASH Level	0	4194304	Value	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Accent Level	0	4194304	Value	ValueOutput
+Accent On	0	1	Toggle	ValueOutput
+Flam On	0	1	Toggle	ValueOutput
+Drum Pad #01	0	1	Toggle	ValueOutput
+Drum Pad #02	0	1	Toggle	ValueOutput
+Drum Pad #03	0	1	Toggle	ValueOutput
+Drum Pad #04	0	1	Toggle	ValueOutput
+Drum Pad #05	0	1	Toggle	ValueOutput
+Drum Pad #06	0	1	Toggle	ValueOutput
+Drum Pad #07	0	1	Toggle	ValueOutput
+Drum Pad #08	0	1	Toggle	ValueOutput
+Drum Pad #09	0	1	Toggle	ValueOutput
+Drum Pad #10	0	1	Toggle	ValueOutput
+Drum Pad #11	0	1	Toggle	ValueOutput
+Drum Pad #12	0	1	Toggle	ValueOutput
+Drum Pad #13	0	1	Toggle	ValueOutput
+Drum Pad #14	0	1	Toggle	ValueOutput
+Drum Pad #15	0	1	Toggle	ValueOutput
+Drum Pad #16	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

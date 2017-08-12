@@ -1,0 +1,69 @@
+Scope
+Manufacturer	Model
+KORG	vst.KLMV.MS-20 x64
+Note: Will match scope definitions for vst.KLMV.MS-20 x64 or vst.KLMV
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+VCO 1 Wave Form	0	4194304	Value	ValueOutput
+VCO 1 Pulse Width	0	4194304	Value	ValueOutput
+VCO 1 Scale	0	4194304	Value	ValueOutput
+Portamento Time	0	4194304	Value	ValueOutput
+VCO 2 Wave Form	0	4194304	Value	ValueOutput
+VCO 2 Tune	0	4194304	Value	ValueOutput
+VCO 2 Scale	0	4194304	Value	ValueOutput
+Fine Tune	0	4194304	Value	ValueOutput
+VCO 1 Level	0	4194304	Value	ValueOutput
+VCO 2 Level	0	4194304	Value	ValueOutput
+Pitch MG/T.Ext	0	4194304	Value	ValueOutput
+Pitch EG 1/Ext	0	4194304	Value	ValueOutput
+HPF Cutoff	0	4194304	Value	ValueOutput
+HPF Peak	0	4194304	Value	ValueOutput
+HPF MG/T.Ext	0	4194304	Value	ValueOutput
+HPF EG 2/Ext	0	4194304	Value	ValueOutput
+LPF Cutoff	0	4194304	Value	ValueOutput
+LPF Peak	0	4194304	Value	ValueOutput
+LPF MG/T.Ext	0	4194304	Value	ValueOutput
+LPF EG 2/Ext	0	4194304	Value	ValueOutput
+MG Wave Form	0	4194304	Value	ValueOutput
+MG Frequency	0	4194304	Value	ValueOutput
+EG 1 Delay	0	4194304	Value	ValueOutput
+EG 1 Attack	0	4194304	Value	ValueOutput
+EG 1 Release	0	4194304	Value	ValueOutput
+EG 2 Hold	0	4194304	Value	ValueOutput
+EG 2 Attack	0	4194304	Value	ValueOutput
+EG 2 Decay	0	4194304	Value	ValueOutput
+EG 2 Sustain	0	4194304	Value	ValueOutput
+EG 2 Release	0	4194304	Value	ValueOutput
+ESP Signal Level	0	4194304	Value	ValueOutput
+ESP Low Cut	0	4194304	Value	ValueOutput
+ESP High Cut	0	4194304	Value	ValueOutput
+ESP CV Adjust	0	4194304	Value	ValueOutput
+ESP Threshold	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Unison Spread	0	4194304	Value	ValueOutput
+Unison Detune	0	4194304	Value	ValueOutput
+Transpose	0	4194304	Value	ValueOutput
+Pitch Bend Range	0	4194304	Value	ValueOutput
+Analog	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+MG Tempo Sync	0	4194304	Value	ValueOutput
+MG Key Sync	0	4194304	Value	ValueOutput
+MG Base Note	0	4194304	Value	ValueOutput
+MG Times	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

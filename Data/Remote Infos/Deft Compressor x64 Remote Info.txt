@@ -1,0 +1,57 @@
+Scope
+Manufacturer	Model
+Voxengo	vst.zz99.Deft Compressor x64
+Note: Will match scope definitions for vst.zz99.Deft Compressor x64 or vst.zz99
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Oversmp	0	4194304	Value	ValueOutput
+P1Vintag	0	4194304	Value	ValueOutput
+P1Thresh	0	4194304	Value	ValueOutput
+P1Ratio	0	4194304	Value	ValueOutput
+P1Attack	0	4194304	Value	ValueOutput
+P1Releas	0	4194304	Value	ValueOutput
+P1OGain	0	4194304	Value	ValueOutput
+P1Punch	0	4194304	Value	ValueOutput
+P1Fback	0	4194304	Value	ValueOutput
+P2Vintag	0	4194304	Value	ValueOutput
+P2Thresh	0	4194304	Value	ValueOutput
+P2Ratio	0	4194304	Value	ValueOutput
+P2Attack	0	4194304	Value	ValueOutput
+P2Releas	0	4194304	Value	ValueOutput
+P2OGain	0	4194304	Value	ValueOutput
+P2Punch	0	4194304	Value	ValueOutput
+P2Fback	0	4194304	Value	ValueOutput
+P3Vintag	0	4194304	Value	ValueOutput
+P3Thresh	0	4194304	Value	ValueOutput
+P3Ratio	0	4194304	Value	ValueOutput
+P3Attack	0	4194304	Value	ValueOutput
+P3Releas	0	4194304	Value	ValueOutput
+P3OGain	0	4194304	Value	ValueOutput
+P3Punch	0	4194304	Value	ValueOutput
+P3Fback	0	4194304	Value	ValueOutput
+P4Vintag	0	4194304	Value	ValueOutput
+P4Thresh	0	4194304	Value	ValueOutput
+P4Ratio	0	4194304	Value	ValueOutput
+P4Attack	0	4194304	Value	ValueOutput
+P4Releas	0	4194304	Value	ValueOutput
+P4OGain	0	4194304	Value	ValueOutput
+P4Punch	0	4194304	Value	ValueOutput
+P4Fback	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

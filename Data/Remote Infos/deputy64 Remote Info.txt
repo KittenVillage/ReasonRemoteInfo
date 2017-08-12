@@ -1,0 +1,133 @@
+Scope
+Manufacturer	Model
+Full Bucket Music	vst.TDM2.deputy64
+Note: Will match scope definitions for vst.TDM2.deputy64 or vst.TDM2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+SoftClip	0	4194304	Value	ValueOutput
+KeySplit	0	4194304	Value	ValueOutput
+P:Lower	0	4194304	Value	ValueOutput
+M:Lower	0	4194304	Value	ValueOutput
+P:Upper	0	4194304	Value	ValueOutput
+M:Upper	0	4194304	Value	ValueOutput
+P:PB Rng	0	4194304	Value	ValueOutput
+M:PB Rng	0	4194304	Value	ValueOutput
+P:MW->FM	0	4194304	Value	ValueOutput
+M:MW->FM	0	4194304	Value	ValueOutput
+M:MW->CF	0	4194304	Value	ValueOutput
+P:Voices	0	4194304	Value	ValueOutput
+P:FM Spd	0	4194304	Value	ValueOutput
+P:PM Spd	0	4194304	Value	ValueOutput
+P:Vol 1	0	4194304	Value	ValueOutput
+P:Tune 1	0	4194304	Value	ValueOutput
+P:PW 1	0	4194304	Value	ValueOutput
+P:PWM 1	0	4194304	Value	ValueOutput
+P:FM 1	0	4194304	Value	ValueOutput
+P:S16' 1	0	4194304	Value	ValueOutput
+P:S8' 1	0	4194304	Value	ValueOutput
+P:S4' 1	0	4194304	Value	ValueOutput
+P:S16' 1	0	4194304	Value	ValueOutput
+P:S8' 1	0	4194304	Value	ValueOutput
+P:S4' 1	0	4194304	Value	ValueOutput
+P:Vol 2	0	4194304	Value	ValueOutput
+P:Tune 2	0	4194304	Value	ValueOutput
+P:PW 2	0	4194304	Value	ValueOutput
+P:PWM 2	0	4194304	Value	ValueOutput
+P:FM 2	0	4194304	Value	ValueOutput
+P:S16' 2	0	4194304	Value	ValueOutput
+P:S8' 2	0	4194304	Value	ValueOutput
+P:S4' 2	0	4194304	Value	ValueOutput
+P:S16' 2	0	4194304	Value	ValueOutput
+P:S8' 2	0	4194304	Value	ValueOutput
+P:S4' 2	0	4194304	Value	ValueOutput
+P:F Mode	0	4194304	Value	ValueOutput
+P:F Cut	0	4194304	Value	ValueOutput
+P:F Reso	0	4194304	Value	ValueOutput
+P:F Env	0	4194304	Value	ValueOutput
+P:F FM	0	4194304	Value	ValueOutput
+P:F Key	0	4194304	Value	ValueOutput
+P:F Velo	0	4194304	Value	ValueOutput
+P:A Env	0	4194304	Value	ValueOutput
+P:A Velo	0	4194304	Value	ValueOutput
+P:A Vol	0	4194304	Value	ValueOutput
+P:R On	0	4194304	Value	ValueOutput
+P:R Md 1	0	4194304	Value	ValueOutput
+P:R V 1	0	4194304	Value	ValueOutput
+P:R F 1	0	4194304	Value	ValueOutput
+P:R R 1	0	4194304	Value	ValueOutput
+P:R Md 2	0	4194304	Value	ValueOutput
+P:R V 2	0	4194304	Value	ValueOutput
+P:R F 2	0	4194304	Value	ValueOutput
+P:R R 2	0	4194304	Value	ValueOutput
+P:R Md 3	0	4194304	Value	ValueOutput
+P:R V 3	0	4194304	Value	ValueOutput
+P:R F 3	0	4194304	Value	ValueOutput
+P:R R 3	0	4194304	Value	ValueOutput
+P:VEnv A	0	4194304	Value	ValueOutput
+P:VEnv D	0	4194304	Value	ValueOutput
+P:VEnv S	0	4194304	Value	ValueOutput
+P:GEnv T	0	4194304	Value	ValueOutput
+P:GEnv A	0	4194304	Value	ValueOutput
+P:GEnv D	0	4194304	Value	ValueOutput
+P:GEnv S	0	4194304	Value	ValueOutput
+P:GEnv R	0	4194304	Value	ValueOutput
+M:Porta	0	4194304	Value	ValueOutput
+M:Octave	0	4194304	Value	ValueOutput
+M:Trnsps	0	4194304	Value	ValueOutput
+M:Tune	0	4194304	Value	ValueOutput
+M:Wave	0	4194304	Value	ValueOutput
+M:PW	0	4194304	Value	ValueOutput
+M:PWM	0	4194304	Value	ValueOutput
+M:FM	0	4194304	Value	ValueOutput
+M:F VCO	0	4194304	Value	ValueOutput
+M:F Sub	0	4194304	Value	ValueOutput
+M:F Nois	0	4194304	Value	ValueOutput
+M:F VCO	0	4194304	Value	ValueOutput
+M:F Cut	0	4194304	Value	ValueOutput
+M:F Reso	0	4194304	Value	ValueOutput
+M:F ADSR	0	4194304	Value	ValueOutput
+M:F Key	0	4194304	Value	ValueOutput
+M:F Velo	0	4194304	Value	ValueOutput
+M:F LFO	0	4194304	Value	ValueOutput
+M:A Vol	0	4194304	Value	ValueOutput
+M:A Velo	0	4194304	Value	ValueOutput
+M:A Env	0	4194304	Value	ValueOutput
+M:A Ev T	0	4194304	Value	ValueOutput
+M:Env A	0	4194304	Value	ValueOutput
+M:Env D	0	4194304	Value	ValueOutput
+M:Env S	0	4194304	Value	ValueOutput
+M:Env R	0	4194304	Value	ValueOutput
+M:LFO Wf	0	4194304	Value	ValueOutput
+M:LFO Sp	0	4194304	Value	ValueOutput
+Ens:Poly	0	4194304	Value	ValueOutput
+Ens:Mono	0	4194304	Value	ValueOutput
+Phz:On	0	4194304	Value	ValueOutput
+Phz:Man	0	4194304	Value	ValueOutput
+Phz:Feed	0	4194304	Value	ValueOutput
+Phz:MSpd	0	4194304	Value	ValueOutput
+Phz:Mod	0	4194304	Value	ValueOutput
+Phz:Mix	0	4194304	Value	ValueOutput
+T:E Mode	0	4194304	Value	ValueOutput
+T:E1 Sp	0	4194304	Value	ValueOutput
+T:E2 Sp	0	4194304	Value	ValueOutput
+T:E1 A	0	4194304	Value	ValueOutput
+T:E2 A	0	4194304	Value	ValueOutput
+T:E3 A	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

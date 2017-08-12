@@ -1,0 +1,42 @@
+Scope
+Manufacturer	Model
+GVST	vst.gyAw.GTriChorus
+Note: Will match scope definitions for vst.gyAw.GTriChorus or vst.gyAw
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+LoCut1	0	4194304	Value	ValueOutput
+HiCut1	0	4194304	Value	ValueOutput
+Depth1	0	4194304	Value	ValueOutput
+Freq1	0	4194304	Value	ValueOutput
+Phase1	0	4194304	Value	ValueOutput
+Level1	0	4194304	Value	ValueOutput
+LoCut2	0	4194304	Value	ValueOutput
+HiCut2	0	4194304	Value	ValueOutput
+Depth2	0	4194304	Value	ValueOutput
+Freq2	0	4194304	Value	ValueOutput
+Phase2	0	4194304	Value	ValueOutput
+Level2	0	4194304	Value	ValueOutput
+LoCut3	0	4194304	Value	ValueOutput
+HiCut3	0	4194304	Value	ValueOutput
+Depth3	0	4194304	Value	ValueOutput
+Freq3	0	4194304	Value	ValueOutput
+Phase3	0	4194304	Value	ValueOutput
+Level3	0	4194304	Value	ValueOutput
+Dry	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

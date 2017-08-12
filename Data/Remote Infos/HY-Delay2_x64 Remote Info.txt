@@ -1,0 +1,379 @@
+Scope
+Manufacturer	Model
+HY-Plugins	vst.Hy10.HY-Delay2_x64
+Note: Will match scope definitions for vst.Hy10.HY-Delay2_x64 or vst.Hy10
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Delay Mode Simpl	0	4194304	Value	ValueOutput
+Delay Mode Stere	0	4194304	Value	ValueOutput
+Delay Mode Twin 	0	4194304	Value	ValueOutput
+Delay Mode Multi	0	4194304	Value	ValueOutput
+Delay Mode Pitch	0	4194304	Value	ValueOutput
+Delay Mode Filte	0	4194304	Value	ValueOutput
+Delay Mode PM De	0	4194304	Value	ValueOutput
+Delay Mode Dynam	0	4194304	Value	ValueOutput
+SimpleDelay Lofi	0	4194304	Value	ValueOutput
+SimpleDelay Lofi	0	4194304	Value	ValueOutput
+SimpleDelay Dela	0	4194304	Value	ValueOutput
+SimpleDelay Dela	0	4194304	Value	ValueOutput
+SimpleDelay Dela	0	4194304	Value	ValueOutput
+SimpleDelay Dela	0	4194304	Value	ValueOutput
+SimpleDelay Dela	0	4194304	Value	ValueOutput
+SimpleDelay Ping	0	4194304	Value	ValueOutput
+SimpleDelay Feed	0	4194304	Value	ValueOutput
+SimpleDelay Cros	0	4194304	Value	ValueOutput
+SimpleDelay Feed	0	4194304	Value	ValueOutput
+SimpleDelay Filt	0	4194304	Value	ValueOutput
+SimpleDelay Filt	0	4194304	Value	ValueOutput
+SimpleDelay High	0	4194304	Value	ValueOutput
+SimpleDelay Lowp	0	4194304	Value	ValueOutput
+SimpleDelay SVF 	0	4194304	Value	ValueOutput
+SimpleDelay SVF 	0	4194304	Value	ValueOutput
+SimpleDelay SVF 	0	4194304	Value	ValueOutput
+SimpleDelay Gain	0	4194304	Value	ValueOutput
+SimpleDelay Widt	0	4194304	Value	ValueOutput
+SimpleDelay DryW	0	4194304	Value	ValueOutput
+SimpleDelay Inpu	0	4194304	Value	ValueOutput
+SimpleDelay Outp	0	4194304	Value	ValueOutput
+SimpleDelay Dry 	0	4194304	Value	ValueOutput
+SimpleDelay Wet 	0	4194304	Value	ValueOutput
+StereoDelay Dela	0	4194304	Value	ValueOutput
+StereoDelay Dela	0	4194304	Value	ValueOutput
+StereoDelay Dela	0	4194304	Value	ValueOutput
+StereoDelay Dela	0	4194304	Value	ValueOutput
+StereoDelay Dela	0	4194304	Value	ValueOutput
+StereoDelay Dela	0	4194304	Value	ValueOutput
+StereoDelay Dela	0	4194304	Value	ValueOutput
+StereoDelay Dela	0	4194304	Value	ValueOutput
+StereoDelay Dela	0	4194304	Value	ValueOutput
+StereoDelay Dela	0	4194304	Value	ValueOutput
+StereoDelay Dela	0	4194304	Value	ValueOutput
+StereoDelay Dela	0	4194304	Value	ValueOutput
+StereoDelay Dela	0	4194304	Value	ValueOutput
+StereoDelay Lofi	0	4194304	Value	ValueOutput
+StereoDelay Lofi	0	4194304	Value	ValueOutput
+StereoDelay Lofi	0	4194304	Value	ValueOutput
+StereoDelay Feed	0	4194304	Value	ValueOutput
+StereoDelay Feed	0	4194304	Value	ValueOutput
+StereoDelay Feed	0	4194304	Value	ValueOutput
+StereoDelay Feed	0	4194304	Value	ValueOutput
+StereoDelay Feed	0	4194304	Value	ValueOutput
+StereoDelay Cros	0	4194304	Value	ValueOutput
+StereoDelay Feed	0	4194304	Value	ValueOutput
+StereoDelay Filt	0	4194304	Value	ValueOutput
+StereoDelay Filt	0	4194304	Value	ValueOutput
+StereoDelay High	0	4194304	Value	ValueOutput
+StereoDelay Lowp	0	4194304	Value	ValueOutput
+StereoDelay Gain	0	4194304	Value	ValueOutput
+StereoDelay SVF 	0	4194304	Value	ValueOutput
+StereoDelay SVF 	0	4194304	Value	ValueOutput
+StereoDelay SVF 	0	4194304	Value	ValueOutput
+StereoDelay Lfo 	0	4194304	Value	ValueOutput
+StereoDelay Lfo 	0	4194304	Value	ValueOutput
+StereoDelay Lfo 	0	4194304	Value	ValueOutput
+StereoDelay Lfo 	0	4194304	Value	ValueOutput
+StereoDelay Widt	0	4194304	Value	ValueOutput
+StereoDelay DryW	0	4194304	Value	ValueOutput
+StereoDelay Inpu	0	4194304	Value	ValueOutput
+StereoDelay Outp	0	4194304	Value	ValueOutput
+StereoDelay Dry 	0	4194304	Value	ValueOutput
+StereoDelay Wet 	0	4194304	Value	ValueOutput
+TwinDelay Mode S	0	4194304	Value	ValueOutput
+TwinDelay Mode P	0	4194304	Value	ValueOutput
+TwinDelay Mode P	0	4194304	Value	ValueOutput
+TwinDelay Delay1	0	4194304	Value	ValueOutput
+TwinDelay Delay1	0	4194304	Value	ValueOutput
+TwinDelay Delay1	0	4194304	Value	ValueOutput
+TwinDelay Delay1	0	4194304	Value	ValueOutput
+TwinDelay Delay1	0	4194304	Value	ValueOutput
+TwinDelay Delay1	0	4194304	Value	ValueOutput
+TwinDelay Delay1	0	4194304	Value	ValueOutput
+TwinDelay Delay1	0	4194304	Value	ValueOutput
+TwinDelay Delay1	0	4194304	Value	ValueOutput
+TwinDelay Delay1	0	4194304	Value	ValueOutput
+TwinDelay Delay1	0	4194304	Value	ValueOutput
+TwinDelay Delay2	0	4194304	Value	ValueOutput
+TwinDelay Delay2	0	4194304	Value	ValueOutput
+TwinDelay Delay2	0	4194304	Value	ValueOutput
+TwinDelay Delay2	0	4194304	Value	ValueOutput
+TwinDelay Delay2	0	4194304	Value	ValueOutput
+TwinDelay Delay2	0	4194304	Value	ValueOutput
+TwinDelay Delay2	0	4194304	Value	ValueOutput
+TwinDelay Delay2	0	4194304	Value	ValueOutput
+TwinDelay Delay2	0	4194304	Value	ValueOutput
+TwinDelay Delay2	0	4194304	Value	ValueOutput
+TwinDelay Delay2	0	4194304	Value	ValueOutput
+TwinDelay Delay2	0	4194304	Value	ValueOutput
+TwinDelay Lfo Ra	0	4194304	Value	ValueOutput
+TwinDelay Lfo Sy	0	4194304	Value	ValueOutput
+TwinDelay Lfo Ph	0	4194304	Value	ValueOutput
+TwinDelay Lfo Sh	0	4194304	Value	ValueOutput
+TwinDelay Filter	0	4194304	Value	ValueOutput
+TwinDelay Filter	0	4194304	Value	ValueOutput
+TwinDelay Hightp	0	4194304	Value	ValueOutput
+TwinDelay Lowpas	0	4194304	Value	ValueOutput
+TwinDelay SVF Cu	0	4194304	Value	ValueOutput
+TwinDelay SVF Re	0	4194304	Value	ValueOutput
+TwinDelay SVF Ty	0	4194304	Value	ValueOutput
+TwinDelay Delay1	0	4194304	Value	ValueOutput
+TwinDelay Delay2	0	4194304	Value	ValueOutput
+TwinDelay Gain	0	4194304	Value	ValueOutput
+TwinDelay Width	0	4194304	Value	ValueOutput
+TwinDelay DryWet	0	4194304	Value	ValueOutput
+TwinDelay Input	0	4194304	Value	ValueOutput
+TwinDelay Output	0	4194304	Value	ValueOutput
+TwinDelay Dry On	0	4194304	Value	ValueOutput
+TwinDelay Wet On	0	4194304	Value	ValueOutput
+MTapDelay base d	0	4194304	Value	ValueOutput
+MTapDelay base d	0	4194304	Value	ValueOutput
+MTapDelay Delay 	0	4194304	Value	ValueOutput
+MTapDelay time s	0	4194304	Value	ValueOutput
+MTapDelay time m	0	4194304	Value	ValueOutput
+MTapDelay feedba	0	4194304	Value	ValueOutput
+MTapDelay cross 	0	4194304	Value	ValueOutput
+MTapDelay Feedba	0	4194304	Value	ValueOutput
+MTap Delay PingP	0	4194304	Value	ValueOutput
+MTapDelay time t	0	4194304	Value	ValueOutput
+MTapDelay pan ta	0	4194304	Value	ValueOutput
+MTapDelay vol ta	0	4194304	Value	ValueOutput
+MTapDelay on/off	0	4194304	Value	ValueOutput
+MTapDelay time t	0	4194304	Value	ValueOutput
+MTapDelay pan ta	0	4194304	Value	ValueOutput
+MTapDelay vol ta	0	4194304	Value	ValueOutput
+MTapDelay onoff 	0	4194304	Value	ValueOutput
+MTapDelay time t	0	4194304	Value	ValueOutput
+MTapDelay pan ta	0	4194304	Value	ValueOutput
+MTapDelay vol ta	0	4194304	Value	ValueOutput
+MTapDelay onoff 	0	4194304	Value	ValueOutput
+MTapDelay time t	0	4194304	Value	ValueOutput
+MTapDelay pan ta	0	4194304	Value	ValueOutput
+MTapDelay vol ta	0	4194304	Value	ValueOutput
+MTapDelay onoff 	0	4194304	Value	ValueOutput
+MTapDelay lfo ra	0	4194304	Value	ValueOutput
+MTapDelay lfo ra	0	4194304	Value	ValueOutput
+MTapDelay lfo ph	0	4194304	Value	ValueOutput
+MTapDelay lfo sh	0	4194304	Value	ValueOutput
+MTapDelay Filter	0	4194304	Value	ValueOutput
+MTapDelay Filter	0	4194304	Value	ValueOutput
+MTapDelay Hightp	0	4194304	Value	ValueOutput
+MTapDelay Lowpas	0	4194304	Value	ValueOutput
+MTapDelay Gain	0	4194304	Value	ValueOutput
+MTapDelay SVF Cu	0	4194304	Value	ValueOutput
+MTapDelay SVF Re	0	4194304	Value	ValueOutput
+MTapDelay SVF Ty	0	4194304	Value	ValueOutput
+MTapDelay Width	0	4194304	Value	ValueOutput
+MTapDelay DryWet	0	4194304	Value	ValueOutput
+MTapDelay Input	0	4194304	Value	ValueOutput
+MTapDelay Output	0	4194304	Value	ValueOutput
+MTapDelay Dry On	0	4194304	Value	ValueOutput
+MTapDelay Wet On	0	4194304	Value	ValueOutput
+PitchDelay Delay	0	4194304	Value	ValueOutput
+PitchDelay Delay	0	4194304	Value	ValueOutput
+PitchDelay Delay	0	4194304	Value	ValueOutput
+PitchDelay Delay	0	4194304	Value	ValueOutput
+PitchDelay Delay	0	4194304	Value	ValueOutput
+PitchDelay Delay	0	4194304	Value	ValueOutput
+PitchDelay Delay	0	4194304	Value	ValueOutput
+PitchDelay Feedb	0	4194304	Value	ValueOutput
+PitchDelay Delay	0	4194304	Value	ValueOutput
+PitchDelay PingP	0	4194304	Value	ValueOutput
+PitchDelay Pitch	0	4194304	Value	ValueOutput
+PitchDelay Pitch	0	4194304	Value	ValueOutput
+PitchDelay Pitch	0	4194304	Value	ValueOutput
+PitchDelay Pitch	0	4194304	Value	ValueOutput
+PitchDelay Pitch	0	4194304	Value	ValueOutput
+PitchDelay Pitch	0	4194304	Value	ValueOutput
+PitchDelay Pitch	0	4194304	Value	ValueOutput
+PitchDelay Pitch	0	4194304	Value	ValueOutput
+PitchDelay Pitch	0	4194304	Value	ValueOutput
+PitchDelay Pitch	0	4194304	Value	ValueOutput
+PitchDelay Pitch	0	4194304	Value	ValueOutput
+PitchDelay Pitch	0	4194304	Value	ValueOutput
+PitchDelay Pitch	0	4194304	Value	ValueOutput
+PitchDelay Pitch	0	4194304	Value	ValueOutput
+PitchDelay Filte	0	4194304	Value	ValueOutput
+PitchDelay Filte	0	4194304	Value	ValueOutput
+PitchDelay Hight	0	4194304	Value	ValueOutput
+PitchDelay Lowpa	0	4194304	Value	ValueOutput
+PitchDelay Gain	0	4194304	Value	ValueOutput
+PitchDelay SVF C	0	4194304	Value	ValueOutput
+PitchDelay SVF R	0	4194304	Value	ValueOutput
+PitchDelay SVF T	0	4194304	Value	ValueOutput
+PitchDelay Width	0	4194304	Value	ValueOutput
+PitchDelay DryWe	0	4194304	Value	ValueOutput
+PitchDelay Input	0	4194304	Value	ValueOutput
+PitchDelay Outpu	0	4194304	Value	ValueOutput
+PitchDelay Dry O	0	4194304	Value	ValueOutput
+PitchDelay Wet O	0	4194304	Value	ValueOutput
+FilterDelay Dela	0	4194304	Value	ValueOutput
+FilterDelay Dela	0	4194304	Value	ValueOutput
+FilterDelay Dela	0	4194304	Value	ValueOutput
+FilterDelay Dela	0	4194304	Value	ValueOutput
+FilterDelay Dela	0	4194304	Value	ValueOutput
+FilterDelay Ping	0	4194304	Value	ValueOutput
+FilterDelay Dela	0	4194304	Value	ValueOutput
+FilterDelay Dela	0	4194304	Value	ValueOutput
+FilterDelay Feed	0	4194304	Value	ValueOutput
+FilterDelay Dela	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay Filt	0	4194304	Value	ValueOutput
+FilterDelay High	0	4194304	Value	ValueOutput
+FilterDelay Lowp	0	4194304	Value	ValueOutput
+FilterDelay Gain	0	4194304	Value	ValueOutput
+FilterDelay SVF 	0	4194304	Value	ValueOutput
+FilterDelay SVF 	0	4194304	Value	ValueOutput
+FilterDelay SVF 	0	4194304	Value	ValueOutput
+FilterDelay Widt	0	4194304	Value	ValueOutput
+FilterDelay DryW	0	4194304	Value	ValueOutput
+FilterDelay Inpu	0	4194304	Value	ValueOutput
+FilterDelay Outp	0	4194304	Value	ValueOutput
+filterDelay Dry 	0	4194304	Value	ValueOutput
+filterDelay Wet 	0	4194304	Value	ValueOutput
+PmDelay Input A	0	4194304	Value	ValueOutput
+PmDelay Input B	0	4194304	Value	ValueOutput
+PmDelay Time A	0	4194304	Value	ValueOutput
+PmDelay Time B	0	4194304	Value	ValueOutput
+PmDelay Mod A	0	4194304	Value	ValueOutput
+PmDelay Mod B	0	4194304	Value	ValueOutput
+PmDelay Time Adj	0	4194304	Value	ValueOutput
+PmDelay Multiply	0	4194304	Value	ValueOutput
+PmDelay Multiply	0	4194304	Value	ValueOutput
+PmDelay Multiply	0	4194304	Value	ValueOutput
+PmDelay Multiply	0	4194304	Value	ValueOutput
+PmDelay Multiply	0	4194304	Value	ValueOutput
+PmDelay Multiply	0	4194304	Value	ValueOutput
+PmDelay Multiply	0	4194304	Value	ValueOutput
+PmDelay Multiply	0	4194304	Value	ValueOutput
+PmDelay FB A	0	4194304	Value	ValueOutput
+PmDelay FB B	0	4194304	Value	ValueOutput
+PmDelay Cross	0	4194304	Value	ValueOutput
+PmDelay Freeze A	0	4194304	Value	ValueOutput
+PmDelay Freeze B	0	4194304	Value	ValueOutput
+PmDelay Freeze R	0	4194304	Value	ValueOutput
+PmDelay Freeze R	0	4194304	Value	ValueOutput
+PmDelay Freeze L	0	4194304	Value	ValueOutput
+PmDelay lfo rate	0	4194304	Value	ValueOutput
+PmDelay lfo rate	0	4194304	Value	ValueOutput
+PmDelay lfo phas	0	4194304	Value	ValueOutput
+PmDelay lfo shap	0	4194304	Value	ValueOutput
+PmDelay A Filter	0	4194304	Value	ValueOutput
+PmDelay A Filter	0	4194304	Value	ValueOutput
+PmDelay B Filter	0	4194304	Value	ValueOutput
+PmDelay B Filter	0	4194304	Value	ValueOutput
+PmDelay A Hightp	0	4194304	Value	ValueOutput
+PmDelay A Lowpas	0	4194304	Value	ValueOutput
+PmDelay B Hightp	0	4194304	Value	ValueOutput
+PmDelay B Lowpas	0	4194304	Value	ValueOutput
+PmDelay A SVF Cu	0	4194304	Value	ValueOutput
+PmDelay A SVF Re	0	4194304	Value	ValueOutput
+PmDelay A SVF Ty	0	4194304	Value	ValueOutput
+PmDelay B SVF Cu	0	4194304	Value	ValueOutput
+PmDelay B SVF Re	0	4194304	Value	ValueOutput
+PmDelay B SVF Ty	0	4194304	Value	ValueOutput
+pmdelay_unita_ga	0	4194304	Value	ValueOutput
+pmdelay_unitb_ga	0	4194304	Value	ValueOutput
+PmDelay Output A	0	4194304	Value	ValueOutput
+PmDelay Output B	0	4194304	Value	ValueOutput
+PmDelay Output D	0	4194304	Value	ValueOutput
+PmDelay Pan A	0	4194304	Value	ValueOutput
+PmDelay Pan B	0	4194304	Value	ValueOutput
+PmDelay Pan Dry	0	4194304	Value	ValueOutput
+PmDelay Mute A	0	4194304	Value	ValueOutput
+PmDelay Mute B	0	4194304	Value	ValueOutput
+PmDelay Mute Dry	0	4194304	Value	ValueOutput
+PmDelay Inv A	0	4194304	Value	ValueOutput
+PmDelay Inv B	0	4194304	Value	ValueOutput
+PmDelay DryWet	0	4194304	Value	ValueOutput
+DynamicDelay Del	0	4194304	Value	ValueOutput
+DynamicDelay Del	0	4194304	Value	ValueOutput
+DynamicDelay Del	0	4194304	Value	ValueOutput
+DynamicDelay Del	0	4194304	Value	ValueOutput
+DynamicDelay Del	0	4194304	Value	ValueOutput
+DynamicDelay Del	0	4194304	Value	ValueOutput
+DynamicDelay Del	0	4194304	Value	ValueOutput
+DynamicDelay Del	0	4194304	Value	ValueOutput
+DynamicDelay Del	0	4194304	Value	ValueOutput
+DynamicDelay Fee	0	4194304	Value	ValueOutput
+DynamicDelay Gat	0	4194304	Value	ValueOutput
+DynamicDelay Gat	0	4194304	Value	ValueOutput
+DynamicDelay Gat	0	4194304	Value	ValueOutput
+DynamicDelay Gat	0	4194304	Value	ValueOutput
+DynamicDelay Com	0	4194304	Value	ValueOutput
+DynamicDelay Com	0	4194304	Value	ValueOutput
+DynamicDelay Com	0	4194304	Value	ValueOutput
+DynamicDelay Com	0	4194304	Value	ValueOutput
+DynamicDelay Com	0	4194304	Value	ValueOutput
+DynamicDelay Com	0	4194304	Value	ValueOutput
+DynamicDelay Com	0	4194304	Value	ValueOutput
+DynamicDelay Com	0	4194304	Value	ValueOutput
+DynamicDelay lfo	0	4194304	Value	ValueOutput
+DynamicDelay lfo	0	4194304	Value	ValueOutput
+DynamicDelay lfo	0	4194304	Value	ValueOutput
+DynamicDelay lfo	0	4194304	Value	ValueOutput
+DynamicDelay Fil	0	4194304	Value	ValueOutput
+DynamicDelay Fil	0	4194304	Value	ValueOutput
+DynamicDelay Hig	0	4194304	Value	ValueOutput
+DynamicDelay Low	0	4194304	Value	ValueOutput
+DynamicDelay Gai	0	4194304	Value	ValueOutput
+DynamicDelay SVF	0	4194304	Value	ValueOutput
+DynamicDelay SVF	0	4194304	Value	ValueOutput
+DynamicDelay SVF	0	4194304	Value	ValueOutput
+DynamicDelay Wid	0	4194304	Value	ValueOutput
+DynamicDelay Dry	0	4194304	Value	ValueOutput
+DynamicDelay Inp	0	4194304	Value	ValueOutput
+DynamicDelay Out	0	4194304	Value	ValueOutput
+DynamicDelay Dry	0	4194304	Value	ValueOutput
+DynamicDelay Wet	0	4194304	Value	ValueOutput
+Master SoftClip	0	4194304	Value	ValueOutput
+Master Limiter	0	4194304	Value	ValueOutput
+Master Bypass	0	4194304	Value	ValueOutput
+Ducker Sens	0	4194304	Value	ValueOutput
+Ducker Release	0	4194304	Value	ValueOutput
+Lock InOut Param	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

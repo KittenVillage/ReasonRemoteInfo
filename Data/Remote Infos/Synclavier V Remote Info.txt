@@ -1,0 +1,808 @@
+Scope
+Manufacturer	Model
+Arturia	vst.Sycl.Synclavier V
+Note: Will match scope definitions for vst.Sycl.Synclavier V or vst.Sycl
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Timbre Volume	0	4194304	Value	ValueOutput
+Timbre Pan	0	4194304	Value	ValueOutput
+Timbre Modulation	0	4194304	Value	ValueOutput
+Timbre Tuning	0	4194304	Value	ValueOutput
+Timbre Transpose	0	4194304	Value	ValueOutput
+Timbre Chorus	0	4194304	Value	ValueOutput
+Timbre Chorus (Fine)	0	4194304	Value	ValueOutput
+Timbre Bit Depth	0	4194304	Value	ValueOutput
+Timbre Vol Env Attack	0	4194304	Value	ValueOutput
+Timbre Vol Env Initial D	0	4194304	Value	ValueOutput
+Timbre Vol Env Final Dec	0	4194304	Value	ValueOutput
+Timbre Index Env Attack	0	4194304	Value	ValueOutput
+Timbre Index Env Initial	0	4194304	Value	ValueOutput
+Timbre Index Env Final D	0	4194304	Value	ValueOutput
+Timbre Repeat	0	4194304	Value	ValueOutput
+Timbre Arpeggiate	0	4194304	Value	ValueOutput
+Timbre BPM Sync	0	4194304	Value	ValueOutput
+Timbre Repeat Rate	0	4194304	Value	ValueOutput
+Timbre BPM Multiplier	0	4194304	Value	ValueOutput
+Arpeggiate Pattern	0	4194304	Value	ValueOutput
+Timbre Polyphony Mode	0	4194304	Value	ValueOutput
+Timbre Portamento	0	4194304	Value	ValueOutput
+Portamento Shape	0	4194304	Value	ValueOutput
+Portamento Rate	0	4194304	Value	ValueOutput
+Partial Volume 1	0	4194304	Value	ValueOutput
+Partial Solo 1	0	4194304	Value	ValueOutput
+Partial Mute 1	0	4194304	Value	ValueOutput
+Partial Pan 1	0	4194304	Value	ValueOutput
+Partial Modulation 1	0	4194304	Value	ValueOutput
+Partial Pitch Track 1	0	4194304	Value	ValueOutput
+Partial Tuning 1	0	4194304	Value	ValueOutput
+Partial Transpose 1	0	4194304	Value	ValueOutput
+Partial Octave 1	0	4194304	Value	ValueOutput
+Partial Chorus 1	0	4194304	Value	ValueOutput
+Partial Chorus (Fine) 1	0	4194304	Value	ValueOutput
+Partial FM Ratio 1	0	4194304	Value	ValueOutput
+Partial FM Ratio (Fine) 	0	4194304	Value	ValueOutput
+Partial Frame Speed 1	0	4194304	Value	ValueOutput
+Volume Envelope Delay 1	0	4194304	Value	ValueOutput
+Volume Envelope Attack 1	0	4194304	Value	ValueOutput
+Volume Envelope Initial 	0	4194304	Value	ValueOutput
+Volume Envelope Final De	0	4194304	Value	ValueOutput
+Volume Envelope Peak 1	0	4194304	Value	ValueOutput
+Volume Envelope Sustain 	0	4194304	Value	ValueOutput
+Decay Adjust 1	0	4194304	Value	ValueOutput
+Index Envelope Delay 1	0	4194304	Value	ValueOutput
+Index Envelope Attack 1	0	4194304	Value	ValueOutput
+Index Envelope Initial D	0	4194304	Value	ValueOutput
+Index Envelope Final Dec	0	4194304	Value	ValueOutput
+Index Envelope Peak 1	0	4194304	Value	ValueOutput
+Index Envelope Sustain 1	0	4194304	Value	ValueOutput
+Partial Decay Shape 1	0	4194304	Value	ValueOutput
+Vibrato Wave 1	0	4194304	Value	ValueOutput
+Vibrato Attack 1	0	4194304	Value	ValueOutput
+Vibrato Rate 1	0	4194304	Value	ValueOutput
+Vibrato BPM Multiplier 1	0	4194304	Value	ValueOutput
+Link Depths 1	0	4194304	Value	ValueOutput
+Carrier Depth 1	0	4194304	Value	ValueOutput
+Modulator Depth 1	0	4194304	Value	ValueOutput
+Vibrato Invert 1	0	4194304	Value	ValueOutput
+Vibrato Quantize 1	0	4194304	Value	ValueOutput
+Vibrato Bias 1	0	4194304	Value	ValueOutput
+Vibrato Curve 1	0	4194304	Value	ValueOutput
+Vibrato BPM Sync 1	0	4194304	Value	ValueOutput
+Tremolo Wave 1	0	4194304	Value	ValueOutput
+Tremolo Attack 1	0	4194304	Value	ValueOutput
+Tremolo Rate 1	0	4194304	Value	ValueOutput
+Tremolo BPM Multiplier 1	0	4194304	Value	ValueOutput
+Tremolo Depth 1	0	4194304	Value	ValueOutput
+Tremolo Phase 1	0	4194304	Value	ValueOutput
+Tremolo Invert 1	0	4194304	Value	ValueOutput
+Tremolo Sync 1	0	4194304	Value	ValueOutput
+Tremolo BPM Sync 1	0	4194304	Value	ValueOutput
+Tremolo Alternate 1	0	4194304	Value	ValueOutput
+Tremolo Curve 1	0	4194304	Value	ValueOutput
+Partial Volume 2	0	4194304	Value	ValueOutput
+Partial Solo 2	0	4194304	Value	ValueOutput
+Partial Mute 2	0	4194304	Value	ValueOutput
+Partial Pan 2	0	4194304	Value	ValueOutput
+Partial Modulation 2	0	4194304	Value	ValueOutput
+Partial Pitch Track 2	0	4194304	Value	ValueOutput
+Partial Tuning 2	0	4194304	Value	ValueOutput
+Partial Transpose 2	0	4194304	Value	ValueOutput
+Partial Octave 2	0	4194304	Value	ValueOutput
+Partial Chorus 2	0	4194304	Value	ValueOutput
+Partial Chorus (Fine) 2	0	4194304	Value	ValueOutput
+Partial FM Ratio 2	0	4194304	Value	ValueOutput
+Partial FM Ratio (Fine) 	0	4194304	Value	ValueOutput
+Partial Frame Speed 2	0	4194304	Value	ValueOutput
+Volume Envelope Delay 2	0	4194304	Value	ValueOutput
+Volume Envelope Attack 2	0	4194304	Value	ValueOutput
+Volume Envelope Initial 	0	4194304	Value	ValueOutput
+Volume Envelope Final De	0	4194304	Value	ValueOutput
+Volume Envelope Peak 2	0	4194304	Value	ValueOutput
+Volume Envelope Sustain 	0	4194304	Value	ValueOutput
+Decay Adjust 2	0	4194304	Value	ValueOutput
+Index Envelope Delay 2	0	4194304	Value	ValueOutput
+Index Envelope Attack 2	0	4194304	Value	ValueOutput
+Index Envelope Initial D	0	4194304	Value	ValueOutput
+Index Envelope Final Dec	0	4194304	Value	ValueOutput
+Index Envelope Peak 2	0	4194304	Value	ValueOutput
+Index Envelope Sustain 2	0	4194304	Value	ValueOutput
+Partial Decay Shape 2	0	4194304	Value	ValueOutput
+Vibrato Wave 2	0	4194304	Value	ValueOutput
+Vibrato Attack 2	0	4194304	Value	ValueOutput
+Vibrato Rate 2	0	4194304	Value	ValueOutput
+Vibrato BPM Multiplier 2	0	4194304	Value	ValueOutput
+Link Depths 2	0	4194304	Value	ValueOutput
+Carrier Depth 2	0	4194304	Value	ValueOutput
+Modulator Depth 2	0	4194304	Value	ValueOutput
+Vibrato Invert 2	0	4194304	Value	ValueOutput
+Vibrato Quantize 2	0	4194304	Value	ValueOutput
+Vibrato Bias 2	0	4194304	Value	ValueOutput
+Vibrato Curve 2	0	4194304	Value	ValueOutput
+Vibrato BPM Sync 2	0	4194304	Value	ValueOutput
+Tremolo Wave 2	0	4194304	Value	ValueOutput
+Tremolo Attack 2	0	4194304	Value	ValueOutput
+Tremolo Rate 2	0	4194304	Value	ValueOutput
+Tremolo BPM Multiplier 2	0	4194304	Value	ValueOutput
+Tremolo Depth 2	0	4194304	Value	ValueOutput
+Tremolo Phase 2	0	4194304	Value	ValueOutput
+Tremolo Invert 2	0	4194304	Value	ValueOutput
+Tremolo Sync 2	0	4194304	Value	ValueOutput
+Tremolo BPM Sync 2	0	4194304	Value	ValueOutput
+Tremolo Alternate 2	0	4194304	Value	ValueOutput
+Tremolo Curve 2	0	4194304	Value	ValueOutput
+Partial Volume 3	0	4194304	Value	ValueOutput
+Partial Solo 3	0	4194304	Value	ValueOutput
+Partial Mute 3	0	4194304	Value	ValueOutput
+Partial Pan 3	0	4194304	Value	ValueOutput
+Partial Modulation 3	0	4194304	Value	ValueOutput
+Partial Pitch Track 3	0	4194304	Value	ValueOutput
+Partial Tuning 3	0	4194304	Value	ValueOutput
+Partial Transpose 3	0	4194304	Value	ValueOutput
+Partial Octave 3	0	4194304	Value	ValueOutput
+Partial Chorus 3	0	4194304	Value	ValueOutput
+Partial Chorus (Fine) 3	0	4194304	Value	ValueOutput
+Partial FM Ratio 3	0	4194304	Value	ValueOutput
+Partial FM Ratio (Fine) 	0	4194304	Value	ValueOutput
+Partial Frame Speed 3	0	4194304	Value	ValueOutput
+Volume Envelope Delay 3	0	4194304	Value	ValueOutput
+Volume Envelope Attack 3	0	4194304	Value	ValueOutput
+Volume Envelope Initial 	0	4194304	Value	ValueOutput
+Volume Envelope Final De	0	4194304	Value	ValueOutput
+Volume Envelope Peak 3	0	4194304	Value	ValueOutput
+Volume Envelope Sustain 	0	4194304	Value	ValueOutput
+Decay Adjust 3	0	4194304	Value	ValueOutput
+Index Envelope Delay 3	0	4194304	Value	ValueOutput
+Index Envelope Attack 3	0	4194304	Value	ValueOutput
+Index Envelope Initial D	0	4194304	Value	ValueOutput
+Index Envelope Final Dec	0	4194304	Value	ValueOutput
+Index Envelope Peak 3	0	4194304	Value	ValueOutput
+Index Envelope Sustain 3	0	4194304	Value	ValueOutput
+Partial Decay Shape 3	0	4194304	Value	ValueOutput
+Vibrato Wave 3	0	4194304	Value	ValueOutput
+Vibrato Attack 3	0	4194304	Value	ValueOutput
+Vibrato Rate 3	0	4194304	Value	ValueOutput
+Vibrato BPM Multiplier 3	0	4194304	Value	ValueOutput
+Link Depths 3	0	4194304	Value	ValueOutput
+Carrier Depth 3	0	4194304	Value	ValueOutput
+Modulator Depth 3	0	4194304	Value	ValueOutput
+Vibrato Invert 3	0	4194304	Value	ValueOutput
+Vibrato Quantize 3	0	4194304	Value	ValueOutput
+Vibrato Bias 3	0	4194304	Value	ValueOutput
+Vibrato Curve 3	0	4194304	Value	ValueOutput
+Vibrato BPM Sync 3	0	4194304	Value	ValueOutput
+Tremolo Wave 3	0	4194304	Value	ValueOutput
+Tremolo Attack 3	0	4194304	Value	ValueOutput
+Tremolo Rate 3	0	4194304	Value	ValueOutput
+Tremolo BPM Multiplier 3	0	4194304	Value	ValueOutput
+Tremolo Depth 3	0	4194304	Value	ValueOutput
+Tremolo Phase 3	0	4194304	Value	ValueOutput
+Tremolo Invert 3	0	4194304	Value	ValueOutput
+Tremolo Sync 3	0	4194304	Value	ValueOutput
+Tremolo BPM Sync 3	0	4194304	Value	ValueOutput
+Tremolo Alternate 3	0	4194304	Value	ValueOutput
+Tremolo Curve 3	0	4194304	Value	ValueOutput
+Partial Volume 4	0	4194304	Value	ValueOutput
+Partial Solo 4	0	4194304	Value	ValueOutput
+Partial Mute 4	0	4194304	Value	ValueOutput
+Partial Pan 4	0	4194304	Value	ValueOutput
+Partial Modulation 4	0	4194304	Value	ValueOutput
+Partial Pitch Track 4	0	4194304	Value	ValueOutput
+Partial Tuning 4	0	4194304	Value	ValueOutput
+Partial Transpose 4	0	4194304	Value	ValueOutput
+Partial Octave 4	0	4194304	Value	ValueOutput
+Partial Chorus 4	0	4194304	Value	ValueOutput
+Partial Chorus (Fine) 4	0	4194304	Value	ValueOutput
+Partial FM Ratio 4	0	4194304	Value	ValueOutput
+Partial FM Ratio (Fine) 	0	4194304	Value	ValueOutput
+Partial Frame Speed 4	0	4194304	Value	ValueOutput
+Volume Envelope Delay 4	0	4194304	Value	ValueOutput
+Volume Envelope Attack 4	0	4194304	Value	ValueOutput
+Volume Envelope Initial 	0	4194304	Value	ValueOutput
+Volume Envelope Final De	0	4194304	Value	ValueOutput
+Volume Envelope Peak 4	0	4194304	Value	ValueOutput
+Volume Envelope Sustain 	0	4194304	Value	ValueOutput
+Decay Adjust 4	0	4194304	Value	ValueOutput
+Index Envelope Delay 4	0	4194304	Value	ValueOutput
+Index Envelope Attack 4	0	4194304	Value	ValueOutput
+Index Envelope Initial D	0	4194304	Value	ValueOutput
+Index Envelope Final Dec	0	4194304	Value	ValueOutput
+Index Envelope Peak 4	0	4194304	Value	ValueOutput
+Index Envelope Sustain 4	0	4194304	Value	ValueOutput
+Partial Decay Shape 4	0	4194304	Value	ValueOutput
+Vibrato Wave 4	0	4194304	Value	ValueOutput
+Vibrato Attack 4	0	4194304	Value	ValueOutput
+Vibrato Rate 4	0	4194304	Value	ValueOutput
+Vibrato BPM Multiplier 4	0	4194304	Value	ValueOutput
+Link Depths 4	0	4194304	Value	ValueOutput
+Carrier Depth 4	0	4194304	Value	ValueOutput
+Modulator Depth 4	0	4194304	Value	ValueOutput
+Vibrato Invert 4	0	4194304	Value	ValueOutput
+Vibrato Quantize 4	0	4194304	Value	ValueOutput
+Vibrato Bias 4	0	4194304	Value	ValueOutput
+Vibrato Curve 4	0	4194304	Value	ValueOutput
+Vibrato BPM Sync 4	0	4194304	Value	ValueOutput
+Tremolo Wave 4	0	4194304	Value	ValueOutput
+Tremolo Attack 4	0	4194304	Value	ValueOutput
+Tremolo Rate 4	0	4194304	Value	ValueOutput
+Tremolo BPM Multiplier 4	0	4194304	Value	ValueOutput
+Tremolo Depth 4	0	4194304	Value	ValueOutput
+Tremolo Phase 4	0	4194304	Value	ValueOutput
+Tremolo Invert 4	0	4194304	Value	ValueOutput
+Tremolo Sync 4	0	4194304	Value	ValueOutput
+Tremolo BPM Sync 4	0	4194304	Value	ValueOutput
+Tremolo Alternate 4	0	4194304	Value	ValueOutput
+Tremolo Curve 4	0	4194304	Value	ValueOutput
+Partial Volume 5	0	4194304	Value	ValueOutput
+Partial Solo 5	0	4194304	Value	ValueOutput
+Partial Mute 5	0	4194304	Value	ValueOutput
+Partial Pan 5	0	4194304	Value	ValueOutput
+Partial Modulation 5	0	4194304	Value	ValueOutput
+Partial Pitch Track 5	0	4194304	Value	ValueOutput
+Partial Tuning 5	0	4194304	Value	ValueOutput
+Partial Transpose 5	0	4194304	Value	ValueOutput
+Partial Octave 5	0	4194304	Value	ValueOutput
+Partial Chorus 5	0	4194304	Value	ValueOutput
+Partial Chorus (Fine) 5	0	4194304	Value	ValueOutput
+Partial FM Ratio 5	0	4194304	Value	ValueOutput
+Partial FM Ratio (Fine) 	0	4194304	Value	ValueOutput
+Partial Frame Speed 5	0	4194304	Value	ValueOutput
+Volume Envelope Delay 5	0	4194304	Value	ValueOutput
+Volume Envelope Attack 5	0	4194304	Value	ValueOutput
+Volume Envelope Initial 	0	4194304	Value	ValueOutput
+Volume Envelope Final De	0	4194304	Value	ValueOutput
+Volume Envelope Peak 5	0	4194304	Value	ValueOutput
+Volume Envelope Sustain 	0	4194304	Value	ValueOutput
+Decay Adjust 5	0	4194304	Value	ValueOutput
+Index Envelope Delay 5	0	4194304	Value	ValueOutput
+Index Envelope Attack 5	0	4194304	Value	ValueOutput
+Index Envelope Initial D	0	4194304	Value	ValueOutput
+Index Envelope Final Dec	0	4194304	Value	ValueOutput
+Index Envelope Peak 5	0	4194304	Value	ValueOutput
+Index Envelope Sustain 5	0	4194304	Value	ValueOutput
+Partial Decay Shape 5	0	4194304	Value	ValueOutput
+Vibrato Wave 5	0	4194304	Value	ValueOutput
+Vibrato Attack 5	0	4194304	Value	ValueOutput
+Vibrato Rate 5	0	4194304	Value	ValueOutput
+Vibrato BPM Multiplier 5	0	4194304	Value	ValueOutput
+Link Depths 5	0	4194304	Value	ValueOutput
+Carrier Depth 5	0	4194304	Value	ValueOutput
+Modulator Depth 5	0	4194304	Value	ValueOutput
+Vibrato Invert 5	0	4194304	Value	ValueOutput
+Vibrato Quantize 5	0	4194304	Value	ValueOutput
+Vibrato Bias 5	0	4194304	Value	ValueOutput
+Vibrato Curve 5	0	4194304	Value	ValueOutput
+Vibrato BPM Sync 5	0	4194304	Value	ValueOutput
+Tremolo Wave 5	0	4194304	Value	ValueOutput
+Tremolo Attack 5	0	4194304	Value	ValueOutput
+Tremolo Rate 5	0	4194304	Value	ValueOutput
+Tremolo BPM Multiplier 5	0	4194304	Value	ValueOutput
+Tremolo Depth 5	0	4194304	Value	ValueOutput
+Tremolo Phase 5	0	4194304	Value	ValueOutput
+Tremolo Invert 5	0	4194304	Value	ValueOutput
+Tremolo Sync 5	0	4194304	Value	ValueOutput
+Tremolo BPM Sync 5	0	4194304	Value	ValueOutput
+Tremolo Alternate 5	0	4194304	Value	ValueOutput
+Tremolo Curve 5	0	4194304	Value	ValueOutput
+Partial Volume 6	0	4194304	Value	ValueOutput
+Partial Solo 6	0	4194304	Value	ValueOutput
+Partial Mute 6	0	4194304	Value	ValueOutput
+Partial Pan 6	0	4194304	Value	ValueOutput
+Partial Modulation 6	0	4194304	Value	ValueOutput
+Partial Pitch Track 6	0	4194304	Value	ValueOutput
+Partial Tuning 6	0	4194304	Value	ValueOutput
+Partial Transpose 6	0	4194304	Value	ValueOutput
+Partial Octave 6	0	4194304	Value	ValueOutput
+Partial Chorus 6	0	4194304	Value	ValueOutput
+Partial Chorus (Fine) 6	0	4194304	Value	ValueOutput
+Partial FM Ratio 6	0	4194304	Value	ValueOutput
+Partial FM Ratio (Fine) 	0	4194304	Value	ValueOutput
+Partial Frame Speed 6	0	4194304	Value	ValueOutput
+Volume Envelope Delay 6	0	4194304	Value	ValueOutput
+Volume Envelope Attack 6	0	4194304	Value	ValueOutput
+Volume Envelope Initial 	0	4194304	Value	ValueOutput
+Volume Envelope Final De	0	4194304	Value	ValueOutput
+Volume Envelope Peak 6	0	4194304	Value	ValueOutput
+Volume Envelope Sustain 	0	4194304	Value	ValueOutput
+Decay Adjust 6	0	4194304	Value	ValueOutput
+Index Envelope Delay 6	0	4194304	Value	ValueOutput
+Index Envelope Attack 6	0	4194304	Value	ValueOutput
+Index Envelope Initial D	0	4194304	Value	ValueOutput
+Index Envelope Final Dec	0	4194304	Value	ValueOutput
+Index Envelope Peak 6	0	4194304	Value	ValueOutput
+Index Envelope Sustain 6	0	4194304	Value	ValueOutput
+Partial Decay Shape 6	0	4194304	Value	ValueOutput
+Vibrato Wave 6	0	4194304	Value	ValueOutput
+Vibrato Attack 6	0	4194304	Value	ValueOutput
+Vibrato Rate 6	0	4194304	Value	ValueOutput
+Vibrato BPM Multiplier 6	0	4194304	Value	ValueOutput
+Link Depths 6	0	4194304	Value	ValueOutput
+Carrier Depth 6	0	4194304	Value	ValueOutput
+Modulator Depth 6	0	4194304	Value	ValueOutput
+Vibrato Invert 6	0	4194304	Value	ValueOutput
+Vibrato Quantize 6	0	4194304	Value	ValueOutput
+Vibrato Bias 6	0	4194304	Value	ValueOutput
+Vibrato Curve 6	0	4194304	Value	ValueOutput
+Vibrato BPM Sync 6	0	4194304	Value	ValueOutput
+Tremolo Wave 6	0	4194304	Value	ValueOutput
+Tremolo Attack 6	0	4194304	Value	ValueOutput
+Tremolo Rate 6	0	4194304	Value	ValueOutput
+Tremolo BPM Multiplier 6	0	4194304	Value	ValueOutput
+Tremolo Depth 6	0	4194304	Value	ValueOutput
+Tremolo Phase 6	0	4194304	Value	ValueOutput
+Tremolo Invert 6	0	4194304	Value	ValueOutput
+Tremolo Sync 6	0	4194304	Value	ValueOutput
+Tremolo BPM Sync 6	0	4194304	Value	ValueOutput
+Tremolo Alternate 6	0	4194304	Value	ValueOutput
+Tremolo Curve 6	0	4194304	Value	ValueOutput
+Partial Volume 7	0	4194304	Value	ValueOutput
+Partial Solo 7	0	4194304	Value	ValueOutput
+Partial Mute 7	0	4194304	Value	ValueOutput
+Partial Pan 7	0	4194304	Value	ValueOutput
+Partial Modulation 7	0	4194304	Value	ValueOutput
+Partial Pitch Track 7	0	4194304	Value	ValueOutput
+Partial Tuning 7	0	4194304	Value	ValueOutput
+Partial Transpose 7	0	4194304	Value	ValueOutput
+Partial Octave 7	0	4194304	Value	ValueOutput
+Partial Chorus 7	0	4194304	Value	ValueOutput
+Partial Chorus (Fine) 7	0	4194304	Value	ValueOutput
+Partial FM Ratio 7	0	4194304	Value	ValueOutput
+Partial FM Ratio (Fine) 	0	4194304	Value	ValueOutput
+Partial Frame Speed 7	0	4194304	Value	ValueOutput
+Volume Envelope Delay 7	0	4194304	Value	ValueOutput
+Volume Envelope Attack 7	0	4194304	Value	ValueOutput
+Volume Envelope Initial 	0	4194304	Value	ValueOutput
+Volume Envelope Final De	0	4194304	Value	ValueOutput
+Volume Envelope Peak 7	0	4194304	Value	ValueOutput
+Volume Envelope Sustain 	0	4194304	Value	ValueOutput
+Decay Adjust 7	0	4194304	Value	ValueOutput
+Index Envelope Delay 7	0	4194304	Value	ValueOutput
+Index Envelope Attack 7	0	4194304	Value	ValueOutput
+Index Envelope Initial D	0	4194304	Value	ValueOutput
+Index Envelope Final Dec	0	4194304	Value	ValueOutput
+Index Envelope Peak 7	0	4194304	Value	ValueOutput
+Index Envelope Sustain 7	0	4194304	Value	ValueOutput
+Partial Decay Shape 7	0	4194304	Value	ValueOutput
+Vibrato Wave 7	0	4194304	Value	ValueOutput
+Vibrato Attack 7	0	4194304	Value	ValueOutput
+Vibrato Rate 7	0	4194304	Value	ValueOutput
+Vibrato BPM Multiplier 7	0	4194304	Value	ValueOutput
+Link Depths 7	0	4194304	Value	ValueOutput
+Carrier Depth 7	0	4194304	Value	ValueOutput
+Modulator Depth 7	0	4194304	Value	ValueOutput
+Vibrato Invert 7	0	4194304	Value	ValueOutput
+Vibrato Quantize 7	0	4194304	Value	ValueOutput
+Vibrato Bias 7	0	4194304	Value	ValueOutput
+Vibrato Curve 7	0	4194304	Value	ValueOutput
+Vibrato BPM Sync 7	0	4194304	Value	ValueOutput
+Tremolo Wave 7	0	4194304	Value	ValueOutput
+Tremolo Attack 7	0	4194304	Value	ValueOutput
+Tremolo Rate 7	0	4194304	Value	ValueOutput
+Tremolo BPM Multiplier 7	0	4194304	Value	ValueOutput
+Tremolo Depth 7	0	4194304	Value	ValueOutput
+Tremolo Phase 7	0	4194304	Value	ValueOutput
+Tremolo Invert 7	0	4194304	Value	ValueOutput
+Tremolo Sync 7	0	4194304	Value	ValueOutput
+Tremolo BPM Sync 7	0	4194304	Value	ValueOutput
+Tremolo Alternate 7	0	4194304	Value	ValueOutput
+Tremolo Curve 7	0	4194304	Value	ValueOutput
+Partial Volume 8	0	4194304	Value	ValueOutput
+Partial Solo 8	0	4194304	Value	ValueOutput
+Partial Mute 8	0	4194304	Value	ValueOutput
+Partial Pan 8	0	4194304	Value	ValueOutput
+Partial Modulation 8	0	4194304	Value	ValueOutput
+Partial Pitch Track 8	0	4194304	Value	ValueOutput
+Partial Tuning 8	0	4194304	Value	ValueOutput
+Partial Transpose 8	0	4194304	Value	ValueOutput
+Partial Octave 8	0	4194304	Value	ValueOutput
+Partial Chorus 8	0	4194304	Value	ValueOutput
+Partial Chorus (Fine) 8	0	4194304	Value	ValueOutput
+Partial FM Ratio 8	0	4194304	Value	ValueOutput
+Partial FM Ratio (Fine) 	0	4194304	Value	ValueOutput
+Partial Frame Speed 8	0	4194304	Value	ValueOutput
+Volume Envelope Delay 8	0	4194304	Value	ValueOutput
+Volume Envelope Attack 8	0	4194304	Value	ValueOutput
+Volume Envelope Initial 	0	4194304	Value	ValueOutput
+Volume Envelope Final De	0	4194304	Value	ValueOutput
+Volume Envelope Peak 8	0	4194304	Value	ValueOutput
+Volume Envelope Sustain 	0	4194304	Value	ValueOutput
+Decay Adjust 8	0	4194304	Value	ValueOutput
+Index Envelope Delay 8	0	4194304	Value	ValueOutput
+Index Envelope Attack 8	0	4194304	Value	ValueOutput
+Index Envelope Initial D	0	4194304	Value	ValueOutput
+Index Envelope Final Dec	0	4194304	Value	ValueOutput
+Index Envelope Peak 8	0	4194304	Value	ValueOutput
+Index Envelope Sustain 8	0	4194304	Value	ValueOutput
+Partial Decay Shape 8	0	4194304	Value	ValueOutput
+Vibrato Wave 8	0	4194304	Value	ValueOutput
+Vibrato Attack 8	0	4194304	Value	ValueOutput
+Vibrato Rate 8	0	4194304	Value	ValueOutput
+Vibrato BPM Multiplier 8	0	4194304	Value	ValueOutput
+Link Depths 8	0	4194304	Value	ValueOutput
+Carrier Depth 8	0	4194304	Value	ValueOutput
+Modulator Depth 8	0	4194304	Value	ValueOutput
+Vibrato Invert 8	0	4194304	Value	ValueOutput
+Vibrato Quantize 8	0	4194304	Value	ValueOutput
+Vibrato Bias 8	0	4194304	Value	ValueOutput
+Vibrato Curve 8	0	4194304	Value	ValueOutput
+Vibrato BPM Sync 8	0	4194304	Value	ValueOutput
+Tremolo Wave 8	0	4194304	Value	ValueOutput
+Tremolo Attack 8	0	4194304	Value	ValueOutput
+Tremolo Rate 8	0	4194304	Value	ValueOutput
+Tremolo BPM Multiplier 8	0	4194304	Value	ValueOutput
+Tremolo Depth 8	0	4194304	Value	ValueOutput
+Tremolo Phase 8	0	4194304	Value	ValueOutput
+Tremolo Invert 8	0	4194304	Value	ValueOutput
+Tremolo Sync 8	0	4194304	Value	ValueOutput
+Tremolo BPM Sync 8	0	4194304	Value	ValueOutput
+Tremolo Alternate 8	0	4194304	Value	ValueOutput
+Tremolo Curve 8	0	4194304	Value	ValueOutput
+Partial Volume 9	0	4194304	Value	ValueOutput
+Partial Solo 9	0	4194304	Value	ValueOutput
+Partial Mute 9	0	4194304	Value	ValueOutput
+Partial Pan 9	0	4194304	Value	ValueOutput
+Partial Modulation 9	0	4194304	Value	ValueOutput
+Partial Pitch Track 9	0	4194304	Value	ValueOutput
+Partial Tuning 9	0	4194304	Value	ValueOutput
+Partial Transpose 9	0	4194304	Value	ValueOutput
+Partial Octave 9	0	4194304	Value	ValueOutput
+Partial Chorus 9	0	4194304	Value	ValueOutput
+Partial Chorus (Fine) 9	0	4194304	Value	ValueOutput
+Partial FM Ratio 9	0	4194304	Value	ValueOutput
+Partial FM Ratio (Fine) 	0	4194304	Value	ValueOutput
+Partial Frame Speed 9	0	4194304	Value	ValueOutput
+Volume Envelope Delay 9	0	4194304	Value	ValueOutput
+Volume Envelope Attack 9	0	4194304	Value	ValueOutput
+Volume Envelope Initial 	0	4194304	Value	ValueOutput
+Volume Envelope Final De	0	4194304	Value	ValueOutput
+Volume Envelope Peak 9	0	4194304	Value	ValueOutput
+Volume Envelope Sustain 	0	4194304	Value	ValueOutput
+Decay Adjust 9	0	4194304	Value	ValueOutput
+Index Envelope Delay 9	0	4194304	Value	ValueOutput
+Index Envelope Attack 9	0	4194304	Value	ValueOutput
+Index Envelope Initial D	0	4194304	Value	ValueOutput
+Index Envelope Final Dec	0	4194304	Value	ValueOutput
+Index Envelope Peak 9	0	4194304	Value	ValueOutput
+Index Envelope Sustain 9	0	4194304	Value	ValueOutput
+Partial Decay Shape 9	0	4194304	Value	ValueOutput
+Vibrato Wave 9	0	4194304	Value	ValueOutput
+Vibrato Attack 9	0	4194304	Value	ValueOutput
+Vibrato Rate 9	0	4194304	Value	ValueOutput
+Vibrato BPM Multiplier 9	0	4194304	Value	ValueOutput
+Link Depths 9	0	4194304	Value	ValueOutput
+Carrier Depth 9	0	4194304	Value	ValueOutput
+Modulator Depth 9	0	4194304	Value	ValueOutput
+Vibrato Invert 9	0	4194304	Value	ValueOutput
+Vibrato Quantize 9	0	4194304	Value	ValueOutput
+Vibrato Bias 9	0	4194304	Value	ValueOutput
+Vibrato Curve 9	0	4194304	Value	ValueOutput
+Vibrato BPM Sync 9	0	4194304	Value	ValueOutput
+Tremolo Wave 9	0	4194304	Value	ValueOutput
+Tremolo Attack 9	0	4194304	Value	ValueOutput
+Tremolo Rate 9	0	4194304	Value	ValueOutput
+Tremolo BPM Multiplier 9	0	4194304	Value	ValueOutput
+Tremolo Depth 9	0	4194304	Value	ValueOutput
+Tremolo Phase 9	0	4194304	Value	ValueOutput
+Tremolo Invert 9	0	4194304	Value	ValueOutput
+Tremolo Sync 9	0	4194304	Value	ValueOutput
+Tremolo BPM Sync 9	0	4194304	Value	ValueOutput
+Tremolo Alternate 9	0	4194304	Value	ValueOutput
+Tremolo Curve 9	0	4194304	Value	ValueOutput
+Partial Volume 10	0	4194304	Value	ValueOutput
+Partial Solo 10	0	4194304	Value	ValueOutput
+Partial Mute 10	0	4194304	Value	ValueOutput
+Partial Pan 10	0	4194304	Value	ValueOutput
+Partial Modulation 10	0	4194304	Value	ValueOutput
+Partial Pitch Track 10	0	4194304	Value	ValueOutput
+Partial Tuning 10	0	4194304	Value	ValueOutput
+Partial Transpose 10	0	4194304	Value	ValueOutput
+Partial Octave 10	0	4194304	Value	ValueOutput
+Partial Chorus 10	0	4194304	Value	ValueOutput
+Partial Chorus (Fine) 10	0	4194304	Value	ValueOutput
+Partial FM Ratio 10	0	4194304	Value	ValueOutput
+Partial FM Ratio (Fine) 	0	4194304	Value	ValueOutput
+Partial Frame Speed 10	0	4194304	Value	ValueOutput
+Volume Envelope Delay 10	0	4194304	Value	ValueOutput
+Volume Envelope Attack 1	0	4194304	Value	ValueOutput
+Volume Envelope Initial 	0	4194304	Value	ValueOutput
+Volume Envelope Final De	0	4194304	Value	ValueOutput
+Volume Envelope Peak 10	0	4194304	Value	ValueOutput
+Volume Envelope Sustain 	0	4194304	Value	ValueOutput
+Decay Adjust 10	0	4194304	Value	ValueOutput
+Index Envelope Delay 10	0	4194304	Value	ValueOutput
+Index Envelope Attack 10	0	4194304	Value	ValueOutput
+Index Envelope Initial D	0	4194304	Value	ValueOutput
+Index Envelope Final Dec	0	4194304	Value	ValueOutput
+Index Envelope Peak 10	0	4194304	Value	ValueOutput
+Index Envelope Sustain 1	0	4194304	Value	ValueOutput
+Partial Decay Shape 10	0	4194304	Value	ValueOutput
+Vibrato Wave 10	0	4194304	Value	ValueOutput
+Vibrato Attack 10	0	4194304	Value	ValueOutput
+Vibrato Rate 10	0	4194304	Value	ValueOutput
+Vibrato BPM Multiplier 1	0	4194304	Value	ValueOutput
+Link Depths 10	0	4194304	Value	ValueOutput
+Carrier Depth 10	0	4194304	Value	ValueOutput
+Modulator Depth 10	0	4194304	Value	ValueOutput
+Vibrato Invert 10	0	4194304	Value	ValueOutput
+Vibrato Quantize 10	0	4194304	Value	ValueOutput
+Vibrato Bias 10	0	4194304	Value	ValueOutput
+Vibrato Curve 10	0	4194304	Value	ValueOutput
+Vibrato BPM Sync 10	0	4194304	Value	ValueOutput
+Tremolo Wave 10	0	4194304	Value	ValueOutput
+Tremolo Attack 10	0	4194304	Value	ValueOutput
+Tremolo Rate 10	0	4194304	Value	ValueOutput
+Tremolo BPM Multiplier 1	0	4194304	Value	ValueOutput
+Tremolo Depth 10	0	4194304	Value	ValueOutput
+Tremolo Phase 10	0	4194304	Value	ValueOutput
+Tremolo Invert 10	0	4194304	Value	ValueOutput
+Tremolo Sync 10	0	4194304	Value	ValueOutput
+Tremolo BPM Sync 10	0	4194304	Value	ValueOutput
+Tremolo Alternate 10	0	4194304	Value	ValueOutput
+Tremolo Curve 10	0	4194304	Value	ValueOutput
+Partial Volume 11	0	4194304	Value	ValueOutput
+Partial Solo 11	0	4194304	Value	ValueOutput
+Partial Mute 11	0	4194304	Value	ValueOutput
+Partial Pan 11	0	4194304	Value	ValueOutput
+Partial Modulation 11	0	4194304	Value	ValueOutput
+Partial Pitch Track 11	0	4194304	Value	ValueOutput
+Partial Tuning 11	0	4194304	Value	ValueOutput
+Partial Transpose 11	0	4194304	Value	ValueOutput
+Partial Octave 11	0	4194304	Value	ValueOutput
+Partial Chorus 11	0	4194304	Value	ValueOutput
+Partial Chorus (Fine) 11	0	4194304	Value	ValueOutput
+Partial FM Ratio 11	0	4194304	Value	ValueOutput
+Partial FM Ratio (Fine) 	0	4194304	Value	ValueOutput
+Partial Frame Speed 11	0	4194304	Value	ValueOutput
+Volume Envelope Delay 11	0	4194304	Value	ValueOutput
+Volume Envelope Attack 1	0	4194304	Value	ValueOutput
+Volume Envelope Initial 	0	4194304	Value	ValueOutput
+Volume Envelope Final De	0	4194304	Value	ValueOutput
+Volume Envelope Peak 11	0	4194304	Value	ValueOutput
+Volume Envelope Sustain 	0	4194304	Value	ValueOutput
+Decay Adjust 11	0	4194304	Value	ValueOutput
+Index Envelope Delay 11	0	4194304	Value	ValueOutput
+Index Envelope Attack 11	0	4194304	Value	ValueOutput
+Index Envelope Initial D	0	4194304	Value	ValueOutput
+Index Envelope Final Dec	0	4194304	Value	ValueOutput
+Index Envelope Peak 11	0	4194304	Value	ValueOutput
+Index Envelope Sustain 1	0	4194304	Value	ValueOutput
+Partial Decay Shape 11	0	4194304	Value	ValueOutput
+Vibrato Wave 11	0	4194304	Value	ValueOutput
+Vibrato Attack 11	0	4194304	Value	ValueOutput
+Vibrato Rate 11	0	4194304	Value	ValueOutput
+Vibrato BPM Multiplier 1	0	4194304	Value	ValueOutput
+Link Depths 11	0	4194304	Value	ValueOutput
+Carrier Depth 11	0	4194304	Value	ValueOutput
+Modulator Depth 11	0	4194304	Value	ValueOutput
+Vibrato Invert 11	0	4194304	Value	ValueOutput
+Vibrato Quantize 11	0	4194304	Value	ValueOutput
+Vibrato Bias 11	0	4194304	Value	ValueOutput
+Vibrato Curve 11	0	4194304	Value	ValueOutput
+Vibrato BPM Sync 11	0	4194304	Value	ValueOutput
+Tremolo Wave 11	0	4194304	Value	ValueOutput
+Tremolo Attack 11	0	4194304	Value	ValueOutput
+Tremolo Rate 11	0	4194304	Value	ValueOutput
+Tremolo BPM Multiplier 1	0	4194304	Value	ValueOutput
+Tremolo Depth 11	0	4194304	Value	ValueOutput
+Tremolo Phase 11	0	4194304	Value	ValueOutput
+Tremolo Invert 11	0	4194304	Value	ValueOutput
+Tremolo Sync 11	0	4194304	Value	ValueOutput
+Tremolo BPM Sync 11	0	4194304	Value	ValueOutput
+Tremolo Alternate 11	0	4194304	Value	ValueOutput
+Tremolo Curve 11	0	4194304	Value	ValueOutput
+Partial Volume 12	0	4194304	Value	ValueOutput
+Partial Solo 12	0	4194304	Value	ValueOutput
+Partial Mute 12	0	4194304	Value	ValueOutput
+Partial Pan 12	0	4194304	Value	ValueOutput
+Partial Modulation 12	0	4194304	Value	ValueOutput
+Partial Pitch Track 12	0	4194304	Value	ValueOutput
+Partial Tuning 12	0	4194304	Value	ValueOutput
+Partial Transpose 12	0	4194304	Value	ValueOutput
+Partial Octave 12	0	4194304	Value	ValueOutput
+Partial Chorus 12	0	4194304	Value	ValueOutput
+Partial Chorus (Fine) 12	0	4194304	Value	ValueOutput
+Partial FM Ratio 12	0	4194304	Value	ValueOutput
+Partial FM Ratio (Fine) 	0	4194304	Value	ValueOutput
+Partial Frame Speed 12	0	4194304	Value	ValueOutput
+Volume Envelope Delay 12	0	4194304	Value	ValueOutput
+Volume Envelope Attack 1	0	4194304	Value	ValueOutput
+Volume Envelope Initial 	0	4194304	Value	ValueOutput
+Volume Envelope Final De	0	4194304	Value	ValueOutput
+Volume Envelope Peak 12	0	4194304	Value	ValueOutput
+Volume Envelope Sustain 	0	4194304	Value	ValueOutput
+Decay Adjust 12	0	4194304	Value	ValueOutput
+Index Envelope Delay 12	0	4194304	Value	ValueOutput
+Index Envelope Attack 12	0	4194304	Value	ValueOutput
+Index Envelope Initial D	0	4194304	Value	ValueOutput
+Index Envelope Final Dec	0	4194304	Value	ValueOutput
+Index Envelope Peak 12	0	4194304	Value	ValueOutput
+Index Envelope Sustain 1	0	4194304	Value	ValueOutput
+Partial Decay Shape 12	0	4194304	Value	ValueOutput
+Vibrato Wave 12	0	4194304	Value	ValueOutput
+Vibrato Attack 12	0	4194304	Value	ValueOutput
+Vibrato Rate 12	0	4194304	Value	ValueOutput
+Vibrato BPM Multiplier 1	0	4194304	Value	ValueOutput
+Link Depths 12	0	4194304	Value	ValueOutput
+Carrier Depth 12	0	4194304	Value	ValueOutput
+Modulator Depth 12	0	4194304	Value	ValueOutput
+Vibrato Invert 12	0	4194304	Value	ValueOutput
+Vibrato Quantize 12	0	4194304	Value	ValueOutput
+Vibrato Bias 12	0	4194304	Value	ValueOutput
+Vibrato Curve 12	0	4194304	Value	ValueOutput
+Vibrato BPM Sync 12	0	4194304	Value	ValueOutput
+Tremolo Wave 12	0	4194304	Value	ValueOutput
+Tremolo Attack 12	0	4194304	Value	ValueOutput
+Tremolo Rate 12	0	4194304	Value	ValueOutput
+Tremolo BPM Multiplier 1	0	4194304	Value	ValueOutput
+Tremolo Depth 12	0	4194304	Value	ValueOutput
+Tremolo Phase 12	0	4194304	Value	ValueOutput
+Tremolo Invert 12	0	4194304	Value	ValueOutput
+Tremolo Sync 12	0	4194304	Value	ValueOutput
+Tremolo BPM Sync 12	0	4194304	Value	ValueOutput
+Tremolo Alternate 12	0	4194304	Value	ValueOutput
+Tremolo Curve 12	0	4194304	Value	ValueOutput
+Effect1_Selector	0	4194304	Value	ValueOutput
+Effect1_Active	0	4194304	Value	ValueOutput
+Effect1_DRYWET	0	4194304	Value	ValueOutput
+Effect2_Selector	0	4194304	Value	ValueOutput
+Effect2_Active	0	4194304	Value	ValueOutput
+Effect2_DRYWET	0	4194304	Value	ValueOutput
+Effect3_Selector	0	4194304	Value	ValueOutput
+Effect3_Active	0	4194304	Value	ValueOutput
+Effect3_DRYWET	0	4194304	Value	ValueOutput
+Effect1 Delay_Midi_Sync	0	4194304	Value	ValueOutput
+Effect1 Delay_lock_ctrl_	0	4194304	Value	ValueOutput
+Effect1 Delay_Ping_Pong_	0	4194304	Value	ValueOutput
+Effect1 Delay_time_ch1	0	4194304	Value	ValueOutput
+Effect1 Delay_time_ch2	0	4194304	Value	ValueOutput
+Effect1 Delay_feedback_c	0	4194304	Value	ValueOutput
+Effect1 Delay_feedback_c	0	4194304	Value	ValueOutput
+Effect1 Delay_filter_cut	0	4194304	Value	ValueOutput
+Effect1 Delay_dry_wet	0	4194304	Value	ValueOutput
+Effect1 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect1 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect1 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect1 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect1 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect1 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect1 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect1 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect1 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect1 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect1 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect1 DubDelay_delay_t	0	4194304	Value	ValueOutput
+Effect1 DubDelay_feedbac	0	4194304	Value	ValueOutput
+Effect1 DubDelay_LFO_dep	0	4194304	Value	ValueOutput
+Effect1 DubDelay_LFO_rat	0	4194304	Value	ValueOutput
+Effect1 DubDelay_feedbac	0	4194304	Value	ValueOutput
+Effect1 DubDelay_dry_wet	0	4194304	Value	ValueOutput
+Effect1 Flanger_delay	0	4194304	Value	ValueOutput
+Effect1 Flanger_depth	0	4194304	Value	ValueOutput
+Effect1 Flanger_rate	0	4194304	Value	ValueOutput
+Effect1 Flanger_feedback	0	4194304	Value	ValueOutput
+Effect1 Flanger_dry_wet	0	4194304	Value	ValueOutput
+Effect1 Chorus_TypeEffet	0	4194304	Value	ValueOutput
+Effect1 Chorus_StereoPro	0	4194304	Value	ValueOutput
+Effect1 Chorus_StereoRat	0	4194304	Value	ValueOutput
+Effect1 Chorus_LfoRate	0	4194304	Value	ValueOutput
+Effect1 Chorus_DelaiNomi	0	4194304	Value	ValueOutput
+Effect1 Chorus_LfoProfon	0	4194304	Value	ValueOutput
+Effect1 Chorus_dry_wet	0	4194304	Value	ValueOutput
+Effect1 Reverb_gain	0	4194304	Value	ValueOutput
+Effect1 Reverb_damping	0	4194304	Value	ValueOutput
+Effect1 Reverb_bandwidth	0	4194304	Value	ValueOutput
+Effect1 Reverb_predelay_	0	4194304	Value	ValueOutput
+Effect1 Reverb_decay	0	4194304	Value	ValueOutput
+Effect1 Reverb_predelay_	0	4194304	Value	ValueOutput
+Effect1 Reverb_predelay_	0	4194304	Value	ValueOutput
+Effect1 Reverb_dry_wet	0	4194304	Value	ValueOutput
+Effect2 Delay_Midi_Sync	0	4194304	Value	ValueOutput
+Effect2 Delay_lock_ctrl_	0	4194304	Value	ValueOutput
+Effect2 Delay_Ping_Pong_	0	4194304	Value	ValueOutput
+Effect2 Delay_time_ch1	0	4194304	Value	ValueOutput
+Effect2 Delay_time_ch2	0	4194304	Value	ValueOutput
+Effect2 Delay_feedback_c	0	4194304	Value	ValueOutput
+Effect2 Delay_feedback_c	0	4194304	Value	ValueOutput
+Effect2 Delay_filter_cut	0	4194304	Value	ValueOutput
+Effect2 Delay_dry_wet	0	4194304	Value	ValueOutput
+Effect2 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect2 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect2 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect2 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect2 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect2 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect2 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect2 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect2 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect2 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect2 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect2 DubDelay_delay_t	0	4194304	Value	ValueOutput
+Effect2 DubDelay_feedbac	0	4194304	Value	ValueOutput
+Effect2 DubDelay_LFO_dep	0	4194304	Value	ValueOutput
+Effect2 DubDelay_LFO_rat	0	4194304	Value	ValueOutput
+Effect2 DubDelay_feedbac	0	4194304	Value	ValueOutput
+Effect2 DubDelay_dry_wet	0	4194304	Value	ValueOutput
+Effect2 Flanger_delay	0	4194304	Value	ValueOutput
+Effect2 Flanger_depth	0	4194304	Value	ValueOutput
+Effect2 Flanger_rate	0	4194304	Value	ValueOutput
+Effect2 Flanger_feedback	0	4194304	Value	ValueOutput
+Effect2 Flanger_dry_wet	0	4194304	Value	ValueOutput
+Effect2 Chorus_TypeEffet	0	4194304	Value	ValueOutput
+Effect2 Chorus_StereoPro	0	4194304	Value	ValueOutput
+Effect2 Chorus_StereoRat	0	4194304	Value	ValueOutput
+Effect2 Chorus_LfoRate	0	4194304	Value	ValueOutput
+Effect2 Chorus_DelaiNomi	0	4194304	Value	ValueOutput
+Effect2 Chorus_LfoProfon	0	4194304	Value	ValueOutput
+Effect2 Chorus_dry_wet	0	4194304	Value	ValueOutput
+Effect2 Reverb_gain	0	4194304	Value	ValueOutput
+Effect2 Reverb_damping	0	4194304	Value	ValueOutput
+Effect2 Reverb_bandwidth	0	4194304	Value	ValueOutput
+Effect2 Reverb_predelay_	0	4194304	Value	ValueOutput
+Effect2 Reverb_decay	0	4194304	Value	ValueOutput
+Effect2 Reverb_predelay_	0	4194304	Value	ValueOutput
+Effect2 Reverb_predelay_	0	4194304	Value	ValueOutput
+Effect2 Reverb_dry_wet	0	4194304	Value	ValueOutput
+Effect3 Delay_Midi_Sync	0	4194304	Value	ValueOutput
+Effect3 Delay_lock_ctrl_	0	4194304	Value	ValueOutput
+Effect3 Delay_Ping_Pong_	0	4194304	Value	ValueOutput
+Effect3 Delay_time_ch1	0	4194304	Value	ValueOutput
+Effect3 Delay_time_ch2	0	4194304	Value	ValueOutput
+Effect3 Delay_feedback_c	0	4194304	Value	ValueOutput
+Effect3 Delay_feedback_c	0	4194304	Value	ValueOutput
+Effect3 Delay_filter_cut	0	4194304	Value	ValueOutput
+Effect3 Delay_dry_wet	0	4194304	Value	ValueOutput
+Effect3 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect3 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect3 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect3 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect3 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect3 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect3 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect3 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect3 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect3 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect3 AnalogDualPhaser	0	4194304	Value	ValueOutput
+Effect3 DubDelay_delay_t	0	4194304	Value	ValueOutput
+Effect3 DubDelay_feedbac	0	4194304	Value	ValueOutput
+Effect3 DubDelay_LFO_dep	0	4194304	Value	ValueOutput
+Effect3 DubDelay_LFO_rat	0	4194304	Value	ValueOutput
+Effect3 DubDelay_feedbac	0	4194304	Value	ValueOutput
+Effect3 DubDelay_dry_wet	0	4194304	Value	ValueOutput
+Effect3 Flanger_delay	0	4194304	Value	ValueOutput
+Effect3 Flanger_depth	0	4194304	Value	ValueOutput
+Effect3 Flanger_rate	0	4194304	Value	ValueOutput
+Effect3 Flanger_feedback	0	4194304	Value	ValueOutput
+Effect3 Flanger_dry_wet	0	4194304	Value	ValueOutput
+Effect3 Chorus_TypeEffet	0	4194304	Value	ValueOutput
+Effect3 Chorus_StereoPro	0	4194304	Value	ValueOutput
+Effect3 Chorus_StereoRat	0	4194304	Value	ValueOutput
+Effect3 Chorus_LfoRate	0	4194304	Value	ValueOutput
+Effect3 Chorus_DelaiNomi	0	4194304	Value	ValueOutput
+Effect3 Chorus_LfoProfon	0	4194304	Value	ValueOutput
+Effect3 Chorus_dry_wet	0	4194304	Value	ValueOutput
+Effect3 Reverb_gain	0	4194304	Value	ValueOutput
+Effect3 Reverb_damping	0	4194304	Value	ValueOutput
+Effect3 Reverb_bandwidth	0	4194304	Value	ValueOutput
+Effect3 Reverb_predelay_	0	4194304	Value	ValueOutput
+Effect3 Reverb_decay	0	4194304	Value	ValueOutput
+Effect3 Reverb_predelay_	0	4194304	Value	ValueOutput
+Effect3 Reverb_predelay_	0	4194304	Value	ValueOutput
+Effect3 Reverb_dry_wet	0	4194304	Value	ValueOutput
+Previous Preset	0	4194304	Value	ValueOutput
+Next Preset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

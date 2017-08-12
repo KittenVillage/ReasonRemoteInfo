@@ -1,0 +1,42 @@
+Scope
+Manufacturer	Model
+LAB ONE Recordings	co.uk.labonerecordings.BattleAxe
+
+Remotable	Min	Max	Input type	Output type
+Input Feed	0	4194304	Value	ValueOutput
+Tone	0	4194304	Value	ValueOutput
+Split Mode	0	6	Value	ValueOutput
+Dry/Wet Mix	0	4194304	Value	ValueOutput
+Gain Dry Output	0	1	Toggle	ValueOutput
+Master Gain	0	4194304	Value	ValueOutput
+Cleave Param1	0	4194304	Value	ValueOutput
+Cleave Param2	0	4194304	Value	ValueOutput
+Cleave Ext.Fx Mode	0	3	Value	ValueOutput
+Cleave Ext.Fx Amount	0	4194304	Value	ValueOutput
+Cleave Active	0	1	Toggle	ValueOutput
+Smash Param1	0	4194304	Value	ValueOutput
+Smash Param2	0	4194304	Value	ValueOutput
+Smash Ext.Fx Mode	0	3	Value	ValueOutput
+Smash Ext.Fx Amount	0	4194304	Value	ValueOutput
+Smash Active	0	1	Toggle	ValueOutput
+Flail Param1	0	4194304	Value	ValueOutput
+Flail Param2	0	4194304	Value	ValueOutput
+Flail Ext.Fx Mode	0	3	Value	ValueOutput
+Flail Ext.Fx Amount	0	4194304	Value	ValueOutput
+Flail Active	0	1	Toggle	ValueOutput
+Thrash Param1	0	4194304	Value	ValueOutput
+Thrash Param2	0	4194304	Value	ValueOutput
+Thrash Ext.Fx Mode	0	3	Value	ValueOutput
+Thrash Ext.Fx Amount	0	4194304	Value	ValueOutput
+Thrash Active	0	1	Toggle	ValueOutput
+Decap Param1	0	4194304	Value	ValueOutput
+Decap Param2	0	4194304	Value	ValueOutput
+Decap Ext.Fx Mode	0	3	Value	ValueOutput
+Decap Ext.Fx Amount	0	4194304	Value	ValueOutput
+Decap Active	0	1	Toggle	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

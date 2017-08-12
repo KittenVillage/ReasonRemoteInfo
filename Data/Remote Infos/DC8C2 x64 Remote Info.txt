@@ -1,0 +1,60 @@
+Scope
+Manufacturer	Model
+Klanghelm	vst.DC8D.DC8C2 x64
+Note: Will match scope definitions for vst.DC8D.DC8C2 x64 or vst.DC8D
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+In	0	4194304	Value	ValueOutput
+Operation Mode	0	4194304	Value	ValueOutput
+Ratio	0	4194304	Value	ValueOutput
+Negative Ratios	0	4194304	Value	ValueOutput
+Ratio (negative)	0	4194304	Value	ValueOutput
+FeedBack Mix	0	4194304	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Range	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Attack Program Dependenc	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Release Program Dependen	0	4194304	Value	ValueOutput
+SOFT	0	4194304	Value	ValueOutput
+Shape Amount	0	4194304	Value	ValueOutput
+RMS Time	0	4194304	Value	ValueOutput
+Pre Comp Time	0	4194304	Value	ValueOutput
+Hold Time	0	4194304	Value	ValueOutput
+GR Smoothing	0	4194304	Value	ValueOutput
+Saturation	0	4194304	Value	ValueOutput
+Saturation Position	0	4194304	Value	ValueOutput
+Mono Decoupling	0	4194304	Value	ValueOutput
+Extra Attack	0	4194304	Value	ValueOutput
+Extra Release	0	4194304	Value	ValueOutput
+Detector Smoothing	0	4194304	Value	ValueOutput
+Limiter Mode	0	4194304	Value	ValueOutput
+External Sidechain	0	4194304	Value	ValueOutput
+Sidechain Listen	0	4194304	Value	ValueOutput
+HP freq	0	4194304	Value	ValueOutput
+LP freq	0	4194304	Value	ValueOutput
+Tilt	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Out	0	4194304	Value	ValueOutput
+Calibration Level	0	4194304	Value	ValueOutput
+View	0	4194304	Value	ValueOutput
+Easy Mode	0	4194304	Value	ValueOutput
+Oversampling	0	4194304	Value	ValueOutput
+On	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

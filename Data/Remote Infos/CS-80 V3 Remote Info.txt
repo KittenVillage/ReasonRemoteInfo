@@ -1,0 +1,1017 @@
+Scope
+Manufacturer	Model
+Arturia	vst.CSV3.CS-80 V3
+Note: Will match scope definitions for vst.CSV3.CS-80 V3 or vst.CSV3
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Lfo1 Speed	0	4194304	Value	ValueOutput
+Lfo1 PWM	0	4194304	Value	ValueOutput
+Osc1 Width	0	4194304	Value	ValueOutput
+Osc1 Noise	0	4194304	Value	ValueOutput
+HighPass1 CutOff	0	4194304	Value	ValueOutput
+HighPass1 Resonance	0	4194304	Value	ValueOutput
+LowPass1 CutOff	0	4194304	Value	ValueOutput
+LowPass1 Resonance	0	4194304	Value	ValueOutput
+VCF1 Level	0	4194304	Value	ValueOutput
+Osc1 Sine	0	4194304	Value	ValueOutput
+VCF1 Initial Level	0	4194304	Value	ValueOutput
+VCF1 Attack Level	0	4194304	Value	ValueOutput
+VCF1 Attack Time	0	4194304	Value	ValueOutput
+VCF1 Decay Time	0	4194304	Value	ValueOutput
+VCF1 Release Time	0	4194304	Value	ValueOutput
+VCA1 Attack Time	0	4194304	Value	ValueOutput
+VCA1 Decay Time	0	4194304	Value	ValueOutput
+VCA1 Sustain Level	0	4194304	Value	ValueOutput
+VCA1 Release Time	0	4194304	Value	ValueOutput
+VCA1 Level	0	4194304	Value	ValueOutput
+Initial Brilliance1	0	4194304	Value	ValueOutput
+Initial Level1	0	4194304	Value	ValueOutput
+After Brilliance1	0	4194304	Value	ValueOutput
+After Level1	0	4194304	Value	ValueOutput
+Lfo2 Speed	0	4194304	Value	ValueOutput
+Lfo2 PWM	0	4194304	Value	ValueOutput
+Osc2 Width	0	4194304	Value	ValueOutput
+Osc2 Noise	0	4194304	Value	ValueOutput
+HighPass2 CutOff	0	4194304	Value	ValueOutput
+HighPass2 Resonance	0	4194304	Value	ValueOutput
+LowPass2 CutOff	0	4194304	Value	ValueOutput
+LowPass2 Resonance	0	4194304	Value	ValueOutput
+VCF2 Level	0	4194304	Value	ValueOutput
+Osc2 Sine	0	4194304	Value	ValueOutput
+VCF2 Initial Level	0	4194304	Value	ValueOutput
+VCF2 Attack Level	0	4194304	Value	ValueOutput
+VCF2 Attack Time	0	4194304	Value	ValueOutput
+VCF2 Decay Time	0	4194304	Value	ValueOutput
+VCF2 Release Time	0	4194304	Value	ValueOutput
+VCA2 Attack Time	0	4194304	Value	ValueOutput
+VCA2 Decay Time	0	4194304	Value	ValueOutput
+VCA2 Sustain Level	0	4194304	Value	ValueOutput
+VCA2 Release Time	0	4194304	Value	ValueOutput
+VCA2 Level	0	4194304	Value	ValueOutput
+Initial Brilliance2	0	4194304	Value	ValueOutput
+Initial Level2	0	4194304	Value	ValueOutput
+After Brilliance2	0	4194304	Value	ValueOutput
+After Level2	0	4194304	Value	ValueOutput
+Detune Osc1 Osc2	0	4194304	Value	ValueOutput
+Mix Osc1 Osc2	0	4194304	Value	ValueOutput
+Osc1 Accord	0	4194304	Value	ValueOutput
+Osc2 Accord	0	4194304	Value	ValueOutput
+Amount Mod1	0	4194304	Value	ValueOutput
+Amount Mod2	0	4194304	Value	ValueOutput
+Amount Mod3	0	4194304	Value	ValueOutput
+Amount Mod4	0	4194304	Value	ValueOutput
+Amount Mod5	0	4194304	Value	ValueOutput
+Amount Mod6	0	4194304	Value	ValueOutput
+Amount Mod7	0	4194304	Value	ValueOutput
+Amount Mod8	0	4194304	Value	ValueOutput
+Amount Mod9	0	4194304	Value	ValueOutput
+Amount Mod10	0	4194304	Value	ValueOutput
+Osc1 Saw Tri	0	4194304	Value	ValueOutput
+Osc1 Square	0	4194304	Value	ValueOutput
+OSC1_KEYB	0	4194304	Value	ValueOutput
+Unassigned 1	0	4194304	Value	ValueOutput
+HighPass1	0	4194304	Value	ValueOutput
+LowPass1	0	4194304	Value	ValueOutput
+Filter1 Type	0	4194304	Value	ValueOutput
+Lfo1 Wave	0	4194304	Value	ValueOutput
+Lfo1 Mode	0	4194304	Value	ValueOutput
+Lfo1 Sync	0	4194304	Value	ValueOutput
+Osc2 Saw Tri	0	4194304	Value	ValueOutput
+Osc2 Square	0	4194304	Value	ValueOutput
+OSC2_KEYB	0	4194304	Value	ValueOutput
+Unassigned 2	0	4194304	Value	ValueOutput
+HighPass2	0	4194304	Value	ValueOutput
+LowPass2	0	4194304	Value	ValueOutput
+Filter2 Type	0	4194304	Value	ValueOutput
+Lfo2 Wave	0	4194304	Value	ValueOutput
+Lfo2 Mode	0	4194304	Value	ValueOutput
+Lfo2 Sync	0	4194304	Value	ValueOutput
+Range Osc1	0	4194304	Value	ValueOutput
+Range Osc2	0	4194304	Value	ValueOutput
+Lfo Link	0	4194304	Value	ValueOutput
+Osc Synchro	0	4194304	Value	ValueOutput
+Mod1 Output	0	4194304	Value	ValueOutput
+Mod1 Input	0	4194304	Value	ValueOutput
+Mod2 Output	0	4194304	Value	ValueOutput
+Mod2 Input	0	4194304	Value	ValueOutput
+Mod3 Output	0	4194304	Value	ValueOutput
+Mod3 Input	0	4194304	Value	ValueOutput
+Mod4 Output	0	4194304	Value	ValueOutput
+Mod4 Input	0	4194304	Value	ValueOutput
+Mod5 Output	0	4194304	Value	ValueOutput
+Mod5 Input	0	4194304	Value	ValueOutput
+Mod6 Output	0	4194304	Value	ValueOutput
+Mod6 Input	0	4194304	Value	ValueOutput
+Mod7 Output	0	4194304	Value	ValueOutput
+Mod7 Input	0	4194304	Value	ValueOutput
+Mod8 Output	0	4194304	Value	ValueOutput
+Mod8 Input	0	4194304	Value	ValueOutput
+Mod9 Output	0	4194304	Value	ValueOutput
+Mod9 Input	0	4194304	Value	ValueOutput
+Mod10 Output	0	4194304	Value	ValueOutput
+Mod10 Input	0	4194304	Value	ValueOutput
+Patch2 Lfo1 Speed	0	4194304	Value	ValueOutput
+Patch2 Lfo1 PWM	0	4194304	Value	ValueOutput
+Patch2 Osc1 Width	0	4194304	Value	ValueOutput
+Patch2 Osc1 Noise	0	4194304	Value	ValueOutput
+Patch2 HighPass1 CutOff	0	4194304	Value	ValueOutput
+Patch2 HighPass1 Resonan	0	4194304	Value	ValueOutput
+Patch2 LowPass1 CutOff	0	4194304	Value	ValueOutput
+Patch2 LowPass1 Resonanc	0	4194304	Value	ValueOutput
+Patch2 VCF1 Level	0	4194304	Value	ValueOutput
+Patch2 Osc1 Sine	0	4194304	Value	ValueOutput
+Patch2 VCF1 Initial Leve	0	4194304	Value	ValueOutput
+Patch2 VCF1 Attack Level	0	4194304	Value	ValueOutput
+Patch2 VCF1 Attack Time	0	4194304	Value	ValueOutput
+Patch2 VCF1 Decay Time	0	4194304	Value	ValueOutput
+Patch2 VCF1 Release Time	0	4194304	Value	ValueOutput
+Patch2 VCA1 Attack Time	0	4194304	Value	ValueOutput
+Patch2 VCA1 Decay Time	0	4194304	Value	ValueOutput
+Patch2 VCA1 Sustain Leve	0	4194304	Value	ValueOutput
+Patch2 VCA1 Release Time	0	4194304	Value	ValueOutput
+Patch2 VCA1 Level	0	4194304	Value	ValueOutput
+Patch2 Initial Brillianc	0	4194304	Value	ValueOutput
+Patch2 Initial Level1	0	4194304	Value	ValueOutput
+Patch2 After Brilliance1	0	4194304	Value	ValueOutput
+Patch2 After Level1	0	4194304	Value	ValueOutput
+Patch2 Lfo2 Speed	0	4194304	Value	ValueOutput
+Patch2 Lfo2 PWM	0	4194304	Value	ValueOutput
+Patch2 Osc2 Width	0	4194304	Value	ValueOutput
+Patch2 Osc2 Noise	0	4194304	Value	ValueOutput
+Patch2 HighPass2 CutOff	0	4194304	Value	ValueOutput
+Patch2 HighPass2 Resonan	0	4194304	Value	ValueOutput
+Patch2 LowPass2 CutOff	0	4194304	Value	ValueOutput
+Patch2 LowPass2 Resonanc	0	4194304	Value	ValueOutput
+Patch2 VCF2 Level	0	4194304	Value	ValueOutput
+Patch2 Osc2 Sine	0	4194304	Value	ValueOutput
+Patch2 VCF2 Initial Leve	0	4194304	Value	ValueOutput
+Patch2 VCF2 Attack Level	0	4194304	Value	ValueOutput
+Patch2 VCF2 Attack Time	0	4194304	Value	ValueOutput
+Patch2 VCF2 Decay Time	0	4194304	Value	ValueOutput
+Patch2 VCF2 Release Time	0	4194304	Value	ValueOutput
+Patch2 VCA2 Attack Time	0	4194304	Value	ValueOutput
+Patch2 VCA2 Decay Time	0	4194304	Value	ValueOutput
+Patch2 VCA2 Sustain Leve	0	4194304	Value	ValueOutput
+Patch2 VCA2 Release Time	0	4194304	Value	ValueOutput
+Patch2 VCA2 Level	0	4194304	Value	ValueOutput
+Patch2 Initial Brillianc	0	4194304	Value	ValueOutput
+Patch2 Initial Level2	0	4194304	Value	ValueOutput
+Patch2 After Brilliance2	0	4194304	Value	ValueOutput
+Patch2 After Level2	0	4194304	Value	ValueOutput
+Patch2 Detune Osc1 Osc2	0	4194304	Value	ValueOutput
+Patch2 Mix Osc1 Osc2	0	4194304	Value	ValueOutput
+Patch2 Osc1 Accord	0	4194304	Value	ValueOutput
+Patch2 Osc2 Accord	0	4194304	Value	ValueOutput
+Patch2 Amount Mod1	0	4194304	Value	ValueOutput
+Patch2 Amount Mod2	0	4194304	Value	ValueOutput
+Patch2 Amount Mod3	0	4194304	Value	ValueOutput
+Patch2 Amount Mod4	0	4194304	Value	ValueOutput
+Patch2 Amount Mod5	0	4194304	Value	ValueOutput
+Patch2 Amount Mod6	0	4194304	Value	ValueOutput
+Patch2 Amount Mod7	0	4194304	Value	ValueOutput
+Patch2 Amount Mod8	0	4194304	Value	ValueOutput
+Patch2 Amount Mod9	0	4194304	Value	ValueOutput
+Patch2 Amount Mod10	0	4194304	Value	ValueOutput
+Patch2 Osc1 Saw Tri	0	4194304	Value	ValueOutput
+Patch2 Osc1 Square	0	4194304	Value	ValueOutput
+Patch2 OSC1_KEYB	0	4194304	Value	ValueOutput
+Patch2 Unassigned 1	0	4194304	Value	ValueOutput
+Patch2 HighPass1	0	4194304	Value	ValueOutput
+Patch2 LowPass1	0	4194304	Value	ValueOutput
+Patch2 Filter1 Type	0	4194304	Value	ValueOutput
+Patch2 Lfo1 Wave	0	4194304	Value	ValueOutput
+Patch2 Lfo1 Mode	0	4194304	Value	ValueOutput
+Patch2 Lfo1 Sync	0	4194304	Value	ValueOutput
+Patch2 Osc2 Saw Tri	0	4194304	Value	ValueOutput
+Patch2 Osc2 Square	0	4194304	Value	ValueOutput
+Patch2 OSC2_KEYB	0	4194304	Value	ValueOutput
+Patch2 Unassigned 2	0	4194304	Value	ValueOutput
+Patch2 HighPass2	0	4194304	Value	ValueOutput
+Patch2 LowPass2	0	4194304	Value	ValueOutput
+Patch2 Filter2 Type	0	4194304	Value	ValueOutput
+Patch2 Lfo2 Wave	0	4194304	Value	ValueOutput
+Patch2 Lfo2 Mode	0	4194304	Value	ValueOutput
+Patch2 Lfo2 Sync	0	4194304	Value	ValueOutput
+Patch2 Range Osc1	0	4194304	Value	ValueOutput
+Patch2 Range Osc2	0	4194304	Value	ValueOutput
+Patch2 Lfo Link	0	4194304	Value	ValueOutput
+Patch2 Osc Synchro	0	4194304	Value	ValueOutput
+Patch2 Mod1 Output	0	4194304	Value	ValueOutput
+Patch2 Mod1 Input	0	4194304	Value	ValueOutput
+Patch2 Mod2 Output	0	4194304	Value	ValueOutput
+Patch2 Mod2 Input	0	4194304	Value	ValueOutput
+Patch2 Mod3 Output	0	4194304	Value	ValueOutput
+Patch2 Mod3 Input	0	4194304	Value	ValueOutput
+Patch2 Mod4 Output	0	4194304	Value	ValueOutput
+Patch2 Mod4 Input	0	4194304	Value	ValueOutput
+Patch2 Mod5 Output	0	4194304	Value	ValueOutput
+Patch2 Mod5 Input	0	4194304	Value	ValueOutput
+Patch2 Mod6 Output	0	4194304	Value	ValueOutput
+Patch2 Mod6 Input	0	4194304	Value	ValueOutput
+Patch2 Mod7 Output	0	4194304	Value	ValueOutput
+Patch2 Mod7 Input	0	4194304	Value	ValueOutput
+Patch2 Mod8 Output	0	4194304	Value	ValueOutput
+Patch2 Mod8 Input	0	4194304	Value	ValueOutput
+Patch2 Mod9 Output	0	4194304	Value	ValueOutput
+Patch2 Mod9 Input	0	4194304	Value	ValueOutput
+Patch2 Mod10 Output	0	4194304	Value	ValueOutput
+Patch2 Mod10 Input	0	4194304	Value	ValueOutput
+Patch3 Lfo1 Speed	0	4194304	Value	ValueOutput
+Patch3 Lfo1 PWM	0	4194304	Value	ValueOutput
+Patch3 Osc1 Width	0	4194304	Value	ValueOutput
+Patch3 Osc1 Noise	0	4194304	Value	ValueOutput
+Patch3 HighPass1 CutOff	0	4194304	Value	ValueOutput
+Patch3 HighPass1 Resonan	0	4194304	Value	ValueOutput
+Patch3 LowPass1 CutOff	0	4194304	Value	ValueOutput
+Patch3 LowPass1 Resonanc	0	4194304	Value	ValueOutput
+Patch3 VCF1 Level	0	4194304	Value	ValueOutput
+Patch3 Osc1 Sine	0	4194304	Value	ValueOutput
+Patch3 VCF1 Initial Leve	0	4194304	Value	ValueOutput
+Patch3 VCF1 Attack Level	0	4194304	Value	ValueOutput
+Patch3 VCF1 Attack Time	0	4194304	Value	ValueOutput
+Patch3 VCF1 Decay Time	0	4194304	Value	ValueOutput
+Patch3 VCF1 Release Time	0	4194304	Value	ValueOutput
+Patch3 VCA1 Attack Time	0	4194304	Value	ValueOutput
+Patch3 VCA1 Decay Time	0	4194304	Value	ValueOutput
+Patch3 VCA1 Sustain Leve	0	4194304	Value	ValueOutput
+Patch3 VCA1 Release Time	0	4194304	Value	ValueOutput
+Patch3 VCA1 Level	0	4194304	Value	ValueOutput
+Patch3 Initial Brillianc	0	4194304	Value	ValueOutput
+Patch3 Initial Level1	0	4194304	Value	ValueOutput
+Patch3 After Brilliance1	0	4194304	Value	ValueOutput
+Patch3 After Level1	0	4194304	Value	ValueOutput
+Patch3 Lfo2 Speed	0	4194304	Value	ValueOutput
+Patch3 Lfo2 PWM	0	4194304	Value	ValueOutput
+Patch3 Osc2 Width	0	4194304	Value	ValueOutput
+Patch3 Osc2 Noise	0	4194304	Value	ValueOutput
+Patch3 HighPass2 CutOff	0	4194304	Value	ValueOutput
+Patch3 HighPass2 Resonan	0	4194304	Value	ValueOutput
+Patch3 LowPass2 CutOff	0	4194304	Value	ValueOutput
+Patch3 LowPass2 Resonanc	0	4194304	Value	ValueOutput
+Patch3 VCF2 Level	0	4194304	Value	ValueOutput
+Patch3 Osc2 Sine	0	4194304	Value	ValueOutput
+Patch3 VCF2 Initial Leve	0	4194304	Value	ValueOutput
+Patch3 VCF2 Attack Level	0	4194304	Value	ValueOutput
+Patch3 VCF2 Attack Time	0	4194304	Value	ValueOutput
+Patch3 VCF2 Decay Time	0	4194304	Value	ValueOutput
+Patch3 VCF2 Release Time	0	4194304	Value	ValueOutput
+Patch3 VCA2 Attack Time	0	4194304	Value	ValueOutput
+Patch3 VCA2 Decay Time	0	4194304	Value	ValueOutput
+Patch3 VCA2 Sustain Leve	0	4194304	Value	ValueOutput
+Patch3 VCA2 Release Time	0	4194304	Value	ValueOutput
+Patch3 VCA2 Level	0	4194304	Value	ValueOutput
+Patch3 Initial Brillianc	0	4194304	Value	ValueOutput
+Patch3 Initial Level2	0	4194304	Value	ValueOutput
+Patch3 After Brilliance2	0	4194304	Value	ValueOutput
+Patch3 After Level2	0	4194304	Value	ValueOutput
+Patch3 Detune Osc1 Osc2	0	4194304	Value	ValueOutput
+Patch3 Mix Osc1 Osc2	0	4194304	Value	ValueOutput
+Patch3 Osc1 Accord	0	4194304	Value	ValueOutput
+Patch3 Osc2 Accord	0	4194304	Value	ValueOutput
+Patch3 Amount Mod1	0	4194304	Value	ValueOutput
+Patch3 Amount Mod2	0	4194304	Value	ValueOutput
+Patch3 Amount Mod3	0	4194304	Value	ValueOutput
+Patch3 Amount Mod4	0	4194304	Value	ValueOutput
+Patch3 Amount Mod5	0	4194304	Value	ValueOutput
+Patch3 Amount Mod6	0	4194304	Value	ValueOutput
+Patch3 Amount Mod7	0	4194304	Value	ValueOutput
+Patch3 Amount Mod8	0	4194304	Value	ValueOutput
+Patch3 Amount Mod9	0	4194304	Value	ValueOutput
+Patch3 Amount Mod10	0	4194304	Value	ValueOutput
+Patch3 Osc1 Saw Tri	0	4194304	Value	ValueOutput
+Patch3 Osc1 Square	0	4194304	Value	ValueOutput
+Patch3 OSC1_KEYB	0	4194304	Value	ValueOutput
+Patch3 Unassigned 1	0	4194304	Value	ValueOutput
+Patch3 HighPass1	0	4194304	Value	ValueOutput
+Patch3 LowPass1	0	4194304	Value	ValueOutput
+Patch3 Filter1 Type	0	4194304	Value	ValueOutput
+Patch3 Lfo1 Wave	0	4194304	Value	ValueOutput
+Patch3 Lfo1 Mode	0	4194304	Value	ValueOutput
+Patch3 Lfo1 Sync	0	4194304	Value	ValueOutput
+Patch3 Osc2 Saw Tri	0	4194304	Value	ValueOutput
+Patch3 Osc2 Square	0	4194304	Value	ValueOutput
+Patch3 OSC2_KEYB	0	4194304	Value	ValueOutput
+Patch3 Unassigned 2	0	4194304	Value	ValueOutput
+Patch3 HighPass2	0	4194304	Value	ValueOutput
+Patch3 LowPass2	0	4194304	Value	ValueOutput
+Patch3 Filter2 Type	0	4194304	Value	ValueOutput
+Patch3 Lfo2 Wave	0	4194304	Value	ValueOutput
+Patch3 Lfo2 Mode	0	4194304	Value	ValueOutput
+Patch3 Lfo2 Sync	0	4194304	Value	ValueOutput
+Patch3 Range Osc1	0	4194304	Value	ValueOutput
+Patch3 Range Osc2	0	4194304	Value	ValueOutput
+Patch3 Lfo Link	0	4194304	Value	ValueOutput
+Patch3 Osc Synchro	0	4194304	Value	ValueOutput
+Patch3 Mod1 Output	0	4194304	Value	ValueOutput
+Patch3 Mod1 Input	0	4194304	Value	ValueOutput
+Patch3 Mod2 Output	0	4194304	Value	ValueOutput
+Patch3 Mod2 Input	0	4194304	Value	ValueOutput
+Patch3 Mod3 Output	0	4194304	Value	ValueOutput
+Patch3 Mod3 Input	0	4194304	Value	ValueOutput
+Patch3 Mod4 Output	0	4194304	Value	ValueOutput
+Patch3 Mod4 Input	0	4194304	Value	ValueOutput
+Patch3 Mod5 Output	0	4194304	Value	ValueOutput
+Patch3 Mod5 Input	0	4194304	Value	ValueOutput
+Patch3 Mod6 Output	0	4194304	Value	ValueOutput
+Patch3 Mod6 Input	0	4194304	Value	ValueOutput
+Patch3 Mod7 Output	0	4194304	Value	ValueOutput
+Patch3 Mod7 Input	0	4194304	Value	ValueOutput
+Patch3 Mod8 Output	0	4194304	Value	ValueOutput
+Patch3 Mod8 Input	0	4194304	Value	ValueOutput
+Patch3 Mod9 Output	0	4194304	Value	ValueOutput
+Patch3 Mod9 Input	0	4194304	Value	ValueOutput
+Patch3 Mod10 Output	0	4194304	Value	ValueOutput
+Patch3 Mod10 Input	0	4194304	Value	ValueOutput
+Patch4 Lfo1 Speed	0	4194304	Value	ValueOutput
+Patch4 Lfo1 PWM	0	4194304	Value	ValueOutput
+Patch4 Osc1 Width	0	4194304	Value	ValueOutput
+Patch4 Osc1 Noise	0	4194304	Value	ValueOutput
+Patch4 HighPass1 CutOff	0	4194304	Value	ValueOutput
+Patch4 HighPass1 Resonan	0	4194304	Value	ValueOutput
+Patch4 LowPass1 CutOff	0	4194304	Value	ValueOutput
+Patch4 LowPass1 Resonanc	0	4194304	Value	ValueOutput
+Patch4 VCF1 Level	0	4194304	Value	ValueOutput
+Patch4 Osc1 Sine	0	4194304	Value	ValueOutput
+Patch4 VCF1 Initial Leve	0	4194304	Value	ValueOutput
+Patch4 VCF1 Attack Level	0	4194304	Value	ValueOutput
+Patch4 VCF1 Attack Time	0	4194304	Value	ValueOutput
+Patch4 VCF1 Decay Time	0	4194304	Value	ValueOutput
+Patch4 VCF1 Release Time	0	4194304	Value	ValueOutput
+Patch4 VCA1 Attack Time	0	4194304	Value	ValueOutput
+Patch4 VCA1 Decay Time	0	4194304	Value	ValueOutput
+Patch4 VCA1 Sustain Leve	0	4194304	Value	ValueOutput
+Patch4 VCA1 Release Time	0	4194304	Value	ValueOutput
+Patch4 VCA1 Level	0	4194304	Value	ValueOutput
+Patch4 Initial Brillianc	0	4194304	Value	ValueOutput
+Patch4 Initial Level1	0	4194304	Value	ValueOutput
+Patch4 After Brilliance1	0	4194304	Value	ValueOutput
+Patch4 After Level1	0	4194304	Value	ValueOutput
+Patch4 Lfo2 Speed	0	4194304	Value	ValueOutput
+Patch4 Lfo2 PWM	0	4194304	Value	ValueOutput
+Patch4 Osc2 Width	0	4194304	Value	ValueOutput
+Patch4 Osc2 Noise	0	4194304	Value	ValueOutput
+Patch4 HighPass2 CutOff	0	4194304	Value	ValueOutput
+Patch4 HighPass2 Resonan	0	4194304	Value	ValueOutput
+Patch4 LowPass2 CutOff	0	4194304	Value	ValueOutput
+Patch4 LowPass2 Resonanc	0	4194304	Value	ValueOutput
+Patch4 VCF2 Level	0	4194304	Value	ValueOutput
+Patch4 Osc2 Sine	0	4194304	Value	ValueOutput
+Patch4 VCF2 Initial Leve	0	4194304	Value	ValueOutput
+Patch4 VCF2 Attack Level	0	4194304	Value	ValueOutput
+Patch4 VCF2 Attack Time	0	4194304	Value	ValueOutput
+Patch4 VCF2 Decay Time	0	4194304	Value	ValueOutput
+Patch4 VCF2 Release Time	0	4194304	Value	ValueOutput
+Patch4 VCA2 Attack Time	0	4194304	Value	ValueOutput
+Patch4 VCA2 Decay Time	0	4194304	Value	ValueOutput
+Patch4 VCA2 Sustain Leve	0	4194304	Value	ValueOutput
+Patch4 VCA2 Release Time	0	4194304	Value	ValueOutput
+Patch4 VCA2 Level	0	4194304	Value	ValueOutput
+Patch4 Initial Brillianc	0	4194304	Value	ValueOutput
+Patch4 Initial Level2	0	4194304	Value	ValueOutput
+Patch4 After Brilliance2	0	4194304	Value	ValueOutput
+Patch4 After Level2	0	4194304	Value	ValueOutput
+Patch4 Detune Osc1 Osc2	0	4194304	Value	ValueOutput
+Patch4 Mix Osc1 Osc2	0	4194304	Value	ValueOutput
+Patch4 Osc1 Accord	0	4194304	Value	ValueOutput
+Patch4 Osc2 Accord	0	4194304	Value	ValueOutput
+Patch4 Amount Mod1	0	4194304	Value	ValueOutput
+Patch4 Amount Mod2	0	4194304	Value	ValueOutput
+Patch4 Amount Mod3	0	4194304	Value	ValueOutput
+Patch4 Amount Mod4	0	4194304	Value	ValueOutput
+Patch4 Amount Mod5	0	4194304	Value	ValueOutput
+Patch4 Amount Mod6	0	4194304	Value	ValueOutput
+Patch4 Amount Mod7	0	4194304	Value	ValueOutput
+Patch4 Amount Mod8	0	4194304	Value	ValueOutput
+Patch4 Amount Mod9	0	4194304	Value	ValueOutput
+Patch4 Amount Mod10	0	4194304	Value	ValueOutput
+Patch4 Osc1 Saw Tri	0	4194304	Value	ValueOutput
+Patch4 Osc1 Square	0	4194304	Value	ValueOutput
+Patch4 OSC1_KEYB	0	4194304	Value	ValueOutput
+Patch4 Unassigned 1	0	4194304	Value	ValueOutput
+Patch4 HighPass1	0	4194304	Value	ValueOutput
+Patch4 LowPass1	0	4194304	Value	ValueOutput
+Patch4 Filter1 Type	0	4194304	Value	ValueOutput
+Patch4 Lfo1 Wave	0	4194304	Value	ValueOutput
+Patch4 Lfo1 Mode	0	4194304	Value	ValueOutput
+Patch4 Lfo1 Sync	0	4194304	Value	ValueOutput
+Patch4 Osc2 Saw Tri	0	4194304	Value	ValueOutput
+Patch4 Osc2 Square	0	4194304	Value	ValueOutput
+Patch4 OSC2_KEYB	0	4194304	Value	ValueOutput
+Patch4 Unassigned 2	0	4194304	Value	ValueOutput
+Patch4 HighPass2	0	4194304	Value	ValueOutput
+Patch4 LowPass2	0	4194304	Value	ValueOutput
+Patch4 Filter2 Type	0	4194304	Value	ValueOutput
+Patch4 Lfo2 Wave	0	4194304	Value	ValueOutput
+Patch4 Lfo2 Mode	0	4194304	Value	ValueOutput
+Patch4 Lfo2 Sync	0	4194304	Value	ValueOutput
+Patch4 Range Osc1	0	4194304	Value	ValueOutput
+Patch4 Range Osc2	0	4194304	Value	ValueOutput
+Patch4 Lfo Link	0	4194304	Value	ValueOutput
+Patch4 Osc Synchro	0	4194304	Value	ValueOutput
+Patch4 Mod1 Output	0	4194304	Value	ValueOutput
+Patch4 Mod1 Input	0	4194304	Value	ValueOutput
+Patch4 Mod2 Output	0	4194304	Value	ValueOutput
+Patch4 Mod2 Input	0	4194304	Value	ValueOutput
+Patch4 Mod3 Output	0	4194304	Value	ValueOutput
+Patch4 Mod3 Input	0	4194304	Value	ValueOutput
+Patch4 Mod4 Output	0	4194304	Value	ValueOutput
+Patch4 Mod4 Input	0	4194304	Value	ValueOutput
+Patch4 Mod5 Output	0	4194304	Value	ValueOutput
+Patch4 Mod5 Input	0	4194304	Value	ValueOutput
+Patch4 Mod6 Output	0	4194304	Value	ValueOutput
+Patch4 Mod6 Input	0	4194304	Value	ValueOutput
+Patch4 Mod7 Output	0	4194304	Value	ValueOutput
+Patch4 Mod7 Input	0	4194304	Value	ValueOutput
+Patch4 Mod8 Output	0	4194304	Value	ValueOutput
+Patch4 Mod8 Input	0	4194304	Value	ValueOutput
+Patch4 Mod9 Output	0	4194304	Value	ValueOutput
+Patch4 Mod9 Input	0	4194304	Value	ValueOutput
+Patch4 Mod10 Output	0	4194304	Value	ValueOutput
+Patch4 Mod10 Input	0	4194304	Value	ValueOutput
+Patch5 Lfo1 Speed	0	4194304	Value	ValueOutput
+Patch5 Lfo1 PWM	0	4194304	Value	ValueOutput
+Patch5 Osc1 Width	0	4194304	Value	ValueOutput
+Patch5 Osc1 Noise	0	4194304	Value	ValueOutput
+Patch5 HighPass1 CutOff	0	4194304	Value	ValueOutput
+Patch5 HighPass1 Resonan	0	4194304	Value	ValueOutput
+Patch5 LowPass1 CutOff	0	4194304	Value	ValueOutput
+Patch5 LowPass1 Resonanc	0	4194304	Value	ValueOutput
+Patch5 VCF1 Level	0	4194304	Value	ValueOutput
+Patch5 Osc1 Sine	0	4194304	Value	ValueOutput
+Patch5 VCF1 Initial Leve	0	4194304	Value	ValueOutput
+Patch5 VCF1 Attack Level	0	4194304	Value	ValueOutput
+Patch5 VCF1 Attack Time	0	4194304	Value	ValueOutput
+Patch5 VCF1 Decay Time	0	4194304	Value	ValueOutput
+Patch5 VCF1 Release Time	0	4194304	Value	ValueOutput
+Patch5 VCA1 Attack Time	0	4194304	Value	ValueOutput
+Patch5 VCA1 Decay Time	0	4194304	Value	ValueOutput
+Patch5 VCA1 Sustain Leve	0	4194304	Value	ValueOutput
+Patch5 VCA1 Release Time	0	4194304	Value	ValueOutput
+Patch5 VCA1 Level	0	4194304	Value	ValueOutput
+Patch5 Initial Brillianc	0	4194304	Value	ValueOutput
+Patch5 Initial Level1	0	4194304	Value	ValueOutput
+Patch5 After Brilliance1	0	4194304	Value	ValueOutput
+Patch5 After Level1	0	4194304	Value	ValueOutput
+Patch5 Lfo2 Speed	0	4194304	Value	ValueOutput
+Patch5 Lfo2 PWM	0	4194304	Value	ValueOutput
+Patch5 Osc2 Width	0	4194304	Value	ValueOutput
+Patch5 Osc2 Noise	0	4194304	Value	ValueOutput
+Patch5 HighPass2 CutOff	0	4194304	Value	ValueOutput
+Patch5 HighPass2 Resonan	0	4194304	Value	ValueOutput
+Patch5 LowPass2 CutOff	0	4194304	Value	ValueOutput
+Patch5 LowPass2 Resonanc	0	4194304	Value	ValueOutput
+Patch5 VCF2 Level	0	4194304	Value	ValueOutput
+Patch5 Osc2 Sine	0	4194304	Value	ValueOutput
+Patch5 VCF2 Initial Leve	0	4194304	Value	ValueOutput
+Patch5 VCF2 Attack Level	0	4194304	Value	ValueOutput
+Patch5 VCF2 Attack Time	0	4194304	Value	ValueOutput
+Patch5 VCF2 Decay Time	0	4194304	Value	ValueOutput
+Patch5 VCF2 Release Time	0	4194304	Value	ValueOutput
+Patch5 VCA2 Attack Time	0	4194304	Value	ValueOutput
+Patch5 VCA2 Decay Time	0	4194304	Value	ValueOutput
+Patch5 VCA2 Sustain Leve	0	4194304	Value	ValueOutput
+Patch5 VCA2 Release Time	0	4194304	Value	ValueOutput
+Patch5 VCA2 Level	0	4194304	Value	ValueOutput
+Patch5 Initial Brillianc	0	4194304	Value	ValueOutput
+Patch5 Initial Level2	0	4194304	Value	ValueOutput
+Patch5 After Brilliance2	0	4194304	Value	ValueOutput
+Patch5 After Level2	0	4194304	Value	ValueOutput
+Patch5 Detune Osc1 Osc2	0	4194304	Value	ValueOutput
+Patch5 Mix Osc1 Osc2	0	4194304	Value	ValueOutput
+Patch5 Osc1 Accord	0	4194304	Value	ValueOutput
+Patch5 Osc2 Accord	0	4194304	Value	ValueOutput
+Patch5 Amount Mod1	0	4194304	Value	ValueOutput
+Patch5 Amount Mod2	0	4194304	Value	ValueOutput
+Patch5 Amount Mod3	0	4194304	Value	ValueOutput
+Patch5 Amount Mod4	0	4194304	Value	ValueOutput
+Patch5 Amount Mod5	0	4194304	Value	ValueOutput
+Patch5 Amount Mod6	0	4194304	Value	ValueOutput
+Patch5 Amount Mod7	0	4194304	Value	ValueOutput
+Patch5 Amount Mod8	0	4194304	Value	ValueOutput
+Patch5 Amount Mod9	0	4194304	Value	ValueOutput
+Patch5 Amount Mod10	0	4194304	Value	ValueOutput
+Patch5 Osc1 Saw Tri	0	4194304	Value	ValueOutput
+Patch5 Osc1 Square	0	4194304	Value	ValueOutput
+Patch5 OSC1_KEYB	0	4194304	Value	ValueOutput
+Patch5 Unassigned 1	0	4194304	Value	ValueOutput
+Patch5 HighPass1	0	4194304	Value	ValueOutput
+Patch5 LowPass1	0	4194304	Value	ValueOutput
+Patch5 Filter1 Type	0	4194304	Value	ValueOutput
+Patch5 Lfo1 Wave	0	4194304	Value	ValueOutput
+Patch5 Lfo1 Mode	0	4194304	Value	ValueOutput
+Patch5 Lfo1 Sync	0	4194304	Value	ValueOutput
+Patch5 Osc2 Saw Tri	0	4194304	Value	ValueOutput
+Patch5 Osc2 Square	0	4194304	Value	ValueOutput
+Patch5 OSC2_KEYB	0	4194304	Value	ValueOutput
+Patch5 Unassigned 2	0	4194304	Value	ValueOutput
+Patch5 HighPass2	0	4194304	Value	ValueOutput
+Patch5 LowPass2	0	4194304	Value	ValueOutput
+Patch5 Filter2 Type	0	4194304	Value	ValueOutput
+Patch5 Lfo2 Wave	0	4194304	Value	ValueOutput
+Patch5 Lfo2 Mode	0	4194304	Value	ValueOutput
+Patch5 Lfo2 Sync	0	4194304	Value	ValueOutput
+Patch5 Range Osc1	0	4194304	Value	ValueOutput
+Patch5 Range Osc2	0	4194304	Value	ValueOutput
+Patch5 Lfo Link	0	4194304	Value	ValueOutput
+Patch5 Osc Synchro	0	4194304	Value	ValueOutput
+Patch5 Mod1 Output	0	4194304	Value	ValueOutput
+Patch5 Mod1 Input	0	4194304	Value	ValueOutput
+Patch5 Mod2 Output	0	4194304	Value	ValueOutput
+Patch5 Mod2 Input	0	4194304	Value	ValueOutput
+Patch5 Mod3 Output	0	4194304	Value	ValueOutput
+Patch5 Mod3 Input	0	4194304	Value	ValueOutput
+Patch5 Mod4 Output	0	4194304	Value	ValueOutput
+Patch5 Mod4 Input	0	4194304	Value	ValueOutput
+Patch5 Mod5 Output	0	4194304	Value	ValueOutput
+Patch5 Mod5 Input	0	4194304	Value	ValueOutput
+Patch5 Mod6 Output	0	4194304	Value	ValueOutput
+Patch5 Mod6 Input	0	4194304	Value	ValueOutput
+Patch5 Mod7 Output	0	4194304	Value	ValueOutput
+Patch5 Mod7 Input	0	4194304	Value	ValueOutput
+Patch5 Mod8 Output	0	4194304	Value	ValueOutput
+Patch5 Mod8 Input	0	4194304	Value	ValueOutput
+Patch5 Mod9 Output	0	4194304	Value	ValueOutput
+Patch5 Mod9 Input	0	4194304	Value	ValueOutput
+Patch5 Mod10 Output	0	4194304	Value	ValueOutput
+Patch5 Mod10 Input	0	4194304	Value	ValueOutput
+Patch6 Lfo1 Speed	0	4194304	Value	ValueOutput
+Patch6 Lfo1 PWM	0	4194304	Value	ValueOutput
+Patch6 Osc1 Width	0	4194304	Value	ValueOutput
+Patch6 Osc1 Noise	0	4194304	Value	ValueOutput
+Patch6 HighPass1 CutOff	0	4194304	Value	ValueOutput
+Patch6 HighPass1 Resonan	0	4194304	Value	ValueOutput
+Patch6 LowPass1 CutOff	0	4194304	Value	ValueOutput
+Patch6 LowPass1 Resonanc	0	4194304	Value	ValueOutput
+Patch6 VCF1 Level	0	4194304	Value	ValueOutput
+Patch6 Osc1 Sine	0	4194304	Value	ValueOutput
+Patch6 VCF1 Initial Leve	0	4194304	Value	ValueOutput
+Patch6 VCF1 Attack Level	0	4194304	Value	ValueOutput
+Patch6 VCF1 Attack Time	0	4194304	Value	ValueOutput
+Patch6 VCF1 Decay Time	0	4194304	Value	ValueOutput
+Patch6 VCF1 Release Time	0	4194304	Value	ValueOutput
+Patch6 VCA1 Attack Time	0	4194304	Value	ValueOutput
+Patch6 VCA1 Decay Time	0	4194304	Value	ValueOutput
+Patch6 VCA1 Sustain Leve	0	4194304	Value	ValueOutput
+Patch6 VCA1 Release Time	0	4194304	Value	ValueOutput
+Patch6 VCA1 Level	0	4194304	Value	ValueOutput
+Patch6 Initial Brillianc	0	4194304	Value	ValueOutput
+Patch6 Initial Level1	0	4194304	Value	ValueOutput
+Patch6 After Brilliance1	0	4194304	Value	ValueOutput
+Patch6 After Level1	0	4194304	Value	ValueOutput
+Patch6 Lfo2 Speed	0	4194304	Value	ValueOutput
+Patch6 Lfo2 PWM	0	4194304	Value	ValueOutput
+Patch6 Osc2 Width	0	4194304	Value	ValueOutput
+Patch6 Osc2 Noise	0	4194304	Value	ValueOutput
+Patch6 HighPass2 CutOff	0	4194304	Value	ValueOutput
+Patch6 HighPass2 Resonan	0	4194304	Value	ValueOutput
+Patch6 LowPass2 CutOff	0	4194304	Value	ValueOutput
+Patch6 LowPass2 Resonanc	0	4194304	Value	ValueOutput
+Patch6 VCF2 Level	0	4194304	Value	ValueOutput
+Patch6 Osc2 Sine	0	4194304	Value	ValueOutput
+Patch6 VCF2 Initial Leve	0	4194304	Value	ValueOutput
+Patch6 VCF2 Attack Level	0	4194304	Value	ValueOutput
+Patch6 VCF2 Attack Time	0	4194304	Value	ValueOutput
+Patch6 VCF2 Decay Time	0	4194304	Value	ValueOutput
+Patch6 VCF2 Release Time	0	4194304	Value	ValueOutput
+Patch6 VCA2 Attack Time	0	4194304	Value	ValueOutput
+Patch6 VCA2 Decay Time	0	4194304	Value	ValueOutput
+Patch6 VCA2 Sustain Leve	0	4194304	Value	ValueOutput
+Patch6 VCA2 Release Time	0	4194304	Value	ValueOutput
+Patch6 VCA2 Level	0	4194304	Value	ValueOutput
+Patch6 Initial Brillianc	0	4194304	Value	ValueOutput
+Patch6 Initial Level2	0	4194304	Value	ValueOutput
+Patch6 After Brilliance2	0	4194304	Value	ValueOutput
+Patch6 After Level2	0	4194304	Value	ValueOutput
+Patch6 Detune Osc1 Osc2	0	4194304	Value	ValueOutput
+Patch6 Mix Osc1 Osc2	0	4194304	Value	ValueOutput
+Patch6 Osc1 Accord	0	4194304	Value	ValueOutput
+Patch6 Osc2 Accord	0	4194304	Value	ValueOutput
+Patch6 Amount Mod1	0	4194304	Value	ValueOutput
+Patch6 Amount Mod2	0	4194304	Value	ValueOutput
+Patch6 Amount Mod3	0	4194304	Value	ValueOutput
+Patch6 Amount Mod4	0	4194304	Value	ValueOutput
+Patch6 Amount Mod5	0	4194304	Value	ValueOutput
+Patch6 Amount Mod6	0	4194304	Value	ValueOutput
+Patch6 Amount Mod7	0	4194304	Value	ValueOutput
+Patch6 Amount Mod8	0	4194304	Value	ValueOutput
+Patch6 Amount Mod9	0	4194304	Value	ValueOutput
+Patch6 Amount Mod10	0	4194304	Value	ValueOutput
+Patch6 Osc1 Saw Tri	0	4194304	Value	ValueOutput
+Patch6 Osc1 Square	0	4194304	Value	ValueOutput
+Patch6 OSC1_KEYB	0	4194304	Value	ValueOutput
+Patch6 Unassigned 1	0	4194304	Value	ValueOutput
+Patch6 HighPass1	0	4194304	Value	ValueOutput
+Patch6 LowPass1	0	4194304	Value	ValueOutput
+Patch6 Filter1 Type	0	4194304	Value	ValueOutput
+Patch6 Lfo1 Wave	0	4194304	Value	ValueOutput
+Patch6 Lfo1 Mode	0	4194304	Value	ValueOutput
+Patch6 Lfo1 Sync	0	4194304	Value	ValueOutput
+Patch6 Osc2 Saw Tri	0	4194304	Value	ValueOutput
+Patch6 Osc2 Square	0	4194304	Value	ValueOutput
+Patch6 OSC2_KEYB	0	4194304	Value	ValueOutput
+Patch6 Unassigned 2	0	4194304	Value	ValueOutput
+Patch6 HighPass2	0	4194304	Value	ValueOutput
+Patch6 LowPass2	0	4194304	Value	ValueOutput
+Patch6 Filter2 Type	0	4194304	Value	ValueOutput
+Patch6 Lfo2 Wave	0	4194304	Value	ValueOutput
+Patch6 Lfo2 Mode	0	4194304	Value	ValueOutput
+Patch6 Lfo2 Sync	0	4194304	Value	ValueOutput
+Patch6 Range Osc1	0	4194304	Value	ValueOutput
+Patch6 Range Osc2	0	4194304	Value	ValueOutput
+Patch6 Lfo Link	0	4194304	Value	ValueOutput
+Patch6 Osc Synchro	0	4194304	Value	ValueOutput
+Patch6 Mod1 Output	0	4194304	Value	ValueOutput
+Patch6 Mod1 Input	0	4194304	Value	ValueOutput
+Patch6 Mod2 Output	0	4194304	Value	ValueOutput
+Patch6 Mod2 Input	0	4194304	Value	ValueOutput
+Patch6 Mod3 Output	0	4194304	Value	ValueOutput
+Patch6 Mod3 Input	0	4194304	Value	ValueOutput
+Patch6 Mod4 Output	0	4194304	Value	ValueOutput
+Patch6 Mod4 Input	0	4194304	Value	ValueOutput
+Patch6 Mod5 Output	0	4194304	Value	ValueOutput
+Patch6 Mod5 Input	0	4194304	Value	ValueOutput
+Patch6 Mod6 Output	0	4194304	Value	ValueOutput
+Patch6 Mod6 Input	0	4194304	Value	ValueOutput
+Patch6 Mod7 Output	0	4194304	Value	ValueOutput
+Patch6 Mod7 Input	0	4194304	Value	ValueOutput
+Patch6 Mod8 Output	0	4194304	Value	ValueOutput
+Patch6 Mod8 Input	0	4194304	Value	ValueOutput
+Patch6 Mod9 Output	0	4194304	Value	ValueOutput
+Patch6 Mod9 Input	0	4194304	Value	ValueOutput
+Patch6 Mod10 Output	0	4194304	Value	ValueOutput
+Patch6 Mod10 Input	0	4194304	Value	ValueOutput
+Patch7 Lfo1 Speed	0	4194304	Value	ValueOutput
+Patch7 Lfo1 PWM	0	4194304	Value	ValueOutput
+Patch7 Osc1 Width	0	4194304	Value	ValueOutput
+Patch7 Osc1 Noise	0	4194304	Value	ValueOutput
+Patch7 HighPass1 CutOff	0	4194304	Value	ValueOutput
+Patch7 HighPass1 Resonan	0	4194304	Value	ValueOutput
+Patch7 LowPass1 CutOff	0	4194304	Value	ValueOutput
+Patch7 LowPass1 Resonanc	0	4194304	Value	ValueOutput
+Patch7 VCF1 Level	0	4194304	Value	ValueOutput
+Patch7 Osc1 Sine	0	4194304	Value	ValueOutput
+Patch7 VCF1 Initial Leve	0	4194304	Value	ValueOutput
+Patch7 VCF1 Attack Level	0	4194304	Value	ValueOutput
+Patch7 VCF1 Attack Time	0	4194304	Value	ValueOutput
+Patch7 VCF1 Decay Time	0	4194304	Value	ValueOutput
+Patch7 VCF1 Release Time	0	4194304	Value	ValueOutput
+Patch7 VCA1 Attack Time	0	4194304	Value	ValueOutput
+Patch7 VCA1 Decay Time	0	4194304	Value	ValueOutput
+Patch7 VCA1 Sustain Leve	0	4194304	Value	ValueOutput
+Patch7 VCA1 Release Time	0	4194304	Value	ValueOutput
+Patch7 VCA1 Level	0	4194304	Value	ValueOutput
+Patch7 Initial Brillianc	0	4194304	Value	ValueOutput
+Patch7 Initial Level1	0	4194304	Value	ValueOutput
+Patch7 After Brilliance1	0	4194304	Value	ValueOutput
+Patch7 After Level1	0	4194304	Value	ValueOutput
+Patch7 Lfo2 Speed	0	4194304	Value	ValueOutput
+Patch7 Lfo2 PWM	0	4194304	Value	ValueOutput
+Patch7 Osc2 Width	0	4194304	Value	ValueOutput
+Patch7 Osc2 Noise	0	4194304	Value	ValueOutput
+Patch7 HighPass2 CutOff	0	4194304	Value	ValueOutput
+Patch7 HighPass2 Resonan	0	4194304	Value	ValueOutput
+Patch7 LowPass2 CutOff	0	4194304	Value	ValueOutput
+Patch7 LowPass2 Resonanc	0	4194304	Value	ValueOutput
+Patch7 VCF2 Level	0	4194304	Value	ValueOutput
+Patch7 Osc2 Sine	0	4194304	Value	ValueOutput
+Patch7 VCF2 Initial Leve	0	4194304	Value	ValueOutput
+Patch7 VCF2 Attack Level	0	4194304	Value	ValueOutput
+Patch7 VCF2 Attack Time	0	4194304	Value	ValueOutput
+Patch7 VCF2 Decay Time	0	4194304	Value	ValueOutput
+Patch7 VCF2 Release Time	0	4194304	Value	ValueOutput
+Patch7 VCA2 Attack Time	0	4194304	Value	ValueOutput
+Patch7 VCA2 Decay Time	0	4194304	Value	ValueOutput
+Patch7 VCA2 Sustain Leve	0	4194304	Value	ValueOutput
+Patch7 VCA2 Release Time	0	4194304	Value	ValueOutput
+Patch7 VCA2 Level	0	4194304	Value	ValueOutput
+Patch7 Initial Brillianc	0	4194304	Value	ValueOutput
+Patch7 Initial Level2	0	4194304	Value	ValueOutput
+Patch7 After Brilliance2	0	4194304	Value	ValueOutput
+Patch7 After Level2	0	4194304	Value	ValueOutput
+Patch7 Detune Osc1 Osc2	0	4194304	Value	ValueOutput
+Patch7 Mix Osc1 Osc2	0	4194304	Value	ValueOutput
+Patch7 Osc1 Accord	0	4194304	Value	ValueOutput
+Patch7 Osc2 Accord	0	4194304	Value	ValueOutput
+Patch7 Amount Mod1	0	4194304	Value	ValueOutput
+Patch7 Amount Mod2	0	4194304	Value	ValueOutput
+Patch7 Amount Mod3	0	4194304	Value	ValueOutput
+Patch7 Amount Mod4	0	4194304	Value	ValueOutput
+Patch7 Amount Mod5	0	4194304	Value	ValueOutput
+Patch7 Amount Mod6	0	4194304	Value	ValueOutput
+Patch7 Amount Mod7	0	4194304	Value	ValueOutput
+Patch7 Amount Mod8	0	4194304	Value	ValueOutput
+Patch7 Amount Mod9	0	4194304	Value	ValueOutput
+Patch7 Amount Mod10	0	4194304	Value	ValueOutput
+Patch7 Osc1 Saw Tri	0	4194304	Value	ValueOutput
+Patch7 Osc1 Square	0	4194304	Value	ValueOutput
+Patch7 OSC1_KEYB	0	4194304	Value	ValueOutput
+Patch7 Unassigned 1	0	4194304	Value	ValueOutput
+Patch7 HighPass1	0	4194304	Value	ValueOutput
+Patch7 LowPass1	0	4194304	Value	ValueOutput
+Patch7 Filter1 Type	0	4194304	Value	ValueOutput
+Patch7 Lfo1 Wave	0	4194304	Value	ValueOutput
+Patch7 Lfo1 Mode	0	4194304	Value	ValueOutput
+Patch7 Lfo1 Sync	0	4194304	Value	ValueOutput
+Patch7 Osc2 Saw Tri	0	4194304	Value	ValueOutput
+Patch7 Osc2 Square	0	4194304	Value	ValueOutput
+Patch7 OSC2_KEYB	0	4194304	Value	ValueOutput
+Patch7 Unassigned 2	0	4194304	Value	ValueOutput
+Patch7 HighPass2	0	4194304	Value	ValueOutput
+Patch7 LowPass2	0	4194304	Value	ValueOutput
+Patch7 Filter2 Type	0	4194304	Value	ValueOutput
+Patch7 Lfo2 Wave	0	4194304	Value	ValueOutput
+Patch7 Lfo2 Mode	0	4194304	Value	ValueOutput
+Patch7 Lfo2 Sync	0	4194304	Value	ValueOutput
+Patch7 Range Osc1	0	4194304	Value	ValueOutput
+Patch7 Range Osc2	0	4194304	Value	ValueOutput
+Patch7 Lfo Link	0	4194304	Value	ValueOutput
+Patch7 Osc Synchro	0	4194304	Value	ValueOutput
+Patch7 Mod1 Output	0	4194304	Value	ValueOutput
+Patch7 Mod1 Input	0	4194304	Value	ValueOutput
+Patch7 Mod2 Output	0	4194304	Value	ValueOutput
+Patch7 Mod2 Input	0	4194304	Value	ValueOutput
+Patch7 Mod3 Output	0	4194304	Value	ValueOutput
+Patch7 Mod3 Input	0	4194304	Value	ValueOutput
+Patch7 Mod4 Output	0	4194304	Value	ValueOutput
+Patch7 Mod4 Input	0	4194304	Value	ValueOutput
+Patch7 Mod5 Output	0	4194304	Value	ValueOutput
+Patch7 Mod5 Input	0	4194304	Value	ValueOutput
+Patch7 Mod6 Output	0	4194304	Value	ValueOutput
+Patch7 Mod6 Input	0	4194304	Value	ValueOutput
+Patch7 Mod7 Output	0	4194304	Value	ValueOutput
+Patch7 Mod7 Input	0	4194304	Value	ValueOutput
+Patch7 Mod8 Output	0	4194304	Value	ValueOutput
+Patch7 Mod8 Input	0	4194304	Value	ValueOutput
+Patch7 Mod9 Output	0	4194304	Value	ValueOutput
+Patch7 Mod9 Input	0	4194304	Value	ValueOutput
+Patch7 Mod10 Output	0	4194304	Value	ValueOutput
+Patch7 Mod10 Input	0	4194304	Value	ValueOutput
+Patch8 Lfo1 Speed	0	4194304	Value	ValueOutput
+Patch8 Lfo1 PWM	0	4194304	Value	ValueOutput
+Patch8 Osc1 Width	0	4194304	Value	ValueOutput
+Patch8 Osc1 Noise	0	4194304	Value	ValueOutput
+Patch8 HighPass1 CutOff	0	4194304	Value	ValueOutput
+Patch8 HighPass1 Resonan	0	4194304	Value	ValueOutput
+Patch8 LowPass1 CutOff	0	4194304	Value	ValueOutput
+Patch8 LowPass1 Resonanc	0	4194304	Value	ValueOutput
+Patch8 VCF1 Level	0	4194304	Value	ValueOutput
+Patch8 Osc1 Sine	0	4194304	Value	ValueOutput
+Patch8 VCF1 Initial Leve	0	4194304	Value	ValueOutput
+Patch8 VCF1 Attack Level	0	4194304	Value	ValueOutput
+Patch8 VCF1 Attack Time	0	4194304	Value	ValueOutput
+Patch8 VCF1 Decay Time	0	4194304	Value	ValueOutput
+Patch8 VCF1 Release Time	0	4194304	Value	ValueOutput
+Patch8 VCA1 Attack Time	0	4194304	Value	ValueOutput
+Patch8 VCA1 Decay Time	0	4194304	Value	ValueOutput
+Patch8 VCA1 Sustain Leve	0	4194304	Value	ValueOutput
+Patch8 VCA1 Release Time	0	4194304	Value	ValueOutput
+Patch8 VCA1 Level	0	4194304	Value	ValueOutput
+Patch8 Initial Brillianc	0	4194304	Value	ValueOutput
+Patch8 Initial Level1	0	4194304	Value	ValueOutput
+Patch8 After Brilliance1	0	4194304	Value	ValueOutput
+Patch8 After Level1	0	4194304	Value	ValueOutput
+Patch8 Lfo2 Speed	0	4194304	Value	ValueOutput
+Patch8 Lfo2 PWM	0	4194304	Value	ValueOutput
+Patch8 Osc2 Width	0	4194304	Value	ValueOutput
+Patch8 Osc2 Noise	0	4194304	Value	ValueOutput
+Patch8 HighPass2 CutOff	0	4194304	Value	ValueOutput
+Patch8 HighPass2 Resonan	0	4194304	Value	ValueOutput
+Patch8 LowPass2 CutOff	0	4194304	Value	ValueOutput
+Patch8 LowPass2 Resonanc	0	4194304	Value	ValueOutput
+Patch8 VCF2 Level	0	4194304	Value	ValueOutput
+Patch8 Osc2 Sine	0	4194304	Value	ValueOutput
+Patch8 VCF2 Initial Leve	0	4194304	Value	ValueOutput
+Patch8 VCF2 Attack Level	0	4194304	Value	ValueOutput
+Patch8 VCF2 Attack Time	0	4194304	Value	ValueOutput
+Patch8 VCF2 Decay Time	0	4194304	Value	ValueOutput
+Patch8 VCF2 Release Time	0	4194304	Value	ValueOutput
+Patch8 VCA2 Attack Time	0	4194304	Value	ValueOutput
+Patch8 VCA2 Decay Time	0	4194304	Value	ValueOutput
+Patch8 VCA2 Sustain Leve	0	4194304	Value	ValueOutput
+Patch8 VCA2 Release Time	0	4194304	Value	ValueOutput
+Patch8 VCA2 Level	0	4194304	Value	ValueOutput
+Patch8 Initial Brillianc	0	4194304	Value	ValueOutput
+Patch8 Initial Level2	0	4194304	Value	ValueOutput
+Patch8 After Brilliance2	0	4194304	Value	ValueOutput
+Patch8 After Level2	0	4194304	Value	ValueOutput
+Patch8 Detune Osc1 Osc2	0	4194304	Value	ValueOutput
+Patch8 Mix Osc1 Osc2	0	4194304	Value	ValueOutput
+Patch8 Osc1 Accord	0	4194304	Value	ValueOutput
+Patch8 Osc2 Accord	0	4194304	Value	ValueOutput
+Patch8 Amount Mod1	0	4194304	Value	ValueOutput
+Patch8 Amount Mod2	0	4194304	Value	ValueOutput
+Patch8 Amount Mod3	0	4194304	Value	ValueOutput
+Patch8 Amount Mod4	0	4194304	Value	ValueOutput
+Patch8 Amount Mod5	0	4194304	Value	ValueOutput
+Patch8 Amount Mod6	0	4194304	Value	ValueOutput
+Patch8 Amount Mod7	0	4194304	Value	ValueOutput
+Patch8 Amount Mod8	0	4194304	Value	ValueOutput
+Patch8 Amount Mod9	0	4194304	Value	ValueOutput
+Patch8 Amount Mod10	0	4194304	Value	ValueOutput
+Patch8 Osc1 Saw Tri	0	4194304	Value	ValueOutput
+Patch8 Osc1 Square	0	4194304	Value	ValueOutput
+Patch8 OSC1_KEYB	0	4194304	Value	ValueOutput
+Patch8 Unassigned 1	0	4194304	Value	ValueOutput
+Patch8 HighPass1	0	4194304	Value	ValueOutput
+Patch8 LowPass1	0	4194304	Value	ValueOutput
+Patch8 Filter1 Type	0	4194304	Value	ValueOutput
+Patch8 Lfo1 Wave	0	4194304	Value	ValueOutput
+Patch8 Lfo1 Mode	0	4194304	Value	ValueOutput
+Patch8 Lfo1 Sync	0	4194304	Value	ValueOutput
+Patch8 Osc2 Saw Tri	0	4194304	Value	ValueOutput
+Patch8 Osc2 Square	0	4194304	Value	ValueOutput
+Patch8 OSC2_KEYB	0	4194304	Value	ValueOutput
+Patch8 Unassigned 2	0	4194304	Value	ValueOutput
+Patch8 HighPass2	0	4194304	Value	ValueOutput
+Patch8 LowPass2	0	4194304	Value	ValueOutput
+Patch8 Filter2 Type	0	4194304	Value	ValueOutput
+Patch8 Lfo2 Wave	0	4194304	Value	ValueOutput
+Patch8 Lfo2 Mode	0	4194304	Value	ValueOutput
+Patch8 Lfo2 Sync	0	4194304	Value	ValueOutput
+Patch8 Range Osc1	0	4194304	Value	ValueOutput
+Patch8 Range Osc2	0	4194304	Value	ValueOutput
+Patch8 Lfo Link	0	4194304	Value	ValueOutput
+Patch8 Osc Synchro	0	4194304	Value	ValueOutput
+Patch8 Mod1 Output	0	4194304	Value	ValueOutput
+Patch8 Mod1 Input	0	4194304	Value	ValueOutput
+Patch8 Mod2 Output	0	4194304	Value	ValueOutput
+Patch8 Mod2 Input	0	4194304	Value	ValueOutput
+Patch8 Mod3 Output	0	4194304	Value	ValueOutput
+Patch8 Mod3 Input	0	4194304	Value	ValueOutput
+Patch8 Mod4 Output	0	4194304	Value	ValueOutput
+Patch8 Mod4 Input	0	4194304	Value	ValueOutput
+Patch8 Mod5 Output	0	4194304	Value	ValueOutput
+Patch8 Mod5 Input	0	4194304	Value	ValueOutput
+Patch8 Mod6 Output	0	4194304	Value	ValueOutput
+Patch8 Mod6 Input	0	4194304	Value	ValueOutput
+Patch8 Mod7 Output	0	4194304	Value	ValueOutput
+Patch8 Mod7 Input	0	4194304	Value	ValueOutput
+Patch8 Mod8 Output	0	4194304	Value	ValueOutput
+Patch8 Mod8 Input	0	4194304	Value	ValueOutput
+Patch8 Mod9 Output	0	4194304	Value	ValueOutput
+Patch8 Mod9 Input	0	4194304	Value	ValueOutput
+Patch8 Mod10 Output	0	4194304	Value	ValueOutput
+Patch8 Mod10 Input	0	4194304	Value	ValueOutput
+Sub Speed	0	4194304	Value	ValueOutput
+Sub Vco	0	4194304	Value	ValueOutput
+Sub Vcf	0	4194304	Value	ValueOutput
+Sub Vca	0	4194304	Value	ValueOutput
+RingMod Attack	0	4194304	Value	ValueOutput
+RingMod Decay	0	4194304	Value	ValueOutput
+RingMod Depth	0	4194304	Value	ValueOutput
+RingMod Speed	0	4194304	Value	ValueOutput
+RingMod Modulation	0	4194304	Value	ValueOutput
+Brilliance	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Initial Pitch	0	4194304	Value	ValueOutput
+AfterTouch Sub Speed	0	4194304	Value	ValueOutput
+AfterTouch Sub Vco	0	4194304	Value	ValueOutput
+AfterTouch Sub Vcf	0	4194304	Value	ValueOutput
+Keyboard Low Brilliance	0	4194304	Value	ValueOutput
+Keyboard High Brilliance	0	4194304	Value	ValueOutput
+Keyboard Low Level	0	4194304	Value	ValueOutput
+Keyboard High Level	0	4194304	Value	ValueOutput
+General Level	0	4194304	Value	ValueOutput
+Portamento Time	0	4194304	Value	ValueOutput
+Chorus/Tremolo Speed	0	4194304	Value	ValueOutput
+Chorus/Tremolo Depth	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay FeedBack	0	4194304	Value	ValueOutput
+Delay Wet	0	4194304	Value	ValueOutput
+Voice1 Panorama	0	4194304	Value	ValueOutput
+Voice2 Panorama	0	4194304	Value	ValueOutput
+Voice3 Panorama	0	4194304	Value	ValueOutput
+Voice4 Panorama	0	4194304	Value	ValueOutput
+Voice5 Panorama	0	4194304	Value	ValueOutput
+Voice6 Panorama	0	4194304	Value	ValueOutput
+Voice7 Panorama	0	4194304	Value	ValueOutput
+Voice8 Panorama	0	4194304	Value	ValueOutput
+Voice1 Level	0	4194304	Value	ValueOutput
+Voice2 Level	0	4194304	Value	ValueOutput
+Voice3 Level	0	4194304	Value	ValueOutput
+Voice4 Level	0	4194304	Value	ValueOutput
+Voice5 Level	0	4194304	Value	ValueOutput
+Voice6 Level	0	4194304	Value	ValueOutput
+Voice7 Level	0	4194304	Value	ValueOutput
+Voice8 Level	0	4194304	Value	ValueOutput
+Voice1 Detune	0	4194304	Value	ValueOutput
+Voice2 Detune	0	4194304	Value	ValueOutput
+Voice3 Detune	0	4194304	Value	ValueOutput
+Voice4 Detune	0	4194304	Value	ValueOutput
+Voice5 Detune	0	4194304	Value	ValueOutput
+Voice6 Detune	0	4194304	Value	ValueOutput
+Voice7 Detune	0	4194304	Value	ValueOutput
+Voice8 Detune	0	4194304	Value	ValueOutput
+NUM_PATCH_VOIE1	0	4194304	Value	ValueOutput
+NUM_PATCH_VOIE2	0	4194304	Value	ValueOutput
+NUM_PATCH_VOIE3	0	4194304	Value	ValueOutput
+NUM_PATCH_VOIE4	0	4194304	Value	ValueOutput
+NUM_PATCH_VOIE5	0	4194304	Value	ValueOutput
+NUM_PATCH_VOIE6	0	4194304	Value	ValueOutput
+NUM_PATCH_VOIE7	0	4194304	Value	ValueOutput
+NUM_PATCH_VOIE8	0	4194304	Value	ValueOutput
+AFFECTE_VOIE1	0	4194304	Value	ValueOutput
+AFFECTE_VOIE2	0	4194304	Value	ValueOutput
+AFFECTE_VOIE3	0	4194304	Value	ValueOutput
+AFFECTE_VOIE4	0	4194304	Value	ValueOutput
+AFFECTE_VOIE5	0	4194304	Value	ValueOutput
+AFFECTE_VOIE6	0	4194304	Value	ValueOutput
+AFFECTE_VOIE7	0	4194304	Value	ValueOutput
+AFFECTE_VOIE8	0	4194304	Value	ValueOutput
+Voice 1 Portamento On	0	4194304	Value	ValueOutput
+Voice 2 Portamento On	0	4194304	Value	ValueOutput
+Voice 3 Portamento On	0	4194304	Value	ValueOutput
+Voice 4 Portamento On	0	4194304	Value	ValueOutput
+Voice 5 Portamento On	0	4194304	Value	ValueOutput
+Voice 6 Portamento On	0	4194304	Value	ValueOutput
+Voice 7 Portamento On	0	4194304	Value	ValueOutput
+Voice 8 Portamento On	0	4194304	Value	ValueOutput
+Voice 1 Ring Modulation 	0	4194304	Value	ValueOutput
+Voice 2 Ring Modulation 	0	4194304	Value	ValueOutput
+Voice 3 Ring Modulation 	0	4194304	Value	ValueOutput
+Voice 4 Ring Modulation 	0	4194304	Value	ValueOutput
+Voice 5 Ring Modulation 	0	4194304	Value	ValueOutput
+Voice 6 Ring Modulation 	0	4194304	Value	ValueOutput
+Voice 7 Ring Modulation 	0	4194304	Value	ValueOutput
+Voice 8 Ring Modulation 	0	4194304	Value	ValueOutput
+Voice 1 Effects On	0	4194304	Value	ValueOutput
+Voice 2 Effects On	0	4194304	Value	ValueOutput
+Voice 3 Effects On	0	4194304	Value	ValueOutput
+Voice 4 Effects On	0	4194304	Value	ValueOutput
+Voice 5 Effects On	0	4194304	Value	ValueOutput
+Voice 6 Effects On	0	4194304	Value	ValueOutput
+Voice 7 Effects On	0	4194304	Value	ValueOutput
+Voice 8 Effects On	0	4194304	Value	ValueOutput
+Sub Wave	0	4194304	Value	ValueOutput
+Chorus On	0	4194304	Value	ValueOutput
+Tremolo On	0	4194304	Value	ValueOutput
+Delay On	0	4194304	Value	ValueOutput
+Delay Sync	0	4194304	Value	ValueOutput
+Sustain	0	4194304	Value	ValueOutput
+Porta	0	4194304	Value	ValueOutput
+Sustain Time	0	4194304	Value	ValueOutput
+Sustain Mode	0	4194304	Value	ValueOutput
+Glissendo	0	4194304	Value	ValueOutput
+Exp. Pedal	0	4194304	Value	ValueOutput
+Exp. Wha Pedal	0	4194304	Value	ValueOutput
+Voice1 Transpose	0	4194304	Value	ValueOutput
+Voice2 Transpose	0	4194304	Value	ValueOutput
+Voice3 Transpose	0	4194304	Value	ValueOutput
+Voice4 Transpose	0	4194304	Value	ValueOutput
+Voice5 Transpose	0	4194304	Value	ValueOutput
+Voice6 Transpose	0	4194304	Value	ValueOutput
+Voice7 Transpose	0	4194304	Value	ValueOutput
+Voice8 Transpose	0	4194304	Value	ValueOutput
+ZONE1_INPUT	0	4194304	Value	ValueOutput
+ZONE1_INF	0	4194304	Value	ValueOutput
+ZONE1_SUP	0	4194304	Value	ValueOutput
+ZONE1_MODE	0	4194304	Value	ValueOutput
+ZONE1_ARP	0	4194304	Value	ValueOutput
+ZONE2_INPUT	0	4194304	Value	ValueOutput
+ZONE2_INF	0	4194304	Value	ValueOutput
+ZONE2_SUP	0	4194304	Value	ValueOutput
+ZONE2_MODE	0	4194304	Value	ValueOutput
+ZONE2_ARP	0	4194304	Value	ValueOutput
+ZONE3_INPUT	0	4194304	Value	ValueOutput
+ZONE3_INF	0	4194304	Value	ValueOutput
+ZONE3_SUP	0	4194304	Value	ValueOutput
+ZONE3_MODE	0	4194304	Value	ValueOutput
+ZONE3_ARP	0	4194304	Value	ValueOutput
+ZONE4_INPUT	0	4194304	Value	ValueOutput
+ZONE4_INF	0	4194304	Value	ValueOutput
+ZONE4_SUP	0	4194304	Value	ValueOutput
+ZONE4_MODE	0	4194304	Value	ValueOutput
+ZONE4_ARP	0	4194304	Value	ValueOutput
+Arpeggiator Mode	0	4194304	Value	ValueOutput
+Arpeggiator Speed	0	4194304	Value	ValueOutput
+Arpeggiator Sync	0	4194304	Value	ValueOutput
+Arpeggiator Hold	0	4194304	Value	ValueOutput
+Arpeggiator Octave	0	4194304	Value	ValueOutput
+Arpeggiator Play	0	4194304	Value	ValueOutput
+Arpeggiator Repeat	0	4194304	Value	ValueOutput
+TRAPPE_MODUL	0	4194304	Value	ValueOutput
+TRAPPE_MULTI	0	4194304	Value	ValueOutput
+PitchBend Course	0	4194304	Value	ValueOutput
+PitchBend Enabled	0	4194304	Value	ValueOutput
+Sub Osc Speed Modulation	0	4194304	Value	ValueOutput
+Unassigned 3	0	4194304	Value	ValueOutput
+Previous Preset	0	4194304	Value	ValueOutput
+Next Preset	0	4194304	Value	ValueOutput
+Polyphony	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

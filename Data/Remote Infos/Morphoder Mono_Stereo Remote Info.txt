@@ -1,0 +1,76 @@
+Scope
+Manufacturer	Model
+Waves	vst.VCWX.WaveShell-VST 9_91_x64.Morphoder Mono/Stereo
+Note: Will match scope definitions for vst.VCWX.WaveShell-VST 9_91_x64.Morphoder Mono/Stereo or vst.VCWX
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Mute Morph	0	4194304	Value	ValueOutput
+Solo Morph	0	4194304	Value	ValueOutput
+Mix Morph	0	4194304	Value	ValueOutput
+Mute Modulator	0	4194304	Value	ValueOutput
+Solo Modulator	0	4194304	Value	ValueOutput
+Modulator Mix	0	4194304	Value	ValueOutput
+Mute Noise	0	4194304	Value	ValueOutput
+Solo Noise	0	4194304	Value	ValueOutput
+Noise Mix	0	4194304	Value	ValueOutput
+Noise Filter	0	4194304	Value	ValueOutput
+Noise Freq	0	4194304	Value	ValueOutput
+ModulatorRouter	0	4194304	Value	ValueOutput
+CarrierRouter	0	4194304	Value	ValueOutput
+Formant	0	4194304	Value	ValueOutput
+Smoothing	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Pressure	0	4194304	Value	ValueOutput
+Mute Carrier	0	4194304	Value	ValueOutput
+Solo Carrier	0	4194304	Value	ValueOutput
+Mix Carrier	0	4194304	Value	ValueOutput
+Voice 1 Pitch	0	4194304	Value	ValueOutput
+Voice 2 Pitch	0	4194304	Value	ValueOutput
+Voice 3 Pitch	0	4194304	Value	ValueOutput
+Voice 4 Pitch	0	4194304	Value	ValueOutput
+Voice 5 Pitch	0	4194304	Value	ValueOutput
+Voice 6 Pitch	0	4194304	Value	ValueOutput
+Voice 7 Pitch	0	4194304	Value	ValueOutput
+Voice 8 Pitch	0	4194304	Value	ValueOutput
+Band1 On/Off	0	4194304	Value	ValueOutput
+Band1 Gain	0	4194304	Value	ValueOutput
+Band1 Frq	0	4194304	Value	ValueOutput
+Band1 Q	0	4194304	Value	ValueOutput
+Band2 On/Off	0	4194304	Value	ValueOutput
+Band2 Gain	0	4194304	Value	ValueOutput
+Band2 Frq	0	4194304	Value	ValueOutput
+Band2 Q	0	4194304	Value	ValueOutput
+Band3 On/Off	0	4194304	Value	ValueOutput
+Band3 Gain	0	4194304	Value	ValueOutput
+Band3 Frq	0	4194304	Value	ValueOutput
+Band3 Q	0	4194304	Value	ValueOutput
+Band4 On/Off	0	4194304	Value	ValueOutput
+Band4 Gain	0	4194304	Value	ValueOutput
+Band4 Frq	0	4194304	Value	ValueOutput
+Band4 Q	0	4194304	Value	ValueOutput
+Band5 On/Off	0	4194304	Value	ValueOutput
+Band5 Gain	0	4194304	Value	ValueOutput
+Band5 Frq	0	4194304	Value	ValueOutput
+Band5 Q	0	4194304	Value	ValueOutput
+Synth	0	4194304	Value	ValueOutput
+Sustain	0	4194304	Value	ValueOutput
+Tune	0	4194304	Value	ValueOutput
+PitchWheel	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

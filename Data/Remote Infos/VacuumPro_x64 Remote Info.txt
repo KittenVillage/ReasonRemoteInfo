@@ -1,0 +1,235 @@
+Scope
+Manufacturer	Model
+AIR Music Technology	vst.rPcV.VacuumPro_x64
+Note: Will match scope definitions for vst.rPcV.VacuumPro_x64 or vst.rPcV
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Volume Trim	0	4194304	Value	ValueOutput
+Bend Range	0	4194304	Value	ValueOutput
+Arp On	0	4194304	Value	ValueOutput
+Arp Mode	0	4194304	Value	ValueOutput
+Arp Rate	0	4194304	Value	ValueOutput
+Modulation Type	0	4194304	Value	ValueOutput
+Modulation Rate	0	4194304	Value	ValueOutput
+Modulation Mix	0	4194304	Value	ValueOutput
+Modulation Depth	0	4194304	Value	ValueOutput
+Delay Ping-Pong	0	4194304	Value	ValueOutput
+Delay Sync	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Low Cut	0	4194304	Value	ValueOutput
+Delay High Cut	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+A VTO 1 Shape	0	4194304	Value	ValueOutput
+A VTO 1 Range	0	4194304	Value	ValueOutput
+A VTO 1 Quad	0	4194304	Value	ValueOutput
+A VTO 1 Finetune	0	4194304	Value	ValueOutput
+A VTO 1 Env To Shape	0	4194304	Value	ValueOutput
+A VTO 1 Delay Time	0	4194304	Value	ValueOutput
+A VTO 1 Delay Amount	0	4194304	Value	ValueOutput
+A VTO 1 Quad Detune	0	4194304	Value	ValueOutput
+A VTO 2 Shape	0	4194304	Value	ValueOutput
+A VTO 2 Range	0	4194304	Value	ValueOutput
+A VTO 2 Quad	0	4194304	Value	ValueOutput
+A VTO 2 Finetune	0	4194304	Value	ValueOutput
+A VTO 2 Env To Shape	0	4194304	Value	ValueOutput
+A VTO 2 Delay Time	0	4194304	Value	ValueOutput
+A VTO 2 Delay Amount	0	4194304	Value	ValueOutput
+A VTO 2 Quad Detune	0	4194304	Value	ValueOutput
+A Glide Time	0	4194304	Value	ValueOutput
+A Glide Mode	0	4194304	Value	ValueOutput
+A Ringmodulation	0	4194304	Value	ValueOutput
+A VTO 1 Mix	0	4194304	Value	ValueOutput
+A VTO 2 Mix	0	4194304	Value	ValueOutput
+A Mix Drive	0	4194304	Value	ValueOutput
+A HPF Cutoff	0	4194304	Value	ValueOutput
+A HPF Resonance	0	4194304	Value	ValueOutput
+A HPF Slope	0	4194304	Value	ValueOutput
+A HPF Saturation	0	4194304	Value	ValueOutput
+A HPF Env Mod	0	4194304	Value	ValueOutput
+A HPF Keytracking	0	4194304	Value	ValueOutput
+A Filter Routing	0	4194304	Value	ValueOutput
+A LPF Cutoff	0	4194304	Value	ValueOutput
+A LPF Resonance	0	4194304	Value	ValueOutput
+A LPF Slope	0	4194304	Value	ValueOutput
+A LPF Saturation	0	4194304	Value	ValueOutput
+A LPF Env Mod	0	4194304	Value	ValueOutput
+A LPF Keytracking	0	4194304	Value	ValueOutput
+A VTO Drift	0	4194304	Value	ValueOutput
+A Age Dust	0	4194304	Value	ValueOutput
+Part A On	0	4194304	Value	ValueOutput
+A VTA Volume	0	4194304	Value	ValueOutput
+A VTA Shape	0	4194304	Value	ValueOutput
+A VTA Pan	0	4194304	Value	ValueOutput
+A Env 1 Attack	0	4194304	Value	ValueOutput
+A Env 1 Decay	0	4194304	Value	ValueOutput
+A Env 1 Sustain	0	4194304	Value	ValueOutput
+A Env 1 Release	0	4194304	Value	ValueOutput
+A Env 1 Velocity Mod	0	4194304	Value	ValueOutput
+A Env 3 Attack	0	4194304	Value	ValueOutput
+A Env 3 Decay	0	4194304	Value	ValueOutput
+A Env 3 Sustain	0	4194304	Value	ValueOutput
+A Env 3 Release	0	4194304	Value	ValueOutput
+A Env 3 Velocity Mod	0	4194304	Value	ValueOutput
+A Env Retrigger	0	4194304	Value	ValueOutput
+A LFO 1 Rate	0	4194304	Value	ValueOutput
+A LFO 1 Shape	0	4194304	Value	ValueOutput
+A LFO 1 Fade	0	4194304	Value	ValueOutput
+A LFO 1 Sync	0	4194304	Value	ValueOutput
+A LFO 2 Rate	0	4194304	Value	ValueOutput
+A LFO 2 Shape	0	4194304	Value	ValueOutput
+A LFO 2 Fade	0	4194304	Value	ValueOutput
+A LFO 2 Sync	0	4194304	Value	ValueOutput
+A LFO 1 Destination	0	4194304	Value	ValueOutput
+A Mod 1 Source	0	4194304	Value	ValueOutput
+A Mod 2 Source	0	4194304	Value	ValueOutput
+A Mod 1 Depth	0	4194304	Value	ValueOutput
+A Mod 2 Depth	0	4194304	Value	ValueOutput
+A Mod 1 Destination	0	4194304	Value	ValueOutput
+A Mod 2 Destination	0	4194304	Value	ValueOutput
+A Velocity to Amp	0	4194304	Value	ValueOutput
+A Velocity to HPF	0	4194304	Value	ValueOutput
+A Velocity to LPF	0	4194304	Value	ValueOutput
+A VTO 2 Sync	0	4194304	Value	ValueOutput
+A VTO 1 Delay Repitch	0	4194304	Value	ValueOutput
+A VTO 2 Delay Repitch	0	4194304	Value	ValueOutput
+A HPF Volume	0	4194304	Value	ValueOutput
+A Env Select	0	4194304	Value	ValueOutput
+A Env 4 Start Level	0	4194304	Value	ValueOutput
+A Env 4 Attack Time	0	4194304	Value	ValueOutput
+A Env 4 Slope 1	0	4194304	Value	ValueOutput
+A Env 4 Slope 2	0	4194304	Value	ValueOutput
+A Env 4 Dest.	0	4194304	Value	ValueOutput
+A Env 2 Attack	0	4194304	Value	ValueOutput
+A Env 2 Decay	0	4194304	Value	ValueOutput
+A Env 2 Sustain	0	4194304	Value	ValueOutput
+A Env 2 Release	0	4194304	Value	ValueOutput
+A Env 2 Velocity Mod	0	4194304	Value	ValueOutput
+A Bandpass	0	4194304	Value	ValueOutput
+A Part Level	0	4194304	Value	ValueOutput
+A Unused 2	0	4194304	Value	ValueOutput
+A Unused 3	0	4194304	Value	ValueOutput
+A Unused 4	0	4194304	Value	ValueOutput
+A Unused 5	0	4194304	Value	ValueOutput
+A Unused 6	0	4194304	Value	ValueOutput
+A Unused 7	0	4194304	Value	ValueOutput
+B VTO 1 Shape	0	4194304	Value	ValueOutput
+B VTO 1 Range	0	4194304	Value	ValueOutput
+B VTO 1 Quad	0	4194304	Value	ValueOutput
+B VTO 1 Finetune	0	4194304	Value	ValueOutput
+B VTO 1 Env To Shape	0	4194304	Value	ValueOutput
+B VTO 1 Delay Time	0	4194304	Value	ValueOutput
+B VTO 1 Delay Amount	0	4194304	Value	ValueOutput
+B VTO 1 Quad Detune	0	4194304	Value	ValueOutput
+B VTO 2 Shape	0	4194304	Value	ValueOutput
+B VTO 2 Range	0	4194304	Value	ValueOutput
+B VTO 2 Quad	0	4194304	Value	ValueOutput
+B VTO 2 Finetune	0	4194304	Value	ValueOutput
+B VTO 2 Env To Shape	0	4194304	Value	ValueOutput
+B VTO 2 Delay Time	0	4194304	Value	ValueOutput
+B VTO 2 Delay Amount	0	4194304	Value	ValueOutput
+B VTO 2 Quad Detune	0	4194304	Value	ValueOutput
+B Glide Time	0	4194304	Value	ValueOutput
+B Glide Mode	0	4194304	Value	ValueOutput
+B Ringmodulation	0	4194304	Value	ValueOutput
+B VTO 1 Mix	0	4194304	Value	ValueOutput
+B VTO 2 Mix	0	4194304	Value	ValueOutput
+B Mix Drive	0	4194304	Value	ValueOutput
+B HPF Cutoff	0	4194304	Value	ValueOutput
+B HPF Resonance	0	4194304	Value	ValueOutput
+B HPF Slope	0	4194304	Value	ValueOutput
+B HPF Saturation	0	4194304	Value	ValueOutput
+B HPF Env Mod	0	4194304	Value	ValueOutput
+B HPF Keytracking	0	4194304	Value	ValueOutput
+B Filter Routing	0	4194304	Value	ValueOutput
+B LPF Cutoff	0	4194304	Value	ValueOutput
+B LPF Resonance	0	4194304	Value	ValueOutput
+B LPF Slope	0	4194304	Value	ValueOutput
+B LPF Saturation	0	4194304	Value	ValueOutput
+B LPF Env Mod	0	4194304	Value	ValueOutput
+B LPF Keytracking	0	4194304	Value	ValueOutput
+B VTO Drift	0	4194304	Value	ValueOutput
+B Age Dust	0	4194304	Value	ValueOutput
+Part B On	0	4194304	Value	ValueOutput
+B VTA Volume	0	4194304	Value	ValueOutput
+B VTA Shape	0	4194304	Value	ValueOutput
+B VTA Pan	0	4194304	Value	ValueOutput
+B Env 1 Attack	0	4194304	Value	ValueOutput
+B Env 1 Decay	0	4194304	Value	ValueOutput
+B Env 1 Sustain	0	4194304	Value	ValueOutput
+B Env 1 Release	0	4194304	Value	ValueOutput
+B Env 1 Velocity Mod	0	4194304	Value	ValueOutput
+B Env 3 Attack	0	4194304	Value	ValueOutput
+B Env 3 Decay	0	4194304	Value	ValueOutput
+B Env 3 Sustain	0	4194304	Value	ValueOutput
+B Env 3 Release	0	4194304	Value	ValueOutput
+B Env 3 Velocity Mod	0	4194304	Value	ValueOutput
+B Env Retrigger	0	4194304	Value	ValueOutput
+B LFO 1 Rate	0	4194304	Value	ValueOutput
+B LFO 1 Shape	0	4194304	Value	ValueOutput
+B LFO 1 Fade	0	4194304	Value	ValueOutput
+B LFO 1 Sync	0	4194304	Value	ValueOutput
+B LFO 2 Rate	0	4194304	Value	ValueOutput
+B LFO 2 Shape	0	4194304	Value	ValueOutput
+B LFO 2 Fade	0	4194304	Value	ValueOutput
+B LFO 2 Sync	0	4194304	Value	ValueOutput
+B LFO 1 Destination	0	4194304	Value	ValueOutput
+B Mod 1 Source	0	4194304	Value	ValueOutput
+B Mod 2 Source	0	4194304	Value	ValueOutput
+B Mod 1 Depth	0	4194304	Value	ValueOutput
+B Mod 2 Depth	0	4194304	Value	ValueOutput
+B Mod 1 Destination	0	4194304	Value	ValueOutput
+B Mod 2 Destination	0	4194304	Value	ValueOutput
+B Velocity to Amp	0	4194304	Value	ValueOutput
+B Velocity to HPF	0	4194304	Value	ValueOutput
+B Velocity to LPF	0	4194304	Value	ValueOutput
+B VTO 2 Sync	0	4194304	Value	ValueOutput
+B VTO 1 Delay Repitch	0	4194304	Value	ValueOutput
+B VTO 2 Delay Repitch	0	4194304	Value	ValueOutput
+B HPF Volume	0	4194304	Value	ValueOutput
+B Env Select	0	4194304	Value	ValueOutput
+B Env 4 Start Level	0	4194304	Value	ValueOutput
+B Env 4 Attack Time	0	4194304	Value	ValueOutput
+B Env 4 Slope 1	0	4194304	Value	ValueOutput
+B Env 4 Slope 2	0	4194304	Value	ValueOutput
+B Env 4 Dest.	0	4194304	Value	ValueOutput
+B Env 2 Attack	0	4194304	Value	ValueOutput
+B Env 2 Decay	0	4194304	Value	ValueOutput
+B Env 2 Sustain	0	4194304	Value	ValueOutput
+B Env 2 Release	0	4194304	Value	ValueOutput
+B Env 2 Velocity Mod	0	4194304	Value	ValueOutput
+B Bandpass	0	4194304	Value	ValueOutput
+B Part Level	0	4194304	Value	ValueOutput
+B Unused 2	0	4194304	Value	ValueOutput
+B Unused 3	0	4194304	Value	ValueOutput
+B Unused 4	0	4194304	Value	ValueOutput
+B Unused 5	0	4194304	Value	ValueOutput
+B Unused 6	0	4194304	Value	ValueOutput
+B Unused 7	0	4194304	Value	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Master Width	0	4194304	Value	ValueOutput
+Smart Complexity	0	4194304	Value	ValueOutput
+Smart Tone	0	4194304	Value	ValueOutput
+Smart Punch	0	4194304	Value	ValueOutput
+Smart Length	0	4194304	Value	ValueOutput
+Smart Fat	0	4194304	Value	ValueOutput
+Smart Contour	0	4194304	Value	ValueOutput
+Smart Modulation	0	4194304	Value	ValueOutput
+Smart Emphasis	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

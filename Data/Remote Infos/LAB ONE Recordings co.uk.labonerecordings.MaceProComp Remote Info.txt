@@ -1,0 +1,60 @@
+Scope
+Manufacturer	Model
+LAB ONE Recordings	co.uk.labonerecordings.MaceProComp
+
+Remotable	Min	Max	Input type	Output type
+Wet Mix	0	4194304	Value	ValueOutput
+Input Gain 1	0	4194304	Value	ValueOutput
+Threshold 1	0	4194304	Value	ValueOutput
+Ratio 1	0	4194304	Value	ValueOutput
+Knee 1	0	6	Value	ValueOutput
+Attack ms 1	0	4194304	Value	ValueOutput
+Hold ms 1	0	4194304	Value	ValueOutput
+Release ms 1	0	4194304	Value	ValueOutput
+Attack Sync Time 1	0	23	Value	ValueOutput
+Hold Sync Time 1	0	23	Value	ValueOutput
+Release Sync Time 1	0	23	Value	ValueOutput
+Attack Sync 1 On	0	1	Toggle	ValueOutput
+Hold Sync 1 On	0	1	Toggle	ValueOutput
+Release Sync 1 On	0	1	Toggle	ValueOutput
+Sidechain Gain 1	0	4194304	Value	ValueOutput
+Sidechain HPF 1	0	4194304	Value	ValueOutput
+Sidechain HPF 1 On	0	1	Toggle	ValueOutput
+Hear Sidechain 1	0	1	Toggle	ValueOutput
+Limiter Threshold 1	0	4194304	Value	ValueOutput
+Limiter 1 On	0	1	Toggle	ValueOutput
+Look Ahead 1	0	4	Value	ValueOutput
+Makeup Gain 1	0	4194304	Value	ValueOutput
+SoftClip 1 On	0	1	Toggle	ValueOutput
+Depth 1	0	4194304	Value	ValueOutput
+Type 1	0	1	Toggle	ValueOutput
+Input Gain 2	0	4194304	Value	ValueOutput
+Threshold 2	0	4194304	Value	ValueOutput
+Ratio 2	0	4194304	Value	ValueOutput
+Knee 2	0	6	Value	ValueOutput
+Attack ms 2	0	4194304	Value	ValueOutput
+Hold ms 2	0	4194304	Value	ValueOutput
+Release ms 2	0	4194304	Value	ValueOutput
+Attack Sync Time 2	0	23	Value	ValueOutput
+Hold Sync Time 2	0	23	Value	ValueOutput
+Release Sync Time 2	0	23	Value	ValueOutput
+Attack Sync 2 On	0	1	Toggle	ValueOutput
+Hold Sync 2 On	0	1	Toggle	ValueOutput
+Release Sync 2 On	0	1	Toggle	ValueOutput
+Sidechain Gain 2	0	4194304	Value	ValueOutput
+Sidechain HPF 2	0	4194304	Value	ValueOutput
+Sidechain HPF 2 On	0	1	Toggle	ValueOutput
+Hear Sidechain 2	0	1	Toggle	ValueOutput
+Limiter Threshold 2	0	4194304	Value	ValueOutput
+Limiter 2 On	0	1	Toggle	ValueOutput
+Look Ahead 2	0	4	Value	ValueOutput
+Makeup Gain 2	0	4194304	Value	ValueOutput
+SoftClip 2 On	0	1	Toggle	ValueOutput
+Depth 2	0	4194304	Value	ValueOutput
+Type 2	0	1	Toggle	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

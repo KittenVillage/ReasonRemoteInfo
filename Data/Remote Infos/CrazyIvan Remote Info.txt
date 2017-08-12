@@ -1,0 +1,45 @@
+Scope
+Manufacturer	Model
+Bram @ Smartelectronix	vst.CRZY.CrazyIvan
+Note: Will match scope definitions for vst.CRZY.CrazyIvan or vst.CRZY
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+bitmurderer	0	4194304	Value	ValueOutput
+  bitmask	0	4194304	Value	ValueOutput
+  AND	0	4194304	Value	ValueOutput
+  XOR	0	4194304	Value	ValueOutput
+  power	0	4194304	Value	ValueOutput
+frequency 1	0	4194304	Value	ValueOutput
+  diff frequency 1	0	4194304	Value	ValueOutput
+  vib frequency	0	4194304	Value	ValueOutput
+  diff vib frequency	0	4194304	Value	ValueOutput
+  feedback 1	0	4194304	Value	ValueOutput
+frequency 2	0	4194304	Value	ValueOutput
+  min delay	0	4194304	Value	ValueOutput
+  max delay	0	4194304	Value	ValueOutput
+  distortion	0	4194304	Value	ValueOutput
+  damping	0	4194304	Value	ValueOutput
+  feedback 2	0	4194304	Value	ValueOutput
+limiter	0	4194304	Value	ValueOutput
+  attack	0	4194304	Value	ValueOutput
+  release	0	4194304	Value	ValueOutput
+amplify	0	4194304	Value	ValueOutput
+dry-wet	0	4194304	Value	ValueOutput
+randomise	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,43 @@
+Scope
+Manufacturer	Model
+Waves	vst.JPVX.WaveShell-VST 9_91_x64.JJP-Vocals Mono/Stereo
+Note: Will match scope definitions for vst.JPVX.WaveShell-VST 9_91_x64.JJP-Vocals Mono/Stereo or vst.JPVX
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Type	0	4194304	Value	ValueOutput
+Sensitivity	0	4194304	Value	ValueOutput
+Lows	0	4194304	Value	ValueOutput
+Highs	0	4194304	Value	ValueOutput
+De-Esser	0	4194304	Value	ValueOutput
+Compress	0	4194304	Value	ValueOutput
+Main	0	4194304	Value	ValueOutput
+Main Mute	0	4194304	Value	ValueOutput
+Magic	0	4194304	Value	ValueOutput
+Magic Mute	0	4194304	Value	ValueOutput
+Space	0	4194304	Value	ValueOutput
+Space Mute	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Attack Mute	0	4194304	Value	ValueOutput
+Attitude	0	4194304	Value	ValueOutput
+Attitude Mute	0	4194304	Value	ValueOutput
+Presence	0	4194304	Value	ValueOutput
+Presence Mute	0	4194304	Value	ValueOutput
+Master	0	4194304	Value	ValueOutput
+Meter Switch	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

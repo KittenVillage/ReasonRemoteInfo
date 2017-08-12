@@ -1,0 +1,87 @@
+Scope
+Manufacturer	Model
+qu.tu-berlin.de	vst.MiSp.synister64
+Note: Will match scope definitions for vst.MiSp.synister64 or vst.MiSp
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+osc 1 f.tune	0	4194304	Value	ValueOutput
+osc 1 c.tune	0	4194304	Value	ValueOutput
+osc 1 Waveform	0	4194304	Value	ValueOutput
+osc 1 Vol	0	4194304	Value	ValueOutput
+osc 1 pan direc	0	4194304	Value	ValueOutput
+osc 1 triangle 	0	4194304	Value	ValueOutput
+osc 1 pulsewidt	0	4194304	Value	ValueOutput
+osc 2 f.tune	0	4194304	Value	ValueOutput
+osc 2 c.tune	0	4194304	Value	ValueOutput
+osc 2 Waveform	0	4194304	Value	ValueOutput
+osc 2 Vol	0	4194304	Value	ValueOutput
+osc 2 pan direc	0	4194304	Value	ValueOutput
+osc 2 triangle 	0	4194304	Value	ValueOutput
+osc 2 pulsewidt	0	4194304	Value	ValueOutput
+osc 3 f.tune	0	4194304	Value	ValueOutput
+osc 3 c.tune	0	4194304	Value	ValueOutput
+osc 3 Waveform	0	4194304	Value	ValueOutput
+osc 3 Vol	0	4194304	Value	ValueOutput
+osc 3 pan direc	0	4194304	Value	ValueOutput
+osc 3 triangle 	0	4194304	Value	ValueOutput
+osc 3 pulsewidt	0	4194304	Value	ValueOutput
+env vol attack	0	4194304	Value	ValueOutput
+env vol decay	0	4194304	Value	ValueOutput
+env vol sustain	0	4194304	Value	ValueOutput
+env vol release	0	4194304	Value	ValueOutput
+env 2 attack	0	4194304	Value	ValueOutput
+env 2 decay	0	4194304	Value	ValueOutput
+env 2 sustain	0	4194304	Value	ValueOutput
+env 2 release	0	4194304	Value	ValueOutput
+env 3 attack	0	4194304	Value	ValueOutput
+env 3 decay	0	4194304	Value	ValueOutput
+env 3 sustain	0	4194304	Value	ValueOutput
+env 3 release	0	4194304	Value	ValueOutput
+lfo 1 waveform	0	4194304	Value	ValueOutput
+lfo 1 freq	0	4194304	Value	ValueOutput
+lfo 1 fade-in	0	4194304	Value	ValueOutput
+lfo 2 waveform	0	4194304	Value	ValueOutput
+lfo 2 freq	0	4194304	Value	ValueOutput
+lfo 2 fade-in	0	4194304	Value	ValueOutput
+lfo 3 waveform	0	4194304	Value	ValueOutput
+lfo 3 freq	0	4194304	Value	ValueOutput
+lfo 3 fade-in	0	4194304	Value	ValueOutput
+filter 1 LP Cut	0	4194304	Value	ValueOutput
+filter 1 HP Cut	0	4194304	Value	ValueOutput
+filter 1 Resona	0	4194304	Value	ValueOutput
+filter 1 Type	0	4194304	Value	ValueOutput
+filter 2 LP Cut	0	4194304	Value	ValueOutput
+filter 2 HP Cut	0	4194304	Value	ValueOutput
+filter 2 Resona	0	4194304	Value	ValueOutput
+filter 2 Type	0	4194304	Value	ValueOutput
+Delay Active	0	4194304	Value	ValueOutput
+Delay dry/wet	0	4194304	Value	ValueOutput
+Delay time	0	4194304	Value	ValueOutput
+Delay feedback	0	4194304	Value	ValueOutput
+Delay cutoff	0	4194304	Value	ValueOutput
+Chorus Active	0	4194304	Value	ValueOutput
+Chorus Dry/Wet	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Width	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+LowFi Active	0	4194304	Value	ValueOutput
+Number Bits	0	4194304	Value	ValueOutput
+Clipping Active	0	4194304	Value	ValueOutput
+Clipping	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

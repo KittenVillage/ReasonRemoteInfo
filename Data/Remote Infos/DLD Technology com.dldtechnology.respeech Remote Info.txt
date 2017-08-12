@@ -1,0 +1,30 @@
+Scope
+Manufacturer	Model
+DLD Technology	com.dldtechnology.respeech
+
+Remotable	Min	Max	Input type	Output type
+Playback Pitch	0	4194304	Value	ValueOutput
+Playback Speed	0	4194304	Value	ValueOutput
+Damage	0	4194304	Value	ValueOutput
+Cutoff Filter	0	4194304	Value	ValueOutput
+Echo Delay Time	0	4194304	Value	ValueOutput
+Echo Delay Feedback	0	4194304	Value	ValueOutput
+Play Phrase 1	0	1	Toggle	ValueOutput
+Play Phrase 2	0	1	Toggle	ValueOutput
+Play Phrase 3	0	1	Toggle	ValueOutput
+Play Phrase 4	0	1	Toggle	ValueOutput
+Fix Tempo	0	1	Toggle	ValueOutput
+Echo Tempo Sync	0	1	Toggle	ValueOutput
+Synced Echo Delay Time	0	11	Value	ValueOutput
+Playback Mode	0	11	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

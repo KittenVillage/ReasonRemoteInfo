@@ -1,0 +1,32 @@
+Scope
+Manufacturer	Model
+u-he	vst.UcG1.Uhbik-G(x64)
+Note: Will match scope definitions for vst.UcG1.Uhbik-G(x64) or vst.UcG1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+main: Active #Pitch1	0	4194304	Value	ValueOutput
+main: Active #GDad1	0	4194304	Value	ValueOutput
+GDad1: GrainSize	0	4194304	Value	ValueOutput
+GDad1: Transpose	0	4194304	Value	ValueOutput
+GDad1: Scaling	0	4194304	Value	ValueOutput
+GDad1: ChannelOffset	0	4194304	Value	ValueOutput
+GDad1: Mix	0	4194304	Value	ValueOutput
+GDad1: OutputDB	0	4194304	Value	ValueOutput
+GDad1: Iteration	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

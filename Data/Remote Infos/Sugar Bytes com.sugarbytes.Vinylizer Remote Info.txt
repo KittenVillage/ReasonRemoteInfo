@@ -1,0 +1,18 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	com.sugarbytes.Vinylizer
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+sizesync	0	7	Value	ValueOutput
+sizesynctp	0	21	Value	ValueOutput
+sizefree	0	4194304	Value	ValueOutput
+slowdown	0	4194304	Value	ValueOutput
+downslope	0	4194304	Value	ValueOutput
+upslope	0	4194304	Value	ValueOutput
+drywet	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

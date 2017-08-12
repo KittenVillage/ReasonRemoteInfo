@@ -1,0 +1,120 @@
+Scope
+Manufacturer	Model
+DMGAudio	vst.DGCM.CompassionMono
+Note: Will match scope definitions for vst.DGCM.CompassionMono or vst.DGCM
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Ip Trim	0	4194304	Value	ValueOutput
+PreEQ	0	4194304	Value	ValueOutput
+LPF	0	4194304	Value	ValueOutput
+LPFFreq	0	4194304	Value	ValueOutput
+LPFSlope	0	4194304	Value	ValueOutput
+HPF	0	4194304	Value	ValueOutput
+HPFFreq	0	4194304	Value	ValueOutput
+HPFSlope	0	4194304	Value	ValueOutput
+Noise	0	4194304	Value	ValueOutput
+NoiseLvl	0	4194304	Value	ValueOutput
+NoisePre	0	4194304	Value	ValueOutput
+Wet/Dry	0	4194304	Value	ValueOutput
+DryFreq	0	4194304	Value	ValueOutput
+DrySlope	0	4194304	Value	ValueOutput
+LP SplitEQ	0	4194304	Value	ValueOutput
+Split Mix	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Output Trim	0	4194304	Value	ValueOutput
+SC Ext	0	4194304	Value	ValueOutput
+SCEQ	0	4194304	Value	ValueOutput
+SCHPF	0	4194304	Value	ValueOutput
+SCHPFFreq	0	4194304	Value	ValueOutput
+SCHPFSlope	0	4194304	Value	ValueOutput
+SCHPFType	0	4194304	Value	ValueOutput
+SCHPFGain	0	4194304	Value	ValueOutput
+SCEQGain	0	4194304	Value	ValueOutput
+SCEQFreq	0	4194304	Value	ValueOutput
+SCEQQ	0	4194304	Value	ValueOutput
+SCLPF	0	4194304	Value	ValueOutput
+SCLPFFreq	0	4194304	Value	ValueOutput
+SCLPFSlope	0	4194304	Value	ValueOutput
+SCLPFType	0	4194304	Value	ValueOutput
+SCLPFGain	0	4194304	Value	ValueOutput
+SCNoise	0	4194304	Value	ValueOutput
+SCNoisePre	0	4194304	Value	ValueOutput
+SCExtMix	0	4194304	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Ratio	0	4194304	Value	ValueOutput
+Expansion	0	4194304	Value	ValueOutput
+iRatio	0	4194304	Value	ValueOutput
+iExpand	0	4194304	Value	ValueOutput
+Bleed	0	4194304	Value	ValueOutput
+Ceil	0	4194304	Value	ValueOutput
+CeilCurve	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Knee	0	4194304	Value	ValueOutput
+AnKnee	0	4194304	Value	ValueOutput
+Hystheresis	0	4194304	Value	ValueOutput
+AutoGain	0	4194304	Value	ValueOutput
+AutoLevel	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+AttScale	0	4194304	Value	ValueOutput
+RelScale	0	4194304	Value	ValueOutput
+CurveLaw	0	4194304	Value	ValueOutput
+TimeScale	0	4194304	Value	ValueOutput
+AttType	0	4194304	Value	ValueOutput
+RelType	0	4194304	Value	ValueOutput
+AROrder	0	4194304	Value	ValueOutput
+ARCoupling	0	4194304	Value	ValueOutput
+Hold	0	4194304	Value	ValueOutput
+Lookahead	0	4194304	Value	ValueOutput
+FIRSmooth	0	4194304	Value	ValueOutput
+VCASmooth	0	4194304	Value	ValueOutput
+AutoRelease	0	4194304	Value	ValueOutput
+ARShort	0	4194304	Value	ValueOutput
+ARLong	0	4194304	Value	ValueOutput
+ARScale	0	4194304	Value	ValueOutput
+RMS	0	4194304	Value	ValueOutput
+TSEnable	0	4194304	Value	ValueOutput
+TSAttack	0	4194304	Value	ValueOutput
+TSSustain	0	4194304	Value	ValueOutput
+TSEnvTime	0	4194304	Value	ValueOutput
+TSAttTime	0	4194304	Value	ValueOutput
+TSSusTime	0	4194304	Value	ValueOutput
+TSMax	0	4194304	Value	ValueOutput
+CLEnable	0	4194304	Value	ValueOutput
+CLLimit	0	4194304	Value	ValueOutput
+CLRelease	0	4194304	Value	ValueOutput
+CLDrive	0	4194304	Value	ValueOutput
+CLCeil	0	4194304	Value	ValueOutput
+CLSoft	0	4194304	Value	ValueOutput
+M/S	0	4194304	Value	ValueOutput
+C1->C1	0	4194304	Value	ValueOutput
+C1->C2	0	4194304	Value	ValueOutput
+C2->C1	0	4194304	Value	ValueOutput
+C2->C2	0	4194304	Value	ValueOutput
+C1 Type	0	4194304	Value	ValueOutput
+C2 Type	0	4194304	Value	ValueOutput
+C1 Bypass	0	4194304	Value	ValueOutput
+C2 Bypass	0	4194304	Value	ValueOutput
+Listen	0	4194304	Value	ValueOutput
+Oversample	0	4194304	Value	ValueOutput
+A/B	0	4194304	Value	ValueOutput
+CLPrePost	0	4194304	Value	ValueOutput
+ExpOffset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

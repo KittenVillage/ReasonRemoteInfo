@@ -1,0 +1,25 @@
+Scope
+Manufacturer	Model
+Propellerheads	ReBirth Input Machine
+
+Remotable	Min	Max	Input type	Output type
+Peak Channel 1	0	127	-	ValueOutput
+Peak Channel 2	0	127	-	ValueOutput
+Peak Channel 3	0	127	-	ValueOutput
+Peak Channel 4	0	127	-	ValueOutput
+Peak Channel 5	0	127	-	ValueOutput
+Peak Channel 6	0	127	-	ValueOutput
+Peak Channel 7	0	127	-	ValueOutput
+Peak Channel 8	0	127	-	ValueOutput
+Peak Channel 9	0	127	-	ValueOutput
+Peak Channel 10	0	127	-	ValueOutput
+Peak Channel 11	0	127	-	ValueOutput
+Peak Channel 12	0	127	-	ValueOutput
+Peak Channel 13	0	127	-	ValueOutput
+Peak Channel 14	0	127	-	ValueOutput
+Peak Channel 15	0	127	-	ValueOutput
+Peak Channel 16	0	127	-	ValueOutput
+Peak Channel 17	0	127	-	ValueOutput
+Peak Channel 18	0	127	-	ValueOutput
+Active	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput

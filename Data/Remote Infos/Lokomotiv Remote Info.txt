@@ -1,0 +1,54 @@
+Scope
+Manufacturer	Model
+ArchetypeInst	vst.Enha.Lokomotiv
+Note: Will match scope definitions for vst.Enha.Lokomotiv or vst.Enha
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+BPM Sync On/Off	0	4194304	Value	ValueOutput
+LFO Type select	0	4194304	Value	ValueOutput
+LFO Speed	0	4194304	Value	ValueOutput
+LFO Target select	0	4194304	Value	ValueOutput
+LFO Amount	0	4194304	Value	ValueOutput
+Osc HardSync Amount	0	4194304	Value	ValueOutput
+Osc PW Amount	0	4194304	Value	ValueOutput
+Osc Saw Detune Amount	0	4194304	Value	ValueOutput
+Sub Osc Waveform	0	4194304	Value	ValueOutput
+Osc Noise Amount	0	4194304	Value	ValueOutput
+Osc Saw Amount	0	4194304	Value	ValueOutput
+Osc Pulse Amount	0	4194304	Value	ValueOutput
+Sub Osc Amount	0	4194304	Value	ValueOutput
+Env Attack	0	4194304	Value	ValueOutput
+Env Decay	0	4194304	Value	ValueOutput
+Env Sustain	0	4194304	Value	ValueOutput
+Env Release	0	4194304	Value	ValueOutput
+PhonicType	0	4194304	Value	ValueOutput
+Filter Type select	0	4194304	Value	ValueOutput
+Cutoff Amount	0	4194304	Value	ValueOutput
+Resonance Amount	0	4194304	Value	ValueOutput
+Keyboard Tracking Amount	0	4194304	Value	ValueOutput
+Envelope Amount	0	4194304	Value	ValueOutput
+Drive Pre/Post Switch	0	4194304	Value	ValueOutput
+Drive Amount	0	4194304	Value	ValueOutput
+Amp Env/Gate Select	0	4194304	Value	ValueOutput
+Amp Volume	0	4194304	Value	ValueOutput
+Pitch Bend Range	0	4194304	Value	ValueOutput
+ModWheel Target select	0	4194304	Value	ValueOutput
+Velocity Target select	0	4194304	Value	ValueOutput
+Portamento Speed	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

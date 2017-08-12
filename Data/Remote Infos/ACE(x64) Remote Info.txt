@@ -1,0 +1,190 @@
+Scope
+Manufacturer	Model
+u-he	vst.acEU.ACE(x64)
+Note: Will match scope definitions for vst.acEU.ACE(x64) or vst.acEU
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+main: Output	0	4194304	Value	ValueOutput
+VCC: Voices	0	4194304	Value	ValueOutput
+VCC: Voice Stack	0	4194304	Value	ValueOutput
+VCC: Mode	0	4194304	Value	ValueOutput
+VCC: GlideMode	0	4194304	Value	ValueOutput
+VCC: Glide	0	4194304	Value	ValueOutput
+VCC: Glide2	0	4194304	Value	ValueOutput
+VCC: GlideRange	0	4194304	Value	ValueOutput
+VCC: PitchBend Up	0	4194304	Value	ValueOutput
+VCC: PitchBend Down	0	4194304	Value	ValueOutput
+VCC: Transpose	0	4194304	Value	ValueOutput
+VCC: FineTuneCents	0	4194304	Value	ValueOutput
+ENV1: Attack	0	4194304	Value	ValueOutput
+ENV1: Decay	0	4194304	Value	ValueOutput
+ENV1: Sustain	0	4194304	Value	ValueOutput
+ENV1: Fall-Rise	0	4194304	Value	ValueOutput
+ENV1: Release	0	4194304	Value	ValueOutput
+ENV1: Velocity	0	4194304	Value	ValueOutput
+ENV1: RateMod	0	4194304	Value	ValueOutput
+ENV1: RateModSource	0	4194304	Value	ValueOutput
+ENV1: LevelMod	0	4194304	Value	ValueOutput
+ENV1: LevelModSource	0	4194304	Value	ValueOutput
+ENV1: ConstantRate	0	4194304	Value	ValueOutput
+ENV1: SnappyMode	0	4194304	Value	ValueOutput
+ENV1: FallRiseRange	0	4194304	Value	ValueOutput
+ENV1: Trigger	0	4194304	Value	ValueOutput
+ENV2: Attack	0	4194304	Value	ValueOutput
+ENV2: Decay	0	4194304	Value	ValueOutput
+ENV2: Sustain	0	4194304	Value	ValueOutput
+ENV2: Fall-Rise	0	4194304	Value	ValueOutput
+ENV2: Release	0	4194304	Value	ValueOutput
+ENV2: Velocity	0	4194304	Value	ValueOutput
+ENV2: RateMod	0	4194304	Value	ValueOutput
+ENV2: RateModSource	0	4194304	Value	ValueOutput
+ENV2: LevelMod	0	4194304	Value	ValueOutput
+ENV2: LevelModSource	0	4194304	Value	ValueOutput
+ENV2: ConstantRate	0	4194304	Value	ValueOutput
+ENV2: SnappyMode	0	4194304	Value	ValueOutput
+ENV2: FallRiseRange	0	4194304	Value	ValueOutput
+ENV2: Trigger	0	4194304	Value	ValueOutput
+Ramp1: Up	0	4194304	Value	ValueOutput
+Ramp1: Hold	0	4194304	Value	ValueOutput
+Ramp1: Down	0	4194304	Value	ValueOutput
+Ramp1: Rest	0	4194304	Value	ValueOutput
+Ramp1: ClockMode	0	4194304	Value	ValueOutput
+ACE1: OutputSource1	0	4194304	Value	ValueOutput
+ACE1: OutputSource2	0	4194304	Value	ValueOutput
+ACE1: Quality	0	4194304	Value	ValueOutput
+ACE1: OscBalance	0	4194304	Value	ValueOutput
+ACE1: SubOscVolume	0	4194304	Value	ValueOutput
+ACE1: NoiseVolume	0	4194304	Value	ValueOutput
+ACE1: MixerSource	0	4194304	Value	ValueOutput
+ACE1: SourceVolume	0	4194304	Value	ValueOutput
+ACE1: LPType1	0	4194304	Value	ValueOutput
+ACE1: FType1	0	4194304	Value	ValueOutput
+ACE1: LPType2	0	4194304	Value	ValueOutput
+ACE1: FType2	0	4194304	Value	ValueOutput
+ACE1: PanSource1	0	4194304	Value	ValueOutput
+ACE1: PanSource2	0	4194304	Value	ValueOutput
+ACE1: Slop	0	4194304	Value	ValueOutput
+ACE1: CrossTalk	0	4194304	Value	ValueOutput
+ACE1: OscCap	0	4194304	Value	ValueOutput
+ACE1: MxOscSrc	0	4194304	Value	ValueOutput
+ACE1: MxSubSrc	0	4194304	Value	ValueOutput
+ACE1: MxNoiseSrc	0	4194304	Value	ValueOutput
+LFO1: Tune	0	4194304	Value	ValueOutput
+LFO1: FineTune	0	4194304	Value	ValueOutput
+LFO1: FModSrc	0	4194304	Value	ValueOutput
+LFO1: FModDepth	0	4194304	Value	ValueOutput
+LFO1: FModRes	0	4194304	Value	ValueOutput
+LFO1: Phase (Lag)	0	4194304	Value	ValueOutput
+LFO1: PhaseModSrc	0	4194304	Value	ValueOutput
+LFO1: PhaseModDepth	0	4194304	Value	ValueOutput
+LFO1: Volume	0	4194304	Value	ValueOutput
+LFO1: VolumeModSrc	0	4194304	Value	ValueOutput
+LFO1: VolumeModDepth	0	4194304	Value	ValueOutput
+LFO2: Tune	0	4194304	Value	ValueOutput
+LFO2: FineTune	0	4194304	Value	ValueOutput
+LFO2: FModSrc	0	4194304	Value	ValueOutput
+LFO2: FModDepth	0	4194304	Value	ValueOutput
+LFO2: FModRes	0	4194304	Value	ValueOutput
+LFO2: Phase	0	4194304	Value	ValueOutput
+LFO2: Volume	0	4194304	Value	ValueOutput
+LFO2: VolumeModSrc	0	4194304	Value	ValueOutput
+LFO2: VolumeModDepth	0	4194304	Value	ValueOutput
+P2VCO: WaveForm1	0	4194304	Value	ValueOutput
+P2VCO: Tune1	0	4194304	Value	ValueOutput
+P2VCO: FineTune1	0	4194304	Value	ValueOutput
+P2VCO: FModSrc1	0	4194304	Value	ValueOutput
+P2VCO: FModDepth1	0	4194304	Value	ValueOutput
+P2VCO: FModRes1	0	4194304	Value	ValueOutput
+P2VCO: PulseWidth1	0	4194304	Value	ValueOutput
+P2VCO: PWMSrc1	0	4194304	Value	ValueOutput
+P2VCO: PWMDepth1	0	4194304	Value	ValueOutput
+P2VCO: WaveForm2	0	4194304	Value	ValueOutput
+P2VCO: Tune2	0	4194304	Value	ValueOutput
+P2VCO: FineTune2	0	4194304	Value	ValueOutput
+P2VCO: FModSrc2	0	4194304	Value	ValueOutput
+P2VCO: FModDepth2	0	4194304	Value	ValueOutput
+P2VCO: FModRes2	0	4194304	Value	ValueOutput
+P2VCO: PulseWidth2	0	4194304	Value	ValueOutput
+P2VCO: PWMSrc2	0	4194304	Value	ValueOutput
+P2VCO: PWMDepth2	0	4194304	Value	ValueOutput
+P2VCO: SoftSync	0	4194304	Value	ValueOutput
+P2VCO: SoftSyncMSrc	0	4194304	Value	ValueOutput
+P2VCO: SubOscType	0	4194304	Value	ValueOutput
+P2VCO: OscVolume1	0	4194304	Value	ValueOutput
+P2VCO: OscVolume2	0	4194304	Value	ValueOutput
+P2VCO: SubOscVolume	0	4194304	Value	ValueOutput
+P2VCO: FM Osc1-Osc2	0	4194304	Value	ValueOutput
+P2VCO: RM Osc1-Osc2	0	4194304	Value	ValueOutput
+P2VCO: FM ModSrc	0	4194304	Value	ValueOutput
+P2VCO: TriMode	0	4194304	Value	ValueOutput
+P2VCO: Vibrato (LFO)	0	4194304	Value	ValueOutput
+VCF1: Input	0	4194304	Value	ValueOutput
+VCF1: InputGain	0	4194304	Value	ValueOutput
+VCF1: Cutoff	0	4194304	Value	ValueOutput
+VCF1: FreqModSrc1	0	4194304	Value	ValueOutput
+VCF1: FreqModDepth1	0	4194304	Value	ValueOutput
+VCF1: FreqModSrc2	0	4194304	Value	ValueOutput
+VCF1: FreqModDepth2	0	4194304	Value	ValueOutput
+VCF1: KeyFollow	0	4194304	Value	ValueOutput
+VCF1: Resonance	0	4194304	Value	ValueOutput
+VCF1: ResCVSrc	0	4194304	Value	ValueOutput
+VCF2: Input	0	4194304	Value	ValueOutput
+VCF2: InputGain	0	4194304	Value	ValueOutput
+VCF2: Cutoff	0	4194304	Value	ValueOutput
+VCF2: FreqModSrc1	0	4194304	Value	ValueOutput
+VCF2: FreqModDepth1	0	4194304	Value	ValueOutput
+VCF2: FreqModSrc2	0	4194304	Value	ValueOutput
+VCF2: FreqModDepth2	0	4194304	Value	ValueOutput
+VCF2: KeyFollow	0	4194304	Value	ValueOutput
+VCF2: Resonance	0	4194304	Value	ValueOutput
+VCF2: ResCVSrc	0	4194304	Value	ValueOutput
+Multi1: Gain12	0	4194304	Value	ValueOutput
+Multi1: Gain34	0	4194304	Value	ValueOutput
+Multi2: Gain12	0	4194304	Value	ValueOutput
+Multi2: Gain34	0	4194304	Value	ValueOutput
+VCA1: Volume	0	4194304	Value	ValueOutput
+VCA1: PanModDepth	0	4194304	Value	ValueOutput
+VCA2: Volume	0	4194304	Value	ValueOutput
+VCA2: PanModDepth	0	4194304	Value	ValueOutput
+FX: Mode	0	4194304	Value	ValueOutput
+FX: Speed	0	4194304	Value	ValueOutput
+FX: Effect	0	4194304	Value	ValueOutput
+FX: Center	0	4194304	Value	ValueOutput
+FX: Depth	0	4194304	Value	ValueOutput
+FX: DelayType	0	4194304	Value	ValueOutput
+FX: DelayMix	0	4194304	Value	ValueOutput
+FX: DelayFB	0	4194304	Value	ValueOutput
+FX: DelaySpread	0	4194304	Value	ValueOutput
+FX: DelayDamp	0	4194304	Value	ValueOutput
+FX: BassBoost	0	4194304	Value	ValueOutput
+FX: TrebleBoost	0	4194304	Value	ValueOutput
+FX: FX On	0	4194304	Value	ValueOutput
+Multi1: Input1	0	4194304	Value	ValueOutput
+Multi1: Input2	0	4194304	Value	ValueOutput
+Multi1: InputRM	0	4194304	Value	ValueOutput
+Multi1: Input3	0	4194304	Value	ValueOutput
+Multi1: Input4	0	4194304	Value	ValueOutput
+Multi2: Input1	0	4194304	Value	ValueOutput
+Multi2: Input2	0	4194304	Value	ValueOutput
+Multi2: InputRM	0	4194304	Value	ValueOutput
+Multi2: Input3	0	4194304	Value	ValueOutput
+Multi2: Input4	0	4194304	Value	ValueOutput
+LFO1: Waveform	0	4194304	Value	ValueOutput
+LFO2: Waveform	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

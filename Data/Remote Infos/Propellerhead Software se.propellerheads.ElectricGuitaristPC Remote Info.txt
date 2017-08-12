@@ -1,0 +1,32 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.ElectricGuitaristPC
+
+Remotable	Min	Max	Input type	Output type
+Guitar	0	3	Value	ValueOutput
+Drop D	0	1	Toggle	ValueOutput
+Amp	0	4	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Key	0	12	Value	ValueOutput
+Style	0	199	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+Feel	0	4194304	Value	ValueOutput
+Latch	0	1	Toggle	ValueOutput
+Doubling	0	1	Toggle	ValueOutput
+Slapback	0	4194304	Value	ValueOutput
+Echo	0	4194304	Value	ValueOutput
+Chorus	0	4194304	Value	ValueOutput
+Reverb	0	4194304	Value	ValueOutput
+Thrust	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Phrase	0	34	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

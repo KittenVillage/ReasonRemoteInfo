@@ -1,0 +1,92 @@
+Scope
+Manufacturer	Model
+Flux:: - IRCAM	vst.fitv.VerbV3 x64
+Note: Will match scope definitions for vst.fitv.VerbV3 x64 or vst.fitv
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Morphing	0	4194304	Value	ValueOutput
+Input Level	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Dry / Wet	0	4194304	Value	ValueOutput
+Room Size	0	4194304	Value	ValueOutput
+Decay Time	0	4194304	Value	ValueOutput
+Decay High	0	4194304	Value	ValueOutput
+Decay Mid	0	4194304	Value	ValueOutput
+Decay Low	0	4194304	Value	ValueOutput
+Crossover Low Freq	0	4194304	Value	ValueOutput
+Crossover High Freq	0	4194304	Value	ValueOutput
+Room Global Gain	0	4194304	Value	ValueOutput
+Room Low Gain	0	4194304	Value	ValueOutput
+Room Mid Gain	0	4194304	Value	ValueOutput
+Room Hi Gain	0	4194304	Value	ValueOutput
+Room Low Freq	0	4194304	Value	ValueOutput
+Room High Freq	0	4194304	Value	ValueOutput
+Early On	0	4194304	Value	ValueOutput
+Early Min	0	4194304	Value	ValueOutput
+Early Max	0	4194304	Value	ValueOutput
+Early Dist	0	4194304	Value	ValueOutput
+Early Shape	0	4194304	Value	ValueOutput
+Early Global Gain	0	4194304	Value	ValueOutput
+Early Low Gain	0	4194304	Value	ValueOutput
+Early Mid Gain	0	4194304	Value	ValueOutput
+Early Hi Gain	0	4194304	Value	ValueOutput
+Early Low Freq	0	4194304	Value	ValueOutput
+Early High Freq	0	4194304	Value	ValueOutput
+Cluster On	0	4194304	Value	ValueOutput
+Cluster Min	0	4194304	Value	ValueOutput
+Cluster Max	0	4194304	Value	ValueOutput
+Cluster Dist	0	4194304	Value	ValueOutput
+Cluster Global Gain	0	4194304	Value	ValueOutput
+Cluster Low Gain	0	4194304	Value	ValueOutput
+Cluster Mid Gain	0	4194304	Value	ValueOutput
+Cluster Hi Gain	0	4194304	Value	ValueOutput
+Cluster Low Freq	0	4194304	Value	ValueOutput
+Cluster High Freq	0	4194304	Value	ValueOutput
+Reverb On	0	4194304	Value	ValueOutput
+Reverb Start	0	4194304	Value	ValueOutput
+Reverb Dist	0	4194304	Value	ValueOutput
+Reverb Global Gain	0	4194304	Value	ValueOutput
+Reverb Low Gain	0	4194304	Value	ValueOutput
+Reverb Mid Gain	0	4194304	Value	ValueOutput
+Reverb Hi Gain	0	4194304	Value	ValueOutput
+Reverb Low Freq	0	4194304	Value	ValueOutput
+Reverb High Freq	0	4194304	Value	ValueOutput
+Reverb Modal Density	0	4194304	Value	ValueOutput
+Reverb Infinite	0	4194304	Value	ValueOutput
+Reverb Air Absorption	0	4194304	Value	ValueOutput
+Reverb Air Absorption Ro	0	4194304	Value	ValueOutput
+Ch. Width	0	4194304	Value	ValueOutput
+Ch. Panning	0	4194304	Value	ValueOutput
+Cluster Diffuseness	0	4194304	Value	ValueOutput
+Reverb Diffuseness	0	4194304	Value	ValueOutput
+High Density	0	4194304	Value	ValueOutput
+Early Solo	0	4194304	Value	ValueOutput
+Cluster Solo	0	4194304	Value	ValueOutput
+Reverb Solo	0	4194304	Value	ValueOutput
+P1 Routing Matrix	0	4194304	Value	ValueOutput
+P2 Routing Matrix	0	4194304	Value	ValueOutput
+P3 Routing Matrix	0	4194304	Value	ValueOutput
+P4 Routing Matrix	0	4194304	Value	ValueOutput
+P5 Routing Matrix	0	4194304	Value	ValueOutput
+P6 Routing Matrix	0	4194304	Value	ValueOutput
+P7 Routing Matrix	0	4194304	Value	ValueOutput
+P8 Routing Matrix	0	4194304	Value	ValueOutput
+Morphing Automation	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

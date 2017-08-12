@@ -1,0 +1,83 @@
+Scope
+Manufacturer	Model
+PSPaudioware.com	vst.PS85.PSP 85 x64
+Note: Will match scope definitions for vst.PS85.PSP 85 x64 or vst.PS85
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+FbGainL	0	4194304	Value	ValueOutput
+FbGainR	0	4194304	Value	ValueOutput
+FbPanL	0	4194304	Value	ValueOutput
+FbPanR	0	4194304	Value	ValueOutput
+FbInvL	0	4194304	Value	ValueOutput
+FbInvR	0	4194304	Value	ValueOutput
+LFOWave	0	4194304	Value	ValueOutput
+LFORate	0	4194304	Value	ValueOutput
+LROffset	0	4194304	Value	ValueOutput
+ModSrc	0	4194304	Value	ValueOutput
+CutfMod	0	4194304	Value	ValueOutput
+FltType	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Reso	0	4194304	Value	ValueOutput
+VcoMan	0	4194304	Value	ValueOutput
+VcoMod	0	4194304	Value	ValueOutput
+DlyInvL	0	4194304	Value	ValueOutput
+DlyInvR	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+EnvSpeed	0	4194304	Value	ValueOutput
+FltMode	0	4194304	Value	ValueOutput
+DlyModeL	0	4194304	Value	ValueOutput
+DlyModeR	0	4194304	Value	ValueOutput
+DlyNumL	0	4194304	Value	ValueOutput
+DlyNumR	0	4194304	Value	ValueOutput
+DlyDenL	0	4194304	Value	ValueOutput
+DlyDenR	0	4194304	Value	ValueOutput
+RangeL	0	4194304	Value	ValueOutput
+RangeR	0	4194304	Value	ValueOutput
+LfoMode	0	4194304	Value	ValueOutput
+LfoNum	0	4194304	Value	ValueOutput
+LfoDen	0	4194304	Value	ValueOutput
+DlyTimeL	0	4194304	Value	ValueOutput
+DlyTimeR	0	4194304	Value	ValueOutput
+RvbMode	0	4194304	Value	ValueOutput
+RvbType	0	4194304	Value	ValueOutput
+RvbDamp	0	4194304	Value	ValueOutput
+RvbAmt	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+FltOn	0	4194304	Value	ValueOutput
+n/a	0	4194304	Value	ValueOutput
+DuckingSrc	0	4194304	Value	ValueOutput
+VcoOn	0	4194304	Value	ValueOutput
+RvbOn	0	4194304	Value	ValueOutput
+ModSens	0	4194304	Value	ValueOutput
+DlyPanL	0	4194304	Value	ValueOutput
+DlyPanR	0	4194304	Value	ValueOutput
+DlyGateL	0	4194304	Value	ValueOutput
+DlyGateR	0	4194304	Value	ValueOutput
+Ducking	0	4194304	Value	ValueOutput
+ResoMod	0	4194304	Value	ValueOutput
+PreNumL	0	4194304	Value	ValueOutput
+PreNumR	0	4194304	Value	ValueOutput
+PreDenL	0	4194304	Value	ValueOutput
+PreDenR	0	4194304	Value	ValueOutput
+MuteInL	0	4194304	Value	ValueOutput
+MuteInR	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

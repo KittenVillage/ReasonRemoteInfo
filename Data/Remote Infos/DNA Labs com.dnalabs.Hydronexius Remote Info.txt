@@ -1,0 +1,84 @@
+Scope
+Manufacturer	Model
+DNA Labs	com.dnalabs.Hydronexius
+
+Remotable	Min	Max	Input type	Output type
+Volume	0	4194304	Value	ValueOutput
+Spatial Imager	0	4194304	Value	ValueOutput
+Mono Retrigger	0	1	Toggle	ValueOutput
+Reverb Enable	0	1	Toggle	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Damp	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Reverb Low Cut	0	4194304	Value	ValueOutput
+Reverb High Cut	0	4194304	Value	ValueOutput
+Delay Enable	0	1	Toggle	ValueOutput
+Delay Mode	0	3	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Delay Damp	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Sync	0	1	Toggle	ValueOutput
+Delay Time ms	0	4194304	Value	ValueOutput
+Delay Time Sync	0	18	Value	ValueOutput
+Delay Offset	0	4194304	Value	ValueOutput
+Polyphonic Glide	0	4194304	Value	ValueOutput
+X Semitones	0	24	Value	ValueOutput
+X Cents	0	4194304	Value	ValueOutput
+Y Semitones	0	24	Value	ValueOutput
+Y Cents	0	4194304	Value	ValueOutput
+Vibrato Sync	0	1	Toggle	ValueOutput
+Vibrato Rate Hz	0	4194304	Value	ValueOutput
+Vibrato Rate Sync	0	26	Value	ValueOutput
+Vibrato Depth	0	4194304	Value	ValueOutput
+Vibrato Shape	0	5	Value	ValueOutput
+Pitch Bend Range	0	24	Value	ValueOutput
+Filter X Envelope Amount	0	4194304	Value	ValueOutput
+Filter X Resonance	0	4194304	Value	ValueOutput
+Filter X Cutoff	0	4194304	Value	ValueOutput
+Filter X LFO Amount	0	4194304	Value	ValueOutput
+Filter X Type	0	6	Value	ValueOutput
+Filter Y Envelope_Amount	0	4194304	Value	ValueOutput
+Filter Y Resonance	0	4194304	Value	ValueOutput
+Filter Y Cutoff	0	4194304	Value	ValueOutput
+Filter Y LFO Amount	0	4194304	Value	ValueOutput
+Filter Y Type	0	6	Value	ValueOutput
+Filter X Pan	0	4194304	Value	ValueOutput
+Filter Y Pan	0	4194304	Value	ValueOutput
+Filter X Vol	0	4194304	Value	ValueOutput
+Filter Y Vol	0	4194304	Value	ValueOutput
+Mod LFO Shape	0	5	Value	ValueOutput
+Mod LFO Sync	0	1	Toggle	ValueOutput
+Mod LFO Rate Hz	0	4194304	Value	ValueOutput
+Mod LFO Rate Sync	0	26	Value	ValueOutput
+Amp Envelope Attack	0	4194304	Value	ValueOutput
+Amp Envelope Hold	0	4194304	Value	ValueOutput
+Amp Envelope Decay	0	4194304	Value	ValueOutput
+Amp Envelope Sustain	0	4194304	Value	ValueOutput
+Amp Envelope Release	0	4194304	Value	ValueOutput
+Filter Envelope Attack	0	4194304	Value	ValueOutput
+Filter Envelope Decay	0	4194304	Value	ValueOutput
+Filter Envelope Sustain	0	4194304	Value	ValueOutput
+Filter Envelope Release	0	4194304	Value	ValueOutput
+AHD Enable	0	1	Toggle	ValueOutput
+AHD Level	0	4194304	Value	ValueOutput
+AHD Tone Low	0	4194304	Value	ValueOutput
+AHD Tone High	0	4194304	Value	ValueOutput
+AHD Presence	0	4194304	Value	ValueOutput
+AHD Type	0	4	Value	ValueOutput
+Phaser Enable	0	1	Toggle	ValueOutput
+Chorus Enable	0	1	Toggle	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Phaser Mix	0	4194304	Value	ValueOutput
+Instrument_Select	0	104	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

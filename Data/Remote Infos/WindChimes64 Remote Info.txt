@@ -1,0 +1,46 @@
+Scope
+Manufacturer	Model
+Bill Davies	vst.tcwc.WindChimes64
+Note: Will match scope definitions for vst.tcwc.WindChimes64 or vst.tcwc
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+WSpeed	0	4194304	Value	ValueOutput
+Variable	0	4194304	Value	ValueOutput
+NumTones	0	4194304	Value	ValueOutput
+Tone 1	0	4194304	Value	ValueOutput
+Tone 2	0	4194304	Value	ValueOutput
+Tone 3	0	4194304	Value	ValueOutput
+Tone 4	0	4194304	Value	ValueOutput
+Tone 5	0	4194304	Value	ValueOutput
+Tone 6	0	4194304	Value	ValueOutput
+Tone 7	0	4194304	Value	ValueOutput
+Tone 8	0	4194304	Value	ValueOutput
+Sensitiv	0	4194304	Value	ValueOutput
+ClapSize	0	4194304	Value	ValueOutput
+Algorithm	0	4194304	Value	ValueOutput
+Duration	0	4194304	Value	ValueOutput
+Channel	0	4194304	Value	ValueOutput
+MinVelocity	0	4194304	Value	ValueOutput
+ChannelA	0	4194304	Value	ValueOutput
+CC Number B	0	4194304	Value	ValueOutput
+CC A	0	4194304	Value	ValueOutput
+ChannelB	0	4194304	Value	ValueOutput
+CC Number B	0	4194304	Value	ValueOutput
+CC B	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

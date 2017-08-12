@@ -1,0 +1,63 @@
+Scope
+Manufacturer	Model
+DDMF	vst.DirQ.DirectionalEQ
+Note: Will match scope definitions for vst.DirQ.DirectionalEQ or vst.DirQ
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+gain1	0	4194304	Value	ValueOutput
+freq1	0	4194304	Value	ValueOutput
+width1	0	4194304	Value	ValueOutput
+angle1	0	4194304	Value	ValueOutput
+level1	0	4194304	Value	ValueOutput
+type1	0	4194304	Value	ValueOutput
+bypass1	0	4194304	Value	ValueOutput
+solo1	0	4194304	Value	ValueOutput
+gain2	0	4194304	Value	ValueOutput
+freq2	0	4194304	Value	ValueOutput
+width2	0	4194304	Value	ValueOutput
+angle2	0	4194304	Value	ValueOutput
+level2	0	4194304	Value	ValueOutput
+type2	0	4194304	Value	ValueOutput
+bypass2	0	4194304	Value	ValueOutput
+solo2	0	4194304	Value	ValueOutput
+gain3	0	4194304	Value	ValueOutput
+freq3	0	4194304	Value	ValueOutput
+width3	0	4194304	Value	ValueOutput
+angle3	0	4194304	Value	ValueOutput
+level3	0	4194304	Value	ValueOutput
+type3	0	4194304	Value	ValueOutput
+bypass3	0	4194304	Value	ValueOutput
+solo3	0	4194304	Value	ValueOutput
+gain4	0	4194304	Value	ValueOutput
+freq4	0	4194304	Value	ValueOutput
+width4	0	4194304	Value	ValueOutput
+angle4	0	4194304	Value	ValueOutput
+level4	0	4194304	Value	ValueOutput
+type4	0	4194304	Value	ValueOutput
+bypass4	0	4194304	Value	ValueOutput
+solo4	0	4194304	Value	ValueOutput
+gain5	0	4194304	Value	ValueOutput
+freq5	0	4194304	Value	ValueOutput
+width5	0	4194304	Value	ValueOutput
+angle5	0	4194304	Value	ValueOutput
+level5	0	4194304	Value	ValueOutput
+type5	0	4194304	Value	ValueOutput
+bypass5	0	4194304	Value	ValueOutput
+solo5	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

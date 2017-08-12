@@ -1,0 +1,118 @@
+Scope
+Manufacturer	Model
+Scuffham Amps	vst.scf2.S-Gear2_x64
+Note: Will match scope definitions for vst.scf2.S-Gear2_x64 or vst.scf2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input Trim	0	4194304	Value	ValueOutput
+Output Trim	0	4194304	Value	ValueOutput
+Amp Bypass	0	4194304	Value	ValueOutput
+Effect Bypass	0	4194304	Value	ValueOutput
+Convolver Bypass	0	4194304	Value	ValueOutput
+Noise Gate Enable	0	4194304	Value	ValueOutput
+Noise Gate Threshold	0	4194304	Value	ValueOutput
+Bright Contour (A)	0	4194304	Value	ValueOutput
+Gain (A)	0	4194304	Value	ValueOutput
+Bass (A)	0	4194304	Value	ValueOutput
+Middle (A)	0	4194304	Value	ValueOutput
+Treble (A)	0	4194304	Value	ValueOutput
+Presence (A)	0	4194304	Value	ValueOutput
+Level (A)	0	4194304	Value	ValueOutput
+PwrAmp Presence Frq (A)	0	4194304	Value	ValueOutput
+PwrAmp Hi-Cut (A)	0	4194304	Value	ValueOutput
+PwrAmp Sag (A)	0	4194304	Value	ValueOutput
+Channel (A)	0	4194304	Value	ValueOutput
+Boost (Lead I/II) (A)	0	4194304	Value	ValueOutput
+Bass Shift (A)	0	4194304	Value	ValueOutput
+Mid Shift (A)	0	4194304	Value	ValueOutput
+Bright Shift (A)	0	4194304	Value	ValueOutput
+Amp Drive (A)	0	4194304	Value	ValueOutput
+GEQ low (A)	0	4194304	Value	ValueOutput
+GEQ mid (A)	0	4194304	Value	ValueOutput
+GEQ high (A)	0	4194304	Value	ValueOutput
+Tremolo Speed (A)	0	4194304	Value	ValueOutput
+Tremolo Intensity (A)	0	4194304	Value	ValueOutput
+Tremolo Enable (A)	0	4194304	Value	ValueOutput
+Lead Drive (Wayfarer) (A	0	4194304	Value	ValueOutput
+GEQ Bypass (Wayfarer) (A	0	4194304	Value	ValueOutput
+GEQ x-low (A)	0	4194304	Value	ValueOutput
+GEQ x-high (A)	0	4194304	Value	ValueOutput
+Bright Contour (B)	0	4194304	Value	ValueOutput
+Gain (B)	0	4194304	Value	ValueOutput
+Bass (B)	0	4194304	Value	ValueOutput
+Middle (B)	0	4194304	Value	ValueOutput
+Treble (B)	0	4194304	Value	ValueOutput
+Presence (B)	0	4194304	Value	ValueOutput
+Level (B)	0	4194304	Value	ValueOutput
+PwrAmp Presence Frq (B)	0	4194304	Value	ValueOutput
+PwrAmp Hi-Cut (B)	0	4194304	Value	ValueOutput
+PwrAmp Sag (B)	0	4194304	Value	ValueOutput
+Channel (B)	0	4194304	Value	ValueOutput
+Boost (Lead I/II) (B)	0	4194304	Value	ValueOutput
+Bass Shift (B)	0	4194304	Value	ValueOutput
+Mid Shift (B)	0	4194304	Value	ValueOutput
+Bright Shift (B)	0	4194304	Value	ValueOutput
+Amp Drive (B)	0	4194304	Value	ValueOutput
+GEQ low (B)	0	4194304	Value	ValueOutput
+GEQ mid (B)	0	4194304	Value	ValueOutput
+GEQ high (B)	0	4194304	Value	ValueOutput
+Tremolo Speed (B)	0	4194304	Value	ValueOutput
+Tremolo Intensity (B)	0	4194304	Value	ValueOutput
+Tremolo Enable (B)	0	4194304	Value	ValueOutput
+Lead Drive (Wayfarer) (B	0	4194304	Value	ValueOutput
+GEQ Bypass (Wayfarer) (B	0	4194304	Value	ValueOutput
+GEQ x-low (B)	0	4194304	Value	ValueOutput
+GEQ x-high (B)	0	4194304	Value	ValueOutput
+DelayThing Bypass	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Delay Tone	0	4194304	Value	ValueOutput
+Delay Width	0	4194304	Value	ValueOutput
+Delay Depth	0	4194304	Value	ValueOutput
+Delay Rate	0	4194304	Value	ValueOutput
+Delay Length	0	4194304	Value	ValueOutput
+Delay Character	0	4194304	Value	ValueOutput
+Delay Mod Type	0	4194304	Value	ValueOutput
+Delay Format	0	4194304	Value	ValueOutput
+Convolver Bypass	0	4194304	Value	ValueOutput
+Cab1 Bass	0	4194304	Value	ValueOutput
+Cab1 Treble	0	4194304	Value	ValueOutput
+Cab1 Pan	0	4194304	Value	ValueOutput
+Cab2 Bass	0	4194304	Value	ValueOutput
+Cab2 Treble	0	4194304	Value	ValueOutput
+Cab2 Pan	0	4194304	Value	ValueOutput
+Cab1 Level	0	4194304	Value	ValueOutput
+Cab2 Level	0	4194304	Value	ValueOutput
+Cab1 EQ Bypass	0	4194304	Value	ValueOutput
+Cab2 EQ Bypass	0	4194304	Value	ValueOutput
+Reverb Bypass	0	4194304	Value	ValueOutput
+Reverb Hold	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb HF Damp	0	4194304	Value	ValueOutput
+Reverb LF Damp	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Reverb Input Spread	0	4194304	Value	ValueOutput
+Reverb Width	0	4194304	Value	ValueOutput
+Reverb Position	0	4194304	Value	ValueOutput
+Reverb HEQ Gain	0	4194304	Value	ValueOutput
+Reverb HEQ Freq	0	4194304	Value	ValueOutput
+Reverb LEQ Gain	0	4194304	Value	ValueOutput
+Reverb LEQ Freq	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

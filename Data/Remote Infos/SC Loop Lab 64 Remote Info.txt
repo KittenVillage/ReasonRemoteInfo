@@ -1,0 +1,43 @@
+Scope
+Manufacturer	Model
+Stagecraft Software	vst.LpLb.SC Loop Lab 64
+Note: Will match scope definitions for vst.LpLb.SC Loop Lab 64 or vst.LpLb
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Rec New Loop	0	4194304	Value	ValueOutput
+Stack New Loop	0	4194304	Value	ValueOutput
+Add New Loop	0	4194304	Value	ValueOutput
+Rec Current Loop	0	4194304	Value	ValueOutput
+Play Current Loo	0	4194304	Value	ValueOutput
+Stop Current Loo	0	4194304	Value	ValueOutput
+Stack Current Lo	0	4194304	Value	ValueOutput
+Clear Current Lo	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+Pitch	0	4194304	Value	ValueOutput
+Resync	0	4194304	Value	ValueOutput
+Sync Lock	0	4194304	Value	ValueOutput
+Sync	0	4194304	Value	ValueOutput
+Master Sync Lock	0	4194304	Value	ValueOutput
+Stack Decay	0	4194304	Value	ValueOutput
+Thru	0	4194304	Value	ValueOutput
+Loops	0	4194304	Value	ValueOutput
+Next Loop	0	4194304	Value	ValueOutput
+Previous Loop	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

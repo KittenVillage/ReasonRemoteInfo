@@ -1,0 +1,26 @@
+Scope
+Manufacturer	Model
+Propellerheads	Line 6 Bass Amp
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Drive	0	127	Value	ValueOutput
+Bass	0	127	Value	ValueOutput
+Lo Mid	0	127	Value	ValueOutput
+Hi Mid	0	127	Value	ValueOutput
+Treble	0	127	Value	ValueOutput
+Volume	0	127	Value	ValueOutput
+Compressor On	0	1	Toggle	ValueOutput
+Comp Threshold	0	127	Value	ValueOutput
+Input Peak Meter	0	20	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Amp Model Delta	0	0	Delta	TextOutput
+Select Previous Amp Model	0	0	Trig	TextOutput
+Select Next Amp Model	0	0	Trig	TextOutput
+Select Cab Model Delta	0	0	Delta	TextOutput
+Select Previous Cab Model	0	0	Trig	TextOutput
+Select Next Cab Model	0	0	Trig	TextOutput

@@ -1,0 +1,50 @@
+Scope
+Manufacturer	Model
+iZotope, Inc.	vst.Zn6N.RX 6 Spectral De-noise x64
+Note: Will match scope definitions for vst.Zn6N.RX 6 Spectral De-noise x64 or vst.Zn6N
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Noise threshold (dB)	0	4194304	Value	ValueOutput
+Tonal threshold (dB)	0	4194304	Value	ValueOutput
+Linked threshold (dB)	0	4194304	Value	ValueOutput
+Link threshold	0	4194304	Value	ValueOutput
+Noise reduction (dB)	0	4194304	Value	ValueOutput
+Tonal reduction (dB)	0	4194304	Value	ValueOutput
+Linked reduction (dB)	0	4194304	Value	ValueOutput
+Link reduction	0	4194304	Value	ValueOutput
+Quality	0	4194304	Value	ValueOutput
+Artifact control	0	4194304	Value	ValueOutput
+Enable reduction curve	0	4194304	Value	ValueOutput
+Output noise only	0	4194304	Value	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Global bypass	0	4194304	Value	ValueOutput
+Global dirty flag	0	4194304	Value	ValueOutput
+Adaptive learning	0	4194304	Value	ValueOutput
+Adaptive learning time	0	4194304	Value	ValueOutput
+FFT size	0	4194304	Value	ValueOutput
+Multi-resolution	0	4194304	Value	ValueOutput
+Smoothing	0	4194304	Value	ValueOutput
+Release (ms)	0	4194304	Value	ValueOutput
+Knee	0	4194304	Value	ValueOutput
+Synthesis	0	4194304	Value	ValueOutput
+Enhancement	0	4194304	Value	ValueOutput
+Masking	0	4194304	Value	ValueOutput
+Whitening	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

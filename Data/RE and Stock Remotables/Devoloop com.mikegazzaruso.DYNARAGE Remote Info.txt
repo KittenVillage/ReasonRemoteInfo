@@ -1,0 +1,29 @@
+Scope
+Manufacturer	Model
+Devoloop	com.mikegazzaruso.DYNARAGE
+
+Remotable	Min	Max	Input type	Output type
+Sensitivity	0	4194304	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Ratio	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+LimitOn	0	1	Toggle	ValueOutput
+Ratiofixed	0	4194304	Value	ValueOutput
+Knee	0	1	Toggle	ValueOutput
+KeyIn	0	1	Toggle	ValueOutput
+KeyListen	0	1	Toggle	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Rage	0	1	Toggle	ValueOutput
+RageTone	0	4194304	Value	ValueOutput
+Nurgle	0	4194304	Value	ValueOutput
+Korne	0	4194304	Value	ValueOutput
+Tubes Number	0	9	Value	ValueOutput
+DryWet	0	4194304	Value	ValueOutput
+Signal Routing	0	1	Toggle	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

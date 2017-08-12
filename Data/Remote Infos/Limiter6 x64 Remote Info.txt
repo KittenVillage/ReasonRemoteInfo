@@ -1,0 +1,55 @@
+Scope
+Manufacturer	Model
+Vladislav Goncharov	vst.L6v1.Limiter6 x64
+Note: Will match scope definitions for vst.L6v1.Limiter6 x64 or vst.L6v1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+--Mode--	0	4194304	Value	ValueOutput
+R.Gain	0	4194304	Value	ValueOutput
+R.Ratio	0	4194304	Value	ValueOutput
+R.Attack	0	4194304	Value	ValueOutput
+R.Releas	0	4194304	Value	ValueOutput
+R.DryMix	0	4194304	Value	ValueOutput
+--RMS--	0	4194304	Value	ValueOutput
+P.Gain	0	4194304	Value	ValueOutput
+P.Thresh	0	4194304	Value	ValueOutput
+P.Mode	0	4194304	Value	ValueOutput
+P.Type	0	4194304	Value	ValueOutput
+P.Speed	0	4194304	Value	ValueOutput
+--LIM--	0	4194304	Value	ValueOutput
+HF.Thres	0	4194304	Value	ValueOutput
+-HFLIM--	0	4194304	Value	ValueOutput
+C.Gain	0	4194304	Value	ValueOutput
+C.Thresh	0	4194304	Value	ValueOutput
+C.Upsmpl	0	4194304	Value	ValueOutput
+C.Knee	0	4194304	Value	ValueOutput
+C.Mode	0	4194304	Value	ValueOutput
+--CLIP--	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Ceiling	0	4194304	Value	ValueOutput
+Protecti	0	4194304	Value	ValueOutput
+Meter_1_	0	4194304	Value	ValueOutput
+Meter_2_	0	4194304	Value	ValueOutput
+Meter_3_	0	4194304	Value	ValueOutput
+Meter_4_	0	4194304	Value	ValueOutput
+Meter_5_	0	4194304	Value	ValueOutput
+Latency	0	4194304	Value	ValueOutput
+Lim.Ovr	0	4194304	Value	ValueOutput
+Comp->Li	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

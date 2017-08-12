@@ -1,0 +1,75 @@
+Scope
+Manufacturer	Model
+Waves	vst.HEQM.WaveShell-VST 9_91_x64.H-EQ Mono
+Note: Will match scope definitions for vst.HEQM.WaveShell-VST 9_91_x64.H-EQ Mono or vst.HEQM
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input	0	4194304	Value	ValueOutput
+HP On/Off	0	4194304	Value	ValueOutput
+HP Type	0	4194304	Value	ValueOutput
+HP Freq	0	4194304	Value	ValueOutput
+HP Q	0	4194304	Value	ValueOutput
+LF On/Off	0	4194304	Value	ValueOutput
+LF Shape	0	4194304	Value	ValueOutput
+LF Type	0	4194304	Value	ValueOutput
+LF Freq	0	4194304	Value	ValueOutput
+LF Q	0	4194304	Value	ValueOutput
+LF Gain	0	4194304	Value	ValueOutput
+LMF On/Off	0	4194304	Value	ValueOutput
+LMF Type	0	4194304	Value	ValueOutput
+LMF Freq	0	4194304	Value	ValueOutput
+LMF Q	0	4194304	Value	ValueOutput
+LMF Gain	0	4194304	Value	ValueOutput
+MF On/Off	0	4194304	Value	ValueOutput
+MF Type	0	4194304	Value	ValueOutput
+MF Freq	0	4194304	Value	ValueOutput
+MF Q	0	4194304	Value	ValueOutput
+MF Gain	0	4194304	Value	ValueOutput
+HMF On/Off	0	4194304	Value	ValueOutput
+HMF Type	0	4194304	Value	ValueOutput
+HMF Freq	0	4194304	Value	ValueOutput
+HMF Q	0	4194304	Value	ValueOutput
+HMF Gain	0	4194304	Value	ValueOutput
+HF On/Off	0	4194304	Value	ValueOutput
+HF Shape	0	4194304	Value	ValueOutput
+HF Type	0	4194304	Value	ValueOutput
+HF Freq	0	4194304	Value	ValueOutput
+HF Q	0	4194304	Value	ValueOutput
+HF Gain	0	4194304	Value	ValueOutput
+LP On/Off	0	4194304	Value	ValueOutput
+LP Type	0	4194304	Value	ValueOutput
+LP Freq	0	4194304	Value	ValueOutput
+LP Q	0	4194304	Value	ValueOutput
+Analog Type	0	4194304	Value	ValueOutput
+Analog Level	0	4194304	Value	ValueOutput
+Thd Level	0	4194304	Value	ValueOutput
+Analyzer On/Off	0	4194304	Value	ValueOutput
+Analyzer In	0	4194304	Value	ValueOutput
+Analyzer Out	0	4194304	Value	ValueOutput
+Freeze Graph	0	4194304	Value	ValueOutput
+Peakhold	0	4194304	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Solo Master	0	4194304	Value	ValueOutput
+LF Solo	0	4194304	Value	ValueOutput
+LMF Solo	0	4194304	Value	ValueOutput
+MF Solo	0	4194304	Value	ValueOutput
+HMF Solo	0	4194304	Value	ValueOutput
+HF Solo	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

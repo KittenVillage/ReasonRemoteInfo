@@ -1,0 +1,61 @@
+Scope
+Manufacturer	Model
+Aegean Music	vst.pspv.Spirit Reverb x64
+Note: Will match scope definitions for vst.pspv.Spirit Reverb x64 or vst.pspv
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+In	0	4194304	Value	ValueOutput
+Out	0	4194304	Value	ValueOutput
+Dry	0	4194304	Value	ValueOutput
+Wet	0	4194304	Value	ValueOutput
+Reverb P	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Reverb H	0	4194304	Value	ValueOutput
+Reverb D	0	4194304	Value	ValueOutput
+Reverb L	0	4194304	Value	ValueOutput
+Stereo W	0	4194304	Value	ValueOutput
+EQ 1 Gai	0	4194304	Value	ValueOutput
+EQ 1 Fre	0	4194304	Value	ValueOutput
+EQ 1 Wid	0	4194304	Value	ValueOutput
+EQ 1 Typ	0	4194304	Value	ValueOutput
+EQ 2 Gai	0	4194304	Value	ValueOutput
+EQ 2 Fre	0	4194304	Value	ValueOutput
+EQ 2 Wid	0	4194304	Value	ValueOutput
+EQ 2 Typ	0	4194304	Value	ValueOutput
+Spring 1	0	4194304	Value	ValueOutput
+Spring 2	0	4194304	Value	ValueOutput
+Spring 3	0	4194304	Value	ValueOutput
+Spring 1	0	4194304	Value	ValueOutput
+Spring 2	0	4194304	Value	ValueOutput
+Spring 3	0	4194304	Value	ValueOutput
+Reverb T	0	4194304	Value	ValueOutput
+EQ Routi	0	4194304	Value	ValueOutput
+Reverb A	0	4194304	Value	ValueOutput
+Eq Activ	0	4194304	Value	ValueOutput
+Amp Acti	0	4194304	Value	ValueOutput
+Amp Driv	0	4194304	Value	ValueOutput
+Tone Byp	0	4194304	Value	ValueOutput
+Tone	0	4194304	Value	ValueOutput
+Amp Bias	0	4194304	Value	ValueOutput
+Amp Outp	0	4194304	Value	ValueOutput
+Stereo M	0	4194304	Value	ValueOutput
+Show Pan	0	4194304	Value	ValueOutput
+Show Pan	0	4194304	Value	ValueOutput
+Show Pan	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

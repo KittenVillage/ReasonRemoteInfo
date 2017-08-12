@@ -1,0 +1,71 @@
+Scope
+Manufacturer	Model
+Nucleus SoundLab	com.nucleussoundlab.Beat_Crush
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Input Level	0	4194304	Value	ValueOutput
+Wet Level	0	4194304	Value	ValueOutput
+Dry/Wet Balance	0	4194304	Value	ValueOutput
+Sign Enable	0	1	Toggle	ValueOutput
+Bit 11 Enable	0	1	Toggle	ValueOutput
+Bit 10 Enable	0	1	Toggle	ValueOutput
+Bit 9 Enable	0	1	Toggle	ValueOutput
+Bit 8 Enable	0	1	Toggle	ValueOutput
+Bit 7 Enable	0	1	Toggle	ValueOutput
+Bit 6 Enable	0	1	Toggle	ValueOutput
+Bit 5 Enable	0	1	Toggle	ValueOutput
+Bit 4 Enable	0	1	Toggle	ValueOutput
+Bit 3 Enable	0	1	Toggle	ValueOutput
+Bit 2 Enable	0	1	Toggle	ValueOutput
+Bit 1 Enable	0	1	Toggle	ValueOutput
+Bit 0 Enable	0	1	Toggle	ValueOutput
+Bit 11 Invert	0	1	Toggle	ValueOutput
+Bit 10 Invert	0	1	Toggle	ValueOutput
+Bit 9 Invert	0	1	Toggle	ValueOutput
+Bit 8 Invert	0	1	Toggle	ValueOutput
+Bit 7 Invert	0	1	Toggle	ValueOutput
+Bit 6 Invert	0	1	Toggle	ValueOutput
+Bit 5 Invert	0	1	Toggle	ValueOutput
+Bit 4 Invert	0	1	Toggle	ValueOutput
+Bit 3 Invert	0	1	Toggle	ValueOutput
+Bit 2 Invert	0	1	Toggle	ValueOutput
+Bit 1 Invert	0	1	Toggle	ValueOutput
+Bit 0 Invert	0	1	Toggle	ValueOutput
+Filter1 Enable	0	1	Toggle	ValueOutput
+Filter1 Mode	0	4	Value	ValueOutput
+Filter1 Frequency	0	4194304	Value	ValueOutput
+Filter1 Resonance	0	4194304	Value	ValueOutput
+Filter1 Slope	0	1	Toggle	ValueOutput
+Filter1 Pan	0	4194304	Value	ValueOutput
+Filter1 Level	0	4194304	Value	ValueOutput
+Filter2 Enable	0	1	Toggle	ValueOutput
+Filter2 Mode	0	4	Value	ValueOutput
+Filter2 Frequency	0	4194304	Value	ValueOutput
+Filter2 Resonance	0	4194304	Value	ValueOutput
+Filter2 Slope	0	1	Toggle	ValueOutput
+Filter2 Pan	0	4194304	Value	ValueOutput
+Filter2 Levek	0	4194304	Value	ValueOutput
+Envelope Attack	0	4194304	Value	ValueOutput
+Envelope Decay	0	4194304	Value	ValueOutput
+Envelope Sustain	0	4194304	Value	ValueOutput
+Envelope Release	0	4194304	Value	ValueOutput
+Mod Env Crush	0	4194304	Value	ValueOutput
+Mod Env Filter1	0	4194304	Value	ValueOutput
+Mod Env Filter2	0	4194304	Value	ValueOutput
+Mod LFO Crush	0	4194304	Value	ValueOutput
+Mod LFO Filter1	0	4194304	Value	ValueOutput
+Mod LFO Filter2	0	4194304	Value	ValueOutput
+LFO Shape	0	3	Value	ValueOutput
+LFO Frequency	0	4194304	Value	ValueOutput
+LFO Tempo-Sync Enable	0	1	Toggle	ValueOutput
+LFO Tempo-Sync Rate	0	28	Value	ValueOutput
+Signal Path	0	4	Value	ValueOutput
+Envelope Trigger	0	1	Toggle	ValueOutput
+Crush Amount	0	4194304	Value	ValueOutput
+Bitcrusher Enable	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

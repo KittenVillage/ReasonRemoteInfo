@@ -1,0 +1,34 @@
+Scope
+Manufacturer	Model
+Deadman Audio Devices	com.deadmanaudiodevices.getlayedsound
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Time (Synced)	0	19	Value	ValueOutput
+Delay Sync	0	1	Toggle	ValueOutput
+Combined Volume	0	4194304	Value	ValueOutput
+Delay Volume Direct	0	4194304	Value	ValueOutput
+Delay Volume 2	0	4194304	Value	ValueOutput
+Delay Volume 3	0	4194304	Value	ValueOutput
+Delay Volume 4	0	4194304	Value	ValueOutput
+Delay Volume 5	0	4194304	Value	ValueOutput
+Delay Volume 6	0	4194304	Value	ValueOutput
+Delay Volume 7	0	4194304	Value	ValueOutput
+Delay Volume 8	0	4194304	Value	ValueOutput
+Delay Volume 9	0	4194304	Value	ValueOutput
+Delay Pan Direct	0	4194304	Value	ValueOutput
+Delay Pan 2	0	4194304	Value	ValueOutput
+Delay Pan 3	0	4194304	Value	ValueOutput
+Delay Pan 4	0	4194304	Value	ValueOutput
+Delay Pan 5	0	4194304	Value	ValueOutput
+Delay Pan 6	0	4194304	Value	ValueOutput
+Delay Pan 7	0	4194304	Value	ValueOutput
+Delay Pan 8	0	4194304	Value	ValueOutput
+Delay Pan 9	0	4194304	Value	ValueOutput
+Chain To Next Device	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,60 @@
+Scope
+Manufacturer	Model
+Michael Ourednik	vst.ARG1.argotlunar
+Note: Will match scope definitions for vst.ARG1.argotlunar or vst.ARG1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+grains	0	4194304	Value	ValueOutput
+mix	0	4194304	Value	ValueOutput
+input_gain	0	4194304	Value	ValueOutput
+feedback	0	4194304	Value	ValueOutput
+amp	0	4194304	Value	ValueOutput
+ampv	0	4194304	Value	ValueOutput
+pan	0	4194304	Value	ValueOutput
+panv	0	4194304	Value	ValueOutput
+delay	0	4194304	Value	ValueOutput
+delayv	0	4194304	Value	ValueOutput
+IOT	0	4194304	Value	ValueOutput
+IOTv	0	4194304	Value	ValueOutput
+dur	0	4194304	Value	ValueOutput
+durv	0	4194304	Value	ValueOutput
+trans	0	4194304	Value	ValueOutput
+transv	0	4194304	Value	ValueOutput
+gliss	0	4194304	Value	ValueOutput
+glissv	0	4194304	Value	ValueOutput
+filter_type	0	4194304	Value	ValueOutput
+ffreq	0	4194304	Value	ValueOutput
+ffreqv	0	4194304	Value	ValueOutput
+fq	0	4194304	Value	ValueOutput
+fqv	0	4194304	Value	ValueOutput
+env_type	0	4194304	Value	ValueOutput
+env_sustain	0	4194304	Value	ValueOutput
+env_skew	0	4194304	Value	ValueOutput
+delay_quantize	0	4194304	Value	ValueOutput
+dur_quantize	0	4194304	Value	ValueOutput
+IOT_quantize	0	4194304	Value	ValueOutput
+trans_toggle	0	4194304	Value	ValueOutput
+gliss_toggle	0	4194304	Value	ValueOutput
+freeze_toggle	0	4194304	Value	ValueOutput
+scale_key	0	4194304	Value	ValueOutput
+matrix_mod_1	0	4194304	Value	ValueOutput
+matrix_mod_2	0	4194304	Value	ValueOutput
+matrix_mod_3	0	4194304	Value	ValueOutput
+program	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

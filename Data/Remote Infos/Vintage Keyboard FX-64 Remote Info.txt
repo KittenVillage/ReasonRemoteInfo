@@ -1,0 +1,99 @@
+Scope
+Manufacturer	Model
+Overloud	vst.VKFX.Vintage Keyboard FX-64
+Note: Will match scope definitions for vst.VKFX.Vintage Keyboard FX-64 or vst.VKFX
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+mas:morph	0	4194304	Value	ValueOutput
+mas:sync source	0	4194304	Value	ValueOutput
+mas:internal bpm	0	4194304	Value	ValueOutput
+mas:l/r link	0	4194304	Value	ValueOutput
+mas:vus source	0	4194304	Value	ValueOutput
+mas:in level l	0	4194304	Value	ValueOutput
+mas:in level r	0	4194304	Value	ValueOutput
+mas:out level l	0	4194304	Value	ValueOutput
+mas:out level r	0	4194304	Value	ValueOutput
+pre:power	0	4194304	Value	ValueOutput
+pre:enable	0	4194304	Value	ValueOutput
+pre:bass	0	4194304	Value	ValueOutput
+pre:volume	0	4194304	Value	ValueOutput
+pre:treble	0	4194304	Value	ValueOutput
+pre:mode	0	4194304	Value	ValueOutput
+pre:wave	0	4194304	Value	ValueOutput
+pre:speed	0	4194304	Value	ValueOutput
+pre:bpm speed	0	4194304	Value	ValueOutput
+pre:depth	0	4194304	Value	ValueOutput
+pre:sync	0	4194304	Value	ValueOutput
+pre:offset	0	4194304	Value	ValueOutput
+cmp:power	0	4194304	Value	ValueOutput
+cmp:threshold	0	4194304	Value	ValueOutput
+cmp:attack	0	4194304	Value	ValueOutput
+cmp:release	0	4194304	Value	ValueOutput
+cmp:makeup	0	4194304	Value	ValueOutput
+wah:power	0	4194304	Value	ValueOutput
+wah:position	0	4194304	Value	ValueOutput
+wah:range	0	4194304	Value	ValueOutput
+wah:release	0	4194304	Value	ValueOutput
+wah:mode	0	4194304	Value	ValueOutput
+wah:polarity	0	4194304	Value	ValueOutput
+wah:speed	0	4194304	Value	ValueOutput
+wah:bpm speed	0	4194304	Value	ValueOutput
+wah:depth	0	4194304	Value	ValueOutput
+wah:sync	0	4194304	Value	ValueOutput
+wah:offset	0	4194304	Value	ValueOutput
+phs:power	0	4194304	Value	ValueOutput
+phs:speed	0	4194304	Value	ValueOutput
+phs:bpm speed	0	4194304	Value	ValueOutput
+phs:depth	0	4194304	Value	ValueOutput
+phs:feedback	0	4194304	Value	ValueOutput
+phs:center	0	4194304	Value	ValueOutput
+phs:mix	0	4194304	Value	ValueOutput
+phs:mode	0	4194304	Value	ValueOutput
+phs:sync	0	4194304	Value	ValueOutput
+phs:offset	0	4194304	Value	ValueOutput
+chr:power	0	4194304	Value	ValueOutput
+chr:speed	0	4194304	Value	ValueOutput
+chr:bpm speed	0	4194304	Value	ValueOutput
+chr:depth	0	4194304	Value	ValueOutput
+chr:feedback	0	4194304	Value	ValueOutput
+chr:center	0	4194304	Value	ValueOutput
+chr:mix	0	4194304	Value	ValueOutput
+chr:mode	0	4194304	Value	ValueOutput
+chr:sync	0	4194304	Value	ValueOutput
+ovr:power	0	4194304	Value	ValueOutput
+ovr:drive	0	4194304	Value	ValueOutput
+ovr:tone	0	4194304	Value	ValueOutput
+ovr:level	0	4194304	Value	ValueOutput
+dly:power	0	4194304	Value	ValueOutput
+dly:speed	0	4194304	Value	ValueOutput
+dly:bpm speed	0	4194304	Value	ValueOutput
+dly:feedback	0	4194304	Value	ValueOutput
+dly:mode	0	4194304	Value	ValueOutput
+dly:tone	0	4194304	Value	ValueOutput
+dly:mix	0	4194304	Value	ValueOutput
+dly:sync	0	4194304	Value	ValueOutput
+amp:power	0	4194304	Value	ValueOutput
+amp:low	0	4194304	Value	ValueOutput
+amp:mid	0	4194304	Value	ValueOutput
+amp:high	0	4194304	Value	ValueOutput
+amp:volume	0	4194304	Value	ValueOutput
+amp:mix	0	4194304	Value	ValueOutput
+amp:enable	0	4194304	Value	ValueOutput
+amp:time	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

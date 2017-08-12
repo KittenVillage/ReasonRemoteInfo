@@ -1,0 +1,67 @@
+Scope
+Manufacturer	Model
+Black and Orange	com.blackandorange.AutoArp
+
+Remotable	Min	Max	Input type	Output type
+key	0	11	Value	ValueOutput
+scale	0	63	Value	ValueOutput
+hold	0	1	Toggle	ValueOutput
+octaveShift	0	6	Value	ValueOutput
+firstInputQuantize	0	16	Value	ValueOutput
+inputQuantize	0	3	Value	ValueOutput
+releaseQuantize	0	1	Toggle	ValueOutput
+inputMode	0	3	Value	ValueOutput
+resetGateOnInput	0	1	Toggle	ValueOutput
+note1_ChordSelect	0	4	Value	ValueOutput
+note2_ChordSelect	0	4	Value	ValueOutput
+note3_ChordSelect	0	4	Value	ValueOutput
+note4_ChordSelect	0	4	Value	ValueOutput
+note5_ChordSelect	0	4	Value	ValueOutput
+note6_ChordSelect	0	4	Value	ValueOutput
+note7_ChordSelect	0	4	Value	ValueOutput
+note8_ChordSelect	0	4	Value	ValueOutput
+note9_ChordSelect	0	4	Value	ValueOutput
+note10_ChordSelect	0	4	Value	ValueOutput
+note11_ChordSelect	0	4	Value	ValueOutput
+note12_ChordSelect	0	4	Value	ValueOutput
+rateFree	0	4194304	Value	ValueOutput
+rateSynced	0	15	Value	ValueOutput
+synced	0	1	Toggle	ValueOutput
+humanTiming	0	4194304	Value	ValueOutput
+shuffle	0	4194304	Value	ValueOutput
+shuffleGroupSize	0	3	Value	ValueOutput
+maxChordSize	0	4194304	Value	ValueOutput
+extendDownNotes	0	4194304	Value	ValueOutput
+extendUpNotes	0	4194304	Value	ValueOutput
+gateLength	0	4194304	Value	ValueOutput
+resetGateOnLoop	0	1	Toggle	ValueOutput
+velocity	0	132	Value	ValueOutput
+velocityVariationMin	0	4194304	Value	ValueOutput
+velocityVariationMax	0	4194304	Value	ValueOutput
+arpPlayMode	0	6	Value	ValueOutput
+arpPlayDirection	0	5	Value	ValueOutput
+arpPlayCount	0	4	Value	ValueOutput
+repeatNoteFrequency	0	4194304	Value	ValueOutput
+repeatNoteNumber	0	4194304	Value	ValueOutput
+repeatNoteOctaveShift	0	6	Value	ValueOutput
+repeatNoteVelocity	0	127	Value	ValueOutput
+repeatNoteRestart	0	1	Toggle	ValueOutput
+repeatNoteRemove	0	1	Toggle	ValueOutput
+repeatNoteSkipFirst	0	1	Toggle	ValueOutput
+repeatNoteSimultaneous	0	1	Toggle	ValueOutput
+sequencerStepCount	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+rootNoteEnabled	0	1	Toggle	ValueOutput
+chordEnabled	0	1	Toggle	ValueOutput
+arpEnabled	0	1	Toggle	ValueOutput
+sequencerEnabled	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

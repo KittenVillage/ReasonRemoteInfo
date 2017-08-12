@@ -1,0 +1,219 @@
+Scope
+Manufacturer	Model
+Rob Papen	com.robpapen.RPDistort
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+FX Path	0	23	Value	ValueOutput
+Global Mod	0	4194304	Value	ValueOutput
+Mod Bypass	0	1	Toggle	ValueOutput
+DC On	0	1	Toggle	ValueOutput
+Distortion On	0	1	Toggle	ValueOutput
+Distortion Type	0	33	Value	ValueOutput
+Distortion Pre-Boost	0	4194304	Value	ValueOutput
+Distortion Normalize	0	4194304	Value	ValueOutput
+Amp Type	0	5	Value	ValueOutput
+Amp Distort	0	4194304	Value	ValueOutput
+Cab Type	0	3	Value	ValueOutput
+Cab Distort	0	4194304	Value	ValueOutput
+Clipper Lower	0	4194304	Value	ValueOutput
+Clipper Upper	0	4194304	Value	ValueOutput
+Clipper Amount	0	4194304	Value	ValueOutput
+Cos Frequency	0	4194304	Value	ValueOutput
+Cos Amount	0	4194304	Value	ValueOutput
+Cross1 Cross	0	4194304	Value	ValueOutput
+Cross1 Amount	0	4194304	Value	ValueOutput
+Cross2 Lower	0	4194304	Value	ValueOutput
+Cross2 Upper	0	4194304	Value	ValueOutput
+Cross2 Amount	0	4194304	Value	ValueOutput
+Foldover Frequency	0	4194304	Value	ValueOutput
+Foldover Amount	0	4194304	Value	ValueOutput
+Fuzz Frequency	0	4194304	Value	ValueOutput
+Fuzz Amount	0	4194304	Value	ValueOutput
+Gapper Frequency	0	4194304	Value	ValueOutput
+Gapper Amount	0	4194304	Value	ValueOutput
+Hard-limiter Limit	0	4194304	Value	ValueOutput
+Hard-limiter Amount	0	4194304	Value	ValueOutput
+Low-FI Bits	0	4194304	Value	ValueOutput
+Low-FI S&H	0	4194304	Value	ValueOutput
+Low-FI Noise	0	4194304	Value	ValueOutput
+Low-FI Mix	0	4194304	Value	ValueOutput
+Octave1 Lower	0	4194304	Value	ValueOutput
+Octave1 Upper	0	4194304	Value	ValueOutput
+Octave2 Frequency	0	4194304	Value	ValueOutput
+Octave2 Amount	0	4194304	Value	ValueOutput
+Overdrive Drive	0	4194304	Value	ValueOutput
+Overdrive Amount	0	4194304	Value	ValueOutput
+Power Drive	0	4194304	Value	ValueOutput
+Power Amount	0	4194304	Value	ValueOutput
+Rectification Rectify	0	4194304	Value	ValueOutput
+Rectification Amount	0	4194304	Value	ValueOutput
+Ring Mod Wave	0	3	Value	ValueOutput
+Ring Mod Frequency	0	4194304	Value	ValueOutput
+Ring Mod Amount	0	4194304	Value	ValueOutput
+Saturation Drive	0	4194304	Value	ValueOutput
+Saturation Amount	0	4194304	Value	ValueOutput
+Softlimiter Amount	0	4194304	Value	ValueOutput
+Square Lower	0	4194304	Value	ValueOutput
+Square Upper	0	4194304	Value	ValueOutput
+Square Amount	0	4194304	Value	ValueOutput
+Transient Range	0	4194304	Value	ValueOutput
+Transient Amount	0	4194304	Value	ValueOutput
+Tube Limiter	0	4194304	Value	ValueOutput
+Tube Rectifier	0	4194304	Value	ValueOutput
+Tube Saturation	0	4194304	Value	ValueOutput
+Tube Tone	0	4194304	Value	ValueOutput
+Tube Emphasis	0	4194304	Value	ValueOutput
+Atan Drive	0	4194304	Value	ValueOutput
+Atan Amount	0	4194304	Value	ValueOutput
+Clipper 2 Tone	0	4194304	Value	ValueOutput
+Clipper 2 Limit	0	4194304	Value	ValueOutput
+Clipper 2 Symmetry	0	4194304	Value	ValueOutput
+Clipper 2 LP	0	4194304	Value	ValueOutput
+Clipper 2 HP	0	4194304	Value	ValueOutput
+Clipper 2 Boost	0	4194304	Value	ValueOutput
+FM Wave	0	3	Value	ValueOutput
+FM Frequency	0	4194304	Value	ValueOutput
+FM LP	0	4194304	Value	ValueOutput
+FM Amount	0	4194304	Value	ValueOutput
+FM Mix	0	4194304	Value	ValueOutput
+Waveshaper Lower 	0	4194304	Value	ValueOutput
+Waveshaper Upper	0	4194304	Value	ValueOutput
+Waveshaper Rectification	0	4194304	Value	ValueOutput
+Waveshaper Amount	0	4194304	Value	ValueOutput
+Two-Band Cos Split Frequency	0	4194304	Value	ValueOutput
+Two-Band Cos Low Frequency	0	4194304	Value	ValueOutput
+Two-Band Cos Low Amount	0	4194304	Value	ValueOutput
+Two-Band Cos High Frequency	0	4194304	Value	ValueOutput
+Two-Band Cos High Amount	0	4194304	Value	ValueOutput
+Two-Band Cos Low / High Mix	0	4194304	Value	ValueOutput
+Two-Band Fuzz Split Frequency	0	4194304	Value	ValueOutput
+Two-Band Fuzz Low Frequency	0	4194304	Value	ValueOutput
+Two-Band Fuzz Low Amount	0	4194304	Value	ValueOutput
+Two-Band Fuzz High Frequency	0	4194304	Value	ValueOutput
+Two-Band Fuzz High Amount	0	4194304	Value	ValueOutput
+Two-Band Fuzz Low / High Mix	0	4194304	Value	ValueOutput
+Two-Band Limiter Split Frequency	0	4194304	Value	ValueOutput
+Two-Band Limiter Low Limit	0	4194304	Value	ValueOutput
+Two-Band Limiter Low Amount	0	4194304	Value	ValueOutput
+Two-Band Limiter High Limit	0	4194304	Value	ValueOutput
+Two-Band Limiter High Amount	0	4194304	Value	ValueOutput
+Two-Band Limiter Low / High Mix	0	4194304	Value	ValueOutput
+Two-Band Over-Drive Split Frequency	0	4194304	Value	ValueOutput
+Two-Band Over-Drive Low Drive	0	4194304	Value	ValueOutput
+Two-Band Over-Drive Low Amount	0	4194304	Value	ValueOutput
+Two-Band Over-Drive High Drive	0	4194304	Value	ValueOutput
+Two-Band Over-Drive High Amount	0	4194304	Value	ValueOutput
+Two-Band Over-Drive Low / High Mix	0	4194304	Value	ValueOutput
+Two-Band Power Split Frequency	0	4194304	Value	ValueOutput
+Two-Band Power Low Drive	0	4194304	Value	ValueOutput
+Two-Band Power Low Amount	0	4194304	Value	ValueOutput
+Two-Band Power High Drive	0	4194304	Value	ValueOutput
+Two-Band Power High Amount	0	4194304	Value	ValueOutput
+Two-Band Power Low / High Mix	0	4194304	Value	ValueOutput
+Two-Band Rectification Split Frequency	0	4194304	Value	ValueOutput
+Two-Band Rectification Low Rectify	0	4194304	Value	ValueOutput
+Two-Band Rectification Low Amount	0	4194304	Value	ValueOutput
+Two-Band Rectification High Rectify	0	4194304	Value	ValueOutput
+Two-Band Rectification High Amount	0	4194304	Value	ValueOutput
+Two-Band Rectification Low / High Mix	0	4194304	Value	ValueOutput
+Two-Band Saturation Split Frequency	0	4194304	Value	ValueOutput
+Two-Band Saturation Low Drive	0	4194304	Value	ValueOutput
+Two-Band Saturation Low Amount	0	4194304	Value	ValueOutput
+Two-Band Saturation High Drive	0	4194304	Value	ValueOutput
+Two-Band Saturation High Amount	0	4194304	Value	ValueOutput
+Two-Band Saturation Low / High Mix	0	4194304	Value	ValueOutput
+Filter On	0	1	Toggle	ValueOutput
+Filter Type	0	1	Toggle	ValueOutput
+Filter Low	0	4194304	Value	ValueOutput
+Filter Low Q	0	4194304	Value	ValueOutput
+Filter High	0	4194304	Value	ValueOutput
+Filter High Q	0	4194304	Value	ValueOutput
+EQ On	0	1	Toggle	ValueOutput
+EQ Low	0	4194304	Value	ValueOutput
+EQ Mid 1	0	4194304	Value	ValueOutput
+EQ Mid 2	0	4194304	Value	ValueOutput
+EQ High	0	4194304	Value	ValueOutput
+Noise Gate On	0	1	Toggle	ValueOutput
+Noise Gate Threshhold	0	4194304	Value	ValueOutput
+Noise Gate Attack	0	4194304	Value	ValueOutput
+Noise Gate Hold	0	4194304	Value	ValueOutput
+Noise Gate Release	0	4194304	Value	ValueOutput
+Compressor On	0	1	Toggle	ValueOutput
+Compressor Limit	0	4194304	Value	ValueOutput
+Compressor Ratio	0	4194304	Value	ValueOutput
+Compressor Attack	0	4194304	Value	ValueOutput
+Compressor Decay	0	4194304	Value	ValueOutput
+Compressor Volume	0	4194304	Value	ValueOutput
+Widen On	0	1	Toggle	ValueOutput
+Widen Amount	0	4194304	Value	ValueOutput
+Widen Speed	0	4194304	Value	ValueOutput
+Widen Width	0	4194304	Value	ValueOutput
+LFO 1 Amount	0	4194304	Value	ValueOutput
+LFO 1 Speed(ms)	0	4194304	Value	ValueOutput
+LFO 1 Speed(qb)	0	30	Value	ValueOutput
+LFO 1 Wave	0	5	Value	ValueOutput
+LFO 1 Sync	0	1	Toggle	ValueOutput
+LFO 1 Humanization	0	4194304	Value	ValueOutput
+LFO 1 Shape	0	4194304	Value	ValueOutput
+LFO 1 Free Mode	0	1	Toggle	ValueOutput
+LFO 2 Amount	0	4194304	Value	ValueOutput
+LFO 2 Speed(ms)	0	4194304	Value	ValueOutput
+LFO 2 Speed(qb)	0	30	Value	ValueOutput
+LFO 2 Wave	0	5	Value	ValueOutput
+LFO 2 Sync	0	1	Toggle	ValueOutput
+LFO 2 Humanization	0	4194304	Value	ValueOutput
+LFO 2 Shape	0	4194304	Value	ValueOutput
+LFO 2 Free Mode	0	1	Toggle	ValueOutput
+LFO 3 Amount	0	4194304	Value	ValueOutput
+LFO 3 Speed(ms)	0	4194304	Value	ValueOutput
+LFO 3 Speed(qb)	0	30	Value	ValueOutput
+LFO 3 Wave	0	5	Value	ValueOutput
+LFO 3 Sync	0	1	Toggle	ValueOutput
+LFO 3 Humanization	0	4194304	Value	ValueOutput
+LFO 3 Shape	0	4194304	Value	ValueOutput
+LFO 3 Free Mode	0	1	Toggle	ValueOutput
+LFO 4 Amount	0	4194304	Value	ValueOutput
+LFO 4 Speed(ms)	0	4194304	Value	ValueOutput
+LFO 4 Speed(qb)	0	30	Value	ValueOutput
+LFO 4 Wave	0	5	Value	ValueOutput
+LFO 4 Sync	0	1	Toggle	ValueOutput
+LFO 4 Humanization	0	4194304	Value	ValueOutput
+LFO 4 Shape	0	4194304	Value	ValueOutput
+LFO 4 Free Mode	0	1	Toggle	ValueOutput
+Mod 1 Amount	0	4194304	Value	ValueOutput
+Mod 2 Amount	0	4194304	Value	ValueOutput
+Mod 3 Amount	0	4194304	Value	ValueOutput
+Mod 4 Amount	0	4194304	Value	ValueOutput
+None 3	0	4194304	Value	ValueOutput
+None 4	0	4194304	Value	ValueOutput
+None 5	0	4194304	Value	ValueOutput
+None 6	0	4194304	Value	ValueOutput
+None 7	0	4194304	Value	ValueOutput
+None 8	0	4194304	Value	ValueOutput
+Bypass	0	2	Value	ValueOutput
+Mod 1 Source	0	31	Value	ValueOutput
+Mod 1 Destinaton	0	49	Value	ValueOutput
+Mod 2 Source	0	31	Value	ValueOutput
+Mod 2 Destinaton	0	49	Value	ValueOutput
+Mod 3 Source	0	31	Value	ValueOutput
+Mod 3 Destinaton	0	49	Value	ValueOutput
+Mod 4 Source	0	31	Value	ValueOutput
+Mod 4 Destinaton	0	49	Value	ValueOutput
+LFO 1 Destination	0	49	Value	ValueOutput
+LFO 2 Destination	0	49	Value	ValueOutput
+LFO 3 Destination	0	49	Value	ValueOutput
+LFO 4 Destination	0	49	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

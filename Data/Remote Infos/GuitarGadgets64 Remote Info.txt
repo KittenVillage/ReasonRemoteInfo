@@ -1,0 +1,59 @@
+Scope
+Manufacturer	Model
+Musical Entropy	vst.GGAD.GuitarGadgets64
+Note: Will match scope definitions for vst.GGAD.GuitarGadgets64 or vst.GGAD
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+INPUT-SLOT1	0	4194304	Value	ValueOutput
+OUTPUT-SLOT1	0	4194304	Value	ValueOutput
+ALGO-SLOT1	0	4194304	Value	ValueOutput
+PRM1-SLOT1	0	4194304	Value	ValueOutput
+PRM2-SLOT1	0	4194304	Value	ValueOutput
+PRM3-SLOT1	0	4194304	Value	ValueOutput
+PRM4-SLOT1	0	4194304	Value	ValueOutput
+IMPULSE-SLOT1	0	4194304	Value	ValueOutput
+HOT-SLOT1	0	4194304	Value	ValueOutput
+INPUT-SLOT2	0	4194304	Value	ValueOutput
+OUTPUT-SLOT2	0	4194304	Value	ValueOutput
+ALGO-SLOT2	0	4194304	Value	ValueOutput
+PRM1-SLOT2	0	4194304	Value	ValueOutput
+PRM2-SLOT2	0	4194304	Value	ValueOutput
+PRM3-SLOT2	0	4194304	Value	ValueOutput
+PRM4-SLOT2	0	4194304	Value	ValueOutput
+IMPULSE-SLOT2	0	4194304	Value	ValueOutput
+HOT-SLOT2	0	4194304	Value	ValueOutput
+INPUT-SLOT3	0	4194304	Value	ValueOutput
+OUTPUT-SLOT3	0	4194304	Value	ValueOutput
+ALGO-SLOT3	0	4194304	Value	ValueOutput
+PRM1-SLOT3	0	4194304	Value	ValueOutput
+PRM2-SLOT3	0	4194304	Value	ValueOutput
+PRM3-SLOT3	0	4194304	Value	ValueOutput
+PRM4-SLOT3	0	4194304	Value	ValueOutput
+IMPULSE-SLOT3	0	4194304	Value	ValueOutput
+HOT-SLOT3	0	4194304	Value	ValueOutput
+INPUT-SLOT4	0	4194304	Value	ValueOutput
+OUTPUT-SLOT4	0	4194304	Value	ValueOutput
+ALGO-SLOT4	0	4194304	Value	ValueOutput
+PRM1-SLOT4	0	4194304	Value	ValueOutput
+PRM2-SLOT4	0	4194304	Value	ValueOutput
+PRM3-SLOT4	0	4194304	Value	ValueOutput
+PRM4-SLOT4	0	4194304	Value	ValueOutput
+IMPULSE-SLOT4	0	4194304	Value	ValueOutput
+HOT-SLOT4	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

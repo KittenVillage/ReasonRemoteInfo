@@ -1,0 +1,66 @@
+Scope
+Manufacturer	Model
+Acon Digital	vst.DFIL.DeFilter
+Note: Will match scope definitions for vst.DFIL.DeFilter or vst.DFIL
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+EstimationMode	0	4194304	Value	ValueOutput
+EstimationThres	0	4194304	Value	ValueOutput
+FilterLength	0	4194304	Value	ValueOutput
+TargetModel	0	4194304	Value	ValueOutput
+MasterGain	0	4194304	Value	ValueOutput
+EnableAnalyzers	0	4194304	Value	ValueOutput
+EnableEmphasisC	0	4194304	Value	ValueOutput
+CurvePoint1Enab	0	4194304	Value	ValueOutput
+CurvePoint1Freq	0	4194304	Value	ValueOutput
+CurvePoint1Leve	0	4194304	Value	ValueOutput
+CurvePoint2Enab	0	4194304	Value	ValueOutput
+CurvePoint2Freq	0	4194304	Value	ValueOutput
+CurvePoint2Leve	0	4194304	Value	ValueOutput
+CurvePoint3Enab	0	4194304	Value	ValueOutput
+CurvePoint3Freq	0	4194304	Value	ValueOutput
+CurvePoint3Leve	0	4194304	Value	ValueOutput
+CurvePoint4Enab	0	4194304	Value	ValueOutput
+CurvePoint4Freq	0	4194304	Value	ValueOutput
+CurvePoint4Leve	0	4194304	Value	ValueOutput
+CurvePoint5Enab	0	4194304	Value	ValueOutput
+CurvePoint5Freq	0	4194304	Value	ValueOutput
+CurvePoint5Leve	0	4194304	Value	ValueOutput
+CurvePoint6Enab	0	4194304	Value	ValueOutput
+CurvePoint6Freq	0	4194304	Value	ValueOutput
+CurvePoint6Leve	0	4194304	Value	ValueOutput
+CurvePoint7Enab	0	4194304	Value	ValueOutput
+CurvePoint7Freq	0	4194304	Value	ValueOutput
+CurvePoint7Leve	0	4194304	Value	ValueOutput
+CurvePoint8Enab	0	4194304	Value	ValueOutput
+CurvePoint8Freq	0	4194304	Value	ValueOutput
+CurvePoint8Leve	0	4194304	Value	ValueOutput
+CurvePoint9Enab	0	4194304	Value	ValueOutput
+CurvePoint9Freq	0	4194304	Value	ValueOutput
+CurvePoint9Leve	0	4194304	Value	ValueOutput
+CurvePoint10Ena	0	4194304	Value	ValueOutput
+CurvePoint10Fre	0	4194304	Value	ValueOutput
+CurvePoint10Lev	0	4194304	Value	ValueOutput
+CurvePoint11Ena	0	4194304	Value	ValueOutput
+CurvePoint11Fre	0	4194304	Value	ValueOutput
+CurvePoint11Lev	0	4194304	Value	ValueOutput
+CurvePoint12Ena	0	4194304	Value	ValueOutput
+CurvePoint12Fre	0	4194304	Value	ValueOutput
+CurvePoint12Lev	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

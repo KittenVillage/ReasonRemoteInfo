@@ -1,0 +1,69 @@
+Scope
+Manufacturer	Model
+Waves	vst.SH6X.WaveShell-VST 9_91_x64.UltraPitch 6 Voices Mono/Stereo
+Note: Will match scope definitions for vst.SH6X.WaveShell-VST 9_91_x64.UltraPitch 6 Voices Mono/Stereo or vst.SH6X
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Direct Check	0	4194304	Value	ValueOutput
+Direct Level	0	4194304	Value	ValueOutput
+Direct Pan	0	4194304	Value	ValueOutput
+Direct Delay	0	4194304	Value	ValueOutput
+Link	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Animation	0	4194304	Value	ValueOutput
+Min Pitch	0	4194304	Value	ValueOutput
+Max Pitch	0	4194304	Value	ValueOutput
+Voice 1 Check	0	4194304	Value	ValueOutput
+Voice 1 Level	0	4194304	Value	ValueOutput
+Voice 1 Pan	0	4194304	Value	ValueOutput
+Voice 1 Delay	0	4194304	Value	ValueOutput
+Voice 1 Pitch	0	4194304	Value	ValueOutput
+Voice 1 Formant	0	4194304	Value	ValueOutput
+Voice 2 Check	0	4194304	Value	ValueOutput
+Voice 2 Level	0	4194304	Value	ValueOutput
+Voice 2 Pan	0	4194304	Value	ValueOutput
+Voice 2 Delay	0	4194304	Value	ValueOutput
+Voice 2 Pitch	0	4194304	Value	ValueOutput
+Voice 2 Formant	0	4194304	Value	ValueOutput
+Voice 3 Check	0	4194304	Value	ValueOutput
+Voice 3 Level	0	4194304	Value	ValueOutput
+Voice 3 Pan	0	4194304	Value	ValueOutput
+Voice 3 Delay	0	4194304	Value	ValueOutput
+Voice 3 Pitch	0	4194304	Value	ValueOutput
+Voice 3 Formant	0	4194304	Value	ValueOutput
+Voice 4 Check	0	4194304	Value	ValueOutput
+Voice 4 Level	0	4194304	Value	ValueOutput
+Voice 4 Pan	0	4194304	Value	ValueOutput
+Voice 4 Delay	0	4194304	Value	ValueOutput
+Voice 4 Pitch	0	4194304	Value	ValueOutput
+Voice 4 Formant	0	4194304	Value	ValueOutput
+Voice 5 Check	0	4194304	Value	ValueOutput
+Voice 5 Level	0	4194304	Value	ValueOutput
+Voice 5 Pan	0	4194304	Value	ValueOutput
+Voice 5 Delay	0	4194304	Value	ValueOutput
+Voice 5 Pitch	0	4194304	Value	ValueOutput
+Voice 5 Formant	0	4194304	Value	ValueOutput
+Voice 6 Check	0	4194304	Value	ValueOutput
+Voice 6 Level	0	4194304	Value	ValueOutput
+Voice 6 Pan	0	4194304	Value	ValueOutput
+Voice 6 Delay	0	4194304	Value	ValueOutput
+Voice 6 Pitch	0	4194304	Value	ValueOutput
+Voice 6 Formant	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,40 @@
+Scope
+Manufacturer	Model
+Dead Duck Software	vst.-S%5E1.DDX10
+Note: Will match scope definitions for vst.-S%5E1.DDX10 or vst.-S%5E1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Vib Rate	0	4194304	Value	ValueOutput
+Vib Amt	0	4194304	Value	ValueOutput
+Coarse	0	4194304	Value	ValueOutput
+Fine	0	4194304	Value	ValueOutput
+Mod Init	0	4194304	Value	ValueOutput
+Mod Dec	0	4194304	Value	ValueOutput
+Mod Sus	0	4194304	Value	ValueOutput
+Mod Rel	0	4194304	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+Wave	0	4194304	Value	ValueOutput
+Thru	0	4194304	Value	ValueOutput
+Amp Att	0	4194304	Value	ValueOutput
+Amp Dec	0	4194304	Value	ValueOutput
+Amp Rel	0	4194304	Value	ValueOutput
+Octave	0	4194304	Value	ValueOutput
+Tuning	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

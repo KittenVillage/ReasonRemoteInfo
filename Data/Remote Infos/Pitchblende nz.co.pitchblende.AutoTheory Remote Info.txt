@@ -1,0 +1,150 @@
+Scope
+Manufacturer	Model
+Pitchblende	nz.co.pitchblende.AutoTheory
+
+Remotable	Min	Max	Input type	Output type
+Scale	0	6	Value	ValueOutput
+Key	0	11	Value	ValueOutput
+Melody Enable	0	1	Toggle	ValueOutput
+Melody Inversions	0	1	Toggle	ValueOutput
+Melody Mapping	0	3	Value	ValueOutput
+Melody Source	0	2	Value	ValueOutput
+Fixed Chord 1	0	6	Value	ValueOutput
+Fixed Chord 2	0	6	Value	ValueOutput
+Melody Output Octave 1	0	9	Value	ValueOutput
+Melody Output Octave 2	0	9	Value	ValueOutput
+Melody Output Octave 3	0	9	Value	ValueOutput
+Melody Output Octave 4	0	9	Value	ValueOutput
+Melody Output Velocity 1	0	4194304	Value	ValueOutput
+Melody Output Velocity 2	0	4194304	Value	ValueOutput
+Melody Output Velocity 3	0	4194304	Value	ValueOutput
+Melody Output Velocity 4	0	4194304	Value	ValueOutput
+Chord 2 Transpose	0	3	Value	ValueOutput
+Chord 3 Transpose	0	3	Value	ValueOutput
+Chord 4 Transpose	0	3	Value	ValueOutput
+Chord 5 Transpose	0	3	Value	ValueOutput
+Chord 6 Transpose	0	3	Value	ValueOutput
+Chord 7 Transpose	0	3	Value	ValueOutput
+Chord 1 Degree 3 Accidental	0	3	Value	ValueOutput
+Chord 1 Degree 5 Accidental	0	3	Value	ValueOutput
+Chord 1 Degree 7 Accidental	0	3	Value	ValueOutput
+Chord 1 Degree 9 Accidental	0	3	Value	ValueOutput
+Chord 1 Degree 11 Accidental	0	3	Value	ValueOutput
+Chord 1 Degree 13 Accidental	0	3	Value	ValueOutput
+Chord 2 Degree 3 Accidental	0	3	Value	ValueOutput
+Chord 2 Degree 5 Accidental	0	3	Value	ValueOutput
+Chord 2 Degree 7 Accidental	0	3	Value	ValueOutput
+Chord 2 Degree 9 Accidental	0	3	Value	ValueOutput
+Chord 2 Degree 11 Accidental	0	3	Value	ValueOutput
+Chord 2 Degree 13 Accidental	0	3	Value	ValueOutput
+Chord 3 Degree 3 Accidental	0	3	Value	ValueOutput
+Chord 3 Degree 5 Accidental	0	3	Value	ValueOutput
+Chord 3 Degree 7 Accidental	0	3	Value	ValueOutput
+Chord 3 Degree 9 Accidental	0	3	Value	ValueOutput
+Chord 3 Degree 11 Accidental	0	3	Value	ValueOutput
+Chord 3 Degree 13 Accidental	0	3	Value	ValueOutput
+Chord 4 Degree 3 Accidental	0	3	Value	ValueOutput
+Chord 4 Degree 5 Accidental	0	3	Value	ValueOutput
+Chord 4 Degree 7 Accidental	0	3	Value	ValueOutput
+Chord 4 Degree 9 Accidental	0	3	Value	ValueOutput
+Chord 4 Degree 11 Accidental	0	3	Value	ValueOutput
+Chord 4 Degree 13 Accidental	0	3	Value	ValueOutput
+Chord 5 Degree 3 Accidental	0	3	Value	ValueOutput
+Chord 5 Degree 5 Accidental	0	3	Value	ValueOutput
+Chord 5 Degree 7 Accidental	0	3	Value	ValueOutput
+Chord 5 Degree 9 Accidental	0	3	Value	ValueOutput
+Chord 5 Degree 11 Accidental	0	3	Value	ValueOutput
+Chord 5 Degree 13 Accidental	0	3	Value	ValueOutput
+Chord 6 Degree 3 Accidental	0	3	Value	ValueOutput
+Chord 6 Degree 5 Accidental	0	3	Value	ValueOutput
+Chord 6 Degree 7 Accidental	0	3	Value	ValueOutput
+Chord 6 Degree 9 Accidental	0	3	Value	ValueOutput
+Chord 6 Degree 11 Accidental	0	3	Value	ValueOutput
+Chord 6 Degree 13 Accidental	0	3	Value	ValueOutput
+Chord 7 Degree 3 Accidental	0	3	Value	ValueOutput
+Chord 7 Degree 5 Accidental	0	3	Value	ValueOutput
+Chord 7 Degree 7 Accidental	0	3	Value	ValueOutput
+Chord 7 Degree 9 Accidental	0	3	Value	ValueOutput
+Chord 7 Degree 11 Accidental	0	3	Value	ValueOutput
+Chord 7 Degree 13 Accidental	0	3	Value	ValueOutput
+Chord 1 Degree 1 Octave	0	3	Value	ValueOutput
+Chord 1 Degree 3 Octave	0	3	Value	ValueOutput
+Chord 1 Degree 5 Octave	0	3	Value	ValueOutput
+Chord 1 Degree 7 Octave	0	3	Value	ValueOutput
+Chord 1 Degree 9 Octave	0	3	Value	ValueOutput
+Chord 1 Degree 11 Octave	0	3	Value	ValueOutput
+Chord 1 Degree 13 Octave	0	3	Value	ValueOutput
+Chord 2 Degree 1 Octave	0	3	Value	ValueOutput
+Chord 2 Degree 3 Octave	0	3	Value	ValueOutput
+Chord 2 Degree 5 Octave	0	3	Value	ValueOutput
+Chord 2 Degree 7 Octave	0	3	Value	ValueOutput
+Chord 2 Degree 9 Octave	0	3	Value	ValueOutput
+Chord 2 Degree 11 Octave	0	3	Value	ValueOutput
+Chord 2 Degree 13 Octave	0	3	Value	ValueOutput
+Chord 3 Degree 1 Octave	0	3	Value	ValueOutput
+Chord 3 Degree 3 Octave	0	3	Value	ValueOutput
+Chord 3 Degree 5 Octave	0	3	Value	ValueOutput
+Chord 3 Degree 7 Octave	0	3	Value	ValueOutput
+Chord 3 Degree 9 Octave	0	3	Value	ValueOutput
+Chord 3 Degree 11 Octave	0	3	Value	ValueOutput
+Chord 3 Degree 13 Octave	0	3	Value	ValueOutput
+Chord 4 Degree 1 Octave	0	3	Value	ValueOutput
+Chord 4 Degree 3 Octave	0	3	Value	ValueOutput
+Chord 4 Degree 5 Octave	0	3	Value	ValueOutput
+Chord 4 Degree 7 Octave	0	3	Value	ValueOutput
+Chord 4 Degree 9 Octave	0	3	Value	ValueOutput
+Chord 4 Degree 11 Octave	0	3	Value	ValueOutput
+Chord 4 Degree 13 Octave	0	3	Value	ValueOutput
+Chord 5 Degree 1 Octave	0	3	Value	ValueOutput
+Chord 5 Degree 3 Octave	0	3	Value	ValueOutput
+Chord 5 Degree 5 Octave	0	3	Value	ValueOutput
+Chord 5 Degree 7 Octave	0	3	Value	ValueOutput
+Chord 5 Degree 9 Octave	0	3	Value	ValueOutput
+Chord 5 Degree 11 Octave	0	3	Value	ValueOutput
+Chord 5 Degree 13 Octave	0	3	Value	ValueOutput
+Chord 6 Degree 1 Octave	0	3	Value	ValueOutput
+Chord 6 Degree 3 Octave	0	3	Value	ValueOutput
+Chord 6 Degree 5 Octave	0	3	Value	ValueOutput
+Chord 6 Degree 7 Octave	0	3	Value	ValueOutput
+Chord 6 Degree 9 Octave	0	3	Value	ValueOutput
+Chord 6 Degree 11 Octave	0	3	Value	ValueOutput
+Chord 6 Degree 13 Octave	0	3	Value	ValueOutput
+Chord 7 Degree 1 Octave	0	3	Value	ValueOutput
+Chord 7 Degree 3 Octave	0	3	Value	ValueOutput
+Chord 7 Degree 5 Octave	0	3	Value	ValueOutput
+Chord 7 Degree 7 Octave	0	3	Value	ValueOutput
+Chord 7 Degree 9 Octave	0	3	Value	ValueOutput
+Chord 7 Degree 11 Octave	0	3	Value	ValueOutput
+Chord 7 Degree 13 Octave	0	3	Value	ValueOutput
+Chord Root Separate	0	1	Toggle	ValueOutput
+Mute Chords	0	1	Toggle	ValueOutput
+Chord Output Octave 1	0	9	Value	ValueOutput
+Chord Output Octave 2	0	9	Value	ValueOutput
+Chord Output Octave 3	0	9	Value	ValueOutput
+Chord Output Octave 4	0	9	Value	ValueOutput
+Chord Output Velocity 1	0	4194304	Value	ValueOutput
+Chord Output Velocity 2	0	4194304	Value	ValueOutput
+Chord Output Velocity 3	0	4194304	Value	ValueOutput
+Chord Output Velocity 4	0	4194304	Value	ValueOutput
+Strummer Mode	0	5	Value	ValueOutput
+Strummer Stroke	0	1	Toggle	ValueOutput
+Strummer Tempo Sync	0	1	Toggle	ValueOutput
+Strummer Velocity Mode	0	1	Toggle	ValueOutput
+Strummer Alt Reset	0	1	Toggle	ValueOutput
+Strummer Duration	0	4194304	Value	ValueOutput
+Strummer Tempo-Synced Duration	0	18	Value	ValueOutput
+Strummer Absolute Velocity	0	4194304	Value	ValueOutput
+Strummer Relative Velocity	0	4194304	Value	ValueOutput
+Strummer Shuffle Amount	0	4194304	Value	ValueOutput
+Strummer Humanise Amount	0	4194304	Value	ValueOutput
+Strummer VMod Amount	0	4194304	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

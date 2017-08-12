@@ -1,0 +1,54 @@
+Scope
+Manufacturer	Model
+Waves	vst.GR8S.WaveShell-VST 9_91_x64.Electric Grand 80 Stereo
+Note: Will match scope definitions for vst.GR8S.WaveShell-VST 9_91_x64.Electric Grand 80 Stereo or vst.GR8S
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Main	0	4194304	Value	ValueOutput
+Key Up	0	4194304	Value	ValueOutput
+Mechanics	0	4194304	Value	ValueOutput
+Pedal	0	4194304	Value	ValueOutput
+Comp	0	4194304	Value	ValueOutput
+Sustain Resonance	0	4194304	Value	ValueOutput
+Bass	0	4194304	Value	ValueOutput
+Mid	0	4194304	Value	ValueOutput
+Treble	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Vel Curve	0	4194304	Value	ValueOutput
+Formant	0	4194304	Value	ValueOutput
+Limiter On/Off	0	4194304	Value	ValueOutput
+FX On/Off	0	4194304	Value	ValueOutput
+Tremolo On/Off	0	4194304	Value	ValueOutput
+Trem Rate	0	4194304	Value	ValueOutput
+Trem Depth	0	4194304	Value	ValueOutput
+Autopan On/Off	0	4194304	Value	ValueOutput
+Autopan Rate	0	4194304	Value	ValueOutput
+Autopan Depth	0	4194304	Value	ValueOutput
+Phaser On/Off	0	4194304	Value	ValueOutput
+Phaser Mix	0	4194304	Value	ValueOutput
+Phaser Rate	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Chorus On/Off	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Reverb On/Off	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Reverb Predelay	0	4194304	Value	ValueOutput
+Reverb Time	0	4194304	Value	ValueOutput
+Reverb Damp	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

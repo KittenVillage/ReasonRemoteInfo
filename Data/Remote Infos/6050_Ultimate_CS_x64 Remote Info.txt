@@ -1,0 +1,110 @@
+Scope
+Manufacturer	Model
+McDSP	vst.CSUC.6050_Ultimate_CS_x64
+Note: Will match scope definitions for vst.CSUC.6050_Ultimate_CS_x64 or vst.CSUC
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Module Order	0	4194304	Value	ValueOutput
+Module 1 Type	0	4194304	Value	ValueOutput
+Module 2 Type	0	4194304	Value	ValueOutput
+Module 3 Type	0	4194304	Value	ValueOutput
+M1 Enable	0	4194304	Value	ValueOutput
+M1 EQ Gain 1	0	4194304	Value	ValueOutput
+M1 EQ Gain 2	0	4194304	Value	ValueOutput
+M1 EQ Gain 3	0	4194304	Value	ValueOutput
+M1 EQ Gain 4	0	4194304	Value	ValueOutput
+M1 EQ Freq 1	0	4194304	Value	ValueOutput
+M1 EQ Freq 2	0	4194304	Value	ValueOutput
+M1 EQ Freq 3	0	4194304	Value	ValueOutput
+M1 EQ Freq 4	0	4194304	Value	ValueOutput
+M1 CMP Threshol	0	4194304	Value	ValueOutput
+M1 CMP Compress	0	4194304	Value	ValueOutput
+M1 CMP Attack	0	4194304	Value	ValueOutput
+M1 CMP Release	0	4194304	Value	ValueOutput
+M1 CMP Makeup G	0	4194304	Value	ValueOutput
+M1 EXP Threshol	0	4194304	Value	ValueOutput
+M1 EXP Ratio	0	4194304	Value	ValueOutput
+M1 EXP Range	0	4194304	Value	ValueOutput
+M1 EXP Hold	0	4194304	Value	ValueOutput
+M1 EXP Attack	0	4194304	Value	ValueOutput
+M1 EXP Release	0	4194304	Value	ValueOutput
+M1 EXP HPF Freq	0	4194304	Value	ValueOutput
+M1 EXP LPF Freq	0	4194304	Value	ValueOutput
+M1 DIST Amount	0	4194304	Value	ValueOutput
+M1 DIST Tone	0	4194304	Value	ValueOutput
+M1 DIST LowCut	0	4194304	Value	ValueOutput
+M1 Key Enable	0	4194304	Value	ValueOutput
+M2 Enable	0	4194304	Value	ValueOutput
+M2 EQ Gain 1	0	4194304	Value	ValueOutput
+M2 EQ Gain 2	0	4194304	Value	ValueOutput
+M2 EQ Gain 3	0	4194304	Value	ValueOutput
+M2 EQ Gain 4	0	4194304	Value	ValueOutput
+M2 EQ Freq 1	0	4194304	Value	ValueOutput
+M2 EQ Freq 2	0	4194304	Value	ValueOutput
+M2 EQ Freq 3	0	4194304	Value	ValueOutput
+M2 EQ Freq 4	0	4194304	Value	ValueOutput
+M2 CMP Threshol	0	4194304	Value	ValueOutput
+M2 CMP Compress	0	4194304	Value	ValueOutput
+M2 CMP Attack	0	4194304	Value	ValueOutput
+M2 CMP Release	0	4194304	Value	ValueOutput
+M2 CMP Makeup G	0	4194304	Value	ValueOutput
+M2 EXP Threshol	0	4194304	Value	ValueOutput
+M2 EXP Ratio	0	4194304	Value	ValueOutput
+M2 EXP Range	0	4194304	Value	ValueOutput
+M2 EXP Hold	0	4194304	Value	ValueOutput
+M2 EXP Attack	0	4194304	Value	ValueOutput
+M2 EXP Release	0	4194304	Value	ValueOutput
+M2 EXP HPF Freq	0	4194304	Value	ValueOutput
+M2 EXP LPF Freq	0	4194304	Value	ValueOutput
+M2 DIST Amount	0	4194304	Value	ValueOutput
+M2 DIST Tone	0	4194304	Value	ValueOutput
+M2 DIST LowCut	0	4194304	Value	ValueOutput
+M2 Key Enable	0	4194304	Value	ValueOutput
+M3 Enable	0	4194304	Value	ValueOutput
+M3 EQ Gain 1	0	4194304	Value	ValueOutput
+M3 EQ Gain 2	0	4194304	Value	ValueOutput
+M3 EQ Gain 3	0	4194304	Value	ValueOutput
+M3 EQ Gain 4	0	4194304	Value	ValueOutput
+M3 EQ Freq 1	0	4194304	Value	ValueOutput
+M3 EQ Freq 2	0	4194304	Value	ValueOutput
+M3 EQ Freq 3	0	4194304	Value	ValueOutput
+M3 EQ Freq 4	0	4194304	Value	ValueOutput
+M3 CMP Threshol	0	4194304	Value	ValueOutput
+M3 CMP Compress	0	4194304	Value	ValueOutput
+M3 CMP Attack	0	4194304	Value	ValueOutput
+M3 CMP Release	0	4194304	Value	ValueOutput
+M3 CMP Makeup G	0	4194304	Value	ValueOutput
+M3 EXP Threshol	0	4194304	Value	ValueOutput
+M3 EXP Ratio	0	4194304	Value	ValueOutput
+M3 EXP Range	0	4194304	Value	ValueOutput
+M3 EXP Hold	0	4194304	Value	ValueOutput
+M3 EXP Attack	0	4194304	Value	ValueOutput
+M3 EXP Release	0	4194304	Value	ValueOutput
+M3 EXP HPF Freq	0	4194304	Value	ValueOutput
+M3 EXP LPF Freq	0	4194304	Value	ValueOutput
+M3 DIST Amount	0	4194304	Value	ValueOutput
+M3 DIST Tone	0	4194304	Value	ValueOutput
+M3 DIST LowCut	0	4194304	Value	ValueOutput
+M3 Key Enable	0	4194304	Value	ValueOutput
+Key Listen	0	4194304	Value	ValueOutput
+Phase Right	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

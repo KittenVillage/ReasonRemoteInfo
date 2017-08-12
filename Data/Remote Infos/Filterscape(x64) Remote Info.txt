@@ -1,0 +1,199 @@
+Scope
+Manufacturer	Model
+u-he	vst.AMEQ.Filterscape(x64)
+Note: Will match scope definitions for vst.AMEQ.Filterscape(x64) or vst.AMEQ
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+main: Output	0	4194304	Value	ValueOutput
+main: Circuit Routing	0	4194304	Value	ValueOutput
+main: Active #EF1	0	4194304	Value	ValueOutput
+main: Active #EF2	0	4194304	Value	ValueOutput
+main: Active #EF3	0	4194304	Value	ValueOutput
+main: Active #EF4	0	4194304	Value	ValueOutput
+main: Active #EQ1	0	4194304	Value	ValueOutput
+main: Active #SVF1	0	4194304	Value	ValueOutput
+main: Active #SVF2	0	4194304	Value	ValueOutput
+main: Active #Dly1	0	4194304	Value	ValueOutput
+main: Active #LFO1	0	4194304	Value	ValueOutput
+main: Active #LFO2	0	4194304	Value	ValueOutput
+main: Active #Seq1	0	4194304	Value	ValueOutput
+main: Active #Seq2	0	4194304	Value	ValueOutput
+main: Sync Trigger	0	4194304	Value	ValueOutput
+EF1: Mode	0	4194304	Value	ValueOutput
+EF1: Attenuation	0	4194304	Value	ValueOutput
+EF1: Attack	0	4194304	Value	ValueOutput
+EF1: Release	0	4194304	Value	ValueOutput
+EF1: Threshold	0	4194304	Value	ValueOutput
+EF1: Smooth	0	4194304	Value	ValueOutput
+EF1: FilterType	0	4194304	Value	ValueOutput
+EF1: FilterCutoff	0	4194304	Value	ValueOutput
+EF2: Mode	0	4194304	Value	ValueOutput
+EF2: Attenuation	0	4194304	Value	ValueOutput
+EF2: Attack	0	4194304	Value	ValueOutput
+EF2: Release	0	4194304	Value	ValueOutput
+EF2: Threshold	0	4194304	Value	ValueOutput
+EF2: Smooth	0	4194304	Value	ValueOutput
+EF2: FilterType	0	4194304	Value	ValueOutput
+EF2: FilterCutoff	0	4194304	Value	ValueOutput
+EF3: Mode	0	4194304	Value	ValueOutput
+EF3: Attenuation	0	4194304	Value	ValueOutput
+EF3: Attack	0	4194304	Value	ValueOutput
+EF3: Release	0	4194304	Value	ValueOutput
+EF3: Threshold	0	4194304	Value	ValueOutput
+EF3: Smooth	0	4194304	Value	ValueOutput
+EF3: FilterType	0	4194304	Value	ValueOutput
+EF3: FilterCutoff	0	4194304	Value	ValueOutput
+EF4: Mode	0	4194304	Value	ValueOutput
+EF4: Attenuation	0	4194304	Value	ValueOutput
+EF4: Attack	0	4194304	Value	ValueOutput
+EF4: Release	0	4194304	Value	ValueOutput
+EF4: Threshold	0	4194304	Value	ValueOutput
+EF4: Smooth	0	4194304	Value	ValueOutput
+EF4: FilterType	0	4194304	Value	ValueOutput
+EF4: FilterCutoff	0	4194304	Value	ValueOutput
+EQ1: Gain Scale	0	4194304	Value	ValueOutput
+EQ1: Snapshot Morph	0	4194304	Value	ValueOutput
+EQ1: Mod: Band1 FM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band1 GM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band2 FM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band2 GM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band3 FM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band3 GM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band4 FM	0	4194304	Value	ValueOutput
+EQ1: Mod: Band4 GM	0	4194304	Value	ValueOutput
+EQ1: Mod: Output M	0	4194304	Value	ValueOutput
+EQ1: Mod: Band1 FMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band1 GMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band2 FMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band2 GMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band3 FMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band3 GMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band4 FMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Band4 GMS	0	4194304	Value	ValueOutput
+EQ1: Mod: Output MS	0	4194304	Value	ValueOutput
+EQ1: Auto Proceed Mode	0	4194304	Value	ValueOutput
+EQ1: Auto Proceed Time	0	4194304	Value	ValueOutput
+EQ1: Mod: Snapshot S	0	4194304	Value	ValueOutput
+EQ1: Mod: Snapshot D	0	4194304	Value	ValueOutput
+SVF1: Angle	0	4194304	Value	ValueOutput
+SVF1: Radius	0	4194304	Value	ValueOutput
+SVF1: cutoff	0	4194304	Value	ValueOutput
+SVF1: resonance	0	4194304	Value	ValueOutput
+SVF1: drive	0	4194304	Value	ValueOutput
+SVF1: freq mod 1	0	4194304	Value	ValueOutput
+SVF1: freq mod 2	0	4194304	Value	ValueOutput
+SVF1: Res Mod	0	4194304	Value	ValueOutput
+SVF1: AutoFM	0	4194304	Value	ValueOutput
+SVF1: LP Pan	0	4194304	Value	ValueOutput
+SVF1: BP Pan	0	4194304	Value	ValueOutput
+SVF1: HP Pan	0	4194304	Value	ValueOutput
+SVF1: NC Pan	0	4194304	Value	ValueOutput
+SVF1: LP Gain	0	4194304	Value	ValueOutput
+SVF1: BP Gain	0	4194304	Value	ValueOutput
+SVF1: HP Gain	0	4194304	Value	ValueOutput
+SVF1: NC Gain	0	4194304	Value	ValueOutput
+SVF1: Angle Mod	0	4194304	Value	ValueOutput
+SVF1: Radius Mod	0	4194304	Value	ValueOutput
+SVF1: Pan LP Mod	0	4194304	Value	ValueOutput
+SVF1: Pan BP Mod	0	4194304	Value	ValueOutput
+SVF1: Pan HP Mod	0	4194304	Value	ValueOutput
+SVF1: Pan NC Mod	0	4194304	Value	ValueOutput
+SVF2: Angle	0	4194304	Value	ValueOutput
+SVF2: Radius	0	4194304	Value	ValueOutput
+SVF2: cutoff	0	4194304	Value	ValueOutput
+SVF2: resonance	0	4194304	Value	ValueOutput
+SVF2: drive	0	4194304	Value	ValueOutput
+SVF2: freq mod 1	0	4194304	Value	ValueOutput
+SVF2: freq mod 2	0	4194304	Value	ValueOutput
+SVF2: Res Mod	0	4194304	Value	ValueOutput
+SVF2: AutoFM	0	4194304	Value	ValueOutput
+SVF2: LP Pan	0	4194304	Value	ValueOutput
+SVF2: BP Pan	0	4194304	Value	ValueOutput
+SVF2: HP Pan	0	4194304	Value	ValueOutput
+SVF2: NC Pan	0	4194304	Value	ValueOutput
+SVF2: LP Gain	0	4194304	Value	ValueOutput
+SVF2: BP Gain	0	4194304	Value	ValueOutput
+SVF2: HP Gain	0	4194304	Value	ValueOutput
+SVF2: NC Gain	0	4194304	Value	ValueOutput
+SVF2: Angle Mod	0	4194304	Value	ValueOutput
+SVF2: Radius Mod	0	4194304	Value	ValueOutput
+SVF2: Pan LP Mod	0	4194304	Value	ValueOutput
+SVF2: Pan BP Mod	0	4194304	Value	ValueOutput
+SVF2: Pan HP Mod	0	4194304	Value	ValueOutput
+SVF2: Pan NC Mod	0	4194304	Value	ValueOutput
+ChM1: Pan	0	4194304	Value	ValueOutput
+ChM1: Mix	0	4194304	Value	ValueOutput
+ChM1: Pan Mode	0	4194304	Value	ValueOutput
+ChM1: PanMod Depth	0	4194304	Value	ValueOutput
+ChM1: PanMod Source	0	4194304	Value	ValueOutput
+ChM2: Pan	0	4194304	Value	ValueOutput
+ChM2: Mix	0	4194304	Value	ValueOutput
+ChM2: Pan Mode	0	4194304	Value	ValueOutput
+ChM2: PanMod Depth	0	4194304	Value	ValueOutput
+ChM2: PanMod Source	0	4194304	Value	ValueOutput
+Dly1: Sync Left	0	4194304	Value	ValueOutput
+Dly1: Sync Right	0	4194304	Value	ValueOutput
+Dly1: Feedback	0	4194304	Value	ValueOutput
+Dly1: Crossfeed	0	4194304	Value	ValueOutput
+Dly1: Mix	0	4194304	Value	ValueOutput
+LFO1: Sync	0	4194304	Value	ValueOutput
+LFO1: Phase	0	4194304	Value	ValueOutput
+LFO2: Sync	0	4194304	Value	ValueOutput
+LFO2: Phase	0	4194304	Value	ValueOutput
+Seq1: Sync	0	4194304	Value	ValueOutput
+Seq1: Step 1	0	4194304	Value	ValueOutput
+Seq1: Step 2	0	4194304	Value	ValueOutput
+Seq1: Step 3	0	4194304	Value	ValueOutput
+Seq1: Step 4	0	4194304	Value	ValueOutput
+Seq1: Step 5	0	4194304	Value	ValueOutput
+Seq1: Step 6	0	4194304	Value	ValueOutput
+Seq1: Step 7	0	4194304	Value	ValueOutput
+Seq1: Step 8	0	4194304	Value	ValueOutput
+Seq1: Step 9	0	4194304	Value	ValueOutput
+Seq1: Step 10	0	4194304	Value	ValueOutput
+Seq1: Step 11	0	4194304	Value	ValueOutput
+Seq1: Step 12	0	4194304	Value	ValueOutput
+Seq1: Step 13	0	4194304	Value	ValueOutput
+Seq1: Step 14	0	4194304	Value	ValueOutput
+Seq1: Step 15	0	4194304	Value	ValueOutput
+Seq1: Step 16	0	4194304	Value	ValueOutput
+Seq1: Blend	0	4194304	Value	ValueOutput
+Seq2: Sync	0	4194304	Value	ValueOutput
+Seq2: Step 1	0	4194304	Value	ValueOutput
+Seq2: Step 2	0	4194304	Value	ValueOutput
+Seq2: Step 3	0	4194304	Value	ValueOutput
+Seq2: Step 4	0	4194304	Value	ValueOutput
+Seq2: Step 5	0	4194304	Value	ValueOutput
+Seq2: Step 6	0	4194304	Value	ValueOutput
+Seq2: Step 7	0	4194304	Value	ValueOutput
+Seq2: Step 8	0	4194304	Value	ValueOutput
+Seq2: Step 9	0	4194304	Value	ValueOutput
+Seq2: Step 10	0	4194304	Value	ValueOutput
+Seq2: Step 11	0	4194304	Value	ValueOutput
+Seq2: Step 12	0	4194304	Value	ValueOutput
+Seq2: Step 13	0	4194304	Value	ValueOutput
+Seq2: Step 14	0	4194304	Value	ValueOutput
+Seq2: Step 15	0	4194304	Value	ValueOutput
+Seq2: Step 16	0	4194304	Value	ValueOutput
+Seq2: Blend	0	4194304	Value	ValueOutput
+LFO1: Waveform	0	4194304	Value	ValueOutput
+LFO1: Polarity	0	4194304	Value	ValueOutput
+LFO2: Waveform	0	4194304	Value	ValueOutput
+LFO2: Polarity	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

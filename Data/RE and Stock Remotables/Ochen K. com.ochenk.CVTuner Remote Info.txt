@@ -1,0 +1,29 @@
+Scope
+Manufacturer	Model
+Ochen K.	com.ochenk.CVTuner
+
+Remotable	Min	Max	Input type	Output type
+C Button	0	1	Toggle	ValueOutput
+C#/Dd Button	0	1	Toggle	ValueOutput
+D Button	0	1	Toggle	ValueOutput
+D#/Eb Button	0	1	Toggle	ValueOutput
+E Button	0	1	Toggle	ValueOutput
+F Button	0	1	Toggle	ValueOutput
+F#/Gb Button	0	1	Toggle	ValueOutput
+G Button	0	1	Toggle	ValueOutput
+G#/Ab Button	0	1	Toggle	ValueOutput
+A Button	0	1	Toggle	ValueOutput
+A#/Bb Button	0	1	Toggle	ValueOutput
+B Button	0	1	Toggle	ValueOutput
+Source CV Dial	0	2	Value	ValueOutput
+Round Dial	0	3	Value	ValueOutput
+Definition Mode	0	1	Toggle	ValueOutput
+Harmony Interval	0	14	Value	ValueOutput
+Preset Root Note	0	11	Value	ValueOutput
+Preset Scale	0	12	Value	ValueOutput
+Bypass	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

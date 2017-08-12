@@ -1,0 +1,131 @@
+Scope
+Manufacturer	Model
+kiloHearts	vst.kHs1.kHs ONE
+Note: Will match scope definitions for vst.kHs1.kHs ONE or vst.kHs1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+OSC 1: Waveform	0	4194304	Value	ValueOutput
+OSC 1: Gain	0	4194304	Value	ValueOutput
+OSC 1: Shape	0	4194304	Value	ValueOutput
+OSC 1: Octave	0	4194304	Value	ValueOutput
+OSC 1: Semi	0	4194304	Value	ValueOutput
+OSC 1: Cents	0	4194304	Value	ValueOutput
+OSC 2: Waveform	0	4194304	Value	ValueOutput
+OSC 2: Gain	0	4194304	Value	ValueOutput
+OSC 2: Shape	0	4194304	Value	ValueOutput
+OSC 2: Octave	0	4194304	Value	ValueOutput
+OSC 2: Semi	0	4194304	Value	ValueOutput
+OSC 2: Cents	0	4194304	Value	ValueOutput
+SUB: Shape	0	4194304	Value	ValueOutput
+SUB: Gain	0	4194304	Value	ValueOutput
+SUB: Octave	0	4194304	Value	ValueOutput
+AMP ENV: Attack	0	4194304	Value	ValueOutput
+AMP ENV: Decay	0	4194304	Value	ValueOutput
+AMP ENV: Sustain	0	4194304	Value	ValueOutput
+AMP ENV: Release	0	4194304	Value	ValueOutput
+FILTER ENV: Attack	0	4194304	Value	ValueOutput
+FILTER ENV: Decay	0	4194304	Value	ValueOutput
+FILTER ENV: Sustain	0	4194304	Value	ValueOutput
+FILTER ENV: Release	0	4194304	Value	ValueOutput
+FILTER 1: Cutoff	0	4194304	Value	ValueOutput
+FILTER 1: Q	0	4194304	Value	ValueOutput
+FILTER 1: Env Amt	0	4194304	Value	ValueOutput
+FILTER 1: Mode	0	4194304	Value	ValueOutput
+FILTER 1: Key Tracking	0	4194304	Value	ValueOutput
+SHAPER: Mode	0	4194304	Value	ValueOutput
+SHAPER: Drive	0	4194304	Value	ValueOutput
+SHAPER: Mix	0	4194304	Value	ValueOutput
+FILTER 2: Cutoff	0	4194304	Value	ValueOutput
+FILTER 2: Q	0	4194304	Value	ValueOutput
+FILTER 2: Env Amt	0	4194304	Value	ValueOutput
+FILTER 2: Mode	0	4194304	Value	ValueOutput
+FILTER 2: Key Tracking	0	4194304	Value	ValueOutput
+CHORUS: Delay	0	4194304	Value	ValueOutput
+CHORUS: Rate	0	4194304	Value	ValueOutput
+CHORUS: Depth	0	4194304	Value	ValueOutput
+CHORUS: Width	0	4194304	Value	ValueOutput
+CHORUS: Mix	0	4194304	Value	ValueOutput
+DELAY: Time	0	4194304	Value	ValueOutput
+DELAY: Feedback	0	4194304	Value	ValueOutput
+DELAY: Width	0	4194304	Value	ValueOutput
+DELAY: Send	0	4194304	Value	ValueOutput
+DELAY: Sync	0	4194304	Value	ValueOutput
+VOICE: Pitch Bend Range	0	4194304	Value	ValueOutput
+VOICE: Unison Voices	0	4194304	Value	ValueOutput
+VOICE: Unison Detune	0	4194304	Value	ValueOutput
+VOICE: Unison Width	0	4194304	Value	ValueOutput
+VOICE: Glide Time	0	4194304	Value	ValueOutput
+VOICE: Polyphony	0	4194304	Value	ValueOutput
+MOD WHEEL: Target 1	0	4194304	Value	ValueOutput
+MOD WHEEL: Amt 1	0	4194304	Value	ValueOutput
+MOD WHEEL: Target 2	0	4194304	Value	ValueOutput
+MOD WHEEL: Amt 2	0	4194304	Value	ValueOutput
+MOD WHEEL: Target 3	0	4194304	Value	ValueOutput
+MOD WHEEL: Amt 3	0	4194304	Value	ValueOutput
+MOD ENV: Attack	0	4194304	Value	ValueOutput
+MOD ENV: Decay	0	4194304	Value	ValueOutput
+MOD ENV: Sustain	0	4194304	Value	ValueOutput
+MOD ENV: Release	0	4194304	Value	ValueOutput
+MOD ENV: Target 1	0	4194304	Value	ValueOutput
+MOD ENV: Amt 1	0	4194304	Value	ValueOutput
+MOD ENV: Target 2	0	4194304	Value	ValueOutput
+MOD ENV: Amt 2	0	4194304	Value	ValueOutput
+MOD ENV: Target 3	0	4194304	Value	ValueOutput
+MOD ENV: Amt 3	0	4194304	Value	ValueOutput
+MOD ENV: Depth	0	4194304	Value	ValueOutput
+VELOCITY: Target 1	0	4194304	Value	ValueOutput
+VELOCITY: Amt 1	0	4194304	Value	ValueOutput
+VELOCITY: Target 2	0	4194304	Value	ValueOutput
+VELOCITY: Amt 2	0	4194304	Value	ValueOutput
+VELOCITY: Target 3	0	4194304	Value	ValueOutput
+VELOCITY: Amt 3	0	4194304	Value	ValueOutput
+VOICE LFO: Rate	0	4194304	Value	ValueOutput
+VOICE LFO: Depth	0	4194304	Value	ValueOutput
+VOICE LFO: Phase	0	4194304	Value	ValueOutput
+VOICE LFO: Waveform	0	4194304	Value	ValueOutput
+VOICE LFO: Target 1	0	4194304	Value	ValueOutput
+VOICE LFO: Amt 1	0	4194304	Value	ValueOutput
+VOICE LFO: Target 2	0	4194304	Value	ValueOutput
+VOICE LFO: Amt 2	0	4194304	Value	ValueOutput
+VOICE LFO: Target 3	0	4194304	Value	ValueOutput
+VOICE LFO: Amt 3	0	4194304	Value	ValueOutput
+VOICE LFO: Key Tracking	0	4194304	Value	ValueOutput
+GLOBAL LFO: Rate	0	4194304	Value	ValueOutput
+GLOBAL LFO: Depth	0	4194304	Value	ValueOutput
+GLOBAL LFO: Phase	0	4194304	Value	ValueOutput
+GLOBAL LFO: Waveform	0	4194304	Value	ValueOutput
+GLOBAL LFO: Sync	0	4194304	Value	ValueOutput
+GLOBAL LFO: S/H	0	4194304	Value	ValueOutput
+GLOBAL LFO: Target 1	0	4194304	Value	ValueOutput
+GLOBAL LFO: Amt 1	0	4194304	Value	ValueOutput
+GLOBAL LFO: Target 2	0	4194304	Value	ValueOutput
+GLOBAL LFO: Amt 2	0	4194304	Value	ValueOutput
+GLOBAL LFO: Target 3	0	4194304	Value	ValueOutput
+GLOBAL LFO: Amt 3	0	4194304	Value	ValueOutput
+MASTER: Gain	0	4194304	Value	ValueOutput
+MASTER: Limiter	0	4194304	Value	ValueOutput
+MASTER: EQ Gain Low	0	4194304	Value	ValueOutput
+MASTER: EQ Gain High	0	4194304	Value	ValueOutput
+MASTER: EQ Freq Low	0	4194304	Value	ValueOutput
+MASTER: EQ Freq High	0	4194304	Value	ValueOutput
+VOICE: Legato Mode	0	4194304	Value	ValueOutput
+VOICE: Auto Glide	0	4194304	Value	ValueOutput
+OSC 1: Sync	0	4194304	Value	ValueOutput
+OSC 2: Sync	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

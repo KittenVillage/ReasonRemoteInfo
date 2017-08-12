@@ -1,0 +1,109 @@
+Scope
+Manufacturer	Model
+Roland	vst.Vas3.SYSTEM-100
+Note: Will match scope definitions for vst.Vas3.SYSTEM-100 or vst.Vas3
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+LFO-1 WAVEFORM	0	4194304	Value	ValueOutput
+LFO-1 FREQUENCY OFFSET	0	4194304	Value	ValueOutput
+LFO-1 FREQUENCY	0	4194304	Value	ValueOutput
+VCO LFO	0	4194304	Value	ValueOutput
+VCF LFO	0	4194304	Value	ValueOutput
+VCA LFO	0	4194304	Value	ValueOutput
+ADSR TRIG	0	4194304	Value	ValueOutput
+VCO-1 WAVEFORM	0	4194304	Value	ValueOutput
+VCO-1 PULSE WIDTH	0	4194304	Value	ValueOutput
+VCO-1 PW SOURCE	0	4194304	Value	ValueOutput
+VCO-1 RANGE	0	4194304	Value	ValueOutput
+VCO-1 EXT CV	0	4194304	Value	ValueOutput
+VCO-2 WAVEFORM	0	4194304	Value	ValueOutput
+VCO-2 PULSE WIDTH	0	4194304	Value	ValueOutput
+VCO-2 PW SOURCE	0	4194304	Value	ValueOutput
+VCO-2 RANGE	0	4194304	Value	ValueOutput
+VCO-2 FINE TUNING	0	4194304	Value	ValueOutput
+VCO-2 SYNC TYPE	0	4194304	Value	ValueOutput
+VCO-2 SYNC	0	4194304	Value	ValueOutput
+VCO-2 COARSE TUNING	0	4194304	Value	ValueOutput
+AUDIO MIXER VCO-1	0	4194304	Value	ValueOutput
+AUDIO MIXER VCO-2	0	4194304	Value	ValueOutput
+AUDIO MIXER RING MOD	0	4194304	Value	ValueOutput
+AUDIO MIXER NOISE	0	4194304	Value	ValueOutput
+NOISE GENERATOR	0	4194304	Value	ValueOutput
+VCO DESTINATION (GLIDE &	0	4194304	Value	ValueOutput
+GLIDE	0	4194304	Value	ValueOutput
+VCA INITIAL GAIN	0	4194304	Value	ValueOutput
+VCA ADSR	0	4194304	Value	ValueOutput
+VCF CUTOFF FREQUENCY	0	4194304	Value	ValueOutput
+VCF RESONANCE	0	4194304	Value	ValueOutput
+HPF CUTOFF FREQUENCY	0	4194304	Value	ValueOutput
+VCF ADSR	0	4194304	Value	ValueOutput
+VCF ADSR ATTACK	0	4194304	Value	ValueOutput
+VCF ADSR DECAY	0	4194304	Value	ValueOutput
+VCF ADSR SUSTAIN	0	4194304	Value	ValueOutput
+VCF ADSR RELEASE	0	4194304	Value	ValueOutput
+VCF KYBD CV	0	4194304	Value	ValueOutput
+VCA ADSR ATTACK	0	4194304	Value	ValueOutput
+VCA ADSR DECAY	0	4194304	Value	ValueOutput
+VCA ADSR SUSTAIN	0	4194304	Value	ValueOutput
+VCA ADSR RELEASE	0	4194304	Value	ValueOutput
+VCA TONE	0	4194304	Value	ValueOutput
+PHASER	0	4194304	Value	ValueOutput
+EFX REVERB LEVEL	0	4194304	Value	ValueOutput
+EFX DELAY LEVEL	0	4194304	Value	ValueOutput
+EFX DELAY TIME	0	4194304	Value	ValueOutput
+PORTAMENTO	0	4194304	Value	ValueOutput
+KEY ASGN	0	4194304	Value	ValueOutput
+BEND RANGE	0	4194304	Value	ValueOutput
+TEMPO SYNC	0	4194304	Value	ValueOutput
+INPUT JACK USING (SYSTEM	0	4194304	Value	ValueOutput
+LFO-1 EXT CV IN	0	4194304	Value	ValueOutput
+LFO-2 EXT CV IN	0	4194304	Value	ValueOutput
+VCF LFO IN	0	4194304	Value	ValueOutput
+S&H EXT IN	0	4194304	Value	ValueOutput
+GLIDE IN	0	4194304	Value	ValueOutput
+VCF ADSR GATE IN	0	4194304	Value	ValueOutput
+VCF ADSR IN	0	4194304	Value	ValueOutput
+VCA ADSR GATE IN	0	4194304	Value	ValueOutput
+VCA ADSR IN	0	4194304	Value	ValueOutput
+VCO-1 EXT CV IN	0	4194304	Value	ValueOutput
+VCO-2 SYNC IN	0	4194304	Value	ValueOutput
+RING MOD IN	0	4194304	Value	ValueOutput
+AUDIO MIXER EXT IN	0	4194304	Value	ValueOutput
+PHASER LFO IN	0	4194304	Value	ValueOutput
+PHASER MANUAL IN	0	4194304	Value	ValueOutput
+S&H MODE	0	4194304	Value	ValueOutput
+S&H LAG	0	4194304	Value	ValueOutput
+S&H SAMPLE TIME	0	4194304	Value	ValueOutput
+LFO-1 EXT CV GAIN	0	4194304	Value	ValueOutput
+LFO-2 WAVEFORM	0	4194304	Value	ValueOutput
+LFO-2 FREQUENCY	0	4194304	Value	ValueOutput
+LFO-2 FREQUENCY OFFSET	0	4194304	Value	ValueOutput
+LFO-2 EXT CV GAIN	0	4194304	Value	ValueOutput
+CABLE COLOR A	0	4194304	Value	ValueOutput
+CABLE COLOR B	0	4194304	Value	ValueOutput
+PATCH LEVEL	0	4194304	Value	ValueOutput
+ARPEGGIO	0	4194304	Value	ValueOutput
+ARP TYPE	0	4194304	Value	ValueOutput
+ARP STEP	0	4194304	Value	ValueOutput
+SCATTER TYPE	0	4194304	Value	ValueOutput
+SCATTER DEPTH	0	4194304	Value	ValueOutput
+OCTAVE	0	4194304	Value	ValueOutput
+KEY HOLD	0	4194304	Value	ValueOutput
+MASTER TUNE	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

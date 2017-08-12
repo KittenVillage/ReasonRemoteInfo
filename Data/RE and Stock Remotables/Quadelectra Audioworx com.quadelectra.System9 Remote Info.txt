@@ -1,0 +1,61 @@
+Scope
+Manufacturer	Model
+Quadelectra Audioworx	com.quadelectra.System9
+
+Remotable	Min	Max	Input type	Output type
+Shuffle	0	4194304	Value	ValueOutput
+Random (Humanize)	0	4194304	Value	ValueOutput
+Trigger #1: Mute	0	1	Toggle	ValueOutput
+Trigger #1: Solo	0	1	Toggle	ValueOutput
+Trigger #2: Mute	0	1	Toggle	ValueOutput
+Trigger #2: Solo	0	1	Toggle	ValueOutput
+Trigger #3: Mute	0	1	Toggle	ValueOutput
+Trigger #3: Solo	0	1	Toggle	ValueOutput
+Trigger #4: Mute	0	1	Toggle	ValueOutput
+Trigger #4: Solo	0	1	Toggle	ValueOutput
+Trigger #5: Mute	0	1	Toggle	ValueOutput
+Trigger #5: Solo	0	1	Toggle	ValueOutput
+Trigger #6: Mute	0	1	Toggle	ValueOutput
+Trigger #6: Solo	0	1	Toggle	ValueOutput
+Trigger #7: Mute	0	1	Toggle	ValueOutput
+Trigger #7: Solo	0	1	Toggle	ValueOutput
+Trigger #8: Mute	0	1	Toggle	ValueOutput
+Trigger #8: Solo	0	1	Toggle	ValueOutput
+Trigger #9: Mute	0	1	Toggle	ValueOutput
+Trigger #9: Solo	0	1	Toggle	ValueOutput
+Trigger #10: Mute	0	1	Toggle	ValueOutput
+Trigger #10: Solo	0	1	Toggle	ValueOutput
+Trigger #11: Mute	0	1	Toggle	ValueOutput
+Trigger #11: Solo	0	1	Toggle	ValueOutput
+Trigger #12: Mute	0	1	Toggle	ValueOutput
+Trigger #12: Solo	0	1	Toggle	ValueOutput
+Trigger #13: Mute	0	1	Toggle	ValueOutput
+Trigger #13: Solo	0	1	Toggle	ValueOutput
+Trigger #14: Mute	0	1	Toggle	ValueOutput
+Trigger #14: Solo	0	1	Toggle	ValueOutput
+Trigger #15: Mute	0	1	Toggle	ValueOutput
+Trigger #15: Solo	0	1	Toggle	ValueOutput
+Trigger #16: Mute	0	1	Toggle	ValueOutput
+Trigger #16: Solo	0	1	Toggle	ValueOutput
+Drum Hits: Master Level	0	4194304	Value	ValueOutput
+Drum Hits: Strong Hit Level	0	4194304	Value	ValueOutput
+Drum Hits: Mid Hit Level	0	4194304	Value	ValueOutput
+Drum Hits: Weak Hit Level	0	4194304	Value	ValueOutput
+Param #1: Bipolar Enable	0	1	Toggle	ValueOutput
+Param #2: Bipolar Enable	0	1	Toggle	ValueOutput
+Param #3: Bipolar Enable	0	1	Toggle	ValueOutput
+Param #4: Bipolar Enable	0	1	Toggle	ValueOutput
+Param #1: Scaling Amount	0	4194304	Value	ValueOutput
+Param #2: Scaling Amount	0	4194304	Value	ValueOutput
+Param #3: Scaling Amount	0	4194304	Value	ValueOutput
+Param #4: Scaling Amount	0	4194304	Value	ValueOutput
+Song Pattern Selection	0	16	Value	ValueOutput
+Pattern Source	0	1	Toggle	ValueOutput
+Sequencer Mode	0	1	Toggle	ValueOutput
+Resync On Pattern Change	0	1	Toggle	ValueOutput
+Start / Stop	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

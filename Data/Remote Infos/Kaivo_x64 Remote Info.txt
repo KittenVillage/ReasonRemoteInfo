@@ -1,0 +1,174 @@
+Scope
+Manufacturer	Model
+Madrona Labs	vst.Kaiv.Kaivo_x64
+Note: Will match scope definitions for vst.Kaiv.Kaivo_x64 or vst.Kaiv
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+key_voices	0	4194304	Value	ValueOutput
+key_mod	0	4194304	Value	ValueOutput
+key_bend	0	4194304	Value	ValueOutput
+key_unison	0	4194304	Value	ValueOutput
+key_glide	0	4194304	Value	ValueOutput
+seq_local	0	4194304	Value	ValueOutput
+seq_host	0	4194304	Value	ValueOutput
+seq_loop	0	4194304	Value	ValueOutput
+seq_trig	0	4194304	Value	ValueOutput
+seq_rate	0	4194304	Value	ValueOutput
+seq_ratio	0	4194304	Value	ValueOutput
+seq_rate_p	0	4194304	Value	ValueOutput
+seq_steps	0	4194304	Value	ValueOutput
+seq_steps_p	0	4194304	Value	ValueOutput
+seq_offset	0	4194304	Value	ValueOutput
+seq_offset_p	0	4194304	Value	ValueOutput
+seq_range	0	4194304	Value	ValueOutput
+seq_quantize	0	4194304	Value	ValueOutput
+seq_glide	0	4194304	Value	ValueOutput
+seq_pw	0	4194304	Value	ValueOutput
+seq_value_delay	0	4194304	Value	ValueOutput
+seq_pulse_delay	0	4194304	Value	ValueOutput
+seq_value0	0	4194304	Value	ValueOutput
+seq_value1	0	4194304	Value	ValueOutput
+seq_value2	0	4194304	Value	ValueOutput
+seq_value3	0	4194304	Value	ValueOutput
+seq_value4	0	4194304	Value	ValueOutput
+seq_value5	0	4194304	Value	ValueOutput
+seq_value6	0	4194304	Value	ValueOutput
+seq_value7	0	4194304	Value	ValueOutput
+seq_value8	0	4194304	Value	ValueOutput
+seq_value9	0	4194304	Value	ValueOutput
+seq_value10	0	4194304	Value	ValueOutput
+seq_value11	0	4194304	Value	ValueOutput
+seq_value12	0	4194304	Value	ValueOutput
+seq_value13	0	4194304	Value	ValueOutput
+seq_value14	0	4194304	Value	ValueOutput
+seq_value15	0	4194304	Value	ValueOutput
+seq_pulse0	0	4194304	Value	ValueOutput
+seq_pulse1	0	4194304	Value	ValueOutput
+seq_pulse2	0	4194304	Value	ValueOutput
+seq_pulse3	0	4194304	Value	ValueOutput
+seq_pulse4	0	4194304	Value	ValueOutput
+seq_pulse5	0	4194304	Value	ValueOutput
+seq_pulse6	0	4194304	Value	ValueOutput
+seq_pulse7	0	4194304	Value	ValueOutput
+seq_pulse8	0	4194304	Value	ValueOutput
+seq_pulse9	0	4194304	Value	ValueOutput
+seq_pulse10	0	4194304	Value	ValueOutput
+seq_pulse11	0	4194304	Value	ValueOutput
+seq_pulse12	0	4194304	Value	ValueOutput
+seq_pulse13	0	4194304	Value	ValueOutput
+seq_pulse14	0	4194304	Value	ValueOutput
+seq_pulse15	0	4194304	Value	ValueOutput
+lfo_offset	0	4194304	Value	ValueOutput
+lfo_offset_x	0	4194304	Value	ValueOutput
+lfo_offset_y	0	4194304	Value	ValueOutput
+lfo_rate	0	4194304	Value	ValueOutput
+lfo_level	0	4194304	Value	ValueOutput
+lfo_quantize	0	4194304	Value	ValueOutput
+lfo_offset_p	0	4194304	Value	ValueOutput
+lfo_rate_p	0	4194304	Value	ValueOutput
+lfo_level_p	0	4194304	Value	ValueOutput
+noise_peaks	0	4194304	Value	ValueOutput
+noise_width	0	4194304	Value	ValueOutput
+noise_falloff	0	4194304	Value	ValueOutput
+noise_offset	0	4194304	Value	ValueOutput
+noise_rate	0	4194304	Value	ValueOutput
+noise_level	0	4194304	Value	ValueOutput
+noise_auto	0	4194304	Value	ValueOutput
+noise_filter	0	4194304	Value	ValueOutput
+noise_offset_p	0	4194304	Value	ValueOutput
+noise_rate_p	0	4194304	Value	ValueOutput
+noise_level_p	0	4194304	Value	ValueOutput
+env1_attack	0	4194304	Value	ValueOutput
+env1_decay	0	4194304	Value	ValueOutput
+env1_sustain	0	4194304	Value	ValueOutput
+env1_release	0	4194304	Value	ValueOutput
+env1_level	0	4194304	Value	ValueOutput
+env1_xvel	0	4194304	Value	ValueOutput
+env1_attack_p	0	4194304	Value	ValueOutput
+env1_decay_p	0	4194304	Value	ValueOutput
+env1_release_p	0	4194304	Value	ValueOutput
+env2_repeat	0	4194304	Value	ValueOutput
+env2_delay	0	4194304	Value	ValueOutput
+env2_attack	0	4194304	Value	ValueOutput
+env2_sustain	0	4194304	Value	ValueOutput
+env2_release	0	4194304	Value	ValueOutput
+env2_xvel	0	4194304	Value	ValueOutput
+env2_xenv1	0	4194304	Value	ValueOutput
+env2_delay_p	0	4194304	Value	ValueOutput
+env2_attack_p	0	4194304	Value	ValueOutput
+env2_repeat_p	0	4194304	Value	ValueOutput
+env2_release_p	0	4194304	Value	ValueOutput
+gran_position_x	0	4194304	Value	ValueOutput
+gran_position_y	0	4194304	Value	ValueOutput
+gran_rate_noise	0	4194304	Value	ValueOutput
+gran_rate	0	4194304	Value	ValueOutput
+gran_density	0	4194304	Value	ValueOutput
+gran_pitch	0	4194304	Value	ValueOutput
+gran_pitch_env	0	4194304	Value	ValueOutput
+gran_pan	0	4194304	Value	ValueOutput
+gran_follow	0	4194304	Value	ValueOutput
+gran_smooth	0	4194304	Value	ValueOutput
+gran_wrap	0	4194304	Value	ValueOutput
+gran_position_x	0	4194304	Value	ValueOutput
+gran_position_y	0	4194304	Value	ValueOutput
+gran_rate_p	0	4194304	Value	ValueOutput
+gran_density_p	0	4194304	Value	ValueOutput
+gran_pitch_p	0	4194304	Value	ValueOutput
+gran_pitch_lin_	0	4194304	Value	ValueOutput
+gran_pitch_env_	0	4194304	Value	ValueOutput
+gran_pan_p	0	4194304	Value	ValueOutput
+gate_level	0	4194304	Value	ValueOutput
+gate_mode	0	4194304	Value	ValueOutput
+gate_decay	0	4194304	Value	ValueOutput
+gate_leak	0	4194304	Value	ValueOutput
+gate_level_p	0	4194304	Value	ValueOutput
+res_position	0	4194304	Value	ValueOutput
+res_brightness	0	4194304	Value	ValueOutput
+res_pitch	0	4194304	Value	ValueOutput
+res_nonlin	0	4194304	Value	ValueOutput
+res_sustain	0	4194304	Value	ValueOutput
+res_pan	0	4194304	Value	ValueOutput
+res_position_p	0	4194304	Value	ValueOutput
+res_brightness_	0	4194304	Value	ValueOutput
+res_pitch_p	0	4194304	Value	ValueOutput
+res_pitch_lin_p	0	4194304	Value	ValueOutput
+res_nonlin_p	0	4194304	Value	ValueOutput
+res_sustain_p	0	4194304	Value	ValueOutput
+res_pan_p	0	4194304	Value	ValueOutput
+res_mix_wet	0	4194304	Value	ValueOutput
+res_mix_dry	0	4194304	Value	ValueOutput
+body_position_x	0	4194304	Value	ValueOutput
+body_position_y	0	4194304	Value	ValueOutput
+body_nonlin	0	4194304	Value	ValueOutput
+body_tone	0	4194304	Value	ValueOutput
+body_pitch	0	4194304	Value	ValueOutput
+body_sustain	0	4194304	Value	ValueOutput
+body_pitch_mode	0	4194304	Value	ValueOutput
+body_position_x	0	4194304	Value	ValueOutput
+body_position_y	0	4194304	Value	ValueOutput
+body_nonlin_p	0	4194304	Value	ValueOutput
+body_tone_p	0	4194304	Value	ValueOutput
+body_pitch_p	0	4194304	Value	ValueOutput
+body_sustain_p	0	4194304	Value	ValueOutput
+body_mix_wet	0	4194304	Value	ValueOutput
+body_mix_dry	0	4194304	Value	ValueOutput
+output_tilt	0	4194304	Value	ValueOutput
+output_chorus	0	4194304	Value	ValueOutput
+output_limit	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

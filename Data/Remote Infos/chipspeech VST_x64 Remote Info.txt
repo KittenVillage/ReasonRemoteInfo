@@ -1,0 +1,151 @@
+Scope
+Manufacturer	Model
+Plogue Art et Technologie, Inc	vst.PLGS.chipspeech VST_x64
+Note: Will match scope definitions for vst.PLGS.chipspeech VST_x64 or vst.PLGS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+p000	0	4194304	Value	ValueOutput
+Vibrato	0	4194304	Value	ValueOutput
+Set Line	0	4194304	Value	ValueOutput
+Set Syllable	0	4194304	Value	ValueOutput
+p004	0	4194304	Value	ValueOutput
+p005	0	4194304	Value	ValueOutput
+p006	0	4194304	Value	ValueOutput
+CC007	0	4194304	Value	ValueOutput
+p008	0	4194304	Value	ValueOutput
+p009	0	4194304	Value	ValueOutput
+CC010	0	4194304	Value	ValueOutput
+p011	0	4194304	Value	ValueOutput
+Wave Rate	0	4194304	Value	ValueOutput
+Phoneme Speed	0	4194304	Value	ValueOutput
+Helium	0	4194304	Value	ValueOutput
+Fem Factor	0	4194304	Value	ValueOutput
+Hf Sizzle	0	4194304	Value	ValueOutput
+Breath	0	4194304	Value	ValueOutput
+Impulse Select	0	4194304	Value	ValueOutput
+Impulse Width	0	4194304	Value	ValueOutput
+Impulse WidthKf	0	4194304	Value	ValueOutput
+Density	0	4194304	Value	ValueOutput
+Detune	0	4194304	Value	ValueOutput
+Poly Mode	0	4194304	Value	ValueOutput
+Legato Mode	0	4194304	Value	ValueOutput
+Release Time	0	4194304	Value	ValueOutput
+Wave Rate Kf	0	4194304	Value	ValueOutput
+Octave	0	4194304	Value	ValueOutput
+Coarse Tune	0	4194304	Value	ValueOutput
+Fine Tune	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Sibilance	0	4194304	Value	ValueOutput
+p032	0	4194304	Value	ValueOutput
+p033	0	4194304	Value	ValueOutput
+p034	0	4194304	Value	ValueOutput
+p035	0	4194304	Value	ValueOutput
+p036	0	4194304	Value	ValueOutput
+p037	0	4194304	Value	ValueOutput
+p038	0	4194304	Value	ValueOutput
+p039	0	4194304	Value	ValueOutput
+p040	0	4194304	Value	ValueOutput
+p041	0	4194304	Value	ValueOutput
+p042	0	4194304	Value	ValueOutput
+p043	0	4194304	Value	ValueOutput
+p044	0	4194304	Value	ValueOutput
+p045	0	4194304	Value	ValueOutput
+p046	0	4194304	Value	ValueOutput
+p047	0	4194304	Value	ValueOutput
+p048	0	4194304	Value	ValueOutput
+p049	0	4194304	Value	ValueOutput
+p050	0	4194304	Value	ValueOutput
+p051	0	4194304	Value	ValueOutput
+p052	0	4194304	Value	ValueOutput
+p053	0	4194304	Value	ValueOutput
+p054	0	4194304	Value	ValueOutput
+p055	0	4194304	Value	ValueOutput
+p056	0	4194304	Value	ValueOutput
+p057	0	4194304	Value	ValueOutput
+p058	0	4194304	Value	ValueOutput
+p059	0	4194304	Value	ValueOutput
+p060	0	4194304	Value	ValueOutput
+p061	0	4194304	Value	ValueOutput
+p062	0	4194304	Value	ValueOutput
+p063	0	4194304	Value	ValueOutput
+p064	0	4194304	Value	ValueOutput
+p065	0	4194304	Value	ValueOutput
+p066	0	4194304	Value	ValueOutput
+p067	0	4194304	Value	ValueOutput
+p068	0	4194304	Value	ValueOutput
+p069	0	4194304	Value	ValueOutput
+Bend Bank	0	4194304	Value	ValueOutput
+Bend Entry	0	4194304	Value	ValueOutput
+Bend Loop Start	0	4194304	Value	ValueOutput
+Bend Loop Length	0	4194304	Value	ValueOutput
+Bend Loop Mode	0	4194304	Value	ValueOutput
+Bend Orig. Pitch	0	4194304	Value	ValueOutput
+Bend Freeze	0	4194304	Value	ValueOutput
+p077	0	4194304	Value	ValueOutput
+p078	0	4194304	Value	ValueOutput
+Line Loop	0	4194304	Value	ValueOutput
+Vibrato Rate	0	4194304	Value	ValueOutput
+Vibrato Accel	0	4194304	Value	ValueOutput
+Vibrato Delay	0	4194304	Value	ValueOutput
+Vibrato MW	0	4194304	Value	ValueOutput
+Vibrato Level	0	4194304	Value	ValueOutput
+Vibrato Tremolo	0	4194304	Value	ValueOutput
+Vibrato Tone	0	4194304	Value	ValueOutput
+Vibrato Helium	0	4194304	Value	ValueOutput
+MwToExpression	0	4194304	Value	ValueOutput
+ExpressionToVol	0	4194304	Value	ValueOutput
+ExpressionToSiz	0	4194304	Value	ValueOutput
+p091	0	4194304	Value	ValueOutput
+Humanize Pitch	0	4194304	Value	ValueOutput
+Humanize Volume	0	4194304	Value	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+Legato Glide	0	4194304	Value	ValueOutput
+p096	0	4194304	Value	ValueOutput
+p097	0	4194304	Value	ValueOutput
+p098	0	4194304	Value	ValueOutput
+p099	0	4194304	Value	ValueOutput
+p100	0	4194304	Value	ValueOutput
+p101	0	4194304	Value	ValueOutput
+p102	0	4194304	Value	ValueOutput
+p103	0	4194304	Value	ValueOutput
+p104	0	4194304	Value	ValueOutput
+p105	0	4194304	Value	ValueOutput
+p106	0	4194304	Value	ValueOutput
+p107	0	4194304	Value	ValueOutput
+p108	0	4194304	Value	ValueOutput
+p109	0	4194304	Value	ValueOutput
+p110	0	4194304	Value	ValueOutput
+p111	0	4194304	Value	ValueOutput
+p112	0	4194304	Value	ValueOutput
+p113	0	4194304	Value	ValueOutput
+p114	0	4194304	Value	ValueOutput
+p115	0	4194304	Value	ValueOutput
+p116	0	4194304	Value	ValueOutput
+p117	0	4194304	Value	ValueOutput
+p118	0	4194304	Value	ValueOutput
+p119	0	4194304	Value	ValueOutput
+p120	0	4194304	Value	ValueOutput
+p121	0	4194304	Value	ValueOutput
+p122	0	4194304	Value	ValueOutput
+p123	0	4194304	Value	ValueOutput
+p124	0	4194304	Value	ValueOutput
+p125	0	4194304	Value	ValueOutput
+p126	0	4194304	Value	ValueOutput
+p127	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

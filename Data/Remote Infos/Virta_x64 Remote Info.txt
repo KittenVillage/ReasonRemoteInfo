@@ -1,0 +1,112 @@
+Scope
+Manufacturer	Model
+Madrona Labs	vst.Vrta.Virta_x64
+Note: Will match scope definitions for vst.Vrta.Virta_x64 or vst.Vrta
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+key_voices	0	4194304	Value	ValueOutput
+key_mod	0	4194304	Value	ValueOutput
+key_bend	0	4194304	Value	ValueOutput
+key_unison	0	4194304	Value	ValueOutput
+key_glide	0	4194304	Value	ValueOutput
+audio_level	0	4194304	Value	ValueOutput
+audio_compress	0	4194304	Value	ValueOutput
+audio_lo_cut	0	4194304	Value	ValueOutput
+audio_hi_cut	0	4194304	Value	ValueOutput
+audio_thresh	0	4194304	Value	ValueOutput
+audio_quant	0	4194304	Value	ValueOutput
+lfo_rate	0	4194304	Value	ValueOutput
+lfo_ratio	0	4194304	Value	ValueOutput
+lfo_level	0	4194304	Value	ValueOutput
+lfo_host_sync	0	4194304	Value	ValueOutput
+lfo_rate_p	0	4194304	Value	ValueOutput
+lfo_level_p	0	4194304	Value	ValueOutput
+osc1_pitch	0	4194304	Value	ValueOutput
+osc1_level	0	4194304	Value	ValueOutput
+osc1_formants	0	4194304	Value	ValueOutput
+osc1_peak	0	4194304	Value	ValueOutput
+osc1_shape	0	4194304	Value	ValueOutput
+osc1_noise	0	4194304	Value	ValueOutput
+osc1_p1_p	0	4194304	Value	ValueOutput
+osc1_p2_p	0	4194304	Value	ValueOutput
+osc1_pitch_p	0	4194304	Value	ValueOutput
+osc1_lin_pitch_	0	4194304	Value	ValueOutput
+osc1_level_p	0	4194304	Value	ValueOutput
+osc2_pitch	0	4194304	Value	ValueOutput
+osc2_level	0	4194304	Value	ValueOutput
+osc2_formants	0	4194304	Value	ValueOutput
+osc2_peak	0	4194304	Value	ValueOutput
+osc2_shape	0	4194304	Value	ValueOutput
+osc2_noise	0	4194304	Value	ValueOutput
+osc2_p1_p	0	4194304	Value	ValueOutput
+osc2_p2_p	0	4194304	Value	ValueOutput
+osc2_pitch_p	0	4194304	Value	ValueOutput
+osc2_lin_pitch_	0	4194304	Value	ValueOutput
+osc2_level_p	0	4194304	Value	ValueOutput
+env_attack	0	4194304	Value	ValueOutput
+env_decay	0	4194304	Value	ValueOutput
+env_sustain	0	4194304	Value	ValueOutput
+env_release	0	4194304	Value	ValueOutput
+env_level	0	4194304	Value	ValueOutput
+env_xvel	0	4194304	Value	ValueOutput
+env_attack_p	0	4194304	Value	ValueOutput
+env_decay_p	0	4194304	Value	ValueOutput
+env_sustain_p	0	4194304	Value	ValueOutput
+env_release_p	0	4194304	Value	ValueOutput
+formants_quanti	0	4194304	Value	ValueOutput
+formants_carrie	0	4194304	Value	ValueOutput
+formants_progra	0	4194304	Value	ValueOutput
+formants_shift	0	4194304	Value	ValueOutput
+formants_stretc	0	4194304	Value	ValueOutput
+formants_q	0	4194304	Value	ValueOutput
+formants_shift_	0	4194304	Value	ValueOutput
+formants_stretc	0	4194304	Value	ValueOutput
+formants_q_p	0	4194304	Value	ValueOutput
+gate_dry	0	4194304	Value	ValueOutput
+gate_wet	0	4194304	Value	ValueOutput
+gate_level	0	4194304	Value	ValueOutput
+gate_mode	0	4194304	Value	ValueOutput
+gate_decay	0	4194304	Value	ValueOutput
+gate_level_p	0	4194304	Value	ValueOutput
+pitch_delay_inp	0	4194304	Value	ValueOutput
+pitch_delay_inp	0	4194304	Value	ValueOutput
+pitch_delay_lo_	0	4194304	Value	ValueOutput
+pitch_delay_lo_	0	4194304	Value	ValueOutput
+pitch_delay_shi	0	4194304	Value	ValueOutput
+pitch_delay_shi	0	4194304	Value	ValueOutput
+pitch_delay_del	0	4194304	Value	ValueOutput
+pitch_delay_del	0	4194304	Value	ValueOutput
+pitch_delay_rat	0	4194304	Value	ValueOutput
+pitch_delay_hi_	0	4194304	Value	ValueOutput
+pitch_delay_hi_	0	4194304	Value	ValueOutput
+pitch_delay_fee	0	4194304	Value	ValueOutput
+pitch_delay_fee	0	4194304	Value	ValueOutput
+pitch_delay_dif	0	4194304	Value	ValueOutput
+pitch_delay_dif	0	4194304	Value	ValueOutput
+pitch_delay_dry	0	4194304	Value	ValueOutput
+pitch_delay_wet	0	4194304	Value	ValueOutput
+output_aux_gain	0	4194304	Value	ValueOutput
+output_aux_gain	0	4194304	Value	ValueOutput
+output_aux_pan	0	4194304	Value	ValueOutput
+output_aux_pan_	0	4194304	Value	ValueOutput
+output_in_gain	0	4194304	Value	ValueOutput
+output_in_gain_	0	4194304	Value	ValueOutput
+output_in_pan	0	4194304	Value	ValueOutput
+output_in_pan_p	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

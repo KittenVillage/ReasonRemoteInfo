@@ -1,0 +1,30 @@
+Scope
+Manufacturer	Model
+Expert Sleepers	com.expertsleepers.SWVoiceController
+
+Remotable	Min	Max	Input type	Output type
+Calibrate V/Oct	0	1	Toggle	ValueOutput
+Calibrate Hz/V	0	1	Toggle	ValueOutput
+Gate Closed Voltage	0	4194304	Value	ValueOutput
+Gate Open Voltage	0	4194304	Value	ValueOutput
+Trigger Off Voltage	0	4194304	Value	ValueOutput
+Trigger On Voltage	0	4194304	Value	ValueOutput
+Velocity Min Voltage	0	4194304	Value	ValueOutput
+Velocity Max Voltage	0	4194304	Value	ValueOutput
+Pitch Wheel Range	0	48	Value	ValueOutput
+Note Priority	0	2	Value	ValueOutput
+Retrigger Mode	0	1	Toggle	ValueOutput
+Portamento Mode	0	4	Value	ValueOutput
+Portamento Time	0	4194304	Value	ValueOutput
+Portamento Shape	0	4194304	Value	ValueOutput
+Trigger Length	0	4194304	Value	ValueOutput
+CV Legator	0	1	Toggle	ValueOutput
+Transpose	0	96	Value	ValueOutput
+Detune	0	4194304	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

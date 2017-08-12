@@ -1,0 +1,82 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	vst.SBEG.Egoist x64
+Note: Will match scope definitions for vst.SBEG.Egoist x64 or vst.SBEG
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master_Level	0	4194304	Value	ValueOutput
+Slicer_Mute	0	4194304	Value	ValueOutput
+Slicer_FX_Assign_	0	4194304	Value	ValueOutput
+Slicer_Level	0	4194304	Value	ValueOutput
+Bass_Mute	0	4194304	Value	ValueOutput
+Bass_FX_Assign	0	4194304	Value	ValueOutput
+Bass_Level	0	4194304	Value	ValueOutput
+Beat_Mute	0	4194304	Value	ValueOutput
+Beat_FX_Assign	0	4194304	Value	ValueOutput
+Beat_Level	0	4194304	Value	ValueOutput
+Slicer_Pitch	0	4194304	Value	ValueOutput
+Slicer_Length	0	4194304	Value	ValueOutput
+Slicer_Envelope	0	4194304	Value	ValueOutput
+Slicer_Max_Out	0	4194304	Value	ValueOutput
+Slicer_Seq_Direc_	0	4194304	Value	ValueOutput
+Bass_Wave	0	4194304	Value	ValueOutput
+Bass_Root_Note	0	4194304	Value	ValueOutput
+Bass_Cutoff	0	4194304	Value	ValueOutput
+Bass_Reso	0	4194304	Value	ValueOutput
+Bass_Mod_Source	0	4194304	Value	ValueOutput
+Bass_Mod_Speed	0	4194304	Value	ValueOutput
+Bass_Mod_Amt	0	4194304	Value	ValueOutput
+Bass_Drive	0	4194304	Value	ValueOutput
+Bass_Amp_Decay	0	4194304	Value	ValueOutput
+Beat_Kick_Level	0	4194304	Value	ValueOutput
+Beat_Kick_Tune	0	4194304	Value	ValueOutput
+Beat_Kick_Sample_	0	4194304	Value	ValueOutput
+Beat_Snare_Level_	0	4194304	Value	ValueOutput
+Beat_Snare_Tune	0	4194304	Value	ValueOutput
+Beat_Snare_Sampl_	0	4194304	Value	ValueOutput
+Beat_Hihat_Level_	0	4194304	Value	ValueOutput
+Beat_Hihat_Tune	0	4194304	Value	ValueOutput
+Beat_Hihat_Sampl_	0	4194304	Value	ValueOutput
+Beat_Max_Out	0	4194304	Value	ValueOutput
+Beat_Attenuation_	0	4194304	Value	ValueOutput
+Beat_All_Samples_	0	4194304	Value	ValueOutput
+Bass_Seq_Directi_	0	4194304	Value	ValueOutput
+FX_Filter_Cutoff_	0	4194304	Value	ValueOutput
+FX_Filter_Reso	0	4194304	Value	ValueOutput
+FX_Filter_Env_Am_	0	4194304	Value	ValueOutput
+FX_Delay_Time	0	4194304	Value	ValueOutput
+FX_Delay_Feed	0	4194304	Value	ValueOutput
+FX_Delay_Level	0	4194304	Value	ValueOutput
+FX_Reverb_Size	0	4194304	Value	ValueOutput
+FX_Reverb_Damp	0	4194304	Value	ValueOutput
+FX_Reverb_Level	0	4194304	Value	ValueOutput
+FX_Lofi_Rate	0	4194304	Value	ValueOutput
+FX_Lofi_Bit	0	4194304	Value	ValueOutput
+FX_Chorus_Rate	0	4194304	Value	ValueOutput
+FX_Chorus_Depth	0	4194304	Value	ValueOutput
+FX_Stop_Time	0	4194304	Value	ValueOutput
+FX_Looper_Length_	0	4194304	Value	ValueOutput
+FX_Looper_Pitch	0	4194304	Value	ValueOutput
+FX_Seq_Direction_	0	4194304	Value	ValueOutput
+Master_Max_Out	0	4194304	Value	ValueOutput
+Max_Out_Time	0	4194304	Value	ValueOutput
+Slicekey_Pattern_	0	4194304	Value	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

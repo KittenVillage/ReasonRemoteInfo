@@ -1,0 +1,32 @@
+Scope
+Manufacturer	Model
+D16 Group Audio Software	pl.d16.Devastor2
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Dynamics	0	4194304	Value	ValueOutput
+Preamp	0	4194304	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Shape	0	4194304	Value	ValueOutput
+Distortion Function	0	5	Value	ValueOutput
+Filter 1 Type	0	4	Value	ValueOutput
+Filter 1 Cutoff	0	4194304	Value	ValueOutput
+Filter 1 Reso Bandwidth	0	4194304	Value	ValueOutput
+Filter 1 Volume	0	4194304	Value	ValueOutput
+Filter 2 Type	0	4	Value	ValueOutput
+Filter 2 Cutoff	0	4194304	Value	ValueOutput
+Filter 2 Reso Bandwidth	0	4194304	Value	ValueOutput
+Filter 2 Volume	0	4194304	Value	ValueOutput
+Filter 3 Type	0	4	Value	ValueOutput
+Filter 3 Cutoff	0	4194304	Value	ValueOutput
+Filter 3 Reso Bandwidth	0	4194304	Value	ValueOutput
+Filter 3 Volume	0	4194304	Value	ValueOutput
+Output Volume	0	4194304	Value	ValueOutput
+FX	0	4194304	Value	ValueOutput
+Signal Routing	0	8	Value	ValueOutput
+Limiter	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

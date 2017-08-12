@@ -1,0 +1,30 @@
+Scope
+Manufacturer	Model
+Quadelectra (Quadelectra Audioworx)	com.quadelectra.CVSuiteParametrix
+
+Remotable	Min	Max	Input type	Output type
+Parameter 1: Value	0	4194304	Value	ValueOutput
+Parameter 1: Value BP	0	4194304	Value	ValueOutput
+Parameter 1: Value Range	0	1	Toggle	ValueOutput
+Parameter 1: Mod Enabled	0	1	Toggle	ValueOutput
+Parameter 1: Mod Amount	0	4194304	Value	ValueOutput
+Parameter 2: Value	0	4194304	Value	ValueOutput
+Parameter 2: Value BP	0	4194304	Value	ValueOutput
+Parameter 2: Value Range	0	1	Toggle	ValueOutput
+Parameter 2: Mod Enabled	0	1	Toggle	ValueOutput
+Parameter 2: Mod Amount	0	4194304	Value	ValueOutput
+Parameter 3: Value	0	4194304	Value	ValueOutput
+Parameter 3: Value BP	0	4194304	Value	ValueOutput
+Parameter 3: Value Range	0	1	Toggle	ValueOutput
+Parameter 3: Mod Enabled	0	1	Toggle	ValueOutput
+Parameter 3: Mod Amount	0	4194304	Value	ValueOutput
+Parameter 4: Value	0	4194304	Value	ValueOutput
+Parameter 4: Value BP	0	4194304	Value	ValueOutput
+Parameter 4: Value Range	0	1	Toggle	ValueOutput
+Parameter 4: Mod Enabled	0	1	Toggle	ValueOutput
+Parameter 4: Mod Amount	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,69 @@
+Scope
+Manufacturer	Model
+ZakunaProd	com.zakunaprod.Lithium
+
+Remotable	Min	Max	Input type	Output type
+Poly OnOff	0	1	Toggle	ValueOutput
+Master Pitch	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Spread Detune	0	1	Toggle	ValueOutput
+Master Vol	0	4194304	Value	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+Bend Range	0	4194304	Value	ValueOutput
+Osc1 Semitones	0	4194304	Value	ValueOutput
+Osc1 Cents	0	4194304	Value	ValueOutput
+Osc1 Wavetable	0	11	Value	ValueOutput
+Osc1 Index	0	4194304	Value	ValueOutput
+Osc1 Index Env	0	4194304	Value	ValueOutput
+Osc1 Ind Atk	0	4194304	Value	ValueOutput
+Osc1 Ind Dec	0	4194304	Value	ValueOutput
+Osc1 Ind Sus	0	4194304	Value	ValueOutput
+Osc1 Ind Rel	0	4194304	Value	ValueOutput
+Osc2 Semitones	0	4194304	Value	ValueOutput
+Osc2 Cents	0	4194304	Value	ValueOutput
+Osc2 Wavetable	0	11	Value	ValueOutput
+Osc2 Index	0	4194304	Value	ValueOutput
+Osc2 Index Env	0	4194304	Value	ValueOutput
+Osc2 Ind Atk	0	4194304	Value	ValueOutput
+Osc2 Ind Dec	0	4194304	Value	ValueOutput
+Osc2 Ind Sus	0	4194304	Value	ValueOutput
+Osc2 Ind Rel	0	4194304	Value	ValueOutput
+Osc Mix	0	4194304	Value	ValueOutput
+Shaper OnOff	0	1	Toggle	ValueOutput
+Shaper Drive	0	4194304	Value	ValueOutput
+Filter Type	0	2	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Res	0	4194304	Value	ValueOutput
+Filter Env	0	4194304	Value	ValueOutput
+Filter Atk	0	4194304	Value	ValueOutput
+Filter Dec	0	4194304	Value	ValueOutput
+Filter Sus	0	4194304	Value	ValueOutput
+Filter Rel	0	4194304	Value	ValueOutput
+LFO1 Wave	0	3	Value	ValueOutput
+LFO1 Retrigg	0	1	Toggle	ValueOutput
+LFO1 Rate	0	4194304	Value	ValueOutput
+LFO1 Dest	0	2	Value	ValueOutput
+LFO1 Depth	0	4194304	Value	ValueOutput
+LFO2 Wave	0	3	Value	ValueOutput
+LFO2 Retrigg	0	1	Toggle	ValueOutput
+LFO2 Rate	0	4194304	Value	ValueOutput
+LFO2 Dest	0	2	Value	ValueOutput
+LFO2 Depth	0	4194304	Value	ValueOutput
+Amp Attack	0	4194304	Value	ValueOutput
+Amp Decay	0	4194304	Value	ValueOutput
+Amp Sustain	0	4194304	Value	ValueOutput
+Amp Release	0	4194304	Value	ValueOutput
+Amp Gain	0	4194304	Value	ValueOutput
+Amp Velocity	0	4194304	Value	ValueOutput
+Chorus	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

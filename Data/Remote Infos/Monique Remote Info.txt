@@ -1,0 +1,360 @@
+Scope
+Manufacturer	Model
+Monoplugs	vst.moni.Monique
+Note: Will match scope definitions for vst.moni.Monique or vst.moni
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+OSC1 KeySync	0	4194304	Value	ValueOutput
+OSC1 Wave	0	4194304	Value	ValueOutput
+OSC1 FM Mass	0	4194304	Value	ValueOutput
+OSC1 Phase	0	4194304	Value	ValueOutput
+OSC1 Phase_MOD	0	4194304	Value	ValueOutput
+OSC1 PhaseMod	0	4194304	Value	ValueOutput
+OSC2 Sync	0	4194304	Value	ValueOutput
+OSC2 Wave	0	4194304	Value	ValueOutput
+OSC2 FM Mass	0	4194304	Value	ValueOutput
+OSC2 Tune	0	4194304	Value	ValueOutput
+OSC2 Tune_MOD	0	4194304	Value	ValueOutput
+OSC2 TuneMod	0	4194304	Value	ValueOutput
+OSC3 Sync	0	4194304	Value	ValueOutput
+OSC3 Wave	0	4194304	Value	ValueOutput
+OSC3 FM Mass	0	4194304	Value	ValueOutput
+OSC3 Tune	0	4194304	Value	ValueOutput
+OSC3 Tune_MOD	0	4194304	Value	ValueOutput
+OSC3 TuneMod	0	4194304	Value	ValueOutput
+FM Tune	0	4194304	Value	ValueOutput
+FM Sync	0	4194304	Value	ValueOutput
+FM Swing	0	4194304	Value	ValueOutput
+FM Shape	0	4194304	Value	ValueOutput
+F1 OSC1 Input	0	4194304	Value	ValueOutput
+F1 ONV1 Active	0	4194304	Value	ValueOutput
+F1 ONV1 Att	0	4194304	Value	ValueOutput
+F1 ONV1 Dec	0	4194304	Value	ValueOutput
+F1 ONV1 Sus	0	4194304	Value	ValueOutput
+F1 ONV1 Retrig	0	4194304	Value	ValueOutput
+F1 ONV1 Rel	0	4194304	Value	ValueOutput
+F1 ONV1 Slope	0	4194304	Value	ValueOutput
+F1 OSC2 Input	0	4194304	Value	ValueOutput
+F1 ONV2 Active	0	4194304	Value	ValueOutput
+F1 ONV2 Att	0	4194304	Value	ValueOutput
+F1 ONV2 Dec	0	4194304	Value	ValueOutput
+F1 ONV2 Sus	0	4194304	Value	ValueOutput
+F1 ONV2 Retrig	0	4194304	Value	ValueOutput
+F1 ONV2 Rel	0	4194304	Value	ValueOutput
+F1 ONV2 Slope	0	4194304	Value	ValueOutput
+F1 OSC3 Input	0	4194304	Value	ValueOutput
+F1 ONV3 Active	0	4194304	Value	ValueOutput
+F1 ONV3 Att	0	4194304	Value	ValueOutput
+F1 ONV3 Dec	0	4194304	Value	ValueOutput
+F1 ONV3 Sus	0	4194304	Value	ValueOutput
+F1 ONV3 Retrig	0	4194304	Value	ValueOutput
+F1 ONV3 Rel	0	4194304	Value	ValueOutput
+F1 ONV3 Slope	0	4194304	Value	ValueOutput
+F1 ENV Att	0	4194304	Value	ValueOutput
+F1 ENV Dec	0	4194304	Value	ValueOutput
+F1 ENV Sus	0	4194304	Value	ValueOutput
+F1 ENV Retrig	0	4194304	Value	ValueOutput
+F1 ENV Rel	0	4194304	Value	ValueOutput
+F1 ENV Slope	0	4194304	Value	ValueOutput
+F1 ModMix	0	4194304	Value	ValueOutput
+LFO1 Speed	0	4194304	Value	ValueOutput
+LFO1 Wave	0	4194304	Value	ValueOutput
+LFO1 Phase	0	4194304	Value	ValueOutput
+F1 FilterType	0	4194304	Value	ValueOutput
+F1 Cutoff	0	4194304	Value	ValueOutput
+F1 Cutoff_MOD	0	4194304	Value	ValueOutput
+F1 CutoffMod	0	4194304	Value	ValueOutput
+F1 Reso	0	4194304	Value	ValueOutput
+F1 Reso_MOD	0	4194304	Value	ValueOutput
+F1 ResoMod	0	4194304	Value	ValueOutput
+F1 Dist	0	4194304	Value	ValueOutput
+F1 Dist_MOD	0	4194304	Value	ValueOutput
+F1 DistMod	0	4194304	Value	ValueOutput
+F1 Pan	0	4194304	Value	ValueOutput
+F1 Pan_MOD	0	4194304	Value	ValueOutput
+F1 PanMod	0	4194304	Value	ValueOutput
+F1 Volume	0	4194304	Value	ValueOutput
+F1 Volume_MOD	0	4194304	Value	ValueOutput
+F1 VolumeMod	0	4194304	Value	ValueOutput
+F2 OSC1 Input	0	4194304	Value	ValueOutput
+F2 ONV1 Active	0	4194304	Value	ValueOutput
+F2 ONV1 Att	0	4194304	Value	ValueOutput
+F2 ONV1 Dec	0	4194304	Value	ValueOutput
+F2 ONV1 Sus	0	4194304	Value	ValueOutput
+F2 ONV1 Retrig	0	4194304	Value	ValueOutput
+F2 ONV1 Rel	0	4194304	Value	ValueOutput
+F2 ONV1 Slope	0	4194304	Value	ValueOutput
+F2 OSC2 Input	0	4194304	Value	ValueOutput
+F2 ONV2 Active	0	4194304	Value	ValueOutput
+F2 ONV2 Att	0	4194304	Value	ValueOutput
+F2 ONV2 Dec	0	4194304	Value	ValueOutput
+F2 ONV2 Sus	0	4194304	Value	ValueOutput
+F2 ONV2 Retrig	0	4194304	Value	ValueOutput
+F2 ONV2 Rel	0	4194304	Value	ValueOutput
+F2 ONV2 Slope	0	4194304	Value	ValueOutput
+F2 OSC3 Input	0	4194304	Value	ValueOutput
+F2 ONV3 Active	0	4194304	Value	ValueOutput
+F2 ONV3 Att	0	4194304	Value	ValueOutput
+F2 ONV3 Dec	0	4194304	Value	ValueOutput
+F2 ONV3 Sus	0	4194304	Value	ValueOutput
+F2 ONV3 Retrig	0	4194304	Value	ValueOutput
+F2 ONV3 Rel	0	4194304	Value	ValueOutput
+F2 ONV3 Slope	0	4194304	Value	ValueOutput
+F2 ENV Att	0	4194304	Value	ValueOutput
+F2 ENV Dec	0	4194304	Value	ValueOutput
+F2 ENV Sus	0	4194304	Value	ValueOutput
+F2 ENV Retrig	0	4194304	Value	ValueOutput
+F2 ENV Rel	0	4194304	Value	ValueOutput
+F2 ENV Slope	0	4194304	Value	ValueOutput
+F2 ModMix	0	4194304	Value	ValueOutput
+LFO2 Speed	0	4194304	Value	ValueOutput
+LFO2 Wave	0	4194304	Value	ValueOutput
+LFO2 Phase	0	4194304	Value	ValueOutput
+F2 FilterType	0	4194304	Value	ValueOutput
+F2 Cutoff	0	4194304	Value	ValueOutput
+F2 Cutoff_MOD	0	4194304	Value	ValueOutput
+F2 CutoffMod	0	4194304	Value	ValueOutput
+F2 Reso	0	4194304	Value	ValueOutput
+F2 Reso_MOD	0	4194304	Value	ValueOutput
+F2 ResoMod	0	4194304	Value	ValueOutput
+F2 Dist	0	4194304	Value	ValueOutput
+F2 Dist_MOD	0	4194304	Value	ValueOutput
+F2 DistMod	0	4194304	Value	ValueOutput
+F2 Pan	0	4194304	Value	ValueOutput
+F2 Pan_MOD	0	4194304	Value	ValueOutput
+F2 PanMod	0	4194304	Value	ValueOutput
+F2 Volume	0	4194304	Value	ValueOutput
+F2 Volume_MOD	0	4194304	Value	ValueOutput
+F2 VolumeMod	0	4194304	Value	ValueOutput
+F3 OSC1 Input	0	4194304	Value	ValueOutput
+F3 ONV1 Active	0	4194304	Value	ValueOutput
+F3 ONV1 Att	0	4194304	Value	ValueOutput
+F3 ONV1 Dec	0	4194304	Value	ValueOutput
+F3 ONV1 Sus	0	4194304	Value	ValueOutput
+F3 ONV1 Retrig	0	4194304	Value	ValueOutput
+F3 ONV1 Rel	0	4194304	Value	ValueOutput
+F3 ONV1 Slope	0	4194304	Value	ValueOutput
+F3 OSC2 Input	0	4194304	Value	ValueOutput
+F3 ONV2 Active	0	4194304	Value	ValueOutput
+F3 ONV2 Att	0	4194304	Value	ValueOutput
+F3 ONV2 Dec	0	4194304	Value	ValueOutput
+F3 ONV2 Sus	0	4194304	Value	ValueOutput
+F3 ONV2 Retrig	0	4194304	Value	ValueOutput
+F3 ONV2 Rel	0	4194304	Value	ValueOutput
+F3 ONV2 Slope	0	4194304	Value	ValueOutput
+F3 OSC3 Input	0	4194304	Value	ValueOutput
+F3 ONV3 Active	0	4194304	Value	ValueOutput
+F3 ONV3 Att	0	4194304	Value	ValueOutput
+F3 ONV3 Dec	0	4194304	Value	ValueOutput
+F3 ONV3 Sus	0	4194304	Value	ValueOutput
+F3 ONV3 Retrig	0	4194304	Value	ValueOutput
+F3 ONV3 Rel	0	4194304	Value	ValueOutput
+F3 ONV3 Slope	0	4194304	Value	ValueOutput
+F3 ENV Att	0	4194304	Value	ValueOutput
+F3 ENV Dec	0	4194304	Value	ValueOutput
+F3 ENV Sus	0	4194304	Value	ValueOutput
+F3 ENV Retrig	0	4194304	Value	ValueOutput
+F3 ENV Rel	0	4194304	Value	ValueOutput
+F3 ENV Slope	0	4194304	Value	ValueOutput
+F3 ModMix	0	4194304	Value	ValueOutput
+LFO3 Speed	0	4194304	Value	ValueOutput
+LFO3 Wave	0	4194304	Value	ValueOutput
+LFO3 Phase	0	4194304	Value	ValueOutput
+F3 FilterType	0	4194304	Value	ValueOutput
+F3 Cutoff	0	4194304	Value	ValueOutput
+F3 Cutoff_MOD	0	4194304	Value	ValueOutput
+F3 CutoffMod	0	4194304	Value	ValueOutput
+F3 Reso	0	4194304	Value	ValueOutput
+F3 Reso_MOD	0	4194304	Value	ValueOutput
+F3 ResoMod	0	4194304	Value	ValueOutput
+F3 Dist	0	4194304	Value	ValueOutput
+F3 Dist_MOD	0	4194304	Value	ValueOutput
+F3 DistMod	0	4194304	Value	ValueOutput
+F3 Pan	0	4194304	Value	ValueOutput
+F3 Pan_MOD	0	4194304	Value	ValueOutput
+F3 PanMod	0	4194304	Value	ValueOutput
+F3 Volume	0	4194304	Value	ValueOutput
+F3 Volume_MOD	0	4194304	Value	ValueOutput
+F3 VolumeMod	0	4194304	Value	ValueOutput
+M_OSC State *me	0	4194304	Value	ValueOutput
+M_OSC Toggle *m	0	4194304	Value	ValueOutput
+M_OSC Speed	0	4194304	Value	ValueOutput
+M_OSC Wave	0	4194304	Value	ValueOutput
+M_OSC Phase	0	4194304	Value	ValueOutput
+M_OSC Active *m	0	4194304	Value	ValueOutput
+M_FLT State *me	0	4194304	Value	ValueOutput
+M_FLT Toggle *m	0	4194304	Value	ValueOutput
+M_FLT Speed	0	4194304	Value	ValueOutput
+M_FLT Wave	0	4194304	Value	ValueOutput
+M_FLT Phase	0	4194304	Value	ValueOutput
+M_FLT Active *m	0	4194304	Value	ValueOutput
+M_ARP State *me	0	4194304	Value	ValueOutput
+M_ARP Toggle *m	0	4194304	Value	ValueOutput
+M_ARP Speed	0	4194304	Value	ValueOutput
+M_ARP Wave	0	4194304	Value	ValueOutput
+M_ARP Phase	0	4194304	Value	ValueOutput
+M_ARP Active *m	0	4194304	Value	ValueOutput
+M_FX State *met	0	4194304	Value	ValueOutput
+M_FX Toggle *me	0	4194304	Value	ValueOutput
+M_FX Speed	0	4194304	Value	ValueOutput
+M_FX Wave	0	4194304	Value	ValueOutput
+M_FX Phase	0	4194304	Value	ValueOutput
+M_FX Active *me	0	4194304	Value	ValueOutput
+AMP_ENV Att	0	4194304	Value	ValueOutput
+AMP_ENV Dec	0	4194304	Value	ValueOutput
+AMP_ENV Sus	0	4194304	Value	ValueOutput
+AMP_ENV Retrig	0	4194304	Value	ValueOutput
+AMP_ENV Rel	0	4194304	Value	ValueOutput
+AMP_ENV Slope	0	4194304	Value	ValueOutput
+EQ1 Gain	0	4194304	Value	ValueOutput
+EQ1 ENV Active	0	4194304	Value	ValueOutput
+EQ1 ENV Att	0	4194304	Value	ValueOutput
+EQ1 ENV Dec	0	4194304	Value	ValueOutput
+EQ1 ENV Sus	0	4194304	Value	ValueOutput
+EQ1 ENV Retrig	0	4194304	Value	ValueOutput
+EQ1 ENV Rel	0	4194304	Value	ValueOutput
+EQ1 ENV Slope	0	4194304	Value	ValueOutput
+EQ2 Gain	0	4194304	Value	ValueOutput
+EQ2 ENV Active	0	4194304	Value	ValueOutput
+EQ2 ENV Att	0	4194304	Value	ValueOutput
+EQ2 ENV Dec	0	4194304	Value	ValueOutput
+EQ2 ENV Sus	0	4194304	Value	ValueOutput
+EQ2 ENV Retrig	0	4194304	Value	ValueOutput
+EQ2 ENV Rel	0	4194304	Value	ValueOutput
+EQ2 ENV Slope	0	4194304	Value	ValueOutput
+EQ3 Gain	0	4194304	Value	ValueOutput
+EQ3 ENV Active	0	4194304	Value	ValueOutput
+EQ3 ENV Att	0	4194304	Value	ValueOutput
+EQ3 ENV Dec	0	4194304	Value	ValueOutput
+EQ3 ENV Sus	0	4194304	Value	ValueOutput
+EQ3 ENV Retrig	0	4194304	Value	ValueOutput
+EQ3 ENV Rel	0	4194304	Value	ValueOutput
+EQ3 ENV Slope	0	4194304	Value	ValueOutput
+EQ4 Gain	0	4194304	Value	ValueOutput
+EQ4 ENV Active	0	4194304	Value	ValueOutput
+EQ4 ENV Att	0	4194304	Value	ValueOutput
+EQ4 ENV Dec	0	4194304	Value	ValueOutput
+EQ4 ENV Sus	0	4194304	Value	ValueOutput
+EQ4 ENV Retrig	0	4194304	Value	ValueOutput
+EQ4 ENV Rel	0	4194304	Value	ValueOutput
+EQ4 ENV Slope	0	4194304	Value	ValueOutput
+EQ5 Gain	0	4194304	Value	ValueOutput
+EQ5 ENV Active	0	4194304	Value	ValueOutput
+EQ5 ENV Att	0	4194304	Value	ValueOutput
+EQ5 ENV Dec	0	4194304	Value	ValueOutput
+EQ5 ENV Sus	0	4194304	Value	ValueOutput
+EQ5 ENV Retrig	0	4194304	Value	ValueOutput
+EQ5 ENV Rel	0	4194304	Value	ValueOutput
+EQ5 ENV Slope	0	4194304	Value	ValueOutput
+EQ6 Gain	0	4194304	Value	ValueOutput
+EQ6 ENV Active	0	4194304	Value	ValueOutput
+EQ6 ENV Att	0	4194304	Value	ValueOutput
+EQ6 ENV Dec	0	4194304	Value	ValueOutput
+EQ6 ENV Sus	0	4194304	Value	ValueOutput
+EQ6 ENV Retrig	0	4194304	Value	ValueOutput
+EQ6 ENV Rel	0	4194304	Value	ValueOutput
+EQ6 ENV Slope	0	4194304	Value	ValueOutput
+EQ7 Gain	0	4194304	Value	ValueOutput
+EQ7 ENV Active	0	4194304	Value	ValueOutput
+EQ7 ENV Att	0	4194304	Value	ValueOutput
+EQ7 ENV Dec	0	4194304	Value	ValueOutput
+EQ7 ENV Sus	0	4194304	Value	ValueOutput
+EQ7 ENV Retrig	0	4194304	Value	ValueOutput
+EQ7 ENV Rel	0	4194304	Value	ValueOutput
+EQ7 ENV Slope	0	4194304	Value	ValueOutput
+EQ All Mix	0	4194304	Value	ValueOutput
+EQ All Reso	0	4194304	Value	ValueOutput
+FX Dist	0	4194304	Value	ValueOutput
+FX Chorus	0	4194304	Value	ValueOutput
+FX ChorusPan	0	4194304	Value	ValueOutput
+FX ChorusPan_MO	0	4194304	Value	ValueOutput
+FX DelayFBack	0	4194304	Value	ValueOutput
+FX DelayReflex	0	4194304	Value	ValueOutput
+FX DelayPan	0	4194304	Value	ValueOutput
+FX LoopRecord	0	4194304	Value	ValueOutput
+FX LoopRel	0	4194304	Value	ValueOutput
+FX LoopSize	0	4194304	Value	ValueOutput
+FX ReverbRoom	0	4194304	Value	ValueOutput
+FX ReverbWidth	0	4194304	Value	ValueOutput
+FX ReverbWet	0	4194304	Value	ValueOutput
+FX ReverbPan	0	4194304	Value	ValueOutput
+FX ReverbPan_MO	0	4194304	Value	ValueOutput
+FX All Mix	0	4194304	Value	ValueOutput
+MASTER Volume	0	4194304	Value	ValueOutput
+ARP Active	0	4194304	Value	ValueOutput
+ARP Shuffle	0	4194304	Value	ValueOutput
+ARP StepBind	0	4194304	Value	ValueOutput
+ARP StepOffset	0	4194304	Value	ValueOutput
+GLOB NoteGlide	0	4194304	Value	ValueOutput
+GLOB VeloGlide	0	4194304	Value	ValueOutput
+ARP Step1 B1	0	4194304	Value	ValueOutput
+ARP Tune1	0	4194304	Value	ValueOutput
+ARP Velo1	0	4194304	Value	ValueOutput
+ARP Step2	0	4194304	Value	ValueOutput
+ARP Tune2	0	4194304	Value	ValueOutput
+ARP Velo2	0	4194304	Value	ValueOutput
+ARP Step3	0	4194304	Value	ValueOutput
+ARP Tune3	0	4194304	Value	ValueOutput
+ARP Velo3	0	4194304	Value	ValueOutput
+ARP Step4	0	4194304	Value	ValueOutput
+ARP Tune4	0	4194304	Value	ValueOutput
+ARP Velo4	0	4194304	Value	ValueOutput
+ARP Step5 B2	0	4194304	Value	ValueOutput
+ARP Tune5	0	4194304	Value	ValueOutput
+ARP Velo5	0	4194304	Value	ValueOutput
+ARP Step6	0	4194304	Value	ValueOutput
+ARP Tune6	0	4194304	Value	ValueOutput
+ARP Velo6	0	4194304	Value	ValueOutput
+ARP Step7	0	4194304	Value	ValueOutput
+ARP Tune7	0	4194304	Value	ValueOutput
+ARP Velo7	0	4194304	Value	ValueOutput
+ARP Step8	0	4194304	Value	ValueOutput
+ARP Tune8	0	4194304	Value	ValueOutput
+ARP Velo8	0	4194304	Value	ValueOutput
+ARP Step9 B3	0	4194304	Value	ValueOutput
+ARP Tune9	0	4194304	Value	ValueOutput
+ARP Velo9	0	4194304	Value	ValueOutput
+ARP Step10	0	4194304	Value	ValueOutput
+ARP Tune10	0	4194304	Value	ValueOutput
+ARP Velo10	0	4194304	Value	ValueOutput
+ARP Step11	0	4194304	Value	ValueOutput
+ARP Tune11	0	4194304	Value	ValueOutput
+ARP Velo11	0	4194304	Value	ValueOutput
+ARP Step12	0	4194304	Value	ValueOutput
+ARP Tune12	0	4194304	Value	ValueOutput
+ARP Velo12	0	4194304	Value	ValueOutput
+ARP Step13 B4	0	4194304	Value	ValueOutput
+ARP Tune13	0	4194304	Value	ValueOutput
+ARP Velo13	0	4194304	Value	ValueOutput
+ARP Step14	0	4194304	Value	ValueOutput
+ARP Tune14	0	4194304	Value	ValueOutput
+ARP Velo14	0	4194304	Value	ValueOutput
+ARP Step15	0	4194304	Value	ValueOutput
+ARP Tune15	0	4194304	Value	ValueOutput
+ARP Velo15	0	4194304	Value	ValueOutput
+ARP Step16	0	4194304	Value	ValueOutput
+ARP Tune16	0	4194304	Value	ValueOutput
+ARP Velo16	0	4194304	Value	ValueOutput
+ARP FineOffset	0	4194304	Value	ValueOutput
+ARP SpeedMulti	0	4194304	Value	ValueOutput
+GLOB SpeedSync	0	4194304	Value	ValueOutput
+GLOB SpeedBPM	0	4194304	Value	ValueOutput
+GLOB OctaveOff	0	4194304	Value	ValueOutput
+GLOB ProgNote	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

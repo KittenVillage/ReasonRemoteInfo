@@ -1,0 +1,21 @@
+Scope
+Manufacturer	Model
+Peff	com.peff.crapre2
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Reverb	0	1	Toggle	ValueOutput
+tapequality	0	2	Value	ValueOutput
+wowAndFlutter	0	4194304	Value	ValueOutput
+bias	0	4194304	Value	ValueOutput
+dolbyEnable	0	1	Toggle	ValueOutput
+powerSupply	0	2	Value	ValueOutput
+feedback	0	4194304	Value	ValueOutput
+mix	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

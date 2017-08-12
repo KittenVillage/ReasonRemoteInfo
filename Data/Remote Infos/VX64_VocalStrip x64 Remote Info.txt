@@ -1,0 +1,62 @@
+Scope
+Manufacturer	Model
+Cakewalk	vst.CWvs.VX64_VocalStrip x64
+Note: Will match scope definitions for vst.CWvs.VX64_VocalStrip x64 or vst.CWvs
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Plug-in Enable	0	4194304	Value	ValueOutput
+Input Tube Enable	0	4194304	Value	ValueOutput
+Input Gain Enable	0	4194304	Value	ValueOutput
+Input Tube Saturation	0	4194304	Value	ValueOutput
+Compander Enableation	0	4194304	Value	ValueOutput
+Compressor Threshtion	0	4194304	Value	ValueOutput
+Compressor Ratiohtion	0	4194304	Value	ValueOutput
+Expander Threshohtion	0	4194304	Value	ValueOutput
+Expander Ratio	0	4194304	Value	ValueOutput
+Compander Attackhtion	0	4194304	Value	ValueOutput
+EQ Enable	0	4194304	Value	ValueOutput
+EQ Tube Saturationion	0	4194304	Value	ValueOutput
+EQ Tube Low Enableion	0	4194304	Value	ValueOutput
+EQ Tube Mid Enableion	0	4194304	Value	ValueOutput
+EQ Tube High Enableon	0	4194304	Value	ValueOutput
+EQ Low Freq	0	4194304	Value	ValueOutput
+EQ Low Gain	0	4194304	Value	ValueOutput
+EQ Mid Freq	0	4194304	Value	ValueOutput
+EQ Mid Gain	0	4194304	Value	ValueOutput
+EQ High Freq	0	4194304	Value	ValueOutput
+EQ High Gain	0	4194304	Value	ValueOutput
+DeEsser Enable	0	4194304	Value	ValueOutput
+DeEsser Freq	0	4194304	Value	ValueOutput
+DeEsser Depth	0	4194304	Value	ValueOutput
+DeEsser Listen	0	4194304	Value	ValueOutput
+Doubler Enable	0	4194304	Value	ValueOutput
+Doubler Presencebleon	0	4194304	Value	ValueOutput
+Doubler Stereo	0	4194304	Value	ValueOutput
+Delay Enable	0	4194304	Value	ValueOutput
+Delay Sync Enableleon	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Level	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Filter Modeleon	0	4194304	Value	ValueOutput
+Delay Filter Freqleon	0	4194304	Value	ValueOutput
+Output Tube Enableeon	0	4194304	Value	ValueOutput
+Output Gain Enableeon	0	4194304	Value	ValueOutput
+Output Tube Saturation	0	4194304	Value	ValueOutput
+Reservedube Saturation	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

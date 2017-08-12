@@ -1,0 +1,67 @@
+Scope
+Manufacturer	Model
+Roland	vst.Vas0.SH-101
+Note: Will match scope definitions for vst.Vas0.SH-101 or vst.Vas0
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+MODULATOR WAVEFORM	0	4194304	Value	ValueOutput
+MODULATOR RATE	0	4194304	Value	ValueOutput
+MODULATOR VCO DEPTH	0	4194304	Value	ValueOutput
+MODULATOR VCF DEPTH	0	4194304	Value	ValueOutput
+ENV TRIG	0	4194304	Value	ValueOutput
+VCO PULSE WIDTH	0	4194304	Value	ValueOutput
+VCO PULSE WIDTH MOD	0	4194304	Value	ValueOutput
+VCO RANGE	0	4194304	Value	ValueOutput
+MIXER SQR	0	4194304	Value	ValueOutput
+MIXER SAW	0	4194304	Value	ValueOutput
+MIXER SUB OSC	0	4194304	Value	ValueOutput
+MIXER NOISE	0	4194304	Value	ValueOutput
+SUB OSC TYPE	0	4194304	Value	ValueOutput
+VCF FREQ	0	4194304	Value	ValueOutput
+VCF RESONANCE	0	4194304	Value	ValueOutput
+VCF ENV	0	4194304	Value	ValueOutput
+VCF ATTACK	0	4194304	Value	ValueOutput
+VCF DECAY	0	4194304	Value	ValueOutput
+VCF SUSTAIN	0	4194304	Value	ValueOutput
+VCF RELEASE	0	4194304	Value	ValueOutput
+VCF KEY FOLLOW	0	4194304	Value	ValueOutput
+VCA ATTACK	0	4194304	Value	ValueOutput
+VCA DECAY	0	4194304	Value	ValueOutput
+VCA SUSTAIN	0	4194304	Value	ValueOutput
+VCA RELEASE	0	4194304	Value	ValueOutput
+VCA TONE	0	4194304	Value	ValueOutput
+EFX CRUSHER	0	4194304	Value	ValueOutput
+EFX REVERB LEVEL	0	4194304	Value	ValueOutput
+EFX DELAY LEVEL	0	4194304	Value	ValueOutput
+EFX DELAY TIME	0	4194304	Value	ValueOutput
+PORTAMENTO TIME	0	4194304	Value	ValueOutput
+PORTAMENTO MODE	0	4194304	Value	ValueOutput
+VCA MODE	0	4194304	Value	ValueOutput
+BEND RANGE	0	4194304	Value	ValueOutput
+TEMPO SYNC	0	4194304	Value	ValueOutput
+PATCH LEVEL	0	4194304	Value	ValueOutput
+ARPEGGIO	0	4194304	Value	ValueOutput
+ARP TYPE	0	4194304	Value	ValueOutput
+ARP STEP	0	4194304	Value	ValueOutput
+SCATTER TYPE	0	4194304	Value	ValueOutput
+SCATTER DEPTH	0	4194304	Value	ValueOutput
+OCTAVE	0	4194304	Value	ValueOutput
+KEY HOLD	0	4194304	Value	ValueOutput
+MASTER TUNE	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

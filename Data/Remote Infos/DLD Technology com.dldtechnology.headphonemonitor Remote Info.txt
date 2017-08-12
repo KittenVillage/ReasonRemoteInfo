@@ -1,0 +1,14 @@
+Scope
+Manufacturer	Model
+DLD Technology	com.dldtechnology.headphonemonitor
+
+Remotable	Min	Max	Input type	Output type
+Speaker Angle	0	6	Value	ValueOutput
+Speaker Model	0	6	Value	ValueOutput
+Head Model	0	49	Value	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

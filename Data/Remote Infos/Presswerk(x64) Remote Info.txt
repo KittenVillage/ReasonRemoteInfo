@@ -1,0 +1,87 @@
+Scope
+Manufacturer	Model
+u-he	vst.uhPW.Presswerk(x64)
+Note: Will match scope definitions for vst.uhPW.Presswerk(x64) or vst.uhPW
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+PWerk: Threshold 1	0	4194304	Value	ValueOutput
+PWerk: Threshold 2	0	4194304	Value	ValueOutput
+PWerk: Ratio 1	0	4194304	Value	ValueOutput
+PWerk: Ratio 2	0	4194304	Value	ValueOutput
+PWerk: Soft Knee 1	0	4194304	Value	ValueOutput
+PWerk: Soft Knee 2	0	4194304	Value	ValueOutput
+PWerk: RMS Window 1	0	4194304	Value	ValueOutput
+PWerk: RMS Window 2	0	4194304	Value	ValueOutput
+PWerk: Attack 1	0	4194304	Value	ValueOutput
+PWerk: Attack 2	0	4194304	Value	ValueOutput
+PWerk: Release 1	0	4194304	Value	ValueOutput
+PWerk: Release 2	0	4194304	Value	ValueOutput
+PWerk: Adapt 1	0	4194304	Value	ValueOutput
+PWerk: Adapt 2	0	4194304	Value	ValueOutput
+PWerk: Input Gain 1	0	4194304	Value	ValueOutput
+PWerk: Input Gain 2	0	4194304	Value	ValueOutput
+PWerk: Output Gain 1	0	4194304	Value	ValueOutput
+PWerk: Output Gain 2	0	4194304	Value	ValueOutput
+PWerk: Sidechain HP 1	0	4194304	Value	ValueOutput
+PWerk: Sidechain HP 2	0	4194304	Value	ValueOutput
+PWerk: Sidechain LP 1	0	4194304	Value	ValueOutput
+PWerk: Sidechain LP 2	0	4194304	Value	ValueOutput
+PWerk: SC Int:Ext 1	0	4194304	Value	ValueOutput
+PWerk: SC Int:Ext 2	0	4194304	Value	ValueOutput
+PWerk: Mix 1	0	4194304	Value	ValueOutput
+PWerk: Mix 2	0	4194304	Value	ValueOutput
+PWerk: Auto Makeup 1	0	4194304	Value	ValueOutput
+PWerk: Auto Makeup 2	0	4194304	Value	ValueOutput
+PWerk: Dry HP 1	0	4194304	Value	ValueOutput
+PWerk: Dry HP 2	0	4194304	Value	ValueOutput
+PWerk: mixmod1	0	4194304	Value	ValueOutput
+PWerk: mixmod2	0	4194304	Value	ValueOutput
+PWerk: Soft Clip 1	0	4194304	Value	ValueOutput
+PWerk: Soft Clip 2	0	4194304	Value	ValueOutput
+PWerk: Stereo | MS	0	4194304	Value	ValueOutput
+PWerk: Link Channels	0	4194304	Value	ValueOutput
+PWerk: FF | FB | INT	0	4194304	Value	ValueOutput
+PWerk: Bypass	0	4194304	Value	ValueOutput
+PWerk: NonLin 1	0	4194304	Value	ValueOutput
+PWerk: NonLin 2	0	4194304	Value	ValueOutput
+PWerk: Sat. Amount 1	0	4194304	Value	ValueOutput
+PWerk: Sat.Amount 2	0	4194304	Value	ValueOutput
+PWerk: Sat. Warmth 1	0	4194304	Value	ValueOutput
+PWerk: Sat. Warmth 2	0	4194304	Value	ValueOutput
+PWerk: Sat. Dynamics 1	0	4194304	Value	ValueOutput
+PWerk: Sat. Dynamics 2	0	4194304	Value	ValueOutput
+PWerk: SC Monitor Lvl	0	4194304	Value	ValueOutput
+PWerk: SC1 Flt. Slope	0	4194304	Value	ValueOutput
+PWerk: SC2 Flt. Slope	0	4194304	Value	ValueOutput
+PWerk: analog	0	4194304	Value	ValueOutput
+PWerk: Sat 1 Pre|Post	0	4194304	Value	ValueOutput
+PWerk: Sat 2 Pre|Post	0	4194304	Value	ValueOutput
+PWerk: Wet Gain 1	0	4194304	Value	ValueOutput
+PWerk: Wet Gain 2	0	4194304	Value	ValueOutput
+PWerk: Channel Link	0	4194304	Value	ValueOutput
+PWerk: Response 1	0	4194304	Value	ValueOutput
+PWerk: Response 2	0	4194304	Value	ValueOutput
+PWerk: Enhancer 1	0	4194304	Value	ValueOutput
+PWerk: De-Esser 1	0	4194304	Value	ValueOutput
+PWerk: Ratio Switch 1	0	4194304	Value	ValueOutput
+PWerk: Compression 1	0	4194304	Value	ValueOutput
+PWerk: Compression 2	0	4194304	Value	ValueOutput
+PWerk: Adapt Button 1	0	4194304	Value	ValueOutput
+PWerk: Lmiter Mode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

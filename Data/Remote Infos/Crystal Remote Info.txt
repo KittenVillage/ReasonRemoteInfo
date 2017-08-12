@@ -1,0 +1,101 @@
+Scope
+Manufacturer	Model
+Green Oak Software	vst.AtFr.Crystal
+Note: Will match scope definitions for vst.AtFr.Crystal or vst.AtFr
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Voice1FilterEnvLo	0	4194304	Value	ValueOutput
+Voice1FilterEnvHi	0	4194304	Value	ValueOutput
+Voice1FiltRes	0	4194304	Value	ValueOutput
+Voice1FiltSat	0	4194304	Value	ValueOutput
+Voice1FiltFreq	0	4194304	Value	ValueOutput
+Voice1FiltShape	0	4194304	Value	ValueOutput
+Voice1PulseDepth	0	4194304	Value	ValueOutput
+Voice1PulseWidth	0	4194304	Value	ValueOutput
+Voice1PreMixLevel	0	4194304	Value	ValueOutput
+Voice1Mogrify	0	4194304	Value	ValueOutput
+Voice1FMIndex	0	4194304	Value	ValueOutput
+Voice2FilterEnvLo	0	4194304	Value	ValueOutput
+Voice2FilterEnvHi	0	4194304	Value	ValueOutput
+Voice2FiltRes	0	4194304	Value	ValueOutput
+Voice2FiltSat	0	4194304	Value	ValueOutput
+Voice2FiltFreq	0	4194304	Value	ValueOutput
+Voice2FiltShape	0	4194304	Value	ValueOutput
+Voice2PulseDepth	0	4194304	Value	ValueOutput
+Voice2PulseWidth	0	4194304	Value	ValueOutput
+Voice2PreMixLevel	0	4194304	Value	ValueOutput
+Voice2Mogrify	0	4194304	Value	ValueOutput
+Voice2FMIndex	0	4194304	Value	ValueOutput
+Voice3FilterEnvLo	0	4194304	Value	ValueOutput
+Voice3FilterEnvHi	0	4194304	Value	ValueOutput
+Voice3FiltRes	0	4194304	Value	ValueOutput
+Voice3FiltSat	0	4194304	Value	ValueOutput
+Voice3FiltFreq	0	4194304	Value	ValueOutput
+Voice3FiltShape	0	4194304	Value	ValueOutput
+Voice3PulseDepth	0	4194304	Value	ValueOutput
+Voice3PulseWidth	0	4194304	Value	ValueOutput
+Voice3PreMixLevel	0	4194304	Value	ValueOutput
+Voice3Mogrify	0	4194304	Value	ValueOutput
+Voice3FMIndex	0	4194304	Value	ValueOutput
+Delay1Time	0	4194304	Value	ValueOutput
+Delay1Feedback	0	4194304	Value	ValueOutput
+Delay1CrossFeedback	0	4194304	Value	ValueOutput
+Delay1FilterFreq	0	4194304	Value	ValueOutput
+Delay1Pan	0	4194304	Value	ValueOutput
+Delay2Time	0	4194304	Value	ValueOutput
+Delay2Feedback	0	4194304	Value	ValueOutput
+Delay2CrossFeedback	0	4194304	Value	ValueOutput
+Delay2FilterFreq	0	4194304	Value	ValueOutput
+Delay2Pan	0	4194304	Value	ValueOutput
+Delay3Time	0	4194304	Value	ValueOutput
+Delay3Feedback	0	4194304	Value	ValueOutput
+Delay3CrossFeedback	0	4194304	Value	ValueOutput
+Delay3FilterFreq	0	4194304	Value	ValueOutput
+Delay3Pan	0	4194304	Value	ValueOutput
+Delay4Time	0	4194304	Value	ValueOutput
+Delay4Feedback	0	4194304	Value	ValueOutput
+Delay4CrossFeedback	0	4194304	Value	ValueOutput
+Delay4FilterFreq	0	4194304	Value	ValueOutput
+Delay4Pan	0	4194304	Value	ValueOutput
+Voice1SendSplitter	0	4194304	Value	ValueOutput
+Voice1SendDelay1	0	4194304	Value	ValueOutput
+Voice1SendDelay2	0	4194304	Value	ValueOutput
+Voice1SendDelay3	0	4194304	Value	ValueOutput
+Voice1SendDelay4	0	4194304	Value	ValueOutput
+Voice1Pan	0	4194304	Value	ValueOutput
+Voice1Level	0	4194304	Value	ValueOutput
+Voice2SendSplitter	0	4194304	Value	ValueOutput
+Voice2SendDelay1	0	4194304	Value	ValueOutput
+Voice2SendDelay2	0	4194304	Value	ValueOutput
+Voice2SendDelay3	0	4194304	Value	ValueOutput
+Voice2SendDelay4	0	4194304	Value	ValueOutput
+Voice2Pan	0	4194304	Value	ValueOutput
+Voice2Level	0	4194304	Value	ValueOutput
+Voice3SendSplitter	0	4194304	Value	ValueOutput
+Voice3SendDelay1	0	4194304	Value	ValueOutput
+Voice3SendDelay2	0	4194304	Value	ValueOutput
+Voice3SendDelay3	0	4194304	Value	ValueOutput
+Voice3SendDelay4	0	4194304	Value	ValueOutput
+Voice3Pan	0	4194304	Value	ValueOutput
+Voice3Level	0	4194304	Value	ValueOutput
+Delay1Level	0	4194304	Value	ValueOutput
+Delay2Level	0	4194304	Value	ValueOutput
+Delay3Level	0	4194304	Value	ValueOutput
+Delay4Level	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

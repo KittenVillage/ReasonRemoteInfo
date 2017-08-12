@@ -1,0 +1,258 @@
+Scope
+Manufacturer	Model
+Full Bucket Music	vst.kp30.stigma64
+Note: Will match scope definitions for vst.kp30.stigma64 or vst.kp30
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Version	0	4194304	Value	ValueOutput
+Voices	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+Balance	0	4194304	Value	ValueOutput
+KBS Mode	0	4194304	Value	ValueOutput
+KBS Dest	0	4194304	Value	ValueOutput
+MstrTune	0	4194304	Value	ValueOutput
+SyntTune	0	4194304	Value	ValueOutput
+Pan Syn.	0	4194304	Value	ValueOutput
+Pan Ins.	0	4194304	Value	ValueOutput
+Vib. Src	0	4194304	Value	ValueOutput
+Vib. Dpt	0	4194304	Value	ValueOutput
+NoiseSrc	0	4194304	Value	ValueOutput
+NoiseDpt	0	4194304	Value	ValueOutput
+LPF Src	0	4194304	Value	ValueOutput
+LPF Dpt	0	4194304	Value	ValueOutput
+HPF Src	0	4194304	Value	ValueOutput
+HPF Dpt	0	4194304	Value	ValueOutput
+Oct Down	0	4194304	Value	ValueOutput
+Oct Up	0	4194304	Value	ValueOutput
+Porta	0	4194304	Value	ValueOutput
+KBD Sens	0	4194304	Value	ValueOutput
+Joy Syn.	0	4194304	Value	ValueOutput
+Joy Ins.	0	4194304	Value	ValueOutput
+Del Vib.	0	4194304	Value	ValueOutput
+Q.Tone	0	4194304	Value	ValueOutput
+Mult.Trg	0	4194304	Value	ValueOutput
+Key Hold	0	4194304	Value	ValueOutput
+Porta T.	0	4194304	Value	ValueOutput
+KBDS Int	0	4194304	Value	ValueOutput
+Joy S.Rg	0	4194304	Value	ValueOutput
+Joy I.Rg	0	4194304	Value	ValueOutput
+LFO Dpt	0	4194304	Value	ValueOutput
+LFO Spd	0	4194304	Value	ValueOutput
+LFO Dly	0	4194304	Value	ValueOutput
+RingMod	0	4194304	Value	ValueOutput
+Noise	0	4194304	Value	ValueOutput
+P32' Saw	0	4194304	Value	ValueOutput
+P16' S/H	0	4194304	Value	ValueOutput
+P16' PWM	0	4194304	Value	ValueOutput
+P8' Saw	0	4194304	Value	ValueOutput
+P8' Pulse	0	4194304	Value	ValueOutput
+P8' Rect	0	4194304	Value	ValueOutput
+P4' Saw	0	4194304	Value	ValueOutput
+P32'EBass	0	4194304	Value	ValueOutput
+P32'Tuba	0	4194304	Value	ValueOutput
+P16'Clavi	0	4194304	Value	ValueOutput
+P16'FuzzG	0	4194304	Value	ValueOutput
+P16'Horn	0	4194304	Value	ValueOutput
+P8'Trump	0	4194304	Value	ValueOutput
+P8'Clari	0	4194304	Value	ValueOutput
+P8'DReed	0	4194304	Value	ValueOutput
+P8'String	0	4194304	Value	ValueOutput
+P4'Flute	0	4194304	Value	ValueOutput
+P4'HPerc	0	4194304	Value	ValueOutput
+Syn.Ptch	0	4194304	Value	ValueOutput
+Noise AR	0	4194304	Value	ValueOutput
+P32'SawAR	0	4194304	Value	ValueOutput
+P16'SHClk	0	4194304	Value	ValueOutput
+P16'PWMAR	0	4194304	Value	ValueOutput
+P8'SawAR	0	4194304	Value	ValueOutput
+P8'PlsDcy	0	4194304	Value	ValueOutput
+P8'RecAR	0	4194304	Value	ValueOutput
+P4'SawDcy	0	4194304	Value	ValueOutput
+P32'EB FC	0	4194304	Value	ValueOutput
+P32'TubFC	0	4194304	Value	ValueOutput
+P16'ClaPW	0	4194304	Value	ValueOutput
+P16'FGTon	0	4194304	Value	ValueOutput
+P16'HrnFC	0	4194304	Value	ValueOutput
+P8'TrumFC	0	4194304	Value	ValueOutput
+P8'ClaTon	0	4194304	Value	ValueOutput
+P8'DRdTon	0	4194304	Value	ValueOutput
+P8'StrAtk	0	4194304	Value	ValueOutput
+P4'FlTone	0	4194304	Value	ValueOutput
+P4'HPcDly	0	4194304	Value	ValueOutput
+Chorus	0	4194304	Value	ValueOutput
+Cho SMix	0	4194304	Value	ValueOutput
+Cho IMix	0	4194304	Value	ValueOutput
+Cho LFO1	0	4194304	Value	ValueOutput
+Cho LFO2	0	4194304	Value	ValueOutput
+Cho Dpt	0	4194304	Value	ValueOutput
+PWM Spd	0	4194304	Value	ValueOutput
+P1 Gain	0	4194304	Value	ValueOutput
+P1 Flt1	0	4194304	Value	ValueOutput
+P1 Flt2	0	4194304	Value	ValueOutput
+P1 E>F	0	4194304	Value	ValueOutput
+P1 EnvA	0	4194304	Value	ValueOutput
+P1 EnvD	0	4194304	Value	ValueOutput
+P1 EnvS	0	4194304	Value	ValueOutput
+P1 EnvR	0	4194304	Value	ValueOutput
+P2 Gain	0	4194304	Value	ValueOutput
+P2 Flt1	0	4194304	Value	ValueOutput
+P2 Flt2	0	4194304	Value	ValueOutput
+P2 E>F	0	4194304	Value	ValueOutput
+P2 EnvA	0	4194304	Value	ValueOutput
+P2 EnvD	0	4194304	Value	ValueOutput
+P2 EnvS	0	4194304	Value	ValueOutput
+P2 EnvR	0	4194304	Value	ValueOutput
+P3 Gain	0	4194304	Value	ValueOutput
+P3 Flt1	0	4194304	Value	ValueOutput
+P3 Flt2	0	4194304	Value	ValueOutput
+P3 E>F	0	4194304	Value	ValueOutput
+P3 EnvA	0	4194304	Value	ValueOutput
+P3 EnvD	0	4194304	Value	ValueOutput
+P3 EnvS	0	4194304	Value	ValueOutput
+P3 EnvR	0	4194304	Value	ValueOutput
+P4 Gain	0	4194304	Value	ValueOutput
+P4 Flt1	0	4194304	Value	ValueOutput
+P4 Flt2	0	4194304	Value	ValueOutput
+P4 E>F	0	4194304	Value	ValueOutput
+P4 EnvA	0	4194304	Value	ValueOutput
+P4 EnvD	0	4194304	Value	ValueOutput
+P4 EnvS	0	4194304	Value	ValueOutput
+P4 EnvR	0	4194304	Value	ValueOutput
+P5 Gain	0	4194304	Value	ValueOutput
+P5 Flt1	0	4194304	Value	ValueOutput
+P5 Flt2	0	4194304	Value	ValueOutput
+P5 E>F	0	4194304	Value	ValueOutput
+P5 EnvA	0	4194304	Value	ValueOutput
+P5 EnvD	0	4194304	Value	ValueOutput
+P5 EnvS	0	4194304	Value	ValueOutput
+P5 EnvR	0	4194304	Value	ValueOutput
+P6 Gain	0	4194304	Value	ValueOutput
+P6 Flt1	0	4194304	Value	ValueOutput
+P6 Flt2	0	4194304	Value	ValueOutput
+P6 E>F	0	4194304	Value	ValueOutput
+P6 EnvA	0	4194304	Value	ValueOutput
+P6 EnvD	0	4194304	Value	ValueOutput
+P6 EnvS	0	4194304	Value	ValueOutput
+P6 EnvR	0	4194304	Value	ValueOutput
+P7 Gain	0	4194304	Value	ValueOutput
+P7 Flt1	0	4194304	Value	ValueOutput
+P7 Flt2	0	4194304	Value	ValueOutput
+P7 E>F	0	4194304	Value	ValueOutput
+P7 EnvA	0	4194304	Value	ValueOutput
+P7 EnvD	0	4194304	Value	ValueOutput
+P7 EnvS	0	4194304	Value	ValueOutput
+P7 EnvR	0	4194304	Value	ValueOutput
+P8 Gain	0	4194304	Value	ValueOutput
+P8 Flt1	0	4194304	Value	ValueOutput
+P8 Flt2	0	4194304	Value	ValueOutput
+P8 E>F	0	4194304	Value	ValueOutput
+P8 EnvA	0	4194304	Value	ValueOutput
+P8 EnvD	0	4194304	Value	ValueOutput
+P8 EnvS	0	4194304	Value	ValueOutput
+P8 EnvR	0	4194304	Value	ValueOutput
+P9 Gain	0	4194304	Value	ValueOutput
+P9 Flt1	0	4194304	Value	ValueOutput
+P9 Flt2	0	4194304	Value	ValueOutput
+P9 E>F	0	4194304	Value	ValueOutput
+P9 EnvA	0	4194304	Value	ValueOutput
+P9 EnvD	0	4194304	Value	ValueOutput
+P9 EnvS	0	4194304	Value	ValueOutput
+P9 EnvR	0	4194304	Value	ValueOutput
+P10 Gain	0	4194304	Value	ValueOutput
+P10 Flt1	0	4194304	Value	ValueOutput
+P10 Flt2	0	4194304	Value	ValueOutput
+P10 E>F	0	4194304	Value	ValueOutput
+P10 EnvA	0	4194304	Value	ValueOutput
+P10 EnvD	0	4194304	Value	ValueOutput
+P10 EnvS	0	4194304	Value	ValueOutput
+P10 EnvR	0	4194304	Value	ValueOutput
+P11 Gain	0	4194304	Value	ValueOutput
+P11 Flt1	0	4194304	Value	ValueOutput
+P11 Flt2	0	4194304	Value	ValueOutput
+P11 E>F	0	4194304	Value	ValueOutput
+P11 EnvA	0	4194304	Value	ValueOutput
+P11 EnvD	0	4194304	Value	ValueOutput
+P11 EnvS	0	4194304	Value	ValueOutput
+P11 EnvR	0	4194304	Value	ValueOutput
+P12 Gain	0	4194304	Value	ValueOutput
+P12 Flt1	0	4194304	Value	ValueOutput
+P12 Flt2	0	4194304	Value	ValueOutput
+P12 E>F	0	4194304	Value	ValueOutput
+P12 EnvA	0	4194304	Value	ValueOutput
+P12 EnvD	0	4194304	Value	ValueOutput
+P12 EnvS	0	4194304	Value	ValueOutput
+P12 EnvR	0	4194304	Value	ValueOutput
+P13 Gain	0	4194304	Value	ValueOutput
+P13 Flt1	0	4194304	Value	ValueOutput
+P13 Flt2	0	4194304	Value	ValueOutput
+P13 E>F	0	4194304	Value	ValueOutput
+P13 EnvA	0	4194304	Value	ValueOutput
+P13 EnvD	0	4194304	Value	ValueOutput
+P13 EnvS	0	4194304	Value	ValueOutput
+P13 EnvR	0	4194304	Value	ValueOutput
+P14 Gain	0	4194304	Value	ValueOutput
+P14 Flt1	0	4194304	Value	ValueOutput
+P14 Flt2	0	4194304	Value	ValueOutput
+P14 E>F	0	4194304	Value	ValueOutput
+P14 EnvA	0	4194304	Value	ValueOutput
+P14 EnvD	0	4194304	Value	ValueOutput
+P14 EnvS	0	4194304	Value	ValueOutput
+P14 EnvR	0	4194304	Value	ValueOutput
+P15 Gain	0	4194304	Value	ValueOutput
+P15 Flt1	0	4194304	Value	ValueOutput
+P15 Flt2	0	4194304	Value	ValueOutput
+P15 E>F	0	4194304	Value	ValueOutput
+P15 EnvA	0	4194304	Value	ValueOutput
+P15 EnvD	0	4194304	Value	ValueOutput
+P15 EnvS	0	4194304	Value	ValueOutput
+P15 EnvR	0	4194304	Value	ValueOutput
+P16 Gain	0	4194304	Value	ValueOutput
+P16 Flt1	0	4194304	Value	ValueOutput
+P16 Flt2	0	4194304	Value	ValueOutput
+P16 E>F	0	4194304	Value	ValueOutput
+P16 EnvA	0	4194304	Value	ValueOutput
+P16 EnvD	0	4194304	Value	ValueOutput
+P16 EnvS	0	4194304	Value	ValueOutput
+P16 EnvR	0	4194304	Value	ValueOutput
+P17 Gain	0	4194304	Value	ValueOutput
+P17 Flt1	0	4194304	Value	ValueOutput
+P17 Flt2	0	4194304	Value	ValueOutput
+P17 E>F	0	4194304	Value	ValueOutput
+P17 EnvA	0	4194304	Value	ValueOutput
+P17 EnvD	0	4194304	Value	ValueOutput
+P17 EnvS	0	4194304	Value	ValueOutput
+P17 EnvR	0	4194304	Value	ValueOutput
+P18 Gain	0	4194304	Value	ValueOutput
+P18 Flt1	0	4194304	Value	ValueOutput
+P18 Flt2	0	4194304	Value	ValueOutput
+P18 E>F	0	4194304	Value	ValueOutput
+P18 EnvA	0	4194304	Value	ValueOutput
+P18 EnvD	0	4194304	Value	ValueOutput
+P18 EnvS	0	4194304	Value	ValueOutput
+P18 EnvR	0	4194304	Value	ValueOutput
+P19 Gain	0	4194304	Value	ValueOutput
+P19 Flt1	0	4194304	Value	ValueOutput
+P19 Flt2	0	4194304	Value	ValueOutput
+P19 E>F	0	4194304	Value	ValueOutput
+P19 EnvA	0	4194304	Value	ValueOutput
+P19 EnvD	0	4194304	Value	ValueOutput
+P19 EnvS	0	4194304	Value	ValueOutput
+P19 EnvR	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

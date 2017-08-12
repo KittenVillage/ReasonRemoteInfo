@@ -1,0 +1,21 @@
+Scope
+Manufacturer	Model
+Black and Orange	com.blackandorange.TrafficControl
+
+Remotable	Min	Max	Input type	Output type
+slot1_button	0	1	Toggle	ValueOutput
+slot2_button	0	1	Toggle	ValueOutput
+slot3_button	0	1	Toggle	ValueOutput
+slot4_button	0	1	Toggle	ValueOutput
+slot5_button	0	1	Toggle	ValueOutput
+slot6_button	0	1	Toggle	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+quantize	0	16	Value	ValueOutput
+releaseOnSwitch	0	1	Toggle	ValueOutput
+midiSelect	0	1	Toggle	ValueOutput
+slotSelect	0	5	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,382 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.ILLP.IL Love Philter
+Note: Will match scope definitions for vst.ILLP.IL Love Philter or vst.ILLP
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master level	0	4194304	Value	ValueOutput
+Master LFO level	0	4194304	Value	ValueOutput
+Envelope follower level	0	4194304	Value	ValueOutput
+Envelope follower attac	0	4194304	Value	ValueOutput
+Envelope follower relea	0	4194304	Value	ValueOutput
+Pattern number	0	4194304	Value	ValueOutput
+Modulation X	0	4194304	Value	ValueOutput
+Modulation Y	0	4194304	Value	ValueOutput
+Filter 1 - Cutoff envel	0	4194304	Value	ValueOutput
+Filter 1 - Cutoff frequ	0	4194304	Value	ValueOutput
+Filter 1 - Resonance / 	0	4194304	Value	ValueOutput
+Filter 1 - Low / gain /	0	4194304	Value	ValueOutput
+Filter 1 - Band	0	4194304	Value	ValueOutput
+Filter 1 - High	0	4194304	Value	ValueOutput
+Filter 1 - Waveshaper p	0	4194304	Value	ValueOutput
+Filter 1 - Waveshaper m	0	4194304	Value	ValueOutput
+Filter 1 - Output panni	0	4194304	Value	ValueOutput
+Filter 1 - Output volum	0	4194304	Value	ValueOutput
+Filter 1 - Input volume	0	4194304	Value	ValueOutput
+Filter 1 - To next filt	0	4194304	Value	ValueOutput
+Filter 1 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 1 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 1 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 1 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 1 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 1 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 1 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 1 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 1 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 1 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 1 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 1 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 1 - Filter reson	0	4194304	Value	ValueOutput
+Filter 1 - Filter reson	0	4194304	Value	ValueOutput
+Filter 1 - Filter reson	0	4194304	Value	ValueOutput
+Filter 1 - Filter reson	0	4194304	Value	ValueOutput
+Filter 1 - Filter low /	0	4194304	Value	ValueOutput
+Filter 1 - Filter low /	0	4194304	Value	ValueOutput
+Filter 1 - Filter low /	0	4194304	Value	ValueOutput
+Filter 1 - Filter low /	0	4194304	Value	ValueOutput
+Filter 1 - Filter band 	0	4194304	Value	ValueOutput
+Filter 1 - Filter band 	0	4194304	Value	ValueOutput
+Filter 1 - Filter band 	0	4194304	Value	ValueOutput
+Filter 1 - Filter band 	0	4194304	Value	ValueOutput
+Filter 1 - Filter high 	0	4194304	Value	ValueOutput
+Filter 1 - Filter high 	0	4194304	Value	ValueOutput
+Filter 1 - Filter high 	0	4194304	Value	ValueOutput
+Filter 1 - Filter high 	0	4194304	Value	ValueOutput
+Filter 1 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 1 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 1 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 1 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 2 - Cutoff envel	0	4194304	Value	ValueOutput
+Filter 2 - Cutoff frequ	0	4194304	Value	ValueOutput
+Filter 2 - Resonance / 	0	4194304	Value	ValueOutput
+Filter 2 - Low / gain /	0	4194304	Value	ValueOutput
+Filter 2 - Band	0	4194304	Value	ValueOutput
+Filter 2 - High	0	4194304	Value	ValueOutput
+Filter 2 - Waveshaper p	0	4194304	Value	ValueOutput
+Filter 2 - Waveshaper m	0	4194304	Value	ValueOutput
+Filter 2 - Output panni	0	4194304	Value	ValueOutput
+Filter 2 - Output volum	0	4194304	Value	ValueOutput
+Filter 2 - Input volume	0	4194304	Value	ValueOutput
+Filter 2 - To next filt	0	4194304	Value	ValueOutput
+Filter 2 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 2 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 2 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 2 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 2 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 2 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 2 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 2 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 2 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 2 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 2 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 2 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 2 - Filter reson	0	4194304	Value	ValueOutput
+Filter 2 - Filter reson	0	4194304	Value	ValueOutput
+Filter 2 - Filter reson	0	4194304	Value	ValueOutput
+Filter 2 - Filter reson	0	4194304	Value	ValueOutput
+Filter 2 - Filter low /	0	4194304	Value	ValueOutput
+Filter 2 - Filter low /	0	4194304	Value	ValueOutput
+Filter 2 - Filter low /	0	4194304	Value	ValueOutput
+Filter 2 - Filter low /	0	4194304	Value	ValueOutput
+Filter 2 - Filter band 	0	4194304	Value	ValueOutput
+Filter 2 - Filter band 	0	4194304	Value	ValueOutput
+Filter 2 - Filter band 	0	4194304	Value	ValueOutput
+Filter 2 - Filter band 	0	4194304	Value	ValueOutput
+Filter 2 - Filter high 	0	4194304	Value	ValueOutput
+Filter 2 - Filter high 	0	4194304	Value	ValueOutput
+Filter 2 - Filter high 	0	4194304	Value	ValueOutput
+Filter 2 - Filter high 	0	4194304	Value	ValueOutput
+Filter 2 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 2 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 2 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 2 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 3 - Cutoff envel	0	4194304	Value	ValueOutput
+Filter 3 - Cutoff frequ	0	4194304	Value	ValueOutput
+Filter 3 - Resonance / 	0	4194304	Value	ValueOutput
+Filter 3 - Low / gain /	0	4194304	Value	ValueOutput
+Filter 3 - Band	0	4194304	Value	ValueOutput
+Filter 3 - High	0	4194304	Value	ValueOutput
+Filter 3 - Waveshaper p	0	4194304	Value	ValueOutput
+Filter 3 - Waveshaper m	0	4194304	Value	ValueOutput
+Filter 3 - Output panni	0	4194304	Value	ValueOutput
+Filter 3 - Output volum	0	4194304	Value	ValueOutput
+Filter 3 - Input volume	0	4194304	Value	ValueOutput
+Filter 3 - To next filt	0	4194304	Value	ValueOutput
+Filter 3 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 3 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 3 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 3 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 3 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 3 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 3 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 3 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 3 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 3 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 3 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 3 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 3 - Filter reson	0	4194304	Value	ValueOutput
+Filter 3 - Filter reson	0	4194304	Value	ValueOutput
+Filter 3 - Filter reson	0	4194304	Value	ValueOutput
+Filter 3 - Filter reson	0	4194304	Value	ValueOutput
+Filter 3 - Filter low /	0	4194304	Value	ValueOutput
+Filter 3 - Filter low /	0	4194304	Value	ValueOutput
+Filter 3 - Filter low /	0	4194304	Value	ValueOutput
+Filter 3 - Filter low /	0	4194304	Value	ValueOutput
+Filter 3 - Filter band 	0	4194304	Value	ValueOutput
+Filter 3 - Filter band 	0	4194304	Value	ValueOutput
+Filter 3 - Filter band 	0	4194304	Value	ValueOutput
+Filter 3 - Filter band 	0	4194304	Value	ValueOutput
+Filter 3 - Filter high 	0	4194304	Value	ValueOutput
+Filter 3 - Filter high 	0	4194304	Value	ValueOutput
+Filter 3 - Filter high 	0	4194304	Value	ValueOutput
+Filter 3 - Filter high 	0	4194304	Value	ValueOutput
+Filter 3 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 3 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 3 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 3 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 4 - Cutoff envel	0	4194304	Value	ValueOutput
+Filter 4 - Cutoff frequ	0	4194304	Value	ValueOutput
+Filter 4 - Resonance / 	0	4194304	Value	ValueOutput
+Filter 4 - Low / gain /	0	4194304	Value	ValueOutput
+Filter 4 - Band	0	4194304	Value	ValueOutput
+Filter 4 - High	0	4194304	Value	ValueOutput
+Filter 4 - Waveshaper p	0	4194304	Value	ValueOutput
+Filter 4 - Waveshaper m	0	4194304	Value	ValueOutput
+Filter 4 - Output panni	0	4194304	Value	ValueOutput
+Filter 4 - Output volum	0	4194304	Value	ValueOutput
+Filter 4 - Input volume	0	4194304	Value	ValueOutput
+Filter 4 - To next filt	0	4194304	Value	ValueOutput
+Filter 4 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 4 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 4 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 4 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 4 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 4 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 4 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 4 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 4 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 4 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 4 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 4 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 4 - Filter reson	0	4194304	Value	ValueOutput
+Filter 4 - Filter reson	0	4194304	Value	ValueOutput
+Filter 4 - Filter reson	0	4194304	Value	ValueOutput
+Filter 4 - Filter reson	0	4194304	Value	ValueOutput
+Filter 4 - Filter low /	0	4194304	Value	ValueOutput
+Filter 4 - Filter low /	0	4194304	Value	ValueOutput
+Filter 4 - Filter low /	0	4194304	Value	ValueOutput
+Filter 4 - Filter low /	0	4194304	Value	ValueOutput
+Filter 4 - Filter band 	0	4194304	Value	ValueOutput
+Filter 4 - Filter band 	0	4194304	Value	ValueOutput
+Filter 4 - Filter band 	0	4194304	Value	ValueOutput
+Filter 4 - Filter band 	0	4194304	Value	ValueOutput
+Filter 4 - Filter high 	0	4194304	Value	ValueOutput
+Filter 4 - Filter high 	0	4194304	Value	ValueOutput
+Filter 4 - Filter high 	0	4194304	Value	ValueOutput
+Filter 4 - Filter high 	0	4194304	Value	ValueOutput
+Filter 4 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 4 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 4 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 4 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 5 - Cutoff envel	0	4194304	Value	ValueOutput
+Filter 5 - Cutoff frequ	0	4194304	Value	ValueOutput
+Filter 5 - Resonance / 	0	4194304	Value	ValueOutput
+Filter 5 - Low / gain /	0	4194304	Value	ValueOutput
+Filter 5 - Band	0	4194304	Value	ValueOutput
+Filter 5 - High	0	4194304	Value	ValueOutput
+Filter 5 - Waveshaper p	0	4194304	Value	ValueOutput
+Filter 5 - Waveshaper m	0	4194304	Value	ValueOutput
+Filter 5 - Output panni	0	4194304	Value	ValueOutput
+Filter 5 - Output volum	0	4194304	Value	ValueOutput
+Filter 5 - Input volume	0	4194304	Value	ValueOutput
+Filter 5 - To next filt	0	4194304	Value	ValueOutput
+Filter 5 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 5 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 5 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 5 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 5 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 5 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 5 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 5 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 5 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 5 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 5 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 5 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 5 - Filter reson	0	4194304	Value	ValueOutput
+Filter 5 - Filter reson	0	4194304	Value	ValueOutput
+Filter 5 - Filter reson	0	4194304	Value	ValueOutput
+Filter 5 - Filter reson	0	4194304	Value	ValueOutput
+Filter 5 - Filter low /	0	4194304	Value	ValueOutput
+Filter 5 - Filter low /	0	4194304	Value	ValueOutput
+Filter 5 - Filter low /	0	4194304	Value	ValueOutput
+Filter 5 - Filter low /	0	4194304	Value	ValueOutput
+Filter 5 - Filter band 	0	4194304	Value	ValueOutput
+Filter 5 - Filter band 	0	4194304	Value	ValueOutput
+Filter 5 - Filter band 	0	4194304	Value	ValueOutput
+Filter 5 - Filter band 	0	4194304	Value	ValueOutput
+Filter 5 - Filter high 	0	4194304	Value	ValueOutput
+Filter 5 - Filter high 	0	4194304	Value	ValueOutput
+Filter 5 - Filter high 	0	4194304	Value	ValueOutput
+Filter 5 - Filter high 	0	4194304	Value	ValueOutput
+Filter 5 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 5 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 5 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 5 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 6 - Cutoff envel	0	4194304	Value	ValueOutput
+Filter 6 - Cutoff frequ	0	4194304	Value	ValueOutput
+Filter 6 - Resonance / 	0	4194304	Value	ValueOutput
+Filter 6 - Low / gain /	0	4194304	Value	ValueOutput
+Filter 6 - Band	0	4194304	Value	ValueOutput
+Filter 6 - High	0	4194304	Value	ValueOutput
+Filter 6 - Waveshaper p	0	4194304	Value	ValueOutput
+Filter 6 - Waveshaper m	0	4194304	Value	ValueOutput
+Filter 6 - Output panni	0	4194304	Value	ValueOutput
+Filter 6 - Output volum	0	4194304	Value	ValueOutput
+Filter 6 - Input volume	0	4194304	Value	ValueOutput
+Filter 6 - To next filt	0	4194304	Value	ValueOutput
+Filter 6 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 6 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 6 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 6 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 6 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 6 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 6 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 6 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 6 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 6 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 6 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 6 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 6 - Filter reson	0	4194304	Value	ValueOutput
+Filter 6 - Filter reson	0	4194304	Value	ValueOutput
+Filter 6 - Filter reson	0	4194304	Value	ValueOutput
+Filter 6 - Filter reson	0	4194304	Value	ValueOutput
+Filter 6 - Filter low /	0	4194304	Value	ValueOutput
+Filter 6 - Filter low /	0	4194304	Value	ValueOutput
+Filter 6 - Filter low /	0	4194304	Value	ValueOutput
+Filter 6 - Filter low /	0	4194304	Value	ValueOutput
+Filter 6 - Filter band 	0	4194304	Value	ValueOutput
+Filter 6 - Filter band 	0	4194304	Value	ValueOutput
+Filter 6 - Filter band 	0	4194304	Value	ValueOutput
+Filter 6 - Filter band 	0	4194304	Value	ValueOutput
+Filter 6 - Filter high 	0	4194304	Value	ValueOutput
+Filter 6 - Filter high 	0	4194304	Value	ValueOutput
+Filter 6 - Filter high 	0	4194304	Value	ValueOutput
+Filter 6 - Filter high 	0	4194304	Value	ValueOutput
+Filter 6 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 6 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 6 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 6 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 7 - Cutoff envel	0	4194304	Value	ValueOutput
+Filter 7 - Cutoff frequ	0	4194304	Value	ValueOutput
+Filter 7 - Resonance / 	0	4194304	Value	ValueOutput
+Filter 7 - Low / gain /	0	4194304	Value	ValueOutput
+Filter 7 - Band	0	4194304	Value	ValueOutput
+Filter 7 - High	0	4194304	Value	ValueOutput
+Filter 7 - Waveshaper p	0	4194304	Value	ValueOutput
+Filter 7 - Waveshaper m	0	4194304	Value	ValueOutput
+Filter 7 - Output panni	0	4194304	Value	ValueOutput
+Filter 7 - Output volum	0	4194304	Value	ValueOutput
+Filter 7 - Input volume	0	4194304	Value	ValueOutput
+Filter 7 - To next filt	0	4194304	Value	ValueOutput
+Filter 7 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 7 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 7 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 7 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 7 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 7 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 7 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 7 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 7 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 7 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 7 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 7 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 7 - Filter reson	0	4194304	Value	ValueOutput
+Filter 7 - Filter reson	0	4194304	Value	ValueOutput
+Filter 7 - Filter reson	0	4194304	Value	ValueOutput
+Filter 7 - Filter reson	0	4194304	Value	ValueOutput
+Filter 7 - Filter low /	0	4194304	Value	ValueOutput
+Filter 7 - Filter low /	0	4194304	Value	ValueOutput
+Filter 7 - Filter low /	0	4194304	Value	ValueOutput
+Filter 7 - Filter low /	0	4194304	Value	ValueOutput
+Filter 7 - Filter band 	0	4194304	Value	ValueOutput
+Filter 7 - Filter band 	0	4194304	Value	ValueOutput
+Filter 7 - Filter band 	0	4194304	Value	ValueOutput
+Filter 7 - Filter band 	0	4194304	Value	ValueOutput
+Filter 7 - Filter high 	0	4194304	Value	ValueOutput
+Filter 7 - Filter high 	0	4194304	Value	ValueOutput
+Filter 7 - Filter high 	0	4194304	Value	ValueOutput
+Filter 7 - Filter high 	0	4194304	Value	ValueOutput
+Filter 7 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 7 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 7 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 7 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 8 - Cutoff envel	0	4194304	Value	ValueOutput
+Filter 8 - Cutoff frequ	0	4194304	Value	ValueOutput
+Filter 8 - Resonance / 	0	4194304	Value	ValueOutput
+Filter 8 - Low / gain /	0	4194304	Value	ValueOutput
+Filter 8 - Band	0	4194304	Value	ValueOutput
+Filter 8 - High	0	4194304	Value	ValueOutput
+Filter 8 - Waveshaper p	0	4194304	Value	ValueOutput
+Filter 8 - Waveshaper m	0	4194304	Value	ValueOutput
+Filter 8 - Output panni	0	4194304	Value	ValueOutput
+Filter 8 - Output volum	0	4194304	Value	ValueOutput
+Filter 8 - Input volume	0	4194304	Value	ValueOutput
+Filter 8 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 8 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 8 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 8 - Panning - LF	0	4194304	Value	ValueOutput
+Filter 8 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 8 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 8 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 8 - Volume - LFO	0	4194304	Value	ValueOutput
+Filter 8 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 8 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 8 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 8 - Filter cutof	0	4194304	Value	ValueOutput
+Filter 8 - Filter reson	0	4194304	Value	ValueOutput
+Filter 8 - Filter reson	0	4194304	Value	ValueOutput
+Filter 8 - Filter reson	0	4194304	Value	ValueOutput
+Filter 8 - Filter reson	0	4194304	Value	ValueOutput
+Filter 8 - Filter low /	0	4194304	Value	ValueOutput
+Filter 8 - Filter low /	0	4194304	Value	ValueOutput
+Filter 8 - Filter low /	0	4194304	Value	ValueOutput
+Filter 8 - Filter low /	0	4194304	Value	ValueOutput
+Filter 8 - Filter band 	0	4194304	Value	ValueOutput
+Filter 8 - Filter band 	0	4194304	Value	ValueOutput
+Filter 8 - Filter band 	0	4194304	Value	ValueOutput
+Filter 8 - Filter band 	0	4194304	Value	ValueOutput
+Filter 8 - Filter high 	0	4194304	Value	ValueOutput
+Filter 8 - Filter high 	0	4194304	Value	ValueOutput
+Filter 8 - Filter high 	0	4194304	Value	ValueOutput
+Filter 8 - Filter high 	0	4194304	Value	ValueOutput
+Filter 8 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 8 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 8 - Waveshaper -	0	4194304	Value	ValueOutput
+Filter 8 - Waveshaper -	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

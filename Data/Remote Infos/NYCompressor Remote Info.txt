@@ -1,0 +1,57 @@
+Scope
+Manufacturer	Model
+DDMF	vst.CoPl.NYCompressor
+Note: Will match scope definitions for vst.CoPl.NYCompressor or vst.CoPl
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Compressor1Thres	0	4194304	Value	ValueOutput
+Compressor1Ratio	0	4194304	Value	ValueOutput
+Compressor1Outpu	0	4194304	Value	ValueOutput
+Compressor1Attac	0	4194304	Value	ValueOutput
+Compressor1Relea	0	4194304	Value	ValueOutput
+Compressor1Mix	0	4194304	Value	ValueOutput
+Compressor1Filte	0	4194304	Value	ValueOutput
+Compressor1freq	0	4194304	Value	ValueOutput
+Compressor1width	0	4194304	Value	ValueOutput
+Compressor1filte	0	4194304	Value	ValueOutput
+Compressor1	0	4194304	Value	ValueOutput
+Compressor1	0	4194304	Value	ValueOutput
+Compressor1	0	4194304	Value	ValueOutput
+Compressor1	0	4194304	Value	ValueOutput
+Compressor1	0	4194304	Value	ValueOutput
+Compressor1	0	4194304	Value	ValueOutput
+Compressor2Thres	0	4194304	Value	ValueOutput
+Compressor2Ratio	0	4194304	Value	ValueOutput
+Compressor2Outpu	0	4194304	Value	ValueOutput
+Compressor2Attac	0	4194304	Value	ValueOutput
+Compressor2Relea	0	4194304	Value	ValueOutput
+Compressor2Mix	0	4194304	Value	ValueOutput
+Compressor2Filte	0	4194304	Value	ValueOutput
+Compressor2freq	0	4194304	Value	ValueOutput
+Compressor2width	0	4194304	Value	ValueOutput
+Compressor2filte	0	4194304	Value	ValueOutput
+Compressor2	0	4194304	Value	ValueOutput
+Compressor2	0	4194304	Value	ValueOutput
+Compressor2	0	4194304	Value	ValueOutput
+Compressor2	0	4194304	Value	ValueOutput
+Compressor2	0	4194304	Value	ValueOutput
+Compressor2	0	4194304	Value	ValueOutput
+MS	0	4194304	Value	ValueOutput
+twochannel	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

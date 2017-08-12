@@ -1,0 +1,206 @@
+Scope
+Manufacturer	Model
+Audio Damage, Inc.	vst.ADax.Axon
+Note: Will match scope definitions for vst.ADax.Axon or vst.ADax
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+V0 Pitch	0	4194304	Value	ValueOutput
+V0 Thres	0	4194304	Value	ValueOutput
+V0AmpATm	0	4194304	Value	ValueOutput
+V0AmpACv	0	4194304	Value	ValueOutput
+V0AmpDTm	0	4194304	Value	ValueOutput
+V0AmpDCv	0	4194304	Value	ValueOutput
+V0PitATm	0	4194304	Value	ValueOutput
+V0PitACv	0	4194304	Value	ValueOutput
+V0PitDTm	0	4194304	Value	ValueOutput
+V0PitDCv	0	4194304	Value	ValueOutput
+V0PitAmt	0	4194304	Value	ValueOutput
+V0FMFreq	0	4194304	Value	ValueOutput
+V0FMAmnt	0	4194304	Value	ValueOutput
+V0TimbrX	0	4194304	Value	ValueOutput
+V0TimbrY	0	4194304	Value	ValueOutput
+V0MIDOnl	0	4194304	Value	ValueOutput
+V0FMSend	0	4194304	Value	ValueOutput
+V0FMRecv	0	4194304	Value	ValueOutput
+V0AMSend	0	4194304	Value	ValueOutput
+V0AMRecv	0	4194304	Value	ValueOutput
+V1 Pitch	0	4194304	Value	ValueOutput
+V1 Thres	0	4194304	Value	ValueOutput
+V1AmpATm	0	4194304	Value	ValueOutput
+V1AmpACv	0	4194304	Value	ValueOutput
+V1AmpDTm	0	4194304	Value	ValueOutput
+V1AmpDCv	0	4194304	Value	ValueOutput
+V1PitATm	0	4194304	Value	ValueOutput
+V1PitACv	0	4194304	Value	ValueOutput
+V1PitDTm	0	4194304	Value	ValueOutput
+V1PitDCv	0	4194304	Value	ValueOutput
+V1PitAmt	0	4194304	Value	ValueOutput
+V1FMFreq	0	4194304	Value	ValueOutput
+V1FMAmnt	0	4194304	Value	ValueOutput
+V1TimbrX	0	4194304	Value	ValueOutput
+V1TimbrY	0	4194304	Value	ValueOutput
+V1MIDOnl	0	4194304	Value	ValueOutput
+V1FMSend	0	4194304	Value	ValueOutput
+V1FMRecv	0	4194304	Value	ValueOutput
+V1AMSend	0	4194304	Value	ValueOutput
+V1AMRecv	0	4194304	Value	ValueOutput
+V2 Pitch	0	4194304	Value	ValueOutput
+V2 Thres	0	4194304	Value	ValueOutput
+V2AmpATm	0	4194304	Value	ValueOutput
+V2AmpACv	0	4194304	Value	ValueOutput
+V2AmpDTm	0	4194304	Value	ValueOutput
+V2AmpDCv	0	4194304	Value	ValueOutput
+V2PitATm	0	4194304	Value	ValueOutput
+V2PitACv	0	4194304	Value	ValueOutput
+V2PitDTm	0	4194304	Value	ValueOutput
+V2PitDCv	0	4194304	Value	ValueOutput
+V2PitAmt	0	4194304	Value	ValueOutput
+V2FMFreq	0	4194304	Value	ValueOutput
+V2FMAmnt	0	4194304	Value	ValueOutput
+V2TimbrX	0	4194304	Value	ValueOutput
+V2TimbrY	0	4194304	Value	ValueOutput
+V2MIDOnl	0	4194304	Value	ValueOutput
+V2FMSend	0	4194304	Value	ValueOutput
+V2FMRecv	0	4194304	Value	ValueOutput
+V2AMSend	0	4194304	Value	ValueOutput
+V2AMRecv	0	4194304	Value	ValueOutput
+V3 Pitch	0	4194304	Value	ValueOutput
+V3 Thres	0	4194304	Value	ValueOutput
+V3AmpATm	0	4194304	Value	ValueOutput
+V3AmpACv	0	4194304	Value	ValueOutput
+V3AmpDTm	0	4194304	Value	ValueOutput
+V3AmpDCv	0	4194304	Value	ValueOutput
+V3PitATm	0	4194304	Value	ValueOutput
+V3PitACv	0	4194304	Value	ValueOutput
+V3PitDTm	0	4194304	Value	ValueOutput
+V3PitDCv	0	4194304	Value	ValueOutput
+V3PitAmt	0	4194304	Value	ValueOutput
+V3FMFreq	0	4194304	Value	ValueOutput
+V3FMAmnt	0	4194304	Value	ValueOutput
+V3TimbrX	0	4194304	Value	ValueOutput
+V3TimbrY	0	4194304	Value	ValueOutput
+V3MIDOnl	0	4194304	Value	ValueOutput
+V3FMSend	0	4194304	Value	ValueOutput
+V3FMRecv	0	4194304	Value	ValueOutput
+V3AMSend	0	4194304	Value	ValueOutput
+V3AMRecv	0	4194304	Value	ValueOutput
+V4 Pitch	0	4194304	Value	ValueOutput
+V4 Thres	0	4194304	Value	ValueOutput
+V4AmpATm	0	4194304	Value	ValueOutput
+V4AmpACv	0	4194304	Value	ValueOutput
+V4AmpDTm	0	4194304	Value	ValueOutput
+V4AmpDCv	0	4194304	Value	ValueOutput
+V4PitATm	0	4194304	Value	ValueOutput
+V4PitACv	0	4194304	Value	ValueOutput
+V4PitDTm	0	4194304	Value	ValueOutput
+V4PitDCv	0	4194304	Value	ValueOutput
+V4PitAmt	0	4194304	Value	ValueOutput
+V4FMFreq	0	4194304	Value	ValueOutput
+V4FMAmnt	0	4194304	Value	ValueOutput
+V4TimbrX	0	4194304	Value	ValueOutput
+V4TimbrY	0	4194304	Value	ValueOutput
+V4MIDOnl	0	4194304	Value	ValueOutput
+V4FMSend	0	4194304	Value	ValueOutput
+V4FMRecv	0	4194304	Value	ValueOutput
+V4AMSend	0	4194304	Value	ValueOutput
+V4AMRecv	0	4194304	Value	ValueOutput
+V5 Pitch	0	4194304	Value	ValueOutput
+V5 Thres	0	4194304	Value	ValueOutput
+V5AmpATm	0	4194304	Value	ValueOutput
+V5AmpACv	0	4194304	Value	ValueOutput
+V5AmpDTm	0	4194304	Value	ValueOutput
+V5AmpDCv	0	4194304	Value	ValueOutput
+V5PitATm	0	4194304	Value	ValueOutput
+V5PitACv	0	4194304	Value	ValueOutput
+V5PitDTm	0	4194304	Value	ValueOutput
+V5PitDCv	0	4194304	Value	ValueOutput
+V5PitAmt	0	4194304	Value	ValueOutput
+V5FMFreq	0	4194304	Value	ValueOutput
+V5FMAmnt	0	4194304	Value	ValueOutput
+V5TimbrX	0	4194304	Value	ValueOutput
+V5TimbrY	0	4194304	Value	ValueOutput
+V5MIDOnl	0	4194304	Value	ValueOutput
+V5FMSend	0	4194304	Value	ValueOutput
+V5FMRecv	0	4194304	Value	ValueOutput
+V5AMSend	0	4194304	Value	ValueOutput
+V5AMRecv	0	4194304	Value	ValueOutput
+V6 Pitch	0	4194304	Value	ValueOutput
+V6 Thres	0	4194304	Value	ValueOutput
+V6AmpATm	0	4194304	Value	ValueOutput
+V6AmpACv	0	4194304	Value	ValueOutput
+V6AmpDTm	0	4194304	Value	ValueOutput
+V6AmpDCv	0	4194304	Value	ValueOutput
+V6PitATm	0	4194304	Value	ValueOutput
+V6PitACv	0	4194304	Value	ValueOutput
+V6PitDTm	0	4194304	Value	ValueOutput
+V6PitDCv	0	4194304	Value	ValueOutput
+V6PitAmt	0	4194304	Value	ValueOutput
+V6FMFreq	0	4194304	Value	ValueOutput
+V6FMAmnt	0	4194304	Value	ValueOutput
+V6TimbrX	0	4194304	Value	ValueOutput
+V6TimbrY	0	4194304	Value	ValueOutput
+V6MIDOnl	0	4194304	Value	ValueOutput
+V6FMSend	0	4194304	Value	ValueOutput
+V6FMRecv	0	4194304	Value	ValueOutput
+V6AMSend	0	4194304	Value	ValueOutput
+V6AMRecv	0	4194304	Value	ValueOutput
+V0FXSend	0	4194304	Value	ValueOutput
+V0 Pan	0	4194304	Value	ValueOutput
+V0 Level	0	4194304	Value	ValueOutput
+V0 Mute	0	4194304	Value	ValueOutput
+V1FXSend	0	4194304	Value	ValueOutput
+V1 Pan	0	4194304	Value	ValueOutput
+V1 Level	0	4194304	Value	ValueOutput
+V1 Mute	0	4194304	Value	ValueOutput
+V2FXSend	0	4194304	Value	ValueOutput
+V2 Pan	0	4194304	Value	ValueOutput
+V2 Level	0	4194304	Value	ValueOutput
+V2 Mute	0	4194304	Value	ValueOutput
+V3FXSend	0	4194304	Value	ValueOutput
+V3 Pan	0	4194304	Value	ValueOutput
+V3 Level	0	4194304	Value	ValueOutput
+V3 Mute	0	4194304	Value	ValueOutput
+V4FXSend	0	4194304	Value	ValueOutput
+V4 Pan	0	4194304	Value	ValueOutput
+V4 Level	0	4194304	Value	ValueOutput
+V4 Mute	0	4194304	Value	ValueOutput
+V5FXSend	0	4194304	Value	ValueOutput
+V5 Pan	0	4194304	Value	ValueOutput
+V5 Level	0	4194304	Value	ValueOutput
+V5 Mute	0	4194304	Value	ValueOutput
+V6FXSend	0	4194304	Value	ValueOutput
+V6 Pan	0	4194304	Value	ValueOutput
+V6 Level	0	4194304	Value	ValueOutput
+V6 Mute	0	4194304	Value	ValueOutput
+MastLevl	0	4194304	Value	ValueOutput
+Solo	0	4194304	Value	ValueOutput
+L Delay 	0	4194304	Value	ValueOutput
+R Delay 	0	4194304	Value	ValueOutput
+LDlySync	0	4194304	Value	ValueOutput
+RDlySync	0	4194304	Value	ValueOutput
+DelFdbk	0	4194304	Value	ValueOutput
+FiltFreq	0	4194304	Value	ValueOutput
+FiltWidt	0	4194304	Value	ValueOutput
+FX Level	0	4194304	Value	ValueOutput
+FX Mute	0	4194304	Value	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+ClokMode	0	4194304	Value	ValueOutput
+PlayStop	0	4194304	Value	ValueOutput
+ClockRat	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

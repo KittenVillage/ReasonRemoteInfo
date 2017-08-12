@@ -1,0 +1,186 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	vst.sbuq.Unique x64
+Note: Will match scope definitions for vst.sbuq.Unique x64 or vst.sbuq
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+master	0	4194304	Value	ValueOutput
+osc_1_level	0	4194304	Value	ValueOutput
+osc_1_pan	0	4194304	Value	ValueOutput
+osc_1_autopan	0	4194304	Value	ValueOutput
+osc_1_pan_rate	0	4194304	Value	ValueOutput
+osc_2_level	0	4194304	Value	ValueOutput
+osc_2_pan	0	4194304	Value	ValueOutput
+osc_2_autopan	0	4194304	Value	ValueOutput
+osc_2_pan_rate	0	4194304	Value	ValueOutput
+voice_mode	0	4194304	Value	ValueOutput
+glide	0	4194304	Value	ValueOutput
+spread	0	4194304	Value	ValueOutput
+arpstyles	0	4194304	Value	ValueOutput
+arp_tempo	0	4194304	Value	ValueOutput
+osc_1_arp	0	4194304	Value	ValueOutput
+arp_doublemode	0	4194304	Value	ValueOutput
+osc_2_arp	0	4194304	Value	ValueOutput
+osc_1_octave	0	4194304	Value	ValueOutput
+osc_1_detune	0	4194304	Value	ValueOutput
+osc_1_attack	0	4194304	Value	ValueOutput
+osc_1_decay	0	4194304	Value	ValueOutput
+osc_1_sustain	0	4194304	Value	ValueOutput
+osc_1_release	0	4194304	Value	ValueOutput
+osc_1_msw_sprd	0	4194304	Value	ValueOutput
+osc_1_pw	0	4194304	Value	ValueOutput
+osc_1_pwm_rate	0	4194304	Value	ValueOutput
+osc_1_fm	0	4194304	Value	ValueOutput
+osc_1_shape	0	4194304	Value	ValueOutput
+osc_1_ns_color	0	4194304	Value	ValueOutput
+osc_1_ns_reso	0	4194304	Value	ValueOutput
+noise1_ftype	0	4194304	Value	ValueOutput
+osc_1_ns_track	0	4194304	Value	ValueOutput
+osc_2_octave	0	4194304	Value	ValueOutput
+osc_2_detune	0	4194304	Value	ValueOutput
+osc_2_attack	0	4194304	Value	ValueOutput
+osc_2_decay	0	4194304	Value	ValueOutput
+osc_2_sustain	0	4194304	Value	ValueOutput
+osc_2_release	0	4194304	Value	ValueOutput
+osc_2_msw_sprd	0	4194304	Value	ValueOutput
+osc_2_pw	0	4194304	Value	ValueOutput
+osc_2_pwm_rate	0	4194304	Value	ValueOutput
+osc_2_fm	0	4194304	Value	ValueOutput
+osc_2_fm_shape	0	4194304	Value	ValueOutput
+osc_2_ns_color	0	4194304	Value	ValueOutput
+osc_2_ns_reso	0	4194304	Value	ValueOutput
+noise2_ftype	0	4194304	Value	ValueOutput
+osc_2_ns_track	0	4194304	Value	ValueOutput
+filter_reso	0	4194304	Value	ValueOutput
+filter_drive	0	4194304	Value	ValueOutput
+filter_mix	0	4194304	Value	ValueOutput
+filter_env_v1	0	4194304	Value	ValueOutput
+filter_env_v2	0	4194304	Value	ValueOutput
+f_env_attack	0	4194304	Value	ValueOutput
+f_env_decay	0	4194304	Value	ValueOutput
+f_env_sustain	0	4194304	Value	ValueOutput
+f_env_rel	0	4194304	Value	ValueOutput
+lfo_f1	0	4194304	Value	ValueOutput
+lfo_f2	0	4194304	Value	ValueOutput
+f_lfo_rate	0	4194304	Value	ValueOutput
+f_lfo_faderate	0	4194304	Value	ValueOutput
+lfo_trigger	0	4194304	Value	ValueOutput
+f_lfo_fadeamt	0	4194304	Value	ValueOutput
+fourstep_tempo	0	4194304	Value	ValueOutput
+fourstep_glide	0	4194304	Value	ValueOutput
+vfilter_step1	0	4194304	Value	ValueOutput
+vfilter_step2	0	4194304	Value	ValueOutput
+vfilter_step3	0	4194304	Value	ValueOutput
+vfilter_step4	0	4194304	Value	ValueOutput
+fourstep_dir	0	4194304	Value	ValueOutput
+filter_step4	0	4194304	Value	ValueOutput
+filter_step3	0	4194304	Value	ValueOutput
+filter_step2	0	4194304	Value	ValueOutput
+filter_step1	0	4194304	Value	ValueOutput
+formant_pb_f1	0	4194304	Value	ValueOutput
+formant_pb_f2	0	4194304	Value	ValueOutput
+pb_slope	0	4194304	Value	ValueOutput
+formant_mw_f1	0	4194304	Value	ValueOutput
+formant_mw_f2	0	4194304	Value	ValueOutput
+mw_slope	0	4194304	Value	ValueOutput
+filter_cutoff	0	4194304	Value	ValueOutput
+filter_peak	0	4194304	Value	ValueOutput
+fx1_delay_time	0	4194304	Value	ValueOutput
+fx1_del_feed	0	4194304	Value	ValueOutput
+fx1_delay_color	0	4194304	Value	ValueOutput
+fx1_delay_reso	0	4194304	Value	ValueOutput
+fx1_delay_mix	0	4194304	Value	ValueOutput
+fx1_rvb_room	0	4194304	Value	ValueOutput
+fx1_rvb_damp	0	4194304	Value	ValueOutput
+fx1_rvb_width	0	4194304	Value	ValueOutput
+fx1_rvb_hipass	0	4194304	Value	ValueOutput
+fx1_rvb_mix	0	4194304	Value	ValueOutput
+fx1_pha_rate	0	4194304	Value	ValueOutput
+fx1_pha_feed	0	4194304	Value	ValueOutput
+fx1_pha_width	0	4194304	Value	ValueOutput
+fx1_pha_stges	0	4194304	Value	ValueOutput
+fx1_pha_mix	0	4194304	Value	ValueOutput
+fx1_lofi_crush	0	4194304	Value	ValueOutput
+fx1_lofi_srate	0	4194304	Value	ValueOutput
+fx1_lofi_mix	0	4194304	Value	ValueOutput
+fx1_filter_cutof_	0	4194304	Value	ValueOutput
+fx1_filter_reso	0	4194304	Value	ValueOutput
+fx1_filter_type	0	4194304	Value	ValueOutput
+fx1_filter_mix	0	4194304	Value	ValueOutput
+fx2_chrs_fdbck	0	4194304	Value	ValueOutput
+empty	0	4194304	Value	ValueOutput
+fx2_delay_time	0	4194304	Value	ValueOutput
+fx2_delay_feed	0	4194304	Value	ValueOutput
+fx2_delay_color	0	4194304	Value	ValueOutput
+fx2_delay_reso	0	4194304	Value	ValueOutput
+fx2_delay_mix	0	4194304	Value	ValueOutput
+fx2_rvb_room	0	4194304	Value	ValueOutput
+fx2_rvb_damp	0	4194304	Value	ValueOutput
+fx2_rvb_width	0	4194304	Value	ValueOutput
+fx2_rvb_hipass	0	4194304	Value	ValueOutput
+fx2_pha_rate	0	4194304	Value	ValueOutput
+fx2_rvb_mix	0	4194304	Value	ValueOutput
+fx2_pha_feed	0	4194304	Value	ValueOutput
+fx2_pha_width	0	4194304	Value	ValueOutput
+fx2_pha_mix	0	4194304	Value	ValueOutput
+fx2_pha_stges	0	4194304	Value	ValueOutput
+fx2_lofi_crush	0	4194304	Value	ValueOutput
+fx2_lofi_srate	0	4194304	Value	ValueOutput
+fx2_lofi_mix	0	4194304	Value	ValueOutput
+fx2_chrs_rate	0	4194304	Value	ValueOutput
+fx2_chrs_depth	0	4194304	Value	ValueOutput
+fx2_chrs_width	0	4194304	Value	ValueOutput
+fx2_chrs_mix	0	4194304	Value	ValueOutput
+empty	0	4194304	Value	ValueOutput
+empty	0	4194304	Value	ValueOutput
+sub_osc	0	4194304	Value	ValueOutput
+sub_octave	0	4194304	Value	ValueOutput
+vibrato	0	4194304	Value	ValueOutput
+vibratorate	0	4194304	Value	ValueOutput
+vibratofade	0	4194304	Value	ValueOutput
+pbrange	0	4194304	Value	ValueOutput
+mw_lfo_on_off	0	4194304	Value	ValueOutput
+pitch_lfo_rate	0	4194304	Value	ValueOutput
+mod_lfo_rate	0	4194304	Value	ValueOutput
+mod_lfo_fade	0	4194304	Value	ValueOutput
+mod_lfo_wave	0	4194304	Value	ValueOutput
+mod_lfo_rate_f	0	4194304	Value	ValueOutput
+lfo_range_min	0	4194304	Value	ValueOutput
+lfo_range_max	0	4194304	Value	ValueOutput
+mod_env_attack	0	4194304	Value	ValueOutput
+mod_env_decay	0	4194304	Value	ValueOutput
+mod_env_sustain	0	4194304	Value	ValueOutput
+mod_env_release	0	4194304	Value	ValueOutput
+env_range_min	0	4194304	Value	ValueOutput
+env_range_max	0	4194304	Value	ValueOutput
+sequencer_tempo	0	4194304	Value	ValueOutput
+sequencer_glide	0	4194304	Value	ValueOutput
+seq_range_max	0	4194304	Value	ValueOutput
+seq_range_max	0	4194304	Value	ValueOutput
+sequencer_styles_	0	4194304	Value	ValueOutput
+motionsmooth	0	4194304	Value	ValueOutput
+osc_1_pan_mode	0	4194304	Value	ValueOutput
+osc_2_pan_mode	0	4194304	Value	ValueOutput
+empty	0	4194304	Value	ValueOutput
+empty	0	4194304	Value	ValueOutput
+global_tune	0	4194304	Value	ValueOutput
+empty	0	4194304	Value	ValueOutput
+empty	0	4194304	Value	ValueOutput
+empty	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

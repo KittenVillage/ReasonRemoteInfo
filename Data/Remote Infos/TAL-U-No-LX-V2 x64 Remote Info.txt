@@ -1,0 +1,78 @@
+Scope
+Manufacturer	Model
+TAL-Togu Audio Line	vst.uno4.TAL-U-No-LX-V2 x64
+Note: Will match scope definitions for vst.uno4.TAL-U-No-LX-V2 x64 or vst.uno4
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+--	0	4194304	Value	ValueOutput
+DCO LFO	0	4194304	Value	ValueOutput
+DCO PWM	0	4194304	Value	ValueOutput
+DCO PWM MODE	0	4194304	Value	ValueOutput
+DCO Pulse	0	4194304	Value	ValueOutput
+DCO Saw	0	4194304	Value	ValueOutput
+DCO Sub	0	4194304	Value	ValueOutput
+DCO Sub Volume	0	4194304	Value	ValueOutput
+DCO Noise Volume	0	4194304	Value	ValueOutput
+HP Filter	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Filter Env Mode	0	4194304	Value	ValueOutput
+Filter Env	0	4194304	Value	ValueOutput
+Filter Modulatio	0	4194304	Value	ValueOutput
+Filter Keyb	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Master Tune	0	4194304	Value	ValueOutput
+Master Octave Tr	0	4194304	Value	ValueOutput
+VCA Mode	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Sustain	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Delay	0	4194304	Value	ValueOutput
+LFO Trigger Mode	0	4194304	Value	ValueOutput
+LFO Manual Trigg	0	4194304	Value	ValueOutput
+LFO Manual Trigg	0	4194304	Value	ValueOutput
+LFO Waveform	0	4194304	Value	ValueOutput
+Chorus 1	0	4194304	Value	ValueOutput
+Chorus 2	0	4194304	Value	ValueOutput
+ARP Enabled	0	4194304	Value	ValueOutput
+ARP Sync	0	4194304	Value	ValueOutput
+ARP Mode	0	4194304	Value	ValueOutput
+ARP Range	0	4194304	Value	ValueOutput
+ARP Rate	0	4194304	Value	ValueOutput
+ARP Settings Loc	0	4194304	Value	ValueOutput
+Velocity Volume	0	4194304	Value	ValueOutput
+Velocity Env	0	4194304	Value	ValueOutput
+Pitch Wheel Filt	0	4194304	Value	ValueOutput
+Pitch Wheel DCO	0	4194304	Value	ValueOutput
+Portamento Mode	0	4194304	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+MIDI Learn	0	4194304	Value	ValueOutput
+Panic	0	4194304	Value	ValueOutput
+Voice Hold	0	4194304	Value	ValueOutput
+MIDI Channel 16 	0	4194304	Value	ValueOutput
+MIDI Clock Trigg	0	4194304	Value	ValueOutput
+Host Sync	0	4194304	Value	ValueOutput
+Voices	0	4194304	Value	ValueOutput
+Transpose	0	4194304	Value	ValueOutput
+ARP Sync Mode	0	4194304	Value	ValueOutput
+ARP Special Mode	0	4194304	Value	ValueOutput
+Portamento Poly	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

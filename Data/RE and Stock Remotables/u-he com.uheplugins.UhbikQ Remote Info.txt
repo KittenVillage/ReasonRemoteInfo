@@ -1,0 +1,23 @@
+Scope
+Manufacturer	Model
+u-he	com.uheplugins.UhbikQ
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+BottomFreq	0	6	Value	ValueOutput
+BottomGain	0	4194304	Value	ValueOutput
+LowType	0	5	Value	ValueOutput
+LowFreq	0	4194304	Value	ValueOutput
+LowGain	0	4194304	Value	ValueOutput
+HiType	0	5	Value	ValueOutput
+HiFreq	0	4194304	Value	ValueOutput
+HiGain	0	4194304	Value	ValueOutput
+HiCut	0	5	Value	ValueOutput
+LoCut	0	5	Value	ValueOutput
+GainType	0	2	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

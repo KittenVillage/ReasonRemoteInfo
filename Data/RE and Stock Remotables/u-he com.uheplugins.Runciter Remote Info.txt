@@ -1,0 +1,25 @@
+Scope
+Manufacturer	Model
+u-he	com.uheplugins.Runciter
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Envelope Mode	0	4	Value	ValueOutput
+Envelope Amount	0	4194304	Value	ValueOutput
+Envelope Sensitivity	0	4194304	Value	ValueOutput
+Envelope Rate	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Lowpass	0	4194304	Value	ValueOutput
+Bandpass	0	4194304	Value	ValueOutput
+Highpass	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Fuzz Depth	0	4194304	Value	ValueOutput
+Fuzz Colour	0	4194304	Value	ValueOutput
+OutLevel	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

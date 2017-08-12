@@ -1,0 +1,44 @@
+Scope
+Manufacturer	Model
+Softube	vst.e100.Summit Audio EQF-100
+Note: Will match scope definitions for vst.e100.Summit Audio EQF-100 or vst.e100
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+L Freq	0	4194304	Value	ValueOutput
+L Bandw	0	4194304	Value	ValueOutput
+L Gain	0	4194304	Value	ValueOutput
+L BstCut	0	4194304	Value	ValueOutput
+L Type	0	4194304	Value	ValueOutput
+LM Freq	0	4194304	Value	ValueOutput
+LM Bandw	0	4194304	Value	ValueOutput
+LM Gain	0	4194304	Value	ValueOutput
+LMBstCut	0	4194304	Value	ValueOutput
+HM Freq	0	4194304	Value	ValueOutput
+HM Bandw	0	4194304	Value	ValueOutput
+HM Gain	0	4194304	Value	ValueOutput
+HMBstCut	0	4194304	Value	ValueOutput
+H Freq	0	4194304	Value	ValueOutput
+H Bandw	0	4194304	Value	ValueOutput
+H Gain	0	4194304	Value	ValueOutput
+H BstCut	0	4194304	Value	ValueOutput
+H Type	0	4194304	Value	ValueOutput
+Low Cut	0	4194304	Value	ValueOutput
+High Cut	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

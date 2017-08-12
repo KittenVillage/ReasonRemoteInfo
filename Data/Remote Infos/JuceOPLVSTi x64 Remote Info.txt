@@ -1,0 +1,55 @@
+Scope
+Manufacturer	Model
+Plainweave Software	vst.JOPL.JuceOPLVSTi x64
+Note: Will match scope definitions for vst.JOPL.JuceOPLVSTi x64 or vst.JOPL
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Carrier Wave	0	4194304	Value	ValueOutput
+Modulator Wave	0	4194304	Value	ValueOutput
+Carrier Frequenc	0	4194304	Value	ValueOutput
+Modulator Freque	0	4194304	Value	ValueOutput
+Carrier Attenuat	0	4194304	Value	ValueOutput
+Modulator Attenu	0	4194304	Value	ValueOutput
+Tremolo Depth	0	4194304	Value	ValueOutput
+Vibrato Depth	0	4194304	Value	ValueOutput
+Carrier Tremolo	0	4194304	Value	ValueOutput
+Carrier Vibrato	0	4194304	Value	ValueOutput
+Carrier Sustain	0	4194304	Value	ValueOutput
+Carrier Keyscale	0	4194304	Value	ValueOutput
+Modulator Tremol	0	4194304	Value	ValueOutput
+Modulator Vibrat	0	4194304	Value	ValueOutput
+Modulator Sustai	0	4194304	Value	ValueOutput
+Modulator Keysca	0	4194304	Value	ValueOutput
+Carrier Keyscale	0	4194304	Value	ValueOutput
+Modulator Keysca	0	4194304	Value	ValueOutput
+Algorithm	0	4194304	Value	ValueOutput
+Modulator Feedba	0	4194304	Value	ValueOutput
+Carrier Attack	0	4194304	Value	ValueOutput
+Carrier Decay	0	4194304	Value	ValueOutput
+Carrier Sustain 	0	4194304	Value	ValueOutput
+Carrier Release	0	4194304	Value	ValueOutput
+Modulator Attack	0	4194304	Value	ValueOutput
+Modulator Decay	0	4194304	Value	ValueOutput
+Modulator Sustai	0	4194304	Value	ValueOutput
+Modulator Releas	0	4194304	Value	ValueOutput
+Carrier Velocity	0	4194304	Value	ValueOutput
+Modulator Veloci	0	4194304	Value	ValueOutput
+Emulator	0	4194304	Value	ValueOutput
+Percussion Mode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

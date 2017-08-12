@@ -1,0 +1,52 @@
+Scope
+Manufacturer	Model
+Plugin Alliance	vst.PDNS.Dynamic Spectrum Mapper V2 x64
+Note: Will match scope definitions for vst.PDNS.Dynamic Spectrum Mapper V2 x64 or vst.PDNS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Preset	0	4194304	Value	ValueOutput
+Process 	0	4194304	Value	ValueOutput
+Capture 	0	4194304	Value	ValueOutput
+Freeze G	0	4194304	Value	ValueOutput
+Link Ste	0	4194304	Value	ValueOutput
+Dither B	0	4194304	Value	ValueOutput
+Limiter	0	4194304	Value	ValueOutput
+DryWet M	0	4194304	Value	ValueOutput
+Output G	0	4194304	Value	ValueOutput
+Threshol	0	4194304	Value	ValueOutput
+Ratio	0	4194304	Value	ValueOutput
+Makeup G	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Knee	0	4194304	Value	ValueOutput
+LF ATT	0	4194304	Value	ValueOutput
+HF REL	0	4194304	Value	ValueOutput
+EQ1 In	0	4194304	Value	ValueOutput
+EQ1 Freq	0	4194304	Value	ValueOutput
+EQ1 Q	0	4194304	Value	ValueOutput
+EQ1 Thre	0	4194304	Value	ValueOutput
+EQ2 In	0	4194304	Value	ValueOutput
+EQ2 Freq	0	4194304	Value	ValueOutput
+EQ2 Q	0	4194304	Value	ValueOutput
+EQ2 Thre	0	4194304	Value	ValueOutput
+EQ3 In	0	4194304	Value	ValueOutput
+EQ3 Freq	0	4194304	Value	ValueOutput
+EQ3 Q	0	4194304	Value	ValueOutput
+EQ3 Thre	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,151 @@
+Scope
+Manufacturer	Model
+D16 Group Audio Software	vst.SH11.LuSH-101 x64
+Note: Will match scope definitions for vst.SH11.LuSH-101 x64 or vst.SH11
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Parameter 1	0	4194304	Value	ValueOutput
+Parameter 2	0	4194304	Value	ValueOutput
+Parameter 3	0	4194304	Value	ValueOutput
+Parameter 4	0	4194304	Value	ValueOutput
+Parameter 5	0	4194304	Value	ValueOutput
+Parameter 6	0	4194304	Value	ValueOutput
+Parameter 7	0	4194304	Value	ValueOutput
+Parameter 8	0	4194304	Value	ValueOutput
+Parameter 9	0	4194304	Value	ValueOutput
+Parameter 10	0	4194304	Value	ValueOutput
+Parameter 11	0	4194304	Value	ValueOutput
+Parameter 12	0	4194304	Value	ValueOutput
+Parameter 13	0	4194304	Value	ValueOutput
+Parameter 14	0	4194304	Value	ValueOutput
+Parameter 15	0	4194304	Value	ValueOutput
+Parameter 16	0	4194304	Value	ValueOutput
+Parameter 17	0	4194304	Value	ValueOutput
+Parameter 18	0	4194304	Value	ValueOutput
+Parameter 19	0	4194304	Value	ValueOutput
+Parameter 20	0	4194304	Value	ValueOutput
+Parameter 21	0	4194304	Value	ValueOutput
+Parameter 22	0	4194304	Value	ValueOutput
+Parameter 23	0	4194304	Value	ValueOutput
+Parameter 24	0	4194304	Value	ValueOutput
+Parameter 25	0	4194304	Value	ValueOutput
+Parameter 26	0	4194304	Value	ValueOutput
+Parameter 27	0	4194304	Value	ValueOutput
+Parameter 28	0	4194304	Value	ValueOutput
+Parameter 29	0	4194304	Value	ValueOutput
+Parameter 30	0	4194304	Value	ValueOutput
+Parameter 31	0	4194304	Value	ValueOutput
+Parameter 32	0	4194304	Value	ValueOutput
+Parameter 33	0	4194304	Value	ValueOutput
+Parameter 34	0	4194304	Value	ValueOutput
+Parameter 35	0	4194304	Value	ValueOutput
+Parameter 36	0	4194304	Value	ValueOutput
+Parameter 37	0	4194304	Value	ValueOutput
+Parameter 38	0	4194304	Value	ValueOutput
+Parameter 39	0	4194304	Value	ValueOutput
+Parameter 40	0	4194304	Value	ValueOutput
+Parameter 41	0	4194304	Value	ValueOutput
+Parameter 42	0	4194304	Value	ValueOutput
+Parameter 43	0	4194304	Value	ValueOutput
+Parameter 44	0	4194304	Value	ValueOutput
+Parameter 45	0	4194304	Value	ValueOutput
+Parameter 46	0	4194304	Value	ValueOutput
+Parameter 47	0	4194304	Value	ValueOutput
+Parameter 48	0	4194304	Value	ValueOutput
+Parameter 49	0	4194304	Value	ValueOutput
+Parameter 50	0	4194304	Value	ValueOutput
+Parameter 51	0	4194304	Value	ValueOutput
+Parameter 52	0	4194304	Value	ValueOutput
+Parameter 53	0	4194304	Value	ValueOutput
+Parameter 54	0	4194304	Value	ValueOutput
+Parameter 55	0	4194304	Value	ValueOutput
+Parameter 56	0	4194304	Value	ValueOutput
+Parameter 57	0	4194304	Value	ValueOutput
+Parameter 58	0	4194304	Value	ValueOutput
+Parameter 59	0	4194304	Value	ValueOutput
+Parameter 60	0	4194304	Value	ValueOutput
+Parameter 61	0	4194304	Value	ValueOutput
+Parameter 62	0	4194304	Value	ValueOutput
+Parameter 63	0	4194304	Value	ValueOutput
+Parameter 64	0	4194304	Value	ValueOutput
+Parameter 65	0	4194304	Value	ValueOutput
+Parameter 66	0	4194304	Value	ValueOutput
+Parameter 67	0	4194304	Value	ValueOutput
+Parameter 68	0	4194304	Value	ValueOutput
+Parameter 69	0	4194304	Value	ValueOutput
+Parameter 70	0	4194304	Value	ValueOutput
+Parameter 71	0	4194304	Value	ValueOutput
+Parameter 72	0	4194304	Value	ValueOutput
+Parameter 73	0	4194304	Value	ValueOutput
+Parameter 74	0	4194304	Value	ValueOutput
+Parameter 75	0	4194304	Value	ValueOutput
+Parameter 76	0	4194304	Value	ValueOutput
+Parameter 77	0	4194304	Value	ValueOutput
+Parameter 78	0	4194304	Value	ValueOutput
+Parameter 79	0	4194304	Value	ValueOutput
+Parameter 80	0	4194304	Value	ValueOutput
+Parameter 81	0	4194304	Value	ValueOutput
+Parameter 82	0	4194304	Value	ValueOutput
+Parameter 83	0	4194304	Value	ValueOutput
+Parameter 84	0	4194304	Value	ValueOutput
+Parameter 85	0	4194304	Value	ValueOutput
+Parameter 86	0	4194304	Value	ValueOutput
+Parameter 87	0	4194304	Value	ValueOutput
+Parameter 88	0	4194304	Value	ValueOutput
+Parameter 89	0	4194304	Value	ValueOutput
+Parameter 90	0	4194304	Value	ValueOutput
+Parameter 91	0	4194304	Value	ValueOutput
+Parameter 92	0	4194304	Value	ValueOutput
+Parameter 93	0	4194304	Value	ValueOutput
+Parameter 94	0	4194304	Value	ValueOutput
+Parameter 95	0	4194304	Value	ValueOutput
+Parameter 96	0	4194304	Value	ValueOutput
+Parameter 97	0	4194304	Value	ValueOutput
+Parameter 98	0	4194304	Value	ValueOutput
+Parameter 99	0	4194304	Value	ValueOutput
+Parameter 100	0	4194304	Value	ValueOutput
+Parameter 101	0	4194304	Value	ValueOutput
+Parameter 102	0	4194304	Value	ValueOutput
+Parameter 103	0	4194304	Value	ValueOutput
+Parameter 104	0	4194304	Value	ValueOutput
+Parameter 105	0	4194304	Value	ValueOutput
+Parameter 106	0	4194304	Value	ValueOutput
+Parameter 107	0	4194304	Value	ValueOutput
+Parameter 108	0	4194304	Value	ValueOutput
+Parameter 109	0	4194304	Value	ValueOutput
+Parameter 110	0	4194304	Value	ValueOutput
+Parameter 111	0	4194304	Value	ValueOutput
+Parameter 112	0	4194304	Value	ValueOutput
+Parameter 113	0	4194304	Value	ValueOutput
+Parameter 114	0	4194304	Value	ValueOutput
+Parameter 115	0	4194304	Value	ValueOutput
+Parameter 116	0	4194304	Value	ValueOutput
+Parameter 117	0	4194304	Value	ValueOutput
+Parameter 118	0	4194304	Value	ValueOutput
+Parameter 119	0	4194304	Value	ValueOutput
+Parameter 120	0	4194304	Value	ValueOutput
+Parameter 121	0	4194304	Value	ValueOutput
+Parameter 122	0	4194304	Value	ValueOutput
+Parameter 123	0	4194304	Value	ValueOutput
+Parameter 124	0	4194304	Value	ValueOutput
+Parameter 125	0	4194304	Value	ValueOutput
+Parameter 126	0	4194304	Value	ValueOutput
+Parameter 127	0	4194304	Value	ValueOutput
+Parameter 128	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

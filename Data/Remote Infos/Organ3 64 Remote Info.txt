@@ -1,0 +1,140 @@
+Scope
+Manufacturer	Model
+LinPlug	vst.r8iP.Organ3 64
+Note: Will match scope definitions for vst.r8iP.Organ3 64 or vst.r8iP
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Upper Drawbar 16_	0	4194304	Value	ValueOutput
+Upper Drawbar 5 1/3_	0	4194304	Value	ValueOutput
+Upper Drawbar 8_	0	4194304	Value	ValueOutput
+Upper Drawbar 4_	0	4194304	Value	ValueOutput
+Upper Drawbar 2 2/3_	0	4194304	Value	ValueOutput
+Upper Drawbar 2_	0	4194304	Value	ValueOutput
+Upper Drawbar 1 3/5_	0	4194304	Value	ValueOutput
+Upper Drawbar 1 1/3_	0	4194304	Value	ValueOutput
+Upper Drawbar 1_	0	4194304	Value	ValueOutput
+Lower Drawbar 16_	0	4194304	Value	ValueOutput
+Lower Drawbar 5 1/3_	0	4194304	Value	ValueOutput
+Lower Drawbar 8_	0	4194304	Value	ValueOutput
+Lower Drawbar 4_	0	4194304	Value	ValueOutput
+Lower Drawbar 2 2/3_	0	4194304	Value	ValueOutput
+Lower Drawbar 2_	0	4194304	Value	ValueOutput
+Lower Drawbar 1 3/5_	0	4194304	Value	ValueOutput
+Lower Drawbar 1 1/3_	0	4194304	Value	ValueOutput
+Lower Drawbar 1_	0	4194304	Value	ValueOutput
+Pedal Drawbar 16_	0	4194304	Value	ValueOutput
+Pedal Drawbar 5 1/3_	0	4194304	Value	ValueOutput
+Pedal Drawbar 8_	0	4194304	Value	ValueOutput
+Pedal Drawbar 4_	0	4194304	Value	ValueOutput
+Pedal Drawbar 2 2/3_	0	4194304	Value	ValueOutput
+Pedal Drawbar 2_	0	4194304	Value	ValueOutput
+Pedal Drawbar 1 3/5_	0	4194304	Value	ValueOutput
+Pedal Drawbar 1 1/3_	0	4194304	Value	ValueOutput
+Pedal Drawbar 1_	0	4194304	Value	ValueOutput
+Upper Volume	0	4194304	Value	ValueOutput
+Lower Volume	0	4194304	Value	ValueOutput
+Pedal Volume	0	4194304	Value	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+Drive Amount	0	4194304	Value	ValueOutput
+Drive Brightness	0	4194304	Value	ValueOutput
+Drive Body	0	4194304	Value	ValueOutput
+Spread Upper	0	4194304	Value	ValueOutput
+Spread Lower	0	4194304	Value	ValueOutput
+Spread Pedal	0	4194304	Value	ValueOutput
+Click	0	4194304	Value	ValueOutput
+Motor	0	4194304	Value	ValueOutput
+Effect 1 Operation	0	4194304	Value	ValueOutput
+Effect 2 Operation	0	4194304	Value	ValueOutput
+Vibrato Upper	0	4194304	Value	ValueOutput
+Vibrato Lower	0	4194304	Value	ValueOutput
+Vibrato Pedal	0	4194304	Value	ValueOutput
+Vibrato Speed	0	4194304	Value	ValueOutput
+Vibrato Tremolo	0	4194304	Value	ValueOutput
+Vibrato Chorus	0	4194304	Value	ValueOutput
+Vibrato Depth	0	4194304	Value	ValueOutput
+Vibrato Sync	0	4194304	Value	ValueOutput
+Perc. Up On/Off	0	4194304	Value	ValueOutput
+Perc. Lo On/Off	0	4194304	Value	ValueOutput
+Perc. Volume	0	4194304	Value	ValueOutput
+Perc. Up Range	0	4194304	Value	ValueOutput
+Perc. Lo Range	0	4194304	Value	ValueOutput
+Perc. Up Decay	0	4194304	Value	ValueOutput
+Perc. Lo Decay	0	4194304	Value	ValueOutput
+Percuss. Legato	0	4194304	Value	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+Glide Mode	0	4194304	Value	ValueOutput
+Glide Bend	0	4194304	Value	ValueOutput
+Glide Time/Rate	0	4194304	Value	ValueOutput
+Age	0	4194304	Value	ValueOutput
+Rot. Run/Stp	0	4194304	Value	ValueOutput
+Rot. Slow/Fast	0	4194304	Value	ValueOutput
+Rot. Slow-Lo Spd	0	4194304	Value	ValueOutput
+Rot. Slow-Hi Spd	0	4194304	Value	ValueOutput
+Rot. Width	0	4194304	Value	ValueOutput
+Rot. Depth	0	4194304	Value	ValueOutput
+Rot. XOver	0	4194304	Value	ValueOutput
+Rot. Fast-Lo Spd	0	4194304	Value	ValueOutput
+Rot. Fast-Hi Spd	0	4194304	Value	ValueOutput
+Rot. Slow-Lo Snc	0	4194304	Value	ValueOutput
+Rot. Slow-Hi Snc	0	4194304	Value	ValueOutput
+Rot. Fast-Lo Snc	0	4194304	Value	ValueOutput
+Rot. Fast-Hi Snc	0	4194304	Value	ValueOutput
+Rot. Acceler. Lo	0	4194304	Value	ValueOutput
+Rot. Acceler. Hi	0	4194304	Value	ValueOutput
+Rot. Acc.-Lo Snc	0	4194304	Value	ValueOutput
+Rot. Acc.-Hi Snc	0	4194304	Value	ValueOutput
+Reverb Wet	0	4194304	Value	ValueOutput
+Reverb Room	0	4194304	Value	ValueOutput
+Reverb Damp	0	4194304	Value	ValueOutput
+Reverb Pre-Delay	0	4194304	Value	ValueOutput
+Reverb Pre-Sync	0	4194304	Value	ValueOutput
+Reverb Mod	0	4194304	Value	ValueOutput
+Delay Wet	0	4194304	Value	ValueOutput
+Delay Time Cen	0	4194304	Value	ValueOutput
+Delay Sync Cen	0	4194304	Value	ValueOutput
+Delay Balance	0	4194304	Value	ValueOutput
+Delay Time Left	0	4194304	Value	ValueOutput
+Delay Sync Left	0	4194304	Value	ValueOutput
+Delay Time Right	0	4194304	Value	ValueOutput
+Delay Sync Right	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Pan Left	0	4194304	Value	ValueOutput
+Delay Pan Right	0	4194304	Value	ValueOutput
+Chorus Wet	0	4194304	Value	ValueOutput
+Chorus Time	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Dry	0	4194304	Value	ValueOutput
+Chorus Stereo	0	4194304	Value	ValueOutput
+Gator Wet	0	4194304	Value	ValueOutput
+Gator Smooth	0	4194304	Value	ValueOutput
+Gator Left	0	4194304	Value	ValueOutput
+Gator Right	0	4194304	Value	ValueOutput
+Gator Sync	0	4194304	Value	ValueOutput
+Gator Link	0	4194304	Value	ValueOutput
+Crush Wet	0	4194304	Value	ValueOutput
+Crush Bits	0	4194304	Value	ValueOutput
+Crush Divider	0	4194304	Value	ValueOutput
+Crush Mode	0	4194304	Value	ValueOutput
+Crush Filter	0	4194304	Value	ValueOutput
+Crush Cutoff	0	4194304	Value	ValueOutput
+Crush Reso	0	4194304	Value	ValueOutput
+Crush Fil.Post	0	4194304	Value	ValueOutput
+hidden/reserved	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

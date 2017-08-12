@@ -1,0 +1,63 @@
+Scope
+Manufacturer	Model
+McDSP	vst.Futz.FutzBox_x64
+Note: Will match scope definitions for vst.Futz.FutzBox_x64 or vst.Futz
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Distortion Amou	0	4194304	Value	ValueOutput
+Distortion Inte	0	4194304	Value	ValueOutput
+Distortion Rect	0	4194304	Value	ValueOutput
+Distortion Type	0	4194304	Value	ValueOutput
+Distortion Enab	0	4194304	Value	ValueOutput
+HPF Frequency	0	4194304	Value	ValueOutput
+HPF Q	0	4194304	Value	ValueOutput
+HPF Slope	0	4194304	Value	ValueOutput
+LPF Frequency	0	4194304	Value	ValueOutput
+LPF Q	0	4194304	Value	ValueOutput
+LPF Slope	0	4194304	Value	ValueOutput
+Filters Enable	0	4194304	Value	ValueOutput
+EQ Filter Gain	0	4194304	Value	ValueOutput
+EQ Filter Frequ	0	4194304	Value	ValueOutput
+EQ Filter Q	0	4194304	Value	ValueOutput
+EQ Filter Type	0	4194304	Value	ValueOutput
+EQ Filter Enabl	0	4194304	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+Noise HPF Frequ	0	4194304	Value	ValueOutput
+Noise LPF Frequ	0	4194304	Value	ValueOutput
+Noise Duck Thre	0	4194304	Value	ValueOutput
+Noise Duck Rang	0	4194304	Value	ValueOutput
+Noise Duck Reco	0	4194304	Value	ValueOutput
+Noise Enable	0	4194304	Value	ValueOutput
+SIM Type	0	4194304	Value	ValueOutput
+SIM Tune	0	4194304	Value	ValueOutput
+SIM Enable	0	4194304	Value	ValueOutput
+Gate Threshold	0	4194304	Value	ValueOutput
+Gate Range	0	4194304	Value	ValueOutput
+Gate Attack	0	4194304	Value	ValueOutput
+Gate Hold	0	4194304	Value	ValueOutput
+Gate Release	0	4194304	Value	ValueOutput
+Gate Enable	0	4194304	Value	ValueOutput
+LoFi Bit Depth	0	4194304	Value	ValueOutput
+LoFi Rate	0	4194304	Value	ValueOutput
+LoFi Filter	0	4194304	Value	ValueOutput
+LoFi Enable	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

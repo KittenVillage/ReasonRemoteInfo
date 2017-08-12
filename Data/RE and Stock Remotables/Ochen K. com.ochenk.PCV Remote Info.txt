@@ -1,0 +1,130 @@
+Scope
+Manufacturer	Model
+Ochen K.	com.ochenk.PCV
+
+Remotable	Min	Max	Input type	Output type
+Probability Dial 1	0	4194304	Value	ValueOutput
+Step 1 Unipolar Minimum	0	4194304	Value	ValueOutput
+Step 1 Unipolar Maximum	0	4194304	Value	ValueOutput
+Step 1 Bipolar Minimum	0	4194304	Value	ValueOutput
+Step 1 Bipolar Maximum	0	4194304	Value	ValueOutput
+Step 1 Note Minimum	0	4194304	Value	ValueOutput
+Step 1 Note Maximum	0	4194304	Value	ValueOutput
+Probability Dial 2	0	4194304	Value	ValueOutput
+Step 2 Unipolar Minimum	0	4194304	Value	ValueOutput
+Step 2 Unipolar Maximum	0	4194304	Value	ValueOutput
+Step 2 Bipolar Minimum	0	4194304	Value	ValueOutput
+Step 2 Bipolar Maximum	0	4194304	Value	ValueOutput
+Step 2 Note Minimum	0	4194304	Value	ValueOutput
+Step 2 Note Maximum	0	4194304	Value	ValueOutput
+Probability Dial 3	0	4194304	Value	ValueOutput
+Step 3 Unipolar Minimum	0	4194304	Value	ValueOutput
+Step 3 Unipolar Maximum	0	4194304	Value	ValueOutput
+Step 3 Bipolar Minimum	0	4194304	Value	ValueOutput
+Step 3 Bipolar Maximum	0	4194304	Value	ValueOutput
+Step 3 Note Minimum	0	4194304	Value	ValueOutput
+Step 3 Note Maximum	0	4194304	Value	ValueOutput
+Probability Dial 4	0	4194304	Value	ValueOutput
+Step 4 Unipolar Minimum	0	4194304	Value	ValueOutput
+Step 4 Unipolar Maximum	0	4194304	Value	ValueOutput
+Step 4 Bipolar Minimum	0	4194304	Value	ValueOutput
+Step 4 Bipolar Maximum	0	4194304	Value	ValueOutput
+Step 4 Note Minimum	0	4194304	Value	ValueOutput
+Step 4 Note Maximum	0	4194304	Value	ValueOutput
+Probability Dial 5	0	4194304	Value	ValueOutput
+Step 5 Unipolar Minimum	0	4194304	Value	ValueOutput
+Step 5 Unipolar Maximum	0	4194304	Value	ValueOutput
+Step 5 Bipolar Minimum	0	4194304	Value	ValueOutput
+Step 5 Bipolar Maximum	0	4194304	Value	ValueOutput
+Step 5 Note Minimum	0	4194304	Value	ValueOutput
+Step 5 Note Maximum	0	4194304	Value	ValueOutput
+Probability Dial 6	0	4194304	Value	ValueOutput
+Step 6 Unipolar Minimum	0	4194304	Value	ValueOutput
+Step 6 Unipolar Maximum	0	4194304	Value	ValueOutput
+Step 6 Bipolar Minimum	0	4194304	Value	ValueOutput
+Step 6 Bipolar Maximum	0	4194304	Value	ValueOutput
+Step 6 Note Minimum	0	4194304	Value	ValueOutput
+Step 6 Note Maximum	0	4194304	Value	ValueOutput
+Probability Dial 7	0	4194304	Value	ValueOutput
+Step 7 Unipolar Minimum	0	4194304	Value	ValueOutput
+Step 7 Unipolar Maximum	0	4194304	Value	ValueOutput
+Step 7 Bipolar Minimum	0	4194304	Value	ValueOutput
+Step 7 Bipolar Maximum	0	4194304	Value	ValueOutput
+Step 7 Note Minimum	0	4194304	Value	ValueOutput
+Step 7 Note Maximum	0	4194304	Value	ValueOutput
+Probability Dial 8	0	4194304	Value	ValueOutput
+Step 8 Unipolar Minimum	0	4194304	Value	ValueOutput
+Step 8 Unipolar Maximum	0	4194304	Value	ValueOutput
+Step 8 Bipolar Minimum	0	4194304	Value	ValueOutput
+Step 8 Bipolar Maximum	0	4194304	Value	ValueOutput
+Step 8 Note Minimum	0	4194304	Value	ValueOutput
+Step 8 Note Maximum	0	4194304	Value	ValueOutput
+Probability Dial 9	0	4194304	Value	ValueOutput
+Step 9 Unipolar Minimum	0	4194304	Value	ValueOutput
+Step 9 Unipolar Maximum	0	4194304	Value	ValueOutput
+Step 9 Bipolar Minimum	0	4194304	Value	ValueOutput
+Step 9 Bipolar Maximum	0	4194304	Value	ValueOutput
+Step 9 Note Minimum	0	4194304	Value	ValueOutput
+Step 9 Note Maximum	0	4194304	Value	ValueOutput
+Probability Dial 10	0	4194304	Value	ValueOutput
+Step 10 Unipolar Minimum	0	4194304	Value	ValueOutput
+Step 10 Unipolar Maximum	0	4194304	Value	ValueOutput
+Step 10 Bipolar Minimum	0	4194304	Value	ValueOutput
+Step 10 Bipolar Maximum	0	4194304	Value	ValueOutput
+Step 10 Note Minimum	0	4194304	Value	ValueOutput
+Step 10 Note Maximum	0	4194304	Value	ValueOutput
+Probability Dial 11	0	4194304	Value	ValueOutput
+Step 11 Unipolar Minimum	0	4194304	Value	ValueOutput
+Step 11 Unipolar Maximum	0	4194304	Value	ValueOutput
+Step 11 Bipolar Minimum	0	4194304	Value	ValueOutput
+Step 11 Bipolar Maximum	0	4194304	Value	ValueOutput
+Step 11 Note Minimum	0	4194304	Value	ValueOutput
+Step 11 Note Maximum	0	4194304	Value	ValueOutput
+Probability Dial 12	0	4194304	Value	ValueOutput
+Step 12 Unipolar Minimum	0	4194304	Value	ValueOutput
+Step 12 Unipolar Maximum	0	4194304	Value	ValueOutput
+Step 12 Bipolar Minimum	0	4194304	Value	ValueOutput
+Step 12 Bipolar Maximum	0	4194304	Value	ValueOutput
+Step 12 Note Minimum	0	4194304	Value	ValueOutput
+Step 12 Note Maximum	0	4194304	Value	ValueOutput
+Probability Dial 13	0	4194304	Value	ValueOutput
+Step 13 Unipolar Minimum	0	4194304	Value	ValueOutput
+Step 13 Unipolar Maximum	0	4194304	Value	ValueOutput
+Step 13 Bipolar Minimum	0	4194304	Value	ValueOutput
+Step 13 Bipolar Maximum	0	4194304	Value	ValueOutput
+Step 13 Note Minimum	0	4194304	Value	ValueOutput
+Step 13 Note Maximum	0	4194304	Value	ValueOutput
+Probability Dial 14	0	4194304	Value	ValueOutput
+Step 14 Unipolar Minimum	0	4194304	Value	ValueOutput
+Step 14 Unipolar Maximum	0	4194304	Value	ValueOutput
+Step 14 Bipolar Minimum	0	4194304	Value	ValueOutput
+Step 14 Bipolar Maximum	0	4194304	Value	ValueOutput
+Step 14 Note Minimum	0	4194304	Value	ValueOutput
+Step 14 Note Maximum	0	4194304	Value	ValueOutput
+Probability Dial 15	0	4194304	Value	ValueOutput
+Step 15 Unipolar Minimum	0	4194304	Value	ValueOutput
+Step 15 Unipolar Maximum	0	4194304	Value	ValueOutput
+Step 15 Bipolar Minimum	0	4194304	Value	ValueOutput
+Step 15 Bipolar Maximum	0	4194304	Value	ValueOutput
+Step 15 Note Minimum	0	4194304	Value	ValueOutput
+Step 15 Note Maximum	0	4194304	Value	ValueOutput
+Probability Dial 16	0	4194304	Value	ValueOutput
+Step 16 Unipolar Minimum	0	4194304	Value	ValueOutput
+Step 16 Unipolar Maximum	0	4194304	Value	ValueOutput
+Step 16 Bipolar Minimum	0	4194304	Value	ValueOutput
+Step 16 Bipolar Maximum	0	4194304	Value	ValueOutput
+Step 16 Note Minimum	0	4194304	Value	ValueOutput
+Step 16 Note Maximum	0	4194304	Value	ValueOutput
+propertyname Shuffle	0	4194304	Value	ValueOutput
+Seed Dial	0	4194304	Value	ValueOutput
+CV Type Dial	0	2	Value	ValueOutput
+Pause Button	0	1	Toggle	ValueOutput
+Steps Dial	0	31	Value	ValueOutput
+Speed Dial	0	7	Value	ValueOutput
+Gate Dial	0	4194304	Value	ValueOutput
+Portamento Dial	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

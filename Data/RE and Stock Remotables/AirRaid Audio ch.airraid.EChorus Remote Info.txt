@@ -1,0 +1,27 @@
+Scope
+Manufacturer	Model
+AirRaid Audio	ch.airraid.EChorus
+
+Remotable	Min	Max	Input type	Output type
+LFO Waveform	0	6	Value	ValueOutput
+LFO Amp	0	4194304	Value	ValueOutput
+LFO Frequency	0	4194304	Value	ValueOutput
+LFO Frequency (Synced)	0	19	Value	ValueOutput
+LFO Phase	0	4194304	Value	ValueOutput
+LFO Spin	0	4194304	Value	ValueOutput
+LFO Offset	0	4194304	Value	ValueOutput
+LFO Sync	0	1	Toggle	ValueOutput
+LFO Mode	0	1	Toggle	ValueOutput
+Chorus Type	0	7	Value	ValueOutput
+Left Delay Time	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+HP Cutoff	0	4194304	Value	ValueOutput
+LP Cutoff	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Dry/Wet Mix	0	4194304	Value	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

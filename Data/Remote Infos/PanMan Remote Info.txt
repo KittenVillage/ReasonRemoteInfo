@@ -1,0 +1,44 @@
+Scope
+Manufacturer	Model
+SoundToys	vst.StPn.PanMan
+Note: Will match scope definitions for vst.StPn.PanMan or vst.StPn
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+InputGain	0	4194304	Value	ValueOutput
+OutputGain	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+InOutMode	0	4194304	Value	ValueOutput
+Rate	0	4194304	Value	ValueOutput
+lfoShape	0	4194304	Value	ValueOutput
+Offset	0	4194304	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+Smoothing	0	4194304	Value	ValueOutput
+RateMod	0	4194304	Value	ValueOutput
+OffsetMod	0	4194304	Value	ValueOutput
+WidthMod	0	4194304	Value	ValueOutput
+PanPattern	0	4194304	Value	ValueOutput
+Feel	0	4194304	Value	ValueOutput
+Groove	0	4194304	Value	ValueOutput
+notePatternRhythm	0	4194304	Value	ValueOutput
+ManualTrigger	0	4194304	Value	ValueOutput
+response	0	4194304	Value	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+BeatSync	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

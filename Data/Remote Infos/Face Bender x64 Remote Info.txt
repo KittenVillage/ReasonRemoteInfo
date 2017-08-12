@@ -1,0 +1,46 @@
+Scope
+Manufacturer	Model
+Distorque	vst.DQFB.Face Bender x64
+Note: Will match scope definitions for vst.DQFB.Face Bender x64 or vst.DQFB
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Fuzz Type	0	4194304	Value	ValueOutput
+Effect	0	4194304	Value	ValueOutput
+Quality	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+FF Output	0	4194304	Value	ValueOutput
+FF Fuzz	0	4194304	Value	ValueOutput
+FF Input	0	4194304	Value	ValueOutput
+FF Filter	0	4194304	Value	ValueOutput
+FF Gate	0	4194304	Value	ValueOutput
+FF Clean	0	4194304	Value	ValueOutput
+FF Locut	0	4194304	Value	ValueOutput
+FF Hicut	0	4194304	Value	ValueOutput
+FF Material	0	4194304	Value	ValueOutput
+TB Output	0	4194304	Value	ValueOutput
+TB Attack	0	4194304	Value	ValueOutput
+TB Input	0	4194304	Value	ValueOutput
+TB Filter	0	4194304	Value	ValueOutput
+TB Gate	0	4194304	Value	ValueOutput
+TB Clean	0	4194304	Value	ValueOutput
+TB Locut	0	4194304	Value	ValueOutput
+TB Hicut	0	4194304	Value	ValueOutput
+TB Material	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

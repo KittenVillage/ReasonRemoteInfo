@@ -1,0 +1,552 @@
+Scope
+Manufacturer	Model
+HY-Plugins	vst.Hy16.HY-MPS_x64
+Note: Will match scope definitions for vst.Hy16.HY-MPS_x64 or vst.Hy16
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Block1 SeqDir	0	4194304	Value	ValueOutput
+Block1 Size	0	4194304	Value	ValueOutput
+Block1 Snapshot	0	4194304	Value	ValueOutput
+Block1 Pitch1	0	4194304	Value	ValueOutput
+Block1 Pitch2	0	4194304	Value	ValueOutput
+Block1 Pitch3	0	4194304	Value	ValueOutput
+Block1 Pitch4	0	4194304	Value	ValueOutput
+Block1 Pitch5	0	4194304	Value	ValueOutput
+Block1 Pitch6	0	4194304	Value	ValueOutput
+Block1 Pitch7	0	4194304	Value	ValueOutput
+Block1 Pitch8	0	4194304	Value	ValueOutput
+Block1 OnOff1	0	4194304	Value	ValueOutput
+Block1 OnOff2	0	4194304	Value	ValueOutput
+Block1 OnOff3	0	4194304	Value	ValueOutput
+Block1 OnOff4	0	4194304	Value	ValueOutput
+Block1 OnOff5	0	4194304	Value	ValueOutput
+Block1 OnOff6	0	4194304	Value	ValueOutput
+Block1 OnOff7	0	4194304	Value	ValueOutput
+Block1 OnOff8	0	4194304	Value	ValueOutput
+SeqBlock1 Oct1	0	4194304	Value	ValueOutput
+SeqBlock1 Oct2	0	4194304	Value	ValueOutput
+SeqBlock1 Oct3	0	4194304	Value	ValueOutput
+SeqBlock1 Oct4	0	4194304	Value	ValueOutput
+SeqBlock1 Oct5	0	4194304	Value	ValueOutput
+SeqBlock1 Oct6	0	4194304	Value	ValueOutput
+SeqBlock1 Oct7	0	4194304	Value	ValueOutput
+SeqBlock1 Oct8	0	4194304	Value	ValueOutput
+Block1 Velo1	0	4194304	Value	ValueOutput
+Block1 Velo2	0	4194304	Value	ValueOutput
+Block1 Velo3	0	4194304	Value	ValueOutput
+Block1 Velo4	0	4194304	Value	ValueOutput
+Block1 Velo5	0	4194304	Value	ValueOutput
+Block1 Velo6	0	4194304	Value	ValueOutput
+Block1 Velo7	0	4194304	Value	ValueOutput
+Block1 Velo8	0	4194304	Value	ValueOutput
+Block1 Gate1	0	4194304	Value	ValueOutput
+Block1 Gate2	0	4194304	Value	ValueOutput
+Block1 Gate3	0	4194304	Value	ValueOutput
+Block1 Gate4	0	4194304	Value	ValueOutput
+Block1 Gate5	0	4194304	Value	ValueOutput
+Block1 Gate6	0	4194304	Value	ValueOutput
+Block1 Gate7	0	4194304	Value	ValueOutput
+Block1 Gate8	0	4194304	Value	ValueOutput
+Block1 Prob1	0	4194304	Value	ValueOutput
+Block1 Prob2	0	4194304	Value	ValueOutput
+Block1 Prob3	0	4194304	Value	ValueOutput
+Block1 Prob4	0	4194304	Value	ValueOutput
+Block1 Prob5	0	4194304	Value	ValueOutput
+Block1 Prob6	0	4194304	Value	ValueOutput
+Block1 Prob7	0	4194304	Value	ValueOutput
+Block1 Prob8	0	4194304	Value	ValueOutput
+Block1 Aux1	0	4194304	Value	ValueOutput
+Block1 Aux2	0	4194304	Value	ValueOutput
+Block1 Aux3	0	4194304	Value	ValueOutput
+Block1 Aux4	0	4194304	Value	ValueOutput
+Block1 Aux5	0	4194304	Value	ValueOutput
+Block1 Aux6	0	4194304	Value	ValueOutput
+Block1 Aux7	0	4194304	Value	ValueOutput
+Block1 Aux8	0	4194304	Value	ValueOutput
+Block2 SeqDir	0	4194304	Value	ValueOutput
+Block2 Size	0	4194304	Value	ValueOutput
+Block2 Snapshot	0	4194304	Value	ValueOutput
+Block2 Pitch1	0	4194304	Value	ValueOutput
+Block2 Pitch2	0	4194304	Value	ValueOutput
+Block2 Pitch3	0	4194304	Value	ValueOutput
+Block2 Pitch4	0	4194304	Value	ValueOutput
+Block2 Pitch5	0	4194304	Value	ValueOutput
+Block2 Pitch6	0	4194304	Value	ValueOutput
+Block2 Pitch7	0	4194304	Value	ValueOutput
+Block2 Pitch8	0	4194304	Value	ValueOutput
+Block2 OnOff1	0	4194304	Value	ValueOutput
+Block2 OnOff2	0	4194304	Value	ValueOutput
+Block2 OnOff3	0	4194304	Value	ValueOutput
+Block2 OnOff4	0	4194304	Value	ValueOutput
+Block2 OnOff5	0	4194304	Value	ValueOutput
+Block2 OnOff6	0	4194304	Value	ValueOutput
+Block2 OnOff7	0	4194304	Value	ValueOutput
+Block2 OnOff8	0	4194304	Value	ValueOutput
+Block2 Oct1	0	4194304	Value	ValueOutput
+Block2 Oct2	0	4194304	Value	ValueOutput
+Block2 Oct3	0	4194304	Value	ValueOutput
+Block2 Oct4	0	4194304	Value	ValueOutput
+Block2 Oct5	0	4194304	Value	ValueOutput
+Block2 Oct6	0	4194304	Value	ValueOutput
+Block2 Oct7	0	4194304	Value	ValueOutput
+Block2 Oct8	0	4194304	Value	ValueOutput
+Block2 Velo1	0	4194304	Value	ValueOutput
+Block2 Velo2	0	4194304	Value	ValueOutput
+Block2 Velo3	0	4194304	Value	ValueOutput
+Block2 Velo4	0	4194304	Value	ValueOutput
+Block2 Velo5	0	4194304	Value	ValueOutput
+Block2 Velo6	0	4194304	Value	ValueOutput
+Block2 Velo7	0	4194304	Value	ValueOutput
+Block2 Velo8	0	4194304	Value	ValueOutput
+SeqBlock2 Gate1	0	4194304	Value	ValueOutput
+SeqBlock2 Gate2	0	4194304	Value	ValueOutput
+SeqBlock2 Gate3	0	4194304	Value	ValueOutput
+SeqBlock2 Gate4	0	4194304	Value	ValueOutput
+SeqBlock2 Gate5	0	4194304	Value	ValueOutput
+SeqBlock2 Gate6	0	4194304	Value	ValueOutput
+SeqBlock2 Gate7	0	4194304	Value	ValueOutput
+SeqBlock2 Gate8	0	4194304	Value	ValueOutput
+Block2 Prob1	0	4194304	Value	ValueOutput
+Block2 Prob2	0	4194304	Value	ValueOutput
+Block2 Prob3	0	4194304	Value	ValueOutput
+Block2 Prob4	0	4194304	Value	ValueOutput
+Block2 Prob5	0	4194304	Value	ValueOutput
+Block2 Prob6	0	4194304	Value	ValueOutput
+Block2 Prob7	0	4194304	Value	ValueOutput
+Block2 Prob8	0	4194304	Value	ValueOutput
+Block2 Aux1	0	4194304	Value	ValueOutput
+Block2 Aux2	0	4194304	Value	ValueOutput
+Block2 Aux3	0	4194304	Value	ValueOutput
+Block2 Aux4	0	4194304	Value	ValueOutput
+Block2 Aux5	0	4194304	Value	ValueOutput
+Block2 Aux6	0	4194304	Value	ValueOutput
+Block2 Aux7	0	4194304	Value	ValueOutput
+Block2 Aux8	0	4194304	Value	ValueOutput
+Block3 SeqDir	0	4194304	Value	ValueOutput
+Block3 Size	0	4194304	Value	ValueOutput
+Block3 Snapshot	0	4194304	Value	ValueOutput
+Block3 Pitch1	0	4194304	Value	ValueOutput
+Block3 Pitch2	0	4194304	Value	ValueOutput
+Block3 Pitch3	0	4194304	Value	ValueOutput
+Block3 Pitch4	0	4194304	Value	ValueOutput
+Block3 Pitch5	0	4194304	Value	ValueOutput
+Block3 Pitch6	0	4194304	Value	ValueOutput
+Block3 Pitch7	0	4194304	Value	ValueOutput
+Block3 Pitch8	0	4194304	Value	ValueOutput
+Block3 OnOff1	0	4194304	Value	ValueOutput
+Block3 OnOff2	0	4194304	Value	ValueOutput
+Block3 OnOff3	0	4194304	Value	ValueOutput
+Block3 OnOff4	0	4194304	Value	ValueOutput
+Block3 OnOff5	0	4194304	Value	ValueOutput
+Block3 OnOff6	0	4194304	Value	ValueOutput
+Block3 OnOff7	0	4194304	Value	ValueOutput
+Block3 OnOff8	0	4194304	Value	ValueOutput
+Block3 Oct1	0	4194304	Value	ValueOutput
+Block3 Oct2	0	4194304	Value	ValueOutput
+Block3 Oct3	0	4194304	Value	ValueOutput
+Block3 Oct4	0	4194304	Value	ValueOutput
+Block3 Oct5	0	4194304	Value	ValueOutput
+Block3 Oct6	0	4194304	Value	ValueOutput
+Block3 Oct7	0	4194304	Value	ValueOutput
+Block3 Oct8	0	4194304	Value	ValueOutput
+Block3 Velo1	0	4194304	Value	ValueOutput
+Block3 Velo2	0	4194304	Value	ValueOutput
+Block3 Velo3	0	4194304	Value	ValueOutput
+Block3 Velo4	0	4194304	Value	ValueOutput
+Block3 Velo5	0	4194304	Value	ValueOutput
+Block3 Velo6	0	4194304	Value	ValueOutput
+Block3 Velo7	0	4194304	Value	ValueOutput
+Block3 Velo8	0	4194304	Value	ValueOutput
+Block3 Gate1	0	4194304	Value	ValueOutput
+Block3 Gate2	0	4194304	Value	ValueOutput
+Block3 Gate3	0	4194304	Value	ValueOutput
+Block3 Gate4	0	4194304	Value	ValueOutput
+Block3 Gate5	0	4194304	Value	ValueOutput
+Block3 Gate6	0	4194304	Value	ValueOutput
+Block3 Gate7	0	4194304	Value	ValueOutput
+Block3 Gate8	0	4194304	Value	ValueOutput
+Block3 Prob1	0	4194304	Value	ValueOutput
+Block3 Prob2	0	4194304	Value	ValueOutput
+Block3 Prob3	0	4194304	Value	ValueOutput
+Block3 Prob4	0	4194304	Value	ValueOutput
+Block3 Prob5	0	4194304	Value	ValueOutput
+Block3 Prob6	0	4194304	Value	ValueOutput
+Block3 Prob7	0	4194304	Value	ValueOutput
+Block3 Prob8	0	4194304	Value	ValueOutput
+Block3 Aux1	0	4194304	Value	ValueOutput
+Block3 Aux2	0	4194304	Value	ValueOutput
+Block3 Aux3	0	4194304	Value	ValueOutput
+Block3 Aux4	0	4194304	Value	ValueOutput
+Block3 Aux5	0	4194304	Value	ValueOutput
+Block3 Aux6	0	4194304	Value	ValueOutput
+Block3 Aux7	0	4194304	Value	ValueOutput
+Block3 Aux8	0	4194304	Value	ValueOutput
+Block4 SeqDir	0	4194304	Value	ValueOutput
+Block4 Size	0	4194304	Value	ValueOutput
+Block4 Snapshot	0	4194304	Value	ValueOutput
+Block4 Pitch1	0	4194304	Value	ValueOutput
+Block4 Pitch2	0	4194304	Value	ValueOutput
+Block4 Pitch3	0	4194304	Value	ValueOutput
+Block4 Pitch4	0	4194304	Value	ValueOutput
+Block4 Pitch5	0	4194304	Value	ValueOutput
+Block4 Pitch6	0	4194304	Value	ValueOutput
+Block4 Pitch7	0	4194304	Value	ValueOutput
+Block4 Pitch8	0	4194304	Value	ValueOutput
+Block4 OnOff1	0	4194304	Value	ValueOutput
+Block4 OnOff2	0	4194304	Value	ValueOutput
+Block4 OnOff3	0	4194304	Value	ValueOutput
+Block4 OnOff4	0	4194304	Value	ValueOutput
+Block4 OnOff5	0	4194304	Value	ValueOutput
+Block4 OnOff6	0	4194304	Value	ValueOutput
+Block4 OnOff7	0	4194304	Value	ValueOutput
+Block4 OnOff8	0	4194304	Value	ValueOutput
+Block4 Oct1	0	4194304	Value	ValueOutput
+Block4 Oct2	0	4194304	Value	ValueOutput
+Block4 Oct3	0	4194304	Value	ValueOutput
+Block4 Oct4	0	4194304	Value	ValueOutput
+Block4 Oct5	0	4194304	Value	ValueOutput
+Block4 Oct6	0	4194304	Value	ValueOutput
+Block4 Oct7	0	4194304	Value	ValueOutput
+Block4 Oct8	0	4194304	Value	ValueOutput
+Block4 Velo1	0	4194304	Value	ValueOutput
+Block4 Velo2	0	4194304	Value	ValueOutput
+Block4 Velo3	0	4194304	Value	ValueOutput
+Block4 Velo4	0	4194304	Value	ValueOutput
+Block4 Velo5	0	4194304	Value	ValueOutput
+Block4 Velo6	0	4194304	Value	ValueOutput
+Block4 Velo7	0	4194304	Value	ValueOutput
+Block4 Velo8	0	4194304	Value	ValueOutput
+Block4 Gate1	0	4194304	Value	ValueOutput
+Block4 Gate2	0	4194304	Value	ValueOutput
+Block4 Gate3	0	4194304	Value	ValueOutput
+Block4 Gate4	0	4194304	Value	ValueOutput
+Block4 Gate5	0	4194304	Value	ValueOutput
+Block4 Gate6	0	4194304	Value	ValueOutput
+Block4 Gate7	0	4194304	Value	ValueOutput
+Block4 Gate8	0	4194304	Value	ValueOutput
+Block4 Prob1	0	4194304	Value	ValueOutput
+Block4 Prob2	0	4194304	Value	ValueOutput
+Block4 Prob3	0	4194304	Value	ValueOutput
+Block4 Prob4	0	4194304	Value	ValueOutput
+Block4 Prob5	0	4194304	Value	ValueOutput
+Block4 Prob6	0	4194304	Value	ValueOutput
+Block4 Prob7	0	4194304	Value	ValueOutput
+Block4 Prob8	0	4194304	Value	ValueOutput
+Block4 Aux1	0	4194304	Value	ValueOutput
+Block4 Aux2	0	4194304	Value	ValueOutput
+Block4 Aux3	0	4194304	Value	ValueOutput
+Block4 Aux4	0	4194304	Value	ValueOutput
+Block4 Aux5	0	4194304	Value	ValueOutput
+Block4 Aux6	0	4194304	Value	ValueOutput
+Block4 Aux7	0	4194304	Value	ValueOutput
+Block4 Aux8	0	4194304	Value	ValueOutput
+Block5 SeqDir	0	4194304	Value	ValueOutput
+Block5 Size	0	4194304	Value	ValueOutput
+Block5 Snapshot	0	4194304	Value	ValueOutput
+Block5 Pitch1	0	4194304	Value	ValueOutput
+Block5 Pitch2	0	4194304	Value	ValueOutput
+Block5 Pitch3	0	4194304	Value	ValueOutput
+Block5 Pitch4	0	4194304	Value	ValueOutput
+Block5 Pitch5	0	4194304	Value	ValueOutput
+Block5 Pitch6	0	4194304	Value	ValueOutput
+Block5 Pitch7	0	4194304	Value	ValueOutput
+Block5 Pitch8	0	4194304	Value	ValueOutput
+Block5 OnOff1	0	4194304	Value	ValueOutput
+Block5 OnOff2	0	4194304	Value	ValueOutput
+Block5 OnOff3	0	4194304	Value	ValueOutput
+Block5 OnOff4	0	4194304	Value	ValueOutput
+Block5 OnOff5	0	4194304	Value	ValueOutput
+Block5 OnOff6	0	4194304	Value	ValueOutput
+Block5 OnOff7	0	4194304	Value	ValueOutput
+Block5 OnOff8	0	4194304	Value	ValueOutput
+Block5 Oct1	0	4194304	Value	ValueOutput
+Block5 Oct2	0	4194304	Value	ValueOutput
+Block5 Oct3	0	4194304	Value	ValueOutput
+Block5 Oct4	0	4194304	Value	ValueOutput
+Block5 Oct5	0	4194304	Value	ValueOutput
+Block5 Oct6	0	4194304	Value	ValueOutput
+Block5 Oct7	0	4194304	Value	ValueOutput
+Block5 Oct8	0	4194304	Value	ValueOutput
+Block5 Velo1	0	4194304	Value	ValueOutput
+Block5 Velo2	0	4194304	Value	ValueOutput
+Block5 Velo3	0	4194304	Value	ValueOutput
+Block5 Velo4	0	4194304	Value	ValueOutput
+Block5 Velo5	0	4194304	Value	ValueOutput
+Block5 Velo6	0	4194304	Value	ValueOutput
+Block5 Velo7	0	4194304	Value	ValueOutput
+Block5 Velo8	0	4194304	Value	ValueOutput
+Block5 Gate1	0	4194304	Value	ValueOutput
+Block5 Gate2	0	4194304	Value	ValueOutput
+Block5 Gate3	0	4194304	Value	ValueOutput
+Block5 Gate4	0	4194304	Value	ValueOutput
+Block5 Gate5	0	4194304	Value	ValueOutput
+Block5 Gate6	0	4194304	Value	ValueOutput
+Block5 Gate7	0	4194304	Value	ValueOutput
+Block5 Gate8	0	4194304	Value	ValueOutput
+Block5 Prob1	0	4194304	Value	ValueOutput
+Block5 Prob2	0	4194304	Value	ValueOutput
+Block5 Prob3	0	4194304	Value	ValueOutput
+Block5 Prob4	0	4194304	Value	ValueOutput
+Block5 Prob5	0	4194304	Value	ValueOutput
+Block5 Prob6	0	4194304	Value	ValueOutput
+Block5 Prob7	0	4194304	Value	ValueOutput
+Block5 Prob8	0	4194304	Value	ValueOutput
+Block5 Aux1	0	4194304	Value	ValueOutput
+Block5 Aux2	0	4194304	Value	ValueOutput
+Block5 Aux3	0	4194304	Value	ValueOutput
+Block5 Aux4	0	4194304	Value	ValueOutput
+Block5 Aux5	0	4194304	Value	ValueOutput
+Block5 Aux6	0	4194304	Value	ValueOutput
+Block5 Aux7	0	4194304	Value	ValueOutput
+Block5 Aux8	0	4194304	Value	ValueOutput
+Block6 SeqDir	0	4194304	Value	ValueOutput
+Block6 Size	0	4194304	Value	ValueOutput
+Block6 Snapshot	0	4194304	Value	ValueOutput
+Block6 Pitch1	0	4194304	Value	ValueOutput
+Block6 Pitch2	0	4194304	Value	ValueOutput
+Block6 Pitch3	0	4194304	Value	ValueOutput
+Block6 Pitch4	0	4194304	Value	ValueOutput
+Block6 Pitch5	0	4194304	Value	ValueOutput
+Block6 Pitch6	0	4194304	Value	ValueOutput
+Block6 Pitch7	0	4194304	Value	ValueOutput
+Block6 Pitch8	0	4194304	Value	ValueOutput
+Block6 OnOff1	0	4194304	Value	ValueOutput
+Block6 OnOff2	0	4194304	Value	ValueOutput
+Block6 OnOff3	0	4194304	Value	ValueOutput
+Block6 OnOff4	0	4194304	Value	ValueOutput
+Block6 OnOff5	0	4194304	Value	ValueOutput
+Block6 OnOff6	0	4194304	Value	ValueOutput
+Block6 OnOff7	0	4194304	Value	ValueOutput
+Block6 OnOff8	0	4194304	Value	ValueOutput
+Block6 Oct1	0	4194304	Value	ValueOutput
+Block6 Oct2	0	4194304	Value	ValueOutput
+Block6 Oct3	0	4194304	Value	ValueOutput
+Block6 Oct4	0	4194304	Value	ValueOutput
+Block6 Oct5	0	4194304	Value	ValueOutput
+Block6 Oct6	0	4194304	Value	ValueOutput
+Block6 Oct7	0	4194304	Value	ValueOutput
+Block6 Oct8	0	4194304	Value	ValueOutput
+Block6 Velo1	0	4194304	Value	ValueOutput
+Block6 Velo2	0	4194304	Value	ValueOutput
+Block6 Velo3	0	4194304	Value	ValueOutput
+Block6 Velo4	0	4194304	Value	ValueOutput
+Block6 Velo5	0	4194304	Value	ValueOutput
+Block6 Velo6	0	4194304	Value	ValueOutput
+Block6 Velo7	0	4194304	Value	ValueOutput
+Block6 Velo8	0	4194304	Value	ValueOutput
+Block6 Gate1	0	4194304	Value	ValueOutput
+Block6 Gate2	0	4194304	Value	ValueOutput
+Block6 Gate3	0	4194304	Value	ValueOutput
+Block6 Gate4	0	4194304	Value	ValueOutput
+Block6 Gate5	0	4194304	Value	ValueOutput
+Block6 Gate6	0	4194304	Value	ValueOutput
+Block6 Gate7	0	4194304	Value	ValueOutput
+Block6 Gate8	0	4194304	Value	ValueOutput
+Block6 Prob1	0	4194304	Value	ValueOutput
+Block6 Prob2	0	4194304	Value	ValueOutput
+Block6 Prob3	0	4194304	Value	ValueOutput
+Block6 Prob4	0	4194304	Value	ValueOutput
+Block6 Prob5	0	4194304	Value	ValueOutput
+Block6 Prob6	0	4194304	Value	ValueOutput
+Block6 Prob7	0	4194304	Value	ValueOutput
+Block6 Prob8	0	4194304	Value	ValueOutput
+Block6 Aux1	0	4194304	Value	ValueOutput
+Block6 Aux2	0	4194304	Value	ValueOutput
+Block6 Aux3	0	4194304	Value	ValueOutput
+Block6 Aux4	0	4194304	Value	ValueOutput
+Block6 Aux5	0	4194304	Value	ValueOutput
+Block6 Aux6	0	4194304	Value	ValueOutput
+Block6 Aux7	0	4194304	Value	ValueOutput
+Block6 Aux8	0	4194304	Value	ValueOutput
+Block7 SeqDir	0	4194304	Value	ValueOutput
+Block7 Size	0	4194304	Value	ValueOutput
+Block7 Snapshot	0	4194304	Value	ValueOutput
+Block7 Pitch1	0	4194304	Value	ValueOutput
+Block7 Pitch2	0	4194304	Value	ValueOutput
+Block7 Pitch3	0	4194304	Value	ValueOutput
+Block7 Pitch4	0	4194304	Value	ValueOutput
+Block7 Pitch5	0	4194304	Value	ValueOutput
+Block7 Pitch6	0	4194304	Value	ValueOutput
+Block7 Pitch7	0	4194304	Value	ValueOutput
+Block7 Pitch8	0	4194304	Value	ValueOutput
+Block7 OnOff1	0	4194304	Value	ValueOutput
+Block7 OnOff2	0	4194304	Value	ValueOutput
+Block7 OnOff3	0	4194304	Value	ValueOutput
+Block7 OnOff4	0	4194304	Value	ValueOutput
+Block7 OnOff5	0	4194304	Value	ValueOutput
+Block7 OnOff6	0	4194304	Value	ValueOutput
+Block7 OnOff7	0	4194304	Value	ValueOutput
+Block7 OnOff8	0	4194304	Value	ValueOutput
+Block7 Oct1	0	4194304	Value	ValueOutput
+Block7 Oct2	0	4194304	Value	ValueOutput
+Block7 Oct3	0	4194304	Value	ValueOutput
+Block7 Oct4	0	4194304	Value	ValueOutput
+Block7 Oct5	0	4194304	Value	ValueOutput
+Block7 Oct6	0	4194304	Value	ValueOutput
+Block7 Oct7	0	4194304	Value	ValueOutput
+Block7 Oct8	0	4194304	Value	ValueOutput
+Block7 Velo1	0	4194304	Value	ValueOutput
+Block7 Velo2	0	4194304	Value	ValueOutput
+Block7 Velo3	0	4194304	Value	ValueOutput
+Block7 Velo4	0	4194304	Value	ValueOutput
+Block7 Velo5	0	4194304	Value	ValueOutput
+Block7 Velo6	0	4194304	Value	ValueOutput
+Block7 Velo7	0	4194304	Value	ValueOutput
+Block7 Velo8	0	4194304	Value	ValueOutput
+Block7 Gate1	0	4194304	Value	ValueOutput
+Block7 Gate2	0	4194304	Value	ValueOutput
+Block7 Gate3	0	4194304	Value	ValueOutput
+Block7 Gate4	0	4194304	Value	ValueOutput
+Block7 Gate5	0	4194304	Value	ValueOutput
+Block7 Gate6	0	4194304	Value	ValueOutput
+Block7 Gate7	0	4194304	Value	ValueOutput
+Block7 Gate8	0	4194304	Value	ValueOutput
+Block7 Prob1	0	4194304	Value	ValueOutput
+Block7 Prob2	0	4194304	Value	ValueOutput
+Block7 Prob3	0	4194304	Value	ValueOutput
+Block7 Prob4	0	4194304	Value	ValueOutput
+Block7 Prob5	0	4194304	Value	ValueOutput
+Block7 Prob6	0	4194304	Value	ValueOutput
+Block7 Prob7	0	4194304	Value	ValueOutput
+Block7 Prob8	0	4194304	Value	ValueOutput
+Block7 Aux1	0	4194304	Value	ValueOutput
+Block7 Aux2	0	4194304	Value	ValueOutput
+Block7 Aux3	0	4194304	Value	ValueOutput
+Block7 Aux4	0	4194304	Value	ValueOutput
+Block7 Aux5	0	4194304	Value	ValueOutput
+Block7 Aux6	0	4194304	Value	ValueOutput
+Block7 Aux7	0	4194304	Value	ValueOutput
+Block7 Aux8	0	4194304	Value	ValueOutput
+Block8 SeqDir	0	4194304	Value	ValueOutput
+Block8 Size	0	4194304	Value	ValueOutput
+Block8 Snapshot	0	4194304	Value	ValueOutput
+Block8 Pitch1	0	4194304	Value	ValueOutput
+Block8 Pitch2	0	4194304	Value	ValueOutput
+Block8 Pitch3	0	4194304	Value	ValueOutput
+Block8 Pitch4	0	4194304	Value	ValueOutput
+Block8 Pitch5	0	4194304	Value	ValueOutput
+Block8 Pitch6	0	4194304	Value	ValueOutput
+Block8 Pitch7	0	4194304	Value	ValueOutput
+Block8 Pitch8	0	4194304	Value	ValueOutput
+Block8 OnOff1	0	4194304	Value	ValueOutput
+Block8 OnOff2	0	4194304	Value	ValueOutput
+Block8 OnOff3	0	4194304	Value	ValueOutput
+Block8 OnOff4	0	4194304	Value	ValueOutput
+Block8 OnOff5	0	4194304	Value	ValueOutput
+Block8 OnOff6	0	4194304	Value	ValueOutput
+Block8 OnOff7	0	4194304	Value	ValueOutput
+Block8 OnOff8	0	4194304	Value	ValueOutput
+Block8 Oct1	0	4194304	Value	ValueOutput
+Block8 Oct2	0	4194304	Value	ValueOutput
+Block8 Oct3	0	4194304	Value	ValueOutput
+Block8 Oct4	0	4194304	Value	ValueOutput
+Block8 Oct5	0	4194304	Value	ValueOutput
+Block8 Oct6	0	4194304	Value	ValueOutput
+Block8 Oct7	0	4194304	Value	ValueOutput
+Block8 Oct8	0	4194304	Value	ValueOutput
+Block8 Velo1	0	4194304	Value	ValueOutput
+Block8 Velo2	0	4194304	Value	ValueOutput
+Block8 Velo3	0	4194304	Value	ValueOutput
+Block8 Velo4	0	4194304	Value	ValueOutput
+Block8 Velo5	0	4194304	Value	ValueOutput
+Block8 Velo6	0	4194304	Value	ValueOutput
+Block8 Velo7	0	4194304	Value	ValueOutput
+Block8 Velo8	0	4194304	Value	ValueOutput
+Block8 Gate1	0	4194304	Value	ValueOutput
+Block8 Gate2	0	4194304	Value	ValueOutput
+Block8 Gate3	0	4194304	Value	ValueOutput
+Block8 Gate4	0	4194304	Value	ValueOutput
+Block8 Gate5	0	4194304	Value	ValueOutput
+Block8 Gate6	0	4194304	Value	ValueOutput
+Block8 Gate7	0	4194304	Value	ValueOutput
+Block8 Gate8	0	4194304	Value	ValueOutput
+Block8 Prob1	0	4194304	Value	ValueOutput
+Block8 Prob2	0	4194304	Value	ValueOutput
+Block8 Prob3	0	4194304	Value	ValueOutput
+Block8 Prob4	0	4194304	Value	ValueOutput
+Block8 Prob5	0	4194304	Value	ValueOutput
+Block8 Prob6	0	4194304	Value	ValueOutput
+Block8 Prob7	0	4194304	Value	ValueOutput
+Block8 Prob8	0	4194304	Value	ValueOutput
+Block8 Aux1	0	4194304	Value	ValueOutput
+Block8 Aux2	0	4194304	Value	ValueOutput
+Block8 Aux3	0	4194304	Value	ValueOutput
+Block8 Aux4	0	4194304	Value	ValueOutput
+Block8 Aux5	0	4194304	Value	ValueOutput
+Block8 Aux6	0	4194304	Value	ValueOutput
+Block8 Aux7	0	4194304	Value	ValueOutput
+Block8 Aux8	0	4194304	Value	ValueOutput
+Block Window	0	4194304	Value	ValueOutput
+Root Note	0	4194304	Value	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+Trig Mode	0	4194304	Value	ValueOutput
+Global Octave	0	4194304	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+Transpose	0	4194304	Value	ValueOutput
+RndRange Pitch	0	4194304	Value	ValueOutput
+RndRange Velo	0	4194304	Value	ValueOutput
+RndRange Gate	0	4194304	Value	ValueOutput
+RndRange Prob	0	4194304	Value	ValueOutput
+RndRange Aux	0	4194304	Value	ValueOutput
+Aux Target	0	4194304	Value	ValueOutput
+Aux Target SEQ	0	4194304	Value	ValueOutput
+Aux Target Midi	0	4194304	Value	ValueOutput
+Aux Target CC	0	4194304	Value	ValueOutput
+Block Chainer SeqDir	0	4194304	Value	ValueOutput
+Block Chainer Size	0	4194304	Value	ValueOutput
+Block Chainer Snapshot	0	4194304	Value	ValueOutput
+Block Chainer Step1	0	4194304	Value	ValueOutput
+Block Chainer Step2	0	4194304	Value	ValueOutput
+Block Chainer Step3	0	4194304	Value	ValueOutput
+Block Chainer Step4	0	4194304	Value	ValueOutput
+Block Chainer Step5	0	4194304	Value	ValueOutput
+Block Chainer Step6	0	4194304	Value	ValueOutput
+Block Chainer Step7	0	4194304	Value	ValueOutput
+Block Chainer Step8	0	4194304	Value	ValueOutput
+Block Chainer Step9	0	4194304	Value	ValueOutput
+Block Chainer Step10	0	4194304	Value	ValueOutput
+Block Chainer Step11	0	4194304	Value	ValueOutput
+Block Chainer Step12	0	4194304	Value	ValueOutput
+Block Chainer Step13	0	4194304	Value	ValueOutput
+Block Chainer Step14	0	4194304	Value	ValueOutput
+Block Chainer Step15	0	4194304	Value	ValueOutput
+Block Chainer Step16	0	4194304	Value	ValueOutput
+LFO1 Wave	0	4194304	Value	ValueOutput
+LFO1 Rate	0	4194304	Value	ValueOutput
+LFO1 Rate Sync	0	4194304	Value	ValueOutput
+LFO1 Sync Time	0	4194304	Value	ValueOutput
+LFO1 Phase	0	4194304	Value	ValueOutput
+LFO1 Depth	0	4194304	Value	ValueOutput
+LFO1 Target Main	0	4194304	Value	ValueOutput
+LFO1 Target SEQ	0	4194304	Value	ValueOutput
+LFO1 Target Midi	0	4194304	Value	ValueOutput
+LFO1 Target CC	0	4194304	Value	ValueOutput
+LFO2 Wave	0	4194304	Value	ValueOutput
+LFO2 Rate	0	4194304	Value	ValueOutput
+LFO2 Rate Sync	0	4194304	Value	ValueOutput
+LFO2 Sync Time	0	4194304	Value	ValueOutput
+LFO2 Phase	0	4194304	Value	ValueOutput
+LFO2 Depth	0	4194304	Value	ValueOutput
+LFO2 Target Main	0	4194304	Value	ValueOutput
+LFO2 Target SEQ	0	4194304	Value	ValueOutput
+LFO2 Target Midi	0	4194304	Value	ValueOutput
+LFO2 Target CC	0	4194304	Value	ValueOutput
+Randomize All	0	4194304	Value	ValueOutput
+Reset All	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,101 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.ComboContinental
+
+Remotable	Min	Max	Input type	Output type
+Volume	0	4194304	Value	ValueOutput
+Expression Pedal	0	1	Toggle	ValueOutput
+Reverb Amount	0	4194304	Value	ValueOutput
+Amp Type	0	1	Toggle	ValueOutput
+Amp Drive	0	4194304	Value	ValueOutput
+Bass Balance	0	4194304	Value	ValueOutput
+Treble Balance	0	4194304	Value	ValueOutput
+Vibrato	0	1	Toggle	ValueOutput
+Vibrato Rate	0	4194304	Value	ValueOutput
+Vibrato Depth	0	4194304	Value	ValueOutput
+Bass Foundation Footage	0	1	Toggle	ValueOutput
+Bass Reed Footage	0	1	Toggle	ValueOutput
+Bass Sustain	0	4194304	Value	ValueOutput
+Preset Selector	0	5	Value	ValueOutput
+Percussion Decay	0	1	Toggle	ValueOutput
+Percussion Sustain	0	1	Toggle	ValueOutput
+Percussion 8'	0	1	Toggle	ValueOutput
+Percussion 4'	0	1	Toggle	ValueOutput
+Percussion II	0	1	Toggle	ValueOutput
+Upper Foundation Vox	0	4194304	Value	ValueOutput
+Upper Reed Vox	0	4194304	Value	ValueOutput
+DB 16' Vox	0	4194304	Value	ValueOutput
+DB 8' Vox	0	4194304	Value	ValueOutput
+DB 4' Vox	0	4194304	Value	ValueOutput
+DB 2' Vox	0	4194304	Value	ValueOutput
+DB II Vox	0	4194304	Value	ValueOutput
+DB III Vox	0	4194304	Value	ValueOutput
+DB IV Vox	0	4194304	Value	ValueOutput
+Bass Foundation Vox	0	4194304	Value	ValueOutput
+Bass Reed Vox	0	4194304	Value	ValueOutput
+Upper Foundation Mood	0	4194304	Value	ValueOutput
+Upper Reed Mood	0	4194304	Value	ValueOutput
+DB 16' Mood	0	4194304	Value	ValueOutput
+DB 8' Mood	0	4194304	Value	ValueOutput
+DB 4' Mood	0	4194304	Value	ValueOutput
+DB 2' Mood	0	4194304	Value	ValueOutput
+DB II Mood	0	4194304	Value	ValueOutput
+DB III Mood	0	4194304	Value	ValueOutput
+DB IV Mood	0	4194304	Value	ValueOutput
+Bass Foundation Mood	0	4194304	Value	ValueOutput
+Bass Reed Mood	0	4194304	Value	ValueOutput
+Upper Foundation Club	0	4194304	Value	ValueOutput
+Upper Reed Club	0	4194304	Value	ValueOutput
+DB 16' Club	0	4194304	Value	ValueOutput
+DB 8' Club	0	4194304	Value	ValueOutput
+DB 4' Club	0	4194304	Value	ValueOutput
+DB 2' Club	0	4194304	Value	ValueOutput
+DB II Club	0	4194304	Value	ValueOutput
+DB III Club	0	4194304	Value	ValueOutput
+DB IV Club	0	4194304	Value	ValueOutput
+Bass Foundation Club	0	4194304	Value	ValueOutput
+Bass Reed Club	0	4194304	Value	ValueOutput
+Upper Foundation Church	0	4194304	Value	ValueOutput
+Upper Reed Church	0	4194304	Value	ValueOutput
+DB 16' Church	0	4194304	Value	ValueOutput
+DB 8' Church	0	4194304	Value	ValueOutput
+DB 4' Church	0	4194304	Value	ValueOutput
+DB 2' Church	0	4194304	Value	ValueOutput
+DB II Church	0	4194304	Value	ValueOutput
+DB III Church	0	4194304	Value	ValueOutput
+DB IV Church	0	4194304	Value	ValueOutput
+Bass Foundation Church	0	4194304	Value	ValueOutput
+Bass Reed Church	0	4194304	Value	ValueOutput
+Upper Foundation Jazz	0	4194304	Value	ValueOutput
+Upper Reed Jazz	0	4194304	Value	ValueOutput
+DB 16' Jazz	0	4194304	Value	ValueOutput
+DB 8' Jazz	0	4194304	Value	ValueOutput
+DB 4' Jazz	0	4194304	Value	ValueOutput
+DB 2' Jazz	0	4194304	Value	ValueOutput
+DB II Jazz	0	4194304	Value	ValueOutput
+DB III Jazz	0	4194304	Value	ValueOutput
+DB IV Jazz	0	4194304	Value	ValueOutput
+Bass Foundation Jazz	0	4194304	Value	ValueOutput
+Bass Reed Jazz	0	4194304	Value	ValueOutput
+Upper Foundation	0	4194304	Value	ValueOutput
+Upper Reed	0	4194304	Value	ValueOutput
+DB 16'	0	4194304	Value	ValueOutput
+DB 8'	0	4194304	Value	ValueOutput
+DB 4'	0	4194304	Value	ValueOutput
+DB 2'	0	4194304	Value	ValueOutput
+DB II	0	4194304	Value	ValueOutput
+DB III	0	4194304	Value	ValueOutput
+DB IV	0	4194304	Value	ValueOutput
+Bass Foundation	0	4194304	Value	ValueOutput
+Bass Reed	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

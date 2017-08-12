@@ -1,0 +1,528 @@
+Scope
+Manufacturer	Model
+iZotope, Inc.	vst.ZnT2.iZotope Trash 2 x64
+Note: Will match scope definitions for vst.ZnT2.iZotope Trash 2 x64 or vst.ZnT2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Global Bypass	0	4194304	Value	ValueOutput
+GAIN: Input L (unlocked	0	4194304	Value	ValueOutput
+GAIN: Input R (unlocked	0	4194304	Value	ValueOutput
+GAIN: Input Lock	0	4194304	Value	ValueOutput
+GAIN: Input (locked)	0	4194304	Value	ValueOutput
+GAIN: Input (locked off	0	4194304	Value	ValueOutput
+GAIN: Output L (unlocke	0	4194304	Value	ValueOutput
+GAIN: Output R (unlocke	0	4194304	Value	ValueOutput
+GAIN: Output Lock	0	4194304	Value	ValueOutput
+GAIN: Output (locked)	0	4194304	Value	ValueOutput
+GAIN: Output (locked of	0	4194304	Value	ValueOutput
+Global Mix	0	4194304	Value	ValueOutput
+Global Dirty Flag	0	4194304	Value	ValueOutput
+Limiter Enable	0	4194304	Value	ValueOutput
+FILT1: Bypass	0	4194304	Value	ValueOutput
+FILT1: Solo Mute	0	4194304	Value	ValueOutput
+FILT1: Node 1 Enable	0	4194304	Value	ValueOutput
+FILT1: Node 1 Freq	0	4194304	Value	ValueOutput
+FILT1: Node 1 Gain	0	4194304	Value	ValueOutput
+FILT1: Node 1 Q	0	4194304	Value	ValueOutput
+FILT1: Node 1 Res	0	4194304	Value	ValueOutput
+FILT1: Node 1 Modulatio	0	4194304	Value	ValueOutput
+FILT1: Node 1 Target Fr	0	4194304	Value	ValueOutput
+FILT1: Node 1 Target Ga	0	4194304	Value	ValueOutput
+FILT1: Node 1 Target Q	0	4194304	Value	ValueOutput
+FILT1: Node 1 Target Re	0	4194304	Value	ValueOutput
+FILT1: Node 1 Env Attac	0	4194304	Value	ValueOutput
+FILT1: Node 1 Env Relea	0	4194304	Value	ValueOutput
+FILT1: Node 1 Env Thres	0	4194304	Value	ValueOutput
+FILT1: Node 1 LFO Freq	0	4194304	Value	ValueOutput
+FILT1: Node 1 LFO Sync 	0	4194304	Value	ValueOutput
+FILT1: Node 1 LFO Sync 	0	4194304	Value	ValueOutput
+FILT1: Node 1 LFO Type	0	4194304	Value	ValueOutput
+FILT1: Node 2 Enable	0	4194304	Value	ValueOutput
+FILT1: Node 2 Freq	0	4194304	Value	ValueOutput
+FILT1: Node 2 Gain	0	4194304	Value	ValueOutput
+FILT1: Node 2 Q	0	4194304	Value	ValueOutput
+FILT1: Node 2 Res	0	4194304	Value	ValueOutput
+FILT1: Node 2 Modulatio	0	4194304	Value	ValueOutput
+FILT1: Node 2 Target Fr	0	4194304	Value	ValueOutput
+FILT1: Node 2 Target Ga	0	4194304	Value	ValueOutput
+FILT1: Node 2 Target Q	0	4194304	Value	ValueOutput
+FILT1: Node 2 Target Re	0	4194304	Value	ValueOutput
+FILT1: Node 2 Env Attac	0	4194304	Value	ValueOutput
+FILT1: Node 2 Env Relea	0	4194304	Value	ValueOutput
+FILT1: Node 2 Env Thres	0	4194304	Value	ValueOutput
+FILT1: Node 2 LFO Freq	0	4194304	Value	ValueOutput
+FILT1: Node 2 LFO Sync 	0	4194304	Value	ValueOutput
+FILT1: Node 2 LFO Sync 	0	4194304	Value	ValueOutput
+FILT1: Node 2 LFO Type	0	4194304	Value	ValueOutput
+FILT1: Node 3 Enable	0	4194304	Value	ValueOutput
+FILT1: Node 3 Gain	0	4194304	Value	ValueOutput
+FILT1: Node 3 Freq	0	4194304	Value	ValueOutput
+FILT1: Node 3 Q	0	4194304	Value	ValueOutput
+FILT1: Node 3 Res	0	4194304	Value	ValueOutput
+FILT1: Node 3 Modulatio	0	4194304	Value	ValueOutput
+FILT1: Node 3 Target Fr	0	4194304	Value	ValueOutput
+FILT1: Node 3 Target Ga	0	4194304	Value	ValueOutput
+FILT1: Node 3 Target Q	0	4194304	Value	ValueOutput
+FILT1: Node 3 Target Re	0	4194304	Value	ValueOutput
+FILT1: Node 3 Env Attac	0	4194304	Value	ValueOutput
+FILT1: Node 3 Env Relea	0	4194304	Value	ValueOutput
+FILT1: Node 3 Env Thres	0	4194304	Value	ValueOutput
+FILT1: Node 3 LFO Freq	0	4194304	Value	ValueOutput
+FILT1: Node 3 LFO Sync 	0	4194304	Value	ValueOutput
+FILT1: Node 3 LFO Sync 	0	4194304	Value	ValueOutput
+FILT1: Node 3 LFO Type	0	4194304	Value	ValueOutput
+FILT1: Node 4 Enable	0	4194304	Value	ValueOutput
+FILT1: Node 4 Freq	0	4194304	Value	ValueOutput
+FILT1: Node 4 Gain	0	4194304	Value	ValueOutput
+FILT1: Node 4 Q	0	4194304	Value	ValueOutput
+FILT1: Node 4 Res	0	4194304	Value	ValueOutput
+FILT1: Node 4 Modulatio	0	4194304	Value	ValueOutput
+FILT1: Node 4 Target Fr	0	4194304	Value	ValueOutput
+FILT1: Node 4 Target Ga	0	4194304	Value	ValueOutput
+FILT1: Node 4 Target Q	0	4194304	Value	ValueOutput
+FILT1: Node 4 Target Re	0	4194304	Value	ValueOutput
+FILT1: Node 4 Env Attac	0	4194304	Value	ValueOutput
+FILT1: Node 4 Env Relea	0	4194304	Value	ValueOutput
+FILT1: Node 4 Env Thres	0	4194304	Value	ValueOutput
+FILT1: Node 4 LFO Freq	0	4194304	Value	ValueOutput
+FILT1: Node 4 LFO Sync 	0	4194304	Value	ValueOutput
+FILT1: Node 4 LFO Sync 	0	4194304	Value	ValueOutput
+FILT1: Node 4 LFO Type	0	4194304	Value	ValueOutput
+FILT1: Node 5 Enable	0	4194304	Value	ValueOutput
+FILT1: Node 5 Freq	0	4194304	Value	ValueOutput
+FILT1: Node 5 Gain	0	4194304	Value	ValueOutput
+FILT1: Node 5 Q	0	4194304	Value	ValueOutput
+FILT1: Node 5 Res	0	4194304	Value	ValueOutput
+FILT1: Node 5 Modulatio	0	4194304	Value	ValueOutput
+FILT1: Node 5 Target Fr	0	4194304	Value	ValueOutput
+FILT1: Node 5 Target Ga	0	4194304	Value	ValueOutput
+FILT1: Node 5 Target Q	0	4194304	Value	ValueOutput
+FILT1: Node 5 Target Re	0	4194304	Value	ValueOutput
+FILT1: Node 5 Env Attac	0	4194304	Value	ValueOutput
+FILT1: Node 5 Env Relea	0	4194304	Value	ValueOutput
+FILT1: Node 5 Env Thres	0	4194304	Value	ValueOutput
+FILT1: Node 5 LFO Freq	0	4194304	Value	ValueOutput
+FILT1: Node 5 LFO Sync 	0	4194304	Value	ValueOutput
+FILT1: Node 5 LFO Sync 	0	4194304	Value	ValueOutput
+FILT1: Node 5 LFO Type	0	4194304	Value	ValueOutput
+FILT1: Node 6 Enable	0	4194304	Value	ValueOutput
+FILT1: Node 6 Freq	0	4194304	Value	ValueOutput
+FILT1: Node 6 Gain	0	4194304	Value	ValueOutput
+FILT1: Node 6 Q	0	4194304	Value	ValueOutput
+FILT1: Node 6 Res	0	4194304	Value	ValueOutput
+FILT1: Node 6 Modulatio	0	4194304	Value	ValueOutput
+FILT1: Node 6 Target Fr	0	4194304	Value	ValueOutput
+FILT1: Node 6 Target Ga	0	4194304	Value	ValueOutput
+FILT1: Node 6 Target Q	0	4194304	Value	ValueOutput
+FILT1: Node 6 Target Re	0	4194304	Value	ValueOutput
+FILT1: Node 6 Env Attac	0	4194304	Value	ValueOutput
+FILT1: Node 6 Env Relea	0	4194304	Value	ValueOutput
+FILT1: Node 6 Env Thres	0	4194304	Value	ValueOutput
+FILT1: Node 6 LFO Freq	0	4194304	Value	ValueOutput
+FILT1: Node 6 LFO Sync 	0	4194304	Value	ValueOutput
+FILT1: Node 6 LFO Sync 	0	4194304	Value	ValueOutput
+FILT1: Node 6 LFO Type	0	4194304	Value	ValueOutput
+TRASH: Module Bypass	0	4194304	Value	ValueOutput
+TRASH: Bypass	0	4194304	Value	ValueOutput
+TRASH: Stg1 Enable	0	4194304	Value	ValueOutput
+TRASH: Stg1 Shape Enabl	0	4194304	Value	ValueOutput
+TRASH: Stg1 Pre	0	4194304	Value	ValueOutput
+TRASH: Stg1 Drive	0	4194304	Value	ValueOutput
+TRASH: Stg1 Style	0	4194304	Value	ValueOutput
+TRASH: Stg1 Gain	0	4194304	Value	ValueOutput
+TRASH: Stg1 Smoothing	0	4194304	Value	ValueOutput
+TRASH: Stg1 Tension Sca	0	4194304	Value	ValueOutput
+TRASH: Stg1 Mix	0	4194304	Value	ValueOutput
+TRASH: Stg1 Log Mode	0	4194304	Value	ValueOutput
+TRASH: Stg1 DC Offset	0	4194304	Value	ValueOutput
+TRASH: Stg1 Filter Enab	0	4194304	Value	ValueOutput
+TRASH: Stg1 Filter High	0	4194304	Value	ValueOutput
+TRASH: Stg1 Filter High	0	4194304	Value	ValueOutput
+TRASH: Stg1 Filter High	0	4194304	Value	ValueOutput
+TRASH: Stg1 Filter Low 	0	4194304	Value	ValueOutput
+TRASH: Stg1 Filter Low 	0	4194304	Value	ValueOutput
+TRASH: Stg1 Filter Low 	0	4194304	Value	ValueOutput
+TRASH: Stg2 Enable	0	4194304	Value	ValueOutput
+TRASH: Stg2 Shape Enabl	0	4194304	Value	ValueOutput
+TRASH: Stg2 Pre	0	4194304	Value	ValueOutput
+TRASH: Stg2 Drive	0	4194304	Value	ValueOutput
+TRASH: Stg2 Style	0	4194304	Value	ValueOutput
+TRASH: Stg2 Gain	0	4194304	Value	ValueOutput
+TRASH: Stg2 Smoothing	0	4194304	Value	ValueOutput
+TRASH: Stg2 Tension Sca	0	4194304	Value	ValueOutput
+TRASH: Stg2 Mix	0	4194304	Value	ValueOutput
+TRASH: Stg2 Log Mode	0	4194304	Value	ValueOutput
+TRASH: Stg2 DC Offset	0	4194304	Value	ValueOutput
+TRASH: Stg2 Filter Enab	0	4194304	Value	ValueOutput
+TRASH: Stg2 Filter High	0	4194304	Value	ValueOutput
+TRASH: Stg2 Filter High	0	4194304	Value	ValueOutput
+TRASH: Stg2 Filter High	0	4194304	Value	ValueOutput
+TRASH: Stg2 Filter Low 	0	4194304	Value	ValueOutput
+TRASH: Stg2 Filter Low 	0	4194304	Value	ValueOutput
+TRASH: Stg2 Filter Low 	0	4194304	Value	ValueOutput
+TRASH: Enable Multiband	0	4194304	Value	ValueOutput
+TRASH: Cutoff 1	0	4194304	Value	ValueOutput
+TRASH: Cutoff 2	0	4194304	Value	ValueOutput
+TRASH: Cutoff 3	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Bypass	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Enable	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Shape 	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Pre	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Drive	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Style	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Gain	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Smooth	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Tensio	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Mix	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Log Mo	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 DC Off	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Enable	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Shape 	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Pre	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Drive	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Style	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Gain	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Smooth	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Tensio	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Mix	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Log Mo	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 DC Off	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd1 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Bypass	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Enable	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Shape 	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Pre	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Drive	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Style	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Gain	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Smooth	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Tensio	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Mix	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Log Mo	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 DC Off	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Enable	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Shape 	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Pre	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Drive	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Style	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Gain	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Smooth	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Tensio	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Mix	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Log Mo	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 DC Off	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd2 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Bypass	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Enable	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Shape 	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Pre	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Drive	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Style	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Gain	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Smooth	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Tensio	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Mix	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Log Mo	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 DC Off	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Enable	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Shape 	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Pre	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Drive	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Style	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Gain	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Smooth	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Tensio	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Mix	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Log Mo	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 DC Off	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd3 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Bypass	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Enable	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Shape 	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Pre	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Drive	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Style	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Gain	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Smooth	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Tensio	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Mix	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Log Mo	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 DC Off	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg1 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Enable	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Shape 	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Pre	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Drive	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Style	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Gain	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Smooth	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Tensio	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Mix	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Log Mo	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 DC Off	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Filter	0	4194304	Value	ValueOutput
+TRASH: Bnd4 Stg2 Filter	0	4194304	Value	ValueOutput
+FILT2: Bypass	0	4194304	Value	ValueOutput
+FILT2: Solo Mute	0	4194304	Value	ValueOutput
+FILT2: Node 1 Enable	0	4194304	Value	ValueOutput
+FILT2: Node 1 Freq	0	4194304	Value	ValueOutput
+FILT2: Node 1 Gain	0	4194304	Value	ValueOutput
+FILT2: Node 1 Q	0	4194304	Value	ValueOutput
+FILT2: Node 1 Res	0	4194304	Value	ValueOutput
+FILT2: Node 1 Modulatio	0	4194304	Value	ValueOutput
+FILT2: Node 1 Target Fr	0	4194304	Value	ValueOutput
+FILT2: Node 1 Target Ga	0	4194304	Value	ValueOutput
+FILT2: Node 1 Target Q	0	4194304	Value	ValueOutput
+FILT2: Node 1 Target Re	0	4194304	Value	ValueOutput
+FILT2: Node 1 Env Attac	0	4194304	Value	ValueOutput
+FILT2: Node 1 Env Relea	0	4194304	Value	ValueOutput
+FILT2: Node 1 Env Thres	0	4194304	Value	ValueOutput
+FILT2: Node 1 LFO Freq	0	4194304	Value	ValueOutput
+FILT2: Node 1 LFO Sync 	0	4194304	Value	ValueOutput
+FILT2: Node 1 LFO Sync 	0	4194304	Value	ValueOutput
+FILT2: Node 1 LFO Type	0	4194304	Value	ValueOutput
+FILT2: Node 2 Enable	0	4194304	Value	ValueOutput
+FILT2: Node 2 Freq	0	4194304	Value	ValueOutput
+FILT2: Node 2 Gain	0	4194304	Value	ValueOutput
+FILT2: Node 2 Q	0	4194304	Value	ValueOutput
+FILT2: Node 2 Res	0	4194304	Value	ValueOutput
+FILT2: Node 2 Modulatio	0	4194304	Value	ValueOutput
+FILT2: Node 2 Target Fr	0	4194304	Value	ValueOutput
+FILT2: Node 2 Target Ga	0	4194304	Value	ValueOutput
+FILT2: Node 2 Target Q	0	4194304	Value	ValueOutput
+FILT2: Node 2 Target Re	0	4194304	Value	ValueOutput
+FILT2: Node 2 Env Attac	0	4194304	Value	ValueOutput
+FILT2: Node 2 Env Relea	0	4194304	Value	ValueOutput
+FILT2: Node 2 Env Thres	0	4194304	Value	ValueOutput
+FILT2: Node 2 LFO Freq	0	4194304	Value	ValueOutput
+FILT2: Node 2 LFO Sync 	0	4194304	Value	ValueOutput
+FILT2: Node 2 LFO Sync 	0	4194304	Value	ValueOutput
+FILT2: Node 2 LFO Type	0	4194304	Value	ValueOutput
+FILT2: Node 3 Enable	0	4194304	Value	ValueOutput
+FILT2: Node 3 Gain	0	4194304	Value	ValueOutput
+FILT2: Node 3 Freq	0	4194304	Value	ValueOutput
+FILT2: Node 3 Q	0	4194304	Value	ValueOutput
+FILT2: Node 3 Res	0	4194304	Value	ValueOutput
+FILT2: Node 3 Modulatio	0	4194304	Value	ValueOutput
+FILT2: Node 3 Target Fr	0	4194304	Value	ValueOutput
+FILT2: Node 3 Target Ga	0	4194304	Value	ValueOutput
+FILT2: Node 3 Target Q	0	4194304	Value	ValueOutput
+FILT2: Node 3 Target Re	0	4194304	Value	ValueOutput
+FILT2: Node 3 Env Attac	0	4194304	Value	ValueOutput
+FILT2: Node 3 Env Relea	0	4194304	Value	ValueOutput
+FILT2: Node 3 Env Thres	0	4194304	Value	ValueOutput
+FILT2: Node 3 LFO Freq	0	4194304	Value	ValueOutput
+FILT2: Node 3 LFO Sync 	0	4194304	Value	ValueOutput
+FILT2: Node 3 LFO Sync 	0	4194304	Value	ValueOutput
+FILT2: Node 3 LFO Type	0	4194304	Value	ValueOutput
+FILT2: Node 4 Enable	0	4194304	Value	ValueOutput
+FILT2: Node 4 Freq	0	4194304	Value	ValueOutput
+FILT2: Node 4 Gain	0	4194304	Value	ValueOutput
+FILT2: Node 4 Q	0	4194304	Value	ValueOutput
+FILT2: Node 4 Res	0	4194304	Value	ValueOutput
+FILT2: Node 4 Modulatio	0	4194304	Value	ValueOutput
+FILT2: Node 4 Target Fr	0	4194304	Value	ValueOutput
+FILT2: Node 4 Target Ga	0	4194304	Value	ValueOutput
+FILT2: Node 4 Target Q	0	4194304	Value	ValueOutput
+FILT2: Node 4 Target Re	0	4194304	Value	ValueOutput
+FILT2: Node 4 Env Attac	0	4194304	Value	ValueOutput
+FILT2: Node 4 Env Relea	0	4194304	Value	ValueOutput
+FILT2: Node 4 Env Thres	0	4194304	Value	ValueOutput
+FILT2: Node 4 LFO Freq	0	4194304	Value	ValueOutput
+FILT2: Node 4 LFO Sync 	0	4194304	Value	ValueOutput
+FILT2: Node 4 LFO Sync 	0	4194304	Value	ValueOutput
+FILT2: Node 4 LFO Type	0	4194304	Value	ValueOutput
+FILT2: Node 5 Enable	0	4194304	Value	ValueOutput
+FILT2: Node 5 Freq	0	4194304	Value	ValueOutput
+FILT2: Node 5 Gain	0	4194304	Value	ValueOutput
+FILT2: Node 5 Q	0	4194304	Value	ValueOutput
+FILT2: Node 5 Res	0	4194304	Value	ValueOutput
+FILT2: Node 5 Modulatio	0	4194304	Value	ValueOutput
+FILT2: Node 5 Target Fr	0	4194304	Value	ValueOutput
+FILT2: Node 5 Target Ga	0	4194304	Value	ValueOutput
+FILT2: Node 5 Target Q	0	4194304	Value	ValueOutput
+FILT2: Node 5 Target Re	0	4194304	Value	ValueOutput
+FILT2: Node 5 Env Attac	0	4194304	Value	ValueOutput
+FILT2: Node 5 Env Relea	0	4194304	Value	ValueOutput
+FILT2: Node 5 Env Thres	0	4194304	Value	ValueOutput
+FILT2: Node 5 LFO Freq	0	4194304	Value	ValueOutput
+FILT2: Node 5 LFO Sync 	0	4194304	Value	ValueOutput
+FILT2: Node 5 LFO Sync 	0	4194304	Value	ValueOutput
+FILT2: Node 5 LFO Type	0	4194304	Value	ValueOutput
+FILT2: Node 6 Enable	0	4194304	Value	ValueOutput
+FILT2: Node 6 Freq	0	4194304	Value	ValueOutput
+FILT2: Node 6 Gain	0	4194304	Value	ValueOutput
+FILT2: Node 6 Q	0	4194304	Value	ValueOutput
+FILT2: Node 6 Res	0	4194304	Value	ValueOutput
+FILT2: Node 6 Modulatio	0	4194304	Value	ValueOutput
+FILT2: Node 6 Target Fr	0	4194304	Value	ValueOutput
+FILT2: Node 6 Target Ga	0	4194304	Value	ValueOutput
+FILT2: Node 6 Target Q	0	4194304	Value	ValueOutput
+FILT2: Node 6 Target Re	0	4194304	Value	ValueOutput
+FILT2: Node 6 Env Attac	0	4194304	Value	ValueOutput
+FILT2: Node 6 Env Relea	0	4194304	Value	ValueOutput
+FILT2: Node 6 Env Thres	0	4194304	Value	ValueOutput
+FILT2: Node 6 LFO Freq	0	4194304	Value	ValueOutput
+FILT2: Node 6 LFO Sync 	0	4194304	Value	ValueOutput
+FILT2: Node 6 LFO Sync 	0	4194304	Value	ValueOutput
+FILT2: Node 6 LFO Type	0	4194304	Value	ValueOutput
+DYN: Module Bypass	0	4194304	Value	ValueOutput
+DYN: Detection Method	0	4194304	Value	ValueOutput
+DYN: Soft/Hard Knee	0	4194304	Value	ValueOutput
+DYN: Global Gain	0	4194304	Value	ValueOutput
+DYN: Global Mix	0	4194304	Value	ValueOutput
+DYN: Solo Input	0	4194304	Value	ValueOutput
+DYN: Solo Mute	0	4194304	Value	ValueOutput
+DYN: Solo Sidechain	0	4194304	Value	ValueOutput
+DYN: Comp Threshold	0	4194304	Value	ValueOutput
+DYN: Comp Ratio	0	4194304	Value	ValueOutput
+DYN: Comp Attack	0	4194304	Value	ValueOutput
+DYN: Comp Release	0	4194304	Value	ValueOutput
+DYN: Comp Sidechain Ena	0	4194304	Value	ValueOutput
+DYN: Gate Threshold	0	4194304	Value	ValueOutput
+DYN: Gate Ratio	0	4194304	Value	ValueOutput
+DYN: Gate Attack	0	4194304	Value	ValueOutput
+DYN: Gate Release	0	4194304	Value	ValueOutput
+DYN: Gate Sidechain Ena	0	4194304	Value	ValueOutput
+DYN: Gain	0	4194304	Value	ValueOutput
+DYN: Mix	0	4194304	Value	ValueOutput
+DYN: Auto Gain	0	4194304	Value	ValueOutput
+DYN: Enable Multiband	0	4194304	Value	ValueOutput
+DYN: Cutoff 1	0	4194304	Value	ValueOutput
+DYN: Cutoff 2	0	4194304	Value	ValueOutput
+DYN: Cutoff 3	0	4194304	Value	ValueOutput
+DYN: Bnd1 Comp Threshol	0	4194304	Value	ValueOutput
+DYN: Bnd1 Comp Ratio	0	4194304	Value	ValueOutput
+DYN: Bnd1 Comp Attack	0	4194304	Value	ValueOutput
+DYN: Bnd1 Comp Release	0	4194304	Value	ValueOutput
+DYN: Bnd1 Comp Sidechai	0	4194304	Value	ValueOutput
+DYN: Bnd1 Gate Threshol	0	4194304	Value	ValueOutput
+DYN: Bnd1 Gate Ratio	0	4194304	Value	ValueOutput
+DYN: Bnd1 Gate Attack	0	4194304	Value	ValueOutput
+DYN: Bnd1 Gate Release	0	4194304	Value	ValueOutput
+DYN: Bnd1 Gate Sidechai	0	4194304	Value	ValueOutput
+DYN: Bnd1 Gain	0	4194304	Value	ValueOutput
+DYN: Bnd1 Mix	0	4194304	Value	ValueOutput
+DYN: Bnd2 Comp Threshol	0	4194304	Value	ValueOutput
+DYN: Bnd2 Comp Ratio	0	4194304	Value	ValueOutput
+DYN: Bnd2 Comp Attack	0	4194304	Value	ValueOutput
+DYN: Bnd2 Comp Release	0	4194304	Value	ValueOutput
+DYN: Bnd2 Comp Sidechai	0	4194304	Value	ValueOutput
+DYN: Bnd2 Gate Threshol	0	4194304	Value	ValueOutput
+DYN: Bnd2 Gate Ratio	0	4194304	Value	ValueOutput
+DYN: Bnd2 Gate Attack	0	4194304	Value	ValueOutput
+DYN: Bnd2 Gate Release	0	4194304	Value	ValueOutput
+DYN: Bnd2 Gate Sidechai	0	4194304	Value	ValueOutput
+DYN: Bnd2 Gain	0	4194304	Value	ValueOutput
+DYN: Bnd2 Mix	0	4194304	Value	ValueOutput
+DYN: Bnd3 Comp Threshol	0	4194304	Value	ValueOutput
+DYN: Bnd3 Comp Ratio	0	4194304	Value	ValueOutput
+DYN: Bnd3 Comp Attack	0	4194304	Value	ValueOutput
+DYN: Bnd3 Comp Release	0	4194304	Value	ValueOutput
+DYN: Bnd3 Comp Sidechai	0	4194304	Value	ValueOutput
+DYN: Bnd3 Gate Threshol	0	4194304	Value	ValueOutput
+DYN: Bnd3 Gate Ratio	0	4194304	Value	ValueOutput
+DYN: Bnd3 Gate Attack	0	4194304	Value	ValueOutput
+DYN: Bnd3 Gate Release	0	4194304	Value	ValueOutput
+DYN: Bnd3 Gate Sidechai	0	4194304	Value	ValueOutput
+DYN: Bnd3 Gain	0	4194304	Value	ValueOutput
+DYN: Bnd3 Mix	0	4194304	Value	ValueOutput
+DYN: Bnd4 Comp Threshol	0	4194304	Value	ValueOutput
+DYN: Bnd4 Comp Ratio	0	4194304	Value	ValueOutput
+DYN: Bnd4 Comp Attack	0	4194304	Value	ValueOutput
+DYN: Bnd4 Comp Release	0	4194304	Value	ValueOutput
+DYN: Bnd4 Comp Sidechai	0	4194304	Value	ValueOutput
+DYN: Bnd4 Gate Threshol	0	4194304	Value	ValueOutput
+DYN: Bnd4 Gate Ratio	0	4194304	Value	ValueOutput
+DYN: Bnd4 Gate Attack	0	4194304	Value	ValueOutput
+DYN: Bnd4 Gate Release	0	4194304	Value	ValueOutput
+DYN: Bnd4 Gate Sidechai	0	4194304	Value	ValueOutput
+DYN: Bnd4 Gain	0	4194304	Value	ValueOutput
+DYN: Bnd4 Mix	0	4194304	Value	ValueOutput
+CONV: Bypass	0	4194304	Value	ValueOutput
+CONV: Mic Type	0	4194304	Value	ValueOutput
+CONV: Separate	0	4194304	Value	ValueOutput
+CONV: Width	0	4194304	Value	ValueOutput
+CONV: Gain	0	4194304	Value	ValueOutput
+CONV: Mix	0	4194304	Value	ValueOutput
+DLY: Bypass	0	4194304	Value	ValueOutput
+DLY: Mode	0	4194304	Value	ValueOutput
+DLY: Delay Time	0	4194304	Value	ValueOutput
+DLY: Feedback	0	4194304	Value	ValueOutput
+DLY: Trash	0	4194304	Value	ValueOutput
+DLY: Width	0	4194304	Value	ValueOutput
+DLY: Dry	0	4194304	Value	ValueOutput
+DLY: Wet	0	4194304	Value	ValueOutput
+DLY: Sync Enable	0	4194304	Value	ValueOutput
+DLY: Sync Delay Time	0	4194304	Value	ValueOutput
+DLY: High Cutoff	0	4194304	Value	ValueOutput
+DLY: High Q	0	4194304	Value	ValueOutput
+DLY: Low Cutoff	0	4194304	Value	ValueOutput
+DLY: Low Q	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,102 @@
+Scope
+Manufacturer	Model
+u-he	vst.Podo.Podolski(x64)
+Note: Will match scope definitions for vst.Podo.Podolski(x64) or vst.Podo
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+main: Output	0	4194304	Value	ValueOutput
+main: Active #LFOG	0	4194304	Value	ValueOutput
+main: Active #Chrs	0	4194304	Value	ValueOutput
+main: Active #Dly1	0	4194304	Value	ValueOutput
+LFOG: Sync	0	4194304	Value	ValueOutput
+LFOG: Phase	0	4194304	Value	ValueOutput
+VCC: Active #LFO1	0	4194304	Value	ValueOutput
+VCC: Voices	0	4194304	Value	ValueOutput
+VCC: Voice Stack	0	4194304	Value	ValueOutput
+VCC: Mode	0	4194304	Value	ValueOutput
+VCC: Glide	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod1	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod2	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod3	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod4	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod5	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod6	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod7	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod8	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod9	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod10	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod11	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod12	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod13	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod14	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod15	0	4194304	Value	ValueOutput
+VCC: Arp Step Mod16	0	4194304	Value	ValueOutput
+ENV1: Attack	0	4194304	Value	ValueOutput
+ENV1: Decay	0	4194304	Value	ValueOutput
+ENV1: Sustain	0	4194304	Value	ValueOutput
+ENV1: Fall - Rise	0	4194304	Value	ValueOutput
+ENV1: Release	0	4194304	Value	ValueOutput
+ENV1: Velocity	0	4194304	Value	ValueOutput
+LFO1: Sync	0	4194304	Value	ValueOutput
+LFO1: Delay	0	4194304	Value	ValueOutput
+OSC1: Tune	0	4194304	Value	ValueOutput
+OSC1: TuneModSrc	0	4194304	Value	ValueOutput
+OSC1: TuneModDepth	0	4194304	Value	ValueOutput
+OSC1: Phase	0	4194304	Value	ValueOutput
+OSC1: PhaseModSrc	0	4194304	Value	ValueOutput
+OSC1: PhaseModDepth	0	4194304	Value	ValueOutput
+OSC1: Inverse Volume	0	4194304	Value	ValueOutput
+OSC1: WaveWarp	0	4194304	Value	ValueOutput
+OSC1: WarpModSrc	0	4194304	Value	ValueOutput
+OSC1: WarpModDepth	0	4194304	Value	ValueOutput
+OSC1: Vibrato	0	4194304	Value	ValueOutput
+VCF0: Type	0	4194304	Value	ValueOutput
+VCF0: Cutoff	0	4194304	Value	ValueOutput
+VCF0: Resonance	0	4194304	Value	ValueOutput
+VCF0: Drive	0	4194304	Value	ValueOutput
+VCF0: CutoffMod 1	0	4194304	Value	ValueOutput
+VCF0: Modsource1	0	4194304	Value	ValueOutput
+VCF0: CutoffMod 2	0	4194304	Value	ValueOutput
+VCF0: Modsource2	0	4194304	Value	ValueOutput
+VCF0: KeyFollow	0	4194304	Value	ValueOutput
+VCF0: AutoFM	0	4194304	Value	ValueOutput
+VCF0: Click	0	4194304	Value	ValueOutput
+VCA1: Pan	0	4194304	Value	ValueOutput
+VCA1: Volume	0	4194304	Value	ValueOutput
+VCA1: ModDepth	0	4194304	Value	ValueOutput
+Chrs: Center	0	4194304	Value	ValueOutput
+Chrs: Speed	0	4194304	Value	ValueOutput
+Chrs: Depth	0	4194304	Value	ValueOutput
+Chrs: Feedback	0	4194304	Value	ValueOutput
+Chrs: Mix	0	4194304	Value	ValueOutput
+Dly1: Sync Left	0	4194304	Value	ValueOutput
+Dly1: Sync Right	0	4194304	Value	ValueOutput
+Dly1: Feedback	0	4194304	Value	ValueOutput
+Dly1: Crossfeed	0	4194304	Value	ValueOutput
+Dly1: Mix	0	4194304	Value	ValueOutput
+LFOG: Waveform	0	4194304	Value	ValueOutput
+LFOG: Polarity	0	4194304	Value	ValueOutput
+LFO1: Restart	0	4194304	Value	ValueOutput
+LFO1: Waveform	0	4194304	Value	ValueOutput
+LFO1: Phase	0	4194304	Value	ValueOutput
+LFO1: Polarity	0	4194304	Value	ValueOutput
+LFO1: DepthMod Dpt1	0	4194304	Value	ValueOutput
+LFO1: Rate	0	4194304	Value	ValueOutput
+LFO1: FreqMod Dpt	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

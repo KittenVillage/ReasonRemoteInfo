@@ -1,0 +1,213 @@
+Scope
+Manufacturer	Model
+Propellerheads	Mixer 14:2
+
+Remotable	Min	Max	Input type	Output type
+Master Level	0	127	Value	ValueOutput
+Channel 1 Level	0	127	Value	ValueOutput
+Channel 2 Level	0	127	Value	ValueOutput
+Channel 3 Level	0	127	Value	ValueOutput
+Channel 4 Level	0	127	Value	ValueOutput
+Channel 5 Level	0	127	Value	ValueOutput
+Channel 6 Level	0	127	Value	ValueOutput
+Channel 7 Level	0	127	Value	ValueOutput
+Channel 8 Level	0	127	Value	ValueOutput
+Channel 9 Level	0	127	Value	ValueOutput
+Channel 10 Level	0	127	Value	ValueOutput
+Channel 11 Level	0	127	Value	ValueOutput
+Channel 12 Level	0	127	Value	ValueOutput
+Channel 13 Level	0	127	Value	ValueOutput
+Channel 14 Level	0	127	Value	ValueOutput
+Channel 1 Pan	-64	63	Value	ValueOutput
+Channel 2 Pan	-64	63	Value	ValueOutput
+Channel 3 Pan	-64	63	Value	ValueOutput
+Channel 4 Pan	-64	63	Value	ValueOutput
+Channel 5 Pan	-64	63	Value	ValueOutput
+Channel 6 Pan	-64	63	Value	ValueOutput
+Channel 7 Pan	-64	63	Value	ValueOutput
+Channel 8 Pan	-64	63	Value	ValueOutput
+Channel 9 Pan	-64	63	Value	ValueOutput
+Channel 10 Pan	-64	63	Value	ValueOutput
+Channel 11 Pan	-64	63	Value	ValueOutput
+Channel 12 Pan	-64	63	Value	ValueOutput
+Channel 13 Pan	-64	63	Value	ValueOutput
+Channel 14 Pan	-64	63	Value	ValueOutput
+Channel 1 EQ On/Off	0	1	Toggle	ValueOutput
+Channel 2 EQ On/Off	0	1	Toggle	ValueOutput
+Channel 3 EQ On/Off	0	1	Toggle	ValueOutput
+Channel 4 EQ On/Off	0	1	Toggle	ValueOutput
+Channel 5 EQ On/Off	0	1	Toggle	ValueOutput
+Channel 6 EQ On/Off	0	1	Toggle	ValueOutput
+Channel 7 EQ On/Off	0	1	Toggle	ValueOutput
+Channel 8 EQ On/Off	0	1	Toggle	ValueOutput
+Channel 9 EQ On/Off	0	1	Toggle	ValueOutput
+Channel 10 EQ On/Off	0	1	Toggle	ValueOutput
+Channel 11 EQ On/Off	0	1	Toggle	ValueOutput
+Channel 12 EQ On/Off	0	1	Toggle	ValueOutput
+Channel 13 EQ On/Off	0	1	Toggle	ValueOutput
+Channel 14 EQ On/Off	0	1	Toggle	ValueOutput
+Channel 1 Bass Amount	-64	63	Value	ValueOutput
+Channel 2 Bass Amount	-64	63	Value	ValueOutput
+Channel 3 Bass Amount	-64	63	Value	ValueOutput
+Channel 4 Bass Amount	-64	63	Value	ValueOutput
+Channel 5 Bass Amount	-64	63	Value	ValueOutput
+Channel 6 Bass Amount	-64	63	Value	ValueOutput
+Channel 7 Bass Amount	-64	63	Value	ValueOutput
+Channel 8 Bass Amount	-64	63	Value	ValueOutput
+Channel 9 Bass Amount	-64	63	Value	ValueOutput
+Channel 10 Bass Amount	-64	63	Value	ValueOutput
+Channel 11 Bass Amount	-64	63	Value	ValueOutput
+Channel 12 Bass Amount	-64	63	Value	ValueOutput
+Channel 13 Bass Amount	-64	63	Value	ValueOutput
+Channel 14 Bass Amount	-64	63	Value	ValueOutput
+Channel 1 Treble Amount	-64	63	Value	ValueOutput
+Channel 2 Treble Amount	-64	63	Value	ValueOutput
+Channel 3 Treble Amount	-64	63	Value	ValueOutput
+Channel 4 Treble Amount	-64	63	Value	ValueOutput
+Channel 5 Treble Amount	-64	63	Value	ValueOutput
+Channel 6 Treble Amount	-64	63	Value	ValueOutput
+Channel 7 Treble Amount	-64	63	Value	ValueOutput
+Channel 8 Treble Amount	-64	63	Value	ValueOutput
+Channel 9 Treble Amount	-64	63	Value	ValueOutput
+Channel 10 Treble Amount	-64	63	Value	ValueOutput
+Channel 11 Treble Amount	-64	63	Value	ValueOutput
+Channel 12 Treble Amount	-64	63	Value	ValueOutput
+Channel 13 Treble Amount	-64	63	Value	ValueOutput
+Channel 14 Treble Amount	-64	63	Value	ValueOutput
+Channel 1 Solo	0	1	Toggle	ValueOutput
+Channel 2 Solo	0	1	Toggle	ValueOutput
+Channel 3 Solo	0	1	Toggle	ValueOutput
+Channel 4 Solo	0	1	Toggle	ValueOutput
+Channel 5 Solo	0	1	Toggle	ValueOutput
+Channel 6 Solo	0	1	Toggle	ValueOutput
+Channel 7 Solo	0	1	Toggle	ValueOutput
+Channel 8 Solo	0	1	Toggle	ValueOutput
+Channel 9 Solo	0	1	Toggle	ValueOutput
+Channel 10 Solo	0	1	Toggle	ValueOutput
+Channel 11 Solo	0	1	Toggle	ValueOutput
+Channel 12 Solo	0	1	Toggle	ValueOutput
+Channel 13 Solo	0	1	Toggle	ValueOutput
+Channel 14 Solo	0	1	Toggle	ValueOutput
+Channel 1 Mute	0	1	Toggle	ValueOutput
+Channel 2 Mute	0	1	Toggle	ValueOutput
+Channel 3 Mute	0	1	Toggle	ValueOutput
+Channel 4 Mute	0	1	Toggle	ValueOutput
+Channel 5 Mute	0	1	Toggle	ValueOutput
+Channel 6 Mute	0	1	Toggle	ValueOutput
+Channel 7 Mute	0	1	Toggle	ValueOutput
+Channel 8 Mute	0	1	Toggle	ValueOutput
+Channel 9 Mute	0	1	Toggle	ValueOutput
+Channel 10 Mute	0	1	Toggle	ValueOutput
+Channel 11 Mute	0	1	Toggle	ValueOutput
+Channel 12 Mute	0	1	Toggle	ValueOutput
+Channel 13 Mute	0	1	Toggle	ValueOutput
+Channel 14 Mute	0	1	Toggle	ValueOutput
+Channel 1 Aux 1 Send	0	127	Value	ValueOutput
+Channel 2 Aux 1 Send	0	127	Value	ValueOutput
+Channel 3 Aux 1 Send	0	127	Value	ValueOutput
+Channel 4 Aux 1 Send	0	127	Value	ValueOutput
+Channel 5 Aux 1 Send	0	127	Value	ValueOutput
+Channel 6 Aux 1 Send	0	127	Value	ValueOutput
+Channel 7 Aux 1 Send	0	127	Value	ValueOutput
+Channel 8 Aux 1 Send	0	127	Value	ValueOutput
+Channel 9 Aux 1 Send	0	127	Value	ValueOutput
+Channel 10 Aux 1 Send	0	127	Value	ValueOutput
+Channel 11 Aux 1 Send	0	127	Value	ValueOutput
+Channel 12 Aux 1 Send	0	127	Value	ValueOutput
+Channel 13 Aux 1 Send	0	127	Value	ValueOutput
+Channel 14 Aux 1 Send	0	127	Value	ValueOutput
+Channel 1 Aux 2 Send	0	127	Value	ValueOutput
+Channel 2 Aux 2 Send	0	127	Value	ValueOutput
+Channel 3 Aux 2 Send	0	127	Value	ValueOutput
+Channel 4 Aux 2 Send	0	127	Value	ValueOutput
+Channel 5 Aux 2 Send	0	127	Value	ValueOutput
+Channel 6 Aux 2 Send	0	127	Value	ValueOutput
+Channel 7 Aux 2 Send	0	127	Value	ValueOutput
+Channel 8 Aux 2 Send	0	127	Value	ValueOutput
+Channel 9 Aux 2 Send	0	127	Value	ValueOutput
+Channel 10 Aux 2 Send	0	127	Value	ValueOutput
+Channel 11 Aux 2 Send	0	127	Value	ValueOutput
+Channel 12 Aux 2 Send	0	127	Value	ValueOutput
+Channel 13 Aux 2 Send	0	127	Value	ValueOutput
+Channel 14 Aux 2 Send	0	127	Value	ValueOutput
+Channel 1 Aux 3 Send	0	127	Value	ValueOutput
+Channel 2 Aux 3 Send	0	127	Value	ValueOutput
+Channel 3 Aux 3 Send	0	127	Value	ValueOutput
+Channel 4 Aux 3 Send	0	127	Value	ValueOutput
+Channel 5 Aux 3 Send	0	127	Value	ValueOutput
+Channel 6 Aux 3 Send	0	127	Value	ValueOutput
+Channel 7 Aux 3 Send	0	127	Value	ValueOutput
+Channel 8 Aux 3 Send	0	127	Value	ValueOutput
+Channel 9 Aux 3 Send	0	127	Value	ValueOutput
+Channel 10 Aux 3 Send	0	127	Value	ValueOutput
+Channel 11 Aux 3 Send	0	127	Value	ValueOutput
+Channel 12 Aux 3 Send	0	127	Value	ValueOutput
+Channel 13 Aux 3 Send	0	127	Value	ValueOutput
+Channel 14 Aux 3 Send	0	127	Value	ValueOutput
+Channel 1 Aux 4 Send	0	127	Value	ValueOutput
+Channel 2 Aux 4 Send	0	127	Value	ValueOutput
+Channel 3 Aux 4 Send	0	127	Value	ValueOutput
+Channel 4 Aux 4 Send	0	127	Value	ValueOutput
+Channel 5 Aux 4 Send	0	127	Value	ValueOutput
+Channel 6 Aux 4 Send	0	127	Value	ValueOutput
+Channel 7 Aux 4 Send	0	127	Value	ValueOutput
+Channel 8 Aux 4 Send	0	127	Value	ValueOutput
+Channel 9 Aux 4 Send	0	127	Value	ValueOutput
+Channel 10 Aux 4 Send	0	127	Value	ValueOutput
+Channel 11 Aux 4 Send	0	127	Value	ValueOutput
+Channel 12 Aux 4 Send	0	127	Value	ValueOutput
+Channel 13 Aux 4 Send	0	127	Value	ValueOutput
+Channel 14 Aux 4 Send	0	127	Value	ValueOutput
+Aux 1 Return Level	0	127	Value	ValueOutput
+Aux 2 Return Level	0	127	Value	ValueOutput
+Aux 3 Return Level	0	127	Value	ValueOutput
+Aux 4 Return Level	0	127	Value	ValueOutput
+Channel 1 Peak Meter	0	20	-	ValueOutput
+Channel 2 Peak Meter	0	20	-	ValueOutput
+Channel 3 Peak Meter	0	20	-	ValueOutput
+Channel 4 Peak Meter	0	20	-	ValueOutput
+Channel 5 Peak Meter	0	20	-	ValueOutput
+Channel 6 Peak Meter	0	20	-	ValueOutput
+Channel 7 Peak Meter	0	20	-	ValueOutput
+Channel 8 Peak Meter	0	20	-	ValueOutput
+Channel 9 Peak Meter	0	20	-	ValueOutput
+Channel 10 Peak Meter	0	20	-	ValueOutput
+Channel 11 Peak Meter	0	20	-	ValueOutput
+Channel 12 Peak Meter	0	20	-	ValueOutput
+Channel 13 Peak Meter	0	20	-	ValueOutput
+Channel 14 Peak Meter	0	20	-	ValueOutput
+Master Left Peak Meter	0	20	-	ValueOutput
+Master Right Peak Meter	0	20	-	ValueOutput
+Channel 1 Aux 4 Pre Fader On/Off	0	1	Toggle	ValueOutput
+Channel 2 Aux 4 Pre Fader On/Off	0	1	Toggle	ValueOutput
+Channel 3 Aux 4 Pre Fader On/Off	0	1	Toggle	ValueOutput
+Channel 4 Aux 4 Pre Fader On/Off	0	1	Toggle	ValueOutput
+Channel 5 Aux 4 Pre Fader On/Off	0	1	Toggle	ValueOutput
+Channel 6 Aux 4 Pre Fader On/Off	0	1	Toggle	ValueOutput
+Channel 7 Aux 4 Pre Fader On/Off	0	1	Toggle	ValueOutput
+Channel 8 Aux 4 Pre Fader On/Off	0	1	Toggle	ValueOutput
+Channel 9 Aux 4 Pre Fader On/Off	0	1	Toggle	ValueOutput
+Channel 10 Aux 4 Pre Fader On/Off	0	1	Toggle	ValueOutput
+Channel 11 Aux 4 Pre Fader On/Off	0	1	Toggle	ValueOutput
+Channel 12 Aux 4 Pre Fader On/Off	0	1	Toggle	ValueOutput
+Channel 13 Aux 4 Pre Fader On/Off	0	1	Toggle	ValueOutput
+Channel 14 Aux 4 Pre Fader On/Off	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Channel 1 Name	0	0	-	TextOutput
+Channel 2 Name	0	0	-	TextOutput
+Channel 3 Name	0	0	-	TextOutput
+Channel 4 Name	0	0	-	TextOutput
+Channel 5 Name	0	0	-	TextOutput
+Channel 6 Name	0	0	-	TextOutput
+Channel 7 Name	0	0	-	TextOutput
+Channel 8 Name	0	0	-	TextOutput
+Channel 9 Name	0	0	-	TextOutput
+Channel 10 Name	0	0	-	TextOutput
+Channel 11 Name	0	0	-	TextOutput
+Channel 12 Name	0	0	-	TextOutput
+Channel 13 Name	0	0	-	TextOutput
+Channel 14 Name	0	0	-	TextOutput
+Aux 1 Return Name	0	0	-	TextOutput
+Aux 2 Return Name	0	0	-	TextOutput
+Aux 3 Return Name	0	0	-	TextOutput
+Aux 4 Return Name	0	0	-	TextOutput

@@ -1,0 +1,50 @@
+Scope
+Manufacturer	Model
+Zynaptiq	vst.ZYWH.WORMHOLE VST
+Note: Will match scope definitions for vst.ZYWH.WORMHOLE VST or vst.ZYWH
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+FX BLEND	0	4194304	Value	ValueOutput
+WARP MIX	0	4194304	Value	ValueOutput
+WARP DEPTH	0	4194304	Value	ValueOutput
+POLES	0	4194304	Value	ValueOutput
+WARP TILT	0	4194304	Value	ValueOutput
+FILTER	0	4194304	Value	ValueOutput
+TILT PRE/POST	0	4194304	Value	ValueOutput
+REV MIX	0	4194304	Value	ValueOutput
+REV SIZE	0	4194304	Value	ValueOutput
+REV DAMP	0	4194304	Value	ValueOutput
+SHIFT MIX	0	4194304	Value	ValueOutput
+PITCH SHIFT	0	4194304	Value	ValueOutput
+FREQ SHIFT MAP	0	4194304	Value	ValueOutput
+FREQ SHIFT LIN	0	4194304	Value	ValueOutput
+FREQ SHIFT MODE	0	4194304	Value	ValueOutput
+SWAP WARP/SHIFT	0	4194304	Value	ValueOutput
+WARP ON/OFF	0	4194304	Value	ValueOutput
+SHIFT ON/OFF	0	4194304	Value	ValueOutput
+REV ON/OFF	0	4194304	Value	ValueOutput
+WET GAIN	0	4194304	Value	ValueOutput
+PITCH SHIFT MODE	0	4194304	Value	ValueOutput
+BLEND MODE	0	4194304	Value	ValueOutput
+DELAY TIME	0	4194304	Value	ValueOutput
+L/R INV	0	4194304	Value	ValueOutput
+DECAY TIME	0	4194304	Value	ValueOutput
+REV ROUTING	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

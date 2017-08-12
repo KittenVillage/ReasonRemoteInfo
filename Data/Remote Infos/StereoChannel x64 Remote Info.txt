@@ -1,0 +1,50 @@
+Scope
+Manufacturer	Model
+Sleepy-Time Records	vst.StC1.StereoChannel x64
+Note: Will match scope definitions for vst.StC1.StereoChannel x64 or vst.StC1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Volume Level	0	4194304	Value	ValueOutput
+Left/Right Balance	0	4194304	Value	ValueOutput
+Mid/Side Balance	0	4194304	Value	ValueOutput
+Mute Left	0	4194304	Value	ValueOutput
+Mute Right	0	4194304	Value	ValueOutput
+Mute Mid	0	4194304	Value	ValueOutput
+Mute Side	0	4194304	Value	ValueOutput
+Invert Left	0	4194304	Value	ValueOutput
+Invert Right	0	4194304	Value	ValueOutput
+Swap L/R	0	4194304	Value	ValueOutput
+Center X-Over	0	4194304	Value	ValueOutput
+VU Operating Mode	0	4194304	Value	ValueOutput
+L/R Balance Law	0	4194304	Value	ValueOutput
+M/S Balance Law	0	4194304	Value	ValueOutput
+M/S Balance Compensation	0	4194304	Value	ValueOutput
+L/R Balance Compensation	0	4194304	Value	ValueOutput
+VU Nominal Level	0	4194304	Value	ValueOutput
+Yellow LED Level	0	4194304	Value	ValueOutput
+Red LED Level	0	4194304	Value	ValueOutput
+Yellow LED Hold	0	4194304	Value	ValueOutput
+Red LED Hold	0	4194304	Value	ValueOutput
+Phase Correlation Timing	0	4194304	Value	ValueOutput
+Settings Panel	0	4194304	Value	ValueOutput
+VU Meter Mode	0	4194304	Value	ValueOutput
+Mini Mode	0	4194304	Value	ValueOutput
+Show VU Peak Hold Needle	0	4194304	Value	ValueOutput
+Phase Meter Detection	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,81 @@
+Scope
+Manufacturer	Model
+DLD Technology	com.dldtechnology.snakebite
+
+Remotable	Min	Max	Input type	Output type
+Oscillator 1 Octave	0	6	Value	ValueOutput
+Oscillator 1 Semitone	0	22	Value	ValueOutput
+Oscillator 1 Tuning	0	4194304	Value	ValueOutput
+Oscillator 1 Amplitude	0	4194304	Value	ValueOutput
+Oscillator 1 Shape	0	4194304	Value	ValueOutput
+Oscillator 1 Morph	0	4194304	Value	ValueOutput
+Oscillator 2 Octave	0	6	Value	ValueOutput
+Oscillator 2 Semitone	0	22	Value	ValueOutput
+Oscillator 2 Tuning	0	4194304	Value	ValueOutput
+Oscillator 2 Amplitude	0	4194304	Value	ValueOutput
+Oscillator 2 Shape	0	4194304	Value	ValueOutput
+Oscillator 2 Morph	0	4194304	Value	ValueOutput
+Oscillator 3 Octave	0	6	Value	ValueOutput
+Oscillator 3 Semitone	0	22	Value	ValueOutput
+Oscillator 3 Tuning	0	4194304	Value	ValueOutput
+Oscillator 3 Amplitude	0	4194304	Value	ValueOutput
+Oscillator 3 Shape	0	4194304	Value	ValueOutput
+Oscillator 3 Morph	0	4194304	Value	ValueOutput
+LFO 1 Type	0	4	Value	ValueOutput
+LFO 1 Rate	0	4194304	Value	ValueOutput
+LFO 1 Intensity	0	4194304	Value	ValueOutput
+LFO 1 Column	0	9	Value	ValueOutput
+LFO 1 Row	0	6	Value	ValueOutput
+LFO 2 Type	0	4	Value	ValueOutput
+LFO 2 Rate	0	4194304	Value	ValueOutput
+LFO 2 Intensity	0	4194304	Value	ValueOutput
+LFO 2 Column	0	9	Value	ValueOutput
+LFO 2 Row	0	6	Value	ValueOutput
+Amp Env Attack	0	4194304	Value	ValueOutput
+Amp Env Decay	0	4194304	Value	ValueOutput
+Amp Env Sustain	0	4194304	Value	ValueOutput
+Amp Env Release	0	4194304	Value	ValueOutput
+Filter Env Attack	0	4194304	Value	ValueOutput
+Filter Env Decay	0	4194304	Value	ValueOutput
+Filter Env Sustain	0	4194304	Value	ValueOutput
+Filter Env Release	0	4194304	Value	ValueOutput
+Mod Env Attack	0	4194304	Value	ValueOutput
+Mod Env Release	0	4194304	Value	ValueOutput
+Mod Env Intensity	0	4194304	Value	ValueOutput
+Mod Env Column	0	9	Value	ValueOutput
+Mod Env Row	0	6	Value	ValueOutput
+Pre Filter Bitcrush	0	4194304	Value	ValueOutput
+Filter Venom	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Distortion	0	4194304	Value	ValueOutput
+Echo Delay Time	0	4194304	Value	ValueOutput
+Analogue	0	4194304	Value	ValueOutput
+Filter Cut Off	0	4194304	Value	ValueOutput
+Echo Delay Feedback	0	4194304	Value	ValueOutput
+Binaural Sub Bass	0	4	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Accent	0	4194304	Value	ValueOutput
+Velocity	0	3	Value	ValueOutput
+Mod Env Decay	0	4194304	Value	ValueOutput
+Keyboard Slide	0	4194304	Value	ValueOutput
+CV In 1 Column	0	9	Value	ValueOutput
+CV In 1 Row	0	6	Value	ValueOutput
+CV In 2 Column	0	9	Value	ValueOutput
+CV In 2 Row	0	6	Value	ValueOutput
+CV In 3 Column	0	9	Value	ValueOutput
+CV In 3 Row	0	6	Value	ValueOutput
+Poly Mode	0	3	Value	ValueOutput
+Filter Mode	0	3	Value	ValueOutput
+Pitch Bend Range	0	4194304	Value	ValueOutput
+Filter Tracking	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

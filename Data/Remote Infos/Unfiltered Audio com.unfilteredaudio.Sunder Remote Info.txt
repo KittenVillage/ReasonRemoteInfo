@@ -1,0 +1,27 @@
+Scope
+Manufacturer	Model
+Unfiltered Audio	com.unfilteredaudio.Sunder
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Low Gain	0	4194304	Value	ValueOutput
+Mid Gain	0	4194304	Value	ValueOutput
+High Gain	0	4194304	Value	ValueOutput
+Low Cutoff	0	4194304	Value	ValueOutput
+High Cutoff	0	4194304	Value	ValueOutput
+Low Solo	0	1	Toggle	ValueOutput
+Mid Solo	0	1	Toggle	ValueOutput
+High Solo	0	1	Toggle	ValueOutput
+Envelope Length	0	4194304	Value	ValueOutput
+Envelope Curve	0	4194304	Value	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Analysis Speed	0	4194304	Value	ValueOutput
+Lookahead	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Input Gain Compensation	0	1	Toggle	ValueOutput
+Econ Mode	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

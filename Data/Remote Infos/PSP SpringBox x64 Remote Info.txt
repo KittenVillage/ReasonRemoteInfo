@@ -1,0 +1,44 @@
+Scope
+Manufacturer	Model
+PSPaudioware.com	vst.PPsX.PSP SpringBox x64
+Note: Will match scope definitions for vst.PPsX.PSP SpringBox x64 or vst.PPsX
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Feed IO	0	4194304	Value	ValueOutput
+Select	0	4194304	Value	ValueOutput
+Mo/St	0	4194304	Value	ValueOutput
+Type	0	4194304	Value	ValueOutput
+TimeA	0	4194304	Value	ValueOutput
+HpfA	0	4194304	Value	ValueOutput
+PresenA	0	4194304	Value	ValueOutput
+DampA	0	4194304	Value	ValueOutput
+TrimA	0	4194304	Value	ValueOutput
+TimeB	0	4194304	Value	ValueOutput
+HpfB	0	4194304	Value	ValueOutput
+PresenB	0	4194304	Value	ValueOutput
+DampB	0	4194304	Value	ValueOutput
+TrimB	0	4194304	Value	ValueOutput
+Diffus	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Pan/Bal	0	4194304	Value	ValueOutput
+PanKnob	0	4194304	Value	ValueOutput
+Dry	0	4194304	Value	ValueOutput
+Wet	0	4194304	Value	ValueOutput
+Quality	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

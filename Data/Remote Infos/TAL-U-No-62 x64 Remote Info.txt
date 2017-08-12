@@ -1,0 +1,70 @@
+Scope
+Manufacturer	Model
+TAL - Togu Audio Line	vst.23d5.TAL-U-No-62 x64
+Note: Will match scope definitions for vst.23d5.TAL-U-No-62 x64 or vst.23d5
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Param	0	4194304	Value	ValueOutput
+VOLUME	0	4194304	Value	ValueOutput
+MASTERPITCH	0	4194304	Value	ValueOutput
+SAW	0	4194304	Value	ValueOutput
+SUBOSC	0	4194304	Value	ValueOutput
+SUBOSCVOLUME	0	4194304	Value	ValueOutput
+NOISEVOLUME	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+SQUAREPWMODE	0	4194304	Value	ValueOutput
+SQUAREPWINTENSITY	0	4194304	Value	ValueOutput
+OSCLFOINTENSITY	0	4194304	Value	ValueOutput
+HPCUTOFF	0	4194304	Value	ValueOutput
+CUTOFF	0	4194304	Value	ValueOutput
+RESONANCE	0	4194304	Value	ValueOutput
+FILTERCONTOURBIAS	0	4194304	Value	ValueOutput
+FILTERCONTOUR	0	4194304	Value	ValueOutput
+FILTERLFO	0	4194304	Value	ValueOutput
+KEYFOLLOW	0	4194304	Value	ValueOutput
+ENVGATE	0	4194304	Value	ValueOutput
+ENVVOLUME	0	4194304	Value	ValueOutput
+AMPATTACK	0	4194304	Value	ValueOutput
+AMPDECAY	0	4194304	Value	ValueOutput
+AMPSUSTAIN	0	4194304	Value	ValueOutput
+AMPRELEASE	0	4194304	Value	ValueOutput
+LFO1RATE	0	4194304	Value	ValueOutput
+LFO1DELAY	0	4194304	Value	ValueOutput
+LFO1TRIGGER	0	4194304	Value	ValueOutput
+LFO1WAVEFORM	0	4194304	Value	ValueOutput
+LFO1CLOCK	0	4194304	Value	ValueOutput
+ENVVELOCITY	0	4194304	Value	ValueOutput
+CUTOFFSMOOTH	0	4194304	Value	ValueOutput
+MODDCO	0	4194304	Value	ValueOutput
+MODVCF	0	4194304	Value	ValueOutput
+TRANSPOSE	0	4194304	Value	ValueOutput
+CHORUS1	0	4194304	Value	ValueOutput
+CHORUS2	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+VOICEMODE	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Param	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

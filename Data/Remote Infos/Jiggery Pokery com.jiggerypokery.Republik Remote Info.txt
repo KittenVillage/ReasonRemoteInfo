@@ -1,0 +1,66 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.Republik
+
+Remotable	Min	Max	Input type	Output type
+Map Select	0	1	Toggle	ValueOutput
+Solo Sample Select	0	9	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Envelope Edit Select	0	3	Value	ValueOutput
+Amp Envelope Attack	0	4194304	Value	ValueOutput
+Amp Envelope Decay	0	4194304	Value	ValueOutput
+Amp Envelope Sustain	0	4194304	Value	ValueOutput
+Amp Envelope Release	0	4194304	Value	ValueOutput
+Amp Envelope Amount	0	4194304	Value	ValueOutput
+Space	0	10	Value	ValueOutput
+Ambience	0	4194304	Value	ValueOutput
+Stereo Select	0	1	Toggle	ValueOutput
+Polyphony Select	0	1	Toggle	ValueOutput
+Velocity	0	1	Toggle	ValueOutput
+Filter	0	2	Value	ValueOutput
+Envelope Follower	0	1	Toggle	ValueOutput
+LP Filter Frequency	0	4194304	Value	ValueOutput
+LP Resonance	0	4194304	Value	ValueOutput
+BP Filter Frequency	0	4194304	Value	ValueOutput
+BP Resonance	0	4194304	Value	ValueOutput
+HP Filter Frequency	0	4194304	Value	ValueOutput
+HP Resonance	0	4194304	Value	ValueOutput
+Filter Envelope Attack	0	4194304	Value	ValueOutput
+Filter Envelope Decay	0	4194304	Value	ValueOutput
+Filter Envelope Sustain	0	4194304	Value	ValueOutput
+Filter Envelope Release	0	4194304	Value	ValueOutput
+Filter Envelope Amount	0	4194304	Value	ValueOutput
+LFO Target	0	2	Value	ValueOutput
+LFO Depth	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Depth Envelope Attack	0	4194304	Value	ValueOutput
+LFO Depth Envelope Decay	0	4194304	Value	ValueOutput
+LFO Depth Envelope Sustain	0	4194304	Value	ValueOutput
+LFO Depth Envelope Release	0	4194304	Value	ValueOutput
+LFO Depth Envelope Amount	0	4194304	Value	ValueOutput
+LFO Rate Envelope Attack	0	4194304	Value	ValueOutput
+LFO Rate Envelope Decay	0	4194304	Value	ValueOutput
+LFO Rate Envelope Sustain	0	4194304	Value	ValueOutput
+LFO Rate Envelope Release	0	4194304	Value	ValueOutput
+LFO Rate Envelope Amount	0	4194304	Value	ValueOutput
+Tuning Select	0	1	Toggle	ValueOutput
+High Semitone Tuning	0	24	Value	ValueOutput
+Mid Semitone Tuning	0	24	Value	ValueOutput
+Low Semitone Tuning	0	24	Value	ValueOutput
+High Cents Tuning	0	4194304	Value	ValueOutput
+Mid Cents Tuning	0	4194304	Value	ValueOutput
+Low Cents Tuning	0	4194304	Value	ValueOutput
+Solo Sample Keyboard Tracking	0	4194304	Value	ValueOutput
+Instrument Select	0	65	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

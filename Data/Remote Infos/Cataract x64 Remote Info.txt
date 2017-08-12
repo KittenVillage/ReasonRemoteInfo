@@ -1,0 +1,156 @@
+Scope
+Manufacturer	Model
+Glitchmachines	vst.GlCt.Cataract x64
+Note: Will match scope definitions for vst.GlCt.Cataract x64 or vst.GlCt
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Slicer1_Base_Ra	0	4194304	Value	ValueOutput
+Slicer1_Ratio_M	0	4194304	Value	ValueOutput
+Slicer1_Ratio_S	0	4194304	Value	ValueOutput
+Slicer1_Ratio_M	0	4194304	Value	ValueOutput
+Slicer1_Ratio_M	0	4194304	Value	ValueOutput
+Slicer1_Ratio_M	0	4194304	Value	ValueOutput
+Slicer1_Slice_M	0	4194304	Value	ValueOutput
+Slicer1_Slice_M	0	4194304	Value	ValueOutput
+Slicer1_Slice_M	0	4194304	Value	ValueOutput
+Slicer1_Slice_M	0	4194304	Value	ValueOutput
+Slicer1_Scan_Se	0	4194304	Value	ValueOutput
+Slicer1_Gate	0	4194304	Value	ValueOutput
+Slicer1_Gate_Ge	0	4194304	Value	ValueOutput
+Slicer1_Divisio	0	4194304	Value	ValueOutput
+Slicer1_Ratio_R	0	4194304	Value	ValueOutput
+Slicer1_Slice_L	0	4194304	Value	ValueOutput
+Slicer1_Window	0	4194304	Value	ValueOutput
+Slicer1_Pan	0	4194304	Value	ValueOutput
+Slicer1_Pan_Rnd	0	4194304	Value	ValueOutput
+Slicer1_Lfo1_Wa	0	4194304	Value	ValueOutput
+Slicer1_Lfo1_Ra	0	4194304	Value	ValueOutput
+Slicer1_Lfo1_Sy	0	4194304	Value	ValueOutput
+Slicer1_Lfo1_Sy	0	4194304	Value	ValueOutput
+Slicer1_Lfo2_Wa	0	4194304	Value	ValueOutput
+Slicer1_Lfo2_Ra	0	4194304	Value	ValueOutput
+Slicer1_Lfo2_Sy	0	4194304	Value	ValueOutput
+Slicer1_Lfo2_Sy	0	4194304	Value	ValueOutput
+Slicer1_Lfo1ToS	0	4194304	Value	ValueOutput
+Slicer1_Lfo2ToS	0	4194304	Value	ValueOutput
+Slicer1_Lfo1ToS	0	4194304	Value	ValueOutput
+Slicer1_Lfo2ToS	0	4194304	Value	ValueOutput
+Slicer1_Lfo1ToR	0	4194304	Value	ValueOutput
+Slicer1_Lfo2ToR	0	4194304	Value	ValueOutput
+Slicer1_Lfo1ToR	0	4194304	Value	ValueOutput
+Slicer1_Lfo2ToR	0	4194304	Value	ValueOutput
+Slicer1_Delay_T	0	4194304	Value	ValueOutput
+Slicer1_Delay_S	0	4194304	Value	ValueOutput
+Slicer1_Delay_S	0	4194304	Value	ValueOutput
+Slicer1_Delay_F	0	4194304	Value	ValueOutput
+Slicer1_Delay_M	0	4194304	Value	ValueOutput
+Slicer1_Delay_T	0	4194304	Value	ValueOutput
+Slicer1_Delay_F	0	4194304	Value	ValueOutput
+Slicer1_Delay_M	0	4194304	Value	ValueOutput
+Slicer1_Filter_	0	4194304	Value	ValueOutput
+Slicer1_Filter_	0	4194304	Value	ValueOutput
+Slicer1_Filter_	0	4194304	Value	ValueOutput
+Slicer1_Filter_	0	4194304	Value	ValueOutput
+Slicer1_Filter_	0	4194304	Value	ValueOutput
+Slicer1_Filter_	0	4194304	Value	ValueOutput
+Slicer1_Filter_	0	4194304	Value	ValueOutput
+Slicer1_Slot1_A	0	4194304	Value	ValueOutput
+Slicer1_Slot2_A	0	4194304	Value	ValueOutput
+Slicer1_Sound_M	0	4194304	Value	ValueOutput
+Slicer1_Sound_M	0	4194304	Value	ValueOutput
+Slicer1_Sound_M	0	4194304	Value	ValueOutput
+Slicer1_Low_Gai	0	4194304	Value	ValueOutput
+Slicer1_Mid_Gai	0	4194304	Value	ValueOutput
+Slicer1_High_Ga	0	4194304	Value	ValueOutput
+Slicer1_Slot1_R	0	4194304	Value	ValueOutput
+Slicer1_Slot2_R	0	4194304	Value	ValueOutput
+Slicer2_Base_Ra	0	4194304	Value	ValueOutput
+Slicer2_Ratio_M	0	4194304	Value	ValueOutput
+Slicer2_Ratio_S	0	4194304	Value	ValueOutput
+Slicer2_Ratio_M	0	4194304	Value	ValueOutput
+Slicer2_Ratio_M	0	4194304	Value	ValueOutput
+Slicer2_Ratio_M	0	4194304	Value	ValueOutput
+Slicer2_Slice_M	0	4194304	Value	ValueOutput
+Slicer2_Slice_M	0	4194304	Value	ValueOutput
+Slicer2_Slice_M	0	4194304	Value	ValueOutput
+Slicer2_Slice_M	0	4194304	Value	ValueOutput
+Slicer2_Scan_Se	0	4194304	Value	ValueOutput
+Slicer2_Gate	0	4194304	Value	ValueOutput
+Slicer2_Gate_Ge	0	4194304	Value	ValueOutput
+Slicer2_Divisio	0	4194304	Value	ValueOutput
+Slicer2_Ratio_R	0	4194304	Value	ValueOutput
+Slicer2_Slice_L	0	4194304	Value	ValueOutput
+Slicer2_Window	0	4194304	Value	ValueOutput
+Slicer2_Pan	0	4194304	Value	ValueOutput
+Slicer2_Pan_Rnd	0	4194304	Value	ValueOutput
+Slicer2_Lfo1_Wa	0	4194304	Value	ValueOutput
+Slicer2_Lfo1_Ra	0	4194304	Value	ValueOutput
+Slicer2_Lfo1_Sy	0	4194304	Value	ValueOutput
+Slicer2_Lfo1_Sy	0	4194304	Value	ValueOutput
+Slicer2_Lfo2_Wa	0	4194304	Value	ValueOutput
+Slicer2_Lfo2_Ra	0	4194304	Value	ValueOutput
+Slicer2_Lfo2_Sy	0	4194304	Value	ValueOutput
+Slicer2_Lfo2_Sy	0	4194304	Value	ValueOutput
+Slicer2_Lfo1ToS	0	4194304	Value	ValueOutput
+Slicer2_Lfo2ToS	0	4194304	Value	ValueOutput
+Slicer2_Lfo1ToS	0	4194304	Value	ValueOutput
+Slicer2_Lfo2ToS	0	4194304	Value	ValueOutput
+Slicer2_Lfo1ToR	0	4194304	Value	ValueOutput
+Slicer2_Lfo2ToR	0	4194304	Value	ValueOutput
+Slicer2_Lfo1ToR	0	4194304	Value	ValueOutput
+Slicer2_Lfo2ToR	0	4194304	Value	ValueOutput
+Slicer2_Delay_T	0	4194304	Value	ValueOutput
+Slicer2_Delay_S	0	4194304	Value	ValueOutput
+Slicer2_Delay_S	0	4194304	Value	ValueOutput
+Slicer2_Delay_F	0	4194304	Value	ValueOutput
+Slicer2_Delay_M	0	4194304	Value	ValueOutput
+Slicer2_Delay_T	0	4194304	Value	ValueOutput
+Slicer2_Delay_F	0	4194304	Value	ValueOutput
+Slicer2_Delay_M	0	4194304	Value	ValueOutput
+Slicer2_Filter_	0	4194304	Value	ValueOutput
+Slicer2_Filter_	0	4194304	Value	ValueOutput
+Slicer2_Filter_	0	4194304	Value	ValueOutput
+Slicer2_Filter_	0	4194304	Value	ValueOutput
+Slicer2_Filter_	0	4194304	Value	ValueOutput
+Slicer2_Filter_	0	4194304	Value	ValueOutput
+Slicer2_Filter_	0	4194304	Value	ValueOutput
+Slicer2_Slot1_A	0	4194304	Value	ValueOutput
+Slicer2_Slot2_A	0	4194304	Value	ValueOutput
+Slicer2_Sound_M	0	4194304	Value	ValueOutput
+Slicer2_Sound_M	0	4194304	Value	ValueOutput
+Slicer2_Sound_M	0	4194304	Value	ValueOutput
+Slicer2_Low_Gai	0	4194304	Value	ValueOutput
+Slicer2_Mid_Gai	0	4194304	Value	ValueOutput
+Slicer2_High_Ga	0	4194304	Value	ValueOutput
+Slicer2_Slot1_R	0	4194304	Value	ValueOutput
+Slicer2_Slot2_R	0	4194304	Value	ValueOutput
+Morph	0	4194304	Value	ValueOutput
+Morph_Mod1_Dept	0	4194304	Value	ValueOutput
+Morph_Mod1_Wave	0	4194304	Value	ValueOutput
+Morph_Mod1_Rate	0	4194304	Value	ValueOutput
+Morph_Mod1_Sync	0	4194304	Value	ValueOutput
+Morph_Mod1_Sync	0	4194304	Value	ValueOutput
+Morph_Mod2_Dept	0	4194304	Value	ValueOutput
+Morph_Mod2_Wave	0	4194304	Value	ValueOutput
+Morph_Mod2_Rate	0	4194304	Value	ValueOutput
+Morph_Mod2_Sync	0	4194304	Value	ValueOutput
+Morph_Mod2_Sync	0	4194304	Value	ValueOutput
+Out_Level	0	4194304	Value	ValueOutput
+Global_Retrig	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

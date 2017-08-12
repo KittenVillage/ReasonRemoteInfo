@@ -1,0 +1,195 @@
+Scope
+Manufacturer	Model
+LinPlug	vst.LwA5.MorphoX 64
+Note: Will match scope definitions for vst.LwA5.MorphoX 64 or vst.LwA5
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+A Osc 1 Wave 1	0	4194304	Value	ValueOutput
+A Osc 2 Wave 1	0	4194304	Value	ValueOutput
+A Osc 1 Wave 2	0	4194304	Value	ValueOutput
+A Osc 2 Wave 2	0	4194304	Value	ValueOutput
+A Osc 1 Range 1	0	4194304	Value	ValueOutput
+A Osc 2 Range 1	0	4194304	Value	ValueOutput
+A Osc 1 Range 2	0	4194304	Value	ValueOutput
+A Osc 2 Range 2	0	4194304	Value	ValueOutput
+A Osc 1 Mix	0	4194304	Value	ValueOutput
+A Osc 2 Mix	0	4194304	Value	ValueOutput
+A Osc 1 Symmetry	0	4194304	Value	ValueOutput
+A Osc 2 Symmetry	0	4194304	Value	ValueOutput
+A Osc 1 Start Phase	0	4194304	Value	ValueOutput
+A Osc 1 Freerun	0	4194304	Value	ValueOutput
+A Osc 2 Freerun	0	4194304	Value	ValueOutput
+A Osc 1 Spread	0	4194304	Value	ValueOutput
+A Osc 2 Spread	0	4194304	Value	ValueOutput
+A Osc 2 Ringmod	0	4194304	Value	ValueOutput
+A Osc FM-Depth	0	4194304	Value	ValueOutput
+A Filter Cutoff	0	4194304	Value	ValueOutput
+A Filter Resonance	0	4194304	Value	ValueOutput
+A Filter Env-Depth	0	4194304	Value	ValueOutput
+A Filter FM-Depth	0	4194304	Value	ValueOutput
+A Filter Track	0	4194304	Value	ValueOutput
+A Fil-Env Attack	0	4194304	Value	ValueOutput
+A Fil-Env Decay	0	4194304	Value	ValueOutput
+A Fil-Env Sustain	0	4194304	Value	ValueOutput
+A Fil-Env Release	0	4194304	Value	ValueOutput
+A Main Volume	0	4194304	Value	ValueOutput
+A Amp Velocity	0	4194304	Value	ValueOutput
+A Amp-Env Attack	0	4194304	Value	ValueOutput
+A Amp-Env Decay	0	4194304	Value	ValueOutput
+A Amp-Env Sustain	0	4194304	Value	ValueOutput
+A Amp-Env Release	0	4194304	Value	ValueOutput
+A Mod-Env Attack	0	4194304	Value	ValueOutput
+A Mod-Env Decay	0	4194304	Value	ValueOutput
+A Mod-Env Sustain	0	4194304	Value	ValueOutput
+A Mod-Env Release	0	4194304	Value	ValueOutput
+A Detune	0	4194304	Value	ValueOutput
+A Osc 1 Volume	0	4194304	Value	ValueOutput
+A Osc 2 Volume	0	4194304	Value	ValueOutput
+A Noise Mix	0	4194304	Value	ValueOutput
+A Lowpass Volume	0	4194304	Value	ValueOutput
+A Bandpass Volume	0	4194304	Value	ValueOutput
+A Highpass Volume	0	4194304	Value	ValueOutput
+A LFO 1 Delay	0	4194304	Value	ValueOutput
+A LFO 2 Delay	0	4194304	Value	ValueOutput
+A LFO 1 Attack	0	4194304	Value	ValueOutput
+A LFO 2 Attack	0	4194304	Value	ValueOutput
+A LFO 1 Wave	0	4194304	Value	ValueOutput
+A LFO 2 Wave	0	4194304	Value	ValueOutput
+A LFO 1 Frequency	0	4194304	Value	ValueOutput
+A LFO 2 Frequency	0	4194304	Value	ValueOutput
+A LFO 1 Sync	0	4194304	Value	ValueOutput
+A LFO 2 Sync	0	4194304	Value	ValueOutput
+A Mod Amount 0	0	4194304	Value	ValueOutput
+A Mod Amount 1	0	4194304	Value	ValueOutput
+A Mod Amount 2	0	4194304	Value	ValueOutput
+A Mod Amount 3	0	4194304	Value	ValueOutput
+A Mod Amount 4	0	4194304	Value	ValueOutput
+A Mod Amount 5	0	4194304	Value	ValueOutput
+A Mod Amount 6	0	4194304	Value	ValueOutput
+A Mod Amount 7	0	4194304	Value	ValueOutput
+A Mod Amount 8	0	4194304	Value	ValueOutput
+A Mod Amount 9	0	4194304	Value	ValueOutput
+A Mod Amount 10	0	4194304	Value	ValueOutput
+A Mod Amount 11	0	4194304	Value	ValueOutput
+A Chorus Wet	0	4194304	Value	ValueOutput
+A Chorus Time	0	4194304	Value	ValueOutput
+A Chorus Rate	0	4194304	Value	ValueOutput
+A Chorus Feedback	0	4194304	Value	ValueOutput
+A Precision	0	4194304	Value	ValueOutput
+A Glide Time	0	4194304	Value	ValueOutput
+A Glide Mode	0	4194304	Value	ValueOutput
+A Delay Wet	0	4194304	Value	ValueOutput
+A Delay Pre	0	4194304	Value	ValueOutput
+A Delay Left	0	4194304	Value	ValueOutput
+A Delay Right	0	4194304	Value	ValueOutput
+A Delay Feedback	0	4194304	Value	ValueOutput
+A Delay Lowpass	0	4194304	Value	ValueOutput
+A Delay Highpass	0	4194304	Value	ValueOutput
+A Delay Stereo	0	4194304	Value	ValueOutput
+A Delay Mono In	0	4194304	Value	ValueOutput
+A Arp Note Length	0	4194304	Value	ValueOutput
+B Osc 1 Wave 1	0	4194304	Value	ValueOutput
+B Osc 2 Wave 1	0	4194304	Value	ValueOutput
+B Osc 1 Wave 2	0	4194304	Value	ValueOutput
+B Osc 2 Wave 2	0	4194304	Value	ValueOutput
+B Osc 1 Range 1	0	4194304	Value	ValueOutput
+B Osc 2 Range 1	0	4194304	Value	ValueOutput
+B Osc 1 Range 2	0	4194304	Value	ValueOutput
+B Osc 2 Range 2	0	4194304	Value	ValueOutput
+B Osc 1 Mix	0	4194304	Value	ValueOutput
+B Osc 2 Mix	0	4194304	Value	ValueOutput
+B Osc 1 Symmetry	0	4194304	Value	ValueOutput
+B Osc 2 Symmetry	0	4194304	Value	ValueOutput
+B Osc 1 Start Phase	0	4194304	Value	ValueOutput
+B Osc 1 Freerun	0	4194304	Value	ValueOutput
+B Osc 2 Freerun	0	4194304	Value	ValueOutput
+B Osc 1 Spread	0	4194304	Value	ValueOutput
+B Osc 2 Spread	0	4194304	Value	ValueOutput
+B Osc 2 Ringmod	0	4194304	Value	ValueOutput
+B Osc FM-Depth	0	4194304	Value	ValueOutput
+B Filter Cutoff	0	4194304	Value	ValueOutput
+B Filter Resonance	0	4194304	Value	ValueOutput
+B Filter Env-Depth	0	4194304	Value	ValueOutput
+B Filter FM-Depth	0	4194304	Value	ValueOutput
+B Filter Track	0	4194304	Value	ValueOutput
+B Fil-Env Attack	0	4194304	Value	ValueOutput
+B Fil-Env Decay	0	4194304	Value	ValueOutput
+B Fil-Env Sustain	0	4194304	Value	ValueOutput
+B Fil-Env Release	0	4194304	Value	ValueOutput
+B Main Volume	0	4194304	Value	ValueOutput
+B Amp Velocity	0	4194304	Value	ValueOutput
+B Amp-Env Attack	0	4194304	Value	ValueOutput
+B Amp-Env Decay	0	4194304	Value	ValueOutput
+B Amp-Env Sustain	0	4194304	Value	ValueOutput
+B Amp-Env Release	0	4194304	Value	ValueOutput
+B Mod-Env Attack	0	4194304	Value	ValueOutput
+B Mod-Env Decay	0	4194304	Value	ValueOutput
+B Mod-Env Sustain	0	4194304	Value	ValueOutput
+B Mod-Env Release	0	4194304	Value	ValueOutput
+B Detune	0	4194304	Value	ValueOutput
+B Osc 1 Volume	0	4194304	Value	ValueOutput
+B Osc 2 Volume	0	4194304	Value	ValueOutput
+B Noise Mix	0	4194304	Value	ValueOutput
+B Lowpass Volume	0	4194304	Value	ValueOutput
+B Bandpass Volume	0	4194304	Value	ValueOutput
+B Highpass Volume	0	4194304	Value	ValueOutput
+B LFO 1 Delay	0	4194304	Value	ValueOutput
+B LFO 2 Delay	0	4194304	Value	ValueOutput
+B LFO 1 Attack	0	4194304	Value	ValueOutput
+B LFO 2 Attack	0	4194304	Value	ValueOutput
+B LFO 1 Wave	0	4194304	Value	ValueOutput
+B LFO 2 Wave	0	4194304	Value	ValueOutput
+B LFO 1 Frequency	0	4194304	Value	ValueOutput
+B LFO 2 Frequency	0	4194304	Value	ValueOutput
+B LFO 1 Sync	0	4194304	Value	ValueOutput
+B LFO 2 Sync	0	4194304	Value	ValueOutput
+B Mod Amount 0	0	4194304	Value	ValueOutput
+B Mod Amount 1	0	4194304	Value	ValueOutput
+B Mod Amount 2	0	4194304	Value	ValueOutput
+B Mod Amount 3	0	4194304	Value	ValueOutput
+B Mod Amount 4	0	4194304	Value	ValueOutput
+B Mod Amount 5	0	4194304	Value	ValueOutput
+B Mod Amount 6	0	4194304	Value	ValueOutput
+B Mod Amount 7	0	4194304	Value	ValueOutput
+B Mod Amount 8	0	4194304	Value	ValueOutput
+B Mod Amount 9	0	4194304	Value	ValueOutput
+B Mod Amount 10	0	4194304	Value	ValueOutput
+B Mod Amount 11	0	4194304	Value	ValueOutput
+B Chorus Wet	0	4194304	Value	ValueOutput
+B Chorus Time	0	4194304	Value	ValueOutput
+B Chorus Rate	0	4194304	Value	ValueOutput
+B Chorus Feedback	0	4194304	Value	ValueOutput
+B Precision	0	4194304	Value	ValueOutput
+B Glide Time	0	4194304	Value	ValueOutput
+B Glide Mode	0	4194304	Value	ValueOutput
+B Delay Wet	0	4194304	Value	ValueOutput
+B Delay Pre	0	4194304	Value	ValueOutput
+B Delay Left	0	4194304	Value	ValueOutput
+B Delay Right	0	4194304	Value	ValueOutput
+B Delay Feedback	0	4194304	Value	ValueOutput
+B Delay Lowpass	0	4194304	Value	ValueOutput
+B Delay Highpass	0	4194304	Value	ValueOutput
+B Delay Stereo	0	4194304	Value	ValueOutput
+B Delay Mono In	0	4194304	Value	ValueOutput
+B Arp Note Length	0	4194304	Value	ValueOutput
+LFO 3 Wave	0	4194304	Value	ValueOutput
+LFO 3 Tempo	0	4194304	Value	ValueOutput
+Morph Wheel	0	4194304	Value	ValueOutput
+hidden/reserved	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

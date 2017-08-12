@@ -1,0 +1,23 @@
+Scope
+Manufacturer	Model
+Red Rock Sound	ru.redrocksound.RE128
+
+Remotable	Min	Max	Input type	Output type
+Scope Color	0	4194304	Value	ValueOutput
+Scope Scale X	0	4194304	Value	ValueOutput
+Scope Scale Y	0	4194304	Value	ValueOutput
+Scope Scroll X	0	4194304	Value	ValueOutput
+Scope Scroll Y	0	4194304	Value	ValueOutput
+Scope Parameter	0	1	Toggle	ValueOutput
+Scope Reference	0	1	Toggle	ValueOutput
+Global Reset	0	1	Toggle	ValueOutput
+Reset Indicators	0	1	Toggle	ValueOutput
+Input Selector	0	1	Toggle	ValueOutput
+Display 1 Parameter	0	1	Toggle	ValueOutput
+Display 2 Parameter	0	1	Toggle	ValueOutput
+Display 3 Parameter	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

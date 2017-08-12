@@ -1,0 +1,164 @@
+Scope
+Manufacturer	Model
+SoundToys	vst.StFx.EffectRack
+Note: Will match scope definitions for vst.StFx.EffectRack or vst.StFx
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Slot1_Solo	0	4194304	Value	ValueOutput
+Slot2_Solo	0	4194304	Value	ValueOutput
+Slot3_Solo	0	4194304	Value	ValueOutput
+Slot4_Solo	0	4194304	Value	ValueOutput
+Slot5_Solo	0	4194304	Value	ValueOutput
+Slot6_Solo	0	4194304	Value	ValueOutput
+Unassigned:1	0	4194304	Value	ValueOutput
+Unassigned:2	0	4194304	Value	ValueOutput
+Unassigned:3	0	4194304	Value	ValueOutput
+Unassigned:4	0	4194304	Value	ValueOutput
+Unassigned:5	0	4194304	Value	ValueOutput
+Unassigned:6	0	4194304	Value	ValueOutput
+Unassigned:7	0	4194304	Value	ValueOutput
+Unassigned:8	0	4194304	Value	ValueOutput
+Unassigned:9	0	4194304	Value	ValueOutput
+Unassigned:10	0	4194304	Value	ValueOutput
+Unassigned:11	0	4194304	Value	ValueOutput
+Unassigned:12	0	4194304	Value	ValueOutput
+Unassigned:13	0	4194304	Value	ValueOutput
+Unassigned:14	0	4194304	Value	ValueOutput
+Unassigned:15	0	4194304	Value	ValueOutput
+Unassigned:16	0	4194304	Value	ValueOutput
+Unassigned:17	0	4194304	Value	ValueOutput
+Unassigned:18	0	4194304	Value	ValueOutput
+Unassigned:19	0	4194304	Value	ValueOutput
+Unassigned:20	0	4194304	Value	ValueOutput
+Unassigned:21	0	4194304	Value	ValueOutput
+Unassigned:22	0	4194304	Value	ValueOutput
+Unassigned:23	0	4194304	Value	ValueOutput
+Unassigned:24	0	4194304	Value	ValueOutput
+Unassigned:25	0	4194304	Value	ValueOutput
+Unassigned:26	0	4194304	Value	ValueOutput
+Unassigned:27	0	4194304	Value	ValueOutput
+Unassigned:28	0	4194304	Value	ValueOutput
+Unassigned:29	0	4194304	Value	ValueOutput
+Unassigned:30	0	4194304	Value	ValueOutput
+Unassigned:31	0	4194304	Value	ValueOutput
+Unassigned:32	0	4194304	Value	ValueOutput
+Unassigned:33	0	4194304	Value	ValueOutput
+Unassigned:34	0	4194304	Value	ValueOutput
+Unassigned:35	0	4194304	Value	ValueOutput
+Unassigned:36	0	4194304	Value	ValueOutput
+Unassigned:37	0	4194304	Value	ValueOutput
+Unassigned:38	0	4194304	Value	ValueOutput
+Unassigned:39	0	4194304	Value	ValueOutput
+Unassigned:40	0	4194304	Value	ValueOutput
+Unassigned:41	0	4194304	Value	ValueOutput
+Unassigned:42	0	4194304	Value	ValueOutput
+Unassigned:43	0	4194304	Value	ValueOutput
+Unassigned:44	0	4194304	Value	ValueOutput
+Unassigned:45	0	4194304	Value	ValueOutput
+Unassigned:46	0	4194304	Value	ValueOutput
+Unassigned:47	0	4194304	Value	ValueOutput
+Unassigned:48	0	4194304	Value	ValueOutput
+Unassigned:49	0	4194304	Value	ValueOutput
+Unassigned:50	0	4194304	Value	ValueOutput
+Unassigned:51	0	4194304	Value	ValueOutput
+Unassigned:52	0	4194304	Value	ValueOutput
+Unassigned:53	0	4194304	Value	ValueOutput
+Unassigned:54	0	4194304	Value	ValueOutput
+Unassigned:55	0	4194304	Value	ValueOutput
+Unassigned:56	0	4194304	Value	ValueOutput
+Unassigned:57	0	4194304	Value	ValueOutput
+Unassigned:58	0	4194304	Value	ValueOutput
+Unassigned:59	0	4194304	Value	ValueOutput
+Unassigned:60	0	4194304	Value	ValueOutput
+Unassigned:61	0	4194304	Value	ValueOutput
+Unassigned:62	0	4194304	Value	ValueOutput
+Unassigned:63	0	4194304	Value	ValueOutput
+Unassigned:64	0	4194304	Value	ValueOutput
+Unassigned:65	0	4194304	Value	ValueOutput
+Unassigned:66	0	4194304	Value	ValueOutput
+Unassigned:67	0	4194304	Value	ValueOutput
+Unassigned:68	0	4194304	Value	ValueOutput
+Unassigned:69	0	4194304	Value	ValueOutput
+Unassigned:70	0	4194304	Value	ValueOutput
+Unassigned:71	0	4194304	Value	ValueOutput
+Unassigned:72	0	4194304	Value	ValueOutput
+Unassigned:73	0	4194304	Value	ValueOutput
+Unassigned:74	0	4194304	Value	ValueOutput
+Unassigned:75	0	4194304	Value	ValueOutput
+Unassigned:76	0	4194304	Value	ValueOutput
+Unassigned:77	0	4194304	Value	ValueOutput
+Unassigned:78	0	4194304	Value	ValueOutput
+Unassigned:79	0	4194304	Value	ValueOutput
+Unassigned:80	0	4194304	Value	ValueOutput
+Unassigned:81	0	4194304	Value	ValueOutput
+Unassigned:82	0	4194304	Value	ValueOutput
+Unassigned:83	0	4194304	Value	ValueOutput
+Unassigned:84	0	4194304	Value	ValueOutput
+Unassigned:85	0	4194304	Value	ValueOutput
+Unassigned:86	0	4194304	Value	ValueOutput
+Unassigned:87	0	4194304	Value	ValueOutput
+Unassigned:88	0	4194304	Value	ValueOutput
+Unassigned:89	0	4194304	Value	ValueOutput
+Unassigned:90	0	4194304	Value	ValueOutput
+Unassigned:91	0	4194304	Value	ValueOutput
+Unassigned:92	0	4194304	Value	ValueOutput
+Unassigned:93	0	4194304	Value	ValueOutput
+Unassigned:94	0	4194304	Value	ValueOutput
+Unassigned:95	0	4194304	Value	ValueOutput
+Unassigned:96	0	4194304	Value	ValueOutput
+Unassigned:97	0	4194304	Value	ValueOutput
+Unassigned:98	0	4194304	Value	ValueOutput
+Unassigned:99	0	4194304	Value	ValueOutput
+Unassigned:100	0	4194304	Value	ValueOutput
+Unassigned:101	0	4194304	Value	ValueOutput
+Unassigned:102	0	4194304	Value	ValueOutput
+Unassigned:103	0	4194304	Value	ValueOutput
+Unassigned:104	0	4194304	Value	ValueOutput
+Unassigned:105	0	4194304	Value	ValueOutput
+Unassigned:106	0	4194304	Value	ValueOutput
+Unassigned:107	0	4194304	Value	ValueOutput
+Unassigned:108	0	4194304	Value	ValueOutput
+Unassigned:109	0	4194304	Value	ValueOutput
+Unassigned:110	0	4194304	Value	ValueOutput
+Unassigned:111	0	4194304	Value	ValueOutput
+Unassigned:112	0	4194304	Value	ValueOutput
+Unassigned:113	0	4194304	Value	ValueOutput
+Unassigned:114	0	4194304	Value	ValueOutput
+Unassigned:115	0	4194304	Value	ValueOutput
+Unassigned:116	0	4194304	Value	ValueOutput
+Unassigned:117	0	4194304	Value	ValueOutput
+Unassigned:118	0	4194304	Value	ValueOutput
+Unassigned:119	0	4194304	Value	ValueOutput
+Unassigned:120	0	4194304	Value	ValueOutput
+Unassigned:121	0	4194304	Value	ValueOutput
+Unassigned:122	0	4194304	Value	ValueOutput
+Unassigned:123	0	4194304	Value	ValueOutput
+Unassigned:124	0	4194304	Value	ValueOutput
+Unassigned:125	0	4194304	Value	ValueOutput
+Unassigned:126	0	4194304	Value	ValueOutput
+Unassigned:127	0	4194304	Value	ValueOutput
+Unassigned:128	0	4194304	Value	ValueOutput
+InputGain	0	4194304	Value	ValueOutput
+OutputGain	0	4194304	Value	ValueOutput
+Recycle	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+BeatSync	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

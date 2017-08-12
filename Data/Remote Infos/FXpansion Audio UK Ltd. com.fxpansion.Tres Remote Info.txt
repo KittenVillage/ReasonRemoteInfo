@@ -1,0 +1,94 @@
+Scope
+Manufacturer	Model
+FXpansion Audio UK Ltd.	com.fxpansion.Tres
+
+Remotable	Min	Max	Input type	Output type
+Glide Amount	0	4194304	Value	ValueOutput
+Legato	0	1	Toggle	ValueOutput
+Envelope Mute	0	1	Toggle	ValueOutput
+Amp Envelope Mute	0	1	Toggle	ValueOutput
+LFO 1 Mute	0	1	Toggle	ValueOutput
+LFO 2 Mute	0	1	Toggle	ValueOutput
+Modwheel Mute	0	1	Toggle	ValueOutput
+Velocity Mute	0	1	Toggle	ValueOutput
+RelOn Note Off	0	1	Toggle	ValueOutput
+Note Pitch Mute	0	1	Toggle	ValueOutput
+Random Mute	0	1	Toggle	ValueOutput
+CV 1 Mute	0	1	Toggle	ValueOutput
+CV 2 Mute	0	1	Toggle	ValueOutput
+Rand Polarity	0	1	Toggle	ValueOutput
+Modwheel Polarity	0	1	Toggle	ValueOutput
+Glide	0	2	Value	ValueOutput
+Envelope Velocity	0	1	Toggle	ValueOutput
+Envelope Attack	0	4194304	Value	ValueOutput
+Envelope Decay	0	4194304	Value	ValueOutput
+Envelope Sustain	0	4194304	Value	ValueOutput
+Envelope Release	0	4194304	Value	ValueOutput
+Envelope Curve	0	1	Toggle	ValueOutput
+Envelope Gain	0	4194304	Value	ValueOutput
+Amp Envelope Velocity	0	1	Toggle	ValueOutput
+Amp Envelope Attack	0	4194304	Value	ValueOutput
+Amp Envelope Decay	0	4194304	Value	ValueOutput
+Amp Envelope Sustain	0	4194304	Value	ValueOutput
+Amp Envelope Release	0	4194304	Value	ValueOutput
+Amp Envelope Curve	0	1	Toggle	ValueOutput
+Amp Envelope Gain	0	4194304	Value	ValueOutput
+LFO 1 Polarity	0	1	Toggle	ValueOutput
+LFO 1 Sync	0	1	Toggle	ValueOutput
+LFO 1 Reset	0	1	Toggle	ValueOutput
+LFO 1 Beats	0	38	Value	ValueOutput
+LFO 1 Hertz	0	4194304	Value	ValueOutput
+LFO 1 Shape	0	4	Value	ValueOutput
+LFO 1 Morph	0	4194304	Value	ValueOutput
+LFO 1 Phase	0	4194304	Value	ValueOutput
+LFO 1 Gain	0	4194304	Value	ValueOutput
+LFO 2 Polarity	0	1	Toggle	ValueOutput
+LFO 2 Sync	0	1	Toggle	ValueOutput
+LFO 2 Reset	0	1	Toggle	ValueOutput
+LFO 2 Beats	0	38	Value	ValueOutput
+LFO 2 Hertz	0	4194304	Value	ValueOutput
+LFO 2 Shape	0	4	Value	ValueOutput
+LFO 2 Morph	0	4194304	Value	ValueOutput
+LFO 2 Phase	0	4194304	Value	ValueOutput
+LFO 2 Gain	0	4194304	Value	ValueOutput
+OSC Phase Reset	0	1	Toggle	ValueOutput
+Master Pitch	0	48	Value	ValueOutput
+Master Pitch Fine	0	4194304	Value	ValueOutput
+OSC1 Range	0	4	Value	ValueOutput
+OSC1 Pitch	0	48	Value	ValueOutput
+OSC1 Shape	0	2	Value	ValueOutput
+OSC1 PW	0	4194304	Value	ValueOutput
+OSC2 HardSync	0	1	Toggle	ValueOutput
+OSC2 Range	0	6	Value	ValueOutput
+OSC2 Pitch	0	48	Value	ValueOutput
+OSC2 Fine	0	4194304	Value	ValueOutput
+OSC2 Shape	0	2	Value	ValueOutput
+OSC2 PW	0	4194304	Value	ValueOutput
+Sub Range	0	3	Value	ValueOutput
+Sub Shape	0	2	Value	ValueOutput
+Noise Colour	0	4194304	Value	ValueOutput
+Osc1 Level	0	4194304	Value	ValueOutput
+Osc2 Level	0	4194304	Value	ValueOutput
+Osc 1 X 2 Level	0	4194304	Value	ValueOutput
+Sub Level	0	4194304	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+EQ Emphasis	0	4194304	Value	ValueOutput
+EQ Saturation	0	1	Toggle	ValueOutput
+Filter Power	0	1	Toggle	ValueOutput
+Filter Mode	0	3	Value	ValueOutput
+Filter Drive	0	4194304	Value	ValueOutput
+Filter Type	0	2	Value	ValueOutput
+Filter Res	0	4194304	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Depth	0	4194304	Value	ValueOutput
+Filter FM Src	0	8	Value	ValueOutput
+Synth Drive	0	4194304	Value	ValueOutput
+Synth Output	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Filter FM Mode	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

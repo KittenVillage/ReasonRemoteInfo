@@ -1,0 +1,30 @@
+Scope
+Manufacturer	Model
+Josh Levy	com.joshlevy.KitchenSync
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Gate	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+EnvFreq	0	1	Toggle	ValueOutput
+EnvShape	0	1	Toggle	ValueOutput
+Rate	0	4194304	Value	ValueOutput
+RateSynced	0	15	Value	ValueOutput
+Amount	0	4194304	Value	ValueOutput
+Dest	0	4	Value	ValueOutput
+Wave	0	4	Value	ValueOutput
+TempoSync	0	1	Toggle	ValueOutput
+LFOOn	0	1	Toggle	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+LPFOn	0	1	Toggle	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Shape	0	4194304	Value	ValueOutput
+Freq	0	4194304	Value	ValueOutput
+FullHalfSync	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,161 @@
+Scope
+Manufacturer	Model
+Blue Cat Audio	vst.i69k.BC DP Meter Pro 4 VST(Srnd) x64
+Note: Will match scope definitions for vst.i69k.BC DP Meter Pro 4 VST(Srnd) x64 or vst.i69k
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Hold	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Attack Shape	0	4194304	Value	ValueOutput
+Release Shape	0	4194304	Value	ValueOutput
+RMS Average	0	4194304	Value	ValueOutput
+RMS Boost	0	4194304	Value	ValueOutput
+Meter Hold	0	4194304	Value	ValueOutput
+Reset Speed	0	4194304	Value	ValueOutput
+Env Type	0	4194304	Value	ValueOutput
+Peak-RMS	0	4194304	Value	ValueOutput
+Reverse	0	4194304	Value	ValueOutput
+Amount	0	4194304	Value	ValueOutput
+Offset	0	4194304	Value	ValueOutput
+Enable Hist	0	4194304	Value	ValueOutput
+Hist Length	0	4194304	Value	ValueOutput
+Hist Reset	0	4194304	Value	ValueOutput
+Clip Reset	0	4194304	Value	ValueOutput
+Max Peak Reset	0	4194304	Value	ValueOutput
+Max RMS Reset	0	4194304	Value	ValueOutput
+Max Crest Reset	0	4194304	Value	ValueOutput
+Avg Peak Reset	0	4194304	Value	ValueOutput
+Avg RMS Reset	0	4194304	Value	ValueOutput
+Avg Crest Reset	0	4194304	Value	ValueOutput
+Reset All	0	4194304	Value	ValueOutput
+OUT:Peak 1	0	4194304	Value	ValueOutput
+OUT:RMS 1	0	4194304	Value	ValueOutput
+OUT:Crest 1	0	4194304	Value	ValueOutput
+OUT:Transformed 1	0	4194304	Value	ValueOutput
+OUT:Max Peak 1	0	4194304	Value	ValueOutput
+OUT:Max RMS 1	0	4194304	Value	ValueOutput
+OUT:Max Crest 1	0	4194304	Value	ValueOutput
+OUT:Avg Peak 1	0	4194304	Value	ValueOutput
+OUT:Avg RMS 1	0	4194304	Value	ValueOutput
+OUT:Avg Crest 1	0	4194304	Value	ValueOutput
+OUT:Peak Hold 1	0	4194304	Value	ValueOutput
+OUT:RMS Hold 1	0	4194304	Value	ValueOutput
+OUT:Crest Hold 1	0	4194304	Value	ValueOutput
+OUT:Clipped 1	0	4194304	Value	ValueOutput
+OUT:Peak 2	0	4194304	Value	ValueOutput
+OUT:RMS 2	0	4194304	Value	ValueOutput
+OUT:Crest 2	0	4194304	Value	ValueOutput
+OUT:Transformed 2	0	4194304	Value	ValueOutput
+OUT:Max Peak 2	0	4194304	Value	ValueOutput
+OUT:Max RMS 2	0	4194304	Value	ValueOutput
+OUT:Max Crest 2	0	4194304	Value	ValueOutput
+OUT:Avg Peak 2	0	4194304	Value	ValueOutput
+OUT:Avg RMS 2	0	4194304	Value	ValueOutput
+OUT:Avg Crest 2	0	4194304	Value	ValueOutput
+OUT:Peak Hold 2	0	4194304	Value	ValueOutput
+OUT:RMS Hold 2	0	4194304	Value	ValueOutput
+OUT:Crest Hold 2	0	4194304	Value	ValueOutput
+OUT:Clipped 2	0	4194304	Value	ValueOutput
+OUT:Peak 3	0	4194304	Value	ValueOutput
+OUT:RMS 3	0	4194304	Value	ValueOutput
+OUT:Crest 3	0	4194304	Value	ValueOutput
+OUT:Transformed 3	0	4194304	Value	ValueOutput
+OUT:Max Peak 3	0	4194304	Value	ValueOutput
+OUT:Max RMS 3	0	4194304	Value	ValueOutput
+OUT:Max Crest 3	0	4194304	Value	ValueOutput
+OUT:Avg Peak 3	0	4194304	Value	ValueOutput
+OUT:Avg RMS 3	0	4194304	Value	ValueOutput
+OUT:Avg Crest 3	0	4194304	Value	ValueOutput
+OUT:Peak Hold 3	0	4194304	Value	ValueOutput
+OUT:RMS Hold 3	0	4194304	Value	ValueOutput
+OUT:Crest Hold 3	0	4194304	Value	ValueOutput
+OUT:Clipped 3	0	4194304	Value	ValueOutput
+OUT:Peak 4	0	4194304	Value	ValueOutput
+OUT:RMS 4	0	4194304	Value	ValueOutput
+OUT:Crest 4	0	4194304	Value	ValueOutput
+OUT:Transformed 4	0	4194304	Value	ValueOutput
+OUT:Max Peak 4	0	4194304	Value	ValueOutput
+OUT:Max RMS 4	0	4194304	Value	ValueOutput
+OUT:Max Crest 4	0	4194304	Value	ValueOutput
+OUT:Avg Peak 4	0	4194304	Value	ValueOutput
+OUT:Avg RMS 4	0	4194304	Value	ValueOutput
+OUT:Avg Crest 4	0	4194304	Value	ValueOutput
+OUT:Peak Hold 4	0	4194304	Value	ValueOutput
+OUT:RMS Hold 4	0	4194304	Value	ValueOutput
+OUT:Crest Hold 4	0	4194304	Value	ValueOutput
+OUT:Clipped 4	0	4194304	Value	ValueOutput
+OUT:Peak 5	0	4194304	Value	ValueOutput
+OUT:RMS 5	0	4194304	Value	ValueOutput
+OUT:Crest 5	0	4194304	Value	ValueOutput
+OUT:Transformed 5	0	4194304	Value	ValueOutput
+OUT:Max Peak 5	0	4194304	Value	ValueOutput
+OUT:Max RMS 5	0	4194304	Value	ValueOutput
+OUT:Max Crest 5	0	4194304	Value	ValueOutput
+OUT:Avg Peak 5	0	4194304	Value	ValueOutput
+OUT:Avg RMS 5	0	4194304	Value	ValueOutput
+OUT:Avg Crest 5	0	4194304	Value	ValueOutput
+OUT:Peak Hold 5	0	4194304	Value	ValueOutput
+OUT:RMS Hold 5	0	4194304	Value	ValueOutput
+OUT:Crest Hold 5	0	4194304	Value	ValueOutput
+OUT:Clipped 5	0	4194304	Value	ValueOutput
+OUT:Peak 6	0	4194304	Value	ValueOutput
+OUT:RMS 6	0	4194304	Value	ValueOutput
+OUT:Crest 6	0	4194304	Value	ValueOutput
+OUT:Transformed 6	0	4194304	Value	ValueOutput
+OUT:Max Peak 6	0	4194304	Value	ValueOutput
+OUT:Max RMS 6	0	4194304	Value	ValueOutput
+OUT:Max Crest 6	0	4194304	Value	ValueOutput
+OUT:Avg Peak 6	0	4194304	Value	ValueOutput
+OUT:Avg RMS 6	0	4194304	Value	ValueOutput
+OUT:Avg Crest 6	0	4194304	Value	ValueOutput
+OUT:Peak Hold 6	0	4194304	Value	ValueOutput
+OUT:RMS Hold 6	0	4194304	Value	ValueOutput
+OUT:Crest Hold 6	0	4194304	Value	ValueOutput
+OUT:Clipped 6	0	4194304	Value	ValueOutput
+OUT:Peak 7	0	4194304	Value	ValueOutput
+OUT:RMS 7	0	4194304	Value	ValueOutput
+OUT:Crest 7	0	4194304	Value	ValueOutput
+OUT:Transformed 7	0	4194304	Value	ValueOutput
+OUT:Max Peak 7	0	4194304	Value	ValueOutput
+OUT:Max RMS 7	0	4194304	Value	ValueOutput
+OUT:Max Crest 7	0	4194304	Value	ValueOutput
+OUT:Avg Peak 7	0	4194304	Value	ValueOutput
+OUT:Avg RMS 7	0	4194304	Value	ValueOutput
+OUT:Avg Crest 7	0	4194304	Value	ValueOutput
+OUT:Peak Hold 7	0	4194304	Value	ValueOutput
+OUT:RMS Hold 7	0	4194304	Value	ValueOutput
+OUT:Crest Hold 7	0	4194304	Value	ValueOutput
+OUT:Clipped 7	0	4194304	Value	ValueOutput
+OUT:Peak 8	0	4194304	Value	ValueOutput
+OUT:RMS 8	0	4194304	Value	ValueOutput
+OUT:Crest 8	0	4194304	Value	ValueOutput
+OUT:Transformed 8	0	4194304	Value	ValueOutput
+OUT:Max Peak 8	0	4194304	Value	ValueOutput
+OUT:Max RMS 8	0	4194304	Value	ValueOutput
+OUT:Max Crest 8	0	4194304	Value	ValueOutput
+OUT:Avg Peak 8	0	4194304	Value	ValueOutput
+OUT:Avg RMS 8	0	4194304	Value	ValueOutput
+OUT:Avg Crest 8	0	4194304	Value	ValueOutput
+OUT:Peak Hold 8	0	4194304	Value	ValueOutput
+OUT:RMS Hold 8	0	4194304	Value	ValueOutput
+OUT:Crest Hold 8	0	4194304	Value	ValueOutput
+OUT:Clipped 8	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

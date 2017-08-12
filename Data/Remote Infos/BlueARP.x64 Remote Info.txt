@@ -1,0 +1,463 @@
+Scope
+Manufacturer	Model
+graywolf2004	vst.7dWx.BlueARP_x64
+Note: Will match scope definitions for vst.7dWx.BlueARP_x64 or vst.7dWx
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+MIDI In cnannel	0	4194304	Value	ValueOutput
+MIDI Out channel	0	4194304	Value	ValueOutput
+Arp Enabled	0	4194304	Value	ValueOutput
+MIDI Thru	0	4194304	Value	ValueOutput
+CurProgram	0	4194304	Value	ValueOutput
+SelectedBar	0	4194304	Value	ValueOutput
+Num. chains	0	4194304	Value	ValueOutput
+Cur_Chain	0	4194304	Value	ValueOutput
+Chain quantize	0	4194304	Value	ValueOutput
+Velocity scale	0	4194304	Value	ValueOutput
+Semitone range	0	4194304	Value	ValueOutput
+Prog.change MIDI msg	0	4194304	Value	ValueOutput
+Input range mode	0	4194304	Value	ValueOutput
+Out velo mode	0	4194304	Value	ValueOutput
+Send bank msg	0	4194304	Value	ValueOutput
+SendPatchNum	0	4194304	Value	ValueOutput
+SendBankNum	0	4194304	Value	ValueOutput
+SendVolume	0	4194304	Value	ValueOutput
+ChainProg_01	0	4194304	Value	ValueOutput
+ChainProg_02	0	4194304	Value	ValueOutput
+ChainProg_03	0	4194304	Value	ValueOutput
+ChainProg_04	0	4194304	Value	ValueOutput
+ChainProg_05	0	4194304	Value	ValueOutput
+ChainProg_06	0	4194304	Value	ValueOutput
+ChainProg_07	0	4194304	Value	ValueOutput
+ChainProg_08	0	4194304	Value	ValueOutput
+Steps	0	4194304	Value	ValueOutput
+Gate	0	4194304	Value	ValueOutput
+Sync	0	4194304	Value	ValueOutput
+Latch	0	4194304	Value	ValueOutput
+Missing key subst.	0	4194304	Value	ValueOutput
+Input range (low)	0	4194304	Value	ValueOutput
+Input range (high)	0	4194304	Value	ValueOutput
+Output range (low)	0	4194304	Value	ValueOutput
+Output range (high)	0	4194304	Value	ValueOutput
+Order algorithm	0	4194304	Value	ValueOutput
+Fixed key	0	4194304	Value	ValueOutput
+Master transpose oct.	0	4194304	Value	ValueOutput
+Input quantize	0	4194304	Value	ValueOutput
+Master transpose semi	0	4194304	Value	ValueOutput
+Page scroll	0	4194304	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+Restart On	0	4194304	Value	ValueOutput
+Force scale: key	0	4194304	Value	ValueOutput
+Force scale: scale	0	4194304	Value	ValueOutput
+Force scale: mode	0	4194304	Value	ValueOutput
+Input range wrap (low)	0	4194304	Value	ValueOutput
+Input range wrap (high)	0	4194304	Value	ValueOutput
+Polyphonic octave	0	4194304	Value	ValueOutput
+Polyphonic key sel.	0	4194304	Value	ValueOutput
+Missing key octave	0	4194304	Value	ValueOutput
+Selected layer	0	4194304	Value	ValueOutput
+RESERVED	0	4194304	Value	ValueOutput
+Randomize velocity	0	4194304	Value	ValueOutput
+Randomize gate per step	0	4194304	Value	ValueOutput
+Randomize start time	0	4194304	Value	ValueOutput
+Semitone_01	0	4194304	Value	ValueOutput
+Semitone_02	0	4194304	Value	ValueOutput
+Semitone_03	0	4194304	Value	ValueOutput
+Semitone_04	0	4194304	Value	ValueOutput
+Semitone_05	0	4194304	Value	ValueOutput
+Semitone_06	0	4194304	Value	ValueOutput
+Semitone_07	0	4194304	Value	ValueOutput
+Semitone_08	0	4194304	Value	ValueOutput
+Semitone_09	0	4194304	Value	ValueOutput
+Semitone_10	0	4194304	Value	ValueOutput
+Semitone_11	0	4194304	Value	ValueOutput
+Semitone_12	0	4194304	Value	ValueOutput
+Semitone_13	0	4194304	Value	ValueOutput
+Semitone_14	0	4194304	Value	ValueOutput
+Semitone_15	0	4194304	Value	ValueOutput
+Semitone_16	0	4194304	Value	ValueOutput
+Semitone_17	0	4194304	Value	ValueOutput
+Semitone_18	0	4194304	Value	ValueOutput
+Semitone_19	0	4194304	Value	ValueOutput
+Semitone_20	0	4194304	Value	ValueOutput
+Semitone_21	0	4194304	Value	ValueOutput
+Semitone_22	0	4194304	Value	ValueOutput
+Semitone_23	0	4194304	Value	ValueOutput
+Semitone_24	0	4194304	Value	ValueOutput
+Semitone_25	0	4194304	Value	ValueOutput
+Semitone_26	0	4194304	Value	ValueOutput
+Semitone_27	0	4194304	Value	ValueOutput
+Semitone_28	0	4194304	Value	ValueOutput
+Semitone_29	0	4194304	Value	ValueOutput
+Semitone_30	0	4194304	Value	ValueOutput
+Semitone_31	0	4194304	Value	ValueOutput
+Semitone_32	0	4194304	Value	ValueOutput
+Semitone_33	0	4194304	Value	ValueOutput
+Semitone_34	0	4194304	Value	ValueOutput
+Semitone_35	0	4194304	Value	ValueOutput
+Semitone_36	0	4194304	Value	ValueOutput
+Semitone_37	0	4194304	Value	ValueOutput
+Semitone_38	0	4194304	Value	ValueOutput
+Semitone_39	0	4194304	Value	ValueOutput
+Semitone_40	0	4194304	Value	ValueOutput
+Semitone_41	0	4194304	Value	ValueOutput
+Semitone_42	0	4194304	Value	ValueOutput
+Semitone_43	0	4194304	Value	ValueOutput
+Semitone_44	0	4194304	Value	ValueOutput
+Semitone_45	0	4194304	Value	ValueOutput
+Semitone_46	0	4194304	Value	ValueOutput
+Semitone_47	0	4194304	Value	ValueOutput
+Semitone_48	0	4194304	Value	ValueOutput
+Semitone_49	0	4194304	Value	ValueOutput
+Semitone_50	0	4194304	Value	ValueOutput
+Semitone_51	0	4194304	Value	ValueOutput
+Semitone_52	0	4194304	Value	ValueOutput
+Semitone_53	0	4194304	Value	ValueOutput
+Semitone_54	0	4194304	Value	ValueOutput
+Semitone_55	0	4194304	Value	ValueOutput
+Semitone_56	0	4194304	Value	ValueOutput
+Semitone_57	0	4194304	Value	ValueOutput
+Semitone_58	0	4194304	Value	ValueOutput
+Semitone_59	0	4194304	Value	ValueOutput
+Semitone_60	0	4194304	Value	ValueOutput
+Semitone_61	0	4194304	Value	ValueOutput
+Semitone_62	0	4194304	Value	ValueOutput
+Semitone_63	0	4194304	Value	ValueOutput
+Semitone_64	0	4194304	Value	ValueOutput
+Octave_01	0	4194304	Value	ValueOutput
+Octave_02	0	4194304	Value	ValueOutput
+Octave_03	0	4194304	Value	ValueOutput
+Octave_04	0	4194304	Value	ValueOutput
+Octave_05	0	4194304	Value	ValueOutput
+Octave_06	0	4194304	Value	ValueOutput
+Octave_07	0	4194304	Value	ValueOutput
+Octave_08	0	4194304	Value	ValueOutput
+Octave_09	0	4194304	Value	ValueOutput
+Octave_10	0	4194304	Value	ValueOutput
+Octave_11	0	4194304	Value	ValueOutput
+Octave_12	0	4194304	Value	ValueOutput
+Octave_13	0	4194304	Value	ValueOutput
+Octave_14	0	4194304	Value	ValueOutput
+Octave_15	0	4194304	Value	ValueOutput
+Octave_16	0	4194304	Value	ValueOutput
+Octave_17	0	4194304	Value	ValueOutput
+Octave_18	0	4194304	Value	ValueOutput
+Octave_19	0	4194304	Value	ValueOutput
+Octave_20	0	4194304	Value	ValueOutput
+Octave_21	0	4194304	Value	ValueOutput
+Octave_22	0	4194304	Value	ValueOutput
+Octave_23	0	4194304	Value	ValueOutput
+Octave_24	0	4194304	Value	ValueOutput
+Octave_25	0	4194304	Value	ValueOutput
+Octave_26	0	4194304	Value	ValueOutput
+Octave_27	0	4194304	Value	ValueOutput
+Octave_28	0	4194304	Value	ValueOutput
+Octave_29	0	4194304	Value	ValueOutput
+Octave_30	0	4194304	Value	ValueOutput
+Octave_31	0	4194304	Value	ValueOutput
+Octave_32	0	4194304	Value	ValueOutput
+Octave_33	0	4194304	Value	ValueOutput
+Octave_34	0	4194304	Value	ValueOutput
+Octave_35	0	4194304	Value	ValueOutput
+Octave_36	0	4194304	Value	ValueOutput
+Octave_37	0	4194304	Value	ValueOutput
+Octave_38	0	4194304	Value	ValueOutput
+Octave_39	0	4194304	Value	ValueOutput
+Octave_40	0	4194304	Value	ValueOutput
+Octave_41	0	4194304	Value	ValueOutput
+Octave_42	0	4194304	Value	ValueOutput
+Octave_43	0	4194304	Value	ValueOutput
+Octave_44	0	4194304	Value	ValueOutput
+Octave_45	0	4194304	Value	ValueOutput
+Octave_46	0	4194304	Value	ValueOutput
+Octave_47	0	4194304	Value	ValueOutput
+Octave_48	0	4194304	Value	ValueOutput
+Octave_49	0	4194304	Value	ValueOutput
+Octave_50	0	4194304	Value	ValueOutput
+Octave_51	0	4194304	Value	ValueOutput
+Octave_52	0	4194304	Value	ValueOutput
+Octave_53	0	4194304	Value	ValueOutput
+Octave_54	0	4194304	Value	ValueOutput
+Octave_55	0	4194304	Value	ValueOutput
+Octave_56	0	4194304	Value	ValueOutput
+Octave_57	0	4194304	Value	ValueOutput
+Octave_58	0	4194304	Value	ValueOutput
+Octave_59	0	4194304	Value	ValueOutput
+Octave_60	0	4194304	Value	ValueOutput
+Octave_61	0	4194304	Value	ValueOutput
+Octave_62	0	4194304	Value	ValueOutput
+Octave_63	0	4194304	Value	ValueOutput
+Octave_64	0	4194304	Value	ValueOutput
+StepType_01	0	4194304	Value	ValueOutput
+StepType_02	0	4194304	Value	ValueOutput
+StepType_03	0	4194304	Value	ValueOutput
+StepType_04	0	4194304	Value	ValueOutput
+StepType_05	0	4194304	Value	ValueOutput
+StepType_06	0	4194304	Value	ValueOutput
+StepType_07	0	4194304	Value	ValueOutput
+StepType_08	0	4194304	Value	ValueOutput
+StepType_09	0	4194304	Value	ValueOutput
+StepType_10	0	4194304	Value	ValueOutput
+StepType_11	0	4194304	Value	ValueOutput
+StepType_12	0	4194304	Value	ValueOutput
+StepType_13	0	4194304	Value	ValueOutput
+StepType_14	0	4194304	Value	ValueOutput
+StepType_15	0	4194304	Value	ValueOutput
+StepType_16	0	4194304	Value	ValueOutput
+StepType_17	0	4194304	Value	ValueOutput
+StepType_18	0	4194304	Value	ValueOutput
+StepType_19	0	4194304	Value	ValueOutput
+StepType_20	0	4194304	Value	ValueOutput
+StepType_21	0	4194304	Value	ValueOutput
+StepType_22	0	4194304	Value	ValueOutput
+StepType_23	0	4194304	Value	ValueOutput
+StepType_24	0	4194304	Value	ValueOutput
+StepType_25	0	4194304	Value	ValueOutput
+StepType_26	0	4194304	Value	ValueOutput
+StepType_27	0	4194304	Value	ValueOutput
+StepType_28	0	4194304	Value	ValueOutput
+StepType_29	0	4194304	Value	ValueOutput
+StepType_30	0	4194304	Value	ValueOutput
+StepType_31	0	4194304	Value	ValueOutput
+StepType_32	0	4194304	Value	ValueOutput
+StepType_33	0	4194304	Value	ValueOutput
+StepType_34	0	4194304	Value	ValueOutput
+StepType_35	0	4194304	Value	ValueOutput
+StepType_36	0	4194304	Value	ValueOutput
+StepType_37	0	4194304	Value	ValueOutput
+StepType_38	0	4194304	Value	ValueOutput
+StepType_39	0	4194304	Value	ValueOutput
+StepType_40	0	4194304	Value	ValueOutput
+StepType_41	0	4194304	Value	ValueOutput
+StepType_42	0	4194304	Value	ValueOutput
+StepType_43	0	4194304	Value	ValueOutput
+StepType_44	0	4194304	Value	ValueOutput
+StepType_45	0	4194304	Value	ValueOutput
+StepType_46	0	4194304	Value	ValueOutput
+StepType_47	0	4194304	Value	ValueOutput
+StepType_48	0	4194304	Value	ValueOutput
+StepType_49	0	4194304	Value	ValueOutput
+StepType_50	0	4194304	Value	ValueOutput
+StepType_51	0	4194304	Value	ValueOutput
+StepType_52	0	4194304	Value	ValueOutput
+StepType_53	0	4194304	Value	ValueOutput
+StepType_54	0	4194304	Value	ValueOutput
+StepType_55	0	4194304	Value	ValueOutput
+StepType_56	0	4194304	Value	ValueOutput
+StepType_57	0	4194304	Value	ValueOutput
+StepType_58	0	4194304	Value	ValueOutput
+StepType_59	0	4194304	Value	ValueOutput
+StepType_60	0	4194304	Value	ValueOutput
+StepType_61	0	4194304	Value	ValueOutput
+StepType_62	0	4194304	Value	ValueOutput
+StepType_63	0	4194304	Value	ValueOutput
+StepType_64	0	4194304	Value	ValueOutput
+KeySelect_01	0	4194304	Value	ValueOutput
+KeySelect_02	0	4194304	Value	ValueOutput
+KeySelect_03	0	4194304	Value	ValueOutput
+KeySelect_04	0	4194304	Value	ValueOutput
+KeySelect_05	0	4194304	Value	ValueOutput
+KeySelect_06	0	4194304	Value	ValueOutput
+KeySelect_07	0	4194304	Value	ValueOutput
+KeySelect_08	0	4194304	Value	ValueOutput
+KeySelect_09	0	4194304	Value	ValueOutput
+KeySelect_10	0	4194304	Value	ValueOutput
+KeySelect_11	0	4194304	Value	ValueOutput
+KeySelect_12	0	4194304	Value	ValueOutput
+KeySelect_13	0	4194304	Value	ValueOutput
+KeySelect_14	0	4194304	Value	ValueOutput
+KeySelect_15	0	4194304	Value	ValueOutput
+KeySelect_16	0	4194304	Value	ValueOutput
+KeySelect_17	0	4194304	Value	ValueOutput
+KeySelect_18	0	4194304	Value	ValueOutput
+KeySelect_19	0	4194304	Value	ValueOutput
+KeySelect_20	0	4194304	Value	ValueOutput
+KeySelect_21	0	4194304	Value	ValueOutput
+KeySelect_22	0	4194304	Value	ValueOutput
+KeySelect_23	0	4194304	Value	ValueOutput
+KeySelect_24	0	4194304	Value	ValueOutput
+KeySelect_25	0	4194304	Value	ValueOutput
+KeySelect_26	0	4194304	Value	ValueOutput
+KeySelect_27	0	4194304	Value	ValueOutput
+KeySelect_28	0	4194304	Value	ValueOutput
+KeySelect_29	0	4194304	Value	ValueOutput
+KeySelect_30	0	4194304	Value	ValueOutput
+KeySelect_31	0	4194304	Value	ValueOutput
+KeySelect_32	0	4194304	Value	ValueOutput
+KeySelect_33	0	4194304	Value	ValueOutput
+KeySelect_34	0	4194304	Value	ValueOutput
+KeySelect_35	0	4194304	Value	ValueOutput
+KeySelect_36	0	4194304	Value	ValueOutput
+KeySelect_37	0	4194304	Value	ValueOutput
+KeySelect_38	0	4194304	Value	ValueOutput
+KeySelect_39	0	4194304	Value	ValueOutput
+KeySelect_40	0	4194304	Value	ValueOutput
+KeySelect_41	0	4194304	Value	ValueOutput
+KeySelect_42	0	4194304	Value	ValueOutput
+KeySelect_43	0	4194304	Value	ValueOutput
+KeySelect_44	0	4194304	Value	ValueOutput
+KeySelect_45	0	4194304	Value	ValueOutput
+KeySelect_46	0	4194304	Value	ValueOutput
+KeySelect_47	0	4194304	Value	ValueOutput
+KeySelect_48	0	4194304	Value	ValueOutput
+KeySelect_49	0	4194304	Value	ValueOutput
+KeySelect_50	0	4194304	Value	ValueOutput
+KeySelect_51	0	4194304	Value	ValueOutput
+KeySelect_52	0	4194304	Value	ValueOutput
+KeySelect_53	0	4194304	Value	ValueOutput
+KeySelect_54	0	4194304	Value	ValueOutput
+KeySelect_55	0	4194304	Value	ValueOutput
+KeySelect_56	0	4194304	Value	ValueOutput
+KeySelect_57	0	4194304	Value	ValueOutput
+KeySelect_58	0	4194304	Value	ValueOutput
+KeySelect_59	0	4194304	Value	ValueOutput
+KeySelect_60	0	4194304	Value	ValueOutput
+KeySelect_61	0	4194304	Value	ValueOutput
+KeySelect_62	0	4194304	Value	ValueOutput
+KeySelect_63	0	4194304	Value	ValueOutput
+KeySelect_64	0	4194304	Value	ValueOutput
+Velocity_01	0	4194304	Value	ValueOutput
+Velocity_02	0	4194304	Value	ValueOutput
+Velocity_03	0	4194304	Value	ValueOutput
+Velocity_04	0	4194304	Value	ValueOutput
+Velocity_05	0	4194304	Value	ValueOutput
+Velocity_06	0	4194304	Value	ValueOutput
+Velocity_07	0	4194304	Value	ValueOutput
+Velocity_08	0	4194304	Value	ValueOutput
+Velocity_09	0	4194304	Value	ValueOutput
+Velocity_10	0	4194304	Value	ValueOutput
+Velocity_11	0	4194304	Value	ValueOutput
+Velocity_12	0	4194304	Value	ValueOutput
+Velocity_13	0	4194304	Value	ValueOutput
+Velocity_14	0	4194304	Value	ValueOutput
+Velocity_15	0	4194304	Value	ValueOutput
+Velocity_16	0	4194304	Value	ValueOutput
+Velocity_17	0	4194304	Value	ValueOutput
+Velocity_18	0	4194304	Value	ValueOutput
+Velocity_19	0	4194304	Value	ValueOutput
+Velocity_20	0	4194304	Value	ValueOutput
+Velocity_21	0	4194304	Value	ValueOutput
+Velocity_22	0	4194304	Value	ValueOutput
+Velocity_23	0	4194304	Value	ValueOutput
+Velocity_24	0	4194304	Value	ValueOutput
+Velocity_25	0	4194304	Value	ValueOutput
+Velocity_26	0	4194304	Value	ValueOutput
+Velocity_27	0	4194304	Value	ValueOutput
+Velocity_28	0	4194304	Value	ValueOutput
+Velocity_29	0	4194304	Value	ValueOutput
+Velocity_30	0	4194304	Value	ValueOutput
+Velocity_31	0	4194304	Value	ValueOutput
+Velocity_32	0	4194304	Value	ValueOutput
+Velocity_33	0	4194304	Value	ValueOutput
+Velocity_34	0	4194304	Value	ValueOutput
+Velocity_35	0	4194304	Value	ValueOutput
+Velocity_36	0	4194304	Value	ValueOutput
+Velocity_37	0	4194304	Value	ValueOutput
+Velocity_38	0	4194304	Value	ValueOutput
+Velocity_39	0	4194304	Value	ValueOutput
+Velocity_40	0	4194304	Value	ValueOutput
+Velocity_41	0	4194304	Value	ValueOutput
+Velocity_42	0	4194304	Value	ValueOutput
+Velocity_43	0	4194304	Value	ValueOutput
+Velocity_44	0	4194304	Value	ValueOutput
+Velocity_45	0	4194304	Value	ValueOutput
+Velocity_46	0	4194304	Value	ValueOutput
+Velocity_47	0	4194304	Value	ValueOutput
+Velocity_48	0	4194304	Value	ValueOutput
+Velocity_49	0	4194304	Value	ValueOutput
+Velocity_50	0	4194304	Value	ValueOutput
+Velocity_51	0	4194304	Value	ValueOutput
+Velocity_52	0	4194304	Value	ValueOutput
+Velocity_53	0	4194304	Value	ValueOutput
+Velocity_54	0	4194304	Value	ValueOutput
+Velocity_55	0	4194304	Value	ValueOutput
+Velocity_56	0	4194304	Value	ValueOutput
+Velocity_57	0	4194304	Value	ValueOutput
+Velocity_58	0	4194304	Value	ValueOutput
+Velocity_59	0	4194304	Value	ValueOutput
+Velocity_60	0	4194304	Value	ValueOutput
+Velocity_61	0	4194304	Value	ValueOutput
+Velocity_62	0	4194304	Value	ValueOutput
+Velocity_63	0	4194304	Value	ValueOutput
+Velocity_64	0	4194304	Value	ValueOutput
+GateTime_01	0	4194304	Value	ValueOutput
+GateTime_02	0	4194304	Value	ValueOutput
+GateTime_03	0	4194304	Value	ValueOutput
+GateTime_04	0	4194304	Value	ValueOutput
+GateTime_05	0	4194304	Value	ValueOutput
+GateTime_06	0	4194304	Value	ValueOutput
+GateTime_07	0	4194304	Value	ValueOutput
+GateTime_08	0	4194304	Value	ValueOutput
+GateTime_09	0	4194304	Value	ValueOutput
+GateTime_10	0	4194304	Value	ValueOutput
+GateTime_11	0	4194304	Value	ValueOutput
+GateTime_12	0	4194304	Value	ValueOutput
+GateTime_13	0	4194304	Value	ValueOutput
+GateTime_14	0	4194304	Value	ValueOutput
+GateTime_15	0	4194304	Value	ValueOutput
+GateTime_16	0	4194304	Value	ValueOutput
+GateTime_17	0	4194304	Value	ValueOutput
+GateTime_18	0	4194304	Value	ValueOutput
+GateTime_19	0	4194304	Value	ValueOutput
+GateTime_20	0	4194304	Value	ValueOutput
+GateTime_21	0	4194304	Value	ValueOutput
+GateTime_22	0	4194304	Value	ValueOutput
+GateTime_23	0	4194304	Value	ValueOutput
+GateTime_24	0	4194304	Value	ValueOutput
+GateTime_25	0	4194304	Value	ValueOutput
+GateTime_26	0	4194304	Value	ValueOutput
+GateTime_27	0	4194304	Value	ValueOutput
+GateTime_28	0	4194304	Value	ValueOutput
+GateTime_29	0	4194304	Value	ValueOutput
+GateTime_30	0	4194304	Value	ValueOutput
+GateTime_31	0	4194304	Value	ValueOutput
+GateTime_32	0	4194304	Value	ValueOutput
+GateTime_33	0	4194304	Value	ValueOutput
+GateTime_34	0	4194304	Value	ValueOutput
+GateTime_35	0	4194304	Value	ValueOutput
+GateTime_36	0	4194304	Value	ValueOutput
+GateTime_37	0	4194304	Value	ValueOutput
+GateTime_38	0	4194304	Value	ValueOutput
+GateTime_39	0	4194304	Value	ValueOutput
+GateTime_40	0	4194304	Value	ValueOutput
+GateTime_41	0	4194304	Value	ValueOutput
+GateTime_42	0	4194304	Value	ValueOutput
+GateTime_43	0	4194304	Value	ValueOutput
+GateTime_44	0	4194304	Value	ValueOutput
+GateTime_45	0	4194304	Value	ValueOutput
+GateTime_46	0	4194304	Value	ValueOutput
+GateTime_47	0	4194304	Value	ValueOutput
+GateTime_48	0	4194304	Value	ValueOutput
+GateTime_49	0	4194304	Value	ValueOutput
+GateTime_50	0	4194304	Value	ValueOutput
+GateTime_51	0	4194304	Value	ValueOutput
+GateTime_52	0	4194304	Value	ValueOutput
+GateTime_53	0	4194304	Value	ValueOutput
+GateTime_54	0	4194304	Value	ValueOutput
+GateTime_55	0	4194304	Value	ValueOutput
+GateTime_56	0	4194304	Value	ValueOutput
+GateTime_57	0	4194304	Value	ValueOutput
+GateTime_58	0	4194304	Value	ValueOutput
+GateTime_59	0	4194304	Value	ValueOutput
+GateTime_60	0	4194304	Value	ValueOutput
+GateTime_61	0	4194304	Value	ValueOutput
+GateTime_62	0	4194304	Value	ValueOutput
+GateTime_63	0	4194304	Value	ValueOutput
+GateTime_64	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

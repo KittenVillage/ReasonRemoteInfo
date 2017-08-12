@@ -1,0 +1,20 @@
+Scope
+Manufacturer	Model
+Josh Levy	com.joshlevy.TickTick
+
+Remotable	Min	Max	Input type	Output type
+Run	0	1	Toggle	ValueOutput
+First	0	1	Toggle	ValueOutput
+Enable Pattern Playback	0	1	Toggle	ValueOutput
+Direction	0	3	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+Accent	0	4194304	Value	ValueOutput
+Shuffle	0	4194304	Value	ValueOutput
+Resolution	0	11	Value	ValueOutput
+Number of Steps	0	31	Value	ValueOutput
+Chain Number of Repeats	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

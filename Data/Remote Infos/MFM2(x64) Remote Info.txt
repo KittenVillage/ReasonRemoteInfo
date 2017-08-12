@@ -1,0 +1,181 @@
+Scope
+Manufacturer	Model
+u-he	vst.MFM2.MFM2(x64)
+Note: Will match scope definitions for vst.MFM2.MFM2(x64) or vst.MFM2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+main: Output	0	4194304	Value	ValueOutput
+PCore: Matrix1 Source	0	4194304	Value	ValueOutput
+PCore: Matrix1 Depth	0	4194304	Value	ValueOutput
+PCore: Matrix1 ViaSrc	0	4194304	Value	ValueOutput
+PCore: Matrix1 Via	0	4194304	Value	ValueOutput
+PCore: Matrix2 Source	0	4194304	Value	ValueOutput
+PCore: Matrix2 Depth	0	4194304	Value	ValueOutput
+PCore: Matrix2 ViaSrc	0	4194304	Value	ValueOutput
+PCore: Matrix2 Via	0	4194304	Value	ValueOutput
+PCore: Matrix3 Source	0	4194304	Value	ValueOutput
+PCore: Matrix3 Depth	0	4194304	Value	ValueOutput
+PCore: Matrix3 ViaSrc	0	4194304	Value	ValueOutput
+PCore: Matrix3 Via	0	4194304	Value	ValueOutput
+PCore: Matrix4 Source	0	4194304	Value	ValueOutput
+PCore: Matrix4 Depth	0	4194304	Value	ValueOutput
+PCore: Matrix4 ViaSrc	0	4194304	Value	ValueOutput
+PCore: Matrix4 Via	0	4194304	Value	ValueOutput
+Midi: Active #LFO1	0	4194304	Value	ValueOutput
+Midi: Active #LFO2	0	4194304	Value	ValueOutput
+Midi: Active #LFO3	0	4194304	Value	ValueOutput
+Midi: Active #LFO4	0	4194304	Value	ValueOutput
+Midi: Mode	0	4194304	Value	ValueOutput
+Midi: Portamento	0	4194304	Value	ValueOutput
+Midi: Transpose	0	4194304	Value	ValueOutput
+Midi: FineTuneCents	0	4194304	Value	ValueOutput
+Midi: InternalNote	0	4194304	Value	ValueOutput
+Midi: InternalVel	0	4194304	Value	ValueOutput
+MSEG1: Velocity	0	4194304	Value	ValueOutput
+MSEG1: Attack	0	4194304	Value	ValueOutput
+MSEG1: Loop	0	4194304	Value	ValueOutput
+MSEG1: Release	0	4194304	Value	ValueOutput
+MSEG2: Velocity	0	4194304	Value	ValueOutput
+MSEG2: Attack	0	4194304	Value	ValueOutput
+MSEG2: Loop	0	4194304	Value	ValueOutput
+MSEG2: Release	0	4194304	Value	ValueOutput
+LFO1: Sync	0	4194304	Value	ValueOutput
+LFO1: Delay	0	4194304	Value	ValueOutput
+LFO2: Sync	0	4194304	Value	ValueOutput
+LFO2: Delay	0	4194304	Value	ValueOutput
+LFO3: Sync	0	4194304	Value	ValueOutput
+LFO3: Delay	0	4194304	Value	ValueOutput
+LFO4: Sync	0	4194304	Value	ValueOutput
+LFO4: Delay	0	4194304	Value	ValueOutput
+MFM2: Dry	0	4194304	Value	ValueOutput
+MFM2: MasterFeedback	0	4194304	Value	ValueOutput
+MFM2: Wet	0	4194304	Value	ValueOutput
+MFM2: SoftClip12	0	4194304	Value	ValueOutput
+MFM2: SoftClipDpt12	0	4194304	Value	ValueOutput
+MFM2: Decimate12	0	4194304	Value	ValueOutput
+MFM2: DecimateDpt12	0	4194304	Value	ValueOutput
+MFM2: FreqShift12	0	4194304	Value	ValueOutput
+MFM2: FreqDpt12	0	4194304	Value	ValueOutput
+MFM2: PhaseC12	0	4194304	Value	ValueOutput
+MFM2: PhaseDpt12	0	4194304	Value	ValueOutput
+MFM2: PhaseFB12	0	4194304	Value	ValueOutput
+MFM2: HiPass12	0	4194304	Value	ValueOutput
+MFM2: LoPass12	0	4194304	Value	ValueOutput
+MFM2: SoftClip34	0	4194304	Value	ValueOutput
+MFM2: SoftClipDpt34	0	4194304	Value	ValueOutput
+MFM2: Decimate34	0	4194304	Value	ValueOutput
+MFM2: DecimateDpt34	0	4194304	Value	ValueOutput
+MFM2: FreqShift34	0	4194304	Value	ValueOutput
+MFM2: FreqDpt34	0	4194304	Value	ValueOutput
+MFM2: PhaseC34	0	4194304	Value	ValueOutput
+MFM2: PhaseDpt34	0	4194304	Value	ValueOutput
+MFM2: PhaseFB34	0	4194304	Value	ValueOutput
+MFM2: HiPass34	0	4194304	Value	ValueOutput
+MFM2: LoPass34	0	4194304	Value	ValueOutput
+MFM2: CompThreshold1	0	4194304	Value	ValueOutput
+MFM2: Compression1	0	4194304	Value	ValueOutput
+MFM2: CompAttack1	0	4194304	Value	ValueOutput
+MFM2: CompRelease1	0	4194304	Value	ValueOutput
+MFM2: CompOutput1	0	4194304	Value	ValueOutput
+MFM2: CompThreshold2	0	4194304	Value	ValueOutput
+MFM2: Compression2	0	4194304	Value	ValueOutput
+MFM2: CompAttack2	0	4194304	Value	ValueOutput
+MFM2: CompRelease2	0	4194304	Value	ValueOutput
+MFM2: CompOutput2	0	4194304	Value	ValueOutput
+MFMc1: Ratio	0	4194304	Value	ValueOutput
+MFMc1: RatioDpt	0	4194304	Value	ValueOutput
+MFMc1: MilliSec	0	4194304	Value	ValueOutput
+MFMc1: MilliDpt	0	4194304	Value	ValueOutput
+MFMc1: Tune	0	4194304	Value	ValueOutput
+MFMc1: TuneSrc	0	4194304	Value	ValueOutput
+MFMc1: TuneDpt	0	4194304	Value	ValueOutput
+MFMc1: Feedback1	0	4194304	Value	ValueOutput
+MFMc1: Feedback2	0	4194304	Value	ValueOutput
+MFMc1: Feedback3	0	4194304	Value	ValueOutput
+MFMc1: Feedback4	0	4194304	Value	ValueOutput
+MFMc1: Pan	0	4194304	Value	ValueOutput
+MFMc1: PanDpt	0	4194304	Value	ValueOutput
+MFMc1: Output	0	4194304	Value	ValueOutput
+MFMc1: OutDpt	0	4194304	Value	ValueOutput
+MFMc1: Filter	0	4194304	Value	ValueOutput
+MFMc1: Cutoff	0	4194304	Value	ValueOutput
+MFMc1: Resonance	0	4194304	Value	ValueOutput
+MFMc1: FiltDpt	0	4194304	Value	ValueOutput
+MFMc1: KeyFollow	0	4194304	Value	ValueOutput
+MFMc2: Ratio	0	4194304	Value	ValueOutput
+MFMc2: RatioDpt	0	4194304	Value	ValueOutput
+MFMc2: MilliSec	0	4194304	Value	ValueOutput
+MFMc2: MilliDpt	0	4194304	Value	ValueOutput
+MFMc2: Tune	0	4194304	Value	ValueOutput
+MFMc2: TuneSrc	0	4194304	Value	ValueOutput
+MFMc2: TuneDpt	0	4194304	Value	ValueOutput
+MFMc2: Feedback1	0	4194304	Value	ValueOutput
+MFMc2: Feedback2	0	4194304	Value	ValueOutput
+MFMc2: Feedback3	0	4194304	Value	ValueOutput
+MFMc2: Feedback4	0	4194304	Value	ValueOutput
+MFMc2: Pan	0	4194304	Value	ValueOutput
+MFMc2: PanDpt	0	4194304	Value	ValueOutput
+MFMc2: Output	0	4194304	Value	ValueOutput
+MFMc2: OutDpt	0	4194304	Value	ValueOutput
+MFMc2: Filter	0	4194304	Value	ValueOutput
+MFMc2: Cutoff	0	4194304	Value	ValueOutput
+MFMc2: Resonance	0	4194304	Value	ValueOutput
+MFMc2: FiltDpt	0	4194304	Value	ValueOutput
+MFMc2: KeyFollow	0	4194304	Value	ValueOutput
+MFMc3: Ratio	0	4194304	Value	ValueOutput
+MFMc3: RatioDpt	0	4194304	Value	ValueOutput
+MFMc3: MilliSec	0	4194304	Value	ValueOutput
+MFMc3: MilliDpt	0	4194304	Value	ValueOutput
+MFMc3: Tune	0	4194304	Value	ValueOutput
+MFMc3: TuneSrc	0	4194304	Value	ValueOutput
+MFMc3: TuneDpt	0	4194304	Value	ValueOutput
+MFMc3: Feedback1	0	4194304	Value	ValueOutput
+MFMc3: Feedback2	0	4194304	Value	ValueOutput
+MFMc3: Feedback3	0	4194304	Value	ValueOutput
+MFMc3: Feedback4	0	4194304	Value	ValueOutput
+MFMc3: Pan	0	4194304	Value	ValueOutput
+MFMc3: PanDpt	0	4194304	Value	ValueOutput
+MFMc3: Output	0	4194304	Value	ValueOutput
+MFMc3: OutDpt	0	4194304	Value	ValueOutput
+MFMc3: Filter	0	4194304	Value	ValueOutput
+MFMc3: Cutoff	0	4194304	Value	ValueOutput
+MFMc3: Resonance	0	4194304	Value	ValueOutput
+MFMc3: FiltDpt	0	4194304	Value	ValueOutput
+MFMc3: KeyFollow	0	4194304	Value	ValueOutput
+MFMc4: Ratio	0	4194304	Value	ValueOutput
+MFMc4: RatioDpt	0	4194304	Value	ValueOutput
+MFMc4: MilliSec	0	4194304	Value	ValueOutput
+MFMc4: MilliDpt	0	4194304	Value	ValueOutput
+MFMc4: Tune	0	4194304	Value	ValueOutput
+MFMc4: TuneSrc	0	4194304	Value	ValueOutput
+MFMc4: TuneDpt	0	4194304	Value	ValueOutput
+MFMc4: Feedback1	0	4194304	Value	ValueOutput
+MFMc4: Feedback2	0	4194304	Value	ValueOutput
+MFMc4: Feedback3	0	4194304	Value	ValueOutput
+MFMc4: Feedback4	0	4194304	Value	ValueOutput
+MFMc4: Pan	0	4194304	Value	ValueOutput
+MFMc4: PanDpt	0	4194304	Value	ValueOutput
+MFMc4: Output	0	4194304	Value	ValueOutput
+MFMc4: OutDpt	0	4194304	Value	ValueOutput
+MFMc4: Filter	0	4194304	Value	ValueOutput
+MFMc4: Cutoff	0	4194304	Value	ValueOutput
+MFMc4: Resonance	0	4194304	Value	ValueOutput
+MFMc4: FiltDpt	0	4194304	Value	ValueOutput
+MFMc4: KeyFollow	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

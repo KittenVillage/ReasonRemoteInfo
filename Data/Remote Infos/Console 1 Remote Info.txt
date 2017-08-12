@@ -1,0 +1,63 @@
+Scope
+Manufacturer	Model
+Softube	vst.ScPi.Console 1
+Note: Will match scope definitions for vst.ScPi.Console 1 or vst.ScPi
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+InpGain	0	4194304	Value	ValueOutput
+High Cut	0	4194304	Value	ValueOutput
+Low Cut	0	4194304	Value	ValueOutput
+FltToCmp	0	4194304	Value	ValueOutput
+PhaseInv	0	4194304	Value	ValueOutput
+Shape On	0	4194304	Value	ValueOutput
+Shp Gate	0	4194304	Value	ValueOutput
+ShpHdGt	0	4194304	Value	ValueOutput
+ShpGtRel	0	4194304	Value	ValueOutput
+ShpSusta	0	4194304	Value	ValueOutput
+ShpPunch	0	4194304	Value	ValueOutput
+EQ On	0	4194304	Value	ValueOutput
+EQLType	0	4194304	Value	ValueOutput
+EQLFreq	0	4194304	Value	ValueOutput
+EQLGain	0	4194304	Value	ValueOutput
+EQLMFreq	0	4194304	Value	ValueOutput
+EQLMQ	0	4194304	Value	ValueOutput
+EQLMGain	0	4194304	Value	ValueOutput
+EQHMFreq	0	4194304	Value	ValueOutput
+EQHMQ	0	4194304	Value	ValueOutput
+EQHMGain	0	4194304	Value	ValueOutput
+EQHType	0	4194304	Value	ValueOutput
+EQHFreq	0	4194304	Value	ValueOutput
+EQHGain	0	4194304	Value	ValueOutput
+Comp On	0	4194304	Value	ValueOutput
+CompRat	0	4194304	Value	ValueOutput
+CompPar	0	4194304	Value	ValueOutput
+CompAtt	0	4194304	Value	ValueOutput
+CompRel	0	4194304	Value	ValueOutput
+CompThrs	0	4194304	Value	ValueOutput
+Order	0	4194304	Value	ValueOutput
+ExtSC	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+DriveChr	0	4194304	Value	ValueOutput
+Pan Bal	0	4194304	Value	ValueOutput
+Solo	0	4194304	Value	ValueOutput
+Mute	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+SoloSafe	0	4194304	Value	ValueOutput
+ICCounte	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

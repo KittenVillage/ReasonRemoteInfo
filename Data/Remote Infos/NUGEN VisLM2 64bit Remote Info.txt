@@ -1,0 +1,114 @@
+Scope
+Manufacturer	Model
+NUGEN Audio	vst.NWM2.NUGEN VisLM2 64bit
+Note: Will match scope definitions for vst.NWM2.NUGEN VisLM2 64bit or vst.NWM2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Ballistics	0	4194304	Value	ValueOutput
+Offset	0	4194304	Value	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+dBTP Clip	0	4194304	Value	ValueOutput
+Int Play	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+LM Split1	0	4194304	Value	ValueOutput
+LM Split2	0	4194304	Value	ValueOutput
+LM Split3	0	4194304	Value	ValueOutput
+LM Split4	0	4194304	Value	ValueOutput
+LM Col0	0	4194304	Value	ValueOutput
+LM Col1	0	4194304	Value	ValueOutput
+LM Col2	0	4194304	Value	ValueOutput
+LM Col3	0	4194304	Value	ValueOutput
+LM Col4	0	4194304	Value	ValueOutput
+TP Split1	0	4194304	Value	ValueOutput
+TP Split2	0	4194304	Value	ValueOutput
+TP Split3	0	4194304	Value	ValueOutput
+TP Split4	0	4194304	Value	ValueOutput
+TP Col0	0	4194304	Value	ValueOutput
+TP Col1	0	4194304	Value	ValueOutput
+TP Col2	0	4194304	Value	ValueOutput
+TP Col3	0	4194304	Value	ValueOutput
+TP Col4	0	4194304	Value	ValueOutput
+Text Colour	0	4194304	Value	ValueOutput
+Text Colour Opa	0	4194304	Value	ValueOutput
+Loudness Peak H	0	4194304	Value	ValueOutput
+True-Peak Peak 	0	4194304	Value	ValueOutput
+True-Peak Temp 	0	4194304	Value	ValueOutput
+TP Hold Time	0	4194304	Value	ValueOutput
+Show M Readout	0	4194304	Value	ValueOutput
+LM Scale Upper	0	4194304	Value	ValueOutput
+LM Scale Lower	0	4194304	Value	ValueOutput
+TP Scale Upper	0	4194304	Value	ValueOutput
+TP Scale Lower	0	4194304	Value	ValueOutput
+History Graph O	0	4194304	Value	ValueOutput
+Active Min Mome	0	4194304	Value	ValueOutput
+Active Min Shor	0	4194304	Value	ValueOutput
+Active Min Inte	0	4194304	Value	ValueOutput
+Active Min LRA	0	4194304	Value	ValueOutput
+Active Max Mome	0	4194304	Value	ValueOutput
+Active Max Shor	0	4194304	Value	ValueOutput
+Active Max Inte	0	4194304	Value	ValueOutput
+Active Max LRA	0	4194304	Value	ValueOutput
+Alert Min Momen	0	4194304	Value	ValueOutput
+Alert Min Short	0	4194304	Value	ValueOutput
+Alert Min Integ	0	4194304	Value	ValueOutput
+Alert Min LRA	0	4194304	Value	ValueOutput
+Alert Max Momen	0	4194304	Value	ValueOutput
+Alert Max Short	0	4194304	Value	ValueOutput
+Alert Max Integ	0	4194304	Value	ValueOutput
+Alert Max LRA	0	4194304	Value	ValueOutput
+Period Min Mome	0	4194304	Value	ValueOutput
+Period Min Shor	0	4194304	Value	ValueOutput
+Period Min Inte	0	4194304	Value	ValueOutput
+Period Min LRA 	0	4194304	Value	ValueOutput
+Period Max Mome	0	4194304	Value	ValueOutput
+Period Max Shor	0	4194304	Value	ValueOutput
+Period Max Inte	0	4194304	Value	ValueOutput
+Period Max LRA 	0	4194304	Value	ValueOutput
+MaxDisplay	0	4194304	Value	ValueOutput
+Int Reset	0	4194304	Value	ValueOutput
+S Window	0	4194304	Value	ValueOutput
+AUTO Alert Mome	0	4194304	Value	ValueOutput
+AUTO Alert Mome	0	4194304	Value	ValueOutput
+AUTO Alert Shor	0	4194304	Value	ValueOutput
+AUTO Alert Shor	0	4194304	Value	ValueOutput
+AUTO Alert Inte	0	4194304	Value	ValueOutput
+AUTO Alert Inte	0	4194304	Value	ValueOutput
+AUTO Alert LRA 	0	4194304	Value	ValueOutput
+AUTO Alert LRA 	0	4194304	Value	ValueOutput
+AUTO TP Clip	0	4194304	Value	ValueOutput
+AUTO M Loudness	0	4194304	Value	ValueOutput
+AUTO S Loudness	0	4194304	Value	ValueOutput
+AUTO Integrated	0	4194304	Value	ValueOutput
+History Time Mo	0	4194304	Value	ValueOutput
+History Time	0	4194304	Value	ValueOutput
+Middle Re-sizer	0	4194304	Value	ValueOutput
+Show Graph Int	0	4194304	Value	ValueOutput
+Show Graph TP	0	4194304	Value	ValueOutput
+Show Graph M	0	4194304	Value	ValueOutput
+Show Graph S	0	4194304	Value	ValueOutput
+Show Graph LEQ	0	4194304	Value	ValueOutput
+Show Graph V	0	4194304	Value	ValueOutput
+Show Macro	0	4194304	Value	ValueOutput
+Show Show Butto	0	4194304	Value	ValueOutput
+LM Configuratio	0	4194304	Value	ValueOutput
+Show Loudness	0	4194304	Value	ValueOutput
+Show LM and TP 	0	4194304	Value	ValueOutput
+Show TP Meters	0	4194304	Value	ValueOutput
+Previous Panel	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

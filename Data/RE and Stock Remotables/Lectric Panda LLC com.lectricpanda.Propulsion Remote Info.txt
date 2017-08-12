@@ -1,0 +1,50 @@
+Scope
+Manufacturer	Model
+Lectric Panda LLC	com.lectricpanda.Propulsion
+
+Remotable	Min	Max	Input type	Output type
+Mute 1	0	1	Toggle	ValueOutput
+Mute 2	0	1	Toggle	ValueOutput
+Mute 3	0	1	Toggle	ValueOutput
+Mute 4	0	1	Toggle	ValueOutput
+Mute 5	0	1	Toggle	ValueOutput
+Mute 6	0	1	Toggle	ValueOutput
+Mute 7	0	1	Toggle	ValueOutput
+Mute 8	0	1	Toggle	ValueOutput
+Mute 9	0	1	Toggle	ValueOutput
+Mute 10	0	1	Toggle	ValueOutput
+Mute 11	0	1	Toggle	ValueOutput
+Mute 12	0	1	Toggle	ValueOutput
+Mute 13	0	1	Toggle	ValueOutput
+Mute 14	0	1	Toggle	ValueOutput
+Mute 15	0	1	Toggle	ValueOutput
+Mute 16	0	1	Toggle	ValueOutput
+Solo 1	0	1	Toggle	ValueOutput
+Solo 2	0	1	Toggle	ValueOutput
+Solo 3	0	1	Toggle	ValueOutput
+Solo 4	0	1	Toggle	ValueOutput
+Solo 5	0	1	Toggle	ValueOutput
+Solo 6	0	1	Toggle	ValueOutput
+Solo 7	0	1	Toggle	ValueOutput
+Solo 8	0	1	Toggle	ValueOutput
+Solo 9	0	1	Toggle	ValueOutput
+Solo 10	0	1	Toggle	ValueOutput
+Solo 11	0	1	Toggle	ValueOutput
+Solo 12	0	1	Toggle	ValueOutput
+Solo 13	0	1	Toggle	ValueOutput
+Solo 14	0	1	Toggle	ValueOutput
+Solo 15	0	1	Toggle	ValueOutput
+Solo 16	0	1	Toggle	ValueOutput
+Pattern	0	15	Value	ValueOutput
+Sync	0	2	Value	ValueOutput
+Rate Synced	0	9	Value	ValueOutput
+Rate Free	0	4194304	Value	ValueOutput
+Shuffle	0	4194304	Value	ValueOutput
+Run	0	1	Toggle	ValueOutput
+Lane	0	16	-	ValueOutput
+All Lanes	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

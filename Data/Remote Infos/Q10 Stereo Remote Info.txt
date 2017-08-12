@@ -1,0 +1,79 @@
+Scope
+Manufacturer	Model
+Waves	vst.EQAS.WaveShell-VST 9_91_x64.Q10 Stereo
+Note: Will match scope definitions for vst.EQAS.WaveShell-VST 9_91_x64.Q10 Stereo or vst.EQAS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Band 1 On/Off	0	4194304	Value	ValueOutput
+Band 1 Type	0	4194304	Value	ValueOutput
+Band 1 Gain	0	4194304	Value	ValueOutput
+Band 1 Frq	0	4194304	Value	ValueOutput
+Band 1 Q	0	4194304	Value	ValueOutput
+Band 2 On/Off	0	4194304	Value	ValueOutput
+Band 2 Type	0	4194304	Value	ValueOutput
+Band 2 Gain	0	4194304	Value	ValueOutput
+Band 2 Frq	0	4194304	Value	ValueOutput
+Band 2 Q	0	4194304	Value	ValueOutput
+Band 3 On/Off	0	4194304	Value	ValueOutput
+Band 3 Type	0	4194304	Value	ValueOutput
+Band 3 Gain	0	4194304	Value	ValueOutput
+Band 3 Frq	0	4194304	Value	ValueOutput
+Band 3 Q	0	4194304	Value	ValueOutput
+Band 4 On/Off	0	4194304	Value	ValueOutput
+Band 4 Type	0	4194304	Value	ValueOutput
+Band 4 Gain	0	4194304	Value	ValueOutput
+Band 4 Frq	0	4194304	Value	ValueOutput
+Band 4 Q	0	4194304	Value	ValueOutput
+Band 5 On/Off	0	4194304	Value	ValueOutput
+Band 5 Type	0	4194304	Value	ValueOutput
+Band 5 Gain	0	4194304	Value	ValueOutput
+Band 5 Frq	0	4194304	Value	ValueOutput
+Band 5 Q	0	4194304	Value	ValueOutput
+Band 6 On/Off	0	4194304	Value	ValueOutput
+Band 6 Type	0	4194304	Value	ValueOutput
+Band 6 Gain	0	4194304	Value	ValueOutput
+Band 6 Frq	0	4194304	Value	ValueOutput
+Band 6 Q	0	4194304	Value	ValueOutput
+Band 7 On/Off	0	4194304	Value	ValueOutput
+Band 7 Type	0	4194304	Value	ValueOutput
+Band 7 Gain	0	4194304	Value	ValueOutput
+Band 7 Frq	0	4194304	Value	ValueOutput
+Band 7 Q	0	4194304	Value	ValueOutput
+Band 8 On/Off	0	4194304	Value	ValueOutput
+Band 8 Type	0	4194304	Value	ValueOutput
+Band 8 Gain	0	4194304	Value	ValueOutput
+Band 8 Frq	0	4194304	Value	ValueOutput
+Band 8 Q	0	4194304	Value	ValueOutput
+Band 9 On/Off	0	4194304	Value	ValueOutput
+Band 9 Type	0	4194304	Value	ValueOutput
+Band 9 Gain	0	4194304	Value	ValueOutput
+Band 9 Frq	0	4194304	Value	ValueOutput
+Band 9 Q	0	4194304	Value	ValueOutput
+Band 10 On/Off	0	4194304	Value	ValueOutput
+Band 10 Type	0	4194304	Value	ValueOutput
+Band 10 Gain	0	4194304	Value	ValueOutput
+Band 10 Frq	0	4194304	Value	ValueOutput
+Band 10 Q	0	4194304	Value	ValueOutput
+In Gain Left	0	4194304	Value	ValueOutput
+In Gain Right	0	4194304	Value	ValueOutput
+Out Gain Left	0	4194304	Value	ValueOutput
+Out Gain Right	0	4194304	Value	ValueOutput
+Inv L	0	4194304	Value	ValueOutput
+Inv R	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

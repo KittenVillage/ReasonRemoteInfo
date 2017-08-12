@@ -1,0 +1,233 @@
+Scope
+Manufacturer	Model
+Illformed	vst.igl2.Glitch2
+Note: Will match scope definitions for vst.igl2.Glitch2 or vst.igl2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+RND:Weight	0	4194304	Value	ValueOutput
+MST:Mix	0	4194304	Value	ValueOutput
+MST:Pan	0	4194304	Value	ValueOutput
+MST:Volume	0	4194304	Value	ValueOutput
+MST:Unused	0	4194304	Value	ValueOutput
+MST:Unused	0	4194304	Value	ValueOutput
+MST:Unused	0	4194304	Value	ValueOutput
+MST:Unused	0	4194304	Value	ValueOutput
+MST:Unused	0	4194304	Value	ValueOutput
+MST:Unused	0	4194304	Value	ValueOutput
+MOD:Weight	0	4194304	Value	ValueOutput
+MOD:Mix	0	4194304	Value	ValueOutput
+MOD:Pan	0	4194304	Value	ValueOutput
+MOD:Volume	0	4194304	Value	ValueOutput
+MOD:Type	0	4194304	Value	ValueOutput
+MOD:Freq	0	4194304	Value	ValueOutput
+MOD:Q	0	4194304	Value	ValueOutput
+MOD:Frequency	0	4194304	Value	ValueOutput
+MOD:Depth	0	4194304	Value	ValueOutput
+MOD:Osc Vol	0	4194304	Value	ValueOutput
+MOD:FM Depth	0	4194304	Value	ValueOutput
+MOD:FM Attack	0	4194304	Value	ValueOutput
+MOD:FM Release	0	4194304	Value	ValueOutput
+MOD:Spread	0	4194304	Value	ValueOutput
+MOD:Unused	0	4194304	Value	ValueOutput
+MOD:Unused	0	4194304	Value	ValueOutput
+MOD:Unused	0	4194304	Value	ValueOutput
+MOD:Unused	0	4194304	Value	ValueOutput
+MOD:Unused	0	4194304	Value	ValueOutput
+MOD:Unused	0	4194304	Value	ValueOutput
+TAP:Weight	0	4194304	Value	ValueOutput
+TAP:Mix	0	4194304	Value	ValueOutput
+TAP:Pan	0	4194304	Value	ValueOutput
+TAP:Volume	0	4194304	Value	ValueOutput
+TAP:Type	0	4194304	Value	ValueOutput
+TAP:Freq	0	4194304	Value	ValueOutput
+TAP:Q	0	4194304	Value	ValueOutput
+TAP:Slow Down	0	4194304	Value	ValueOutput
+TAP:Speed Up	0	4194304	Value	ValueOutput
+TAP:Mode	0	4194304	Value	ValueOutput
+TAP:Play Mode	0	4194304	Value	ValueOutput
+TAP:Unused	0	4194304	Value	ValueOutput
+TAP:Unused	0	4194304	Value	ValueOutput
+TAP:Unused	0	4194304	Value	ValueOutput
+TAP:Unused	0	4194304	Value	ValueOutput
+TAP:Unused	0	4194304	Value	ValueOutput
+TAP:Unused	0	4194304	Value	ValueOutput
+TAP:Unused	0	4194304	Value	ValueOutput
+TAP:Unused	0	4194304	Value	ValueOutput
+TAP:Unused	0	4194304	Value	ValueOutput
+RET:Weight	0	4194304	Value	ValueOutput
+RET:Mix	0	4194304	Value	ValueOutput
+RET:Pan	0	4194304	Value	ValueOutput
+RET:Volume	0	4194304	Value	ValueOutput
+RET:Type	0	4194304	Value	ValueOutput
+RET:Freq	0	4194304	Value	ValueOutput
+RET:Q	0	4194304	Value	ValueOutput
+RET:Mode	0	4194304	Value	ValueOutput
+RET:Initial Spe	0	4194304	Value	ValueOutput
+RET:Final Speed	0	4194304	Value	ValueOutput
+RET:Transition	0	4194304	Value	ValueOutput
+RET:Decay	0	4194304	Value	ValueOutput
+RET:Unused	0	4194304	Value	ValueOutput
+RET:Unused	0	4194304	Value	ValueOutput
+RET:Unused	0	4194304	Value	ValueOutput
+RET:Unused	0	4194304	Value	ValueOutput
+RET:Unused	0	4194304	Value	ValueOutput
+RET:Unused	0	4194304	Value	ValueOutput
+RET:Unused	0	4194304	Value	ValueOutput
+RET:Unused	0	4194304	Value	ValueOutput
+REV:Weight	0	4194304	Value	ValueOutput
+REV:Mix	0	4194304	Value	ValueOutput
+REV:Pan	0	4194304	Value	ValueOutput
+REV:Volume	0	4194304	Value	ValueOutput
+REV:Type	0	4194304	Value	ValueOutput
+REV:Freq	0	4194304	Value	ValueOutput
+REV:Q	0	4194304	Value	ValueOutput
+REV:Time	0	4194304	Value	ValueOutput
+REV:Mode	0	4194304	Value	ValueOutput
+REV:Point A	0	4194304	Value	ValueOutput
+REV:Point B	0	4194304	Value	ValueOutput
+REV:Unused	0	4194304	Value	ValueOutput
+REV:Unused	0	4194304	Value	ValueOutput
+REV:Unused	0	4194304	Value	ValueOutput
+REV:Unused	0	4194304	Value	ValueOutput
+REV:Unused	0	4194304	Value	ValueOutput
+REV:Unused	0	4194304	Value	ValueOutput
+REV:Unused	0	4194304	Value	ValueOutput
+REV:Unused	0	4194304	Value	ValueOutput
+REV:Unused	0	4194304	Value	ValueOutput
+STR:Weight	0	4194304	Value	ValueOutput
+STR:Mix	0	4194304	Value	ValueOutput
+STR:Pan	0	4194304	Value	ValueOutput
+STR:Volume	0	4194304	Value	ValueOutput
+STR:Type	0	4194304	Value	ValueOutput
+STR:Freq	0	4194304	Value	ValueOutput
+STR:Q	0	4194304	Value	ValueOutput
+STR:Speed	0	4194304	Value	ValueOutput
+STR:Grain Size	0	4194304	Value	ValueOutput
+STR:Smoothing	0	4194304	Value	ValueOutput
+STR:GM Depth	0	4194304	Value	ValueOutput
+STR:GM Attack	0	4194304	Value	ValueOutput
+STR:GM Release	0	4194304	Value	ValueOutput
+STR:Jitter	0	4194304	Value	ValueOutput
+STR:Unused	0	4194304	Value	ValueOutput
+STR:Unused	0	4194304	Value	ValueOutput
+STR:Unused	0	4194304	Value	ValueOutput
+STR:Unused	0	4194304	Value	ValueOutput
+STR:Unused	0	4194304	Value	ValueOutput
+STR:Unused	0	4194304	Value	ValueOutput
+LFI:Weight	0	4194304	Value	ValueOutput
+LFI:Mix	0	4194304	Value	ValueOutput
+LFI:Pan	0	4194304	Value	ValueOutput
+LFI:Volume	0	4194304	Value	ValueOutput
+LFI:Type	0	4194304	Value	ValueOutput
+LFI:Freq	0	4194304	Value	ValueOutput
+LFI:Q	0	4194304	Value	ValueOutput
+LFI:Frequency	0	4194304	Value	ValueOutput
+LFI:Bit Depth	0	4194304	Value	ValueOutput
+LFI:Type	0	4194304	Value	ValueOutput
+LFI:FM Depth	0	4194304	Value	ValueOutput
+LFI:FM Attack	0	4194304	Value	ValueOutput
+LFI:FM Release	0	4194304	Value	ValueOutput
+LFI:Unused	0	4194304	Value	ValueOutput
+LFI:Unused	0	4194304	Value	ValueOutput
+LFI:Unused	0	4194304	Value	ValueOutput
+LFI:Unused	0	4194304	Value	ValueOutput
+LFI:Unused	0	4194304	Value	ValueOutput
+LFI:Unused	0	4194304	Value	ValueOutput
+LFI:Unused	0	4194304	Value	ValueOutput
+DIS:Weight	0	4194304	Value	ValueOutput
+DIS:Mix	0	4194304	Value	ValueOutput
+DIS:Pan	0	4194304	Value	ValueOutput
+DIS:Volume	0	4194304	Value	ValueOutput
+DIS:Type	0	4194304	Value	ValueOutput
+DIS:Freq	0	4194304	Value	ValueOutput
+DIS:Q	0	4194304	Value	ValueOutput
+DIS:Type	0	4194304	Value	ValueOutput
+DIS:Drive	0	4194304	Value	ValueOutput
+DIS:Tone	0	4194304	Value	ValueOutput
+DIS:Wet	0	4194304	Value	ValueOutput
+DIS:Dry	0	4194304	Value	ValueOutput
+DIS:Unused	0	4194304	Value	ValueOutput
+DIS:Unused	0	4194304	Value	ValueOutput
+DIS:Unused	0	4194304	Value	ValueOutput
+DIS:Unused	0	4194304	Value	ValueOutput
+DIS:Unused	0	4194304	Value	ValueOutput
+DIS:Unused	0	4194304	Value	ValueOutput
+DIS:Unused	0	4194304	Value	ValueOutput
+DIS:Unused	0	4194304	Value	ValueOutput
+GAT:Weight	0	4194304	Value	ValueOutput
+GAT:Mix	0	4194304	Value	ValueOutput
+GAT:Pan	0	4194304	Value	ValueOutput
+GAT:Volume	0	4194304	Value	ValueOutput
+GAT:Type	0	4194304	Value	ValueOutput
+GAT:Freq	0	4194304	Value	ValueOutput
+GAT:Q	0	4194304	Value	ValueOutput
+GAT:Smoothing	0	4194304	Value	ValueOutput
+GAT:Step Time	0	4194304	Value	ValueOutput
+GAT:Mode	0	4194304	Value	ValueOutput
+GAT:Vol Steps	0	4194304	Value	ValueOutput
+GAT:Unused	0	4194304	Value	ValueOutput
+GAT:Unused	0	4194304	Value	ValueOutput
+GAT:Unused	0	4194304	Value	ValueOutput
+GAT:Unused	0	4194304	Value	ValueOutput
+GAT:Unused	0	4194304	Value	ValueOutput
+GAT:Unused	0	4194304	Value	ValueOutput
+GAT:Unused	0	4194304	Value	ValueOutput
+GAT:Unused	0	4194304	Value	ValueOutput
+GAT:Unused	0	4194304	Value	ValueOutput
+DLY:Weight	0	4194304	Value	ValueOutput
+DLY:Mix	0	4194304	Value	ValueOutput
+DLY:Pan	0	4194304	Value	ValueOutput
+DLY:Volume	0	4194304	Value	ValueOutput
+DLY:Type	0	4194304	Value	ValueOutput
+DLY:Freq	0	4194304	Value	ValueOutput
+DLY:Q	0	4194304	Value	ValueOutput
+DLY:Time	0	4194304	Value	ValueOutput
+DLY:Mode	0	4194304	Value	ValueOutput
+DLY:Feedback	0	4194304	Value	ValueOutput
+DLY:Slew	0	4194304	Value	ValueOutput
+DLY:Send	0	4194304	Value	ValueOutput
+DLY:Spread	0	4194304	Value	ValueOutput
+DLY:Return	0	4194304	Value	ValueOutput
+DLY:Unused	0	4194304	Value	ValueOutput
+DLY:Unused	0	4194304	Value	ValueOutput
+DLY:Unused	0	4194304	Value	ValueOutput
+DLY:Unused	0	4194304	Value	ValueOutput
+DLY:Unused	0	4194304	Value	ValueOutput
+DLY:Unused	0	4194304	Value	ValueOutput
+SHF:Weight	0	4194304	Value	ValueOutput
+SHF:Mix	0	4194304	Value	ValueOutput
+SHF:Pan	0	4194304	Value	ValueOutput
+SHF:Volume	0	4194304	Value	ValueOutput
+SHF:Type	0	4194304	Value	ValueOutput
+SHF:Freq	0	4194304	Value	ValueOutput
+SHF:Q	0	4194304	Value	ValueOutput
+SHF:Mode	0	4194304	Value	ValueOutput
+SHF:Min Time	0	4194304	Value	ValueOutput
+SHF:Max Time	0	4194304	Value	ValueOutput
+SHF:Shuffle	0	4194304	Value	ValueOutput
+SHF:Range	0	4194304	Value	ValueOutput
+SHF:Repeat	0	4194304	Value	ValueOutput
+SHF:Reverse	0	4194304	Value	ValueOutput
+SHF:Unused	0	4194304	Value	ValueOutput
+SHF:Unused	0	4194304	Value	ValueOutput
+SHF:Unused	0	4194304	Value	ValueOutput
+SHF:Unused	0	4194304	Value	ValueOutput
+SHF:Unused	0	4194304	Value	ValueOutput
+SHF:Unused	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

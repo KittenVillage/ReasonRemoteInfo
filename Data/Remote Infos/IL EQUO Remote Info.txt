@@ -1,0 +1,865 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.EQUO.IL EQUO
+Note: Will match scope definitions for vst.EQUO.IL EQUO or vst.EQUO
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Band shift	0	4194304	Value	ValueOutput
+Band mix	0	4194304	Value	ValueOutput
+Morph between banks	0	4194304	Value	ValueOutput
+Motion smoothness	0	4194304	Value	ValueOutput
+Output vol	0	4194304	Value	ValueOutput
+Bank 0 vol band 1	0	4194304	Value	ValueOutput
+Bank 0 vol band 2	0	4194304	Value	ValueOutput
+Bank 0 vol band 3	0	4194304	Value	ValueOutput
+Bank 0 vol band 4	0	4194304	Value	ValueOutput
+Bank 0 vol band 5	0	4194304	Value	ValueOutput
+Bank 0 vol band 6	0	4194304	Value	ValueOutput
+Bank 0 vol band 7	0	4194304	Value	ValueOutput
+Bank 0 vol band 8	0	4194304	Value	ValueOutput
+Bank 0 vol band 9	0	4194304	Value	ValueOutput
+Bank 0 vol band 10	0	4194304	Value	ValueOutput
+Bank 0 vol band 11	0	4194304	Value	ValueOutput
+Bank 0 vol band 12	0	4194304	Value	ValueOutput
+Bank 0 vol band 13	0	4194304	Value	ValueOutput
+Bank 0 vol band 14	0	4194304	Value	ValueOutput
+Bank 0 vol band 15	0	4194304	Value	ValueOutput
+Bank 0 vol band 16	0	4194304	Value	ValueOutput
+Bank 0 vol band 17	0	4194304	Value	ValueOutput
+Bank 0 vol band 18	0	4194304	Value	ValueOutput
+Bank 0 vol band 19	0	4194304	Value	ValueOutput
+Bank 0 vol band 20	0	4194304	Value	ValueOutput
+Bank 0 vol band 21	0	4194304	Value	ValueOutput
+Bank 0 vol band 22	0	4194304	Value	ValueOutput
+Bank 0 vol band 23	0	4194304	Value	ValueOutput
+Bank 0 vol band 24	0	4194304	Value	ValueOutput
+Bank 0 vol band 25	0	4194304	Value	ValueOutput
+Bank 0 vol band 26	0	4194304	Value	ValueOutput
+Bank 0 vol band 27	0	4194304	Value	ValueOutput
+Bank 0 vol band 28	0	4194304	Value	ValueOutput
+Bank 0 vol band 29	0	4194304	Value	ValueOutput
+Bank 0 vol band 30	0	4194304	Value	ValueOutput
+Bank 0 vol band 31	0	4194304	Value	ValueOutput
+Bank 0 pan band 1	0	4194304	Value	ValueOutput
+Bank 0 pan band 2	0	4194304	Value	ValueOutput
+Bank 0 pan band 3	0	4194304	Value	ValueOutput
+Bank 0 pan band 4	0	4194304	Value	ValueOutput
+Bank 0 pan band 5	0	4194304	Value	ValueOutput
+Bank 0 pan band 6	0	4194304	Value	ValueOutput
+Bank 0 pan band 7	0	4194304	Value	ValueOutput
+Bank 0 pan band 8	0	4194304	Value	ValueOutput
+Bank 0 pan band 9	0	4194304	Value	ValueOutput
+Bank 0 pan band 10	0	4194304	Value	ValueOutput
+Bank 0 pan band 11	0	4194304	Value	ValueOutput
+Bank 0 pan band 12	0	4194304	Value	ValueOutput
+Bank 0 pan band 13	0	4194304	Value	ValueOutput
+Bank 0 pan band 14	0	4194304	Value	ValueOutput
+Bank 0 pan band 15	0	4194304	Value	ValueOutput
+Bank 0 pan band 16	0	4194304	Value	ValueOutput
+Bank 0 pan band 17	0	4194304	Value	ValueOutput
+Bank 0 pan band 18	0	4194304	Value	ValueOutput
+Bank 0 pan band 19	0	4194304	Value	ValueOutput
+Bank 0 pan band 20	0	4194304	Value	ValueOutput
+Bank 0 pan band 21	0	4194304	Value	ValueOutput
+Bank 0 pan band 22	0	4194304	Value	ValueOutput
+Bank 0 pan band 23	0	4194304	Value	ValueOutput
+Bank 0 pan band 24	0	4194304	Value	ValueOutput
+Bank 0 pan band 25	0	4194304	Value	ValueOutput
+Bank 0 pan band 26	0	4194304	Value	ValueOutput
+Bank 0 pan band 27	0	4194304	Value	ValueOutput
+Bank 0 pan band 28	0	4194304	Value	ValueOutput
+Bank 0 pan band 29	0	4194304	Value	ValueOutput
+Bank 0 pan band 30	0	4194304	Value	ValueOutput
+Bank 0 pan band 31	0	4194304	Value	ValueOutput
+Bank 0 send band 1	0	4194304	Value	ValueOutput
+Bank 0 send band 2	0	4194304	Value	ValueOutput
+Bank 0 send band 3	0	4194304	Value	ValueOutput
+Bank 0 send band 4	0	4194304	Value	ValueOutput
+Bank 0 send band 5	0	4194304	Value	ValueOutput
+Bank 0 send band 6	0	4194304	Value	ValueOutput
+Bank 0 send band 7	0	4194304	Value	ValueOutput
+Bank 0 send band 8	0	4194304	Value	ValueOutput
+Bank 0 send band 9	0	4194304	Value	ValueOutput
+Bank 0 send band 10	0	4194304	Value	ValueOutput
+Bank 0 send band 11	0	4194304	Value	ValueOutput
+Bank 0 send band 12	0	4194304	Value	ValueOutput
+Bank 0 send band 13	0	4194304	Value	ValueOutput
+Bank 0 send band 14	0	4194304	Value	ValueOutput
+Bank 0 send band 15	0	4194304	Value	ValueOutput
+Bank 0 send band 16	0	4194304	Value	ValueOutput
+Bank 0 send band 17	0	4194304	Value	ValueOutput
+Bank 0 send band 18	0	4194304	Value	ValueOutput
+Bank 0 send band 19	0	4194304	Value	ValueOutput
+Bank 0 send band 20	0	4194304	Value	ValueOutput
+Bank 0 send band 21	0	4194304	Value	ValueOutput
+Bank 0 send band 22	0	4194304	Value	ValueOutput
+Bank 0 send band 23	0	4194304	Value	ValueOutput
+Bank 0 send band 24	0	4194304	Value	ValueOutput
+Bank 0 send band 25	0	4194304	Value	ValueOutput
+Bank 0 send band 26	0	4194304	Value	ValueOutput
+Bank 0 send band 27	0	4194304	Value	ValueOutput
+Bank 0 send band 28	0	4194304	Value	ValueOutput
+Bank 0 send band 29	0	4194304	Value	ValueOutput
+Bank 0 send band 30	0	4194304	Value	ValueOutput
+Bank 0 send band 31	0	4194304	Value	ValueOutput
+Bank 1 vol band 1	0	4194304	Value	ValueOutput
+Bank 1 vol band 2	0	4194304	Value	ValueOutput
+Bank 1 vol band 3	0	4194304	Value	ValueOutput
+Bank 1 vol band 4	0	4194304	Value	ValueOutput
+Bank 1 vol band 5	0	4194304	Value	ValueOutput
+Bank 1 vol band 6	0	4194304	Value	ValueOutput
+Bank 1 vol band 7	0	4194304	Value	ValueOutput
+Bank 1 vol band 8	0	4194304	Value	ValueOutput
+Bank 1 vol band 9	0	4194304	Value	ValueOutput
+Bank 1 vol band 10	0	4194304	Value	ValueOutput
+Bank 1 vol band 11	0	4194304	Value	ValueOutput
+Bank 1 vol band 12	0	4194304	Value	ValueOutput
+Bank 1 vol band 13	0	4194304	Value	ValueOutput
+Bank 1 vol band 14	0	4194304	Value	ValueOutput
+Bank 1 vol band 15	0	4194304	Value	ValueOutput
+Bank 1 vol band 16	0	4194304	Value	ValueOutput
+Bank 1 vol band 17	0	4194304	Value	ValueOutput
+Bank 1 vol band 18	0	4194304	Value	ValueOutput
+Bank 1 vol band 19	0	4194304	Value	ValueOutput
+Bank 1 vol band 20	0	4194304	Value	ValueOutput
+Bank 1 vol band 21	0	4194304	Value	ValueOutput
+Bank 1 vol band 22	0	4194304	Value	ValueOutput
+Bank 1 vol band 23	0	4194304	Value	ValueOutput
+Bank 1 vol band 24	0	4194304	Value	ValueOutput
+Bank 1 vol band 25	0	4194304	Value	ValueOutput
+Bank 1 vol band 26	0	4194304	Value	ValueOutput
+Bank 1 vol band 27	0	4194304	Value	ValueOutput
+Bank 1 vol band 28	0	4194304	Value	ValueOutput
+Bank 1 vol band 29	0	4194304	Value	ValueOutput
+Bank 1 vol band 30	0	4194304	Value	ValueOutput
+Bank 1 vol band 31	0	4194304	Value	ValueOutput
+Bank 1 pan band 1	0	4194304	Value	ValueOutput
+Bank 1 pan band 2	0	4194304	Value	ValueOutput
+Bank 1 pan band 3	0	4194304	Value	ValueOutput
+Bank 1 pan band 4	0	4194304	Value	ValueOutput
+Bank 1 pan band 5	0	4194304	Value	ValueOutput
+Bank 1 pan band 6	0	4194304	Value	ValueOutput
+Bank 1 pan band 7	0	4194304	Value	ValueOutput
+Bank 1 pan band 8	0	4194304	Value	ValueOutput
+Bank 1 pan band 9	0	4194304	Value	ValueOutput
+Bank 1 pan band 10	0	4194304	Value	ValueOutput
+Bank 1 pan band 11	0	4194304	Value	ValueOutput
+Bank 1 pan band 12	0	4194304	Value	ValueOutput
+Bank 1 pan band 13	0	4194304	Value	ValueOutput
+Bank 1 pan band 14	0	4194304	Value	ValueOutput
+Bank 1 pan band 15	0	4194304	Value	ValueOutput
+Bank 1 pan band 16	0	4194304	Value	ValueOutput
+Bank 1 pan band 17	0	4194304	Value	ValueOutput
+Bank 1 pan band 18	0	4194304	Value	ValueOutput
+Bank 1 pan band 19	0	4194304	Value	ValueOutput
+Bank 1 pan band 20	0	4194304	Value	ValueOutput
+Bank 1 pan band 21	0	4194304	Value	ValueOutput
+Bank 1 pan band 22	0	4194304	Value	ValueOutput
+Bank 1 pan band 23	0	4194304	Value	ValueOutput
+Bank 1 pan band 24	0	4194304	Value	ValueOutput
+Bank 1 pan band 25	0	4194304	Value	ValueOutput
+Bank 1 pan band 26	0	4194304	Value	ValueOutput
+Bank 1 pan band 27	0	4194304	Value	ValueOutput
+Bank 1 pan band 28	0	4194304	Value	ValueOutput
+Bank 1 pan band 29	0	4194304	Value	ValueOutput
+Bank 1 pan band 30	0	4194304	Value	ValueOutput
+Bank 1 pan band 31	0	4194304	Value	ValueOutput
+Bank 1 send band 1	0	4194304	Value	ValueOutput
+Bank 1 send band 2	0	4194304	Value	ValueOutput
+Bank 1 send band 3	0	4194304	Value	ValueOutput
+Bank 1 send band 4	0	4194304	Value	ValueOutput
+Bank 1 send band 5	0	4194304	Value	ValueOutput
+Bank 1 send band 6	0	4194304	Value	ValueOutput
+Bank 1 send band 7	0	4194304	Value	ValueOutput
+Bank 1 send band 8	0	4194304	Value	ValueOutput
+Bank 1 send band 9	0	4194304	Value	ValueOutput
+Bank 1 send band 10	0	4194304	Value	ValueOutput
+Bank 1 send band 11	0	4194304	Value	ValueOutput
+Bank 1 send band 12	0	4194304	Value	ValueOutput
+Bank 1 send band 13	0	4194304	Value	ValueOutput
+Bank 1 send band 14	0	4194304	Value	ValueOutput
+Bank 1 send band 15	0	4194304	Value	ValueOutput
+Bank 1 send band 16	0	4194304	Value	ValueOutput
+Bank 1 send band 17	0	4194304	Value	ValueOutput
+Bank 1 send band 18	0	4194304	Value	ValueOutput
+Bank 1 send band 19	0	4194304	Value	ValueOutput
+Bank 1 send band 20	0	4194304	Value	ValueOutput
+Bank 1 send band 21	0	4194304	Value	ValueOutput
+Bank 1 send band 22	0	4194304	Value	ValueOutput
+Bank 1 send band 23	0	4194304	Value	ValueOutput
+Bank 1 send band 24	0	4194304	Value	ValueOutput
+Bank 1 send band 25	0	4194304	Value	ValueOutput
+Bank 1 send band 26	0	4194304	Value	ValueOutput
+Bank 1 send band 27	0	4194304	Value	ValueOutput
+Bank 1 send band 28	0	4194304	Value	ValueOutput
+Bank 1 send band 29	0	4194304	Value	ValueOutput
+Bank 1 send band 30	0	4194304	Value	ValueOutput
+Bank 1 send band 31	0	4194304	Value	ValueOutput
+Bank 2 vol band 1	0	4194304	Value	ValueOutput
+Bank 2 vol band 2	0	4194304	Value	ValueOutput
+Bank 2 vol band 3	0	4194304	Value	ValueOutput
+Bank 2 vol band 4	0	4194304	Value	ValueOutput
+Bank 2 vol band 5	0	4194304	Value	ValueOutput
+Bank 2 vol band 6	0	4194304	Value	ValueOutput
+Bank 2 vol band 7	0	4194304	Value	ValueOutput
+Bank 2 vol band 8	0	4194304	Value	ValueOutput
+Bank 2 vol band 9	0	4194304	Value	ValueOutput
+Bank 2 vol band 10	0	4194304	Value	ValueOutput
+Bank 2 vol band 11	0	4194304	Value	ValueOutput
+Bank 2 vol band 12	0	4194304	Value	ValueOutput
+Bank 2 vol band 13	0	4194304	Value	ValueOutput
+Bank 2 vol band 14	0	4194304	Value	ValueOutput
+Bank 2 vol band 15	0	4194304	Value	ValueOutput
+Bank 2 vol band 16	0	4194304	Value	ValueOutput
+Bank 2 vol band 17	0	4194304	Value	ValueOutput
+Bank 2 vol band 18	0	4194304	Value	ValueOutput
+Bank 2 vol band 19	0	4194304	Value	ValueOutput
+Bank 2 vol band 20	0	4194304	Value	ValueOutput
+Bank 2 vol band 21	0	4194304	Value	ValueOutput
+Bank 2 vol band 22	0	4194304	Value	ValueOutput
+Bank 2 vol band 23	0	4194304	Value	ValueOutput
+Bank 2 vol band 24	0	4194304	Value	ValueOutput
+Bank 2 vol band 25	0	4194304	Value	ValueOutput
+Bank 2 vol band 26	0	4194304	Value	ValueOutput
+Bank 2 vol band 27	0	4194304	Value	ValueOutput
+Bank 2 vol band 28	0	4194304	Value	ValueOutput
+Bank 2 vol band 29	0	4194304	Value	ValueOutput
+Bank 2 vol band 30	0	4194304	Value	ValueOutput
+Bank 2 vol band 31	0	4194304	Value	ValueOutput
+Bank 2 pan band 1	0	4194304	Value	ValueOutput
+Bank 2 pan band 2	0	4194304	Value	ValueOutput
+Bank 2 pan band 3	0	4194304	Value	ValueOutput
+Bank 2 pan band 4	0	4194304	Value	ValueOutput
+Bank 2 pan band 5	0	4194304	Value	ValueOutput
+Bank 2 pan band 6	0	4194304	Value	ValueOutput
+Bank 2 pan band 7	0	4194304	Value	ValueOutput
+Bank 2 pan band 8	0	4194304	Value	ValueOutput
+Bank 2 pan band 9	0	4194304	Value	ValueOutput
+Bank 2 pan band 10	0	4194304	Value	ValueOutput
+Bank 2 pan band 11	0	4194304	Value	ValueOutput
+Bank 2 pan band 12	0	4194304	Value	ValueOutput
+Bank 2 pan band 13	0	4194304	Value	ValueOutput
+Bank 2 pan band 14	0	4194304	Value	ValueOutput
+Bank 2 pan band 15	0	4194304	Value	ValueOutput
+Bank 2 pan band 16	0	4194304	Value	ValueOutput
+Bank 2 pan band 17	0	4194304	Value	ValueOutput
+Bank 2 pan band 18	0	4194304	Value	ValueOutput
+Bank 2 pan band 19	0	4194304	Value	ValueOutput
+Bank 2 pan band 20	0	4194304	Value	ValueOutput
+Bank 2 pan band 21	0	4194304	Value	ValueOutput
+Bank 2 pan band 22	0	4194304	Value	ValueOutput
+Bank 2 pan band 23	0	4194304	Value	ValueOutput
+Bank 2 pan band 24	0	4194304	Value	ValueOutput
+Bank 2 pan band 25	0	4194304	Value	ValueOutput
+Bank 2 pan band 26	0	4194304	Value	ValueOutput
+Bank 2 pan band 27	0	4194304	Value	ValueOutput
+Bank 2 pan band 28	0	4194304	Value	ValueOutput
+Bank 2 pan band 29	0	4194304	Value	ValueOutput
+Bank 2 pan band 30	0	4194304	Value	ValueOutput
+Bank 2 pan band 31	0	4194304	Value	ValueOutput
+Bank 2 send band 1	0	4194304	Value	ValueOutput
+Bank 2 send band 2	0	4194304	Value	ValueOutput
+Bank 2 send band 3	0	4194304	Value	ValueOutput
+Bank 2 send band 4	0	4194304	Value	ValueOutput
+Bank 2 send band 5	0	4194304	Value	ValueOutput
+Bank 2 send band 6	0	4194304	Value	ValueOutput
+Bank 2 send band 7	0	4194304	Value	ValueOutput
+Bank 2 send band 8	0	4194304	Value	ValueOutput
+Bank 2 send band 9	0	4194304	Value	ValueOutput
+Bank 2 send band 10	0	4194304	Value	ValueOutput
+Bank 2 send band 11	0	4194304	Value	ValueOutput
+Bank 2 send band 12	0	4194304	Value	ValueOutput
+Bank 2 send band 13	0	4194304	Value	ValueOutput
+Bank 2 send band 14	0	4194304	Value	ValueOutput
+Bank 2 send band 15	0	4194304	Value	ValueOutput
+Bank 2 send band 16	0	4194304	Value	ValueOutput
+Bank 2 send band 17	0	4194304	Value	ValueOutput
+Bank 2 send band 18	0	4194304	Value	ValueOutput
+Bank 2 send band 19	0	4194304	Value	ValueOutput
+Bank 2 send band 20	0	4194304	Value	ValueOutput
+Bank 2 send band 21	0	4194304	Value	ValueOutput
+Bank 2 send band 22	0	4194304	Value	ValueOutput
+Bank 2 send band 23	0	4194304	Value	ValueOutput
+Bank 2 send band 24	0	4194304	Value	ValueOutput
+Bank 2 send band 25	0	4194304	Value	ValueOutput
+Bank 2 send band 26	0	4194304	Value	ValueOutput
+Bank 2 send band 27	0	4194304	Value	ValueOutput
+Bank 2 send band 28	0	4194304	Value	ValueOutput
+Bank 2 send band 29	0	4194304	Value	ValueOutput
+Bank 2 send band 30	0	4194304	Value	ValueOutput
+Bank 2 send band 31	0	4194304	Value	ValueOutput
+Bank 3 vol band 1	0	4194304	Value	ValueOutput
+Bank 3 vol band 2	0	4194304	Value	ValueOutput
+Bank 3 vol band 3	0	4194304	Value	ValueOutput
+Bank 3 vol band 4	0	4194304	Value	ValueOutput
+Bank 3 vol band 5	0	4194304	Value	ValueOutput
+Bank 3 vol band 6	0	4194304	Value	ValueOutput
+Bank 3 vol band 7	0	4194304	Value	ValueOutput
+Bank 3 vol band 8	0	4194304	Value	ValueOutput
+Bank 3 vol band 9	0	4194304	Value	ValueOutput
+Bank 3 vol band 10	0	4194304	Value	ValueOutput
+Bank 3 vol band 11	0	4194304	Value	ValueOutput
+Bank 3 vol band 12	0	4194304	Value	ValueOutput
+Bank 3 vol band 13	0	4194304	Value	ValueOutput
+Bank 3 vol band 14	0	4194304	Value	ValueOutput
+Bank 3 vol band 15	0	4194304	Value	ValueOutput
+Bank 3 vol band 16	0	4194304	Value	ValueOutput
+Bank 3 vol band 17	0	4194304	Value	ValueOutput
+Bank 3 vol band 18	0	4194304	Value	ValueOutput
+Bank 3 vol band 19	0	4194304	Value	ValueOutput
+Bank 3 vol band 20	0	4194304	Value	ValueOutput
+Bank 3 vol band 21	0	4194304	Value	ValueOutput
+Bank 3 vol band 22	0	4194304	Value	ValueOutput
+Bank 3 vol band 23	0	4194304	Value	ValueOutput
+Bank 3 vol band 24	0	4194304	Value	ValueOutput
+Bank 3 vol band 25	0	4194304	Value	ValueOutput
+Bank 3 vol band 26	0	4194304	Value	ValueOutput
+Bank 3 vol band 27	0	4194304	Value	ValueOutput
+Bank 3 vol band 28	0	4194304	Value	ValueOutput
+Bank 3 vol band 29	0	4194304	Value	ValueOutput
+Bank 3 vol band 30	0	4194304	Value	ValueOutput
+Bank 3 vol band 31	0	4194304	Value	ValueOutput
+Bank 3 pan band 1	0	4194304	Value	ValueOutput
+Bank 3 pan band 2	0	4194304	Value	ValueOutput
+Bank 3 pan band 3	0	4194304	Value	ValueOutput
+Bank 3 pan band 4	0	4194304	Value	ValueOutput
+Bank 3 pan band 5	0	4194304	Value	ValueOutput
+Bank 3 pan band 6	0	4194304	Value	ValueOutput
+Bank 3 pan band 7	0	4194304	Value	ValueOutput
+Bank 3 pan band 8	0	4194304	Value	ValueOutput
+Bank 3 pan band 9	0	4194304	Value	ValueOutput
+Bank 3 pan band 10	0	4194304	Value	ValueOutput
+Bank 3 pan band 11	0	4194304	Value	ValueOutput
+Bank 3 pan band 12	0	4194304	Value	ValueOutput
+Bank 3 pan band 13	0	4194304	Value	ValueOutput
+Bank 3 pan band 14	0	4194304	Value	ValueOutput
+Bank 3 pan band 15	0	4194304	Value	ValueOutput
+Bank 3 pan band 16	0	4194304	Value	ValueOutput
+Bank 3 pan band 17	0	4194304	Value	ValueOutput
+Bank 3 pan band 18	0	4194304	Value	ValueOutput
+Bank 3 pan band 19	0	4194304	Value	ValueOutput
+Bank 3 pan band 20	0	4194304	Value	ValueOutput
+Bank 3 pan band 21	0	4194304	Value	ValueOutput
+Bank 3 pan band 22	0	4194304	Value	ValueOutput
+Bank 3 pan band 23	0	4194304	Value	ValueOutput
+Bank 3 pan band 24	0	4194304	Value	ValueOutput
+Bank 3 pan band 25	0	4194304	Value	ValueOutput
+Bank 3 pan band 26	0	4194304	Value	ValueOutput
+Bank 3 pan band 27	0	4194304	Value	ValueOutput
+Bank 3 pan band 28	0	4194304	Value	ValueOutput
+Bank 3 pan band 29	0	4194304	Value	ValueOutput
+Bank 3 pan band 30	0	4194304	Value	ValueOutput
+Bank 3 pan band 31	0	4194304	Value	ValueOutput
+Bank 3 send band 1	0	4194304	Value	ValueOutput
+Bank 3 send band 2	0	4194304	Value	ValueOutput
+Bank 3 send band 3	0	4194304	Value	ValueOutput
+Bank 3 send band 4	0	4194304	Value	ValueOutput
+Bank 3 send band 5	0	4194304	Value	ValueOutput
+Bank 3 send band 6	0	4194304	Value	ValueOutput
+Bank 3 send band 7	0	4194304	Value	ValueOutput
+Bank 3 send band 8	0	4194304	Value	ValueOutput
+Bank 3 send band 9	0	4194304	Value	ValueOutput
+Bank 3 send band 10	0	4194304	Value	ValueOutput
+Bank 3 send band 11	0	4194304	Value	ValueOutput
+Bank 3 send band 12	0	4194304	Value	ValueOutput
+Bank 3 send band 13	0	4194304	Value	ValueOutput
+Bank 3 send band 14	0	4194304	Value	ValueOutput
+Bank 3 send band 15	0	4194304	Value	ValueOutput
+Bank 3 send band 16	0	4194304	Value	ValueOutput
+Bank 3 send band 17	0	4194304	Value	ValueOutput
+Bank 3 send band 18	0	4194304	Value	ValueOutput
+Bank 3 send band 19	0	4194304	Value	ValueOutput
+Bank 3 send band 20	0	4194304	Value	ValueOutput
+Bank 3 send band 21	0	4194304	Value	ValueOutput
+Bank 3 send band 22	0	4194304	Value	ValueOutput
+Bank 3 send band 23	0	4194304	Value	ValueOutput
+Bank 3 send band 24	0	4194304	Value	ValueOutput
+Bank 3 send band 25	0	4194304	Value	ValueOutput
+Bank 3 send band 26	0	4194304	Value	ValueOutput
+Bank 3 send band 27	0	4194304	Value	ValueOutput
+Bank 3 send band 28	0	4194304	Value	ValueOutput
+Bank 3 send band 29	0	4194304	Value	ValueOutput
+Bank 3 send band 30	0	4194304	Value	ValueOutput
+Bank 3 send band 31	0	4194304	Value	ValueOutput
+Bank 4 vol band 1	0	4194304	Value	ValueOutput
+Bank 4 vol band 2	0	4194304	Value	ValueOutput
+Bank 4 vol band 3	0	4194304	Value	ValueOutput
+Bank 4 vol band 4	0	4194304	Value	ValueOutput
+Bank 4 vol band 5	0	4194304	Value	ValueOutput
+Bank 4 vol band 6	0	4194304	Value	ValueOutput
+Bank 4 vol band 7	0	4194304	Value	ValueOutput
+Bank 4 vol band 8	0	4194304	Value	ValueOutput
+Bank 4 vol band 9	0	4194304	Value	ValueOutput
+Bank 4 vol band 10	0	4194304	Value	ValueOutput
+Bank 4 vol band 11	0	4194304	Value	ValueOutput
+Bank 4 vol band 12	0	4194304	Value	ValueOutput
+Bank 4 vol band 13	0	4194304	Value	ValueOutput
+Bank 4 vol band 14	0	4194304	Value	ValueOutput
+Bank 4 vol band 15	0	4194304	Value	ValueOutput
+Bank 4 vol band 16	0	4194304	Value	ValueOutput
+Bank 4 vol band 17	0	4194304	Value	ValueOutput
+Bank 4 vol band 18	0	4194304	Value	ValueOutput
+Bank 4 vol band 19	0	4194304	Value	ValueOutput
+Bank 4 vol band 20	0	4194304	Value	ValueOutput
+Bank 4 vol band 21	0	4194304	Value	ValueOutput
+Bank 4 vol band 22	0	4194304	Value	ValueOutput
+Bank 4 vol band 23	0	4194304	Value	ValueOutput
+Bank 4 vol band 24	0	4194304	Value	ValueOutput
+Bank 4 vol band 25	0	4194304	Value	ValueOutput
+Bank 4 vol band 26	0	4194304	Value	ValueOutput
+Bank 4 vol band 27	0	4194304	Value	ValueOutput
+Bank 4 vol band 28	0	4194304	Value	ValueOutput
+Bank 4 vol band 29	0	4194304	Value	ValueOutput
+Bank 4 vol band 30	0	4194304	Value	ValueOutput
+Bank 4 vol band 31	0	4194304	Value	ValueOutput
+Bank 4 pan band 1	0	4194304	Value	ValueOutput
+Bank 4 pan band 2	0	4194304	Value	ValueOutput
+Bank 4 pan band 3	0	4194304	Value	ValueOutput
+Bank 4 pan band 4	0	4194304	Value	ValueOutput
+Bank 4 pan band 5	0	4194304	Value	ValueOutput
+Bank 4 pan band 6	0	4194304	Value	ValueOutput
+Bank 4 pan band 7	0	4194304	Value	ValueOutput
+Bank 4 pan band 8	0	4194304	Value	ValueOutput
+Bank 4 pan band 9	0	4194304	Value	ValueOutput
+Bank 4 pan band 10	0	4194304	Value	ValueOutput
+Bank 4 pan band 11	0	4194304	Value	ValueOutput
+Bank 4 pan band 12	0	4194304	Value	ValueOutput
+Bank 4 pan band 13	0	4194304	Value	ValueOutput
+Bank 4 pan band 14	0	4194304	Value	ValueOutput
+Bank 4 pan band 15	0	4194304	Value	ValueOutput
+Bank 4 pan band 16	0	4194304	Value	ValueOutput
+Bank 4 pan band 17	0	4194304	Value	ValueOutput
+Bank 4 pan band 18	0	4194304	Value	ValueOutput
+Bank 4 pan band 19	0	4194304	Value	ValueOutput
+Bank 4 pan band 20	0	4194304	Value	ValueOutput
+Bank 4 pan band 21	0	4194304	Value	ValueOutput
+Bank 4 pan band 22	0	4194304	Value	ValueOutput
+Bank 4 pan band 23	0	4194304	Value	ValueOutput
+Bank 4 pan band 24	0	4194304	Value	ValueOutput
+Bank 4 pan band 25	0	4194304	Value	ValueOutput
+Bank 4 pan band 26	0	4194304	Value	ValueOutput
+Bank 4 pan band 27	0	4194304	Value	ValueOutput
+Bank 4 pan band 28	0	4194304	Value	ValueOutput
+Bank 4 pan band 29	0	4194304	Value	ValueOutput
+Bank 4 pan band 30	0	4194304	Value	ValueOutput
+Bank 4 pan band 31	0	4194304	Value	ValueOutput
+Bank 4 send band 1	0	4194304	Value	ValueOutput
+Bank 4 send band 2	0	4194304	Value	ValueOutput
+Bank 4 send band 3	0	4194304	Value	ValueOutput
+Bank 4 send band 4	0	4194304	Value	ValueOutput
+Bank 4 send band 5	0	4194304	Value	ValueOutput
+Bank 4 send band 6	0	4194304	Value	ValueOutput
+Bank 4 send band 7	0	4194304	Value	ValueOutput
+Bank 4 send band 8	0	4194304	Value	ValueOutput
+Bank 4 send band 9	0	4194304	Value	ValueOutput
+Bank 4 send band 10	0	4194304	Value	ValueOutput
+Bank 4 send band 11	0	4194304	Value	ValueOutput
+Bank 4 send band 12	0	4194304	Value	ValueOutput
+Bank 4 send band 13	0	4194304	Value	ValueOutput
+Bank 4 send band 14	0	4194304	Value	ValueOutput
+Bank 4 send band 15	0	4194304	Value	ValueOutput
+Bank 4 send band 16	0	4194304	Value	ValueOutput
+Bank 4 send band 17	0	4194304	Value	ValueOutput
+Bank 4 send band 18	0	4194304	Value	ValueOutput
+Bank 4 send band 19	0	4194304	Value	ValueOutput
+Bank 4 send band 20	0	4194304	Value	ValueOutput
+Bank 4 send band 21	0	4194304	Value	ValueOutput
+Bank 4 send band 22	0	4194304	Value	ValueOutput
+Bank 4 send band 23	0	4194304	Value	ValueOutput
+Bank 4 send band 24	0	4194304	Value	ValueOutput
+Bank 4 send band 25	0	4194304	Value	ValueOutput
+Bank 4 send band 26	0	4194304	Value	ValueOutput
+Bank 4 send band 27	0	4194304	Value	ValueOutput
+Bank 4 send band 28	0	4194304	Value	ValueOutput
+Bank 4 send band 29	0	4194304	Value	ValueOutput
+Bank 4 send band 30	0	4194304	Value	ValueOutput
+Bank 4 send band 31	0	4194304	Value	ValueOutput
+Bank 5 vol band 1	0	4194304	Value	ValueOutput
+Bank 5 vol band 2	0	4194304	Value	ValueOutput
+Bank 5 vol band 3	0	4194304	Value	ValueOutput
+Bank 5 vol band 4	0	4194304	Value	ValueOutput
+Bank 5 vol band 5	0	4194304	Value	ValueOutput
+Bank 5 vol band 6	0	4194304	Value	ValueOutput
+Bank 5 vol band 7	0	4194304	Value	ValueOutput
+Bank 5 vol band 8	0	4194304	Value	ValueOutput
+Bank 5 vol band 9	0	4194304	Value	ValueOutput
+Bank 5 vol band 10	0	4194304	Value	ValueOutput
+Bank 5 vol band 11	0	4194304	Value	ValueOutput
+Bank 5 vol band 12	0	4194304	Value	ValueOutput
+Bank 5 vol band 13	0	4194304	Value	ValueOutput
+Bank 5 vol band 14	0	4194304	Value	ValueOutput
+Bank 5 vol band 15	0	4194304	Value	ValueOutput
+Bank 5 vol band 16	0	4194304	Value	ValueOutput
+Bank 5 vol band 17	0	4194304	Value	ValueOutput
+Bank 5 vol band 18	0	4194304	Value	ValueOutput
+Bank 5 vol band 19	0	4194304	Value	ValueOutput
+Bank 5 vol band 20	0	4194304	Value	ValueOutput
+Bank 5 vol band 21	0	4194304	Value	ValueOutput
+Bank 5 vol band 22	0	4194304	Value	ValueOutput
+Bank 5 vol band 23	0	4194304	Value	ValueOutput
+Bank 5 vol band 24	0	4194304	Value	ValueOutput
+Bank 5 vol band 25	0	4194304	Value	ValueOutput
+Bank 5 vol band 26	0	4194304	Value	ValueOutput
+Bank 5 vol band 27	0	4194304	Value	ValueOutput
+Bank 5 vol band 28	0	4194304	Value	ValueOutput
+Bank 5 vol band 29	0	4194304	Value	ValueOutput
+Bank 5 vol band 30	0	4194304	Value	ValueOutput
+Bank 5 vol band 31	0	4194304	Value	ValueOutput
+Bank 5 pan band 1	0	4194304	Value	ValueOutput
+Bank 5 pan band 2	0	4194304	Value	ValueOutput
+Bank 5 pan band 3	0	4194304	Value	ValueOutput
+Bank 5 pan band 4	0	4194304	Value	ValueOutput
+Bank 5 pan band 5	0	4194304	Value	ValueOutput
+Bank 5 pan band 6	0	4194304	Value	ValueOutput
+Bank 5 pan band 7	0	4194304	Value	ValueOutput
+Bank 5 pan band 8	0	4194304	Value	ValueOutput
+Bank 5 pan band 9	0	4194304	Value	ValueOutput
+Bank 5 pan band 10	0	4194304	Value	ValueOutput
+Bank 5 pan band 11	0	4194304	Value	ValueOutput
+Bank 5 pan band 12	0	4194304	Value	ValueOutput
+Bank 5 pan band 13	0	4194304	Value	ValueOutput
+Bank 5 pan band 14	0	4194304	Value	ValueOutput
+Bank 5 pan band 15	0	4194304	Value	ValueOutput
+Bank 5 pan band 16	0	4194304	Value	ValueOutput
+Bank 5 pan band 17	0	4194304	Value	ValueOutput
+Bank 5 pan band 18	0	4194304	Value	ValueOutput
+Bank 5 pan band 19	0	4194304	Value	ValueOutput
+Bank 5 pan band 20	0	4194304	Value	ValueOutput
+Bank 5 pan band 21	0	4194304	Value	ValueOutput
+Bank 5 pan band 22	0	4194304	Value	ValueOutput
+Bank 5 pan band 23	0	4194304	Value	ValueOutput
+Bank 5 pan band 24	0	4194304	Value	ValueOutput
+Bank 5 pan band 25	0	4194304	Value	ValueOutput
+Bank 5 pan band 26	0	4194304	Value	ValueOutput
+Bank 5 pan band 27	0	4194304	Value	ValueOutput
+Bank 5 pan band 28	0	4194304	Value	ValueOutput
+Bank 5 pan band 29	0	4194304	Value	ValueOutput
+Bank 5 pan band 30	0	4194304	Value	ValueOutput
+Bank 5 pan band 31	0	4194304	Value	ValueOutput
+Bank 5 send band 1	0	4194304	Value	ValueOutput
+Bank 5 send band 2	0	4194304	Value	ValueOutput
+Bank 5 send band 3	0	4194304	Value	ValueOutput
+Bank 5 send band 4	0	4194304	Value	ValueOutput
+Bank 5 send band 5	0	4194304	Value	ValueOutput
+Bank 5 send band 6	0	4194304	Value	ValueOutput
+Bank 5 send band 7	0	4194304	Value	ValueOutput
+Bank 5 send band 8	0	4194304	Value	ValueOutput
+Bank 5 send band 9	0	4194304	Value	ValueOutput
+Bank 5 send band 10	0	4194304	Value	ValueOutput
+Bank 5 send band 11	0	4194304	Value	ValueOutput
+Bank 5 send band 12	0	4194304	Value	ValueOutput
+Bank 5 send band 13	0	4194304	Value	ValueOutput
+Bank 5 send band 14	0	4194304	Value	ValueOutput
+Bank 5 send band 15	0	4194304	Value	ValueOutput
+Bank 5 send band 16	0	4194304	Value	ValueOutput
+Bank 5 send band 17	0	4194304	Value	ValueOutput
+Bank 5 send band 18	0	4194304	Value	ValueOutput
+Bank 5 send band 19	0	4194304	Value	ValueOutput
+Bank 5 send band 20	0	4194304	Value	ValueOutput
+Bank 5 send band 21	0	4194304	Value	ValueOutput
+Bank 5 send band 22	0	4194304	Value	ValueOutput
+Bank 5 send band 23	0	4194304	Value	ValueOutput
+Bank 5 send band 24	0	4194304	Value	ValueOutput
+Bank 5 send band 25	0	4194304	Value	ValueOutput
+Bank 5 send band 26	0	4194304	Value	ValueOutput
+Bank 5 send band 27	0	4194304	Value	ValueOutput
+Bank 5 send band 28	0	4194304	Value	ValueOutput
+Bank 5 send band 29	0	4194304	Value	ValueOutput
+Bank 5 send band 30	0	4194304	Value	ValueOutput
+Bank 5 send band 31	0	4194304	Value	ValueOutput
+Bank 6 vol band 1	0	4194304	Value	ValueOutput
+Bank 6 vol band 2	0	4194304	Value	ValueOutput
+Bank 6 vol band 3	0	4194304	Value	ValueOutput
+Bank 6 vol band 4	0	4194304	Value	ValueOutput
+Bank 6 vol band 5	0	4194304	Value	ValueOutput
+Bank 6 vol band 6	0	4194304	Value	ValueOutput
+Bank 6 vol band 7	0	4194304	Value	ValueOutput
+Bank 6 vol band 8	0	4194304	Value	ValueOutput
+Bank 6 vol band 9	0	4194304	Value	ValueOutput
+Bank 6 vol band 10	0	4194304	Value	ValueOutput
+Bank 6 vol band 11	0	4194304	Value	ValueOutput
+Bank 6 vol band 12	0	4194304	Value	ValueOutput
+Bank 6 vol band 13	0	4194304	Value	ValueOutput
+Bank 6 vol band 14	0	4194304	Value	ValueOutput
+Bank 6 vol band 15	0	4194304	Value	ValueOutput
+Bank 6 vol band 16	0	4194304	Value	ValueOutput
+Bank 6 vol band 17	0	4194304	Value	ValueOutput
+Bank 6 vol band 18	0	4194304	Value	ValueOutput
+Bank 6 vol band 19	0	4194304	Value	ValueOutput
+Bank 6 vol band 20	0	4194304	Value	ValueOutput
+Bank 6 vol band 21	0	4194304	Value	ValueOutput
+Bank 6 vol band 22	0	4194304	Value	ValueOutput
+Bank 6 vol band 23	0	4194304	Value	ValueOutput
+Bank 6 vol band 24	0	4194304	Value	ValueOutput
+Bank 6 vol band 25	0	4194304	Value	ValueOutput
+Bank 6 vol band 26	0	4194304	Value	ValueOutput
+Bank 6 vol band 27	0	4194304	Value	ValueOutput
+Bank 6 vol band 28	0	4194304	Value	ValueOutput
+Bank 6 vol band 29	0	4194304	Value	ValueOutput
+Bank 6 vol band 30	0	4194304	Value	ValueOutput
+Bank 6 vol band 31	0	4194304	Value	ValueOutput
+Bank 6 pan band 1	0	4194304	Value	ValueOutput
+Bank 6 pan band 2	0	4194304	Value	ValueOutput
+Bank 6 pan band 3	0	4194304	Value	ValueOutput
+Bank 6 pan band 4	0	4194304	Value	ValueOutput
+Bank 6 pan band 5	0	4194304	Value	ValueOutput
+Bank 6 pan band 6	0	4194304	Value	ValueOutput
+Bank 6 pan band 7	0	4194304	Value	ValueOutput
+Bank 6 pan band 8	0	4194304	Value	ValueOutput
+Bank 6 pan band 9	0	4194304	Value	ValueOutput
+Bank 6 pan band 10	0	4194304	Value	ValueOutput
+Bank 6 pan band 11	0	4194304	Value	ValueOutput
+Bank 6 pan band 12	0	4194304	Value	ValueOutput
+Bank 6 pan band 13	0	4194304	Value	ValueOutput
+Bank 6 pan band 14	0	4194304	Value	ValueOutput
+Bank 6 pan band 15	0	4194304	Value	ValueOutput
+Bank 6 pan band 16	0	4194304	Value	ValueOutput
+Bank 6 pan band 17	0	4194304	Value	ValueOutput
+Bank 6 pan band 18	0	4194304	Value	ValueOutput
+Bank 6 pan band 19	0	4194304	Value	ValueOutput
+Bank 6 pan band 20	0	4194304	Value	ValueOutput
+Bank 6 pan band 21	0	4194304	Value	ValueOutput
+Bank 6 pan band 22	0	4194304	Value	ValueOutput
+Bank 6 pan band 23	0	4194304	Value	ValueOutput
+Bank 6 pan band 24	0	4194304	Value	ValueOutput
+Bank 6 pan band 25	0	4194304	Value	ValueOutput
+Bank 6 pan band 26	0	4194304	Value	ValueOutput
+Bank 6 pan band 27	0	4194304	Value	ValueOutput
+Bank 6 pan band 28	0	4194304	Value	ValueOutput
+Bank 6 pan band 29	0	4194304	Value	ValueOutput
+Bank 6 pan band 30	0	4194304	Value	ValueOutput
+Bank 6 pan band 31	0	4194304	Value	ValueOutput
+Bank 6 send band 1	0	4194304	Value	ValueOutput
+Bank 6 send band 2	0	4194304	Value	ValueOutput
+Bank 6 send band 3	0	4194304	Value	ValueOutput
+Bank 6 send band 4	0	4194304	Value	ValueOutput
+Bank 6 send band 5	0	4194304	Value	ValueOutput
+Bank 6 send band 6	0	4194304	Value	ValueOutput
+Bank 6 send band 7	0	4194304	Value	ValueOutput
+Bank 6 send band 8	0	4194304	Value	ValueOutput
+Bank 6 send band 9	0	4194304	Value	ValueOutput
+Bank 6 send band 10	0	4194304	Value	ValueOutput
+Bank 6 send band 11	0	4194304	Value	ValueOutput
+Bank 6 send band 12	0	4194304	Value	ValueOutput
+Bank 6 send band 13	0	4194304	Value	ValueOutput
+Bank 6 send band 14	0	4194304	Value	ValueOutput
+Bank 6 send band 15	0	4194304	Value	ValueOutput
+Bank 6 send band 16	0	4194304	Value	ValueOutput
+Bank 6 send band 17	0	4194304	Value	ValueOutput
+Bank 6 send band 18	0	4194304	Value	ValueOutput
+Bank 6 send band 19	0	4194304	Value	ValueOutput
+Bank 6 send band 20	0	4194304	Value	ValueOutput
+Bank 6 send band 21	0	4194304	Value	ValueOutput
+Bank 6 send band 22	0	4194304	Value	ValueOutput
+Bank 6 send band 23	0	4194304	Value	ValueOutput
+Bank 6 send band 24	0	4194304	Value	ValueOutput
+Bank 6 send band 25	0	4194304	Value	ValueOutput
+Bank 6 send band 26	0	4194304	Value	ValueOutput
+Bank 6 send band 27	0	4194304	Value	ValueOutput
+Bank 6 send band 28	0	4194304	Value	ValueOutput
+Bank 6 send band 29	0	4194304	Value	ValueOutput
+Bank 6 send band 30	0	4194304	Value	ValueOutput
+Bank 6 send band 31	0	4194304	Value	ValueOutput
+Bank 7 vol band 1	0	4194304	Value	ValueOutput
+Bank 7 vol band 2	0	4194304	Value	ValueOutput
+Bank 7 vol band 3	0	4194304	Value	ValueOutput
+Bank 7 vol band 4	0	4194304	Value	ValueOutput
+Bank 7 vol band 5	0	4194304	Value	ValueOutput
+Bank 7 vol band 6	0	4194304	Value	ValueOutput
+Bank 7 vol band 7	0	4194304	Value	ValueOutput
+Bank 7 vol band 8	0	4194304	Value	ValueOutput
+Bank 7 vol band 9	0	4194304	Value	ValueOutput
+Bank 7 vol band 10	0	4194304	Value	ValueOutput
+Bank 7 vol band 11	0	4194304	Value	ValueOutput
+Bank 7 vol band 12	0	4194304	Value	ValueOutput
+Bank 7 vol band 13	0	4194304	Value	ValueOutput
+Bank 7 vol band 14	0	4194304	Value	ValueOutput
+Bank 7 vol band 15	0	4194304	Value	ValueOutput
+Bank 7 vol band 16	0	4194304	Value	ValueOutput
+Bank 7 vol band 17	0	4194304	Value	ValueOutput
+Bank 7 vol band 18	0	4194304	Value	ValueOutput
+Bank 7 vol band 19	0	4194304	Value	ValueOutput
+Bank 7 vol band 20	0	4194304	Value	ValueOutput
+Bank 7 vol band 21	0	4194304	Value	ValueOutput
+Bank 7 vol band 22	0	4194304	Value	ValueOutput
+Bank 7 vol band 23	0	4194304	Value	ValueOutput
+Bank 7 vol band 24	0	4194304	Value	ValueOutput
+Bank 7 vol band 25	0	4194304	Value	ValueOutput
+Bank 7 vol band 26	0	4194304	Value	ValueOutput
+Bank 7 vol band 27	0	4194304	Value	ValueOutput
+Bank 7 vol band 28	0	4194304	Value	ValueOutput
+Bank 7 vol band 29	0	4194304	Value	ValueOutput
+Bank 7 vol band 30	0	4194304	Value	ValueOutput
+Bank 7 vol band 31	0	4194304	Value	ValueOutput
+Bank 7 pan band 1	0	4194304	Value	ValueOutput
+Bank 7 pan band 2	0	4194304	Value	ValueOutput
+Bank 7 pan band 3	0	4194304	Value	ValueOutput
+Bank 7 pan band 4	0	4194304	Value	ValueOutput
+Bank 7 pan band 5	0	4194304	Value	ValueOutput
+Bank 7 pan band 6	0	4194304	Value	ValueOutput
+Bank 7 pan band 7	0	4194304	Value	ValueOutput
+Bank 7 pan band 8	0	4194304	Value	ValueOutput
+Bank 7 pan band 9	0	4194304	Value	ValueOutput
+Bank 7 pan band 10	0	4194304	Value	ValueOutput
+Bank 7 pan band 11	0	4194304	Value	ValueOutput
+Bank 7 pan band 12	0	4194304	Value	ValueOutput
+Bank 7 pan band 13	0	4194304	Value	ValueOutput
+Bank 7 pan band 14	0	4194304	Value	ValueOutput
+Bank 7 pan band 15	0	4194304	Value	ValueOutput
+Bank 7 pan band 16	0	4194304	Value	ValueOutput
+Bank 7 pan band 17	0	4194304	Value	ValueOutput
+Bank 7 pan band 18	0	4194304	Value	ValueOutput
+Bank 7 pan band 19	0	4194304	Value	ValueOutput
+Bank 7 pan band 20	0	4194304	Value	ValueOutput
+Bank 7 pan band 21	0	4194304	Value	ValueOutput
+Bank 7 pan band 22	0	4194304	Value	ValueOutput
+Bank 7 pan band 23	0	4194304	Value	ValueOutput
+Bank 7 pan band 24	0	4194304	Value	ValueOutput
+Bank 7 pan band 25	0	4194304	Value	ValueOutput
+Bank 7 pan band 26	0	4194304	Value	ValueOutput
+Bank 7 pan band 27	0	4194304	Value	ValueOutput
+Bank 7 pan band 28	0	4194304	Value	ValueOutput
+Bank 7 pan band 29	0	4194304	Value	ValueOutput
+Bank 7 pan band 30	0	4194304	Value	ValueOutput
+Bank 7 pan band 31	0	4194304	Value	ValueOutput
+Bank 7 send band 1	0	4194304	Value	ValueOutput
+Bank 7 send band 2	0	4194304	Value	ValueOutput
+Bank 7 send band 3	0	4194304	Value	ValueOutput
+Bank 7 send band 4	0	4194304	Value	ValueOutput
+Bank 7 send band 5	0	4194304	Value	ValueOutput
+Bank 7 send band 6	0	4194304	Value	ValueOutput
+Bank 7 send band 7	0	4194304	Value	ValueOutput
+Bank 7 send band 8	0	4194304	Value	ValueOutput
+Bank 7 send band 9	0	4194304	Value	ValueOutput
+Bank 7 send band 10	0	4194304	Value	ValueOutput
+Bank 7 send band 11	0	4194304	Value	ValueOutput
+Bank 7 send band 12	0	4194304	Value	ValueOutput
+Bank 7 send band 13	0	4194304	Value	ValueOutput
+Bank 7 send band 14	0	4194304	Value	ValueOutput
+Bank 7 send band 15	0	4194304	Value	ValueOutput
+Bank 7 send band 16	0	4194304	Value	ValueOutput
+Bank 7 send band 17	0	4194304	Value	ValueOutput
+Bank 7 send band 18	0	4194304	Value	ValueOutput
+Bank 7 send band 19	0	4194304	Value	ValueOutput
+Bank 7 send band 20	0	4194304	Value	ValueOutput
+Bank 7 send band 21	0	4194304	Value	ValueOutput
+Bank 7 send band 22	0	4194304	Value	ValueOutput
+Bank 7 send band 23	0	4194304	Value	ValueOutput
+Bank 7 send band 24	0	4194304	Value	ValueOutput
+Bank 7 send band 25	0	4194304	Value	ValueOutput
+Bank 7 send band 26	0	4194304	Value	ValueOutput
+Bank 7 send band 27	0	4194304	Value	ValueOutput
+Bank 7 send band 28	0	4194304	Value	ValueOutput
+Bank 7 send band 29	0	4194304	Value	ValueOutput
+Bank 7 send band 30	0	4194304	Value	ValueOutput
+Bank 7 send band 31	0	4194304	Value	ValueOutput
+Master vol band 1	0	4194304	Value	ValueOutput
+Master vol band 2	0	4194304	Value	ValueOutput
+Master vol band 3	0	4194304	Value	ValueOutput
+Master vol band 4	0	4194304	Value	ValueOutput
+Master vol band 5	0	4194304	Value	ValueOutput
+Master vol band 6	0	4194304	Value	ValueOutput
+Master vol band 7	0	4194304	Value	ValueOutput
+Master vol band 8	0	4194304	Value	ValueOutput
+Master vol band 9	0	4194304	Value	ValueOutput
+Master vol band 10	0	4194304	Value	ValueOutput
+Master vol band 11	0	4194304	Value	ValueOutput
+Master vol band 12	0	4194304	Value	ValueOutput
+Master vol band 13	0	4194304	Value	ValueOutput
+Master vol band 14	0	4194304	Value	ValueOutput
+Master vol band 15	0	4194304	Value	ValueOutput
+Master vol band 16	0	4194304	Value	ValueOutput
+Master vol band 17	0	4194304	Value	ValueOutput
+Master vol band 18	0	4194304	Value	ValueOutput
+Master vol band 19	0	4194304	Value	ValueOutput
+Master vol band 20	0	4194304	Value	ValueOutput
+Master vol band 21	0	4194304	Value	ValueOutput
+Master vol band 22	0	4194304	Value	ValueOutput
+Master vol band 23	0	4194304	Value	ValueOutput
+Master vol band 24	0	4194304	Value	ValueOutput
+Master vol band 25	0	4194304	Value	ValueOutput
+Master vol band 26	0	4194304	Value	ValueOutput
+Master vol band 27	0	4194304	Value	ValueOutput
+Master vol band 28	0	4194304	Value	ValueOutput
+Master vol band 29	0	4194304	Value	ValueOutput
+Master vol band 30	0	4194304	Value	ValueOutput
+Master vol band 31	0	4194304	Value	ValueOutput
+Master pan band 1	0	4194304	Value	ValueOutput
+Master pan band 2	0	4194304	Value	ValueOutput
+Master pan band 3	0	4194304	Value	ValueOutput
+Master pan band 4	0	4194304	Value	ValueOutput
+Master pan band 5	0	4194304	Value	ValueOutput
+Master pan band 6	0	4194304	Value	ValueOutput
+Master pan band 7	0	4194304	Value	ValueOutput
+Master pan band 8	0	4194304	Value	ValueOutput
+Master pan band 9	0	4194304	Value	ValueOutput
+Master pan band 10	0	4194304	Value	ValueOutput
+Master pan band 11	0	4194304	Value	ValueOutput
+Master pan band 12	0	4194304	Value	ValueOutput
+Master pan band 13	0	4194304	Value	ValueOutput
+Master pan band 14	0	4194304	Value	ValueOutput
+Master pan band 15	0	4194304	Value	ValueOutput
+Master pan band 16	0	4194304	Value	ValueOutput
+Master pan band 17	0	4194304	Value	ValueOutput
+Master pan band 18	0	4194304	Value	ValueOutput
+Master pan band 19	0	4194304	Value	ValueOutput
+Master pan band 20	0	4194304	Value	ValueOutput
+Master pan band 21	0	4194304	Value	ValueOutput
+Master pan band 22	0	4194304	Value	ValueOutput
+Master pan band 23	0	4194304	Value	ValueOutput
+Master pan band 24	0	4194304	Value	ValueOutput
+Master pan band 25	0	4194304	Value	ValueOutput
+Master pan band 26	0	4194304	Value	ValueOutput
+Master pan band 27	0	4194304	Value	ValueOutput
+Master pan band 28	0	4194304	Value	ValueOutput
+Master pan band 29	0	4194304	Value	ValueOutput
+Master pan band 30	0	4194304	Value	ValueOutput
+Master pan band 31	0	4194304	Value	ValueOutput
+Master send band 1	0	4194304	Value	ValueOutput
+Master send band 2	0	4194304	Value	ValueOutput
+Master send band 3	0	4194304	Value	ValueOutput
+Master send band 4	0	4194304	Value	ValueOutput
+Master send band 5	0	4194304	Value	ValueOutput
+Master send band 6	0	4194304	Value	ValueOutput
+Master send band 7	0	4194304	Value	ValueOutput
+Master send band 8	0	4194304	Value	ValueOutput
+Master send band 9	0	4194304	Value	ValueOutput
+Master send band 10	0	4194304	Value	ValueOutput
+Master send band 11	0	4194304	Value	ValueOutput
+Master send band 12	0	4194304	Value	ValueOutput
+Master send band 13	0	4194304	Value	ValueOutput
+Master send band 14	0	4194304	Value	ValueOutput
+Master send band 15	0	4194304	Value	ValueOutput
+Master send band 16	0	4194304	Value	ValueOutput
+Master send band 17	0	4194304	Value	ValueOutput
+Master send band 18	0	4194304	Value	ValueOutput
+Master send band 19	0	4194304	Value	ValueOutput
+Master send band 20	0	4194304	Value	ValueOutput
+Master send band 21	0	4194304	Value	ValueOutput
+Master send band 22	0	4194304	Value	ValueOutput
+Master send band 23	0	4194304	Value	ValueOutput
+Master send band 24	0	4194304	Value	ValueOutput
+Master send band 25	0	4194304	Value	ValueOutput
+Master send band 26	0	4194304	Value	ValueOutput
+Master send band 27	0	4194304	Value	ValueOutput
+Master send band 28	0	4194304	Value	ValueOutput
+Master send band 29	0	4194304	Value	ValueOutput
+Master send band 30	0	4194304	Value	ValueOutput
+Master send band 31	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,48 @@
+Scope
+Manufacturer	Model
+Zynaptiq	vst.UNCS.UNCHIRP VST
+Note: Will match scope definitions for vst.UNCS.UNCHIRP VST or vst.UNCS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+DRY/WET MIX	0	4194304	Value	ValueOutput
+I/O DIFFERENCE	0	4194304	Value	ValueOutput
+OUTPUT GAIN	0	4194304	Value	ValueOutput
+SIDE ONLY	0	4194304	Value	ValueOutput
+HD MODE	0	4194304	Value	ValueOutput
+LIMITER	0	4194304	Value	ValueOutput
+CURVE SELECTOR	0	4194304	Value	ValueOutput
+MN REDUCTION	0	4194304	Value	ValueOutput
+MN WINDOW LENGTH	0	4194304	Value	ValueOutput
+DECHIRP AMOUNT	0	4194304	Value	ValueOutput
+DECHIRP WINDOW LENGTH	0	4194304	Value	ValueOutput
+TRANSIENT SOLO	0	4194304	Value	ValueOutput
+TRANSIENT THRESHOLD	0	4194304	Value	ValueOutput
+ORIGINAL TRANSIENT LEVE	0	4194304	Value	ValueOutput
+SYNTHETIC TRANSIENT LEV	0	4194304	Value	ValueOutput
+WARMTH	0	4194304	Value	ValueOutput
+SYNC FRAMES	0	4194304	Value	ValueOutput
+TREBLE BOOST AMOUNT	0	4194304	Value	ValueOutput
+TREBLE ENHANCE <-> EXCI	0	4194304	Value	ValueOutput
+MN RED BIAS ON/OFF	0	4194304	Value	ValueOutput
+DECHIRP AMT BIAS ON/OFF	0	4194304	Value	ValueOutput
+TRANS THRSH BIAS ON/OFF	0	4194304	Value	ValueOutput
+SYNTH TRANS BIAS ON/OFF	0	4194304	Value	ValueOutput
+ORIG TRANS BIAS ON/OFF	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

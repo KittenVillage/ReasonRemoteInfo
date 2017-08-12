@@ -1,0 +1,72 @@
+Scope
+Manufacturer	Model
+LinPlug	vst.LwP0.relectro x64
+Note: Will match scope definitions for vst.LwP0.relectro x64 or vst.LwP0
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+In Filter Freq	0	4194304	Value	ValueOutput
+In Filter Leak	0	4194304	Value	ValueOutput
+In Gain	0	4194304	Value	ValueOutput
+In Stereo Width	0	4194304	Value	ValueOutput
+Delay Left	0	4194304	Value	ValueOutput
+Delay Right	0	4194304	Value	ValueOutput
+Delay Stereo	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Wet	0	4194304	Value	ValueOutput
+Compress Ratio	0	4194304	Value	ValueOutput
+Cut Filter High	0	4194304	Value	ValueOutput
+Cut Filter Low	0	4194304	Value	ValueOutput
+Pitch Mode	0	4194304	Value	ValueOutput
+Pitch Pitch	0	4194304	Value	ValueOutput
+Pitch Fix	0	4194304	Value	ValueOutput
+Pitch Note	0	4194304	Value	ValueOutput
+Pitch Track	0	4194304	Value	ValueOutput
+Pitch Speed Up	0	4194304	Value	ValueOutput
+Pitch Speed Down	0	4194304	Value	ValueOutput
+Wave Repeat	0	4194304	Value	ValueOutput
+Wave Waveform	0	4194304	Value	ValueOutput
+Wave Replace	0	4194304	Value	ValueOutput
+EQ Low Frequency	0	4194304	Value	ValueOutput
+EQ Low Gain	0	4194304	Value	ValueOutput
+EQ High Frequency	0	4194304	Value	ValueOutput
+EQ High Gain	0	4194304	Value	ValueOutput
+HP Filter Cutoff	0	4194304	Value	ValueOutput
+HP Filter Reson.	0	4194304	Value	ValueOutput
+LP Filter Cutoff	0	4194304	Value	ValueOutput
+LP Filter Reson.	0	4194304	Value	ValueOutput
+Chorus Wet	0	4194304	Value	ValueOutput
+Chorus Time	0	4194304	Value	ValueOutput
+Chorus Speed	0	4194304	Value	ValueOutput
+Chorus Feedback	0	4194304	Value	ValueOutput
+Output Volume	0	4194304	Value	ValueOutput
+Output Amount	0	4194304	Value	ValueOutput
+Output Wet	0	4194304	Value	ValueOutput
+LFO 1 Wave	0	4194304	Value	ValueOutput
+LFO 1 Sync	0	4194304	Value	ValueOutput
+LFO 2 Wave	0	4194304	Value	ValueOutput
+LFO 2 Sync	0	4194304	Value	ValueOutput
+Mod Amount 1	0	4194304	Value	ValueOutput
+Mod Amount 2	0	4194304	Value	ValueOutput
+Mod Amount 3	0	4194304	Value	ValueOutput
+Mod Amount 4	0	4194304	Value	ValueOutput
+Mod Amount 5	0	4194304	Value	ValueOutput
+Mod Amount 6	0	4194304	Value	ValueOutput
+Mod Amount 7	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

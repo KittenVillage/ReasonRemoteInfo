@@ -1,0 +1,43 @@
+Scope
+Manufacturer	Model
+FabFilter	vst.FPSr.FabFilter Pro-DS x64
+Note: Will match scope definitions for vst.FPSr.FabFilter Pro-DS x64 or vst.FPSr
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Range	0	4194304	Value	ValueOutput
+Band Processing	0	4194304	Value	ValueOutput
+Stereo Link	0	4194304	Value	ValueOutput
+Stereo Link Mode	0	4194304	Value	ValueOutput
+Lookahead	0	4194304	Value	ValueOutput
+Lookahead Enabled	0	4194304	Value	ValueOutput
+Audition Triggering	0	4194304	Value	ValueOutput
+Side Chain Input Signal	0	4194304	Value	ValueOutput
+High-Pass Frequency	0	4194304	Value	ValueOutput
+Low-Pass Frequency	0	4194304	Value	ValueOutput
+Audition Side Chain	0	4194304	Value	ValueOutput
+Midi State	0	4194304	Value	ValueOutput
+Oversampling	0	4194304	Value	ValueOutput
+Input Level	0	4194304	Value	ValueOutput
+Input Pan	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Output Pan	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,106 @@
+Scope
+Manufacturer	Model
+Glitchmachines	vst.GlQd.Quadrant x64
+Note: Will match scope definitions for vst.GlQd.Quadrant x64 or vst.GlQd
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Mod1_Param1	0	4194304	Value	ValueOutput
+Mod1_Param2	0	4194304	Value	ValueOutput
+Mod1_Param3	0	4194304	Value	ValueOutput
+Mod1_Param4	0	4194304	Value	ValueOutput
+Mod1_Param5	0	4194304	Value	ValueOutput
+Mod1_Param6	0	4194304	Value	ValueOutput
+Mod1_Param7	0	4194304	Value	ValueOutput
+Mod1_Param8	0	4194304	Value	ValueOutput
+Mod1_Param9	0	4194304	Value	ValueOutput
+Mod1_Param10	0	4194304	Value	ValueOutput
+Mod2_Param1	0	4194304	Value	ValueOutput
+Mod2_Param2	0	4194304	Value	ValueOutput
+Mod2_Param3	0	4194304	Value	ValueOutput
+Mod2_Param4	0	4194304	Value	ValueOutput
+Mod2_Param5	0	4194304	Value	ValueOutput
+Mod2_Param6	0	4194304	Value	ValueOutput
+Mod2_Param7	0	4194304	Value	ValueOutput
+Mod2_Param8	0	4194304	Value	ValueOutput
+Mod2_Param9	0	4194304	Value	ValueOutput
+Mod2_Param10	0	4194304	Value	ValueOutput
+Mod3_Param1	0	4194304	Value	ValueOutput
+Mod3_Param2	0	4194304	Value	ValueOutput
+Mod3_Param3	0	4194304	Value	ValueOutput
+Mod3_Param4	0	4194304	Value	ValueOutput
+Mod3_Param5	0	4194304	Value	ValueOutput
+Mod3_Param6	0	4194304	Value	ValueOutput
+Mod3_Param7	0	4194304	Value	ValueOutput
+Mod3_Param8	0	4194304	Value	ValueOutput
+Mod3_Param9	0	4194304	Value	ValueOutput
+Mod3_Param10	0	4194304	Value	ValueOutput
+Mod4_Param1	0	4194304	Value	ValueOutput
+Mod4_Param2	0	4194304	Value	ValueOutput
+Mod4_Param3	0	4194304	Value	ValueOutput
+Mod4_Param4	0	4194304	Value	ValueOutput
+Mod4_Param5	0	4194304	Value	ValueOutput
+Mod4_Param6	0	4194304	Value	ValueOutput
+Mod4_Param7	0	4194304	Value	ValueOutput
+Mod4_Param8	0	4194304	Value	ValueOutput
+Mod4_Param9	0	4194304	Value	ValueOutput
+Mod4_Param10	0	4194304	Value	ValueOutput
+Mod5_Param1	0	4194304	Value	ValueOutput
+Mod5_Param2	0	4194304	Value	ValueOutput
+Mod5_Param3	0	4194304	Value	ValueOutput
+Mod5_Param4	0	4194304	Value	ValueOutput
+Mod5_Param5	0	4194304	Value	ValueOutput
+Mod5_Param6	0	4194304	Value	ValueOutput
+Mod5_Param7	0	4194304	Value	ValueOutput
+Mod5_Param8	0	4194304	Value	ValueOutput
+Mod5_Param9	0	4194304	Value	ValueOutput
+Mod5_Param10	0	4194304	Value	ValueOutput
+Mod6_Param1	0	4194304	Value	ValueOutput
+Mod6_Param2	0	4194304	Value	ValueOutput
+Mod6_Param3	0	4194304	Value	ValueOutput
+Mod6_Param4	0	4194304	Value	ValueOutput
+Mod6_Param5	0	4194304	Value	ValueOutput
+Mod6_Param6	0	4194304	Value	ValueOutput
+Mod6_Param7	0	4194304	Value	ValueOutput
+Mod6_Param8	0	4194304	Value	ValueOutput
+Mod6_Param9	0	4194304	Value	ValueOutput
+Mod6_Param10	0	4194304	Value	ValueOutput
+Mod7_Param1	0	4194304	Value	ValueOutput
+Mod7_Param2	0	4194304	Value	ValueOutput
+Mod7_Param3	0	4194304	Value	ValueOutput
+Mod7_Param4	0	4194304	Value	ValueOutput
+Mod7_Param5	0	4194304	Value	ValueOutput
+Mod7_Param6	0	4194304	Value	ValueOutput
+Mod7_Param7	0	4194304	Value	ValueOutput
+Mod7_Param8	0	4194304	Value	ValueOutput
+Mod7_Param9	0	4194304	Value	ValueOutput
+Mod7_Param10	0	4194304	Value	ValueOutput
+Mod8_Param1	0	4194304	Value	ValueOutput
+Mod8_Param2	0	4194304	Value	ValueOutput
+Mod8_Param3	0	4194304	Value	ValueOutput
+Mod8_Param4	0	4194304	Value	ValueOutput
+Mod8_Param5	0	4194304	Value	ValueOutput
+Mod8_Param6	0	4194304	Value	ValueOutput
+Mod8_Param7	0	4194304	Value	ValueOutput
+Mod8_Param8	0	4194304	Value	ValueOutput
+Mod8_Param9	0	4194304	Value	ValueOutput
+Mod8_Param10	0	4194304	Value	ValueOutput
+Plug_In_Level	0	4194304	Value	ValueOutput
+Plug_Out_Level	0	4194304	Value	ValueOutput
+Clip_output	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

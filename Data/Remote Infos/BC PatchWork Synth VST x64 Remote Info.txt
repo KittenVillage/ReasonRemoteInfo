@@ -1,0 +1,111 @@
+Scope
+Manufacturer	Model
+Blue Cat Audio	vst.fc00.BC PatchWork Synth VST x64
+Note: Will match scope definitions for vst.fc00.BC PatchWork Synth VST x64 or vst.fc00
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Columns	0	4194304	Value	ValueOutput
+Rows	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+In Gain	0	4194304	Value	ValueOutput
+Out Gain	0	4194304	Value	ValueOutput
+Level Meters	0	4194304	Value	ValueOutput
+Summing	0	4194304	Value	ValueOutput
+Power 1	0	4194304	Value	ValueOutput
+Power 2	0	4194304	Value	ValueOutput
+Power 3	0	4194304	Value	ValueOutput
+Power 4	0	4194304	Value	ValueOutput
+Power 5	0	4194304	Value	ValueOutput
+Power 6	0	4194304	Value	ValueOutput
+Power 7	0	4194304	Value	ValueOutput
+Power 8	0	4194304	Value	ValueOutput
+Pre Gain 1	0	4194304	Value	ValueOutput
+Pre Gain 2	0	4194304	Value	ValueOutput
+Pre Gain 3	0	4194304	Value	ValueOutput
+Pre Gain 4	0	4194304	Value	ValueOutput
+Pre Gain 5	0	4194304	Value	ValueOutput
+Pre Gain 6	0	4194304	Value	ValueOutput
+Pre Gain 7	0	4194304	Value	ValueOutput
+Pre Gain 8	0	4194304	Value	ValueOutput
+Post Gain 1	0	4194304	Value	ValueOutput
+Post Gain 2	0	4194304	Value	ValueOutput
+Post Gain 3	0	4194304	Value	ValueOutput
+Post Gain 4	0	4194304	Value	ValueOutput
+Post Gain 5	0	4194304	Value	ValueOutput
+Post Gain 6	0	4194304	Value	ValueOutput
+Post Gain 7	0	4194304	Value	ValueOutput
+Post Gain 8	0	4194304	Value	ValueOutput
+Flip Phase 1	0	4194304	Value	ValueOutput
+Flip Phase 2	0	4194304	Value	ValueOutput
+Flip Phase 3	0	4194304	Value	ValueOutput
+Flip Phase 4	0	4194304	Value	ValueOutput
+Flip Phase 5	0	4194304	Value	ValueOutput
+Flip Phase 6	0	4194304	Value	ValueOutput
+Flip Phase 7	0	4194304	Value	ValueOutput
+Flip Phase 8	0	4194304	Value	ValueOutput
+Control 01	0	4194304	Value	ValueOutput
+Control 02	0	4194304	Value	ValueOutput
+Control 03	0	4194304	Value	ValueOutput
+Control 04	0	4194304	Value	ValueOutput
+Control 05	0	4194304	Value	ValueOutput
+Control 06	0	4194304	Value	ValueOutput
+Control 07	0	4194304	Value	ValueOutput
+Control 08	0	4194304	Value	ValueOutput
+Control 09	0	4194304	Value	ValueOutput
+Control 10	0	4194304	Value	ValueOutput
+Control 11	0	4194304	Value	ValueOutput
+Control 12	0	4194304	Value	ValueOutput
+Control 13	0	4194304	Value	ValueOutput
+Control 14	0	4194304	Value	ValueOutput
+Control 15	0	4194304	Value	ValueOutput
+Control 16	0	4194304	Value	ValueOutput
+Control 17	0	4194304	Value	ValueOutput
+Control 18	0	4194304	Value	ValueOutput
+Control 19	0	4194304	Value	ValueOutput
+Control 20	0	4194304	Value	ValueOutput
+Control 21	0	4194304	Value	ValueOutput
+Control 22	0	4194304	Value	ValueOutput
+Control 23	0	4194304	Value	ValueOutput
+Control 24	0	4194304	Value	ValueOutput
+Control 25	0	4194304	Value	ValueOutput
+Control 26	0	4194304	Value	ValueOutput
+Control 27	0	4194304	Value	ValueOutput
+Control 28	0	4194304	Value	ValueOutput
+Control 29	0	4194304	Value	ValueOutput
+Control 30	0	4194304	Value	ValueOutput
+Control 31	0	4194304	Value	ValueOutput
+Control 32	0	4194304	Value	ValueOutput
+Control 33	0	4194304	Value	ValueOutput
+Control 34	0	4194304	Value	ValueOutput
+Control 35	0	4194304	Value	ValueOutput
+Control 36	0	4194304	Value	ValueOutput
+Control 37	0	4194304	Value	ValueOutput
+Control 38	0	4194304	Value	ValueOutput
+Control 39	0	4194304	Value	ValueOutput
+Control 40	0	4194304	Value	ValueOutput
+Solo 1	0	4194304	Value	ValueOutput
+Solo 2	0	4194304	Value	ValueOutput
+Solo 3	0	4194304	Value	ValueOutput
+Solo 4	0	4194304	Value	ValueOutput
+Solo 5	0	4194304	Value	ValueOutput
+Solo 6	0	4194304	Value	ValueOutput
+Solo 7	0	4194304	Value	ValueOutput
+Solo 8	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

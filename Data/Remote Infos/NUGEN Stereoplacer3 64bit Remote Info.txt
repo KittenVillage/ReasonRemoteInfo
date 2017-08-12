@@ -1,0 +1,109 @@
+Scope
+Manufacturer	Model
+NUGEN Audio	vst.NTP3.NUGEN Stereoplacer3 64bit
+Note: Will match scope definitions for vst.NTP3.NUGEN Stereoplacer3 64bit or vst.NTP3
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Freq 1	0	4194304	Value	ValueOutput
+Q 1	0	4194304	Value	ValueOutput
+Pan 1	0	4194304	Value	ValueOutput
+Harmonics 1	0	4194304	Value	ValueOutput
+Harmonics (no.)	0	4194304	Value	ValueOutput
+Harmonics Decay	0	4194304	Value	ValueOutput
+Mute 1	0	4194304	Value	ValueOutput
+Type 1	0	4194304	Value	ValueOutput
+Freq 2	0	4194304	Value	ValueOutput
+Q 2	0	4194304	Value	ValueOutput
+Pan 2	0	4194304	Value	ValueOutput
+Harmonics 2	0	4194304	Value	ValueOutput
+Harmonics (no.)	0	4194304	Value	ValueOutput
+Harmonics Decay	0	4194304	Value	ValueOutput
+Mute 2	0	4194304	Value	ValueOutput
+Type 2	0	4194304	Value	ValueOutput
+Freq 3	0	4194304	Value	ValueOutput
+Q 3	0	4194304	Value	ValueOutput
+Pan 3	0	4194304	Value	ValueOutput
+Harmonics 3	0	4194304	Value	ValueOutput
+Harmonics (no.)	0	4194304	Value	ValueOutput
+Harmonics Decay	0	4194304	Value	ValueOutput
+Mute 3	0	4194304	Value	ValueOutput
+Type 3	0	4194304	Value	ValueOutput
+Freq 4	0	4194304	Value	ValueOutput
+Q 4	0	4194304	Value	ValueOutput
+Pan 4	0	4194304	Value	ValueOutput
+Harmonics 4	0	4194304	Value	ValueOutput
+Harmonics (no.)	0	4194304	Value	ValueOutput
+Harmonics Decay	0	4194304	Value	ValueOutput
+Mute 4	0	4194304	Value	ValueOutput
+Type 4	0	4194304	Value	ValueOutput
+Freq 5	0	4194304	Value	ValueOutput
+Q 5	0	4194304	Value	ValueOutput
+Pan 5	0	4194304	Value	ValueOutput
+Harmonics 5	0	4194304	Value	ValueOutput
+Harmonics (no.)	0	4194304	Value	ValueOutput
+Harmonics Decay	0	4194304	Value	ValueOutput
+Mute 5	0	4194304	Value	ValueOutput
+Type 5	0	4194304	Value	ValueOutput
+Freq 6	0	4194304	Value	ValueOutput
+Q 6	0	4194304	Value	ValueOutput
+Pan 6	0	4194304	Value	ValueOutput
+Harmonics 6	0	4194304	Value	ValueOutput
+Harmonics (no.)	0	4194304	Value	ValueOutput
+Harmonics Decay	0	4194304	Value	ValueOutput
+Mute 6	0	4194304	Value	ValueOutput
+Type 6	0	4194304	Value	ValueOutput
+Freq 7	0	4194304	Value	ValueOutput
+Q 7	0	4194304	Value	ValueOutput
+Pan 7	0	4194304	Value	ValueOutput
+Harmonics 7	0	4194304	Value	ValueOutput
+Harmonics (no.)	0	4194304	Value	ValueOutput
+Harmonics Decay	0	4194304	Value	ValueOutput
+Mute 7	0	4194304	Value	ValueOutput
+Type 7	0	4194304	Value	ValueOutput
+Freq 8	0	4194304	Value	ValueOutput
+Q 8	0	4194304	Value	ValueOutput
+Pan 8	0	4194304	Value	ValueOutput
+Harmonics 8	0	4194304	Value	ValueOutput
+Harmonics (no.)	0	4194304	Value	ValueOutput
+Harmonics Decay	0	4194304	Value	ValueOutput
+Mute 8	0	4194304	Value	ValueOutput
+Type 8	0	4194304	Value	ValueOutput
+Freq 9	0	4194304	Value	ValueOutput
+Q 9	0	4194304	Value	ValueOutput
+Pan 9	0	4194304	Value	ValueOutput
+Harmonics 9	0	4194304	Value	ValueOutput
+Harmonics (no.)	0	4194304	Value	ValueOutput
+Harmonics Decay	0	4194304	Value	ValueOutput
+Mute 9	0	4194304	Value	ValueOutput
+Type 9	0	4194304	Value	ValueOutput
+Freq 10	0	4194304	Value	ValueOutput
+Q 10	0	4194304	Value	ValueOutput
+Pan 10	0	4194304	Value	ValueOutput
+Harmonics 10	0	4194304	Value	ValueOutput
+Harmonics (no.)	0	4194304	Value	ValueOutput
+Harmonics Decay	0	4194304	Value	ValueOutput
+Mute 10	0	4194304	Value	ValueOutput
+Type 10	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Ctrl Solo	0	4194304	Value	ValueOutput
+Solo bleed	0	4194304	Value	ValueOutput
+Analysis	0	4194304	Value	ValueOutput
+Analysis View	0	4194304	Value	ValueOutput
+Edit Node	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

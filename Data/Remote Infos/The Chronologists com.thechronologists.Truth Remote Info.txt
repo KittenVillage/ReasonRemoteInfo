@@ -1,0 +1,25 @@
+Scope
+Manufacturer	Model
+The Chronologists	com.thechronologists.Truth
+
+Remotable	Min	Max	Input type	Output type
+Test Type 1	0	1	Toggle	ValueOutput
+Result Type 1	0	3	Value	ValueOutput
+Gate 1 Select	0	9	Value	ValueOutput
+Test Type 2	0	1	Toggle	ValueOutput
+Result Type 2	0	3	Value	ValueOutput
+Gate 2 Select	0	9	Value	ValueOutput
+Test Type 3	0	1	Toggle	ValueOutput
+Result Type 3	0	3	Value	ValueOutput
+Gate 3 Select	0	9	Value	ValueOutput
+Test Type 4	0	1	Toggle	ValueOutput
+Result Type 4	0	3	Value	ValueOutput
+Gate 4 Select	0	9	Value	ValueOutput
+Test Type 5	0	1	Toggle	ValueOutput
+Result Type 5	0	3	Value	ValueOutput
+Gate 5 Select	0	9	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,51 @@
+Scope
+Manufacturer	Model
+Waves	vst.VNLS.WaveShell-VST 9_91_x64.Abbey Road Vinyl Stereo
+Note: Will match scope definitions for vst.VNLS.WaveShell-VST 9_91_x64.Abbey Road Vinyl Stereo or vst.VNLS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input	0	4194304	Value	ValueOutput
+TG Desk	0	4194304	Value	ValueOutput
+Generation	0	4194304	Value	ValueOutput
+Turntable	0	4194304	Value	ValueOutput
+Cartridge	0	4194304	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+Crackle Level	0	4194304	Value	ValueOutput
+Clicks Gain	0	4194304	Value	ValueOutput
+Clicks Density	0	4194304	Value	ValueOutput
+Wow Rate	0	4194304	Value	ValueOutput
+Wow Depth	0	4194304	Value	ValueOutput
+Flutter Rate	0	4194304	Value	ValueOutput
+Flutter Depth	0	4194304	Value	ValueOutput
+Tone Arm Position	0	4194304	Value	ValueOutput
+Phase Distortion On/Off	0	4194304	Value	ValueOutput
+Phase Distortion Level	0	4194304	Value	ValueOutput
+Phase Distortion LP	0	4194304	Value	ValueOutput
+Phase Distortion HP	0	4194304	Value	ValueOutput
+Length	0	4194304	Value	ValueOutput
+Time Format	0	4194304	Value	ValueOutput
+Stop/Play	0	4194304	Value	ValueOutput
+Auto Resume	0	4194304	Value	ValueOutput
+Input Drive	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Monitor	0	4194304	Value	ValueOutput
+Meter Selector	0	4194304	Value	ValueOutput
+VU Cal L	0	4194304	Value	ValueOutput
+VU Cal R	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

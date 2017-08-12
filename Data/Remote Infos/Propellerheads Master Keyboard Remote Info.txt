@@ -1,0 +1,12 @@
+Scope
+Manufacturer	Model
+Propellerheads	Master Keyboard
+
+Remotable	Min	Max	Input type	Output type
+Keyboard	0	127	Note	-
+Pitch Bend	-8192	8191	Value	-
+Mod Wheel	0	127	Value	-
+Breath	0	127	Value	-
+Channel Pressure	0	127	Value	-
+Expression	0	127	Value	-
+Damper Pedal	0	127	Value	-

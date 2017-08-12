@@ -1,0 +1,28 @@
+Scope
+Manufacturer	Model
+The Musicology Group	com.flyinggreendoor.HaasMixer
+
+Remotable	Min	Max	Input type	Output type
+L R Delay Range	0	98	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Ch 1 L R Delay	0	4194304	Value	ValueOutput
+Volume 1	0	4194304	Value	ValueOutput
+Mute 1	0	1	Toggle	ValueOutput
+Solo 1	0	1	Toggle	ValueOutput
+Ch 2 L R Delay	0	4194304	Value	ValueOutput
+Volume 2	0	4194304	Value	ValueOutput
+Mute 2	0	1	Toggle	ValueOutput
+Solo 2	0	1	Toggle	ValueOutput
+Ch 3 L R Delay	0	4194304	Value	ValueOutput
+Volume 3	0	4194304	Value	ValueOutput
+Mute 3	0	1	Toggle	ValueOutput
+Solo 3	0	1	Toggle	ValueOutput
+Ch 4 L R Delay	0	4194304	Value	ValueOutput
+Volume 4	0	4194304	Value	ValueOutput
+Mute 4	0	1	Toggle	ValueOutput
+Solo 4	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

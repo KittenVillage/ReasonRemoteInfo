@@ -1,0 +1,101 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.SakR.Sakura
+Note: Will match scope definitions for vst.SakR.Sakura or vst.SakR
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Tune	0	4194304	Value	ValueOutput
+Amp Attack	0	4194304	Value	ValueOutput
+Amp Decay	0	4194304	Value	ValueOutput
+Amp Sustain	0	4194304	Value	ValueOutput
+Amp Release	0	4194304	Value	ValueOutput
+Str1 Decay	0	4194304	Value	ValueOutput
+Str1 Decay Inv	0	4194304	Value	ValueOutput
+Str1 Damp Offset	0	4194304	Value	ValueOutput
+Str1 Damp Amount	0	4194304	Value	ValueOutput
+Str1 Damp Shrp	0	4194304	Value	ValueOutput
+Str2 Decay	0	4194304	Value	ValueOutput
+Str2 Decay Inv	0	4194304	Value	ValueOutput
+Str2 Damp Offset	0	4194304	Value	ValueOutput
+Str2 Damp Amount	0	4194304	Value	ValueOutput
+Str2 Damp Shrp	0	4194304	Value	ValueOutput
+Str Saturation	0	4194304	Value	ValueOutput
+Str Mix	0	4194304	Value	ValueOutput
+Str Stereo Sep	0	4194304	Value	ValueOutput
+Comb Ratio	0	4194304	Value	ValueOutput
+Comb Fdbk	0	4194304	Value	ValueOutput
+Comb Fdbk Inv	0	4194304	Value	ValueOutput
+Comb Level	0	4194304	Value	ValueOutput
+Comb Level Inv	0	4194304	Value	ValueOutput
+Lo-Cut Cutoff	0	4194304	Value	ValueOutput
+Lo-Cut Res	0	4194304	Value	ValueOutput
+Hi-Cut Attack	0	4194304	Value	ValueOutput
+Hi-Cut Decay	0	4194304	Value	ValueOutput
+Hi-Cut Sustain	0	4194304	Value	ValueOutput
+Hi-Cut Cutoff	0	4194304	Value	ValueOutput
+Hi-Cut Res	0	4194304	Value	ValueOutput
+Exc Noise Level	0	4194304	Value	ValueOutput
+Exc Noise Rate	0	4194304	Value	ValueOutput
+Hi-Cut Drive	0	4194304	Value	ValueOutput
+EG Attack	0	4194304	Value	ValueOutput
+EG Decay	0	4194304	Value	ValueOutput
+EG Sustain	0	4194304	Value	ValueOutput
+EG Release	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+Resonator Frq 1	0	4194304	Value	ValueOutput
+Resonator Frq 2	0	4194304	Value	ValueOutput
+Resonator Frq 3	0	4194304	Value	ValueOutput
+Resonator Frq 4	0	4194304	Value	ValueOutput
+Resonator Frq 5	0	4194304	Value	ValueOutput
+Resonator Frq 6	0	4194304	Value	ValueOutput
+Resonator Frq 7	0	4194304	Value	ValueOutput
+Resonator Frq 8	0	4194304	Value	ValueOutput
+Resonator Fdbk 1	0	4194304	Value	ValueOutput
+Resonator Fdbk 2	0	4194304	Value	ValueOutput
+Resonator Fdbk 3	0	4194304	Value	ValueOutput
+Resonator Fdbk 4	0	4194304	Value	ValueOutput
+Resonator Fdbk 5	0	4194304	Value	ValueOutput
+Resonator Fdbk 6	0	4194304	Value	ValueOutput
+Resonator Fdbk 7	0	4194304	Value	ValueOutput
+Resonator Fdbk 8	0	4194304	Value	ValueOutput
+Resonator On 1	0	4194304	Value	ValueOutput
+Resonator On 2	0	4194304	Value	ValueOutput
+Resonator On 3	0	4194304	Value	ValueOutput
+Resonator On 4	0	4194304	Value	ValueOutput
+Resonator On 5	0	4194304	Value	ValueOutput
+Resonator On 6	0	4194304	Value	ValueOutput
+Resonator On 7	0	4194304	Value	ValueOutput
+Resonator On 8	0	4194304	Value	ValueOutput
+Delay ON/OFF	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Fdbk	0	4194304	Value	ValueOutput
+Delay Mod Speed	0	4194304	Value	ValueOutput
+Delay Mod Depth	0	4194304	Value	ValueOutput
+Delay Blur	0	4194304	Value	ValueOutput
+Delay Wet	0	4194304	Value	ValueOutput
+Chorus ON/OFF	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Wet	0	4194304	Value	ValueOutput
+Reverb ON/OFF	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Color	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

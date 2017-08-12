@@ -1,0 +1,82 @@
+Scope
+Manufacturer	Model
+Synapse Audio	vst.SXPL.X-Poly 2_0 x64
+Note: Will match scope definitions for vst.SXPL.X-Poly 2_0 x64 or vst.SXPL
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Osc1-Semi	0	4194304	Value	ValueOutput
+Osc1-Fine	0	4194304	Value	ValueOutput
+Osc1-Mix	0	4194304	Value	ValueOutput
+Osc1-Lvl	0	4194304	Value	ValueOutput
+Osc2-Semi	0	4194304	Value	ValueOutput
+Osc2-Fine	0	4194304	Value	ValueOutput
+Osc2-Mix	0	4194304	Value	ValueOutput
+Osc2-Lvl	0	4194304	Value	ValueOutput
+EG1-Atk	0	4194304	Value	ValueOutput
+EG1-Dec	0	4194304	Value	ValueOutput
+EG1-BP	0	4194304	Value	ValueOutput
+EG1-Slp	0	4194304	Value	ValueOutput
+EG1-Sus	0	4194304	Value	ValueOutput
+EG1-Rel	0	4194304	Value	ValueOutput
+EG2-Atk	0	4194304	Value	ValueOutput
+EG2-Dec	0	4194304	Value	ValueOutput
+EG2-BP	0	4194304	Value	ValueOutput
+EG2-Slp	0	4194304	Value	ValueOutput
+EG2-Sus	0	4194304	Value	ValueOutput
+EG2-Rel	0	4194304	Value	ValueOutput
+Flt-Frq	0	4194304	Value	ValueOutput
+Flt-Res	0	4194304	Value	ValueOutput
+Flt-Kbt	0	4194304	Value	ValueOutput
+Flt-Vel	0	4194304	Value	ValueOutput
+Flt-EG	0	4194304	Value	ValueOutput
+Flt-ModW	0	4194304	Value	ValueOutput
+EG3-Atk	0	4194304	Value	ValueOutput
+EG3-Dec	0	4194304	Value	ValueOutput
+EG3-BP	0	4194304	Value	ValueOutput
+EG3-Slp	0	4194304	Value	ValueOutput
+EG3-Sus	0	4194304	Value	ValueOutput
+EG3-Rel	0	4194304	Value	ValueOutput
+Osc1-2'	0	4194304	Value	ValueOutput
+Osc1-4'	0	4194304	Value	ValueOutput
+Osc1-8'	0	4194304	Value	ValueOutput
+Osc1-16'	0	4194304	Value	ValueOutput
+Osc2-2'	0	4194304	Value	ValueOutput
+Osc2-4'	0	4194304	Value	ValueOutput
+Osc2-8'	0	4194304	Value	ValueOutput
+Osc2-16'	0	4194304	Value	ValueOutput
+Trigger	0	4194304	Value	ValueOutput
+FiltInv	0	4194304	Value	ValueOutput
+Dual Voice	0	4194304	Value	ValueOutput
+Reserved	0	4194304	Value	ValueOutput
+Noise	0	4194304	Value	ValueOutput
+Chorus	0	4194304	Value	ValueOutput
+Ch-Dly	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Mod-Frq	0	4194304	Value	ValueOutput
+Mod-Delay	0	4194304	Value	ValueOutput
+Mod-Slope	0	4194304	Value	ValueOutput
+Mod-DCO	0	4194304	Value	ValueOutput
+Mod-VCF	0	4194304	Value	ValueOutput
+Mod-Vel	0	4194304	Value	ValueOutput
+Modwheel	0	4194304	Value	ValueOutput
+Pan Osc-1	0	4194304	Value	ValueOutput
+Pan Osc-2	0	4194304	Value	ValueOutput
+Ch-Fbk	0	4194304	Value	ValueOutput
+Ch-Mod	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

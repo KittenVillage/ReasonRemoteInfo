@@ -1,0 +1,105 @@
+Scope
+Manufacturer	Model
+Applied Acoustics Systems	vst.LLZ4.Lounge Lizard EP-4
+Note: Will match scope definitions for vst.LLZ4.Lounge Lizard EP-4 or vst.LLZ4
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Hammer: Stiffness	0	4194304	Value	ValueOutput
+Hammer: Stiff Key	0	4194304	Value	ValueOutput
+Hammer: Stiff Vel	0	4194304	Value	ValueOutput
+Hammer: Force	0	4194304	Value	ValueOutput
+Hammer: Force Key	0	4194304	Value	ValueOutput
+Hammer: Force Vel	0	4194304	Value	ValueOutput
+Hammer: Noise Amount	0	4194304	Value	ValueOutput
+Hammer: Noise Pitch	0	4194304	Value	ValueOutput
+Hammer: Noise Decay	0	4194304	Value	ValueOutput
+Hammer: Noise Key	0	4194304	Value	ValueOutput
+Fork: Tine	0	4194304	Value	ValueOutput
+Fork: Tine Key	0	4194304	Value	ValueOutput
+Fork: Tine Decay	0	4194304	Value	ValueOutput
+Fork: Tine Color	0	4194304	Value	ValueOutput
+Fork: Tone Bar	0	4194304	Value	ValueOutput
+Fork: Tone Decay	0	4194304	Value	ValueOutput
+Fork: Release	0	4194304	Value	ValueOutput
+Pickup: Type	0	4194304	Value	ValueOutput
+Pickup: Input	0	4194304	Value	ValueOutput
+Pickup: Symmetry	0	4194304	Value	ValueOutput
+Pickup: Distance	0	4194304	Value	ValueOutput
+Pickup: Output	0	4194304	Value	ValueOutput
+Pickup: Output Key	0	4194304	Value	ValueOutput
+Damper: Amount	0	4194304	Value	ValueOutput
+Damper: Tone	0	4194304	Value	ValueOutput
+Damper: Attack-Release	0	4194304	Value	ValueOutput
+Tremolo: Shape	0	4194304	Value	ValueOutput
+Tremolo: Rate	0	4194304	Value	ValueOutput
+Tremolo: Sync On	0	4194304	Value	ValueOutput
+Tremolo: Sync Rate	0	4194304	Value	ValueOutput
+Tremolo: Mono	0	4194304	Value	ValueOutput
+Tremolo: Depth	0	4194304	Value	ValueOutput
+Tremolo: On	0	4194304	Value	ValueOutput
+Equalizer: Low Freq	0	4194304	Value	ValueOutput
+Equalizer: Low Gain	0	4194304	Value	ValueOutput
+Equalizer: Low Mid Freq	0	4194304	Value	ValueOutput
+Equalizer: Low Mid Gain	0	4194304	Value	ValueOutput
+Equalizer: Low Mid Q	0	4194304	Value	ValueOutput
+Equalizer: High Mid Freq	0	4194304	Value	ValueOutput
+Equalizer: High Mid Gain	0	4194304	Value	ValueOutput
+Equalizer: High Mid Q	0	4194304	Value	ValueOutput
+Equalizer: High Freq	0	4194304	Value	ValueOutput
+Equalizer: High Gain	0	4194304	Value	ValueOutput
+Equalizer: Side Chain	0	4194304	Value	ValueOutput
+Equalizer: On	0	4194304	Value	ValueOutput
+Compressor: Threshold	0	4194304	Value	ValueOutput
+Compressor: Ratio	0	4194304	Value	ValueOutput
+Compressor: Attack	0	4194304	Value	ValueOutput
+Compressor: Release	0	4194304	Value	ValueOutput
+Compressor: Makeup	0	4194304	Value	ValueOutput
+Compressor: Pre	0	4194304	Value	ValueOutput
+Compressor: On	0	4194304	Value	ValueOutput
+Effect 1: On	0	4194304	Value	ValueOutput
+Effect 1: Type	0	4194304	Value	ValueOutput
+Effect 1: Param 1	0	4194304	Value	ValueOutput
+Effect 1: Param 2	0	4194304	Value	ValueOutput
+Effect 1: Param 3	0	4194304	Value	ValueOutput
+Effect 1: Param 4	0	4194304	Value	ValueOutput
+Effect 1: Param 5	0	4194304	Value	ValueOutput
+Effect 1: Param 6	0	4194304	Value	ValueOutput
+Effect 1: Param 7	0	4194304	Value	ValueOutput
+Effect 1: Param 8	0	4194304	Value	ValueOutput
+Effect 2: On	0	4194304	Value	ValueOutput
+Effect 2: Type	0	4194304	Value	ValueOutput
+Effect 2: Param 1	0	4194304	Value	ValueOutput
+Effect 2: Param 2	0	4194304	Value	ValueOutput
+Effect 2: Param 3	0	4194304	Value	ValueOutput
+Effect 2: Param 4	0	4194304	Value	ValueOutput
+Effect 2: Param 5	0	4194304	Value	ValueOutput
+Effect 2: Param 6	0	4194304	Value	ValueOutput
+Effect 2: Param 7	0	4194304	Value	ValueOutput
+Effect 2: Param 8	0	4194304	Value	ValueOutput
+Reverb: Size	0	4194304	Value	ValueOutput
+Reverb: Decay	0	4194304	Value	ValueOutput
+Reverb: Diffusion	0	4194304	Value	ValueOutput
+Reverb: Low Damp	0	4194304	Value	ValueOutput
+Reverb: High Damp	0	4194304	Value	ValueOutput
+Reverb: Mix	0	4194304	Value	ValueOutput
+Reverb: On	0	4194304	Value	ValueOutput
+Global: Volume	0	4194304	Value	ValueOutput
+Global: Tune	0	4194304	Value	ValueOutput
+Amp: Character	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

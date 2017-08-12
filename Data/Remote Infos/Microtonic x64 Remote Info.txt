@@ -1,0 +1,238 @@
+Scope
+Manufacturer	Model
+Sonic Charge	vst.NuMT.Microtonic x64
+Note: Will match scope definitions for vst.NuMT.Microtonic x64 or vst.NuMT
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Pattern	0	4194304	Value	ValueOutput
+PlayStop	0	4194304	Value	ValueOutput
+StepRate	0	4194304	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+FillRate	0	4194304	Value	ValueOutput
+MastVol	0	4194304	Value	ValueOutput
+Mute1	0	4194304	Value	ValueOutput
+Mute2	0	4194304	Value	ValueOutput
+Mute3	0	4194304	Value	ValueOutput
+Mute4	0	4194304	Value	ValueOutput
+Mute5	0	4194304	Value	ValueOutput
+Mute6	0	4194304	Value	ValueOutput
+Mute7	0	4194304	Value	ValueOutput
+Mute8	0	4194304	Value	ValueOutput
+OscWave1	0	4194304	Value	ValueOutput
+OscFreq1	0	4194304	Value	ValueOutput
+OscDcy1	0	4194304	Value	ValueOutput
+ModMode1	0	4194304	Value	ValueOutput
+ModRate1	0	4194304	Value	ValueOutput
+ModAmt1	0	4194304	Value	ValueOutput
+NFilMod1	0	4194304	Value	ValueOutput
+NFilFrq1	0	4194304	Value	ValueOutput
+NFilQ1	0	4194304	Value	ValueOutput
+NStereo1	0	4194304	Value	ValueOutput
+NEnvMod1	0	4194304	Value	ValueOutput
+NEnvAtk1	0	4194304	Value	ValueOutput
+NEnvDcy1	0	4194304	Value	ValueOutput
+Mix1	0	4194304	Value	ValueOutput
+DistAmt1	0	4194304	Value	ValueOutput
+EQFreq1	0	4194304	Value	ValueOutput
+EQGain1	0	4194304	Value	ValueOutput
+Level1	0	4194304	Value	ValueOutput
+Pan1	0	4194304	Value	ValueOutput
+Output1	0	4194304	Value	ValueOutput
+OscVel1	0	4194304	Value	ValueOutput
+NVel1	0	4194304	Value	ValueOutput
+ModVel1	0	4194304	Value	ValueOutput
+OscWave2	0	4194304	Value	ValueOutput
+OscFreq2	0	4194304	Value	ValueOutput
+OscDcy2	0	4194304	Value	ValueOutput
+ModMode2	0	4194304	Value	ValueOutput
+ModRate2	0	4194304	Value	ValueOutput
+ModAmt2	0	4194304	Value	ValueOutput
+NFilMod2	0	4194304	Value	ValueOutput
+NFilFrq2	0	4194304	Value	ValueOutput
+NFilQ2	0	4194304	Value	ValueOutput
+NStereo2	0	4194304	Value	ValueOutput
+NEnvMod2	0	4194304	Value	ValueOutput
+NEnvAtk2	0	4194304	Value	ValueOutput
+NEnvDcy2	0	4194304	Value	ValueOutput
+Mix2	0	4194304	Value	ValueOutput
+DistAmt2	0	4194304	Value	ValueOutput
+EQFreq2	0	4194304	Value	ValueOutput
+EQGain2	0	4194304	Value	ValueOutput
+Level2	0	4194304	Value	ValueOutput
+Pan2	0	4194304	Value	ValueOutput
+Output2	0	4194304	Value	ValueOutput
+OscVel2	0	4194304	Value	ValueOutput
+NVel2	0	4194304	Value	ValueOutput
+ModVel2	0	4194304	Value	ValueOutput
+OscWave3	0	4194304	Value	ValueOutput
+OscFreq3	0	4194304	Value	ValueOutput
+OscDcy3	0	4194304	Value	ValueOutput
+ModMode3	0	4194304	Value	ValueOutput
+ModRate3	0	4194304	Value	ValueOutput
+ModAmt3	0	4194304	Value	ValueOutput
+NFilMod3	0	4194304	Value	ValueOutput
+NFilFrq3	0	4194304	Value	ValueOutput
+NFilQ3	0	4194304	Value	ValueOutput
+NStereo3	0	4194304	Value	ValueOutput
+NEnvMod3	0	4194304	Value	ValueOutput
+NEnvAtk3	0	4194304	Value	ValueOutput
+NEnvDcy3	0	4194304	Value	ValueOutput
+Mix3	0	4194304	Value	ValueOutput
+DistAmt3	0	4194304	Value	ValueOutput
+EQFreq3	0	4194304	Value	ValueOutput
+EQGain3	0	4194304	Value	ValueOutput
+Level3	0	4194304	Value	ValueOutput
+Pan3	0	4194304	Value	ValueOutput
+Output3	0	4194304	Value	ValueOutput
+OscVel3	0	4194304	Value	ValueOutput
+NVel3	0	4194304	Value	ValueOutput
+ModVel3	0	4194304	Value	ValueOutput
+OscWave4	0	4194304	Value	ValueOutput
+OscFreq4	0	4194304	Value	ValueOutput
+OscDcy4	0	4194304	Value	ValueOutput
+ModMode4	0	4194304	Value	ValueOutput
+ModRate4	0	4194304	Value	ValueOutput
+ModAmt4	0	4194304	Value	ValueOutput
+NFilMod4	0	4194304	Value	ValueOutput
+NFilFrq4	0	4194304	Value	ValueOutput
+NFilQ4	0	4194304	Value	ValueOutput
+NStereo4	0	4194304	Value	ValueOutput
+NEnvMod4	0	4194304	Value	ValueOutput
+NEnvAtk4	0	4194304	Value	ValueOutput
+NEnvDcy4	0	4194304	Value	ValueOutput
+Mix4	0	4194304	Value	ValueOutput
+DistAmt4	0	4194304	Value	ValueOutput
+EQFreq4	0	4194304	Value	ValueOutput
+EQGain4	0	4194304	Value	ValueOutput
+Level4	0	4194304	Value	ValueOutput
+Pan4	0	4194304	Value	ValueOutput
+Output4	0	4194304	Value	ValueOutput
+OscVel4	0	4194304	Value	ValueOutput
+NVel4	0	4194304	Value	ValueOutput
+ModVel4	0	4194304	Value	ValueOutput
+OscWave5	0	4194304	Value	ValueOutput
+OscFreq5	0	4194304	Value	ValueOutput
+OscDcy5	0	4194304	Value	ValueOutput
+ModMode5	0	4194304	Value	ValueOutput
+ModRate5	0	4194304	Value	ValueOutput
+ModAmt5	0	4194304	Value	ValueOutput
+NFilMod5	0	4194304	Value	ValueOutput
+NFilFrq5	0	4194304	Value	ValueOutput
+NFilQ5	0	4194304	Value	ValueOutput
+NStereo5	0	4194304	Value	ValueOutput
+NEnvMod5	0	4194304	Value	ValueOutput
+NEnvAtk5	0	4194304	Value	ValueOutput
+NEnvDcy5	0	4194304	Value	ValueOutput
+Mix5	0	4194304	Value	ValueOutput
+DistAmt5	0	4194304	Value	ValueOutput
+EQFreq5	0	4194304	Value	ValueOutput
+EQGain5	0	4194304	Value	ValueOutput
+Level5	0	4194304	Value	ValueOutput
+Pan5	0	4194304	Value	ValueOutput
+Output5	0	4194304	Value	ValueOutput
+OscVel5	0	4194304	Value	ValueOutput
+NVel5	0	4194304	Value	ValueOutput
+ModVel5	0	4194304	Value	ValueOutput
+OscWave6	0	4194304	Value	ValueOutput
+OscFreq6	0	4194304	Value	ValueOutput
+OscDcy6	0	4194304	Value	ValueOutput
+ModMode6	0	4194304	Value	ValueOutput
+ModRate6	0	4194304	Value	ValueOutput
+ModAmt6	0	4194304	Value	ValueOutput
+NFilMod6	0	4194304	Value	ValueOutput
+NFilFrq6	0	4194304	Value	ValueOutput
+NFilQ6	0	4194304	Value	ValueOutput
+NStereo6	0	4194304	Value	ValueOutput
+NEnvMod6	0	4194304	Value	ValueOutput
+NEnvAtk6	0	4194304	Value	ValueOutput
+NEnvDcy6	0	4194304	Value	ValueOutput
+Mix6	0	4194304	Value	ValueOutput
+DistAmt6	0	4194304	Value	ValueOutput
+EQFreq6	0	4194304	Value	ValueOutput
+EQGain6	0	4194304	Value	ValueOutput
+Level6	0	4194304	Value	ValueOutput
+Pan6	0	4194304	Value	ValueOutput
+Output6	0	4194304	Value	ValueOutput
+OscVel6	0	4194304	Value	ValueOutput
+NVel6	0	4194304	Value	ValueOutput
+ModVel6	0	4194304	Value	ValueOutput
+OscWave7	0	4194304	Value	ValueOutput
+OscFreq7	0	4194304	Value	ValueOutput
+OscDcy7	0	4194304	Value	ValueOutput
+ModMode7	0	4194304	Value	ValueOutput
+ModRate7	0	4194304	Value	ValueOutput
+ModAmt7	0	4194304	Value	ValueOutput
+NFilMod7	0	4194304	Value	ValueOutput
+NFilFrq7	0	4194304	Value	ValueOutput
+NFilQ7	0	4194304	Value	ValueOutput
+NStereo7	0	4194304	Value	ValueOutput
+NEnvMod7	0	4194304	Value	ValueOutput
+NEnvAtk7	0	4194304	Value	ValueOutput
+NEnvDcy7	0	4194304	Value	ValueOutput
+Mix7	0	4194304	Value	ValueOutput
+DistAmt7	0	4194304	Value	ValueOutput
+EQFreq7	0	4194304	Value	ValueOutput
+EQGain7	0	4194304	Value	ValueOutput
+Level7	0	4194304	Value	ValueOutput
+Pan7	0	4194304	Value	ValueOutput
+Output7	0	4194304	Value	ValueOutput
+OscVel7	0	4194304	Value	ValueOutput
+NVel7	0	4194304	Value	ValueOutput
+ModVel7	0	4194304	Value	ValueOutput
+OscWave8	0	4194304	Value	ValueOutput
+OscFreq8	0	4194304	Value	ValueOutput
+OscDcy8	0	4194304	Value	ValueOutput
+ModMode8	0	4194304	Value	ValueOutput
+ModRate8	0	4194304	Value	ValueOutput
+ModAmt8	0	4194304	Value	ValueOutput
+NFilMod8	0	4194304	Value	ValueOutput
+NFilFrq8	0	4194304	Value	ValueOutput
+NFilQ8	0	4194304	Value	ValueOutput
+NStereo8	0	4194304	Value	ValueOutput
+NEnvMod8	0	4194304	Value	ValueOutput
+NEnvAtk8	0	4194304	Value	ValueOutput
+NEnvDcy8	0	4194304	Value	ValueOutput
+Mix8	0	4194304	Value	ValueOutput
+DistAmt8	0	4194304	Value	ValueOutput
+EQFreq8	0	4194304	Value	ValueOutput
+EQGain8	0	4194304	Value	ValueOutput
+Level8	0	4194304	Value	ValueOutput
+Pan8	0	4194304	Value	ValueOutput
+Output8	0	4194304	Value	ValueOutput
+OscVel8	0	4194304	Value	ValueOutput
+NVel8	0	4194304	Value	ValueOutput
+ModVel8	0	4194304	Value	ValueOutput
+OscAtk1	0	4194304	Value	ValueOutput
+OscAtk2	0	4194304	Value	ValueOutput
+OscAtk3	0	4194304	Value	ValueOutput
+OscAtk4	0	4194304	Value	ValueOutput
+OscAtk5	0	4194304	Value	ValueOutput
+OscAtk6	0	4194304	Value	ValueOutput
+OscAtk7	0	4194304	Value	ValueOutput
+OscAtk8	0	4194304	Value	ValueOutput
+Choke1	0	4194304	Value	ValueOutput
+Choke2	0	4194304	Value	ValueOutput
+Choke3	0	4194304	Value	ValueOutput
+Choke4	0	4194304	Value	ValueOutput
+Choke5	0	4194304	Value	ValueOutput
+Choke6	0	4194304	Value	ValueOutput
+Choke7	0	4194304	Value	ValueOutput
+Choke8	0	4194304	Value	ValueOutput
+Morph	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

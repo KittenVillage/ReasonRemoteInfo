@@ -1,0 +1,42 @@
+Scope
+Manufacturer	Model
+Sonic Charge	vst.NuEB.Echobode x64
+Note: Will match scope definitions for vst.NuEB.Echobode x64 or vst.NuEB
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Frequency Shift Range	0	4194304	Value	ValueOutput
+Frequency Shift Amount	0	4194304	Value	ValueOutput
+Anti Reflection	0	4194304	Value	ValueOutput
+Phase Shift	0	4194304	Value	ValueOutput
+Sideband Mix	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Sync	0	4194304	Value	ValueOutput
+Feedback Amount	0	4194304	Value	ValueOutput
+Cross Channels	0	4194304	Value	ValueOutput
+High-pass Frequency	0	4194304	Value	ValueOutput
+Low-pass Frequency	0	4194304	Value	ValueOutput
+Smear Amount	0	4194304	Value	ValueOutput
+Wet Mix	0	4194304	Value	ValueOutput
+LFO Shape	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Sync	0	4194304	Value	ValueOutput
+LFO Amount	0	4194304	Value	ValueOutput
+LFO Stereo	0	4194304	Value	ValueOutput
+LFO Target	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

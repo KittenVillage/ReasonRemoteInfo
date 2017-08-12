@@ -1,0 +1,390 @@
+Scope
+Manufacturer	Model
+DMGAudio	vst.EQil.EQuilibrium
+Note: Will match scope definitions for vst.EQil.EQuilibrium or vst.EQil
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+Shift	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Parallel	0	4194304	Value	ValueOutput
+A/B	0	4194304	Value	ValueOutput
+IRLength	0	4194304	Value	ValueOutput
+IRWindow	0	4194304	Value	ValueOutput
+IRWindowParam	0	4194304	Value	ValueOutput
+IRPhase	0	4194304	Value	ValueOutput
+IRPad	0	4194304	Value	ValueOutput
+D+Len	0	4194304	Value	ValueOutput
+MS State	0	4194304	Value	ValueOutput
+Channel 1 Level	0	4194304	Value	ValueOutput
+Channel 1 Phase	0	4194304	Value	ValueOutput
+Channel 1 Mute	0	4194304	Value	ValueOutput
+Channel 1 Solo	0	4194304	Value	ValueOutput
+Channel 2 Level	0	4194304	Value	ValueOutput
+Channel 2 Phase	0	4194304	Value	ValueOutput
+Channel 2 Mute	0	4194304	Value	ValueOutput
+Channel 2 Solo	0	4194304	Value	ValueOutput
+Channel 3 Level	0	4194304	Value	ValueOutput
+Channel 3 Phase	0	4194304	Value	ValueOutput
+Channel 3 Mute	0	4194304	Value	ValueOutput
+Channel 3 Solo	0	4194304	Value	ValueOutput
+Channel 4 Level	0	4194304	Value	ValueOutput
+Channel 4 Phase	0	4194304	Value	ValueOutput
+Channel 4 Mute	0	4194304	Value	ValueOutput
+Channel 4 Solo	0	4194304	Value	ValueOutput
+Channel 5 Level	0	4194304	Value	ValueOutput
+Channel 5 Phase	0	4194304	Value	ValueOutput
+Channel 5 Mute	0	4194304	Value	ValueOutput
+Channel 5 Solo	0	4194304	Value	ValueOutput
+Channel 6 Level	0	4194304	Value	ValueOutput
+Channel 6 Phase	0	4194304	Value	ValueOutput
+Channel 6 Mute	0	4194304	Value	ValueOutput
+Channel 6 Solo	0	4194304	Value	ValueOutput
+Channel 7 Level	0	4194304	Value	ValueOutput
+Channel 7 Phase	0	4194304	Value	ValueOutput
+Channel 7 Mute	0	4194304	Value	ValueOutput
+Channel 7 Solo	0	4194304	Value	ValueOutput
+Channel 8 Level	0	4194304	Value	ValueOutput
+Channel 8 Phase	0	4194304	Value	ValueOutput
+Channel 8 Mute	0	4194304	Value	ValueOutput
+Channel 8 Solo	0	4194304	Value	ValueOutput
+Band1 State	0	4194304	Value	ValueOutput
+Band1 Groups	0	4194304	Value	ValueOutput
+Band1 Type	0	4194304	Value	ValueOutput
+Band1 Subtype	0	4194304	Value	ValueOutput
+Band1 Gain	0	4194304	Value	ValueOutput
+Band1 Frequency	0	4194304	Value	ValueOutput
+Band1 Q	0	4194304	Value	ValueOutput
+Band1 Shift	0	4194304	Value	ValueOutput
+Band1 Slope	0	4194304	Value	ValueOutput
+Band1 Phase	0	4194304	Value	ValueOutput
+Band2 State	0	4194304	Value	ValueOutput
+Band2 Groups	0	4194304	Value	ValueOutput
+Band2 Type	0	4194304	Value	ValueOutput
+Band2 Subtype	0	4194304	Value	ValueOutput
+Band2 Gain	0	4194304	Value	ValueOutput
+Band2 Frequency	0	4194304	Value	ValueOutput
+Band2 Q	0	4194304	Value	ValueOutput
+Band2 Shift	0	4194304	Value	ValueOutput
+Band2 Slope	0	4194304	Value	ValueOutput
+Band2 Phase	0	4194304	Value	ValueOutput
+Band3 State	0	4194304	Value	ValueOutput
+Band3 Groups	0	4194304	Value	ValueOutput
+Band3 Type	0	4194304	Value	ValueOutput
+Band3 Subtype	0	4194304	Value	ValueOutput
+Band3 Gain	0	4194304	Value	ValueOutput
+Band3 Frequency	0	4194304	Value	ValueOutput
+Band3 Q	0	4194304	Value	ValueOutput
+Band3 Shift	0	4194304	Value	ValueOutput
+Band3 Slope	0	4194304	Value	ValueOutput
+Band3 Phase	0	4194304	Value	ValueOutput
+Band4 State	0	4194304	Value	ValueOutput
+Band4 Groups	0	4194304	Value	ValueOutput
+Band4 Type	0	4194304	Value	ValueOutput
+Band4 Subtype	0	4194304	Value	ValueOutput
+Band4 Gain	0	4194304	Value	ValueOutput
+Band4 Frequency	0	4194304	Value	ValueOutput
+Band4 Q	0	4194304	Value	ValueOutput
+Band4 Shift	0	4194304	Value	ValueOutput
+Band4 Slope	0	4194304	Value	ValueOutput
+Band4 Phase	0	4194304	Value	ValueOutput
+Band5 State	0	4194304	Value	ValueOutput
+Band5 Groups	0	4194304	Value	ValueOutput
+Band5 Type	0	4194304	Value	ValueOutput
+Band5 Subtype	0	4194304	Value	ValueOutput
+Band5 Gain	0	4194304	Value	ValueOutput
+Band5 Frequency	0	4194304	Value	ValueOutput
+Band5 Q	0	4194304	Value	ValueOutput
+Band5 Shift	0	4194304	Value	ValueOutput
+Band5 Slope	0	4194304	Value	ValueOutput
+Band5 Phase	0	4194304	Value	ValueOutput
+Band6 State	0	4194304	Value	ValueOutput
+Band6 Groups	0	4194304	Value	ValueOutput
+Band6 Type	0	4194304	Value	ValueOutput
+Band6 Subtype	0	4194304	Value	ValueOutput
+Band6 Gain	0	4194304	Value	ValueOutput
+Band6 Frequency	0	4194304	Value	ValueOutput
+Band6 Q	0	4194304	Value	ValueOutput
+Band6 Shift	0	4194304	Value	ValueOutput
+Band6 Slope	0	4194304	Value	ValueOutput
+Band6 Phase	0	4194304	Value	ValueOutput
+Band7 State	0	4194304	Value	ValueOutput
+Band7 Groups	0	4194304	Value	ValueOutput
+Band7 Type	0	4194304	Value	ValueOutput
+Band7 Subtype	0	4194304	Value	ValueOutput
+Band7 Gain	0	4194304	Value	ValueOutput
+Band7 Frequency	0	4194304	Value	ValueOutput
+Band7 Q	0	4194304	Value	ValueOutput
+Band7 Shift	0	4194304	Value	ValueOutput
+Band7 Slope	0	4194304	Value	ValueOutput
+Band7 Phase	0	4194304	Value	ValueOutput
+Band8 State	0	4194304	Value	ValueOutput
+Band8 Groups	0	4194304	Value	ValueOutput
+Band8 Type	0	4194304	Value	ValueOutput
+Band8 Subtype	0	4194304	Value	ValueOutput
+Band8 Gain	0	4194304	Value	ValueOutput
+Band8 Frequency	0	4194304	Value	ValueOutput
+Band8 Q	0	4194304	Value	ValueOutput
+Band8 Shift	0	4194304	Value	ValueOutput
+Band8 Slope	0	4194304	Value	ValueOutput
+Band8 Phase	0	4194304	Value	ValueOutput
+Band9 State	0	4194304	Value	ValueOutput
+Band9 Groups	0	4194304	Value	ValueOutput
+Band9 Type	0	4194304	Value	ValueOutput
+Band9 Subtype	0	4194304	Value	ValueOutput
+Band9 Gain	0	4194304	Value	ValueOutput
+Band9 Frequency	0	4194304	Value	ValueOutput
+Band9 Q	0	4194304	Value	ValueOutput
+Band9 Shift	0	4194304	Value	ValueOutput
+Band9 Slope	0	4194304	Value	ValueOutput
+Band9 Phase	0	4194304	Value	ValueOutput
+Band10 State	0	4194304	Value	ValueOutput
+Band10 Groups	0	4194304	Value	ValueOutput
+Band10 Type	0	4194304	Value	ValueOutput
+Band10 Subtype	0	4194304	Value	ValueOutput
+Band10 Gain	0	4194304	Value	ValueOutput
+Band10 Frequency	0	4194304	Value	ValueOutput
+Band10 Q	0	4194304	Value	ValueOutput
+Band10 Shift	0	4194304	Value	ValueOutput
+Band10 Slope	0	4194304	Value	ValueOutput
+Band10 Phase	0	4194304	Value	ValueOutput
+Band11 State	0	4194304	Value	ValueOutput
+Band11 Groups	0	4194304	Value	ValueOutput
+Band11 Type	0	4194304	Value	ValueOutput
+Band11 Subtype	0	4194304	Value	ValueOutput
+Band11 Gain	0	4194304	Value	ValueOutput
+Band11 Frequency	0	4194304	Value	ValueOutput
+Band11 Q	0	4194304	Value	ValueOutput
+Band11 Shift	0	4194304	Value	ValueOutput
+Band11 Slope	0	4194304	Value	ValueOutput
+Band11 Phase	0	4194304	Value	ValueOutput
+Band12 State	0	4194304	Value	ValueOutput
+Band12 Groups	0	4194304	Value	ValueOutput
+Band12 Type	0	4194304	Value	ValueOutput
+Band12 Subtype	0	4194304	Value	ValueOutput
+Band12 Gain	0	4194304	Value	ValueOutput
+Band12 Frequency	0	4194304	Value	ValueOutput
+Band12 Q	0	4194304	Value	ValueOutput
+Band12 Shift	0	4194304	Value	ValueOutput
+Band12 Slope	0	4194304	Value	ValueOutput
+Band12 Phase	0	4194304	Value	ValueOutput
+Band13 State	0	4194304	Value	ValueOutput
+Band13 Groups	0	4194304	Value	ValueOutput
+Band13 Type	0	4194304	Value	ValueOutput
+Band13 Subtype	0	4194304	Value	ValueOutput
+Band13 Gain	0	4194304	Value	ValueOutput
+Band13 Frequency	0	4194304	Value	ValueOutput
+Band13 Q	0	4194304	Value	ValueOutput
+Band13 Shift	0	4194304	Value	ValueOutput
+Band13 Slope	0	4194304	Value	ValueOutput
+Band13 Phase	0	4194304	Value	ValueOutput
+Band14 State	0	4194304	Value	ValueOutput
+Band14 Groups	0	4194304	Value	ValueOutput
+Band14 Type	0	4194304	Value	ValueOutput
+Band14 Subtype	0	4194304	Value	ValueOutput
+Band14 Gain	0	4194304	Value	ValueOutput
+Band14 Frequency	0	4194304	Value	ValueOutput
+Band14 Q	0	4194304	Value	ValueOutput
+Band14 Shift	0	4194304	Value	ValueOutput
+Band14 Slope	0	4194304	Value	ValueOutput
+Band14 Phase	0	4194304	Value	ValueOutput
+Band15 State	0	4194304	Value	ValueOutput
+Band15 Groups	0	4194304	Value	ValueOutput
+Band15 Type	0	4194304	Value	ValueOutput
+Band15 Subtype	0	4194304	Value	ValueOutput
+Band15 Gain	0	4194304	Value	ValueOutput
+Band15 Frequency	0	4194304	Value	ValueOutput
+Band15 Q	0	4194304	Value	ValueOutput
+Band15 Shift	0	4194304	Value	ValueOutput
+Band15 Slope	0	4194304	Value	ValueOutput
+Band15 Phase	0	4194304	Value	ValueOutput
+Band16 State	0	4194304	Value	ValueOutput
+Band16 Groups	0	4194304	Value	ValueOutput
+Band16 Type	0	4194304	Value	ValueOutput
+Band16 Subtype	0	4194304	Value	ValueOutput
+Band16 Gain	0	4194304	Value	ValueOutput
+Band16 Frequency	0	4194304	Value	ValueOutput
+Band16 Q	0	4194304	Value	ValueOutput
+Band16 Shift	0	4194304	Value	ValueOutput
+Band16 Slope	0	4194304	Value	ValueOutput
+Band16 Phase	0	4194304	Value	ValueOutput
+Band17 State	0	4194304	Value	ValueOutput
+Band17 Groups	0	4194304	Value	ValueOutput
+Band17 Type	0	4194304	Value	ValueOutput
+Band17 Subtype	0	4194304	Value	ValueOutput
+Band17 Gain	0	4194304	Value	ValueOutput
+Band17 Frequency	0	4194304	Value	ValueOutput
+Band17 Q	0	4194304	Value	ValueOutput
+Band17 Shift	0	4194304	Value	ValueOutput
+Band17 Slope	0	4194304	Value	ValueOutput
+Band17 Phase	0	4194304	Value	ValueOutput
+Band18 State	0	4194304	Value	ValueOutput
+Band18 Groups	0	4194304	Value	ValueOutput
+Band18 Type	0	4194304	Value	ValueOutput
+Band18 Subtype	0	4194304	Value	ValueOutput
+Band18 Gain	0	4194304	Value	ValueOutput
+Band18 Frequency	0	4194304	Value	ValueOutput
+Band18 Q	0	4194304	Value	ValueOutput
+Band18 Shift	0	4194304	Value	ValueOutput
+Band18 Slope	0	4194304	Value	ValueOutput
+Band18 Phase	0	4194304	Value	ValueOutput
+Band19 State	0	4194304	Value	ValueOutput
+Band19 Groups	0	4194304	Value	ValueOutput
+Band19 Type	0	4194304	Value	ValueOutput
+Band19 Subtype	0	4194304	Value	ValueOutput
+Band19 Gain	0	4194304	Value	ValueOutput
+Band19 Frequency	0	4194304	Value	ValueOutput
+Band19 Q	0	4194304	Value	ValueOutput
+Band19 Shift	0	4194304	Value	ValueOutput
+Band19 Slope	0	4194304	Value	ValueOutput
+Band19 Phase	0	4194304	Value	ValueOutput
+Band20 State	0	4194304	Value	ValueOutput
+Band20 Groups	0	4194304	Value	ValueOutput
+Band20 Type	0	4194304	Value	ValueOutput
+Band20 Subtype	0	4194304	Value	ValueOutput
+Band20 Gain	0	4194304	Value	ValueOutput
+Band20 Frequency	0	4194304	Value	ValueOutput
+Band20 Q	0	4194304	Value	ValueOutput
+Band20 Shift	0	4194304	Value	ValueOutput
+Band20 Slope	0	4194304	Value	ValueOutput
+Band20 Phase	0	4194304	Value	ValueOutput
+Band21 State	0	4194304	Value	ValueOutput
+Band21 Groups	0	4194304	Value	ValueOutput
+Band21 Type	0	4194304	Value	ValueOutput
+Band21 Subtype	0	4194304	Value	ValueOutput
+Band21 Gain	0	4194304	Value	ValueOutput
+Band21 Frequency	0	4194304	Value	ValueOutput
+Band21 Q	0	4194304	Value	ValueOutput
+Band21 Shift	0	4194304	Value	ValueOutput
+Band21 Slope	0	4194304	Value	ValueOutput
+Band21 Phase	0	4194304	Value	ValueOutput
+Band22 State	0	4194304	Value	ValueOutput
+Band22 Groups	0	4194304	Value	ValueOutput
+Band22 Type	0	4194304	Value	ValueOutput
+Band22 Subtype	0	4194304	Value	ValueOutput
+Band22 Gain	0	4194304	Value	ValueOutput
+Band22 Frequency	0	4194304	Value	ValueOutput
+Band22 Q	0	4194304	Value	ValueOutput
+Band22 Shift	0	4194304	Value	ValueOutput
+Band22 Slope	0	4194304	Value	ValueOutput
+Band22 Phase	0	4194304	Value	ValueOutput
+Band23 State	0	4194304	Value	ValueOutput
+Band23 Groups	0	4194304	Value	ValueOutput
+Band23 Type	0	4194304	Value	ValueOutput
+Band23 Subtype	0	4194304	Value	ValueOutput
+Band23 Gain	0	4194304	Value	ValueOutput
+Band23 Frequency	0	4194304	Value	ValueOutput
+Band23 Q	0	4194304	Value	ValueOutput
+Band23 Shift	0	4194304	Value	ValueOutput
+Band23 Slope	0	4194304	Value	ValueOutput
+Band23 Phase	0	4194304	Value	ValueOutput
+Band24 State	0	4194304	Value	ValueOutput
+Band24 Groups	0	4194304	Value	ValueOutput
+Band24 Type	0	4194304	Value	ValueOutput
+Band24 Subtype	0	4194304	Value	ValueOutput
+Band24 Gain	0	4194304	Value	ValueOutput
+Band24 Frequency	0	4194304	Value	ValueOutput
+Band24 Q	0	4194304	Value	ValueOutput
+Band24 Shift	0	4194304	Value	ValueOutput
+Band24 Slope	0	4194304	Value	ValueOutput
+Band24 Phase	0	4194304	Value	ValueOutput
+Band25 State	0	4194304	Value	ValueOutput
+Band25 Groups	0	4194304	Value	ValueOutput
+Band25 Type	0	4194304	Value	ValueOutput
+Band25 Subtype	0	4194304	Value	ValueOutput
+Band25 Gain	0	4194304	Value	ValueOutput
+Band25 Frequency	0	4194304	Value	ValueOutput
+Band25 Q	0	4194304	Value	ValueOutput
+Band25 Shift	0	4194304	Value	ValueOutput
+Band25 Slope	0	4194304	Value	ValueOutput
+Band25 Phase	0	4194304	Value	ValueOutput
+Band26 State	0	4194304	Value	ValueOutput
+Band26 Groups	0	4194304	Value	ValueOutput
+Band26 Type	0	4194304	Value	ValueOutput
+Band26 Subtype	0	4194304	Value	ValueOutput
+Band26 Gain	0	4194304	Value	ValueOutput
+Band26 Frequency	0	4194304	Value	ValueOutput
+Band26 Q	0	4194304	Value	ValueOutput
+Band26 Shift	0	4194304	Value	ValueOutput
+Band26 Slope	0	4194304	Value	ValueOutput
+Band26 Phase	0	4194304	Value	ValueOutput
+Band27 State	0	4194304	Value	ValueOutput
+Band27 Groups	0	4194304	Value	ValueOutput
+Band27 Type	0	4194304	Value	ValueOutput
+Band27 Subtype	0	4194304	Value	ValueOutput
+Band27 Gain	0	4194304	Value	ValueOutput
+Band27 Frequency	0	4194304	Value	ValueOutput
+Band27 Q	0	4194304	Value	ValueOutput
+Band27 Shift	0	4194304	Value	ValueOutput
+Band27 Slope	0	4194304	Value	ValueOutput
+Band27 Phase	0	4194304	Value	ValueOutput
+Band28 State	0	4194304	Value	ValueOutput
+Band28 Groups	0	4194304	Value	ValueOutput
+Band28 Type	0	4194304	Value	ValueOutput
+Band28 Subtype	0	4194304	Value	ValueOutput
+Band28 Gain	0	4194304	Value	ValueOutput
+Band28 Frequency	0	4194304	Value	ValueOutput
+Band28 Q	0	4194304	Value	ValueOutput
+Band28 Shift	0	4194304	Value	ValueOutput
+Band28 Slope	0	4194304	Value	ValueOutput
+Band28 Phase	0	4194304	Value	ValueOutput
+Band29 State	0	4194304	Value	ValueOutput
+Band29 Groups	0	4194304	Value	ValueOutput
+Band29 Type	0	4194304	Value	ValueOutput
+Band29 Subtype	0	4194304	Value	ValueOutput
+Band29 Gain	0	4194304	Value	ValueOutput
+Band29 Frequency	0	4194304	Value	ValueOutput
+Band29 Q	0	4194304	Value	ValueOutput
+Band29 Shift	0	4194304	Value	ValueOutput
+Band29 Slope	0	4194304	Value	ValueOutput
+Band29 Phase	0	4194304	Value	ValueOutput
+Band30 State	0	4194304	Value	ValueOutput
+Band30 Groups	0	4194304	Value	ValueOutput
+Band30 Type	0	4194304	Value	ValueOutput
+Band30 Subtype	0	4194304	Value	ValueOutput
+Band30 Gain	0	4194304	Value	ValueOutput
+Band30 Frequency	0	4194304	Value	ValueOutput
+Band30 Q	0	4194304	Value	ValueOutput
+Band30 Shift	0	4194304	Value	ValueOutput
+Band30 Slope	0	4194304	Value	ValueOutput
+Band30 Phase	0	4194304	Value	ValueOutput
+Band31 State	0	4194304	Value	ValueOutput
+Band31 Groups	0	4194304	Value	ValueOutput
+Band31 Type	0	4194304	Value	ValueOutput
+Band31 Subtype	0	4194304	Value	ValueOutput
+Band31 Gain	0	4194304	Value	ValueOutput
+Band31 Frequency	0	4194304	Value	ValueOutput
+Band31 Q	0	4194304	Value	ValueOutput
+Band31 Shift	0	4194304	Value	ValueOutput
+Band31 Slope	0	4194304	Value	ValueOutput
+Band31 Phase	0	4194304	Value	ValueOutput
+Band32 State	0	4194304	Value	ValueOutput
+Band32 Groups	0	4194304	Value	ValueOutput
+Band32 Type	0	4194304	Value	ValueOutput
+Band32 Subtype	0	4194304	Value	ValueOutput
+Band32 Gain	0	4194304	Value	ValueOutput
+Band32 Frequency	0	4194304	Value	ValueOutput
+Band32 Q	0	4194304	Value	ValueOutput
+Band32 Shift	0	4194304	Value	ValueOutput
+Band32 Slope	0	4194304	Value	ValueOutput
+Band32 Phase	0	4194304	Value	ValueOutput
+D+Phase	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,23 @@
+Scope
+Manufacturer	Model
+Ochen K.	com.ochenk.ASeriesModularSynth2
+
+Remotable	Min	Max	Input type	Output type
+Poly Count	0	7	Value	ValueOutput
+Poly Assign Mode	0	2	Value	ValueOutput
+Noise Color	0	4194304	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+VCF High Pass	0	4194304	Value	ValueOutput
+VCF Low Pass	0	4194304	Value	ValueOutput
+Mixer 1	0	4194304	Value	ValueOutput
+Mixer 2	0	4194304	Value	ValueOutput
+Mixer 3	0	4194304	Value	ValueOutput
+Mixer 4	0	4194304	Value	ValueOutput
+Mixer 5	0	4194304	Value	ValueOutput
+Mixer 6	0	4194304	Value	ValueOutput
+Mixer Out	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

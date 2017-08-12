@@ -1,0 +1,56 @@
+Scope
+Manufacturer	Model
+ArtsAcoustic	vst.aaD1.clms1xl x64
+Note: Will match scope definitions for vst.aaD1.clms1xl x64 or vst.aaD1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass On/Off	0	4194304	Value	ValueOutput
+MS Mode On/Off	0	4194304	Value	ValueOutput
+IN - Gain	0	4194304	Value	ValueOutput
+SC - EQ On/Off - M	0	4194304	Value	ValueOutput
+SC - EQ On/Off - S	0	4194304	Value	ValueOutput
+SC - Solo - M	0	4194304	Value	ValueOutput
+SC - Solo - S	0	4194304	Value	ValueOutput
+SC - Source - M	0	4194304	Value	ValueOutput
+SC - Source - S	0	4194304	Value	ValueOutput
+SC - HP Cutoff - M	0	4194304	Value	ValueOutput
+SC - HP Cutoff - S	0	4194304	Value	ValueOutput
+SC - LP Cutoff - M	0	4194304	Value	ValueOutput
+SC - LP Cutoff - S	0	4194304	Value	ValueOutput
+SC - MS M On/Off	0	4194304	Value	ValueOutput
+SC - MS S On/Off	0	4194304	Value	ValueOutput
+SC - MS Mix M	0	4194304	Value	ValueOutput
+SC - MS Mix S	0	4194304	Value	ValueOutput
+CP - Threshold M	0	4194304	Value	ValueOutput
+CP - Ratio M	0	4194304	Value	ValueOutput
+CP - Attack M	0	4194304	Value	ValueOutput
+CP - Release M	0	4194304	Value	ValueOutput
+CP - Threshold S	0	4194304	Value	ValueOutput
+CP - Ratio S	0	4194304	Value	ValueOutput
+CP - Attack S	0	4194304	Value	ValueOutput
+CP - Release S	0	4194304	Value	ValueOutput
+CP - S Pan	0	4194304	Value	ValueOutput
+CP - MS Mix	0	4194304	Value	ValueOutput
+CP - Dry/Wet	0	4194304	Value	ValueOutput
+CP - Gain	0	4194304	Value	ValueOutput
+LIM - On/Off	0	4194304	Value	ValueOutput
+LIM - Type	0	4194304	Value	ValueOutput
+LIM - Release	0	4194304	Value	ValueOutput
+OUT - Attenuation	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

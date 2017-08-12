@@ -1,0 +1,65 @@
+Scope
+Manufacturer	Model
+QuikQuak	vst.UpSP.UpStereo Pro
+Note: Will match scope definitions for vst.UpSP.UpStereo Pro or vst.UpSP
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Active	0	4194304	Value	ValueOutput
+Stereo Width	0	4194304	Value	ValueOutput
+Punch	0	4194304	Value	ValueOutput
+Sizzle	0	4194304	Value	ValueOutput
+Shape	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Eq_Num	0	4194304	Value	ValueOutput
+Eq0_X	0	4194304	Value	ValueOutput
+Eq0_Y	0	4194304	Value	ValueOutput
+Eq1_X	0	4194304	Value	ValueOutput
+Eq1_Y	0	4194304	Value	ValueOutput
+Eq2_X	0	4194304	Value	ValueOutput
+Eq2_Y	0	4194304	Value	ValueOutput
+Eq3_X	0	4194304	Value	ValueOutput
+Eq3_Y	0	4194304	Value	ValueOutput
+Eq4_X	0	4194304	Value	ValueOutput
+Eq4_Y	0	4194304	Value	ValueOutput
+Eq5_X	0	4194304	Value	ValueOutput
+Eq5_Y	0	4194304	Value	ValueOutput
+Eq6_X	0	4194304	Value	ValueOutput
+Eq6_Y	0	4194304	Value	ValueOutput
+Eq7_X	0	4194304	Value	ValueOutput
+Eq7_Y	0	4194304	Value	ValueOutput
+Eq8_X	0	4194304	Value	ValueOutput
+Eq8_Y	0	4194304	Value	ValueOutput
+Eq9_X	0	4194304	Value	ValueOutput
+Eq9_Y	0	4194304	Value	ValueOutput
+Eq10_X	0	4194304	Value	ValueOutput
+Eq10_Y	0	4194304	Value	ValueOutput
+Eq11_X	0	4194304	Value	ValueOutput
+Eq11_Y	0	4194304	Value	ValueOutput
+Eq12_X	0	4194304	Value	ValueOutput
+Eq12_Y	0	4194304	Value	ValueOutput
+Eq13_X	0	4194304	Value	ValueOutput
+Eq13_Y	0	4194304	Value	ValueOutput
+Eq14_X	0	4194304	Value	ValueOutput
+Eq14_Y	0	4194304	Value	ValueOutput
+Eq15_X	0	4194304	Value	ValueOutput
+Eq15_Y	0	4194304	Value	ValueOutput
+Eq.gain	0	4194304	Value	ValueOutput
+Internal 0	0	4194304	Value	ValueOutput
+ 	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,125 @@
+Scope
+Manufacturer	Model
+Waves	vst.GVMS.WaveShell-VST 9_91_x64.GTR Tool Rack Stereo
+Note: Will match scope definitions for vst.GVMS.WaveShell-VST 9_91_x64.GTR Tool Rack Stereo or vst.GVMS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Link	0	4194304	Value	ValueOutput
+Global A/B Switch	0	4194304	Value	ValueOutput
+Sync	0	4194304	Value	ValueOutput
+Tap	0	4194304	Value	ValueOutput
+Mute	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Bypass Amps	0	4194304	Value	ValueOutput
+Bypass Stomps	0	4194304	Value	ValueOutput
+InputGain	0	4194304	Value	ValueOutput
+OutputGain	0	4194304	Value	ValueOutput
+PreAmp	0	4194304	Value	ValueOutput
+PostAmp	0	4194304	Value	ValueOutput
+Amp 1 - Amp Bypass	0	4194304	Value	ValueOutput
+Amp 1 - Amp Type	0	4194304	Value	ValueOutput
+Amp 1 - Drive	0	4194304	Value	ValueOutput
+Amp 1 - Bass	0	4194304	Value	ValueOutput
+Amp 1 - Mid	0	4194304	Value	ValueOutput
+Amp 1 - Treble	0	4194304	Value	ValueOutput
+Amp 1 - Presence	0	4194304	Value	ValueOutput
+Amp 1 - Cabinet Bypass	0	4194304	Value	ValueOutput
+Amp 1 - Cabinet	0	4194304	Value	ValueOutput
+Amp 1 - Level	0	4194304	Value	ValueOutput
+Amp 1 - Microphone	0	4194304	Value	ValueOutput
+Amp 1 - Phase	0	4194304	Value	ValueOutput
+Amp 1 - Delay	0	4194304	Value	ValueOutput
+Amp 2 - Amp Bypass	0	4194304	Value	ValueOutput
+Amp 2 - Amp Type	0	4194304	Value	ValueOutput
+Amp 2 - Drive	0	4194304	Value	ValueOutput
+Amp 2 - Bass	0	4194304	Value	ValueOutput
+Amp 2 - Mid	0	4194304	Value	ValueOutput
+Amp 2 - Treble	0	4194304	Value	ValueOutput
+Amp 2 - Presence	0	4194304	Value	ValueOutput
+Amp 2 - Cabinet Bypass	0	4194304	Value	ValueOutput
+Amp 2 - Cabinet	0	4194304	Value	ValueOutput
+Amp 2 - Level	0	4194304	Value	ValueOutput
+Amp 2 - Microphone	0	4194304	Value	ValueOutput
+Amp 2 - Phase	0	4194304	Value	ValueOutput
+Amp 2 - Delay	0	4194304	Value	ValueOutput
+Amp Air - Pan 1	0	4194304	Value	ValueOutput
+Amp Air - Pan 2	0	4194304	Value	ValueOutput
+Amp Air - Air 1	0	4194304	Value	ValueOutput
+Amp Air - Air 2	0	4194304	Value	ValueOutput
+Slot 1 Bypass	0	4194304	Value	ValueOutput
+Slot 1 Control 1	0	4194304	Value	ValueOutput
+Slot 1 Control 2	0	4194304	Value	ValueOutput
+Slot 1 Control 3	0	4194304	Value	ValueOutput
+Slot 1 Control 4	0	4194304	Value	ValueOutput
+Slot 1 Control 5	0	4194304	Value	ValueOutput
+Slot 1 Control 6	0	4194304	Value	ValueOutput
+Slot 1 Control 7	0	4194304	Value	ValueOutput
+Slot 1 Control 8	0	4194304	Value	ValueOutput
+Slot 1 Control 9	0	4194304	Value	ValueOutput
+Slot 2 Bypass	0	4194304	Value	ValueOutput
+Slot 2 Control 1	0	4194304	Value	ValueOutput
+Slot 2 Control 2	0	4194304	Value	ValueOutput
+Slot 2 Control 3	0	4194304	Value	ValueOutput
+Slot 2 Control 4	0	4194304	Value	ValueOutput
+Slot 2 Control 5	0	4194304	Value	ValueOutput
+Slot 2 Control 6	0	4194304	Value	ValueOutput
+Slot 2 Control 7	0	4194304	Value	ValueOutput
+Slot 2 Control 8	0	4194304	Value	ValueOutput
+Slot 2 Control 9	0	4194304	Value	ValueOutput
+Slot 3 Bypass	0	4194304	Value	ValueOutput
+Slot 3 Control 1	0	4194304	Value	ValueOutput
+Slot 3 Control 2	0	4194304	Value	ValueOutput
+Slot 3 Control 3	0	4194304	Value	ValueOutput
+Slot 3 Control 4	0	4194304	Value	ValueOutput
+Slot 3 Control 5	0	4194304	Value	ValueOutput
+Slot 3 Control 6	0	4194304	Value	ValueOutput
+Slot 3 Control 7	0	4194304	Value	ValueOutput
+Slot 3 Control 8	0	4194304	Value	ValueOutput
+Slot 3 Control 9	0	4194304	Value	ValueOutput
+Slot 4 Bypass	0	4194304	Value	ValueOutput
+Slot 4 Control 1	0	4194304	Value	ValueOutput
+Slot 4 Control 2	0	4194304	Value	ValueOutput
+Slot 4 Control 3	0	4194304	Value	ValueOutput
+Slot 4 Control 4	0	4194304	Value	ValueOutput
+Slot 4 Control 5	0	4194304	Value	ValueOutput
+Slot 4 Control 6	0	4194304	Value	ValueOutput
+Slot 4 Control 7	0	4194304	Value	ValueOutput
+Slot 4 Control 8	0	4194304	Value	ValueOutput
+Slot 4 Control 9	0	4194304	Value	ValueOutput
+Slot 5 Bypass	0	4194304	Value	ValueOutput
+Slot 5 Control 1	0	4194304	Value	ValueOutput
+Slot 5 Control 2	0	4194304	Value	ValueOutput
+Slot 5 Control 3	0	4194304	Value	ValueOutput
+Slot 5 Control 4	0	4194304	Value	ValueOutput
+Slot 5 Control 5	0	4194304	Value	ValueOutput
+Slot 5 Control 6	0	4194304	Value	ValueOutput
+Slot 5 Control 7	0	4194304	Value	ValueOutput
+Slot 5 Control 8	0	4194304	Value	ValueOutput
+Slot 5 Control 9	0	4194304	Value	ValueOutput
+Slot 6 Bypass	0	4194304	Value	ValueOutput
+Slot 6 Control 1	0	4194304	Value	ValueOutput
+Slot 6 Control 2	0	4194304	Value	ValueOutput
+Slot 6 Control 3	0	4194304	Value	ValueOutput
+Slot 6 Control 4	0	4194304	Value	ValueOutput
+Slot 6 Control 5	0	4194304	Value	ValueOutput
+Slot 6 Control 6	0	4194304	Value	ValueOutput
+Slot 6 Control 7	0	4194304	Value	ValueOutput
+Slot 6 Control 8	0	4194304	Value	ValueOutput
+Slot 6 Control 9	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

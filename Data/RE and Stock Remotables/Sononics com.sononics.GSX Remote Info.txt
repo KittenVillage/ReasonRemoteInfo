@@ -1,0 +1,204 @@
+Scope
+Manufacturer	Model
+Sononics	com.sononics.GSX
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Limiter Enable	0	1	Toggle	ValueOutput
+Limiter Ceiling	0	4194304	Value	ValueOutput
+Bank Latch	0	1	Toggle	ValueOutput
+Bank Switching Resolution	0	3	Value	ValueOutput
+Stutter Resolution	0	1	Toggle	ValueOutput
+Tape Stop Time	0	4194304	Value	ValueOutput
+Tape Restart Time	0	4194304	Value	ValueOutput
+Bass Crossover Frequency	0	4194304	Value	ValueOutput
+Stutter Chirp Amount	0	4194304	Value	ValueOutput
+Bank A Band 1 Attack	0	4194304	Value	ValueOutput
+Bank A Band 2 Attack	0	4194304	Value	ValueOutput
+Bank A Band 3 Attack	0	4194304	Value	ValueOutput
+Bank A Band 4 Attack	0	4194304	Value	ValueOutput
+Bank A Band 5 Attack	0	4194304	Value	ValueOutput
+Bank A Band 1 Decay	0	4194304	Value	ValueOutput
+Bank A Band 2 Decay	0	4194304	Value	ValueOutput
+Bank A Band 3 Decay	0	4194304	Value	ValueOutput
+Bank A Band 4 Decay	0	4194304	Value	ValueOutput
+Bank A Band 5 Decay	0	4194304	Value	ValueOutput
+Bank A Band 1 Gain	0	4194304	Value	ValueOutput
+Bank A Band 2 Gain	0	4194304	Value	ValueOutput
+Bank A Band 3 Gain	0	4194304	Value	ValueOutput
+Bank A Band 4 Gain	0	4194304	Value	ValueOutput
+Bank A Band 5 Gain	0	4194304	Value	ValueOutput
+Bank A Active Graphic Bands	0	4194304	Value	ValueOutput
+Bank A FX 1 Delay Pattern	0	13	Value	ValueOutput
+Bank A FX 2 Delay Pattern	0	13	Value	ValueOutput
+Bank A FX 3 Delay Pattern	0	13	Value	ValueOutput
+Bank A FX 4 Delay Pattern	0	13	Value	ValueOutput
+Bank A FX 5 Delay Pattern	0	13	Value	ValueOutput
+Bank A FX 1 Stutter Type	0	6	Value	ValueOutput
+Bank A FX 2 Stutter Type	0	6	Value	ValueOutput
+Bank A FX 3 Stutter Type	0	6	Value	ValueOutput
+Bank A FX 4 Stutter Type	0	6	Value	ValueOutput
+Bank A FX 5 Stutter Type	0	6	Value	ValueOutput
+Bank A FX 1 Type	0	13	Value	ValueOutput
+Bank A FX 2 Type	0	13	Value	ValueOutput
+Bank A FX 3 Type	0	13	Value	ValueOutput
+Bank A FX 4 Type	0	13	Value	ValueOutput
+Bank A FX 5 Type	0	13	Value	ValueOutput
+Bank A FX 1 Tone	0	4194304	Value	ValueOutput
+Bank A FX 2 Tone	0	4194304	Value	ValueOutput
+Bank A FX 3 Tone	0	4194304	Value	ValueOutput
+Bank A FX 4 Tone	0	4194304	Value	ValueOutput
+Bank A FX 5 Tone	0	4194304	Value	ValueOutput
+Bank A FX 1 LFO Cycle	0	7	Value	ValueOutput
+Bank A FX 2 LFO Cycle	0	7	Value	ValueOutput
+Bank A FX 3 LFO Cycle	0	7	Value	ValueOutput
+Bank A FX 4 LFO Cycle	0	7	Value	ValueOutput
+Bank A FX 5 LFO Cycle	0	7	Value	ValueOutput
+Bank B Band 1 Attack	0	4194304	Value	ValueOutput
+Bank B Band 2 Attack	0	4194304	Value	ValueOutput
+Bank B Band 3 Attack	0	4194304	Value	ValueOutput
+Bank B Band 4 Attack	0	4194304	Value	ValueOutput
+Bank B Band 5 Attack	0	4194304	Value	ValueOutput
+Bank B Band 1 Decay	0	4194304	Value	ValueOutput
+Bank B Band 2 Decay	0	4194304	Value	ValueOutput
+Bank B Band 3 Decay	0	4194304	Value	ValueOutput
+Bank B Band 4 Decay	0	4194304	Value	ValueOutput
+Bank B Band 5 Decay	0	4194304	Value	ValueOutput
+Bank B Band 1 Gain	0	4194304	Value	ValueOutput
+Bank B Band 2 Gain	0	4194304	Value	ValueOutput
+Bank B Band 3 Gain	0	4194304	Value	ValueOutput
+Bank B Band 4 Gain	0	4194304	Value	ValueOutput
+Bank B Band 5 Gain	0	4194304	Value	ValueOutput
+Bank B Active Graphic Bands	0	4194304	Value	ValueOutput
+Bank B FX 1 Delay Pattern	0	13	Value	ValueOutput
+Bank B FX 2 Delay Pattern	0	13	Value	ValueOutput
+Bank B FX 3 Delay Pattern	0	13	Value	ValueOutput
+Bank B FX 4 Delay Pattern	0	13	Value	ValueOutput
+Bank B FX 5 Delay Pattern	0	13	Value	ValueOutput
+Bank B FX 1 Stutter Type	0	6	Value	ValueOutput
+Bank B FX 2 Stutter Type	0	6	Value	ValueOutput
+Bank B FX 3 Stutter Type	0	6	Value	ValueOutput
+Bank B FX 4 Stutter Type	0	6	Value	ValueOutput
+Bank B FX 5 Stutter Type	0	6	Value	ValueOutput
+Bank B FX 1 Type	0	13	Value	ValueOutput
+Bank B FX 2 Type	0	13	Value	ValueOutput
+Bank B FX 3 Type	0	13	Value	ValueOutput
+Bank B FX 4 Type	0	13	Value	ValueOutput
+Bank B FX 5 Type	0	13	Value	ValueOutput
+Bank B FX 1 Tone	0	4194304	Value	ValueOutput
+Bank B FX 2 Tone	0	4194304	Value	ValueOutput
+Bank B FX 3 Tone	0	4194304	Value	ValueOutput
+Bank B FX 4 Tone	0	4194304	Value	ValueOutput
+Bank B FX 5 Tone	0	4194304	Value	ValueOutput
+Bank B FX 1 LFO Cycle	0	7	Value	ValueOutput
+Bank B FX 2 LFO Cycle	0	7	Value	ValueOutput
+Bank B FX 3 LFO Cycle	0	7	Value	ValueOutput
+Bank B FX 4 LFO Cycle	0	7	Value	ValueOutput
+Bank B FX 5 LFO Cycle	0	7	Value	ValueOutput
+Bank C Band 1 Attack	0	4194304	Value	ValueOutput
+Bank C Band 2 Attack	0	4194304	Value	ValueOutput
+Bank C Band 3 Attack	0	4194304	Value	ValueOutput
+Bank C Band 4 Attack	0	4194304	Value	ValueOutput
+Bank C Band 5 Attack	0	4194304	Value	ValueOutput
+Bank C Band 1 Decay	0	4194304	Value	ValueOutput
+Bank C Band 2 Decay	0	4194304	Value	ValueOutput
+Bank C Band 3 Decay	0	4194304	Value	ValueOutput
+Bank C Band 4 Decay	0	4194304	Value	ValueOutput
+Bank C Band 5 Decay	0	4194304	Value	ValueOutput
+Bank C Band 1 Gain	0	4194304	Value	ValueOutput
+Bank C Band 2 Gain	0	4194304	Value	ValueOutput
+Bank C Band 3 Gain	0	4194304	Value	ValueOutput
+Bank C Band 4 Gain	0	4194304	Value	ValueOutput
+Bank C Band 5 Gain	0	4194304	Value	ValueOutput
+Bank C Active Graphic Bands	0	4194304	Value	ValueOutput
+Bank C FX 1 Delay Pattern	0	13	Value	ValueOutput
+Bank C FX 2 Delay Pattern	0	13	Value	ValueOutput
+Bank C FX 3 Delay Pattern	0	13	Value	ValueOutput
+Bank C FX 4 Delay Pattern	0	13	Value	ValueOutput
+Bank C FX 5 Delay Pattern	0	13	Value	ValueOutput
+Bank C FX 1 Stutter Type	0	6	Value	ValueOutput
+Bank C FX 2 Stutter Type	0	6	Value	ValueOutput
+Bank C FX 3 Stutter Type	0	6	Value	ValueOutput
+Bank C FX 4 Stutter Type	0	6	Value	ValueOutput
+Bank C FX 5 Stutter Type	0	6	Value	ValueOutput
+Bank C FX 1 Type	0	13	Value	ValueOutput
+Bank C FX 2 Type	0	13	Value	ValueOutput
+Bank C FX 3 Type	0	13	Value	ValueOutput
+Bank C FX 4 Type	0	13	Value	ValueOutput
+Bank C FX 5 Type	0	13	Value	ValueOutput
+Bank C FX 1 Tone	0	4194304	Value	ValueOutput
+Bank C FX 2 Tone	0	4194304	Value	ValueOutput
+Bank C FX 3 Tone	0	4194304	Value	ValueOutput
+Bank C FX 4 Tone	0	4194304	Value	ValueOutput
+Bank C FX 5 Tone	0	4194304	Value	ValueOutput
+Bank C FX 1 LFO Cycle	0	7	Value	ValueOutput
+Bank C FX 2 LFO Cycle	0	7	Value	ValueOutput
+Bank C FX 3 LFO Cycle	0	7	Value	ValueOutput
+Bank C FX 4 LFO Cycle	0	7	Value	ValueOutput
+Bank C FX 5 LFO Cycle	0	7	Value	ValueOutput
+Bank D Band 1 Attack	0	4194304	Value	ValueOutput
+Bank D Band 2 Attack	0	4194304	Value	ValueOutput
+Bank D Band 3 Attack	0	4194304	Value	ValueOutput
+Bank D Band 4 Attack	0	4194304	Value	ValueOutput
+Bank D Band 5 Attack	0	4194304	Value	ValueOutput
+Bank D Band 1 Decay	0	4194304	Value	ValueOutput
+Bank D Band 2 Decay	0	4194304	Value	ValueOutput
+Bank D Band 3 Decay	0	4194304	Value	ValueOutput
+Bank D Band 4 Decay	0	4194304	Value	ValueOutput
+Bank D Band 5 Decay	0	4194304	Value	ValueOutput
+Bank D Band 1 Gain	0	4194304	Value	ValueOutput
+Bank D Band 2 Gain	0	4194304	Value	ValueOutput
+Bank D Band 3 Gain	0	4194304	Value	ValueOutput
+Bank D Band 4 Gain	0	4194304	Value	ValueOutput
+Bank D Band 5 Gain	0	4194304	Value	ValueOutput
+Bank D Active Graphic Bands	0	4194304	Value	ValueOutput
+Bank D FX 1 Delay Pattern	0	13	Value	ValueOutput
+Bank D FX 2 Delay Pattern	0	13	Value	ValueOutput
+Bank D FX 3 Delay Pattern	0	13	Value	ValueOutput
+Bank D FX 4 Delay Pattern	0	13	Value	ValueOutput
+Bank D FX 5 Delay Pattern	0	13	Value	ValueOutput
+Bank D FX 1 Stutter Type	0	6	Value	ValueOutput
+Bank D FX 2 Stutter Type	0	6	Value	ValueOutput
+Bank D FX 3 Stutter Type	0	6	Value	ValueOutput
+Bank D FX 4 Stutter Type	0	6	Value	ValueOutput
+Bank D FX 5 Stutter Type	0	6	Value	ValueOutput
+Bank D FX 1 Type	0	13	Value	ValueOutput
+Bank D FX 2 Type	0	13	Value	ValueOutput
+Bank D FX 3 Type	0	13	Value	ValueOutput
+Bank D FX 4 Type	0	13	Value	ValueOutput
+Bank D FX 5 Type	0	13	Value	ValueOutput
+Bank D FX 1 Tone	0	4194304	Value	ValueOutput
+Bank D FX 2 Tone	0	4194304	Value	ValueOutput
+Bank D FX 3 Tone	0	4194304	Value	ValueOutput
+Bank D FX 4 Tone	0	4194304	Value	ValueOutput
+Bank D FX 5 Tone	0	4194304	Value	ValueOutput
+Bank D FX 1 LFO Cycle	0	7	Value	ValueOutput
+Bank D FX 2 LFO Cycle	0	7	Value	ValueOutput
+Bank D FX 3 LFO Cycle	0	7	Value	ValueOutput
+Bank D FX 4 LFO Cycle	0	7	Value	ValueOutput
+Bank D FX 5 LFO Cycle	0	7	Value	ValueOutput
+Pad Bank A	0	1	Toggle	ValueOutput
+Pad Bank B	0	1	Toggle	ValueOutput
+Pad Bank C	0	1	Toggle	ValueOutput
+Pad Bank D	0	1	Toggle	ValueOutput
+Pad Bank Bypass	0	1	Toggle	ValueOutput
+Pad Tape Stop	0	1	Toggle	ValueOutput
+Pad Mute	0	1	Toggle	ValueOutput
+MIDI Keyboard Range Set	0	6	Value	ValueOutput
+Stutter 1/4 Note	0	1	Toggle	ValueOutput
+Stutter 1/4 Note Triplet	0	1	Toggle	ValueOutput
+Stutter 1/8 Note	0	1	Toggle	ValueOutput
+Stutter 1/8 Note Triplet	0	1	Toggle	ValueOutput
+Stutter 1/16 Note	0	1	Toggle	ValueOutput
+Stutter 1/16 Note Triplet	0	1	Toggle	ValueOutput
+Stutter 1/32 Note	0	1	Toggle	ValueOutput
+Stutter 1/32 Note Triplet	0	1	Toggle	ValueOutput
+Modifiers Bank Edit Select	0	3	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

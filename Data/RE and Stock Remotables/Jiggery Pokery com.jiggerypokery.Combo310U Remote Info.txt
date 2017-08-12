@@ -1,0 +1,80 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.Combo310U
+
+Remotable	Min	Max	Input type	Output type
+Level	0	4194304	Value	ValueOutput
+Manual	0	2	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Percussion	0	1	Toggle	ValueOutput
+Vibra	0	1	Toggle	ValueOutput
+Percussion Length	0	4194304	Value	ValueOutput
+Vibrato	0	4194304	Value	ValueOutput
+Timbre	0	4194304	Value	ValueOutput
+Reverb	0	4194304	Value	ValueOutput
+Pedal Sustain	0	1	Toggle	ValueOutput
+Swell Pedal	0	1	Toggle	ValueOutput
+Orbitone	0	1	Toggle	ValueOutput
+Orbitone Speed	0	1	Toggle	ValueOutput
+Orbitone_Principles_Solos	0	1	Toggle	ValueOutput
+Orbitone Tibias	0	1	Toggle	ValueOutput
+Orbitone Sustains	0	1	Toggle	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Hall Amount	0	4194304	Value	ValueOutput
+Hall Size	0	4194304	Value	ValueOutput
+Hall Damp	0	4194304	Value	ValueOutput
+Tone	0	4194304	Value	ValueOutput
+Delay Left Rate	0	20	Value	ValueOutput
+Delay Left Feedback	0	4194304	Value	ValueOutput
+Delay_Right_Rate	0	20	Value	ValueOutput
+Delay Right Feedback	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Phaser Rate	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Phaser Feedback	0	4194304	Value	ValueOutput
+Phaser Color	0	4194304	Value	ValueOutput
+Phaser Mix	0	4194304	Value	ValueOutput
+Ensemble Strings 4	0	1	Toggle	ValueOutput
+Ensemble Strings 8	0	1	Toggle	ValueOutput
+Ensemble Strings Sustain	0	1	Toggle	ValueOutput
+Strings Volume	0	4194304	Value	ValueOutput
+Strings Sust Attack	0	4194304	Value	ValueOutput
+Strings Sust Release	0	4194304	Value	ValueOutput
+Subbass 16	0	1	Toggle	ValueOutput
+Bourdon 8	0	1	Toggle	ValueOutput
+Gedeckt 16	0	1	Toggle	ValueOutput
+Gedeckt 8	0	1	Toggle	ValueOutput
+Accent Pedal	0	1	Toggle	ValueOutput
+Tibia 16	0	1	Toggle	ValueOutput
+Tibia 8	0	1	Toggle	ValueOutput
+Tibia 4	0	1	Toggle	ValueOutput
+Diapason 16	0	1	Toggle	ValueOutput
+Diapason 8	0	1	Toggle	ValueOutput
+Principal 8	0	1	Toggle	ValueOutput
+Salicional 8	0	1	Toggle	ValueOutput
+String 8	0	1	Toggle	ValueOutput
+String 4	0	1	Toggle	ValueOutput
+Octave 4	0	1	Toggle	ValueOutput
+Oboe 8	0	1	Toggle	ValueOutput
+French Horn 8	0	1	Toggle	ValueOutput
+Trumpet 8	0	1	Toggle	ValueOutput
+Accent Solo	0	1	Toggle	ValueOutput
+Vibraharp 8	0	1	Toggle	ValueOutput
+Celesta 8	0	1	Toggle	ValueOutput
+Viola 8	0	1	Toggle	ValueOutput
+Organharp 8	0	1	Toggle	ValueOutput
+Glock 8	0	1	Toggle	ValueOutput
+Short Sustain	0	1	Toggle	ValueOutput
+Accent Sustain	0	1	Toggle	ValueOutput
+Output Select	0	2	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

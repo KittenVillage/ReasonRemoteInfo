@@ -1,0 +1,150 @@
+Scope
+Manufacturer	Model
+AirRaid Audio	ch.airraid.Relapse
+
+Remotable	Min	Max	Input type	Output type
+Lo / Mid Crossover	0	4194304	Value	ValueOutput
+Mid / Hi Crossover	0	4194304	Value	ValueOutput
+Envelope Attack	0	4194304	Value	ValueOutput
+Envelope Release	0	4194304	Value	ValueOutput
+Envelope Amount	0	4194304	Value	ValueOutput
+Lo Band On/Off	0	1	Toggle	ValueOutput
+Lo Band Mute	0	1	Toggle	ValueOutput
+Lo Band Solo	0	1	Toggle	ValueOutput
+Lo Band Bypass	0	1	Toggle	ValueOutput
+Lo Left Delay Time	0	4194304	Value	ValueOutput
+Lo Delay Time (Synced)	0	13	Value	ValueOutput
+Lo Right Delay Time	0	4194304	Value	ValueOutput
+Lo Right Delay Time (Synced)	0	13	Value	ValueOutput
+Lo Link L/R Delay Time	0	1	Toggle	ValueOutput
+Lo Delay Time LFO Mod Amount	0	4194304	Value	ValueOutput
+Lo Delay Time Env Mod Amount	0	4194304	Value	ValueOutput
+Lo Feedback	0	4194304	Value	ValueOutput
+Lo Feedback LFO Mod Amount	0	4194304	Value	ValueOutput
+Lo Feedback Env Mod Amount	0	4194304	Value	ValueOutput
+Lo Cross-Feedback	0	4194304	Value	ValueOutput
+Lo Equal Feedback Time	0	1	Toggle	ValueOutput
+Lo Delay Sync	0	1	Toggle	ValueOutput
+Lo Frequency Shift	0	4194304	Value	ValueOutput
+Lo Frequency Shift LFO Mod Amount	0	4194304	Value	ValueOutput
+Lo Frequency Shift Env Mod Amount	0	4194304	Value	ValueOutput
+Lo Filter Saturator	0	4194304	Value	ValueOutput
+Lo Filter Type	0	5	Value	ValueOutput
+Lo Filter Frequency	0	4194304	Value	ValueOutput
+Lo Filter Frequency LFO Mod Amount	0	4194304	Value	ValueOutput
+Lo Filter Frequency Env Mod Amount	0	4194304	Value	ValueOutput
+Lo Filter Resonance	0	4194304	Value	ValueOutput
+Lo Filter Q	0	4194304	Value	ValueOutput
+Lo Stereo Image	0	4194304	Value	ValueOutput
+Lo Dry/Wet	0	4194304	Value	ValueOutput
+Lo Pan	0	4194304	Value	ValueOutput
+Lo Band Volume	0	4194304	Value	ValueOutput
+Mid Band Mute	0	1	Toggle	ValueOutput
+Mid Band Solo	0	1	Toggle	ValueOutput
+Mid Band Bypass	0	1	Toggle	ValueOutput
+Mid Left Delay Time	0	4194304	Value	ValueOutput
+Mid Delay Time (Synced)	0	13	Value	ValueOutput
+Mid Right Delay Time	0	4194304	Value	ValueOutput
+Mid Right Delay Time (Synced)	0	13	Value	ValueOutput
+Mid Link L/R Delay Time	0	1	Toggle	ValueOutput
+Mid Delay Time LFO Mod Amount	0	4194304	Value	ValueOutput
+Mid Delay Time Env Mod Amount	0	4194304	Value	ValueOutput
+Mid Feedback	0	4194304	Value	ValueOutput
+Mid Feedback LFO Mod Amount	0	4194304	Value	ValueOutput
+Mid Feedback Env Mod Amount	0	4194304	Value	ValueOutput
+Mid Cross-Feedback	0	4194304	Value	ValueOutput
+Mid Equal Feedback Time	0	1	Toggle	ValueOutput
+Mid Delay Sync	0	1	Toggle	ValueOutput
+Mid Frequency Shift	0	4194304	Value	ValueOutput
+Mid Frequency Shift LFO Mod Amount	0	4194304	Value	ValueOutput
+Mid Frequency Shift Env Mod Amount	0	4194304	Value	ValueOutput
+Mid Filter Saturator	0	4194304	Value	ValueOutput
+Mid Filter Type	0	5	Value	ValueOutput
+Mid Filter Frequency	0	4194304	Value	ValueOutput
+Mid Filter Frequency LFO Mod Amount	0	4194304	Value	ValueOutput
+Mid Filter Frequency Env Mod Amount	0	4194304	Value	ValueOutput
+Mid Filter Resonance	0	4194304	Value	ValueOutput
+Mid Filter Q	0	4194304	Value	ValueOutput
+Mid Stereo Image	0	4194304	Value	ValueOutput
+Mid Dry/Wet	0	4194304	Value	ValueOutput
+Mid Pan	0	4194304	Value	ValueOutput
+Mid Band Volume	0	4194304	Value	ValueOutput
+Hi Band On/Off	0	1	Toggle	ValueOutput
+Hi Band Mute	0	1	Toggle	ValueOutput
+Hi Band Solo	0	1	Toggle	ValueOutput
+Hi Band Bypass	0	1	Toggle	ValueOutput
+Hi Left Delay Time	0	4194304	Value	ValueOutput
+Hi Left Delay Time (Synced)	0	13	Value	ValueOutput
+Hi Right Delay Time	0	4194304	Value	ValueOutput
+Hi Right Delay Time (Synced)	0	13	Value	ValueOutput
+Hi Link L/R Delay Time	0	1	Toggle	ValueOutput
+Hi Delay Time LFO Mod Amount	0	4194304	Value	ValueOutput
+Hi Delay Time Env Mod Amount	0	4194304	Value	ValueOutput
+Hi Feedback	0	4194304	Value	ValueOutput
+Hi Feedback LFO Mod Amount	0	4194304	Value	ValueOutput
+Hi Feedback Env Mod Amount	0	4194304	Value	ValueOutput
+Hi Cross-Feedback	0	4194304	Value	ValueOutput
+Hi Equal Feedback Time	0	1	Toggle	ValueOutput
+Hi Delay Sync	0	1	Toggle	ValueOutput
+Hi Frequency Shift	0	4194304	Value	ValueOutput
+Hi Frequency Shift LFO Mod Amount	0	4194304	Value	ValueOutput
+Hi Frequency Shift Env Mod Amount	0	4194304	Value	ValueOutput
+Hi Filter Saturator	0	4194304	Value	ValueOutput
+Hi Filter Type	0	5	Value	ValueOutput
+Hi Filter Frequency	0	4194304	Value	ValueOutput
+Hi Filter Frequency LFO Mod Amount	0	4194304	Value	ValueOutput
+Hi Filter Frequency Env Mod Amount	0	4194304	Value	ValueOutput
+Hi Filter Resonance	0	4194304	Value	ValueOutput
+Hi Filter Q	0	4194304	Value	ValueOutput
+Hi Stereo Image	0	4194304	Value	ValueOutput
+Hi Dry/Wet	0	4194304	Value	ValueOutput
+Hi Pan	0	4194304	Value	ValueOutput
+Hi Band Volume	0	4194304	Value	ValueOutput
+Lo LFO Waveform	0	6	Value	ValueOutput
+Lo LFO Amount	0	4194304	Value	ValueOutput
+Lo LFO Frequency	0	4194304	Value	ValueOutput
+Lo LFO Frequency (Synced)	0	19	Value	ValueOutput
+Lo LFO Phase	0	4194304	Value	ValueOutput
+Lo LFO Spin	0	4194304	Value	ValueOutput
+Lo LFO Offset	0	4194304	Value	ValueOutput
+Lo LFO Sync	0	1	Toggle	ValueOutput
+Lo LFO Mode	0	1	Toggle	ValueOutput
+Mid LFO Waveform	0	6	Value	ValueOutput
+Mid LFO Amount	0	4194304	Value	ValueOutput
+Mid LFO Frequency	0	4194304	Value	ValueOutput
+Mid LFO Frequency (Synced)	0	19	Value	ValueOutput
+Mid LFO Phase	0	4194304	Value	ValueOutput
+Mid LFO Spin	0	4194304	Value	ValueOutput
+Mid LFO Offset	0	4194304	Value	ValueOutput
+Mid LFO Sync	0	1	Toggle	ValueOutput
+Mid LFO Mode	0	1	Toggle	ValueOutput
+Hi LFO Waveform	0	6	Value	ValueOutput
+Hi LFO Amount	0	4194304	Value	ValueOutput
+Hi LFO Frequency	0	4194304	Value	ValueOutput
+Hi LFO Frequency (Synced)	0	19	Value	ValueOutput
+Hi LFO Phase	0	4194304	Value	ValueOutput
+Hi LFO Spin	0	4194304	Value	ValueOutput
+Hi LFO Offset	0	4194304	Value	ValueOutput
+Hi LFO Sync	0	1	Toggle	ValueOutput
+Hi LFO Mode	0	1	Toggle	ValueOutput
+Audio Signal Router	0	3	Value	ValueOutput
+FreqShift Within Feedback	0	1	Toggle	ValueOutput
+Filter Within Feedback	0	1	Toggle	ValueOutput
+Route All Feedback To Audio Input	0	1	Toggle	ValueOutput
+FX Only (Disables Delays)	0	1	Toggle	ValueOutput
+HQ Mode On/Off	0	1	Toggle	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Dry/Wet Mix	0	4194304	Value	ValueOutput
+Master Delay Time	0	4194304	Value	ValueOutput
+Master Time Env. Mod Amount	0	4194304	Value	ValueOutput
+Master Time Lo LFO Mod Amount	0	4194304	Value	ValueOutput
+Master Time Mid LFO Mod Amount	0	4194304	Value	ValueOutput
+Master Time Hi LFO Mod Amount	0	4194304	Value	ValueOutput
+Lo / Mid Crossover Display	0	4194304	-	ValueOutput
+Mid / Hi Crossover Display	0	4194304	-	ValueOutput
+Enabled	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,49 @@
+Scope
+Manufacturer	Model
+Acon Digital	vst.ACVS.VerberateSurround
+Note: Will match scope definitions for vst.ACVS.VerberateSurround or vst.ACVS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+DryLevel	0	4194304	Value	ValueOutput
+ReverbLevel	0	4194304	Value	ValueOutput
+ReverbTime	0	4194304	Value	ValueOutput
+LowBoost	0	4194304	Value	ValueOutput
+CrossOverFreq	0	4194304	Value	ValueOutput
+CutOffFreq	0	4194304	Value	ValueOutput
+PreDelay	0	4194304	Value	ValueOutput
+RoomSize	0	4194304	Value	ValueOutput
+StereoSpread	0	4194304	Value	ValueOutput
+ModulationRate	0	4194304	Value	ValueOutput
+ModulationDepth	0	4194304	Value	ValueOutput
+ERLevel	0	4194304	Value	ValueOutput
+ERType	0	4194304	Value	ValueOutput
+PostHPCutOff	0	4194304	Value	ValueOutput
+PostHPSlope	0	4194304	Value	ValueOutput
+PostLSCutOff	0	4194304	Value	ValueOutput
+PostLSGain	0	4194304	Value	ValueOutput
+PostLSSlope	0	4194304	Value	ValueOutput
+PostHSCutOff	0	4194304	Value	ValueOutput
+PostHSGain	0	4194304	Value	ValueOutput
+PostHSSlope	0	4194304	Value	ValueOutput
+PostLPCutOff	0	4194304	Value	ValueOutput
+PostLPSlope	0	4194304	Value	ValueOutput
+BypassDrySignal	0	4194304	Value	ValueOutput
+BypassLateRever	0	4194304	Value	ValueOutput
+BypassER	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

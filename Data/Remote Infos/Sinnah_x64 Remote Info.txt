@@ -1,0 +1,77 @@
+Scope
+Manufacturer	Model
+nusofting.com	vst.sinh.Sinnah_x64
+Note: Will match scope definitions for vst.sinh.Sinnah_x64 or vst.sinh
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Wave	0	4194304	Value	ValueOutput
+Harmonics	0	4194304	Value	ValueOutput
+Octave	0	4194304	Value	ValueOutput
+Mastertuning	0	4194304	Value	ValueOutput
+Attack1	0	4194304	Value	ValueOutput
+Decay1	0	4194304	Value	ValueOutput
+Sustain1	0	4194304	Value	ValueOutput
+Release1	0	4194304	Value	ValueOutput
+Repeat	0	4194304	Value	ValueOutput
+Velosens	0	4194304	Value	ValueOutput
+ADSR2wave	0	4194304	Value	ValueOutput
+ADSR2harm	0	4194304	Value	ValueOutput
+Speed1	0	4194304	Value	ValueOutput
+Range1	0	4194304	Value	ValueOutput
+Lag1	0	4194304	Value	ValueOutput
+On1	0	4194304	Value	ValueOutput
+Speed2	0	4194304	Value	ValueOutput
+Range2	0	4194304	Value	ValueOutput
+Lag2	0	4194304	Value	ValueOutput
+On2	0	4194304	Value	ValueOutput
+Speed3	0	4194304	Value	ValueOutput
+Range3	0	4194304	Value	ValueOutput
+Lag3	0	4194304	Value	ValueOutput
+On3	0	4194304	Value	ValueOutput
+Stereo	0	4194304	Value	ValueOutput
+PolyMono	0	4194304	Value	ValueOutput
+Memory	0	4194304	Value	ValueOutput
+FdBkAmount	0	4194304	Value	ValueOutput
+FdBkPhase	0	4194304	Value	ValueOutput
+Attack2	0	4194304	Value	ValueOutput
+Release2	0	4194304	Value	ValueOutput
+ReverbSize	0	4194304	Value	ValueOutput
+ReverbMix	0	4194304	Value	ValueOutput
+ReverbOn	0	4194304	Value	ValueOutput
+EQHPHz	0	4194304	Value	ValueOutput
+EQLPHz	0	4194304	Value	ValueOutput
+EQBRHz	0	4194304	Value	ValueOutput
+EQBRBW	0	4194304	Value	ValueOutput
+EQBRGain	0	4194304	Value	ValueOutput
+EQOn	0	4194304	Value	ValueOutput
+Gain_out	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Noise	0	4194304	Value	ValueOutput
+RangeHarmonics	0	4194304	Value	ValueOutput
+LFO1Type	0	4194304	Value	ValueOutput
+LFO1Speed	0	4194304	Value	ValueOutput
+LFO1Delay	0	4194304	Value	ValueOutput
+LFO1Depth	0	4194304	Value	ValueOutput
+PBrange	0	4194304	Value	ValueOutput
+KTCenter	0	4194304	Value	ValueOutput
+KTSlope	0	4194304	Value	ValueOutput
+KTToAmplitude	0	4194304	Value	ValueOutput
+KTToHarmonics	0	4194304	Value	ValueOutput
+NoiseHamonicsLink	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

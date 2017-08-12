@@ -1,0 +1,97 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.SawW.PoiZone
+Note: Will match scope definitions for vst.SawW.PoiZone or vst.SawW
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+OscA Shape	0	4194304	Value	ValueOutput
+OscA PW	0	4194304	Value	ValueOutput
+OscA Sync	0	4194304	Value	ValueOutput
+OscA Ring	0	4194304	Value	ValueOutput
+OscB Shape	0	4194304	Value	ValueOutput
+OscB PW	0	4194304	Value	ValueOutput
+OscB Pitch	0	4194304	Value	ValueOutput
+OscB Detune	0	4194304	Value	ValueOutput
+Osc Balance	0	4194304	Value	ValueOutput
+Noise Balance	0	4194304	Value	ValueOutput
+EG Amount	0	4194304	Value	ValueOutput
+EG Attack	0	4194304	Value	ValueOutput
+EG Decay	0	4194304	Value	ValueOutput
+EG Sustain	0	4194304	Value	ValueOutput
+EG Release	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Fine Tune	0	4194304	Value	ValueOutput
+Transpose	0	4194304	Value	ValueOutput
+Flt. Cutoff	0	4194304	Value	ValueOutput
+Flt. Reso	0	4194304	Value	ValueOutput
+Flt. KbdTrk	0	4194304	Value	ValueOutput
+Flt. VelTrk	0	4194304	Value	ValueOutput
+Amp. Attack	0	4194304	Value	ValueOutput
+Amp. Decay	0	4194304	Value	ValueOutput
+Amp. Sustain	0	4194304	Value	ValueOutput
+Amp. Release	0	4194304	Value	ValueOutput
+LFO Amount	0	4194304	Value	ValueOutput
+LFO Retrig	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+Unison Detune	0	4194304	Value	ValueOutput
+Unison Pan	0	4194304	Value	ValueOutput
+Delay ON/OFF	0	4194304	Value	ValueOutput
+Delay Time Left	0	4194304	Value	ValueOutput
+Delay Time Right	0	4194304	Value	ValueOutput
+Delay Fdbk	0	4194304	Value	ValueOutput
+Delay Mod. Depth	0	4194304	Value	ValueOutput
+Delay Lo-Cut	0	4194304	Value	ValueOutput
+Delay Hi-Cut	0	4194304	Value	ValueOutput
+Delay Wet	0	4194304	Value	ValueOutput
+Chorus ON/OFF	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Wet	0	4194304	Value	ValueOutput
+MW Amount	0	4194304	Value	ValueOutput
+Monophonic	0	4194304	Value	ValueOutput
+Octaver	0	4194304	Value	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+Gate Mix	0	4194304	Value	ValueOutput
+Gate Smooth	0	4194304	Value	ValueOutput
+Gate Step 1	0	4194304	Value	ValueOutput
+Gate Step 2	0	4194304	Value	ValueOutput
+Gate Step 3	0	4194304	Value	ValueOutput
+Gate Step 4	0	4194304	Value	ValueOutput
+Gate Step 5	0	4194304	Value	ValueOutput
+Gate Step 6	0	4194304	Value	ValueOutput
+Gate Step 7	0	4194304	Value	ValueOutput
+Gate Step 8	0	4194304	Value	ValueOutput
+Gate Step 9	0	4194304	Value	ValueOutput
+Gate Step 10	0	4194304	Value	ValueOutput
+Gate Step 11	0	4194304	Value	ValueOutput
+Gate Step 12	0	4194304	Value	ValueOutput
+Gate Step 13	0	4194304	Value	ValueOutput
+Gate Step 14	0	4194304	Value	ValueOutput
+Gate Step 15	0	4194304	Value	ValueOutput
+Gate Step 16	0	4194304	Value	ValueOutput
+EG Dest	0	4194304	Value	ValueOutput
+Filter Mode	0	4194304	Value	ValueOutput
+LFO Dest	0	4194304	Value	ValueOutput
+LFO Shape	0	4194304	Value	ValueOutput
+ARP Mode	0	4194304	Value	ValueOutput
+ARP Range	0	4194304	Value	ValueOutput
+ModWheel Dest	0	4194304	Value	ValueOutput
+Glide Held	0	4194304	Value	ValueOutput
+Glide Time Static	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,107 @@
+Scope
+Manufacturer	Model
+GG Audio	vst.GGB3.Blue3 x64
+Note: Will match scope definitions for vst.GGB3.Blue3 x64 or vst.GGB3
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+EQ Low	0	4194304	Value	ValueOutput
+EQ Mid	0	4194304	Value	ValueOutput
+EQ High	0	4194304	Value	ValueOutput
+Ambience	0	4194304	Value	ValueOutput
+Expression	0	4194304	Value	ValueOutput
+Click Volume	0	4194304	Value	ValueOutput
+Click Tone	0	4194304	Value	ValueOutput
+P16 Foldback	0	4194304	Value	ValueOutput
+Upper V/C	0	4194304	Value	ValueOutput
+Lower V/C	0	4194304	Value	ValueOutput
+V/C Mode	0	4194304	Value	ValueOutput
+V/C Depth	0	4194304	Value	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Pedal Decay	0	4194304	Value	ValueOutput
+Percussion	0	4194304	Value	ValueOutput
+Percussion Volume	0	4194304	Value	ValueOutput
+Percussion Speed	0	4194304	Value	ValueOutput
+Percussion Harmonic	0	4194304	Value	ValueOutput
+Percussion Normal Volume	0	4194304	Value	ValueOutput
+Percussion Soft Volume	0	4194304	Value	ValueOutput
+Percussion Fast Decay	0	4194304	Value	ValueOutput
+Percussion Slow Decay	0	4194304	Value	ValueOutput
+Percussion Level Drop	0	4194304	Value	ValueOutput
+Upper 16	0	4194304	Value	ValueOutput
+Upper 5 1/3	0	4194304	Value	ValueOutput
+Upper 8	0	4194304	Value	ValueOutput
+Upper 4	0	4194304	Value	ValueOutput
+Upper 2 2/3	0	4194304	Value	ValueOutput
+Upper 2	0	4194304	Value	ValueOutput
+Upper 1 3/5	0	4194304	Value	ValueOutput
+Upper 1 1/3	0	4194304	Value	ValueOutput
+Upper 1	0	4194304	Value	ValueOutput
+Lower 16	0	4194304	Value	ValueOutput
+Lower 5 1/3	0	4194304	Value	ValueOutput
+Lower 8	0	4194304	Value	ValueOutput
+Lower 4	0	4194304	Value	ValueOutput
+Lower 2 2/3	0	4194304	Value	ValueOutput
+Lower 2	0	4194304	Value	ValueOutput
+Lower 1 3/5	0	4194304	Value	ValueOutput
+Lower 1 1/3	0	4194304	Value	ValueOutput
+Lower 1	0	4194304	Value	ValueOutput
+Bass 16	0	4194304	Value	ValueOutput
+Bass 8	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Overdrive Type	0	4194304	Value	ValueOutput
+Tonewheel Set	0	4194304	Value	ValueOutput
+Crosstalk	0	4194304	Value	ValueOutput
+Flutter	0	4194304	Value	ValueOutput
+Leakage	0	4194304	Value	ValueOutput
+Noise	0	4194304	Value	ValueOutput
+Transformers	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+Horn Slow	0	4194304	Value	ValueOutput
+Horn Fast	0	4194304	Value	ValueOutput
+Horn Acceleration	0	4194304	Value	ValueOutput
+Horn Deceleration	0	4194304	Value	ValueOutput
+Bass Slow	0	4194304	Value	ValueOutput
+Bass Fast	0	4194304	Value	ValueOutput
+Bass Acceleration	0	4194304	Value	ValueOutput
+Bass Deceleration	0	4194304	Value	ValueOutput
+Horn Spread	0	4194304	Value	ValueOutput
+Distance	0	4194304	Value	ValueOutput
+Balance	0	4194304	Value	ValueOutput
+Placement	0	4194304	Value	ValueOutput
+Cabinet Type	0	4194304	Value	ValueOutput
+Diffuser	0	4194304	Value	ValueOutput
+Memphis	0	4194304	Value	ValueOutput
+Front Stop	0	4194304	Value	ValueOutput
+TW Bass	0	4194304	Value	ValueOutput
+TW Lows	0	4194304	Value	ValueOutput
+TW LowMids	0	4194304	Value	ValueOutput
+TW Mids	0	4194304	Value	ValueOutput
+TW HighMids	0	4194304	Value	ValueOutput
+TW Highs	0	4194304	Value	ValueOutput
+DB offset 16	0	4194304	Value	ValueOutput
+DB offset 5 1/3	0	4194304	Value	ValueOutput
+DB offset 5	0	4194304	Value	ValueOutput
+DB offset 4	0	4194304	Value	ValueOutput
+DB offset 2 2/3	0	4194304	Value	ValueOutput
+DB offset 2	0	4194304	Value	ValueOutput
+DB offset 1 3/5	0	4194304	Value	ValueOutput
+DB offset 1 1/3	0	4194304	Value	ValueOutput
+DB offset 1	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

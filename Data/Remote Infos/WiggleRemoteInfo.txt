@@ -1,0 +1,391 @@
+Scope
+Manufacturer	Model
+2nd Sense	vst.Wtws.Wiggle
+Note: Will match scope definitions for vst.Wtws.Wiggle or vst.Wtws
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Osc1 Point1 X S	0	4194304	Value	ValueOutput
+Osc1 Point2 X S	0	4194304	Value	ValueOutput
+Osc1 Point3 X S	0	4194304	Value	ValueOutput
+Osc1 Point4 X S	0	4194304	Value	ValueOutput
+Osc1 Point1 X R	0	4194304	Value	ValueOutput
+Osc1 Point2 X R	0	4194304	Value	ValueOutput
+Osc1 Point3 X R	0	4194304	Value	ValueOutput
+Osc1 Point4 X R	0	4194304	Value	ValueOutput
+Osc1 Point1 Y S	0	4194304	Value	ValueOutput
+Osc1 Point2 Y S	0	4194304	Value	ValueOutput
+Osc1 Point3 Y S	0	4194304	Value	ValueOutput
+Osc1 Point4 Y S	0	4194304	Value	ValueOutput
+Osc1 Point1 Y R	0	4194304	Value	ValueOutput
+Osc1 Point2 Y R	0	4194304	Value	ValueOutput
+Osc1 Point3 Y R	0	4194304	Value	ValueOutput
+Osc1 Point4 Y R	0	4194304	Value	ValueOutput
+Osc1 Points LFO	0	4194304	Value	ValueOutput
+Osc1 Point1 X S	0	4194304	Value	ValueOutput
+Osc1 Point2 X S	0	4194304	Value	ValueOutput
+Osc1 Point3 X S	0	4194304	Value	ValueOutput
+Osc1 Point4 X S	0	4194304	Value	ValueOutput
+Osc1 Point1 Y S	0	4194304	Value	ValueOutput
+Osc1 Point2 Y S	0	4194304	Value	ValueOutput
+Osc1 Point3 Y S	0	4194304	Value	ValueOutput
+Osc1 Point4 Y S	0	4194304	Value	ValueOutput
+Osc1 Point1 X S	0	4194304	Value	ValueOutput
+Osc1 Point2 X S	0	4194304	Value	ValueOutput
+Osc1 Point3 X S	0	4194304	Value	ValueOutput
+Osc1 Point4 X S	0	4194304	Value	ValueOutput
+Osc1 Point1 Y S	0	4194304	Value	ValueOutput
+Osc1 Point2 Y S	0	4194304	Value	ValueOutput
+Osc1 Point3 Y S	0	4194304	Value	ValueOutput
+Osc1 Point4 Y S	0	4194304	Value	ValueOutput
+Osc1 Point1 X	0	4194304	Value	ValueOutput
+Osc1 Point2 X	0	4194304	Value	ValueOutput
+Osc1 Point3 X	0	4194304	Value	ValueOutput
+Osc1 Point4 X	0	4194304	Value	ValueOutput
+Osc1 Point1 Y	0	4194304	Value	ValueOutput
+Osc1 Point2 Y	0	4194304	Value	ValueOutput
+Osc1 Point3 Y	0	4194304	Value	ValueOutput
+Osc1 Point4 Y	0	4194304	Value	ValueOutput
+Osc1 Wave Type	0	4194304	Value	ValueOutput
+Osc1 Dest Wave 	0	4194304	Value	ValueOutput
+Osc1 Wave Type 	0	4194304	Value	ValueOutput
+Osc1 Interp Osc	0	4194304	Value	ValueOutput
+Osc1 Dest Inter	0	4194304	Value	ValueOutput
+Osc1 Osc Type M	0	4194304	Value	ValueOutput
+Osc1 Interp Osc	0	4194304	Value	ValueOutput
+Osc1 Interp Osc	0	4194304	Value	ValueOutput
+Osc1 Interp Osc	0	4194304	Value	ValueOutput
+Osc1 PD Wave Ty	0	4194304	Value	ValueOutput
+Osc1 PD Depth	0	4194304	Value	ValueOutput
+Osc1 AmpEnv Att	0	4194304	Value	ValueOutput
+Osc1 AmpEnv Hol	0	4194304	Value	ValueOutput
+Osc1 AmpEnv Dec	0	4194304	Value	ValueOutput
+Osc1 AmpEnv Sus	0	4194304	Value	ValueOutput
+Osc1 AmpEnv Rel	0	4194304	Value	ValueOutput
+Osc1 Pitch Oct	0	4194304	Value	ValueOutput
+Osc1 Pitch Semi	0	4194304	Value	ValueOutput
+Osc1 Pitch Cent	0	4194304	Value	ValueOutput
+Osc1 Pitch Cont	0	4194304	Value	ValueOutput
+Osc1 Pitch Harm	0	4194304	Value	ValueOutput
+Osc1 Pan	0	4194304	Value	ValueOutput
+Osc1 Filter Mix	0	4194304	Value	ValueOutput
+Osc1 Mix	0	4194304	Value	ValueOutput
+Osc1 Random Pha	0	4194304	Value	ValueOutput
+Osc2 Point1 X S	0	4194304	Value	ValueOutput
+Osc2 Point2 X S	0	4194304	Value	ValueOutput
+Osc2 Point3 X S	0	4194304	Value	ValueOutput
+Osc2 Point4 X S	0	4194304	Value	ValueOutput
+Osc2 Point1 X R	0	4194304	Value	ValueOutput
+Osc2 Point2 X R	0	4194304	Value	ValueOutput
+Osc2 Point3 X R	0	4194304	Value	ValueOutput
+Osc2 Point4 X R	0	4194304	Value	ValueOutput
+Osc2 Point1 Y S	0	4194304	Value	ValueOutput
+Osc2 Point2 Y S	0	4194304	Value	ValueOutput
+Osc2 Point3 Y S	0	4194304	Value	ValueOutput
+Osc2 Point4 Y S	0	4194304	Value	ValueOutput
+Osc2 Point1 Y R	0	4194304	Value	ValueOutput
+Osc2 Point2 Y R	0	4194304	Value	ValueOutput
+Osc2 Point3 Y R	0	4194304	Value	ValueOutput
+Osc2 Point4 Y R	0	4194304	Value	ValueOutput
+Osc2 Points LFO	0	4194304	Value	ValueOutput
+Osc2 Point1 X S	0	4194304	Value	ValueOutput
+Osc2 Point2 X S	0	4194304	Value	ValueOutput
+Osc2 Point3 X S	0	4194304	Value	ValueOutput
+Osc2 Point4 X S	0	4194304	Value	ValueOutput
+Osc2 Point1 Y S	0	4194304	Value	ValueOutput
+Osc2 Point2 Y S	0	4194304	Value	ValueOutput
+Osc2 Point3 Y S	0	4194304	Value	ValueOutput
+Osc2 Point4 Y S	0	4194304	Value	ValueOutput
+Osc2 Point1 X S	0	4194304	Value	ValueOutput
+Osc2 Point2 X S	0	4194304	Value	ValueOutput
+Osc2 Point3 X S	0	4194304	Value	ValueOutput
+Osc2 Point4 X S	0	4194304	Value	ValueOutput
+Osc2 Point1 Y S	0	4194304	Value	ValueOutput
+Osc2 Point2 Y S	0	4194304	Value	ValueOutput
+Osc2 Point3 Y S	0	4194304	Value	ValueOutput
+Osc2 Point4 Y S	0	4194304	Value	ValueOutput
+Osc2 Point1 X	0	4194304	Value	ValueOutput
+Osc2 Point2 X	0	4194304	Value	ValueOutput
+Osc2 Point3 X	0	4194304	Value	ValueOutput
+Osc2 Point4 X	0	4194304	Value	ValueOutput
+Osc2 Point1 Y	0	4194304	Value	ValueOutput
+Osc2 Point2 Y	0	4194304	Value	ValueOutput
+Osc2 Point3 Y	0	4194304	Value	ValueOutput
+Osc2 Point4 Y	0	4194304	Value	ValueOutput
+Osc2 Wave Type	0	4194304	Value	ValueOutput
+Osc2 Dest Wave 	0	4194304	Value	ValueOutput
+Osc2 Wave Type 	0	4194304	Value	ValueOutput
+Osc2 Interp Osc	0	4194304	Value	ValueOutput
+Osc2 Dest Inter	0	4194304	Value	ValueOutput
+Osc2 Osc Type M	0	4194304	Value	ValueOutput
+Osc2 Interp Osc	0	4194304	Value	ValueOutput
+Osc2 Interp Osc	0	4194304	Value	ValueOutput
+Osc2 Interp Osc	0	4194304	Value	ValueOutput
+Osc2 PD Wave Ty	0	4194304	Value	ValueOutput
+Osc2 PD Depth	0	4194304	Value	ValueOutput
+Osc2 AmpEnv Att	0	4194304	Value	ValueOutput
+Osc2 AmpEnv Hol	0	4194304	Value	ValueOutput
+Osc2 AmpEnv Dec	0	4194304	Value	ValueOutput
+Osc2 AmpEnv Sus	0	4194304	Value	ValueOutput
+Osc2 AmpEnv Rel	0	4194304	Value	ValueOutput
+Osc2 Pitch Oct	0	4194304	Value	ValueOutput
+Osc2 Pitch Semi	0	4194304	Value	ValueOutput
+Osc2 Pitch Cent	0	4194304	Value	ValueOutput
+Osc2 Pitch Cont	0	4194304	Value	ValueOutput
+Osc2 Pitch Harm	0	4194304	Value	ValueOutput
+Osc2 Pan	0	4194304	Value	ValueOutput
+Osc2 Filter Mix	0	4194304	Value	ValueOutput
+Osc2 Mix	0	4194304	Value	ValueOutput
+Osc2 Random Pha	0	4194304	Value	ValueOutput
+Osc3 Point1 X S	0	4194304	Value	ValueOutput
+Osc3 Point2 X S	0	4194304	Value	ValueOutput
+Osc3 Point3 X S	0	4194304	Value	ValueOutput
+Osc3 Point4 X S	0	4194304	Value	ValueOutput
+Osc3 Point1 X R	0	4194304	Value	ValueOutput
+Osc3 Point2 X R	0	4194304	Value	ValueOutput
+Osc3 Point3 X R	0	4194304	Value	ValueOutput
+Osc3 Point4 X R	0	4194304	Value	ValueOutput
+Osc3 Point1 Y S	0	4194304	Value	ValueOutput
+Osc3 Point2 Y S	0	4194304	Value	ValueOutput
+Osc3 Point3 Y S	0	4194304	Value	ValueOutput
+Osc3 Point4 Y S	0	4194304	Value	ValueOutput
+Osc3 Point1 Y R	0	4194304	Value	ValueOutput
+Osc3 Point2 Y R	0	4194304	Value	ValueOutput
+Osc3 Point3 Y R	0	4194304	Value	ValueOutput
+Osc3 Point4 Y R	0	4194304	Value	ValueOutput
+Osc3 Points LFO	0	4194304	Value	ValueOutput
+Osc3 Point1 X S	0	4194304	Value	ValueOutput
+Osc3 Point2 X S	0	4194304	Value	ValueOutput
+Osc3 Point3 X S	0	4194304	Value	ValueOutput
+Osc3 Point4 X S	0	4194304	Value	ValueOutput
+Osc3 Point1 Y S	0	4194304	Value	ValueOutput
+Osc3 Point2 Y S	0	4194304	Value	ValueOutput
+Osc3 Point3 Y S	0	4194304	Value	ValueOutput
+Osc3 Point4 Y S	0	4194304	Value	ValueOutput
+Osc3 Point1 X S	0	4194304	Value	ValueOutput
+Osc3 Point2 X S	0	4194304	Value	ValueOutput
+Osc3 Point3 X S	0	4194304	Value	ValueOutput
+Osc3 Point4 X S	0	4194304	Value	ValueOutput
+Osc3 Point1 Y S	0	4194304	Value	ValueOutput
+Osc3 Point2 Y S	0	4194304	Value	ValueOutput
+Osc3 Point3 Y S	0	4194304	Value	ValueOutput
+Osc3 Point4 Y S	0	4194304	Value	ValueOutput
+Osc3 Point1 X	0	4194304	Value	ValueOutput
+Osc3 Point2 X	0	4194304	Value	ValueOutput
+Osc3 Point3 X	0	4194304	Value	ValueOutput
+Osc3 Point4 X	0	4194304	Value	ValueOutput
+Osc3 Point1 Y	0	4194304	Value	ValueOutput
+Osc3 Point2 Y	0	4194304	Value	ValueOutput
+Osc3 Point3 Y	0	4194304	Value	ValueOutput
+Osc3 Point4 Y	0	4194304	Value	ValueOutput
+Osc3 Wave Type	0	4194304	Value	ValueOutput
+Osc3 Dest Wave 	0	4194304	Value	ValueOutput
+Osc3 Wave Type 	0	4194304	Value	ValueOutput
+Osc3 Interp Osc	0	4194304	Value	ValueOutput
+Osc3 Dest Inter	0	4194304	Value	ValueOutput
+Osc3 Osc Type M	0	4194304	Value	ValueOutput
+Osc3 Interp Osc	0	4194304	Value	ValueOutput
+Osc3 Interp Osc	0	4194304	Value	ValueOutput
+Osc3 Interp Osc	0	4194304	Value	ValueOutput
+Osc3 PD Wave Ty	0	4194304	Value	ValueOutput
+Osc3 PD Depth	0	4194304	Value	ValueOutput
+Osc3 AmpEnv Att	0	4194304	Value	ValueOutput
+Osc3 AmpEnv Hol	0	4194304	Value	ValueOutput
+Osc3 AmpEnv Dec	0	4194304	Value	ValueOutput
+Osc3 AmpEnv Sus	0	4194304	Value	ValueOutput
+Osc3 AmpEnv Rel	0	4194304	Value	ValueOutput
+Osc3 Pitch Oct	0	4194304	Value	ValueOutput
+Osc3 Pitch Semi	0	4194304	Value	ValueOutput
+Osc3 Pitch Cent	0	4194304	Value	ValueOutput
+Osc3 Pitch Cont	0	4194304	Value	ValueOutput
+Osc3 Pitch Harm	0	4194304	Value	ValueOutput
+Osc3 Pan	0	4194304	Value	ValueOutput
+Osc3 Filter Mix	0	4194304	Value	ValueOutput
+Osc3 Mix	0	4194304	Value	ValueOutput
+Osc3 Random Pha	0	4194304	Value	ValueOutput
+Osc4 Point1 X S	0	4194304	Value	ValueOutput
+Osc4 Point2 X S	0	4194304	Value	ValueOutput
+Osc4 Point3 X S	0	4194304	Value	ValueOutput
+Osc4 Point4 X S	0	4194304	Value	ValueOutput
+Osc4 Point1 X R	0	4194304	Value	ValueOutput
+Osc4 Point2 X R	0	4194304	Value	ValueOutput
+Osc4 Point3 X R	0	4194304	Value	ValueOutput
+Osc4 Point4 X R	0	4194304	Value	ValueOutput
+Osc4 Point1 Y S	0	4194304	Value	ValueOutput
+Osc4 Point2 Y S	0	4194304	Value	ValueOutput
+Osc4 Point3 Y S	0	4194304	Value	ValueOutput
+Osc4 Point4 Y S	0	4194304	Value	ValueOutput
+Osc4 Point1 Y R	0	4194304	Value	ValueOutput
+Osc4 Point2 Y R	0	4194304	Value	ValueOutput
+Osc4 Point3 Y R	0	4194304	Value	ValueOutput
+Osc4 Point4 Y R	0	4194304	Value	ValueOutput
+Osc4 Points LFO	0	4194304	Value	ValueOutput
+Osc4 Point1 X S	0	4194304	Value	ValueOutput
+Osc4 Point2 X S	0	4194304	Value	ValueOutput
+Osc4 Point3 X S	0	4194304	Value	ValueOutput
+Osc4 Point4 X S	0	4194304	Value	ValueOutput
+Osc4 Point1 Y S	0	4194304	Value	ValueOutput
+Osc4 Point2 Y S	0	4194304	Value	ValueOutput
+Osc4 Point3 Y S	0	4194304	Value	ValueOutput
+Osc4 Point4 Y S	0	4194304	Value	ValueOutput
+Osc4 Point1 X S	0	4194304	Value	ValueOutput
+Osc4 Point2 X S	0	4194304	Value	ValueOutput
+Osc4 Point3 X S	0	4194304	Value	ValueOutput
+Osc4 Point4 X S	0	4194304	Value	ValueOutput
+Osc4 Point1 Y S	0	4194304	Value	ValueOutput
+Osc4 Point2 Y S	0	4194304	Value	ValueOutput
+Osc4 Point3 Y S	0	4194304	Value	ValueOutput
+Osc4 Point4 Y S	0	4194304	Value	ValueOutput
+Osc4 Point1 X	0	4194304	Value	ValueOutput
+Osc4 Point2 X	0	4194304	Value	ValueOutput
+Osc4 Point3 X	0	4194304	Value	ValueOutput
+Osc4 Point4 X	0	4194304	Value	ValueOutput
+Osc4 Point1 Y	0	4194304	Value	ValueOutput
+Osc4 Point2 Y	0	4194304	Value	ValueOutput
+Osc4 Point3 Y	0	4194304	Value	ValueOutput
+Osc4 Point4 Y	0	4194304	Value	ValueOutput
+Osc4 Wave Type	0	4194304	Value	ValueOutput
+Osc4 Dest Wave 	0	4194304	Value	ValueOutput
+Osc4 Wave Type 	0	4194304	Value	ValueOutput
+Osc4 Interp Osc	0	4194304	Value	ValueOutput
+Osc4 Dest Inter	0	4194304	Value	ValueOutput
+Osc4 Osc Type M	0	4194304	Value	ValueOutput
+Osc4 Interp Osc	0	4194304	Value	ValueOutput
+Osc4 Interp Osc	0	4194304	Value	ValueOutput
+Osc4 Interp Osc	0	4194304	Value	ValueOutput
+Osc4 PD Wave Ty	0	4194304	Value	ValueOutput
+Osc4 PD Depth	0	4194304	Value	ValueOutput
+Osc4 AmpEnv Att	0	4194304	Value	ValueOutput
+Osc4 AmpEnv Hol	0	4194304	Value	ValueOutput
+Osc4 AmpEnv Dec	0	4194304	Value	ValueOutput
+Osc4 AmpEnv Sus	0	4194304	Value	ValueOutput
+Osc4 AmpEnv Rel	0	4194304	Value	ValueOutput
+Osc4 Pitch Oct	0	4194304	Value	ValueOutput
+Osc4 Pitch Semi	0	4194304	Value	ValueOutput
+Osc4 Pitch Cent	0	4194304	Value	ValueOutput
+Osc4 Pitch Cont	0	4194304	Value	ValueOutput
+Osc4 Pitch Harm	0	4194304	Value	ValueOutput
+Osc4 Pan	0	4194304	Value	ValueOutput
+Osc4 Filter Mix	0	4194304	Value	ValueOutput
+Osc4 Mix	0	4194304	Value	ValueOutput
+Osc4 Random Pha	0	4194304	Value	ValueOutput
+FM11	0	4194304	Value	ValueOutput
+FM12	0	4194304	Value	ValueOutput
+FM13	0	4194304	Value	ValueOutput
+FM14	0	4194304	Value	ValueOutput
+FM21	0	4194304	Value	ValueOutput
+FM22	0	4194304	Value	ValueOutput
+FM23	0	4194304	Value	ValueOutput
+FM24	0	4194304	Value	ValueOutput
+FM31	0	4194304	Value	ValueOutput
+FM32	0	4194304	Value	ValueOutput
+FM33	0	4194304	Value	ValueOutput
+FM34	0	4194304	Value	ValueOutput
+FM41	0	4194304	Value	ValueOutput
+FM42	0	4194304	Value	ValueOutput
+FM43	0	4194304	Value	ValueOutput
+FM44	0	4194304	Value	ValueOutput
+FX Filter1 Cuto	0	4194304	Value	ValueOutput
+FX Filter1 Reso	0	4194304	Value	ValueOutput
+FX Filter1 Mode	0	4194304	Value	ValueOutput
+FX Filter2 Cuto	0	4194304	Value	ValueOutput
+FX Filter2 Reso	0	4194304	Value	ValueOutput
+FX Filter2 Mode	0	4194304	Value	ValueOutput
+FX EQ Switch	0	4194304	Value	ValueOutput
+FX EQ Low Freq 	0	4194304	Value	ValueOutput
+FX EQ Mid Freq 	0	4194304	Value	ValueOutput
+FX EQ High Freq	0	4194304	Value	ValueOutput
+FX EQ Low Freq	0	4194304	Value	ValueOutput
+FX EQ Mid Freq	0	4194304	Value	ValueOutput
+FX EQ High Freq	0	4194304	Value	ValueOutput
+FX Dist Switch	0	4194304	Value	ValueOutput
+FX Cab Switch	0	4194304	Value	ValueOutput
+FX Chorus Switc	0	4194304	Value	ValueOutput
+FX Phaser Switc	0	4194304	Value	ValueOutput
+FX Delay Switch	0	4194304	Value	ValueOutput
+FX Reverb Switc	0	4194304	Value	ValueOutput
+FX Dist	0	4194304	Value	ValueOutput
+FX Dist Gain	0	4194304	Value	ValueOutput
+FX Dist Mix	0	4194304	Value	ValueOutput
+FX Chorus Freq	0	4194304	Value	ValueOutput
+FX Chorus Depth	0	4194304	Value	ValueOutput
+FX Chorus Mix	0	4194304	Value	ValueOutput
+FX Phaser Rate	0	4194304	Value	ValueOutput
+FX Phaser Feedb	0	4194304	Value	ValueOutput
+FX Phaser Depth	0	4194304	Value	ValueOutput
+FX Delay Time L	0	4194304	Value	ValueOutput
+FX Delay Time R	0	4194304	Value	ValueOutput
+FX Delay Feedba	0	4194304	Value	ValueOutput
+FX Delay LoCut	0	4194304	Value	ValueOutput
+FX Delay HiCut	0	4194304	Value	ValueOutput
+FX Delay Mix	0	4194304	Value	ValueOutput
+FX Reverb Width	0	4194304	Value	ValueOutput
+FX Reverb Size	0	4194304	Value	ValueOutput
+FX Reverb Mix	0	4194304	Value	ValueOutput
+Mod Modulator 1	0	4194304	Value	ValueOutput
+Mod Modulator 2	0	4194304	Value	ValueOutput
+Mod Modulator 3	0	4194304	Value	ValueOutput
+Mod Modulator 4	0	4194304	Value	ValueOutput
+Mod Modulator 5	0	4194304	Value	ValueOutput
+Mod Modulator 6	0	4194304	Value	ValueOutput
+Mod Modulator 7	0	4194304	Value	ValueOutput
+Mod Modulator 8	0	4194304	Value	ValueOutput
+Master Unison	0	4194304	Value	ValueOutput
+Master Unison D	0	4194304	Value	ValueOutput
+Master Unison W	0	4194304	Value	ValueOutput
+Master Glide	0	4194304	Value	ValueOutput
+Master Vel Curv	0	4194304	Value	ValueOutput
+Master Pitch Be	0	4194304	Value	ValueOutput
+Master Pitch Be	0	4194304	Value	ValueOutput
+Master Pitch Be	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Seq Seq1 Rate	0	4194304	Value	ValueOutput
+Seq Seq1 Quanti	0	4194304	Value	ValueOutput
+Seq Seq1 Direct	0	4194304	Value	ValueOutput
+Seq Seq2 Rate	0	4194304	Value	ValueOutput
+Seq Seq2 Quanti	0	4194304	Value	ValueOutput
+Seq Seq2 Direct	0	4194304	Value	ValueOutput
+Seq Seq3 Rate	0	4194304	Value	ValueOutput
+Seq Seq3 Quanti	0	4194304	Value	ValueOutput
+Seq Seq3 Direct	0	4194304	Value	ValueOutput
+Seq Seq4 Rate	0	4194304	Value	ValueOutput
+Seq Seq4 Quanti	0	4194304	Value	ValueOutput
+Seq Seq4 Direct	0	4194304	Value	ValueOutput
+Seq Mod1 Rate	0	4194304	Value	ValueOutput
+Seq Mod1 Quanti	0	4194304	Value	ValueOutput
+Seq Mod2 Rate	0	4194304	Value	ValueOutput
+Seq Mod2 Quanti	0	4194304	Value	ValueOutput
+Seq Mod3 Rate	0	4194304	Value	ValueOutput
+Seq Mod3 Quanti	0	4194304	Value	ValueOutput
+Seq Mod4 Rate	0	4194304	Value	ValueOutput
+Seq Mod4 Quanti	0	4194304	Value	ValueOutput
+Seq Mod5 Rate	0	4194304	Value	ValueOutput
+Seq Mod5 Quanti	0	4194304	Value	ValueOutput
+Seq Mod6 Rate	0	4194304	Value	ValueOutput
+Seq Mod6 Quanti	0	4194304	Value	ValueOutput
+Seq Mod7 Rate	0	4194304	Value	ValueOutput
+Seq Mod7 Quanti	0	4194304	Value	ValueOutput
+Seq Mod8 Rate	0	4194304	Value	ValueOutput
+Seq Mod8 Quanti	0	4194304	Value	ValueOutput
+Morph Main Poin	0	4194304	Value	ValueOutput
+Morph Main Poin	0	4194304	Value	ValueOutput
+Mod Velocity At	0	4194304	Value	ValueOutput
+Mod Velocity Re	0	4194304	Value	ValueOutput
+Macro 1	0	4194304	Value	ValueOutput
+Macro 2	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

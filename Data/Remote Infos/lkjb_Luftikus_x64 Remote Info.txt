@@ -1,0 +1,34 @@
+Scope
+Manufacturer	Model
+lkjb	vst.lklK.lkjb_Luftikus_x64
+Note: Will match scope definitions for vst.lklK.lkjb_Luftikus_x64 or vst.lklK
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Gain 10 Hz	0	4194304	Value	ValueOutput
+Gain 40 Hz	0	4194304	Value	ValueOutput
+Gain 160 Hz	0	4194304	Value	ValueOutput
+Gain 640 Hz	0	4194304	Value	ValueOutput
+Gain 2.5 kHz	0	4194304	Value	ValueOutput
+Gain High	0	4194304	Value	ValueOutput
+Type High	0	4194304	Value	ValueOutput
+Keep Gain	0	4194304	Value	ValueOutput
+Analog	0	4194304	Value	ValueOutput
+Mastering	0	4194304	Value	ValueOutput
+MasterVol	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

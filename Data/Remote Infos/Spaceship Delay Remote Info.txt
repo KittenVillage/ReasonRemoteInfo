@@ -1,0 +1,63 @@
+Scope
+Manufacturer	Model
+Musical Entropy	vst.Fnw0.Spaceship Delay
+Note: Will match scope definitions for vst.Fnw0.Spaceship Delay or vst.Fnw0
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Delay Mode	0	4194304	Value	ValueOutput
+Delay Left	0	4194304	Value	ValueOutput
+Delay Right	0	4194304	Value	ValueOutput
+Delay Sync Left	0	4194304	Value	ValueOutput
+Delay Sync Right	0	4194304	Value	ValueOutput
+Delay Sync Type	0	4194304	Value	ValueOutput
+Delay BPM	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Cross Feedback	0	4194304	Value	ValueOutput
+Delay Slew	0	4194304	Value	ValueOutput
+Delay Line Type	0	4194304	Value	ValueOutput
+Freeze / Looper	0	4194304	Value	ValueOutput
+Reverb	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Mod. Amount	0	4194304	Value	ValueOutput
+Mod. Rate	0	4194304	Value	ValueOutput
+Filter LFO	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+Filter EF	0	4194304	Value	ValueOutput
+Filter Type	0	4194304	Value	ValueOutput
+Filter Prm 1	0	4194304	Value	ValueOutput
+Filter Prm 2	0	4194304	Value	ValueOutput
+Filter Prm 3	0	4194304	Value	ValueOutput
+Filter Prm 4	0	4194304	Value	ValueOutput
+Filt. Location	0	4194304	Value	ValueOutput
+Effect Type	0	4194304	Value	ValueOutput
+Effect Prm 1	0	4194304	Value	ValueOutput
+Effect Prm 2	0	4194304	Value	ValueOutput
+Effect Prm 3	0	4194304	Value	ValueOutput
+Effect Prm 4	0	4194304	Value	ValueOutput
+Effect Prm 5	0	4194304	Value	ValueOutput
+FX Location	0	4194304	Value	ValueOutput
+Saturation Type	0	4194304	Value	ValueOutput
+Sat Prm 1	0	4194304	Value	ValueOutput
+Sat Prm 2	0	4194304	Value	ValueOutput
+Sat Prm 3	0	4194304	Value	ValueOutput
+Sat Prm 4	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

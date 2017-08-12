@@ -1,0 +1,121 @@
+Scope
+Manufacturer	Model
+Daichi	vst.S1Vs.Synth1 VST64
+Note: Will match scope definitions for vst.S1Vs.Synth1 VST64 or vst.S1Vs
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+osc1 shape	0	4194304	Value	ValueOutput
+osc2 shape	0	4194304	Value	ValueOutput
+osc2 pitch	0	4194304	Value	ValueOutput
+osc2 fine tune	0	4194304	Value	ValueOutput
+osc2 kbd track	0	4194304	Value	ValueOutput
+osc mix	0	4194304	Value	ValueOutput
+osc2 sync	0	4194304	Value	ValueOutput
+osc2 ring modulation	0	4194304	Value	ValueOutput
+osc pulse width	0	4194304	Value	ValueOutput
+osc key shift	0	4194304	Value	ValueOutput
+osc mod env on/off	0	4194304	Value	ValueOutput
+osc mod env amount	0	4194304	Value	ValueOutput
+osc mod env attack	0	4194304	Value	ValueOutput
+osc mod env decay	0	4194304	Value	ValueOutput
+filter type	0	4194304	Value	ValueOutput
+filter attack	0	4194304	Value	ValueOutput
+filter decay	0	4194304	Value	ValueOutput
+filter sustain	0	4194304	Value	ValueOutput
+filter release	0	4194304	Value	ValueOutput
+*filter freq	0	4194304	Value	ValueOutput
+*filter resonance	0	4194304	Value	ValueOutput
+filter amount	0	4194304	Value	ValueOutput
+filter kbd track	0	4194304	Value	ValueOutput
+filter saturation	0	4194304	Value	ValueOutput
+filter velocity switch	0	4194304	Value	ValueOutput
+amp attack	0	4194304	Value	ValueOutput
+amp decay	0	4194304	Value	ValueOutput
+amp sustain	0	4194304	Value	ValueOutput
+amp release	0	4194304	Value	ValueOutput
+amp gain	0	4194304	Value	ValueOutput
+amp velocity sens	0	4194304	Value	ValueOutput
+arpeggiator type	0	4194304	Value	ValueOutput
+arpeggiator oct range	0	4194304	Value	ValueOutput
+arpeggiator beat	0	4194304	Value	ValueOutput
+arpeggiator gate	0	4194304	Value	ValueOutput
+delay time	0	4194304	Value	ValueOutput
+delay feedback	0	4194304	Value	ValueOutput
+delay dry/wet	0	4194304	Value	ValueOutput
+play mode type	0	4194304	Value	ValueOutput
+portament time	0	4194304	Value	ValueOutput
+pitch bend range	0	4194304	Value	ValueOutput
+lfo1 destination	0	4194304	Value	ValueOutput
+lfo1 type	0	4194304	Value	ValueOutput
+lfo1 speed	0	4194304	Value	ValueOutput
+lfo1 depth	0	4194304	Value	ValueOutput
+osc1 FM	0	4194304	Value	ValueOutput
+lfo2 destination	0	4194304	Value	ValueOutput
+lfo2 type	0	4194304	Value	ValueOutput
+lfo2 speed	0	4194304	Value	ValueOutput
+lfo2 depth	0	4194304	Value	ValueOutput
+midi ctrl sens1	0	4194304	Value	ValueOutput
+midi ctrl sens2	0	4194304	Value	ValueOutput
+chorus delay time	0	4194304	Value	ValueOutput
+chorus depth	0	4194304	Value	ValueOutput
+chorus rate	0	4194304	Value	ValueOutput
+chorus feedback	0	4194304	Value	ValueOutput
+chorus level	0	4194304	Value	ValueOutput
+lfo1 on/off	0	4194304	Value	ValueOutput
+lfo2 on/off	0	4194304	Value	ValueOutput
+arpeggiator on/off	0	4194304	Value	ValueOutput
+equalizer tone	0	4194304	Value	ValueOutput
+equalizer freq	0	4194304	Value	ValueOutput
+equalizer level	0	4194304	Value	ValueOutput
+equalizer Q	0	4194304	Value	ValueOutput
+chorus type	0	4194304	Value	ValueOutput
+delay on/off	0	4194304	Value	ValueOutput
+chorus on/off	0	4194304	Value	ValueOutput
+lfo1 tempo sync	0	4194304	Value	ValueOutput
+lfo1 key sync	0	4194304	Value	ValueOutput
+lfo2 tempo sync	0	4194304	Value	ValueOutput
+lfo2 key sync	0	4194304	Value	ValueOutput
+osc mod dest	0	4194304	Value	ValueOutput
+osc1_2 fine tune	0	4194304	Value	ValueOutput
+unison mode	0	4194304	Value	ValueOutput
+portament auto mode	0	4194304	Value	ValueOutput
+unison detune	0	4194304	Value	ValueOutput
+osc1 detune	0	4194304	Value	ValueOutput
+effect on/off	0	4194304	Value	ValueOutput
+effect type	0	4194304	Value	ValueOutput
+effect control1	0	4194304	Value	ValueOutput
+effect control2	0	4194304	Value	ValueOutput
+effect level/mix	0	4194304	Value	ValueOutput
+delay type	0	4194304	Value	ValueOutput
+delay time spread	0	4194304	Value	ValueOutput
+unison pan spread	0	4194304	Value	ValueOutput
+unison pitch	0	4194304	Value	ValueOutput
+midi ctrl src1	0	4194304	Value	ValueOutput
+midi ctrl assign1	0	4194304	Value	ValueOutput
+midi ctrl src2	0	4194304	Value	ValueOutput
+midi ctrl assign2	0	4194304	Value	ValueOutput
+pan	0	4194304	Value	ValueOutput
+osc phase shift	0	4194304	Value	ValueOutput
+unison phase shift	0	4194304	Value	ValueOutput
+unison voice num	0	4194304	Value	ValueOutput
+osc1 sub gain	0	4194304	Value	ValueOutput
+osc1 sub shape	0	4194304	Value	ValueOutput
+osc1 sub octave	0	4194304	Value	ValueOutput
+delay tone	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

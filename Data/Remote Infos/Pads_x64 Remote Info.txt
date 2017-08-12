@@ -1,0 +1,38 @@
+Scope
+Manufacturer	Model
+Klevgrand	vst.Pads.Pads_x64
+Note: Will match scope definitions for vst.Pads.Pads_x64 or vst.Pads
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Wave A	0	4194304	Value	ValueOutput
+Wave B	0	4194304	Value	ValueOutput
+Wave Morph	0	4194304	Value	ValueOutput
+Wobble	0	4194304	Value	ValueOutput
+Noise	0	4194304	Value	ValueOutput
+Grain	0	4194304	Value	ValueOutput
+Highcut Frequenc	0	4194304	Value	ValueOutput
+Highcut Resonanc	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Chorus	0	4194304	Value	ValueOutput
+Attack vel mod	0	4194304	Value	ValueOutput
+High cut vel mod	0	4194304	Value	ValueOutput
+Volume vel mod	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

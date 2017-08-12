@@ -1,0 +1,56 @@
+Scope
+Manufacturer	Model
+PSPaudioware.com	vst.PBSc.PSP B-Scanner x64
+Note: Will match scope definitions for vst.PBSc.PSP B-Scanner x64 or vst.PBSc
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Sync	0	4194304	Value	ValueOutput
+LnkMode	0	4194304	Value	ValueOutput
+Quality	0	4194304	Value	ValueOutput
+Tremolo	0	4194304	Value	ValueOutput
+HiEQ	0	4194304	Value	ValueOutput
+C-Mix	0	4194304	Value	ValueOutput
+VCmode	0	4194304	Value	ValueOutput
+Lever	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+Stop	0	4194304	Value	ValueOutput
+InGain	0	4194304	Value	ValueOutput
+InWidth	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+VibrLPF	0	4194304	Value	ValueOutput
+OutWdth	0	4194304	Value	ValueOutput
+OutGain	0	4194304	Value	ValueOutput
+FastL/B	0	4194304	Value	ValueOutput
+FastR/V	0	4194304	Value	ValueOutput
+FrndDep	0	4194304	Value	ValueOutput
+FrndDif	0	4194304	Value	ValueOutput
+FstSprd	0	4194304	Value	ValueOutput
+AccL/B	0	4194304	Value	ValueOutput
+AccR/V	0	4194304	Value	ValueOutput
+DecL/B	0	4194304	Value	ValueOutput
+DecR/V	0	4194304	Value	ValueOutput
+SlowL/B	0	4194304	Value	ValueOutput
+SlowR/V	0	4194304	Value	ValueOutput
+SrndDep	0	4194304	Value	ValueOutput
+SrndDif	0	4194304	Value	ValueOutput
+SlwSprd	0	4194304	Value	ValueOutput
+LvrMode	0	4194304	Value	ValueOutput
+SpdMode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,105 @@
+Scope
+Manufacturer	Model
+TAL-Togu Audio Line	vst.ncut.TAL-NoiseMaker x64
+Note: Will match scope definitions for vst.ncut.TAL-NoiseMaker x64 or vst.ncut
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+volume	0	4194304	Value	ValueOutput
+filtertype	0	4194304	Value	ValueOutput
+cutoff	0	4194304	Value	ValueOutput
+resonance	0	4194304	Value	ValueOutput
+keyfollow	0	4194304	Value	ValueOutput
+filtercontour	0	4194304	Value	ValueOutput
+filterattack	0	4194304	Value	ValueOutput
+filterdecay	0	4194304	Value	ValueOutput
+filtersustain	0	4194304	Value	ValueOutput
+filterrelease	0	4194304	Value	ValueOutput
+ampattack	0	4194304	Value	ValueOutput
+ampdecay	0	4194304	Value	ValueOutput
+ampsustain	0	4194304	Value	ValueOutput
+amprelease	0	4194304	Value	ValueOutput
+osc1volume	0	4194304	Value	ValueOutput
+osc2volume	0	4194304	Value	ValueOutput
+osc3volume	0	4194304	Value	ValueOutput
+oscmastertune	0	4194304	Value	ValueOutput
+osc1tune	0	4194304	Value	ValueOutput
+osc2tune	0	4194304	Value	ValueOutput
+osc1finetune	0	4194304	Value	ValueOutput
+osc2finetune	0	4194304	Value	ValueOutput
+osc1waveform	0	4194304	Value	ValueOutput
+osc2waveform	0	4194304	Value	ValueOutput
+oscsync	0	4194304	Value	ValueOutput
+lfo1waveform	0	4194304	Value	ValueOutput
+lfo2waveform	0	4194304	Value	ValueOutput
+lfo1rate	0	4194304	Value	ValueOutput
+lfo2rate	0	4194304	Value	ValueOutput
+lfo1amount	0	4194304	Value	ValueOutput
+lfo2amount	0	4194304	Value	ValueOutput
+lfo1destination	0	4194304	Value	ValueOutput
+lfo2destination	0	4194304	Value	ValueOutput
+lfo1phase	0	4194304	Value	ValueOutput
+lfo2phase	0	4194304	Value	ValueOutput
+osc2fm	0	4194304	Value	ValueOutput
+osc2phase	0	4194304	Value	ValueOutput
+osc1pw	0	4194304	Value	ValueOutput
+osc1phase	0	4194304	Value	ValueOutput
+transpose	0	4194304	Value	ValueOutput
+freeadattack	0	4194304	Value	ValueOutput
+freeaddecay	0	4194304	Value	ValueOutput
+freeadamount	0	4194304	Value	ValueOutput
+freeaddestinatio	0	4194304	Value	ValueOutput
+lfo1sync	0	4194304	Value	ValueOutput
+lfo1keytrigger	0	4194304	Value	ValueOutput
+lfo2sync	0	4194304	Value	ValueOutput
+lfo2keytrigger	0	4194304	Value	ValueOutput
+portamento	0	4194304	Value	ValueOutput
+portamentomode	0	4194304	Value	ValueOutput
+voices	0	4194304	Value	ValueOutput
+velocityvolume	0	4194304	Value	ValueOutput
+velocitycontour	0	4194304	Value	ValueOutput
+velocitycutoff	0	4194304	Value	ValueOutput
+pitchwheelcutoff	0	4194304	Value	ValueOutput
+pitchwheelpitch	0	4194304	Value	ValueOutput
+ringmodulation	0	4194304	Value	ValueOutput
+chorus1enable	0	4194304	Value	ValueOutput
+chorus2enable	0	4194304	Value	ValueOutput
+reverbwet	0	4194304	Value	ValueOutput
+reverbdecay	0	4194304	Value	ValueOutput
+reverbpredelay	0	4194304	Value	ValueOutput
+reverbhighcut	0	4194304	Value	ValueOutput
+reverblowcut	0	4194304	Value	ValueOutput
+oscbitcrusher	0	4194304	Value	ValueOutput
+highpass	0	4194304	Value	ValueOutput
+detune	0	4194304	Value	ValueOutput
+vintagenoise	0	4194304	Value	ValueOutput
+envelopeeditorde	0	4194304	Value	ValueOutput
+envelopeeditorsp	0	4194304	Value	ValueOutput
+envelopeeditoram	0	4194304	Value	ValueOutput
+envelopeoneshot	0	4194304	Value	ValueOutput
+envelopefixtempo	0	4194304	Value	ValueOutput
+filterdrive	0	4194304	Value	ValueOutput
+delaywet	0	4194304	Value	ValueOutput
+delaytime	0	4194304	Value	ValueOutput
+delaysync	0	4194304	Value	ValueOutput
+delayfactorl	0	4194304	Value	ValueOutput
+delayfactorr	0	4194304	Value	ValueOutput
+delayhighshelf	0	4194304	Value	ValueOutput
+delaylowshelf	0	4194304	Value	ValueOutput
+delayfeedback	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

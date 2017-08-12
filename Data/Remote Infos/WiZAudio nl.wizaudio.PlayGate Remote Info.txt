@@ -1,0 +1,18 @@
+Scope
+Manufacturer	Model
+WiZAudio	nl.wizaudio.PlayGate
+
+Remotable	Min	Max	Input type	Output type
+Octave	0	10	Value	ValueOutput
+Note	0	12	Value	ValueOutput
+Mode	0	3	Value	ValueOutput
+Quantize	0	5	Value	ValueOutput
+Crossfade	0	4194304	Value	ValueOutput
+Return Level	0	4194304	Value	ValueOutput
+Pan	0	127	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

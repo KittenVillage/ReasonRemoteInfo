@@ -1,0 +1,46 @@
+Scope
+Manufacturer	Model
+Waves	vst.R3ST.WaveShell-VST 9_91_x64.R360 Stereo/5_0
+Note: Will match scope definitions for vst.R3ST.WaveShell-VST 9_91_x64.R360 Stereo/5_0 or vst.R3ST
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+PreDelay	0	4194304	Value	ValueOutput
+-Rear ofs	0	4194304	Value	ValueOutput
+Time	0	4194304	Value	ValueOutput
+Size	0	4194304	Value	ValueOutput
+Wet-Dry	0	4194304	Value	ValueOutput
+In Gain	0	4194304	Value	ValueOutput
+Dmp Low-F Ratio	0	4194304	Value	ValueOutput
+Dmp Hi-F Ratio	0	4194304	Value	ValueOutput
+Dmp Low-F Freq	0	4194304	Value	ValueOutput
+Dmp Hi-F Freq	0	4194304	Value	ValueOutput
+EQ Low-F Gain	0	4194304	Value	ValueOutput
+EQ Hi-F Gain	0	4194304	Value	ValueOutput
+EQ Low-F Freq	0	4194304	Value	ValueOutput
+EQ Hi-F Freq	0	4194304	Value	ValueOutput
+Solo L	0	4194304	Value	ValueOutput
+Solo R	0	4194304	Value	ValueOutput
+Solo LS	0	4194304	Value	ValueOutput
+Solo RS	0	4194304	Value	ValueOutput
+Solo C	0	4194304	Value	ValueOutput
+-Bright	0	4194304	Value	ValueOutput
+Density	0	4194304	Value	ValueOutput
+Center	0	4194304	Value	ValueOutput
+Front/Rear	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

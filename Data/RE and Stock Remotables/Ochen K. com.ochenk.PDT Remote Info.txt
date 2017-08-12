@@ -1,0 +1,49 @@
+Scope
+Manufacturer	Model
+Ochen K.	com.ochenk.PDT
+
+Remotable	Min	Max	Input type	Output type
+propertyname Shuffle	0	4194304	Value	ValueOutput
+Seed Dial	0	4194304	Value	ValueOutput
+Linear Button	0	1	Toggle	ValueOutput
+Pause Button	0	1	Toggle	ValueOutput
+Probability Ch 1 Step 1	0	4194304	Value	ValueOutput
+Probability Ch 1 Step 2	0	4194304	Value	ValueOutput
+Probability Ch 1 Step 3	0	4194304	Value	ValueOutput
+Probability Ch 1 Step 4	0	4194304	Value	ValueOutput
+Probability Ch 1 Step 5	0	4194304	Value	ValueOutput
+Probability Ch 1 Step 6	0	4194304	Value	ValueOutput
+Probability Ch 1 Step 7	0	4194304	Value	ValueOutput
+Probability Ch 1 Step 8	0	4194304	Value	ValueOutput
+Probability Ch 1 Step 9	0	4194304	Value	ValueOutput
+Probability Ch 1 Step 10	0	4194304	Value	ValueOutput
+Probability Ch 1 Step 11	0	4194304	Value	ValueOutput
+Probability Ch 1 Step 12	0	4194304	Value	ValueOutput
+Probability Ch 1 Step 13	0	4194304	Value	ValueOutput
+Probability Ch 1 Step 14	0	4194304	Value	ValueOutput
+Probability Ch 1 Step 15	0	4194304	Value	ValueOutput
+Probability Ch 1 Step 16	0	4194304	Value	ValueOutput
+Probability Ch 2 Step 1	0	4194304	Value	ValueOutput
+Probability Ch 2 Step 2	0	4194304	Value	ValueOutput
+Probability Ch 2 Step 3	0	4194304	Value	ValueOutput
+Probability Ch 2 Step 4	0	4194304	Value	ValueOutput
+Probability Ch 2 Step 5	0	4194304	Value	ValueOutput
+Probability Ch 2 Step 6	0	4194304	Value	ValueOutput
+Probability Ch 2 Step 7	0	4194304	Value	ValueOutput
+Probability Ch 2 Step 8	0	4194304	Value	ValueOutput
+Probability Ch 2 Step 9	0	4194304	Value	ValueOutput
+Probability Ch 2 Step 10	0	4194304	Value	ValueOutput
+Probability Ch 2 Step 11	0	4194304	Value	ValueOutput
+Probability Ch 2 Step 12	0	4194304	Value	ValueOutput
+Probability Ch 2 Step 13	0	4194304	Value	ValueOutput
+Probability Ch 2 Step 14	0	4194304	Value	ValueOutput
+Probability Ch 2 Step 15	0	4194304	Value	ValueOutput
+Probability Ch 2 Step 16	0	4194304	Value	ValueOutput
+Steps Dial	0	31	Value	ValueOutput
+Speed Dial	0	7	Value	ValueOutput
+Gate Dial	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

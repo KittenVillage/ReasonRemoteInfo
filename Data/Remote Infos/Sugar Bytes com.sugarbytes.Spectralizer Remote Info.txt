@@ -1,0 +1,18 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	com.sugarbytes.Spectralizer
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+delaytonal	0	4194304	Value	ValueOutput
+delaysync	0	7	Value	ValueOutput
+delayfree	0	4194304	Value	ValueOutput
+freq	0	4194304	Value	ValueOutput
+reso	0	4194304	Value	ValueOutput
+bands	0	4194304	Value	ValueOutput
+drywet	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,96 @@
+Scope
+Manufacturer	Model
+Waves	vst.HRVZ.WaveShell-VST 9_91_x64.H-Reverb long Mono/5_1
+Note: Will match scope definitions for vst.HRVZ.WaveShell-VST 9_91_x64.H-Reverb long Mono/5_1 or vst.HRVZ
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Predelay Free	0	4194304	Value	ValueOutput
+Predelay Sync	0	4194304	Value	ValueOutput
+PreDelay Mode	0	4194304	Value	ValueOutput
+Buildup Time	0	4194304	Value	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+ReverbTime	0	4194304	Value	ValueOutput
+ER Model	0	4194304	Value	ValueOutput
+ER/Tail Balance	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+XTime	0	4194304	Value	ValueOutput
+XGain	0	4194304	Value	ValueOutput
+Density	0	4194304	Value	ValueOutput
+In Echoes ByPass	0	4194304	Value	ValueOutput
+In Echoes Type	0	4194304	Value	ValueOutput
+In Echoes Discrete	0	4194304	Value	ValueOutput
+In Echoes Diffused	0	4194304	Value	ValueOutput
+Out Echoes ByPass	0	4194304	Value	ValueOutput
+Out Echoes Amount	0	4194304	Value	ValueOutput
+Out Echoes Size	0	4194304	Value	ValueOutput
+Out Echoes Tone	0	4194304	Value	ValueOutput
+Dynamics On/Off	0	4194304	Value	ValueOutput
+Dynamics Mode	0	4194304	Value	ValueOutput
+Dynamics Threshold	0	4194304	Value	ValueOutput
+Dynamics Recovery	0	4194304	Value	ValueOutput
+Dynamics Range	0	4194304	Value	ValueOutput
+ER Filter Gain	0	4194304	Value	ValueOutput
+ER Filter Frequency	0	4194304	Value	ValueOutput
+EQ LoShelf OnOff	0	4194304	Value	ValueOutput
+EQ LoShelf Gain	0	4194304	Value	ValueOutput
+EQ LoShelf Freq	0	4194304	Value	ValueOutput
+EQ LoBell OnOff	0	4194304	Value	ValueOutput
+EQ LoBell Gain	0	4194304	Value	ValueOutput
+EQ LoBell Freq	0	4194304	Value	ValueOutput
+EQ LoBell Q	0	4194304	Value	ValueOutput
+EQ HiBell OnOff	0	4194304	Value	ValueOutput
+EQ HiBell Gain	0	4194304	Value	ValueOutput
+EQ HiBell Freq	0	4194304	Value	ValueOutput
+EQ HiBell Q	0	4194304	Value	ValueOutput
+EQ HiShelf OnOff	0	4194304	Value	ValueOutput
+EQ HiShelf Gain	0	4194304	Value	ValueOutput
+EQ HiShelf Freq	0	4194304	Value	ValueOutput
+Time Filter Type	0	4194304	Value	ValueOutput
+Damping LF CutOff	0	4194304	Value	ValueOutput
+Damping LF Ratio	0	4194304	Value	ValueOutput
+Damping HF Ratio	0	4194304	Value	ValueOutput
+Damping HF CutOff	0	4194304	Value	ValueOutput
+Envelope Attack Time	0	4194304	Value	ValueOutput
+Envelope Decay Time	0	4194304	Value	ValueOutput
+Filter Type	0	4194304	Value	ValueOutput
+Filter Q	0	4194304	Value	ValueOutput
+Filter Mix	0	4194304	Value	ValueOutput
+Filter Flip	0	4194304	Value	ValueOutput
+F1	0	4194304	Value	ValueOutput
+F2	0	4194304	Value	ValueOutput
+LFO Free Rate	0	4194304	Value	ValueOutput
+LFO Sync Rate	0	4194304	Value	ValueOutput
+LFO Rate Mode	0	4194304	Value	ValueOutput
+Modulation ByPass	0	4194304	Value	ValueOutput
+AM Depth	0	4194304	Value	ValueOutput
+AM Rate	0	4194304	Value	ValueOutput
+FM Mix	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Tempo Source	0	4194304	Value	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+Analog	0	4194304	Value	ValueOutput
+Digital	0	4194304	Value	ValueOutput
+Center Gain	0	4194304	Value	ValueOutput
+Front/Rear Balance	0	4194304	Value	ValueOutput
+Surround LoShelf Gain	0	4194304	Value	ValueOutput
+Surround LoShelf Freq	0	4194304	Value	ValueOutput
+Surround HiShelf Gain	0	4194304	Value	ValueOutput
+Surround HiShelf Freq	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

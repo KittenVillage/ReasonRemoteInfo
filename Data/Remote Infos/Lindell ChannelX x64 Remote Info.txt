@@ -1,0 +1,85 @@
+Scope
+Manufacturer	Model
+Plugin Alliance	vst.LCS1.Lindell ChannelX x64
+Note: Will match scope definitions for vst.LCS1.Lindell ChannelX x64 or vst.LCS1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Pre. Input gain	0	4194304	Value	ValueOutput
+Pre. Output lev	0	4194304	Value	ValueOutput
+Pre. Link	0	4194304	Value	ValueOutput
+Pre. Hi boost	0	4194304	Value	ValueOutput
+Pre. Hi frequen	0	4194304	Value	ValueOutput
+Pre. Low boost	0	4194304	Value	ValueOutput
+Pre. Low freque	0	4194304	Value	ValueOutput
+Pre. EQ on	0	4194304	Value	ValueOutput
+Pre. Polarity	0	4194304	Value	ValueOutput
+Pre. Analog	0	4194304	Value	ValueOutput
+Pre. Lowpass fr	0	4194304	Value	ValueOutput
+Pre. Lowpass sl	0	4194304	Value	ValueOutput
+Pre. Low filter	0	4194304	Value	ValueOutput
+Pre. Highpass f	0	4194304	Value	ValueOutput
+Pre. Highpass s	0	4194304	Value	ValueOutput
+Pre. High filte	0	4194304	Value	ValueOutput
+Pre. Bypass	0	4194304	Value	ValueOutput
+Comp. Input	0	4194304	Value	ValueOutput
+Comp. Output	0	4194304	Value	ValueOutput
+Comp. Attack	0	4194304	Value	ValueOutput
+Comp. Release	0	4194304	Value	ValueOutput
+Comp. Mix	0	4194304	Value	ValueOutput
+Comp. Ratio	0	4194304	Value	ValueOutput
+Comp. SC High P	0	4194304	Value	ValueOutput
+Comp. Continuou	0	4194304	Value	ValueOutput
+Comp. Continuou	0	4194304	Value	ValueOutput
+Comp. Stereo Li	0	4194304	Value	ValueOutput
+Comp. Bypass	0	4194304	Value	ValueOutput
+Comp. Continuou	0	4194304	Value	ValueOutput
+Comp. Link ON	0	4194304	Value	ValueOutput
+Comp. Analog ON	0	4194304	Value	ValueOutput
+EQ Hi atten. fr	0	4194304	Value	ValueOutput
+EQ Hi attenuati	0	4194304	Value	ValueOutput
+EQ Hi boost	0	4194304	Value	ValueOutput
+EQ Hi frequency	0	4194304	Value	ValueOutput
+EQ Hi bandwidth	0	4194304	Value	ValueOutput
+EQ Low boost	0	4194304	Value	ValueOutput
+EQ Low frequenc	0	4194304	Value	ValueOutput
+EQ Low attenuat	0	4194304	Value	ValueOutput
+EQ Pad	0	4194304	Value	ValueOutput
+EQ Hi atten. fr	0	4194304	Value	ValueOutput
+EQ Hi attenuati	0	4194304	Value	ValueOutput
+EQ Hi boost mid	0	4194304	Value	ValueOutput
+EQ Hi frequency	0	4194304	Value	ValueOutput
+EQ Hi bandwidth	0	4194304	Value	ValueOutput
+EQ Low boost mi	0	4194304	Value	ValueOutput
+EQ Low frequenc	0	4194304	Value	ValueOutput
+EQ Low attenuat	0	4194304	Value	ValueOutput
+EQ Pad mid	0	4194304	Value	ValueOutput
+EQ Hi atten. fr	0	4194304	Value	ValueOutput
+EQ Hi attenuati	0	4194304	Value	ValueOutput
+EQ Hi boost sid	0	4194304	Value	ValueOutput
+EQ Hi frequency	0	4194304	Value	ValueOutput
+EQ Hi bandwidth	0	4194304	Value	ValueOutput
+EQ Low boost si	0	4194304	Value	ValueOutput
+EQ Low frequenc	0	4194304	Value	ValueOutput
+EQ Low attenuat	0	4194304	Value	ValueOutput
+EQ Pad side	0	4194304	Value	ValueOutput
+EQ Mid / Side	0	4194304	Value	ValueOutput
+EQ Analog	0	4194304	Value	ValueOutput
+EQ EQ In	0	4194304	Value	ValueOutput
+Order	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

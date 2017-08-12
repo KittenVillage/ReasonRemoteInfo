@@ -1,0 +1,537 @@
+Scope
+Manufacturer	Model
+apulSoft	vst.apQU.apQualizr x64
+Note: Will match scope definitions for vst.apQU.apQualizr x64 or vst.apQU
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+-	0	4194304	Value	ValueOutput
+-	0	4194304	Value	ValueOutput
+F0 Bypass	0	4194304	Value	ValueOutput
+F0 Freq	0	4194304	Value	ValueOutput
+F0 Gain	0	4194304	Value	ValueOutput
+F0 Bandwidth	0	4194304	Value	ValueOutput
+F0 Q	0	4194304	Value	ValueOutput
+F0 Stack	0	4194304	Value	ValueOutput
+F0 On Ch1	0	4194304	Value	ValueOutput
+F0 On Ch2	0	4194304	Value	ValueOutput
+F1 Bypass	0	4194304	Value	ValueOutput
+F1 Freq	0	4194304	Value	ValueOutput
+F1 Gain	0	4194304	Value	ValueOutput
+F1 Bandwidth	0	4194304	Value	ValueOutput
+F1 Q	0	4194304	Value	ValueOutput
+F1 Stack	0	4194304	Value	ValueOutput
+F1 On Ch1	0	4194304	Value	ValueOutput
+F1 On Ch2	0	4194304	Value	ValueOutput
+F2 Bypass	0	4194304	Value	ValueOutput
+F2 Freq	0	4194304	Value	ValueOutput
+F2 Gain	0	4194304	Value	ValueOutput
+F2 Bandwidth	0	4194304	Value	ValueOutput
+F2 Q	0	4194304	Value	ValueOutput
+F2 Stack	0	4194304	Value	ValueOutput
+F2 On Ch1	0	4194304	Value	ValueOutput
+F2 On Ch2	0	4194304	Value	ValueOutput
+F3 Bypass	0	4194304	Value	ValueOutput
+F3 Freq	0	4194304	Value	ValueOutput
+F3 Gain	0	4194304	Value	ValueOutput
+F3 Bandwidth	0	4194304	Value	ValueOutput
+F3 Q	0	4194304	Value	ValueOutput
+F3 Stack	0	4194304	Value	ValueOutput
+F3 On Ch1	0	4194304	Value	ValueOutput
+F3 On Ch2	0	4194304	Value	ValueOutput
+F4 Bypass	0	4194304	Value	ValueOutput
+F4 Freq	0	4194304	Value	ValueOutput
+F4 Gain	0	4194304	Value	ValueOutput
+F4 Bandwidth	0	4194304	Value	ValueOutput
+F4 Q	0	4194304	Value	ValueOutput
+F4 Stack	0	4194304	Value	ValueOutput
+F4 On Ch1	0	4194304	Value	ValueOutput
+F4 On Ch2	0	4194304	Value	ValueOutput
+F5 Bypass	0	4194304	Value	ValueOutput
+F5 Freq	0	4194304	Value	ValueOutput
+F5 Gain	0	4194304	Value	ValueOutput
+F5 Bandwidth	0	4194304	Value	ValueOutput
+F5 Q	0	4194304	Value	ValueOutput
+F5 Stack	0	4194304	Value	ValueOutput
+F5 On Ch1	0	4194304	Value	ValueOutput
+F5 On Ch2	0	4194304	Value	ValueOutput
+F6 Bypass	0	4194304	Value	ValueOutput
+F6 Freq	0	4194304	Value	ValueOutput
+F6 Gain	0	4194304	Value	ValueOutput
+F6 Bandwidth	0	4194304	Value	ValueOutput
+F6 Q	0	4194304	Value	ValueOutput
+F6 Stack	0	4194304	Value	ValueOutput
+F6 On Ch1	0	4194304	Value	ValueOutput
+F6 On Ch2	0	4194304	Value	ValueOutput
+F7 Bypass	0	4194304	Value	ValueOutput
+F7 Freq	0	4194304	Value	ValueOutput
+F7 Gain	0	4194304	Value	ValueOutput
+F7 Bandwidth	0	4194304	Value	ValueOutput
+F7 Q	0	4194304	Value	ValueOutput
+F7 Stack	0	4194304	Value	ValueOutput
+F7 On Ch1	0	4194304	Value	ValueOutput
+F7 On Ch2	0	4194304	Value	ValueOutput
+F8 Bypass	0	4194304	Value	ValueOutput
+F8 Freq	0	4194304	Value	ValueOutput
+F8 Gain	0	4194304	Value	ValueOutput
+F8 Bandwidth	0	4194304	Value	ValueOutput
+F8 Q	0	4194304	Value	ValueOutput
+F8 Stack	0	4194304	Value	ValueOutput
+F8 On Ch1	0	4194304	Value	ValueOutput
+F8 On Ch2	0	4194304	Value	ValueOutput
+F9 Bypass	0	4194304	Value	ValueOutput
+F9 Freq	0	4194304	Value	ValueOutput
+F9 Gain	0	4194304	Value	ValueOutput
+F9 Bandwidth	0	4194304	Value	ValueOutput
+F9 Q	0	4194304	Value	ValueOutput
+F9 Stack	0	4194304	Value	ValueOutput
+F9 On Ch1	0	4194304	Value	ValueOutput
+F9 On Ch2	0	4194304	Value	ValueOutput
+F10 Bypass	0	4194304	Value	ValueOutput
+F10 Freq	0	4194304	Value	ValueOutput
+F10 Gain	0	4194304	Value	ValueOutput
+F10 Bandwidth	0	4194304	Value	ValueOutput
+F10 Q	0	4194304	Value	ValueOutput
+F10 Stack	0	4194304	Value	ValueOutput
+F10 On Ch1	0	4194304	Value	ValueOutput
+F10 On Ch2	0	4194304	Value	ValueOutput
+F11 Bypass	0	4194304	Value	ValueOutput
+F11 Freq	0	4194304	Value	ValueOutput
+F11 Gain	0	4194304	Value	ValueOutput
+F11 Bandwidth	0	4194304	Value	ValueOutput
+F11 Q	0	4194304	Value	ValueOutput
+F11 Stack	0	4194304	Value	ValueOutput
+F11 On Ch1	0	4194304	Value	ValueOutput
+F11 On Ch2	0	4194304	Value	ValueOutput
+F12 Bypass	0	4194304	Value	ValueOutput
+F12 Freq	0	4194304	Value	ValueOutput
+F12 Gain	0	4194304	Value	ValueOutput
+F12 Bandwidth	0	4194304	Value	ValueOutput
+F12 Q	0	4194304	Value	ValueOutput
+F12 Stack	0	4194304	Value	ValueOutput
+F12 On Ch1	0	4194304	Value	ValueOutput
+F12 On Ch2	0	4194304	Value	ValueOutput
+F13 Bypass	0	4194304	Value	ValueOutput
+F13 Freq	0	4194304	Value	ValueOutput
+F13 Gain	0	4194304	Value	ValueOutput
+F13 Bandwidth	0	4194304	Value	ValueOutput
+F13 Q	0	4194304	Value	ValueOutput
+F13 Stack	0	4194304	Value	ValueOutput
+F13 On Ch1	0	4194304	Value	ValueOutput
+F13 On Ch2	0	4194304	Value	ValueOutput
+F14 Bypass	0	4194304	Value	ValueOutput
+F14 Freq	0	4194304	Value	ValueOutput
+F14 Gain	0	4194304	Value	ValueOutput
+F14 Bandwidth	0	4194304	Value	ValueOutput
+F14 Q	0	4194304	Value	ValueOutput
+F14 Stack	0	4194304	Value	ValueOutput
+F14 On Ch1	0	4194304	Value	ValueOutput
+F14 On Ch2	0	4194304	Value	ValueOutput
+F15 Bypass	0	4194304	Value	ValueOutput
+F15 Freq	0	4194304	Value	ValueOutput
+F15 Gain	0	4194304	Value	ValueOutput
+F15 Bandwidth	0	4194304	Value	ValueOutput
+F15 Q	0	4194304	Value	ValueOutput
+F15 Stack	0	4194304	Value	ValueOutput
+F15 On Ch1	0	4194304	Value	ValueOutput
+F15 On Ch2	0	4194304	Value	ValueOutput
+F16 Bypass	0	4194304	Value	ValueOutput
+F16 Freq	0	4194304	Value	ValueOutput
+F16 Gain	0	4194304	Value	ValueOutput
+F16 Bandwidth	0	4194304	Value	ValueOutput
+F16 Q	0	4194304	Value	ValueOutput
+F16 Stack	0	4194304	Value	ValueOutput
+F16 On Ch1	0	4194304	Value	ValueOutput
+F16 On Ch2	0	4194304	Value	ValueOutput
+F17 Bypass	0	4194304	Value	ValueOutput
+F17 Freq	0	4194304	Value	ValueOutput
+F17 Gain	0	4194304	Value	ValueOutput
+F17 Bandwidth	0	4194304	Value	ValueOutput
+F17 Q	0	4194304	Value	ValueOutput
+F17 Stack	0	4194304	Value	ValueOutput
+F17 On Ch1	0	4194304	Value	ValueOutput
+F17 On Ch2	0	4194304	Value	ValueOutput
+F18 Bypass	0	4194304	Value	ValueOutput
+F18 Freq	0	4194304	Value	ValueOutput
+F18 Gain	0	4194304	Value	ValueOutput
+F18 Bandwidth	0	4194304	Value	ValueOutput
+F18 Q	0	4194304	Value	ValueOutput
+F18 Stack	0	4194304	Value	ValueOutput
+F18 On Ch1	0	4194304	Value	ValueOutput
+F18 On Ch2	0	4194304	Value	ValueOutput
+F19 Bypass	0	4194304	Value	ValueOutput
+F19 Freq	0	4194304	Value	ValueOutput
+F19 Gain	0	4194304	Value	ValueOutput
+F19 Bandwidth	0	4194304	Value	ValueOutput
+F19 Q	0	4194304	Value	ValueOutput
+F19 Stack	0	4194304	Value	ValueOutput
+F19 On Ch1	0	4194304	Value	ValueOutput
+F19 On Ch2	0	4194304	Value	ValueOutput
+F20 Bypass	0	4194304	Value	ValueOutput
+F20 Freq	0	4194304	Value	ValueOutput
+F20 Gain	0	4194304	Value	ValueOutput
+F20 Bandwidth	0	4194304	Value	ValueOutput
+F20 Q	0	4194304	Value	ValueOutput
+F20 Stack	0	4194304	Value	ValueOutput
+F20 On Ch1	0	4194304	Value	ValueOutput
+F20 On Ch2	0	4194304	Value	ValueOutput
+F21 Bypass	0	4194304	Value	ValueOutput
+F21 Freq	0	4194304	Value	ValueOutput
+F21 Gain	0	4194304	Value	ValueOutput
+F21 Bandwidth	0	4194304	Value	ValueOutput
+F21 Q	0	4194304	Value	ValueOutput
+F21 Stack	0	4194304	Value	ValueOutput
+F21 On Ch1	0	4194304	Value	ValueOutput
+F21 On Ch2	0	4194304	Value	ValueOutput
+F22 Bypass	0	4194304	Value	ValueOutput
+F22 Freq	0	4194304	Value	ValueOutput
+F22 Gain	0	4194304	Value	ValueOutput
+F22 Bandwidth	0	4194304	Value	ValueOutput
+F22 Q	0	4194304	Value	ValueOutput
+F22 Stack	0	4194304	Value	ValueOutput
+F22 On Ch1	0	4194304	Value	ValueOutput
+F22 On Ch2	0	4194304	Value	ValueOutput
+F23 Bypass	0	4194304	Value	ValueOutput
+F23 Freq	0	4194304	Value	ValueOutput
+F23 Gain	0	4194304	Value	ValueOutput
+F23 Bandwidth	0	4194304	Value	ValueOutput
+F23 Q	0	4194304	Value	ValueOutput
+F23 Stack	0	4194304	Value	ValueOutput
+F23 On Ch1	0	4194304	Value	ValueOutput
+F23 On Ch2	0	4194304	Value	ValueOutput
+F24 Bypass	0	4194304	Value	ValueOutput
+F24 Freq	0	4194304	Value	ValueOutput
+F24 Gain	0	4194304	Value	ValueOutput
+F24 Bandwidth	0	4194304	Value	ValueOutput
+F24 Q	0	4194304	Value	ValueOutput
+F24 Stack	0	4194304	Value	ValueOutput
+F24 On Ch1	0	4194304	Value	ValueOutput
+F24 On Ch2	0	4194304	Value	ValueOutput
+F25 Bypass	0	4194304	Value	ValueOutput
+F25 Freq	0	4194304	Value	ValueOutput
+F25 Gain	0	4194304	Value	ValueOutput
+F25 Bandwidth	0	4194304	Value	ValueOutput
+F25 Q	0	4194304	Value	ValueOutput
+F25 Stack	0	4194304	Value	ValueOutput
+F25 On Ch1	0	4194304	Value	ValueOutput
+F25 On Ch2	0	4194304	Value	ValueOutput
+F26 Bypass	0	4194304	Value	ValueOutput
+F26 Freq	0	4194304	Value	ValueOutput
+F26 Gain	0	4194304	Value	ValueOutput
+F26 Bandwidth	0	4194304	Value	ValueOutput
+F26 Q	0	4194304	Value	ValueOutput
+F26 Stack	0	4194304	Value	ValueOutput
+F26 On Ch1	0	4194304	Value	ValueOutput
+F26 On Ch2	0	4194304	Value	ValueOutput
+F27 Bypass	0	4194304	Value	ValueOutput
+F27 Freq	0	4194304	Value	ValueOutput
+F27 Gain	0	4194304	Value	ValueOutput
+F27 Bandwidth	0	4194304	Value	ValueOutput
+F27 Q	0	4194304	Value	ValueOutput
+F27 Stack	0	4194304	Value	ValueOutput
+F27 On Ch1	0	4194304	Value	ValueOutput
+F27 On Ch2	0	4194304	Value	ValueOutput
+F28 Bypass	0	4194304	Value	ValueOutput
+F28 Freq	0	4194304	Value	ValueOutput
+F28 Gain	0	4194304	Value	ValueOutput
+F28 Bandwidth	0	4194304	Value	ValueOutput
+F28 Q	0	4194304	Value	ValueOutput
+F28 Stack	0	4194304	Value	ValueOutput
+F28 On Ch1	0	4194304	Value	ValueOutput
+F28 On Ch2	0	4194304	Value	ValueOutput
+F29 Bypass	0	4194304	Value	ValueOutput
+F29 Freq	0	4194304	Value	ValueOutput
+F29 Gain	0	4194304	Value	ValueOutput
+F29 Bandwidth	0	4194304	Value	ValueOutput
+F29 Q	0	4194304	Value	ValueOutput
+F29 Stack	0	4194304	Value	ValueOutput
+F29 On Ch1	0	4194304	Value	ValueOutput
+F29 On Ch2	0	4194304	Value	ValueOutput
+F30 Bypass	0	4194304	Value	ValueOutput
+F30 Freq	0	4194304	Value	ValueOutput
+F30 Gain	0	4194304	Value	ValueOutput
+F30 Bandwidth	0	4194304	Value	ValueOutput
+F30 Q	0	4194304	Value	ValueOutput
+F30 Stack	0	4194304	Value	ValueOutput
+F30 On Ch1	0	4194304	Value	ValueOutput
+F30 On Ch2	0	4194304	Value	ValueOutput
+F31 Bypass	0	4194304	Value	ValueOutput
+F31 Freq	0	4194304	Value	ValueOutput
+F31 Gain	0	4194304	Value	ValueOutput
+F31 Bandwidth	0	4194304	Value	ValueOutput
+F31 Q	0	4194304	Value	ValueOutput
+F31 Stack	0	4194304	Value	ValueOutput
+F31 On Ch1	0	4194304	Value	ValueOutput
+F31 On Ch2	0	4194304	Value	ValueOutput
+F32 Bypass	0	4194304	Value	ValueOutput
+F32 Freq	0	4194304	Value	ValueOutput
+F32 Gain	0	4194304	Value	ValueOutput
+F32 Bandwidth	0	4194304	Value	ValueOutput
+F32 Q	0	4194304	Value	ValueOutput
+F32 Stack	0	4194304	Value	ValueOutput
+F32 On Ch1	0	4194304	Value	ValueOutput
+F32 On Ch2	0	4194304	Value	ValueOutput
+F33 Bypass	0	4194304	Value	ValueOutput
+F33 Freq	0	4194304	Value	ValueOutput
+F33 Gain	0	4194304	Value	ValueOutput
+F33 Bandwidth	0	4194304	Value	ValueOutput
+F33 Q	0	4194304	Value	ValueOutput
+F33 Stack	0	4194304	Value	ValueOutput
+F33 On Ch1	0	4194304	Value	ValueOutput
+F33 On Ch2	0	4194304	Value	ValueOutput
+F34 Bypass	0	4194304	Value	ValueOutput
+F34 Freq	0	4194304	Value	ValueOutput
+F34 Gain	0	4194304	Value	ValueOutput
+F34 Bandwidth	0	4194304	Value	ValueOutput
+F34 Q	0	4194304	Value	ValueOutput
+F34 Stack	0	4194304	Value	ValueOutput
+F34 On Ch1	0	4194304	Value	ValueOutput
+F34 On Ch2	0	4194304	Value	ValueOutput
+F35 Bypass	0	4194304	Value	ValueOutput
+F35 Freq	0	4194304	Value	ValueOutput
+F35 Gain	0	4194304	Value	ValueOutput
+F35 Bandwidth	0	4194304	Value	ValueOutput
+F35 Q	0	4194304	Value	ValueOutput
+F35 Stack	0	4194304	Value	ValueOutput
+F35 On Ch1	0	4194304	Value	ValueOutput
+F35 On Ch2	0	4194304	Value	ValueOutput
+F36 Bypass	0	4194304	Value	ValueOutput
+F36 Freq	0	4194304	Value	ValueOutput
+F36 Gain	0	4194304	Value	ValueOutput
+F36 Bandwidth	0	4194304	Value	ValueOutput
+F36 Q	0	4194304	Value	ValueOutput
+F36 Stack	0	4194304	Value	ValueOutput
+F36 On Ch1	0	4194304	Value	ValueOutput
+F36 On Ch2	0	4194304	Value	ValueOutput
+F37 Bypass	0	4194304	Value	ValueOutput
+F37 Freq	0	4194304	Value	ValueOutput
+F37 Gain	0	4194304	Value	ValueOutput
+F37 Bandwidth	0	4194304	Value	ValueOutput
+F37 Q	0	4194304	Value	ValueOutput
+F37 Stack	0	4194304	Value	ValueOutput
+F37 On Ch1	0	4194304	Value	ValueOutput
+F37 On Ch2	0	4194304	Value	ValueOutput
+F38 Bypass	0	4194304	Value	ValueOutput
+F38 Freq	0	4194304	Value	ValueOutput
+F38 Gain	0	4194304	Value	ValueOutput
+F38 Bandwidth	0	4194304	Value	ValueOutput
+F38 Q	0	4194304	Value	ValueOutput
+F38 Stack	0	4194304	Value	ValueOutput
+F38 On Ch1	0	4194304	Value	ValueOutput
+F38 On Ch2	0	4194304	Value	ValueOutput
+F39 Bypass	0	4194304	Value	ValueOutput
+F39 Freq	0	4194304	Value	ValueOutput
+F39 Gain	0	4194304	Value	ValueOutput
+F39 Bandwidth	0	4194304	Value	ValueOutput
+F39 Q	0	4194304	Value	ValueOutput
+F39 Stack	0	4194304	Value	ValueOutput
+F39 On Ch1	0	4194304	Value	ValueOutput
+F39 On Ch2	0	4194304	Value	ValueOutput
+F40 Bypass	0	4194304	Value	ValueOutput
+F40 Freq	0	4194304	Value	ValueOutput
+F40 Gain	0	4194304	Value	ValueOutput
+F40 Bandwidth	0	4194304	Value	ValueOutput
+F40 Q	0	4194304	Value	ValueOutput
+F40 Stack	0	4194304	Value	ValueOutput
+F40 On Ch1	0	4194304	Value	ValueOutput
+F40 On Ch2	0	4194304	Value	ValueOutput
+F41 Bypass	0	4194304	Value	ValueOutput
+F41 Freq	0	4194304	Value	ValueOutput
+F41 Gain	0	4194304	Value	ValueOutput
+F41 Bandwidth	0	4194304	Value	ValueOutput
+F41 Q	0	4194304	Value	ValueOutput
+F41 Stack	0	4194304	Value	ValueOutput
+F41 On Ch1	0	4194304	Value	ValueOutput
+F41 On Ch2	0	4194304	Value	ValueOutput
+F42 Bypass	0	4194304	Value	ValueOutput
+F42 Freq	0	4194304	Value	ValueOutput
+F42 Gain	0	4194304	Value	ValueOutput
+F42 Bandwidth	0	4194304	Value	ValueOutput
+F42 Q	0	4194304	Value	ValueOutput
+F42 Stack	0	4194304	Value	ValueOutput
+F42 On Ch1	0	4194304	Value	ValueOutput
+F42 On Ch2	0	4194304	Value	ValueOutput
+F43 Bypass	0	4194304	Value	ValueOutput
+F43 Freq	0	4194304	Value	ValueOutput
+F43 Gain	0	4194304	Value	ValueOutput
+F43 Bandwidth	0	4194304	Value	ValueOutput
+F43 Q	0	4194304	Value	ValueOutput
+F43 Stack	0	4194304	Value	ValueOutput
+F43 On Ch1	0	4194304	Value	ValueOutput
+F43 On Ch2	0	4194304	Value	ValueOutput
+F44 Bypass	0	4194304	Value	ValueOutput
+F44 Freq	0	4194304	Value	ValueOutput
+F44 Gain	0	4194304	Value	ValueOutput
+F44 Bandwidth	0	4194304	Value	ValueOutput
+F44 Q	0	4194304	Value	ValueOutput
+F44 Stack	0	4194304	Value	ValueOutput
+F44 On Ch1	0	4194304	Value	ValueOutput
+F44 On Ch2	0	4194304	Value	ValueOutput
+F45 Bypass	0	4194304	Value	ValueOutput
+F45 Freq	0	4194304	Value	ValueOutput
+F45 Gain	0	4194304	Value	ValueOutput
+F45 Bandwidth	0	4194304	Value	ValueOutput
+F45 Q	0	4194304	Value	ValueOutput
+F45 Stack	0	4194304	Value	ValueOutput
+F45 On Ch1	0	4194304	Value	ValueOutput
+F45 On Ch2	0	4194304	Value	ValueOutput
+F46 Bypass	0	4194304	Value	ValueOutput
+F46 Freq	0	4194304	Value	ValueOutput
+F46 Gain	0	4194304	Value	ValueOutput
+F46 Bandwidth	0	4194304	Value	ValueOutput
+F46 Q	0	4194304	Value	ValueOutput
+F46 Stack	0	4194304	Value	ValueOutput
+F46 On Ch1	0	4194304	Value	ValueOutput
+F46 On Ch2	0	4194304	Value	ValueOutput
+F47 Bypass	0	4194304	Value	ValueOutput
+F47 Freq	0	4194304	Value	ValueOutput
+F47 Gain	0	4194304	Value	ValueOutput
+F47 Bandwidth	0	4194304	Value	ValueOutput
+F47 Q	0	4194304	Value	ValueOutput
+F47 Stack	0	4194304	Value	ValueOutput
+F47 On Ch1	0	4194304	Value	ValueOutput
+F47 On Ch2	0	4194304	Value	ValueOutput
+F48 Bypass	0	4194304	Value	ValueOutput
+F48 Freq	0	4194304	Value	ValueOutput
+F48 Gain	0	4194304	Value	ValueOutput
+F48 Bandwidth	0	4194304	Value	ValueOutput
+F48 Q	0	4194304	Value	ValueOutput
+F48 Stack	0	4194304	Value	ValueOutput
+F48 On Ch1	0	4194304	Value	ValueOutput
+F48 On Ch2	0	4194304	Value	ValueOutput
+F49 Bypass	0	4194304	Value	ValueOutput
+F49 Freq	0	4194304	Value	ValueOutput
+F49 Gain	0	4194304	Value	ValueOutput
+F49 Bandwidth	0	4194304	Value	ValueOutput
+F49 Q	0	4194304	Value	ValueOutput
+F49 Stack	0	4194304	Value	ValueOutput
+F49 On Ch1	0	4194304	Value	ValueOutput
+F49 On Ch2	0	4194304	Value	ValueOutput
+F50 Bypass	0	4194304	Value	ValueOutput
+F50 Freq	0	4194304	Value	ValueOutput
+F50 Gain	0	4194304	Value	ValueOutput
+F50 Bandwidth	0	4194304	Value	ValueOutput
+F50 Q	0	4194304	Value	ValueOutput
+F50 Stack	0	4194304	Value	ValueOutput
+F50 On Ch1	0	4194304	Value	ValueOutput
+F50 On Ch2	0	4194304	Value	ValueOutput
+F51 Bypass	0	4194304	Value	ValueOutput
+F51 Freq	0	4194304	Value	ValueOutput
+F51 Gain	0	4194304	Value	ValueOutput
+F51 Bandwidth	0	4194304	Value	ValueOutput
+F51 Q	0	4194304	Value	ValueOutput
+F51 Stack	0	4194304	Value	ValueOutput
+F51 On Ch1	0	4194304	Value	ValueOutput
+F51 On Ch2	0	4194304	Value	ValueOutput
+F52 Bypass	0	4194304	Value	ValueOutput
+F52 Freq	0	4194304	Value	ValueOutput
+F52 Gain	0	4194304	Value	ValueOutput
+F52 Bandwidth	0	4194304	Value	ValueOutput
+F52 Q	0	4194304	Value	ValueOutput
+F52 Stack	0	4194304	Value	ValueOutput
+F52 On Ch1	0	4194304	Value	ValueOutput
+F52 On Ch2	0	4194304	Value	ValueOutput
+F53 Bypass	0	4194304	Value	ValueOutput
+F53 Freq	0	4194304	Value	ValueOutput
+F53 Gain	0	4194304	Value	ValueOutput
+F53 Bandwidth	0	4194304	Value	ValueOutput
+F53 Q	0	4194304	Value	ValueOutput
+F53 Stack	0	4194304	Value	ValueOutput
+F53 On Ch1	0	4194304	Value	ValueOutput
+F53 On Ch2	0	4194304	Value	ValueOutput
+F54 Bypass	0	4194304	Value	ValueOutput
+F54 Freq	0	4194304	Value	ValueOutput
+F54 Gain	0	4194304	Value	ValueOutput
+F54 Bandwidth	0	4194304	Value	ValueOutput
+F54 Q	0	4194304	Value	ValueOutput
+F54 Stack	0	4194304	Value	ValueOutput
+F54 On Ch1	0	4194304	Value	ValueOutput
+F54 On Ch2	0	4194304	Value	ValueOutput
+F55 Bypass	0	4194304	Value	ValueOutput
+F55 Freq	0	4194304	Value	ValueOutput
+F55 Gain	0	4194304	Value	ValueOutput
+F55 Bandwidth	0	4194304	Value	ValueOutput
+F55 Q	0	4194304	Value	ValueOutput
+F55 Stack	0	4194304	Value	ValueOutput
+F55 On Ch1	0	4194304	Value	ValueOutput
+F55 On Ch2	0	4194304	Value	ValueOutput
+F56 Bypass	0	4194304	Value	ValueOutput
+F56 Freq	0	4194304	Value	ValueOutput
+F56 Gain	0	4194304	Value	ValueOutput
+F56 Bandwidth	0	4194304	Value	ValueOutput
+F56 Q	0	4194304	Value	ValueOutput
+F56 Stack	0	4194304	Value	ValueOutput
+F56 On Ch1	0	4194304	Value	ValueOutput
+F56 On Ch2	0	4194304	Value	ValueOutput
+F57 Bypass	0	4194304	Value	ValueOutput
+F57 Freq	0	4194304	Value	ValueOutput
+F57 Gain	0	4194304	Value	ValueOutput
+F57 Bandwidth	0	4194304	Value	ValueOutput
+F57 Q	0	4194304	Value	ValueOutput
+F57 Stack	0	4194304	Value	ValueOutput
+F57 On Ch1	0	4194304	Value	ValueOutput
+F57 On Ch2	0	4194304	Value	ValueOutput
+F58 Bypass	0	4194304	Value	ValueOutput
+F58 Freq	0	4194304	Value	ValueOutput
+F58 Gain	0	4194304	Value	ValueOutput
+F58 Bandwidth	0	4194304	Value	ValueOutput
+F58 Q	0	4194304	Value	ValueOutput
+F58 Stack	0	4194304	Value	ValueOutput
+F58 On Ch1	0	4194304	Value	ValueOutput
+F58 On Ch2	0	4194304	Value	ValueOutput
+F59 Bypass	0	4194304	Value	ValueOutput
+F59 Freq	0	4194304	Value	ValueOutput
+F59 Gain	0	4194304	Value	ValueOutput
+F59 Bandwidth	0	4194304	Value	ValueOutput
+F59 Q	0	4194304	Value	ValueOutput
+F59 Stack	0	4194304	Value	ValueOutput
+F59 On Ch1	0	4194304	Value	ValueOutput
+F59 On Ch2	0	4194304	Value	ValueOutput
+F60 Bypass	0	4194304	Value	ValueOutput
+F60 Freq	0	4194304	Value	ValueOutput
+F60 Gain	0	4194304	Value	ValueOutput
+F60 Bandwidth	0	4194304	Value	ValueOutput
+F60 Q	0	4194304	Value	ValueOutput
+F60 Stack	0	4194304	Value	ValueOutput
+F60 On Ch1	0	4194304	Value	ValueOutput
+F60 On Ch2	0	4194304	Value	ValueOutput
+F61 Bypass	0	4194304	Value	ValueOutput
+F61 Freq	0	4194304	Value	ValueOutput
+F61 Gain	0	4194304	Value	ValueOutput
+F61 Bandwidth	0	4194304	Value	ValueOutput
+F61 Q	0	4194304	Value	ValueOutput
+F61 Stack	0	4194304	Value	ValueOutput
+F61 On Ch1	0	4194304	Value	ValueOutput
+F61 On Ch2	0	4194304	Value	ValueOutput
+F62 Bypass	0	4194304	Value	ValueOutput
+F62 Freq	0	4194304	Value	ValueOutput
+F62 Gain	0	4194304	Value	ValueOutput
+F62 Bandwidth	0	4194304	Value	ValueOutput
+F62 Q	0	4194304	Value	ValueOutput
+F62 Stack	0	4194304	Value	ValueOutput
+F62 On Ch1	0	4194304	Value	ValueOutput
+F62 On Ch2	0	4194304	Value	ValueOutput
+F63 Bypass	0	4194304	Value	ValueOutput
+F63 Freq	0	4194304	Value	ValueOutput
+F63 Gain	0	4194304	Value	ValueOutput
+F63 Bandwidth	0	4194304	Value	ValueOutput
+F63 Q	0	4194304	Value	ValueOutput
+F63 Stack	0	4194304	Value	ValueOutput
+F63 On Ch1	0	4194304	Value	ValueOutput
+F63 On Ch2	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

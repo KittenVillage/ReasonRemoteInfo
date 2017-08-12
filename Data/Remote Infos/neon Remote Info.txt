@@ -1,0 +1,37 @@
+Scope
+Manufacturer	Model
+Steinberg Media Technologies	vst.aMiS.neon
+Note: Will match scope definitions for vst.aMiS.neon or vst.aMiS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+OscRang	0	4194304	Value	ValueOutput
+OscWave	0	4194304	Value	ValueOutput
+Osc2Det	0	4194304	Value	ValueOutput
+LfoFreq	0	4194304	Value	ValueOutput
+VcfCut	0	4194304	Value	ValueOutput
+VcfReso	0	4194304	Value	ValueOutput
+VcfAtt	0	4194304	Value	ValueOutput
+VcfDec	0	4194304	Value	ValueOutput
+VcfSus	0	4194304	Value	ValueOutput
+VcfRel	0	4194304	Value	ValueOutput
+VcaAtt	0	4194304	Value	ValueOutput
+VcaDec	0	4194304	Value	ValueOutput
+VcaSus	0	4194304	Value	ValueOutput
+VcaRel	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

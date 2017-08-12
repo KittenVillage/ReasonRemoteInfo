@@ -1,0 +1,31 @@
+Scope
+Manufacturer	Model
+Quadelectra Audioworx	com.quadelectra.StereoSplitter
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Mid: Gain	0	4194304	Value	ValueOutput
+Mid: Delay	0	4194304	Value	ValueOutput
+Mid: Delay Left Switch	0	1	Toggle	ValueOutput
+Mid: Delay Right Switch	0	1	Toggle	ValueOutput
+Mid: Enabled	0	1	Toggle	ValueOutput
+Side: Gain	0	4194304	Value	ValueOutput
+Side: Delay	0	4194304	Value	ValueOutput
+Side: Delay Left Switch	0	1	Toggle	ValueOutput
+Side: Delay Right Switch	0	1	Toggle	ValueOutput
+Side: Enabled	0	1	Toggle	ValueOutput
+Invert Mid L Chan.	0	1	Toggle	ValueOutput
+Invert Mid R Chan.	0	1	Toggle	ValueOutput
+Invert Side L Chan.	0	1	Toggle	ValueOutput
+Invert Side R Chan.	0	1	Toggle	ValueOutput
+Pan Mid	0	4194304	Value	ValueOutput
+Pan Side	0	4194304	Value	ValueOutput
+Mono	0	1	Toggle	ValueOutput
+Swap Channels	0	1	Toggle	ValueOutput
+Side Width	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

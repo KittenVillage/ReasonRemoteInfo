@@ -1,0 +1,79 @@
+Scope
+Manufacturer	Model
+Voxengo	vst.y0au.GlissEQ x64
+Note: Will match scope definitions for vst.y0au.GlissEQ x64 or vst.y0au
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Oversmp	0	4194304	Value	ValueOutput
+P1Dynmod	0	4194304	Value	ValueOutput
+P1OGain	0	4194304	Value	ValueOutput
+P1Mode1	0	4194304	Value	ValueOutput
+P1Freq1	0	4194304	Value	ValueOutput
+P1BW1	0	4194304	Value	ValueOutput
+P1Gain1	0	4194304	Value	ValueOutput
+P1Dyn1	0	4194304	Value	ValueOutput
+P1Mode2	0	4194304	Value	ValueOutput
+P1Freq2	0	4194304	Value	ValueOutput
+P1BW2	0	4194304	Value	ValueOutput
+P1Gain2	0	4194304	Value	ValueOutput
+P1Dyn2	0	4194304	Value	ValueOutput
+P1Mode3	0	4194304	Value	ValueOutput
+P1Freq3	0	4194304	Value	ValueOutput
+P1BW3	0	4194304	Value	ValueOutput
+P1Gain3	0	4194304	Value	ValueOutput
+P1Dyn3	0	4194304	Value	ValueOutput
+P1Mode4	0	4194304	Value	ValueOutput
+P1Freq4	0	4194304	Value	ValueOutput
+P1BW4	0	4194304	Value	ValueOutput
+P1Gain4	0	4194304	Value	ValueOutput
+P1Dyn4	0	4194304	Value	ValueOutput
+P1Mode5	0	4194304	Value	ValueOutput
+P1Freq5	0	4194304	Value	ValueOutput
+P1BW5	0	4194304	Value	ValueOutput
+P1Gain5	0	4194304	Value	ValueOutput
+P1Dyn5	0	4194304	Value	ValueOutput
+P2Dynmod	0	4194304	Value	ValueOutput
+P2OGain	0	4194304	Value	ValueOutput
+P2Mode1	0	4194304	Value	ValueOutput
+P2Freq1	0	4194304	Value	ValueOutput
+P2BW1	0	4194304	Value	ValueOutput
+P2Gain1	0	4194304	Value	ValueOutput
+P2Dyn1	0	4194304	Value	ValueOutput
+P2Mode2	0	4194304	Value	ValueOutput
+P2Freq2	0	4194304	Value	ValueOutput
+P2BW2	0	4194304	Value	ValueOutput
+P2Gain2	0	4194304	Value	ValueOutput
+P2Dyn2	0	4194304	Value	ValueOutput
+P2Mode3	0	4194304	Value	ValueOutput
+P2Freq3	0	4194304	Value	ValueOutput
+P2BW3	0	4194304	Value	ValueOutput
+P2Gain3	0	4194304	Value	ValueOutput
+P2Dyn3	0	4194304	Value	ValueOutput
+P2Mode4	0	4194304	Value	ValueOutput
+P2Freq4	0	4194304	Value	ValueOutput
+P2BW4	0	4194304	Value	ValueOutput
+P2Gain4	0	4194304	Value	ValueOutput
+P2Dyn4	0	4194304	Value	ValueOutput
+P2Mode5	0	4194304	Value	ValueOutput
+P2Freq5	0	4194304	Value	ValueOutput
+P2BW5	0	4194304	Value	ValueOutput
+P2Gain5	0	4194304	Value	ValueOutput
+P2Dyn5	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

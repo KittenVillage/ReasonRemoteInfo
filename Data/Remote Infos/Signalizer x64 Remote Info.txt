@@ -1,0 +1,215 @@
+Scope
+Manufacturer	Model
+Lightbridge	vst.Sign.Signalizer x64
+Note: Will match scope definitions for vst.Sign.Signalizer x64 or vst.Sign
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+VS.AutoGain	0	4194304	Value	ValueOutput
+VS.OpMode	0	4194304	Value	ValueOutput
+VS.EnvWindow	0	4194304	Value	ValueOutput
+VS.StereoWindow	0	4194304	Value	ValueOutput
+VS.InputGain	0	4194304	Value	ValueOutput
+VS.WindowSize	0	4194304	Value	ValueOutput
+VS.WaveZ	0	4194304	Value	ValueOutput
+VS.AntiAlias	0	4194304	Value	ValueOutput
+VS.FadeOld	0	4194304	Value	ValueOutput
+VS.Interconnect	0	4194304	Value	ValueOutput
+VS.Diagnostics	0	4194304	Value	ValueOutput
+VS.PixelSize	0	4194304	Value	ValueOutput
+VS.Draw.C.R	0	4194304	Value	ValueOutput
+VS.Draw.C.G	0	4194304	Value	ValueOutput
+VS.Draw.C.B	0	4194304	Value	ValueOutput
+VS.Draw.C.A	0	4194304	Value	ValueOutput
+VS.Graph.C.R	0	4194304	Value	ValueOutput
+VS.Graph.C.G	0	4194304	Value	ValueOutput
+VS.Graph.C.B	0	4194304	Value	ValueOutput
+VS.Graph.C.A	0	4194304	Value	ValueOutput
+VS.BackG.C.R	0	4194304	Value	ValueOutput
+VS.BackG.C.G	0	4194304	Value	ValueOutput
+VS.BackG.C.B	0	4194304	Value	ValueOutput
+VS.BackG.C.A	0	4194304	Value	ValueOutput
+VS.Skelt.C.R	0	4194304	Value	ValueOutput
+VS.Skelt.C.G	0	4194304	Value	ValueOutput
+VS.Skelt.C.B	0	4194304	Value	ValueOutput
+VS.Skelt.C.A	0	4194304	Value	ValueOutput
+VS.Meter.C.R	0	4194304	Value	ValueOutput
+VS.Meter.C.G	0	4194304	Value	ValueOutput
+VS.Meter.C.B	0	4194304	Value	ValueOutput
+VS.Meter.C.A	0	4194304	Value	ValueOutput
+VS.3D.Tsf.Pos.X	0	4194304	Value	ValueOutput
+VS.3D.Tsf.Pos.Y	0	4194304	Value	ValueOutput
+VS.3D.Tsf.Pos.Z	0	4194304	Value	ValueOutput
+VS.3D.Tsf.Rot.X	0	4194304	Value	ValueOutput
+VS.3D.Tsf.Rot.Y	0	4194304	Value	ValueOutput
+VS.3D.Tsf.Rot.Z	0	4194304	Value	ValueOutput
+VS.3D.Tsf.Scl.X	0	4194304	Value	ValueOutput
+VS.3D.Tsf.Scl.Y	0	4194304	Value	ValueOutput
+VS.3D.Tsf.Scl.Z	0	4194304	Value	ValueOutput
+OS.AutoGain	0	4194304	Value	ValueOutput
+OS.EnvWindow	0	4194304	Value	ValueOutput
+OS.InputGain	0	4194304	Value	ValueOutput
+OS.WindowSize	0	4194304	Value	ValueOutput
+OS.AntiAlias	0	4194304	Value	ValueOutput
+OS.Diagnostics	0	4194304	Value	ValueOutput
+OS.PixelSize	0	4194304	Value	ValueOutput
+OS.SampleIntp	0	4194304	Value	ValueOutput
+OS.ChConf	0	4194304	Value	ValueOutput
+OS.PctDiv	0	4194304	Value	ValueOutput
+OS.TrgPhase	0	4194304	Value	ValueOutput
+OS.TrgMode	0	4194304	Value	ValueOutput
+OS.TimeMode	0	4194304	Value	ValueOutput
+OS.DotSmps	0	4194304	Value	ValueOutput
+OS.CustomTrg	0	4194304	Value	ValueOutput
+OS.TrgFreq	0	4194304	Value	ValueOutput
+OS.Overlay	0	4194304	Value	ValueOutput
+OS.Colouring	0	4194304	Value	ValueOutput
+OS.ColSmooth	0	4194304	Value	ValueOutput
+OS.CursorTrck	0	4194304	Value	ValueOutput
+OS.FColBlend	0	4194304	Value	ValueOutput
+OS.TrgHstrs	0	4194304	Value	ValueOutput
+OS.TrgThrhold	0	4194304	Value	ValueOutput
+OS.ViewLeft	0	4194304	Value	ValueOutput
+OS.ViewTop	0	4194304	Value	ValueOutput
+OS.ViewRight	0	4194304	Value	ValueOutput
+OS.ViewBottom	0	4194304	Value	ValueOutput
+OS.Prim.C.R	0	4194304	Value	ValueOutput
+OS.Prim.C.G	0	4194304	Value	ValueOutput
+OS.Prim.C.B	0	4194304	Value	ValueOutput
+OS.Prim.C.A	0	4194304	Value	ValueOutput
+OS.Sec.C.R	0	4194304	Value	ValueOutput
+OS.Sec.C.G	0	4194304	Value	ValueOutput
+OS.Sec.C.B	0	4194304	Value	ValueOutput
+OS.Sec.C.A	0	4194304	Value	ValueOutput
+OS.Graph.C.R	0	4194304	Value	ValueOutput
+OS.Graph.C.G	0	4194304	Value	ValueOutput
+OS.Graph.C.B	0	4194304	Value	ValueOutput
+OS.Graph.C.A	0	4194304	Value	ValueOutput
+OS.BackG.C.R	0	4194304	Value	ValueOutput
+OS.BackG.C.G	0	4194304	Value	ValueOutput
+OS.BackG.C.B	0	4194304	Value	ValueOutput
+OS.BackG.C.A	0	4194304	Value	ValueOutput
+OS.Low.C.R	0	4194304	Value	ValueOutput
+OS.Low.C.G	0	4194304	Value	ValueOutput
+OS.Low.C.B	0	4194304	Value	ValueOutput
+OS.Low.C.A	0	4194304	Value	ValueOutput
+OS.Mid.C.R	0	4194304	Value	ValueOutput
+OS.Mid.C.G	0	4194304	Value	ValueOutput
+OS.Mid.C.B	0	4194304	Value	ValueOutput
+OS.Mid.C.A	0	4194304	Value	ValueOutput
+OS.High.C.R	0	4194304	Value	ValueOutput
+OS.High.C.G	0	4194304	Value	ValueOutput
+OS.High.C.B	0	4194304	Value	ValueOutput
+OS.High.C.A	0	4194304	Value	ValueOutput
+OS.Trckr.C.R	0	4194304	Value	ValueOutput
+OS.Trckr.C.G	0	4194304	Value	ValueOutput
+OS.Trckr.C.B	0	4194304	Value	ValueOutput
+OS.Trckr.C.A	0	4194304	Value	ValueOutput
+OS.3D.Tsf.Pos.X	0	4194304	Value	ValueOutput
+OS.3D.Tsf.Pos.Y	0	4194304	Value	ValueOutput
+OS.3D.Tsf.Pos.Z	0	4194304	Value	ValueOutput
+OS.3D.Tsf.Rot.X	0	4194304	Value	ValueOutput
+OS.3D.Tsf.Rot.Y	0	4194304	Value	ValueOutput
+OS.3D.Tsf.Rot.Z	0	4194304	Value	ValueOutput
+OS.3D.Tsf.Scl.X	0	4194304	Value	ValueOutput
+OS.3D.Tsf.Scl.Y	0	4194304	Value	ValueOutput
+OS.3D.Tsf.Scl.Z	0	4194304	Value	ValueOutput
+SC.LowDBs	0	4194304	Value	ValueOutput
+SC.HighDBs	0	4194304	Value	ValueOutput
+SC.WindowSize	0	4194304	Value	ValueOutput
+SC.PctDiv	0	4194304	Value	ValueOutput
+SC.BlobSize	0	4194304	Value	ValueOutput
+SC.FrmSmooth	0	4194304	Value	ValueOutput
+SC.SpcStretch	0	4194304	Value	ValueOutput
+SC.PrtSize	0	4194304	Value	ValueOutput
+SC.AlphaFill	0	4194304	Value	ValueOutput
+SC.RefTuning	0	4194304	Value	ValueOutput
+SC.ViewLeft	0	4194304	Value	ValueOutput
+SC.ViewRight	0	4194304	Value	ValueOutput
+SC.Diagnostics	0	4194304	Value	ValueOutput
+SC.FreeQ	0	4194304	Value	ValueOutput
+SC.TrckSmth	0	4194304	Value	ValueOutput
+SC.VScale	0	4194304	Value	ValueOutput
+SC.Algo	0	4194304	Value	ValueOutput
+SC.ChConf	0	4194304	Value	ValueOutput
+SC.DispMode	0	4194304	Value	ValueOutput
+SC.BinInt	0	4194304	Value	ValueOutput
+SC.FTracker	0	4194304	Value	ValueOutput
+SC.GradRatio1	0	4194304	Value	ValueOutput
+SC.GradRatio2	0	4194304	Value	ValueOutput
+SC.GradRatio3	0	4194304	Value	ValueOutput
+SC.GradRatio4	0	4194304	Value	ValueOutput
+SC.GradRatio5	0	4194304	Value	ValueOutput
+SC.DWin.DW.Tp	0	4194304	Value	ValueOutput
+SC.DWin.DW.Shp	0	4194304	Value	ValueOutput
+SC.DWin.DW.A	0	4194304	Value	ValueOutput
+SC.DWin.DW.B	0	4194304	Value	ValueOutput
+SC.Slope.PF.Bs	0	4194304	Value	ValueOutput
+SC.Slope.PF.Pvt	0	4194304	Value	ValueOutput
+SC.Slope.PF.Slp	0	4194304	Value	ValueOutput
+SC.Grid.C.R	0	4194304	Value	ValueOutput
+SC.Grid.C.G	0	4194304	Value	ValueOutput
+SC.Grid.C.B	0	4194304	Value	ValueOutput
+SC.Grid.C.A	0	4194304	Value	ValueOutput
+SC.Bck.C.R	0	4194304	Value	ValueOutput
+SC.Bck.C.G	0	4194304	Value	ValueOutput
+SC.Bck.C.B	0	4194304	Value	ValueOutput
+SC.Bck.C.A	0	4194304	Value	ValueOutput
+SC.Trck.C.R	0	4194304	Value	ValueOutput
+SC.Trck.C.G	0	4194304	Value	ValueOutput
+SC.Trck.C.B	0	4194304	Value	ValueOutput
+SC.Trck.C.A	0	4194304	Value	ValueOutput
+SC.Grdnt1.C.R	0	4194304	Value	ValueOutput
+SC.Grdnt1.C.G	0	4194304	Value	ValueOutput
+SC.Grdnt1.C.B	0	4194304	Value	ValueOutput
+SC.Grdnt1.C.A	0	4194304	Value	ValueOutput
+SC.Grdnt2.C.R	0	4194304	Value	ValueOutput
+SC.Grdnt2.C.G	0	4194304	Value	ValueOutput
+SC.Grdnt2.C.B	0	4194304	Value	ValueOutput
+SC.Grdnt2.C.A	0	4194304	Value	ValueOutput
+SC.Grdnt3.C.R	0	4194304	Value	ValueOutput
+SC.Grdnt3.C.G	0	4194304	Value	ValueOutput
+SC.Grdnt3.C.B	0	4194304	Value	ValueOutput
+SC.Grdnt3.C.A	0	4194304	Value	ValueOutput
+SC.Grdnt4.C.R	0	4194304	Value	ValueOutput
+SC.Grdnt4.C.G	0	4194304	Value	ValueOutput
+SC.Grdnt4.C.B	0	4194304	Value	ValueOutput
+SC.Grdnt4.C.A	0	4194304	Value	ValueOutput
+SC.Grdnt5.C.R	0	4194304	Value	ValueOutput
+SC.Grdnt5.C.G	0	4194304	Value	ValueOutput
+SC.Grdnt5.C.B	0	4194304	Value	ValueOutput
+SC.Grdnt5.C.A	0	4194304	Value	ValueOutput
+SC.Grph1.Decay	0	4194304	Value	ValueOutput
+SC.Grph1.1.C.R	0	4194304	Value	ValueOutput
+SC.Grph1.1.C.G	0	4194304	Value	ValueOutput
+SC.Grph1.1.C.B	0	4194304	Value	ValueOutput
+SC.Grph1.1.C.A	0	4194304	Value	ValueOutput
+SC.Grph1.2.C.R	0	4194304	Value	ValueOutput
+SC.Grph1.2.C.G	0	4194304	Value	ValueOutput
+SC.Grph1.2.C.B	0	4194304	Value	ValueOutput
+SC.Grph1.2.C.A	0	4194304	Value	ValueOutput
+SC.Grph2.Decay	0	4194304	Value	ValueOutput
+SC.Grph2.1.C.R	0	4194304	Value	ValueOutput
+SC.Grph2.1.C.G	0	4194304	Value	ValueOutput
+SC.Grph2.1.C.B	0	4194304	Value	ValueOutput
+SC.Grph2.1.C.A	0	4194304	Value	ValueOutput
+SC.Grph2.1.C.R	0	4194304	Value	ValueOutput
+SC.Grph2.1.C.G	0	4194304	Value	ValueOutput
+SC.Grph2.1.C.B	0	4194304	Value	ValueOutput
+SC.Grph2.1.C.A	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

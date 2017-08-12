@@ -1,0 +1,2071 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.ASDW.IL DirectWave x64
+Note: Will match scope definitions for vst.ASDW.IL DirectWave x64 or vst.ASDW
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+P01: Master	0	4194304	Value	ValueOutput
+P01: Glide	0	4194304	Value	ValueOutput
+P01: Lf1 Rat	0	4194304	Value	ValueOutput
+P01: Lf1 Phs	0	4194304	Value	ValueOutput
+P01: Lf1 Att	0	4194304	Value	ValueOutput
+P01: Lf2 Rat	0	4194304	Value	ValueOutput
+P01: Lf2 Phs	0	4194304	Value	ValueOutput
+P01: Lf2 Att	0	4194304	Value	ValueOutput
+P01: Del Delay	0	4194304	Value	ValueOutput
+P01: Del Feedback	0	4194304	Value	ValueOutput
+P01: Del Lo Cut	0	4194304	Value	ValueOutput
+P01: Del Hi Cut	0	4194304	Value	ValueOutput
+P01: Rev Room	0	4194304	Value	ValueOutput
+P01: Rev Damp	0	4194304	Value	ValueOutput
+P01: Rev Diff	0	4194304	Value	ValueOutput
+P01: Rev Decay	0	4194304	Value	ValueOutput
+P01: Chr Delay	0	4194304	Value	ValueOutput
+P01: Chr Depth	0	4194304	Value	ValueOutput
+P01: Chr Rate	0	4194304	Value	ValueOutput
+P01: Chr Feedback	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: Mod Val 1	0	4194304	Value	ValueOutput
+P01: Mod Val 2	0	4194304	Value	ValueOutput
+P01: Mod Val 3	0	4194304	Value	ValueOutput
+P01: Mod Val 4	0	4194304	Value	ValueOutput
+P01: Dst Amt A	0	4194304	Value	ValueOutput
+P01: Dst Amt B	0	4194304	Value	ValueOutput
+P01: <Reserved 0>	0	4194304	Value	ValueOutput
+P01: <Reserved 1>	0	4194304	Value	ValueOutput
+P01: Amp Env Att	0	4194304	Value	ValueOutput
+P01: Amp Env Dec	0	4194304	Value	ValueOutput
+P01: Amp Env Sus	0	4194304	Value	ValueOutput
+P01: Amp Env Rel	0	4194304	Value	ValueOutput
+P01: Mod Env Att 1	0	4194304	Value	ValueOutput
+P01: Mod Env Dec 1	0	4194304	Value	ValueOutput
+P01: Mod Env Sus 1	0	4194304	Value	ValueOutput
+P01: Mod Env Rel 1	0	4194304	Value	ValueOutput
+P01: Mod Env Att 2	0	4194304	Value	ValueOutput
+P01: Mod Env Dec 2	0	4194304	Value	ValueOutput
+P01: Mod Env Sus 2	0	4194304	Value	ValueOutput
+P01: Mod Env Rel 2	0	4194304	Value	ValueOutput
+P01: Pitch	0	4194304	Value	ValueOutput
+P01: Amp Gain	0	4194304	Value	ValueOutput
+P01: Amp Pan	0	4194304	Value	ValueOutput
+P01: Flt A Frq	0	4194304	Value	ValueOutput
+P01: Flt A Res	0	4194304	Value	ValueOutput
+P01: Flt A Shp	0	4194304	Value	ValueOutput
+P01: Flt B Frq	0	4194304	Value	ValueOutput
+P01: Flt B Res	0	4194304	Value	ValueOutput
+P01: Flt B Shp	0	4194304	Value	ValueOutput
+P01: Lfo 1 Rat	0	4194304	Value	ValueOutput
+P01: Lfo 1 Phs	0	4194304	Value	ValueOutput
+P01: Lfo 1 Att	0	4194304	Value	ValueOutput
+P01: Lfo 2 Rat	0	4194304	Value	ValueOutput
+P01: Lfo 2 Phs	0	4194304	Value	ValueOutput
+P01: Lfo 2 Att	0	4194304	Value	ValueOutput
+P01: Mod Amt P1-1	0	4194304	Value	ValueOutput
+P01: Mod Amt P1-2	0	4194304	Value	ValueOutput
+P01: Mod Amt P1-3	0	4194304	Value	ValueOutput
+P01: Mod Amt P1-4	0	4194304	Value	ValueOutput
+P01: Mod Amt P2-1	0	4194304	Value	ValueOutput
+P01: Mod Amt P2-2	0	4194304	Value	ValueOutput
+P01: Mod Amt P2-3	0	4194304	Value	ValueOutput
+P01: Mod Amt P2-4	0	4194304	Value	ValueOutput
+P01: Mod Amt P3-1	0	4194304	Value	ValueOutput
+P01: Mod Amt P3-2	0	4194304	Value	ValueOutput
+P01: Mod Amt P3-3	0	4194304	Value	ValueOutput
+P01: Mod Amt P3-4	0	4194304	Value	ValueOutput
+P01: Mod Amt P4-1	0	4194304	Value	ValueOutput
+P01: Mod Amt P4-2	0	4194304	Value	ValueOutput
+P01: Mod Amt P4-3	0	4194304	Value	ValueOutput
+P01: Mod Amt P4-4	0	4194304	Value	ValueOutput
+P01: Efx Rng Rat	0	4194304	Value	ValueOutput
+P01: Efx Rng Mix	0	4194304	Value	ValueOutput
+P01: Efx Dec Stp	0	4194304	Value	ValueOutput
+P01: Efx Dec Mix	0	4194304	Value	ValueOutput
+P01: Efx Bit Qnt	0	4194304	Value	ValueOutput
+P01: Efx Bit Mix	0	4194304	Value	ValueOutput
+P01: Efx Phs Frq	0	4194304	Value	ValueOutput
+P01: Efx Phs Mix	0	4194304	Value	ValueOutput
+P01: Mix Del Amt	0	4194304	Value	ValueOutput
+P01: Mix Chr Amt	0	4194304	Value	ValueOutput
+P01: Mix Rev Amt	0	4194304	Value	ValueOutput
+P01: Mix Dry Amt	0	4194304	Value	ValueOutput
+P01: Tsr Tim Amt	0	4194304	Value	ValueOutput
+P01: Tsr Grn Amt	0	4194304	Value	ValueOutput
+P01: Tsr Sth Amt	0	4194304	Value	ValueOutput
+P01: Tsr Rsv Amt	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: Smpl Offset	0	4194304	Value	ValueOutput
+P01: Smpl Loop A	0	4194304	Value	ValueOutput
+P01: Smpl Loop B	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: ---	0	4194304	Value	ValueOutput
+P01: #Cc Pit Bnd	0	4194304	Value	ValueOutput
+P01: #Cc Mod Whl	0	4194304	Value	ValueOutput
+P01: #Cc Mst Vol	0	4194304	Value	ValueOutput
+P01: #Cc Mst Pan	0	4194304	Value	ValueOutput
+P01: #Cc Mst Exp	0	4194304	Value	ValueOutput
+P01: #Cc Res 005	0	4194304	Value	ValueOutput
+P01: #Cc Res 006	0	4194304	Value	ValueOutput
+P01: #Cc Res 007	0	4194304	Value	ValueOutput
+P01: #Cc Res 008	0	4194304	Value	ValueOutput
+P01: #Cc Res 009	0	4194304	Value	ValueOutput
+P01: #Cc Res 010	0	4194304	Value	ValueOutput
+P01: #Cc Res 011	0	4194304	Value	ValueOutput
+P01: #Cc Res 012	0	4194304	Value	ValueOutput
+P01: #Cc Res 013	0	4194304	Value	ValueOutput
+P01: #Cc Res 014	0	4194304	Value	ValueOutput
+P01: #Cc Res 015	0	4194304	Value	ValueOutput
+P02: Master	0	4194304	Value	ValueOutput
+P02: Glide	0	4194304	Value	ValueOutput
+P02: Lf1 Rat	0	4194304	Value	ValueOutput
+P02: Lf1 Phs	0	4194304	Value	ValueOutput
+P02: Lf1 Att	0	4194304	Value	ValueOutput
+P02: Lf2 Rat	0	4194304	Value	ValueOutput
+P02: Lf2 Phs	0	4194304	Value	ValueOutput
+P02: Lf2 Att	0	4194304	Value	ValueOutput
+P02: Del Delay	0	4194304	Value	ValueOutput
+P02: Del Feedback	0	4194304	Value	ValueOutput
+P02: Del Lo Cut	0	4194304	Value	ValueOutput
+P02: Del Hi Cut	0	4194304	Value	ValueOutput
+P02: Rev Room	0	4194304	Value	ValueOutput
+P02: Rev Damp	0	4194304	Value	ValueOutput
+P02: Rev Diff	0	4194304	Value	ValueOutput
+P02: Rev Decay	0	4194304	Value	ValueOutput
+P02: Chr Delay	0	4194304	Value	ValueOutput
+P02: Chr Depth	0	4194304	Value	ValueOutput
+P02: Chr Rate	0	4194304	Value	ValueOutput
+P02: Chr Feedback	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: Mod Val 1	0	4194304	Value	ValueOutput
+P02: Mod Val 2	0	4194304	Value	ValueOutput
+P02: Mod Val 3	0	4194304	Value	ValueOutput
+P02: Mod Val 4	0	4194304	Value	ValueOutput
+P02: Dst Amt A	0	4194304	Value	ValueOutput
+P02: Dst Amt B	0	4194304	Value	ValueOutput
+P02: <Reserved 0>	0	4194304	Value	ValueOutput
+P02: <Reserved 1>	0	4194304	Value	ValueOutput
+P02: Amp Env Att	0	4194304	Value	ValueOutput
+P02: Amp Env Dec	0	4194304	Value	ValueOutput
+P02: Amp Env Sus	0	4194304	Value	ValueOutput
+P02: Amp Env Rel	0	4194304	Value	ValueOutput
+P02: Mod Env Att 1	0	4194304	Value	ValueOutput
+P02: Mod Env Dec 1	0	4194304	Value	ValueOutput
+P02: Mod Env Sus 1	0	4194304	Value	ValueOutput
+P02: Mod Env Rel 1	0	4194304	Value	ValueOutput
+P02: Mod Env Att 2	0	4194304	Value	ValueOutput
+P02: Mod Env Dec 2	0	4194304	Value	ValueOutput
+P02: Mod Env Sus 2	0	4194304	Value	ValueOutput
+P02: Mod Env Rel 2	0	4194304	Value	ValueOutput
+P02: Pitch	0	4194304	Value	ValueOutput
+P02: Amp Gain	0	4194304	Value	ValueOutput
+P02: Amp Pan	0	4194304	Value	ValueOutput
+P02: Flt A Frq	0	4194304	Value	ValueOutput
+P02: Flt A Res	0	4194304	Value	ValueOutput
+P02: Flt A Shp	0	4194304	Value	ValueOutput
+P02: Flt B Frq	0	4194304	Value	ValueOutput
+P02: Flt B Res	0	4194304	Value	ValueOutput
+P02: Flt B Shp	0	4194304	Value	ValueOutput
+P02: Lfo 1 Rat	0	4194304	Value	ValueOutput
+P02: Lfo 1 Phs	0	4194304	Value	ValueOutput
+P02: Lfo 1 Att	0	4194304	Value	ValueOutput
+P02: Lfo 2 Rat	0	4194304	Value	ValueOutput
+P02: Lfo 2 Phs	0	4194304	Value	ValueOutput
+P02: Lfo 2 Att	0	4194304	Value	ValueOutput
+P02: Mod Amt P1-1	0	4194304	Value	ValueOutput
+P02: Mod Amt P1-2	0	4194304	Value	ValueOutput
+P02: Mod Amt P1-3	0	4194304	Value	ValueOutput
+P02: Mod Amt P1-4	0	4194304	Value	ValueOutput
+P02: Mod Amt P2-1	0	4194304	Value	ValueOutput
+P02: Mod Amt P2-2	0	4194304	Value	ValueOutput
+P02: Mod Amt P2-3	0	4194304	Value	ValueOutput
+P02: Mod Amt P2-4	0	4194304	Value	ValueOutput
+P02: Mod Amt P3-1	0	4194304	Value	ValueOutput
+P02: Mod Amt P3-2	0	4194304	Value	ValueOutput
+P02: Mod Amt P3-3	0	4194304	Value	ValueOutput
+P02: Mod Amt P3-4	0	4194304	Value	ValueOutput
+P02: Mod Amt P4-1	0	4194304	Value	ValueOutput
+P02: Mod Amt P4-2	0	4194304	Value	ValueOutput
+P02: Mod Amt P4-3	0	4194304	Value	ValueOutput
+P02: Mod Amt P4-4	0	4194304	Value	ValueOutput
+P02: Efx Rng Rat	0	4194304	Value	ValueOutput
+P02: Efx Rng Mix	0	4194304	Value	ValueOutput
+P02: Efx Dec Stp	0	4194304	Value	ValueOutput
+P02: Efx Dec Mix	0	4194304	Value	ValueOutput
+P02: Efx Bit Qnt	0	4194304	Value	ValueOutput
+P02: Efx Bit Mix	0	4194304	Value	ValueOutput
+P02: Efx Phs Frq	0	4194304	Value	ValueOutput
+P02: Efx Phs Mix	0	4194304	Value	ValueOutput
+P02: Mix Del Amt	0	4194304	Value	ValueOutput
+P02: Mix Chr Amt	0	4194304	Value	ValueOutput
+P02: Mix Rev Amt	0	4194304	Value	ValueOutput
+P02: Mix Dry Amt	0	4194304	Value	ValueOutput
+P02: Tsr Tim Amt	0	4194304	Value	ValueOutput
+P02: Tsr Grn Amt	0	4194304	Value	ValueOutput
+P02: Tsr Sth Amt	0	4194304	Value	ValueOutput
+P02: Tsr Rsv Amt	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: Smpl Offset	0	4194304	Value	ValueOutput
+P02: Smpl Loop A	0	4194304	Value	ValueOutput
+P02: Smpl Loop B	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: ---	0	4194304	Value	ValueOutput
+P02: #Cc Pit Bnd	0	4194304	Value	ValueOutput
+P02: #Cc Mod Whl	0	4194304	Value	ValueOutput
+P02: #Cc Mst Vol	0	4194304	Value	ValueOutput
+P02: #Cc Mst Pan	0	4194304	Value	ValueOutput
+P02: #Cc Mst Exp	0	4194304	Value	ValueOutput
+P02: #Cc Res 005	0	4194304	Value	ValueOutput
+P02: #Cc Res 006	0	4194304	Value	ValueOutput
+P02: #Cc Res 007	0	4194304	Value	ValueOutput
+P02: #Cc Res 008	0	4194304	Value	ValueOutput
+P02: #Cc Res 009	0	4194304	Value	ValueOutput
+P02: #Cc Res 010	0	4194304	Value	ValueOutput
+P02: #Cc Res 011	0	4194304	Value	ValueOutput
+P02: #Cc Res 012	0	4194304	Value	ValueOutput
+P02: #Cc Res 013	0	4194304	Value	ValueOutput
+P02: #Cc Res 014	0	4194304	Value	ValueOutput
+P02: #Cc Res 015	0	4194304	Value	ValueOutput
+P03: Master	0	4194304	Value	ValueOutput
+P03: Glide	0	4194304	Value	ValueOutput
+P03: Lf1 Rat	0	4194304	Value	ValueOutput
+P03: Lf1 Phs	0	4194304	Value	ValueOutput
+P03: Lf1 Att	0	4194304	Value	ValueOutput
+P03: Lf2 Rat	0	4194304	Value	ValueOutput
+P03: Lf2 Phs	0	4194304	Value	ValueOutput
+P03: Lf2 Att	0	4194304	Value	ValueOutput
+P03: Del Delay	0	4194304	Value	ValueOutput
+P03: Del Feedback	0	4194304	Value	ValueOutput
+P03: Del Lo Cut	0	4194304	Value	ValueOutput
+P03: Del Hi Cut	0	4194304	Value	ValueOutput
+P03: Rev Room	0	4194304	Value	ValueOutput
+P03: Rev Damp	0	4194304	Value	ValueOutput
+P03: Rev Diff	0	4194304	Value	ValueOutput
+P03: Rev Decay	0	4194304	Value	ValueOutput
+P03: Chr Delay	0	4194304	Value	ValueOutput
+P03: Chr Depth	0	4194304	Value	ValueOutput
+P03: Chr Rate	0	4194304	Value	ValueOutput
+P03: Chr Feedback	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: Mod Val 1	0	4194304	Value	ValueOutput
+P03: Mod Val 2	0	4194304	Value	ValueOutput
+P03: Mod Val 3	0	4194304	Value	ValueOutput
+P03: Mod Val 4	0	4194304	Value	ValueOutput
+P03: Dst Amt A	0	4194304	Value	ValueOutput
+P03: Dst Amt B	0	4194304	Value	ValueOutput
+P03: <Reserved 0>	0	4194304	Value	ValueOutput
+P03: <Reserved 1>	0	4194304	Value	ValueOutput
+P03: Amp Env Att	0	4194304	Value	ValueOutput
+P03: Amp Env Dec	0	4194304	Value	ValueOutput
+P03: Amp Env Sus	0	4194304	Value	ValueOutput
+P03: Amp Env Rel	0	4194304	Value	ValueOutput
+P03: Mod Env Att 1	0	4194304	Value	ValueOutput
+P03: Mod Env Dec 1	0	4194304	Value	ValueOutput
+P03: Mod Env Sus 1	0	4194304	Value	ValueOutput
+P03: Mod Env Rel 1	0	4194304	Value	ValueOutput
+P03: Mod Env Att 2	0	4194304	Value	ValueOutput
+P03: Mod Env Dec 2	0	4194304	Value	ValueOutput
+P03: Mod Env Sus 2	0	4194304	Value	ValueOutput
+P03: Mod Env Rel 2	0	4194304	Value	ValueOutput
+P03: Pitch	0	4194304	Value	ValueOutput
+P03: Amp Gain	0	4194304	Value	ValueOutput
+P03: Amp Pan	0	4194304	Value	ValueOutput
+P03: Flt A Frq	0	4194304	Value	ValueOutput
+P03: Flt A Res	0	4194304	Value	ValueOutput
+P03: Flt A Shp	0	4194304	Value	ValueOutput
+P03: Flt B Frq	0	4194304	Value	ValueOutput
+P03: Flt B Res	0	4194304	Value	ValueOutput
+P03: Flt B Shp	0	4194304	Value	ValueOutput
+P03: Lfo 1 Rat	0	4194304	Value	ValueOutput
+P03: Lfo 1 Phs	0	4194304	Value	ValueOutput
+P03: Lfo 1 Att	0	4194304	Value	ValueOutput
+P03: Lfo 2 Rat	0	4194304	Value	ValueOutput
+P03: Lfo 2 Phs	0	4194304	Value	ValueOutput
+P03: Lfo 2 Att	0	4194304	Value	ValueOutput
+P03: Mod Amt P1-1	0	4194304	Value	ValueOutput
+P03: Mod Amt P1-2	0	4194304	Value	ValueOutput
+P03: Mod Amt P1-3	0	4194304	Value	ValueOutput
+P03: Mod Amt P1-4	0	4194304	Value	ValueOutput
+P03: Mod Amt P2-1	0	4194304	Value	ValueOutput
+P03: Mod Amt P2-2	0	4194304	Value	ValueOutput
+P03: Mod Amt P2-3	0	4194304	Value	ValueOutput
+P03: Mod Amt P2-4	0	4194304	Value	ValueOutput
+P03: Mod Amt P3-1	0	4194304	Value	ValueOutput
+P03: Mod Amt P3-2	0	4194304	Value	ValueOutput
+P03: Mod Amt P3-3	0	4194304	Value	ValueOutput
+P03: Mod Amt P3-4	0	4194304	Value	ValueOutput
+P03: Mod Amt P4-1	0	4194304	Value	ValueOutput
+P03: Mod Amt P4-2	0	4194304	Value	ValueOutput
+P03: Mod Amt P4-3	0	4194304	Value	ValueOutput
+P03: Mod Amt P4-4	0	4194304	Value	ValueOutput
+P03: Efx Rng Rat	0	4194304	Value	ValueOutput
+P03: Efx Rng Mix	0	4194304	Value	ValueOutput
+P03: Efx Dec Stp	0	4194304	Value	ValueOutput
+P03: Efx Dec Mix	0	4194304	Value	ValueOutput
+P03: Efx Bit Qnt	0	4194304	Value	ValueOutput
+P03: Efx Bit Mix	0	4194304	Value	ValueOutput
+P03: Efx Phs Frq	0	4194304	Value	ValueOutput
+P03: Efx Phs Mix	0	4194304	Value	ValueOutput
+P03: Mix Del Amt	0	4194304	Value	ValueOutput
+P03: Mix Chr Amt	0	4194304	Value	ValueOutput
+P03: Mix Rev Amt	0	4194304	Value	ValueOutput
+P03: Mix Dry Amt	0	4194304	Value	ValueOutput
+P03: Tsr Tim Amt	0	4194304	Value	ValueOutput
+P03: Tsr Grn Amt	0	4194304	Value	ValueOutput
+P03: Tsr Sth Amt	0	4194304	Value	ValueOutput
+P03: Tsr Rsv Amt	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: Smpl Offset	0	4194304	Value	ValueOutput
+P03: Smpl Loop A	0	4194304	Value	ValueOutput
+P03: Smpl Loop B	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: ---	0	4194304	Value	ValueOutput
+P03: #Cc Pit Bnd	0	4194304	Value	ValueOutput
+P03: #Cc Mod Whl	0	4194304	Value	ValueOutput
+P03: #Cc Mst Vol	0	4194304	Value	ValueOutput
+P03: #Cc Mst Pan	0	4194304	Value	ValueOutput
+P03: #Cc Mst Exp	0	4194304	Value	ValueOutput
+P03: #Cc Res 005	0	4194304	Value	ValueOutput
+P03: #Cc Res 006	0	4194304	Value	ValueOutput
+P03: #Cc Res 007	0	4194304	Value	ValueOutput
+P03: #Cc Res 008	0	4194304	Value	ValueOutput
+P03: #Cc Res 009	0	4194304	Value	ValueOutput
+P03: #Cc Res 010	0	4194304	Value	ValueOutput
+P03: #Cc Res 011	0	4194304	Value	ValueOutput
+P03: #Cc Res 012	0	4194304	Value	ValueOutput
+P03: #Cc Res 013	0	4194304	Value	ValueOutput
+P03: #Cc Res 014	0	4194304	Value	ValueOutput
+P03: #Cc Res 015	0	4194304	Value	ValueOutput
+P04: Master	0	4194304	Value	ValueOutput
+P04: Glide	0	4194304	Value	ValueOutput
+P04: Lf1 Rat	0	4194304	Value	ValueOutput
+P04: Lf1 Phs	0	4194304	Value	ValueOutput
+P04: Lf1 Att	0	4194304	Value	ValueOutput
+P04: Lf2 Rat	0	4194304	Value	ValueOutput
+P04: Lf2 Phs	0	4194304	Value	ValueOutput
+P04: Lf2 Att	0	4194304	Value	ValueOutput
+P04: Del Delay	0	4194304	Value	ValueOutput
+P04: Del Feedback	0	4194304	Value	ValueOutput
+P04: Del Lo Cut	0	4194304	Value	ValueOutput
+P04: Del Hi Cut	0	4194304	Value	ValueOutput
+P04: Rev Room	0	4194304	Value	ValueOutput
+P04: Rev Damp	0	4194304	Value	ValueOutput
+P04: Rev Diff	0	4194304	Value	ValueOutput
+P04: Rev Decay	0	4194304	Value	ValueOutput
+P04: Chr Delay	0	4194304	Value	ValueOutput
+P04: Chr Depth	0	4194304	Value	ValueOutput
+P04: Chr Rate	0	4194304	Value	ValueOutput
+P04: Chr Feedback	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: Mod Val 1	0	4194304	Value	ValueOutput
+P04: Mod Val 2	0	4194304	Value	ValueOutput
+P04: Mod Val 3	0	4194304	Value	ValueOutput
+P04: Mod Val 4	0	4194304	Value	ValueOutput
+P04: Dst Amt A	0	4194304	Value	ValueOutput
+P04: Dst Amt B	0	4194304	Value	ValueOutput
+P04: <Reserved 0>	0	4194304	Value	ValueOutput
+P04: <Reserved 1>	0	4194304	Value	ValueOutput
+P04: Amp Env Att	0	4194304	Value	ValueOutput
+P04: Amp Env Dec	0	4194304	Value	ValueOutput
+P04: Amp Env Sus	0	4194304	Value	ValueOutput
+P04: Amp Env Rel	0	4194304	Value	ValueOutput
+P04: Mod Env Att 1	0	4194304	Value	ValueOutput
+P04: Mod Env Dec 1	0	4194304	Value	ValueOutput
+P04: Mod Env Sus 1	0	4194304	Value	ValueOutput
+P04: Mod Env Rel 1	0	4194304	Value	ValueOutput
+P04: Mod Env Att 2	0	4194304	Value	ValueOutput
+P04: Mod Env Dec 2	0	4194304	Value	ValueOutput
+P04: Mod Env Sus 2	0	4194304	Value	ValueOutput
+P04: Mod Env Rel 2	0	4194304	Value	ValueOutput
+P04: Pitch	0	4194304	Value	ValueOutput
+P04: Amp Gain	0	4194304	Value	ValueOutput
+P04: Amp Pan	0	4194304	Value	ValueOutput
+P04: Flt A Frq	0	4194304	Value	ValueOutput
+P04: Flt A Res	0	4194304	Value	ValueOutput
+P04: Flt A Shp	0	4194304	Value	ValueOutput
+P04: Flt B Frq	0	4194304	Value	ValueOutput
+P04: Flt B Res	0	4194304	Value	ValueOutput
+P04: Flt B Shp	0	4194304	Value	ValueOutput
+P04: Lfo 1 Rat	0	4194304	Value	ValueOutput
+P04: Lfo 1 Phs	0	4194304	Value	ValueOutput
+P04: Lfo 1 Att	0	4194304	Value	ValueOutput
+P04: Lfo 2 Rat	0	4194304	Value	ValueOutput
+P04: Lfo 2 Phs	0	4194304	Value	ValueOutput
+P04: Lfo 2 Att	0	4194304	Value	ValueOutput
+P04: Mod Amt P1-1	0	4194304	Value	ValueOutput
+P04: Mod Amt P1-2	0	4194304	Value	ValueOutput
+P04: Mod Amt P1-3	0	4194304	Value	ValueOutput
+P04: Mod Amt P1-4	0	4194304	Value	ValueOutput
+P04: Mod Amt P2-1	0	4194304	Value	ValueOutput
+P04: Mod Amt P2-2	0	4194304	Value	ValueOutput
+P04: Mod Amt P2-3	0	4194304	Value	ValueOutput
+P04: Mod Amt P2-4	0	4194304	Value	ValueOutput
+P04: Mod Amt P3-1	0	4194304	Value	ValueOutput
+P04: Mod Amt P3-2	0	4194304	Value	ValueOutput
+P04: Mod Amt P3-3	0	4194304	Value	ValueOutput
+P04: Mod Amt P3-4	0	4194304	Value	ValueOutput
+P04: Mod Amt P4-1	0	4194304	Value	ValueOutput
+P04: Mod Amt P4-2	0	4194304	Value	ValueOutput
+P04: Mod Amt P4-3	0	4194304	Value	ValueOutput
+P04: Mod Amt P4-4	0	4194304	Value	ValueOutput
+P04: Efx Rng Rat	0	4194304	Value	ValueOutput
+P04: Efx Rng Mix	0	4194304	Value	ValueOutput
+P04: Efx Dec Stp	0	4194304	Value	ValueOutput
+P04: Efx Dec Mix	0	4194304	Value	ValueOutput
+P04: Efx Bit Qnt	0	4194304	Value	ValueOutput
+P04: Efx Bit Mix	0	4194304	Value	ValueOutput
+P04: Efx Phs Frq	0	4194304	Value	ValueOutput
+P04: Efx Phs Mix	0	4194304	Value	ValueOutput
+P04: Mix Del Amt	0	4194304	Value	ValueOutput
+P04: Mix Chr Amt	0	4194304	Value	ValueOutput
+P04: Mix Rev Amt	0	4194304	Value	ValueOutput
+P04: Mix Dry Amt	0	4194304	Value	ValueOutput
+P04: Tsr Tim Amt	0	4194304	Value	ValueOutput
+P04: Tsr Grn Amt	0	4194304	Value	ValueOutput
+P04: Tsr Sth Amt	0	4194304	Value	ValueOutput
+P04: Tsr Rsv Amt	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: Smpl Offset	0	4194304	Value	ValueOutput
+P04: Smpl Loop A	0	4194304	Value	ValueOutput
+P04: Smpl Loop B	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: ---	0	4194304	Value	ValueOutput
+P04: #Cc Pit Bnd	0	4194304	Value	ValueOutput
+P04: #Cc Mod Whl	0	4194304	Value	ValueOutput
+P04: #Cc Mst Vol	0	4194304	Value	ValueOutput
+P04: #Cc Mst Pan	0	4194304	Value	ValueOutput
+P04: #Cc Mst Exp	0	4194304	Value	ValueOutput
+P04: #Cc Res 005	0	4194304	Value	ValueOutput
+P04: #Cc Res 006	0	4194304	Value	ValueOutput
+P04: #Cc Res 007	0	4194304	Value	ValueOutput
+P04: #Cc Res 008	0	4194304	Value	ValueOutput
+P04: #Cc Res 009	0	4194304	Value	ValueOutput
+P04: #Cc Res 010	0	4194304	Value	ValueOutput
+P04: #Cc Res 011	0	4194304	Value	ValueOutput
+P04: #Cc Res 012	0	4194304	Value	ValueOutput
+P04: #Cc Res 013	0	4194304	Value	ValueOutput
+P04: #Cc Res 014	0	4194304	Value	ValueOutput
+P04: #Cc Res 015	0	4194304	Value	ValueOutput
+P05: Master	0	4194304	Value	ValueOutput
+P05: Glide	0	4194304	Value	ValueOutput
+P05: Lf1 Rat	0	4194304	Value	ValueOutput
+P05: Lf1 Phs	0	4194304	Value	ValueOutput
+P05: Lf1 Att	0	4194304	Value	ValueOutput
+P05: Lf2 Rat	0	4194304	Value	ValueOutput
+P05: Lf2 Phs	0	4194304	Value	ValueOutput
+P05: Lf2 Att	0	4194304	Value	ValueOutput
+P05: Del Delay	0	4194304	Value	ValueOutput
+P05: Del Feedback	0	4194304	Value	ValueOutput
+P05: Del Lo Cut	0	4194304	Value	ValueOutput
+P05: Del Hi Cut	0	4194304	Value	ValueOutput
+P05: Rev Room	0	4194304	Value	ValueOutput
+P05: Rev Damp	0	4194304	Value	ValueOutput
+P05: Rev Diff	0	4194304	Value	ValueOutput
+P05: Rev Decay	0	4194304	Value	ValueOutput
+P05: Chr Delay	0	4194304	Value	ValueOutput
+P05: Chr Depth	0	4194304	Value	ValueOutput
+P05: Chr Rate	0	4194304	Value	ValueOutput
+P05: Chr Feedback	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: Mod Val 1	0	4194304	Value	ValueOutput
+P05: Mod Val 2	0	4194304	Value	ValueOutput
+P05: Mod Val 3	0	4194304	Value	ValueOutput
+P05: Mod Val 4	0	4194304	Value	ValueOutput
+P05: Dst Amt A	0	4194304	Value	ValueOutput
+P05: Dst Amt B	0	4194304	Value	ValueOutput
+P05: <Reserved 0>	0	4194304	Value	ValueOutput
+P05: <Reserved 1>	0	4194304	Value	ValueOutput
+P05: Amp Env Att	0	4194304	Value	ValueOutput
+P05: Amp Env Dec	0	4194304	Value	ValueOutput
+P05: Amp Env Sus	0	4194304	Value	ValueOutput
+P05: Amp Env Rel	0	4194304	Value	ValueOutput
+P05: Mod Env Att 1	0	4194304	Value	ValueOutput
+P05: Mod Env Dec 1	0	4194304	Value	ValueOutput
+P05: Mod Env Sus 1	0	4194304	Value	ValueOutput
+P05: Mod Env Rel 1	0	4194304	Value	ValueOutput
+P05: Mod Env Att 2	0	4194304	Value	ValueOutput
+P05: Mod Env Dec 2	0	4194304	Value	ValueOutput
+P05: Mod Env Sus 2	0	4194304	Value	ValueOutput
+P05: Mod Env Rel 2	0	4194304	Value	ValueOutput
+P05: Pitch	0	4194304	Value	ValueOutput
+P05: Amp Gain	0	4194304	Value	ValueOutput
+P05: Amp Pan	0	4194304	Value	ValueOutput
+P05: Flt A Frq	0	4194304	Value	ValueOutput
+P05: Flt A Res	0	4194304	Value	ValueOutput
+P05: Flt A Shp	0	4194304	Value	ValueOutput
+P05: Flt B Frq	0	4194304	Value	ValueOutput
+P05: Flt B Res	0	4194304	Value	ValueOutput
+P05: Flt B Shp	0	4194304	Value	ValueOutput
+P05: Lfo 1 Rat	0	4194304	Value	ValueOutput
+P05: Lfo 1 Phs	0	4194304	Value	ValueOutput
+P05: Lfo 1 Att	0	4194304	Value	ValueOutput
+P05: Lfo 2 Rat	0	4194304	Value	ValueOutput
+P05: Lfo 2 Phs	0	4194304	Value	ValueOutput
+P05: Lfo 2 Att	0	4194304	Value	ValueOutput
+P05: Mod Amt P1-1	0	4194304	Value	ValueOutput
+P05: Mod Amt P1-2	0	4194304	Value	ValueOutput
+P05: Mod Amt P1-3	0	4194304	Value	ValueOutput
+P05: Mod Amt P1-4	0	4194304	Value	ValueOutput
+P05: Mod Amt P2-1	0	4194304	Value	ValueOutput
+P05: Mod Amt P2-2	0	4194304	Value	ValueOutput
+P05: Mod Amt P2-3	0	4194304	Value	ValueOutput
+P05: Mod Amt P2-4	0	4194304	Value	ValueOutput
+P05: Mod Amt P3-1	0	4194304	Value	ValueOutput
+P05: Mod Amt P3-2	0	4194304	Value	ValueOutput
+P05: Mod Amt P3-3	0	4194304	Value	ValueOutput
+P05: Mod Amt P3-4	0	4194304	Value	ValueOutput
+P05: Mod Amt P4-1	0	4194304	Value	ValueOutput
+P05: Mod Amt P4-2	0	4194304	Value	ValueOutput
+P05: Mod Amt P4-3	0	4194304	Value	ValueOutput
+P05: Mod Amt P4-4	0	4194304	Value	ValueOutput
+P05: Efx Rng Rat	0	4194304	Value	ValueOutput
+P05: Efx Rng Mix	0	4194304	Value	ValueOutput
+P05: Efx Dec Stp	0	4194304	Value	ValueOutput
+P05: Efx Dec Mix	0	4194304	Value	ValueOutput
+P05: Efx Bit Qnt	0	4194304	Value	ValueOutput
+P05: Efx Bit Mix	0	4194304	Value	ValueOutput
+P05: Efx Phs Frq	0	4194304	Value	ValueOutput
+P05: Efx Phs Mix	0	4194304	Value	ValueOutput
+P05: Mix Del Amt	0	4194304	Value	ValueOutput
+P05: Mix Chr Amt	0	4194304	Value	ValueOutput
+P05: Mix Rev Amt	0	4194304	Value	ValueOutput
+P05: Mix Dry Amt	0	4194304	Value	ValueOutput
+P05: Tsr Tim Amt	0	4194304	Value	ValueOutput
+P05: Tsr Grn Amt	0	4194304	Value	ValueOutput
+P05: Tsr Sth Amt	0	4194304	Value	ValueOutput
+P05: Tsr Rsv Amt	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: Smpl Offset	0	4194304	Value	ValueOutput
+P05: Smpl Loop A	0	4194304	Value	ValueOutput
+P05: Smpl Loop B	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: ---	0	4194304	Value	ValueOutput
+P05: #Cc Pit Bnd	0	4194304	Value	ValueOutput
+P05: #Cc Mod Whl	0	4194304	Value	ValueOutput
+P05: #Cc Mst Vol	0	4194304	Value	ValueOutput
+P05: #Cc Mst Pan	0	4194304	Value	ValueOutput
+P05: #Cc Mst Exp	0	4194304	Value	ValueOutput
+P05: #Cc Res 005	0	4194304	Value	ValueOutput
+P05: #Cc Res 006	0	4194304	Value	ValueOutput
+P05: #Cc Res 007	0	4194304	Value	ValueOutput
+P05: #Cc Res 008	0	4194304	Value	ValueOutput
+P05: #Cc Res 009	0	4194304	Value	ValueOutput
+P05: #Cc Res 010	0	4194304	Value	ValueOutput
+P05: #Cc Res 011	0	4194304	Value	ValueOutput
+P05: #Cc Res 012	0	4194304	Value	ValueOutput
+P05: #Cc Res 013	0	4194304	Value	ValueOutput
+P05: #Cc Res 014	0	4194304	Value	ValueOutput
+P05: #Cc Res 015	0	4194304	Value	ValueOutput
+P06: Master	0	4194304	Value	ValueOutput
+P06: Glide	0	4194304	Value	ValueOutput
+P06: Lf1 Rat	0	4194304	Value	ValueOutput
+P06: Lf1 Phs	0	4194304	Value	ValueOutput
+P06: Lf1 Att	0	4194304	Value	ValueOutput
+P06: Lf2 Rat	0	4194304	Value	ValueOutput
+P06: Lf2 Phs	0	4194304	Value	ValueOutput
+P06: Lf2 Att	0	4194304	Value	ValueOutput
+P06: Del Delay	0	4194304	Value	ValueOutput
+P06: Del Feedback	0	4194304	Value	ValueOutput
+P06: Del Lo Cut	0	4194304	Value	ValueOutput
+P06: Del Hi Cut	0	4194304	Value	ValueOutput
+P06: Rev Room	0	4194304	Value	ValueOutput
+P06: Rev Damp	0	4194304	Value	ValueOutput
+P06: Rev Diff	0	4194304	Value	ValueOutput
+P06: Rev Decay	0	4194304	Value	ValueOutput
+P06: Chr Delay	0	4194304	Value	ValueOutput
+P06: Chr Depth	0	4194304	Value	ValueOutput
+P06: Chr Rate	0	4194304	Value	ValueOutput
+P06: Chr Feedback	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: Mod Val 1	0	4194304	Value	ValueOutput
+P06: Mod Val 2	0	4194304	Value	ValueOutput
+P06: Mod Val 3	0	4194304	Value	ValueOutput
+P06: Mod Val 4	0	4194304	Value	ValueOutput
+P06: Dst Amt A	0	4194304	Value	ValueOutput
+P06: Dst Amt B	0	4194304	Value	ValueOutput
+P06: <Reserved 0>	0	4194304	Value	ValueOutput
+P06: <Reserved 1>	0	4194304	Value	ValueOutput
+P06: Amp Env Att	0	4194304	Value	ValueOutput
+P06: Amp Env Dec	0	4194304	Value	ValueOutput
+P06: Amp Env Sus	0	4194304	Value	ValueOutput
+P06: Amp Env Rel	0	4194304	Value	ValueOutput
+P06: Mod Env Att 1	0	4194304	Value	ValueOutput
+P06: Mod Env Dec 1	0	4194304	Value	ValueOutput
+P06: Mod Env Sus 1	0	4194304	Value	ValueOutput
+P06: Mod Env Rel 1	0	4194304	Value	ValueOutput
+P06: Mod Env Att 2	0	4194304	Value	ValueOutput
+P06: Mod Env Dec 2	0	4194304	Value	ValueOutput
+P06: Mod Env Sus 2	0	4194304	Value	ValueOutput
+P06: Mod Env Rel 2	0	4194304	Value	ValueOutput
+P06: Pitch	0	4194304	Value	ValueOutput
+P06: Amp Gain	0	4194304	Value	ValueOutput
+P06: Amp Pan	0	4194304	Value	ValueOutput
+P06: Flt A Frq	0	4194304	Value	ValueOutput
+P06: Flt A Res	0	4194304	Value	ValueOutput
+P06: Flt A Shp	0	4194304	Value	ValueOutput
+P06: Flt B Frq	0	4194304	Value	ValueOutput
+P06: Flt B Res	0	4194304	Value	ValueOutput
+P06: Flt B Shp	0	4194304	Value	ValueOutput
+P06: Lfo 1 Rat	0	4194304	Value	ValueOutput
+P06: Lfo 1 Phs	0	4194304	Value	ValueOutput
+P06: Lfo 1 Att	0	4194304	Value	ValueOutput
+P06: Lfo 2 Rat	0	4194304	Value	ValueOutput
+P06: Lfo 2 Phs	0	4194304	Value	ValueOutput
+P06: Lfo 2 Att	0	4194304	Value	ValueOutput
+P06: Mod Amt P1-1	0	4194304	Value	ValueOutput
+P06: Mod Amt P1-2	0	4194304	Value	ValueOutput
+P06: Mod Amt P1-3	0	4194304	Value	ValueOutput
+P06: Mod Amt P1-4	0	4194304	Value	ValueOutput
+P06: Mod Amt P2-1	0	4194304	Value	ValueOutput
+P06: Mod Amt P2-2	0	4194304	Value	ValueOutput
+P06: Mod Amt P2-3	0	4194304	Value	ValueOutput
+P06: Mod Amt P2-4	0	4194304	Value	ValueOutput
+P06: Mod Amt P3-1	0	4194304	Value	ValueOutput
+P06: Mod Amt P3-2	0	4194304	Value	ValueOutput
+P06: Mod Amt P3-3	0	4194304	Value	ValueOutput
+P06: Mod Amt P3-4	0	4194304	Value	ValueOutput
+P06: Mod Amt P4-1	0	4194304	Value	ValueOutput
+P06: Mod Amt P4-2	0	4194304	Value	ValueOutput
+P06: Mod Amt P4-3	0	4194304	Value	ValueOutput
+P06: Mod Amt P4-4	0	4194304	Value	ValueOutput
+P06: Efx Rng Rat	0	4194304	Value	ValueOutput
+P06: Efx Rng Mix	0	4194304	Value	ValueOutput
+P06: Efx Dec Stp	0	4194304	Value	ValueOutput
+P06: Efx Dec Mix	0	4194304	Value	ValueOutput
+P06: Efx Bit Qnt	0	4194304	Value	ValueOutput
+P06: Efx Bit Mix	0	4194304	Value	ValueOutput
+P06: Efx Phs Frq	0	4194304	Value	ValueOutput
+P06: Efx Phs Mix	0	4194304	Value	ValueOutput
+P06: Mix Del Amt	0	4194304	Value	ValueOutput
+P06: Mix Chr Amt	0	4194304	Value	ValueOutput
+P06: Mix Rev Amt	0	4194304	Value	ValueOutput
+P06: Mix Dry Amt	0	4194304	Value	ValueOutput
+P06: Tsr Tim Amt	0	4194304	Value	ValueOutput
+P06: Tsr Grn Amt	0	4194304	Value	ValueOutput
+P06: Tsr Sth Amt	0	4194304	Value	ValueOutput
+P06: Tsr Rsv Amt	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: Smpl Offset	0	4194304	Value	ValueOutput
+P06: Smpl Loop A	0	4194304	Value	ValueOutput
+P06: Smpl Loop B	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: ---	0	4194304	Value	ValueOutput
+P06: #Cc Pit Bnd	0	4194304	Value	ValueOutput
+P06: #Cc Mod Whl	0	4194304	Value	ValueOutput
+P06: #Cc Mst Vol	0	4194304	Value	ValueOutput
+P06: #Cc Mst Pan	0	4194304	Value	ValueOutput
+P06: #Cc Mst Exp	0	4194304	Value	ValueOutput
+P06: #Cc Res 005	0	4194304	Value	ValueOutput
+P06: #Cc Res 006	0	4194304	Value	ValueOutput
+P06: #Cc Res 007	0	4194304	Value	ValueOutput
+P06: #Cc Res 008	0	4194304	Value	ValueOutput
+P06: #Cc Res 009	0	4194304	Value	ValueOutput
+P06: #Cc Res 010	0	4194304	Value	ValueOutput
+P06: #Cc Res 011	0	4194304	Value	ValueOutput
+P06: #Cc Res 012	0	4194304	Value	ValueOutput
+P06: #Cc Res 013	0	4194304	Value	ValueOutput
+P06: #Cc Res 014	0	4194304	Value	ValueOutput
+P06: #Cc Res 015	0	4194304	Value	ValueOutput
+P07: Master	0	4194304	Value	ValueOutput
+P07: Glide	0	4194304	Value	ValueOutput
+P07: Lf1 Rat	0	4194304	Value	ValueOutput
+P07: Lf1 Phs	0	4194304	Value	ValueOutput
+P07: Lf1 Att	0	4194304	Value	ValueOutput
+P07: Lf2 Rat	0	4194304	Value	ValueOutput
+P07: Lf2 Phs	0	4194304	Value	ValueOutput
+P07: Lf2 Att	0	4194304	Value	ValueOutput
+P07: Del Delay	0	4194304	Value	ValueOutput
+P07: Del Feedback	0	4194304	Value	ValueOutput
+P07: Del Lo Cut	0	4194304	Value	ValueOutput
+P07: Del Hi Cut	0	4194304	Value	ValueOutput
+P07: Rev Room	0	4194304	Value	ValueOutput
+P07: Rev Damp	0	4194304	Value	ValueOutput
+P07: Rev Diff	0	4194304	Value	ValueOutput
+P07: Rev Decay	0	4194304	Value	ValueOutput
+P07: Chr Delay	0	4194304	Value	ValueOutput
+P07: Chr Depth	0	4194304	Value	ValueOutput
+P07: Chr Rate	0	4194304	Value	ValueOutput
+P07: Chr Feedback	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: Mod Val 1	0	4194304	Value	ValueOutput
+P07: Mod Val 2	0	4194304	Value	ValueOutput
+P07: Mod Val 3	0	4194304	Value	ValueOutput
+P07: Mod Val 4	0	4194304	Value	ValueOutput
+P07: Dst Amt A	0	4194304	Value	ValueOutput
+P07: Dst Amt B	0	4194304	Value	ValueOutput
+P07: <Reserved 0>	0	4194304	Value	ValueOutput
+P07: <Reserved 1>	0	4194304	Value	ValueOutput
+P07: Amp Env Att	0	4194304	Value	ValueOutput
+P07: Amp Env Dec	0	4194304	Value	ValueOutput
+P07: Amp Env Sus	0	4194304	Value	ValueOutput
+P07: Amp Env Rel	0	4194304	Value	ValueOutput
+P07: Mod Env Att 1	0	4194304	Value	ValueOutput
+P07: Mod Env Dec 1	0	4194304	Value	ValueOutput
+P07: Mod Env Sus 1	0	4194304	Value	ValueOutput
+P07: Mod Env Rel 1	0	4194304	Value	ValueOutput
+P07: Mod Env Att 2	0	4194304	Value	ValueOutput
+P07: Mod Env Dec 2	0	4194304	Value	ValueOutput
+P07: Mod Env Sus 2	0	4194304	Value	ValueOutput
+P07: Mod Env Rel 2	0	4194304	Value	ValueOutput
+P07: Pitch	0	4194304	Value	ValueOutput
+P07: Amp Gain	0	4194304	Value	ValueOutput
+P07: Amp Pan	0	4194304	Value	ValueOutput
+P07: Flt A Frq	0	4194304	Value	ValueOutput
+P07: Flt A Res	0	4194304	Value	ValueOutput
+P07: Flt A Shp	0	4194304	Value	ValueOutput
+P07: Flt B Frq	0	4194304	Value	ValueOutput
+P07: Flt B Res	0	4194304	Value	ValueOutput
+P07: Flt B Shp	0	4194304	Value	ValueOutput
+P07: Lfo 1 Rat	0	4194304	Value	ValueOutput
+P07: Lfo 1 Phs	0	4194304	Value	ValueOutput
+P07: Lfo 1 Att	0	4194304	Value	ValueOutput
+P07: Lfo 2 Rat	0	4194304	Value	ValueOutput
+P07: Lfo 2 Phs	0	4194304	Value	ValueOutput
+P07: Lfo 2 Att	0	4194304	Value	ValueOutput
+P07: Mod Amt P1-1	0	4194304	Value	ValueOutput
+P07: Mod Amt P1-2	0	4194304	Value	ValueOutput
+P07: Mod Amt P1-3	0	4194304	Value	ValueOutput
+P07: Mod Amt P1-4	0	4194304	Value	ValueOutput
+P07: Mod Amt P2-1	0	4194304	Value	ValueOutput
+P07: Mod Amt P2-2	0	4194304	Value	ValueOutput
+P07: Mod Amt P2-3	0	4194304	Value	ValueOutput
+P07: Mod Amt P2-4	0	4194304	Value	ValueOutput
+P07: Mod Amt P3-1	0	4194304	Value	ValueOutput
+P07: Mod Amt P3-2	0	4194304	Value	ValueOutput
+P07: Mod Amt P3-3	0	4194304	Value	ValueOutput
+P07: Mod Amt P3-4	0	4194304	Value	ValueOutput
+P07: Mod Amt P4-1	0	4194304	Value	ValueOutput
+P07: Mod Amt P4-2	0	4194304	Value	ValueOutput
+P07: Mod Amt P4-3	0	4194304	Value	ValueOutput
+P07: Mod Amt P4-4	0	4194304	Value	ValueOutput
+P07: Efx Rng Rat	0	4194304	Value	ValueOutput
+P07: Efx Rng Mix	0	4194304	Value	ValueOutput
+P07: Efx Dec Stp	0	4194304	Value	ValueOutput
+P07: Efx Dec Mix	0	4194304	Value	ValueOutput
+P07: Efx Bit Qnt	0	4194304	Value	ValueOutput
+P07: Efx Bit Mix	0	4194304	Value	ValueOutput
+P07: Efx Phs Frq	0	4194304	Value	ValueOutput
+P07: Efx Phs Mix	0	4194304	Value	ValueOutput
+P07: Mix Del Amt	0	4194304	Value	ValueOutput
+P07: Mix Chr Amt	0	4194304	Value	ValueOutput
+P07: Mix Rev Amt	0	4194304	Value	ValueOutput
+P07: Mix Dry Amt	0	4194304	Value	ValueOutput
+P07: Tsr Tim Amt	0	4194304	Value	ValueOutput
+P07: Tsr Grn Amt	0	4194304	Value	ValueOutput
+P07: Tsr Sth Amt	0	4194304	Value	ValueOutput
+P07: Tsr Rsv Amt	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: Smpl Offset	0	4194304	Value	ValueOutput
+P07: Smpl Loop A	0	4194304	Value	ValueOutput
+P07: Smpl Loop B	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: ---	0	4194304	Value	ValueOutput
+P07: #Cc Pit Bnd	0	4194304	Value	ValueOutput
+P07: #Cc Mod Whl	0	4194304	Value	ValueOutput
+P07: #Cc Mst Vol	0	4194304	Value	ValueOutput
+P07: #Cc Mst Pan	0	4194304	Value	ValueOutput
+P07: #Cc Mst Exp	0	4194304	Value	ValueOutput
+P07: #Cc Res 005	0	4194304	Value	ValueOutput
+P07: #Cc Res 006	0	4194304	Value	ValueOutput
+P07: #Cc Res 007	0	4194304	Value	ValueOutput
+P07: #Cc Res 008	0	4194304	Value	ValueOutput
+P07: #Cc Res 009	0	4194304	Value	ValueOutput
+P07: #Cc Res 010	0	4194304	Value	ValueOutput
+P07: #Cc Res 011	0	4194304	Value	ValueOutput
+P07: #Cc Res 012	0	4194304	Value	ValueOutput
+P07: #Cc Res 013	0	4194304	Value	ValueOutput
+P07: #Cc Res 014	0	4194304	Value	ValueOutput
+P07: #Cc Res 015	0	4194304	Value	ValueOutput
+P08: Master	0	4194304	Value	ValueOutput
+P08: Glide	0	4194304	Value	ValueOutput
+P08: Lf1 Rat	0	4194304	Value	ValueOutput
+P08: Lf1 Phs	0	4194304	Value	ValueOutput
+P08: Lf1 Att	0	4194304	Value	ValueOutput
+P08: Lf2 Rat	0	4194304	Value	ValueOutput
+P08: Lf2 Phs	0	4194304	Value	ValueOutput
+P08: Lf2 Att	0	4194304	Value	ValueOutput
+P08: Del Delay	0	4194304	Value	ValueOutput
+P08: Del Feedback	0	4194304	Value	ValueOutput
+P08: Del Lo Cut	0	4194304	Value	ValueOutput
+P08: Del Hi Cut	0	4194304	Value	ValueOutput
+P08: Rev Room	0	4194304	Value	ValueOutput
+P08: Rev Damp	0	4194304	Value	ValueOutput
+P08: Rev Diff	0	4194304	Value	ValueOutput
+P08: Rev Decay	0	4194304	Value	ValueOutput
+P08: Chr Delay	0	4194304	Value	ValueOutput
+P08: Chr Depth	0	4194304	Value	ValueOutput
+P08: Chr Rate	0	4194304	Value	ValueOutput
+P08: Chr Feedback	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: Mod Val 1	0	4194304	Value	ValueOutput
+P08: Mod Val 2	0	4194304	Value	ValueOutput
+P08: Mod Val 3	0	4194304	Value	ValueOutput
+P08: Mod Val 4	0	4194304	Value	ValueOutput
+P08: Dst Amt A	0	4194304	Value	ValueOutput
+P08: Dst Amt B	0	4194304	Value	ValueOutput
+P08: <Reserved 0>	0	4194304	Value	ValueOutput
+P08: <Reserved 1>	0	4194304	Value	ValueOutput
+P08: Amp Env Att	0	4194304	Value	ValueOutput
+P08: Amp Env Dec	0	4194304	Value	ValueOutput
+P08: Amp Env Sus	0	4194304	Value	ValueOutput
+P08: Amp Env Rel	0	4194304	Value	ValueOutput
+P08: Mod Env Att 1	0	4194304	Value	ValueOutput
+P08: Mod Env Dec 1	0	4194304	Value	ValueOutput
+P08: Mod Env Sus 1	0	4194304	Value	ValueOutput
+P08: Mod Env Rel 1	0	4194304	Value	ValueOutput
+P08: Mod Env Att 2	0	4194304	Value	ValueOutput
+P08: Mod Env Dec 2	0	4194304	Value	ValueOutput
+P08: Mod Env Sus 2	0	4194304	Value	ValueOutput
+P08: Mod Env Rel 2	0	4194304	Value	ValueOutput
+P08: Pitch	0	4194304	Value	ValueOutput
+P08: Amp Gain	0	4194304	Value	ValueOutput
+P08: Amp Pan	0	4194304	Value	ValueOutput
+P08: Flt A Frq	0	4194304	Value	ValueOutput
+P08: Flt A Res	0	4194304	Value	ValueOutput
+P08: Flt A Shp	0	4194304	Value	ValueOutput
+P08: Flt B Frq	0	4194304	Value	ValueOutput
+P08: Flt B Res	0	4194304	Value	ValueOutput
+P08: Flt B Shp	0	4194304	Value	ValueOutput
+P08: Lfo 1 Rat	0	4194304	Value	ValueOutput
+P08: Lfo 1 Phs	0	4194304	Value	ValueOutput
+P08: Lfo 1 Att	0	4194304	Value	ValueOutput
+P08: Lfo 2 Rat	0	4194304	Value	ValueOutput
+P08: Lfo 2 Phs	0	4194304	Value	ValueOutput
+P08: Lfo 2 Att	0	4194304	Value	ValueOutput
+P08: Mod Amt P1-1	0	4194304	Value	ValueOutput
+P08: Mod Amt P1-2	0	4194304	Value	ValueOutput
+P08: Mod Amt P1-3	0	4194304	Value	ValueOutput
+P08: Mod Amt P1-4	0	4194304	Value	ValueOutput
+P08: Mod Amt P2-1	0	4194304	Value	ValueOutput
+P08: Mod Amt P2-2	0	4194304	Value	ValueOutput
+P08: Mod Amt P2-3	0	4194304	Value	ValueOutput
+P08: Mod Amt P2-4	0	4194304	Value	ValueOutput
+P08: Mod Amt P3-1	0	4194304	Value	ValueOutput
+P08: Mod Amt P3-2	0	4194304	Value	ValueOutput
+P08: Mod Amt P3-3	0	4194304	Value	ValueOutput
+P08: Mod Amt P3-4	0	4194304	Value	ValueOutput
+P08: Mod Amt P4-1	0	4194304	Value	ValueOutput
+P08: Mod Amt P4-2	0	4194304	Value	ValueOutput
+P08: Mod Amt P4-3	0	4194304	Value	ValueOutput
+P08: Mod Amt P4-4	0	4194304	Value	ValueOutput
+P08: Efx Rng Rat	0	4194304	Value	ValueOutput
+P08: Efx Rng Mix	0	4194304	Value	ValueOutput
+P08: Efx Dec Stp	0	4194304	Value	ValueOutput
+P08: Efx Dec Mix	0	4194304	Value	ValueOutput
+P08: Efx Bit Qnt	0	4194304	Value	ValueOutput
+P08: Efx Bit Mix	0	4194304	Value	ValueOutput
+P08: Efx Phs Frq	0	4194304	Value	ValueOutput
+P08: Efx Phs Mix	0	4194304	Value	ValueOutput
+P08: Mix Del Amt	0	4194304	Value	ValueOutput
+P08: Mix Chr Amt	0	4194304	Value	ValueOutput
+P08: Mix Rev Amt	0	4194304	Value	ValueOutput
+P08: Mix Dry Amt	0	4194304	Value	ValueOutput
+P08: Tsr Tim Amt	0	4194304	Value	ValueOutput
+P08: Tsr Grn Amt	0	4194304	Value	ValueOutput
+P08: Tsr Sth Amt	0	4194304	Value	ValueOutput
+P08: Tsr Rsv Amt	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: Smpl Offset	0	4194304	Value	ValueOutput
+P08: Smpl Loop A	0	4194304	Value	ValueOutput
+P08: Smpl Loop B	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: ---	0	4194304	Value	ValueOutput
+P08: #Cc Pit Bnd	0	4194304	Value	ValueOutput
+P08: #Cc Mod Whl	0	4194304	Value	ValueOutput
+P08: #Cc Mst Vol	0	4194304	Value	ValueOutput
+P08: #Cc Mst Pan	0	4194304	Value	ValueOutput
+P08: #Cc Mst Exp	0	4194304	Value	ValueOutput
+P08: #Cc Res 005	0	4194304	Value	ValueOutput
+P08: #Cc Res 006	0	4194304	Value	ValueOutput
+P08: #Cc Res 007	0	4194304	Value	ValueOutput
+P08: #Cc Res 008	0	4194304	Value	ValueOutput
+P08: #Cc Res 009	0	4194304	Value	ValueOutput
+P08: #Cc Res 010	0	4194304	Value	ValueOutput
+P08: #Cc Res 011	0	4194304	Value	ValueOutput
+P08: #Cc Res 012	0	4194304	Value	ValueOutput
+P08: #Cc Res 013	0	4194304	Value	ValueOutput
+P08: #Cc Res 014	0	4194304	Value	ValueOutput
+P08: #Cc Res 015	0	4194304	Value	ValueOutput
+P09: Master	0	4194304	Value	ValueOutput
+P09: Glide	0	4194304	Value	ValueOutput
+P09: Lf1 Rat	0	4194304	Value	ValueOutput
+P09: Lf1 Phs	0	4194304	Value	ValueOutput
+P09: Lf1 Att	0	4194304	Value	ValueOutput
+P09: Lf2 Rat	0	4194304	Value	ValueOutput
+P09: Lf2 Phs	0	4194304	Value	ValueOutput
+P09: Lf2 Att	0	4194304	Value	ValueOutput
+P09: Del Delay	0	4194304	Value	ValueOutput
+P09: Del Feedback	0	4194304	Value	ValueOutput
+P09: Del Lo Cut	0	4194304	Value	ValueOutput
+P09: Del Hi Cut	0	4194304	Value	ValueOutput
+P09: Rev Room	0	4194304	Value	ValueOutput
+P09: Rev Damp	0	4194304	Value	ValueOutput
+P09: Rev Diff	0	4194304	Value	ValueOutput
+P09: Rev Decay	0	4194304	Value	ValueOutput
+P09: Chr Delay	0	4194304	Value	ValueOutput
+P09: Chr Depth	0	4194304	Value	ValueOutput
+P09: Chr Rate	0	4194304	Value	ValueOutput
+P09: Chr Feedback	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: Mod Val 1	0	4194304	Value	ValueOutput
+P09: Mod Val 2	0	4194304	Value	ValueOutput
+P09: Mod Val 3	0	4194304	Value	ValueOutput
+P09: Mod Val 4	0	4194304	Value	ValueOutput
+P09: Dst Amt A	0	4194304	Value	ValueOutput
+P09: Dst Amt B	0	4194304	Value	ValueOutput
+P09: <Reserved 0>	0	4194304	Value	ValueOutput
+P09: <Reserved 1>	0	4194304	Value	ValueOutput
+P09: Amp Env Att	0	4194304	Value	ValueOutput
+P09: Amp Env Dec	0	4194304	Value	ValueOutput
+P09: Amp Env Sus	0	4194304	Value	ValueOutput
+P09: Amp Env Rel	0	4194304	Value	ValueOutput
+P09: Mod Env Att 1	0	4194304	Value	ValueOutput
+P09: Mod Env Dec 1	0	4194304	Value	ValueOutput
+P09: Mod Env Sus 1	0	4194304	Value	ValueOutput
+P09: Mod Env Rel 1	0	4194304	Value	ValueOutput
+P09: Mod Env Att 2	0	4194304	Value	ValueOutput
+P09: Mod Env Dec 2	0	4194304	Value	ValueOutput
+P09: Mod Env Sus 2	0	4194304	Value	ValueOutput
+P09: Mod Env Rel 2	0	4194304	Value	ValueOutput
+P09: Pitch	0	4194304	Value	ValueOutput
+P09: Amp Gain	0	4194304	Value	ValueOutput
+P09: Amp Pan	0	4194304	Value	ValueOutput
+P09: Flt A Frq	0	4194304	Value	ValueOutput
+P09: Flt A Res	0	4194304	Value	ValueOutput
+P09: Flt A Shp	0	4194304	Value	ValueOutput
+P09: Flt B Frq	0	4194304	Value	ValueOutput
+P09: Flt B Res	0	4194304	Value	ValueOutput
+P09: Flt B Shp	0	4194304	Value	ValueOutput
+P09: Lfo 1 Rat	0	4194304	Value	ValueOutput
+P09: Lfo 1 Phs	0	4194304	Value	ValueOutput
+P09: Lfo 1 Att	0	4194304	Value	ValueOutput
+P09: Lfo 2 Rat	0	4194304	Value	ValueOutput
+P09: Lfo 2 Phs	0	4194304	Value	ValueOutput
+P09: Lfo 2 Att	0	4194304	Value	ValueOutput
+P09: Mod Amt P1-1	0	4194304	Value	ValueOutput
+P09: Mod Amt P1-2	0	4194304	Value	ValueOutput
+P09: Mod Amt P1-3	0	4194304	Value	ValueOutput
+P09: Mod Amt P1-4	0	4194304	Value	ValueOutput
+P09: Mod Amt P2-1	0	4194304	Value	ValueOutput
+P09: Mod Amt P2-2	0	4194304	Value	ValueOutput
+P09: Mod Amt P2-3	0	4194304	Value	ValueOutput
+P09: Mod Amt P2-4	0	4194304	Value	ValueOutput
+P09: Mod Amt P3-1	0	4194304	Value	ValueOutput
+P09: Mod Amt P3-2	0	4194304	Value	ValueOutput
+P09: Mod Amt P3-3	0	4194304	Value	ValueOutput
+P09: Mod Amt P3-4	0	4194304	Value	ValueOutput
+P09: Mod Amt P4-1	0	4194304	Value	ValueOutput
+P09: Mod Amt P4-2	0	4194304	Value	ValueOutput
+P09: Mod Amt P4-3	0	4194304	Value	ValueOutput
+P09: Mod Amt P4-4	0	4194304	Value	ValueOutput
+P09: Efx Rng Rat	0	4194304	Value	ValueOutput
+P09: Efx Rng Mix	0	4194304	Value	ValueOutput
+P09: Efx Dec Stp	0	4194304	Value	ValueOutput
+P09: Efx Dec Mix	0	4194304	Value	ValueOutput
+P09: Efx Bit Qnt	0	4194304	Value	ValueOutput
+P09: Efx Bit Mix	0	4194304	Value	ValueOutput
+P09: Efx Phs Frq	0	4194304	Value	ValueOutput
+P09: Efx Phs Mix	0	4194304	Value	ValueOutput
+P09: Mix Del Amt	0	4194304	Value	ValueOutput
+P09: Mix Chr Amt	0	4194304	Value	ValueOutput
+P09: Mix Rev Amt	0	4194304	Value	ValueOutput
+P09: Mix Dry Amt	0	4194304	Value	ValueOutput
+P09: Tsr Tim Amt	0	4194304	Value	ValueOutput
+P09: Tsr Grn Amt	0	4194304	Value	ValueOutput
+P09: Tsr Sth Amt	0	4194304	Value	ValueOutput
+P09: Tsr Rsv Amt	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: Smpl Offset	0	4194304	Value	ValueOutput
+P09: Smpl Loop A	0	4194304	Value	ValueOutput
+P09: Smpl Loop B	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: ---	0	4194304	Value	ValueOutput
+P09: #Cc Pit Bnd	0	4194304	Value	ValueOutput
+P09: #Cc Mod Whl	0	4194304	Value	ValueOutput
+P09: #Cc Mst Vol	0	4194304	Value	ValueOutput
+P09: #Cc Mst Pan	0	4194304	Value	ValueOutput
+P09: #Cc Mst Exp	0	4194304	Value	ValueOutput
+P09: #Cc Res 005	0	4194304	Value	ValueOutput
+P09: #Cc Res 006	0	4194304	Value	ValueOutput
+P09: #Cc Res 007	0	4194304	Value	ValueOutput
+P09: #Cc Res 008	0	4194304	Value	ValueOutput
+P09: #Cc Res 009	0	4194304	Value	ValueOutput
+P09: #Cc Res 010	0	4194304	Value	ValueOutput
+P09: #Cc Res 011	0	4194304	Value	ValueOutput
+P09: #Cc Res 012	0	4194304	Value	ValueOutput
+P09: #Cc Res 013	0	4194304	Value	ValueOutput
+P09: #Cc Res 014	0	4194304	Value	ValueOutput
+P09: #Cc Res 015	0	4194304	Value	ValueOutput
+P10: Master	0	4194304	Value	ValueOutput
+P10: Glide	0	4194304	Value	ValueOutput
+P10: Lf1 Rat	0	4194304	Value	ValueOutput
+P10: Lf1 Phs	0	4194304	Value	ValueOutput
+P10: Lf1 Att	0	4194304	Value	ValueOutput
+P10: Lf2 Rat	0	4194304	Value	ValueOutput
+P10: Lf2 Phs	0	4194304	Value	ValueOutput
+P10: Lf2 Att	0	4194304	Value	ValueOutput
+P10: Del Delay	0	4194304	Value	ValueOutput
+P10: Del Feedback	0	4194304	Value	ValueOutput
+P10: Del Lo Cut	0	4194304	Value	ValueOutput
+P10: Del Hi Cut	0	4194304	Value	ValueOutput
+P10: Rev Room	0	4194304	Value	ValueOutput
+P10: Rev Damp	0	4194304	Value	ValueOutput
+P10: Rev Diff	0	4194304	Value	ValueOutput
+P10: Rev Decay	0	4194304	Value	ValueOutput
+P10: Chr Delay	0	4194304	Value	ValueOutput
+P10: Chr Depth	0	4194304	Value	ValueOutput
+P10: Chr Rate	0	4194304	Value	ValueOutput
+P10: Chr Feedback	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: Mod Val 1	0	4194304	Value	ValueOutput
+P10: Mod Val 2	0	4194304	Value	ValueOutput
+P10: Mod Val 3	0	4194304	Value	ValueOutput
+P10: Mod Val 4	0	4194304	Value	ValueOutput
+P10: Dst Amt A	0	4194304	Value	ValueOutput
+P10: Dst Amt B	0	4194304	Value	ValueOutput
+P10: <Reserved 0>	0	4194304	Value	ValueOutput
+P10: <Reserved 1>	0	4194304	Value	ValueOutput
+P10: Amp Env Att	0	4194304	Value	ValueOutput
+P10: Amp Env Dec	0	4194304	Value	ValueOutput
+P10: Amp Env Sus	0	4194304	Value	ValueOutput
+P10: Amp Env Rel	0	4194304	Value	ValueOutput
+P10: Mod Env Att 1	0	4194304	Value	ValueOutput
+P10: Mod Env Dec 1	0	4194304	Value	ValueOutput
+P10: Mod Env Sus 1	0	4194304	Value	ValueOutput
+P10: Mod Env Rel 1	0	4194304	Value	ValueOutput
+P10: Mod Env Att 2	0	4194304	Value	ValueOutput
+P10: Mod Env Dec 2	0	4194304	Value	ValueOutput
+P10: Mod Env Sus 2	0	4194304	Value	ValueOutput
+P10: Mod Env Rel 2	0	4194304	Value	ValueOutput
+P10: Pitch	0	4194304	Value	ValueOutput
+P10: Amp Gain	0	4194304	Value	ValueOutput
+P10: Amp Pan	0	4194304	Value	ValueOutput
+P10: Flt A Frq	0	4194304	Value	ValueOutput
+P10: Flt A Res	0	4194304	Value	ValueOutput
+P10: Flt A Shp	0	4194304	Value	ValueOutput
+P10: Flt B Frq	0	4194304	Value	ValueOutput
+P10: Flt B Res	0	4194304	Value	ValueOutput
+P10: Flt B Shp	0	4194304	Value	ValueOutput
+P10: Lfo 1 Rat	0	4194304	Value	ValueOutput
+P10: Lfo 1 Phs	0	4194304	Value	ValueOutput
+P10: Lfo 1 Att	0	4194304	Value	ValueOutput
+P10: Lfo 2 Rat	0	4194304	Value	ValueOutput
+P10: Lfo 2 Phs	0	4194304	Value	ValueOutput
+P10: Lfo 2 Att	0	4194304	Value	ValueOutput
+P10: Mod Amt P1-1	0	4194304	Value	ValueOutput
+P10: Mod Amt P1-2	0	4194304	Value	ValueOutput
+P10: Mod Amt P1-3	0	4194304	Value	ValueOutput
+P10: Mod Amt P1-4	0	4194304	Value	ValueOutput
+P10: Mod Amt P2-1	0	4194304	Value	ValueOutput
+P10: Mod Amt P2-2	0	4194304	Value	ValueOutput
+P10: Mod Amt P2-3	0	4194304	Value	ValueOutput
+P10: Mod Amt P2-4	0	4194304	Value	ValueOutput
+P10: Mod Amt P3-1	0	4194304	Value	ValueOutput
+P10: Mod Amt P3-2	0	4194304	Value	ValueOutput
+P10: Mod Amt P3-3	0	4194304	Value	ValueOutput
+P10: Mod Amt P3-4	0	4194304	Value	ValueOutput
+P10: Mod Amt P4-1	0	4194304	Value	ValueOutput
+P10: Mod Amt P4-2	0	4194304	Value	ValueOutput
+P10: Mod Amt P4-3	0	4194304	Value	ValueOutput
+P10: Mod Amt P4-4	0	4194304	Value	ValueOutput
+P10: Efx Rng Rat	0	4194304	Value	ValueOutput
+P10: Efx Rng Mix	0	4194304	Value	ValueOutput
+P10: Efx Dec Stp	0	4194304	Value	ValueOutput
+P10: Efx Dec Mix	0	4194304	Value	ValueOutput
+P10: Efx Bit Qnt	0	4194304	Value	ValueOutput
+P10: Efx Bit Mix	0	4194304	Value	ValueOutput
+P10: Efx Phs Frq	0	4194304	Value	ValueOutput
+P10: Efx Phs Mix	0	4194304	Value	ValueOutput
+P10: Mix Del Amt	0	4194304	Value	ValueOutput
+P10: Mix Chr Amt	0	4194304	Value	ValueOutput
+P10: Mix Rev Amt	0	4194304	Value	ValueOutput
+P10: Mix Dry Amt	0	4194304	Value	ValueOutput
+P10: Tsr Tim Amt	0	4194304	Value	ValueOutput
+P10: Tsr Grn Amt	0	4194304	Value	ValueOutput
+P10: Tsr Sth Amt	0	4194304	Value	ValueOutput
+P10: Tsr Rsv Amt	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: Smpl Offset	0	4194304	Value	ValueOutput
+P10: Smpl Loop A	0	4194304	Value	ValueOutput
+P10: Smpl Loop B	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: ---	0	4194304	Value	ValueOutput
+P10: #Cc Pit Bnd	0	4194304	Value	ValueOutput
+P10: #Cc Mod Whl	0	4194304	Value	ValueOutput
+P10: #Cc Mst Vol	0	4194304	Value	ValueOutput
+P10: #Cc Mst Pan	0	4194304	Value	ValueOutput
+P10: #Cc Mst Exp	0	4194304	Value	ValueOutput
+P10: #Cc Res 005	0	4194304	Value	ValueOutput
+P10: #Cc Res 006	0	4194304	Value	ValueOutput
+P10: #Cc Res 007	0	4194304	Value	ValueOutput
+P10: #Cc Res 008	0	4194304	Value	ValueOutput
+P10: #Cc Res 009	0	4194304	Value	ValueOutput
+P10: #Cc Res 010	0	4194304	Value	ValueOutput
+P10: #Cc Res 011	0	4194304	Value	ValueOutput
+P10: #Cc Res 012	0	4194304	Value	ValueOutput
+P10: #Cc Res 013	0	4194304	Value	ValueOutput
+P10: #Cc Res 014	0	4194304	Value	ValueOutput
+P10: #Cc Res 015	0	4194304	Value	ValueOutput
+P11: Master	0	4194304	Value	ValueOutput
+P11: Glide	0	4194304	Value	ValueOutput
+P11: Lf1 Rat	0	4194304	Value	ValueOutput
+P11: Lf1 Phs	0	4194304	Value	ValueOutput
+P11: Lf1 Att	0	4194304	Value	ValueOutput
+P11: Lf2 Rat	0	4194304	Value	ValueOutput
+P11: Lf2 Phs	0	4194304	Value	ValueOutput
+P11: Lf2 Att	0	4194304	Value	ValueOutput
+P11: Del Delay	0	4194304	Value	ValueOutput
+P11: Del Feedback	0	4194304	Value	ValueOutput
+P11: Del Lo Cut	0	4194304	Value	ValueOutput
+P11: Del Hi Cut	0	4194304	Value	ValueOutput
+P11: Rev Room	0	4194304	Value	ValueOutput
+P11: Rev Damp	0	4194304	Value	ValueOutput
+P11: Rev Diff	0	4194304	Value	ValueOutput
+P11: Rev Decay	0	4194304	Value	ValueOutput
+P11: Chr Delay	0	4194304	Value	ValueOutput
+P11: Chr Depth	0	4194304	Value	ValueOutput
+P11: Chr Rate	0	4194304	Value	ValueOutput
+P11: Chr Feedback	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: Mod Val 1	0	4194304	Value	ValueOutput
+P11: Mod Val 2	0	4194304	Value	ValueOutput
+P11: Mod Val 3	0	4194304	Value	ValueOutput
+P11: Mod Val 4	0	4194304	Value	ValueOutput
+P11: Dst Amt A	0	4194304	Value	ValueOutput
+P11: Dst Amt B	0	4194304	Value	ValueOutput
+P11: <Reserved 0>	0	4194304	Value	ValueOutput
+P11: <Reserved 1>	0	4194304	Value	ValueOutput
+P11: Amp Env Att	0	4194304	Value	ValueOutput
+P11: Amp Env Dec	0	4194304	Value	ValueOutput
+P11: Amp Env Sus	0	4194304	Value	ValueOutput
+P11: Amp Env Rel	0	4194304	Value	ValueOutput
+P11: Mod Env Att 1	0	4194304	Value	ValueOutput
+P11: Mod Env Dec 1	0	4194304	Value	ValueOutput
+P11: Mod Env Sus 1	0	4194304	Value	ValueOutput
+P11: Mod Env Rel 1	0	4194304	Value	ValueOutput
+P11: Mod Env Att 2	0	4194304	Value	ValueOutput
+P11: Mod Env Dec 2	0	4194304	Value	ValueOutput
+P11: Mod Env Sus 2	0	4194304	Value	ValueOutput
+P11: Mod Env Rel 2	0	4194304	Value	ValueOutput
+P11: Pitch	0	4194304	Value	ValueOutput
+P11: Amp Gain	0	4194304	Value	ValueOutput
+P11: Amp Pan	0	4194304	Value	ValueOutput
+P11: Flt A Frq	0	4194304	Value	ValueOutput
+P11: Flt A Res	0	4194304	Value	ValueOutput
+P11: Flt A Shp	0	4194304	Value	ValueOutput
+P11: Flt B Frq	0	4194304	Value	ValueOutput
+P11: Flt B Res	0	4194304	Value	ValueOutput
+P11: Flt B Shp	0	4194304	Value	ValueOutput
+P11: Lfo 1 Rat	0	4194304	Value	ValueOutput
+P11: Lfo 1 Phs	0	4194304	Value	ValueOutput
+P11: Lfo 1 Att	0	4194304	Value	ValueOutput
+P11: Lfo 2 Rat	0	4194304	Value	ValueOutput
+P11: Lfo 2 Phs	0	4194304	Value	ValueOutput
+P11: Lfo 2 Att	0	4194304	Value	ValueOutput
+P11: Mod Amt P1-1	0	4194304	Value	ValueOutput
+P11: Mod Amt P1-2	0	4194304	Value	ValueOutput
+P11: Mod Amt P1-3	0	4194304	Value	ValueOutput
+P11: Mod Amt P1-4	0	4194304	Value	ValueOutput
+P11: Mod Amt P2-1	0	4194304	Value	ValueOutput
+P11: Mod Amt P2-2	0	4194304	Value	ValueOutput
+P11: Mod Amt P2-3	0	4194304	Value	ValueOutput
+P11: Mod Amt P2-4	0	4194304	Value	ValueOutput
+P11: Mod Amt P3-1	0	4194304	Value	ValueOutput
+P11: Mod Amt P3-2	0	4194304	Value	ValueOutput
+P11: Mod Amt P3-3	0	4194304	Value	ValueOutput
+P11: Mod Amt P3-4	0	4194304	Value	ValueOutput
+P11: Mod Amt P4-1	0	4194304	Value	ValueOutput
+P11: Mod Amt P4-2	0	4194304	Value	ValueOutput
+P11: Mod Amt P4-3	0	4194304	Value	ValueOutput
+P11: Mod Amt P4-4	0	4194304	Value	ValueOutput
+P11: Efx Rng Rat	0	4194304	Value	ValueOutput
+P11: Efx Rng Mix	0	4194304	Value	ValueOutput
+P11: Efx Dec Stp	0	4194304	Value	ValueOutput
+P11: Efx Dec Mix	0	4194304	Value	ValueOutput
+P11: Efx Bit Qnt	0	4194304	Value	ValueOutput
+P11: Efx Bit Mix	0	4194304	Value	ValueOutput
+P11: Efx Phs Frq	0	4194304	Value	ValueOutput
+P11: Efx Phs Mix	0	4194304	Value	ValueOutput
+P11: Mix Del Amt	0	4194304	Value	ValueOutput
+P11: Mix Chr Amt	0	4194304	Value	ValueOutput
+P11: Mix Rev Amt	0	4194304	Value	ValueOutput
+P11: Mix Dry Amt	0	4194304	Value	ValueOutput
+P11: Tsr Tim Amt	0	4194304	Value	ValueOutput
+P11: Tsr Grn Amt	0	4194304	Value	ValueOutput
+P11: Tsr Sth Amt	0	4194304	Value	ValueOutput
+P11: Tsr Rsv Amt	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: Smpl Offset	0	4194304	Value	ValueOutput
+P11: Smpl Loop A	0	4194304	Value	ValueOutput
+P11: Smpl Loop B	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: ---	0	4194304	Value	ValueOutput
+P11: #Cc Pit Bnd	0	4194304	Value	ValueOutput
+P11: #Cc Mod Whl	0	4194304	Value	ValueOutput
+P11: #Cc Mst Vol	0	4194304	Value	ValueOutput
+P11: #Cc Mst Pan	0	4194304	Value	ValueOutput
+P11: #Cc Mst Exp	0	4194304	Value	ValueOutput
+P11: #Cc Res 005	0	4194304	Value	ValueOutput
+P11: #Cc Res 006	0	4194304	Value	ValueOutput
+P11: #Cc Res 007	0	4194304	Value	ValueOutput
+P11: #Cc Res 008	0	4194304	Value	ValueOutput
+P11: #Cc Res 009	0	4194304	Value	ValueOutput
+P11: #Cc Res 010	0	4194304	Value	ValueOutput
+P11: #Cc Res 011	0	4194304	Value	ValueOutput
+P11: #Cc Res 012	0	4194304	Value	ValueOutput
+P11: #Cc Res 013	0	4194304	Value	ValueOutput
+P11: #Cc Res 014	0	4194304	Value	ValueOutput
+P11: #Cc Res 015	0	4194304	Value	ValueOutput
+P12: Master	0	4194304	Value	ValueOutput
+P12: Glide	0	4194304	Value	ValueOutput
+P12: Lf1 Rat	0	4194304	Value	ValueOutput
+P12: Lf1 Phs	0	4194304	Value	ValueOutput
+P12: Lf1 Att	0	4194304	Value	ValueOutput
+P12: Lf2 Rat	0	4194304	Value	ValueOutput
+P12: Lf2 Phs	0	4194304	Value	ValueOutput
+P12: Lf2 Att	0	4194304	Value	ValueOutput
+P12: Del Delay	0	4194304	Value	ValueOutput
+P12: Del Feedback	0	4194304	Value	ValueOutput
+P12: Del Lo Cut	0	4194304	Value	ValueOutput
+P12: Del Hi Cut	0	4194304	Value	ValueOutput
+P12: Rev Room	0	4194304	Value	ValueOutput
+P12: Rev Damp	0	4194304	Value	ValueOutput
+P12: Rev Diff	0	4194304	Value	ValueOutput
+P12: Rev Decay	0	4194304	Value	ValueOutput
+P12: Chr Delay	0	4194304	Value	ValueOutput
+P12: Chr Depth	0	4194304	Value	ValueOutput
+P12: Chr Rate	0	4194304	Value	ValueOutput
+P12: Chr Feedback	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: Mod Val 1	0	4194304	Value	ValueOutput
+P12: Mod Val 2	0	4194304	Value	ValueOutput
+P12: Mod Val 3	0	4194304	Value	ValueOutput
+P12: Mod Val 4	0	4194304	Value	ValueOutput
+P12: Dst Amt A	0	4194304	Value	ValueOutput
+P12: Dst Amt B	0	4194304	Value	ValueOutput
+P12: <Reserved 0>	0	4194304	Value	ValueOutput
+P12: <Reserved 1>	0	4194304	Value	ValueOutput
+P12: Amp Env Att	0	4194304	Value	ValueOutput
+P12: Amp Env Dec	0	4194304	Value	ValueOutput
+P12: Amp Env Sus	0	4194304	Value	ValueOutput
+P12: Amp Env Rel	0	4194304	Value	ValueOutput
+P12: Mod Env Att 1	0	4194304	Value	ValueOutput
+P12: Mod Env Dec 1	0	4194304	Value	ValueOutput
+P12: Mod Env Sus 1	0	4194304	Value	ValueOutput
+P12: Mod Env Rel 1	0	4194304	Value	ValueOutput
+P12: Mod Env Att 2	0	4194304	Value	ValueOutput
+P12: Mod Env Dec 2	0	4194304	Value	ValueOutput
+P12: Mod Env Sus 2	0	4194304	Value	ValueOutput
+P12: Mod Env Rel 2	0	4194304	Value	ValueOutput
+P12: Pitch	0	4194304	Value	ValueOutput
+P12: Amp Gain	0	4194304	Value	ValueOutput
+P12: Amp Pan	0	4194304	Value	ValueOutput
+P12: Flt A Frq	0	4194304	Value	ValueOutput
+P12: Flt A Res	0	4194304	Value	ValueOutput
+P12: Flt A Shp	0	4194304	Value	ValueOutput
+P12: Flt B Frq	0	4194304	Value	ValueOutput
+P12: Flt B Res	0	4194304	Value	ValueOutput
+P12: Flt B Shp	0	4194304	Value	ValueOutput
+P12: Lfo 1 Rat	0	4194304	Value	ValueOutput
+P12: Lfo 1 Phs	0	4194304	Value	ValueOutput
+P12: Lfo 1 Att	0	4194304	Value	ValueOutput
+P12: Lfo 2 Rat	0	4194304	Value	ValueOutput
+P12: Lfo 2 Phs	0	4194304	Value	ValueOutput
+P12: Lfo 2 Att	0	4194304	Value	ValueOutput
+P12: Mod Amt P1-1	0	4194304	Value	ValueOutput
+P12: Mod Amt P1-2	0	4194304	Value	ValueOutput
+P12: Mod Amt P1-3	0	4194304	Value	ValueOutput
+P12: Mod Amt P1-4	0	4194304	Value	ValueOutput
+P12: Mod Amt P2-1	0	4194304	Value	ValueOutput
+P12: Mod Amt P2-2	0	4194304	Value	ValueOutput
+P12: Mod Amt P2-3	0	4194304	Value	ValueOutput
+P12: Mod Amt P2-4	0	4194304	Value	ValueOutput
+P12: Mod Amt P3-1	0	4194304	Value	ValueOutput
+P12: Mod Amt P3-2	0	4194304	Value	ValueOutput
+P12: Mod Amt P3-3	0	4194304	Value	ValueOutput
+P12: Mod Amt P3-4	0	4194304	Value	ValueOutput
+P12: Mod Amt P4-1	0	4194304	Value	ValueOutput
+P12: Mod Amt P4-2	0	4194304	Value	ValueOutput
+P12: Mod Amt P4-3	0	4194304	Value	ValueOutput
+P12: Mod Amt P4-4	0	4194304	Value	ValueOutput
+P12: Efx Rng Rat	0	4194304	Value	ValueOutput
+P12: Efx Rng Mix	0	4194304	Value	ValueOutput
+P12: Efx Dec Stp	0	4194304	Value	ValueOutput
+P12: Efx Dec Mix	0	4194304	Value	ValueOutput
+P12: Efx Bit Qnt	0	4194304	Value	ValueOutput
+P12: Efx Bit Mix	0	4194304	Value	ValueOutput
+P12: Efx Phs Frq	0	4194304	Value	ValueOutput
+P12: Efx Phs Mix	0	4194304	Value	ValueOutput
+P12: Mix Del Amt	0	4194304	Value	ValueOutput
+P12: Mix Chr Amt	0	4194304	Value	ValueOutput
+P12: Mix Rev Amt	0	4194304	Value	ValueOutput
+P12: Mix Dry Amt	0	4194304	Value	ValueOutput
+P12: Tsr Tim Amt	0	4194304	Value	ValueOutput
+P12: Tsr Grn Amt	0	4194304	Value	ValueOutput
+P12: Tsr Sth Amt	0	4194304	Value	ValueOutput
+P12: Tsr Rsv Amt	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: Smpl Offset	0	4194304	Value	ValueOutput
+P12: Smpl Loop A	0	4194304	Value	ValueOutput
+P12: Smpl Loop B	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: ---	0	4194304	Value	ValueOutput
+P12: #Cc Pit Bnd	0	4194304	Value	ValueOutput
+P12: #Cc Mod Whl	0	4194304	Value	ValueOutput
+P12: #Cc Mst Vol	0	4194304	Value	ValueOutput
+P12: #Cc Mst Pan	0	4194304	Value	ValueOutput
+P12: #Cc Mst Exp	0	4194304	Value	ValueOutput
+P12: #Cc Res 005	0	4194304	Value	ValueOutput
+P12: #Cc Res 006	0	4194304	Value	ValueOutput
+P12: #Cc Res 007	0	4194304	Value	ValueOutput
+P12: #Cc Res 008	0	4194304	Value	ValueOutput
+P12: #Cc Res 009	0	4194304	Value	ValueOutput
+P12: #Cc Res 010	0	4194304	Value	ValueOutput
+P12: #Cc Res 011	0	4194304	Value	ValueOutput
+P12: #Cc Res 012	0	4194304	Value	ValueOutput
+P12: #Cc Res 013	0	4194304	Value	ValueOutput
+P12: #Cc Res 014	0	4194304	Value	ValueOutput
+P12: #Cc Res 015	0	4194304	Value	ValueOutput
+P13: Master	0	4194304	Value	ValueOutput
+P13: Glide	0	4194304	Value	ValueOutput
+P13: Lf1 Rat	0	4194304	Value	ValueOutput
+P13: Lf1 Phs	0	4194304	Value	ValueOutput
+P13: Lf1 Att	0	4194304	Value	ValueOutput
+P13: Lf2 Rat	0	4194304	Value	ValueOutput
+P13: Lf2 Phs	0	4194304	Value	ValueOutput
+P13: Lf2 Att	0	4194304	Value	ValueOutput
+P13: Del Delay	0	4194304	Value	ValueOutput
+P13: Del Feedback	0	4194304	Value	ValueOutput
+P13: Del Lo Cut	0	4194304	Value	ValueOutput
+P13: Del Hi Cut	0	4194304	Value	ValueOutput
+P13: Rev Room	0	4194304	Value	ValueOutput
+P13: Rev Damp	0	4194304	Value	ValueOutput
+P13: Rev Diff	0	4194304	Value	ValueOutput
+P13: Rev Decay	0	4194304	Value	ValueOutput
+P13: Chr Delay	0	4194304	Value	ValueOutput
+P13: Chr Depth	0	4194304	Value	ValueOutput
+P13: Chr Rate	0	4194304	Value	ValueOutput
+P13: Chr Feedback	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: Mod Val 1	0	4194304	Value	ValueOutput
+P13: Mod Val 2	0	4194304	Value	ValueOutput
+P13: Mod Val 3	0	4194304	Value	ValueOutput
+P13: Mod Val 4	0	4194304	Value	ValueOutput
+P13: Dst Amt A	0	4194304	Value	ValueOutput
+P13: Dst Amt B	0	4194304	Value	ValueOutput
+P13: <Reserved 0>	0	4194304	Value	ValueOutput
+P13: <Reserved 1>	0	4194304	Value	ValueOutput
+P13: Amp Env Att	0	4194304	Value	ValueOutput
+P13: Amp Env Dec	0	4194304	Value	ValueOutput
+P13: Amp Env Sus	0	4194304	Value	ValueOutput
+P13: Amp Env Rel	0	4194304	Value	ValueOutput
+P13: Mod Env Att 1	0	4194304	Value	ValueOutput
+P13: Mod Env Dec 1	0	4194304	Value	ValueOutput
+P13: Mod Env Sus 1	0	4194304	Value	ValueOutput
+P13: Mod Env Rel 1	0	4194304	Value	ValueOutput
+P13: Mod Env Att 2	0	4194304	Value	ValueOutput
+P13: Mod Env Dec 2	0	4194304	Value	ValueOutput
+P13: Mod Env Sus 2	0	4194304	Value	ValueOutput
+P13: Mod Env Rel 2	0	4194304	Value	ValueOutput
+P13: Pitch	0	4194304	Value	ValueOutput
+P13: Amp Gain	0	4194304	Value	ValueOutput
+P13: Amp Pan	0	4194304	Value	ValueOutput
+P13: Flt A Frq	0	4194304	Value	ValueOutput
+P13: Flt A Res	0	4194304	Value	ValueOutput
+P13: Flt A Shp	0	4194304	Value	ValueOutput
+P13: Flt B Frq	0	4194304	Value	ValueOutput
+P13: Flt B Res	0	4194304	Value	ValueOutput
+P13: Flt B Shp	0	4194304	Value	ValueOutput
+P13: Lfo 1 Rat	0	4194304	Value	ValueOutput
+P13: Lfo 1 Phs	0	4194304	Value	ValueOutput
+P13: Lfo 1 Att	0	4194304	Value	ValueOutput
+P13: Lfo 2 Rat	0	4194304	Value	ValueOutput
+P13: Lfo 2 Phs	0	4194304	Value	ValueOutput
+P13: Lfo 2 Att	0	4194304	Value	ValueOutput
+P13: Mod Amt P1-1	0	4194304	Value	ValueOutput
+P13: Mod Amt P1-2	0	4194304	Value	ValueOutput
+P13: Mod Amt P1-3	0	4194304	Value	ValueOutput
+P13: Mod Amt P1-4	0	4194304	Value	ValueOutput
+P13: Mod Amt P2-1	0	4194304	Value	ValueOutput
+P13: Mod Amt P2-2	0	4194304	Value	ValueOutput
+P13: Mod Amt P2-3	0	4194304	Value	ValueOutput
+P13: Mod Amt P2-4	0	4194304	Value	ValueOutput
+P13: Mod Amt P3-1	0	4194304	Value	ValueOutput
+P13: Mod Amt P3-2	0	4194304	Value	ValueOutput
+P13: Mod Amt P3-3	0	4194304	Value	ValueOutput
+P13: Mod Amt P3-4	0	4194304	Value	ValueOutput
+P13: Mod Amt P4-1	0	4194304	Value	ValueOutput
+P13: Mod Amt P4-2	0	4194304	Value	ValueOutput
+P13: Mod Amt P4-3	0	4194304	Value	ValueOutput
+P13: Mod Amt P4-4	0	4194304	Value	ValueOutput
+P13: Efx Rng Rat	0	4194304	Value	ValueOutput
+P13: Efx Rng Mix	0	4194304	Value	ValueOutput
+P13: Efx Dec Stp	0	4194304	Value	ValueOutput
+P13: Efx Dec Mix	0	4194304	Value	ValueOutput
+P13: Efx Bit Qnt	0	4194304	Value	ValueOutput
+P13: Efx Bit Mix	0	4194304	Value	ValueOutput
+P13: Efx Phs Frq	0	4194304	Value	ValueOutput
+P13: Efx Phs Mix	0	4194304	Value	ValueOutput
+P13: Mix Del Amt	0	4194304	Value	ValueOutput
+P13: Mix Chr Amt	0	4194304	Value	ValueOutput
+P13: Mix Rev Amt	0	4194304	Value	ValueOutput
+P13: Mix Dry Amt	0	4194304	Value	ValueOutput
+P13: Tsr Tim Amt	0	4194304	Value	ValueOutput
+P13: Tsr Grn Amt	0	4194304	Value	ValueOutput
+P13: Tsr Sth Amt	0	4194304	Value	ValueOutput
+P13: Tsr Rsv Amt	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: Smpl Offset	0	4194304	Value	ValueOutput
+P13: Smpl Loop A	0	4194304	Value	ValueOutput
+P13: Smpl Loop B	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: ---	0	4194304	Value	ValueOutput
+P13: #Cc Pit Bnd	0	4194304	Value	ValueOutput
+P13: #Cc Mod Whl	0	4194304	Value	ValueOutput
+P13: #Cc Mst Vol	0	4194304	Value	ValueOutput
+P13: #Cc Mst Pan	0	4194304	Value	ValueOutput
+P13: #Cc Mst Exp	0	4194304	Value	ValueOutput
+P13: #Cc Res 005	0	4194304	Value	ValueOutput
+P13: #Cc Res 006	0	4194304	Value	ValueOutput
+P13: #Cc Res 007	0	4194304	Value	ValueOutput
+P13: #Cc Res 008	0	4194304	Value	ValueOutput
+P13: #Cc Res 009	0	4194304	Value	ValueOutput
+P13: #Cc Res 010	0	4194304	Value	ValueOutput
+P13: #Cc Res 011	0	4194304	Value	ValueOutput
+P13: #Cc Res 012	0	4194304	Value	ValueOutput
+P13: #Cc Res 013	0	4194304	Value	ValueOutput
+P13: #Cc Res 014	0	4194304	Value	ValueOutput
+P13: #Cc Res 015	0	4194304	Value	ValueOutput
+P14: Master	0	4194304	Value	ValueOutput
+P14: Glide	0	4194304	Value	ValueOutput
+P14: Lf1 Rat	0	4194304	Value	ValueOutput
+P14: Lf1 Phs	0	4194304	Value	ValueOutput
+P14: Lf1 Att	0	4194304	Value	ValueOutput
+P14: Lf2 Rat	0	4194304	Value	ValueOutput
+P14: Lf2 Phs	0	4194304	Value	ValueOutput
+P14: Lf2 Att	0	4194304	Value	ValueOutput
+P14: Del Delay	0	4194304	Value	ValueOutput
+P14: Del Feedback	0	4194304	Value	ValueOutput
+P14: Del Lo Cut	0	4194304	Value	ValueOutput
+P14: Del Hi Cut	0	4194304	Value	ValueOutput
+P14: Rev Room	0	4194304	Value	ValueOutput
+P14: Rev Damp	0	4194304	Value	ValueOutput
+P14: Rev Diff	0	4194304	Value	ValueOutput
+P14: Rev Decay	0	4194304	Value	ValueOutput
+P14: Chr Delay	0	4194304	Value	ValueOutput
+P14: Chr Depth	0	4194304	Value	ValueOutput
+P14: Chr Rate	0	4194304	Value	ValueOutput
+P14: Chr Feedback	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: Mod Val 1	0	4194304	Value	ValueOutput
+P14: Mod Val 2	0	4194304	Value	ValueOutput
+P14: Mod Val 3	0	4194304	Value	ValueOutput
+P14: Mod Val 4	0	4194304	Value	ValueOutput
+P14: Dst Amt A	0	4194304	Value	ValueOutput
+P14: Dst Amt B	0	4194304	Value	ValueOutput
+P14: <Reserved 0>	0	4194304	Value	ValueOutput
+P14: <Reserved 1>	0	4194304	Value	ValueOutput
+P14: Amp Env Att	0	4194304	Value	ValueOutput
+P14: Amp Env Dec	0	4194304	Value	ValueOutput
+P14: Amp Env Sus	0	4194304	Value	ValueOutput
+P14: Amp Env Rel	0	4194304	Value	ValueOutput
+P14: Mod Env Att 1	0	4194304	Value	ValueOutput
+P14: Mod Env Dec 1	0	4194304	Value	ValueOutput
+P14: Mod Env Sus 1	0	4194304	Value	ValueOutput
+P14: Mod Env Rel 1	0	4194304	Value	ValueOutput
+P14: Mod Env Att 2	0	4194304	Value	ValueOutput
+P14: Mod Env Dec 2	0	4194304	Value	ValueOutput
+P14: Mod Env Sus 2	0	4194304	Value	ValueOutput
+P14: Mod Env Rel 2	0	4194304	Value	ValueOutput
+P14: Pitch	0	4194304	Value	ValueOutput
+P14: Amp Gain	0	4194304	Value	ValueOutput
+P14: Amp Pan	0	4194304	Value	ValueOutput
+P14: Flt A Frq	0	4194304	Value	ValueOutput
+P14: Flt A Res	0	4194304	Value	ValueOutput
+P14: Flt A Shp	0	4194304	Value	ValueOutput
+P14: Flt B Frq	0	4194304	Value	ValueOutput
+P14: Flt B Res	0	4194304	Value	ValueOutput
+P14: Flt B Shp	0	4194304	Value	ValueOutput
+P14: Lfo 1 Rat	0	4194304	Value	ValueOutput
+P14: Lfo 1 Phs	0	4194304	Value	ValueOutput
+P14: Lfo 1 Att	0	4194304	Value	ValueOutput
+P14: Lfo 2 Rat	0	4194304	Value	ValueOutput
+P14: Lfo 2 Phs	0	4194304	Value	ValueOutput
+P14: Lfo 2 Att	0	4194304	Value	ValueOutput
+P14: Mod Amt P1-1	0	4194304	Value	ValueOutput
+P14: Mod Amt P1-2	0	4194304	Value	ValueOutput
+P14: Mod Amt P1-3	0	4194304	Value	ValueOutput
+P14: Mod Amt P1-4	0	4194304	Value	ValueOutput
+P14: Mod Amt P2-1	0	4194304	Value	ValueOutput
+P14: Mod Amt P2-2	0	4194304	Value	ValueOutput
+P14: Mod Amt P2-3	0	4194304	Value	ValueOutput
+P14: Mod Amt P2-4	0	4194304	Value	ValueOutput
+P14: Mod Amt P3-1	0	4194304	Value	ValueOutput
+P14: Mod Amt P3-2	0	4194304	Value	ValueOutput
+P14: Mod Amt P3-3	0	4194304	Value	ValueOutput
+P14: Mod Amt P3-4	0	4194304	Value	ValueOutput
+P14: Mod Amt P4-1	0	4194304	Value	ValueOutput
+P14: Mod Amt P4-2	0	4194304	Value	ValueOutput
+P14: Mod Amt P4-3	0	4194304	Value	ValueOutput
+P14: Mod Amt P4-4	0	4194304	Value	ValueOutput
+P14: Efx Rng Rat	0	4194304	Value	ValueOutput
+P14: Efx Rng Mix	0	4194304	Value	ValueOutput
+P14: Efx Dec Stp	0	4194304	Value	ValueOutput
+P14: Efx Dec Mix	0	4194304	Value	ValueOutput
+P14: Efx Bit Qnt	0	4194304	Value	ValueOutput
+P14: Efx Bit Mix	0	4194304	Value	ValueOutput
+P14: Efx Phs Frq	0	4194304	Value	ValueOutput
+P14: Efx Phs Mix	0	4194304	Value	ValueOutput
+P14: Mix Del Amt	0	4194304	Value	ValueOutput
+P14: Mix Chr Amt	0	4194304	Value	ValueOutput
+P14: Mix Rev Amt	0	4194304	Value	ValueOutput
+P14: Mix Dry Amt	0	4194304	Value	ValueOutput
+P14: Tsr Tim Amt	0	4194304	Value	ValueOutput
+P14: Tsr Grn Amt	0	4194304	Value	ValueOutput
+P14: Tsr Sth Amt	0	4194304	Value	ValueOutput
+P14: Tsr Rsv Amt	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: Smpl Offset	0	4194304	Value	ValueOutput
+P14: Smpl Loop A	0	4194304	Value	ValueOutput
+P14: Smpl Loop B	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: ---	0	4194304	Value	ValueOutput
+P14: #Cc Pit Bnd	0	4194304	Value	ValueOutput
+P14: #Cc Mod Whl	0	4194304	Value	ValueOutput
+P14: #Cc Mst Vol	0	4194304	Value	ValueOutput
+P14: #Cc Mst Pan	0	4194304	Value	ValueOutput
+P14: #Cc Mst Exp	0	4194304	Value	ValueOutput
+P14: #Cc Res 005	0	4194304	Value	ValueOutput
+P14: #Cc Res 006	0	4194304	Value	ValueOutput
+P14: #Cc Res 007	0	4194304	Value	ValueOutput
+P14: #Cc Res 008	0	4194304	Value	ValueOutput
+P14: #Cc Res 009	0	4194304	Value	ValueOutput
+P14: #Cc Res 010	0	4194304	Value	ValueOutput
+P14: #Cc Res 011	0	4194304	Value	ValueOutput
+P14: #Cc Res 012	0	4194304	Value	ValueOutput
+P14: #Cc Res 013	0	4194304	Value	ValueOutput
+P14: #Cc Res 014	0	4194304	Value	ValueOutput
+P14: #Cc Res 015	0	4194304	Value	ValueOutput
+P15: Master	0	4194304	Value	ValueOutput
+P15: Glide	0	4194304	Value	ValueOutput
+P15: Lf1 Rat	0	4194304	Value	ValueOutput
+P15: Lf1 Phs	0	4194304	Value	ValueOutput
+P15: Lf1 Att	0	4194304	Value	ValueOutput
+P15: Lf2 Rat	0	4194304	Value	ValueOutput
+P15: Lf2 Phs	0	4194304	Value	ValueOutput
+P15: Lf2 Att	0	4194304	Value	ValueOutput
+P15: Del Delay	0	4194304	Value	ValueOutput
+P15: Del Feedback	0	4194304	Value	ValueOutput
+P15: Del Lo Cut	0	4194304	Value	ValueOutput
+P15: Del Hi Cut	0	4194304	Value	ValueOutput
+P15: Rev Room	0	4194304	Value	ValueOutput
+P15: Rev Damp	0	4194304	Value	ValueOutput
+P15: Rev Diff	0	4194304	Value	ValueOutput
+P15: Rev Decay	0	4194304	Value	ValueOutput
+P15: Chr Delay	0	4194304	Value	ValueOutput
+P15: Chr Depth	0	4194304	Value	ValueOutput
+P15: Chr Rate	0	4194304	Value	ValueOutput
+P15: Chr Feedback	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: Mod Val 1	0	4194304	Value	ValueOutput
+P15: Mod Val 2	0	4194304	Value	ValueOutput
+P15: Mod Val 3	0	4194304	Value	ValueOutput
+P15: Mod Val 4	0	4194304	Value	ValueOutput
+P15: Dst Amt A	0	4194304	Value	ValueOutput
+P15: Dst Amt B	0	4194304	Value	ValueOutput
+P15: <Reserved 0>	0	4194304	Value	ValueOutput
+P15: <Reserved 1>	0	4194304	Value	ValueOutput
+P15: Amp Env Att	0	4194304	Value	ValueOutput
+P15: Amp Env Dec	0	4194304	Value	ValueOutput
+P15: Amp Env Sus	0	4194304	Value	ValueOutput
+P15: Amp Env Rel	0	4194304	Value	ValueOutput
+P15: Mod Env Att 1	0	4194304	Value	ValueOutput
+P15: Mod Env Dec 1	0	4194304	Value	ValueOutput
+P15: Mod Env Sus 1	0	4194304	Value	ValueOutput
+P15: Mod Env Rel 1	0	4194304	Value	ValueOutput
+P15: Mod Env Att 2	0	4194304	Value	ValueOutput
+P15: Mod Env Dec 2	0	4194304	Value	ValueOutput
+P15: Mod Env Sus 2	0	4194304	Value	ValueOutput
+P15: Mod Env Rel 2	0	4194304	Value	ValueOutput
+P15: Pitch	0	4194304	Value	ValueOutput
+P15: Amp Gain	0	4194304	Value	ValueOutput
+P15: Amp Pan	0	4194304	Value	ValueOutput
+P15: Flt A Frq	0	4194304	Value	ValueOutput
+P15: Flt A Res	0	4194304	Value	ValueOutput
+P15: Flt A Shp	0	4194304	Value	ValueOutput
+P15: Flt B Frq	0	4194304	Value	ValueOutput
+P15: Flt B Res	0	4194304	Value	ValueOutput
+P15: Flt B Shp	0	4194304	Value	ValueOutput
+P15: Lfo 1 Rat	0	4194304	Value	ValueOutput
+P15: Lfo 1 Phs	0	4194304	Value	ValueOutput
+P15: Lfo 1 Att	0	4194304	Value	ValueOutput
+P15: Lfo 2 Rat	0	4194304	Value	ValueOutput
+P15: Lfo 2 Phs	0	4194304	Value	ValueOutput
+P15: Lfo 2 Att	0	4194304	Value	ValueOutput
+P15: Mod Amt P1-1	0	4194304	Value	ValueOutput
+P15: Mod Amt P1-2	0	4194304	Value	ValueOutput
+P15: Mod Amt P1-3	0	4194304	Value	ValueOutput
+P15: Mod Amt P1-4	0	4194304	Value	ValueOutput
+P15: Mod Amt P2-1	0	4194304	Value	ValueOutput
+P15: Mod Amt P2-2	0	4194304	Value	ValueOutput
+P15: Mod Amt P2-3	0	4194304	Value	ValueOutput
+P15: Mod Amt P2-4	0	4194304	Value	ValueOutput
+P15: Mod Amt P3-1	0	4194304	Value	ValueOutput
+P15: Mod Amt P3-2	0	4194304	Value	ValueOutput
+P15: Mod Amt P3-3	0	4194304	Value	ValueOutput
+P15: Mod Amt P3-4	0	4194304	Value	ValueOutput
+P15: Mod Amt P4-1	0	4194304	Value	ValueOutput
+P15: Mod Amt P4-2	0	4194304	Value	ValueOutput
+P15: Mod Amt P4-3	0	4194304	Value	ValueOutput
+P15: Mod Amt P4-4	0	4194304	Value	ValueOutput
+P15: Efx Rng Rat	0	4194304	Value	ValueOutput
+P15: Efx Rng Mix	0	4194304	Value	ValueOutput
+P15: Efx Dec Stp	0	4194304	Value	ValueOutput
+P15: Efx Dec Mix	0	4194304	Value	ValueOutput
+P15: Efx Bit Qnt	0	4194304	Value	ValueOutput
+P15: Efx Bit Mix	0	4194304	Value	ValueOutput
+P15: Efx Phs Frq	0	4194304	Value	ValueOutput
+P15: Efx Phs Mix	0	4194304	Value	ValueOutput
+P15: Mix Del Amt	0	4194304	Value	ValueOutput
+P15: Mix Chr Amt	0	4194304	Value	ValueOutput
+P15: Mix Rev Amt	0	4194304	Value	ValueOutput
+P15: Mix Dry Amt	0	4194304	Value	ValueOutput
+P15: Tsr Tim Amt	0	4194304	Value	ValueOutput
+P15: Tsr Grn Amt	0	4194304	Value	ValueOutput
+P15: Tsr Sth Amt	0	4194304	Value	ValueOutput
+P15: Tsr Rsv Amt	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: Smpl Offset	0	4194304	Value	ValueOutput
+P15: Smpl Loop A	0	4194304	Value	ValueOutput
+P15: Smpl Loop B	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: ---	0	4194304	Value	ValueOutput
+P15: #Cc Pit Bnd	0	4194304	Value	ValueOutput
+P15: #Cc Mod Whl	0	4194304	Value	ValueOutput
+P15: #Cc Mst Vol	0	4194304	Value	ValueOutput
+P15: #Cc Mst Pan	0	4194304	Value	ValueOutput
+P15: #Cc Mst Exp	0	4194304	Value	ValueOutput
+P15: #Cc Res 005	0	4194304	Value	ValueOutput
+P15: #Cc Res 006	0	4194304	Value	ValueOutput
+P15: #Cc Res 007	0	4194304	Value	ValueOutput
+P15: #Cc Res 008	0	4194304	Value	ValueOutput
+P15: #Cc Res 009	0	4194304	Value	ValueOutput
+P15: #Cc Res 010	0	4194304	Value	ValueOutput
+P15: #Cc Res 011	0	4194304	Value	ValueOutput
+P15: #Cc Res 012	0	4194304	Value	ValueOutput
+P15: #Cc Res 013	0	4194304	Value	ValueOutput
+P15: #Cc Res 014	0	4194304	Value	ValueOutput
+P15: #Cc Res 015	0	4194304	Value	ValueOutput
+P16: Master	0	4194304	Value	ValueOutput
+P16: Glide	0	4194304	Value	ValueOutput
+P16: Lf1 Rat	0	4194304	Value	ValueOutput
+P16: Lf1 Phs	0	4194304	Value	ValueOutput
+P16: Lf1 Att	0	4194304	Value	ValueOutput
+P16: Lf2 Rat	0	4194304	Value	ValueOutput
+P16: Lf2 Phs	0	4194304	Value	ValueOutput
+P16: Lf2 Att	0	4194304	Value	ValueOutput
+P16: Del Delay	0	4194304	Value	ValueOutput
+P16: Del Feedback	0	4194304	Value	ValueOutput
+P16: Del Lo Cut	0	4194304	Value	ValueOutput
+P16: Del Hi Cut	0	4194304	Value	ValueOutput
+P16: Rev Room	0	4194304	Value	ValueOutput
+P16: Rev Damp	0	4194304	Value	ValueOutput
+P16: Rev Diff	0	4194304	Value	ValueOutput
+P16: Rev Decay	0	4194304	Value	ValueOutput
+P16: Chr Delay	0	4194304	Value	ValueOutput
+P16: Chr Depth	0	4194304	Value	ValueOutput
+P16: Chr Rate	0	4194304	Value	ValueOutput
+P16: Chr Feedback	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: Mod Val 1	0	4194304	Value	ValueOutput
+P16: Mod Val 2	0	4194304	Value	ValueOutput
+P16: Mod Val 3	0	4194304	Value	ValueOutput
+P16: Mod Val 4	0	4194304	Value	ValueOutput
+P16: Dst Amt A	0	4194304	Value	ValueOutput
+P16: Dst Amt B	0	4194304	Value	ValueOutput
+P16: <Reserved 0>	0	4194304	Value	ValueOutput
+P16: <Reserved 1>	0	4194304	Value	ValueOutput
+P16: Amp Env Att	0	4194304	Value	ValueOutput
+P16: Amp Env Dec	0	4194304	Value	ValueOutput
+P16: Amp Env Sus	0	4194304	Value	ValueOutput
+P16: Amp Env Rel	0	4194304	Value	ValueOutput
+P16: Mod Env Att 1	0	4194304	Value	ValueOutput
+P16: Mod Env Dec 1	0	4194304	Value	ValueOutput
+P16: Mod Env Sus 1	0	4194304	Value	ValueOutput
+P16: Mod Env Rel 1	0	4194304	Value	ValueOutput
+P16: Mod Env Att 2	0	4194304	Value	ValueOutput
+P16: Mod Env Dec 2	0	4194304	Value	ValueOutput
+P16: Mod Env Sus 2	0	4194304	Value	ValueOutput
+P16: Mod Env Rel 2	0	4194304	Value	ValueOutput
+P16: Pitch	0	4194304	Value	ValueOutput
+P16: Amp Gain	0	4194304	Value	ValueOutput
+P16: Amp Pan	0	4194304	Value	ValueOutput
+P16: Flt A Frq	0	4194304	Value	ValueOutput
+P16: Flt A Res	0	4194304	Value	ValueOutput
+P16: Flt A Shp	0	4194304	Value	ValueOutput
+P16: Flt B Frq	0	4194304	Value	ValueOutput
+P16: Flt B Res	0	4194304	Value	ValueOutput
+P16: Flt B Shp	0	4194304	Value	ValueOutput
+P16: Lfo 1 Rat	0	4194304	Value	ValueOutput
+P16: Lfo 1 Phs	0	4194304	Value	ValueOutput
+P16: Lfo 1 Att	0	4194304	Value	ValueOutput
+P16: Lfo 2 Rat	0	4194304	Value	ValueOutput
+P16: Lfo 2 Phs	0	4194304	Value	ValueOutput
+P16: Lfo 2 Att	0	4194304	Value	ValueOutput
+P16: Mod Amt P1-1	0	4194304	Value	ValueOutput
+P16: Mod Amt P1-2	0	4194304	Value	ValueOutput
+P16: Mod Amt P1-3	0	4194304	Value	ValueOutput
+P16: Mod Amt P1-4	0	4194304	Value	ValueOutput
+P16: Mod Amt P2-1	0	4194304	Value	ValueOutput
+P16: Mod Amt P2-2	0	4194304	Value	ValueOutput
+P16: Mod Amt P2-3	0	4194304	Value	ValueOutput
+P16: Mod Amt P2-4	0	4194304	Value	ValueOutput
+P16: Mod Amt P3-1	0	4194304	Value	ValueOutput
+P16: Mod Amt P3-2	0	4194304	Value	ValueOutput
+P16: Mod Amt P3-3	0	4194304	Value	ValueOutput
+P16: Mod Amt P3-4	0	4194304	Value	ValueOutput
+P16: Mod Amt P4-1	0	4194304	Value	ValueOutput
+P16: Mod Amt P4-2	0	4194304	Value	ValueOutput
+P16: Mod Amt P4-3	0	4194304	Value	ValueOutput
+P16: Mod Amt P4-4	0	4194304	Value	ValueOutput
+P16: Efx Rng Rat	0	4194304	Value	ValueOutput
+P16: Efx Rng Mix	0	4194304	Value	ValueOutput
+P16: Efx Dec Stp	0	4194304	Value	ValueOutput
+P16: Efx Dec Mix	0	4194304	Value	ValueOutput
+P16: Efx Bit Qnt	0	4194304	Value	ValueOutput
+P16: Efx Bit Mix	0	4194304	Value	ValueOutput
+P16: Efx Phs Frq	0	4194304	Value	ValueOutput
+P16: Efx Phs Mix	0	4194304	Value	ValueOutput
+P16: Mix Del Amt	0	4194304	Value	ValueOutput
+P16: Mix Chr Amt	0	4194304	Value	ValueOutput
+P16: Mix Rev Amt	0	4194304	Value	ValueOutput
+P16: Mix Dry Amt	0	4194304	Value	ValueOutput
+P16: Tsr Tim Amt	0	4194304	Value	ValueOutput
+P16: Tsr Grn Amt	0	4194304	Value	ValueOutput
+P16: Tsr Sth Amt	0	4194304	Value	ValueOutput
+P16: Tsr Rsv Amt	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: Smpl Offset	0	4194304	Value	ValueOutput
+P16: Smpl Loop A	0	4194304	Value	ValueOutput
+P16: Smpl Loop B	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: ---	0	4194304	Value	ValueOutput
+P16: #Cc Pit Bnd	0	4194304	Value	ValueOutput
+P16: #Cc Mod Whl	0	4194304	Value	ValueOutput
+P16: #Cc Mst Vol	0	4194304	Value	ValueOutput
+P16: #Cc Mst Pan	0	4194304	Value	ValueOutput
+P16: #Cc Mst Exp	0	4194304	Value	ValueOutput
+P16: #Cc Res 005	0	4194304	Value	ValueOutput
+P16: #Cc Res 006	0	4194304	Value	ValueOutput
+P16: #Cc Res 007	0	4194304	Value	ValueOutput
+P16: #Cc Res 008	0	4194304	Value	ValueOutput
+P16: #Cc Res 009	0	4194304	Value	ValueOutput
+P16: #Cc Res 010	0	4194304	Value	ValueOutput
+P16: #Cc Res 011	0	4194304	Value	ValueOutput
+P16: #Cc Res 012	0	4194304	Value	ValueOutput
+P16: #Cc Res 013	0	4194304	Value	ValueOutput
+P16: #Cc Res 014	0	4194304	Value	ValueOutput
+P16: #Cc Res 015	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,70 @@
+Scope
+Manufacturer	Model
+D16 Group Audio Software	vst.N1tH.Nithonat x64
+Note: Will match scope definitions for vst.N1tH.Nithonat x64 or vst.N1tH
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bass Drum Level	0	4194304	Value	ValueOutput
+Snare Drum Leve	0	4194304	Value	ValueOutput
+Low Tom Level	0	4194304	Value	ValueOutput
+Hi Tom Level	0	4194304	Value	ValueOutput
+Cymbal Level	0	4194304	Value	ValueOutput
+Open Hi Hat Lev	0	4194304	Value	ValueOutput
+Closed Hi Hat L	0	4194304	Value	ValueOutput
+Accent Level	0	4194304	Value	ValueOutput
+Bass Drum Tune	0	4194304	Value	ValueOutput
+Bass Drum Attac	0	4194304	Value	ValueOutput
+Bass Drum Decay	0	4194304	Value	ValueOutput
+Snare Drum Tune	0	4194304	Value	ValueOutput
+Snare Drum Tone	0	4194304	Value	ValueOutput
+Snare Drum Snap	0	4194304	Value	ValueOutput
+Low Tom Tune	0	4194304	Value	ValueOutput
+Low Tom Decay	0	4194304	Value	ValueOutput
+Hi Tom Tune	0	4194304	Value	ValueOutput
+Hi Tom Decay	0	4194304	Value	ValueOutput
+Cymbal Tone	0	4194304	Value	ValueOutput
+Cymbal Decay	0	4194304	Value	ValueOutput
+Open Hi Hat Dec	0	4194304	Value	ValueOutput
+Closed Hi Hat D	0	4194304	Value	ValueOutput
+Toms Link Mode	0	4194304	Value	ValueOutput
+Hi Hats Link Mo	0	4194304	Value	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Bass Drum Mute	0	4194304	Value	ValueOutput
+Snare Drum Mute	0	4194304	Value	ValueOutput
+Low Tom Mute	0	4194304	Value	ValueOutput
+Hi Tom Mute	0	4194304	Value	ValueOutput
+Cymbal Mute	0	4194304	Value	ValueOutput
+Open Hi Hat Mut	0	4194304	Value	ValueOutput
+Closed Hi Hat M	0	4194304	Value	ValueOutput
+Bass Drum Solo	0	4194304	Value	ValueOutput
+Snare Drum Solo	0	4194304	Value	ValueOutput
+Low Tom Solo	0	4194304	Value	ValueOutput
+Hi Tom Solo	0	4194304	Value	ValueOutput
+Cymbal Solo	0	4194304	Value	ValueOutput
+Open Hi Hat Sol	0	4194304	Value	ValueOutput
+Closed Hi Hat S	0	4194304	Value	ValueOutput
+Bass Drum Rand 	0	4194304	Value	ValueOutput
+Snare Drum Rand	0	4194304	Value	ValueOutput
+Low Tom Rand Th	0	4194304	Value	ValueOutput
+Hi Tom Rand Thr	0	4194304	Value	ValueOutput
+Cymbal Rand Thr	0	4194304	Value	ValueOutput
+Open Hi Hat Ran	0	4194304	Value	ValueOutput
+Closed Hi Hat R	0	4194304	Value	ValueOutput
+Accent Rand Thr	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

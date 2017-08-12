@@ -1,0 +1,59 @@
+Scope
+Manufacturer	Model
+ToneCarver	vst.tcST.tcStretch_64
+Note: Will match scope definitions for vst.tcST.tcStretch_64 or vst.tcST
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Level	0	4194304	Value	ValueOutput
+FFT_Size	0	4194304	Value	ValueOutput
+RateTran	0	4194304	Value	ValueOutput
+RateNom	0	4194304	Value	ValueOutput
+RateSame	0	4194304	Value	ValueOutput
+RateXtrm	0	4194304	Value	ValueOutput
+BlurTran	0	4194304	Value	ValueOutput
+BlurNom	0	4194304	Value	ValueOutput
+BlurSame	0	4194304	Value	ValueOutput
+Dir	0	4194304	Value	ValueOutput
+Audition	0	4194304	Value	ValueOutput
+TrScale	0	4194304	Value	ValueOutput
+Pitch	0	4194304	Value	ValueOutput
+Wander	0	4194304	Value	ValueOutput
+BlurPure	0	4194304	Value	ValueOutput
+Meters	0	4194304	Value	ValueOutput
+W.Stay	0	4194304	Value	ValueOutput
+W.Pref	0	4194304	Value	ValueOutput
+H.Enab1	0	4194304	Value	ValueOutput
+H.Enab2	0	4194304	Value	ValueOutput
+H.Enab3	0	4194304	Value	ValueOutput
+H.Gain1	0	4194304	Value	ValueOutput
+H.Gain2	0	4194304	Value	ValueOutput
+H.Gain3	0	4194304	Value	ValueOutput
+Play	0	4194304	Value	ValueOutput
+Stop	0	4194304	Value	ValueOutput
+Pause	0	4194304	Value	ValueOutput
+PosBegin	0	4194304	Value	ValueOutput
+PosEnd	0	4194304	Value	ValueOutput
+PosRand	0	4194304	Value	ValueOutput
+HostSync	0	4194304	Value	ValueOutput
+Semiton	0	4194304	Value	ValueOutput
+W.Enab	0	4194304	Value	ValueOutput
+Fwd	0	4194304	Value	ValueOutput
+Rev	0	4194304	Value	ValueOutput
+FwdRev	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

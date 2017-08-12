@@ -1,0 +1,70 @@
+Scope
+Manufacturer	Model
+Sound Radix	vst.dlvl.DrumLeveler
+Note: Will match scope definitions for vst.dlvl.DrumLeveler or vst.dlvl
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Enabled	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Chan 1 Low Thre	0	4194304	Value	ValueOutput
+Chan 1 High Thr	0	4194304	Value	ValueOutput
+Chan 1 Target L	0	4194304	Value	ValueOutput
+Chan 1 Compress	0	4194304	Value	ValueOutput
+Chan 1 Hold Tim	0	4194304	Value	ValueOutput
+Chan 1 Recovery	0	4194304	Value	ValueOutput
+Chan 1 Min. Ret	0	4194304	Value	ValueOutput
+Chan 1 Input Ga	0	4194304	Value	ValueOutput
+Chan 1 Output G	0	4194304	Value	ValueOutput
+Chan 1 Mute Inp	0	4194304	Value	ValueOutput
+Chan 1 Mute Out	0	4194304	Value	ValueOutput
+Chan 1 Gain Ran	0	4194304	Value	ValueOutput
+Chan 1 SCF On	0	4194304	Value	ValueOutput
+Chan 1 SCF Low 	0	4194304	Value	ValueOutput
+Chan 1 SCF High	0	4194304	Value	ValueOutput
+Chan 1 SCF Band	0	4194304	Value	ValueOutput
+Chan 1 SCF Solo	0	4194304	Value	ValueOutput
+Chan 1 S-Curve	0	4194304	Value	ValueOutput
+Chan 2 Low Thre	0	4194304	Value	ValueOutput
+Chan 2 High Thr	0	4194304	Value	ValueOutput
+Chan 2 Target L	0	4194304	Value	ValueOutput
+Chan 2 Compress	0	4194304	Value	ValueOutput
+Chan 2 Hold Tim	0	4194304	Value	ValueOutput
+Chan 2 Recovery	0	4194304	Value	ValueOutput
+Chan 2 Min. Ret	0	4194304	Value	ValueOutput
+Chan 2 Input Ga	0	4194304	Value	ValueOutput
+Chan 2 Output G	0	4194304	Value	ValueOutput
+Chan 2 Mute Inp	0	4194304	Value	ValueOutput
+Chan 2 Mute Out	0	4194304	Value	ValueOutput
+Chan 2 Gain Ran	0	4194304	Value	ValueOutput
+Chan 2 SCF On	0	4194304	Value	ValueOutput
+Chan 2 SCF Low 	0	4194304	Value	ValueOutput
+Chan 2 SCF High	0	4194304	Value	ValueOutput
+Chan 2 SCF Band	0	4194304	Value	ValueOutput
+Chan 2 SCF Solo	0	4194304	Value	ValueOutput
+Chan 2 S-Curve	0	4194304	Value	ValueOutput
+Link Input	0	4194304	Value	ValueOutput
+Link Output	0	4194304	Value	ValueOutput
+Link Params	0	4194304	Value	ValueOutput
+Chan 1 Gate Ran	0	4194304	Value	ValueOutput
+Chan 1 Sensitiv	0	4194304	Value	ValueOutput
+Chan 1 Use Side	0	4194304	Value	ValueOutput
+Chan 2 Gate Ran	0	4194304	Value	ValueOutput
+Chan 2 Sensitiv	0	4194304	Value	ValueOutput
+Chan 2 Use Side	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

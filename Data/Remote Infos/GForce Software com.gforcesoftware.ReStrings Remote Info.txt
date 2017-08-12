@@ -1,0 +1,78 @@
+Scope
+Manufacturer	Model
+GForce Software	com.gforcesoftware.ReStrings
+
+Remotable	Min	Max	Input type	Output type
+Tune A	0	24	Value	ValueOutput
+Detune A	0	4194304	Value	ValueOutput
+Pan A	0	4194304	Value	ValueOutput
+Level A	0	4194304	Value	ValueOutput
+Mute A	0	1	Toggle	ValueOutput
+Tune B	0	24	Value	ValueOutput
+Detune B	0	4194304	Value	ValueOutput
+Pan B	0	4194304	Value	ValueOutput
+Level B	0	4194304	Value	ValueOutput
+Mute B	0	1	Toggle	ValueOutput
+LFO Speed A	0	4194304	Value	ValueOutput
+LFO Speed Sync A	0	15	Value	ValueOutput
+LFO Amount A	0	4194304	Value	ValueOutput
+LFO Sync A	0	1	Toggle	ValueOutput
+LFO Mode A	0	1	Toggle	ValueOutput
+LFO Speed B	0	4194304	Value	ValueOutput
+LFO Speed Sync B	0	15	Value	ValueOutput
+LFO Amount B	0	4194304	Value	ValueOutput
+LFO Sync B	0	1	Toggle	ValueOutput
+LFO Mode B	0	1	Toggle	ValueOutput
+Cutoff A	0	4194304	Value	ValueOutput
+Resonance A	0	4194304	Value	ValueOutput
+Filter Mode A	0	2	Value	ValueOutput
+Filter Env Attack A	0	4194304	Value	ValueOutput
+Filter Env Decay A	0	4194304	Value	ValueOutput
+Filter Env Sustain A	0	4194304	Value	ValueOutput
+Filter Env Release A	0	4194304	Value	ValueOutput
+Filter Env Amount A	0	4194304	Value	ValueOutput
+Cutoff B	0	4194304	Value	ValueOutput
+Resonance B	0	4194304	Value	ValueOutput
+Filter Mode B	0	2	Value	ValueOutput
+Filter Env Attack B	0	4194304	Value	ValueOutput
+Filter Env Decay B	0	4194304	Value	ValueOutput
+Filter Env Sustain B	0	4194304	Value	ValueOutput
+Filter Env Release B	0	4194304	Value	ValueOutput
+Filter Env Amount B	0	4194304	Value	ValueOutput
+Amp Env Attack A	0	4194304	Value	ValueOutput
+Amp Env Decay A	0	4194304	Value	ValueOutput
+Amp Env Sustain A	0	4194304	Value	ValueOutput
+Amp Env Release A	0	4194304	Value	ValueOutput
+Amp Env Attack B	0	4194304	Value	ValueOutput
+Amp Env Decay B	0	4194304	Value	ValueOutput
+Amp Env Sustain B	0	4194304	Value	ValueOutput
+Amp Env Release B	0	4194304	Value	ValueOutput
+Phaser Speed Sync	0	15	Value	ValueOutput
+Phaser Speed	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Phaser Freq	0	4194304	Value	ValueOutput
+Phaser Resonance	0	4194304	Value	ValueOutput
+Phaser Mode	0	1	Toggle	ValueOutput
+Phaser Mix	0	4194304	Value	ValueOutput
+Phaser Sync	0	1	Toggle	ValueOutput
+Ensemble Voices	0	3	Value	ValueOutput
+Ensemble Detune	0	4194304	Value	ValueOutput
+Ensemble Mix	0	4194304	Value	ValueOutput
+Master Width	0	4194304	Value	ValueOutput
+Velocity to VCF	0	4194304	Value	ValueOutput
+Velocity to Amp	0	4194304	Value	ValueOutput
+Master Bend	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Instrument A	0	65	Value	ValueOutput
+Instrument B	0	65	Value	ValueOutput
+Master Gain	0	4194304	Value	ValueOutput
+Master Tune	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

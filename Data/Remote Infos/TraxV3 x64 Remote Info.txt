@@ -1,0 +1,119 @@
+Scope
+Manufacturer	Model
+Flux:: - IRCAM	vst.ftrx.TraxV3 x64
+Note: Will match scope definitions for vst.ftrx.TraxV3 x64 or vst.ftrx
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Morphing	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Polyphonic	0	4194304	Value	ValueOutput
+Window Size	0	4194304	Value	ValueOutput
+Overlapp	0	4194304	Value	ValueOutput
+Oversampling	0	4194304	Value	ValueOutput
+Tune Frequency	0	4194304	Value	ValueOutput
+Transpose Mode	0	4194304	Value	ValueOutput
+Transient	0	4194304	Value	ValueOutput
+Source Preset	0	4194304	Value	ValueOutput
+Source Register	0	4194304	Value	ValueOutput
+Source Fundamental Freq.	0	4194304	Value	ValueOutput
+Source Fundamental Freq.	0	4194304	Value	ValueOutput
+Source Fundamental Freq.	0	4194304	Value	ValueOutput
+Target Preset	0	4194304	Value	ValueOutput
+Target Register	0	4194304	Value	ValueOutput
+Target Fundamental Freq.	0	4194304	Value	ValueOutput
+Target Transpose	0	4194304	Value	ValueOutput
+Target Formant	0	4194304	Value	ValueOutput
+Target Age	0	4194304	Value	ValueOutput
+Target Gender	0	4194304	Value	ValueOutput
+Target Expression	0	4194304	Value	ValueOutput
+Target Expression Integr	0	4194304	Value	ValueOutput
+Target Breathy	0	4194304	Value	ValueOutput
+Remix	0	4194304	Value	ValueOutput
+Remix Sinus Mute	0	4194304	Value	ValueOutput
+Remix Sinus Gain	0	4194304	Value	ValueOutput
+Remix Noise Mute	0	4194304	Value	ValueOutput
+Remix Noise Gain	0	4194304	Value	ValueOutput
+Remix Noise Error	0	4194304	Value	ValueOutput
+Remix Transient Mute	0	4194304	Value	ValueOutput
+Remix Transient Gain	0	4194304	Value	ValueOutput
+Remix Transient Relax	0	4194304	Value	ValueOutput
+Formant Modulation Enabl	0	4194304	Value	ValueOutput
+Formant Modulation Sync	0	4194304	Value	ValueOutput
+Formant Modulation Wave 	0	4194304	Value	ValueOutput
+Formant Modulation Frequ	0	4194304	Value	ValueOutput
+Formant Modulation Depth	0	4194304	Value	ValueOutput
+Formant Modulation Rando	0	4194304	Value	ValueOutput
+Formant Modulation Freq.	0	4194304	Value	ValueOutput
+Formant Modulation Depth	0	4194304	Value	ValueOutput
+Transpose Modulation Ena	0	4194304	Value	ValueOutput
+Transpose Modulation Syn	0	4194304	Value	ValueOutput
+Transpose Modulation Wav	0	4194304	Value	ValueOutput
+Transpose Modulation Fre	0	4194304	Value	ValueOutput
+Transpose Modulation Dep	0	4194304	Value	ValueOutput
+Transpose Modulation Ran	0	4194304	Value	ValueOutput
+Transpose Modulation Fre	0	4194304	Value	ValueOutput
+Transpose Modulation Dep	0	4194304	Value	ValueOutput
+HighPass Enabled	0	4194304	Value	ValueOutput
+HighPass Post	0	4194304	Value	ValueOutput
+HighPass Frequency	0	4194304	Value	ValueOutput
+LowPass Enabled	0	4194304	Value	ValueOutput
+LowPass Post	0	4194304	Value	ValueOutput
+LowPass Frequency	0	4194304	Value	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Spectral Envelop	0	4194304	Value	ValueOutput
+Spectral Envelop Num Poi	0	4194304	Value	ValueOutput
+Spectral Envelop In 1	0	4194304	Value	ValueOutput
+Spectral Envelop Out 1	0	4194304	Value	ValueOutput
+Spectral Envelop In 2	0	4194304	Value	ValueOutput
+Spectral Envelop Out 2	0	4194304	Value	ValueOutput
+Spectral Envelop In 3	0	4194304	Value	ValueOutput
+Spectral Envelop Out 3	0	4194304	Value	ValueOutput
+Spectral Envelop In 4	0	4194304	Value	ValueOutput
+Spectral Envelop Out 4	0	4194304	Value	ValueOutput
+Spectral Envelop In 5	0	4194304	Value	ValueOutput
+Spectral Envelop Out 5	0	4194304	Value	ValueOutput
+Spectral Envelop In 6	0	4194304	Value	ValueOutput
+Spectral Envelop Out 6	0	4194304	Value	ValueOutput
+Spectral Envelop In 7	0	4194304	Value	ValueOutput
+Spectral Envelop Out 7	0	4194304	Value	ValueOutput
+Spectral Envelop In 8	0	4194304	Value	ValueOutput
+Spectral Envelop Out 8	0	4194304	Value	ValueOutput
+Spectral Envelop In 9	0	4194304	Value	ValueOutput
+Spectral Envelop Out 9	0	4194304	Value	ValueOutput
+Spectral Envelop In 10	0	4194304	Value	ValueOutput
+Spectral Envelop Out 10	0	4194304	Value	ValueOutput
+Spectral Envelop In 11	0	4194304	Value	ValueOutput
+Spectral Envelop Out 11	0	4194304	Value	ValueOutput
+Spectral Envelop In 12	0	4194304	Value	ValueOutput
+Spectral Envelop Out 12	0	4194304	Value	ValueOutput
+Spectral Envelop In 13	0	4194304	Value	ValueOutput
+Spectral Envelop Out 13	0	4194304	Value	ValueOutput
+Spectral Envelop In 14	0	4194304	Value	ValueOutput
+Spectral Envelop Out 14	0	4194304	Value	ValueOutput
+Spectral Envelop In 15	0	4194304	Value	ValueOutput
+Spectral Envelop Out 15	0	4194304	Value	ValueOutput
+Spectral Envelop In 16	0	4194304	Value	ValueOutput
+Spectral Envelop Out 16	0	4194304	Value	ValueOutput
+CurrentSkinDisplay	0	4194304	Value	ValueOutput
+CurrentSkinHighLight	0	4194304	Value	ValueOutput
+Morphing Automation	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

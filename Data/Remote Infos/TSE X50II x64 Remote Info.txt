@@ -1,0 +1,84 @@
+Scope
+Manufacturer	Model
+TSE AUDIO	vst.hhw5.TSE X50II x64
+Note: Will match scope definitions for vst.hhw5.TSE X50II x64 or vst.hhw5
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Oversample	0	4194304	Value	ValueOutput
+Quality	0	4194304	Value	ValueOutput
+Stereo	0	4194304	Value	ValueOutput
+Input dB	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+NoiseGate: Attack	0	4194304	Value	ValueOutput
+NoiseGate: Release	0	4194304	Value	ValueOutput
+NoiseGate: Threshold	0	4194304	Value	ValueOutput
+TSE808: Drive	0	4194304	Value	ValueOutput
+TSE808: Tone	0	4194304	Value	ValueOutput
+TSE808: Balance	0	4194304	Value	ValueOutput
+TSE808: Bypass	0	4194304	Value	ValueOutput
+X50: Channel	0	4194304	Value	ValueOutput
+X50: GRN: PreGain	0	4194304	Value	ValueOutput
+X50: GRN: Bass	0	4194304	Value	ValueOutput
+X50: GRN: Mid	0	4194304	Value	ValueOutput
+X50: GRN: Treble	0	4194304	Value	ValueOutput
+X50: GRN: PostGain	0	4194304	Value	ValueOutput
+X50: GRN: Low End	0	4194304	Value	ValueOutput
+X50: GRN: Presence	0	4194304	Value	ValueOutput
+X50: RED: PreGain	0	4194304	Value	ValueOutput
+X50: RED: Bass	0	4194304	Value	ValueOutput
+X50: RED: Mid	0	4194304	Value	ValueOutput
+X50: RED: Treble	0	4194304	Value	ValueOutput
+X50: RED: PostGain	0	4194304	Value	ValueOutput
+X50: RED: Low End	0	4194304	Value	ValueOutput
+X50: RED: Presence	0	4194304	Value	ValueOutput
+X50: Bright	0	4194304	Value	ValueOutput
+X50: Crunch	0	4194304	Value	ValueOutput
+X50: Bias EL34	0	4194304	Value	ValueOutput
+X50: Bias 6L6	0	4194304	Value	ValueOutput
+X50: Disable Preamp	0	4194304	Value	ValueOutput
+X50: Disable Poweramp	0	4194304	Value	ValueOutput
+X50: Red Mode	0	4194304	Value	ValueOutput
+X50: Bypass	0	4194304	Value	ValueOutput
+IR: Delay	0	4194304	Value	ValueOutput
+IR: Length	0	4194304	Value	ValueOutput
+IR: Width/Pan	0	4194304	Value	ValueOutput
+IR: Movement	0	4194304	Value	ValueOutput
+IR: Volume	0	4194304	Value	ValueOutput
+IR: Phase Invert	0	4194304	Value	ValueOutput
+IR: Disable	0	4194304	Value	ValueOutput
+Delay: Power	0	4194304	Value	ValueOutput
+Delay: Milliseconds	0	4194304	Value	ValueOutput
+Delay: Sync	0	4194304	Value	ValueOutput
+Delay: Feedback	0	4194304	Value	ValueOutput
+Delay: Mix	0	4194304	Value	ValueOutput
+Delay: Width	0	4194304	Value	ValueOutput
+Delay: Low	0	4194304	Value	ValueOutput
+Delay: High	0	4194304	Value	ValueOutput
+Delay: Pong	0	4194304	Value	ValueOutput
+EQ: Power	0	4194304	Value	ValueOutput
+EQ: Hipass	0	4194304	Value	ValueOutput
+EQ: Low shelf	0	4194304	Value	ValueOutput
+EQ: Low shelf Gain	0	4194304	Value	ValueOutput
+EQ: Band	0	4194304	Value	ValueOutput
+EQ: Band Gain	0	4194304	Value	ValueOutput
+EQ: Hi shelf	0	4194304	Value	ValueOutput
+EQ: Hi shelf Gain	0	4194304	Value	ValueOutput
+EQ: Lowpass	0	4194304	Value	ValueOutput
+EQ: Volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

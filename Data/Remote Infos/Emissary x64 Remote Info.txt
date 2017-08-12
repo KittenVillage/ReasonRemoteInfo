@@ -1,0 +1,53 @@
+Scope
+Manufacturer	Model
+Ignite Amps	vst.EMS1.Emissary x64
+Note: Will match scope definitions for vst.EMS1.Emissary x64 or vst.EMS1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input level	0	4194304	Value	ValueOutput
+Channel	0	4194304	Value	ValueOutput
+Clean Gain	0	4194304	Value	ValueOutput
+Clean Bright	0	4194304	Value	ValueOutput
+Clean Bass	0	4194304	Value	ValueOutput
+Clean Mids	0	4194304	Value	ValueOutput
+Clean Treble	0	4194304	Value	ValueOutput
+Clean Volume	0	4194304	Value	ValueOutput
+Lead Gain	0	4194304	Value	ValueOutput
+Lead Bright	0	4194304	Value	ValueOutput
+Lead Deep	0	4194304	Value	ValueOutput
+Lead Bass	0	4194304	Value	ValueOutput
+Lead Lo Mids	0	4194304	Value	ValueOutput
+Lead Hi Mids	0	4194304	Value	ValueOutput
+Lead Treble	0	4194304	Value	ValueOutput
+Lead Volume	0	4194304	Value	ValueOutput
+Lead Shape	0	4194304	Value	ValueOutput
+Boost	0	4194304	Value	ValueOutput
+Boost Level	0	4194304	Value	ValueOutput
+Power Amp	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Presence	0	4194304	Value	ValueOutput
+Bias Main	0	4194304	Value	ValueOutput
+Bias Push	0	4194304	Value	ValueOutput
+Bias Pull	0	4194304	Value	ValueOutput
+Power Tubes	0	4194304	Value	ValueOutput
+Output level	0	4194304	Value	ValueOutput
+Oversampling	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Power	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

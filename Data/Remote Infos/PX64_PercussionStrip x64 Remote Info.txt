@@ -1,0 +1,65 @@
+Scope
+Manufacturer	Model
+Cakewalk	vst.CWps.PX64_PercussionStrip x64
+Note: Will match scope definitions for vst.CWps.PX64_PercussionStrip x64 or vst.CWps
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Plug-in Enable	0	4194304	Value	ValueOutput
+Input Tube Enable	0	4194304	Value	ValueOutput
+Input Gain Enable	0	4194304	Value	ValueOutput
+Input Tube Saturation	0	4194304	Value	ValueOutput
+Compressor Enabletion	0	4194304	Value	ValueOutput
+Compressor Threshtion	0	4194304	Value	ValueOutput
+Compressor Ratiohtion	0	4194304	Value	ValueOutput
+Expander Enableohtion	0	4194304	Value	ValueOutput
+Expander Threshohtion	0	4194304	Value	ValueOutput
+Expander Ratio	0	4194304	Value	ValueOutput
+EQ Enable	0	4194304	Value	ValueOutput
+EQ Low Freq	0	4194304	Value	ValueOutput
+EQ Low Gain	0	4194304	Value	ValueOutput
+EQ Highpass Modehtion	0	4194304	Value	ValueOutput
+EQ Lo-Mid Freq	0	4194304	Value	ValueOutput
+EQ Lo-Mid Gain	0	4194304	Value	ValueOutput
+EQ Lo-Mid Vintage Mode	0	4194304	Value	ValueOutput
+EQ Hi-Mid Freq	0	4194304	Value	ValueOutput
+EQ Hi-Mid Gain	0	4194304	Value	ValueOutput
+EQ Hi-Mid Vintage Mode	0	4194304	Value	ValueOutput
+EQ High Freq	0	4194304	Value	ValueOutput
+EQ High Gain	0	4194304	Value	ValueOutput
+EQ Lowpass Modege Mode	0	4194304	Value	ValueOutput
+Shaper Enable	0	4194304	Value	ValueOutput
+Shaper Attack	0	4194304	Value	ValueOutput
+Shaper Weight	0	4194304	Value	ValueOutput
+Shaper Decayt	0	4194304	Value	ValueOutput
+Shaper Weight Colorode	0	4194304	Value	ValueOutput
+Shaper Decay Colorrode	0	4194304	Value	ValueOutput
+Delay Enable Colorrode	0	4194304	Value	ValueOutput
+Delay Sync Enablerrode	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Level	0	4194304	Value	ValueOutput
+Delay Stereo	0	4194304	Value	ValueOutput
+Delay Filter Moderrode	0	4194304	Value	ValueOutput
+Delay Filter Freqrrode	0	4194304	Value	ValueOutput
+Delay Smooth	0	4194304	Value	ValueOutput
+Output Tube Enablerode	0	4194304	Value	ValueOutput
+Output Gain Enablerode	0	4194304	Value	ValueOutput
+Output Tube Saturation	0	4194304	Value	ValueOutput
+Reservedube Saturation	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

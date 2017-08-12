@@ -1,0 +1,67 @@
+Scope
+Manufacturer	Model
+Waves	vst.MQ4S.WaveShell-VST 9_91_x64.EMO-Q4 Stereo
+Note: Will match scope definitions for vst.MQ4S.WaveShell-VST 9_91_x64.EMO-Q4 Stereo or vst.MQ4S
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Band1 On/Off-L	0	4194304	Value	ValueOutput
+Band1 On/Off-R	0	4194304	Value	ValueOutput
+Band1 Type-L	0	4194304	Value	ValueOutput
+Band1 Type-R	0	4194304	Value	ValueOutput
+Band1 Gain-L	0	4194304	Value	ValueOutput
+Band1 Gain-R	0	4194304	Value	ValueOutput
+Band1 Frq-L	0	4194304	Value	ValueOutput
+Band1 Frq-R	0	4194304	Value	ValueOutput
+Band1 Q-L	0	4194304	Value	ValueOutput
+Band1 Q-R	0	4194304	Value	ValueOutput
+Band2 On/Off-L	0	4194304	Value	ValueOutput
+Band2 On/Off-R	0	4194304	Value	ValueOutput
+Band2 Type-L	0	4194304	Value	ValueOutput
+Band2 Type-R	0	4194304	Value	ValueOutput
+Band2 Gain-L	0	4194304	Value	ValueOutput
+Band2 Gain-R	0	4194304	Value	ValueOutput
+Band2 Frq-L	0	4194304	Value	ValueOutput
+Band2 Frq-R	0	4194304	Value	ValueOutput
+Band2 Q-L	0	4194304	Value	ValueOutput
+Band2 Q-R	0	4194304	Value	ValueOutput
+Band3 On/Off-L	0	4194304	Value	ValueOutput
+Band3 On/Off-R	0	4194304	Value	ValueOutput
+Band3 Type-L	0	4194304	Value	ValueOutput
+Band3 Type-R	0	4194304	Value	ValueOutput
+Band3 Gain-L	0	4194304	Value	ValueOutput
+Band3 Gain-R	0	4194304	Value	ValueOutput
+Band3 Frq-L	0	4194304	Value	ValueOutput
+Band3 Frq-R	0	4194304	Value	ValueOutput
+Band3 Q-L	0	4194304	Value	ValueOutput
+Band3 Q-R	0	4194304	Value	ValueOutput
+Band4 On/Off-L	0	4194304	Value	ValueOutput
+Band4 On/Off-R	0	4194304	Value	ValueOutput
+Band4 Type-L	0	4194304	Value	ValueOutput
+Band4 Type-R	0	4194304	Value	ValueOutput
+Band4 Gain-L	0	4194304	Value	ValueOutput
+Band4 Gain-R	0	4194304	Value	ValueOutput
+Band4 Frq-L	0	4194304	Value	ValueOutput
+Band4 Frq-R	0	4194304	Value	ValueOutput
+Band4 Q-L	0	4194304	Value	ValueOutput
+Band4 Q-R	0	4194304	Value	ValueOutput
+Gain-L	0	4194304	Value	ValueOutput
+Gain-R	0	4194304	Value	ValueOutput
+Link Mode	0	4194304	Value	ValueOutput
+L/R Display	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,30 @@
+Scope
+Manufacturer	Model
+Propellerhead Software	se.propellerheads.AcousticGuitarist
+
+Remotable	Min	Max	Input type	Output type
+Type	0	1	Toggle	ValueOutput
+Character	0	4	Value	ValueOutput
+Position	0	4194304	Value	ValueOutput
+Fret Noise	0	1	Toggle	ValueOutput
+Low Tune	0	1	Toggle	ValueOutput
+Key	0	12	Value	ValueOutput
+Style	0	113	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+Feel	0	4194304	Value	ValueOutput
+Latch	0	1	Toggle	ValueOutput
+Doubling	0	1	Toggle	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Shimmer	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Phrase	0	34	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

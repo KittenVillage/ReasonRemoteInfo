@@ -1,0 +1,86 @@
+Scope
+Manufacturer	Model
+McDSP	vst.MML8.ML8000_x64
+Note: Will match scope definitions for vst.MML8.ML8000_x64 or vst.MML8
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Limiter Ceiling	0	4194304	Value	ValueOutput
+Limiter Thresho	0	4194304	Value	ValueOutput
+Limiter Knee	0	4194304	Value	ValueOutput
+Limiter Release	0	4194304	Value	ValueOutput
+Limiter Mode	0	4194304	Value	ValueOutput
+Master Limiter 	0	4194304	Value	ValueOutput
+Band Mode	0	4194304	Value	ValueOutput
+Band Knee	0	4194304	Value	ValueOutput
+Band Release	0	4194304	Value	ValueOutput
+Band Focus	0	4194304	Value	ValueOutput
+Band Snap	0	4194304	Value	ValueOutput
+Multi-band Limi	0	4194304	Value	ValueOutput
+HPF InOut	0	4194304	Value	ValueOutput
+LPF InOut	0	4194304	Value	ValueOutput
+XOver Freq 1	0	4194304	Value	ValueOutput
+XOver Freq 2	0	4194304	Value	ValueOutput
+XOver Freq 3	0	4194304	Value	ValueOutput
+XOver Freq 4	0	4194304	Value	ValueOutput
+XOver Freq 5	0	4194304	Value	ValueOutput
+XOver Freq 6	0	4194304	Value	ValueOutput
+XOver Freq 7	0	4194304	Value	ValueOutput
+Key Listen	0	4194304	Value	ValueOutput
+Band Link Mode	0	4194304	Value	ValueOutput
+Threshold 1	0	4194304	Value	ValueOutput
+Fixed Gain 1	0	4194304	Value	ValueOutput
+Solo 1	0	4194304	Value	ValueOutput
+Link 1	0	4194304	Value	ValueOutput
+InOut 1	0	4194304	Value	ValueOutput
+Threshold 2	0	4194304	Value	ValueOutput
+Fixed Gain 2	0	4194304	Value	ValueOutput
+Solo 2	0	4194304	Value	ValueOutput
+Link 2	0	4194304	Value	ValueOutput
+InOut 2	0	4194304	Value	ValueOutput
+Threshold 3	0	4194304	Value	ValueOutput
+Fixed Gain 3	0	4194304	Value	ValueOutput
+Solo 3	0	4194304	Value	ValueOutput
+Link 3	0	4194304	Value	ValueOutput
+InOut 3	0	4194304	Value	ValueOutput
+Threshold 4	0	4194304	Value	ValueOutput
+Fixed Gain 4	0	4194304	Value	ValueOutput
+Solo 4	0	4194304	Value	ValueOutput
+Link 4	0	4194304	Value	ValueOutput
+InOut 4	0	4194304	Value	ValueOutput
+Threshold 5	0	4194304	Value	ValueOutput
+Fixed Gain 5	0	4194304	Value	ValueOutput
+Solo 5	0	4194304	Value	ValueOutput
+Link 5	0	4194304	Value	ValueOutput
+InOut 5	0	4194304	Value	ValueOutput
+Threshold 6	0	4194304	Value	ValueOutput
+Fixed Gain 6	0	4194304	Value	ValueOutput
+Solo 6	0	4194304	Value	ValueOutput
+Link 6	0	4194304	Value	ValueOutput
+InOut 6	0	4194304	Value	ValueOutput
+Threshold 7	0	4194304	Value	ValueOutput
+Fixed Gain 7	0	4194304	Value	ValueOutput
+Solo 7	0	4194304	Value	ValueOutput
+Link 7	0	4194304	Value	ValueOutput
+InOut 7	0	4194304	Value	ValueOutput
+Threshold 8	0	4194304	Value	ValueOutput
+Fixed Gain 8	0	4194304	Value	ValueOutput
+Solo 8	0	4194304	Value	ValueOutput
+Link 8	0	4194304	Value	ValueOutput
+InOut 8	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,53 @@
+Scope
+Manufacturer	Model
+Nomad Factory	vst.Ldy2.Liquid Delays II x64
+Note: Will match scope definitions for vst.Ldy2.Liquid Delays II x64 or vst.Ldy2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Internal Use	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Filter	0	4194304	Value	ValueOutput
+Low Cut	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+High Cut	0	4194304	Value	ValueOutput
+Overdrive	0	4194304	Value	ValueOutput
+LFO	0	4194304	Value	ValueOutput
+LFO Sync	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Depth	0	4194304	Value	ValueOutput
+LFO Wave	0	4194304	Value	ValueOutput
+PeakLimit	0	4194304	Value	ValueOutput
+Stereo Width	0	4194304	Value	ValueOutput
+DLY Sync	0	4194304	Value	ValueOutput
+DLY L-XTime 	0	4194304	Value	ValueOutput
+DLY R-XTime 	0	4194304	Value	ValueOutput
+DLY L-Dot	0	4194304	Value	ValueOutput
+DLY R-Dot	0	4194304	Value	ValueOutput
+DLY L-Tri	0	4194304	Value	ValueOutput
+DLY R-Tri	0	4194304	Value	ValueOutput
+DLY Tempo	0	4194304	Value	ValueOutput
+DLY L On/Off	0	4194304	Value	ValueOutput
+DLY R On/Off	0	4194304	Value	ValueOutput
+DLY Feedback	0	4194304	Value	ValueOutput
+InLoop	0	4194304	Value	ValueOutput
+Input Level	0	4194304	Value	ValueOutput
+Output Level	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+FX Mode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

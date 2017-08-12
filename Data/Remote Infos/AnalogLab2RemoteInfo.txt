@@ -1,0 +1,266 @@
+Scope
+Manufacturer	Model
+Arturia	vst.Ala2.Analog Lab 2
+Note: Will match scope definitions for vst.Ala2.Analog Lab 2 or vst.Ala2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Root.Master	0	4194304	Value	ValueOutput
+Root.Part 1 General Volu	0	4194304	Value	ValueOutput
+Root.Part 1 Filter CutOf	0	4194304	Value	ValueOutput
+Root.Part 1 Pro5 Mixer O	0	4194304	Value	ValueOutput
+Root.Part 1 Filter Reson	0	4194304	Value	ValueOutput
+Root.Part 1 Pro5 Mixer O	0	4194304	Value	ValueOutput
+Part 1 Envelope Filter A	0	4194304	Value	ValueOutput
+Part 1 Envelope Filter D	0	4194304	Value	ValueOutput
+Part 1 Envelope Filter S	0	4194304	Value	ValueOutput
+Part 1 Envelope Filter R	0	4194304	Value	ValueOutput
+Root.Part 1 Chorus Dry-W	0	4194304	Value	ValueOutput
+Root.Part 1 Delay Dry-We	0	4194304	Value	ValueOutput
+Part 1 Envelope Filter A	0	4194304	Value	ValueOutput
+Part 1 Envelope Filter D	0	4194304	Value	ValueOutput
+Part 1 Envelope Filter S	0	4194304	Value	ValueOutput
+Part 1 Envelope Filter R	0	4194304	Value	ValueOutput
+Root.Part 1 Envelope Vca	0	4194304	Value	ValueOutput
+Root.Part 1 Envelope Vca	0	4194304	Value	ValueOutput
+Root.Part 1 Envelope Vca	0	4194304	Value	ValueOutput
+Root.Part 1 Envelope Vca	0	4194304	Value	ValueOutput
+Root.Part 1 Filter Keyb	0	4194304	Value	ValueOutput
+Root.Part2 Param0	0	4194304	Value	ValueOutput
+Root.Part2 Param1	0	4194304	Value	ValueOutput
+Root.Part2 Param2	0	4194304	Value	ValueOutput
+Root.Part2 Param3	0	4194304	Value	ValueOutput
+Root.Part2 Param4	0	4194304	Value	ValueOutput
+Root.Part2 Param5	0	4194304	Value	ValueOutput
+Root.Part2 Param6	0	4194304	Value	ValueOutput
+Root.Part2 Param7	0	4194304	Value	ValueOutput
+Root.Part2 Param8	0	4194304	Value	ValueOutput
+Root.Part2 Param9	0	4194304	Value	ValueOutput
+Root.Part2 Param10	0	4194304	Value	ValueOutput
+Root.Part2 Param11	0	4194304	Value	ValueOutput
+Root.Part2 Param12	0	4194304	Value	ValueOutput
+Root.Part2 Param13	0	4194304	Value	ValueOutput
+Root.Part2 Param14	0	4194304	Value	ValueOutput
+Root.Part2 Param15	0	4194304	Value	ValueOutput
+Root.Part2 Param16	0	4194304	Value	ValueOutput
+Root.Part2 Param17	0	4194304	Value	ValueOutput
+Root.Part2 Param18	0	4194304	Value	ValueOutput
+Root.Part2 Param19	0	4194304	Value	ValueOutput
+Root.Macro1	0	4194304	Value	ValueOutput
+Root.Macro2	0	4194304	Value	ValueOutput
+Root.Macro3	0	4194304	Value	ValueOutput
+Root.Macro4	0	4194304	Value	ValueOutput
+Root.Macro5	0	4194304	Value	ValueOutput
+Root.Macro6	0	4194304	Value	ValueOutput
+Root.Macro7	0	4194304	Value	ValueOutput
+Root.Macro8	0	4194304	Value	ValueOutput
+Root.Part1 Volume	0	4194304	Value	ValueOutput
+Root.Part1 Pan	0	4194304	Value	ValueOutput
+Root.Part1 SendA	0	4194304	Value	ValueOutput
+Root.Part1 SendB	0	4194304	Value	ValueOutput
+Root.Part1 Routing SendA	0	4194304	Value	ValueOutput
+Root.Part1 Routing SendB	0	4194304	Value	ValueOutput
+Root.Part2 Volume	0	4194304	Value	ValueOutput
+Root.Part2 Pan	0	4194304	Value	ValueOutput
+Root.Part2 SendA	0	4194304	Value	ValueOutput
+Root.Part2 SendB	0	4194304	Value	ValueOutput
+Root.Part2 Routing SendA	0	4194304	Value	ValueOutput
+Root.Part2 Routing SendB	0	4194304	Value	ValueOutput
+Root.ReturnA	0	4194304	Value	ValueOutput
+Root.ReturnB	0	4194304	Value	ValueOutput
+Root.SendA Type	0	4194304	Value	ValueOutput
+Root.SendA Active	0	4194304	Value	ValueOutput
+Root.SendA Delay MIDI Sy	0	4194304	Value	ValueOutput
+Root.SendA Delay Link	0	4194304	Value	ValueOutput
+Root.SendA Delay Ping Po	0	4194304	Value	ValueOutput
+Root.SendA Delay Time ch	0	4194304	Value	ValueOutput
+Root.SendA Delay Time ch	0	4194304	Value	ValueOutput
+Root.SendA Delay Feedbac	0	4194304	Value	ValueOutput
+Root.SendA Delay Feedbac	0	4194304	Value	ValueOutput
+Root.SendA Delay Damping	0	4194304	Value	ValueOutput
+Root.SendA Delay Dry/Wet	0	4194304	Value	ValueOutput
+Root.SendA Phaser Stage1	0	4194304	Value	ValueOutput
+SendA Phaser Stage1 Feed	0	4194304	Value	ValueOutput
+Root.SendA Phaser Stage1	0	4194304	Value	ValueOutput
+Root.SendA Phaser Stage2	0	4194304	Value	ValueOutput
+SendA Phaser Stage2 Feed	0	4194304	Value	ValueOutput
+Root.SendA Phaser Stage2	0	4194304	Value	ValueOutput
+Root.SendA Phaser Stage1	0	4194304	Value	ValueOutput
+Root.SendA Phaser Stage2	0	4194304	Value	ValueOutput
+Root.SendA Phaser MIDI S	0	4194304	Value	ValueOutput
+Root.SendA Phaser Dual M	0	4194304	Value	ValueOutput
+Root.SendA Phaser Dry/We	0	4194304	Value	ValueOutput
+Root.SendA DubDelay Dela	0	4194304	Value	ValueOutput
+Root.SendA DubDelay Amou	0	4194304	Value	ValueOutput
+Root.SendA DubDelay Dept	0	4194304	Value	ValueOutput
+Root.SendA DubDelay Rate	0	4194304	Value	ValueOutput
+Root.SendA DubDelay Tone	0	4194304	Value	ValueOutput
+Root.SendA DubDelay Dry/	0	4194304	Value	ValueOutput
+Root.SendA Flanger Delay	0	4194304	Value	ValueOutput
+Root.SendA Flanger Depth	0	4194304	Value	ValueOutput
+Root.SendA Flanger Rate	0	4194304	Value	ValueOutput
+Root.SendA Flanger Feedb	0	4194304	Value	ValueOutput
+Root.SendA Flanger Dry/W	0	4194304	Value	ValueOutput
+Root.SendA Chorus Type	0	4194304	Value	ValueOutput
+Root.SendA Chorus Stereo	0	4194304	Value	ValueOutput
+Root.SendA Chorus Stereo	0	4194304	Value	ValueOutput
+Root.SendA Chorus Lfo Ra	0	4194304	Value	ValueOutput
+Root.SendA Chorus Delay	0	4194304	Value	ValueOutput
+Root.SendA Chorus Amount	0	4194304	Value	ValueOutput
+Root.SendA Chorus Dry/We	0	4194304	Value	ValueOutput
+Root.SendA Reverb Gain	0	4194304	Value	ValueOutput
+Root.SendA Reverb HF Dam	0	4194304	Value	ValueOutput
+Root.SendA Reverb Bright	0	4194304	Value	ValueOutput
+Root.SendA Reverb Diffus	0	4194304	Value	ValueOutput
+Root.SendA Reverb Decay 	0	4194304	Value	ValueOutput
+Root.SendA Reverb Feedba	0	4194304	Value	ValueOutput
+Root.SendA Reverb Time	0	4194304	Value	ValueOutput
+Root.SendA Reverb Dry/We	0	4194304	Value	ValueOutput
+Root.SendA Overdrive Dri	0	4194304	Value	ValueOutput
+SendA Overdrive Damping/	0	4194304	Value	ValueOutput
+Root.SendA Overdrive Gai	0	4194304	Value	ValueOutput
+Root.SendA RoundPanner P	0	4194304	Value	ValueOutput
+Root.SendA RoundPanner M	0	4194304	Value	ValueOutput
+Root.SendA Destroy Clipp	0	4194304	Value	ValueOutput
+Root.SendA Destroy Bit R	0	4194304	Value	ValueOutput
+Root.SendA Destroy Tone	0	4194304	Value	ValueOutput
+Root.SendA Destroy Harm 	0	4194304	Value	ValueOutput
+Root.SendA Destroy Resam	0	4194304	Value	ValueOutput
+Root.SendA Destroy Gain	0	4194304	Value	ValueOutput
+Root.SendA BitCrusher Bi	0	4194304	Value	ValueOutput
+SendA BitCrusher Down Sa	0	4194304	Value	ValueOutput
+Root.SendA Eq4 Low Freq	0	4194304	Value	ValueOutput
+Root.SendA Eq4 Low Gain	0	4194304	Value	ValueOutput
+Root.SendA Eq4 High Freq	0	4194304	Value	ValueOutput
+Root.SendA Eq4 High Gain	0	4194304	Value	ValueOutput
+Root.SendA Eq4 Mid Freq	0	4194304	Value	ValueOutput
+Root.SendA Eq4 Mid Gain	0	4194304	Value	ValueOutput
+Root.SendA Eq4 Mid Width	0	4194304	Value	ValueOutput
+Root.SendA Eq4 Mid2 Freq	0	4194304	Value	ValueOutput
+Root.SendA Eq4 Mid2 Gain	0	4194304	Value	ValueOutput
+Root.SendA Eq4 Mid2 Widt	0	4194304	Value	ValueOutput
+SendA PitchShiftChorus D	0	4194304	Value	ValueOutput
+SendA PitchShiftChorus D	0	4194304	Value	ValueOutput
+SendA PitchShiftChorus L	0	4194304	Value	ValueOutput
+Root.SendA PitchShiftCho	0	4194304	Value	ValueOutput
+Root.SendA VocalFilter R	0	4194304	Value	ValueOutput
+Root.SendA VocalFilter L	0	4194304	Value	ValueOutput
+Root.SendA VocalFilter L	0	4194304	Value	ValueOutput
+Root.SendA VocalFilter_c	0	4194304	Value	ValueOutput
+Root.SendA VocalFilter_c	0	4194304	Value	ValueOutput
+Root.SendA VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendA VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendA VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendA VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendA VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendA VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendA VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendA VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendA VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendA VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendB Type	0	4194304	Value	ValueOutput
+Root.SendB Active	0	4194304	Value	ValueOutput
+Root.SendB Delay MIDI Sy	0	4194304	Value	ValueOutput
+Root.SendB Delay Link	0	4194304	Value	ValueOutput
+Root.SendB Delay Ping Po	0	4194304	Value	ValueOutput
+Root.SendB Delay Time ch	0	4194304	Value	ValueOutput
+Root.SendB Delay Time ch	0	4194304	Value	ValueOutput
+Root.SendB Delay Feedbac	0	4194304	Value	ValueOutput
+Root.SendB Delay Feedbac	0	4194304	Value	ValueOutput
+Root.SendB Delay Damping	0	4194304	Value	ValueOutput
+Root.SendB Delay Dry/Wet	0	4194304	Value	ValueOutput
+Root.SendB Phaser Stage1	0	4194304	Value	ValueOutput
+SendB Phaser Stage1 Feed	0	4194304	Value	ValueOutput
+Root.SendB Phaser Stage1	0	4194304	Value	ValueOutput
+Root.SendB Phaser Stage2	0	4194304	Value	ValueOutput
+SendB Phaser Stage2 Feed	0	4194304	Value	ValueOutput
+Root.SendB Phaser Stage2	0	4194304	Value	ValueOutput
+Root.SendB Phaser Stage1	0	4194304	Value	ValueOutput
+Root.SendB Phaser Stage2	0	4194304	Value	ValueOutput
+Root.SendB Phaser MIDI S	0	4194304	Value	ValueOutput
+Root.SendB Phaser Dual M	0	4194304	Value	ValueOutput
+Root.SendB Phaser Dry/We	0	4194304	Value	ValueOutput
+Root.SendB DubDelay Dela	0	4194304	Value	ValueOutput
+Root.SendB DubDelay Amou	0	4194304	Value	ValueOutput
+Root.SendB DubDelay Dept	0	4194304	Value	ValueOutput
+Root.SendB DubDelay Rate	0	4194304	Value	ValueOutput
+Root.SendB DubDelay Tone	0	4194304	Value	ValueOutput
+Root.SendB DubDelay Dry/	0	4194304	Value	ValueOutput
+Root.SendB Flanger Delay	0	4194304	Value	ValueOutput
+Root.SendB Flanger Depth	0	4194304	Value	ValueOutput
+Root.SendB Flanger Rate	0	4194304	Value	ValueOutput
+Root.SendB Flanger Feedb	0	4194304	Value	ValueOutput
+Root.SendB Flanger Dry/W	0	4194304	Value	ValueOutput
+Root.SendB Chorus Type	0	4194304	Value	ValueOutput
+Root.SendB Chorus Stereo	0	4194304	Value	ValueOutput
+Root.SendB Chorus Stereo	0	4194304	Value	ValueOutput
+Root.SendB Chorus Lfo Ra	0	4194304	Value	ValueOutput
+Root.SendB Chorus Delay	0	4194304	Value	ValueOutput
+Root.SendB Chorus Amount	0	4194304	Value	ValueOutput
+Root.SendB Chorus Dry/We	0	4194304	Value	ValueOutput
+Root.SendB Reverb Gain	0	4194304	Value	ValueOutput
+Root.SendB Reverb HF Dam	0	4194304	Value	ValueOutput
+Root.SendB Reverb Bright	0	4194304	Value	ValueOutput
+Root.SendB Reverb Diffus	0	4194304	Value	ValueOutput
+Root.SendB Reverb Decay 	0	4194304	Value	ValueOutput
+Root.SendB Reverb Feedba	0	4194304	Value	ValueOutput
+Root.SendB Reverb Time	0	4194304	Value	ValueOutput
+Root.SendB Reverb Dry/We	0	4194304	Value	ValueOutput
+Root.SendB Overdrive Dri	0	4194304	Value	ValueOutput
+SendB Overdrive Damping/	0	4194304	Value	ValueOutput
+Root.SendB Overdrive Gai	0	4194304	Value	ValueOutput
+Root.SendB RoundPanner P	0	4194304	Value	ValueOutput
+Root.SendB RoundPanner M	0	4194304	Value	ValueOutput
+Root.SendB Destroy Clipp	0	4194304	Value	ValueOutput
+Root.SendB Destroy Bit R	0	4194304	Value	ValueOutput
+Root.SendB Destroy Tone	0	4194304	Value	ValueOutput
+Root.SendB Destroy Harm 	0	4194304	Value	ValueOutput
+Root.SendB Destroy Resam	0	4194304	Value	ValueOutput
+Root.SendB Destroy Gain	0	4194304	Value	ValueOutput
+Root.SendB BitCrusher Bi	0	4194304	Value	ValueOutput
+SendB BitCrusher Down Sa	0	4194304	Value	ValueOutput
+Root.SendB Eq4 Low Freq	0	4194304	Value	ValueOutput
+Root.SendB Eq4 Low Gain	0	4194304	Value	ValueOutput
+Root.SendB Eq4 High Freq	0	4194304	Value	ValueOutput
+Root.SendB Eq4 High Gain	0	4194304	Value	ValueOutput
+Root.SendB Eq4 Mid Freq	0	4194304	Value	ValueOutput
+Root.SendB Eq4 Mid Gain	0	4194304	Value	ValueOutput
+Root.SendB Eq4 Mid Width	0	4194304	Value	ValueOutput
+Root.SendB Eq4 Mid2 Freq	0	4194304	Value	ValueOutput
+Root.SendB Eq4 Mid2 Gain	0	4194304	Value	ValueOutput
+Root.SendB Eq4 Mid2 Widt	0	4194304	Value	ValueOutput
+SendB PitchShiftChorus D	0	4194304	Value	ValueOutput
+SendB PitchShiftChorus D	0	4194304	Value	ValueOutput
+SendB PitchShiftChorus L	0	4194304	Value	ValueOutput
+Root.SendB PitchShiftCho	0	4194304	Value	ValueOutput
+Root.SendB VocalFilter R	0	4194304	Value	ValueOutput
+Root.SendB VocalFilter L	0	4194304	Value	ValueOutput
+Root.SendB VocalFilter L	0	4194304	Value	ValueOutput
+Root.SendB VocalFilter_c	0	4194304	Value	ValueOutput
+Root.SendB VocalFilter_c	0	4194304	Value	ValueOutput
+Root.SendB VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendB VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendB VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendB VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendB VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendB VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendB VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendB VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendB VocalFilter '	0	4194304	Value	ValueOutput
+Root.SendB VocalFilter '	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

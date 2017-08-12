@@ -1,0 +1,154 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.DlBn.IL Delay Bank x64
+Note: Will match scope definitions for vst.DlBn.IL Delay Bank x64 or vst.DlBn
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Dry	0	4194304	Value	ValueOutput
+Wet	0	4194304	Value	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Delay 1 - Input panning	0	4194304	Value	ValueOutput
+Delay 1 - Input volume	0	4194304	Value	ValueOutput
+Delay 1 - Input filter 	0	4194304	Value	ValueOutput
+Delay 1 - Input filter 	0	4194304	Value	ValueOutput
+Delay 1 - Input filter 	0	4194304	Value	ValueOutput
+Delay 1 - Feedback pann	0	4194304	Value	ValueOutput
+Delay 1 - Feedback volu	0	4194304	Value	ValueOutput
+Delay 1 - Feedback ster	0	4194304	Value	ValueOutput
+Delay 1 - Time	0	4194304	Value	ValueOutput
+Delay 1 - Time stereo o	0	4194304	Value	ValueOutput
+Delay 1 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 1 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 1 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 1 - Output pannin	0	4194304	Value	ValueOutput
+Delay 1 - Output volume	0	4194304	Value	ValueOutput
+Delay 1 - To next delay	0	4194304	Value	ValueOutput
+Delay 2 - Input panning	0	4194304	Value	ValueOutput
+Delay 2 - Input volume	0	4194304	Value	ValueOutput
+Delay 2 - Input filter 	0	4194304	Value	ValueOutput
+Delay 2 - Input filter 	0	4194304	Value	ValueOutput
+Delay 2 - Input filter 	0	4194304	Value	ValueOutput
+Delay 2 - Feedback pann	0	4194304	Value	ValueOutput
+Delay 2 - Feedback volu	0	4194304	Value	ValueOutput
+Delay 2 - Feedback ster	0	4194304	Value	ValueOutput
+Delay 2 - Time	0	4194304	Value	ValueOutput
+Delay 2 - Time stereo o	0	4194304	Value	ValueOutput
+Delay 2 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 2 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 2 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 2 - Output pannin	0	4194304	Value	ValueOutput
+Delay 2 - Output volume	0	4194304	Value	ValueOutput
+Delay 2 - To next delay	0	4194304	Value	ValueOutput
+Delay 3 - Input panning	0	4194304	Value	ValueOutput
+Delay 3 - Input volume	0	4194304	Value	ValueOutput
+Delay 3 - Input filter 	0	4194304	Value	ValueOutput
+Delay 3 - Input filter 	0	4194304	Value	ValueOutput
+Delay 3 - Input filter 	0	4194304	Value	ValueOutput
+Delay 3 - Feedback pann	0	4194304	Value	ValueOutput
+Delay 3 - Feedback volu	0	4194304	Value	ValueOutput
+Delay 3 - Feedback ster	0	4194304	Value	ValueOutput
+Delay 3 - Time	0	4194304	Value	ValueOutput
+Delay 3 - Time stereo o	0	4194304	Value	ValueOutput
+Delay 3 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 3 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 3 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 3 - Output pannin	0	4194304	Value	ValueOutput
+Delay 3 - Output volume	0	4194304	Value	ValueOutput
+Delay 3 - To next delay	0	4194304	Value	ValueOutput
+Delay 4 - Input panning	0	4194304	Value	ValueOutput
+Delay 4 - Input volume	0	4194304	Value	ValueOutput
+Delay 4 - Input filter 	0	4194304	Value	ValueOutput
+Delay 4 - Input filter 	0	4194304	Value	ValueOutput
+Delay 4 - Input filter 	0	4194304	Value	ValueOutput
+Delay 4 - Feedback pann	0	4194304	Value	ValueOutput
+Delay 4 - Feedback volu	0	4194304	Value	ValueOutput
+Delay 4 - Feedback ster	0	4194304	Value	ValueOutput
+Delay 4 - Time	0	4194304	Value	ValueOutput
+Delay 4 - Time stereo o	0	4194304	Value	ValueOutput
+Delay 4 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 4 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 4 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 4 - Output pannin	0	4194304	Value	ValueOutput
+Delay 4 - Output volume	0	4194304	Value	ValueOutput
+Delay 4 - To next delay	0	4194304	Value	ValueOutput
+Delay 5 - Input panning	0	4194304	Value	ValueOutput
+Delay 5 - Input volume	0	4194304	Value	ValueOutput
+Delay 5 - Input filter 	0	4194304	Value	ValueOutput
+Delay 5 - Input filter 	0	4194304	Value	ValueOutput
+Delay 5 - Input filter 	0	4194304	Value	ValueOutput
+Delay 5 - Feedback pann	0	4194304	Value	ValueOutput
+Delay 5 - Feedback volu	0	4194304	Value	ValueOutput
+Delay 5 - Feedback ster	0	4194304	Value	ValueOutput
+Delay 5 - Time	0	4194304	Value	ValueOutput
+Delay 5 - Time stereo o	0	4194304	Value	ValueOutput
+Delay 5 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 5 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 5 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 5 - Output pannin	0	4194304	Value	ValueOutput
+Delay 5 - Output volume	0	4194304	Value	ValueOutput
+Delay 5 - To next delay	0	4194304	Value	ValueOutput
+Delay 6 - Input panning	0	4194304	Value	ValueOutput
+Delay 6 - Input volume	0	4194304	Value	ValueOutput
+Delay 6 - Input filter 	0	4194304	Value	ValueOutput
+Delay 6 - Input filter 	0	4194304	Value	ValueOutput
+Delay 6 - Input filter 	0	4194304	Value	ValueOutput
+Delay 6 - Feedback pann	0	4194304	Value	ValueOutput
+Delay 6 - Feedback volu	0	4194304	Value	ValueOutput
+Delay 6 - Feedback ster	0	4194304	Value	ValueOutput
+Delay 6 - Time	0	4194304	Value	ValueOutput
+Delay 6 - Time stereo o	0	4194304	Value	ValueOutput
+Delay 6 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 6 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 6 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 6 - Output pannin	0	4194304	Value	ValueOutput
+Delay 6 - Output volume	0	4194304	Value	ValueOutput
+Delay 6 - To next delay	0	4194304	Value	ValueOutput
+Delay 7 - Input panning	0	4194304	Value	ValueOutput
+Delay 7 - Input volume	0	4194304	Value	ValueOutput
+Delay 7 - Input filter 	0	4194304	Value	ValueOutput
+Delay 7 - Input filter 	0	4194304	Value	ValueOutput
+Delay 7 - Input filter 	0	4194304	Value	ValueOutput
+Delay 7 - Feedback pann	0	4194304	Value	ValueOutput
+Delay 7 - Feedback volu	0	4194304	Value	ValueOutput
+Delay 7 - Feedback ster	0	4194304	Value	ValueOutput
+Delay 7 - Time	0	4194304	Value	ValueOutput
+Delay 7 - Time stereo o	0	4194304	Value	ValueOutput
+Delay 7 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 7 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 7 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 7 - Output pannin	0	4194304	Value	ValueOutput
+Delay 7 - Output volume	0	4194304	Value	ValueOutput
+Delay 7 - To next delay	0	4194304	Value	ValueOutput
+Delay 8 - Input panning	0	4194304	Value	ValueOutput
+Delay 8 - Input volume	0	4194304	Value	ValueOutput
+Delay 8 - Input filter 	0	4194304	Value	ValueOutput
+Delay 8 - Input filter 	0	4194304	Value	ValueOutput
+Delay 8 - Input filter 	0	4194304	Value	ValueOutput
+Delay 8 - Feedback pann	0	4194304	Value	ValueOutput
+Delay 8 - Feedback volu	0	4194304	Value	ValueOutput
+Delay 8 - Feedback ster	0	4194304	Value	ValueOutput
+Delay 8 - Time	0	4194304	Value	ValueOutput
+Delay 8 - Time stereo o	0	4194304	Value	ValueOutput
+Delay 8 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 8 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 8 - Feedback filt	0	4194304	Value	ValueOutput
+Delay 8 - Output pannin	0	4194304	Value	ValueOutput
+Delay 8 - Output volume	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

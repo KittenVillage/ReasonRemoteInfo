@@ -1,0 +1,131 @@
+Scope
+Manufacturer	Model
+McDSP	vst.MML4.ML4000_ML4_x64
+Note: Will match scope definitions for vst.MML4.ML4000_ML4_x64 or vst.MML4
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Limiter Ceiling	0	4194304	Value	ValueOutput
+Limiter Thresho	0	4194304	Value	ValueOutput
+Limiter Knee	0	4194304	Value	ValueOutput
+Limiter Release	0	4194304	Value	ValueOutput
+Limiter Mode	0	4194304	Value	ValueOutput
+Master Gate Ena	0	4194304	Value	ValueOutput
+Master Expander	0	4194304	Value	ValueOutput
+Master Compress	0	4194304	Value	ValueOutput
+Master Limiter 	0	4194304	Value	ValueOutput
+IO Meter Mode	0	4194304	Value	ValueOutput
+Master Link Mod	0	4194304	Value	ValueOutput
+XOver Dynamic P	0	4194304	Value	ValueOutput
+Main XOver Page	0	4194304	Value	ValueOutput
+Gate 1 Threshol	0	4194304	Value	ValueOutput
+Gate 1 Hold	0	4194304	Value	ValueOutput
+Gate 1 Attack	0	4194304	Value	ValueOutput
+Gate 1 Release	0	4194304	Value	ValueOutput
+Gate 1 Range	0	4194304	Value	ValueOutput
+Band 1 Gate Ena	0	4194304	Value	ValueOutput
+Expander 1 Thre	0	4194304	Value	ValueOutput
+Expander 1 Rati	0	4194304	Value	ValueOutput
+Expander 1 Rang	0	4194304	Value	ValueOutput
+Expander 1 Atta	0	4194304	Value	ValueOutput
+Expander 1 Rele	0	4194304	Value	ValueOutput
+Band 1 Exp Link	0	4194304	Value	ValueOutput
+Band 1 Exp Enab	0	4194304	Value	ValueOutput
+Comp 1 Output	0	4194304	Value	ValueOutput
+Comp 1 Threshol	0	4194304	Value	ValueOutput
+Comp 1 Ratio	0	4194304	Value	ValueOutput
+Comp 1 Knee	0	4194304	Value	ValueOutput
+Comp 1 Attack	0	4194304	Value	ValueOutput
+Comp 1 Release	0	4194304	Value	ValueOutput
+Band 1 Comp Ena	0	4194304	Value	ValueOutput
+Band 1 Page Sel	0	4194304	Value	ValueOutput
+Band 1 Solo	0	4194304	Value	ValueOutput
+Band 1 Link	0	4194304	Value	ValueOutput
+XOver Frequency	0	4194304	Value	ValueOutput
+Gate 2 Threshol	0	4194304	Value	ValueOutput
+Gate 2 Hold	0	4194304	Value	ValueOutput
+Gate 2 Attack	0	4194304	Value	ValueOutput
+Gate 2 Release	0	4194304	Value	ValueOutput
+Gate 2 Range	0	4194304	Value	ValueOutput
+Band 2 Gate Ena	0	4194304	Value	ValueOutput
+Expander 2 Thre	0	4194304	Value	ValueOutput
+Expander 2 Rati	0	4194304	Value	ValueOutput
+Expander 2 Rang	0	4194304	Value	ValueOutput
+Expander 2 Atta	0	4194304	Value	ValueOutput
+Expander 2 Rele	0	4194304	Value	ValueOutput
+Band 2 Exp Link	0	4194304	Value	ValueOutput
+Band 2 Exp Enab	0	4194304	Value	ValueOutput
+Comp 2 Output	0	4194304	Value	ValueOutput
+Comp 2 Threshol	0	4194304	Value	ValueOutput
+Comp 2 Ratio	0	4194304	Value	ValueOutput
+Comp 2 Knee	0	4194304	Value	ValueOutput
+Comp 2 Attack	0	4194304	Value	ValueOutput
+Comp 2 Release	0	4194304	Value	ValueOutput
+Band 2 Comp Ena	0	4194304	Value	ValueOutput
+Band 2 Page Sel	0	4194304	Value	ValueOutput
+Band 2 Solo	0	4194304	Value	ValueOutput
+Band 2 Link	0	4194304	Value	ValueOutput
+XOver Frequency	0	4194304	Value	ValueOutput
+Gate 3 Threshol	0	4194304	Value	ValueOutput
+Gate 3 Hold	0	4194304	Value	ValueOutput
+Gate 3 Attack	0	4194304	Value	ValueOutput
+Gate 3 Release	0	4194304	Value	ValueOutput
+Gate 3 Range	0	4194304	Value	ValueOutput
+Band 3 Gate Ena	0	4194304	Value	ValueOutput
+Expander 3 Thre	0	4194304	Value	ValueOutput
+Expander 3 Rati	0	4194304	Value	ValueOutput
+Expander 3 Rang	0	4194304	Value	ValueOutput
+Expander 3 Atta	0	4194304	Value	ValueOutput
+Expander 3 Rele	0	4194304	Value	ValueOutput
+Band 3 Exp Link	0	4194304	Value	ValueOutput
+Band 3 Exp Enab	0	4194304	Value	ValueOutput
+Comp 3 Output	0	4194304	Value	ValueOutput
+Comp 3 Threshol	0	4194304	Value	ValueOutput
+Comp 3 Ratio	0	4194304	Value	ValueOutput
+Comp 3 Knee	0	4194304	Value	ValueOutput
+Comp 3 Attack	0	4194304	Value	ValueOutput
+Comp 3 Release	0	4194304	Value	ValueOutput
+Band 3 Comp Ena	0	4194304	Value	ValueOutput
+Band 3 Page Sel	0	4194304	Value	ValueOutput
+Band 3 Solo	0	4194304	Value	ValueOutput
+Band 3 Link	0	4194304	Value	ValueOutput
+XOver Frequency	0	4194304	Value	ValueOutput
+Gate 4 Threshol	0	4194304	Value	ValueOutput
+Gate 4 Hold	0	4194304	Value	ValueOutput
+Gate 4 Attack	0	4194304	Value	ValueOutput
+Gate 4 Release	0	4194304	Value	ValueOutput
+Gate 4 Range	0	4194304	Value	ValueOutput
+Band 4 Gate Ena	0	4194304	Value	ValueOutput
+Expander 4 Thre	0	4194304	Value	ValueOutput
+Expander 4 Rati	0	4194304	Value	ValueOutput
+Expander 4 Rang	0	4194304	Value	ValueOutput
+Expander 4 Atta	0	4194304	Value	ValueOutput
+Expander 4 Rele	0	4194304	Value	ValueOutput
+Band 4 Exp Link	0	4194304	Value	ValueOutput
+Band 4 Exp Enab	0	4194304	Value	ValueOutput
+Comp 4 Output	0	4194304	Value	ValueOutput
+Comp 4 Threshol	0	4194304	Value	ValueOutput
+Comp 4 Ratio	0	4194304	Value	ValueOutput
+Comp 4 Knee	0	4194304	Value	ValueOutput
+Comp 4 Attack	0	4194304	Value	ValueOutput
+Comp 4 Release	0	4194304	Value	ValueOutput
+Band 4 Comp Ena	0	4194304	Value	ValueOutput
+Band 4 Page Sel	0	4194304	Value	ValueOutput
+Band 4 Solo	0	4194304	Value	ValueOutput
+Band 4 Link	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

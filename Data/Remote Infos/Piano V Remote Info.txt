@@ -1,0 +1,72 @@
+Scope
+Manufacturer	Model
+Arturia	vst.Pian.Piano V
+Note: Will match scope definitions for vst.Pian.Piano V or vst.Pian
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Pitch Center	0	4194304	Value	ValueOutput
+Pitch Transpose	0	4194304	Value	ValueOutput
+Detune	0	4194304	Value	ValueOutput
+Stretch Tuning	0	4194304	Value	ValueOutput
+Dynamic Range	0	4194304	Value	ValueOutput
+Hammer Hardness	0	4194304	Value	ValueOutput
+Hammer Noise	0	4194304	Value	ValueOutput
+Hammer Position	0	4194304	Value	ValueOutput
+Soundboard Resonance	0	4194304	Value	ValueOutput
+Key Off Noise	0	4194304	Value	ValueOutput
+Pedal Noise	0	4194304	Value	ValueOutput
+Lid Position	0	4194304	Value	ValueOutput
+Sustain Pedal	0	4194304	Value	ValueOutput
+Sustenuto Pedal	0	4194304	Value	ValueOutput
+Soft Pedal	0	4194304	Value	ValueOutput
+Reverb Dry	0	4194304	Value	ValueOutput
+Reverb Wet	0	4194304	Value	ValueOutput
+Low Shelf Cutoff	0	4194304	Value	ValueOutput
+Low Shelf Gain	0	4194304	Value	ValueOutput
+Peak Cutoff	0	4194304	Value	ValueOutput
+Peak Gain	0	4194304	Value	ValueOutput
+Peak Width	0	4194304	Value	ValueOutput
+High Shelf Cutoff	0	4194304	Value	ValueOutput
+High Shelf Gain	0	4194304	Value	ValueOutput
+Eq Bypass	0	4194304	Value	ValueOutput
+Mic 1 Mute	0	4194304	Value	ValueOutput
+Mic 2 Mute	0	4194304	Value	ValueOutput
+Mic 3 Mute	0	4194304	Value	ValueOutput
+Mic 4 Mute	0	4194304	Value	ValueOutput
+Mic 1 Gain	0	4194304	Value	ValueOutput
+Mic 2 Gain	0	4194304	Value	ValueOutput
+Mic 3 Gain	0	4194304	Value	ValueOutput
+Mic 4 Gain	0	4194304	Value	ValueOutput
+Mic 1 Pan	0	4194304	Value	ValueOutput
+Mic 2 Pan	0	4194304	Value	ValueOutput
+Mic 3 Pan	0	4194304	Value	ValueOutput
+Mic 4 Pan	0	4194304	Value	ValueOutput
+Mic 1 VuMeter L	0	4194304	Value	ValueOutput
+Mic 1 VuMeter R	0	4194304	Value	ValueOutput
+Mic 2 VuMeter L	0	4194304	Value	ValueOutput
+Mic 2 VuMeter R	0	4194304	Value	ValueOutput
+Mic 3 VuMeter L	0	4194304	Value	ValueOutput
+Mic 3 VuMeter R	0	4194304	Value	ValueOutput
+Mic 4 VuMeter L	0	4194304	Value	ValueOutput
+Mic 4 VuMeter R	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Previous Preset	0	4194304	Value	ValueOutput
+Next Preset	0	4194304	Value	ValueOutput
+Panic	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

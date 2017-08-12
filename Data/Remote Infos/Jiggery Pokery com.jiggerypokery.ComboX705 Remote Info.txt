@@ -1,0 +1,97 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.ComboX705
+
+Remotable	Min	Max	Input type	Output type
+Main Volume	0	4194304	Value	ValueOutput
+Solo Presets Volume	0	4194304	Value	ValueOutput
+Pianos Volume	0	4194304	Value	ValueOutput
+Flutes Volume	0	4194304	Value	ValueOutput
+Strings Volume	0	4194304	Value	ValueOutput
+Percussion Volume	0	4194304	Value	ValueOutput
+Bass Volume	0	4194304	Value	ValueOutput
+Flutes Cancel	0	1	Toggle	ValueOutput
+Flute 16	0	4194304	Value	ValueOutput
+Flute 5-1/3	0	4194304	Value	ValueOutput
+Flute 8	0	4194304	Value	ValueOutput
+Flute 4	0	4194304	Value	ValueOutput
+Flute 2-2/3	0	4194304	Value	ValueOutput
+Flute 2	0	4194304	Value	ValueOutput
+Flute 1-3/5	0	4194304	Value	ValueOutput
+Flute 1-1/3	0	4194304	Value	ValueOutput
+Flute 1	0	4194304	Value	ValueOutput
+Cellos	0	1	Toggle	ValueOutput
+Strings	0	1	Toggle	ValueOutput
+Piano	0	1	Toggle	ValueOutput
+Clavichord	0	1	Toggle	ValueOutput
+Percussion 8	0	1	Toggle	ValueOutput
+Percussion 5-1/3	0	1	Toggle	ValueOutput
+Percussion 4	0	1	Toggle	ValueOutput
+Percussion 2-2/3	0	1	Toggle	ValueOutput
+Percussion 1	0	1	Toggle	ValueOutput
+Percussion Sustain	0	1	Toggle	ValueOutput
+Bass Flute 16	0	1	Toggle	ValueOutput
+Bass Flute 8	0	1	Toggle	ValueOutput
+Bass Attack	0	1	Toggle	ValueOutput
+Bass Sustain	0	1	Toggle	ValueOutput
+Solo Mono	0	1	Toggle	ValueOutput
+Brass 1	0	1	Toggle	ValueOutput
+Brass 2	0	1	Toggle	ValueOutput
+Trombone	0	1	Toggle	ValueOutput
+Trumpet	0	1	Toggle	ValueOutput
+Sax	0	1	Toggle	ValueOutput
+Clarinet	0	1	Toggle	ValueOutput
+Oboe	0	1	Toggle	ValueOutput
+Guitar	0	1	Toggle	ValueOutput
+Hawaiian Guitar	0	1	Toggle	ValueOutput
+Violin	0	1	Toggle	ValueOutput
+Flute	0	1	Toggle	ValueOutput
+Telstar	0	1	Toggle	ValueOutput
+Cosmic	0	1	Toggle	ValueOutput
+Strings Width	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Sustain	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Pianos Release	0	4194304	Value	ValueOutput
+Solo Octave Down	0	1	Toggle	ValueOutput
+Solo VCA	0	1	Toggle	ValueOutput
+Solo VCF	0	1	Toggle	ValueOutput
+Solo Attack	0	4194304	Value	ValueOutput
+Solo Decay	0	4194304	Value	ValueOutput
+Solo Wow	0	4194304	Value	ValueOutput
+Solo Filter	0	1	Toggle	ValueOutput
+Solo Filter Frequency	0	4194304	Value	ValueOutput
+Solo Vibrato	0	1	Toggle	ValueOutput
+Solo Vibrato Depth	0	4194304	Value	ValueOutput
+Mono Legato	0	1	Toggle	ValueOutput
+Bend Rate	0	4194304	Value	ValueOutput
+Bass Expression	0	1	Toggle	ValueOutput
+Percussion Expression	0	1	Toggle	ValueOutput
+Strings Expression	0	1	Toggle	ValueOutput
+Pianos Expression	0	1	Toggle	ValueOutput
+Flutes Expression	0	1	Toggle	ValueOutput
+Solos Expression	0	1	Toggle	ValueOutput
+Reverb Amount	0	4194304	Value	ValueOutput
+Solo Presets Tune	0	4194304	Value	ValueOutput
+Amp Drive	0	4194304	Value	ValueOutput
+Phaser Feedback	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Phaser Rate	0	4194304	Value	ValueOutput
+Rotary	0	1	Toggle	ValueOutput
+Rotary Brake	0	1	Toggle	ValueOutput
+Rotary Speed	0	1	Toggle	ValueOutput
+Vibrato Delay	0	4194304	Value	ValueOutput
+Vibrato Depth	0	4194304	Value	ValueOutput
+Vibrato Rate	0	4194304	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

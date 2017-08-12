@@ -1,0 +1,151 @@
+Scope
+Manufacturer	Model
+D16 Group Audio Software	vst.PNBX.PunchBox x64
+Note: Will match scope definitions for vst.PNBX.PunchBox x64 or vst.PNBX
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Click Active	0	4194304	Value	ValueOutput
+Click Volume	0	4194304	Value	ValueOutput
+Click Spread	0	4194304	Value	ValueOutput
+Click Panning	0	4194304	Value	ValueOutput
+Click Hi Cut	0	4194304	Value	ValueOutput
+Click Low Cut	0	4194304	Value	ValueOutput
+Click Decay	0	4194304	Value	ValueOutput
+Click Pitch	0	4194304	Value	ValueOutput
+Click Send	0	4194304	Value	ValueOutput
+Tops Active	0	4194304	Value	ValueOutput
+Tops Volume	0	4194304	Value	ValueOutput
+Tops Sample Sta	0	4194304	Value	ValueOutput
+Tops Spread	0	4194304	Value	ValueOutput
+Tops Panning	0	4194304	Value	ValueOutput
+Tops Hi Cut	0	4194304	Value	ValueOutput
+Tops Low Cut	0	4194304	Value	ValueOutput
+Tops Decay	0	4194304	Value	ValueOutput
+Tops Pitch	0	4194304	Value	ValueOutput
+Tops Send	0	4194304	Value	ValueOutput
+Tools Active	0	4194304	Value	ValueOutput
+Tools Volume	0	4194304	Value	ValueOutput
+Tools Sample St	0	4194304	Value	ValueOutput
+Tools Spread	0	4194304	Value	ValueOutput
+Tools Panning	0	4194304	Value	ValueOutput
+Tools Hi Cut	0	4194304	Value	ValueOutput
+Tools Low Cut	0	4194304	Value	ValueOutput
+Tools Decay	0	4194304	Value	ValueOutput
+Tools Pitch	0	4194304	Value	ValueOutput
+Tools Send	0	4194304	Value	ValueOutput
+Kick Active	0	4194304	Value	ValueOutput
+Kick Mode	0	4194304	Value	ValueOutput
+Kick Sample Vol	0	4194304	Value	ValueOutput
+Kick Sample Ste	0	4194304	Value	ValueOutput
+Kick Sample Pit	0	4194304	Value	ValueOutput
+Kick Sample Sta	0	4194304	Value	ValueOutput
+Kick Sample Att	0	4194304	Value	ValueOutput
+Kick Sample Dec	0	4194304	Value	ValueOutput
+Kick Sample Att	0	4194304	Value	ValueOutput
+Kick Sample Hig	0	4194304	Value	ValueOutput
+Kick Sample Dec	0	4194304	Value	ValueOutput
+Kick 909 Volume	0	4194304	Value	ValueOutput
+Kick 909 Attack	0	4194304	Value	ValueOutput
+Kick 909 Tune	0	4194304	Value	ValueOutput
+Kick 909 Decay	0	4194304	Value	ValueOutput
+Kick 909 Pitch	0	4194304	Value	ValueOutput
+Kick 909 Tune D	0	4194304	Value	ValueOutput
+Kick 808 Volume	0	4194304	Value	ValueOutput
+Kick 808 Decay	0	4194304	Value	ValueOutput
+Kick 808 Tone	0	4194304	Value	ValueOutput
+Kick 808 Sweep 	0	4194304	Value	ValueOutput
+Kick 606 Volume	0	4194304	Value	ValueOutput
+Kick 606 Decay	0	4194304	Value	ValueOutput
+Kick 606 Tune	0	4194304	Value	ValueOutput
+Kick 606 Attack	0	4194304	Value	ValueOutput
+Kick Sine Volum	0	4194304	Value	ValueOutput
+Kick Sine Attac	0	4194304	Value	ValueOutput
+Kick Sine Hold	0	4194304	Value	ValueOutput
+Kick Sine Decay	0	4194304	Value	ValueOutput
+Kick Sine Start	0	4194304	Value	ValueOutput
+Kick Sine End F	0	4194304	Value	ValueOutput
+Kick Sine Sweep	0	4194304	Value	ValueOutput
+Kick Sine Attac	0	4194304	Value	ValueOutput
+Kick Sine Decay	0	4194304	Value	ValueOutput
+Kick Sine Sweep	0	4194304	Value	ValueOutput
+Kick Send	0	4194304	Value	ValueOutput
+Note Velocity	0	4194304	Value	ValueOutput
+Note Keytrack	0	4194304	Value	ValueOutput
+Bitcrusher Acti	0	4194304	Value	ValueOutput
+Bitcrusher Prea	0	4194304	Value	ValueOutput
+Bitcrusher Low 	0	4194304	Value	ValueOutput
+Bitcrusher Bit 	0	4194304	Value	ValueOutput
+Bitcrusher Freq	0	4194304	Value	ValueOutput
+Bitcrusher Resa	0	4194304	Value	ValueOutput
+Bitcrusher FX A	0	4194304	Value	ValueOutput
+Distortion Acti	0	4194304	Value	ValueOutput
+Distortion Shap	0	4194304	Value	ValueOutput
+Distortion Dyna	0	4194304	Value	ValueOutput
+Distortion Prea	0	4194304	Value	ValueOutput
+Distortion Low 	0	4194304	Value	ValueOutput
+Distortion Cont	0	4194304	Value	ValueOutput
+Distortion Tone	0	4194304	Value	ValueOutput
+Distortion Volu	0	4194304	Value	ValueOutput
+Distortion FX A	0	4194304	Value	ValueOutput
+Filter Active	0	4194304	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonanc	0	4194304	Value	ValueOutput
+Filter Mode	0	4194304	Value	ValueOutput
+Filter Type	0	4194304	Value	ValueOutput
+Filter FX Amoun	0	4194304	Value	ValueOutput
+Equalizer Activ	0	4194304	Value	ValueOutput
+Equalizer High 	0	4194304	Value	ValueOutput
+Equalizer Mid G	0	4194304	Value	ValueOutput
+Equalizer Mid F	0	4194304	Value	ValueOutput
+Equalizer Low G	0	4194304	Value	ValueOutput
+Limiter Active	0	4194304	Value	ValueOutput
+Limiter Thresho	0	4194304	Value	ValueOutput
+Limiter Output 	0	4194304	Value	ValueOutput
+Mixdown After F	0	4194304	Value	ValueOutput
+Parameter 99	0	4194304	Value	ValueOutput
+Parameter 100	0	4194304	Value	ValueOutput
+Parameter 101	0	4194304	Value	ValueOutput
+Parameter 102	0	4194304	Value	ValueOutput
+Parameter 103	0	4194304	Value	ValueOutput
+Parameter 104	0	4194304	Value	ValueOutput
+Parameter 105	0	4194304	Value	ValueOutput
+Parameter 106	0	4194304	Value	ValueOutput
+Parameter 107	0	4194304	Value	ValueOutput
+Parameter 108	0	4194304	Value	ValueOutput
+Parameter 109	0	4194304	Value	ValueOutput
+Parameter 110	0	4194304	Value	ValueOutput
+Parameter 111	0	4194304	Value	ValueOutput
+Parameter 112	0	4194304	Value	ValueOutput
+Parameter 113	0	4194304	Value	ValueOutput
+Parameter 114	0	4194304	Value	ValueOutput
+Parameter 115	0	4194304	Value	ValueOutput
+Parameter 116	0	4194304	Value	ValueOutput
+Parameter 117	0	4194304	Value	ValueOutput
+Parameter 118	0	4194304	Value	ValueOutput
+Parameter 119	0	4194304	Value	ValueOutput
+Parameter 120	0	4194304	Value	ValueOutput
+Parameter 121	0	4194304	Value	ValueOutput
+Parameter 122	0	4194304	Value	ValueOutput
+Parameter 123	0	4194304	Value	ValueOutput
+Parameter 124	0	4194304	Value	ValueOutput
+Parameter 125	0	4194304	Value	ValueOutput
+Parameter 126	0	4194304	Value	ValueOutput
+Parameter 127	0	4194304	Value	ValueOutput
+Parameter 128	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

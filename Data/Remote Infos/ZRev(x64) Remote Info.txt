@@ -1,0 +1,55 @@
+Scope
+Manufacturer	Model
+u-he	vst.reV0.ZRev(x64)
+Note: Will match scope definitions for vst.reV0.ZRev(x64) or vst.reV0
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+main: Output	0	4194304	Value	ValueOutput
+Rev1: Dry	0	4194304	Value	ValueOutput
+Rev1: Wet	0	4194304	Value	ValueOutput
+Rev1: Diffusion	0	4194304	Value	ValueOutput
+Rev1: Damp	0	4194304	Value	ValueOutput
+Rev1: Size	0	4194304	Value	ValueOutput
+Rev1: T0	0	4194304	Value	ValueOutput
+Rev1: T1	0	4194304	Value	ValueOutput
+Rev1: T2	0	4194304	Value	ValueOutput
+Rev1: T3	0	4194304	Value	ValueOutput
+Rev1: T4	0	4194304	Value	ValueOutput
+Rev1: T5	0	4194304	Value	ValueOutput
+Rev1: T6	0	4194304	Value	ValueOutput
+Rev1: T7	0	4194304	Value	ValueOutput
+Rev1: Speed	0	4194304	Value	ValueOutput
+Rev1: Depth	0	4194304	Value	ValueOutput
+Rev1: AP0	0	4194304	Value	ValueOutput
+Rev1: AP1	0	4194304	Value	ValueOutput
+Rev1: AP2	0	4194304	Value	ValueOutput
+Rev1: AP3	0	4194304	Value	ValueOutput
+Rev1: AP4	0	4194304	Value	ValueOutput
+Rev1: AP5	0	4194304	Value	ValueOutput
+Rev1: AP6	0	4194304	Value	ValueOutput
+Rev1: AP7	0	4194304	Value	ValueOutput
+Rev1: AP Size	0	4194304	Value	ValueOutput
+Rev1: AP Speed	0	4194304	Value	ValueOutput
+Rev1: AP Depth	0	4194304	Value	ValueOutput
+Rev1: Emt Mix	0	4194304	Value	ValueOutput
+Rev1: Feedback1	0	4194304	Value	ValueOutput
+Rev1: Feedback2	0	4194304	Value	ValueOutput
+Rev1: ER	0	4194304	Value	ValueOutput
+Rev1: ER_Filter	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

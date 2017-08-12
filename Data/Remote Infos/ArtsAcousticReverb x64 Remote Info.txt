@@ -1,0 +1,47 @@
+Scope
+Manufacturer	Model
+ArtsAcoustic	vst.AARb.ArtsAcousticReverb x64
+Note: Will match scope definitions for vst.AARb.ArtsAcousticReverb x64 or vst.AARb
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+DryLevel	0	4194304	Value	ValueOutput
+WetLevel	0	4194304	Value	ValueOutput
+Rev Type	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Room Size	0	4194304	Value	ValueOutput
+Diffusion	0	4194304	Value	ValueOutput
+Density	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Predelay	0	4194304	Value	ValueOutput
+Hi Ratio	0	4194304	Value	ValueOutput
+Mid Ratio	0	4194304	Value	ValueOutput
+Lo Ratio	0	4194304	Value	ValueOutput
+Cross Lo-Mid	0	4194304	Value	ValueOutput
+Cross Mid-Hi	0	4194304	Value	ValueOutput
+Room Width	0	4194304	Value	ValueOutput
+Modulation	0	4194304	Value	ValueOutput
+Echo Int	0	4194304	Value	ValueOutput
+Echo Size	0	4194304	Value	ValueOutput
+Lo Cut	0	4194304	Value	ValueOutput
+Hi Cut	0	4194304	Value	ValueOutput
+Quality	0	4194304	Value	ValueOutput
+DryLevel Enable	0	4194304	Value	ValueOutput
+WetLevel Enable	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

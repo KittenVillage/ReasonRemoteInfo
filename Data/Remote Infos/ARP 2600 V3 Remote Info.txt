@@ -1,0 +1,223 @@
+Scope
+Manufacturer	Model
+Arturia	vst.ARP3.ARP 2600 V3
+Note: Will match scope definitions for vst.ARP3.ARP 2600 V3 or vst.ARP3
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Width Osc1	0	4194304	Value	ValueOutput
+Fine Tune Osc1	0	4194304	Value	ValueOutput
+Coarse Tune Osc1	0	4194304	Value	ValueOutput
+Amount FM1 Osc1	0	4194304	Value	ValueOutput
+Amount FM2 Osc1	0	4194304	Value	ValueOutput
+Amount FM3 Osc1	0	4194304	Value	ValueOutput
+Amount FM4 Osc1	0	4194304	Value	ValueOutput
+Amount PWM Osc1	0	4194304	Value	ValueOutput
+Width Osc2	0	4194304	Value	ValueOutput
+Fine Tune Osc2	0	4194304	Value	ValueOutput
+Coarse Tune Osc2	0	4194304	Value	ValueOutput
+Amount FM1 Osc2	0	4194304	Value	ValueOutput
+Amount FM2 Osc2	0	4194304	Value	ValueOutput
+Amount FM3 Osc2	0	4194304	Value	ValueOutput
+Amount FM4 Osc2	0	4194304	Value	ValueOutput
+Amount PWM Osc2	0	4194304	Value	ValueOutput
+Width Osc3	0	4194304	Value	ValueOutput
+Fine Tune Osc3	0	4194304	Value	ValueOutput
+Coarse Tune Osc3	0	4194304	Value	ValueOutput
+Amount FM1 Osc3	0	4194304	Value	ValueOutput
+Amount FM2 Osc3	0	4194304	Value	ValueOutput
+Amount FM3 Osc3	0	4194304	Value	ValueOutput
+Amount FM4 Osc3	0	4194304	Value	ValueOutput
+Amount PWM Osc3	0	4194304	Value	ValueOutput
+Fine Tune Filter	0	4194304	Value	ValueOutput
+Coarse Tune Filter	0	4194304	Value	ValueOutput
+Resonance Filter	0	4194304	Value	ValueOutput
+Notch Frequency Filter	0	4194304	Value	ValueOutput
+Amount Audio In1 Filter	0	4194304	Value	ValueOutput
+Amount Audio In2 Filter	0	4194304	Value	ValueOutput
+Amount Audio In3 Filter	0	4194304	Value	ValueOutput
+Amount Audio In4 Filter	0	4194304	Value	ValueOutput
+Amount Audio In5 Filter	0	4194304	Value	ValueOutput
+Amount FM1 Filter	0	4194304	Value	ValueOutput
+Amount FM2 Filter	0	4194304	Value	ValueOutput
+Amount FM3 Filter	0	4194304	Value	ValueOutput
+Attack Envelope1	0	4194304	Value	ValueOutput
+Decay Envelope1	0	4194304	Value	ValueOutput
+Sustain Envelope1	0	4194304	Value	ValueOutput
+Release Envelope1	0	4194304	Value	ValueOutput
+Attack Envelope2	0	4194304	Value	ValueOutput
+Release Envelope2	0	4194304	Value	ValueOutput
+Amount Audio1 Vca	0	4194304	Value	ValueOutput
+Amount Audio2 Vca	0	4194304	Value	ValueOutput
+Amount Am Lin. Vca	0	4194304	Value	ValueOutput
+Amount Am Exp. Vca	0	4194304	Value	ValueOutput
+Amount Audio1 Mixer	0	4194304	Value	ValueOutput
+Amount Audio2 Mixer	0	4194304	Value	ValueOutput
+Panoramic Mixer	0	4194304	Value	ValueOutput
+Amount Left Reverb	0	4194304	Value	ValueOutput
+Amount Right Reverb	0	4194304	Value	ValueOutput
+Amount Audio Env.Follow.	0	4194304	Value	ValueOutput
+Amount Audio1 Ring Mod.	0	4194304	Value	ValueOutput
+Amount Audio2 Ring Mod.	0	4194304	Value	ValueOutput
+Timbral Noise	0	4194304	Value	ValueOutput
+Level Noise	0	4194304	Value	ValueOutput
+Level Sample&Hold	0	4194304	Value	ValueOutput
+Rate Sample&Hold	0	4194304	Value	ValueOutput
+Mix In 1-2 Volt. Proc.	0	4194304	Value	ValueOutput
+Mix In 3-4 Volt. Proc.	0	4194304	Value	ValueOutput
+Mix In 5-6 Volt. Proc.	0	4194304	Value	ValueOutput
+Mix In 7-8 Volt. Proc.	0	4194304	Value	ValueOutput
+Lag In 1-2 Volt. Proc.	0	4194304	Value	ValueOutput
+Lag In 3-4 Volt. Proc.	0	4194304	Value	ValueOutput
+Lag In 5-6 Volt. Proc.	0	4194304	Value	ValueOutput
+Lag In 7-8 Volt. Proc.	0	4194304	Value	ValueOutput
+Amount AM 1-2 Volt. Proc	0	4194304	Value	ValueOutput
+Amount AM 3-4 Volt. Proc	0	4194304	Value	ValueOutput
+Amount AM 5-6 Volt. Proc	0	4194304	Value	ValueOutput
+Amount AM 7-8 Volt. Proc	0	4194304	Value	ValueOutput
+Amount In Tracking1	0	4194304	Value	ValueOutput
+Amount In Tracking2	0	4194304	Value	ValueOutput
+Amount In Tracking3	0	4194304	Value	ValueOutput
+Amount In Tracking4	0	4194304	Value	ValueOutput
+Smooth Tracking1	0	4194304	Value	ValueOutput
+Smooth Tracking2	0	4194304	Value	ValueOutput
+Smooth Tracking3	0	4194304	Value	ValueOutput
+Smooth Tracking4	0	4194304	Value	ValueOutput
+Frequency Tracking1	0	4194304	Value	ValueOutput
+Frequency Tracking2	0	4194304	Value	ValueOutput
+Frequency Tracking3	0	4194304	Value	ValueOutput
+Frequency Tracking4	0	4194304	Value	ValueOutput
+Lfo Speed	0	4194304	Value	ValueOutput
+Vibrato Depth	0	4194304	Value	ValueOutput
+Vibrato Delay	0	4194304	Value	ValueOutput
+Amount AM Lfo	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Dry/Wet	0	4194304	Value	ValueOutput
+Delay FeedBack Left	0	4194304	Value	ValueOutput
+Delay FeedBack Right	0	4194304	Value	ValueOutput
+Delay Dry/Wet	0	4194304	Value	ValueOutput
+Sequencer Set Step 1	0	4194304	Value	ValueOutput
+Sequencer Set Step 2	0	4194304	Value	ValueOutput
+Sequencer Set Step 3	0	4194304	Value	ValueOutput
+Sequencer Set Step 4	0	4194304	Value	ValueOutput
+Sequencer Set Step 5	0	4194304	Value	ValueOutput
+Sequencer Set Step 6	0	4194304	Value	ValueOutput
+Sequencer Set Step 7	0	4194304	Value	ValueOutput
+Sequencer Set Step 8	0	4194304	Value	ValueOutput
+Sequencer Set Step 9	0	4194304	Value	ValueOutput
+Sequencer Set Step 10	0	4194304	Value	ValueOutput
+Sequencer Set Step 11	0	4194304	Value	ValueOutput
+Sequencer Set Step 12	0	4194304	Value	ValueOutput
+Sequencer Set Step 13	0	4194304	Value	ValueOutput
+Sequencer Set Step 14	0	4194304	Value	ValueOutput
+Sequencer Set Step 15	0	4194304	Value	ValueOutput
+Sequencer Set Step 16	0	4194304	Value	ValueOutput
+Sequencer Rate	0	4194304	Value	ValueOutput
+Sequencer Amount FM	0	4194304	Value	ValueOutput
+Sequencer Amount PWM	0	4194304	Value	ValueOutput
+Sequencer Pulse Width	0	4194304	Value	ValueOutput
+Portamento Time	0	4194304	Value	ValueOutput
+Amount External Audio	0	4194304	Value	ValueOutput
+General Volume	0	4194304	Value	ValueOutput
+General Tune	0	4194304	Value	ValueOutput
+Range Osc1	0	4194304	Value	ValueOutput
+Synchronisation Osc1	0	4194304	Value	ValueOutput
+Range Osc2	0	4194304	Value	ValueOutput
+Synchronisation Osc2	0	4194304	Value	ValueOutput
+Range Osc3	0	4194304	Value	ValueOutput
+Synchronisation Osc3	0	4194304	Value	ValueOutput
+Type Filter	0	4194304	Value	ValueOutput
+Start Envelope	0	4194304	Value	ValueOutput
+Envelope Trigg Choice	0	4194304	Value	ValueOutput
+SELECT_DC_RINGMOD	0	4194304	Value	ValueOutput
+SELECT_HQ_RINGMOD	0	4194304	Value	ValueOutput
+Linl 3-4 Volt. Proc.	0	4194304	Value	ValueOutput
+Linl 5-6 Volt. Proc.	0	4194304	Value	ValueOutput
+Linl 7-8 Volt. Proc.	0	4194304	Value	ValueOutput
+Inverse 1/2	0	4194304	Value	ValueOutput
+Inverse 3/4	0	4194304	Value	ValueOutput
+Inverse 5/6	0	4194304	Value	ValueOutput
+Inverse 7/8	0	4194304	Value	ValueOutput
+Delay Time Left	0	4194304	Value	ValueOutput
+Delay Time Right	0	4194304	Value	ValueOutput
+Delay Mode	0	4194304	Value	ValueOutput
+Delay On	0	4194304	Value	ValueOutput
+Chorus On	0	4194304	Value	ValueOutput
+Lfo Mode	0	4194304	Value	ValueOutput
+Mode Sample&Hold	0	4194304	Value	ValueOutput
+Synchro Tracking1	0	4194304	Value	ValueOutput
+Synchro Tracking2	0	4194304	Value	ValueOutput
+Synchro Tracking3	0	4194304	Value	ValueOutput
+Synchro Tracking4	0	4194304	Value	ValueOutput
+Sequencer Bus Switch 1	0	4194304	Value	ValueOutput
+Sequencer Bus Switch 2	0	4194304	Value	ValueOutput
+Sequencer Bus Switch 3	0	4194304	Value	ValueOutput
+Sequencer Bus Switch 4	0	4194304	Value	ValueOutput
+Sequencer Bus Switch 5	0	4194304	Value	ValueOutput
+Sequencer Bus Switch 6	0	4194304	Value	ValueOutput
+Sequencer Bus Switch 7	0	4194304	Value	ValueOutput
+Sequencer Bus Switch 8	0	4194304	Value	ValueOutput
+Sequencer Bus Switch 9	0	4194304	Value	ValueOutput
+Sequencer Bus Switch 10	0	4194304	Value	ValueOutput
+Sequencer Bus Switch 11	0	4194304	Value	ValueOutput
+Sequencer Bus Switch 12	0	4194304	Value	ValueOutput
+Sequencer Bus Switch 13	0	4194304	Value	ValueOutput
+Sequencer Bus Switch 14	0	4194304	Value	ValueOutput
+Sequencer Bus Switch 15	0	4194304	Value	ValueOutput
+Sequencer Bus Switch 16	0	4194304	Value	ValueOutput
+Sequencer Step Size	0	4194304	Value	ValueOutput
+Sequencer Seq/Random	0	4194304	Value	ValueOutput
+Sequencer Midi Sync.	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Polyphony	0	4194304	Value	ValueOutput
+Bus 3 Mode	0	4194304	Value	ValueOutput
+Sequencer Trig. Mode	0	4194304	Value	ValueOutput
+Unassigned 1	0	4194304	Value	ValueOutput
+Unassigned 2	0	4194304	Value	ValueOutput
+Unassigned 3	0	4194304	Value	ValueOutput
+Voice Detune	0	4194304	Value	ValueOutput
+Keyboard Hold	0	4194304	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Playing Mode	0	4194304	Value	ValueOutput
+A440 generation	0	4194304	Value	ValueOutput
+Osc. Coarse Bender	0	4194304	Value	ValueOutput
+Sequencer Led 1	0	4194304	Value	ValueOutput
+Sequencer Led 2	0	4194304	Value	ValueOutput
+Sequencer Led 3	0	4194304	Value	ValueOutput
+Sequencer Led 4	0	4194304	Value	ValueOutput
+Sequencer Led 5	0	4194304	Value	ValueOutput
+Sequencer Led 6	0	4194304	Value	ValueOutput
+Sequencer Led 7	0	4194304	Value	ValueOutput
+Sequencer Led 8	0	4194304	Value	ValueOutput
+Sequencer Led 9	0	4194304	Value	ValueOutput
+Sequencer Led 10	0	4194304	Value	ValueOutput
+Sequencer Led 11	0	4194304	Value	ValueOutput
+Sequencer Led 12	0	4194304	Value	ValueOutput
+Sequencer Led 13	0	4194304	Value	ValueOutput
+Sequencer Led 14	0	4194304	Value	ValueOutput
+Sequencer Led 15	0	4194304	Value	ValueOutput
+Sequencer Led 16	0	4194304	Value	ValueOutput
+Sequencer Led 17	0	4194304	Value	ValueOutput
+External In	0	4194304	Value	ValueOutput
+Osc1 Invert Saw	0	4194304	Value	ValueOutput
+Osc2 Invert Saw	0	4194304	Value	ValueOutput
+Osc3 Invert Saw	0	4194304	Value	ValueOutput
+Previous Preset	0	4194304	Value	ValueOutput
+Next Preset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

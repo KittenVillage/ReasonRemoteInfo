@@ -1,0 +1,95 @@
+Scope
+Manufacturer	Model
+Voxengo	vst.y34u.Drumformer x64
+Note: Will match scope definitions for vst.y34u.Drumformer x64 or vst.y34u
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Oversmp	0	4194304	Value	ValueOutput
+Bands	0	4194304	Value	ValueOutput
+Steep	0	4194304	Value	ValueOutput
+Clipper	0	4194304	Value	ValueOutput
+B1Solo	0	4194304	Value	ValueOutput
+B2Solo	0	4194304	Value	ValueOutput
+B3Solo	0	4194304	Value	ValueOutput
+P1GEnabl	0	4194304	Value	ValueOutput
+P1GThrs	0	4194304	Value	ValueOutput
+P1GRatio	0	4194304	Value	ValueOutput
+P1C1Enab	0	4194304	Value	ValueOutput
+P1C1Thrs	0	4194304	Value	ValueOutput
+P1C1Rto	0	4194304	Value	ValueOutput
+P1C1Atk	0	4194304	Value	ValueOutput
+P1C1Rls	0	4194304	Value	ValueOutput
+P1S1Enab	0	4194304	Value	ValueOutput
+P1S1Mode	0	4194304	Value	ValueOutput
+P1S1Driv	0	4194304	Value	ValueOutput
+P1O1Gain	0	4194304	Value	ValueOutput
+P1C2Enab	0	4194304	Value	ValueOutput
+P1C2Thrs	0	4194304	Value	ValueOutput
+P1C2Rto	0	4194304	Value	ValueOutput
+P1C2Atk	0	4194304	Value	ValueOutput
+P1C2Rls	0	4194304	Value	ValueOutput
+P1S2Enab	0	4194304	Value	ValueOutput
+P1S2Mode	0	4194304	Value	ValueOutput
+P1S2Driv	0	4194304	Value	ValueOutput
+P1O2Gain	0	4194304	Value	ValueOutput
+P1C3Enab	0	4194304	Value	ValueOutput
+P1C3Thrs	0	4194304	Value	ValueOutput
+P1C3Rto	0	4194304	Value	ValueOutput
+P1C3Atk	0	4194304	Value	ValueOutput
+P1C3Rls	0	4194304	Value	ValueOutput
+P1S3Enab	0	4194304	Value	ValueOutput
+P1S3Mode	0	4194304	Value	ValueOutput
+P1S3Driv	0	4194304	Value	ValueOutput
+P1O3Gain	0	4194304	Value	ValueOutput
+P1DryMix	0	4194304	Value	ValueOutput
+P1OGain	0	4194304	Value	ValueOutput
+P2GEnabl	0	4194304	Value	ValueOutput
+P2GThrs	0	4194304	Value	ValueOutput
+P2GRatio	0	4194304	Value	ValueOutput
+P2C1Enab	0	4194304	Value	ValueOutput
+P2C1Thrs	0	4194304	Value	ValueOutput
+P2C1Rto	0	4194304	Value	ValueOutput
+P2C1Atk	0	4194304	Value	ValueOutput
+P2C1Rls	0	4194304	Value	ValueOutput
+P2S1Enab	0	4194304	Value	ValueOutput
+P2S1Mode	0	4194304	Value	ValueOutput
+P2S1Driv	0	4194304	Value	ValueOutput
+P2O1Gain	0	4194304	Value	ValueOutput
+P2C2Enab	0	4194304	Value	ValueOutput
+P2C2Thrs	0	4194304	Value	ValueOutput
+P2C2Rto	0	4194304	Value	ValueOutput
+P2C2Atk	0	4194304	Value	ValueOutput
+P2C2Rls	0	4194304	Value	ValueOutput
+P2S2Enab	0	4194304	Value	ValueOutput
+P2S2Mode	0	4194304	Value	ValueOutput
+P2S2Driv	0	4194304	Value	ValueOutput
+P2O2Gain	0	4194304	Value	ValueOutput
+P2C3Enab	0	4194304	Value	ValueOutput
+P2C3Thrs	0	4194304	Value	ValueOutput
+P2C3Rto	0	4194304	Value	ValueOutput
+P2C3Atk	0	4194304	Value	ValueOutput
+P2C3Rls	0	4194304	Value	ValueOutput
+P2S3Enab	0	4194304	Value	ValueOutput
+P2S3Mode	0	4194304	Value	ValueOutput
+P2S3Driv	0	4194304	Value	ValueOutput
+P2O3Gain	0	4194304	Value	ValueOutput
+P2DryMix	0	4194304	Value	ValueOutput
+P2OGain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

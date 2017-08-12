@@ -1,0 +1,69 @@
+Scope
+Manufacturer	Model
+HoRNet	vst.AGP2.HoRNetAutoGainProMK2_x64
+Note: Will match scope definitions for vst.AGP2.HoRNetAutoGainProMK2_x64 or vst.AGP2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Processor 1 Gain	0	4194304	Value	ValueOutput
+Processor 2 Gain	0	4194304	Value	ValueOutput
+Automation	0	4194304	Value	ValueOutput
+AutoGain Mode	0	4194304	Value	ValueOutput
+Enable detector 1 graph	0	4194304	Value	ValueOutput
+Enable detector 2 graph	0	4194304	Value	ValueOutput
+Enable processor 1 graph	0	4194304	Value	ValueOutput
+Enable processro 2 graph	0	4194304	Value	ValueOutput
+Detector 1 source	0	4194304	Value	ValueOutput
+Detector 1 gate	0	4194304	Value	ValueOutput
+Detector 1 gain	0	4194304	Value	ValueOutput
+Detector 1 link att. rel	0	4194304	Value	ValueOutput
+Detector 1 attack	0	4194304	Value	ValueOutput
+Detector 1 release	0	4194304	Value	ValueOutput
+Detector 1 hi pass	0	4194304	Value	ValueOutput
+Detector 1 low pass	0	4194304	Value	ValueOutput
+Detector 1 on	0	4194304	Value	ValueOutput
+Detector 2 source	0	4194304	Value	ValueOutput
+Detector 2 gate	0	4194304	Value	ValueOutput
+Detector 2 gain	0	4194304	Value	ValueOutput
+Detector 2 link att. rel	0	4194304	Value	ValueOutput
+Detector 2 attack	0	4194304	Value	ValueOutput
+Detector 2 release	0	4194304	Value	ValueOutput
+Detector 2 hi pass	0	4194304	Value	ValueOutput
+Detector 2 low pass	0	4194304	Value	ValueOutput
+Detector 2 on	0	4194304	Value	ValueOutput
+Processor 1 reference	0	4194304	Value	ValueOutput
+Processor 1 link att. re	0	4194304	Value	ValueOutput
+Processor 1 attack	0	4194304	Value	ValueOutput
+Processor 1 release	0	4194304	Value	ValueOutput
+Processor 1 mode	0	4194304	Value	ValueOutput
+Processor 1 rev. gain	0	4194304	Value	ValueOutput
+Processor 1 max gain	0	4194304	Value	ValueOutput
+Processor 1 min gain	0	4194304	Value	ValueOutput
+Processor 1 link min max	0	4194304	Value	ValueOutput
+Processor 1 gain scaler	0	4194304	Value	ValueOutput
+Processor 2 reference	0	4194304	Value	ValueOutput
+Processor 2 link att. re	0	4194304	Value	ValueOutput
+Processor 2 attack	0	4194304	Value	ValueOutput
+Processor 2 release	0	4194304	Value	ValueOutput
+Processor 2 mode	0	4194304	Value	ValueOutput
+Processor2  rev. gain	0	4194304	Value	ValueOutput
+Processor 2 max gain	0	4194304	Value	ValueOutput
+Processor 2 min gain	0	4194304	Value	ValueOutput
+Processor 1 link min max	0	4194304	Value	ValueOutput
+Processro 2 gain scaler	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,346 @@
+Scope
+Manufacturer	Model
+CutterMusic	vst.cmr2.Revitar 2_17
+Note: Will match scope definitions for vst.cmr2.Revitar 2_17 or vst.cmr2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+ Gain 	0	4194304	Value	ValueOutput
+ Body Gain 	0	4194304	Value	ValueOutput
+ Pick Volume 	0	4194304	Value	ValueOutput
+ Tune 	0	4194304	Value	ValueOutput
+ Bridge Damp 	0	4194304	Value	ValueOutput
+ String Damp 	0	4194304	Value	ValueOutput
+ Vibrato Amp 	0	4194304	Value	ValueOutput
+ Vibrato Rate 	0	4194304	Value	ValueOutput
+ Sympathetic 	0	4194304	Value	ValueOutput
+ Slap 	0	4194304	Value	ValueOutput
+ Pick Speed 	0	4194304	Value	ValueOutput
+ Chord Rate 	0	4194304	Value	ValueOutput
+ String Type 	0	4194304	Value	ValueOutput
+ Palm Damp 	0	4194304	Value	ValueOutput
+ Slide Rate 	0	4194304	Value	ValueOutput
+ Chord Play On/Off 	0	4194304	Value	ValueOutput
+ Sustain 	0	4194304	Value	ValueOutput
+ Mono 	0	4194304	Value	ValueOutput
+ Chord Type 	0	4194304	Value	ValueOutput
+#19	0	4194304	Value	ValueOutput
+ Strum Direction 	0	4194304	Value	ValueOutput
+ Body Type 	0	4194304	Value	ValueOutput
+ Chord Note 0 	0	4194304	Value	ValueOutput
+ Chord Note 1 	0	4194304	Value	ValueOutput
+ Chord Note 2 	0	4194304	Value	ValueOutput
+ Chord Note 3 	0	4194304	Value	ValueOutput
+ Chord Note 4 	0	4194304	Value	ValueOutput
+ Chord Note 5 	0	4194304	Value	ValueOutput
+ Pick Position 	0	4194304	Value	ValueOutput
+ Pick Up Position 	0	4194304	Value	ValueOutput
+ Pick Width 	0	4194304	Value	ValueOutput
+ Pick Stiffness 	0	4194304	Value	ValueOutput
+ Palm Position 	0	4194304	Value	ValueOutput
+ Abs/Rel Position 	0	4194304	Value	ValueOutput
+ Stop Strings 	0	4194304	Value	ValueOutput
+ RelChord 0 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 0 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 0 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 0 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 0 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 0 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 1 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 1 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 1 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 1 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 1 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 1 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 2 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 2 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 2 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 2 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 2 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 2 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 3 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 3 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 3 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 3 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 3 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 3 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 4 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 4 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 4 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 4 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 4 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 4 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 5 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 5 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 5 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 5 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 5 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 5 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 6 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 6 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 6 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 6 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 6 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 6 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 7 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 7 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 7 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 7 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 7 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 7 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 8 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 8 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 8 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 8 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 8 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 8 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 9 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 9 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 9 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 9 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 9 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 9 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 10 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 10 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 10 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 10 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 10 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 10 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 11 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 11 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 11 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 11 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 11 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 11 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 12 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 12 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 12 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 12 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 12 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 12 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 13 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 13 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 13 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 13 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 13 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 13 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 14 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 14 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 14 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 14 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 14 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 14 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 15 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 15 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 15 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 15 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 15 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 15 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 16 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 16 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 16 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 16 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 16 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 16 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 17 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 17 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 17 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 17 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 17 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 17 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 18 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 18 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 18 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 18 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 18 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 18 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 19 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 19 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 19 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 19 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 19 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 19 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 20 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 20 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 20 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 20 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 20 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 20 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 21 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 21 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 21 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 21 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 21 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 21 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 22 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 22 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 22 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 22 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 22 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 22 Fret 5 	0	4194304	Value	ValueOutput
+ RelChord 23 Fret 0 	0	4194304	Value	ValueOutput
+ RelChord 23 Fret 1 	0	4194304	Value	ValueOutput
+ RelChord 23 Fret 2 	0	4194304	Value	ValueOutput
+ RelChord 23 Fret 3 	0	4194304	Value	ValueOutput
+ RelChord 23 Fret 4 	0	4194304	Value	ValueOutput
+ RelChord 23 Fret 5 	0	4194304	Value	ValueOutput
+ AbsChord 0 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 0 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 0 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 0 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 0 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 0 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 1 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 1 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 1 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 1 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 1 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 1 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 2 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 2 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 2 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 2 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 2 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 2 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 3 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 3 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 3 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 3 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 3 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 3 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 4 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 4 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 4 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 4 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 4 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 4 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 5 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 5 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 5 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 5 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 5 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 5 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 6 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 6 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 6 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 6 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 6 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 6 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 7 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 7 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 7 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 7 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 7 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 7 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 8 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 8 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 8 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 8 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 8 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 8 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 9 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 9 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 9 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 9 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 9 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 9 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 10 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 10 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 10 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 10 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 10 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 10 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 11 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 11 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 11 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 11 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 11 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 11 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 12 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 12 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 12 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 12 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 12 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 12 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 13 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 13 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 13 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 13 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 13 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 13 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 14 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 14 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 14 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 14 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 14 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 14 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 15 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 15 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 15 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 15 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 15 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 15 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 16 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 16 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 16 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 16 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 16 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 16 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 17 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 17 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 17 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 17 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 17 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 17 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 18 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 18 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 18 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 18 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 18 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 18 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 19 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 19 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 19 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 19 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 19 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 19 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 20 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 20 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 20 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 20 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 20 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 20 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 21 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 21 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 21 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 21 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 21 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 21 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 22 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 22 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 22 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 22 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 22 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 22 Note 5 	0	4194304	Value	ValueOutput
+ AbsChord 23 Note 0 	0	4194304	Value	ValueOutput
+ AbsChord 23 Note 1 	0	4194304	Value	ValueOutput
+ AbsChord 23 Note 2 	0	4194304	Value	ValueOutput
+ AbsChord 23 Note 3 	0	4194304	Value	ValueOutput
+ AbsChord 23 Note 4 	0	4194304	Value	ValueOutput
+ AbsChord 23 Note 5 	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

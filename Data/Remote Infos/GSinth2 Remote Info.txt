@@ -1,0 +1,53 @@
+Scope
+Manufacturer	Model
+GVST	vst.gyAs.GSinth2
+Note: Will match scope definitions for vst.gyAs.GSinth2 or vst.gyAs
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Wave1	0	4194304	Value	ValueOutput
+Detune1	0	4194304	Value	ValueOutput
+Attk1	0	4194304	Value	ValueOutput
+Rel1	0	4194304	Value	ValueOutput
+Porta1	0	4194304	Value	ValueOutput
+Noise1	0	4194304	Value	ValueOutput
+Level1	0	4194304	Value	ValueOutput
+Wave2	0	4194304	Value	ValueOutput
+Partial2	0	4194304	Value	ValueOutput
+Detune2	0	4194304	Value	ValueOutput
+Attk2	0	4194304	Value	ValueOutput
+Rel2	0	4194304	Value	ValueOutput
+Porta2	0	4194304	Value	ValueOutput
+Noise2	0	4194304	Value	ValueOutput
+Level2	0	4194304	Value	ValueOutput
+Wave3	0	4194304	Value	ValueOutput
+Partial3	0	4194304	Value	ValueOutput
+Detune3	0	4194304	Value	ValueOutput
+Attk3	0	4194304	Value	ValueOutput
+Rel3	0	4194304	Value	ValueOutput
+Porta3	0	4194304	Value	ValueOutput
+Noise3	0	4194304	Value	ValueOutput
+Level3	0	4194304	Value	ValueOutput
+LFOWave	0	4194304	Value	ValueOutput
+LFOFreq	0	4194304	Value	ValueOutput
+LFOPhase	0	4194304	Value	ValueOutput
+LFODepth	0	4194304	Value	ValueOutput
+PortaRst	0	4194304	Value	ValueOutput
+PtchBend	0	4194304	Value	ValueOutput
+MainLvl	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

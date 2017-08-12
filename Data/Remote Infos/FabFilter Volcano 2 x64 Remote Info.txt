@@ -1,0 +1,780 @@
+Scope
+Manufacturer	Model
+FabFilter	vst.FV2l.FabFilter Volcano 2 x64
+Note: Will match scope definitions for vst.FV2l.FabFilter Volcano 2 x64 or vst.FV2l
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Input Pan	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Output Pan	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Routing	0	4194304	Value	ValueOutput
+Routing Mode	0	4194304	Value	ValueOutput
+Num Active Filters	0	4194304	Value	ValueOutput
+Filter 1 Freq	0	4194304	Value	ValueOutput
+Filter 1 Pan	0	4194304	Value	ValueOutput
+Filter 1 Peak	0	4194304	Value	ValueOutput
+Filter 1 Characteristic	0	4194304	Value	ValueOutput
+Filter 1 Response	0	4194304	Value	ValueOutput
+Filter 1 Slope	0	4194304	Value	ValueOutput
+Filter 1 Delay	0	4194304	Value	ValueOutput
+Filter 1 Enabled	0	4194304	Value	ValueOutput
+Filter 1 Linked	0	4194304	Value	ValueOutput
+Filter 2 Freq	0	4194304	Value	ValueOutput
+Filter 2 Pan	0	4194304	Value	ValueOutput
+Filter 2 Peak	0	4194304	Value	ValueOutput
+Filter 2 Characteristic	0	4194304	Value	ValueOutput
+Filter 2 Response	0	4194304	Value	ValueOutput
+Filter 2 Slope	0	4194304	Value	ValueOutput
+Filter 2 Delay	0	4194304	Value	ValueOutput
+Filter 2 Enabled	0	4194304	Value	ValueOutput
+Filter 2 Linked	0	4194304	Value	ValueOutput
+Filter 3 Freq	0	4194304	Value	ValueOutput
+Filter 3 Pan	0	4194304	Value	ValueOutput
+Filter 3 Peak	0	4194304	Value	ValueOutput
+Filter 3 Characteristic	0	4194304	Value	ValueOutput
+Filter 3 Response	0	4194304	Value	ValueOutput
+Filter 3 Slope	0	4194304	Value	ValueOutput
+Filter 3 Delay	0	4194304	Value	ValueOutput
+Filter 3 Enabled	0	4194304	Value	ValueOutput
+Filter 3 Linked	0	4194304	Value	ValueOutput
+Filter 4 Freq	0	4194304	Value	ValueOutput
+Filter 4 Pan	0	4194304	Value	ValueOutput
+Filter 4 Peak	0	4194304	Value	ValueOutput
+Filter 4 Characteristic	0	4194304	Value	ValueOutput
+Filter 4 Response	0	4194304	Value	ValueOutput
+Filter 4 Slope	0	4194304	Value	ValueOutput
+Filter 4 Delay	0	4194304	Value	ValueOutput
+Filter 4 Enabled	0	4194304	Value	ValueOutput
+Filter 4 Linked	0	4194304	Value	ValueOutput
+Num Active XLFOs	0	4194304	Value	ValueOutput
+XLFO 1 Frequency	0	4194304	Value	ValueOutput
+XLFO 1 Frequency Offset	0	4194304	Value	ValueOutput
+XLFO 1 Balance	0	4194304	Value	ValueOutput
+XLFO 1 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Sync Mode	0	4194304	Value	ValueOutput
+XLFO 1 MIDI Trigger	0	4194304	Value	ValueOutput
+Num Active XLFO 1 Steps	0	4194304	Value	ValueOutput
+XLFO 1 Step 1 Value	0	4194304	Value	ValueOutput
+XLFO 1 Step 1 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Step 1 Glide func	0	4194304	Value	ValueOutput
+XLFO 1 Step 1 Random	0	4194304	Value	ValueOutput
+XLFO 1 Step 2 Value	0	4194304	Value	ValueOutput
+XLFO 1 Step 2 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Step 2 Glide func	0	4194304	Value	ValueOutput
+XLFO 1 Step 2 Random	0	4194304	Value	ValueOutput
+XLFO 1 Step 3 Value	0	4194304	Value	ValueOutput
+XLFO 1 Step 3 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Step 3 Glide func	0	4194304	Value	ValueOutput
+XLFO 1 Step 3 Random	0	4194304	Value	ValueOutput
+XLFO 1 Step 4 Value	0	4194304	Value	ValueOutput
+XLFO 1 Step 4 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Step 4 Glide func	0	4194304	Value	ValueOutput
+XLFO 1 Step 4 Random	0	4194304	Value	ValueOutput
+XLFO 1 Step 5 Value	0	4194304	Value	ValueOutput
+XLFO 1 Step 5 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Step 5 Glide func	0	4194304	Value	ValueOutput
+XLFO 1 Step 5 Random	0	4194304	Value	ValueOutput
+XLFO 1 Step 6 Value	0	4194304	Value	ValueOutput
+XLFO 1 Step 6 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Step 6 Glide func	0	4194304	Value	ValueOutput
+XLFO 1 Step 6 Random	0	4194304	Value	ValueOutput
+XLFO 1 Step 7 Value	0	4194304	Value	ValueOutput
+XLFO 1 Step 7 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Step 7 Glide func	0	4194304	Value	ValueOutput
+XLFO 1 Step 7 Random	0	4194304	Value	ValueOutput
+XLFO 1 Step 8 Value	0	4194304	Value	ValueOutput
+XLFO 1 Step 8 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Step 8 Glide func	0	4194304	Value	ValueOutput
+XLFO 1 Step 8 Random	0	4194304	Value	ValueOutput
+XLFO 1 Step 9 Value	0	4194304	Value	ValueOutput
+XLFO 1 Step 9 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Step 9 Glide func	0	4194304	Value	ValueOutput
+XLFO 1 Step 9 Random	0	4194304	Value	ValueOutput
+XLFO 1 Step 10 Value	0	4194304	Value	ValueOutput
+XLFO 1 Step 10 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Step 10 Glide fun	0	4194304	Value	ValueOutput
+XLFO 1 Step 10 Random	0	4194304	Value	ValueOutput
+XLFO 1 Step 11 Value	0	4194304	Value	ValueOutput
+XLFO 1 Step 11 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Step 11 Glide fun	0	4194304	Value	ValueOutput
+XLFO 1 Step 11 Random	0	4194304	Value	ValueOutput
+XLFO 1 Step 12 Value	0	4194304	Value	ValueOutput
+XLFO 1 Step 12 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Step 12 Glide fun	0	4194304	Value	ValueOutput
+XLFO 1 Step 12 Random	0	4194304	Value	ValueOutput
+XLFO 1 Step 13 Value	0	4194304	Value	ValueOutput
+XLFO 1 Step 13 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Step 13 Glide fun	0	4194304	Value	ValueOutput
+XLFO 1 Step 13 Random	0	4194304	Value	ValueOutput
+XLFO 1 Step 14 Value	0	4194304	Value	ValueOutput
+XLFO 1 Step 14 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Step 14 Glide fun	0	4194304	Value	ValueOutput
+XLFO 1 Step 14 Random	0	4194304	Value	ValueOutput
+XLFO 1 Step 15 Value	0	4194304	Value	ValueOutput
+XLFO 1 Step 15 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Step 15 Glide fun	0	4194304	Value	ValueOutput
+XLFO 1 Step 15 Random	0	4194304	Value	ValueOutput
+XLFO 1 Step 16 Value	0	4194304	Value	ValueOutput
+XLFO 1 Step 16 Glide	0	4194304	Value	ValueOutput
+XLFO 1 Step 16 Glide fun	0	4194304	Value	ValueOutput
+XLFO 1 Step 16 Random	0	4194304	Value	ValueOutput
+XLFO 2 Frequency	0	4194304	Value	ValueOutput
+XLFO 2 Frequency Offset	0	4194304	Value	ValueOutput
+XLFO 2 Balance	0	4194304	Value	ValueOutput
+XLFO 2 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Sync Mode	0	4194304	Value	ValueOutput
+XLFO 2 MIDI Trigger	0	4194304	Value	ValueOutput
+Num Active XLFO 2 Steps	0	4194304	Value	ValueOutput
+XLFO 2 Step 1 Value	0	4194304	Value	ValueOutput
+XLFO 2 Step 1 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Step 1 Glide func	0	4194304	Value	ValueOutput
+XLFO 2 Step 1 Random	0	4194304	Value	ValueOutput
+XLFO 2 Step 2 Value	0	4194304	Value	ValueOutput
+XLFO 2 Step 2 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Step 2 Glide func	0	4194304	Value	ValueOutput
+XLFO 2 Step 2 Random	0	4194304	Value	ValueOutput
+XLFO 2 Step 3 Value	0	4194304	Value	ValueOutput
+XLFO 2 Step 3 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Step 3 Glide func	0	4194304	Value	ValueOutput
+XLFO 2 Step 3 Random	0	4194304	Value	ValueOutput
+XLFO 2 Step 4 Value	0	4194304	Value	ValueOutput
+XLFO 2 Step 4 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Step 4 Glide func	0	4194304	Value	ValueOutput
+XLFO 2 Step 4 Random	0	4194304	Value	ValueOutput
+XLFO 2 Step 5 Value	0	4194304	Value	ValueOutput
+XLFO 2 Step 5 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Step 5 Glide func	0	4194304	Value	ValueOutput
+XLFO 2 Step 5 Random	0	4194304	Value	ValueOutput
+XLFO 2 Step 6 Value	0	4194304	Value	ValueOutput
+XLFO 2 Step 6 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Step 6 Glide func	0	4194304	Value	ValueOutput
+XLFO 2 Step 6 Random	0	4194304	Value	ValueOutput
+XLFO 2 Step 7 Value	0	4194304	Value	ValueOutput
+XLFO 2 Step 7 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Step 7 Glide func	0	4194304	Value	ValueOutput
+XLFO 2 Step 7 Random	0	4194304	Value	ValueOutput
+XLFO 2 Step 8 Value	0	4194304	Value	ValueOutput
+XLFO 2 Step 8 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Step 8 Glide func	0	4194304	Value	ValueOutput
+XLFO 2 Step 8 Random	0	4194304	Value	ValueOutput
+XLFO 2 Step 9 Value	0	4194304	Value	ValueOutput
+XLFO 2 Step 9 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Step 9 Glide func	0	4194304	Value	ValueOutput
+XLFO 2 Step 9 Random	0	4194304	Value	ValueOutput
+XLFO 2 Step 10 Value	0	4194304	Value	ValueOutput
+XLFO 2 Step 10 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Step 10 Glide fun	0	4194304	Value	ValueOutput
+XLFO 2 Step 10 Random	0	4194304	Value	ValueOutput
+XLFO 2 Step 11 Value	0	4194304	Value	ValueOutput
+XLFO 2 Step 11 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Step 11 Glide fun	0	4194304	Value	ValueOutput
+XLFO 2 Step 11 Random	0	4194304	Value	ValueOutput
+XLFO 2 Step 12 Value	0	4194304	Value	ValueOutput
+XLFO 2 Step 12 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Step 12 Glide fun	0	4194304	Value	ValueOutput
+XLFO 2 Step 12 Random	0	4194304	Value	ValueOutput
+XLFO 2 Step 13 Value	0	4194304	Value	ValueOutput
+XLFO 2 Step 13 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Step 13 Glide fun	0	4194304	Value	ValueOutput
+XLFO 2 Step 13 Random	0	4194304	Value	ValueOutput
+XLFO 2 Step 14 Value	0	4194304	Value	ValueOutput
+XLFO 2 Step 14 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Step 14 Glide fun	0	4194304	Value	ValueOutput
+XLFO 2 Step 14 Random	0	4194304	Value	ValueOutput
+XLFO 2 Step 15 Value	0	4194304	Value	ValueOutput
+XLFO 2 Step 15 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Step 15 Glide fun	0	4194304	Value	ValueOutput
+XLFO 2 Step 15 Random	0	4194304	Value	ValueOutput
+XLFO 2 Step 16 Value	0	4194304	Value	ValueOutput
+XLFO 2 Step 16 Glide	0	4194304	Value	ValueOutput
+XLFO 2 Step 16 Glide fun	0	4194304	Value	ValueOutput
+XLFO 2 Step 16 Random	0	4194304	Value	ValueOutput
+XLFO 3 Frequency	0	4194304	Value	ValueOutput
+XLFO 3 Frequency Offset	0	4194304	Value	ValueOutput
+XLFO 3 Balance	0	4194304	Value	ValueOutput
+XLFO 3 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Sync Mode	0	4194304	Value	ValueOutput
+XLFO 3 MIDI Trigger	0	4194304	Value	ValueOutput
+Num Active XLFO 3 Steps	0	4194304	Value	ValueOutput
+XLFO 3 Step 1 Value	0	4194304	Value	ValueOutput
+XLFO 3 Step 1 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Step 1 Glide func	0	4194304	Value	ValueOutput
+XLFO 3 Step 1 Random	0	4194304	Value	ValueOutput
+XLFO 3 Step 2 Value	0	4194304	Value	ValueOutput
+XLFO 3 Step 2 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Step 2 Glide func	0	4194304	Value	ValueOutput
+XLFO 3 Step 2 Random	0	4194304	Value	ValueOutput
+XLFO 3 Step 3 Value	0	4194304	Value	ValueOutput
+XLFO 3 Step 3 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Step 3 Glide func	0	4194304	Value	ValueOutput
+XLFO 3 Step 3 Random	0	4194304	Value	ValueOutput
+XLFO 3 Step 4 Value	0	4194304	Value	ValueOutput
+XLFO 3 Step 4 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Step 4 Glide func	0	4194304	Value	ValueOutput
+XLFO 3 Step 4 Random	0	4194304	Value	ValueOutput
+XLFO 3 Step 5 Value	0	4194304	Value	ValueOutput
+XLFO 3 Step 5 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Step 5 Glide func	0	4194304	Value	ValueOutput
+XLFO 3 Step 5 Random	0	4194304	Value	ValueOutput
+XLFO 3 Step 6 Value	0	4194304	Value	ValueOutput
+XLFO 3 Step 6 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Step 6 Glide func	0	4194304	Value	ValueOutput
+XLFO 3 Step 6 Random	0	4194304	Value	ValueOutput
+XLFO 3 Step 7 Value	0	4194304	Value	ValueOutput
+XLFO 3 Step 7 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Step 7 Glide func	0	4194304	Value	ValueOutput
+XLFO 3 Step 7 Random	0	4194304	Value	ValueOutput
+XLFO 3 Step 8 Value	0	4194304	Value	ValueOutput
+XLFO 3 Step 8 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Step 8 Glide func	0	4194304	Value	ValueOutput
+XLFO 3 Step 8 Random	0	4194304	Value	ValueOutput
+XLFO 3 Step 9 Value	0	4194304	Value	ValueOutput
+XLFO 3 Step 9 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Step 9 Glide func	0	4194304	Value	ValueOutput
+XLFO 3 Step 9 Random	0	4194304	Value	ValueOutput
+XLFO 3 Step 10 Value	0	4194304	Value	ValueOutput
+XLFO 3 Step 10 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Step 10 Glide fun	0	4194304	Value	ValueOutput
+XLFO 3 Step 10 Random	0	4194304	Value	ValueOutput
+XLFO 3 Step 11 Value	0	4194304	Value	ValueOutput
+XLFO 3 Step 11 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Step 11 Glide fun	0	4194304	Value	ValueOutput
+XLFO 3 Step 11 Random	0	4194304	Value	ValueOutput
+XLFO 3 Step 12 Value	0	4194304	Value	ValueOutput
+XLFO 3 Step 12 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Step 12 Glide fun	0	4194304	Value	ValueOutput
+XLFO 3 Step 12 Random	0	4194304	Value	ValueOutput
+XLFO 3 Step 13 Value	0	4194304	Value	ValueOutput
+XLFO 3 Step 13 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Step 13 Glide fun	0	4194304	Value	ValueOutput
+XLFO 3 Step 13 Random	0	4194304	Value	ValueOutput
+XLFO 3 Step 14 Value	0	4194304	Value	ValueOutput
+XLFO 3 Step 14 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Step 14 Glide fun	0	4194304	Value	ValueOutput
+XLFO 3 Step 14 Random	0	4194304	Value	ValueOutput
+XLFO 3 Step 15 Value	0	4194304	Value	ValueOutput
+XLFO 3 Step 15 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Step 15 Glide fun	0	4194304	Value	ValueOutput
+XLFO 3 Step 15 Random	0	4194304	Value	ValueOutput
+XLFO 3 Step 16 Value	0	4194304	Value	ValueOutput
+XLFO 3 Step 16 Glide	0	4194304	Value	ValueOutput
+XLFO 3 Step 16 Glide fun	0	4194304	Value	ValueOutput
+XLFO 3 Step 16 Random	0	4194304	Value	ValueOutput
+XLFO 4 Frequency	0	4194304	Value	ValueOutput
+XLFO 4 Frequency Offset	0	4194304	Value	ValueOutput
+XLFO 4 Balance	0	4194304	Value	ValueOutput
+XLFO 4 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Sync Mode	0	4194304	Value	ValueOutput
+XLFO 4 MIDI Trigger	0	4194304	Value	ValueOutput
+Num Active XLFO 4 Steps	0	4194304	Value	ValueOutput
+XLFO 4 Step 1 Value	0	4194304	Value	ValueOutput
+XLFO 4 Step 1 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Step 1 Glide func	0	4194304	Value	ValueOutput
+XLFO 4 Step 1 Random	0	4194304	Value	ValueOutput
+XLFO 4 Step 2 Value	0	4194304	Value	ValueOutput
+XLFO 4 Step 2 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Step 2 Glide func	0	4194304	Value	ValueOutput
+XLFO 4 Step 2 Random	0	4194304	Value	ValueOutput
+XLFO 4 Step 3 Value	0	4194304	Value	ValueOutput
+XLFO 4 Step 3 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Step 3 Glide func	0	4194304	Value	ValueOutput
+XLFO 4 Step 3 Random	0	4194304	Value	ValueOutput
+XLFO 4 Step 4 Value	0	4194304	Value	ValueOutput
+XLFO 4 Step 4 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Step 4 Glide func	0	4194304	Value	ValueOutput
+XLFO 4 Step 4 Random	0	4194304	Value	ValueOutput
+XLFO 4 Step 5 Value	0	4194304	Value	ValueOutput
+XLFO 4 Step 5 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Step 5 Glide func	0	4194304	Value	ValueOutput
+XLFO 4 Step 5 Random	0	4194304	Value	ValueOutput
+XLFO 4 Step 6 Value	0	4194304	Value	ValueOutput
+XLFO 4 Step 6 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Step 6 Glide func	0	4194304	Value	ValueOutput
+XLFO 4 Step 6 Random	0	4194304	Value	ValueOutput
+XLFO 4 Step 7 Value	0	4194304	Value	ValueOutput
+XLFO 4 Step 7 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Step 7 Glide func	0	4194304	Value	ValueOutput
+XLFO 4 Step 7 Random	0	4194304	Value	ValueOutput
+XLFO 4 Step 8 Value	0	4194304	Value	ValueOutput
+XLFO 4 Step 8 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Step 8 Glide func	0	4194304	Value	ValueOutput
+XLFO 4 Step 8 Random	0	4194304	Value	ValueOutput
+XLFO 4 Step 9 Value	0	4194304	Value	ValueOutput
+XLFO 4 Step 9 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Step 9 Glide func	0	4194304	Value	ValueOutput
+XLFO 4 Step 9 Random	0	4194304	Value	ValueOutput
+XLFO 4 Step 10 Value	0	4194304	Value	ValueOutput
+XLFO 4 Step 10 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Step 10 Glide fun	0	4194304	Value	ValueOutput
+XLFO 4 Step 10 Random	0	4194304	Value	ValueOutput
+XLFO 4 Step 11 Value	0	4194304	Value	ValueOutput
+XLFO 4 Step 11 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Step 11 Glide fun	0	4194304	Value	ValueOutput
+XLFO 4 Step 11 Random	0	4194304	Value	ValueOutput
+XLFO 4 Step 12 Value	0	4194304	Value	ValueOutput
+XLFO 4 Step 12 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Step 12 Glide fun	0	4194304	Value	ValueOutput
+XLFO 4 Step 12 Random	0	4194304	Value	ValueOutput
+XLFO 4 Step 13 Value	0	4194304	Value	ValueOutput
+XLFO 4 Step 13 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Step 13 Glide fun	0	4194304	Value	ValueOutput
+XLFO 4 Step 13 Random	0	4194304	Value	ValueOutput
+XLFO 4 Step 14 Value	0	4194304	Value	ValueOutput
+XLFO 4 Step 14 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Step 14 Glide fun	0	4194304	Value	ValueOutput
+XLFO 4 Step 14 Random	0	4194304	Value	ValueOutput
+XLFO 4 Step 15 Value	0	4194304	Value	ValueOutput
+XLFO 4 Step 15 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Step 15 Glide fun	0	4194304	Value	ValueOutput
+XLFO 4 Step 15 Random	0	4194304	Value	ValueOutput
+XLFO 4 Step 16 Value	0	4194304	Value	ValueOutput
+XLFO 4 Step 16 Glide	0	4194304	Value	ValueOutput
+XLFO 4 Step 16 Glide fun	0	4194304	Value	ValueOutput
+XLFO 4 Step 16 Random	0	4194304	Value	ValueOutput
+XLFO 5 Frequency	0	4194304	Value	ValueOutput
+XLFO 5 Frequency Offset	0	4194304	Value	ValueOutput
+XLFO 5 Balance	0	4194304	Value	ValueOutput
+XLFO 5 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Sync Mode	0	4194304	Value	ValueOutput
+XLFO 5 MIDI Trigger	0	4194304	Value	ValueOutput
+Num Active XLFO 5 Steps	0	4194304	Value	ValueOutput
+XLFO 5 Step 1 Value	0	4194304	Value	ValueOutput
+XLFO 5 Step 1 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Step 1 Glide func	0	4194304	Value	ValueOutput
+XLFO 5 Step 1 Random	0	4194304	Value	ValueOutput
+XLFO 5 Step 2 Value	0	4194304	Value	ValueOutput
+XLFO 5 Step 2 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Step 2 Glide func	0	4194304	Value	ValueOutput
+XLFO 5 Step 2 Random	0	4194304	Value	ValueOutput
+XLFO 5 Step 3 Value	0	4194304	Value	ValueOutput
+XLFO 5 Step 3 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Step 3 Glide func	0	4194304	Value	ValueOutput
+XLFO 5 Step 3 Random	0	4194304	Value	ValueOutput
+XLFO 5 Step 4 Value	0	4194304	Value	ValueOutput
+XLFO 5 Step 4 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Step 4 Glide func	0	4194304	Value	ValueOutput
+XLFO 5 Step 4 Random	0	4194304	Value	ValueOutput
+XLFO 5 Step 5 Value	0	4194304	Value	ValueOutput
+XLFO 5 Step 5 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Step 5 Glide func	0	4194304	Value	ValueOutput
+XLFO 5 Step 5 Random	0	4194304	Value	ValueOutput
+XLFO 5 Step 6 Value	0	4194304	Value	ValueOutput
+XLFO 5 Step 6 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Step 6 Glide func	0	4194304	Value	ValueOutput
+XLFO 5 Step 6 Random	0	4194304	Value	ValueOutput
+XLFO 5 Step 7 Value	0	4194304	Value	ValueOutput
+XLFO 5 Step 7 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Step 7 Glide func	0	4194304	Value	ValueOutput
+XLFO 5 Step 7 Random	0	4194304	Value	ValueOutput
+XLFO 5 Step 8 Value	0	4194304	Value	ValueOutput
+XLFO 5 Step 8 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Step 8 Glide func	0	4194304	Value	ValueOutput
+XLFO 5 Step 8 Random	0	4194304	Value	ValueOutput
+XLFO 5 Step 9 Value	0	4194304	Value	ValueOutput
+XLFO 5 Step 9 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Step 9 Glide func	0	4194304	Value	ValueOutput
+XLFO 5 Step 9 Random	0	4194304	Value	ValueOutput
+XLFO 5 Step 10 Value	0	4194304	Value	ValueOutput
+XLFO 5 Step 10 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Step 10 Glide fun	0	4194304	Value	ValueOutput
+XLFO 5 Step 10 Random	0	4194304	Value	ValueOutput
+XLFO 5 Step 11 Value	0	4194304	Value	ValueOutput
+XLFO 5 Step 11 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Step 11 Glide fun	0	4194304	Value	ValueOutput
+XLFO 5 Step 11 Random	0	4194304	Value	ValueOutput
+XLFO 5 Step 12 Value	0	4194304	Value	ValueOutput
+XLFO 5 Step 12 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Step 12 Glide fun	0	4194304	Value	ValueOutput
+XLFO 5 Step 12 Random	0	4194304	Value	ValueOutput
+XLFO 5 Step 13 Value	0	4194304	Value	ValueOutput
+XLFO 5 Step 13 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Step 13 Glide fun	0	4194304	Value	ValueOutput
+XLFO 5 Step 13 Random	0	4194304	Value	ValueOutput
+XLFO 5 Step 14 Value	0	4194304	Value	ValueOutput
+XLFO 5 Step 14 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Step 14 Glide fun	0	4194304	Value	ValueOutput
+XLFO 5 Step 14 Random	0	4194304	Value	ValueOutput
+XLFO 5 Step 15 Value	0	4194304	Value	ValueOutput
+XLFO 5 Step 15 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Step 15 Glide fun	0	4194304	Value	ValueOutput
+XLFO 5 Step 15 Random	0	4194304	Value	ValueOutput
+XLFO 5 Step 16 Value	0	4194304	Value	ValueOutput
+XLFO 5 Step 16 Glide	0	4194304	Value	ValueOutput
+XLFO 5 Step 16 Glide fun	0	4194304	Value	ValueOutput
+XLFO 5 Step 16 Random	0	4194304	Value	ValueOutput
+XLFO 6 Frequency	0	4194304	Value	ValueOutput
+XLFO 6 Frequency Offset	0	4194304	Value	ValueOutput
+XLFO 6 Balance	0	4194304	Value	ValueOutput
+XLFO 6 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Sync Mode	0	4194304	Value	ValueOutput
+XLFO 6 MIDI Trigger	0	4194304	Value	ValueOutput
+Num Active XLFO 6 Steps	0	4194304	Value	ValueOutput
+XLFO 6 Step 1 Value	0	4194304	Value	ValueOutput
+XLFO 6 Step 1 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Step 1 Glide func	0	4194304	Value	ValueOutput
+XLFO 6 Step 1 Random	0	4194304	Value	ValueOutput
+XLFO 6 Step 2 Value	0	4194304	Value	ValueOutput
+XLFO 6 Step 2 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Step 2 Glide func	0	4194304	Value	ValueOutput
+XLFO 6 Step 2 Random	0	4194304	Value	ValueOutput
+XLFO 6 Step 3 Value	0	4194304	Value	ValueOutput
+XLFO 6 Step 3 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Step 3 Glide func	0	4194304	Value	ValueOutput
+XLFO 6 Step 3 Random	0	4194304	Value	ValueOutput
+XLFO 6 Step 4 Value	0	4194304	Value	ValueOutput
+XLFO 6 Step 4 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Step 4 Glide func	0	4194304	Value	ValueOutput
+XLFO 6 Step 4 Random	0	4194304	Value	ValueOutput
+XLFO 6 Step 5 Value	0	4194304	Value	ValueOutput
+XLFO 6 Step 5 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Step 5 Glide func	0	4194304	Value	ValueOutput
+XLFO 6 Step 5 Random	0	4194304	Value	ValueOutput
+XLFO 6 Step 6 Value	0	4194304	Value	ValueOutput
+XLFO 6 Step 6 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Step 6 Glide func	0	4194304	Value	ValueOutput
+XLFO 6 Step 6 Random	0	4194304	Value	ValueOutput
+XLFO 6 Step 7 Value	0	4194304	Value	ValueOutput
+XLFO 6 Step 7 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Step 7 Glide func	0	4194304	Value	ValueOutput
+XLFO 6 Step 7 Random	0	4194304	Value	ValueOutput
+XLFO 6 Step 8 Value	0	4194304	Value	ValueOutput
+XLFO 6 Step 8 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Step 8 Glide func	0	4194304	Value	ValueOutput
+XLFO 6 Step 8 Random	0	4194304	Value	ValueOutput
+XLFO 6 Step 9 Value	0	4194304	Value	ValueOutput
+XLFO 6 Step 9 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Step 9 Glide func	0	4194304	Value	ValueOutput
+XLFO 6 Step 9 Random	0	4194304	Value	ValueOutput
+XLFO 6 Step 10 Value	0	4194304	Value	ValueOutput
+XLFO 6 Step 10 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Step 10 Glide fun	0	4194304	Value	ValueOutput
+XLFO 6 Step 10 Random	0	4194304	Value	ValueOutput
+XLFO 6 Step 11 Value	0	4194304	Value	ValueOutput
+XLFO 6 Step 11 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Step 11 Glide fun	0	4194304	Value	ValueOutput
+XLFO 6 Step 11 Random	0	4194304	Value	ValueOutput
+XLFO 6 Step 12 Value	0	4194304	Value	ValueOutput
+XLFO 6 Step 12 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Step 12 Glide fun	0	4194304	Value	ValueOutput
+XLFO 6 Step 12 Random	0	4194304	Value	ValueOutput
+XLFO 6 Step 13 Value	0	4194304	Value	ValueOutput
+XLFO 6 Step 13 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Step 13 Glide fun	0	4194304	Value	ValueOutput
+XLFO 6 Step 13 Random	0	4194304	Value	ValueOutput
+XLFO 6 Step 14 Value	0	4194304	Value	ValueOutput
+XLFO 6 Step 14 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Step 14 Glide fun	0	4194304	Value	ValueOutput
+XLFO 6 Step 14 Random	0	4194304	Value	ValueOutput
+XLFO 6 Step 15 Value	0	4194304	Value	ValueOutput
+XLFO 6 Step 15 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Step 15 Glide fun	0	4194304	Value	ValueOutput
+XLFO 6 Step 15 Random	0	4194304	Value	ValueOutput
+XLFO 6 Step 16 Value	0	4194304	Value	ValueOutput
+XLFO 6 Step 16 Glide	0	4194304	Value	ValueOutput
+XLFO 6 Step 16 Glide fun	0	4194304	Value	ValueOutput
+XLFO 6 Step 16 Random	0	4194304	Value	ValueOutput
+Num Active EGs	0	4194304	Value	ValueOutput
+EG 1 Threshold	0	4194304	Value	ValueOutput
+EG 1Triggering	0	4194304	Value	ValueOutput
+EG 1 Attack	0	4194304	Value	ValueOutput
+EG 1 Decay	0	4194304	Value	ValueOutput
+EG 1 Sustain	0	4194304	Value	ValueOutput
+EG 1 Release	0	4194304	Value	ValueOutput
+EG 2 Threshold	0	4194304	Value	ValueOutput
+EG 2Triggering	0	4194304	Value	ValueOutput
+EG 2 Attack	0	4194304	Value	ValueOutput
+EG 2 Decay	0	4194304	Value	ValueOutput
+EG 2 Sustain	0	4194304	Value	ValueOutput
+EG 2 Release	0	4194304	Value	ValueOutput
+EG 3 Threshold	0	4194304	Value	ValueOutput
+EG 3Triggering	0	4194304	Value	ValueOutput
+EG 3 Attack	0	4194304	Value	ValueOutput
+EG 3 Decay	0	4194304	Value	ValueOutput
+EG 3 Sustain	0	4194304	Value	ValueOutput
+EG 3 Release	0	4194304	Value	ValueOutput
+EG 4 Threshold	0	4194304	Value	ValueOutput
+EG 4Triggering	0	4194304	Value	ValueOutput
+EG 4 Attack	0	4194304	Value	ValueOutput
+EG 4 Decay	0	4194304	Value	ValueOutput
+EG 4 Sustain	0	4194304	Value	ValueOutput
+EG 4 Release	0	4194304	Value	ValueOutput
+EG 5 Threshold	0	4194304	Value	ValueOutput
+EG 5Triggering	0	4194304	Value	ValueOutput
+EG 5 Attack	0	4194304	Value	ValueOutput
+EG 5 Decay	0	4194304	Value	ValueOutput
+EG 5 Sustain	0	4194304	Value	ValueOutput
+EG 5 Release	0	4194304	Value	ValueOutput
+EG 6 Threshold	0	4194304	Value	ValueOutput
+EG 6Triggering	0	4194304	Value	ValueOutput
+EG 6 Attack	0	4194304	Value	ValueOutput
+EG 6 Decay	0	4194304	Value	ValueOutput
+EG 6 Sustain	0	4194304	Value	ValueOutput
+EG 6 Release	0	4194304	Value	ValueOutput
+Num Active EFs	0	4194304	Value	ValueOutput
+EF 1Input	0	4194304	Value	ValueOutput
+EF 1 Attack	0	4194304	Value	ValueOutput
+EF 1 Release	0	4194304	Value	ValueOutput
+EF 2Input	0	4194304	Value	ValueOutput
+EF 2 Attack	0	4194304	Value	ValueOutput
+EF 2 Release	0	4194304	Value	ValueOutput
+EF 3Input	0	4194304	Value	ValueOutput
+EF 3 Attack	0	4194304	Value	ValueOutput
+EF 3 Release	0	4194304	Value	ValueOutput
+EF 4Input	0	4194304	Value	ValueOutput
+EF 4 Attack	0	4194304	Value	ValueOutput
+EF 4 Release	0	4194304	Value	ValueOutput
+Num Active MIDI Sources	0	4194304	Value	ValueOutput
+MIDI Source 1 Input	0	4194304	Value	ValueOutput
+MIDI Source 1 Controller	0	4194304	Value	ValueOutput
+MIDI Source 2 Input	0	4194304	Value	ValueOutput
+MIDI Source 2 Controller	0	4194304	Value	ValueOutput
+MIDI Source 3 Input	0	4194304	Value	ValueOutput
+MIDI Source 3 Controller	0	4194304	Value	ValueOutput
+MIDI Source 4 Input	0	4194304	Value	ValueOutput
+MIDI Source 4 Controller	0	4194304	Value	ValueOutput
+MIDI Source 5 Input	0	4194304	Value	ValueOutput
+MIDI Source 5 Controller	0	4194304	Value	ValueOutput
+MIDI Source 6 Input	0	4194304	Value	ValueOutput
+MIDI Source 6 Controller	0	4194304	Value	ValueOutput
+MIDI Source 7 Input	0	4194304	Value	ValueOutput
+MIDI Source 7 Controller	0	4194304	Value	ValueOutput
+MIDI Source 8 Input	0	4194304	Value	ValueOutput
+MIDI Source 8 Controller	0	4194304	Value	ValueOutput
+MIDI Source 9 Input	0	4194304	Value	ValueOutput
+MIDI Source 9 Controller	0	4194304	Value	ValueOutput
+MIDI Source 10 Input	0	4194304	Value	ValueOutput
+MIDI Source 10 Controlle	0	4194304	Value	ValueOutput
+Receive MIDI	0	4194304	Value	ValueOutput
+Auto Mute Self-Osc	0	4194304	Value	ValueOutput
+Audition Signal	0	4194304	Value	ValueOutput
+Num Active Slots	0	4194304	Value	ValueOutput
+Slot 1 Source	0	4194304	Value	ValueOutput
+Slot 1 Level	0	4194304	Value	ValueOutput
+Slot 1 Bypassed	0	4194304	Value	ValueOutput
+Slot 1 Inverted	0	4194304	Value	ValueOutput
+Slot 1 Target	0	4194304	Value	ValueOutput
+Slot 2 Source	0	4194304	Value	ValueOutput
+Slot 2 Level	0	4194304	Value	ValueOutput
+Slot 2 Bypassed	0	4194304	Value	ValueOutput
+Slot 2 Inverted	0	4194304	Value	ValueOutput
+Slot 2 Target	0	4194304	Value	ValueOutput
+Slot 3 Source	0	4194304	Value	ValueOutput
+Slot 3 Level	0	4194304	Value	ValueOutput
+Slot 3 Bypassed	0	4194304	Value	ValueOutput
+Slot 3 Inverted	0	4194304	Value	ValueOutput
+Slot 3 Target	0	4194304	Value	ValueOutput
+Slot 4 Source	0	4194304	Value	ValueOutput
+Slot 4 Level	0	4194304	Value	ValueOutput
+Slot 4 Bypassed	0	4194304	Value	ValueOutput
+Slot 4 Inverted	0	4194304	Value	ValueOutput
+Slot 4 Target	0	4194304	Value	ValueOutput
+Slot 5 Source	0	4194304	Value	ValueOutput
+Slot 5 Level	0	4194304	Value	ValueOutput
+Slot 5 Bypassed	0	4194304	Value	ValueOutput
+Slot 5 Inverted	0	4194304	Value	ValueOutput
+Slot 5 Target	0	4194304	Value	ValueOutput
+Slot 6 Source	0	4194304	Value	ValueOutput
+Slot 6 Level	0	4194304	Value	ValueOutput
+Slot 6 Bypassed	0	4194304	Value	ValueOutput
+Slot 6 Inverted	0	4194304	Value	ValueOutput
+Slot 6 Target	0	4194304	Value	ValueOutput
+Slot 7 Source	0	4194304	Value	ValueOutput
+Slot 7 Level	0	4194304	Value	ValueOutput
+Slot 7 Bypassed	0	4194304	Value	ValueOutput
+Slot 7 Inverted	0	4194304	Value	ValueOutput
+Slot 7 Target	0	4194304	Value	ValueOutput
+Slot 8 Source	0	4194304	Value	ValueOutput
+Slot 8 Level	0	4194304	Value	ValueOutput
+Slot 8 Bypassed	0	4194304	Value	ValueOutput
+Slot 8 Inverted	0	4194304	Value	ValueOutput
+Slot 8 Target	0	4194304	Value	ValueOutput
+Slot 9 Source	0	4194304	Value	ValueOutput
+Slot 9 Level	0	4194304	Value	ValueOutput
+Slot 9 Bypassed	0	4194304	Value	ValueOutput
+Slot 9 Inverted	0	4194304	Value	ValueOutput
+Slot 9 Target	0	4194304	Value	ValueOutput
+Slot 10 Source	0	4194304	Value	ValueOutput
+Slot 10 Level	0	4194304	Value	ValueOutput
+Slot 10 Bypassed	0	4194304	Value	ValueOutput
+Slot 10 Inverted	0	4194304	Value	ValueOutput
+Slot 10 Target	0	4194304	Value	ValueOutput
+Slot 11 Source	0	4194304	Value	ValueOutput
+Slot 11 Level	0	4194304	Value	ValueOutput
+Slot 11 Bypassed	0	4194304	Value	ValueOutput
+Slot 11 Inverted	0	4194304	Value	ValueOutput
+Slot 11 Target	0	4194304	Value	ValueOutput
+Slot 12 Source	0	4194304	Value	ValueOutput
+Slot 12 Level	0	4194304	Value	ValueOutput
+Slot 12 Bypassed	0	4194304	Value	ValueOutput
+Slot 12 Inverted	0	4194304	Value	ValueOutput
+Slot 12 Target	0	4194304	Value	ValueOutput
+Slot 13 Source	0	4194304	Value	ValueOutput
+Slot 13 Level	0	4194304	Value	ValueOutput
+Slot 13 Bypassed	0	4194304	Value	ValueOutput
+Slot 13 Inverted	0	4194304	Value	ValueOutput
+Slot 13 Target	0	4194304	Value	ValueOutput
+Slot 14 Source	0	4194304	Value	ValueOutput
+Slot 14 Level	0	4194304	Value	ValueOutput
+Slot 14 Bypassed	0	4194304	Value	ValueOutput
+Slot 14 Inverted	0	4194304	Value	ValueOutput
+Slot 14 Target	0	4194304	Value	ValueOutput
+Slot 15 Source	0	4194304	Value	ValueOutput
+Slot 15 Level	0	4194304	Value	ValueOutput
+Slot 15 Bypassed	0	4194304	Value	ValueOutput
+Slot 15 Inverted	0	4194304	Value	ValueOutput
+Slot 15 Target	0	4194304	Value	ValueOutput
+Slot 16 Source	0	4194304	Value	ValueOutput
+Slot 16 Level	0	4194304	Value	ValueOutput
+Slot 16 Bypassed	0	4194304	Value	ValueOutput
+Slot 16 Inverted	0	4194304	Value	ValueOutput
+Slot 16 Target	0	4194304	Value	ValueOutput
+Slot 17 Source	0	4194304	Value	ValueOutput
+Slot 17 Level	0	4194304	Value	ValueOutput
+Slot 17 Bypassed	0	4194304	Value	ValueOutput
+Slot 17 Inverted	0	4194304	Value	ValueOutput
+Slot 17 Target	0	4194304	Value	ValueOutput
+Slot 18 Source	0	4194304	Value	ValueOutput
+Slot 18 Level	0	4194304	Value	ValueOutput
+Slot 18 Bypassed	0	4194304	Value	ValueOutput
+Slot 18 Inverted	0	4194304	Value	ValueOutput
+Slot 18 Target	0	4194304	Value	ValueOutput
+Slot 19 Source	0	4194304	Value	ValueOutput
+Slot 19 Level	0	4194304	Value	ValueOutput
+Slot 19 Bypassed	0	4194304	Value	ValueOutput
+Slot 19 Inverted	0	4194304	Value	ValueOutput
+Slot 19 Target	0	4194304	Value	ValueOutput
+Slot 20 Source	0	4194304	Value	ValueOutput
+Slot 20 Level	0	4194304	Value	ValueOutput
+Slot 20 Bypassed	0	4194304	Value	ValueOutput
+Slot 20 Inverted	0	4194304	Value	ValueOutput
+Slot 20 Target	0	4194304	Value	ValueOutput
+Slot 21 Source	0	4194304	Value	ValueOutput
+Slot 21 Level	0	4194304	Value	ValueOutput
+Slot 21 Bypassed	0	4194304	Value	ValueOutput
+Slot 21 Inverted	0	4194304	Value	ValueOutput
+Slot 21 Target	0	4194304	Value	ValueOutput
+Slot 22 Source	0	4194304	Value	ValueOutput
+Slot 22 Level	0	4194304	Value	ValueOutput
+Slot 22 Bypassed	0	4194304	Value	ValueOutput
+Slot 22 Inverted	0	4194304	Value	ValueOutput
+Slot 22 Target	0	4194304	Value	ValueOutput
+Slot 23 Source	0	4194304	Value	ValueOutput
+Slot 23 Level	0	4194304	Value	ValueOutput
+Slot 23 Bypassed	0	4194304	Value	ValueOutput
+Slot 23 Inverted	0	4194304	Value	ValueOutput
+Slot 23 Target	0	4194304	Value	ValueOutput
+Slot 24 Source	0	4194304	Value	ValueOutput
+Slot 24 Level	0	4194304	Value	ValueOutput
+Slot 24 Bypassed	0	4194304	Value	ValueOutput
+Slot 24 Inverted	0	4194304	Value	ValueOutput
+Slot 24 Target	0	4194304	Value	ValueOutput
+Num Active XY Controller	0	4194304	Value	ValueOutput
+XY Controller 1 Hor	0	4194304	Value	ValueOutput
+XY Controller 1 Ver	0	4194304	Value	ValueOutput
+XY Controller 2 Hor	0	4194304	Value	ValueOutput
+XY Controller 2 Ver	0	4194304	Value	ValueOutput
+XY Controller 3 Hor	0	4194304	Value	ValueOutput
+XY Controller 3 Ver	0	4194304	Value	ValueOutput
+XY Controller 4 Hor	0	4194304	Value	ValueOutput
+XY Controller 4 Ver	0	4194304	Value	ValueOutput
+XLFO 1 Phase Offset	0	4194304	Value	ValueOutput
+XLFO 1 Snap	0	4194304	Value	ValueOutput
+XLFO 2 Phase Offset	0	4194304	Value	ValueOutput
+XLFO 2 Snap	0	4194304	Value	ValueOutput
+XLFO 3 Phase Offset	0	4194304	Value	ValueOutput
+XLFO 3 Snap	0	4194304	Value	ValueOutput
+XLFO 4 Phase Offset	0	4194304	Value	ValueOutput
+XLFO 4 Snap	0	4194304	Value	ValueOutput
+XLFO 5 Phase Offset	0	4194304	Value	ValueOutput
+XLFO 5 Snap	0	4194304	Value	ValueOutput
+XLFO 6 Phase Offset	0	4194304	Value	ValueOutput
+XLFO 6 Snap	0	4194304	Value	ValueOutput
+EG 1 Hold	0	4194304	Value	ValueOutput
+EG 1 Delay	0	4194304	Value	ValueOutput
+EG 2 Hold	0	4194304	Value	ValueOutput
+EG 2 Delay	0	4194304	Value	ValueOutput
+EG 3 Hold	0	4194304	Value	ValueOutput
+EG 3 Delay	0	4194304	Value	ValueOutput
+EG 4 Hold	0	4194304	Value	ValueOutput
+EG 4 Delay	0	4194304	Value	ValueOutput
+EG 5 Hold	0	4194304	Value	ValueOutput
+EG 5 Delay	0	4194304	Value	ValueOutput
+EG 6 Hold	0	4194304	Value	ValueOutput
+EG 6 Delay	0	4194304	Value	ValueOutput
+MIDI Source 1 Response C	0	4194304	Value	ValueOutput
+MIDI Source 2 Response C	0	4194304	Value	ValueOutput
+MIDI Source 3 Response C	0	4194304	Value	ValueOutput
+MIDI Source 4 Response C	0	4194304	Value	ValueOutput
+MIDI Source 5 Response C	0	4194304	Value	ValueOutput
+MIDI Source 6 Response C	0	4194304	Value	ValueOutput
+MIDI Source 7 Response C	0	4194304	Value	ValueOutput
+MIDI Source 8 Response C	0	4194304	Value	ValueOutput
+MIDI Source 9 Response C	0	4194304	Value	ValueOutput
+MIDI Source 10 Response 	0	4194304	Value	ValueOutput
+Ex Slot 1 Source	0	4194304	Value	ValueOutput
+Ex Slot 1 Target	0	4194304	Value	ValueOutput
+Ex Slot 2 Source	0	4194304	Value	ValueOutput
+Ex Slot 2 Target	0	4194304	Value	ValueOutput
+Ex Slot 3 Source	0	4194304	Value	ValueOutput
+Ex Slot 3 Target	0	4194304	Value	ValueOutput
+Ex Slot 4 Source	0	4194304	Value	ValueOutput
+Ex Slot 4 Target	0	4194304	Value	ValueOutput
+Ex Slot 5 Source	0	4194304	Value	ValueOutput
+Ex Slot 5 Target	0	4194304	Value	ValueOutput
+Ex Slot 6 Source	0	4194304	Value	ValueOutput
+Ex Slot 6 Target	0	4194304	Value	ValueOutput
+Ex Slot 7 Source	0	4194304	Value	ValueOutput
+Ex Slot 7 Target	0	4194304	Value	ValueOutput
+Ex Slot 8 Source	0	4194304	Value	ValueOutput
+Ex Slot 8 Target	0	4194304	Value	ValueOutput
+Ex Slot 9 Source	0	4194304	Value	ValueOutput
+Ex Slot 9 Target	0	4194304	Value	ValueOutput
+Ex Slot 10 Source	0	4194304	Value	ValueOutput
+Ex Slot 10 Target	0	4194304	Value	ValueOutput
+Ex Slot 11 Source	0	4194304	Value	ValueOutput
+Ex Slot 11 Target	0	4194304	Value	ValueOutput
+Ex Slot 12 Source	0	4194304	Value	ValueOutput
+Ex Slot 12 Target	0	4194304	Value	ValueOutput
+Ex Slot 13 Source	0	4194304	Value	ValueOutput
+Ex Slot 13 Target	0	4194304	Value	ValueOutput
+Ex Slot 14 Source	0	4194304	Value	ValueOutput
+Ex Slot 14 Target	0	4194304	Value	ValueOutput
+Ex Slot 15 Source	0	4194304	Value	ValueOutput
+Ex Slot 15 Target	0	4194304	Value	ValueOutput
+Ex Slot 16 Source	0	4194304	Value	ValueOutput
+Ex Slot 16 Target	0	4194304	Value	ValueOutput
+Ex Slot 17 Source	0	4194304	Value	ValueOutput
+Ex Slot 17 Target	0	4194304	Value	ValueOutput
+Ex Slot 18 Source	0	4194304	Value	ValueOutput
+Ex Slot 18 Target	0	4194304	Value	ValueOutput
+Ex Slot 19 Source	0	4194304	Value	ValueOutput
+Ex Slot 19 Target	0	4194304	Value	ValueOutput
+Ex Slot 20 Source	0	4194304	Value	ValueOutput
+Ex Slot 20 Target	0	4194304	Value	ValueOutput
+Ex Slot 21 Source	0	4194304	Value	ValueOutput
+Ex Slot 21 Target	0	4194304	Value	ValueOutput
+Ex Slot 22 Source	0	4194304	Value	ValueOutput
+Ex Slot 22 Target	0	4194304	Value	ValueOutput
+Ex Slot 23 Source	0	4194304	Value	ValueOutput
+Ex Slot 23 Target	0	4194304	Value	ValueOutput
+Ex Slot 24 Source	0	4194304	Value	ValueOutput
+Ex Slot 24 Target	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

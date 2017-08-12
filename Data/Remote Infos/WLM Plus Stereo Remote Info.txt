@@ -1,0 +1,46 @@
+Scope
+Manufacturer	Model
+Waves	vst.WWLS.WaveShell-VST 9_91_x64.WLM Plus Stereo
+Note: Will match scope definitions for vst.WWLS.WaveShell-VST 9_91_x64.WLM Plus Stereo or vst.WWLS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Method	0	4194304	Value	ValueOutput
+Weighting	0	4194304	Value	ValueOutput
+Short Max	0	4194304	Value	ValueOutput
+Short Min	0	4194304	Value	ValueOutput
+Short Max Leq(m)	0	4194304	Value	ValueOutput
+Short Min Leq(m)	0	4194304	Value	ValueOutput
+Target	0	4194304	Value	ValueOutput
+Target Leq(m)	0	4194304	Value	ValueOutput
+Momentary Scale	0	4194304	Value	ValueOutput
+Channels	0	4194304	Value	ValueOutput
+Short Time	0	4194304	Value	ValueOutput
+HiPass On/Off	0	4194304	Value	ValueOutput
+HiPass Freq	0	4194304	Value	ValueOutput
+HiPass Slop	0	4194304	Value	ValueOutput
+LoPass On/Off	0	4194304	Value	ValueOutput
+LoPass Freq	0	4194304	Value	ValueOutput
+LoPass Slop	0	4194304	Value	ValueOutput
+Follow Transport	0	4194304	Value	ValueOutput
+Integration Play/Pause	0	4194304	Value	ValueOutput
+TruePeak Max	0	4194304	Value	ValueOutput
+Automation Warning	0	4194304	Value	ValueOutput
+Truepeak Limiter OnOff	0	4194304	Value	ValueOutput
+Input Gain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

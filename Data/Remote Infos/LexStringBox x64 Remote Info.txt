@@ -1,0 +1,143 @@
+Scope
+Manufacturer	Model
+Lexicon	vst.Sbx1.LexStringBox x64
+Note: Will match scope definitions for vst.Sbx1.LexStringBox x64 or vst.Sbx1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Predelay Mode	0	4194304	Value	ValueOutput
+Predelay	0	4194304	Value	ValueOutput
+LowDecay	0	4194304	Value	ValueOutput
+MidDecay	0	4194304	Value	ValueOutput
+HighDecay	0	4194304	Value	ValueOutput
+LowDecKey	0	4194304	Value	ValueOutput
+MidDecKey	0	4194304	Value	ValueOutput
+HighDecKey	0	4194304	Value	ValueOutput
+LowBright	0	4194304	Value	ValueOutput
+MidBright	0	4194304	Value	ValueOutput
+HighBright	0	4194304	Value	ValueOutput
+LowBrightKey	0	4194304	Value	ValueOutput
+MidBrightKey	0	4194304	Value	ValueOutput
+HighBrightKey	0	4194304	Value	ValueOutput
+LowTrim	0	4194304	Value	ValueOutput
+MidTrim	0	4194304	Value	ValueOutput
+HighTrim	0	4194304	Value	ValueOutput
+LowTrimKey	0	4194304	Value	ValueOutput
+MidTrimKey	0	4194304	Value	ValueOutput
+HighTrimKey	0	4194304	Value	ValueOutput
+Chorus	0	4194304	Value	ValueOutput
+Tuning Mode	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Pan Type	0	4194304	Value	ValueOutput
+Tail Width	0	4194304	Value	ValueOutput
+Damper	0	4194304	Value	ValueOutput
+OutputLvl	0	4194304	Value	ValueOutput
+Tuning Master	0	4194304	Value	ValueOutput
+Transposition	0	4194304	Value	ValueOutput
+Rolloff	0	4194304	Value	ValueOutput
+String Response	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Key0	0	4194304	Value	ValueOutput
+Key1	0	4194304	Value	ValueOutput
+Key2	0	4194304	Value	ValueOutput
+Key3	0	4194304	Value	ValueOutput
+Key4	0	4194304	Value	ValueOutput
+Key5	0	4194304	Value	ValueOutput
+Key6	0	4194304	Value	ValueOutput
+Key7	0	4194304	Value	ValueOutput
+Key8	0	4194304	Value	ValueOutput
+Key9	0	4194304	Value	ValueOutput
+Key10	0	4194304	Value	ValueOutput
+Key11	0	4194304	Value	ValueOutput
+Key12	0	4194304	Value	ValueOutput
+Key13	0	4194304	Value	ValueOutput
+Key14	0	4194304	Value	ValueOutput
+Key15	0	4194304	Value	ValueOutput
+Key16	0	4194304	Value	ValueOutput
+Key17	0	4194304	Value	ValueOutput
+Key18	0	4194304	Value	ValueOutput
+Key19	0	4194304	Value	ValueOutput
+Key20	0	4194304	Value	ValueOutput
+Key21	0	4194304	Value	ValueOutput
+Key22	0	4194304	Value	ValueOutput
+Key23	0	4194304	Value	ValueOutput
+Key24	0	4194304	Value	ValueOutput
+Key25	0	4194304	Value	ValueOutput
+Key26	0	4194304	Value	ValueOutput
+Key27	0	4194304	Value	ValueOutput
+Key28	0	4194304	Value	ValueOutput
+Key29	0	4194304	Value	ValueOutput
+Key30	0	4194304	Value	ValueOutput
+Key31	0	4194304	Value	ValueOutput
+Key32	0	4194304	Value	ValueOutput
+Key33	0	4194304	Value	ValueOutput
+Key34	0	4194304	Value	ValueOutput
+Key35	0	4194304	Value	ValueOutput
+Key36	0	4194304	Value	ValueOutput
+Key37	0	4194304	Value	ValueOutput
+Key38	0	4194304	Value	ValueOutput
+Key39	0	4194304	Value	ValueOutput
+Key40	0	4194304	Value	ValueOutput
+Key41	0	4194304	Value	ValueOutput
+Key42	0	4194304	Value	ValueOutput
+Key43	0	4194304	Value	ValueOutput
+Key44	0	4194304	Value	ValueOutput
+Key45	0	4194304	Value	ValueOutput
+Key46	0	4194304	Value	ValueOutput
+Key47	0	4194304	Value	ValueOutput
+Key48	0	4194304	Value	ValueOutput
+Key49	0	4194304	Value	ValueOutput
+Key50	0	4194304	Value	ValueOutput
+Key51	0	4194304	Value	ValueOutput
+Key52	0	4194304	Value	ValueOutput
+Key53	0	4194304	Value	ValueOutput
+Key54	0	4194304	Value	ValueOutput
+Key55	0	4194304	Value	ValueOutput
+Key56	0	4194304	Value	ValueOutput
+Key57	0	4194304	Value	ValueOutput
+Key58	0	4194304	Value	ValueOutput
+Key59	0	4194304	Value	ValueOutput
+Key60	0	4194304	Value	ValueOutput
+Key61	0	4194304	Value	ValueOutput
+Key62	0	4194304	Value	ValueOutput
+Key63	0	4194304	Value	ValueOutput
+Key64	0	4194304	Value	ValueOutput
+Key65	0	4194304	Value	ValueOutput
+Key66	0	4194304	Value	ValueOutput
+Key67	0	4194304	Value	ValueOutput
+Key68	0	4194304	Value	ValueOutput
+Key69	0	4194304	Value	ValueOutput
+Key70	0	4194304	Value	ValueOutput
+Key71	0	4194304	Value	ValueOutput
+Key72	0	4194304	Value	ValueOutput
+Key73	0	4194304	Value	ValueOutput
+Key74	0	4194304	Value	ValueOutput
+Key75	0	4194304	Value	ValueOutput
+Key76	0	4194304	Value	ValueOutput
+Key77	0	4194304	Value	ValueOutput
+Key78	0	4194304	Value	ValueOutput
+Key79	0	4194304	Value	ValueOutput
+Key80	0	4194304	Value	ValueOutput
+Key81	0	4194304	Value	ValueOutput
+Key82	0	4194304	Value	ValueOutput
+Key83	0	4194304	Value	ValueOutput
+Key84	0	4194304	Value	ValueOutput
+Key85	0	4194304	Value	ValueOutput
+Key86	0	4194304	Value	ValueOutput
+Key87	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

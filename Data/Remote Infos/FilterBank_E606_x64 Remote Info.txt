@@ -1,0 +1,51 @@
+Scope
+Manufacturer	Model
+McDSP	vst.E606.FilterBank_E606_x64
+Note: Will match scope definitions for vst.E606.FilterBank_E606_x64 or vst.E606
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Output	0	4194304	Value	ValueOutput
+HPF Frequency	0	4194304	Value	ValueOutput
+HPF Slope	0	4194304	Value	ValueOutput
+HPF Enable	0	4194304	Value	ValueOutput
+LF Frequency	0	4194304	Value	ValueOutput
+LF Gain	0	4194304	Value	ValueOutput
+LF Peak	0	4194304	Value	ValueOutput
+LF Slope	0	4194304	Value	ValueOutput
+LF Dip	0	4194304	Value	ValueOutput
+LF Enable	0	4194304	Value	ValueOutput
+P1 Frequency	0	4194304	Value	ValueOutput
+P1 Gain	0	4194304	Value	ValueOutput
+P1 Q	0	4194304	Value	ValueOutput
+P1 Enable	0	4194304	Value	ValueOutput
+P2 Frequency	0	4194304	Value	ValueOutput
+P2 Gain	0	4194304	Value	ValueOutput
+P2 Q	0	4194304	Value	ValueOutput
+P2 Enable	0	4194304	Value	ValueOutput
+HF Frequency	0	4194304	Value	ValueOutput
+HF Gain	0	4194304	Value	ValueOutput
+HF Peak	0	4194304	Value	ValueOutput
+HF Slope	0	4194304	Value	ValueOutput
+HF Dip	0	4194304	Value	ValueOutput
+HF Enable	0	4194304	Value	ValueOutput
+LPF Frequency	0	4194304	Value	ValueOutput
+LPF Slope	0	4194304	Value	ValueOutput
+LPF Enable	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

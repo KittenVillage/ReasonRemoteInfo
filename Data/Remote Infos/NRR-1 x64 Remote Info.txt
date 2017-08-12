@@ -1,0 +1,50 @@
+Scope
+Manufacturer	Model
+Ignite Amps	vst.NRR2.NRR-1 x64
+Note: Will match scope definitions for vst.NRR2.NRR-1 x64 or vst.NRR2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input level	0	4194304	Value	ValueOutput
+Channel	0	4194304	Value	ValueOutput
+Clean Gain	0	4194304	Value	ValueOutput
+Clean Bright	0	4194304	Value	ValueOutput
+Clean Bass	0	4194304	Value	ValueOutput
+Clean Mids	0	4194304	Value	ValueOutput
+Clean Treble	0	4194304	Value	ValueOutput
+Clean Volume	0	4194304	Value	ValueOutput
+Rhythm Gain	0	4194304	Value	ValueOutput
+Rhythm Bright	0	4194304	Value	ValueOutput
+Rhythm Boost	0	4194304	Value	ValueOutput
+Rhythm Bass	0	4194304	Value	ValueOutput
+Rhythm Mids	0	4194304	Value	ValueOutput
+Rhythm Treble	0	4194304	Value	ValueOutput
+Rhythm Volume	0	4194304	Value	ValueOutput
+Lead Gain	0	4194304	Value	ValueOutput
+Lead Bright	0	4194304	Value	ValueOutput
+Lead Shape	0	4194304	Value	ValueOutput
+Lead Bass	0	4194304	Value	ValueOutput
+Lead Mids	0	4194304	Value	ValueOutput
+Lead Treble	0	4194304	Value	ValueOutput
+Lead Presence	0	4194304	Value	ValueOutput
+Lead Volume	0	4194304	Value	ValueOutput
+Output level	0	4194304	Value	ValueOutput
+Oversampling	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

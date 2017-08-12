@@ -1,0 +1,39 @@
+Scope
+Manufacturer	Model
+Quadelectra (Quadelectra Audioworx)	com.quadelectra.CVSuiteLineMixer
+
+Remotable	Min	Max	Input type	Output type
+Group A Mix Function	0	8	Value	ValueOutput
+Invert A1 Polarity	0	1	Toggle	ValueOutput
+Invert A2 Polarity	0	1	Toggle	ValueOutput
+Invert A3 Polarity	0	1	Toggle	ValueOutput
+Invert A4 Polarity	0	1	Toggle	ValueOutput
+Group B Mix Function	0	8	Value	ValueOutput
+Invert B1 Polarity	0	1	Toggle	ValueOutput
+Invert B2 Polarity	0	1	Toggle	ValueOutput
+Invert B3 Polarity	0	1	Toggle	ValueOutput
+Invert B4 Polarity	0	1	Toggle	ValueOutput
+Group C Mix Function	0	8	Value	ValueOutput
+Invert C1 Polarity	0	1	Toggle	ValueOutput
+Invert C2 Polarity	0	1	Toggle	ValueOutput
+Invert C3 Polarity	0	1	Toggle	ValueOutput
+Invert C4 Polarity	0	1	Toggle	ValueOutput
+Group D Mix Function	0	8	Value	ValueOutput
+Invert D1 Polarity	0	1	Toggle	ValueOutput
+Invert D2 Polarity	0	1	Toggle	ValueOutput
+Invert D3 Polarity	0	1	Toggle	ValueOutput
+Invert D4 Polarity	0	1	Toggle	ValueOutput
+Group A Gain	0	4194304	Value	ValueOutput
+Group B Gain	0	4194304	Value	ValueOutput
+Group C Gain	0	4194304	Value	ValueOutput
+Group D Gain	0	4194304	Value	ValueOutput
+Post Function	0	8	Value	ValueOutput
+Invert A Polarity	0	1	Toggle	ValueOutput
+Invert B Polarity	0	1	Toggle	ValueOutput
+Invert C Polarity	0	1	Toggle	ValueOutput
+Invert D Polarity	0	1	Toggle	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

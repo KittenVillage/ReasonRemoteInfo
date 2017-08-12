@@ -1,0 +1,72 @@
+Scope
+Manufacturer	Model
+TBProAudio	vst.TBPE.CS3301 x64
+Note: Will match scope definitions for vst.TBPE.CS3301 x64 or vst.TBPE
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+OS Off/On	0	4194304	Value	ValueOutput
+ByPass Off/On	0	4194304	Value	ValueOutput
+Phase Invert Off/On	0	4194304	Value	ValueOutput
+In Volume	0	4194304	Value	ValueOutput
+Out Volume	0	4194304	Value	ValueOutput
+Analog Off/On	0	4194304	Value	ValueOutput
+Gate Off/On	0	4194304	Value	ValueOutput
+Gate Threshold	0	4194304	Value	ValueOutput
+Gate Attack	0	4194304	Value	ValueOutput
+Gate Hold	0	4194304	Value	ValueOutput
+Gate Release	0	4194304	Value	ValueOutput
+Filter Off/On	0	4194304	Value	ValueOutput
+FilterHP Off/On	0	4194304	Value	ValueOutput
+FilterHP F	0	4194304	Value	ValueOutput
+FilterHP Slope 6/12dB	0	4194304	Value	ValueOutput
+FilterLP Off/On	0	4194304	Value	ValueOutput
+FilterLP F	0	4194304	Value	ValueOutput
+FilterLP Slope 6/12dB	0	4194304	Value	ValueOutput
+FilterHF Off/On	0	4194304	Value	ValueOutput
+FilterHF Type	0	4194304	Value	ValueOutput
+FilterHF F	0	4194304	Value	ValueOutput
+FilterHF G	0	4194304	Value	ValueOutput
+FilterHMF Off/On	0	4194304	Value	ValueOutput
+FilterHMF F	0	4194304	Value	ValueOutput
+FilterHMF G	0	4194304	Value	ValueOutput
+FilterHMF Q	0	4194304	Value	ValueOutput
+FilterMF Off/On	0	4194304	Value	ValueOutput
+FilterMF F	0	4194304	Value	ValueOutput
+FilterMF G	0	4194304	Value	ValueOutput
+FilterMF Q	0	4194304	Value	ValueOutput
+FilterLMF Off/On	0	4194304	Value	ValueOutput
+FilterLMF F	0	4194304	Value	ValueOutput
+FilterLMF G	0	4194304	Value	ValueOutput
+FilterLMF Q	0	4194304	Value	ValueOutput
+FilterLF Off/On	0	4194304	Value	ValueOutput
+FilterLF Type	0	4194304	Value	ValueOutput
+FilterLF F	0	4194304	Value	ValueOutput
+FilterLF G	0	4194304	Value	ValueOutput
+Compressor Off/On	0	4194304	Value	ValueOutput
+Compressor Pre/Post	0	4194304	Value	ValueOutput
+Compressor Threshold	0	4194304	Value	ValueOutput
+Compressor Attack	0	4194304	Value	ValueOutput
+Compressor Release	0	4194304	Value	ValueOutput
+Compressor Ratio	0	4194304	Value	ValueOutput
+Compressor Soft/Hard	0	4194304	Value	ValueOutput
+Saturation	0	4194304	Value	ValueOutput
+VUMeter Mode	0	4194304	Value	ValueOutput
+Compressor MaxUpGain	0	4194304	Value	ValueOutput
+Compressor Mix	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

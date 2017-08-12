@@ -1,0 +1,61 @@
+Scope
+Manufacturer	Model
+Sanford Sound Design	vst.SRvb.SanfordReverb
+Note: Will match scope definitions for vst.SRvb.SanfordReverb or vst.SRvb
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+DryLvl	0	4194304	Value	ValueOutput
+ERLvl	0	4194304	Value	ValueOutput
+RevLvl	0	4194304	Value	ValueOutput
+OutLvl	0	4194304	Value	ValueOutput
+HiCut	0	4194304	Value	ValueOutput
+LowCut	0	4194304	Value	ValueOutput
+PreDly	0	4194304	Value	ValueOutput
+RevTime	0	4194304	Value	ValueOutput
+DampFrq	0	4194304	Value	ValueOutput
+Enabled	0	4194304	Value	ValueOutput
+LEROn1	0	4194304	Value	ValueOutput
+LEROn2	0	4194304	Value	ValueOutput
+LEROn3	0	4194304	Value	ValueOutput
+REROn1	0	4194304	Value	ValueOutput
+REROn2	0	4194304	Value	ValueOutput
+REROn3	0	4194304	Value	ValueOutput
+LERT1	0	4194304	Value	ValueOutput
+LERT2	0	4194304	Value	ValueOutput
+LERT3	0	4194304	Value	ValueOutput
+RERT1	0	4194304	Value	ValueOutput
+RERT2	0	4194304	Value	ValueOutput
+RERT3	0	4194304	Value	ValueOutput
+LERPan1	0	4194304	Value	ValueOutput
+LERPan2	0	4194304	Value	ValueOutput
+LERPan3	0	4194304	Value	ValueOutput
+RERPan1	0	4194304	Value	ValueOutput
+RERPan2	0	4194304	Value	ValueOutput
+RERPan3	0	4194304	Value	ValueOutput
+LERLvl1	0	4194304	Value	ValueOutput
+LERLvl2	0	4194304	Value	ValueOutput
+LERLvl3	0	4194304	Value	ValueOutput
+RERLvl1	0	4194304	Value	ValueOutput
+RERLvl2	0	4194304	Value	ValueOutput
+RERLvl3	0	4194304	Value	ValueOutput
+MON	0	4194304	Value	ValueOutput
+MDepth	0	4194304	Value	ValueOutput
+MSpeed	0	4194304	Value	ValueOutput
+Freeze	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

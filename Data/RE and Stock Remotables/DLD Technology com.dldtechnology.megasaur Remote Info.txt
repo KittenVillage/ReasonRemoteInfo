@@ -1,0 +1,76 @@
+Scope
+Manufacturer	Model
+DLD Technology	com.dldtechnology.megasaur
+
+Remotable	Min	Max	Input type	Output type
+Oscillator 1 Octave	0	6	Value	ValueOutput
+Oscillator 1 Semitone	0	22	Value	ValueOutput
+Oscillator 1 Tuning	0	4194304	Value	ValueOutput
+Oscillator 1 Amplitude	0	4194304	Value	ValueOutput
+Oscillator 1 YPos	0	4194304	Value	ValueOutput
+Oscillator 1 XPos	0	4194304	Value	ValueOutput
+Osc 1 Stereo	0	1	Toggle	ValueOutput
+Oscillator 2 Octave	0	6	Value	ValueOutput
+Oscillator 2 Semitone	0	22	Value	ValueOutput
+Oscillator 2 Tuning	0	4194304	Value	ValueOutput
+Oscillator 2 Amplitude	0	4194304	Value	ValueOutput
+Oscillator 2 YPos	0	4194304	Value	ValueOutput
+Oscillator 2 XPos	0	4194304	Value	ValueOutput
+Osc 2 Stereo	0	1	Toggle	ValueOutput
+Oscillator 3 Octave	0	6	Value	ValueOutput
+Oscillator 3 Semitone	0	22	Value	ValueOutput
+Oscillator 3 Tuning	0	4194304	Value	ValueOutput
+Oscillator 3 Amplitude	0	4194304	Value	ValueOutput
+Oscillator 3 YPos	0	4194304	Value	ValueOutput
+Oscillator 3 XPos	0	4194304	Value	ValueOutput
+Osc 3 Stereo	0	1	Toggle	ValueOutput
+Amp Env Attack	0	4194304	Value	ValueOutput
+Amp Env Decay	0	4194304	Value	ValueOutput
+Amp Env Sustain	0	4194304	Value	ValueOutput
+Amp Env Release	0	4194304	Value	ValueOutput
+Filter Env Attack	0	4194304	Value	ValueOutput
+Filter Env Decay	0	4194304	Value	ValueOutput
+Filter Env Sustain	0	4194304	Value	ValueOutput
+Filter Env Release	0	4194304	Value	ValueOutput
+Low Pass Filter Env Amount	0	4194304	Value	ValueOutput
+HPF Cut Off	0	4194304	Value	ValueOutput
+HPF Resonance	0	4194304	Value	ValueOutput
+LPF Cut Off	0	4194304	Value	ValueOutput
+LPF Resonance	0	4194304	Value	ValueOutput
+Filter Tracking	0	4194304	Value	ValueOutput
+Echo Delay Time	0	11	Value	ValueOutput
+Echo Delay Feedback	0	4194304	Value	ValueOutput
+Analogue	0	4194304	Value	ValueOutput
+Human	0	4194304	Value	ValueOutput
+Poly Mode	0	4	Value	ValueOutput
+Keyboard Slide	0	4194304	Value	ValueOutput
+Velocity	0	3	Value	ValueOutput
+Pitch Bend Range	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Gate1	0	1	Toggle	ValueOutput
+Gate2	0	1	Toggle	ValueOutput
+Gate3	0	1	Toggle	ValueOutput
+Gate4	0	1	Toggle	ValueOutput
+Gate5	0	1	Toggle	ValueOutput
+Gate6	0	1	Toggle	ValueOutput
+Gate7	0	1	Toggle	ValueOutput
+Gate8	0	1	Toggle	ValueOutput
+Gate9	0	1	Toggle	ValueOutput
+Gate10	0	1	Toggle	ValueOutput
+Gate11	0	1	Toggle	ValueOutput
+Gate12	0	1	Toggle	ValueOutput
+Gate13	0	1	Toggle	ValueOutput
+Gate14	0	1	Toggle	ValueOutput
+Gate15	0	1	Toggle	ValueOutput
+Gate16	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

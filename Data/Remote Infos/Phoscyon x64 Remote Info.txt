@@ -1,0 +1,59 @@
+Scope
+Manufacturer	Model
+D16 Group Audio Software	vst.PHOS.Phoscyon x64
+Note: Will match scope definitions for vst.PHOS.Phoscyon x64 or vst.PHOS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Tuning	0	4194304	Value	ValueOutput
+Slide Time	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Sweep Time	0	4194304	Value	ValueOutput
+Env Mod	0	4194304	Value	ValueOutput
+Env Attack	0	4194304	Value	ValueOutput
+Env Decay	0	4194304	Value	ValueOutput
+Accent Decay	0	4194304	Value	ValueOutput
+Env Accent	0	4194304	Value	ValueOutput
+Accent Volume	0	4194304	Value	ValueOutput
+Step Length	0	4194304	Value	ValueOutput
+Distortion Prea	0	4194304	Value	ValueOutput
+Distortion Size	0	4194304	Value	ValueOutput
+Distortion Dens	0	4194304	Value	ValueOutput
+Distortion Clip	0	4194304	Value	ValueOutput
+Distortion Wetn	0	4194304	Value	ValueOutput
+Distortion Brig	0	4194304	Value	ValueOutput
+Waveform	0	4194304	Value	ValueOutput
+Accent Mode	0	4194304	Value	ValueOutput
+Sweep Mode	0	4194304	Value	ValueOutput
+Distortion Stat	0	4194304	Value	ValueOutput
+Distortion Rout	0	4194304	Value	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Arpe Chord	0	4194304	Value	ValueOutput
+Arpe Mode	0	4194304	Value	ValueOutput
+Arpe Shuffle	0	4194304	Value	ValueOutput
+Arpe Range Sub 	0	4194304	Value	ValueOutput
+Arpe Range Zero	0	4194304	Value	ValueOutput
+Arpe Range Add 	0	4194304	Value	ValueOutput
+Arpe Range Add 	0	4194304	Value	ValueOutput
+Arpe Multiplier	0	4194304	Value	ValueOutput
+Arpe Repeater	0	4194304	Value	ValueOutput
+Gate Threshold	0	4194304	Value	ValueOutput
+Accent Threshol	0	4194304	Value	ValueOutput
+Slide Threshold	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

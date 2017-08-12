@@ -1,0 +1,71 @@
+Scope
+Manufacturer	Model
+PSPaudioware.com	vst.PspD.PSP stompDelay x64
+Note: Will match scope definitions for vst.PspD.PSP stompDelay x64 or vst.PspD
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Byps	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Width	0	4194304	Value	ValueOutput
+FdMode	0	4194304	Value	ValueOutput
+Feed	0	4194304	Value	ValueOutput
+LFOwave	0	4194304	Value	ValueOutput
+LFOflt	0	4194304	Value	ValueOutput
+LFOwidt	0	4194304	Value	ValueOutput
+LFOsync	0	4194304	Value	ValueOutput
+LFOfreq	0	4194304	Value	ValueOutput
+LFOnote	0	4194304	Value	ValueOutput
+LFOstat	0	4194304	Value	ValueOutput
+LFOdept	0	4194304	Value	ValueOutput
+LFOsprd	0	4194304	Value	ValueOutput
+LFOflow	0	4194304	Value	ValueOutput
+DlyTime	0	4194304	Value	ValueOutput
+NoteEnc	0	4194304	Value	ValueOutput
+NoteNom	0	4194304	Value	ValueOutput
+NoteDen	0	4194304	Value	ValueOutput
+DlySync	0	4194304	Value	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+GldMode	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+HPFstat	0	4194304	Value	ValueOutput
+HPF	0	4194304	Value	ValueOutput
+LPFstat	0	4194304	Value	ValueOutput
+LPF	0	4194304	Value	ValueOutput
+LimStat	0	4194304	Value	ValueOutput
+Lim	0	4194304	Value	ValueOutput
+SatStat	0	4194304	Value	ValueOutput
+Sat	0	4194304	Value	ValueOutput
+P-Pstat	0	4194304	Value	ValueOutput
+PingPng	0	4194304	Value	ValueOutput
+FbDft	0	4194304	Value	ValueOutput
+Feedbck	0	4194304	Value	ValueOutput
+Loop	0	4194304	Value	ValueOutput
+ImgMode	0	4194304	Value	ValueOutput
+Image	0	4194304	Value	ValueOutput
+DckStat	0	4194304	Value	ValueOutput
+DuckThr	0	4194304	Value	ValueOutput
+DuckRng	0	4194304	Value	ValueOutput
+DryPan	0	4194304	Value	ValueOutput
+DryStat	0	4194304	Value	ValueOutput
+Dry	0	4194304	Value	ValueOutput
+WetPan	0	4194304	Value	ValueOutput
+WetStat	0	4194304	Value	ValueOutput
+Wet	0	4194304	Value	ValueOutput
+DW_Glb	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

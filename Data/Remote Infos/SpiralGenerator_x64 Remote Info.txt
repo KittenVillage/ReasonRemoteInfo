@@ -1,0 +1,88 @@
+Scope
+Manufacturer	Model
+Soundemote	vst.SG01.SpiralGenerator_x64
+Note: Will match scope definitions for vst.SG01.SpiralGenerator_x64 or vst.SG01
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+OffX	0	4194304	Value	ValueOutput
+OffY	0	4194304	Value	ValueOutput
+Tune	0	4194304	Value	ValueOutput
+Octave	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Density	0	4194304	Value	ValueOutput
+Sharp	0	4194304	Value	ValueOutput
+Div	0	4194304	Value	ValueOutput
+BrightDist	0	4194304	Value	ValueOutput
+Morph	0	4194304	Value	ValueOutput
+RotX	0	4194304	Value	ValueOutput
+RotY	0	4194304	Value	ValueOutput
+ZDepth	0	4194304	Value	ValueOutput
+ZAmount	0	4194304	Value	ValueOutput
+LPF	0	4194304	Value	ValueOutput
+HPF	0	4194304	Value	ValueOutput
+SoftClipper	0	4194304	Value	ValueOutput
+Oversampling	0	4194304	Value	ValueOutput
+ParameterSmoothi	0	4194304	Value	ValueOutput
+LFO1Target	0	4194304	Value	ValueOutput
+LFO1Shape	0	4194304	Value	ValueOutput
+LFO1Rate	0	4194304	Value	ValueOutput
+LFO1Amplitude	0	4194304	Value	ValueOutput
+LFO1Smoothing	0	4194304	Value	ValueOutput
+LFO2Target	0	4194304	Value	ValueOutput
+LFO2Shape	0	4194304	Value	ValueOutput
+LFO2Rate	0	4194304	Value	ValueOutput
+LFO2Amplitude	0	4194304	Value	ValueOutput
+LFO2Smoothing	0	4194304	Value	ValueOutput
+LFO3Target	0	4194304	Value	ValueOutput
+LFO3Shape	0	4194304	Value	ValueOutput
+LFO3Rate	0	4194304	Value	ValueOutput
+LFO3Amplitude	0	4194304	Value	ValueOutput
+LFO3Smoothing	0	4194304	Value	ValueOutput
+LFO4Target	0	4194304	Value	ValueOutput
+LFO4Shape	0	4194304	Value	ValueOutput
+LFO4Rate	0	4194304	Value	ValueOutput
+LFO4Amplitude	0	4194304	Value	ValueOutput
+LFO4Smoothing	0	4194304	Value	ValueOutput
+LFO5Target	0	4194304	Value	ValueOutput
+LFO5Shape	0	4194304	Value	ValueOutput
+LFO5Rate	0	4194304	Value	ValueOutput
+LFO5Amplitude	0	4194304	Value	ValueOutput
+LFO5Smoothing	0	4194304	Value	ValueOutput
+LFO6Target	0	4194304	Value	ValueOutput
+LFO6Shape	0	4194304	Value	ValueOutput
+LFO6Rate	0	4194304	Value	ValueOutput
+LFO6Amplitude	0	4194304	Value	ValueOutput
+LFO6Smoothing	0	4194304	Value	ValueOutput
+AmpAttack	0	4194304	Value	ValueOutput
+AmpDecay	0	4194304	Value	ValueOutput
+AmpSustain	0	4194304	Value	ValueOutput
+AmpRelease	0	4194304	Value	ValueOutput
+AmpInfluence	0	4194304	Value	ValueOutput
+AmpVelScale	0	4194304	Value	ValueOutput
+PitchAttack	0	4194304	Value	ValueOutput
+PitchDecay	0	4194304	Value	ValueOutput
+PitchSustain	0	4194304	Value	ValueOutput
+PitchRelease	0	4194304	Value	ValueOutput
+PitchInfluence	0	4194304	Value	ValueOutput
+PitchVelScale	0	4194304	Value	ValueOutput
+DivAttack	0	4194304	Value	ValueOutput
+DivDecay	0	4194304	Value	ValueOutput
+DivSustain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

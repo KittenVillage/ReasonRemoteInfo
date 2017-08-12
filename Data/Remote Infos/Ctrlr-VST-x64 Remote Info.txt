@@ -1,0 +1,87 @@
+Scope
+Manufacturer	Model
+Instigator	vst.CTRL.Ctrlr-VST-x64
+Note: Will match scope definitions for vst.CTRL.Ctrlr-VST-x64 or vst.CTRL
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+undefined_0	0	4194304	Value	ValueOutput
+undefined_1	0	4194304	Value	ValueOutput
+undefined_2	0	4194304	Value	ValueOutput
+undefined_3	0	4194304	Value	ValueOutput
+undefined_4	0	4194304	Value	ValueOutput
+undefined_5	0	4194304	Value	ValueOutput
+undefined_6	0	4194304	Value	ValueOutput
+undefined_7	0	4194304	Value	ValueOutput
+undefined_8	0	4194304	Value	ValueOutput
+undefined_9	0	4194304	Value	ValueOutput
+undefined_10	0	4194304	Value	ValueOutput
+undefined_11	0	4194304	Value	ValueOutput
+undefined_12	0	4194304	Value	ValueOutput
+undefined_13	0	4194304	Value	ValueOutput
+undefined_14	0	4194304	Value	ValueOutput
+undefined_15	0	4194304	Value	ValueOutput
+undefined_16	0	4194304	Value	ValueOutput
+undefined_17	0	4194304	Value	ValueOutput
+undefined_18	0	4194304	Value	ValueOutput
+undefined_19	0	4194304	Value	ValueOutput
+undefined_20	0	4194304	Value	ValueOutput
+undefined_21	0	4194304	Value	ValueOutput
+undefined_22	0	4194304	Value	ValueOutput
+undefined_23	0	4194304	Value	ValueOutput
+undefined_24	0	4194304	Value	ValueOutput
+undefined_25	0	4194304	Value	ValueOutput
+undefined_26	0	4194304	Value	ValueOutput
+undefined_27	0	4194304	Value	ValueOutput
+undefined_28	0	4194304	Value	ValueOutput
+undefined_29	0	4194304	Value	ValueOutput
+undefined_30	0	4194304	Value	ValueOutput
+undefined_31	0	4194304	Value	ValueOutput
+undefined_32	0	4194304	Value	ValueOutput
+undefined_33	0	4194304	Value	ValueOutput
+undefined_34	0	4194304	Value	ValueOutput
+undefined_35	0	4194304	Value	ValueOutput
+undefined_36	0	4194304	Value	ValueOutput
+undefined_37	0	4194304	Value	ValueOutput
+undefined_38	0	4194304	Value	ValueOutput
+undefined_39	0	4194304	Value	ValueOutput
+undefined_40	0	4194304	Value	ValueOutput
+undefined_41	0	4194304	Value	ValueOutput
+undefined_42	0	4194304	Value	ValueOutput
+undefined_43	0	4194304	Value	ValueOutput
+undefined_44	0	4194304	Value	ValueOutput
+undefined_45	0	4194304	Value	ValueOutput
+undefined_46	0	4194304	Value	ValueOutput
+undefined_47	0	4194304	Value	ValueOutput
+undefined_48	0	4194304	Value	ValueOutput
+undefined_49	0	4194304	Value	ValueOutput
+undefined_50	0	4194304	Value	ValueOutput
+undefined_51	0	4194304	Value	ValueOutput
+undefined_52	0	4194304	Value	ValueOutput
+undefined_53	0	4194304	Value	ValueOutput
+undefined_54	0	4194304	Value	ValueOutput
+undefined_55	0	4194304	Value	ValueOutput
+undefined_56	0	4194304	Value	ValueOutput
+undefined_57	0	4194304	Value	ValueOutput
+undefined_58	0	4194304	Value	ValueOutput
+undefined_59	0	4194304	Value	ValueOutput
+undefined_60	0	4194304	Value	ValueOutput
+undefined_61	0	4194304	Value	ValueOutput
+undefined_62	0	4194304	Value	ValueOutput
+undefined_63	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

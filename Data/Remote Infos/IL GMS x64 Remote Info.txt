@@ -1,0 +1,99 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.%00%00%90%E9.IL GMS x64
+Note: Will match scope definitions for vst.%00%00%90%E9.IL GMS x64 or vst.%00%00%90%E9
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+FX 1	0	4194304	Value	ValueOutput
+FX 2	0	4194304	Value	ValueOutput
+FX 3	0	4194304	Value	ValueOutput
+FX 4	0	4194304	Value	ValueOutput
+FX 5	0	4194304	Value	ValueOutput
+FX 6	0	4194304	Value	ValueOutput
+FX 7	0	4194304	Value	ValueOutput
+FX 8	0	4194304	Value	ValueOutput
+FX 9	0	4194304	Value	ValueOutput
+FX 10	0	4194304	Value	ValueOutput
+FX Activate	0	4194304	Value	ValueOutput
+FX Glue	0	4194304	Value	ValueOutput
+FX LFO Rate	0	4194304	Value	ValueOutput
+FX LFO Amount	0	4194304	Value	ValueOutput
+FX LFO Shape Switch	0	4194304	Value	ValueOutput
+FX LFO Shape	0	4194304	Value	ValueOutput
+FX LFO Sync Switch	0	4194304	Value	ValueOutput
+FX LFO Sync	0	4194304	Value	ValueOutput
+FX Param X	0	4194304	Value	ValueOutput
+FX Param Y	0	4194304	Value	ValueOutput
+CHN: Mix Level	0	4194304	Value	ValueOutput
+CHN: Panning	0	4194304	Value	ValueOutput
+CHN: Pitch	0	4194304	Value	ValueOutput
+CHN: Note Length	0	4194304	Value	ValueOutput
+CHN: Amp Attack	0	4194304	Value	ValueOutput
+CHN: Amp Decay	0	4194304	Value	ValueOutput
+CHN: Amp Sustain	0	4194304	Value	ValueOutput
+CHN: Amp Release	0	4194304	Value	ValueOutput
+CHN: Amp Level	0	4194304	Value	ValueOutput
+CHN: Shuffle Enable	0	4194304	Value	ValueOutput
+CHN: Slide Time	0	4194304	Value	ValueOutput
+CHN: Slide Enable	0	4194304	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter KBD Tracking	0	4194304	Value	ValueOutput
+Filter Type Switch	0	4194304	Value	ValueOutput
+Filter Type	0	4194304	Value	ValueOutput
+Envelope Number	0	4194304	Value	ValueOutput
+Envelope Destination Swi	0	4194304	Value	ValueOutput
+Envelope Destination	0	4194304	Value	ValueOutput
+Envelope Attack	0	4194304	Value	ValueOutput
+Envelope Decay	0	4194304	Value	ValueOutput
+Envelope Amount	0	4194304	Value	ValueOutput
+Envelope Invert	0	4194304	Value	ValueOutput
+LFO Number	0	4194304	Value	ValueOutput
+LFO Rate	0	4194304	Value	ValueOutput
+LFO Amount	0	4194304	Value	ValueOutput
+LFO Retrig	0	4194304	Value	ValueOutput
+LFO Invert	0	4194304	Value	ValueOutput
+LFO Sync Switch	0	4194304	Value	ValueOutput
+LFO Sync	0	4194304	Value	ValueOutput
+LFO Destination Switch	0	4194304	Value	ValueOutput
+LFO Destination	0	4194304	Value	ValueOutput
+LFO Shape Switch	0	4194304	Value	ValueOutput
+LFO Shape	0	4194304	Value	ValueOutput
+SYNTH: Mono Voice	0	4194304	Value	ValueOutput
+SYNTH: Unison Voices	0	4194304	Value	ValueOutput
+SYNTH: Unison Detune	0	4194304	Value	ValueOutput
+SYNTH: Unison Stereo	0	4194304	Value	ValueOutput
+SYNTH: Octave	0	4194304	Value	ValueOutput
+SYNTH: Noise Mix	0	4194304	Value	ValueOutput
+SYNTH: Unison Phase	0	4194304	Value	ValueOutput
+SYNTH: Unison Phase Retr	0	4194304	Value	ValueOutput
+SYNTH: Mix Oscllator 2	0	4194304	Value	ValueOutput
+SYNTH: Mix Oscillator 3	0	4194304	Value	ValueOutput
+SYNTH: Modulation	0	4194304	Value	ValueOutput
+SYNTH: Mod Kind	0	4194304	Value	ValueOutput
+SYNTH: Phase Offset Osc 	0	4194304	Value	ValueOutput
+SYNTH: Phase Retrig Osc 	0	4194304	Value	ValueOutput
+SYNTH: Osc 2 Invert	0	4194304	Value	ValueOutput
+SYNTH: Osc 1 Pitch	0	4194304	Value	ValueOutput
+SYNTH: Osc 1 Detune	0	4194304	Value	ValueOutput
+SYNTH: Osc 2 Pitch	0	4194304	Value	ValueOutput
+SYNTH: Osc 2 Detune	0	4194304	Value	ValueOutput
+SYNTH: Osc 3 Pitch	0	4194304	Value	ValueOutput
+SYNTH: Osc 3 Detune	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

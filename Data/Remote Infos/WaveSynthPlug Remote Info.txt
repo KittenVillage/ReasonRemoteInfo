@@ -1,0 +1,94 @@
+Scope
+Manufacturer	Model
+synthANDware	vst.Plug.WaveSynthPlug
+Note: Will match scope definitions for vst.Plug.WaveSynthPlug or vst.Plug
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Osc1Active	0	4194304	Value	ValueOutput
+Osc1WaveType	0	4194304	Value	ValueOutput
+Osc1Gain	0	4194304	Value	ValueOutput
+Osc1Detune	0	4194304	Value	ValueOutput
+Osc1Pan	0	4194304	Value	ValueOutput
+Osc1Offset	0	4194304	Value	ValueOutput
+Osc1PitchRange	0	4194304	Value	ValueOutput
+Osc1PitchEnvRan	0	4194304	Value	ValueOutput
+Osc1PitchEnvDow	0	4194304	Value	ValueOutput
+Osc2Active	0	4194304	Value	ValueOutput
+Osc2WaveType	0	4194304	Value	ValueOutput
+Osc2Gain	0	4194304	Value	ValueOutput
+Osc2Detune	0	4194304	Value	ValueOutput
+Osc2Pan	0	4194304	Value	ValueOutput
+Osc2Offset	0	4194304	Value	ValueOutput
+Osc2PitchRange	0	4194304	Value	ValueOutput
+Osc2PitchEnvRan	0	4194304	Value	ValueOutput
+Osc2PitchEnvDow	0	4194304	Value	ValueOutput
+Filter1Active	0	4194304	Value	ValueOutput
+Filter1Type	0	4194304	Value	ValueOutput
+Filter1Cutoff	0	4194304	Value	ValueOutput
+Filter1Resonanc	0	4194304	Value	ValueOutput
+Lfo1Active	0	4194304	Value	ValueOutput
+Lfo1WaveType	0	4194304	Value	ValueOutput
+Lfo1Speed	0	4194304	Value	ValueOutput
+Lfo1Mode	0	4194304	Value	ValueOutput
+Lfo1Sync	0	4194304	Value	ValueOutput
+Lfo1Target	0	4194304	Value	ValueOutput
+Lfo1Mix	0	4194304	Value	ValueOutput
+Delay1Active	0	4194304	Value	ValueOutput
+Delay1Sync	0	4194304	Value	ValueOutput
+Delay1Mix	0	4194304	Value	ValueOutput
+Delay1Time	0	4194304	Value	ValueOutput
+Delay1Feedback	0	4194304	Value	ValueOutput
+Delay1Swing	0	4194304	Value	ValueOutput
+Reverb1Active	0	4194304	Value	ValueOutput
+Reverb1Mix	0	4194304	Value	ValueOutput
+Reverb1Damping	0	4194304	Value	ValueOutput
+Reverb1Feedback	0	4194304	Value	ValueOutput
+EnvAmpOsc1Attac	0	4194304	Value	ValueOutput
+EnvAmpOsc1Decay	0	4194304	Value	ValueOutput
+EnvAmpOsc1Susta	0	4194304	Value	ValueOutput
+EnvAmpOsc1Relea	0	4194304	Value	ValueOutput
+EnvAmpOsc2Attac	0	4194304	Value	ValueOutput
+EnvAmpOsc2Decay	0	4194304	Value	ValueOutput
+EnvAmpOsc2Susta	0	4194304	Value	ValueOutput
+EnvAmpOsc2Relea	0	4194304	Value	ValueOutput
+EnvPitchOsc1Act	0	4194304	Value	ValueOutput
+EnvPitchOsc1Att	0	4194304	Value	ValueOutput
+EnvPitchOsc1Dec	0	4194304	Value	ValueOutput
+EnvPitchOsc1Sus	0	4194304	Value	ValueOutput
+EnvPitchOsc1Rel	0	4194304	Value	ValueOutput
+EnvPitchOsc2Act	0	4194304	Value	ValueOutput
+EnvPitchOsc2Att	0	4194304	Value	ValueOutput
+EnvPitchOsc2Dec	0	4194304	Value	ValueOutput
+EnvPitchOsc2Sus	0	4194304	Value	ValueOutput
+EnvPitchOsc2Rel	0	4194304	Value	ValueOutput
+EnvFilter1Activ	0	4194304	Value	ValueOutput
+EnvFilter1Attac	0	4194304	Value	ValueOutput
+EnvFilter1Decay	0	4194304	Value	ValueOutput
+EnvFilter1Susta	0	4194304	Value	ValueOutput
+EnvFilter1Relea	0	4194304	Value	ValueOutput
+EnvLfo1Active	0	4194304	Value	ValueOutput
+EnvLfo1Attack	0	4194304	Value	ValueOutput
+EnvLfo1Decay	0	4194304	Value	ValueOutput
+EnvLfo1Sustain	0	4194304	Value	ValueOutput
+EnvLfo1Release	0	4194304	Value	ValueOutput
+MasterVolume	0	4194304	Value	ValueOutput
+MidiLearn	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+CurrentPlayMode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,99 @@
+Scope
+Manufacturer	Model
+Mathew Lane	vst.DMS4.DrMSv4 x64
+Note: Will match scope definitions for vst.DMS4.DrMSv4 x64 or vst.DMS4
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+MiHPin	0	4194304	Value	ValueOutput
+MiHPsl	0	4194304	Value	ValueOutput
+MiHPhz	0	4194304	Value	ValueOutput
+MiHPq	0	4194304	Value	ValueOutput
+MiLPin	0	4194304	Value	ValueOutput
+MiLPsl	0	4194304	Value	ValueOutput
+MiLPhz	0	4194304	Value	ValueOutput
+MiLPq	0	4194304	Value	ValueOutput
+MiDLin	0	4194304	Value	ValueOutput
+MiDLms	0	4194304	Value	ValueOutput
+MiLVin	0	4194304	Value	ValueOutput
+MiLVL	0	4194304	Value	ValueOutput
+MiPhas	0	4194304	Value	ValueOutput
+MiSOLO	0	4194304	Value	ValueOutput
+MID	0	4194304	Value	ValueOutput
+LplusR	0	4194304	Value	ValueOutput
+SiHPin	0	4194304	Value	ValueOutput
+SiHPsl	0	4194304	Value	ValueOutput
+SiHPhz	0	4194304	Value	ValueOutput
+SiHPq	0	4194304	Value	ValueOutput
+SiLPin	0	4194304	Value	ValueOutput
+SiLPsl	0	4194304	Value	ValueOutput
+SiLPhz	0	4194304	Value	ValueOutput
+SiLPq	0	4194304	Value	ValueOutput
+SiDLin	0	4194304	Value	ValueOutput
+SiDLms	0	4194304	Value	ValueOutput
+SiWDin	0	4194304	Value	ValueOutput
+SiWDTH	0	4194304	Value	ValueOutput
+SiPhas	0	4194304	Value	ValueOutput
+SiSOLO	0	4194304	Value	ValueOutput
+SIDE	0	4194304	Value	ValueOutput
+LminR	0	4194304	Value	ValueOutput
+FoHPin	0	4194304	Value	ValueOutput
+FoHPsl	0	4194304	Value	ValueOutput
+FoHPhz	0	4194304	Value	ValueOutput
+FoHPq	0	4194304	Value	ValueOutput
+FoLPin	0	4194304	Value	ValueOutput
+FoLPsl	0	4194304	Value	ValueOutput
+FoLPhz	0	4194304	Value	ValueOutput
+FoLPq	0	4194304	Value	ValueOutput
+FoDLin	0	4194304	Value	ValueOutput
+FoDLms	0	4194304	Value	ValueOutput
+FoZMin	0	4194304	Value	ValueOutput
+FoZOOM	0	4194304	Value	ValueOutput
+FoPhas	0	4194304	Value	ValueOutput
+FoSOLO	0	4194304	Value	ValueOutput
+FOCUS	0	4194304	Value	ValueOutput
+MtoS	0	4194304	Value	ValueOutput
+FiHPin	0	4194304	Value	ValueOutput
+FiHPsl	0	4194304	Value	ValueOutput
+FiHPhz	0	4194304	Value	ValueOutput
+FiHPq	0	4194304	Value	ValueOutput
+FiLPin	0	4194304	Value	ValueOutput
+FiLPsl	0	4194304	Value	ValueOutput
+FiLPhz	0	4194304	Value	ValueOutput
+FiLPq	0	4194304	Value	ValueOutput
+FiDLin	0	4194304	Value	ValueOutput
+FiDLms	0	4194304	Value	ValueOutput
+FiDPin	0	4194304	Value	ValueOutput
+FiDPTH	0	4194304	Value	ValueOutput
+FiPhas	0	4194304	Value	ValueOutput
+FiSOLO	0	4194304	Value	ValueOutput
+FIELD	0	4194304	Value	ValueOutput
+StoM	0	4194304	Value	ValueOutput
+INlvl	0	4194304	Value	ValueOutput
+INfmt	0	4194304	Value	ValueOutput
+OUTlvl	0	4194304	Value	ValueOutput
+OUTfmt	0	4194304	Value	ValueOutput
+AGNin	0	4194304	Value	ValueOutput
+AGNLck	0	4194304	Value	ValueOutput
+AGNval	0	4194304	Value	ValueOutput
+CtrSOL	0	4194304	Value	ValueOutput
+DrMSin	0	4194304	Value	ValueOutput
+FDBKin	0	4194304	Value	ValueOutput
+FDBKlv	0	4194304	Value	ValueOutput
+Latency	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

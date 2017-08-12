@@ -1,0 +1,45 @@
+Scope
+Manufacturer	Model
+Toneboosters	vst.T1MO.Morphit x64
+Note: Will match scope definitions for vst.T1MO.Morphit x64 or vst.T1MO
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+LimEnble	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+From	0	4194304	Value	ValueOutput
+To	0	4194304	Value	ValueOutput
+Amount	0	4194304	Value	ValueOutput
+LSHFreq	0	4194304	Value	ValueOutput
+LSHGain	0	4194304	Value	ValueOutput
+LSH Q	0	4194304	Value	ValueOutput
+LSH A	0	4194304	Value	ValueOutput
+MFQFreq	0	4194304	Value	ValueOutput
+MFQGain	0	4194304	Value	ValueOutput
+MFQ Q	0	4194304	Value	ValueOutput
+MFQ A	0	4194304	Value	ValueOutput
+HFQFreq	0	4194304	Value	ValueOutput
+HFQGain	0	4194304	Value	ValueOutput
+HFQ Q	0	4194304	Value	ValueOutput
+HFQ A	0	4194304	Value	ValueOutput
+HSHFreq	0	4194304	Value	ValueOutput
+HSHGain	0	4194304	Value	ValueOutput
+HSH Q	0	4194304	Value	ValueOutput
+HSH A	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

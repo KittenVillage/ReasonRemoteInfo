@@ -1,0 +1,56 @@
+Scope
+Manufacturer	Model
+Waves	vst.DDMT.WaveShell-VST 9_91_x64.DTS Neural DownMix 7_1 to 5_1 7_
+Note: Will match scope definitions for vst.DDMT.WaveShell-VST 9_91_x64.DTS Neural DownMix 7_1 to 5_1 7_ or vst.DDMT
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Left Input Gain	0	4194304	Value	ValueOutput
+Left Input Solo	0	4194304	Value	ValueOutput
+Right Input Gain	0	4194304	Value	ValueOutput
+Right Input Solo	0	4194304	Value	ValueOutput
+Center Input Gain	0	4194304	Value	ValueOutput
+Center Input Solo	0	4194304	Value	ValueOutput
+LFE Input Gain	0	4194304	Value	ValueOutput
+LFE Input Solo	0	4194304	Value	ValueOutput
+Ls Input Gain	0	4194304	Value	ValueOutput
+Ls Input Solo	0	4194304	Value	ValueOutput
+Rs Input Gain	0	4194304	Value	ValueOutput
+Rs Input Solo	0	4194304	Value	ValueOutput
+Lsr Input Gain	0	4194304	Value	ValueOutput
+Lsr Input Solo	0	4194304	Value	ValueOutput
+Rsr Input Gain	0	4194304	Value	ValueOutput
+Rsr Input Solo	0	4194304	Value	ValueOutput
+Limiter On/Off	0	4194304	Value	ValueOutput
+Limiter Ceiling	0	4194304	Value	ValueOutput
+Front Encoding Mode	0	4194304	Value	ValueOutput
+LFE Cutoff	0	4194304	Value	ValueOutput
+DownMix Type	0	4194304	Value	ValueOutput
+Left Output Gain	0	4194304	Value	ValueOutput
+Left Output Solo	0	4194304	Value	ValueOutput
+Right Output Gain	0	4194304	Value	ValueOutput
+Right Output Solo	0	4194304	Value	ValueOutput
+Center Output Gain	0	4194304	Value	ValueOutput
+Center Output Solo	0	4194304	Value	ValueOutput
+LFE Output Gain	0	4194304	Value	ValueOutput
+LFE Output Solo	0	4194304	Value	ValueOutput
+Ls Output Gain	0	4194304	Value	ValueOutput
+Ls Output Solo	0	4194304	Value	ValueOutput
+Rs Output Gain	0	4194304	Value	ValueOutput
+Rs Output Solo	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

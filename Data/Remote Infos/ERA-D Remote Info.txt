@@ -1,0 +1,55 @@
+Scope
+Manufacturer	Model
+accusonus	vst.Plug.ERA-D
+Note: Will match scope definitions for vst.Plug.ERA-D or vst.Plug
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Signal Path	0	4194304	Value	ValueOutput
+Parallel Balanc	0	4194304	Value	ValueOutput
+Denoise Mode	0	4194304	Value	ValueOutput
+Denoise	0	4194304	Value	ValueOutput
+Denoise Dual	0	4194304	Value	ValueOutput
+Time Const Nois	0	4194304	Value	ValueOutput
+Time Const Proc	0	4194304	Value	ValueOutput
+Denoise Type	0	4194304	Value	ValueOutput
+Dereverb Mode	0	4194304	Value	ValueOutput
+Dereverb	0	4194304	Value	ValueOutput
+Time Const RevL	0	4194304	Value	ValueOutput
+Time Const RevH	0	4194304	Value	ValueOutput
+Dereverb Dual	0	4194304	Value	ValueOutput
+Artifact Contro	0	4194304	Value	ValueOutput
+Art Control Nor	0	4194304	Value	ValueOutput
+Art Control Imp	0	4194304	Value	ValueOutput
+Process Intensi	0	4194304	Value	ValueOutput
+IntensityBand1	0	4194304	Value	ValueOutput
+IntensityBand2	0	4194304	Value	ValueOutput
+IntensityBand3	0	4194304	Value	ValueOutput
+IntensityBand4	0	4194304	Value	ValueOutput
+RangeBand1	0	4194304	Value	ValueOutput
+RangeBand2	0	4194304	Value	ValueOutput
+RangeBand3	0	4194304	Value	ValueOutput
+RangeBand4	0	4194304	Value	ValueOutput
+SoloBand1	0	4194304	Value	ValueOutput
+SoloBand2	0	4194304	Value	ValueOutput
+SoloBand3	0	4194304	Value	ValueOutput
+SoloBand4	0	4194304	Value	ValueOutput
+Adapt	0	4194304	Value	ValueOutput
+ByPass	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

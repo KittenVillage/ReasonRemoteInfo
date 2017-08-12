@@ -1,0 +1,38 @@
+Scope
+Manufacturer	Model
+HOFA	vst.hff1.HOFA 4U Meter Fader & MS-Pan x64
+Note: Will match scope definitions for vst.hff1.HOFA 4U Meter Fader & MS-Pan x64 or vst.hff1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+TrimLeft	0	4194304	Value	ValueOutput
+TrimRight	0	4194304	Value	ValueOutput
+PanLeft	0	4194304	Value	ValueOutput
+PanRight	0	4194304	Value	ValueOutput
+Mono	0	4194304	Value	ValueOutput
+Mute	0	4194304	Value	ValueOutput
+PhaseL	0	4194304	Value	ValueOutput
+StereoMS	0	4194304	Value	ValueOutput
+PrePost	0	4194304	Value	ValueOutput
+EBUMode	0	4194304	Value	ValueOutput
+EBUScale	0	4194304	Value	ValueOutput
+EBURun	0	4194304	Value	ValueOutput
+ShowTooltips	0	4194304	Value	ValueOutput
+PhaseR	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

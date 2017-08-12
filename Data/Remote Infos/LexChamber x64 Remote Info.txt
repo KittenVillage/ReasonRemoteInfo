@@ -1,0 +1,82 @@
+Scope
+Manufacturer	Model
+Lexicon	vst.Lcm1.LexChamber x64
+Note: Will match scope definitions for vst.Lcm1.LexChamber x64 or vst.Lcm1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Soft Parameter 	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Predelay Mode	0	4194304	Value	ValueOutput
+Predelay	0	4194304	Value	ValueOutput
+Diffusion	0	4194304	Value	ValueOutput
+Shape	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Size	0	4194304	Value	ValueOutput
+Reverb Time	0	4194304	Value	ValueOutput
+BassRT	0	4194304	Value	ValueOutput
+Bass XOV	0	4194304	Value	ValueOutput
+RT HiCut	0	4194304	Value	ValueOutput
+RTHC Damping	0	4194304	Value	ValueOutput
+Tap Slope	0	4194304	Value	ValueOutput
+Spin	0	4194304	Value	ValueOutput
+Wander	0	4194304	Value	ValueOutput
+Infinite	0	4194304	Value	ValueOutput
+Tail Width	0	4194304	Value	ValueOutput
+Rfl Time Mast	0	4194304	Value	ValueOutput
+L Rfl Mode	0	4194304	Value	ValueOutput
+L Rfl Dly	0	4194304	Value	ValueOutput
+L Rfl Polarity	0	4194304	Value	ValueOutput
+L Rfl Gain	0	4194304	Value	ValueOutput
+R Rfl Mode	0	4194304	Value	ValueOutput
+R Rfl Dly	0	4194304	Value	ValueOutput
+R Rfl Polarity	0	4194304	Value	ValueOutput
+R Rfl Gain	0	4194304	Value	ValueOutput
+Eko Time Mast	0	4194304	Value	ValueOutput
+Eko Fbck Mast	0	4194304	Value	ValueOutput
+L Eko Mode	0	4194304	Value	ValueOutput
+L Eko Dly	0	4194304	Value	ValueOutput
+L Eko Gain Pola	0	4194304	Value	ValueOutput
+L Eko Gain	0	4194304	Value	ValueOutput
+L Eko FBack Pol	0	4194304	Value	ValueOutput
+L Eko FBack	0	4194304	Value	ValueOutput
+R Eko Mode	0	4194304	Value	ValueOutput
+R Eko Dly	0	4194304	Value	ValueOutput
+R Eko Gain Pola	0	4194304	Value	ValueOutput
+R Eko Gain	0	4194304	Value	ValueOutput
+R Eko FBack Pol	0	4194304	Value	ValueOutput
+R Eko FBack	0	4194304	Value	ValueOutput
+Early Level	0	4194304	Value	ValueOutput
+Erl Out Type	0	4194304	Value	ValueOutput
+Erl Out Freq	0	4194304	Value	ValueOutput
+Erl Out BWidth	0	4194304	Value	ValueOutput
+Erl Out Shelf	0	4194304	Value	ValueOutput
+Rvb Level	0	4194304	Value	ValueOutput
+Rvb Out Type	0	4194304	Value	ValueOutput
+Rvb Out Freq	0	4194304	Value	ValueOutput
+Rvb Out BWidth	0	4194304	Value	ValueOutput
+Rvb Out Shelf	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

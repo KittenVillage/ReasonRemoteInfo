@@ -1,0 +1,68 @@
+Scope
+Manufacturer	Model
+Plugin Alliance	vst.alp2.elysia alpha master x64
+Note: Will match scope definitions for vst.alp2.elysia alpha master x64 or vst.alp2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Active	0	4194304	Value	ValueOutput
+MS Mode	0	4194304	Value	ValueOutput
+Link	0	4194304	Value	ValueOutput
+Thresh 1	0	4194304	Value	ValueOutput
+Forward1	0	4194304	Value	ValueOutput
+Attack 1	0	4194304	Value	ValueOutput
+AttFast1	0	4194304	Value	ValueOutput
+Release1	0	4194304	Value	ValueOutput
+RelFast1	0	4194304	Value	ValueOutput
+Ratio 1	0	4194304	Value	ValueOutput
+EQ Gain1	0	4194304	Value	ValueOutput
+EQ On 1	0	4194304	Value	ValueOutput
+EQ Freq1	0	4194304	Value	ValueOutput
+EQ x10 1	0	4194304	Value	ValueOutput
+SC Gain1	0	4194304	Value	ValueOutput
+SC On 1	0	4194304	Value	ValueOutput
+SC Freq1	0	4194304	Value	ValueOutput
+Direct 1	0	4194304	Value	ValueOutput
+Comp 1	0	4194304	Value	ValueOutput
+Mix 1	0	4194304	Value	ValueOutput
+Gain 1	0	4194304	Value	ValueOutput
+Warm 1	0	4194304	Value	ValueOutput
+Clip 1	0	4194304	Value	ValueOutput
+Clip On1	0	4194304	Value	ValueOutput
+Thresh 2	0	4194304	Value	ValueOutput
+Forward2	0	4194304	Value	ValueOutput
+Attack 2	0	4194304	Value	ValueOutput
+AttFast2	0	4194304	Value	ValueOutput
+Release2	0	4194304	Value	ValueOutput
+RelFast2	0	4194304	Value	ValueOutput
+Ratio 2	0	4194304	Value	ValueOutput
+EQ Gain2	0	4194304	Value	ValueOutput
+EQ On 2	0	4194304	Value	ValueOutput
+EQ Freq2	0	4194304	Value	ValueOutput
+EQ x10 2	0	4194304	Value	ValueOutput
+SC Gain2	0	4194304	Value	ValueOutput
+SC On 2	0	4194304	Value	ValueOutput
+SC Freq2	0	4194304	Value	ValueOutput
+Direct 2	0	4194304	Value	ValueOutput
+Comp 2	0	4194304	Value	ValueOutput
+Mix 2	0	4194304	Value	ValueOutput
+Gain 2	0	4194304	Value	ValueOutput
+Warm 2	0	4194304	Value	ValueOutput
+Clip 2	0	4194304	Value	ValueOutput
+Clip On2	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

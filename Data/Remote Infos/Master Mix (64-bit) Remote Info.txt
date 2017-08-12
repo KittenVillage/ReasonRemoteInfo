@@ -1,0 +1,189 @@
+Scope
+Manufacturer	Model
+Tracktion Software Corporation	vst.MaMi.Master Mix (64-bit)
+Note: Will match scope definitions for vst.MaMi.Master Mix (64-bit) or vst.MaMi
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Key 1 Solo	0	4194304	Value	ValueOutput
+Key 2 Solo	0	4194304	Value	ValueOutput
+Key 3 Solo	0	4194304	Value	ValueOutput
+Band 1 In	0	4194304	Value	ValueOutput
+Band 2 In	0	4194304	Value	ValueOutput
+Band 3 In	0	4194304	Value	ValueOutput
+Band 1 Mute	0	4194304	Value	ValueOutput
+Band 2 Mute	0	4194304	Value	ValueOutput
+Band 3 Mute	0	4194304	Value	ValueOutput
+Pre EQ On	0	4194304	Value	ValueOutput
+Post EQ On	0	4194304	Value	ValueOutput
+Dc Filter On	0	4194304	Value	ValueOutput
+Gain In Left	0	4194304	Value	ValueOutput
+Gain In Right	0	4194304	Value	ValueOutput
+Gain Out Left	0	4194304	Value	ValueOutput
+Gain Out Right	0	4194304	Value	ValueOutput
+Dynamics Active	0	4194304	Value	ValueOutput
+Dynamics Link A	0	4194304	Value	ValueOutput
+Soft Clip On	0	4194304	Value	ValueOutput
+Soft Clip Thres	0	4194304	Value	ValueOutput
+Gating On	0	4194304	Value	ValueOutput
+Gate Threshold	0	4194304	Value	ValueOutput
+Link Input	0	4194304	Value	ValueOutput
+Link Output	0	4194304	Value	ValueOutput
+Compressor 1 th	0	4194304	Value	ValueOutput
+Compressor 1 en	0	4194304	Value	ValueOutput
+Compressor 1 No	0	4194304	Value	ValueOutput
+Compressor 1 No	0	4194304	Value	ValueOutput
+Compressor 1 No	0	4194304	Value	ValueOutput
+Compressor 1 No	0	4194304	Value	ValueOutput
+Compressor 1 No	0	4194304	Value	ValueOutput
+Compressor 1 No	0	4194304	Value	ValueOutput
+Compressor 1 No	0	4194304	Value	ValueOutput
+Compressor 1 No	0	4194304	Value	ValueOutput
+Compressor 1 No	0	4194304	Value	ValueOutput
+Compressor 1 No	0	4194304	Value	ValueOutput
+Compressor 1 No	0	4194304	Value	ValueOutput
+Compressor 1 No	0	4194304	Value	ValueOutput
+Compressor 1 at	0	4194304	Value	ValueOutput
+Compressor 1 re	0	4194304	Value	ValueOutput
+Compressor 1 Au	0	4194304	Value	ValueOutput
+Compressor 1 Ga	0	4194304	Value	ValueOutput
+Compressor 1 Us	0	4194304	Value	ValueOutput
+Compressor 2 th	0	4194304	Value	ValueOutput
+Compressor 2 en	0	4194304	Value	ValueOutput
+Compressor 2 No	0	4194304	Value	ValueOutput
+Compressor 2 No	0	4194304	Value	ValueOutput
+Compressor 2 No	0	4194304	Value	ValueOutput
+Compressor 2 No	0	4194304	Value	ValueOutput
+Compressor 2 No	0	4194304	Value	ValueOutput
+Compressor 2 No	0	4194304	Value	ValueOutput
+Compressor 2 No	0	4194304	Value	ValueOutput
+Compressor 2 No	0	4194304	Value	ValueOutput
+Compressor 2 No	0	4194304	Value	ValueOutput
+Compressor 2 No	0	4194304	Value	ValueOutput
+Compressor 2 No	0	4194304	Value	ValueOutput
+Compressor 2 No	0	4194304	Value	ValueOutput
+Compressor 2 at	0	4194304	Value	ValueOutput
+Compressor 2 re	0	4194304	Value	ValueOutput
+Compressor 2 Au	0	4194304	Value	ValueOutput
+Compressor 2 Ga	0	4194304	Value	ValueOutput
+Compressor 2 Us	0	4194304	Value	ValueOutput
+Compressor 3 th	0	4194304	Value	ValueOutput
+Compressor 3 en	0	4194304	Value	ValueOutput
+Compressor 3 No	0	4194304	Value	ValueOutput
+Compressor 3 No	0	4194304	Value	ValueOutput
+Compressor 3 No	0	4194304	Value	ValueOutput
+Compressor 3 No	0	4194304	Value	ValueOutput
+Compressor 3 No	0	4194304	Value	ValueOutput
+Compressor 3 No	0	4194304	Value	ValueOutput
+Compressor 3 No	0	4194304	Value	ValueOutput
+Compressor 3 No	0	4194304	Value	ValueOutput
+Compressor 3 No	0	4194304	Value	ValueOutput
+Compressor 3 No	0	4194304	Value	ValueOutput
+Compressor 3 No	0	4194304	Value	ValueOutput
+Compressor 3 No	0	4194304	Value	ValueOutput
+Compressor 3 at	0	4194304	Value	ValueOutput
+Compressor 3 re	0	4194304	Value	ValueOutput
+Compressor 3 Au	0	4194304	Value	ValueOutput
+Compressor 3 Ga	0	4194304	Value	ValueOutput
+Compressor 3 Us	0	4194304	Value	ValueOutput
+EQ Pre Gain 1	0	4194304	Value	ValueOutput
+EQ Pre Freq 1	0	4194304	Value	ValueOutput
+EQ Pre Width 1	0	4194304	Value	ValueOutput
+EQ Pre Is Shelv	0	4194304	Value	ValueOutput
+EQ Pre Is Activ	0	4194304	Value	ValueOutput
+EQ Pre Gain 2	0	4194304	Value	ValueOutput
+EQ Pre Freq 2	0	4194304	Value	ValueOutput
+EQ Pre Width 2	0	4194304	Value	ValueOutput
+EQ Pre Is Shelv	0	4194304	Value	ValueOutput
+EQ Pre Is Activ	0	4194304	Value	ValueOutput
+EQ Pre Gain 3	0	4194304	Value	ValueOutput
+EQ Pre Freq 3	0	4194304	Value	ValueOutput
+EQ Pre Width 3	0	4194304	Value	ValueOutput
+EQ Pre Is Shelv	0	4194304	Value	ValueOutput
+EQ Pre Is Activ	0	4194304	Value	ValueOutput
+EQ Pre Gain 4	0	4194304	Value	ValueOutput
+EQ Pre Freq 4	0	4194304	Value	ValueOutput
+EQ Pre Width 4	0	4194304	Value	ValueOutput
+EQ Pre Is Shelv	0	4194304	Value	ValueOutput
+EQ Pre Is Activ	0	4194304	Value	ValueOutput
+EQ Pre Gain 5	0	4194304	Value	ValueOutput
+EQ Pre Freq 5	0	4194304	Value	ValueOutput
+EQ Pre Width 5	0	4194304	Value	ValueOutput
+EQ Pre Is Shelv	0	4194304	Value	ValueOutput
+EQ Pre Is Activ	0	4194304	Value	ValueOutput
+EQ Pre Gain 6	0	4194304	Value	ValueOutput
+EQ Pre Freq 6	0	4194304	Value	ValueOutput
+EQ Pre Width 6	0	4194304	Value	ValueOutput
+EQ Pre Is Shelv	0	4194304	Value	ValueOutput
+EQ Pre Is Activ	0	4194304	Value	ValueOutput
+EQ Pre Freq HP	0	4194304	Value	ValueOutput
+EQ Pre Width HP	0	4194304	Value	ValueOutput
+EQ Pre Is Activ	0	4194304	Value	ValueOutput
+EQ Pre Freq LP	0	4194304	Value	ValueOutput
+EQ Pre Width LP	0	4194304	Value	ValueOutput
+EQ Pre Is Activ	0	4194304	Value	ValueOutput
+EQ Post Gain 1	0	4194304	Value	ValueOutput
+EQ Post Freq 1	0	4194304	Value	ValueOutput
+EQ Post Width 1	0	4194304	Value	ValueOutput
+EQ Post Is Shel	0	4194304	Value	ValueOutput
+EQ Post Is Acti	0	4194304	Value	ValueOutput
+EQ Post Gain 2	0	4194304	Value	ValueOutput
+EQ Post Freq 2	0	4194304	Value	ValueOutput
+EQ Post Width 2	0	4194304	Value	ValueOutput
+EQ Post Is Shel	0	4194304	Value	ValueOutput
+EQ Post Is Acti	0	4194304	Value	ValueOutput
+EQ Post Gain 3	0	4194304	Value	ValueOutput
+EQ Post Freq 3	0	4194304	Value	ValueOutput
+EQ Post Width 3	0	4194304	Value	ValueOutput
+EQ Post Is Shel	0	4194304	Value	ValueOutput
+EQ Post Is Acti	0	4194304	Value	ValueOutput
+EQ Post Gain 4	0	4194304	Value	ValueOutput
+EQ Post Freq 4	0	4194304	Value	ValueOutput
+EQ Post Width 4	0	4194304	Value	ValueOutput
+EQ Post Is Shel	0	4194304	Value	ValueOutput
+EQ Post Is Acti	0	4194304	Value	ValueOutput
+EQ Post Gain 5	0	4194304	Value	ValueOutput
+EQ Post Freq 5	0	4194304	Value	ValueOutput
+EQ Post Width 5	0	4194304	Value	ValueOutput
+EQ Post Is Shel	0	4194304	Value	ValueOutput
+EQ Post Is Acti	0	4194304	Value	ValueOutput
+EQ Post Gain 6	0	4194304	Value	ValueOutput
+EQ Post Freq 6	0	4194304	Value	ValueOutput
+EQ Post Width 6	0	4194304	Value	ValueOutput
+EQ Post Is Shel	0	4194304	Value	ValueOutput
+EQ Post Is Acti	0	4194304	Value	ValueOutput
+EQ Post Freq HP	0	4194304	Value	ValueOutput
+EQ Post Width H	0	4194304	Value	ValueOutput
+EQ Post Is Acti	0	4194304	Value	ValueOutput
+EQ Post Freq LP	0	4194304	Value	ValueOutput
+EQ Post Width L	0	4194304	Value	ValueOutput
+EQ Post Is Acti	0	4194304	Value	ValueOutput
+Crossover Low F	0	4194304	Value	ValueOutput
+Crossover High 	0	4194304	Value	ValueOutput
+Crossover Low O	0	4194304	Value	ValueOutput
+Crossover High 	0	4194304	Value	ValueOutput
+Crossover Key 1	0	4194304	Value	ValueOutput
+Crossover Key 1	0	4194304	Value	ValueOutput
+Crossover Key 1	0	4194304	Value	ValueOutput
+Crossover Key 2	0	4194304	Value	ValueOutput
+Crossover Key 2	0	4194304	Value	ValueOutput
+Crossover Key 2	0	4194304	Value	ValueOutput
+Crossover Key 3	0	4194304	Value	ValueOutput
+Crossover Key 3	0	4194304	Value	ValueOutput
+Crossover Key 3	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

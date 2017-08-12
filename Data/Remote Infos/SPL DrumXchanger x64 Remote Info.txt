@@ -1,0 +1,58 @@
+Scope
+Manufacturer	Model
+Plugin Alliance	vst.SPDX.SPL DrumXchanger x64
+Note: Will match scope definitions for vst.SPDX.SPL DrumXchanger x64 or vst.SPDX
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Preset	0	4194304	Value	ValueOutput
+Input Ga	0	4194304	Value	ValueOutput
+Original	0	4194304	Value	ValueOutput
+Original	0	4194304	Value	ValueOutput
+Original	0	4194304	Value	ValueOutput
+Original	0	4194304	Value	ValueOutput
+Original	0	4194304	Value	ValueOutput
+TD To Tr	0	4194304	Value	ValueOutput
+Ducking 	0	4194304	Value	ValueOutput
+Ducking 	0	4194304	Value	ValueOutput
+Trigger 	0	4194304	Value	ValueOutput
+Trigger 	0	4194304	Value	ValueOutput
+Trigger 	0	4194304	Value	ValueOutput
+SC Exter	0	4194304	Value	ValueOutput
+Trans Tr	0	4194304	Value	ValueOutput
+Peak Tri	0	4194304	Value	ValueOutput
+Transien	0	4194304	Value	ValueOutput
+Trigger 	0	4194304	Value	ValueOutput
+Rim Trig	0	4194304	Value	ValueOutput
+Rim Blen	0	4194304	Value	ValueOutput
+Kit Sele	0	4194304	Value	ValueOutput
+Piece Se	0	4194304	Value	ValueOutput
+Phase In	0	4194304	Value	ValueOutput
+Playback	0	4194304	Value	ValueOutput
+Dynamics	0	4194304	Value	ValueOutput
+Playback	0	4194304	Value	ValueOutput
+Playback	0	4194304	Value	ValueOutput
+Playback	0	4194304	Value	ValueOutput
+Playback	0	4194304	Value	ValueOutput
+Playback	0	4194304	Value	ValueOutput
+Tune	0	4194304	Value	ValueOutput
+Output L	0	4194304	Value	ValueOutput
+Output H	0	4194304	Value	ValueOutput
+Dry/Wet 	0	4194304	Value	ValueOutput
+Output G	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

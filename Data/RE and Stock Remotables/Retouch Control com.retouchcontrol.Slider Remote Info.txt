@@ -1,0 +1,19 @@
+Scope
+Manufacturer	Model
+Retouch Control	com.retouchcontrol.Slider
+
+Remotable	Min	Max	Input type	Output type
+Pitch Density	0	4194304	Value	ValueOutput
+Scale Type	0	25	Value	ValueOutput
+Octave Range	0	2	Value	ValueOutput
+Octave Shift	0	6	Value	ValueOutput
+X Position	0	4194304	Value	ValueOutput
+Y Position	0	4194304	Value	ValueOutput
+Trigger	0	1	Toggle	ValueOutput
+Key	0	11	Value	ValueOutput
+Pattern	0	17	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

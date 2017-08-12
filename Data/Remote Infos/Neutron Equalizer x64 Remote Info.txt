@@ -1,0 +1,117 @@
+Scope
+Manufacturer	Model
+iZotope, Inc.	vst.ZnBe.Neutron Equalizer x64
+Note: Will match scope definitions for vst.ZnBe.Neutron Equalizer x64 or vst.ZnBe
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Global Bypass	0	4194304	Value	ValueOutput
+Global Dirty Flag	0	4194304	Value	ValueOutput
+Global Input Gain	0	4194304	Value	ValueOutput
+Global Output Gain	0	4194304	Value	ValueOutput
+EQ HP Frequency	0	4194304	Value	ValueOutput
+EQ LS Frequency	0	4194304	Value	ValueOutput
+EQ B1 Frequency	0	4194304	Value	ValueOutput
+EQ B2 Frequency	0	4194304	Value	ValueOutput
+EQ B3 Frequency	0	4194304	Value	ValueOutput
+EQ B4 Frequency	0	4194304	Value	ValueOutput
+EQ B5 Frequency	0	4194304	Value	ValueOutput
+EQ B6 Frequency	0	4194304	Value	ValueOutput
+EQ B7 Frequency	0	4194304	Value	ValueOutput
+EQ B8 Frequency	0	4194304	Value	ValueOutput
+EQ HS Frequency	0	4194304	Value	ValueOutput
+EQ LP Frequency	0	4194304	Value	ValueOutput
+EQ LS Gain	0	4194304	Value	ValueOutput
+EQ B1 Gain	0	4194304	Value	ValueOutput
+EQ B2 Gain	0	4194304	Value	ValueOutput
+EQ B3 Gain	0	4194304	Value	ValueOutput
+EQ B4 Gain	0	4194304	Value	ValueOutput
+EQ B5 Gain	0	4194304	Value	ValueOutput
+EQ B6 Gain	0	4194304	Value	ValueOutput
+EQ B7 Gain	0	4194304	Value	ValueOutput
+EQ B8 Gain	0	4194304	Value	ValueOutput
+EQ HS Gain	0	4194304	Value	ValueOutput
+EQ HP Res Q	0	4194304	Value	ValueOutput
+EQ LS Q	0	4194304	Value	ValueOutput
+EQ B1 Q	0	4194304	Value	ValueOutput
+EQ B2 Q	0	4194304	Value	ValueOutput
+EQ B3 Q	0	4194304	Value	ValueOutput
+EQ B4 Q	0	4194304	Value	ValueOutput
+EQ B5 Q	0	4194304	Value	ValueOutput
+EQ B6 Q	0	4194304	Value	ValueOutput
+EQ B7 Q	0	4194304	Value	ValueOutput
+EQ B8 Q	0	4194304	Value	ValueOutput
+EQ HS Q	0	4194304	Value	ValueOutput
+EQ LP Res Q	0	4194304	Value	ValueOutput
+EQ LS Threshold	0	4194304	Value	ValueOutput
+EQ B1 Threshold	0	4194304	Value	ValueOutput
+EQ B2 Threshold	0	4194304	Value	ValueOutput
+EQ B3 Threshold	0	4194304	Value	ValueOutput
+EQ B4 Threshold	0	4194304	Value	ValueOutput
+EQ B5 Threshold	0	4194304	Value	ValueOutput
+EQ B6 Threshold	0	4194304	Value	ValueOutput
+EQ B7 Threshold	0	4194304	Value	ValueOutput
+EQ B8 Threshold	0	4194304	Value	ValueOutput
+EQ HS Threshold	0	4194304	Value	ValueOutput
+EQ HP Shape	0	4194304	Value	ValueOutput
+EQ LS Shape	0	4194304	Value	ValueOutput
+EQ B1 Shape	0	4194304	Value	ValueOutput
+EQ B2 Shape	0	4194304	Value	ValueOutput
+EQ B3 Shape	0	4194304	Value	ValueOutput
+EQ B4 Shape	0	4194304	Value	ValueOutput
+EQ B5 Shape	0	4194304	Value	ValueOutput
+EQ B6 Shape	0	4194304	Value	ValueOutput
+EQ B7 Shape	0	4194304	Value	ValueOutput
+EQ B8 Shape	0	4194304	Value	ValueOutput
+EQ HS Shape	0	4194304	Value	ValueOutput
+EQ LP Shape	0	4194304	Value	ValueOutput
+EQ HP Enable	0	4194304	Value	ValueOutput
+EQ LS Enable	0	4194304	Value	ValueOutput
+EQ B1 Enable	0	4194304	Value	ValueOutput
+EQ B2 Enable	0	4194304	Value	ValueOutput
+EQ B3 Enable	0	4194304	Value	ValueOutput
+EQ B4 Enable	0	4194304	Value	ValueOutput
+EQ B5 Enable	0	4194304	Value	ValueOutput
+EQ B6 Enable	0	4194304	Value	ValueOutput
+EQ B7 Enable	0	4194304	Value	ValueOutput
+EQ B8 Enable	0	4194304	Value	ValueOutput
+EQ HS Enable	0	4194304	Value	ValueOutput
+EQ LP Enable	0	4194304	Value	ValueOutput
+EQ LS Dyn Mode	0	4194304	Value	ValueOutput
+EQ B1 Dyn Mode	0	4194304	Value	ValueOutput
+EQ B2 Dyn Mode	0	4194304	Value	ValueOutput
+EQ B3 Dyn Mode	0	4194304	Value	ValueOutput
+EQ B4 Dyn Mode	0	4194304	Value	ValueOutput
+EQ B5 Dyn Mode	0	4194304	Value	ValueOutput
+EQ B6 Dyn Mode	0	4194304	Value	ValueOutput
+EQ B7 Dyn Mode	0	4194304	Value	ValueOutput
+EQ B8 Dyn Mode	0	4194304	Value	ValueOutput
+EQ HS Dyn Mode	0	4194304	Value	ValueOutput
+EQ LS is Static	0	4194304	Value	ValueOutput
+EQ B1 is Static	0	4194304	Value	ValueOutput
+EQ B2 is Static	0	4194304	Value	ValueOutput
+EQ B3 is Static	0	4194304	Value	ValueOutput
+EQ B4 is Static	0	4194304	Value	ValueOutput
+EQ B5 is Static	0	4194304	Value	ValueOutput
+EQ B6 is Static	0	4194304	Value	ValueOutput
+EQ B7 is Static	0	4194304	Value	ValueOutput
+EQ B8 is Static	0	4194304	Value	ValueOutput
+EQ HS is Static	0	4194304	Value	ValueOutput
+EQ Process LFE	0	4194304	Value	ValueOutput
+EQ Global Mix	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

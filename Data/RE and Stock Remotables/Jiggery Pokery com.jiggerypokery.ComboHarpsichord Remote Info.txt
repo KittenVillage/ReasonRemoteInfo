@@ -1,0 +1,57 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.ComboHarpsichord
+
+Remotable	Min	Max	Input type	Output type
+Volume	0	4194304	Value	ValueOutput
+Channels	0	1	Toggle	ValueOutput
+Spring Reverb	0	4194304	Value	ValueOutput
+Room Reverb	0	4194304	Value	ValueOutput
+Amp Type	0	5	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Bass Tone	0	4194304	Value	ValueOutput
+Treble Tone	0	4194304	Value	ValueOutput
+Tremolo Speed	0	4194304	Value	ValueOutput
+Tremolo Intensity	0	4194304	Value	ValueOutput
+Cabinet	0	8	Value	ValueOutput
+Damp	0	4194304	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+Release Level	0	4194304	Value	ValueOutput
+High Pass Filter	0	4194304	Value	ValueOutput
+Mid Pickup Tuning	0	4194304	Value	ValueOutput
+Mid Pickup Bass	0	2	Value	ValueOutput
+Mid Pickup Treble	0	2	Value	ValueOutput
+Mid Pickup Level	0	4194304	Value	ValueOutput
+Mid Pickup Delay	0	4194304	Value	ValueOutput
+Mid Pickup Pedal	0	1	Toggle	ValueOutput
+Top Pickup Tuning	0	4194304	Value	ValueOutput
+Top Pickup Bass	0	2	Value	ValueOutput
+Top Pickup Treble	0	2	Value	ValueOutput
+Top Pickup Level	0	4194304	Value	ValueOutput
+Top Pickup Pedal	0	1	Toggle	ValueOutput
+Top Pickup Delay	0	4194304	Value	ValueOutput
+Mid Doubler Range	0	1	Toggle	ValueOutput
+Mid Doubler Tuning	0	4194304	Value	ValueOutput
+Mid Doubler Pickup Bass	0	2	Value	ValueOutput
+Mid Doubler Pickup Treble	0	2	Value	ValueOutput
+Mid Doubler Level	0	4194304	Value	ValueOutput
+Mid Doubler Delay	0	4194304	Value	ValueOutput
+Mid Doubler Pedal	0	1	Toggle	ValueOutput
+Top Doubler Range	0	1	Toggle	ValueOutput
+Top Doubler Tuning	0	4194304	Value	ValueOutput
+Top Doubler Pickup Bass	0	2	Value	ValueOutput
+Top Doubler Pickup Treble	0	2	Value	ValueOutput
+Top Doubler Level	0	4194304	Value	ValueOutput
+Top Doubler Delay	0	4194304	Value	ValueOutput
+Top Doubler Pedal	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

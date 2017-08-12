@@ -1,0 +1,59 @@
+Scope
+Manufacturer	Model
+Waves	vst.WNSS.WaveShell-VST 9_91_x64.Z-Noise Stereo
+Note: Will match scope definitions for vst.WNSS.WaveShell-VST 9_91_x64.Z-Noise Stereo or vst.WNSS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Thresh	0	4194304	Value	ValueOutput
+Reduction	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Transients	0	4194304	Value	ValueOutput
+Knee	0	4194304	Value	ValueOutput
+Optimize	0	4194304	Value	ValueOutput
+Learn	0	4194304	Value	ValueOutput
+Extract	0	4194304	Value	ValueOutput
+Monitor	0	4194304	Value	ValueOutput
+Adaptive	0	4194304	Value	ValueOutput
+Shape1	0	4194304	Value	ValueOutput
+band1OnOff	0	4194304	Value	ValueOutput
+Gain1	0	4194304	Value	ValueOutput
+Freq1	0	4194304	Value	ValueOutput
+Q1	0	4194304	Value	ValueOutput
+Shape2	0	4194304	Value	ValueOutput
+band2OnOff	0	4194304	Value	ValueOutput
+Gain2	0	4194304	Value	ValueOutput
+Freq2	0	4194304	Value	ValueOutput
+Q2	0	4194304	Value	ValueOutput
+Shape3	0	4194304	Value	ValueOutput
+band3OnOff	0	4194304	Value	ValueOutput
+Gain3	0	4194304	Value	ValueOutput
+Freq3	0	4194304	Value	ValueOutput
+Q3	0	4194304	Value	ValueOutput
+Shape4	0	4194304	Value	ValueOutput
+band4OnOff	0	4194304	Value	ValueOutput
+Gain4	0	4194304	Value	ValueOutput
+Freq4	0	4194304	Value	ValueOutput
+Q4	0	4194304	Value	ValueOutput
+Shape5	0	4194304	Value	ValueOutput
+band5OnOff	0	4194304	Value	ValueOutput
+Gain5	0	4194304	Value	ValueOutput
+Freq5	0	4194304	Value	ValueOutput
+Q5	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

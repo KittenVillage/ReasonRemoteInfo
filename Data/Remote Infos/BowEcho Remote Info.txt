@@ -1,0 +1,121 @@
+Scope
+Manufacturer	Model
+Inear_Display	vst.inBo.BowEcho
+Note: Will match scope definitions for vst.inBo.BowEcho or vst.inBo
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Delay1_Time	0	4194304	Value	ValueOutput
+Delay1_Sync	0	4194304	Value	ValueOutput
+Delay1_Time_Syn	0	4194304	Value	ValueOutput
+Delay1_Feedback	0	4194304	Value	ValueOutput
+Delay1_Input	0	4194304	Value	ValueOutput
+Delay1_input_Le	0	4194304	Value	ValueOutput
+Delay1_Feedback	0	4194304	Value	ValueOutput
+Delay1_Feedback	0	4194304	Value	ValueOutput
+Delay1_Time_Mod	0	4194304	Value	ValueOutput
+Delay1_Time_Mod	0	4194304	Value	ValueOutput
+Delay2_Time	0	4194304	Value	ValueOutput
+Delay2_Sync	0	4194304	Value	ValueOutput
+Delay2_Time_Syn	0	4194304	Value	ValueOutput
+Delay2_Feedback	0	4194304	Value	ValueOutput
+Delay2_Input	0	4194304	Value	ValueOutput
+Delay2_input_Le	0	4194304	Value	ValueOutput
+Delay2_Feedback	0	4194304	Value	ValueOutput
+Delay2_Feedback	0	4194304	Value	ValueOutput
+Delay2_Time_Mod	0	4194304	Value	ValueOutput
+Delay2_Time_Mod	0	4194304	Value	ValueOutput
+Delay3_Time	0	4194304	Value	ValueOutput
+Delay3_Sync	0	4194304	Value	ValueOutput
+Delay3_Time_Syn	0	4194304	Value	ValueOutput
+Delay3_Feedback	0	4194304	Value	ValueOutput
+Delay3_Input	0	4194304	Value	ValueOutput
+Delay3_input_Le	0	4194304	Value	ValueOutput
+Delay3_Feedback	0	4194304	Value	ValueOutput
+Delay3_Feedback	0	4194304	Value	ValueOutput
+Delay3_Time_Mod	0	4194304	Value	ValueOutput
+Delay3_Time_Mod	0	4194304	Value	ValueOutput
+Delay4_Time	0	4194304	Value	ValueOutput
+Delay4_Sync	0	4194304	Value	ValueOutput
+Delay4_Time_Syn	0	4194304	Value	ValueOutput
+Delay4_Feedback	0	4194304	Value	ValueOutput
+Delay4_Input	0	4194304	Value	ValueOutput
+Delay4_input_Le	0	4194304	Value	ValueOutput
+Delay4_Feedback	0	4194304	Value	ValueOutput
+Delay4_Feedback	0	4194304	Value	ValueOutput
+Delay4_Time_Mod	0	4194304	Value	ValueOutput
+Delay4_Time_Mod	0	4194304	Value	ValueOutput
+Lfo1_Wave	0	4194304	Value	ValueOutput
+Lfo1_Rate	0	4194304	Value	ValueOutput
+Lfo1_Sync	0	4194304	Value	ValueOutput
+Lfo1_Synced_Rat	0	4194304	Value	ValueOutput
+Lfo1_Rate_x100	0	4194304	Value	ValueOutput
+Lfo1_Rate_Mod_S	0	4194304	Value	ValueOutput
+Lfo1_Rate_Mod_D	0	4194304	Value	ValueOutput
+Lfo2_Wave	0	4194304	Value	ValueOutput
+Lfo2_Rate	0	4194304	Value	ValueOutput
+Lfo2_Sync	0	4194304	Value	ValueOutput
+Lfo2_Synced_Rat	0	4194304	Value	ValueOutput
+Lfo2_Rate_x100	0	4194304	Value	ValueOutput
+Lfo2_Rate_Mod_S	0	4194304	Value	ValueOutput
+Lfo2_Rate_Mod_D	0	4194304	Value	ValueOutput
+Lfo3_Wave	0	4194304	Value	ValueOutput
+Lfo3_Rate	0	4194304	Value	ValueOutput
+Lfo3_Sync	0	4194304	Value	ValueOutput
+Lfo3_Synced_Rat	0	4194304	Value	ValueOutput
+Lfo3_Rate_x100	0	4194304	Value	ValueOutput
+Lfo3_Rate_Mod_S	0	4194304	Value	ValueOutput
+Lfo3_Rate_Mod_D	0	4194304	Value	ValueOutput
+Lfo4_Wave	0	4194304	Value	ValueOutput
+Lfo4_Rate	0	4194304	Value	ValueOutput
+Lfo4_Sync	0	4194304	Value	ValueOutput
+Lfo4_Synced_Rat	0	4194304	Value	ValueOutput
+Lfo4_Rate_x100	0	4194304	Value	ValueOutput
+Lfo4_Rate_Mod_S	0	4194304	Value	ValueOutput
+Lfo4_Rate_Mod_D	0	4194304	Value	ValueOutput
+Mixer1_Mode	0	4194304	Value	ValueOutput
+Mixer1_Input_A	0	4194304	Value	ValueOutput
+Mixer1_Input_B	0	4194304	Value	ValueOutput
+Mixer1_Control	0	4194304	Value	ValueOutput
+Mixer1_Control_	0	4194304	Value	ValueOutput
+Mixer1_Control_	0	4194304	Value	ValueOutput
+Mixer2_Mode	0	4194304	Value	ValueOutput
+Mixer2_Input_A	0	4194304	Value	ValueOutput
+Mixer2_Input_B	0	4194304	Value	ValueOutput
+Mixer2_Control	0	4194304	Value	ValueOutput
+Mixer2_Control_	0	4194304	Value	ValueOutput
+Mixer2_Control_	0	4194304	Value	ValueOutput
+Mixer3_Mode	0	4194304	Value	ValueOutput
+Mixer3_Input_A	0	4194304	Value	ValueOutput
+Mixer3_Input_B	0	4194304	Value	ValueOutput
+Mixer3_Control	0	4194304	Value	ValueOutput
+Mixer3_Control_	0	4194304	Value	ValueOutput
+Mixer3_Control_	0	4194304	Value	ValueOutput
+Mixer4_Mode	0	4194304	Value	ValueOutput
+Mixer4_Input_A	0	4194304	Value	ValueOutput
+Mixer4_Input_B	0	4194304	Value	ValueOutput
+Mixer4_Control	0	4194304	Value	ValueOutput
+Mixer4_Control_	0	4194304	Value	ValueOutput
+Mixer4_Control_	0	4194304	Value	ValueOutput
+Out_Input_Sourc	0	4194304	Value	ValueOutput
+Out_Input_Level	0	4194304	Value	ValueOutput
+Dry_Wet	0	4194304	Value	ValueOutput
+Dry_Wet_Mod_Sou	0	4194304	Value	ValueOutput
+Dry_Wet_Mod_Dep	0	4194304	Value	ValueOutput
+Out_Gain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

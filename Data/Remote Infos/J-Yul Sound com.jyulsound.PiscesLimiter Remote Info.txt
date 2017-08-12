@@ -1,0 +1,35 @@
+Scope
+Manufacturer	Model
+J-Yul Sound	com.jyulsound.PiscesLimiter
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Advanced	0	1	Toggle	ValueOutput
+Recovery	0	4194304	Value	ValueOutput
+Out	0	4194304	Value	ValueOutput
+Slope	0	4194304	Value	ValueOutput
+Channel	0	1	Toggle	ValueOutput
+Detect	0	1	Toggle	ValueOutput
+Offset	0	4194304	Value	ValueOutput
+Tube	0	1	Toggle	ValueOutput
+Tube Depth	0	4194304	Value	ValueOutput
+Tube A	0	1	Toggle	ValueOutput
+Tube B	0	1	Toggle	ValueOutput
+Tube C	0	1	Toggle	ValueOutput
+Bass Boost	0	2	Value	ValueOutput
+Recovery On	0	1	Toggle	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Recovery Brake	0	1	Toggle	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Out On	0	1	Toggle	ValueOutput
+Clipping	0	4194304	Value	ValueOutput
+Ceiling	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Out Boost	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

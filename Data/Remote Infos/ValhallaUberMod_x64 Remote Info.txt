@@ -1,0 +1,58 @@
+Scope
+Manufacturer	Model
+Valhalla DSP, LLC	vst.uber.ValhallaUberMod_x64
+Note: Will match scope definitions for vst.uber.ValhallaUberMod_x64 or vst.uber
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+StereoWidth	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Slope	0	4194304	Value	ValueOutput
+Skew	0	4194304	Value	ValueOutput
+Random	0	4194304	Value	ValueOutput
+TapGain	0	4194304	Value	ValueOutput
+Diffusion	0	4194304	Value	ValueOutput
+DiffSize	0	4194304	Value	ValueOutput
+DiffModRate	0	4194304	Value	ValueOutput
+DiffModDepth	0	4194304	Value	ValueOutput
+LowCut	0	4194304	Value	ValueOutput
+HighCut	0	4194304	Value	ValueOutput
+SpatialXover	0	4194304	Value	ValueOutput
+DetuneRate	0	4194304	Value	ValueOutput
+DetuneDepth	0	4194304	Value	ValueOutput
+VibratoRate	0	4194304	Value	ValueOutput
+VibratoDepth	0	4194304	Value	ValueOutput
+OverMod	0	4194304	Value	ValueOutput
+DriveInGain	0	4194304	Value	ValueOutput
+DriveOutGain	0	4194304	Value	ValueOutput
+DriveNoiseGain	0	4194304	Value	ValueOutput
+FeedbackRotate	0	4194304	Value	ValueOutput
+SmoothingTime	0	4194304	Value	ValueOutput
+ColorMode	0	4194304	Value	ValueOutput
+DelaySync	0	4194304	Value	ValueOutput
+type	0	4194304	Value	ValueOutput
+DiffEnable	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+DrivePrePost	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+InputPan	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

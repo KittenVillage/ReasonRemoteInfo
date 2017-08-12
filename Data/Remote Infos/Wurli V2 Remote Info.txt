@@ -1,0 +1,126 @@
+Scope
+Manufacturer	Model
+Arturia	vst.WUR2.Wurli V2
+Note: Will match scope definitions for vst.WUR2.Wurli V2 or vst.WUR2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Vibrato	0	4194304	Value	ValueOutput
+Vibrato Rate	0	4194304	Value	ValueOutput
+Pickup Distance	0	4194304	Value	ValueOutput
+Pickup Axis	0	4194304	Value	ValueOutput
+Impedance	0	4194304	Value	ValueOutput
+Dynamics	0	4194304	Value	ValueOutput
+Octave Stretching	0	4194304	Value	ValueOutput
+Hammer Hardness	0	4194304	Value	ValueOutput
+Hammer Noise	0	4194304	Value	ValueOutput
+Key Release Noise	0	4194304	Value	ValueOutput
+Sustain Pedal Noise	0	4194304	Value	ValueOutput
+P32 Hz low shelf gain	0	4194304	Value	ValueOutput
+P63 Hz peak gain	0	4194304	Value	ValueOutput
+P125 Hz peak gain	0	4194304	Value	ValueOutput
+P250 Hz peak gain	0	4194304	Value	ValueOutput
+P500 Hz peak gain	0	4194304	Value	ValueOutput
+P1 kHz peak gain	0	4194304	Value	ValueOutput
+P2 kHz peak gain	0	4194304	Value	ValueOutput
+P4 kHz peak gain	0	4194304	Value	ValueOutput
+P8 kHz peak gain	0	4194304	Value	ValueOutput
+P16 kHz high shelf gain	0	4194304	Value	ValueOutput
+Chorus Type	0	4194304	Value	ValueOutput
+Chorus Lfo Rate	0	4194304	Value	ValueOutput
+Chorus Lfo Amount	0	4194304	Value	ValueOutput
+Chorus Stereo rate	0	4194304	Value	ValueOutput
+Chorus Stereo width	0	4194304	Value	ValueOutput
+Chorus Delay	0	4194304	Value	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Chorus	0	4194304	Value	ValueOutput
+Flanger Rate	0	4194304	Value	ValueOutput
+Flanger Depth	0	4194304	Value	ValueOutput
+Flanger Resonance	0	4194304	Value	ValueOutput
+Flanger Delay	0	4194304	Value	ValueOutput
+Flanger	0	4194304	Value	ValueOutput
+Phaser Rate	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Phaser Feedback	0	4194304	Value	ValueOutput
+Phaser Stereo	0	4194304	Value	ValueOutput
+Phaser	0	4194304	Value	ValueOutput
+Compressor Threshold	0	4194304	Value	ValueOutput
+Compressor Ratio	0	4194304	Value	ValueOutput
+Compressor Attack	0	4194304	Value	ValueOutput
+Compressor Release	0	4194304	Value	ValueOutput
+Compressor Input gain	0	4194304	Value	ValueOutput
+Compressor Makeup gain	0	4194304	Value	ValueOutput
+Compressor	0	4194304	Value	ValueOutput
+Overdrive Drive	0	4194304	Value	ValueOutput
+Overdrive Tone	0	4194304	Value	ValueOutput
+Overdrive Output Gain	0	4194304	Value	ValueOutput
+Overdrive	0	4194304	Value	ValueOutput
+Delay Delay time	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Feedback tone	0	4194304	Value	ValueOutput
+Delay LFO depth	0	4194304	Value	ValueOutput
+Delay LFO rate	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Pitch Chorus Detune	0	4194304	Value	ValueOutput
+Pitch Chorus Mix	0	4194304	Value	ValueOutput
+Pitch Chorus Output leve	0	4194304	Value	ValueOutput
+Pitch Chorus Delay	0	4194304	Value	ValueOutput
+Pitch-shift chorus	0	4194304	Value	ValueOutput
+Vocal Filter LFO	0	4194304	Value	ValueOutput
+Vocal Filter LFO rate	0	4194304	Value	ValueOutput
+Vocal Filter Resonance	0	4194304	Value	ValueOutput
+Vocal Filter Mix	0	4194304	Value	ValueOutput
+Vocal Filter Current X p	0	4194304	Value	ValueOutput
+Vocal Filter Current Y p	0	4194304	Value	ValueOutput
+Vocal Filter	0	4194304	Value	ValueOutput
+Reverb Input gain	0	4194304	Value	ValueOutput
+Reverb Brightness	0	4194304	Value	ValueOutput
+Reverb HF Damping	0	4194304	Value	ValueOutput
+Reverb Decay time	0	4194304	Value	ValueOutput
+Reverb Pre-delay time	0	4194304	Value	ValueOutput
+Reverb Pre-delay feedbac	0	4194304	Value	ValueOutput
+Reverb Diffusion	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Leslie Rate	0	4194304	Value	ValueOutput
+Leslie Speed	0	4194304	Value	ValueOutput
+Leslie Low - width	0	4194304	Value	ValueOutput
+Leslie Low - shape	0	4194304	Value	ValueOutput
+Leslie High - width	0	4194304	Value	ValueOutput
+Leslie High - shape	0	4194304	Value	ValueOutput
+Leslie High - depth	0	4194304	Value	ValueOutput
+Leslie Output level	0	4194304	Value	ValueOutput
+Auto Wah Frequency	0	4194304	Value	ValueOutput
+Auto Wah Threshold	0	4194304	Value	ValueOutput
+Auto Wah Modulation Dept	0	4194304	Value	ValueOutput
+Auto Wah Auto rate	0	4194304	Value	ValueOutput
+Auto-Wah	0	4194304	Value	ValueOutput
+Guitar Amp Drive	0	4194304	Value	ValueOutput
+Guitar Amp Volume	0	4194304	Value	ValueOutput
+Guitar Amp Reverb	0	4194304	Value	ValueOutput
+Guitar Amp Low	0	4194304	Value	ValueOutput
+Guitar Amp Mid	0	4194304	Value	ValueOutput
+Guitar Amp Hi	0	4194304	Value	ValueOutput
+Guitar Amp Cabinet	0	4194304	Value	ValueOutput
+Guitar Amp Microphone	0	4194304	Value	ValueOutput
+Wah-wah pedal	0	4194304	Value	ValueOutput
+Volume pedal	0	4194304	Value	ValueOutput
+Previous Preset	0	4194304	Value	ValueOutput
+Next Preset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

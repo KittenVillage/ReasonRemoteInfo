@@ -1,0 +1,188 @@
+Scope
+Manufacturer	Model
+Arturia	vst.PRO3.Prophet V3
+Note: Will match scope definitions for vst.PRO3.Prophet V3 or vst.PRO3
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Osc A Width	0	4194304	Value	ValueOutput
+Osc A Freq	0	4194304	Value	ValueOutput
+Osc B Width 	0	4194304	Value	ValueOutput
+Osc B Fine	0	4194304	Value	ValueOutput
+Osc B Freq	0	4194304	Value	ValueOutput
+WaveOsc A Num 	0	4194304	Value	ValueOutput
+WaveOsc A Fine	0	4194304	Value	ValueOutput
+WaveOsc A Freq	0	4194304	Value	ValueOutput
+WaveOsc B Num 	0	4194304	Value	ValueOutput
+WaveOsc B Fine	0	4194304	Value	ValueOutput
+WaveOsc B Freq	0	4194304	Value	ValueOutput
+WaveOsc C Num 	0	4194304	Value	ValueOutput
+WaveOsc C Fine	0	4194304	Value	ValueOutput
+WaveOsc C Freq	0	4194304	Value	ValueOutput
+WaveOsc D Num 	0	4194304	Value	ValueOutput
+WaveOsc D Fine	0	4194304	Value	ValueOutput
+WaveOsc D Freq	0	4194304	Value	ValueOutput
+Filter CutOff 	0	4194304	Value	ValueOutput
+Fine Filter CutOff 	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter Envelope Amount	0	4194304	Value	ValueOutput
+Filter Keyb	0	4194304	Value	ValueOutput
+VS Filter CutOff 	0	4194304	Value	ValueOutput
+VS Filter Resonance	0	4194304	Value	ValueOutput
+Envelope Filter Attack	0	4194304	Value	ValueOutput
+Envelope Filter Decay	0	4194304	Value	ValueOutput
+Envelope Filter Sustain	0	4194304	Value	ValueOutput
+Envelope Filter Release	0	4194304	Value	ValueOutput
+Envelope Vca Attack	0	4194304	Value	ValueOutput
+Envelope Vca Decay	0	4194304	Value	ValueOutput
+Envelope Vca Sustain	0	4194304	Value	ValueOutput
+Envelope Vca Release	0	4194304	Value	ValueOutput
+P4 points Envelope1 Level	0	4194304	Value	ValueOutput
+P4 points Envelope1 Time 	0	4194304	Value	ValueOutput
+P4 points Envelope1 Level	0	4194304	Value	ValueOutput
+P4 points Envelope1 Time 	0	4194304	Value	ValueOutput
+P4 points Envelope1 Level	0	4194304	Value	ValueOutput
+P4 points Envelope1 Time 	0	4194304	Value	ValueOutput
+P4 points Envelope1 Level	0	4194304	Value	ValueOutput
+P4 points Envelope1 Time 	0	4194304	Value	ValueOutput
+P4 points Envelope1 Time 	0	4194304	Value	ValueOutput
+P4 points Envelope1 Level	0	4194304	Value	ValueOutput
+P4 points Envelope2 Level	0	4194304	Value	ValueOutput
+P4 points Envelope2 Time 	0	4194304	Value	ValueOutput
+P4 points Envelope2 Level	0	4194304	Value	ValueOutput
+P4 points Envelope2 Time 	0	4194304	Value	ValueOutput
+P4 points Envelope2 Level	0	4194304	Value	ValueOutput
+P4 points Envelope2 Time 	0	4194304	Value	ValueOutput
+P4 points Envelope2 Level	0	4194304	Value	ValueOutput
+P4 points Envelope2 Time 	0	4194304	Value	ValueOutput
+P4 points Envelope2 Time 	0	4194304	Value	ValueOutput
+Lfo Freq	0	4194304	Value	ValueOutput
+Lfo1 Freq	0	4194304	Value	ValueOutput
+Lfo2 Freq	0	4194304	Value	ValueOutput
+WheelMod Lfo-Noise	0	4194304	Value	ValueOutput
+PolyMod EnvFilter	0	4194304	Value	ValueOutput
+PolyMod Osc B	0	4194304	Value	ValueOutput
+MixerPad X 	0	4194304	Value	ValueOutput
+MixerPad Y 	0	4194304	Value	ValueOutput
+Env Filter Amount	0	4194304	Value	ValueOutput
+Pro5 Mixer Osc A	0	4194304	Value	ValueOutput
+Pro5 Mixer Osc B	0	4194304	Value	ValueOutput
+Pro5 Mixer Noise	0	4194304	Value	ValueOutput
+Vs VCA Level	0	4194304	Value	ValueOutput
+Vs VCA ALL Pan	0	4194304	Value	ValueOutput
+Vs VCA V1 Pan	0	4194304	Value	ValueOutput
+Vs VCA V2 Pan	0	4194304	Value	ValueOutput
+Vs VCA V3 Pan	0	4194304	Value	ValueOutput
+Vs VCA V4 Pan	0	4194304	Value	ValueOutput
+Vs VCA V5 Pan	0	4194304	Value	ValueOutput
+Vs VCA V6 Pan	0	4194304	Value	ValueOutput
+Vs VCA V7 Pan	0	4194304	Value	ValueOutput
+Vs VCA V8 Pan	0	4194304	Value	ValueOutput
+Vs VCA V9 Pan	0	4194304	Value	ValueOutput
+Vs VCA V10 Pan	0	4194304	Value	ValueOutput
+Vs VCA V11 Pan	0	4194304	Value	ValueOutput
+Vs VCA V12 Pan	0	4194304	Value	ValueOutput
+Vs VCA V13 Pan	0	4194304	Value	ValueOutput
+Vs VCA V14 Pan	0	4194304	Value	ValueOutput
+Vs VCA V15 Pan	0	4194304	Value	ValueOutput
+Vs VCA V16 Pan	0	4194304	Value	ValueOutput
+Vs VCA V17 Pan	0	4194304	Value	ValueOutput
+Vs VCA V18 Pan	0	4194304	Value	ValueOutput
+Vs VCA V19 Pan	0	4194304	Value	ValueOutput
+Vs VCA V20 Pan	0	4194304	Value	ValueOutput
+Vs VCA V21 Pan	0	4194304	Value	ValueOutput
+Vs VCA V22 Pan	0	4194304	Value	ValueOutput
+Vs VCA V23 Pan	0	4194304	Value	ValueOutput
+Vs VCA V24 Pan	0	4194304	Value	ValueOutput
+Vs VCA V25 Pan	0	4194304	Value	ValueOutput
+Vs VCA V26 Pan	0	4194304	Value	ValueOutput
+Vs VCA V27 Pan	0	4194304	Value	ValueOutput
+Vs VCA V28 Pan	0	4194304	Value	ValueOutput
+Vs VCA V19 Pan	0	4194304	Value	ValueOutput
+Vs VCA V30 Pan	0	4194304	Value	ValueOutput
+Vs VCA V31 Pan	0	4194304	Value	ValueOutput
+Vs VCA V32 Pan	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Dry-Wet	0	4194304	Value	ValueOutput
+Delay Left FeedBack	0	4194304	Value	ValueOutput
+Delay Right FeedBack	0	4194304	Value	ValueOutput
+Delay Dry-Wet	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+After Touch	0	4194304	Value	ValueOutput
+General Volume	0	4194304	Value	ValueOutput
+General Tune	0	4194304	Value	ValueOutput
+Osc A Square	0	4194304	Value	ValueOutput
+Osc A Saw	0	4194304	Value	ValueOutput
+Osc A Synchro	0	4194304	Value	ValueOutput
+Osc B Square	0	4194304	Value	ValueOutput
+Osc B Saw	0	4194304	Value	ValueOutput
+Osc B Triangle	0	4194304	Value	ValueOutput
+Osc B LowFreq	0	4194304	Value	ValueOutput
+Osc B Keyb	0	4194304	Value	ValueOutput
+Lfo Midi Synchro	0	4194304	Value	ValueOutput
+Lfo Saw	0	4194304	Value	ValueOutput
+Lfo Square	0	4194304	Value	ValueOutput
+Lfo Triangle	0	4194304	Value	ValueOutput
+Lfo1 Sync	0	4194304	Value	ValueOutput
+Lfo2 Sync	0	4194304	Value	ValueOutput
+Voices Detune	0	4194304	Value	ValueOutput
+Keyboard Hold	0	4194304	Value	ValueOutput
+Legato On-Off	0	4194304	Value	ValueOutput
+Unison On-Off	0	4194304	Value	ValueOutput
+Chorus On-Off	0	4194304	Value	ValueOutput
+Chorus Type	0	4194304	Value	ValueOutput
+Delay Left Time	0	4194304	Value	ValueOutput
+Delay Right Time	0	4194304	Value	ValueOutput
+Delay Midi Synchro	0	4194304	Value	ValueOutput
+Delay On-Off	0	4194304	Value	ValueOutput
+Release On-Off	0	4194304	Value	ValueOutput
+Glide On-Off	0	4194304	Value	ValueOutput
+Mod Matrix Amount line 1	0	4194304	Value	ValueOutput
+Mod Matrix Amount line 2	0	4194304	Value	ValueOutput
+Mod Matrix Amount line 3	0	4194304	Value	ValueOutput
+Mod Matrix Amount line 4	0	4194304	Value	ValueOutput
+Mod Matrix Amount line 5	0	4194304	Value	ValueOutput
+Mod Matrix Amount line 6	0	4194304	Value	ValueOutput
+Mod Matrix Amount line 7	0	4194304	Value	ValueOutput
+Mod Matrix Amount line 8	0	4194304	Value	ValueOutput
+Mod Matrix Amount line 9	0	4194304	Value	ValueOutput
+Mod Matrix Amount line 1	0	4194304	Value	ValueOutput
+Mod Matrix Amount line 1	0	4194304	Value	ValueOutput
+WheelMod Freq Osc A	0	4194304	Value	ValueOutput
+WheelMod Freq Osc B	0	4194304	Value	ValueOutput
+WheelMod PW Osc A	0	4194304	Value	ValueOutput
+WheelMod PW Osc B	0	4194304	Value	ValueOutput
+WheelMod Filter	0	4194304	Value	ValueOutput
+Mixer Envelope time 1	0	4194304	Value	ValueOutput
+Mixer Envelope time 2	0	4194304	Value	ValueOutput
+Mixer Envelope time 3	0	4194304	Value	ValueOutput
+Mixer Envelope time 4	0	4194304	Value	ValueOutput
+PolyMod Freq Osc A	0	4194304	Value	ValueOutput
+PolyMod PW Osc A	0	4194304	Value	ValueOutput
+PolyMod Filter	0	4194304	Value	ValueOutput
+Coarse Pitch Bend	0	4194304	Value	ValueOutput
+Pitch Bend Range	0	4194304	Value	ValueOutput
+Pad Mixer to Vs Filter	0	4194304	Value	ValueOutput
+Pad Mixer to Pro5 Filter	0	4194304	Value	ValueOutput
+Noise to VS Filter	0	4194304	Value	ValueOutput
+Noise to Pro5 Filter	0	4194304	Value	ValueOutput
+VS Filter to Pro5 Filter	0	4194304	Value	ValueOutput
+Previous Preset	0	4194304	Value	ValueOutput
+Next Preset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

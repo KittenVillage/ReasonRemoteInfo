@@ -1,0 +1,77 @@
+Scope
+Manufacturer	Model
+Boz Digital Labs	vst.McP4.ManicCompressor
+Note: Will match scope definitions for vst.McP4.ManicCompressor or vst.McP4
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Mix Mode Enable	0	4194304	Value	ValueOutput
+Wet Level	0	4194304	Value	ValueOutput
+Wet Out Enable	0	4194304	Value	ValueOutput
+Dry Level	0	4194304	Value	ValueOutput
+Dry Out Enable	0	4194304	Value	ValueOutput
+Input Drive	0	4194304	Value	ValueOutput
+Comp Type	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Ratio	0	4194304	Value	ValueOutput
+Knee	0	4194304	Value	ValueOutput
+Auto Makeup Gain	0	4194304	Value	ValueOutput
+Loud Relief	0	4194304	Value	ValueOutput
+Stereo Mode	0	4194304	Value	ValueOutput
+Mid/Side Pan	0	4194304	Value	ValueOutput
+Tone - Enable	0	4194304	Value	ValueOutput
+Tone - Location	0	4194304	Value	ValueOutput
+Tone - Pre/Post	0	4194304	Value	ValueOutput
+Tone - Mid Band Type	0	4194304	Value	ValueOutput
+Tone - Mid Gain	0	4194304	Value	ValueOutput
+Tone - Mid Freq	0	4194304	Value	ValueOutput
+Tone - Mid Resonance	0	4194304	Value	ValueOutput
+Tone - Mid Enable	0	4194304	Value	ValueOutput
+Tone Low Type	0	4194304	Value	ValueOutput
+Tone - Low Gain	0	4194304	Value	ValueOutput
+Tone - Low Freq	0	4194304	Value	ValueOutput
+Tone - Low Q	0	4194304	Value	ValueOutput
+Tone - Low Enable	0	4194304	Value	ValueOutput
+Tone - High Band Type	0	4194304	Value	ValueOutput
+Tone - High Freq Gain	0	4194304	Value	ValueOutput
+Tone - High Freq	0	4194304	Value	ValueOutput
+Tone - High Q	0	4194304	Value	ValueOutput
+Tone - High Enable	0	4194304	Value	ValueOutput
+Beef	0	4194304	Value	ValueOutput
+SC - Enable	0	4194304	Value	ValueOutput
+SC - Listen	0	4194304	Value	ValueOutput
+SC - Enable Low	0	4194304	Value	ValueOutput
+SC - Filt Type Low	0	4194304	Value	ValueOutput
+SC - Frequency Low	0	4194304	Value	ValueOutput
+SC - Resonance Low	0	4194304	Value	ValueOutput
+SC - Gain Low	0	4194304	Value	ValueOutput
+SC - Enable Mid	0	4194304	Value	ValueOutput
+SC - Filt Type Mid	0	4194304	Value	ValueOutput
+SC - Frequency Mid	0	4194304	Value	ValueOutput
+SC - Q Mid	0	4194304	Value	ValueOutput
+SC - Gain Mid	0	4194304	Value	ValueOutput
+SC - Enable High	0	4194304	Value	ValueOutput
+SC - Filt Type High	0	4194304	Value	ValueOutput
+SC - Frequency High	0	4194304	Value	ValueOutput
+SC - Q High	0	4194304	Value	ValueOutput
+SC - Gain High	0	4194304	Value	ValueOutput
+SC - Source	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

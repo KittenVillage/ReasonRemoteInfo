@@ -1,0 +1,112 @@
+Scope
+Manufacturer	Model
+Arturia	vst.TonW.B-3 V
+Note: Will match scope definitions for vst.TonW.B-3 V or vst.TonW
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Previous Preset	0	4194304	Value	ValueOutput
+Next Preset	0	4194304	Value	ValueOutput
+Upper Drawbar 16'	0	4194304	Value	ValueOutput
+Upper Drawbar 5 1/3'	0	4194304	Value	ValueOutput
+Upper Drawbar 8'	0	4194304	Value	ValueOutput
+Upper Drawbar 4'	0	4194304	Value	ValueOutput
+Upper Drawbar 2 2/3'	0	4194304	Value	ValueOutput
+Upper Drawbar 2'	0	4194304	Value	ValueOutput
+Upper Drawbar 1 3/5'	0	4194304	Value	ValueOutput
+Upper Drawbar 1 1/3'	0	4194304	Value	ValueOutput
+Upper Drawbar 1'	0	4194304	Value	ValueOutput
+Lower Drawbar 16'	0	4194304	Value	ValueOutput
+Lower Drawbar 5 1/3'	0	4194304	Value	ValueOutput
+Lower Drawbar 8'	0	4194304	Value	ValueOutput
+Lower Drawbar 4'	0	4194304	Value	ValueOutput
+Lower Drawbar 2 2/3'	0	4194304	Value	ValueOutput
+Lower Drawbar 2'	0	4194304	Value	ValueOutput
+Lower Drawbar 1 3/5'	0	4194304	Value	ValueOutput
+Lower Drawbar 1 1/3'	0	4194304	Value	ValueOutput
+Lower Drawbar 1'	0	4194304	Value	ValueOutput
+Chorus Upper	0	4194304	Value	ValueOutput
+Chorus Lower	0	4194304	Value	ValueOutput
+Organ Chorus Type	0	4194304	Value	ValueOutput
+Percussion Upper	0	4194304	Value	ValueOutput
+Percussion Vol	0	4194304	Value	ValueOutput
+Percussion Decay	0	4194304	Value	ValueOutput
+Percussion Harmonic	0	4194304	Value	ValueOutput
+Percussion Behavior	0	4194304	Value	ValueOutput
+Master Vol	0	4194304	Value	ValueOutput
+Keyclick Vol	0	4194304	Value	ValueOutput
+Keyclick Tone	0	4194304	Value	ValueOutput
+Brilliance	0	4194304	Value	ValueOutput
+Upper Lower Balance	0	4194304	Value	ValueOutput
+Rotary Click Vol	0	4194304	Value	ValueOutput
+Drawbar Leakage	0	4194304	Value	ValueOutput
+Tonewheel Leakage	0	4194304	Value	ValueOutput
+Attack Upper	0	4194304	Value	ValueOutput
+Attack Lower	0	4194304	Value	ValueOutput
+Release Upper	0	4194304	Value	ValueOutput
+Release Lower	0	4194304	Value	ValueOutput
+Leslie State	0	4194304	Value	ValueOutput
+Leslie Slow / Fast	0	4194304	Value	ValueOutput
+Leslie Brake	0	4194304	Value	ValueOutput
+Leslie Model	0	4194304	Value	ValueOutput
+Leslie Slow Speed	0	4194304	Value	ValueOutput
+Leslie Fast Speed	0	4194304	Value	ValueOutput
+Leslie Horn Accel	0	4194304	Value	ValueOutput
+Leslie Drum Accel	0	4194304	Value	ValueOutput
+Leslie Horn Drum Balance	0	4194304	Value	ValueOutput
+Leslie Stereo Width	0	4194304	Value	ValueOutput
+Leslie Mix	0	4194304	Value	ValueOutput
+Preamp Drive	0	4194304	Value	ValueOutput
+Swell Pedal	0	4194304	Value	ValueOutput
+Background Noise Level	0	4194304	Value	ValueOutput
+Flanger On/Off	0	4194304	Value	ValueOutput
+Flanger Rate	0	4194304	Value	ValueOutput
+Flanger Depth	0	4194304	Value	ValueOutput
+Flanger Res	0	4194304	Value	ValueOutput
+Flanger Delay	0	4194304	Value	ValueOutput
+Flanger Mix	0	4194304	Value	ValueOutput
+Phaser On/Off	0	4194304	Value	ValueOutput
+Phaser Rate	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Phaser Feedback	0	4194304	Value	ValueOutput
+Phaser Stereo	0	4194304	Value	ValueOutput
+Phaser Mix	0	4194304	Value	ValueOutput
+Chorus On/Off	0	4194304	Value	ValueOutput
+Chorus Type	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Amount	0	4194304	Value	ValueOutput
+Chorus Stereo Rate	0	4194304	Value	ValueOutput
+Chorus Stereo Width	0	4194304	Value	ValueOutput
+Chorus Delay	0	4194304	Value	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Delay On/Off	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay FB Tone	0	4194304	Value	ValueOutput
+Delay LFO Depth	0	4194304	Value	ValueOutput
+Delay LFO Rate	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Overdrive On/Off	0	4194304	Value	ValueOutput
+Overdrive Drive	0	4194304	Value	ValueOutput
+Overdrive Tone	0	4194304	Value	ValueOutput
+Overdrive Output	0	4194304	Value	ValueOutput
+Reverb On/Off	0	4194304	Value	ValueOutput
+Reverb Dry / Wet	0	4194304	Value	ValueOutput
+Pedal Drawbar 16'	0	4194304	Value	ValueOutput
+Pedal Drawbar 8'	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

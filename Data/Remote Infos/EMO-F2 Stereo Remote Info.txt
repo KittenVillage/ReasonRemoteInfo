@@ -1,0 +1,32 @@
+Scope
+Manufacturer	Model
+Waves	vst.CFLS.WaveShell-VST 9_91_x64.EMO-F2 Stereo
+Note: Will match scope definitions for vst.CFLS.WaveShell-VST 9_91_x64.EMO-F2 Stereo or vst.CFLS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Link Mode	0	4194304	Value	ValueOutput
+HpfOn-L	0	4194304	Value	ValueOutput
+HpfFreq-L	0	4194304	Value	ValueOutput
+LpfOn-L	0	4194304	Value	ValueOutput
+LpfFreq-L	0	4194304	Value	ValueOutput
+HpfOn-R	0	4194304	Value	ValueOutput
+HpfFreq-R	0	4194304	Value	ValueOutput
+LpfOn-R	0	4194304	Value	ValueOutput
+LpfFreq-R	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

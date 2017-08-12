@@ -1,0 +1,34 @@
+Scope
+Manufacturer	Model
+hyakken	vst.hy01.HY-Delay_x64
+Note: Will match scope definitions for vst.hy01.HY-Delay_x64 or vst.hy01
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+delay time	0	4194304	Value	ValueOutput
+sync	0	4194304	Value	ValueOutput
+delaytimesync	0	4194304	Value	ValueOutput
+LR time offset	0	4194304	Value	ValueOutput
+feedback	0	4194304	Value	ValueOutput
+cross feedback	0	4194304	Value	ValueOutput
+bit depth	0	4194304	Value	ValueOutput
+lowpass	0	4194304	Value	ValueOutput
+highpass	0	4194304	Value	ValueOutput
+dry	0	4194304	Value	ValueOutput
+wet	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,21 @@
+Scope
+Manufacturer	Model
+LaboratoriaIT.RU, LLC	ru.laboratoriait.Filter
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Mode	0	1	Toggle	ValueOutput
+Low Slope	0	5	Value	ValueOutput
+Low Frequency	0	4194304	Value	ValueOutput
+Low Resonance	0	4194304	Value	ValueOutput
+High Slope	0	5	Value	ValueOutput
+High Frequency	0	4194304	Value	ValueOutput
+High Resonance	0	4194304	Value	ValueOutput
+Dual Frequency	0	4194304	Value	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Limiter Mode	0	2	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

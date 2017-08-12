@@ -1,0 +1,63 @@
+Scope
+Manufacturer	Model
+Tracktion	vst.TSBt.BioTek (64 bit)
+Note: Will match scope definitions for vst.TSBt.BioTek (64 bit) or vst.TSBt
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+X	0	4194304	Value	ValueOutput
+Y	0	4194304	Value	ValueOutput
+Pad Volume -	0	4194304	Value	ValueOutput
+Arp Volume -	0	4194304	Value	ValueOutput
+Bass FM	0	4194304	Value	ValueOutput
+Bass Sync	0	4194304	Value	ValueOutput
+Bass Ring Mod	0	4194304	Value	ValueOutput
+Drum S&H	0	4194304	Value	ValueOutput
+Bass Attack	0	4194304	Value	ValueOutput
+Drum Attack	0	4194304	Value	ValueOutput
+Drum Delay	0	4194304	Value	ValueOutput
+Arp Reverb	0	4194304	Value	ValueOutput
+Bass Delay	0	4194304	Value	ValueOutput
+Drum Reverb	0	4194304	Value	ValueOutput
+Pad Auto Pan	0	4194304	Value	ValueOutput
+Comb Input	0	4194304	Value	ValueOutput
+Bass Filters	0	4194304	Value	ValueOutput
+Pad Cutoff	0	4194304	Value	ValueOutput
+Pad Res	0	4194304	Value	ValueOutput
+Arp Cutoff	0	4194304	Value	ValueOutput
+Drum Emph 1	0	4194304	Value	ValueOutput
+Drum Emph 2	0	4194304	Value	ValueOutput
+Reserved 23	0	4194304	Value	ValueOutput
+Reserved 24	0	4194304	Value	ValueOutput
+Reserved 25	0	4194304	Value	ValueOutput
+Reserved 26	0	4194304	Value	ValueOutput
+Reserved 27	0	4194304	Value	ValueOutput
+Reserved 28	0	4194304	Value	ValueOutput
+Reserved 29	0	4194304	Value	ValueOutput
+Reserved 30	0	4194304	Value	ValueOutput
+Reserved 31	0	4194304	Value	ValueOutput
+Reserved 32	0	4194304	Value	ValueOutput
+LFO 1 Pos	0	4194304	Value	ValueOutput
+LFO 2 Pos	0	4194304	Value	ValueOutput
+Arp Active	0	4194304	Value	ValueOutput
+Arp Latch	0	4194304	Value	ValueOutput
+Effect Mix	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+LFO 1 Level	0	4194304	Value	ValueOutput
+LFO 2 Level	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

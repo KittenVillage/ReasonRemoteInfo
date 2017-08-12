@@ -1,0 +1,742 @@
+Scope
+Manufacturer	Model
+Image-Line	vst.DMS1.IL Drumaxx x64
+Note: Will match scope definitions for vst.DMS1.IL Drumaxx x64 or vst.DMS1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Ch.0: Volume	0	4194304	Value	ValueOutput
+Ch.0: Panning	0	4194304	Value	ValueOutput
+Ch.0: Mute	0	4194304	Value	ValueOutput
+Ch.0: Solo	0	4194304	Value	ValueOutput
+Ch.0: Key	0	4194304	Value	ValueOutput
+Ch.0: Noise Retrig	0	4194304	Value	ValueOutput
+Ch.0: EG Retrig	0	4194304	Value	ValueOutput
+Ch.0: Mallet Amplitude	0	4194304	Value	ValueOutput
+Ch.0: Mallet Decay	0	4194304	Value	ValueOutput
+Ch.0: Mallet Noise	0	4194304	Value	ValueOutput
+Ch.0: Mallet Noise RP	0	4194304	Value	ValueOutput
+Ch.0: Membrane Decay	0	4194304	Value	ValueOutput
+Ch.0: Membrane Cutoff	0	4194304	Value	ValueOutput
+Ch.0: Membrane Tension	0	4194304	Value	ValueOutput
+Ch.0: Membrane Phase	0	4194304	Value	ValueOutput
+Ch.0: Membrane Material	0	4194304	Value	ValueOutput
+Ch.0: Membrane Size	0	4194304	Value	ValueOutput
+Ch.0: Membrane Shape	0	4194304	Value	ValueOutput
+Ch.0: LOW Freq	0	4194304	Value	ValueOutput
+Ch.0: LOW Res	0	4194304	Value	ValueOutput
+Ch.0: SOF Freq	0	4194304	Value	ValueOutput
+Ch.0: SOF Decay	0	4194304	Value	ValueOutput
+Ch.0: SOF Level	0	4194304	Value	ValueOutput
+Ch.0: MID Freq	0	4194304	Value	ValueOutput
+Ch.0: MID Level	0	4194304	Value	ValueOutput
+Ch.0: MID Res	0	4194304	Value	ValueOutput
+Ch.0: MID Freq Mod	0	4194304	Value	ValueOutput
+Ch.0: MID Level Mod	0	4194304	Value	ValueOutput
+Ch.0: MID Attack	0	4194304	Value	ValueOutput
+Ch.0: HIGH Freq	0	4194304	Value	ValueOutput
+Ch.0: HIGH Level	0	4194304	Value	ValueOutput
+Ch.0: HIGH Res	0	4194304	Value	ValueOutput
+Ch.0: Lo-Fi	0	4194304	Value	ValueOutput
+Ch.0: Hold	0	4194304	Value	ValueOutput
+Ch.0: Pitch	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.0: Velocity Mod 1	0	4194304	Value	ValueOutput
+Ch.0: Velocity Mod 2	0	4194304	Value	ValueOutput
+Ch.0: Velocity Mod 3	0	4194304	Value	ValueOutput
+Ch.0: Velocity Mod 4	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.1: Volume	0	4194304	Value	ValueOutput
+Ch.1: Panning	0	4194304	Value	ValueOutput
+Ch.1: Mute	0	4194304	Value	ValueOutput
+Ch.1: Solo	0	4194304	Value	ValueOutput
+Ch.1: Key	0	4194304	Value	ValueOutput
+Ch.1: Noise Retrig	0	4194304	Value	ValueOutput
+Ch.1: EG Retrig	0	4194304	Value	ValueOutput
+Ch.1: Mallet Amplitude	0	4194304	Value	ValueOutput
+Ch.1: Mallet Decay	0	4194304	Value	ValueOutput
+Ch.1: Mallet Noise	0	4194304	Value	ValueOutput
+Ch.1: Mallet Noise RP	0	4194304	Value	ValueOutput
+Ch.1: Membrane Decay	0	4194304	Value	ValueOutput
+Ch.1: Membrane Cutoff	0	4194304	Value	ValueOutput
+Ch.1: Membrane Tension	0	4194304	Value	ValueOutput
+Ch.1: Membrane Phase	0	4194304	Value	ValueOutput
+Ch.1: Membrane Material	0	4194304	Value	ValueOutput
+Ch.1: Membrane Size	0	4194304	Value	ValueOutput
+Ch.1: Membrane Shape	0	4194304	Value	ValueOutput
+Ch.1: LOW Freq	0	4194304	Value	ValueOutput
+Ch.1: LOW Res	0	4194304	Value	ValueOutput
+Ch.1: SOF Freq	0	4194304	Value	ValueOutput
+Ch.1: SOF Decay	0	4194304	Value	ValueOutput
+Ch.1: SOF Level	0	4194304	Value	ValueOutput
+Ch.1: MID Freq	0	4194304	Value	ValueOutput
+Ch.1: MID Level	0	4194304	Value	ValueOutput
+Ch.1: MID Res	0	4194304	Value	ValueOutput
+Ch.1: MID Freq Mod	0	4194304	Value	ValueOutput
+Ch.1: MID Level Mod	0	4194304	Value	ValueOutput
+Ch.1: MID Attack	0	4194304	Value	ValueOutput
+Ch.1: HIGH Freq	0	4194304	Value	ValueOutput
+Ch.1: HIGH Level	0	4194304	Value	ValueOutput
+Ch.1: HIGH Res	0	4194304	Value	ValueOutput
+Ch.1: Lo-Fi	0	4194304	Value	ValueOutput
+Ch.1: Hold	0	4194304	Value	ValueOutput
+Ch.1: Pitch	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.1: Velocity Mod 1	0	4194304	Value	ValueOutput
+Ch.1: Velocity Mod 2	0	4194304	Value	ValueOutput
+Ch.1: Velocity Mod 3	0	4194304	Value	ValueOutput
+Ch.1: Velocity Mod 4	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.2: Volume	0	4194304	Value	ValueOutput
+Ch.2: Panning	0	4194304	Value	ValueOutput
+Ch.2: Mute	0	4194304	Value	ValueOutput
+Ch.2: Solo	0	4194304	Value	ValueOutput
+Ch.2: Key	0	4194304	Value	ValueOutput
+Ch.2: Noise Retrig	0	4194304	Value	ValueOutput
+Ch.2: EG Retrig	0	4194304	Value	ValueOutput
+Ch.2: Mallet Amplitude	0	4194304	Value	ValueOutput
+Ch.2: Mallet Decay	0	4194304	Value	ValueOutput
+Ch.2: Mallet Noise	0	4194304	Value	ValueOutput
+Ch.2: Mallet Noise RP	0	4194304	Value	ValueOutput
+Ch.2: Membrane Decay	0	4194304	Value	ValueOutput
+Ch.2: Membrane Cutoff	0	4194304	Value	ValueOutput
+Ch.2: Membrane Tension	0	4194304	Value	ValueOutput
+Ch.2: Membrane Phase	0	4194304	Value	ValueOutput
+Ch.2: Membrane Material	0	4194304	Value	ValueOutput
+Ch.2: Membrane Size	0	4194304	Value	ValueOutput
+Ch.2: Membrane Shape	0	4194304	Value	ValueOutput
+Ch.2: LOW Freq	0	4194304	Value	ValueOutput
+Ch.2: LOW Res	0	4194304	Value	ValueOutput
+Ch.2: SOF Freq	0	4194304	Value	ValueOutput
+Ch.2: SOF Decay	0	4194304	Value	ValueOutput
+Ch.2: SOF Level	0	4194304	Value	ValueOutput
+Ch.2: MID Freq	0	4194304	Value	ValueOutput
+Ch.2: MID Level	0	4194304	Value	ValueOutput
+Ch.2: MID Res	0	4194304	Value	ValueOutput
+Ch.2: MID Freq Mod	0	4194304	Value	ValueOutput
+Ch.2: MID Level Mod	0	4194304	Value	ValueOutput
+Ch.2: MID Attack	0	4194304	Value	ValueOutput
+Ch.2: HIGH Freq	0	4194304	Value	ValueOutput
+Ch.2: HIGH Level	0	4194304	Value	ValueOutput
+Ch.2: HIGH Res	0	4194304	Value	ValueOutput
+Ch.2: Lo-Fi	0	4194304	Value	ValueOutput
+Ch.2: Hold	0	4194304	Value	ValueOutput
+Ch.2: Pitch	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.2: Velocity Mod 1	0	4194304	Value	ValueOutput
+Ch.2: Velocity Mod 2	0	4194304	Value	ValueOutput
+Ch.2: Velocity Mod 3	0	4194304	Value	ValueOutput
+Ch.2: Velocity Mod 4	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.3: Volume	0	4194304	Value	ValueOutput
+Ch.3: Panning	0	4194304	Value	ValueOutput
+Ch.3: Mute	0	4194304	Value	ValueOutput
+Ch.3: Solo	0	4194304	Value	ValueOutput
+Ch.3: Key	0	4194304	Value	ValueOutput
+Ch.3: Noise Retrig	0	4194304	Value	ValueOutput
+Ch.3: EG Retrig	0	4194304	Value	ValueOutput
+Ch.3: Mallet Amplitude	0	4194304	Value	ValueOutput
+Ch.3: Mallet Decay	0	4194304	Value	ValueOutput
+Ch.3: Mallet Noise	0	4194304	Value	ValueOutput
+Ch.3: Mallet Noise RP	0	4194304	Value	ValueOutput
+Ch.3: Membrane Decay	0	4194304	Value	ValueOutput
+Ch.3: Membrane Cutoff	0	4194304	Value	ValueOutput
+Ch.3: Membrane Tension	0	4194304	Value	ValueOutput
+Ch.3: Membrane Phase	0	4194304	Value	ValueOutput
+Ch.3: Membrane Material	0	4194304	Value	ValueOutput
+Ch.3: Membrane Size	0	4194304	Value	ValueOutput
+Ch.3: Membrane Shape	0	4194304	Value	ValueOutput
+Ch.3: LOW Freq	0	4194304	Value	ValueOutput
+Ch.3: LOW Res	0	4194304	Value	ValueOutput
+Ch.3: SOF Freq	0	4194304	Value	ValueOutput
+Ch.3: SOF Decay	0	4194304	Value	ValueOutput
+Ch.3: SOF Level	0	4194304	Value	ValueOutput
+Ch.3: MID Freq	0	4194304	Value	ValueOutput
+Ch.3: MID Level	0	4194304	Value	ValueOutput
+Ch.3: MID Res	0	4194304	Value	ValueOutput
+Ch.3: MID Freq Mod	0	4194304	Value	ValueOutput
+Ch.3: MID Level Mod	0	4194304	Value	ValueOutput
+Ch.3: MID Attack	0	4194304	Value	ValueOutput
+Ch.3: HIGH Freq	0	4194304	Value	ValueOutput
+Ch.3: HIGH Level	0	4194304	Value	ValueOutput
+Ch.3: HIGH Res	0	4194304	Value	ValueOutput
+Ch.3: Lo-Fi	0	4194304	Value	ValueOutput
+Ch.3: Hold	0	4194304	Value	ValueOutput
+Ch.3: Pitch	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.3: Velocity Mod 1	0	4194304	Value	ValueOutput
+Ch.3: Velocity Mod 2	0	4194304	Value	ValueOutput
+Ch.3: Velocity Mod 3	0	4194304	Value	ValueOutput
+Ch.3: Velocity Mod 4	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.4: Volume	0	4194304	Value	ValueOutput
+Ch.4: Panning	0	4194304	Value	ValueOutput
+Ch.4: Mute	0	4194304	Value	ValueOutput
+Ch.4: Solo	0	4194304	Value	ValueOutput
+Ch.4: Key	0	4194304	Value	ValueOutput
+Ch.4: Noise Retrig	0	4194304	Value	ValueOutput
+Ch.4: EG Retrig	0	4194304	Value	ValueOutput
+Ch.4: Mallet Amplitude	0	4194304	Value	ValueOutput
+Ch.4: Mallet Decay	0	4194304	Value	ValueOutput
+Ch.4: Mallet Noise	0	4194304	Value	ValueOutput
+Ch.4: Mallet Noise RP	0	4194304	Value	ValueOutput
+Ch.4: Membrane Decay	0	4194304	Value	ValueOutput
+Ch.4: Membrane Cutoff	0	4194304	Value	ValueOutput
+Ch.4: Membrane Tension	0	4194304	Value	ValueOutput
+Ch.4: Membrane Phase	0	4194304	Value	ValueOutput
+Ch.4: Membrane Material	0	4194304	Value	ValueOutput
+Ch.4: Membrane Size	0	4194304	Value	ValueOutput
+Ch.4: Membrane Shape	0	4194304	Value	ValueOutput
+Ch.4: LOW Freq	0	4194304	Value	ValueOutput
+Ch.4: LOW Res	0	4194304	Value	ValueOutput
+Ch.4: SOF Freq	0	4194304	Value	ValueOutput
+Ch.4: SOF Decay	0	4194304	Value	ValueOutput
+Ch.4: SOF Level	0	4194304	Value	ValueOutput
+Ch.4: MID Freq	0	4194304	Value	ValueOutput
+Ch.4: MID Level	0	4194304	Value	ValueOutput
+Ch.4: MID Res	0	4194304	Value	ValueOutput
+Ch.4: MID Freq Mod	0	4194304	Value	ValueOutput
+Ch.4: MID Level Mod	0	4194304	Value	ValueOutput
+Ch.4: MID Attack	0	4194304	Value	ValueOutput
+Ch.4: HIGH Freq	0	4194304	Value	ValueOutput
+Ch.4: HIGH Level	0	4194304	Value	ValueOutput
+Ch.4: HIGH Res	0	4194304	Value	ValueOutput
+Ch.4: Lo-Fi	0	4194304	Value	ValueOutput
+Ch.4: Hold	0	4194304	Value	ValueOutput
+Ch.4: Pitch	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.4: Velocity Mod 1	0	4194304	Value	ValueOutput
+Ch.4: Velocity Mod 2	0	4194304	Value	ValueOutput
+Ch.4: Velocity Mod 3	0	4194304	Value	ValueOutput
+Ch.4: Velocity Mod 4	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.5: Volume	0	4194304	Value	ValueOutput
+Ch.5: Panning	0	4194304	Value	ValueOutput
+Ch.5: Mute	0	4194304	Value	ValueOutput
+Ch.5: Solo	0	4194304	Value	ValueOutput
+Ch.5: Key	0	4194304	Value	ValueOutput
+Ch.5: Noise Retrig	0	4194304	Value	ValueOutput
+Ch.5: EG Retrig	0	4194304	Value	ValueOutput
+Ch.5: Mallet Amplitude	0	4194304	Value	ValueOutput
+Ch.5: Mallet Decay	0	4194304	Value	ValueOutput
+Ch.5: Mallet Noise	0	4194304	Value	ValueOutput
+Ch.5: Mallet Noise RP	0	4194304	Value	ValueOutput
+Ch.5: Membrane Decay	0	4194304	Value	ValueOutput
+Ch.5: Membrane Cutoff	0	4194304	Value	ValueOutput
+Ch.5: Membrane Tension	0	4194304	Value	ValueOutput
+Ch.5: Membrane Phase	0	4194304	Value	ValueOutput
+Ch.5: Membrane Material	0	4194304	Value	ValueOutput
+Ch.5: Membrane Size	0	4194304	Value	ValueOutput
+Ch.5: Membrane Shape	0	4194304	Value	ValueOutput
+Ch.5: LOW Freq	0	4194304	Value	ValueOutput
+Ch.5: LOW Res	0	4194304	Value	ValueOutput
+Ch.5: SOF Freq	0	4194304	Value	ValueOutput
+Ch.5: SOF Decay	0	4194304	Value	ValueOutput
+Ch.5: SOF Level	0	4194304	Value	ValueOutput
+Ch.5: MID Freq	0	4194304	Value	ValueOutput
+Ch.5: MID Level	0	4194304	Value	ValueOutput
+Ch.5: MID Res	0	4194304	Value	ValueOutput
+Ch.5: MID Freq Mod	0	4194304	Value	ValueOutput
+Ch.5: MID Level Mod	0	4194304	Value	ValueOutput
+Ch.5: MID Attack	0	4194304	Value	ValueOutput
+Ch.5: HIGH Freq	0	4194304	Value	ValueOutput
+Ch.5: HIGH Level	0	4194304	Value	ValueOutput
+Ch.5: HIGH Res	0	4194304	Value	ValueOutput
+Ch.5: Lo-Fi	0	4194304	Value	ValueOutput
+Ch.5: Hold	0	4194304	Value	ValueOutput
+Ch.5: Pitch	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.5: Velocity Mod 1	0	4194304	Value	ValueOutput
+Ch.5: Velocity Mod 2	0	4194304	Value	ValueOutput
+Ch.5: Velocity Mod 3	0	4194304	Value	ValueOutput
+Ch.5: Velocity Mod 4	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.6: Volume	0	4194304	Value	ValueOutput
+Ch.6: Panning	0	4194304	Value	ValueOutput
+Ch.6: Mute	0	4194304	Value	ValueOutput
+Ch.6: Solo	0	4194304	Value	ValueOutput
+Ch.6: Key	0	4194304	Value	ValueOutput
+Ch.6: Noise Retrig	0	4194304	Value	ValueOutput
+Ch.6: EG Retrig	0	4194304	Value	ValueOutput
+Ch.6: Mallet Amplitude	0	4194304	Value	ValueOutput
+Ch.6: Mallet Decay	0	4194304	Value	ValueOutput
+Ch.6: Mallet Noise	0	4194304	Value	ValueOutput
+Ch.6: Mallet Noise RP	0	4194304	Value	ValueOutput
+Ch.6: Membrane Decay	0	4194304	Value	ValueOutput
+Ch.6: Membrane Cutoff	0	4194304	Value	ValueOutput
+Ch.6: Membrane Tension	0	4194304	Value	ValueOutput
+Ch.6: Membrane Phase	0	4194304	Value	ValueOutput
+Ch.6: Membrane Material	0	4194304	Value	ValueOutput
+Ch.6: Membrane Size	0	4194304	Value	ValueOutput
+Ch.6: Membrane Shape	0	4194304	Value	ValueOutput
+Ch.6: LOW Freq	0	4194304	Value	ValueOutput
+Ch.6: LOW Res	0	4194304	Value	ValueOutput
+Ch.6: SOF Freq	0	4194304	Value	ValueOutput
+Ch.6: SOF Decay	0	4194304	Value	ValueOutput
+Ch.6: SOF Level	0	4194304	Value	ValueOutput
+Ch.6: MID Freq	0	4194304	Value	ValueOutput
+Ch.6: MID Level	0	4194304	Value	ValueOutput
+Ch.6: MID Res	0	4194304	Value	ValueOutput
+Ch.6: MID Freq Mod	0	4194304	Value	ValueOutput
+Ch.6: MID Level Mod	0	4194304	Value	ValueOutput
+Ch.6: MID Attack	0	4194304	Value	ValueOutput
+Ch.6: HIGH Freq	0	4194304	Value	ValueOutput
+Ch.6: HIGH Level	0	4194304	Value	ValueOutput
+Ch.6: HIGH Res	0	4194304	Value	ValueOutput
+Ch.6: Lo-Fi	0	4194304	Value	ValueOutput
+Ch.6: Hold	0	4194304	Value	ValueOutput
+Ch.6: Pitch	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.6: Velocity Mod 1	0	4194304	Value	ValueOutput
+Ch.6: Velocity Mod 2	0	4194304	Value	ValueOutput
+Ch.6: Velocity Mod 3	0	4194304	Value	ValueOutput
+Ch.6: Velocity Mod 4	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.7: Volume	0	4194304	Value	ValueOutput
+Ch.7: Panning	0	4194304	Value	ValueOutput
+Ch.7: Mute	0	4194304	Value	ValueOutput
+Ch.7: Solo	0	4194304	Value	ValueOutput
+Ch.7: Key	0	4194304	Value	ValueOutput
+Ch.7: Noise Retrig	0	4194304	Value	ValueOutput
+Ch.7: EG Retrig	0	4194304	Value	ValueOutput
+Ch.7: Mallet Amplitude	0	4194304	Value	ValueOutput
+Ch.7: Mallet Decay	0	4194304	Value	ValueOutput
+Ch.7: Mallet Noise	0	4194304	Value	ValueOutput
+Ch.7: Mallet Noise RP	0	4194304	Value	ValueOutput
+Ch.7: Membrane Decay	0	4194304	Value	ValueOutput
+Ch.7: Membrane Cutoff	0	4194304	Value	ValueOutput
+Ch.7: Membrane Tension	0	4194304	Value	ValueOutput
+Ch.7: Membrane Phase	0	4194304	Value	ValueOutput
+Ch.7: Membrane Material	0	4194304	Value	ValueOutput
+Ch.7: Membrane Size	0	4194304	Value	ValueOutput
+Ch.7: Membrane Shape	0	4194304	Value	ValueOutput
+Ch.7: LOW Freq	0	4194304	Value	ValueOutput
+Ch.7: LOW Res	0	4194304	Value	ValueOutput
+Ch.7: SOF Freq	0	4194304	Value	ValueOutput
+Ch.7: SOF Decay	0	4194304	Value	ValueOutput
+Ch.7: SOF Level	0	4194304	Value	ValueOutput
+Ch.7: MID Freq	0	4194304	Value	ValueOutput
+Ch.7: MID Level	0	4194304	Value	ValueOutput
+Ch.7: MID Res	0	4194304	Value	ValueOutput
+Ch.7: MID Freq Mod	0	4194304	Value	ValueOutput
+Ch.7: MID Level Mod	0	4194304	Value	ValueOutput
+Ch.7: MID Attack	0	4194304	Value	ValueOutput
+Ch.7: HIGH Freq	0	4194304	Value	ValueOutput
+Ch.7: HIGH Level	0	4194304	Value	ValueOutput
+Ch.7: HIGH Res	0	4194304	Value	ValueOutput
+Ch.7: Lo-Fi	0	4194304	Value	ValueOutput
+Ch.7: Hold	0	4194304	Value	ValueOutput
+Ch.7: Pitch	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.7: Velocity Mod 1	0	4194304	Value	ValueOutput
+Ch.7: Velocity Mod 2	0	4194304	Value	ValueOutput
+Ch.7: Velocity Mod 3	0	4194304	Value	ValueOutput
+Ch.7: Velocity Mod 4	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.8: Volume	0	4194304	Value	ValueOutput
+Ch.8: Panning	0	4194304	Value	ValueOutput
+Ch.8: Mute	0	4194304	Value	ValueOutput
+Ch.8: Solo	0	4194304	Value	ValueOutput
+Ch.8: Key	0	4194304	Value	ValueOutput
+Ch.8: Noise Retrig	0	4194304	Value	ValueOutput
+Ch.8: EG Retrig	0	4194304	Value	ValueOutput
+Ch.8: Mallet Amplitude	0	4194304	Value	ValueOutput
+Ch.8: Mallet Decay	0	4194304	Value	ValueOutput
+Ch.8: Mallet Noise	0	4194304	Value	ValueOutput
+Ch.8: Mallet Noise RP	0	4194304	Value	ValueOutput
+Ch.8: Membrane Decay	0	4194304	Value	ValueOutput
+Ch.8: Membrane Cutoff	0	4194304	Value	ValueOutput
+Ch.8: Membrane Tension	0	4194304	Value	ValueOutput
+Ch.8: Membrane Phase	0	4194304	Value	ValueOutput
+Ch.8: Membrane Material	0	4194304	Value	ValueOutput
+Ch.8: Membrane Size	0	4194304	Value	ValueOutput
+Ch.8: Membrane Shape	0	4194304	Value	ValueOutput
+Ch.8: LOW Freq	0	4194304	Value	ValueOutput
+Ch.8: LOW Res	0	4194304	Value	ValueOutput
+Ch.8: SOF Freq	0	4194304	Value	ValueOutput
+Ch.8: SOF Decay	0	4194304	Value	ValueOutput
+Ch.8: SOF Level	0	4194304	Value	ValueOutput
+Ch.8: MID Freq	0	4194304	Value	ValueOutput
+Ch.8: MID Level	0	4194304	Value	ValueOutput
+Ch.8: MID Res	0	4194304	Value	ValueOutput
+Ch.8: MID Freq Mod	0	4194304	Value	ValueOutput
+Ch.8: MID Level Mod	0	4194304	Value	ValueOutput
+Ch.8: MID Attack	0	4194304	Value	ValueOutput
+Ch.8: HIGH Freq	0	4194304	Value	ValueOutput
+Ch.8: HIGH Level	0	4194304	Value	ValueOutput
+Ch.8: HIGH Res	0	4194304	Value	ValueOutput
+Ch.8: Lo-Fi	0	4194304	Value	ValueOutput
+Ch.8: Hold	0	4194304	Value	ValueOutput
+Ch.8: Pitch	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.8: Velocity Mod 1	0	4194304	Value	ValueOutput
+Ch.8: Velocity Mod 2	0	4194304	Value	ValueOutput
+Ch.8: Velocity Mod 3	0	4194304	Value	ValueOutput
+Ch.8: Velocity Mod 4	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.9: Volume	0	4194304	Value	ValueOutput
+Ch.9: Panning	0	4194304	Value	ValueOutput
+Ch.9: Mute	0	4194304	Value	ValueOutput
+Ch.9: Solo	0	4194304	Value	ValueOutput
+Ch.9: Key	0	4194304	Value	ValueOutput
+Ch.9: Noise Retrig	0	4194304	Value	ValueOutput
+Ch.9: EG Retrig	0	4194304	Value	ValueOutput
+Ch.9: Mallet Amplitude	0	4194304	Value	ValueOutput
+Ch.9: Mallet Decay	0	4194304	Value	ValueOutput
+Ch.9: Mallet Noise	0	4194304	Value	ValueOutput
+Ch.9: Mallet Noise RP	0	4194304	Value	ValueOutput
+Ch.9: Membrane Decay	0	4194304	Value	ValueOutput
+Ch.9: Membrane Cutoff	0	4194304	Value	ValueOutput
+Ch.9: Membrane Tension	0	4194304	Value	ValueOutput
+Ch.9: Membrane Phase	0	4194304	Value	ValueOutput
+Ch.9: Membrane Material	0	4194304	Value	ValueOutput
+Ch.9: Membrane Size	0	4194304	Value	ValueOutput
+Ch.9: Membrane Shape	0	4194304	Value	ValueOutput
+Ch.9: LOW Freq	0	4194304	Value	ValueOutput
+Ch.9: LOW Res	0	4194304	Value	ValueOutput
+Ch.9: SOF Freq	0	4194304	Value	ValueOutput
+Ch.9: SOF Decay	0	4194304	Value	ValueOutput
+Ch.9: SOF Level	0	4194304	Value	ValueOutput
+Ch.9: MID Freq	0	4194304	Value	ValueOutput
+Ch.9: MID Level	0	4194304	Value	ValueOutput
+Ch.9: MID Res	0	4194304	Value	ValueOutput
+Ch.9: MID Freq Mod	0	4194304	Value	ValueOutput
+Ch.9: MID Level Mod	0	4194304	Value	ValueOutput
+Ch.9: MID Attack	0	4194304	Value	ValueOutput
+Ch.9: HIGH Freq	0	4194304	Value	ValueOutput
+Ch.9: HIGH Level	0	4194304	Value	ValueOutput
+Ch.9: HIGH Res	0	4194304	Value	ValueOutput
+Ch.9: Lo-Fi	0	4194304	Value	ValueOutput
+Ch.9: Hold	0	4194304	Value	ValueOutput
+Ch.9: Pitch	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.9: Velocity Mod 1	0	4194304	Value	ValueOutput
+Ch.9: Velocity Mod 2	0	4194304	Value	ValueOutput
+Ch.9: Velocity Mod 3	0	4194304	Value	ValueOutput
+Ch.9: Velocity Mod 4	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.10: Volume	0	4194304	Value	ValueOutput
+Ch.10: Panning	0	4194304	Value	ValueOutput
+Ch.10: Mute	0	4194304	Value	ValueOutput
+Ch.10: Solo	0	4194304	Value	ValueOutput
+Ch.10: Key	0	4194304	Value	ValueOutput
+Ch.10: Noise Retrig	0	4194304	Value	ValueOutput
+Ch.10: EG Retrig	0	4194304	Value	ValueOutput
+Ch.10: Mallet Amplitude	0	4194304	Value	ValueOutput
+Ch.10: Mallet Decay	0	4194304	Value	ValueOutput
+Ch.10: Mallet Noise	0	4194304	Value	ValueOutput
+Ch.10: Mallet Noise RP	0	4194304	Value	ValueOutput
+Ch.10: Membrane Decay	0	4194304	Value	ValueOutput
+Ch.10: Membrane Cutoff	0	4194304	Value	ValueOutput
+Ch.10: Membrane Tension	0	4194304	Value	ValueOutput
+Ch.10: Membrane Phase	0	4194304	Value	ValueOutput
+Ch.10: Membrane Material	0	4194304	Value	ValueOutput
+Ch.10: Membrane Size	0	4194304	Value	ValueOutput
+Ch.10: Membrane Shape	0	4194304	Value	ValueOutput
+Ch.10: LOW Freq	0	4194304	Value	ValueOutput
+Ch.10: LOW Res	0	4194304	Value	ValueOutput
+Ch.10: SOF Freq	0	4194304	Value	ValueOutput
+Ch.10: SOF Decay	0	4194304	Value	ValueOutput
+Ch.10: SOF Level	0	4194304	Value	ValueOutput
+Ch.10: MID Freq	0	4194304	Value	ValueOutput
+Ch.10: MID Level	0	4194304	Value	ValueOutput
+Ch.10: MID Res	0	4194304	Value	ValueOutput
+Ch.10: MID Freq Mod	0	4194304	Value	ValueOutput
+Ch.10: MID Level Mod	0	4194304	Value	ValueOutput
+Ch.10: MID Attack	0	4194304	Value	ValueOutput
+Ch.10: HIGH Freq	0	4194304	Value	ValueOutput
+Ch.10: HIGH Level	0	4194304	Value	ValueOutput
+Ch.10: HIGH Res	0	4194304	Value	ValueOutput
+Ch.10: Lo-Fi	0	4194304	Value	ValueOutput
+Ch.10: Hold	0	4194304	Value	ValueOutput
+Ch.10: Pitch	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.10: Velocity Mod 1	0	4194304	Value	ValueOutput
+Ch.10: Velocity Mod 2	0	4194304	Value	ValueOutput
+Ch.10: Velocity Mod 3	0	4194304	Value	ValueOutput
+Ch.10: Velocity Mod 4	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.11: Volume	0	4194304	Value	ValueOutput
+Ch.11: Panning	0	4194304	Value	ValueOutput
+Ch.11: Mute	0	4194304	Value	ValueOutput
+Ch.11: Solo	0	4194304	Value	ValueOutput
+Ch.11: Key	0	4194304	Value	ValueOutput
+Ch.11: Noise Retrig	0	4194304	Value	ValueOutput
+Ch.11: EG Retrig	0	4194304	Value	ValueOutput
+Ch.11: Mallet Amplitude	0	4194304	Value	ValueOutput
+Ch.11: Mallet Decay	0	4194304	Value	ValueOutput
+Ch.11: Mallet Noise	0	4194304	Value	ValueOutput
+Ch.11: Mallet Noise RP	0	4194304	Value	ValueOutput
+Ch.11: Membrane Decay	0	4194304	Value	ValueOutput
+Ch.11: Membrane Cutoff	0	4194304	Value	ValueOutput
+Ch.11: Membrane Tension	0	4194304	Value	ValueOutput
+Ch.11: Membrane Phase	0	4194304	Value	ValueOutput
+Ch.11: Membrane Material	0	4194304	Value	ValueOutput
+Ch.11: Membrane Size	0	4194304	Value	ValueOutput
+Ch.11: Membrane Shape	0	4194304	Value	ValueOutput
+Ch.11: LOW Freq	0	4194304	Value	ValueOutput
+Ch.11: LOW Res	0	4194304	Value	ValueOutput
+Ch.11: SOF Freq	0	4194304	Value	ValueOutput
+Ch.11: SOF Decay	0	4194304	Value	ValueOutput
+Ch.11: SOF Level	0	4194304	Value	ValueOutput
+Ch.11: MID Freq	0	4194304	Value	ValueOutput
+Ch.11: MID Level	0	4194304	Value	ValueOutput
+Ch.11: MID Res	0	4194304	Value	ValueOutput
+Ch.11: MID Freq Mod	0	4194304	Value	ValueOutput
+Ch.11: MID Level Mod	0	4194304	Value	ValueOutput
+Ch.11: MID Attack	0	4194304	Value	ValueOutput
+Ch.11: HIGH Freq	0	4194304	Value	ValueOutput
+Ch.11: HIGH Level	0	4194304	Value	ValueOutput
+Ch.11: HIGH Res	0	4194304	Value	ValueOutput
+Ch.11: Lo-Fi	0	4194304	Value	ValueOutput
+Ch.11: Hold	0	4194304	Value	ValueOutput
+Ch.11: Pitch	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.11: Velocity Mod 1	0	4194304	Value	ValueOutput
+Ch.11: Velocity Mod 2	0	4194304	Value	ValueOutput
+Ch.11: Velocity Mod 3	0	4194304	Value	ValueOutput
+Ch.11: Velocity Mod 4	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.12: Volume	0	4194304	Value	ValueOutput
+Ch.12: Panning	0	4194304	Value	ValueOutput
+Ch.12: Mute	0	4194304	Value	ValueOutput
+Ch.12: Solo	0	4194304	Value	ValueOutput
+Ch.12: Key	0	4194304	Value	ValueOutput
+Ch.12: Noise Retrig	0	4194304	Value	ValueOutput
+Ch.12: EG Retrig	0	4194304	Value	ValueOutput
+Ch.12: Mallet Amplitude	0	4194304	Value	ValueOutput
+Ch.12: Mallet Decay	0	4194304	Value	ValueOutput
+Ch.12: Mallet Noise	0	4194304	Value	ValueOutput
+Ch.12: Mallet Noise RP	0	4194304	Value	ValueOutput
+Ch.12: Membrane Decay	0	4194304	Value	ValueOutput
+Ch.12: Membrane Cutoff	0	4194304	Value	ValueOutput
+Ch.12: Membrane Tension	0	4194304	Value	ValueOutput
+Ch.12: Membrane Phase	0	4194304	Value	ValueOutput
+Ch.12: Membrane Material	0	4194304	Value	ValueOutput
+Ch.12: Membrane Size	0	4194304	Value	ValueOutput
+Ch.12: Membrane Shape	0	4194304	Value	ValueOutput
+Ch.12: LOW Freq	0	4194304	Value	ValueOutput
+Ch.12: LOW Res	0	4194304	Value	ValueOutput
+Ch.12: SOF Freq	0	4194304	Value	ValueOutput
+Ch.12: SOF Decay	0	4194304	Value	ValueOutput
+Ch.12: SOF Level	0	4194304	Value	ValueOutput
+Ch.12: MID Freq	0	4194304	Value	ValueOutput
+Ch.12: MID Level	0	4194304	Value	ValueOutput
+Ch.12: MID Res	0	4194304	Value	ValueOutput
+Ch.12: MID Freq Mod	0	4194304	Value	ValueOutput
+Ch.12: MID Level Mod	0	4194304	Value	ValueOutput
+Ch.12: MID Attack	0	4194304	Value	ValueOutput
+Ch.12: HIGH Freq	0	4194304	Value	ValueOutput
+Ch.12: HIGH Level	0	4194304	Value	ValueOutput
+Ch.12: HIGH Res	0	4194304	Value	ValueOutput
+Ch.12: Lo-Fi	0	4194304	Value	ValueOutput
+Ch.12: Hold	0	4194304	Value	ValueOutput
+Ch.12: Pitch	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.12: Velocity Mod 1	0	4194304	Value	ValueOutput
+Ch.12: Velocity Mod 2	0	4194304	Value	ValueOutput
+Ch.12: Velocity Mod 3	0	4194304	Value	ValueOutput
+Ch.12: Velocity Mod 4	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.13: Volume	0	4194304	Value	ValueOutput
+Ch.13: Panning	0	4194304	Value	ValueOutput
+Ch.13: Mute	0	4194304	Value	ValueOutput
+Ch.13: Solo	0	4194304	Value	ValueOutput
+Ch.13: Key	0	4194304	Value	ValueOutput
+Ch.13: Noise Retrig	0	4194304	Value	ValueOutput
+Ch.13: EG Retrig	0	4194304	Value	ValueOutput
+Ch.13: Mallet Amplitude	0	4194304	Value	ValueOutput
+Ch.13: Mallet Decay	0	4194304	Value	ValueOutput
+Ch.13: Mallet Noise	0	4194304	Value	ValueOutput
+Ch.13: Mallet Noise RP	0	4194304	Value	ValueOutput
+Ch.13: Membrane Decay	0	4194304	Value	ValueOutput
+Ch.13: Membrane Cutoff	0	4194304	Value	ValueOutput
+Ch.13: Membrane Tension	0	4194304	Value	ValueOutput
+Ch.13: Membrane Phase	0	4194304	Value	ValueOutput
+Ch.13: Membrane Material	0	4194304	Value	ValueOutput
+Ch.13: Membrane Size	0	4194304	Value	ValueOutput
+Ch.13: Membrane Shape	0	4194304	Value	ValueOutput
+Ch.13: LOW Freq	0	4194304	Value	ValueOutput
+Ch.13: LOW Res	0	4194304	Value	ValueOutput
+Ch.13: SOF Freq	0	4194304	Value	ValueOutput
+Ch.13: SOF Decay	0	4194304	Value	ValueOutput
+Ch.13: SOF Level	0	4194304	Value	ValueOutput
+Ch.13: MID Freq	0	4194304	Value	ValueOutput
+Ch.13: MID Level	0	4194304	Value	ValueOutput
+Ch.13: MID Res	0	4194304	Value	ValueOutput
+Ch.13: MID Freq Mod	0	4194304	Value	ValueOutput
+Ch.13: MID Level Mod	0	4194304	Value	ValueOutput
+Ch.13: MID Attack	0	4194304	Value	ValueOutput
+Ch.13: HIGH Freq	0	4194304	Value	ValueOutput
+Ch.13: HIGH Level	0	4194304	Value	ValueOutput
+Ch.13: HIGH Res	0	4194304	Value	ValueOutput
+Ch.13: Lo-Fi	0	4194304	Value	ValueOutput
+Ch.13: Hold	0	4194304	Value	ValueOutput
+Ch.13: Pitch	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.13: Velocity Mod 1	0	4194304	Value	ValueOutput
+Ch.13: Velocity Mod 2	0	4194304	Value	ValueOutput
+Ch.13: Velocity Mod 3	0	4194304	Value	ValueOutput
+Ch.13: Velocity Mod 4	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.14: Volume	0	4194304	Value	ValueOutput
+Ch.14: Panning	0	4194304	Value	ValueOutput
+Ch.14: Mute	0	4194304	Value	ValueOutput
+Ch.14: Solo	0	4194304	Value	ValueOutput
+Ch.14: Key	0	4194304	Value	ValueOutput
+Ch.14: Noise Retrig	0	4194304	Value	ValueOutput
+Ch.14: EG Retrig	0	4194304	Value	ValueOutput
+Ch.14: Mallet Amplitude	0	4194304	Value	ValueOutput
+Ch.14: Mallet Decay	0	4194304	Value	ValueOutput
+Ch.14: Mallet Noise	0	4194304	Value	ValueOutput
+Ch.14: Mallet Noise RP	0	4194304	Value	ValueOutput
+Ch.14: Membrane Decay	0	4194304	Value	ValueOutput
+Ch.14: Membrane Cutoff	0	4194304	Value	ValueOutput
+Ch.14: Membrane Tension	0	4194304	Value	ValueOutput
+Ch.14: Membrane Phase	0	4194304	Value	ValueOutput
+Ch.14: Membrane Material	0	4194304	Value	ValueOutput
+Ch.14: Membrane Size	0	4194304	Value	ValueOutput
+Ch.14: Membrane Shape	0	4194304	Value	ValueOutput
+Ch.14: LOW Freq	0	4194304	Value	ValueOutput
+Ch.14: LOW Res	0	4194304	Value	ValueOutput
+Ch.14: SOF Freq	0	4194304	Value	ValueOutput
+Ch.14: SOF Decay	0	4194304	Value	ValueOutput
+Ch.14: SOF Level	0	4194304	Value	ValueOutput
+Ch.14: MID Freq	0	4194304	Value	ValueOutput
+Ch.14: MID Level	0	4194304	Value	ValueOutput
+Ch.14: MID Res	0	4194304	Value	ValueOutput
+Ch.14: MID Freq Mod	0	4194304	Value	ValueOutput
+Ch.14: MID Level Mod	0	4194304	Value	ValueOutput
+Ch.14: MID Attack	0	4194304	Value	ValueOutput
+Ch.14: HIGH Freq	0	4194304	Value	ValueOutput
+Ch.14: HIGH Level	0	4194304	Value	ValueOutput
+Ch.14: HIGH Res	0	4194304	Value	ValueOutput
+Ch.14: Lo-Fi	0	4194304	Value	ValueOutput
+Ch.14: Hold	0	4194304	Value	ValueOutput
+Ch.14: Pitch	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.14: Velocity Mod 1	0	4194304	Value	ValueOutput
+Ch.14: Velocity Mod 2	0	4194304	Value	ValueOutput
+Ch.14: Velocity Mod 3	0	4194304	Value	ValueOutput
+Ch.14: Velocity Mod 4	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.15: Volume	0	4194304	Value	ValueOutput
+Ch.15: Panning	0	4194304	Value	ValueOutput
+Ch.15: Mute	0	4194304	Value	ValueOutput
+Ch.15: Solo	0	4194304	Value	ValueOutput
+Ch.15: Key	0	4194304	Value	ValueOutput
+Ch.15: Noise Retrig	0	4194304	Value	ValueOutput
+Ch.15: EG Retrig	0	4194304	Value	ValueOutput
+Ch.15: Mallet Amplitude	0	4194304	Value	ValueOutput
+Ch.15: Mallet Decay	0	4194304	Value	ValueOutput
+Ch.15: Mallet Noise	0	4194304	Value	ValueOutput
+Ch.15: Mallet Noise RP	0	4194304	Value	ValueOutput
+Ch.15: Membrane Decay	0	4194304	Value	ValueOutput
+Ch.15: Membrane Cutoff	0	4194304	Value	ValueOutput
+Ch.15: Membrane Tension	0	4194304	Value	ValueOutput
+Ch.15: Membrane Phase	0	4194304	Value	ValueOutput
+Ch.15: Membrane Material	0	4194304	Value	ValueOutput
+Ch.15: Membrane Size	0	4194304	Value	ValueOutput
+Ch.15: Membrane Shape	0	4194304	Value	ValueOutput
+Ch.15: LOW Freq	0	4194304	Value	ValueOutput
+Ch.15: LOW Res	0	4194304	Value	ValueOutput
+Ch.15: SOF Freq	0	4194304	Value	ValueOutput
+Ch.15: SOF Decay	0	4194304	Value	ValueOutput
+Ch.15: SOF Level	0	4194304	Value	ValueOutput
+Ch.15: MID Freq	0	4194304	Value	ValueOutput
+Ch.15: MID Level	0	4194304	Value	ValueOutput
+Ch.15: MID Res	0	4194304	Value	ValueOutput
+Ch.15: MID Freq Mod	0	4194304	Value	ValueOutput
+Ch.15: MID Level Mod	0	4194304	Value	ValueOutput
+Ch.15: MID Attack	0	4194304	Value	ValueOutput
+Ch.15: HIGH Freq	0	4194304	Value	ValueOutput
+Ch.15: HIGH Level	0	4194304	Value	ValueOutput
+Ch.15: HIGH Res	0	4194304	Value	ValueOutput
+Ch.15: Lo-Fi	0	4194304	Value	ValueOutput
+Ch.15: Hold	0	4194304	Value	ValueOutput
+Ch.15: Pitch	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Ch.15: Velocity Mod 1	0	4194304	Value	ValueOutput
+Ch.15: Velocity Mod 2	0	4194304	Value	ValueOutput
+Ch.15: Velocity Mod 3	0	4194304	Value	ValueOutput
+Ch.15: Velocity Mod 4	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+<reserved>	0	4194304	Value	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+EQ Enable	0	4194304	Value	ValueOutput
+EQ Band 1	0	4194304	Value	ValueOutput
+EQ Band 2	0	4194304	Value	ValueOutput
+EQ Band 3	0	4194304	Value	ValueOutput
+EQ Band 4	0	4194304	Value	ValueOutput
+EQ Band 5	0	4194304	Value	ValueOutput
+EQ Band 6	0	4194304	Value	ValueOutput
+EQ Band 7	0	4194304	Value	ValueOutput
+EQ Band 8	0	4194304	Value	ValueOutput
+Limiter Enable	0	4194304	Value	ValueOutput
+Limiter Gain	0	4194304	Value	ValueOutput
+Limiter Release	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

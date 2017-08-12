@@ -1,0 +1,52 @@
+Scope
+Manufacturer	Model
+A.O.M.	vst.gra5.Invisible_Limiter_G2 x64
+Note: Will match scope definitions for vst.gra5.Invisible_Limiter_G2 x64 or vst.gra5
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Ceiling	0	4194304	Value	ValueOutput
+Channel Link	0	4194304	Value	ValueOutput
+Attack Shape	0	4194304	Value	ValueOutput
+Attack Enabled	0	4194304	Value	ValueOutput
+Attack Time	0	4194304	Value	ValueOutput
+Release Enabled	0	4194304	Value	ValueOutput
+Release Time	0	4194304	Value	ValueOutput
+Unity Gain Monitor	0	4194304	Value	ValueOutput
+DC Removal	0	4194304	Value	ValueOutput
+Soft Knee	0	4194304	Value	ValueOutput
+DC Removal Frequency	0	4194304	Value	ValueOutput
+Output Meter Zoom	0	4194304	Value	ValueOutput
+Meter K-weighted	0	4194304	Value	ValueOutput
+Release Shape	0	4194304	Value	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Dither Auto Black	0	4194304	Value	ValueOutput
+Sigmoidal Attack	0	4194304	Value	ValueOutput
+Sigmoidal Release	0	4194304	Value	ValueOutput
+Detector HPF	0	4194304	Value	ValueOutput
+Detector HPF Frequency	0	4194304	Value	ValueOutput
+M/S Mode	0	4194304	Value	ValueOutput
+Bias	0	4194304	Value	ValueOutput
+Reduction Meter Zoom	0	4194304	Value	ValueOutput
+Gain Lock	0	4194304	Value	ValueOutput
+Ceiling Lock	0	4194304	Value	ValueOutput
+Wet Mix Lock	0	4194304	Value	ValueOutput
+Unity Gain Monitoring Lo	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput
