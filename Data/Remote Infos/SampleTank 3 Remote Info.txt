@@ -1,0 +1,184 @@
+Scope
+Manufacturer	Model
+IK Multimedia	vst.St30.SampleTank 3
+Note: Will match scope definitions for vst.St30.SampleTank 3 or vst.St30
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Part 1 Volume	0	4194304	Value	ValueOutput
+Part 1 Pan	0	4194304	Value	ValueOutput
+Part 1 Macro 1	0	4194304	Value	ValueOutput
+Part 1 Macro 2	0	4194304	Value	ValueOutput
+Part 1 Macro 3	0	4194304	Value	ValueOutput
+Part 1 Macro 4	0	4194304	Value	ValueOutput
+Part 1 Macro 5	0	4194304	Value	ValueOutput
+Part 1 Macro 6	0	4194304	Value	ValueOutput
+Part 1 Macro 7	0	4194304	Value	ValueOutput
+Part 1 Macro 8	0	4194304	Value	ValueOutput
+Part 2 Volume	0	4194304	Value	ValueOutput
+Part 2 Pan	0	4194304	Value	ValueOutput
+Part 2 Macro 1	0	4194304	Value	ValueOutput
+Part 2 Macro 2	0	4194304	Value	ValueOutput
+Part 2 Macro 3	0	4194304	Value	ValueOutput
+Part 2 Macro 4	0	4194304	Value	ValueOutput
+Part 2 Macro 5	0	4194304	Value	ValueOutput
+Part 2 Macro 6	0	4194304	Value	ValueOutput
+Part 2 Macro 7	0	4194304	Value	ValueOutput
+Part 2 Macro 8	0	4194304	Value	ValueOutput
+Part 3 Volume	0	4194304	Value	ValueOutput
+Part 3 Pan	0	4194304	Value	ValueOutput
+Part 3 Macro 1	0	4194304	Value	ValueOutput
+Part 3 Macro 2	0	4194304	Value	ValueOutput
+Part 3 Macro 3	0	4194304	Value	ValueOutput
+Part 3 Macro 4	0	4194304	Value	ValueOutput
+Part 3 Macro 5	0	4194304	Value	ValueOutput
+Part 3 Macro 6	0	4194304	Value	ValueOutput
+Part 3 Macro 7	0	4194304	Value	ValueOutput
+Part 3 Macro 8	0	4194304	Value	ValueOutput
+Part 4 Volume	0	4194304	Value	ValueOutput
+Part 4 Pan	0	4194304	Value	ValueOutput
+Part 4 Macro 1	0	4194304	Value	ValueOutput
+Part 4 Macro 2	0	4194304	Value	ValueOutput
+Part 4 Macro 3	0	4194304	Value	ValueOutput
+Part 4 Macro 4	0	4194304	Value	ValueOutput
+Part 4 Macro 5	0	4194304	Value	ValueOutput
+Part 4 Macro 6	0	4194304	Value	ValueOutput
+Part 4 Macro 7	0	4194304	Value	ValueOutput
+Part 4 Macro 8	0	4194304	Value	ValueOutput
+Part 5 Volume	0	4194304	Value	ValueOutput
+Part 5 Pan	0	4194304	Value	ValueOutput
+Part 5 Macro 1	0	4194304	Value	ValueOutput
+Part 5 Macro 2	0	4194304	Value	ValueOutput
+Part 5 Macro 3	0	4194304	Value	ValueOutput
+Part 5 Macro 4	0	4194304	Value	ValueOutput
+Part 5 Macro 5	0	4194304	Value	ValueOutput
+Part 5 Macro 6	0	4194304	Value	ValueOutput
+Part 5 Macro 7	0	4194304	Value	ValueOutput
+Part 5 Macro 8	0	4194304	Value	ValueOutput
+Part 6 Volume	0	4194304	Value	ValueOutput
+Part 6 Pan	0	4194304	Value	ValueOutput
+Part 6 Macro 1	0	4194304	Value	ValueOutput
+Part 6 Macro 2	0	4194304	Value	ValueOutput
+Part 6 Macro 3	0	4194304	Value	ValueOutput
+Part 6 Macro 4	0	4194304	Value	ValueOutput
+Part 6 Macro 5	0	4194304	Value	ValueOutput
+Part 6 Macro 6	0	4194304	Value	ValueOutput
+Part 6 Macro 7	0	4194304	Value	ValueOutput
+Part 6 Macro 8	0	4194304	Value	ValueOutput
+Part 7 Volume	0	4194304	Value	ValueOutput
+Part 7 Pan	0	4194304	Value	ValueOutput
+Part 7 Macro 1	0	4194304	Value	ValueOutput
+Part 7 Macro 2	0	4194304	Value	ValueOutput
+Part 7 Macro 3	0	4194304	Value	ValueOutput
+Part 7 Macro 4	0	4194304	Value	ValueOutput
+Part 7 Macro 5	0	4194304	Value	ValueOutput
+Part 7 Macro 6	0	4194304	Value	ValueOutput
+Part 7 Macro 7	0	4194304	Value	ValueOutput
+Part 7 Macro 8	0	4194304	Value	ValueOutput
+Part 8 Volume	0	4194304	Value	ValueOutput
+Part 8 Pan	0	4194304	Value	ValueOutput
+Part 8 Macro 1	0	4194304	Value	ValueOutput
+Part 8 Macro 2	0	4194304	Value	ValueOutput
+Part 8 Macro 3	0	4194304	Value	ValueOutput
+Part 8 Macro 4	0	4194304	Value	ValueOutput
+Part 8 Macro 5	0	4194304	Value	ValueOutput
+Part 8 Macro 6	0	4194304	Value	ValueOutput
+Part 8 Macro 7	0	4194304	Value	ValueOutput
+Part 8 Macro 8	0	4194304	Value	ValueOutput
+Part 9 Volume	0	4194304	Value	ValueOutput
+Part 9 Pan	0	4194304	Value	ValueOutput
+Part 9 Macro 1	0	4194304	Value	ValueOutput
+Part 9 Macro 2	0	4194304	Value	ValueOutput
+Part 9 Macro 3	0	4194304	Value	ValueOutput
+Part 9 Macro 4	0	4194304	Value	ValueOutput
+Part 9 Macro 5	0	4194304	Value	ValueOutput
+Part 9 Macro 6	0	4194304	Value	ValueOutput
+Part 9 Macro 7	0	4194304	Value	ValueOutput
+Part 9 Macro 8	0	4194304	Value	ValueOutput
+Part 10 Volume	0	4194304	Value	ValueOutput
+Part 10 Pan	0	4194304	Value	ValueOutput
+Part 10 Macro 1	0	4194304	Value	ValueOutput
+Part 10 Macro 2	0	4194304	Value	ValueOutput
+Part 10 Macro 3	0	4194304	Value	ValueOutput
+Part 10 Macro 4	0	4194304	Value	ValueOutput
+Part 10 Macro 5	0	4194304	Value	ValueOutput
+Part 10 Macro 6	0	4194304	Value	ValueOutput
+Part 10 Macro 7	0	4194304	Value	ValueOutput
+Part 10 Macro 8	0	4194304	Value	ValueOutput
+Part 11 Volume	0	4194304	Value	ValueOutput
+Part 11 Pan	0	4194304	Value	ValueOutput
+Part 11 Macro 1	0	4194304	Value	ValueOutput
+Part 11 Macro 2	0	4194304	Value	ValueOutput
+Part 11 Macro 3	0	4194304	Value	ValueOutput
+Part 11 Macro 4	0	4194304	Value	ValueOutput
+Part 11 Macro 5	0	4194304	Value	ValueOutput
+Part 11 Macro 6	0	4194304	Value	ValueOutput
+Part 11 Macro 7	0	4194304	Value	ValueOutput
+Part 11 Macro 8	0	4194304	Value	ValueOutput
+Part 12 Volume	0	4194304	Value	ValueOutput
+Part 12 Pan	0	4194304	Value	ValueOutput
+Part 12 Macro 1	0	4194304	Value	ValueOutput
+Part 12 Macro 2	0	4194304	Value	ValueOutput
+Part 12 Macro 3	0	4194304	Value	ValueOutput
+Part 12 Macro 4	0	4194304	Value	ValueOutput
+Part 12 Macro 5	0	4194304	Value	ValueOutput
+Part 12 Macro 6	0	4194304	Value	ValueOutput
+Part 12 Macro 7	0	4194304	Value	ValueOutput
+Part 12 Macro 8	0	4194304	Value	ValueOutput
+Part 13 Volume	0	4194304	Value	ValueOutput
+Part 13 Pan	0	4194304	Value	ValueOutput
+Part 13 Macro 1	0	4194304	Value	ValueOutput
+Part 13 Macro 2	0	4194304	Value	ValueOutput
+Part 13 Macro 3	0	4194304	Value	ValueOutput
+Part 13 Macro 4	0	4194304	Value	ValueOutput
+Part 13 Macro 5	0	4194304	Value	ValueOutput
+Part 13 Macro 6	0	4194304	Value	ValueOutput
+Part 13 Macro 7	0	4194304	Value	ValueOutput
+Part 13 Macro 8	0	4194304	Value	ValueOutput
+Part 14 Volume	0	4194304	Value	ValueOutput
+Part 14 Pan	0	4194304	Value	ValueOutput
+Part 14 Macro 1	0	4194304	Value	ValueOutput
+Part 14 Macro 2	0	4194304	Value	ValueOutput
+Part 14 Macro 3	0	4194304	Value	ValueOutput
+Part 14 Macro 4	0	4194304	Value	ValueOutput
+Part 14 Macro 5	0	4194304	Value	ValueOutput
+Part 14 Macro 6	0	4194304	Value	ValueOutput
+Part 14 Macro 7	0	4194304	Value	ValueOutput
+Part 14 Macro 8	0	4194304	Value	ValueOutput
+Part 15 Volume	0	4194304	Value	ValueOutput
+Part 15 Pan	0	4194304	Value	ValueOutput
+Part 15 Macro 1	0	4194304	Value	ValueOutput
+Part 15 Macro 2	0	4194304	Value	ValueOutput
+Part 15 Macro 3	0	4194304	Value	ValueOutput
+Part 15 Macro 4	0	4194304	Value	ValueOutput
+Part 15 Macro 5	0	4194304	Value	ValueOutput
+Part 15 Macro 6	0	4194304	Value	ValueOutput
+Part 15 Macro 7	0	4194304	Value	ValueOutput
+Part 15 Macro 8	0	4194304	Value	ValueOutput
+Part 16 Volume	0	4194304	Value	ValueOutput
+Part 16 Pan	0	4194304	Value	ValueOutput
+Part 16 Macro 1	0	4194304	Value	ValueOutput
+Part 16 Macro 2	0	4194304	Value	ValueOutput
+Part 16 Macro 3	0	4194304	Value	ValueOutput
+Part 16 Macro 4	0	4194304	Value	ValueOutput
+Part 16 Macro 5	0	4194304	Value	ValueOutput
+Part 16 Macro 6	0	4194304	Value	ValueOutput
+Part 16 Macro 7	0	4194304	Value	ValueOutput
+Part 16 Macro 8	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

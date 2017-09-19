@@ -1,0 +1,70 @@
+Scope
+Manufacturer	Model
+Stone Voices	vst.PGAS.PolyGAS64
+Note: Will match scope definitions for vst.PGAS.PolyGAS64 or vst.PGAS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+Grain Level	0	4194304	Value	ValueOutput
+Grain Random	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Pan Random	0	4194304	Value	ValueOutput
+Pitch Random	0	4194304	Value	ValueOutput
+Duration	0	4194304	Value	ValueOutput
+Duration Random	0	4194304	Value	ValueOutput
+Interonset	0	4194304	Value	ValueOutput
+Interonset Random	0	4194304	Value	ValueOutput
+Offset	0	4194304	Value	ValueOutput
+Offset Random	0	4194304	Value	ValueOutput
+Grain Shape	0	4194304	Value	ValueOutput
+Grain Shape Random	0	4194304	Value	ValueOutput
+Distortion	0	4194304	Value	ValueOutput
+Distortion Random	0	4194304	Value	ValueOutput
+Distortion Type	0	4194304	Value	ValueOutput
+Coarse Pitch	0	4194304	Value	ValueOutput
+Fine Pitch	0	4194304	Value	ValueOutput
+Filter	0	4194304	Value	ValueOutput
+Filter Cutoff	0	4194304	Value	ValueOutput
+Filter Resonance	0	4194304	Value	ValueOutput
+Filter Type	0	4194304	Value	ValueOutput
+Filter Link To Pitch	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Delay Tempo Sync	0	4194304	Value	ValueOutput
+Delay Time Left	0	4194304	Value	ValueOutput
+Delay Time Right	0	4194304	Value	ValueOutput
+Delay Wet Level	0	4194304	Value	ValueOutput
+Delay Crossfeed	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Filter LP Cutoff	0	4194304	Value	ValueOutput
+Delay Filter HP Cutoff	0	4194304	Value	ValueOutput
+Delay Mod Rate	0	4194304	Value	ValueOutput
+Delay Mod Depth	0	4194304	Value	ValueOutput
+Delay Mod Type	0	4194304	Value	ValueOutput
+Reverb	0	4194304	Value	ValueOutput
+Reverb Dry Level	0	4194304	Value	ValueOutput
+Reverb Wet Level	0	4194304	Value	ValueOutput
+Reverb Length	0	4194304	Value	ValueOutput
+Reverb Width	0	4194304	Value	ValueOutput
+Reverb Filter LP Cutoff	0	4194304	Value	ValueOutput
+Reverb Filter HP Cutoff	0	4194304	Value	ValueOutput
+Low	0	4194304	Value	ValueOutput
+High	0	4194304	Value	ValueOutput
+Wide	0	4194304	Value	ValueOutput
+Changed	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

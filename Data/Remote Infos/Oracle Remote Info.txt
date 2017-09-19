@@ -1,0 +1,64 @@
+Scope
+Manufacturer	Model
+Soundspot	vst.alfl.Oracle
+Note: Will match scope definitions for vst.alfl.Oracle or vst.alfl
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Side bar	0	4194304	Value	ValueOutput
+Volume left	0	4194304	Value	ValueOutput
+Volume right	0	4194304	Value	ValueOutput
+Reverb	0	4194304	Value	ValueOutput
+Imager	0	4194304	Value	ValueOutput
+Filter	0	4194304	Value	ValueOutput
+Flanger	0	4194304	Value	ValueOutput
+LFO	0	4194304	Value	ValueOutput
+Saturator	0	4194304	Value	ValueOutput
+Dynamics	0	4194304	Value	ValueOutput
+Pre delay	0	4194304	Value	ValueOutput
+Time	0	4194304	Value	ValueOutput
+Damp	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+S-Position	0	4194304	Value	ValueOutput
+M-Position	0	4194304	Value	ValueOutput
+Balance	0	4194304	Value	ValueOutput
+Link	0	4194304	Value	ValueOutput
+HPF frequency	0	4194304	Value	ValueOutput
+HPF slope	0	4194304	Value	ValueOutput
+LPF slope	0	4194304	Value	ValueOutput
+LPF frequency	0	4194304	Value	ValueOutput
+Effects menu	0	4194304	Value	ValueOutput
+Saturation drive	0	4194304	Value	ValueOutput
+Saturation attack	0	4194304	Value	ValueOutput
+Saturation release	0	4194304	Value	ValueOutput
+MakeUp	0	4194304	Value	ValueOutput
+LFO shape	0	4194304	Value	ValueOutput
+LFO time	0	4194304	Value	ValueOutput
+LFO range	0	4194304	Value	ValueOutput
+Flanger rate	0	4194304	Value	ValueOutput
+Flanger depth	0	4194304	Value	ValueOutput
+Flanger feedback	0	4194304	Value	ValueOutput
+Flanger mix	0	4194304	Value	ValueOutput
+Flanger mode	0	4194304	Value	ValueOutput
+Compressor threshold	0	4194304	Value	ValueOutput
+Compressor ratio	0	4194304	Value	ValueOutput
+Compressor Attack	0	4194304	Value	ValueOutput
+Compressor release	0	4194304	Value	ValueOutput
+Compressor make up	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

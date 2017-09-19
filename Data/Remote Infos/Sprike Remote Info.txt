@@ -1,0 +1,137 @@
+Scope
+Manufacturer	Model
+Cognitone	vst.Sprk.Sprike
+Note: Will match scope definitions for vst.Sprk.Sprike or vst.Sprk
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+GenBandw	0	4194304	Value	ValueOutput
+GenHarmn	0	4194304	Value	ValueOutput
+GenDamp	0	4194304	Value	ValueOutput
+GenMod	0	4194304	Value	ValueOutput
+GenVol	0	4194304	Value	ValueOutput
+GenPan	0	4194304	Value	ValueOutput
+GenSlop	0	4194304	Value	ValueOutput
+GenOct	0	4194304	Value	ValueOutput
+GenGlid	0	4194304	Value	ValueOutput
+GetDetn	0	4194304	Value	ValueOutput
+GenFreq	0	4194304	Value	ValueOutput
+GenPoly	0	4194304	Value	ValueOutput
+GenDriv	0	4194304	Value	ValueOutput
+GenUnis	0	4194304	Value	ValueOutput
+GenSprd	0	4194304	Value	ValueOutput
+GenScale	0	4194304	Value	ValueOutput
+NoiseOn	0	4194304	Value	ValueOutput
+NoiseFreq	0	4194304	Value	ValueOutput
+NoiseBw	0	4194304	Value	ValueOutput
+FltLPOn	0	4194304	Value	ValueOutput
+FltLPCut	0	4194304	Value	ValueOutput
+FltLPRes	0	4194304	Value	ValueOutput
+FltHPOn	0	4194304	Value	ValueOutput
+FltHPCut	0	4194304	Value	ValueOutput
+FltHPRes	0	4194304	Value	ValueOutput
+Env1Att	0	4194304	Value	ValueOutput
+Env1Dec	0	4194304	Value	ValueOutput
+Env1Sus	0	4194304	Value	ValueOutput
+Env1Rel	0	4194304	Value	ValueOutput
+Env1Slp	0	4194304	Value	ValueOutput
+Env2Att	0	4194304	Value	ValueOutput
+Env2Dec	0	4194304	Value	ValueOutput
+Env2Sus	0	4194304	Value	ValueOutput
+Env2Rel	0	4194304	Value	ValueOutput
+Env2Slp	0	4194304	Value	ValueOutput
+Lfo1Rate	0	4194304	Value	ValueOutput
+Lfo1Dep	0	4194304	Value	ValueOutput
+Lfo1Shp	0	4194304	Value	ValueOutput
+Lfo1Sync	0	4194304	Value	ValueOutput
+Lfo2Rate	0	4194304	Value	ValueOutput
+Lfo2Dep	0	4194304	Value	ValueOutput
+Lfo2Shp	0	4194304	Value	ValueOutput
+Lfo2Sync	0	4194304	Value	ValueOutput
+Mm1Source	0	4194304	Value	ValueOutput
+Mm1Mod	0	4194304	Value	ValueOutput
+Mm1Target	0	4194304	Value	ValueOutput
+Mm2Source	0	4194304	Value	ValueOutput
+Mm2Mod	0	4194304	Value	ValueOutput
+Mm2Target	0	4194304	Value	ValueOutput
+Mm3Source	0	4194304	Value	ValueOutput
+Mm3Mod	0	4194304	Value	ValueOutput
+Mm3Target	0	4194304	Value	ValueOutput
+Mm4Source	0	4194304	Value	ValueOutput
+Mm4Mod	0	4194304	Value	ValueOutput
+Mm4Target	0	4194304	Value	ValueOutput
+Mm5Source	0	4194304	Value	ValueOutput
+Mm5Mod	0	4194304	Value	ValueOutput
+Mm5Target	0	4194304	Value	ValueOutput
+Mm6Source	0	4194304	Value	ValueOutput
+Mm6Mod	0	4194304	Value	ValueOutput
+Mm6Target	0	4194304	Value	ValueOutput
+Mm7Source	0	4194304	Value	ValueOutput
+Mm7Mod	0	4194304	Value	ValueOutput
+Mm7Target	0	4194304	Value	ValueOutput
+Mm8Source	0	4194304	Value	ValueOutput
+Mm8Mod	0	4194304	Value	ValueOutput
+Mm8Target	0	4194304	Value	ValueOutput
+Mm9Source	0	4194304	Value	ValueOutput
+Mm9Mod	0	4194304	Value	ValueOutput
+Mm9Target	0	4194304	Value	ValueOutput
+Mm10Sourc	0	4194304	Value	ValueOutput
+Mm10Mod	0	4194304	Value	ValueOutput
+Mm10Targe	0	4194304	Value	ValueOutput
+Effect1	0	4194304	Value	ValueOutput
+Effect2	0	4194304	Value	ValueOutput
+Effect3	0	4194304	Value	ValueOutput
+Effect4	0	4194304	Value	ValueOutput
+Effect5	0	4194304	Value	ValueOutput
+Effect6	0	4194304	Value	ValueOutput
+Effect7	0	4194304	Value	ValueOutput
+Effect8	0	4194304	Value	ValueOutput
+Effect9	0	4194304	Value	ValueOutput
+Effect10	0	4194304	Value	ValueOutput
+DistAmnt	0	4194304	Value	ValueOutput
+ChrsRate	0	4194304	Value	ValueOutput
+ChrsDep	0	4194304	Value	ValueOutput
+DelayL	0	4194304	Value	ValueOutput
+DelayR	0	4194304	Value	ValueOutput
+DelayDc	0	4194304	Value	ValueOutput
+RevRoom	0	4194304	Value	ValueOutput
+RevDamp	0	4194304	Value	ValueOutput
+RevWet	0	4194304	Value	ValueOutput
+RevWidth	0	4194304	Value	ValueOutput
+FlangLfo	0	4194304	Value	ValueOutput
+FlangFreq	0	4194304	Value	ValueOutput
+FlangAmp	0	4194304	Value	ValueOutput
+FlangWet	0	4194304	Value	ValueOutput
+ChrsGain	0	4194304	Value	ValueOutput
+FrmtType	0	4194304	Value	ValueOutput
+FrmtWet	0	4194304	Value	ValueOutput
+EqLow	0	4194304	Value	ValueOutput
+EqMid	0	4194304	Value	ValueOutput
+EqHigh	0	4194304	Value	ValueOutput
+OscPWup	0	4194304	Value	ValueOutput
+OscPWdw	0	4194304	Value	ValueOutput
+FltBPOn	0	4194304	Value	ValueOutput
+FltBPCut	0	4194304	Value	ValueOutput
+FltBPQ	0	4194304	Value	ValueOutput
+FltNTOn	0	4194304	Value	ValueOutput
+FltNTCut	0	4194304	Value	ValueOutput
+FltNTQ	0	4194304	Value	ValueOutput
+DelayLGrid	0	4194304	Value	ValueOutput
+DelayRGrid	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

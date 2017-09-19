@@ -1,0 +1,254 @@
+Scope
+Manufacturer	Model
+Waldorf	vst.nave.Nave
+Note: Will match scope definitions for vst.nave.Nave or vst.nave
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Osc1Volu	0	4194304	Value	ValueOutput
+Osc1Pitc	0	4194304	Value	ValueOutput
+Osc1Detu	0	4194304	Value	ValueOutput
+WLDWaveP	0	4194304	Value	ValueOutput
+WLDWaveP	0	4194304	Value	ValueOutput
+WLDTrave	0	4194304	Value	ValueOutput
+WLDTrave	0	4194304	Value	ValueOutput
+WLDTrave	0	4194304	Value	ValueOutput
+WLDNoisy	0	4194304	Value	ValueOutput
+WLDSpect	0	4194304	Value	ValueOutput
+WLDKeytr	0	4194304	Value	ValueOutput
+WLDBrill	0	4194304	Value	ValueOutput
+Osc2Volu	0	4194304	Value	ValueOutput
+Osc2Pitc	0	4194304	Value	ValueOutput
+Osc2Detu	0	4194304	Value	ValueOutput
+WLDWaveP	0	4194304	Value	ValueOutput
+WLDWaveP	0	4194304	Value	ValueOutput
+WLDTrave	0	4194304	Value	ValueOutput
+WLDTrave	0	4194304	Value	ValueOutput
+WLDTrave	0	4194304	Value	ValueOutput
+WLDNoisy	0	4194304	Value	ValueOutput
+WLDSpect	0	4194304	Value	ValueOutput
+WLDKeytr	0	4194304	Value	ValueOutput
+WLDBrill	0	4194304	Value	ValueOutput
+Osc3Volu	0	4194304	Value	ValueOutput
+Osc3Pitc	0	4194304	Value	ValueOutput
+Osc3Detu	0	4194304	Value	ValueOutput
+Osc3Wave	0	4194304	Value	ValueOutput
+Osc3PW	0	4194304	Value	ValueOutput
+Osc3Uber	0	4194304	Value	ValueOutput
+Osc3Uber	0	4194304	Value	ValueOutput
+Osc3Uber	0	4194304	Value	ValueOutput
+OscRing1	0	4194304	Value	ValueOutput
+OscRing2	0	4194304	Value	ValueOutput
+VcfCutOf	0	4194304	Value	ValueOutput
+VcfReson	0	4194304	Value	ValueOutput
+VcfEnvel	0	4194304	Value	ValueOutput
+VcfType	0	4194304	Value	ValueOutput
+VcfDB	0	4194304	Value	ValueOutput
+VcfKeytr	0	4194304	Value	ValueOutput
+VcfVeloc	0	4194304	Value	ValueOutput
+Env2Atta	0	4194304	Value	ValueOutput
+Env2Deca	0	4194304	Value	ValueOutput
+Env2Sust	0	4194304	Value	ValueOutput
+Env2Rele	0	4194304	Value	ValueOutput
+Env2Loop	0	4194304	Value	ValueOutput
+Env2Sing	0	4194304	Value	ValueOutput
+Env2Atta	0	4194304	Value	ValueOutput
+Env2Deca	0	4194304	Value	ValueOutput
+Env2Rele	0	4194304	Value	ValueOutput
+Lfo1Freq	0	4194304	Value	ValueOutput
+Lfo1Wave	0	4194304	Value	ValueOutput
+Lfo1Dela	0	4194304	Value	ValueOutput
+Lfo1Phas	0	4194304	Value	ValueOutput
+Lfo1Sync	0	4194304	Value	ValueOutput
+Lfo1Sync	0	4194304	Value	ValueOutput
+Lfo2Freq	0	4194304	Value	ValueOutput
+Lfo2Wave	0	4194304	Value	ValueOutput
+Lfo2Dela	0	4194304	Value	ValueOutput
+Lfo2Phas	0	4194304	Value	ValueOutput
+Lfo2Sync	0	4194304	Value	ValueOutput
+Lfo2Sync	0	4194304	Value	ValueOutput
+Env3Atta	0	4194304	Value	ValueOutput
+Env3Deca	0	4194304	Value	ValueOutput
+Env3Sust	0	4194304	Value	ValueOutput
+Env3Rele	0	4194304	Value	ValueOutput
+Env3Loop	0	4194304	Value	ValueOutput
+Env3Sing	0	4194304	Value	ValueOutput
+Env1Atta	0	4194304	Value	ValueOutput
+Env1Deca	0	4194304	Value	ValueOutput
+Env1Sust	0	4194304	Value	ValueOutput
+Env1Rele	0	4194304	Value	ValueOutput
+Env1Loop	0	4194304	Value	ValueOutput
+Env1Sing	0	4194304	Value	ValueOutput
+Env1Atta	0	4194304	Value	ValueOutput
+Env1Deca	0	4194304	Value	ValueOutput
+Env1Rele	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+GlideOnO	0	4194304	Value	ValueOutput
+Unisono	0	4194304	Value	ValueOutput
+UnisonoS	0	4194304	Value	ValueOutput
+PitchBen	0	4194304	Value	ValueOutput
+? -> Pit	0	4194304	Value	ValueOutput
+? -> W1 	0	4194304	Value	ValueOutput
+? -> W1 	0	4194304	Value	ValueOutput
+? -> W2 	0	4194304	Value	ValueOutput
+? -> W2 	0	4194304	Value	ValueOutput
+? -> Pul	0	4194304	Value	ValueOutput
+? -> Cut	0	4194304	Value	ValueOutput
+MatSrc U	0	4194304	Value	ValueOutput
+MatSrc U	0	4194304	Value	ValueOutput
+MatSrc U	0	4194304	Value	ValueOutput
+MatSrc U	0	4194304	Value	ValueOutput
+MatSrc U	0	4194304	Value	ValueOutput
+MatSrc U	0	4194304	Value	ValueOutput
+MatSrc U	0	4194304	Value	ValueOutput
+MatSrc U	0	4194304	Value	ValueOutput
+MatSrc U	0	4194304	Value	ValueOutput
+MatSrc U	0	4194304	Value	ValueOutput
+X-Pad ->	0	4194304	Value	ValueOutput
+Y-Pad ->	0	4194304	Value	ValueOutput
+Wheel ->	0	4194304	Value	ValueOutput
+X-LeftPa	0	4194304	Value	ValueOutput
+Y-LeftPa	0	4194304	Value	ValueOutput
+X-RightP	0	4194304	Value	ValueOutput
+Y-RightP	0	4194304	Value	ValueOutput
+X-Touch 	0	4194304	Value	ValueOutput
+Aftertou	0	4194304	Value	ValueOutput
+MatDst U	0	4194304	Value	ValueOutput
+MatDst U	0	4194304	Value	ValueOutput
+MatDst U	0	4194304	Value	ValueOutput
+MatDst U	0	4194304	Value	ValueOutput
+MatDst U	0	4194304	Value	ValueOutput
+MatDst U	0	4194304	Value	ValueOutput
+MatDst U	0	4194304	Value	ValueOutput
+MatDst U	0	4194304	Value	ValueOutput
+MatDst U	0	4194304	Value	ValueOutput
+MatDst U	0	4194304	Value	ValueOutput
+? -> Pit	0	4194304	Value	ValueOutput
+? -> W1 	0	4194304	Value	ValueOutput
+? -> W1 	0	4194304	Value	ValueOutput
+? -> W2 	0	4194304	Value	ValueOutput
+? -> W2 	0	4194304	Value	ValueOutput
+? -> Pul	0	4194304	Value	ValueOutput
+? -> Cut	0	4194304	Value	ValueOutput
+X-Pad ->	0	4194304	Value	ValueOutput
+Y-Pad ->	0	4194304	Value	ValueOutput
+Wheel ->	0	4194304	Value	ValueOutput
+X-LeftPa	0	4194304	Value	ValueOutput
+Y-LeftPa	0	4194304	Value	ValueOutput
+X-RightP	0	4194304	Value	ValueOutput
+Y-RightP	0	4194304	Value	ValueOutput
+X-Touch 	0	4194304	Value	ValueOutput
+Aftertou	0	4194304	Value	ValueOutput
+MatAmoun	0	4194304	Value	ValueOutput
+MatAmoun	0	4194304	Value	ValueOutput
+MatAmoun	0	4194304	Value	ValueOutput
+MatAmoun	0	4194304	Value	ValueOutput
+MatAmoun	0	4194304	Value	ValueOutput
+MatAmoun	0	4194304	Value	ValueOutput
+MatAmoun	0	4194304	Value	ValueOutput
+MatAmoun	0	4194304	Value	ValueOutput
+MatAmoun	0	4194304	Value	ValueOutput
+MatAmoun	0	4194304	Value	ValueOutput
+? -> Pit	0	4194304	Value	ValueOutput
+? -> W1 	0	4194304	Value	ValueOutput
+? -> W1 	0	4194304	Value	ValueOutput
+? -> W2 	0	4194304	Value	ValueOutput
+? -> W2 	0	4194304	Value	ValueOutput
+? -> Pul	0	4194304	Value	ValueOutput
+? -> Cut	0	4194304	Value	ValueOutput
+MatOnOff	0	4194304	Value	ValueOutput
+MatOnOff	0	4194304	Value	ValueOutput
+MatOnOff	0	4194304	Value	ValueOutput
+MatOnOff	0	4194304	Value	ValueOutput
+MatOnOff	0	4194304	Value	ValueOutput
+MatOnOff	0	4194304	Value	ValueOutput
+MatOnOff	0	4194304	Value	ValueOutput
+MatOnOff	0	4194304	Value	ValueOutput
+MatOnOff	0	4194304	Value	ValueOutput
+MatOnOff	0	4194304	Value	ValueOutput
+MonoPoly	0	4194304	Value	ValueOutput
+XPad	0	4194304	Value	ValueOutput
+YPad	0	4194304	Value	ValueOutput
+XKeyPad1	0	4194304	Value	ValueOutput
+YKeyPad1	0	4194304	Value	ValueOutput
+XKeyPad2	0	4194304	Value	ValueOutput
+YKeyPad2	0	4194304	Value	ValueOutput
+MasterVo	0	4194304	Value	ValueOutput
+MasterGa	0	4194304	Value	ValueOutput
+DelayLef	0	4194304	Value	ValueOutput
+DelayRig	0	4194304	Value	ValueOutput
+DelayFee	0	4194304	Value	ValueOutput
+DelayXFe	0	4194304	Value	ValueOutput
+DelayHiC	0	4194304	Value	ValueOutput
+DelayMix	0	4194304	Value	ValueOutput
+DelaySyn	0	4194304	Value	ValueOutput
+DelayLef	0	4194304	Value	ValueOutput
+DelayRig	0	4194304	Value	ValueOutput
+DelayDec	0	4194304	Value	ValueOutput
+DelayOnO	0	4194304	Value	ValueOutput
+DriveMod	0	4194304	Value	ValueOutput
+DriveAmo	0	4194304	Value	ValueOutput
+DrivePos	0	4194304	Value	ValueOutput
+LowFreq	0	4194304	Value	ValueOutput
+LowGain	0	4194304	Value	ValueOutput
+HighFreq	0	4194304	Value	ValueOutput
+HighGain	0	4194304	Value	ValueOutput
+MidFreq	0	4194304	Value	ValueOutput
+MidGain	0	4194304	Value	ValueOutput
+MidQ	0	4194304	Value	ValueOutput
+EQOnOff	0	4194304	Value	ValueOutput
+ReverbTi	0	4194304	Value	ValueOutput
+ReverbCo	0	4194304	Value	ValueOutput
+ReverbPr	0	4194304	Value	ValueOutput
+ReverbGa	0	4194304	Value	ValueOutput
+ReverbOn	0	4194304	Value	ValueOutput
+PFCMode	0	4194304	Value	ValueOutput
+PFCOnOff	0	4194304	Value	ValueOutput
+ChorusSp	0	4194304	Value	ValueOutput
+ChorusDe	0	4194304	Value	ValueOutput
+ChorusDr	0	4194304	Value	ValueOutput
+FlangerS	0	4194304	Value	ValueOutput
+FlangerD	0	4194304	Value	ValueOutput
+FlangerC	0	4194304	Value	ValueOutput
+FlangerF	0	4194304	Value	ValueOutput
+FlangerD	0	4194304	Value	ValueOutput
+FlangerP	0	4194304	Value	ValueOutput
+PhaserSp	0	4194304	Value	ValueOutput
+PhaserDe	0	4194304	Value	ValueOutput
+PhaserFe	0	4194304	Value	ValueOutput
+PhaserQ	0	4194304	Value	ValueOutput
+PhaserDr	0	4194304	Value	ValueOutput
+PhaserPh	0	4194304	Value	ValueOutput
+ComOnOff	0	4194304	Value	ValueOutput
+ComThres	0	4194304	Value	ValueOutput
+ComRatio	0	4194304	Value	ValueOutput
+MasterTu	0	4194304	Value	ValueOutput
+Transpos	0	4194304	Value	ValueOutput
+ArpOn	0	4194304	Value	ValueOutput
+ArpAlgo	0	4194304	Value	ValueOutput
+ArpBpm	0	4194304	Value	ValueOutput
+ArpBeat	0	4194304	Value	ValueOutput
+ArpOct	0	4194304	Value	ValueOutput
+ArpRelLe	0	4194304	Value	ValueOutput
+ArpSwing	0	4194304	Value	ValueOutput
+ArpPatte	0	4194304	Value	ValueOutput
+ArpSortO	0	4194304	Value	ValueOutput
+ArpVeloM	0	4194304	Value	ValueOutput
+ArpShotM	0	4194304	Value	ValueOutput
+ArpReset	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

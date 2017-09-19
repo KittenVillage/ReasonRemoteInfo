@@ -1,0 +1,132 @@
+Scope
+Manufacturer	Model
+Waldorf	vst.3EVo.Lector
+Note: Will match scope definitions for vst.3EVo.Lector or vst.3EVo
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Vocoder Source	0	4194304	Value	ValueOutput
+Swap Signals	0	4194304	Value	ValueOutput
+Synth Trigger	0	4194304	Value	ValueOutput
+Unvoiced Detector Sensit	0	4194304	Value	ValueOutput
+Unvoiced Detector Active	0	4194304	Value	ValueOutput
+Analysis Low Frequency	0	4194304	Value	ValueOutput
+Analysis High Frequency	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Number of Vocoder Bands	0	4194304	Value	ValueOutput
+Vocoder Low Offset	0	4194304	Value	ValueOutput
+Vocoder High Offset	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Bandwidth	0	4194304	Value	ValueOutput
+EQ Active	0	4194304	Value	ValueOutput
+EQ Lo Level	0	4194304	Value	ValueOutput
+EQ Mid Band	0	4194304	Value	ValueOutput
+EQ Mid Level	0	4194304	Value	ValueOutput
+EQ High Level	0	4194304	Value	ValueOutput
+LFO Active	0	4194304	Value	ValueOutput
+Low Offset Mod	0	4194304	Value	ValueOutput
+High Offset Mod	0	4194304	Value	ValueOutput
+LFO Speed	0	4194304	Value	ValueOutput
+LFO Shape	0	4194304	Value	ValueOutput
+LFO Sync	0	4194304	Value	ValueOutput
+Analysis Level	0	4194304	Value	ValueOutput
+Vocoder Level	0	4194304	Value	ValueOutput
+Synthesizer Level	0	4194304	Value	ValueOutput
+Chorus Active	0	4194304	Value	ValueOutput
+Chorus Stages	0	4194304	Value	ValueOutput
+Chorus Speed	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Glide Active	0	4194304	Value	ValueOutput
+Glide Rate	0	4194304	Value	ValueOutput
+LFO Speed	0	4194304	Value	ValueOutput
+LFO Shape	0	4194304	Value	ValueOutput
+LFO Sync	0	4194304	Value	ValueOutput
+Osc 1 Shape	0	4194304	Value	ValueOutput
+Osc 1 Semitone	0	4194304	Value	ValueOutput
+Osc 1 FM/PW	0	4194304	Value	ValueOutput
+Osc 1 FM Env/PW Mod	0	4194304	Value	ValueOutput
+Osc 1 Pitch Mod	0	4194304	Value	ValueOutput
+Osc 2 Shape	0	4194304	Value	ValueOutput
+Osc 2 Semitone	0	4194304	Value	ValueOutput
+Osc 2 Detune	0	4194304	Value	ValueOutput
+Osc 2 PWM	0	4194304	Value	ValueOutput
+Osc 2 Pitch Mod	0	4194304	Value	ValueOutput
+Osc 1 Level	0	4194304	Value	ValueOutput
+Ring Modulation	0	4194304	Value	ValueOutput
+Osc 2 Level	0	4194304	Value	ValueOutput
+Filter Type	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Filter Keytrack	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Filter Envelope Mod	0	4194304	Value	ValueOutput
+Filter Velocity Mod	0	4194304	Value	ValueOutput
+Filter LFO Mod	0	4194304	Value	ValueOutput
+Amp Attack	0	4194304	Value	ValueOutput
+Amp Release	0	4194304	Value	ValueOutput
+Amp Velocity	0	4194304	Value	ValueOutput
+Env 1 Attack	0	4194304	Value	ValueOutput
+Env 1 Decay	0	4194304	Value	ValueOutput
+Osc 1 Sample	0	4194304	Value	ValueOutput
+Osc 1 Sample Active	0	4194304	Value	ValueOutput
+Osc 2 Sample	0	4194304	Value	ValueOutput
+Osc 2 Sample Active	0	4194304	Value	ValueOutput
+Glide Type	0	4194304	Value	ValueOutput
+Glide Mode	0	4194304	Value	ValueOutput
+Unvoiced Detector Signal	0	4194304	Value	ValueOutput
+Unvoiced Detector Gain	0	4194304	Value	ValueOutput
+Speech Compression Activ	0	4194304	Value	ValueOutput
+Speech Compression Gain	0	4194304	Value	ValueOutput
+Speech Compression Ratio	0	4194304	Value	ValueOutput
+Carrier Compression Acti	0	4194304	Value	ValueOutput
+Carrier Compression Gain	0	4194304	Value	ValueOutput
+Carrier Compression Rati	0	4194304	Value	ValueOutput
+Filter Active	0	4194304	Value	ValueOutput
+Filter Slope	0	4194304	Value	ValueOutput
+Filter Drive Type	0	4194304	Value	ValueOutput
+LFO Sync	0	4194304	Value	ValueOutput
+LFO Sync	0	4194304	Value	ValueOutput
+Overdrive Active	0	4194304	Value	ValueOutput
+Overdrive Type	0	4194304	Value	ValueOutput
+Overdrive Drive	0	4194304	Value	ValueOutput
+Overdrive Post Gain	0	4194304	Value	ValueOutput
+Overdrive Tone	0	4194304	Value	ValueOutput
+Chorus Feedback	0	4194304	Value	ValueOutput
+Delay Active	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Spread	0	4194304	Value	ValueOutput
+Delay Mod Speed	0	4194304	Value	ValueOutput
+Delay Mod Depth	0	4194304	Value	ValueOutput
+Delay Low Cut	0	4194304	Value	ValueOutput
+Delay High Cut	0	4194304	Value	ValueOutput
+Delay Sync	0	4194304	Value	ValueOutput
+Delay Clock	0	4194304	Value	ValueOutput
+Reverb Active	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Diffusion	0	4194304	Value	ValueOutput
+Reverb Low Cut	0	4194304	Value	ValueOutput
+Reverb High Cut	0	4194304	Value	ValueOutput
+Reverb Low Damp	0	4194304	Value	ValueOutput
+Reverb High Damp	0	4194304	Value	ValueOutput
+Side Chain ID	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

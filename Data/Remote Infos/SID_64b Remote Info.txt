@@ -1,0 +1,63 @@
+Scope
+Manufacturer	Model
+SocaLabs	vst.Sidd.SID_64b
+Note: Will match scope definitions for vst.Sidd.SID_64b or vst.Sidd
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Pulse 1 Wave	0	4194304	Value	ValueOutput
+Pulse 1 Pulse Width	0	4194304	Value	ValueOutput
+Pulse 1 A	0	4194304	Value	ValueOutput
+Pulse 1 D	0	4194304	Value	ValueOutput
+Pulse 1 S	0	4194304	Value	ValueOutput
+Pulse 1 R	0	4194304	Value	ValueOutput
+Pulse 1 Tune	0	4194304	Value	ValueOutput
+Pulse 1 Fine	0	4194304	Value	ValueOutput
+Pulse 1 Sync	0	4194304	Value	ValueOutput
+Pulse 1 Ring	0	4194304	Value	ValueOutput
+Pulse 2 Wave	0	4194304	Value	ValueOutput
+Pulse 2 Pulse Width	0	4194304	Value	ValueOutput
+Pulse 2 A	0	4194304	Value	ValueOutput
+Pulse 2 D	0	4194304	Value	ValueOutput
+Pulse 2 S	0	4194304	Value	ValueOutput
+Pulse 2 R	0	4194304	Value	ValueOutput
+Pulse 2 Tune	0	4194304	Value	ValueOutput
+Pulse 2 Fine	0	4194304	Value	ValueOutput
+Pulse 2 Sync	0	4194304	Value	ValueOutput
+Pulse 2 Ring	0	4194304	Value	ValueOutput
+Pulse 3 Wave	0	4194304	Value	ValueOutput
+Pulse 3 Pulse Width	0	4194304	Value	ValueOutput
+Pulse 3 A	0	4194304	Value	ValueOutput
+Pulse 3 D	0	4194304	Value	ValueOutput
+Pulse 3 S	0	4194304	Value	ValueOutput
+Pulse 3 R	0	4194304	Value	ValueOutput
+Pulse 3 Tune	0	4194304	Value	ValueOutput
+Pulse 3 Fine	0	4194304	Value	ValueOutput
+Pulse 3 Sync	0	4194304	Value	ValueOutput
+Pulse 3 Ring	0	4194304	Value	ValueOutput
+Filter Ch 1	0	4194304	Value	ValueOutput
+Filter Ch 2	0	4194304	Value	ValueOutput
+Filter Ch 3	0	4194304	Value	ValueOutput
+Low Pass	0	4194304	Value	ValueOutput
+Band Pass	0	4194304	Value	ValueOutput
+High Pass	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Resonance	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Output 3	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

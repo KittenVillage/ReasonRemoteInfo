@@ -1,0 +1,116 @@
+Scope
+Manufacturer	Model
+AIR Music Technology	vst.tvlV.Velvet_x64
+Note: Will match scope definitions for vst.tvlV.Velvet_x64 or vst.tvlV
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Tremolo Mode	0	4194304	Value	ValueOutput
+Tremolo Rate	0	4194304	Value	ValueOutput
+Tremolo Depth	0	4194304	Value	ValueOutput
+Pickup Level	0	4194304	Value	ValueOutput
+Mechanics Mode	0	4194304	Value	ValueOutput
+Mechanics FX	0	4194304	Value	ValueOutput
+Mechanics Level	0	4194304	Value	ValueOutput
+Key Off Mode	0	4194304	Value	ValueOutput
+Key Off Level	0	4194304	Value	ValueOutput
+Pedal Noise	0	4194304	Value	ValueOutput
+unused0	0	4194304	Value	ValueOutput
+Condition	0	4194304	Value	ValueOutput
+Fine Tune	0	4194304	Value	ValueOutput
+Velocity Min	0	4194304	Value	ValueOutput
+Velocity Low Mid	0	4194304	Value	ValueOutput
+Velocity High Mid	0	4194304	Value	ValueOutput
+Velocity Max	0	4194304	Value	ValueOutput
+Velocity To Level	0	4194304	Value	ValueOutput
+Velocity To Timbre	0	4194304	Value	ValueOutput
+Timbre	0	4194304	Value	ValueOutput
+Compression	0	4194304	Value	ValueOutput
+Tube Drive	0	4194304	Value	ValueOutput
+EQ	0	4194304	Value	ValueOutput
+EQ Level	0	4194304	Value	ValueOutput
+EQ Bass	0	4194304	Value	ValueOutput
+EQ Mid Freq	0	4194304	Value	ValueOutput
+EQ Mid Gain	0	4194304	Value	ValueOutput
+EQ Mid Q	0	4194304	Value	ValueOutput
+EQ Treble	0	4194304	Value	ValueOutput
+Distortion	0	4194304	Value	ValueOutput
+Distortion Mode	0	4194304	Value	ValueOutput
+Distortion Depth	0	4194304	Value	ValueOutput
+Distortion Freq	0	4194304	Value	ValueOutput
+Distortion Mix	0	4194304	Value	ValueOutput
+Wah Before Fuzz	0	4194304	Value	ValueOutput
+Wah	0	4194304	Value	ValueOutput
+Wah Model	0	4194304	Value	ValueOutput
+Wah Mode	0	4194304	Value	ValueOutput
+Wah Pedal	0	4194304	Value	ValueOutput
+Wah Rate	0	4194304	Value	ValueOutput
+Wah Depth	0	4194304	Value	ValueOutput
+Mod	0	4194304	Value	ValueOutput
+Mod Mode	0	4194304	Value	ValueOutput
+Mod Rate	0	4194304	Value	ValueOutput
+Mod Depth	0	4194304	Value	ValueOutput
+Mod Feedback	0	4194304	Value	ValueOutput
+Mod Mix	0	4194304	Value	ValueOutput
+Cab	0	4194304	Value	ValueOutput
+Cab Mode	0	4194304	Value	ValueOutput
+Cab Bass	0	4194304	Value	ValueOutput
+Cab Mid	0	4194304	Value	ValueOutput
+Cab Treble	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Delay Mode	0	4194304	Value	ValueOutput
+Delay Grid	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Tone	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+FX	0	4194304	Value	ValueOutput
+Tremolo	0	4194304	Value	ValueOutput
+Tremolo Before FX	0	4194304	Value	ValueOutput
+Vintage Timbre	0	4194304	Value	ValueOutput
+Compressor post FX	0	4194304	Value	ValueOutput
+Phaser Stereo	0	4194304	Value	ValueOutput
+Fuzz Drive	0	4194304	Value	ValueOutput
+Fuzz Tone	0	4194304	Value	ValueOutput
+Fuzz Mix	0	4194304	Value	ValueOutput
+Ring Freq	0	4194304	Value	ValueOutput
+Ring Depth	0	4194304	Value	ValueOutput
+Ring Mix	0	4194304	Value	ValueOutput
+Crush Freq	0	4194304	Value	ValueOutput
+Crush Depth	0	4194304	Value	ValueOutput
+Crush Mix	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Feedback	0	4194304	Value	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Flanger Rate	0	4194304	Value	ValueOutput
+Flanger Depth	0	4194304	Value	ValueOutput
+Flanger Feedback	0	4194304	Value	ValueOutput
+Flanger Mix	0	4194304	Value	ValueOutput
+Phaser Rate	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Phaser Feedback	0	4194304	Value	ValueOutput
+Phaser Mix	0	4194304	Value	ValueOutput
+Reverb	0	4194304	Value	ValueOutput
+Reverb Mode	0	4194304	Value	ValueOutput
+Reverb Pre-Delay	0	4194304	Value	ValueOutput
+Reverb Time	0	4194304	Value	ValueOutput
+Cab Mix	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

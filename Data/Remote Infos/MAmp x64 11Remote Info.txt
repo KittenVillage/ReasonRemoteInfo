@@ -1,0 +1,72 @@
+Scope
+Manufacturer	Model
+MeldaProduction	vst.MAmp.MAmp x64
+Note: Will match scope definitions for vst.MAmp.MAmp x64 or vst.MAmp
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Param 1	0	4194304	Value	ValueOutput
+Param 2	0	4194304	Value	ValueOutput
+Param 3	0	4194304	Value	ValueOutput
+Param 4	0	4194304	Value	ValueOutput
+Param 5	0	4194304	Value	ValueOutput
+Param 6	0	4194304	Value	ValueOutput
+Param 7	0	4194304	Value	ValueOutput
+Param 8	0	4194304	Value	ValueOutput
+Param 9	0	4194304	Value	ValueOutput
+Param 10	0	4194304	Value	ValueOutput
+Param 11	0	4194304	Value	ValueOutput
+Param 12	0	4194304	Value	ValueOutput
+Param 13	0	4194304	Value	ValueOutput
+Param 14	0	4194304	Value	ValueOutput
+Param 15	0	4194304	Value	ValueOutput
+Param 16	0	4194304	Value	ValueOutput
+Param 17	0	4194304	Value	ValueOutput
+Param 18	0	4194304	Value	ValueOutput
+Param 19	0	4194304	Value	ValueOutput
+Param 20	0	4194304	Value	ValueOutput
+Param 21	0	4194304	Value	ValueOutput
+Param 22	0	4194304	Value	ValueOutput
+Param 23	0	4194304	Value	ValueOutput
+Param 24	0	4194304	Value	ValueOutput
+Param 25	0	4194304	Value	ValueOutput
+Param 26	0	4194304	Value	ValueOutput
+Param 27	0	4194304	Value	ValueOutput
+Param 28	0	4194304	Value	ValueOutput
+Param 29	0	4194304	Value	ValueOutput
+Param 30	0	4194304	Value	ValueOutput
+Param 31	0	4194304	Value	ValueOutput
+Param 32	0	4194304	Value	ValueOutput
+Gain In	0	4194304	Value	ValueOutput
+Gain Out	0	4194304	Value	ValueOutput
+Dry/wet	0	4194304	Value	ValueOutput
+Amp - Type	0	4194304	Value	ValueOutput
+Amp - Drive	0	4194304	Value	ValueOutput
+Amp - Character	0	4194304	Value	ValueOutput
+Amp - Oversampling	0	4194304	Value	ValueOutput
+Eq - Eq	0	4194304	Value	ValueOutput
+Eq - Post	0	4194304	Value	ValueOutput
+Eq - Bass	0	4194304	Value	ValueOutput
+Eq - Mids	0	4194304	Value	ValueOutput
+Eq - Treble	0	4194304	Value	ValueOutput
+Eq - Color	0	4194304	Value	ValueOutput
+Modula-LFO1-AutomaValue	0	4194304	Value	ValueOutput
+Modula-LFO2-AutomaValue	0	4194304	Value	ValueOutput
+PresetTrigger-Previous	0	4194304	Value	ValueOutput
+Preset trigger - next	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

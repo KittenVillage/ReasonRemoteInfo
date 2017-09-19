@@ -1,0 +1,51 @@
+Scope
+Manufacturer	Model
+TSE AUDIO	vst.tx5L.TSE_X50_v1_0x64
+Note: Will match scope definitions for vst.tx5L.TSE_X50_v1_0x64 or vst.tx5L
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Channel	0	4194304	Value	ValueOutput
+Input Green	0	4194304	Value	ValueOutput
+Output Green	0	4194304	Value	ValueOutput
+PreGain Green	0	4194304	Value	ValueOutput
+Bass Green	0	4194304	Value	ValueOutput
+Mid Green	0	4194304	Value	ValueOutput
+Treble Green	0	4194304	Value	ValueOutput
+Post Gain Green	0	4194304	Value	ValueOutput
+Low End Green	0	4194304	Value	ValueOutput
+Presence Green	0	4194304	Value	ValueOutput
+Input Red	0	4194304	Value	ValueOutput
+Output Red	0	4194304	Value	ValueOutput
+PreGain Red	0	4194304	Value	ValueOutput
+Bass Red	0	4194304	Value	ValueOutput
+Mid Red	0	4194304	Value	ValueOutput
+Treble Red	0	4194304	Value	ValueOutput
+Post Gain Red	0	4194304	Value	ValueOutput
+Low End Red	0	4194304	Value	ValueOutput
+Presence Red	0	4194304	Value	ValueOutput
+Bright	0	4194304	Value	ValueOutput
+Crunch	0	4194304	Value	ValueOutput
+Stereo	0	4194304	Value	ValueOutput
+Hi Quality	0	4194304	Value	ValueOutput
+Red mode	0	4194304	Value	ValueOutput
+Preamp	0	4194304	Value	ValueOutput
+Power Amp	0	4194304	Value	ValueOutput
+Power Tubes	0	4194304	Value	ValueOutput
+View	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput
