@@ -1,0 +1,90 @@
+Scope
+Manufacturer	Model
+GForce	vst.g%21SM.String Machine
+Note: Will match scope definitions for vst.g%21SM.String Machine or vst.g%21SM
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Lyr A Mix	0	4194304	Value	ValueOutput
+Lyr B Mix	0	4194304	Value	ValueOutput
+Lyr A Pan	0	4194304	Value	ValueOutput
+Lyr B Pan	0	4194304	Value	ValueOutput
+Lyr A Low Note	0	4194304	Value	ValueOutput
+Lyr A High Note	0	4194304	Value	ValueOutput
+Lyr B Low Note	0	4194304	Value	ValueOutput
+Lyr B High Note	0	4194304	Value	ValueOutput
+Lyr A Tune	0	4194304	Value	ValueOutput
+Lyr A Detune	0	4194304	Value	ValueOutput
+Lyr A LFO Rate	0	4194304	Value	ValueOutput
+Lyr A LFO Amount	0	4194304	Value	ValueOutput
+Lyr B Tune	0	4194304	Value	ValueOutput
+Lyr B Detune	0	4194304	Value	ValueOutput
+Lyr B LFO Rate	0	4194304	Value	ValueOutput
+Lyr B LFO Amount	0	4194304	Value	ValueOutput
+Lyr A VCF Cut	0	4194304	Value	ValueOutput
+Lyr A VCF Mode	0	4194304	Value	ValueOutput
+Lyr A VCF Res	0	4194304	Value	ValueOutput
+Lyr A VCF Env A	0	4194304	Value	ValueOutput
+Lyr A VCF Env D	0	4194304	Value	ValueOutput
+Lyr A VCF Env S	0	4194304	Value	ValueOutput
+Lyr A VCF Env R	0	4194304	Value	ValueOutput
+Lyr A Amp Env A	0	4194304	Value	ValueOutput
+Lyr A Amp Env D	0	4194304	Value	ValueOutput
+Lyr A Amp Env S	0	4194304	Value	ValueOutput
+Lyr A Amp Env R	0	4194304	Value	ValueOutput
+Phaser LFO Rate	0	4194304	Value	ValueOutput
+Phaser LFO Amt	0	4194304	Value	ValueOutput
+Phaser Freq	0	4194304	Value	ValueOutput
+Phaser Res	0	4194304	Value	ValueOutput
+Phaser Mode	0	4194304	Value	ValueOutput
+Phaser Mix	0	4194304	Value	ValueOutput
+Ens Voices	0	4194304	Value	ValueOutput
+Ens Detune	0	4194304	Value	ValueOutput
+Ens Mix	0	4194304	Value	ValueOutput
+Master Gain	0	4194304	Value	ValueOutput
+Master Tune	0	4194304	Value	ValueOutput
+Lyr B VCF Cut	0	4194304	Value	ValueOutput
+Lyr B VCF Mode	0	4194304	Value	ValueOutput
+Lyr B VCF Res	0	4194304	Value	ValueOutput
+Lyr B VCF Env A	0	4194304	Value	ValueOutput
+Lyr B VCF Env D	0	4194304	Value	ValueOutput
+Lyr B VCF Env S	0	4194304	Value	ValueOutput
+Lyr B VCF Env R	0	4194304	Value	ValueOutput
+Lyr B Amp Env A	0	4194304	Value	ValueOutput
+Lyr B Amp Env D	0	4194304	Value	ValueOutput
+Lyr B Amp Env S	0	4194304	Value	ValueOutput
+Lyr B Amp Env R	0	4194304	Value	ValueOutput
+Lyr A VCF Env Amt	0	4194304	Value	ValueOutput
+Lyr B VCF Env Amt	0	4194304	Value	ValueOutput
+Lyr A Vel->VCF	0	4194304	Value	ValueOutput
+Lyr B Vel->VCF	0	4194304	Value	ValueOutput
+Lyr A AFT->VCF	0	4194304	Value	ValueOutput
+Lyr B AFT->VCF	0	4194304	Value	ValueOutput
+Lyr A Vel->Amp	0	4194304	Value	ValueOutput
+Lyr B Vel->Amp	0	4194304	Value	ValueOutput
+Lyr A Inst	0	4194304	Value	ValueOutput
+Lyr B Inst	0	4194304	Value	ValueOutput
+Lyr Edit Select	0	4194304	Value	ValueOutput
+Wide	0	4194304	Value	ValueOutput
+Lyr A LFO Sync	0	4194304	Value	ValueOutput
+Lyr B LFO Sync	0	4194304	Value	ValueOutput
+Phaser LFO Sync	0	4194304	Value	ValueOutput
+Original Patch	0	4194304	Value	ValueOutput
+Patch Edited	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput
+Proxy Open Plugin Window	0	1	Toggle	ValueOutput

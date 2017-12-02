@@ -1,0 +1,57 @@
+Scope
+Manufacturer	Model
+Plugin Boutique	vst.BIGK.BigKick
+Note: Will match scope definitions for vst.BIGK.BigKick or vst.BIGK
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Attack Enable	0	4194304	Value	ValueOutput
+Attack HPF	0	4194304	Value	ValueOutput
+Attack Decay	0	4194304	Value	ValueOutput
+Attack Gain	0	4194304	Value	ValueOutput
+Body Enable	0	4194304	Value	ValueOutput
+Body Attack	0	4194304	Value	ValueOutput
+Body Hold	0	4194304	Value	ValueOutput
+Body Decay	0	4194304	Value	ValueOutput
+Body Deep	0	4194304	Value	ValueOutput
+Body Curve	0	4194304	Value	ValueOutput
+Body Pitch Start	0	4194304	Value	ValueOutput
+Body Pitch Decay	0	4194304	Value	ValueOutput
+Body Pitch End	0	4194304	Value	ValueOutput
+Shaper A Positio	0	4194304	Value	ValueOutput
+Shaper A Width	0	4194304	Value	ValueOutput
+Shaper A Cut	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+High Pass	0	4194304	Value	ValueOutput
+Sample Pitch	0	4194304	Value	ValueOutput
+Vel Sens	0	4194304	Value	ValueOutput
+Body Gain	0	4194304	Value	ValueOutput
+Master Level	0	4194304	Value	ValueOutput
+One Shot Enable	0	4194304	Value	ValueOutput
+Shaper B Punch	0	4194304	Value	ValueOutput
+Tune Attack	0	4194304	Value	ValueOutput
+EQ Gain	0	4194304	Value	ValueOutput
+EQ Frequency	0	4194304	Value	ValueOutput
+EQ Hi Shelf	0	4194304	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+Attack Enable	0	4194304	Value	ValueOutput
+Attack HPF	0	4194304	Value	ValueOutput
+Attack Decay	0	4194304	Value	ValueOutput
+Attack Gain	0	4194304	Value	ValueOutput
+Sample 2 Pitch	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

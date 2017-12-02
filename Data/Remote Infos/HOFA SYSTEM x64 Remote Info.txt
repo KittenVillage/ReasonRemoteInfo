@@ -1,0 +1,77 @@
+Scope
+Manufacturer	Model
+HOFA	vst.hfxS.HOFA SYSTEM x64
+Note: Will match scope definitions for vst.hfxS.HOFA SYSTEM x64 or vst.hfxS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+MasterBypass	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+OutGain	0	4194304	Value	ValueOutput
+P1-Param	0	4194304	Value	ValueOutput
+P2-Param	0	4194304	Value	ValueOutput
+P3-Param	0	4194304	Value	ValueOutput
+P4-Param	0	4194304	Value	ValueOutput
+P5-Param	0	4194304	Value	ValueOutput
+P6-Param	0	4194304	Value	ValueOutput
+P7-Param	0	4194304	Value	ValueOutput
+P8-Param	0	4194304	Value	ValueOutput
+P9-Param	0	4194304	Value	ValueOutput
+P10-Param	0	4194304	Value	ValueOutput
+P11-Param	0	4194304	Value	ValueOutput
+P12-Param	0	4194304	Value	ValueOutput
+P13-Param	0	4194304	Value	ValueOutput
+P14-Param	0	4194304	Value	ValueOutput
+P15-Param	0	4194304	Value	ValueOutput
+P16-Param	0	4194304	Value	ValueOutput
+P17-Param	0	4194304	Value	ValueOutput
+P18-Param	0	4194304	Value	ValueOutput
+P19-Param	0	4194304	Value	ValueOutput
+P20-Param	0	4194304	Value	ValueOutput
+P21-Param	0	4194304	Value	ValueOutput
+P22-Param	0	4194304	Value	ValueOutput
+P23-Param	0	4194304	Value	ValueOutput
+P24-Param	0	4194304	Value	ValueOutput
+P25-Param	0	4194304	Value	ValueOutput
+P26-Param	0	4194304	Value	ValueOutput
+P27-Param	0	4194304	Value	ValueOutput
+P28-Param	0	4194304	Value	ValueOutput
+P29-Param	0	4194304	Value	ValueOutput
+P30-Param	0	4194304	Value	ValueOutput
+P31-Param	0	4194304	Value	ValueOutput
+P32-Param	0	4194304	Value	ValueOutput
+P33-Param	0	4194304	Value	ValueOutput
+P34-Param	0	4194304	Value	ValueOutput
+P35-Param	0	4194304	Value	ValueOutput
+P36-Param	0	4194304	Value	ValueOutput
+P37-Param	0	4194304	Value	ValueOutput
+P38-Param	0	4194304	Value	ValueOutput
+P39-Param	0	4194304	Value	ValueOutput
+P40-Param	0	4194304	Value	ValueOutput
+P41-Param	0	4194304	Value	ValueOutput
+P42-Param	0	4194304	Value	ValueOutput
+P43-Param	0	4194304	Value	ValueOutput
+P44-Param	0	4194304	Value	ValueOutput
+P45-Param	0	4194304	Value	ValueOutput
+P46-Param	0	4194304	Value	ValueOutput
+P47-Param	0	4194304	Value	ValueOutput
+P48-Param	0	4194304	Value	ValueOutput
+P49-Param	0	4194304	Value	ValueOutput
+P50-Param	0	4194304	Value	ValueOutput
+InGain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

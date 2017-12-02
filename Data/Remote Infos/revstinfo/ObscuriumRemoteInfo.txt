@@ -1,0 +1,155 @@
+Scope
+Manufacturer	Model
+Sugar Bytes	vst.SBOB.Obscurium
+Note: Will match scope definitions for vst.SBOB.Obscurium or vst.SBOB
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master_Level	0	4194304	Value	ValueOutput
+Shift_Interpolat	0	4194304	Value	ValueOutput
+Arp_Min	0	4194304	Value	ValueOutput
+Arp_Max	0	4194304	Value	ValueOutput
+Arp_Env	0	4194304	Value	ValueOutput
+Arp_LFO	0	4194304	Value	ValueOutput
+Mod_Min	0	4194304	Value	ValueOutput
+Mod_Max	0	4194304	Value	ValueOutput
+Mod_Env	0	4194304	Value	ValueOutput
+Mod_LFO	0	4194304	Value	ValueOutput
+Pitch_Min	0	4194304	Value	ValueOutput
+Pitch_Max	0	4194304	Value	ValueOutput
+Pitch_Env	0	4194304	Value	ValueOutput
+Pitch_LFO	0	4194304	Value	ValueOutput
+Chord_Min	0	4194304	Value	ValueOutput
+Chord_Max	0	4194304	Value	ValueOutput
+Chord_Env	0	4194304	Value	ValueOutput
+Chord_LFO	0	4194304	Value	ValueOutput
+Poly_Min	0	4194304	Value	ValueOutput
+Poly_Max	0	4194304	Value	ValueOutput
+Poly_Env	0	4194304	Value	ValueOutput
+Poly_LFO	0	4194304	Value	ValueOutput
+SynthMix_Min	0	4194304	Value	ValueOutput
+SynthMix_Max	0	4194304	Value	ValueOutput
+SynthMix_Env	0	4194304	Value	ValueOutput
+SynthMix_LFO	0	4194304	Value	ValueOutput
+Snc_F_Min	0	4194304	Value	ValueOutput
+Snc_F_Max	0	4194304	Value	ValueOutput
+Snc_F_Env	0	4194304	Value	ValueOutput
+Snc_F_LFO	0	4194304	Value	ValueOutput
+PW_Min	0	4194304	Value	ValueOutput
+PW_Max	0	4194304	Value	ValueOutput
+PW_Env	0	4194304	Value	ValueOutput
+PW_LFO	0	4194304	Value	ValueOutput
+Wave_Min	0	4194304	Value	ValueOutput
+Wave_Max	0	4194304	Value	ValueOutput
+Wave_Env	0	4194304	Value	ValueOutput
+Wave_LFO	0	4194304	Value	ValueOutput
+FMX_Min	0	4194304	Value	ValueOutput
+FMX_Max	0	4194304	Value	ValueOutput
+FMX_Env	0	4194304	Value	ValueOutput
+FMX_LFO	0	4194304	Value	ValueOutput
+FM_EXP_Min	0	4194304	Value	ValueOutput
+FM_EXP_Max	0	4194304	Value	ValueOutput
+FM_EXP_Env	0	4194304	Value	ValueOutput
+FM_EXP_LFO	0	4194304	Value	ValueOutput
+FM_Lin_Min	0	4194304	Value	ValueOutput
+FM_Lin_Max	0	4194304	Value	ValueOutput
+FM_Lin_Env	0	4194304	Value	ValueOutput
+FM_Lin_LFO	0	4194304	Value	ValueOutput
+Noise_Min	0	4194304	Value	ValueOutput
+Noise_Max	0	4194304	Value	ValueOutput
+Noise_Env	0	4194304	Value	ValueOutput
+Noise_LFO	0	4194304	Value	ValueOutput
+Cutoff_Min	0	4194304	Value	ValueOutput
+Cutoff_Max	0	4194304	Value	ValueOutput
+Cutoff_Env	0	4194304	Value	ValueOutput
+Cutoff_LFO	0	4194304	Value	ValueOutput
+Reso_Min	0	4194304	Value	ValueOutput
+Reso_Max	0	4194304	Value	ValueOutput
+Reso_Env	0	4194304	Value	ValueOutput
+Reso_LFO	0	4194304	Value	ValueOutput
+Filtertyp_Min	0	4194304	Value	ValueOutput
+Filtertyp_Max	0	4194304	Value	ValueOutput
+Filtertyp_Env	0	4194304	Value	ValueOutput
+Filtertyp_LFO	0	4194304	Value	ValueOutput
+Clock	0	4194304	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+Seq_Dir	0	4194304	Value	ValueOutput
+Octave	0	4194304	Value	ValueOutput
+Detune	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+Chord_Tables	0	4194304	Value	ValueOutput
+Envelope_Mix	0	4194304	Value	ValueOutput
+Seq_Env_Att	0	4194304	Value	ValueOutput
+Seq_Env_Hld	0	4194304	Value	ValueOutput
+Seq_Env_Rls	0	4194304	Value	ValueOutput
+Seq_Env_Att_Mod	0	4194304	Value	ValueOutput
+Seq_Env_Hld_Mod	0	4194304	Value	ValueOutput
+Seq_Env_Rls_Mod	0	4194304	Value	ValueOutput
+Arp_Mix	0	4194304	Value	ValueOutput
+Midi_Env_Att	0	4194304	Value	ValueOutput
+Midi_Env_Hld	0	4194304	Value	ValueOutput
+Midi_Env_Rls	0	4194304	Value	ValueOutput
+Midi_Env_Velo	0	4194304	Value	ValueOutput
+Mod_Env_Att	0	4194304	Value	ValueOutput
+Mod_Env_Hld	0	4194304	Value	ValueOutput
+Mod_Env_Rls	0	4194304	Value	ValueOutput
+Mod_Env_Att_Mod	0	4194304	Value	ValueOutput
+Mod_Env_Hld_Mod	0	4194304	Value	ValueOutput
+Mod_Env_Rls_Mod	0	4194304	Value	ValueOutput
+Mod_Env_Amt	0	4194304	Value	ValueOutput
+Rate	0	4194304	Value	ValueOutput
+LFO_Rate_Mod	0	4194304	Value	ValueOutput
+LFO_Amt	0	4194304	Value	ValueOutput
+Anlg_Osc_Spread	0	4194304	Value	ValueOutput
+FM_Osc_Ratio	0	4194304	Value	ValueOutput
+FM_Osc_Hrm	0	4194304	Value	ValueOutput
+Pan_Spread	0	4194304	Value	ValueOutput
+Chorus	0	4194304	Value	ValueOutput
+Chorus_Mix	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Delay_Mix	0	4194304	Value	ValueOutput
+Reverb	0	4194304	Value	ValueOutput
+Reverb_Mix	0	4194304	Value	ValueOutput
+Morph_Line	0	4194304	Value	ValueOutput
+Morph_Mod_Amt	0	4194304	Value	ValueOutput
+Morph_Shift	0	4194304	Value	ValueOutput
+Shift_Mod_Amt	0	4194304	Value	ValueOutput
+Morph_LFO_Rate	0	4194304	Value	ValueOutput
+Morph_Env_Att	0	4194304	Value	ValueOutput
+Morph_Env_Hld	0	4194304	Value	ValueOutput
+Morph_Env_Rls	0	4194304	Value	ValueOutput
+Morph_Seq_Fader	0	4194304	Value	ValueOutput
+Morph_Seq_Tempo	0	4194304	Value	ValueOutput
+Draw_All	0	4194304	Value	ValueOutput
+Draw_All_Offs	0	4194304	Value	ValueOutput
+Modifier_Vertika	0	4194304	Value	ValueOutput
+Modifier_Stretch	0	4194304	Value	ValueOutput
+Modifier_Shift	0	4194304	Value	ValueOutput
+SprObscure_Mode	0	4194304	Value	ValueOutput
+SprObscure_Loop	0	4194304	Value	ValueOutput
+SprObscure_Grid	0	4194304	Value	ValueOutput
+SprObscure_Mult	0	4194304	Value	ValueOutput
+SprObsc_RndAdd	0	4194304	Value	ValueOutput
+General_Smooth	0	4194304	Value	ValueOutput
+General_Latch	0	4194304	Value	ValueOutput
+Morph_Fader	0	4194304	Value	ValueOutput
+Shift_Fader	0	4194304	Value	ValueOutput
+Scale_OnOff	0	4194304	Value	ValueOutput
+SprObscure_Add	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

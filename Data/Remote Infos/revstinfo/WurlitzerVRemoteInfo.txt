@@ -1,0 +1,126 @@
+Scope
+Manufacturer	Model
+Arturia	vst.Wurl.Wurlitzer V
+Note: Will match scope definitions for vst.Wurl.Wurlitzer V or vst.Wurl
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Physical model.Volume	0	4194304	Value	ValueOutput
+Physical model.Vibrato	0	4194304	Value	ValueOutput
+Root.Sustain Pedal	0	4194304	Value	ValueOutput
+Physical model.Vibrato R	0	4194304	Value	ValueOutput
+Physical model.Pickup Di	0	4194304	Value	ValueOutput
+Physical model.Pickup Ax	0	4194304	Value	ValueOutput
+Physical model.Impedance	0	4194304	Value	ValueOutput
+Physical model.Dynamics	0	4194304	Value	ValueOutput
+Physical model.Octave St	0	4194304	Value	ValueOutput
+Physical model.Hammer Ha	0	4194304	Value	ValueOutput
+Physical model.Hammer No	0	4194304	Value	ValueOutput
+Physical model.Key Relea	0	4194304	Value	ValueOutput
+Sustain Pedal Noise	0	4194304	Value	ValueOutput
+Chorus.Type	0	4194304	Value	ValueOutput
+Chorus.Rate	0	4194304	Value	ValueOutput
+Chorus.Amount	0	4194304	Value	ValueOutput
+Chorus.Stereo rate	0	4194304	Value	ValueOutput
+Chorus.Stereo width	0	4194304	Value	ValueOutput
+Chorus.Delay	0	4194304	Value	ValueOutput
+Chorus.Mix	0	4194304	Value	ValueOutput
+Chorus.Chorus	0	4194304	Value	ValueOutput
+Flanger.Rate	0	4194304	Value	ValueOutput
+Flanger.Depth	0	4194304	Value	ValueOutput
+Flanger.Resonance	0	4194304	Value	ValueOutput
+Flanger.Delay	0	4194304	Value	ValueOutput
+Flanger.Flanger	0	4194304	Value	ValueOutput
+Phaser.Rate	0	4194304	Value	ValueOutput
+Phaser.Depth	0	4194304	Value	ValueOutput
+Phaser.Feedback	0	4194304	Value	ValueOutput
+Phaser.Stereo	0	4194304	Value	ValueOutput
+Phaser.Phaser	0	4194304	Value	ValueOutput
+Equalizer.32 Hz low shel	0	4194304	Value	ValueOutput
+Equalizer.63 Hz peak gai	0	4194304	Value	ValueOutput
+Equalizer.125 Hz peak ga	0	4194304	Value	ValueOutput
+Equalizer.250 Hz peak ga	0	4194304	Value	ValueOutput
+Equalizer.500 Hz peak ga	0	4194304	Value	ValueOutput
+Equalizer.1 kHz peak gai	0	4194304	Value	ValueOutput
+Equalizer.2 kHz peak gai	0	4194304	Value	ValueOutput
+Equalizer.4 kHz peak gai	0	4194304	Value	ValueOutput
+Equalizer.8 kHz peak gai	0	4194304	Value	ValueOutput
+Equalizer.16 kHz high sh	0	4194304	Value	ValueOutput
+Compressor.Threshold	0	4194304	Value	ValueOutput
+Compressor.Attack	0	4194304	Value	ValueOutput
+Compressor.Release	0	4194304	Value	ValueOutput
+Compressor.Ratio	0	4194304	Value	ValueOutput
+Compressor.Input gain	0	4194304	Value	ValueOutput
+Compressor.Makeup gain	0	4194304	Value	ValueOutput
+Compressor.Compressor	0	4194304	Value	ValueOutput
+Overdrive.Drive	0	4194304	Value	ValueOutput
+Overdrive.Tone	0	4194304	Value	ValueOutput
+Overdrive.Output Gain	0	4194304	Value	ValueOutput
+Overdrive.Overdrive	0	4194304	Value	ValueOutput
+Delay.Delay time	0	4194304	Value	ValueOutput
+Delay.Feedback	0	4194304	Value	ValueOutput
+Delay.Feedback tone	0	4194304	Value	ValueOutput
+Delay.LFO depth	0	4194304	Value	ValueOutput
+Delay.LFO rate	0	4194304	Value	ValueOutput
+Delay.Mix	0	4194304	Value	ValueOutput
+Delay.Delay	0	4194304	Value	ValueOutput
+Pitch-shift Chorus.Detun	0	4194304	Value	ValueOutput
+Pitch-shift Chorus.Mix	0	4194304	Value	ValueOutput
+Pitch-shift Chorus.Outpu	0	4194304	Value	ValueOutput
+Pitch-shift Chorus.Delay	0	4194304	Value	ValueOutput
+Pitch-shift chorus	0	4194304	Value	ValueOutput
+Vocal filter.LFO	0	4194304	Value	ValueOutput
+Vocal filter.LFO rate	0	4194304	Value	ValueOutput
+Vocal filter.Resonance	0	4194304	Value	ValueOutput
+Vocal filter.Mix	0	4194304	Value	ValueOutput
+Vocal filter.Current X p	0	4194304	Value	ValueOutput
+Vocal filter.Current Y p	0	4194304	Value	ValueOutput
+Vocal filter.Vocal Filte	0	4194304	Value	ValueOutput
+Reverb.Input gain	0	4194304	Value	ValueOutput
+Reverb.HF Damping	0	4194304	Value	ValueOutput
+Reverb.Brightness	0	4194304	Value	ValueOutput
+Reverb.Decay time	0	4194304	Value	ValueOutput
+Reverb.Pre-delay time	0	4194304	Value	ValueOutput
+Reverb.Pre-delay feedbac	0	4194304	Value	ValueOutput
+Reverb.Diffusion	0	4194304	Value	ValueOutput
+Reverb.Mix	0	4194304	Value	ValueOutput
+Leslie.Speed	0	4194304	Value	ValueOutput
+Leslie.Rate	0	4194304	Value	ValueOutput
+Leslie.Low - width	0	4194304	Value	ValueOutput
+Leslie.Low - shape	0	4194304	Value	ValueOutput
+Leslie.High - width	0	4194304	Value	ValueOutput
+Leslie.High - shape	0	4194304	Value	ValueOutput
+Leslie.High - depth	0	4194304	Value	ValueOutput
+Leslie.Output level	0	4194304	Value	ValueOutput
+Auto-wah.Frequency	0	4194304	Value	ValueOutput
+Auto-wah.Threshold	0	4194304	Value	ValueOutput
+Auto-wah.Modulation Dept	0	4194304	Value	ValueOutput
+Auto-wah.Auto rate	0	4194304	Value	ValueOutput
+Auto-wah.Auto-wah	0	4194304	Value	ValueOutput
+Guitar amp.Drive	0	4194304	Value	ValueOutput
+Guitar amp.Volume	0	4194304	Value	ValueOutput
+Guitar amp.Reverb	0	4194304	Value	ValueOutput
+Guitar amp.Low	0	4194304	Value	ValueOutput
+Guitar amp.Mid	0	4194304	Value	ValueOutput
+Guitar amp.Hi	0	4194304	Value	ValueOutput
+Guitar amp.Cabinet	0	4194304	Value	ValueOutput
+Guitar amp.Microphone	0	4194304	Value	ValueOutput
+Wah-wah.Wah-wah pedal	0	4194304	Value	ValueOutput
+Volume pedal.Volume peda	0	4194304	Value	ValueOutput
+Root.Pitch-bend	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,53 @@
+Scope
+Manufacturer	Model
+Tracktion	vst.EQsr.#TEqualiser (64-bit)
+Note: Will match scope definitions for vst.EQsr.#TEqualiser (64-bit) or vst.EQsr
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Band 1 State	0	4194304	Value	ValueOutput
+Band 1 Frequency	0	4194304	Value	ValueOutput
+Band 1 Gain	0	4194304	Value	ValueOutput
+Band 1 Q	0	4194304	Value	ValueOutput
+Band 1 Shape	0	4194304	Value	ValueOutput
+Band 2 State	0	4194304	Value	ValueOutput
+Band 2 Frequency	0	4194304	Value	ValueOutput
+Band 2 Gain	0	4194304	Value	ValueOutput
+Band 2 Q	0	4194304	Value	ValueOutput
+Band 2 Shape	0	4194304	Value	ValueOutput
+Band 3 State	0	4194304	Value	ValueOutput
+Band 3 Frequency	0	4194304	Value	ValueOutput
+Band 3 Gain	0	4194304	Value	ValueOutput
+Band 3 Q	0	4194304	Value	ValueOutput
+Band 3 Shape	0	4194304	Value	ValueOutput
+Band 4 State	0	4194304	Value	ValueOutput
+Band 4 Frequency	0	4194304	Value	ValueOutput
+Band 4 Gain	0	4194304	Value	ValueOutput
+Band 4 Q	0	4194304	Value	ValueOutput
+Band 4 Shape	0	4194304	Value	ValueOutput
+Band 5 State	0	4194304	Value	ValueOutput
+Band 5 Frequency	0	4194304	Value	ValueOutput
+Band 5 Gain	0	4194304	Value	ValueOutput
+Band 5 Q	0	4194304	Value	ValueOutput
+Band 5 Shape	0	4194304	Value	ValueOutput
+Enable	0	4194304	Value	ValueOutput
+Output Gain	0	4194304	Value	ValueOutput
+Solo Band	0	4194304	Value	ValueOutput
+Solo Gain	0	4194304	Value	ValueOutput
+Analyser Mode	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

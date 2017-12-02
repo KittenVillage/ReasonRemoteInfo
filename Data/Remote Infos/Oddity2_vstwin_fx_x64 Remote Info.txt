@@ -1,0 +1,721 @@
+Scope
+Manufacturer	Model
+GForce	vst.OOdf.Oddity2_vstwin_fx_x64
+Note: Will match scope definitions for vst.OOdf.Oddity2_vstwin_fx_x64 or vst.OOdf
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+A440	0	4194304	Value	ValueOutput
+Polyphony Mode	0	4194304	Value	ValueOutput
+VCO 1 PWM Src	0	4194304	Value	ValueOutput
+VCO 1 PWM Level	0	4194304	Value	ValueOutput
+VCO 1 PWM Level LFO Pe	0	4194304	Value	ValueOutput
+VCO 1 PWM Level LFO Am	0	4194304	Value	ValueOutput
+VCO 1 PWM Level LFO WF	0	4194304	Value	ValueOutput
+VCO 1 PWM Level LFO S&	0	4194304	Value	ValueOutput
+VCO 1 PWM Level LFO Sm	0	4194304	Value	ValueOutput
+VCO 1 PWM Level LFO Re	0	4194304	Value	ValueOutput
+VCO 1 PWM Level LFO De	0	4194304	Value	ValueOutput
+VCO 1 PWM Level ADSR A	0	4194304	Value	ValueOutput
+VCO 1 PWM Level ADSR A	0	4194304	Value	ValueOutput
+VCO 1 PWM Level ADSR D	0	4194304	Value	ValueOutput
+VCO 1 PWM Level ADSR S	0	4194304	Value	ValueOutput
+VCO 1 PWM Level ADSR S	0	4194304	Value	ValueOutput
+VCO 1 PWM Level ADSR R	0	4194304	Value	ValueOutput
+VCO 1 PWM Level ADSR V	0	4194304	Value	ValueOutput
+VCO 1 FM1 Src	0	4194304	Value	ValueOutput
+VCO 1 FM2 Src	0	4194304	Value	ValueOutput
+VCO 1 FM1 Level	0	4194304	Value	ValueOutput
+VCO 1 FM1 Level LFO Pe	0	4194304	Value	ValueOutput
+VCO 1 FM1 Level LFO Am	0	4194304	Value	ValueOutput
+VCO 1 FM1 Level LFO WF	0	4194304	Value	ValueOutput
+VCO 1 FM1 Level LFO S&	0	4194304	Value	ValueOutput
+VCO 1 FM1 Level LFO Sm	0	4194304	Value	ValueOutput
+VCO 1 FM1 Level LFO Re	0	4194304	Value	ValueOutput
+VCO 1 FM1 Level LFO De	0	4194304	Value	ValueOutput
+VCO 1 FM1 Level ADSR A	0	4194304	Value	ValueOutput
+VCO 1 FM1 Level ADSR A	0	4194304	Value	ValueOutput
+VCO 1 FM1 Level ADSR D	0	4194304	Value	ValueOutput
+VCO 1 FM1 Level ADSR S	0	4194304	Value	ValueOutput
+VCO 1 FM1 Level ADSR S	0	4194304	Value	ValueOutput
+VCO 1 FM1 Level ADSR R	0	4194304	Value	ValueOutput
+VCO 1 FM1 Level ADSR V	0	4194304	Value	ValueOutput
+VCO 1 FM2 Level	0	4194304	Value	ValueOutput
+VCO 1 FM2 Level LFO Pe	0	4194304	Value	ValueOutput
+VCO 1 FM2 Level LFO Am	0	4194304	Value	ValueOutput
+VCO 1 FM2 Level LFO WF	0	4194304	Value	ValueOutput
+VCO 1 FM2 Level LFO S&	0	4194304	Value	ValueOutput
+VCO 1 FM2 Level LFO Sm	0	4194304	Value	ValueOutput
+VCO 1 FM2 Level LFO Re	0	4194304	Value	ValueOutput
+VCO 1 FM2 Level LFO De	0	4194304	Value	ValueOutput
+VCO 1 FM2 Level ADSR A	0	4194304	Value	ValueOutput
+VCO 1 FM2 Level ADSR A	0	4194304	Value	ValueOutput
+VCO 1 FM2 Level ADSR D	0	4194304	Value	ValueOutput
+VCO 1 FM2 Level ADSR S	0	4194304	Value	ValueOutput
+VCO 1 FM2 Level ADSR S	0	4194304	Value	ValueOutput
+VCO 1 FM2 Level ADSR R	0	4194304	Value	ValueOutput
+VCO 1 FM2 Level ADSR V	0	4194304	Value	ValueOutput
+VCO 2 PWM Src	0	4194304	Value	ValueOutput
+VCO 2 PWM Level	0	4194304	Value	ValueOutput
+VCO 2 PWM Level LFO Pe	0	4194304	Value	ValueOutput
+VCO 2 PWM Level LFO Am	0	4194304	Value	ValueOutput
+VCO 2 PWM Level LFO WF	0	4194304	Value	ValueOutput
+VCO 2 PWM Level LFO S&	0	4194304	Value	ValueOutput
+VCO 2 PWM Level LFO Sm	0	4194304	Value	ValueOutput
+VCO 2 PWM Level LFO Re	0	4194304	Value	ValueOutput
+VCO 2 PWM Level LFO De	0	4194304	Value	ValueOutput
+VCO 2 PWM Level ADSR A	0	4194304	Value	ValueOutput
+VCO 2 PWM Level ADSR A	0	4194304	Value	ValueOutput
+VCO 2 PWM Level ADSR D	0	4194304	Value	ValueOutput
+VCO 2 PWM Level ADSR S	0	4194304	Value	ValueOutput
+VCO 2 PWM Level ADSR S	0	4194304	Value	ValueOutput
+VCO 2 PWM Level ADSR R	0	4194304	Value	ValueOutput
+VCO 2 PWM Level ADSR V	0	4194304	Value	ValueOutput
+VCO 2 FM1 Src	0	4194304	Value	ValueOutput
+VCO 2 FM2 Src	0	4194304	Value	ValueOutput
+VCO 2 FM1 Level	0	4194304	Value	ValueOutput
+VCO 2 FM1 Level LFO Pe	0	4194304	Value	ValueOutput
+VCO 2 FM1 Level LFO Am	0	4194304	Value	ValueOutput
+VCO 2 FM1 Level LFO WF	0	4194304	Value	ValueOutput
+VCO 2 FM1 Level LFO S&	0	4194304	Value	ValueOutput
+VCO 2 FM1 Level LFO Sm	0	4194304	Value	ValueOutput
+VCO 2 FM1 Level LFO Re	0	4194304	Value	ValueOutput
+VCO 2 FM1 Level LFO De	0	4194304	Value	ValueOutput
+VCO 2 FM1 Level ADSR A	0	4194304	Value	ValueOutput
+VCO 2 FM1 Level ADSR A	0	4194304	Value	ValueOutput
+VCO 2 FM1 Level ADSR D	0	4194304	Value	ValueOutput
+VCO 2 FM1 Level ADSR S	0	4194304	Value	ValueOutput
+VCO 2 FM1 Level ADSR S	0	4194304	Value	ValueOutput
+VCO 2 FM1 Level ADSR R	0	4194304	Value	ValueOutput
+VCO 2 FM1 Level ADSR V	0	4194304	Value	ValueOutput
+VCO 2 FM2 Level	0	4194304	Value	ValueOutput
+VCO 2 FM2 Level LFO Pe	0	4194304	Value	ValueOutput
+VCO 2 FM2 Level LFO Am	0	4194304	Value	ValueOutput
+VCO 2 FM2 Level LFO WF	0	4194304	Value	ValueOutput
+VCO 2 FM2 Level LFO S&	0	4194304	Value	ValueOutput
+VCO 2 FM2 Level LFO Sm	0	4194304	Value	ValueOutput
+VCO 2 FM2 Level LFO Re	0	4194304	Value	ValueOutput
+VCO 2 FM2 Level LFO De	0	4194304	Value	ValueOutput
+VCO 2 FM2 Level ADSR A	0	4194304	Value	ValueOutput
+VCO 2 FM2 Level ADSR A	0	4194304	Value	ValueOutput
+VCO 2 FM2 Level ADSR D	0	4194304	Value	ValueOutput
+VCO 2 FM2 Level ADSR S	0	4194304	Value	ValueOutput
+VCO 2 FM2 Level ADSR S	0	4194304	Value	ValueOutput
+VCO 2 FM2 Level ADSR R	0	4194304	Value	ValueOutput
+VCO 2 FM2 Level ADSR V	0	4194304	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+VCF Mod1 Src	0	4194304	Value	ValueOutput
+VCF Mod1 Level	0	4194304	Value	ValueOutput
+VCF Mod1 Level LFO Per	0	4194304	Value	ValueOutput
+VCF Mod1 Level LFO Amt	0	4194304	Value	ValueOutput
+VCF Mod1 Level LFO WF	0	4194304	Value	ValueOutput
+VCF Mod1 Level LFO S&H	0	4194304	Value	ValueOutput
+VCF Mod1 Level LFO Smo	0	4194304	Value	ValueOutput
+VCF Mod1 Level LFO Res	0	4194304	Value	ValueOutput
+VCF Mod1 Level LFO Del	0	4194304	Value	ValueOutput
+VCF Mod1 Level ADSR Am	0	4194304	Value	ValueOutput
+VCF Mod1 Level ADSR At	0	4194304	Value	ValueOutput
+VCF Mod1 Level ADSR Dc	0	4194304	Value	ValueOutput
+VCF Mod1 Level ADSR Su	0	4194304	Value	ValueOutput
+VCF Mod1 Level ADSR Su	0	4194304	Value	ValueOutput
+VCF Mod1 Level ADSR Re	0	4194304	Value	ValueOutput
+VCF Mod1 Level ADSR Ve	0	4194304	Value	ValueOutput
+VCF Mod2 Src	0	4194304	Value	ValueOutput
+VCF Mod2 Level	0	4194304	Value	ValueOutput
+VCF Mod2 Level LFO Per	0	4194304	Value	ValueOutput
+VCF Mod2 Level LFO Amt	0	4194304	Value	ValueOutput
+VCF Mod2 Level LFO WF	0	4194304	Value	ValueOutput
+VCF Mod2 Level LFO S&H	0	4194304	Value	ValueOutput
+VCF Mod2 Level LFO Smo	0	4194304	Value	ValueOutput
+VCF Mod2 Level LFO Res	0	4194304	Value	ValueOutput
+VCF Mod2 Level LFO Del	0	4194304	Value	ValueOutput
+VCF Mod2 Level ADSR Am	0	4194304	Value	ValueOutput
+VCF Mod2 Level ADSR At	0	4194304	Value	ValueOutput
+VCF Mod2 Level ADSR Dc	0	4194304	Value	ValueOutput
+VCF Mod2 Level ADSR Su	0	4194304	Value	ValueOutput
+VCF Mod2 Level ADSR Su	0	4194304	Value	ValueOutput
+VCF Mod2 Level ADSR Re	0	4194304	Value	ValueOutput
+VCF Mod2 Level ADSR Ve	0	4194304	Value	ValueOutput
+VCF Mod3 Src	0	4194304	Value	ValueOutput
+VCF Mod3 Level	0	4194304	Value	ValueOutput
+VCF Mod3 Level LFO Per	0	4194304	Value	ValueOutput
+VCF Mod3 Level LFO Amt	0	4194304	Value	ValueOutput
+VCF Mod3 Level LFO WF	0	4194304	Value	ValueOutput
+VCF Mod3 Level LFO S&H	0	4194304	Value	ValueOutput
+VCF Mod3 Level LFO Smo	0	4194304	Value	ValueOutput
+VCF Mod3 Level LFO Res	0	4194304	Value	ValueOutput
+VCF Mod3 Level LFO Del	0	4194304	Value	ValueOutput
+VCF Mod3 Level ADSR Am	0	4194304	Value	ValueOutput
+VCF Mod3 Level ADSR At	0	4194304	Value	ValueOutput
+VCF Mod3 Level ADSR Dc	0	4194304	Value	ValueOutput
+VCF Mod3 Level ADSR Su	0	4194304	Value	ValueOutput
+VCF Mod3 Level ADSR Su	0	4194304	Value	ValueOutput
+VCF Mod3 Level ADSR Re	0	4194304	Value	ValueOutput
+VCF Mod3 Level ADSR Ve	0	4194304	Value	ValueOutput
+S/H Trig	0	4194304	Value	ValueOutput
+ADSR Attack	0	4194304	Value	ValueOutput
+ADSR Attack LFO Per	0	4194304	Value	ValueOutput
+ADSR Attack LFO Amt	0	4194304	Value	ValueOutput
+ADSR Attack LFO WF	0	4194304	Value	ValueOutput
+ADSR Attack LFO S&H	0	4194304	Value	ValueOutput
+ADSR Attack LFO Smooth	0	4194304	Value	ValueOutput
+ADSR Attack LFO Resync	0	4194304	Value	ValueOutput
+ADSR Attack LFO Delay	0	4194304	Value	ValueOutput
+ADSR Attack ADSR Amt	0	4194304	Value	ValueOutput
+ADSR Attack ADSR Atk-T	0	4194304	Value	ValueOutput
+ADSR Attack ADSR Dcy-T	0	4194304	Value	ValueOutput
+ADSR Attack ADSR Sus-T	0	4194304	Value	ValueOutput
+ADSR Attack ADSR Sus-L	0	4194304	Value	ValueOutput
+ADSR Attack ADSR Rel-T	0	4194304	Value	ValueOutput
+ADSR Attack ADSR Vel	0	4194304	Value	ValueOutput
+ADSR Decay	0	4194304	Value	ValueOutput
+ADSR Decay LFO Per	0	4194304	Value	ValueOutput
+ADSR Decay LFO Amt	0	4194304	Value	ValueOutput
+ADSR Decay LFO WF	0	4194304	Value	ValueOutput
+ADSR Decay LFO S&H	0	4194304	Value	ValueOutput
+ADSR Decay LFO Smooth	0	4194304	Value	ValueOutput
+ADSR Decay LFO Resync	0	4194304	Value	ValueOutput
+ADSR Decay LFO Delay	0	4194304	Value	ValueOutput
+ADSR Decay ADSR Amt	0	4194304	Value	ValueOutput
+ADSR Decay ADSR Atk-T	0	4194304	Value	ValueOutput
+ADSR Decay ADSR Dcy-T	0	4194304	Value	ValueOutput
+ADSR Decay ADSR Sus-T	0	4194304	Value	ValueOutput
+ADSR Decay ADSR Sus-L	0	4194304	Value	ValueOutput
+ADSR Decay ADSR Rel-T	0	4194304	Value	ValueOutput
+ADSR Decay ADSR Vel	0	4194304	Value	ValueOutput
+ADSR Sustain Level	0	4194304	Value	ValueOutput
+ADSR Sustain Level LFO	0	4194304	Value	ValueOutput
+ADSR Sustain Level LFO	0	4194304	Value	ValueOutput
+ADSR Sustain Level LFO	0	4194304	Value	ValueOutput
+ADSR Sustain Level LFO	0	4194304	Value	ValueOutput
+ADSR Sustain Level LFO	0	4194304	Value	ValueOutput
+ADSR Sustain Level LFO	0	4194304	Value	ValueOutput
+ADSR Sustain Level LFO	0	4194304	Value	ValueOutput
+ADSR Sustain Level ADS	0	4194304	Value	ValueOutput
+ADSR Sustain Level ADS	0	4194304	Value	ValueOutput
+ADSR Sustain Level ADS	0	4194304	Value	ValueOutput
+ADSR Sustain Level ADS	0	4194304	Value	ValueOutput
+ADSR Sustain Level ADS	0	4194304	Value	ValueOutput
+ADSR Sustain Level ADS	0	4194304	Value	ValueOutput
+ADSR Sustain Level ADS	0	4194304	Value	ValueOutput
+ADSR Release	0	4194304	Value	ValueOutput
+ADSR Release LFO Per	0	4194304	Value	ValueOutput
+ADSR Release LFO Amt	0	4194304	Value	ValueOutput
+ADSR Release LFO WF	0	4194304	Value	ValueOutput
+ADSR Release LFO S&H	0	4194304	Value	ValueOutput
+ADSR Release LFO Smoot	0	4194304	Value	ValueOutput
+ADSR Release LFO Resyn	0	4194304	Value	ValueOutput
+ADSR Release LFO Delay	0	4194304	Value	ValueOutput
+ADSR Release ADSR Amt	0	4194304	Value	ValueOutput
+ADSR Release ADSR Atk-	0	4194304	Value	ValueOutput
+ADSR Release ADSR Dcy-	0	4194304	Value	ValueOutput
+ADSR Release ADSR Sus-	0	4194304	Value	ValueOutput
+ADSR Release ADSR Sus-	0	4194304	Value	ValueOutput
+ADSR Release ADSR Rel-	0	4194304	Value	ValueOutput
+ADSR Release ADSR Vel	0	4194304	Value	ValueOutput
+ADSR LFO Repeat	0	4194304	Value	ValueOutput
+ADSR Auto-Repeat	0	4194304	Value	ValueOutput
+AR Attack	0	4194304	Value	ValueOutput
+AR Attack LFO Per	0	4194304	Value	ValueOutput
+AR Attack LFO Amt	0	4194304	Value	ValueOutput
+AR Attack LFO WF	0	4194304	Value	ValueOutput
+AR Attack LFO S&H	0	4194304	Value	ValueOutput
+AR Attack LFO Smooth	0	4194304	Value	ValueOutput
+AR Attack LFO Resync	0	4194304	Value	ValueOutput
+AR Attack LFO Delay	0	4194304	Value	ValueOutput
+AR Attack ADSR Amt	0	4194304	Value	ValueOutput
+AR Attack ADSR Atk-T	0	4194304	Value	ValueOutput
+AR Attack ADSR Dcy-T	0	4194304	Value	ValueOutput
+AR Attack ADSR Sus-T	0	4194304	Value	ValueOutput
+AR Attack ADSR Sus-L	0	4194304	Value	ValueOutput
+AR Attack ADSR Rel-T	0	4194304	Value	ValueOutput
+AR Attack ADSR Vel	0	4194304	Value	ValueOutput
+AR Release	0	4194304	Value	ValueOutput
+AR Release LFO Per	0	4194304	Value	ValueOutput
+AR Release LFO Amt	0	4194304	Value	ValueOutput
+AR Release LFO WF	0	4194304	Value	ValueOutput
+AR Release LFO S&H	0	4194304	Value	ValueOutput
+AR Release LFO Smooth	0	4194304	Value	ValueOutput
+AR Release LFO Resync	0	4194304	Value	ValueOutput
+AR Release LFO Delay	0	4194304	Value	ValueOutput
+AR Release ADSR Amt	0	4194304	Value	ValueOutput
+AR Release ADSR Atk-T	0	4194304	Value	ValueOutput
+AR Release ADSR Dcy-T	0	4194304	Value	ValueOutput
+AR Release ADSR Sus-T	0	4194304	Value	ValueOutput
+AR Release ADSR Sus-L	0	4194304	Value	ValueOutput
+AR Release ADSR Rel-T	0	4194304	Value	ValueOutput
+AR Release ADSR Vel	0	4194304	Value	ValueOutput
+AR LFO Repeat	0	4194304	Value	ValueOutput
+LFO Freq	0	4194304	Value	ValueOutput
+LFO Freq LFO Per	0	4194304	Value	ValueOutput
+LFO Freq LFO Amt	0	4194304	Value	ValueOutput
+LFO Freq LFO WF	0	4194304	Value	ValueOutput
+LFO Freq LFO S&H	0	4194304	Value	ValueOutput
+LFO Freq LFO Smooth	0	4194304	Value	ValueOutput
+LFO Freq LFO Resync	0	4194304	Value	ValueOutput
+LFO Freq LFO Delay	0	4194304	Value	ValueOutput
+LFO Freq ADSR Amt	0	4194304	Value	ValueOutput
+LFO Freq ADSR Atk-T	0	4194304	Value	ValueOutput
+LFO Freq ADSR Dcy-T	0	4194304	Value	ValueOutput
+LFO Freq ADSR Sus-T	0	4194304	Value	ValueOutput
+LFO Freq ADSR Sus-L	0	4194304	Value	ValueOutput
+LFO Freq ADSR Rel-T	0	4194304	Value	ValueOutput
+LFO Freq ADSR Vel	0	4194304	Value	ValueOutput
+LFO Tempo Sync	0	4194304	Value	ValueOutput
+LFO Key Trig	0	4194304	Value	ValueOutput
+VCO 1 Tune Coarse	0	4194304	Value	ValueOutput
+VCO 1 Tune Coarse LFO 	0	4194304	Value	ValueOutput
+VCO 1 Tune Coarse LFO 	0	4194304	Value	ValueOutput
+VCO 1 Tune Coarse LFO 	0	4194304	Value	ValueOutput
+VCO 1 Tune Coarse LFO 	0	4194304	Value	ValueOutput
+VCO 1 Tune Coarse LFO 	0	4194304	Value	ValueOutput
+VCO 1 Tune Coarse LFO 	0	4194304	Value	ValueOutput
+VCO 1 Tune Coarse LFO 	0	4194304	Value	ValueOutput
+VCO 1 Tune Coarse ADSR	0	4194304	Value	ValueOutput
+VCO 1 Tune Coarse ADSR	0	4194304	Value	ValueOutput
+VCO 1 Tune Coarse ADSR	0	4194304	Value	ValueOutput
+VCO 1 Tune Coarse ADSR	0	4194304	Value	ValueOutput
+VCO 1 Tune Coarse ADSR	0	4194304	Value	ValueOutput
+VCO 1 Tune Coarse ADSR	0	4194304	Value	ValueOutput
+VCO 1 Tune Coarse ADSR	0	4194304	Value	ValueOutput
+VCO 1 Tune Fine	0	4194304	Value	ValueOutput
+VCO 1 Tune Fine LFO Pe	0	4194304	Value	ValueOutput
+VCO 1 Tune Fine LFO Am	0	4194304	Value	ValueOutput
+VCO 1 Tune Fine LFO WF	0	4194304	Value	ValueOutput
+VCO 1 Tune Fine LFO S&	0	4194304	Value	ValueOutput
+VCO 1 Tune Fine LFO Sm	0	4194304	Value	ValueOutput
+VCO 1 Tune Fine LFO Re	0	4194304	Value	ValueOutput
+VCO 1 Tune Fine LFO De	0	4194304	Value	ValueOutput
+VCO 1 Tune Fine ADSR A	0	4194304	Value	ValueOutput
+VCO 1 Tune Fine ADSR A	0	4194304	Value	ValueOutput
+VCO 1 Tune Fine ADSR D	0	4194304	Value	ValueOutput
+VCO 1 Tune Fine ADSR S	0	4194304	Value	ValueOutput
+VCO 1 Tune Fine ADSR S	0	4194304	Value	ValueOutput
+VCO 1 Tune Fine ADSR R	0	4194304	Value	ValueOutput
+VCO 1 Tune Fine ADSR V	0	4194304	Value	ValueOutput
+VCO 1 PW	0	4194304	Value	ValueOutput
+VCO 1 PW LFO Per	0	4194304	Value	ValueOutput
+VCO 1 PW LFO Amt	0	4194304	Value	ValueOutput
+VCO 1 PW LFO WF	0	4194304	Value	ValueOutput
+VCO 1 PW LFO S&H	0	4194304	Value	ValueOutput
+VCO 1 PW LFO Smooth	0	4194304	Value	ValueOutput
+VCO 1 PW LFO Resync	0	4194304	Value	ValueOutput
+VCO 1 PW LFO Delay	0	4194304	Value	ValueOutput
+VCO 1 PW ADSR Amt	0	4194304	Value	ValueOutput
+VCO 1 PW ADSR Atk-T	0	4194304	Value	ValueOutput
+VCO 1 PW ADSR Dcy-T	0	4194304	Value	ValueOutput
+VCO 1 PW ADSR Sus-T	0	4194304	Value	ValueOutput
+VCO 1 PW ADSR Sus-L	0	4194304	Value	ValueOutput
+VCO 1 PW ADSR Rel-T	0	4194304	Value	ValueOutput
+VCO 1 PW ADSR Vel	0	4194304	Value	ValueOutput
+VCO 1 Src	0	4194304	Value	ValueOutput
+VCO 2 Tune Coarse	0	4194304	Value	ValueOutput
+VCO 2 Tune Coarse LFO 	0	4194304	Value	ValueOutput
+VCO 2 Tune Coarse LFO 	0	4194304	Value	ValueOutput
+VCO 2 Tune Coarse LFO 	0	4194304	Value	ValueOutput
+VCO 2 Tune Coarse LFO 	0	4194304	Value	ValueOutput
+VCO 2 Tune Coarse LFO 	0	4194304	Value	ValueOutput
+VCO 2 Tune Coarse LFO 	0	4194304	Value	ValueOutput
+VCO 2 Tune Coarse LFO 	0	4194304	Value	ValueOutput
+VCO 2 Tune Coarse ADSR	0	4194304	Value	ValueOutput
+VCO 2 Tune Coarse ADSR	0	4194304	Value	ValueOutput
+VCO 2 Tune Coarse ADSR	0	4194304	Value	ValueOutput
+VCO 2 Tune Coarse ADSR	0	4194304	Value	ValueOutput
+VCO 2 Tune Coarse ADSR	0	4194304	Value	ValueOutput
+VCO 2 Tune Coarse ADSR	0	4194304	Value	ValueOutput
+VCO 2 Tune Coarse ADSR	0	4194304	Value	ValueOutput
+VCO 2 Tune Fine	0	4194304	Value	ValueOutput
+VCO 2 Tune Fine LFO Pe	0	4194304	Value	ValueOutput
+VCO 2 Tune Fine LFO Am	0	4194304	Value	ValueOutput
+VCO 2 Tune Fine LFO WF	0	4194304	Value	ValueOutput
+VCO 2 Tune Fine LFO S&	0	4194304	Value	ValueOutput
+VCO 2 Tune Fine LFO Sm	0	4194304	Value	ValueOutput
+VCO 2 Tune Fine LFO Re	0	4194304	Value	ValueOutput
+VCO 2 Tune Fine LFO De	0	4194304	Value	ValueOutput
+VCO 2 Tune Fine ADSR A	0	4194304	Value	ValueOutput
+VCO 2 Tune Fine ADSR A	0	4194304	Value	ValueOutput
+VCO 2 Tune Fine ADSR D	0	4194304	Value	ValueOutput
+VCO 2 Tune Fine ADSR S	0	4194304	Value	ValueOutput
+VCO 2 Tune Fine ADSR S	0	4194304	Value	ValueOutput
+VCO 2 Tune Fine ADSR R	0	4194304	Value	ValueOutput
+VCO 2 Tune Fine ADSR V	0	4194304	Value	ValueOutput
+VCO 2 PW	0	4194304	Value	ValueOutput
+VCO 2 PW LFO Per	0	4194304	Value	ValueOutput
+VCO 2 PW LFO Amt	0	4194304	Value	ValueOutput
+VCO 2 PW LFO WF	0	4194304	Value	ValueOutput
+VCO 2 PW LFO S&H	0	4194304	Value	ValueOutput
+VCO 2 PW LFO Smooth	0	4194304	Value	ValueOutput
+VCO 2 PW LFO Resync	0	4194304	Value	ValueOutput
+VCO 2 PW LFO Delay	0	4194304	Value	ValueOutput
+VCO 2 PW ADSR Amt	0	4194304	Value	ValueOutput
+VCO 2 PW ADSR Atk-T	0	4194304	Value	ValueOutput
+VCO 2 PW ADSR Dcy-T	0	4194304	Value	ValueOutput
+VCO 2 PW ADSR Sus-T	0	4194304	Value	ValueOutput
+VCO 2 PW ADSR Sus-L	0	4194304	Value	ValueOutput
+VCO 2 PW ADSR Rel-T	0	4194304	Value	ValueOutput
+VCO 2 PW ADSR Vel	0	4194304	Value	ValueOutput
+VCO 2 Sync	0	4194304	Value	ValueOutput
+VCO Sub Tune Coarse	0	4194304	Value	ValueOutput
+VCO Sub Tune Coarse LF	0	4194304	Value	ValueOutput
+VCO Sub Tune Coarse LF	0	4194304	Value	ValueOutput
+VCO Sub Tune Coarse LF	0	4194304	Value	ValueOutput
+VCO Sub Tune Coarse LF	0	4194304	Value	ValueOutput
+VCO Sub Tune Coarse LF	0	4194304	Value	ValueOutput
+VCO Sub Tune Coarse LF	0	4194304	Value	ValueOutput
+VCO Sub Tune Coarse LF	0	4194304	Value	ValueOutput
+VCO Sub Tune Coarse AD	0	4194304	Value	ValueOutput
+VCO Sub Tune Coarse AD	0	4194304	Value	ValueOutput
+VCO Sub Tune Coarse AD	0	4194304	Value	ValueOutput
+VCO Sub Tune Coarse AD	0	4194304	Value	ValueOutput
+VCO Sub Tune Coarse AD	0	4194304	Value	ValueOutput
+VCO Sub Tune Coarse AD	0	4194304	Value	ValueOutput
+VCO Sub Tune Coarse AD	0	4194304	Value	ValueOutput
+VCO Sub Tune Fine	0	4194304	Value	ValueOutput
+VCO Sub Tune Fine LFO 	0	4194304	Value	ValueOutput
+VCO Sub Tune Fine LFO 	0	4194304	Value	ValueOutput
+VCO Sub Tune Fine LFO 	0	4194304	Value	ValueOutput
+VCO Sub Tune Fine LFO 	0	4194304	Value	ValueOutput
+VCO Sub Tune Fine LFO 	0	4194304	Value	ValueOutput
+VCO Sub Tune Fine LFO 	0	4194304	Value	ValueOutput
+VCO Sub Tune Fine LFO 	0	4194304	Value	ValueOutput
+VCO Sub Tune Fine ADSR	0	4194304	Value	ValueOutput
+VCO Sub Tune Fine ADSR	0	4194304	Value	ValueOutput
+VCO Sub Tune Fine ADSR	0	4194304	Value	ValueOutput
+VCO Sub Tune Fine ADSR	0	4194304	Value	ValueOutput
+VCO Sub Tune Fine ADSR	0	4194304	Value	ValueOutput
+VCO Sub Tune Fine ADSR	0	4194304	Value	ValueOutput
+VCO Sub Tune Fine ADSR	0	4194304	Value	ValueOutput
+Noise Type	0	4194304	Value	ValueOutput
+S/H Lag	0	4194304	Value	ValueOutput
+S/H Lag LFO Per	0	4194304	Value	ValueOutput
+S/H Lag LFO Amt	0	4194304	Value	ValueOutput
+S/H Lag LFO WF	0	4194304	Value	ValueOutput
+S/H Lag LFO S&H	0	4194304	Value	ValueOutput
+S/H Lag LFO Smooth	0	4194304	Value	ValueOutput
+S/H Lag LFO Resync	0	4194304	Value	ValueOutput
+S/H Lag LFO Delay	0	4194304	Value	ValueOutput
+S/H Lag ADSR Amt	0	4194304	Value	ValueOutput
+S/H Lag ADSR Atk-T	0	4194304	Value	ValueOutput
+S/H Lag ADSR Dcy-T	0	4194304	Value	ValueOutput
+S/H Lag ADSR Sus-T	0	4194304	Value	ValueOutput
+S/H Lag ADSR Sus-L	0	4194304	Value	ValueOutput
+S/H Lag ADSR Rel-T	0	4194304	Value	ValueOutput
+S/H Lag ADSR Vel	0	4194304	Value	ValueOutput
+S/H Mix1 Src	0	4194304	Value	ValueOutput
+S/H Mix1 Level	0	4194304	Value	ValueOutput
+S/H Mix1 Level LFO Per	0	4194304	Value	ValueOutput
+S/H Mix1 Level LFO Amt	0	4194304	Value	ValueOutput
+S/H Mix1 Level LFO WF	0	4194304	Value	ValueOutput
+S/H Mix1 Level LFO S&H	0	4194304	Value	ValueOutput
+S/H Mix1 Level LFO Smo	0	4194304	Value	ValueOutput
+S/H Mix1 Level LFO Res	0	4194304	Value	ValueOutput
+S/H Mix1 Level LFO Del	0	4194304	Value	ValueOutput
+S/H Mix1 Level ADSR Am	0	4194304	Value	ValueOutput
+S/H Mix1 Level ADSR At	0	4194304	Value	ValueOutput
+S/H Mix1 Level ADSR Dc	0	4194304	Value	ValueOutput
+S/H Mix1 Level ADSR Su	0	4194304	Value	ValueOutput
+S/H Mix1 Level ADSR Su	0	4194304	Value	ValueOutput
+S/H Mix1 Level ADSR Re	0	4194304	Value	ValueOutput
+S/H Mix1 Level ADSR Ve	0	4194304	Value	ValueOutput
+S/H Mix2 Src	0	4194304	Value	ValueOutput
+S/H Mix2 Level	0	4194304	Value	ValueOutput
+S/H Mix2 Level LFO Per	0	4194304	Value	ValueOutput
+S/H Mix2 Level LFO Amt	0	4194304	Value	ValueOutput
+S/H Mix2 Level LFO WF	0	4194304	Value	ValueOutput
+S/H Mix2 Level LFO S&H	0	4194304	Value	ValueOutput
+S/H Mix2 Level LFO Smo	0	4194304	Value	ValueOutput
+S/H Mix2 Level LFO Res	0	4194304	Value	ValueOutput
+S/H Mix2 Level LFO Del	0	4194304	Value	ValueOutput
+S/H Mix2 Level ADSR Am	0	4194304	Value	ValueOutput
+S/H Mix2 Level ADSR At	0	4194304	Value	ValueOutput
+S/H Mix2 Level ADSR Dc	0	4194304	Value	ValueOutput
+S/H Mix2 Level ADSR Su	0	4194304	Value	ValueOutput
+S/H Mix2 Level ADSR Su	0	4194304	Value	ValueOutput
+S/H Mix2 Level ADSR Re	0	4194304	Value	ValueOutput
+S/H Mix2 Level ADSR Ve	0	4194304	Value	ValueOutput
+Mix 1 Src	0	4194304	Value	ValueOutput
+Mix 1 Level	0	4194304	Value	ValueOutput
+Mix 1 Level LFO Per	0	4194304	Value	ValueOutput
+Mix 1 Level LFO Amt	0	4194304	Value	ValueOutput
+Mix 1 Level LFO WF	0	4194304	Value	ValueOutput
+Mix 1 Level LFO S&H	0	4194304	Value	ValueOutput
+Mix 1 Level LFO Smooth	0	4194304	Value	ValueOutput
+Mix 1 Level LFO Resync	0	4194304	Value	ValueOutput
+Mix 1 Level LFO Delay	0	4194304	Value	ValueOutput
+Mix 1 Level ADSR Amt	0	4194304	Value	ValueOutput
+Mix 1 Level ADSR Atk-T	0	4194304	Value	ValueOutput
+Mix 1 Level ADSR Dcy-T	0	4194304	Value	ValueOutput
+Mix 1 Level ADSR Sus-T	0	4194304	Value	ValueOutput
+Mix 1 Level ADSR Sus-L	0	4194304	Value	ValueOutput
+Mix 1 Level ADSR Rel-T	0	4194304	Value	ValueOutput
+Mix 1 Level ADSR Vel	0	4194304	Value	ValueOutput
+Mix 2 Src	0	4194304	Value	ValueOutput
+Mix 2 Level	0	4194304	Value	ValueOutput
+Mix 2 Level LFO Per	0	4194304	Value	ValueOutput
+Mix 2 Level LFO Amt	0	4194304	Value	ValueOutput
+Mix 2 Level LFO WF	0	4194304	Value	ValueOutput
+Mix 2 Level LFO S&H	0	4194304	Value	ValueOutput
+Mix 2 Level LFO Smooth	0	4194304	Value	ValueOutput
+Mix 2 Level LFO Resync	0	4194304	Value	ValueOutput
+Mix 2 Level LFO Delay	0	4194304	Value	ValueOutput
+Mix 2 Level ADSR Amt	0	4194304	Value	ValueOutput
+Mix 2 Level ADSR Atk-T	0	4194304	Value	ValueOutput
+Mix 2 Level ADSR Dcy-T	0	4194304	Value	ValueOutput
+Mix 2 Level ADSR Sus-T	0	4194304	Value	ValueOutput
+Mix 2 Level ADSR Sus-L	0	4194304	Value	ValueOutput
+Mix 2 Level ADSR Rel-T	0	4194304	Value	ValueOutput
+Mix 2 Level ADSR Vel	0	4194304	Value	ValueOutput
+Mix 3 Src	0	4194304	Value	ValueOutput
+Mix 3 Level	0	4194304	Value	ValueOutput
+Mix 3 Level LFO Per	0	4194304	Value	ValueOutput
+Mix 3 Level LFO Amt	0	4194304	Value	ValueOutput
+Mix 3 Level LFO WF	0	4194304	Value	ValueOutput
+Mix 3 Level LFO S&H	0	4194304	Value	ValueOutput
+Mix 3 Level LFO Smooth	0	4194304	Value	ValueOutput
+Mix 3 Level LFO Resync	0	4194304	Value	ValueOutput
+Mix 3 Level LFO Delay	0	4194304	Value	ValueOutput
+Mix 3 Level ADSR Amt	0	4194304	Value	ValueOutput
+Mix 3 Level ADSR Atk-T	0	4194304	Value	ValueOutput
+Mix 3 Level ADSR Dcy-T	0	4194304	Value	ValueOutput
+Mix 3 Level ADSR Sus-T	0	4194304	Value	ValueOutput
+Mix 3 Level ADSR Sus-L	0	4194304	Value	ValueOutput
+Mix 3 Level ADSR Rel-T	0	4194304	Value	ValueOutput
+Mix 3 Level ADSR Vel	0	4194304	Value	ValueOutput
+Mix 4 Src	0	4194304	Value	ValueOutput
+Mix 4 Level	0	4194304	Value	ValueOutput
+Mix 4 Level LFO Per	0	4194304	Value	ValueOutput
+Mix 4 Level LFO Amt	0	4194304	Value	ValueOutput
+Mix 4 Level LFO WF	0	4194304	Value	ValueOutput
+Mix 4 Level LFO S&H	0	4194304	Value	ValueOutput
+Mix 4 Level LFO Smooth	0	4194304	Value	ValueOutput
+Mix 4 Level LFO Resync	0	4194304	Value	ValueOutput
+Mix 4 Level LFO Delay	0	4194304	Value	ValueOutput
+Mix 4 Level ADSR Amt	0	4194304	Value	ValueOutput
+Mix 4 Level ADSR Atk-T	0	4194304	Value	ValueOutput
+Mix 4 Level ADSR Dcy-T	0	4194304	Value	ValueOutput
+Mix 4 Level ADSR Sus-T	0	4194304	Value	ValueOutput
+Mix 4 Level ADSR Sus-L	0	4194304	Value	ValueOutput
+Mix 4 Level ADSR Rel-T	0	4194304	Value	ValueOutput
+Mix 4 Level ADSR Vel	0	4194304	Value	ValueOutput
+VCF type	0	4194304	Value	ValueOutput
+VCF Frequency	0	4194304	Value	ValueOutput
+VCF Frequency LFO Per	0	4194304	Value	ValueOutput
+VCF Frequency LFO Amt	0	4194304	Value	ValueOutput
+VCF Frequency LFO WF	0	4194304	Value	ValueOutput
+VCF Frequency LFO S&H	0	4194304	Value	ValueOutput
+VCF Frequency LFO Smoo	0	4194304	Value	ValueOutput
+VCF Frequency LFO Resy	0	4194304	Value	ValueOutput
+VCF Frequency LFO Dela	0	4194304	Value	ValueOutput
+VCF Frequency ADSR Amt	0	4194304	Value	ValueOutput
+VCF Frequency ADSR Atk	0	4194304	Value	ValueOutput
+VCF Frequency ADSR Dcy	0	4194304	Value	ValueOutput
+VCF Frequency ADSR Sus	0	4194304	Value	ValueOutput
+VCF Frequency ADSR Sus	0	4194304	Value	ValueOutput
+VCF Frequency ADSR Rel	0	4194304	Value	ValueOutput
+VCF Frequency ADSR Vel	0	4194304	Value	ValueOutput
+VCF Reso	0	4194304	Value	ValueOutput
+VCF Reso LFO Per	0	4194304	Value	ValueOutput
+VCF Reso LFO Amt	0	4194304	Value	ValueOutput
+VCF Reso LFO WF	0	4194304	Value	ValueOutput
+VCF Reso LFO S&H	0	4194304	Value	ValueOutput
+VCF Reso LFO Smooth	0	4194304	Value	ValueOutput
+VCF Reso LFO Resync	0	4194304	Value	ValueOutput
+VCF Reso LFO Delay	0	4194304	Value	ValueOutput
+VCF Reso ADSR Amt	0	4194304	Value	ValueOutput
+VCF Reso ADSR Atk-T	0	4194304	Value	ValueOutput
+VCF Reso ADSR Dcy-T	0	4194304	Value	ValueOutput
+VCF Reso ADSR Sus-T	0	4194304	Value	ValueOutput
+VCF Reso ADSR Sus-L	0	4194304	Value	ValueOutput
+VCF Reso ADSR Rel-T	0	4194304	Value	ValueOutput
+VCF Reso ADSR Vel	0	4194304	Value	ValueOutput
+HPF Frequency	0	4194304	Value	ValueOutput
+HPF Frequency LFO Per	0	4194304	Value	ValueOutput
+HPF Frequency LFO Amt	0	4194304	Value	ValueOutput
+HPF Frequency LFO WF	0	4194304	Value	ValueOutput
+HPF Frequency LFO S&H	0	4194304	Value	ValueOutput
+HPF Frequency LFO Smoo	0	4194304	Value	ValueOutput
+HPF Frequency LFO Resy	0	4194304	Value	ValueOutput
+HPF Frequency LFO Dela	0	4194304	Value	ValueOutput
+HPF Frequency ADSR Amt	0	4194304	Value	ValueOutput
+HPF Frequency ADSR Atk	0	4194304	Value	ValueOutput
+HPF Frequency ADSR Dcy	0	4194304	Value	ValueOutput
+HPF Frequency ADSR Sus	0	4194304	Value	ValueOutput
+HPF Frequency ADSR Sus	0	4194304	Value	ValueOutput
+HPF Frequency ADSR Rel	0	4194304	Value	ValueOutput
+HPF Frequency ADSR Vel	0	4194304	Value	ValueOutput
+VCA Gain	0	4194304	Value	ValueOutput
+VCA Gain LFO Per	0	4194304	Value	ValueOutput
+VCA Gain LFO Amt	0	4194304	Value	ValueOutput
+VCA Gain LFO WF	0	4194304	Value	ValueOutput
+VCA Gain LFO S&H	0	4194304	Value	ValueOutput
+VCA Gain LFO Smooth	0	4194304	Value	ValueOutput
+VCA Gain LFO Resync	0	4194304	Value	ValueOutput
+VCA Gain LFO Delay	0	4194304	Value	ValueOutput
+VCA Gain ADSR Amt	0	4194304	Value	ValueOutput
+VCA Gain ADSR Atk-T	0	4194304	Value	ValueOutput
+VCA Gain ADSR Dcy-T	0	4194304	Value	ValueOutput
+VCA Gain ADSR Sus-T	0	4194304	Value	ValueOutput
+VCA Gain ADSR Sus-L	0	4194304	Value	ValueOutput
+VCA Gain ADSR Rel-T	0	4194304	Value	ValueOutput
+VCA Gain ADSR Vel	0	4194304	Value	ValueOutput
+VCA Env	0	4194304	Value	ValueOutput
+VCA Env Level	0	4194304	Value	ValueOutput
+VCA Env Level LFO Per	0	4194304	Value	ValueOutput
+VCA Env Level LFO Amt	0	4194304	Value	ValueOutput
+VCA Env Level LFO WF	0	4194304	Value	ValueOutput
+VCA Env Level LFO S&H	0	4194304	Value	ValueOutput
+VCA Env Level LFO Smoo	0	4194304	Value	ValueOutput
+VCA Env Level LFO Resy	0	4194304	Value	ValueOutput
+VCA Env Level LFO Dela	0	4194304	Value	ValueOutput
+VCA Env Level ADSR Amt	0	4194304	Value	ValueOutput
+VCA Env Level ADSR Atk	0	4194304	Value	ValueOutput
+VCA Env Level ADSR Dcy	0	4194304	Value	ValueOutput
+VCA Env Level ADSR Sus	0	4194304	Value	ValueOutput
+VCA Env Level ADSR Sus	0	4194304	Value	ValueOutput
+VCA Env Level ADSR Rel	0	4194304	Value	ValueOutput
+VCA Env Level ADSR Vel	0	4194304	Value	ValueOutput
+Velo-VCA Sensitivity	0	4194304	Value	ValueOutput
+Velo-VCA Sensitivity L	0	4194304	Value	ValueOutput
+Velo-VCA Sensitivity L	0	4194304	Value	ValueOutput
+Velo-VCA Sensitivity L	0	4194304	Value	ValueOutput
+Velo-VCA Sensitivity L	0	4194304	Value	ValueOutput
+Velo-VCA Sensitivity L	0	4194304	Value	ValueOutput
+Velo-VCA Sensitivity L	0	4194304	Value	ValueOutput
+Velo-VCA Sensitivity L	0	4194304	Value	ValueOutput
+Velo-VCA Sensitivity A	0	4194304	Value	ValueOutput
+Velo-VCA Sensitivity A	0	4194304	Value	ValueOutput
+Velo-VCA Sensitivity A	0	4194304	Value	ValueOutput
+Velo-VCA Sensitivity A	0	4194304	Value	ValueOutput
+Velo-VCA Sensitivity A	0	4194304	Value	ValueOutput
+Velo-VCA Sensitivity A	0	4194304	Value	ValueOutput
+Velo-VCA Sensitivity A	0	4194304	Value	ValueOutput
+Velo-VCF Sensitivity	0	4194304	Value	ValueOutput
+Velo-VCF Sensitivity L	0	4194304	Value	ValueOutput
+Velo-VCF Sensitivity L	0	4194304	Value	ValueOutput
+Velo-VCF Sensitivity L	0	4194304	Value	ValueOutput
+Velo-VCF Sensitivity L	0	4194304	Value	ValueOutput
+Velo-VCF Sensitivity L	0	4194304	Value	ValueOutput
+Velo-VCF Sensitivity L	0	4194304	Value	ValueOutput
+Velo-VCF Sensitivity L	0	4194304	Value	ValueOutput
+Velo-VCF Sensitivity A	0	4194304	Value	ValueOutput
+Velo-VCF Sensitivity A	0	4194304	Value	ValueOutput
+Velo-VCF Sensitivity A	0	4194304	Value	ValueOutput
+Velo-VCF Sensitivity A	0	4194304	Value	ValueOutput
+Velo-VCF Sensitivity A	0	4194304	Value	ValueOutput
+Velo-VCF Sensitivity A	0	4194304	Value	ValueOutput
+Velo-VCF Sensitivity A	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Volume LFO Per	0	4194304	Value	ValueOutput
+Volume LFO Amt	0	4194304	Value	ValueOutput
+Volume LFO WF	0	4194304	Value	ValueOutput
+Volume LFO S&H	0	4194304	Value	ValueOutput
+Volume LFO Smooth	0	4194304	Value	ValueOutput
+Volume LFO Resync	0	4194304	Value	ValueOutput
+Volume LFO Delay	0	4194304	Value	ValueOutput
+Volume ADSR Amt	0	4194304	Value	ValueOutput
+Volume ADSR Atk-T	0	4194304	Value	ValueOutput
+Volume ADSR Dcy-T	0	4194304	Value	ValueOutput
+Volume ADSR Sus-T	0	4194304	Value	ValueOutput
+Volume ADSR Sus-L	0	4194304	Value	ValueOutput
+Volume ADSR Rel-T	0	4194304	Value	ValueOutput
+Volume ADSR Vel	0	4194304	Value	ValueOutput
+Pan Mode	0	4194304	Value	ValueOutput
+Pan Width	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Pan LFO Per	0	4194304	Value	ValueOutput
+Pan LFO Amt	0	4194304	Value	ValueOutput
+Pan LFO WF	0	4194304	Value	ValueOutput
+Pan LFO S&H	0	4194304	Value	ValueOutput
+Pan LFO Smooth	0	4194304	Value	ValueOutput
+Pan LFO Resync	0	4194304	Value	ValueOutput
+Pan LFO Delay	0	4194304	Value	ValueOutput
+Pan ADSR Amt	0	4194304	Value	ValueOutput
+Pan ADSR Atk-T	0	4194304	Value	ValueOutput
+Pan ADSR Dcy-T	0	4194304	Value	ValueOutput
+Pan ADSR Sus-T	0	4194304	Value	ValueOutput
+Pan ADSR Sus-L	0	4194304	Value	ValueOutput
+Pan ADSR Rel-T	0	4194304	Value	ValueOutput
+Pan ADSR Vel	0	4194304	Value	ValueOutput
+PPC Mod Depth	0	4194304	Value	ValueOutput
+PPC LFO Per	0	4194304	Value	ValueOutput
+Tempo Sync	0	4194304	Value	ValueOutput
+Octave transpose	0	4194304	Value	ValueOutput
+Delay mode	0	4194304	Value	ValueOutput
+Delay Amount	0	4194304	Value	ValueOutput
+Delay Amount LFO Per	0	4194304	Value	ValueOutput
+Delay Amount LFO Amt	0	4194304	Value	ValueOutput
+Delay Amount LFO WF	0	4194304	Value	ValueOutput
+Delay Amount LFO S&H	0	4194304	Value	ValueOutput
+Delay Amount LFO Smoot	0	4194304	Value	ValueOutput
+Delay Amount LFO Resyn	0	4194304	Value	ValueOutput
+Delay Amount LFO Delay	0	4194304	Value	ValueOutput
+Delay Amount ADSR Amt	0	4194304	Value	ValueOutput
+Delay Amount ADSR Atk-	0	4194304	Value	ValueOutput
+Delay Amount ADSR Dcy-	0	4194304	Value	ValueOutput
+Delay Amount ADSR Sus-	0	4194304	Value	ValueOutput
+Delay Amount ADSR Sus-	0	4194304	Value	ValueOutput
+Delay Amount ADSR Rel-	0	4194304	Value	ValueOutput
+Delay Amount ADSR Vel	0	4194304	Value	ValueOutput
+Delay Time L	0	4194304	Value	ValueOutput
+Delay Time L LFO Per	0	4194304	Value	ValueOutput
+Delay Time L LFO Amt	0	4194304	Value	ValueOutput
+Delay Time L LFO WF	0	4194304	Value	ValueOutput
+Delay Time L LFO S&H	0	4194304	Value	ValueOutput
+Delay Time L LFO Smoot	0	4194304	Value	ValueOutput
+Delay Time L LFO Resyn	0	4194304	Value	ValueOutput
+Delay Time L LFO Delay	0	4194304	Value	ValueOutput
+Delay Time L ADSR Amt	0	4194304	Value	ValueOutput
+Delay Time L ADSR Atk-	0	4194304	Value	ValueOutput
+Delay Time L ADSR Dcy-	0	4194304	Value	ValueOutput
+Delay Time L ADSR Sus-	0	4194304	Value	ValueOutput
+Delay Time L ADSR Sus-	0	4194304	Value	ValueOutput
+Delay Time L ADSR Rel-	0	4194304	Value	ValueOutput
+Delay Time L ADSR Vel	0	4194304	Value	ValueOutput
+Delay Time R	0	4194304	Value	ValueOutput
+Delay Time R LFO Per	0	4194304	Value	ValueOutput
+Delay Time R LFO Amt	0	4194304	Value	ValueOutput
+Delay Time R LFO WF	0	4194304	Value	ValueOutput
+Delay Time R LFO S&H	0	4194304	Value	ValueOutput
+Delay Time R LFO Smoot	0	4194304	Value	ValueOutput
+Delay Time R LFO Resyn	0	4194304	Value	ValueOutput
+Delay Time R LFO Delay	0	4194304	Value	ValueOutput
+Delay Time R ADSR Amt	0	4194304	Value	ValueOutput
+Delay Time R ADSR Atk-	0	4194304	Value	ValueOutput
+Delay Time R ADSR Dcy-	0	4194304	Value	ValueOutput
+Delay Time R ADSR Sus-	0	4194304	Value	ValueOutput
+Delay Time R ADSR Sus-	0	4194304	Value	ValueOutput
+Delay Time R ADSR Rel-	0	4194304	Value	ValueOutput
+Delay Time R ADSR Vel	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Feedback LFO Per	0	4194304	Value	ValueOutput
+Delay Feedback LFO Amt	0	4194304	Value	ValueOutput
+Delay Feedback LFO WF	0	4194304	Value	ValueOutput
+Delay Feedback LFO S&H	0	4194304	Value	ValueOutput
+Delay Feedback LFO Smo	0	4194304	Value	ValueOutput
+Delay Feedback LFO Res	0	4194304	Value	ValueOutput
+Delay Feedback LFO Del	0	4194304	Value	ValueOutput
+Delay Feedback ADSR Am	0	4194304	Value	ValueOutput
+Delay Feedback ADSR At	0	4194304	Value	ValueOutput
+Delay Feedback ADSR Dc	0	4194304	Value	ValueOutput
+Delay Feedback ADSR Su	0	4194304	Value	ValueOutput
+Delay Feedback ADSR Su	0	4194304	Value	ValueOutput
+Delay Feedback ADSR Re	0	4194304	Value	ValueOutput
+Delay Feedback ADSR Ve	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput
+Proxy Open Plugin Window	0	1	Toggle	ValueOutput

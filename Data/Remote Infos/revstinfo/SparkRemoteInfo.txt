@@ -1,0 +1,792 @@
+Scope
+Manufacturer	Model
+Arturia	vst.ArDS.Spark
+Note: Will match scope definitions for vst.ArDS.Spark or vst.ArDS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Unused 1	0	4194304	Value	ValueOutput
+Shuffle Amount	0	4194304	Value	ValueOutput
+LPF Cut	0	4194304	Value	ValueOutput
+LPF Res	0	4194304	Value	ValueOutput
+Master Filter	0	4194304	Value	ValueOutput
+LPF Bypass	0	4194304	Value	ValueOutput
+ 1  Mute	0	4194304	Value	ValueOutput
+ 2  Mute	0	4194304	Value	ValueOutput
+ 3  Mute	0	4194304	Value	ValueOutput
+ 4  Mute	0	4194304	Value	ValueOutput
+ 5  Mute	0	4194304	Value	ValueOutput
+ 6  Mute	0	4194304	Value	ValueOutput
+ 7  Mute	0	4194304	Value	ValueOutput
+ 8  Mute	0	4194304	Value	ValueOutput
+ 9  Mute	0	4194304	Value	ValueOutput
+10  Mute	0	4194304	Value	ValueOutput
+11  Mute	0	4194304	Value	ValueOutput
+12  Mute	0	4194304	Value	ValueOutput
+13  Mute	0	4194304	Value	ValueOutput
+14  Mute	0	4194304	Value	ValueOutput
+15  Mute	0	4194304	Value	ValueOutput
+16  Mute	0	4194304	Value	ValueOutput
+ 1  Solo	0	4194304	Value	ValueOutput
+ 2  Solo	0	4194304	Value	ValueOutput
+ 3  Solo	0	4194304	Value	ValueOutput
+ 4  Solo	0	4194304	Value	ValueOutput
+ 5  Solo	0	4194304	Value	ValueOutput
+ 6  Solo	0	4194304	Value	ValueOutput
+ 7  Solo	0	4194304	Value	ValueOutput
+ 8  Solo	0	4194304	Value	ValueOutput
+ 9  Solo	0	4194304	Value	ValueOutput
+10  Solo	0	4194304	Value	ValueOutput
+11  Solo	0	4194304	Value	ValueOutput
+12  Solo	0	4194304	Value	ValueOutput
+13  Solo	0	4194304	Value	ValueOutput
+14  Solo	0	4194304	Value	ValueOutput
+15  Solo	0	4194304	Value	ValueOutput
+16  Solo	0	4194304	Value	ValueOutput
+ 1  Vol	0	4194304	Value	ValueOutput
+ 2  Vol	0	4194304	Value	ValueOutput
+ 3  Vol	0	4194304	Value	ValueOutput
+ 4  Vol	0	4194304	Value	ValueOutput
+ 5  Vol	0	4194304	Value	ValueOutput
+ 6  Vol	0	4194304	Value	ValueOutput
+ 7  Vol	0	4194304	Value	ValueOutput
+ 8  Vol	0	4194304	Value	ValueOutput
+ 9  Vol	0	4194304	Value	ValueOutput
+10  Vol	0	4194304	Value	ValueOutput
+11  Vol	0	4194304	Value	ValueOutput
+12  Vol	0	4194304	Value	ValueOutput
+13  Vol	0	4194304	Value	ValueOutput
+14  Vol	0	4194304	Value	ValueOutput
+15  Vol	0	4194304	Value	ValueOutput
+16  Vol	0	4194304	Value	ValueOutput
+Return 1 Vol	0	4194304	Value	ValueOutput
+Return 2 Vol	0	4194304	Value	ValueOutput
+ 1  Pan	0	4194304	Value	ValueOutput
+ 2  Pan	0	4194304	Value	ValueOutput
+ 3  Pan	0	4194304	Value	ValueOutput
+ 4  Pan	0	4194304	Value	ValueOutput
+ 5  Pan	0	4194304	Value	ValueOutput
+ 6  Pan	0	4194304	Value	ValueOutput
+ 7  Pan	0	4194304	Value	ValueOutput
+ 8  Pan	0	4194304	Value	ValueOutput
+ 9  Pan	0	4194304	Value	ValueOutput
+10  Pan	0	4194304	Value	ValueOutput
+11  Pan	0	4194304	Value	ValueOutput
+12  Pan	0	4194304	Value	ValueOutput
+13  Pan	0	4194304	Value	ValueOutput
+14  Pan	0	4194304	Value	ValueOutput
+15  Pan	0	4194304	Value	ValueOutput
+16  Pan	0	4194304	Value	ValueOutput
+ 1  S1	0	4194304	Value	ValueOutput
+ 2  S1	0	4194304	Value	ValueOutput
+ 3  S1	0	4194304	Value	ValueOutput
+ 4  S1	0	4194304	Value	ValueOutput
+ 5  S1	0	4194304	Value	ValueOutput
+ 6  S1	0	4194304	Value	ValueOutput
+ 7  S1	0	4194304	Value	ValueOutput
+ 8  S1	0	4194304	Value	ValueOutput
+ 9  S1	0	4194304	Value	ValueOutput
+10  S1	0	4194304	Value	ValueOutput
+11  S1	0	4194304	Value	ValueOutput
+12  S1	0	4194304	Value	ValueOutput
+13  S1	0	4194304	Value	ValueOutput
+14  S1	0	4194304	Value	ValueOutput
+15  S1	0	4194304	Value	ValueOutput
+16  S1	0	4194304	Value	ValueOutput
+ 1  S2	0	4194304	Value	ValueOutput
+ 2  S2	0	4194304	Value	ValueOutput
+ 3  S2	0	4194304	Value	ValueOutput
+ 4  S2	0	4194304	Value	ValueOutput
+ 5  S2	0	4194304	Value	ValueOutput
+ 6  S2	0	4194304	Value	ValueOutput
+ 7  S2	0	4194304	Value	ValueOutput
+ 8  S2	0	4194304	Value	ValueOutput
+ 9  S2	0	4194304	Value	ValueOutput
+10  S2	0	4194304	Value	ValueOutput
+11  S2	0	4194304	Value	ValueOutput
+12  S2	0	4194304	Value	ValueOutput
+13  S2	0	4194304	Value	ValueOutput
+14  S2	0	4194304	Value	ValueOutput
+15  S2	0	4194304	Value	ValueOutput
+16  S2	0	4194304	Value	ValueOutput
+Loop Mode	0	4194304	Value	ValueOutput
+Loop Divide	0	4194304	Value	ValueOutput
+Loop Move Mode	0	4194304	Value	ValueOutput
+Loop Position	0	4194304	Value	ValueOutput
+Slicer Size	0	4194304	Value	ValueOutput
+Slicer Bypass	0	4194304	Value	ValueOutput
+Slicer Effect	0	4194304	Value	ValueOutput
+Unused 112	0	4194304	Value	ValueOutput
+Unused 113	0	4194304	Value	ValueOutput
+Unused 114	0	4194304	Value	ValueOutput
+Unused 115	0	4194304	Value	ValueOutput
+Unused 116	0	4194304	Value	ValueOutput
+Unused 117	0	4194304	Value	ValueOutput
+Unused 118	0	4194304	Value	ValueOutput
+Unused 119	0	4194304	Value	ValueOutput
+Unused 120	0	4194304	Value	ValueOutput
+Unused 121	0	4194304	Value	ValueOutput
+Unused 122	0	4194304	Value	ValueOutput
+Unused 123	0	4194304	Value	ValueOutput
+Unused 124	0	4194304	Value	ValueOutput
+Unused 125	0	4194304	Value	ValueOutput
+Unused 126	0	4194304	Value	ValueOutput
+Unused 127	0	4194304	Value	ValueOutput
+Unused 128	0	4194304	Value	ValueOutput
+Unused 129	0	4194304	Value	ValueOutput
+Unused 130	0	4194304	Value	ValueOutput
+Unused 131	0	4194304	Value	ValueOutput
+Unused 132	0	4194304	Value	ValueOutput
+Unused 133	0	4194304	Value	ValueOutput
+Unused 134	0	4194304	Value	ValueOutput
+Unused 135	0	4194304	Value	ValueOutput
+Unused 136	0	4194304	Value	ValueOutput
+Unused 137	0	4194304	Value	ValueOutput
+Unused 138	0	4194304	Value	ValueOutput
+Unused 139	0	4194304	Value	ValueOutput
+Unused 140	0	4194304	Value	ValueOutput
+Unused 141	0	4194304	Value	ValueOutput
+Unused 142	0	4194304	Value	ValueOutput
+ 1  Pitch	0	4194304	Value	ValueOutput
+ 2  Pitch	0	4194304	Value	ValueOutput
+ 3  Pitch	0	4194304	Value	ValueOutput
+ 4  Pitch	0	4194304	Value	ValueOutput
+ 5  Pitch	0	4194304	Value	ValueOutput
+ 6  Pitch	0	4194304	Value	ValueOutput
+ 7  Pitch	0	4194304	Value	ValueOutput
+ 8  Pitch	0	4194304	Value	ValueOutput
+ 9  Pitch	0	4194304	Value	ValueOutput
+10  Pitch	0	4194304	Value	ValueOutput
+11  Pitch	0	4194304	Value	ValueOutput
+12  Pitch	0	4194304	Value	ValueOutput
+13  Pitch	0	4194304	Value	ValueOutput
+14  Pitch	0	4194304	Value	ValueOutput
+15  Pitch	0	4194304	Value	ValueOutput
+16  Pitch	0	4194304	Value	ValueOutput
+ 1  Sub Pitch	0	4194304	Value	ValueOutput
+ 2  Decay	0	4194304	Value	ValueOutput
+ 3  Attack	0	4194304	Value	ValueOutput
+ 4  K Freq	0	4194304	Value	ValueOutput
+ 5  Attack	0	4194304	Value	ValueOutput
+ 6  Spring Mass	0	4194304	Value	ValueOutput
+ 7  Attack	0	4194304	Value	ValueOutput
+ 8  Attack	0	4194304	Value	ValueOutput
+ 9  K Freq	0	4194304	Value	ValueOutput
+10  Attack	0	4194304	Value	ValueOutput
+11  Spring Mass	0	4194304	Value	ValueOutput
+12  Attack	0	4194304	Value	ValueOutput
+13  Ring Depth	0	4194304	Value	ValueOutput
+14  Ring Depth	0	4194304	Value	ValueOutput
+15  Attack	0	4194304	Value	ValueOutput
+16  Attack	0	4194304	Value	ValueOutput
+ 1  Sub Amount	0	4194304	Value	ValueOutput
+ 2  Snappy	0	4194304	Value	ValueOutput
+ 3  Decay	0	4194304	Value	ValueOutput
+ 4  Decay	0	4194304	Value	ValueOutput
+ 5  Decay	0	4194304	Value	ValueOutput
+ 6  Spring Stif	0	4194304	Value	ValueOutput
+ 7  Decay	0	4194304	Value	ValueOutput
+ 8  Decay	0	4194304	Value	ValueOutput
+ 9  K Damp	0	4194304	Value	ValueOutput
+10  Decay	0	4194304	Value	ValueOutput
+11  Spring Stif	0	4194304	Value	ValueOutput
+12  Decay	0	4194304	Value	ValueOutput
+13  Ring Rate	0	4194304	Value	ValueOutput
+14  Ring Rate	0	4194304	Value	ValueOutput
+15  Decay	0	4194304	Value	ValueOutput
+16  Decay	0	4194304	Value	ValueOutput
+ 1  Cutoff	0	4194304	Value	ValueOutput
+ 2  Cutoff	0	4194304	Value	ValueOutput
+ 3  Cutoff	0	4194304	Value	ValueOutput
+ 4  Cutoff	0	4194304	Value	ValueOutput
+ 5  Cutoff	0	4194304	Value	ValueOutput
+ 6  Cutoff	0	4194304	Value	ValueOutput
+ 7  Cutoff	0	4194304	Value	ValueOutput
+ 8  Cutoff	0	4194304	Value	ValueOutput
+ 9  Cutoff	0	4194304	Value	ValueOutput
+10  Cutoff	0	4194304	Value	ValueOutput
+11  Cutoff	0	4194304	Value	ValueOutput
+12  Cutoff	0	4194304	Value	ValueOutput
+13  Cutoff	0	4194304	Value	ValueOutput
+14  Cutoff	0	4194304	Value	ValueOutput
+15  Cutoff	0	4194304	Value	ValueOutput
+16  Cutoff	0	4194304	Value	ValueOutput
+ 1  Resonance	0	4194304	Value	ValueOutput
+ 2  Resonance	0	4194304	Value	ValueOutput
+ 3  Resonance	0	4194304	Value	ValueOutput
+ 4  Resonance	0	4194304	Value	ValueOutput
+ 5  Resonance	0	4194304	Value	ValueOutput
+ 6  Resonance	0	4194304	Value	ValueOutput
+ 7  Resonance	0	4194304	Value	ValueOutput
+ 8  Resonance	0	4194304	Value	ValueOutput
+ 9  Resonance	0	4194304	Value	ValueOutput
+10  Resonance	0	4194304	Value	ValueOutput
+11  Resonance	0	4194304	Value	ValueOutput
+12  Resonance	0	4194304	Value	ValueOutput
+13  Resonance	0	4194304	Value	ValueOutput
+14  Resonance	0	4194304	Value	ValueOutput
+15  Resonance	0	4194304	Value	ValueOutput
+16  Resonance	0	4194304	Value	ValueOutput
+ 1  Filter Type	0	4194304	Value	ValueOutput
+ 2  Filter Type	0	4194304	Value	ValueOutput
+ 3  Filter Type	0	4194304	Value	ValueOutput
+ 4  Filter Type	0	4194304	Value	ValueOutput
+ 5  Filter Type	0	4194304	Value	ValueOutput
+ 6  Filter Type	0	4194304	Value	ValueOutput
+ 7  Filter Type	0	4194304	Value	ValueOutput
+ 8  Filter Type	0	4194304	Value	ValueOutput
+ 9  Filter Type	0	4194304	Value	ValueOutput
+10  Filter Type	0	4194304	Value	ValueOutput
+11  Filter Type	0	4194304	Value	ValueOutput
+12  Filter Type	0	4194304	Value	ValueOutput
+13  Filter Type	0	4194304	Value	ValueOutput
+14  Filter Type	0	4194304	Value	ValueOutput
+15  Filter Type	0	4194304	Value	ValueOutput
+16  Filter Type	0	4194304	Value	ValueOutput
+Unused 239	0	4194304	Value	ValueOutput
+Unused 240	0	4194304	Value	ValueOutput
+Unused 241	0	4194304	Value	ValueOutput
+Unused 242	0	4194304	Value	ValueOutput
+Unused 243	0	4194304	Value	ValueOutput
+Unused 244	0	4194304	Value	ValueOutput
+Unused 245	0	4194304	Value	ValueOutput
+Unused 246	0	4194304	Value	ValueOutput
+Unused 247	0	4194304	Value	ValueOutput
+Unused 248	0	4194304	Value	ValueOutput
+Unused 249	0	4194304	Value	ValueOutput
+Unused 250	0	4194304	Value	ValueOutput
+Unused 251	0	4194304	Value	ValueOutput
+Unused 252	0	4194304	Value	ValueOutput
+Unused 253	0	4194304	Value	ValueOutput
+Unused 254	0	4194304	Value	ValueOutput
+Unused 255	0	4194304	Value	ValueOutput
+Unused 256	0	4194304	Value	ValueOutput
+Unused 257	0	4194304	Value	ValueOutput
+Unused 258	0	4194304	Value	ValueOutput
+Unused 259	0	4194304	Value	ValueOutput
+Unused 260	0	4194304	Value	ValueOutput
+Unused 261	0	4194304	Value	ValueOutput
+Unused 262	0	4194304	Value	ValueOutput
+Unused 263	0	4194304	Value	ValueOutput
+Unused 264	0	4194304	Value	ValueOutput
+Unused 265	0	4194304	Value	ValueOutput
+Unused 266	0	4194304	Value	ValueOutput
+Unused 267	0	4194304	Value	ValueOutput
+Unused 268	0	4194304	Value	ValueOutput
+Unused 269	0	4194304	Value	ValueOutput
+Unused 270	0	4194304	Value	ValueOutput
+Unused 271	0	4194304	Value	ValueOutput
+Unused 272	0	4194304	Value	ValueOutput
+Unused 273	0	4194304	Value	ValueOutput
+Unused 274	0	4194304	Value	ValueOutput
+Unused 275	0	4194304	Value	ValueOutput
+Unused 276	0	4194304	Value	ValueOutput
+Unused 277	0	4194304	Value	ValueOutput
+Unused 278	0	4194304	Value	ValueOutput
+Unused 279	0	4194304	Value	ValueOutput
+Unused 280	0	4194304	Value	ValueOutput
+Unused 281	0	4194304	Value	ValueOutput
+Unused 282	0	4194304	Value	ValueOutput
+Unused 283	0	4194304	Value	ValueOutput
+Unused 284	0	4194304	Value	ValueOutput
+Unused 285	0	4194304	Value	ValueOutput
+Unused 286	0	4194304	Value	ValueOutput
+ 1  Decay	0	4194304	Value	ValueOutput
+ 2  K Freq	0	4194304	Value	ValueOutput
+ 3  Freq Shift	0	4194304	Value	ValueOutput
+ 4  K Damp	0	4194304	Value	ValueOutput
+ 5  Freq Shift	0	4194304	Value	ValueOutput
+ 6  Spring Damp	0	4194304	Value	ValueOutput
+ 7  Freq Shift	0	4194304	Value	ValueOutput
+ 8  BPF Cutoff	0	4194304	Value	ValueOutput
+ 9  K Noise	0	4194304	Value	ValueOutput
+10  Freq Shift	0	4194304	Value	ValueOutput
+11  Spring Damp	0	4194304	Value	ValueOutput
+12  Freq Shift	0	4194304	Value	ValueOutput
+13  Attack	0	4194304	Value	ValueOutput
+14  Decay	0	4194304	Value	ValueOutput
+15  Freq Shift	0	4194304	Value	ValueOutput
+16  Freq Shift	0	4194304	Value	ValueOutput
+ 1  Sub Bend	0	4194304	Value	ValueOutput
+ 2  Booster	0	4194304	Value	ValueOutput
+ 3  Shift Rate	0	4194304	Value	ValueOutput
+ 4  K Noise	0	4194304	Value	ValueOutput
+ 5  Shift Rate	0	4194304	Value	ValueOutput
+ 6  Metalize	0	4194304	Value	ValueOutput
+ 7  Shift Bend	0	4194304	Value	ValueOutput
+ 8  BPF Reso	0	4194304	Value	ValueOutput
+ 9  Attack	0	4194304	Value	ValueOutput
+10  Shift Rate	0	4194304	Value	ValueOutput
+11  Attack	0	4194304	Value	ValueOutput
+12  Shift Rate	0	4194304	Value	ValueOutput
+13  Decay	0	4194304	Value	ValueOutput
+14  Attack	0	4194304	Value	ValueOutput
+15  Shift Rate	0	4194304	Value	ValueOutput
+16  Shift Rate	0	4194304	Value	ValueOutput
+ 1  Sub Rate	0	4194304	Value	ValueOutput
+ 2  Booster Fre	0	4194304	Value	ValueOutput
+ 3  Shift Range	0	4194304	Value	ValueOutput
+ 4  HPF Cutoff	0	4194304	Value	ValueOutput
+ 5  Shift Range	0	4194304	Value	ValueOutput
+ 6  Decay	0	4194304	Value	ValueOutput
+ 7  Bend Rate	0	4194304	Value	ValueOutput
+ 8  Zap	0	4194304	Value	ValueOutput
+ 9  Decay	0	4194304	Value	ValueOutput
+10  Shift Range	0	4194304	Value	ValueOutput
+11  Decay	0	4194304	Value	ValueOutput
+12  Shift Range	0	4194304	Value	ValueOutput
+13  Harmonix	0	4194304	Value	ValueOutput
+14  Tone	0	4194304	Value	ValueOutput
+15  Shift Range	0	4194304	Value	ValueOutput
+16  Shift Range	0	4194304	Value	ValueOutput
+ 1  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 1  - 1 Bypass	0	4194304	Value	ValueOutput
+ 1  - 1 Dry Wet	0	4194304	Value	ValueOutput
+ 2  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 2  - 1 Bypass	0	4194304	Value	ValueOutput
+ 2  - 1 Dry Wet	0	4194304	Value	ValueOutput
+ 3  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 3  - 1 Bypass	0	4194304	Value	ValueOutput
+ 3  - 1 Dry Wet	0	4194304	Value	ValueOutput
+ 4  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 4  - 1 Bypass	0	4194304	Value	ValueOutput
+ 4  - 1 Dry Wet	0	4194304	Value	ValueOutput
+ 5  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 5  - 1 Bypass	0	4194304	Value	ValueOutput
+ 5  - 1 Dry Wet	0	4194304	Value	ValueOutput
+ 6  Param EQ 1 	0	4194304	Value	ValueOutput
+ 6  Param EQ 1 	0	4194304	Value	ValueOutput
+ 6  Param EQ 1 	0	4194304	Value	ValueOutput
+ 6  Param EQ 1 	0	4194304	Value	ValueOutput
+ 6  Param EQ 1 	0	4194304	Value	ValueOutput
+ 6  Param EQ 1 	0	4194304	Value	ValueOutput
+ 6  Param EQ 1 	0	4194304	Value	ValueOutput
+ 6  Param EQ 1 	0	4194304	Value	ValueOutput
+ 6  Param EQ 1 	0	4194304	Value	ValueOutput
+ 6  Param EQ 1 	0	4194304	Value	ValueOutput
+ 6  Param EQ 1 	0	4194304	Value	ValueOutput
+ 6  Param EQ 1 	0	4194304	Value	ValueOutput
+ 7  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 7  - 1 Bypass	0	4194304	Value	ValueOutput
+ 7  - 1 Dry Wet	0	4194304	Value	ValueOutput
+ 8  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 8  - 1 Bypass	0	4194304	Value	ValueOutput
+ 8  - 1 Dry Wet	0	4194304	Value	ValueOutput
+ 9  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 1 Parame	0	4194304	Value	ValueOutput
+ 9  - 1 Bypass	0	4194304	Value	ValueOutput
+ 9  - 1 Dry Wet	0	4194304	Value	ValueOutput
+10  Fx 1 Parame	0	4194304	Value	ValueOutput
+10  Fx 1 Parame	0	4194304	Value	ValueOutput
+10  Fx 1 Parame	0	4194304	Value	ValueOutput
+10  Fx 1 Parame	0	4194304	Value	ValueOutput
+10  Fx 1 Parame	0	4194304	Value	ValueOutput
+10  Fx 1 Parame	0	4194304	Value	ValueOutput
+10  Fx 1 Parame	0	4194304	Value	ValueOutput
+10  Fx 1 Parame	0	4194304	Value	ValueOutput
+10  Fx 1 Parame	0	4194304	Value	ValueOutput
+10  Fx 1 Parame	0	4194304	Value	ValueOutput
+10  - 1 Bypass	0	4194304	Value	ValueOutput
+10  - 1 Dry Wet	0	4194304	Value	ValueOutput
+11  Fx 1 Parame	0	4194304	Value	ValueOutput
+11  Fx 1 Parame	0	4194304	Value	ValueOutput
+11  Fx 1 Parame	0	4194304	Value	ValueOutput
+11  Fx 1 Parame	0	4194304	Value	ValueOutput
+11  Fx 1 Parame	0	4194304	Value	ValueOutput
+11  Fx 1 Parame	0	4194304	Value	ValueOutput
+11  Fx 1 Parame	0	4194304	Value	ValueOutput
+11  Fx 1 Parame	0	4194304	Value	ValueOutput
+11  Fx 1 Parame	0	4194304	Value	ValueOutput
+11  Fx 1 Parame	0	4194304	Value	ValueOutput
+11  - 1 Bypass	0	4194304	Value	ValueOutput
+11  - 1 Dry Wet	0	4194304	Value	ValueOutput
+12  Fx 1 Parame	0	4194304	Value	ValueOutput
+12  Fx 1 Parame	0	4194304	Value	ValueOutput
+12  Fx 1 Parame	0	4194304	Value	ValueOutput
+12  Fx 1 Parame	0	4194304	Value	ValueOutput
+12  Fx 1 Parame	0	4194304	Value	ValueOutput
+12  Fx 1 Parame	0	4194304	Value	ValueOutput
+12  Fx 1 Parame	0	4194304	Value	ValueOutput
+12  Fx 1 Parame	0	4194304	Value	ValueOutput
+12  Fx 1 Parame	0	4194304	Value	ValueOutput
+12  Fx 1 Parame	0	4194304	Value	ValueOutput
+12  - 1 Bypass	0	4194304	Value	ValueOutput
+12  - 1 Dry Wet	0	4194304	Value	ValueOutput
+13  Fx 1 Parame	0	4194304	Value	ValueOutput
+13  Fx 1 Parame	0	4194304	Value	ValueOutput
+13  Fx 1 Parame	0	4194304	Value	ValueOutput
+13  Fx 1 Parame	0	4194304	Value	ValueOutput
+13  Fx 1 Parame	0	4194304	Value	ValueOutput
+13  Fx 1 Parame	0	4194304	Value	ValueOutput
+13  Fx 1 Parame	0	4194304	Value	ValueOutput
+13  Fx 1 Parame	0	4194304	Value	ValueOutput
+13  Fx 1 Parame	0	4194304	Value	ValueOutput
+13  Fx 1 Parame	0	4194304	Value	ValueOutput
+13  - 1 Bypass	0	4194304	Value	ValueOutput
+13  - 1 Dry Wet	0	4194304	Value	ValueOutput
+14  Fx 1 Parame	0	4194304	Value	ValueOutput
+14  Fx 1 Parame	0	4194304	Value	ValueOutput
+14  Fx 1 Parame	0	4194304	Value	ValueOutput
+14  Fx 1 Parame	0	4194304	Value	ValueOutput
+14  Fx 1 Parame	0	4194304	Value	ValueOutput
+14  Fx 1 Parame	0	4194304	Value	ValueOutput
+14  Fx 1 Parame	0	4194304	Value	ValueOutput
+14  Fx 1 Parame	0	4194304	Value	ValueOutput
+14  Fx 1 Parame	0	4194304	Value	ValueOutput
+14  Fx 1 Parame	0	4194304	Value	ValueOutput
+14  - 1 Bypass	0	4194304	Value	ValueOutput
+14  - 1 Dry Wet	0	4194304	Value	ValueOutput
+15  Fx 1 Parame	0	4194304	Value	ValueOutput
+15  Fx 1 Parame	0	4194304	Value	ValueOutput
+15  Fx 1 Parame	0	4194304	Value	ValueOutput
+15  Fx 1 Parame	0	4194304	Value	ValueOutput
+15  Fx 1 Parame	0	4194304	Value	ValueOutput
+15  Fx 1 Parame	0	4194304	Value	ValueOutput
+15  Fx 1 Parame	0	4194304	Value	ValueOutput
+15  Fx 1 Parame	0	4194304	Value	ValueOutput
+15  Fx 1 Parame	0	4194304	Value	ValueOutput
+15  Fx 1 Parame	0	4194304	Value	ValueOutput
+15  - 1 Bypass	0	4194304	Value	ValueOutput
+15  - 1 Dry Wet	0	4194304	Value	ValueOutput
+16  Fx 1 Parame	0	4194304	Value	ValueOutput
+16  Fx 1 Parame	0	4194304	Value	ValueOutput
+16  Fx 1 Parame	0	4194304	Value	ValueOutput
+16  Fx 1 Parame	0	4194304	Value	ValueOutput
+16  Fx 1 Parame	0	4194304	Value	ValueOutput
+16  Fx 1 Parame	0	4194304	Value	ValueOutput
+16  Fx 1 Parame	0	4194304	Value	ValueOutput
+16  Fx 1 Parame	0	4194304	Value	ValueOutput
+16  Fx 1 Parame	0	4194304	Value	ValueOutput
+16  Fx 1 Parame	0	4194304	Value	ValueOutput
+16  - 1 Bypass	0	4194304	Value	ValueOutput
+16  - 1 Dry Wet	0	4194304	Value	ValueOutput
+ 1  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 1  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 1  - 2 Bypass	0	4194304	Value	ValueOutput
+ 1  - 2 Dry Wet	0	4194304	Value	ValueOutput
+ 2  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 2  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 2  - 2 Bypass	0	4194304	Value	ValueOutput
+ 2  - 2 Dry Wet	0	4194304	Value	ValueOutput
+ 3  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 3  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 3  - 2 Bypass	0	4194304	Value	ValueOutput
+ 3  - 2 Dry Wet	0	4194304	Value	ValueOutput
+ 4  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 4  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 4  - 2 Bypass	0	4194304	Value	ValueOutput
+ 4  - 2 Dry Wet	0	4194304	Value	ValueOutput
+ 5  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 5  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 5  - 2 Bypass	0	4194304	Value	ValueOutput
+ 5  - 2 Dry Wet	0	4194304	Value	ValueOutput
+ 6  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 6  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 6  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 6  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 6  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 6  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 6  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 6  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 6  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 6  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 6  - 2 Bypass	0	4194304	Value	ValueOutput
+ 6  - 2 Dry Wet	0	4194304	Value	ValueOutput
+ 7  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 7  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 7  - 2 Bypass	0	4194304	Value	ValueOutput
+ 7  - 2 Dry Wet	0	4194304	Value	ValueOutput
+ 8  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 8  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 8  - 2 Bypass	0	4194304	Value	ValueOutput
+ 8  - 2 Dry Wet	0	4194304	Value	ValueOutput
+ 9  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 9  Fx 2 Parame	0	4194304	Value	ValueOutput
+ 9  - 2 Bypass	0	4194304	Value	ValueOutput
+ 9  - 2 Dry Wet	0	4194304	Value	ValueOutput
+10  Fx 2 Parame	0	4194304	Value	ValueOutput
+10  Fx 2 Parame	0	4194304	Value	ValueOutput
+10  Fx 2 Parame	0	4194304	Value	ValueOutput
+10  Fx 2 Parame	0	4194304	Value	ValueOutput
+10  Fx 2 Parame	0	4194304	Value	ValueOutput
+10  Fx 2 Parame	0	4194304	Value	ValueOutput
+10  Fx 2 Parame	0	4194304	Value	ValueOutput
+10  Fx 2 Parame	0	4194304	Value	ValueOutput
+10  Fx 2 Parame	0	4194304	Value	ValueOutput
+10  Fx 2 Parame	0	4194304	Value	ValueOutput
+10  - 2 Bypass	0	4194304	Value	ValueOutput
+10  - 2 Dry Wet	0	4194304	Value	ValueOutput
+11  Fx 2 Parame	0	4194304	Value	ValueOutput
+11  Fx 2 Parame	0	4194304	Value	ValueOutput
+11  Fx 2 Parame	0	4194304	Value	ValueOutput
+11  Fx 2 Parame	0	4194304	Value	ValueOutput
+11  Fx 2 Parame	0	4194304	Value	ValueOutput
+11  Fx 2 Parame	0	4194304	Value	ValueOutput
+11  Fx 2 Parame	0	4194304	Value	ValueOutput
+11  Fx 2 Parame	0	4194304	Value	ValueOutput
+11  Fx 2 Parame	0	4194304	Value	ValueOutput
+11  Fx 2 Parame	0	4194304	Value	ValueOutput
+11  - 2 Bypass	0	4194304	Value	ValueOutput
+11  - 2 Dry Wet	0	4194304	Value	ValueOutput
+12  Fx 2 Parame	0	4194304	Value	ValueOutput
+12  Fx 2 Parame	0	4194304	Value	ValueOutput
+12  Fx 2 Parame	0	4194304	Value	ValueOutput
+12  Fx 2 Parame	0	4194304	Value	ValueOutput
+12  Fx 2 Parame	0	4194304	Value	ValueOutput
+12  Fx 2 Parame	0	4194304	Value	ValueOutput
+12  Fx 2 Parame	0	4194304	Value	ValueOutput
+12  Fx 2 Parame	0	4194304	Value	ValueOutput
+12  Fx 2 Parame	0	4194304	Value	ValueOutput
+12  Fx 2 Parame	0	4194304	Value	ValueOutput
+12  - 2 Bypass	0	4194304	Value	ValueOutput
+12  - 2 Dry Wet	0	4194304	Value	ValueOutput
+13  Fx 2 Parame	0	4194304	Value	ValueOutput
+13  Fx 2 Parame	0	4194304	Value	ValueOutput
+13  Fx 2 Parame	0	4194304	Value	ValueOutput
+13  Fx 2 Parame	0	4194304	Value	ValueOutput
+13  Fx 2 Parame	0	4194304	Value	ValueOutput
+13  Fx 2 Parame	0	4194304	Value	ValueOutput
+13  Fx 2 Parame	0	4194304	Value	ValueOutput
+13  Fx 2 Parame	0	4194304	Value	ValueOutput
+13  Fx 2 Parame	0	4194304	Value	ValueOutput
+13  Fx 2 Parame	0	4194304	Value	ValueOutput
+13  - 2 Bypass	0	4194304	Value	ValueOutput
+13  - 2 Dry Wet	0	4194304	Value	ValueOutput
+14  Fx 2 Parame	0	4194304	Value	ValueOutput
+14  Fx 2 Parame	0	4194304	Value	ValueOutput
+14  Fx 2 Parame	0	4194304	Value	ValueOutput
+14  Fx 2 Parame	0	4194304	Value	ValueOutput
+14  Fx 2 Parame	0	4194304	Value	ValueOutput
+14  Fx 2 Parame	0	4194304	Value	ValueOutput
+14  Fx 2 Parame	0	4194304	Value	ValueOutput
+14  Fx 2 Parame	0	4194304	Value	ValueOutput
+14  Fx 2 Parame	0	4194304	Value	ValueOutput
+14  Fx 2 Parame	0	4194304	Value	ValueOutput
+14  - 2 Bypass	0	4194304	Value	ValueOutput
+14  - 2 Dry Wet	0	4194304	Value	ValueOutput
+15  Fx 2 Parame	0	4194304	Value	ValueOutput
+15  Fx 2 Parame	0	4194304	Value	ValueOutput
+15  Fx 2 Parame	0	4194304	Value	ValueOutput
+15  Fx 2 Parame	0	4194304	Value	ValueOutput
+15  Fx 2 Parame	0	4194304	Value	ValueOutput
+15  Fx 2 Parame	0	4194304	Value	ValueOutput
+15  Fx 2 Parame	0	4194304	Value	ValueOutput
+15  Fx 2 Parame	0	4194304	Value	ValueOutput
+15  Fx 2 Parame	0	4194304	Value	ValueOutput
+15  Fx 2 Parame	0	4194304	Value	ValueOutput
+15  - 2 Bypass	0	4194304	Value	ValueOutput
+15  - 2 Dry Wet	0	4194304	Value	ValueOutput
+16  Fx 2 Parame	0	4194304	Value	ValueOutput
+16  Fx 2 Parame	0	4194304	Value	ValueOutput
+16  Fx 2 Parame	0	4194304	Value	ValueOutput
+16  Fx 2 Parame	0	4194304	Value	ValueOutput
+16  Fx 2 Parame	0	4194304	Value	ValueOutput
+16  Fx 2 Parame	0	4194304	Value	ValueOutput
+16  Fx 2 Parame	0	4194304	Value	ValueOutput
+16  Fx 2 Parame	0	4194304	Value	ValueOutput
+16  Fx 2 Parame	0	4194304	Value	ValueOutput
+16  Fx 2 Parame	0	4194304	Value	ValueOutput
+16  - 2 Bypass	0	4194304	Value	ValueOutput
+16  - 2 Dry Wet	0	4194304	Value	ValueOutput
+Return 1  Rever	0	4194304	Value	ValueOutput
+Return 1  Rever	0	4194304	Value	ValueOutput
+Return 1  Rever	0	4194304	Value	ValueOutput
+Return 1  Rever	0	4194304	Value	ValueOutput
+Return 1  Rever	0	4194304	Value	ValueOutput
+Return 1  Rever	0	4194304	Value	ValueOutput
+Return 1  Rever	0	4194304	Value	ValueOutput
+Return 1  Param	0	4194304	Value	ValueOutput
+Return 1  Param	0	4194304	Value	ValueOutput
+Return 1  Param	0	4194304	Value	ValueOutput
+Return 1  Rever	0	4194304	Value	ValueOutput
+Return 1  Rever	0	4194304	Value	ValueOutput
+Return 2  Delay	0	4194304	Value	ValueOutput
+Return 2  Delay	0	4194304	Value	ValueOutput
+Return 2  Delay	0	4194304	Value	ValueOutput
+Return 2  Delay	0	4194304	Value	ValueOutput
+Return 2  Delay	0	4194304	Value	ValueOutput
+Return 2  Delay	0	4194304	Value	ValueOutput
+Return 2  Delay	0	4194304	Value	ValueOutput
+Return 2  Delay	0	4194304	Value	ValueOutput
+Return 2  Param	0	4194304	Value	ValueOutput
+Return 2  Param	0	4194304	Value	ValueOutput
+Return 2  Delay	0	4194304	Value	ValueOutput
+Return 2  Delay	0	4194304	Value	ValueOutput
+Master FX 1 Par	0	4194304	Value	ValueOutput
+Master FX 1 Par	0	4194304	Value	ValueOutput
+Master FX 1 Par	0	4194304	Value	ValueOutput
+Master FX 1 Par	0	4194304	Value	ValueOutput
+Master FX 1 Par	0	4194304	Value	ValueOutput
+Master FX 1 Par	0	4194304	Value	ValueOutput
+Master FX 1 Par	0	4194304	Value	ValueOutput
+Master FX 1 Par	0	4194304	Value	ValueOutput
+Master FX 1 Par	0	4194304	Value	ValueOutput
+Master FX 1 Par	0	4194304	Value	ValueOutput
+Master FX 1 - B	0	4194304	Value	ValueOutput
+Master FX 1 - D	0	4194304	Value	ValueOutput
+Master FX 2 Com	0	4194304	Value	ValueOutput
+Master FX 2 Com	0	4194304	Value	ValueOutput
+Master FX 2 Com	0	4194304	Value	ValueOutput
+Master FX 2 Com	0	4194304	Value	ValueOutput
+Master FX 2 Com	0	4194304	Value	ValueOutput
+Master FX 2 Com	0	4194304	Value	ValueOutput
+Master FX 2 Par	0	4194304	Value	ValueOutput
+Master FX 2 Par	0	4194304	Value	ValueOutput
+Master FX 2 Par	0	4194304	Value	ValueOutput
+Master FX 2 Par	0	4194304	Value	ValueOutput
+Master FX 2 Com	0	4194304	Value	ValueOutput
+Master FX 2 Com	0	4194304	Value	ValueOutput
+Next Pattern	0	4194304	Value	ValueOutput
+Next Bank	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

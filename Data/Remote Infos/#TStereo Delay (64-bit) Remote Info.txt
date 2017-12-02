@@ -1,0 +1,46 @@
+Scope
+Manufacturer	Model
+Tracktion	vst.SDel.#TStereo Delay (64-bit)
+Note: Will match scope definitions for vst.SDel.#TStereo Delay (64-bit) or vst.SDel
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Enable	0	4194304	Value	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Sync	0	4194304	Value	ValueOutput
+L Source	0	4194304	Value	ValueOutput
+L Feedback	0	4194304	Value	ValueOutput
+L Cross FB	0	4194304	Value	ValueOutput
+L Note Delay	0	4194304	Value	ValueOutput
+L Note Offset	0	4194304	Value	ValueOutput
+L Delay	0	4194304	Value	ValueOutput
+L Pan	0	4194304	Value	ValueOutput
+L Low Cut	0	4194304	Value	ValueOutput
+L High Cut	0	4194304	Value	ValueOutput
+R Source	0	4194304	Value	ValueOutput
+R Feedback	0	4194304	Value	ValueOutput
+R Cross FB	0	4194304	Value	ValueOutput
+R Note Delay	0	4194304	Value	ValueOutput
+R Note Offset	0	4194304	Value	ValueOutput
+R Delay	0	4194304	Value	ValueOutput
+R Pan	0	4194304	Value	ValueOutput
+R Low Cut	0	4194304	Value	ValueOutput
+R High Cut	0	4194304	Value	ValueOutput
+Wet	0	4194304	Value	ValueOutput
+Dry	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,109 @@
+Scope
+Manufacturer	Model
+Intelligent Sounds and Music	vst.AROM.Aroma
+Note: Will match scope definitions for vst.AROM.Aroma or vst.AROM
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+global on	0	4194304	Value	ValueOutput
+page	0	4194304	Value	ValueOutput
+vol in	0	4194304	Value	ValueOutput
+vol out	0	4194304	Value	ValueOutput
+spare	0	4194304	Value	ValueOutput
+spare	0	4194304	Value	ValueOutput
+spare	0	4194304	Value	ValueOutput
+spare	0	4194304	Value	ValueOutput
+spare	0	4194304	Value	ValueOutput
+CompValidA	0	4194304	Value	ValueOutput
+CompValidB	0	4194304	Value	ValueOutput
+CompValidC	0	4194304	Value	ValueOutput
+Salt	0	4194304	Value	ValueOutput
+Salt Flavour	0	4194304	Value	ValueOutput
+Salt On	0	4194304	Value	ValueOutput
+StereoSaltX1	0	4194304	Value	ValueOutput
+StereoSaltX2	0	4194304	Value	ValueOutput
+StereoSaltX3	0	4194304	Value	ValueOutput
+Pepper	0	4194304	Value	ValueOutput
+Pepper Flavour	0	4194304	Value	ValueOutput
+PepperOn	0	4194304	Value	ValueOutput
+StereoPepperX1	0	4194304	Value	ValueOutput
+StereoPepperX2	0	4194304	Value	ValueOutput
+StereoPepperX3	0	4194304	Value	ValueOutput
+Sugar	0	4194304	Value	ValueOutput
+Sugar Flavour	0	4194304	Value	ValueOutput
+SugarOn	0	4194304	Value	ValueOutput
+StereoSugarX1	0	4194304	Value	ValueOutput
+StereoSugarX2	0	4194304	Value	ValueOutput
+StereoSugarX3	0	4194304	Value	ValueOutput
+Chili	0	4194304	Value	ValueOutput
+Chili Flavour	0	4194304	Value	ValueOutput
+Chili	0	4194304	Value	ValueOutput
+StereoChiliX1	0	4194304	Value	ValueOutput
+StereoChiliX2	0	4194304	Value	ValueOutput
+StereoChiliX3	0	4194304	Value	ValueOutput
+Salt	0	4194304	Value	ValueOutput
+Salt Flavour	0	4194304	Value	ValueOutput
+Salt On	0	4194304	Value	ValueOutput
+MidSaltX1	0	4194304	Value	ValueOutput
+MidSaltX2	0	4194304	Value	ValueOutput
+MidSaltX3	0	4194304	Value	ValueOutput
+Pepper	0	4194304	Value	ValueOutput
+Pepper Flavour	0	4194304	Value	ValueOutput
+PepperOn	0	4194304	Value	ValueOutput
+MidPepperX1	0	4194304	Value	ValueOutput
+MidPepperX2	0	4194304	Value	ValueOutput
+MidPepperX3	0	4194304	Value	ValueOutput
+Sugar	0	4194304	Value	ValueOutput
+Sugar Flavour	0	4194304	Value	ValueOutput
+SugarOn	0	4194304	Value	ValueOutput
+MidSugarX1	0	4194304	Value	ValueOutput
+MidSugarX2	0	4194304	Value	ValueOutput
+MidSugarX3	0	4194304	Value	ValueOutput
+Chili	0	4194304	Value	ValueOutput
+Chili Flavour	0	4194304	Value	ValueOutput
+Chili	0	4194304	Value	ValueOutput
+MidChiliX1	0	4194304	Value	ValueOutput
+MidChiliX2	0	4194304	Value	ValueOutput
+MidChiliX3	0	4194304	Value	ValueOutput
+Salt	0	4194304	Value	ValueOutput
+Salt Flavour	0	4194304	Value	ValueOutput
+Salt On	0	4194304	Value	ValueOutput
+SideSaltX1	0	4194304	Value	ValueOutput
+SideSaltX2	0	4194304	Value	ValueOutput
+SideSaltX3	0	4194304	Value	ValueOutput
+Pepper	0	4194304	Value	ValueOutput
+Pepper Flavour	0	4194304	Value	ValueOutput
+PepperOn	0	4194304	Value	ValueOutput
+SidePepperX1	0	4194304	Value	ValueOutput
+SidePepperX2	0	4194304	Value	ValueOutput
+SidePepperX3	0	4194304	Value	ValueOutput
+Sugar	0	4194304	Value	ValueOutput
+Sugar Flavour	0	4194304	Value	ValueOutput
+SugarOn	0	4194304	Value	ValueOutput
+SideSugarX1	0	4194304	Value	ValueOutput
+SideSugarX2	0	4194304	Value	ValueOutput
+SideSugarX3	0	4194304	Value	ValueOutput
+Chili	0	4194304	Value	ValueOutput
+Chili Flavour	0	4194304	Value	ValueOutput
+Chili	0	4194304	Value	ValueOutput
+SideChiliX1	0	4194304	Value	ValueOutput
+SideChiliX2	0	4194304	Value	ValueOutput
+SideChiliX3	0	4194304	Value	ValueOutput
+P3/18dbIn	0	4194304	Value	ValueOutput
+P3/18dbIn	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

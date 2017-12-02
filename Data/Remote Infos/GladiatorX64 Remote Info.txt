@@ -1,0 +1,80 @@
+Scope
+Manufacturer	Model
+Tone2.com	vst.T2GL.GladiatorX64
+Note: Will match scope definitions for vst.T2GL.GladiatorX64 or vst.T2GL
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+OSC12 ST	0	4194304	Value	ValueOutput
+OSC12 SP	0	4194304	Value	ValueOutput
+OSC12 LO	0	4194304	Value	ValueOutput
+OSC12 LO	0	4194304	Value	ValueOutput
+OSC12 OC	0	4194304	Value	ValueOutput
+OSC12 SE	0	4194304	Value	ValueOutput
+OSC12 FI	0	4194304	Value	ValueOutput
+OSC34 ST	0	4194304	Value	ValueOutput
+OSC34 SP	0	4194304	Value	ValueOutput
+OSC34 LO	0	4194304	Value	ValueOutput
+OSC34 LO	0	4194304	Value	ValueOutput
+OSC34 OC	0	4194304	Value	ValueOutput
+OSC34 SE	0	4194304	Value	ValueOutput
+OSC34 FI	0	4194304	Value	ValueOutput
+OSC5 OCT	0	4194304	Value	ValueOutput
+OSC5 KEY	0	4194304	Value	ValueOutput
+OSC12 MI	0	4194304	Value	ValueOutput
+OSC34 MI	0	4194304	Value	ValueOutput
+OSC5 MIX	0	4194304	Value	ValueOutput
+OSC12/34	0	4194304	Value	ValueOutput
+OSC UNIS	0	4194304	Value	ValueOutput
+OSC SPIR	0	4194304	Value	ValueOutput
+FIL CUTO	0	4194304	Value	ValueOutput
+FIL RESO	0	4194304	Value	ValueOutput
+FIL ATTA	0	4194304	Value	ValueOutput
+FIL DECA	0	4194304	Value	ValueOutput
+FIL SUST	0	4194304	Value	ValueOutput
+FIL FADE	0	4194304	Value	ValueOutput
+FIL RELE	0	4194304	Value	ValueOutput
+FIL SEND	0	4194304	Value	ValueOutput
+FIL STER	0	4194304	Value	ValueOutput
+FIL KEY 	0	4194304	Value	ValueOutput
+FIL VELO	0	4194304	Value	ValueOutput
+DRIVE	0	4194304	Value	ValueOutput
+VOLUME	0	4194304	Value	ValueOutput
+VOL VELO	0	4194304	Value	ValueOutput
+VOL ATTA	0	4194304	Value	ValueOutput
+VOL DECA	0	4194304	Value	ValueOutput
+VOL SUST	0	4194304	Value	ValueOutput
+VOL FADE	0	4194304	Value	ValueOutput
+VOL RELE	0	4194304	Value	ValueOutput
+PAN	0	4194304	Value	ValueOutput
+EQ LOW	0	4194304	Value	ValueOutput
+EQ MID	0	4194304	Value	ValueOutput
+EQ HIGH	0	4194304	Value	ValueOutput
+FX1 MIX	0	4194304	Value	ValueOutput
+FX2 MIX	0	4194304	Value	ValueOutput
+LFO1 SPE	0	4194304	Value	ValueOutput
+LFO2 SPE	0	4194304	Value	ValueOutput
+LFO3 SPE	0	4194304	Value	ValueOutput
+MOD AMOU	0	4194304	Value	ValueOutput
+MOD AMOU	0	4194304	Value	ValueOutput
+MOD AMOU	0	4194304	Value	ValueOutput
+MOD AMOU	0	4194304	Value	ValueOutput
+MOD AMOU	0	4194304	Value	ValueOutput
+MOD AMOU	0	4194304	Value	ValueOutput
+VOLUME	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

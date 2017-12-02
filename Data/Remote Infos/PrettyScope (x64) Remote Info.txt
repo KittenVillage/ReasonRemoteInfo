@@ -1,0 +1,84 @@
+Scope
+Manufacturer	Model
+Soundemote	vst.PrSc.PrettyScope (x64)
+Note: Will match scope definitions for vst.PrSc.PrettyScope (x64) or vst.PrSc
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+FXMode	0	4194304	Value	ValueOutput
+ParameterSmoothi	0	4194304	Value	ValueOutput
+Pause	0	4194304	Value	ValueOutput
+AutoPauseMode	0	4194304	Value	ValueOutput
+FreezePoints	0	4194304	Value	ValueOutput
+ShowFPS	0	4194304	Value	ValueOutput
+Heatmap	0	4194304	Value	ValueOutput
+BlendMode	0	4194304	Value	ValueOutput
+DotColorMode	0	4194304	Value	ValueOutput
+LineColorMode	0	4194304	Value	ValueOutput
+Framerate	0	4194304	Value	ValueOutput
+DecaySpeed	0	4194304	Value	ValueOutput
+PointsPerFrame	0	4194304	Value	ValueOutput
+TailFade	0	4194304	Value	ValueOutput
+Dots	0	4194304	Value	ValueOutput
+DotBrightness	0	4194304	Value	ValueOutput
+DotSize	0	4194304	Value	ValueOutput
+DotBlur	0	4194304	Value	ValueOutput
+DotProfile	0	4194304	Value	ValueOutput
+drawOrder	0	4194304	Value	ValueOutput
+Lines	0	4194304	Value	ValueOutput
+LineBrightness	0	4194304	Value	ValueOutput
+LineSize	0	4194304	Value	ValueOutput
+LineBlur	0	4194304	Value	ValueOutput
+LenFactor	0	4194304	Value	ValueOutput
+LineProfile	0	4194304	Value	ValueOutput
+DotColorR	0	4194304	Value	ValueOutput
+DotColorG	0	4194304	Value	ValueOutput
+DotColorB	0	4194304	Value	ValueOutput
+DotColorH	0	4194304	Value	ValueOutput
+DotColorS	0	4194304	Value	ValueOutput
+DotColorL	0	4194304	Value	ValueOutput
+LineColorR	0	4194304	Value	ValueOutput
+LineColorG	0	4194304	Value	ValueOutput
+LineColorB	0	4194304	Value	ValueOutput
+LineColorH	0	4194304	Value	ValueOutput
+LineColorS	0	4194304	Value	ValueOutput
+LineColorL	0	4194304	Value	ValueOutput
+DotColorR2	0	4194304	Value	ValueOutput
+DotColorG2	0	4194304	Value	ValueOutput
+DotColorB2	0	4194304	Value	ValueOutput
+DotColorH2	0	4194304	Value	ValueOutput
+DotColorS2	0	4194304	Value	ValueOutput
+DotColorL2	0	4194304	Value	ValueOutput
+LineColorR2	0	4194304	Value	ValueOutput
+LineColorG2	0	4194304	Value	ValueOutput
+LineColorB2	0	4194304	Value	ValueOutput
+LineColorH2	0	4194304	Value	ValueOutput
+LineColorS2	0	4194304	Value	ValueOutput
+LineColorL2	0	4194304	Value	ValueOutput
+lenColorIntensit	0	4194304	Value	ValueOutput
+Zoom	0	4194304	Value	ValueOutput
+ScaleX	0	4194304	Value	ValueOutput
+ScaleY	0	4194304	Value	ValueOutput
+ShearX	0	4194304	Value	ValueOutput
+ShearY	0	4194304	Value	ValueOutput
+Rotation	0	4194304	Value	ValueOutput
+ShiftX	0	4194304	Value	ValueOutput
+ShiftY	0	4194304	Value	ValueOutput
+OneDimZoom	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput
+Proxy Open Plugin Window	0	1	Toggle	ValueOutput

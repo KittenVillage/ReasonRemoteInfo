@@ -1,0 +1,224 @@
+Scope
+Manufacturer	Model
+Soundemote	vst.SG02.Spiral Generator 2 (x64)
+Note: Will match scope definitions for vst.SG02.Spiral Generator 2 (x64) or vst.SG02
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Gain	0	4194304	Value	ValueOutput
+Clip	0	4194304	Value	ValueOutput
+Tune	0	4194304	Value	ValueOutput
+Octave	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Density	0	4194304	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+Size	0	4194304	Value	ValueOutput
+CurveMultiply	0	4194304	Value	ValueOutput
+Sharp	0	4194304	Value	ValueOutput
+SharpCurve	0	4194304	Value	ValueOutput
+Morph	0	4194304	Value	ValueOutput
+RotX	0	4194304	Value	ValueOutput
+RotY	0	4194304	Value	ValueOutput
+ZDepth	0	4194304	Value	ValueOutput
+ZAmount	0	4194304	Value	ValueOutput
+OffX	0	4194304	Value	ValueOutput
+OffY	0	4194304	Value	ValueOutput
+Lowpass	0	4194304	Value	ValueOutput
+Highpass	0	4194304	Value	ValueOutput
+GlideMode	0	4194304	Value	ValueOutput
+Oversampling	0	4194304	Value	ValueOutput
+ParameterSmoothi	0	4194304	Value	ValueOutput
+OscPhaseMode	0	4194304	Value	ValueOutput
+MidiMod1Source	0	4194304	Value	ValueOutput
+MidiMod1Target	0	4194304	Value	ValueOutput
+MidiMod1Amp	0	4194304	Value	ValueOutput
+MidiMod1Offset	0	4194304	Value	ValueOutput
+MidiMod1Smth	0	4194304	Value	ValueOutput
+MidiMod2Source	0	4194304	Value	ValueOutput
+MidiMod2Target	0	4194304	Value	ValueOutput
+MidiMod2Amp	0	4194304	Value	ValueOutput
+MidiMod2Offset	0	4194304	Value	ValueOutput
+MidiMod2Smth	0	4194304	Value	ValueOutput
+MidiMod3Source	0	4194304	Value	ValueOutput
+MidiMod3Target	0	4194304	Value	ValueOutput
+MidiMod3Amp	0	4194304	Value	ValueOutput
+MidiMod3Offset	0	4194304	Value	ValueOutput
+MidiMod3Smth	0	4194304	Value	ValueOutput
+MidiMod4Source	0	4194304	Value	ValueOutput
+MidiMod4Target	0	4194304	Value	ValueOutput
+MidiMod4Amp	0	4194304	Value	ValueOutput
+MidiMod4Offset	0	4194304	Value	ValueOutput
+MidiMod4Smth	0	4194304	Value	ValueOutput
+MidiMod5Source	0	4194304	Value	ValueOutput
+MidiMod5Target	0	4194304	Value	ValueOutput
+MidiMod5Amp	0	4194304	Value	ValueOutput
+MidiMod5Offset	0	4194304	Value	ValueOutput
+MidiMod5Smth	0	4194304	Value	ValueOutput
+MidiMod6Source	0	4194304	Value	ValueOutput
+MidiMod6Target	0	4194304	Value	ValueOutput
+MidiMod6Amp	0	4194304	Value	ValueOutput
+MidiMod6Offset	0	4194304	Value	ValueOutput
+MidiMod6Smth	0	4194304	Value	ValueOutput
+MidiMod7Source	0	4194304	Value	ValueOutput
+MidiMod7Target	0	4194304	Value	ValueOutput
+MidiMod7Amp	0	4194304	Value	ValueOutput
+MidiMod7Offset	0	4194304	Value	ValueOutput
+MidiMod7Smth	0	4194304	Value	ValueOutput
+LFO1Target	0	4194304	Value	ValueOutput
+LFO1ResetMode	0	4194304	Value	ValueOutput
+LFO1Rate	0	4194304	Value	ValueOutput
+LFO1Pitch	0	4194304	Value	ValueOutput
+LFO1Tempo	0	4194304	Value	ValueOutput
+LFO1BeatFreqHz	0	4194304	Value	ValueOutput
+LFO1BeatFreqTemp	0	4194304	Value	ValueOutput
+LFO1Tempo	0	4194304	Value	ValueOutput
+LFO1RateMode	0	4194304	Value	ValueOutput
+LFO1Shape	0	4194304	Value	ValueOutput
+LFO1Phase	0	4194304	Value	ValueOutput
+LFO1Amplitude	0	4194304	Value	ValueOutput
+LFO1Smoothing	0	4194304	Value	ValueOutput
+LFO2Target	0	4194304	Value	ValueOutput
+LFO2ResetMode	0	4194304	Value	ValueOutput
+LFO2Rate	0	4194304	Value	ValueOutput
+LFO2Pitch	0	4194304	Value	ValueOutput
+LFO2Tempo	0	4194304	Value	ValueOutput
+LFO2BeatFreqHz	0	4194304	Value	ValueOutput
+LFO2BeatFreqTemp	0	4194304	Value	ValueOutput
+LFO2Tempo	0	4194304	Value	ValueOutput
+LFO2RateMode	0	4194304	Value	ValueOutput
+LFO2Shape	0	4194304	Value	ValueOutput
+LFO2Phase	0	4194304	Value	ValueOutput
+LFO2Amplitude	0	4194304	Value	ValueOutput
+LFO2Smoothing	0	4194304	Value	ValueOutput
+LFO3Target	0	4194304	Value	ValueOutput
+LFO3ResetMode	0	4194304	Value	ValueOutput
+LFO3Rate	0	4194304	Value	ValueOutput
+LFO3Pitch	0	4194304	Value	ValueOutput
+LFO3Tempo	0	4194304	Value	ValueOutput
+LFO3BeatFreqHz	0	4194304	Value	ValueOutput
+LFO3BeatFreqTemp	0	4194304	Value	ValueOutput
+LFO3Tempo	0	4194304	Value	ValueOutput
+LFO3RateMode	0	4194304	Value	ValueOutput
+LFO3Shape	0	4194304	Value	ValueOutput
+LFO3Phase	0	4194304	Value	ValueOutput
+LFO3Amplitude	0	4194304	Value	ValueOutput
+LFO3Smoothing	0	4194304	Value	ValueOutput
+LFO4Target	0	4194304	Value	ValueOutput
+LFO4ResetMode	0	4194304	Value	ValueOutput
+LFO4Rate	0	4194304	Value	ValueOutput
+LFO4Pitch	0	4194304	Value	ValueOutput
+LFO4Tempo	0	4194304	Value	ValueOutput
+LFO4BeatFreqHz	0	4194304	Value	ValueOutput
+LFO4BeatFreqTemp	0	4194304	Value	ValueOutput
+LFO4Tempo	0	4194304	Value	ValueOutput
+LFO4RateMode	0	4194304	Value	ValueOutput
+LFO4Shape	0	4194304	Value	ValueOutput
+LFO4Phase	0	4194304	Value	ValueOutput
+LFO4Amplitude	0	4194304	Value	ValueOutput
+LFO4Smoothing	0	4194304	Value	ValueOutput
+LFO5Target	0	4194304	Value	ValueOutput
+LFO5ResetMode	0	4194304	Value	ValueOutput
+LFO5Rate	0	4194304	Value	ValueOutput
+LFO5Pitch	0	4194304	Value	ValueOutput
+LFO5Tempo	0	4194304	Value	ValueOutput
+LFO5BeatFreqHz	0	4194304	Value	ValueOutput
+LFO5BeatFreqTemp	0	4194304	Value	ValueOutput
+LFO5Tempo	0	4194304	Value	ValueOutput
+LFO5RateMode	0	4194304	Value	ValueOutput
+LFO5Shape	0	4194304	Value	ValueOutput
+LFO5Phase	0	4194304	Value	ValueOutput
+LFO5Amplitude	0	4194304	Value	ValueOutput
+LFO5Smoothing	0	4194304	Value	ValueOutput
+LFO6Target	0	4194304	Value	ValueOutput
+LFO6ResetMode	0	4194304	Value	ValueOutput
+LFO6Rate	0	4194304	Value	ValueOutput
+LFO6Pitch	0	4194304	Value	ValueOutput
+LFO6Tempo	0	4194304	Value	ValueOutput
+LFO6BeatFreqHz	0	4194304	Value	ValueOutput
+LFO6BeatFreqTemp	0	4194304	Value	ValueOutput
+LFO6Tempo	0	4194304	Value	ValueOutput
+LFO6RateMode	0	4194304	Value	ValueOutput
+LFO6Shape	0	4194304	Value	ValueOutput
+LFO6Phase	0	4194304	Value	ValueOutput
+LFO6Amplitude	0	4194304	Value	ValueOutput
+LFO6Smoothing	0	4194304	Value	ValueOutput
+ENV1Target	0	4194304	Value	ValueOutput
+ENV1ResetMode	0	4194304	Value	ValueOutput
+ENV1Attack	0	4194304	Value	ValueOutput
+ENV1Decay	0	4194304	Value	ValueOutput
+ENV1Sustain	0	4194304	Value	ValueOutput
+ENV1Release	0	4194304	Value	ValueOutput
+ENV1Influence	0	4194304	Value	ValueOutput
+ENV1VelScale	0	4194304	Value	ValueOutput
+ENV1Sharpness	0	4194304	Value	ValueOutput
+ENV2Target	0	4194304	Value	ValueOutput
+ENV2ResetMode	0	4194304	Value	ValueOutput
+ENV2Attack	0	4194304	Value	ValueOutput
+ENV2Decay	0	4194304	Value	ValueOutput
+ENV2Sustain	0	4194304	Value	ValueOutput
+ENV2Release	0	4194304	Value	ValueOutput
+ENV2Influence	0	4194304	Value	ValueOutput
+ENV2VelScale	0	4194304	Value	ValueOutput
+ENV2Sharpness	0	4194304	Value	ValueOutput
+ENV3Target	0	4194304	Value	ValueOutput
+ENV3ResetMode	0	4194304	Value	ValueOutput
+ENV3Attack	0	4194304	Value	ValueOutput
+ENV3Decay	0	4194304	Value	ValueOutput
+ENV3Sustain	0	4194304	Value	ValueOutput
+ENV3Release	0	4194304	Value	ValueOutput
+ENV3Influence	0	4194304	Value	ValueOutput
+ENV3VelScale	0	4194304	Value	ValueOutput
+ENV3Sharpness	0	4194304	Value	ValueOutput
+ENV4Target	0	4194304	Value	ValueOutput
+ENV4ResetMode	0	4194304	Value	ValueOutput
+ENV4Attack	0	4194304	Value	ValueOutput
+ENV4Decay	0	4194304	Value	ValueOutput
+ENV4Sustain	0	4194304	Value	ValueOutput
+ENV4Release	0	4194304	Value	ValueOutput
+ENV4Influence	0	4194304	Value	ValueOutput
+ENV4VelScale	0	4194304	Value	ValueOutput
+ENV4Sharpness	0	4194304	Value	ValueOutput
+ENV5Target	0	4194304	Value	ValueOutput
+ENV5ResetMode	0	4194304	Value	ValueOutput
+ENV5Attack	0	4194304	Value	ValueOutput
+ENV5Decay	0	4194304	Value	ValueOutput
+ENV5Sustain	0	4194304	Value	ValueOutput
+ENV5Release	0	4194304	Value	ValueOutput
+ENV5Influence	0	4194304	Value	ValueOutput
+ENV5VelScale	0	4194304	Value	ValueOutput
+ENV5Sharpness	0	4194304	Value	ValueOutput
+ENV6Target	0	4194304	Value	ValueOutput
+ENV6ResetMode	0	4194304	Value	ValueOutput
+ENV6Attack	0	4194304	Value	ValueOutput
+ENV6Decay	0	4194304	Value	ValueOutput
+ENV6Sustain	0	4194304	Value	ValueOutput
+ENV6Release	0	4194304	Value	ValueOutput
+ENV6Influence	0	4194304	Value	ValueOutput
+ENV6VelScale	0	4194304	Value	ValueOutput
+ENV6Sharpness	0	4194304	Value	ValueOutput
+Meta 191	0	4194304	Value	ValueOutput
+Meta 192	0	4194304	Value	ValueOutput
+Meta 193	0	4194304	Value	ValueOutput
+Meta 194	0	4194304	Value	ValueOutput
+Meta 195	0	4194304	Value	ValueOutput
+Meta 196	0	4194304	Value	ValueOutput
+Meta 197	0	4194304	Value	ValueOutput
+Meta 198	0	4194304	Value	ValueOutput
+Meta 199	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput
+Proxy Open Plugin Window	0	1	Toggle	ValueOutput

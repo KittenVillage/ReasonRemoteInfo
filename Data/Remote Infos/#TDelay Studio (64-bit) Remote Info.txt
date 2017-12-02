@@ -1,0 +1,292 @@
+Scope
+Manufacturer	Model
+Tracktion	vst.DDes.#TDelay Studio (64-bit)
+Note: Will match scope definitions for vst.DDes.#TDelay Studio (64-bit) or vst.DDes
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+T1: Enable	0	4194304	Value	ValueOutput
+T1: Delay	0	4194304	Value	ValueOutput
+T1: Note Delay	0	4194304	Value	ValueOutput
+T1: Filter Enabl	0	4194304	Value	ValueOutput
+T1: Low Cut	0	4194304	Value	ValueOutput
+T1: High Cut	0	4194304	Value	ValueOutput
+T1: Resonance	0	4194304	Value	ValueOutput
+T1: Transpose	0	4194304	Value	ValueOutput
+T1: Semitones	0	4194304	Value	ValueOutput
+T1: Flip	0	4194304	Value	ValueOutput
+T1: Pan	0	4194304	Value	ValueOutput
+T1: Spread	0	4194304	Value	ValueOutput
+T1: Level	0	4194304	Value	ValueOutput
+T2: Enable	0	4194304	Value	ValueOutput
+T2: Delay	0	4194304	Value	ValueOutput
+T2: Note Delay	0	4194304	Value	ValueOutput
+T2: Filter Enabl	0	4194304	Value	ValueOutput
+T2: Low Cut	0	4194304	Value	ValueOutput
+T2: High Cut	0	4194304	Value	ValueOutput
+T2: Resonance	0	4194304	Value	ValueOutput
+T2: Transpose	0	4194304	Value	ValueOutput
+T2: Semitones	0	4194304	Value	ValueOutput
+T2: Flip	0	4194304	Value	ValueOutput
+T2: Pan	0	4194304	Value	ValueOutput
+T2: Spread	0	4194304	Value	ValueOutput
+T2: Level	0	4194304	Value	ValueOutput
+T3: Enable	0	4194304	Value	ValueOutput
+T3: Delay	0	4194304	Value	ValueOutput
+T3: Note Delay	0	4194304	Value	ValueOutput
+T3: Filter Enabl	0	4194304	Value	ValueOutput
+T3: Low Cut	0	4194304	Value	ValueOutput
+T3: High Cut	0	4194304	Value	ValueOutput
+T3: Resonance	0	4194304	Value	ValueOutput
+T3: Transpose	0	4194304	Value	ValueOutput
+T3: Semitones	0	4194304	Value	ValueOutput
+T3: Flip	0	4194304	Value	ValueOutput
+T3: Pan	0	4194304	Value	ValueOutput
+T3: Spread	0	4194304	Value	ValueOutput
+T3: Level	0	4194304	Value	ValueOutput
+T4: Enable	0	4194304	Value	ValueOutput
+T4: Delay	0	4194304	Value	ValueOutput
+T4: Note Delay	0	4194304	Value	ValueOutput
+T4: Filter Enabl	0	4194304	Value	ValueOutput
+T4: Low Cut	0	4194304	Value	ValueOutput
+T4: High Cut	0	4194304	Value	ValueOutput
+T4: Resonance	0	4194304	Value	ValueOutput
+T4: Transpose	0	4194304	Value	ValueOutput
+T4: Semitones	0	4194304	Value	ValueOutput
+T4: Flip	0	4194304	Value	ValueOutput
+T4: Pan	0	4194304	Value	ValueOutput
+T4: Spread	0	4194304	Value	ValueOutput
+T4: Level	0	4194304	Value	ValueOutput
+T5: Enable	0	4194304	Value	ValueOutput
+T5: Delay	0	4194304	Value	ValueOutput
+T5: Note Delay	0	4194304	Value	ValueOutput
+T5: Filter Enabl	0	4194304	Value	ValueOutput
+T5: Low Cut	0	4194304	Value	ValueOutput
+T5: High Cut	0	4194304	Value	ValueOutput
+T5: Resonance	0	4194304	Value	ValueOutput
+T5: Transpose	0	4194304	Value	ValueOutput
+T5: Semitones	0	4194304	Value	ValueOutput
+T5: Flip	0	4194304	Value	ValueOutput
+T5: Pan	0	4194304	Value	ValueOutput
+T5: Spread	0	4194304	Value	ValueOutput
+T5: Level	0	4194304	Value	ValueOutput
+T6: Enable	0	4194304	Value	ValueOutput
+T6: Delay	0	4194304	Value	ValueOutput
+T6: Note Delay	0	4194304	Value	ValueOutput
+T6: Filter Enabl	0	4194304	Value	ValueOutput
+T6: Low Cut	0	4194304	Value	ValueOutput
+T6: High Cut	0	4194304	Value	ValueOutput
+T6: Resonance	0	4194304	Value	ValueOutput
+T6: Transpose	0	4194304	Value	ValueOutput
+T6: Semitones	0	4194304	Value	ValueOutput
+T6: Flip	0	4194304	Value	ValueOutput
+T6: Pan	0	4194304	Value	ValueOutput
+T6: Spread	0	4194304	Value	ValueOutput
+T6: Level	0	4194304	Value	ValueOutput
+T7: Enable	0	4194304	Value	ValueOutput
+T7: Delay	0	4194304	Value	ValueOutput
+T7: Note Delay	0	4194304	Value	ValueOutput
+T7: Filter Enabl	0	4194304	Value	ValueOutput
+T7: Low Cut	0	4194304	Value	ValueOutput
+T7: High Cut	0	4194304	Value	ValueOutput
+T7: Resonance	0	4194304	Value	ValueOutput
+T7: Transpose	0	4194304	Value	ValueOutput
+T7: Semitones	0	4194304	Value	ValueOutput
+T7: Flip	0	4194304	Value	ValueOutput
+T7: Pan	0	4194304	Value	ValueOutput
+T7: Spread	0	4194304	Value	ValueOutput
+T7: Level	0	4194304	Value	ValueOutput
+T8: Enable	0	4194304	Value	ValueOutput
+T8: Delay	0	4194304	Value	ValueOutput
+T8: Note Delay	0	4194304	Value	ValueOutput
+T8: Filter Enabl	0	4194304	Value	ValueOutput
+T8: Low Cut	0	4194304	Value	ValueOutput
+T8: High Cut	0	4194304	Value	ValueOutput
+T8: Resonance	0	4194304	Value	ValueOutput
+T8: Transpose	0	4194304	Value	ValueOutput
+T8: Semitones	0	4194304	Value	ValueOutput
+T8: Flip	0	4194304	Value	ValueOutput
+T8: Pan	0	4194304	Value	ValueOutput
+T8: Spread	0	4194304	Value	ValueOutput
+T8: Level	0	4194304	Value	ValueOutput
+T9: Enable	0	4194304	Value	ValueOutput
+T9: Delay	0	4194304	Value	ValueOutput
+T9: Note Delay	0	4194304	Value	ValueOutput
+T9: Filter Enabl	0	4194304	Value	ValueOutput
+T9: Low Cut	0	4194304	Value	ValueOutput
+T9: High Cut	0	4194304	Value	ValueOutput
+T9: Resonance	0	4194304	Value	ValueOutput
+T9: Transpose	0	4194304	Value	ValueOutput
+T9: Semitones	0	4194304	Value	ValueOutput
+T9: Flip	0	4194304	Value	ValueOutput
+T9: Pan	0	4194304	Value	ValueOutput
+T9: Spread	0	4194304	Value	ValueOutput
+T9: Level	0	4194304	Value	ValueOutput
+T10: Enable	0	4194304	Value	ValueOutput
+T10: Delay	0	4194304	Value	ValueOutput
+T10: Note Delay	0	4194304	Value	ValueOutput
+T10: Filter Enab	0	4194304	Value	ValueOutput
+T10: Low Cut	0	4194304	Value	ValueOutput
+T10: High Cut	0	4194304	Value	ValueOutput
+T10: Resonance	0	4194304	Value	ValueOutput
+T10: Transpose	0	4194304	Value	ValueOutput
+T10: Semitones	0	4194304	Value	ValueOutput
+T10: Flip	0	4194304	Value	ValueOutput
+T10: Pan	0	4194304	Value	ValueOutput
+T10: Spread	0	4194304	Value	ValueOutput
+T10: Level	0	4194304	Value	ValueOutput
+T11: Enable	0	4194304	Value	ValueOutput
+T11: Delay	0	4194304	Value	ValueOutput
+T11: Note Delay	0	4194304	Value	ValueOutput
+T11: Filter Enab	0	4194304	Value	ValueOutput
+T11: Low Cut	0	4194304	Value	ValueOutput
+T11: High Cut	0	4194304	Value	ValueOutput
+T11: Resonance	0	4194304	Value	ValueOutput
+T11: Transpose	0	4194304	Value	ValueOutput
+T11: Semitones	0	4194304	Value	ValueOutput
+T11: Flip	0	4194304	Value	ValueOutput
+T11: Pan	0	4194304	Value	ValueOutput
+T11: Spread	0	4194304	Value	ValueOutput
+T11: Level	0	4194304	Value	ValueOutput
+T12: Enable	0	4194304	Value	ValueOutput
+T12: Delay	0	4194304	Value	ValueOutput
+T12: Note Delay	0	4194304	Value	ValueOutput
+T12: Filter Enab	0	4194304	Value	ValueOutput
+T12: Low Cut	0	4194304	Value	ValueOutput
+T12: High Cut	0	4194304	Value	ValueOutput
+T12: Resonance	0	4194304	Value	ValueOutput
+T12: Transpose	0	4194304	Value	ValueOutput
+T12: Semitones	0	4194304	Value	ValueOutput
+T12: Flip	0	4194304	Value	ValueOutput
+T12: Pan	0	4194304	Value	ValueOutput
+T12: Spread	0	4194304	Value	ValueOutput
+T12: Level	0	4194304	Value	ValueOutput
+T13: Enable	0	4194304	Value	ValueOutput
+T13: Delay	0	4194304	Value	ValueOutput
+T13: Note Delay	0	4194304	Value	ValueOutput
+T13: Filter Enab	0	4194304	Value	ValueOutput
+T13: Low Cut	0	4194304	Value	ValueOutput
+T13: High Cut	0	4194304	Value	ValueOutput
+T13: Resonance	0	4194304	Value	ValueOutput
+T13: Transpose	0	4194304	Value	ValueOutput
+T13: Semitones	0	4194304	Value	ValueOutput
+T13: Flip	0	4194304	Value	ValueOutput
+T13: Pan	0	4194304	Value	ValueOutput
+T13: Spread	0	4194304	Value	ValueOutput
+T13: Level	0	4194304	Value	ValueOutput
+T14: Enable	0	4194304	Value	ValueOutput
+T14: Delay	0	4194304	Value	ValueOutput
+T14: Note Delay	0	4194304	Value	ValueOutput
+T14: Filter Enab	0	4194304	Value	ValueOutput
+T14: Low Cut	0	4194304	Value	ValueOutput
+T14: High Cut	0	4194304	Value	ValueOutput
+T14: Resonance	0	4194304	Value	ValueOutput
+T14: Transpose	0	4194304	Value	ValueOutput
+T14: Semitones	0	4194304	Value	ValueOutput
+T14: Flip	0	4194304	Value	ValueOutput
+T14: Pan	0	4194304	Value	ValueOutput
+T14: Spread	0	4194304	Value	ValueOutput
+T14: Level	0	4194304	Value	ValueOutput
+T15: Enable	0	4194304	Value	ValueOutput
+T15: Delay	0	4194304	Value	ValueOutput
+T15: Note Delay	0	4194304	Value	ValueOutput
+T15: Filter Enab	0	4194304	Value	ValueOutput
+T15: Low Cut	0	4194304	Value	ValueOutput
+T15: High Cut	0	4194304	Value	ValueOutput
+T15: Resonance	0	4194304	Value	ValueOutput
+T15: Transpose	0	4194304	Value	ValueOutput
+T15: Semitones	0	4194304	Value	ValueOutput
+T15: Flip	0	4194304	Value	ValueOutput
+T15: Pan	0	4194304	Value	ValueOutput
+T15: Spread	0	4194304	Value	ValueOutput
+T15: Level	0	4194304	Value	ValueOutput
+T16: Enable	0	4194304	Value	ValueOutput
+T16: Delay	0	4194304	Value	ValueOutput
+T16: Note Delay	0	4194304	Value	ValueOutput
+T16: Filter Enab	0	4194304	Value	ValueOutput
+T16: Low Cut	0	4194304	Value	ValueOutput
+T16: High Cut	0	4194304	Value	ValueOutput
+T16: Resonance	0	4194304	Value	ValueOutput
+T16: Transpose	0	4194304	Value	ValueOutput
+T16: Semitones	0	4194304	Value	ValueOutput
+T16: Flip	0	4194304	Value	ValueOutput
+T16: Pan	0	4194304	Value	ValueOutput
+T16: Spread	0	4194304	Value	ValueOutput
+T16: Level	0	4194304	Value	ValueOutput
+T17: Enable	0	4194304	Value	ValueOutput
+T17: Delay	0	4194304	Value	ValueOutput
+T17: Note Delay	0	4194304	Value	ValueOutput
+T17: Filter Enab	0	4194304	Value	ValueOutput
+T17: Low Cut	0	4194304	Value	ValueOutput
+T17: High Cut	0	4194304	Value	ValueOutput
+T17: Resonance	0	4194304	Value	ValueOutput
+T17: Transpose	0	4194304	Value	ValueOutput
+T17: Semitones	0	4194304	Value	ValueOutput
+T17: Flip	0	4194304	Value	ValueOutput
+T17: Pan	0	4194304	Value	ValueOutput
+T17: Spread	0	4194304	Value	ValueOutput
+T17: Level	0	4194304	Value	ValueOutput
+T18: Enable	0	4194304	Value	ValueOutput
+T18: Delay	0	4194304	Value	ValueOutput
+T18: Note Delay	0	4194304	Value	ValueOutput
+T18: Filter Enab	0	4194304	Value	ValueOutput
+T18: Low Cut	0	4194304	Value	ValueOutput
+T18: High Cut	0	4194304	Value	ValueOutput
+T18: Resonance	0	4194304	Value	ValueOutput
+T18: Transpose	0	4194304	Value	ValueOutput
+T18: Semitones	0	4194304	Value	ValueOutput
+T18: Flip	0	4194304	Value	ValueOutput
+T18: Pan	0	4194304	Value	ValueOutput
+T18: Spread	0	4194304	Value	ValueOutput
+T18: Level	0	4194304	Value	ValueOutput
+T19: Enable	0	4194304	Value	ValueOutput
+T19: Delay	0	4194304	Value	ValueOutput
+T19: Note Delay	0	4194304	Value	ValueOutput
+T19: Filter Enab	0	4194304	Value	ValueOutput
+T19: Low Cut	0	4194304	Value	ValueOutput
+T19: High Cut	0	4194304	Value	ValueOutput
+T19: Resonance	0	4194304	Value	ValueOutput
+T19: Transpose	0	4194304	Value	ValueOutput
+T19: Semitones	0	4194304	Value	ValueOutput
+T19: Flip	0	4194304	Value	ValueOutput
+T19: Pan	0	4194304	Value	ValueOutput
+T19: Spread	0	4194304	Value	ValueOutput
+T19: Level	0	4194304	Value	ValueOutput
+T20: Enable	0	4194304	Value	ValueOutput
+T20: Delay	0	4194304	Value	ValueOutput
+T20: Note Delay	0	4194304	Value	ValueOutput
+T20: Filter Enab	0	4194304	Value	ValueOutput
+T20: Low Cut	0	4194304	Value	ValueOutput
+T20: High Cut	0	4194304	Value	ValueOutput
+T20: Resonance	0	4194304	Value	ValueOutput
+T20: Transpose	0	4194304	Value	ValueOutput
+T20: Semitones	0	4194304	Value	ValueOutput
+T20: Flip	0	4194304	Value	ValueOutput
+T20: Pan	0	4194304	Value	ValueOutput
+T20: Spread	0	4194304	Value	ValueOutput
+T20: Level	0	4194304	Value	ValueOutput
+Enable	0	4194304	Value	ValueOutput
+Sync	0	4194304	Value	ValueOutput
+Division	0	4194304	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+FB Level	0	4194304	Value	ValueOutput
+FB Tap	0	4194304	Value	ValueOutput
+Wet	0	4194304	Value	ValueOutput
+Dry	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

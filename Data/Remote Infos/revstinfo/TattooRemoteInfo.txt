@@ -1,0 +1,286 @@
+Scope
+Manufacturer	Model
+Audio Damage, Inc.	vst.ADto.Tattoo
+Note: Will match scope definitions for vst.ADto.Tattoo or vst.ADto
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+KD Tune	0	4194304	Value	ValueOutput
+KD Sat	0	4194304	Value	ValueOutput
+KDAmpAtk	0	4194304	Value	ValueOutput
+KDAmpAtC	0	4194304	Value	ValueOutput
+KDAmpDcy	0	4194304	Value	ValueOutput
+KDAmpDcC	0	4194304	Value	ValueOutput
+KDPitAtk	0	4194304	Value	ValueOutput
+KDPitAtC	0	4194304	Value	ValueOutput
+KDPitDcy	0	4194304	Value	ValueOutput
+KDPitDcC	0	4194304	Value	ValueOutput
+KDPitMod	0	4194304	Value	ValueOutput
+KDNoiFrq	0	4194304	Value	ValueOutput
+KDCliLvl	0	4194304	Value	ValueOutput
+KDWavFrm	0	4194304	Value	ValueOutput
+S9 Tune	0	4194304	Value	ValueOutput
+S9TonAtk	0	4194304	Value	ValueOutput
+S9TonAtC	0	4194304	Value	ValueOutput
+S9TonDcy	0	4194304	Value	ValueOutput
+S9TonDcC	0	4194304	Value	ValueOutput
+S9nsCol	0	4194304	Value	ValueOutput
+S9NoiAtk	0	4194304	Value	ValueOutput
+S9NoiAtC	0	4194304	Value	ValueOutput
+S9NoiDcy	0	4194304	Value	ValueOutput
+S9NoiDcC	0	4194304	Value	ValueOutput
+S9NoiLvl	0	4194304	Value	ValueOutput
+S8 Tune	0	4194304	Value	ValueOutput
+S8NoiCol	0	4194304	Value	ValueOutput
+S8NoiDcy	0	4194304	Value	ValueOutput
+S8NoiLvl	0	4194304	Value	ValueOutput
+LT Freq	0	4194304	Value	ValueOutput
+LTptchDp	0	4194304	Value	ValueOutput
+LTclkLvl	0	4194304	Value	ValueOutput
+LTnoisLv	0	4194304	Value	ValueOutput
+LTtoneLv	0	4194304	Value	ValueOutput
+LTsatura	0	4194304	Value	ValueOutput
+LTtn1ATm	0	4194304	Value	ValueOutput
+LTtn1ACv	0	4194304	Value	ValueOutput
+LTtn1DTm	0	4194304	Value	ValueOutput
+LTtn1DCv	0	4194304	Value	ValueOutput
+LTtn2ATm	0	4194304	Value	ValueOutput
+LTtn2ACv	0	4194304	Value	ValueOutput
+LTtn2DTm	0	4194304	Value	ValueOutput
+LTtn2DCv	0	4194304	Value	ValueOutput
+MT Freq	0	4194304	Value	ValueOutput
+MTptchDp	0	4194304	Value	ValueOutput
+MTclkLvl	0	4194304	Value	ValueOutput
+MTnoisLv	0	4194304	Value	ValueOutput
+MTtoneLv	0	4194304	Value	ValueOutput
+MTsatura	0	4194304	Value	ValueOutput
+MTtn1ATm	0	4194304	Value	ValueOutput
+MTtn1ACv	0	4194304	Value	ValueOutput
+MTtn1DTm	0	4194304	Value	ValueOutput
+MTtn1DCv	0	4194304	Value	ValueOutput
+MTtn2ATm	0	4194304	Value	ValueOutput
+MTtn2ACv	0	4194304	Value	ValueOutput
+MTtn2DTm	0	4194304	Value	ValueOutput
+MTtn2DCv	0	4194304	Value	ValueOutput
+HT Freq	0	4194304	Value	ValueOutput
+HTTptchD	0	4194304	Value	ValueOutput
+HTclkLvl	0	4194304	Value	ValueOutput
+HTTnoisL	0	4194304	Value	ValueOutput
+HTtoneLv	0	4194304	Value	ValueOutput
+HTsatura	0	4194304	Value	ValueOutput
+HTtn1ATm	0	4194304	Value	ValueOutput
+HTtn1ACv	0	4194304	Value	ValueOutput
+MTtn1DTm	0	4194304	Value	ValueOutput
+HTtn1DCv	0	4194304	Value	ValueOutput
+HTtn2ATm	0	4194304	Value	ValueOutput
+HTtn2ACv	0	4194304	Value	ValueOutput
+HTtn2DTm	0	4194304	Value	ValueOutput
+HTtn2DCv	0	4194304	Value	ValueOutput
+CP Tone	0	4194304	Value	ValueOutput
+CPReverb	0	4194304	Value	ValueOutput
+CB Tune	0	4194304	Value	ValueOutput
+CBRatio	0	4194304	Value	ValueOutput
+CBAtkTim	0	4194304	Value	ValueOutput
+CBAtkCrv	0	4194304	Value	ValueOutput
+CBDecay	0	4194304	Value	ValueOutput
+CBDcyCrv	0	4194304	Value	ValueOutput
+CBFilFrq	0	4194304	Value	ValueOutput
+CBFilRes	0	4194304	Value	ValueOutput
+CB More	0	4194304	Value	ValueOutput
+CHBPFFrq	0	4194304	Value	ValueOutput
+CHHPFFrq	0	4194304	Value	ValueOutput
+CH Tune	0	4194304	Value	ValueOutput
+CHNoiMix	0	4194304	Value	ValueOutput
+CHDecay	0	4194304	Value	ValueOutput
+OHBPFFrq	0	4194304	Value	ValueOutput
+OHHPFFrq	0	4194304	Value	ValueOutput
+OH Tune	0	4194304	Value	ValueOutput
+OHNoiMix	0	4194304	Value	ValueOutput
+OHDecay	0	4194304	Value	ValueOutput
+OHDcyCrv	0	4194304	Value	ValueOutput
+CY Tune	0	4194304	Value	ValueOutput
+CY Noise	0	4194304	Value	ValueOutput
+CY Ding	0	4194304	Value	ValueOutput
+CY Freq	0	4194304	Value	ValueOutput
+CYAtkTim	0	4194304	Value	ValueOutput
+CYAtkCrv	0	4194304	Value	ValueOutput
+CYDcyTim	0	4194304	Value	ValueOutput
+CYDcyCrv	0	4194304	Value	ValueOutput
+CYDingFr	0	4194304	Value	ValueOutput
+CYDgAtTm	0	4194304	Value	ValueOutput
+CYDgAtCv	0	4194304	Value	ValueOutput
+CYDgDyTm	0	4194304	Value	ValueOutput
+CUDgDyCv	0	4194304	Value	ValueOutput
+RS Tune	0	4194304	Value	ValueOutput
+RSHPFFrq	0	4194304	Value	ValueOutput
+Stepsize	0	4194304	Value	ValueOutput
+Play	0	4194304	Value	ValueOutput
+Stop	0	4194304	Value	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+Swing	0	4194304	Value	ValueOutput
+Sync	0	4194304	Value	ValueOutput
+Pattern	0	4194304	Value	ValueOutput
+Out A	0	4194304	Value	ValueOutput
+Compress	0	4194304	Value	ValueOutput
+Comp Att	0	4194304	Value	ValueOutput
+KD Level	0	4194304	Value	ValueOutput
+S8 Level	0	4194304	Value	ValueOutput
+S9 Level	0	4194304	Value	ValueOutput
+LT Level	0	4194304	Value	ValueOutput
+MT Level	0	4194304	Value	ValueOutput
+HT Level	0	4194304	Value	ValueOutput
+CHH Leve	0	4194304	Value	ValueOutput
+OHH Leve	0	4194304	Value	ValueOutput
+CY Level	0	4194304	Value	ValueOutput
+RS Level	0	4194304	Value	ValueOutput
+CL Level	0	4194304	Value	ValueOutput
+CB Level	0	4194304	Value	ValueOutput
+KD Pan	0	4194304	Value	ValueOutput
+S8 Pan	0	4194304	Value	ValueOutput
+S9 Pan	0	4194304	Value	ValueOutput
+LT Pan	0	4194304	Value	ValueOutput
+MT Pan	0	4194304	Value	ValueOutput
+HT Pan	0	4194304	Value	ValueOutput
+CHH Pan	0	4194304	Value	ValueOutput
+OHH Pan	0	4194304	Value	ValueOutput
+CY Pan	0	4194304	Value	ValueOutput
+KD Pan	0	4194304	Value	ValueOutput
+CL Pan	0	4194304	Value	ValueOutput
+CB Pan	0	4194304	Value	ValueOutput
+KD Out	0	4194304	Value	ValueOutput
+S8 Out	0	4194304	Value	ValueOutput
+S9 Out	0	4194304	Value	ValueOutput
+LT Out	0	4194304	Value	ValueOutput
+MT Out	0	4194304	Value	ValueOutput
+HT Out	0	4194304	Value	ValueOutput
+CHH Out	0	4194304	Value	ValueOutput
+OHH Out	0	4194304	Value	ValueOutput
+CY Out	0	4194304	Value	ValueOutput
+RS Out	0	4194304	Value	ValueOutput
+CL Out	0	4194304	Value	ValueOutput
+CB Out	0	4194304	Value	ValueOutput
+KD Mute	0	4194304	Value	ValueOutput
+S8 Mute	0	4194304	Value	ValueOutput
+S9 Mute	0	4194304	Value	ValueOutput
+LT Mute	0	4194304	Value	ValueOutput
+MT Mute	0	4194304	Value	ValueOutput
+HT Mute	0	4194304	Value	ValueOutput
+CHH Mute	0	4194304	Value	ValueOutput
+OHH Mute	0	4194304	Value	ValueOutput
+CY Mute	0	4194304	Value	ValueOutput
+RS Mute	0	4194304	Value	ValueOutput
+CL Mute	0	4194304	Value	ValueOutput
+CB Mute	0	4194304	Value	ValueOutput
+KD Solo	0	4194304	Value	ValueOutput
+S8 Solo	0	4194304	Value	ValueOutput
+S9 Solo	0	4194304	Value	ValueOutput
+LT Solo	0	4194304	Value	ValueOutput
+MT Solo	0	4194304	Value	ValueOutput
+HT Solo	0	4194304	Value	ValueOutput
+CHH Solo	0	4194304	Value	ValueOutput
+OHH Solo	0	4194304	Value	ValueOutput
+CY Solo	0	4194304	Value	ValueOutput
+RS Solo	0	4194304	Value	ValueOutput
+CL Solo	0	4194304	Value	ValueOutput
+CB Solo	0	4194304	Value	ValueOutput
+KDselbts	0	4194304	Value	ValueOutput
+S8selbts	0	4194304	Value	ValueOutput
+S9selbts	0	4194304	Value	ValueOutput
+LTselbts	0	4194304	Value	ValueOutput
+MTselbts	0	4194304	Value	ValueOutput
+HTselbts	0	4194304	Value	ValueOutput
+CHselbts	0	4194304	Value	ValueOutput
+OHselbts	0	4194304	Value	ValueOutput
+CYselbts	0	4194304	Value	ValueOutput
+RSselbts	0	4194304	Value	ValueOutput
+CLselbts	0	4194304	Value	ValueOutput
+CBselbts	0	4194304	Value	ValueOutput
+KDrndbts	0	4194304	Value	ValueOutput
+S8rndbts	0	4194304	Value	ValueOutput
+S9rndbts	0	4194304	Value	ValueOutput
+LTrndbts	0	4194304	Value	ValueOutput
+MTrndbts	0	4194304	Value	ValueOutput
+HTrndbts	0	4194304	Value	ValueOutput
+CHrndbts	0	4194304	Value	ValueOutput
+OHrndbts	0	4194304	Value	ValueOutput
+CYrndbts	0	4194304	Value	ValueOutput
+RSrndbts	0	4194304	Value	ValueOutput
+CLrndbts	0	4194304	Value	ValueOutput
+CBrndbts	0	4194304	Value	ValueOutput
+KDrndsz	0	4194304	Value	ValueOutput
+S8rndsz	0	4194304	Value	ValueOutput
+S9rndsz	0	4194304	Value	ValueOutput
+LTrndsz	0	4194304	Value	ValueOutput
+MTrndsz	0	4194304	Value	ValueOutput
+HTrndsz	0	4194304	Value	ValueOutput
+CHrndsz	0	4194304	Value	ValueOutput
+OHrndsz	0	4194304	Value	ValueOutput
+CYrndsz	0	4194304	Value	ValueOutput
+RSrndsz	0	4194304	Value	ValueOutput
+CLrndsz	0	4194304	Value	ValueOutput
+CBrndsz	0	4194304	Value	ValueOutput
+KDrndvel	0	4194304	Value	ValueOutput
+S8rndvel	0	4194304	Value	ValueOutput
+S9rndvel	0	4194304	Value	ValueOutput
+LTrndvel	0	4194304	Value	ValueOutput
+MTrndvel	0	4194304	Value	ValueOutput
+HTrndvel	0	4194304	Value	ValueOutput
+CHrndvel	0	4194304	Value	ValueOutput
+OHrndvel	0	4194304	Value	ValueOutput
+CYrndvel	0	4194304	Value	ValueOutput
+RSrndvel	0	4194304	Value	ValueOutput
+CLrndvel	0	4194304	Value	ValueOutput
+CBrndvel	0	4194304	Value	ValueOutput
+KD Clear	0	4194304	Value	ValueOutput
+S8 Clear	0	4194304	Value	ValueOutput
+S9 Clear	0	4194304	Value	ValueOutput
+LT Clear	0	4194304	Value	ValueOutput
+MT Clear	0	4194304	Value	ValueOutput
+HT Clear	0	4194304	Value	ValueOutput
+CH Clear	0	4194304	Value	ValueOutput
+OH Clear	0	4194304	Value	ValueOutput
+CY Clear	0	4194304	Value	ValueOutput
+RS Clear	0	4194304	Value	ValueOutput
+CL Clear	0	4194304	Value	ValueOutput
+CB Clear	0	4194304	Value	ValueOutput
+KD Rand	0	4194304	Value	ValueOutput
+S8 Rand	0	4194304	Value	ValueOutput
+S9 Rand	0	4194304	Value	ValueOutput
+LT Rand	0	4194304	Value	ValueOutput
+MT Rand	0	4194304	Value	ValueOutput
+HT Rand	0	4194304	Value	ValueOutput
+CH Rand	0	4194304	Value	ValueOutput
+OH Rand	0	4194304	Value	ValueOutput
+CY Rand	0	4194304	Value	ValueOutput
+RS Rand	0	4194304	Value	ValueOutput
+CL Rand	0	4194304	Value	ValueOutput
+CB Rand	0	4194304	Value	ValueOutput
+KDrndrst	0	4194304	Value	ValueOutput
+S8rndrst	0	4194304	Value	ValueOutput
+S9rndrst	0	4194304	Value	ValueOutput
+LTrndrst	0	4194304	Value	ValueOutput
+MTrndrst	0	4194304	Value	ValueOutput
+HTrndrst	0	4194304	Value	ValueOutput
+CHrndrst	0	4194304	Value	ValueOutput
+OHrndrst	0	4194304	Value	ValueOutput
+CYrndrst	0	4194304	Value	ValueOutput
+RSrndrst	0	4194304	Value	ValueOutput
+CLrndrst	0	4194304	Value	ValueOutput
+CBrndrst	0	4194304	Value	ValueOutput
+MIDIOnly	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

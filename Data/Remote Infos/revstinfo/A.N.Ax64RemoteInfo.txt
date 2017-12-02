@@ -1,0 +1,227 @@
+Scope
+Manufacturer	Model
+Sonic Academy	vst.SSTA.A_N_A x64
+Note: Will match scope definitions for vst.SSTA.A_N_A x64 or vst.SSTA
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Bypass	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Pitch Bend Range	0	4194304	Value	ValueOutput
+Portamento Time	0	4194304	Value	ValueOutput
+Osc 1 Voices	0	4194304	Value	ValueOutput
+Osc 1 Octaves	0	4194304	Value	ValueOutput
+Osc 1 Semitones	0	4194304	Value	ValueOutput
+Osc 1 Fine Tune	0	4194304	Value	ValueOutput
+Osc 1 Volume	0	4194304	Value	ValueOutput
+Osc 1 Detune	0	4194304	Value	ValueOutput
+Osc 1 Width	0	4194304	Value	ValueOutput
+Osc 1 Pan	0	4194304	Value	ValueOutput
+Osc 1 Filter Out	0	4194304	Value	ValueOutput
+Osc 1 Retrig	0	4194304	Value	ValueOutput
+Osc 1 Key Track	0	4194304	Value	ValueOutput
+Osc 2 Voices	0	4194304	Value	ValueOutput
+Osc 2 Octaves	0	4194304	Value	ValueOutput
+Osc 2 Semitones	0	4194304	Value	ValueOutput
+Osc 2 Fine Tune	0	4194304	Value	ValueOutput
+Osc 2 Volume	0	4194304	Value	ValueOutput
+Osc 2 Detune	0	4194304	Value	ValueOutput
+Osc 2 Width	0	4194304	Value	ValueOutput
+Osc 2 Pan	0	4194304	Value	ValueOutput
+Osc 2 Filter Out	0	4194304	Value	ValueOutput
+Osc 2 Retrig	0	4194304	Value	ValueOutput
+Osc 2 Key Track	0	4194304	Value	ValueOutput
+Osc 4 Octaves	0	4194304	Value	ValueOutput
+Osc 4 Semitones	0	4194304	Value	ValueOutput
+Osc 4 Fine Tune	0	4194304	Value	ValueOutput
+Osc 4 Volume	0	4194304	Value	ValueOutput
+Osc 4 Start Time	0	4194304	Value	ValueOutput
+Osc 4 Pan	0	4194304	Value	ValueOutput
+Osc 4 Filter Out	0	4194304	Value	ValueOutput
+Osc 4 Retrig	0	4194304	Value	ValueOutput
+Osc 4 Key Track	0	4194304	Value	ValueOutput
+Osc 6 Octaves	0	4194304	Value	ValueOutput
+Osc 6 Semitones	0	4194304	Value	ValueOutput
+Osc 6 Fine Tune	0	4194304	Value	ValueOutput
+Osc 6 Volume	0	4194304	Value	ValueOutput
+Osc 6 Shape	0	4194304	Value	ValueOutput
+Osc 6 Pan	0	4194304	Value	ValueOutput
+Osc 6 Filter Out	0	4194304	Value	ValueOutput
+Osc 6 Retrig	0	4194304	Value	ValueOutput
+Osc 6 Key Track	0	4194304	Value	ValueOutput
+Filter Routing	0	4194304	Value	ValueOutput
+Filter 1/2 Cutoff	0	4194304	Value	ValueOutput
+Filter 1/2 Res	0	4194304	Value	ValueOutput
+Filter 1 Type	0	4194304	Value	ValueOutput
+Filter 1 Cutoff	0	4194304	Value	ValueOutput
+Filter 1 Res	0	4194304	Value	ValueOutput
+Filter 1 Envelope	0	4194304	Value	ValueOutput
+Filter 1 Key Track	0	4194304	Value	ValueOutput
+Filter 2 Type	0	4194304	Value	ValueOutput
+Filter 2 Cutoff	0	4194304	Value	ValueOutput
+Filter 2 Res	0	4194304	Value	ValueOutput
+Filter 2 Envelope	0	4194304	Value	ValueOutput
+Filter 2 Key Track	0	4194304	Value	ValueOutput
+Filter Envelope Attack	0	4194304	Value	ValueOutput
+Filter Envelope Decay	0	4194304	Value	ValueOutput
+Filter Envelope Sustain	0	4194304	Value	ValueOutput
+Filter Envelope Release	0	4194304	Value	ValueOutput
+Filter Envelope Curve	0	4194304	Value	ValueOutput
+Filter Envelope Velocity	0	4194304	Value	ValueOutput
+Filter Envelope Amount	0	4194304	Value	ValueOutput
+Amp Envelope Attack	0	4194304	Value	ValueOutput
+Amp Envelope Decay	0	4194304	Value	ValueOutput
+Amp Envelope Sustain	0	4194304	Value	ValueOutput
+Amp Envelope Release	0	4194304	Value	ValueOutput
+Amp Envelope Curve	0	4194304	Value	ValueOutput
+Amp Envelope Velocity	0	4194304	Value	ValueOutput
+Amp Envelope Amount	0	4194304	Value	ValueOutput
+Env 3 Attack	0	4194304	Value	ValueOutput
+Env 3 Decay	0	4194304	Value	ValueOutput
+Env 3 Sustain	0	4194304	Value	ValueOutput
+Env 3 Release	0	4194304	Value	ValueOutput
+Env 3 Curve	0	4194304	Value	ValueOutput
+Env 3 Target	0	4194304	Value	ValueOutput
+Env 3 Amount	0	4194304	Value	ValueOutput
+GEnv Retrig	0	4194304	Value	ValueOutput
+GEnv Loop	0	4194304	Value	ValueOutput
+GEnv Target	0	4194304	Value	ValueOutput
+GEnv Amount	0	4194304	Value	ValueOutput
+GEnv Rate	0	4194304	Value	ValueOutput
+GEnv Phase	0	4194304	Value	ValueOutput
+Mod 1 Source	0	4194304	Value	ValueOutput
+Mod 1 Target	0	4194304	Value	ValueOutput
+Mod 1 Amount	0	4194304	Value	ValueOutput
+Mod 2 Source	0	4194304	Value	ValueOutput
+Mod 2 Target	0	4194304	Value	ValueOutput
+Mod 2 Amount	0	4194304	Value	ValueOutput
+LFO 1 Shape	0	4194304	Value	ValueOutput
+LFO 1 Rate	0	4194304	Value	ValueOutput
+LFO 1 Rate (Synced)	0	4194304	Value	ValueOutput
+LFO 1 Depth	0	4194304	Value	ValueOutput
+LFO 1 Phase	0	4194304	Value	ValueOutput
+LFO 1 Retrig	0	4194304	Value	ValueOutput
+LFO 1 Sync	0	4194304	Value	ValueOutput
+LFO 1 Target 1	0	4194304	Value	ValueOutput
+LFO 1 Amount 1	0	4194304	Value	ValueOutput
+LFO 1 Target 2	0	4194304	Value	ValueOutput
+LFO 1 Amount 2	0	4194304	Value	ValueOutput
+LFO 2 Shape	0	4194304	Value	ValueOutput
+LFO 2 Rate	0	4194304	Value	ValueOutput
+LFO 2 Rate (Synced)	0	4194304	Value	ValueOutput
+LFO 2 Depth	0	4194304	Value	ValueOutput
+LFO 2 Phase	0	4194304	Value	ValueOutput
+LFO 2 Retrig	0	4194304	Value	ValueOutput
+LFO 2 Sync	0	4194304	Value	ValueOutput
+LFO 2 Target 1	0	4194304	Value	ValueOutput
+LFO 2 Amount 1	0	4194304	Value	ValueOutput
+LFO 2 Target 2	0	4194304	Value	ValueOutput
+LFO 2 Amount 2	0	4194304	Value	ValueOutput
+Phaser Enabled	0	4194304	Value	ValueOutput
+Phaser Poles	0	4194304	Value	ValueOutput
+Phaser Frequency	0	4194304	Value	ValueOutput
+Phaser Spread	0	4194304	Value	ValueOutput
+Phaser Feedback	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Phaser Rate	0	4194304	Value	ValueOutput
+Phaser Dry/Wet	0	4194304	Value	ValueOutput
+Chorus Enabled	0	4194304	Value	ValueOutput
+Chorus Runs	0	4194304	Value	ValueOutput
+Chorus Width	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Dry/Wet	0	4194304	Value	ValueOutput
+Distortion Enabled	0	4194304	Value	ValueOutput
+Distortion Input Gain	0	4194304	Value	ValueOutput
+Distortion High Pass	0	4194304	Value	ValueOutput
+Distortion Cabinet	0	4194304	Value	ValueOutput
+Distortion Amp Sim	0	4194304	Value	ValueOutput
+Distortion Crush	0	4194304	Value	ValueOutput
+Distortion Excite	0	4194304	Value	ValueOutput
+Distortion Clip	0	4194304	Value	ValueOutput
+Distortion Low Pass	0	4194304	Value	ValueOutput
+Distortion Output Gain	0	4194304	Value	ValueOutput
+Distortion Dry/Wet	0	4194304	Value	ValueOutput
+Compressor Enabled	0	4194304	Value	ValueOutput
+Compressor Ratio	0	4194304	Value	ValueOutput
+Compressor Threshold	0	4194304	Value	ValueOutput
+Compressor Attack	0	4194304	Value	ValueOutput
+Compressor Release	0	4194304	Value	ValueOutput
+Compressor Bass	0	4194304	Value	ValueOutput
+Compressor Tune	0	4194304	Value	ValueOutput
+Compressor Output Gain	0	4194304	Value	ValueOutput
+Compressor Dry/Wet	0	4194304	Value	ValueOutput
+Delay Enabled	0	4194304	Value	ValueOutput
+Delay Sync	0	4194304	Value	ValueOutput
+Delay Time Left	0	4194304	Value	ValueOutput
+Delay Time Right	0	4194304	Value	ValueOutput
+Delay Time Left (Synced)	0	4194304	Value	ValueOutput
+Delay Time Righ (Synced)	0	4194304	Value	ValueOutput
+Delay Pan Left	0	4194304	Value	ValueOutput
+Delay Pan Right	0	4194304	Value	ValueOutput
+Delay High Pass	0	4194304	Value	ValueOutput
+Delay Low Pass	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Wet	0	4194304	Value	ValueOutput
+Reverb Enabled	0	4194304	Value	ValueOutput
+Reverb Low Pass	0	4194304	Value	ValueOutput
+Reverb Damping	0	4194304	Value	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb High Pass	0	4194304	Value	ValueOutput
+Reverb Wet	0	4194304	Value	ValueOutput
+Osc 1 Detune Shape	0	4194304	Value	ValueOutput
+Osc 2 Detune Shape	0	4194304	Value	ValueOutput
+Osc 3 Voices	0	4194304	Value	ValueOutput
+Osc 3 Octaves	0	4194304	Value	ValueOutput
+Osc 3 Semitones	0	4194304	Value	ValueOutput
+Osc 3 Fine Tune	0	4194304	Value	ValueOutput
+Osc 3 Volume	0	4194304	Value	ValueOutput
+Osc 3 Detune	0	4194304	Value	ValueOutput
+Osc 3 Detune Shape	0	4194304	Value	ValueOutput
+Osc 3 Width	0	4194304	Value	ValueOutput
+Osc 3 Pan	0	4194304	Value	ValueOutput
+Osc 3 Filter Out	0	4194304	Value	ValueOutput
+Osc 3 Retrig	0	4194304	Value	ValueOutput
+Osc 3 Key Track	0	4194304	Value	ValueOutput
+Osc 5 Octaves	0	4194304	Value	ValueOutput
+Osc 5 Semitones	0	4194304	Value	ValueOutput
+Osc 5 Fine Tune	0	4194304	Value	ValueOutput
+Osc 5 Volume	0	4194304	Value	ValueOutput
+Osc 5 Start Time	0	4194304	Value	ValueOutput
+Osc 5 Pan	0	4194304	Value	ValueOutput
+Osc 5 Filter Out	0	4194304	Value	ValueOutput
+Osc 5 Retrig	0	4194304	Value	ValueOutput
+Osc 5 Key Track	0	4194304	Value	ValueOutput
+Filter 1 Velocity	0	4194304	Value	ValueOutput
+Filter 2 Velocity	0	4194304	Value	ValueOutput
+EQ Bypass	0	4194304	Value	ValueOutput
+EQ Low Gain	0	4194304	Value	ValueOutput
+EQ Low Freq	0	4194304	Value	ValueOutput
+EQ Low Q	0	4194304	Value	ValueOutput
+EQ Mid Gain	0	4194304	Value	ValueOutput
+EQ Mid Freq	0	4194304	Value	ValueOutput
+EQ Mid Q	0	4194304	Value	ValueOutput
+EQ High Gain	0	4194304	Value	ValueOutput
+EQ High Freq	0	4194304	Value	ValueOutput
+EQ High Q	0	4194304	Value	ValueOutput
+GEnv Sync	0	4194304	Value	ValueOutput
+GEnv Rate (Synced)	0	4194304	Value	ValueOutput
+Delay Dry	0	4194304	Value	ValueOutput
+Reverb Dry	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

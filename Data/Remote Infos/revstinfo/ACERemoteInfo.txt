@@ -1,0 +1,178 @@
+Scope
+Manufacturer	Model
+u-he	vst.acEU.ACE
+Note: Will match scope definitions for vst.acEU.ACE or vst.acEU
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+CcOp	0	4194304	Value	ValueOutput
+Voices	0	4194304	Value	ValueOutput
+Voicing	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+PortaM	0	4194304	Value	ValueOutput
+Porta	0	4194304	Value	ValueOutput
+Porta2	0	4194304	Value	ValueOutput
+PRange	0	4194304	Value	ValueOutput
+PB	0	4194304	Value	ValueOutput
+PBD	0	4194304	Value	ValueOutput
+Trsp	0	4194304	Value	ValueOutput
+FTun	0	4194304	Value	ValueOutput
+Atk	0	4194304	Value	ValueOutput
+Dec	0	4194304	Value	ValueOutput
+Sus	0	4194304	Value	ValueOutput
+FR	0	4194304	Value	ValueOutput
+Rel	0	4194304	Value	ValueOutput
+Vel	0	4194304	Value	ValueOutput
+RMod	0	4194304	Value	ValueOutput
+RMSrc	0	4194304	Value	ValueOutput
+LMod	0	4194304	Value	ValueOutput
+LMSrc	0	4194304	Value	ValueOutput
+CRate	0	4194304	Value	ValueOutput
+Snappy	0	4194304	Value	ValueOutput
+FRRng	0	4194304	Value	ValueOutput
+Trig	0	4194304	Value	ValueOutput
+Atk	0	4194304	Value	ValueOutput
+Dec	0	4194304	Value	ValueOutput
+Sus	0	4194304	Value	ValueOutput
+FR	0	4194304	Value	ValueOutput
+Rel	0	4194304	Value	ValueOutput
+Vel	0	4194304	Value	ValueOutput
+RMod	0	4194304	Value	ValueOutput
+RMSrc	0	4194304	Value	ValueOutput
+LMod	0	4194304	Value	ValueOutput
+LMSrc	0	4194304	Value	ValueOutput
+CRate	0	4194304	Value	ValueOutput
+Snappy	0	4194304	Value	ValueOutput
+FRRng	0	4194304	Value	ValueOutput
+Trig	0	4194304	Value	ValueOutput
+Up	0	4194304	Value	ValueOutput
+Hold	0	4194304	Value	ValueOutput
+Down	0	4194304	Value	ValueOutput
+Rest	0	4194304	Value	ValueOutput
+Clock	0	4194304	Value	ValueOutput
+OutSrc1	0	4194304	Value	ValueOutput
+OutSrc2	0	4194304	Value	ValueOutput
+Quality	0	4194304	Value	ValueOutput
+OscBal	0	4194304	Value	ValueOutput
+SubVol	0	4194304	Value	ValueOutput
+Noise	0	4194304	Value	ValueOutput
+MixSrc	0	4194304	Value	ValueOutput
+Source	0	4194304	Value	ValueOutput
+LPType1	0	4194304	Value	ValueOutput
+FType1	0	4194304	Value	ValueOutput
+LPType2	0	4194304	Value	ValueOutput
+FType2	0	4194304	Value	ValueOutput
+CVSrc1	0	4194304	Value	ValueOutput
+CVSrc2	0	4194304	Value	ValueOutput
+Slop	0	4194304	Value	ValueOutput
+CTalk	0	4194304	Value	ValueOutput
+OscCap	0	4194304	Value	ValueOutput
+MxOsc	0	4194304	Value	ValueOutput
+MxSub	0	4194304	Value	ValueOutput
+MxNoise	0	4194304	Value	ValueOutput
+Tune	0	4194304	Value	ValueOutput
+Fine	0	4194304	Value	ValueOutput
+FMSrc	0	4194304	Value	ValueOutput
+FMDpt	0	4194304	Value	ValueOutput
+FMRes	0	4194304	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+PMSrc	0	4194304	Value	ValueOutput
+PMDpt	0	4194304	Value	ValueOutput
+Vol	0	4194304	Value	ValueOutput
+VMSc	0	4194304	Value	ValueOutput
+VMDpt	0	4194304	Value	ValueOutput
+Tune	0	4194304	Value	ValueOutput
+Fine	0	4194304	Value	ValueOutput
+FMSrc	0	4194304	Value	ValueOutput
+FMDpt	0	4194304	Value	ValueOutput
+FMRes	0	4194304	Value	ValueOutput
+Phase	0	4194304	Value	ValueOutput
+Vol	0	4194304	Value	ValueOutput
+VMSc	0	4194304	Value	ValueOutput
+VMDpt	0	4194304	Value	ValueOutput
+WaveF1	0	4194304	Value	ValueOutput
+Tune1	0	4194304	Value	ValueOutput
+Fine1	0	4194304	Value	ValueOutput
+FMSrc1	0	4194304	Value	ValueOutput
+FMDpt1	0	4194304	Value	ValueOutput
+FMRes1	0	4194304	Value	ValueOutput
+PW1	0	4194304	Value	ValueOutput
+PWSrc1	0	4194304	Value	ValueOutput
+PWDpt1	0	4194304	Value	ValueOutput
+WaveF2	0	4194304	Value	ValueOutput
+Tune2	0	4194304	Value	ValueOutput
+Fine2	0	4194304	Value	ValueOutput
+FMSrc2	0	4194304	Value	ValueOutput
+FMDpt2	0	4194304	Value	ValueOutput
+FMRes2	0	4194304	Value	ValueOutput
+PW2	0	4194304	Value	ValueOutput
+PWSrc2	0	4194304	Value	ValueOutput
+PWDpt2	0	4194304	Value	ValueOutput
+Sync	0	4194304	Value	ValueOutput
+SncMSrc	0	4194304	Value	ValueOutput
+SubType	0	4194304	Value	ValueOutput
+Vol1	0	4194304	Value	ValueOutput
+Vol2	0	4194304	Value	ValueOutput
+SubVol	0	4194304	Value	ValueOutput
+FM12	0	4194304	Value	ValueOutput
+RM12	0	4194304	Value	ValueOutput
+FMSrc	0	4194304	Value	ValueOutput
+TriMd	0	4194304	Value	ValueOutput
+Vibra	0	4194304	Value	ValueOutput
+FMSrc	0	4194304	Value	ValueOutput
+FMDpt	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+FMSrc1	0	4194304	Value	ValueOutput
+FMDpt1	0	4194304	Value	ValueOutput
+FMSrc2	0	4194304	Value	ValueOutput
+FMDpt2	0	4194304	Value	ValueOutput
+KeyFol	0	4194304	Value	ValueOutput
+Res	0	4194304	Value	ValueOutput
+ResSrc	0	4194304	Value	ValueOutput
+FMSrc	0	4194304	Value	ValueOutput
+FMDpt	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+FMSrc1	0	4194304	Value	ValueOutput
+FMDpt1	0	4194304	Value	ValueOutput
+FMSrc2	0	4194304	Value	ValueOutput
+FMDpt2	0	4194304	Value	ValueOutput
+KeyFol	0	4194304	Value	ValueOutput
+Res	0	4194304	Value	ValueOutput
+ResSrc	0	4194304	Value	ValueOutput
+Gain12	0	4194304	Value	ValueOutput
+Gain34	0	4194304	Value	ValueOutput
+Gain12	0	4194304	Value	ValueOutput
+Gain34	0	4194304	Value	ValueOutput
+Vol	0	4194304	Value	ValueOutput
+PanDpt	0	4194304	Value	ValueOutput
+Vol	0	4194304	Value	ValueOutput
+PanDpt	0	4194304	Value	ValueOutput
+Mode	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+MixFB	0	4194304	Value	ValueOutput
+Center	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+DelTyp	0	4194304	Value	ValueOutput
+DelMix	0	4194304	Value	ValueOutput
+DelFB	0	4194304	Value	ValueOutput
+DelSpr	0	4194304	Value	ValueOutput
+DelDmp	0	4194304	Value	ValueOutput
+Bass	0	4194304	Value	ValueOutput
+Treble	0	4194304	Value	ValueOutput
+FXon	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

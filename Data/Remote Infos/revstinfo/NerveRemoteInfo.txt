@@ -1,0 +1,543 @@
+Scope
+Manufacturer	Model
+Xfer Records	vst.XFRa.Nerve
+Note: Will match scope definitions for vst.XFRa.Nerve or vst.XFRa
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+SwingAmt	0	4194304	Value	ValueOutput
+Mast_Vol	0	4194304	Value	ValueOutput
+ReptSend	0	4194304	Value	ValueOutput
+Pattern	0	4194304	Value	ValueOutput
+C_Ratio	0	4194304	Value	ValueOutput
+C_Thrsh 	0	4194304	Value	ValueOutput
+C_Attack	0	4194304	Value	ValueOutput
+C_Releas	0	4194304	Value	ValueOutput
+Smps 1:s	0	4194304	Value	ValueOutput
+Smps 2:s	0	4194304	Value	ValueOutput
+Smps 3:s	0	4194304	Value	ValueOutput
+Smps 4:s	0	4194304	Value	ValueOutput
+Smps 5:s	0	4194304	Value	ValueOutput
+Smps 6:s	0	4194304	Value	ValueOutput
+Smps 7:s	0	4194304	Value	ValueOutput
+Smps 8:s	0	4194304	Value	ValueOutput
+Smps 9:s	0	4194304	Value	ValueOutput
+Smps10:s	0	4194304	Value	ValueOutput
+Smps11:s	0	4194304	Value	ValueOutput
+Smps12:s	0	4194304	Value	ValueOutput
+Smps13:s	0	4194304	Value	ValueOutput
+Smps14:s	0	4194304	Value	ValueOutput
+Smps15:s	0	4194304	Value	ValueOutput
+Smps16:s	0	4194304	Value	ValueOutput
+Mute 1:s	0	4194304	Value	ValueOutput
+Mute 2:s	0	4194304	Value	ValueOutput
+Mute 3:s	0	4194304	Value	ValueOutput
+Mute 4:s	0	4194304	Value	ValueOutput
+Mute 5:s	0	4194304	Value	ValueOutput
+Mute 6:s	0	4194304	Value	ValueOutput
+Mute 7:s	0	4194304	Value	ValueOutput
+Mute 8:s	0	4194304	Value	ValueOutput
+Mute 9:s	0	4194304	Value	ValueOutput
+Mute10:s	0	4194304	Value	ValueOutput
+Mute11:s	0	4194304	Value	ValueOutput
+Mute12:s	0	4194304	Value	ValueOutput
+Mute13:s	0	4194304	Value	ValueOutput
+Mute14:s	0	4194304	Value	ValueOutput
+Mute15:s	0	4194304	Value	ValueOutput
+Mute16:s	0	4194304	Value	ValueOutput
+Solo 1:s	0	4194304	Value	ValueOutput
+Solo 2:s	0	4194304	Value	ValueOutput
+Solo 3:s	0	4194304	Value	ValueOutput
+Solo 4:s	0	4194304	Value	ValueOutput
+Solo 5:s	0	4194304	Value	ValueOutput
+Solo 6:s	0	4194304	Value	ValueOutput
+Solo 7:s	0	4194304	Value	ValueOutput
+Solo 8:s	0	4194304	Value	ValueOutput
+Solo 9:s	0	4194304	Value	ValueOutput
+Solo10:s	0	4194304	Value	ValueOutput
+Solo11:s	0	4194304	Value	ValueOutput
+Solo12:s	0	4194304	Value	ValueOutput
+Solo13:s	0	4194304	Value	ValueOutput
+Solo14:s	0	4194304	Value	ValueOutput
+Solo15:s	0	4194304	Value	ValueOutput
+Solo16:s	0	4194304	Value	ValueOutput
+Cut  1:s	0	4194304	Value	ValueOutput
+Cut  2:s	0	4194304	Value	ValueOutput
+Cut  3:s	0	4194304	Value	ValueOutput
+Cut  4:s	0	4194304	Value	ValueOutput
+Cut  5:s	0	4194304	Value	ValueOutput
+Cut  6:s	0	4194304	Value	ValueOutput
+Cut  7:s	0	4194304	Value	ValueOutput
+Cut  8:s	0	4194304	Value	ValueOutput
+Cut  9:s	0	4194304	Value	ValueOutput
+Cut 10:s	0	4194304	Value	ValueOutput
+Cut 11:s	0	4194304	Value	ValueOutput
+Cut 12:s	0	4194304	Value	ValueOutput
+Cut 13:s	0	4194304	Value	ValueOutput
+Cut 14:s	0	4194304	Value	ValueOutput
+Cut 15:s	0	4194304	Value	ValueOutput
+Cut 16:s	0	4194304	Value	ValueOutput
+Reso 1:s	0	4194304	Value	ValueOutput
+Reso 2:s	0	4194304	Value	ValueOutput
+Reso 3:s	0	4194304	Value	ValueOutput
+Reso 4:s	0	4194304	Value	ValueOutput
+Reso 5:s	0	4194304	Value	ValueOutput
+Reso 6:s	0	4194304	Value	ValueOutput
+Reso 7:s	0	4194304	Value	ValueOutput
+Reso 8:s	0	4194304	Value	ValueOutput
+Reso 9:s	0	4194304	Value	ValueOutput
+Reso10:s	0	4194304	Value	ValueOutput
+Reso11:s	0	4194304	Value	ValueOutput
+Reso12:s	0	4194304	Value	ValueOutput
+Reso13:s	0	4194304	Value	ValueOutput
+Reso14:s	0	4194304	Value	ValueOutput
+Reso15:s	0	4194304	Value	ValueOutput
+Reso16:s	0	4194304	Value	ValueOutput
+Pit  1:s	0	4194304	Value	ValueOutput
+Pit  2:s	0	4194304	Value	ValueOutput
+Pit  3:s	0	4194304	Value	ValueOutput
+Pit  4:s	0	4194304	Value	ValueOutput
+Pit  5:s	0	4194304	Value	ValueOutput
+Pit  6:s	0	4194304	Value	ValueOutput
+Pit  7:s	0	4194304	Value	ValueOutput
+Pit  8:s	0	4194304	Value	ValueOutput
+Pit  9:s	0	4194304	Value	ValueOutput
+Pit 10:s	0	4194304	Value	ValueOutput
+Pit 11:s	0	4194304	Value	ValueOutput
+Pit 12:s	0	4194304	Value	ValueOutput
+Pit 13:s	0	4194304	Value	ValueOutput
+Pit 14:s	0	4194304	Value	ValueOutput
+Pit 15:s	0	4194304	Value	ValueOutput
+Pit 16:s	0	4194304	Value	ValueOutput
+Fine 1:s	0	4194304	Value	ValueOutput
+Fine 2:s	0	4194304	Value	ValueOutput
+Fine 3:s	0	4194304	Value	ValueOutput
+Fine 4:s	0	4194304	Value	ValueOutput
+Fine 5:s	0	4194304	Value	ValueOutput
+Fine 6:s	0	4194304	Value	ValueOutput
+Fine 7:s	0	4194304	Value	ValueOutput
+Fine 8:s	0	4194304	Value	ValueOutput
+Fine 9:s	0	4194304	Value	ValueOutput
+Fine10:s	0	4194304	Value	ValueOutput
+Fine11:s	0	4194304	Value	ValueOutput
+Fine12:s	0	4194304	Value	ValueOutput
+Fine13:s	0	4194304	Value	ValueOutput
+Fine14:s	0	4194304	Value	ValueOutput
+Fine15:s	0	4194304	Value	ValueOutput
+Fine16:s	0	4194304	Value	ValueOutput
+Gate 1:s	0	4194304	Value	ValueOutput
+Gate 2:s	0	4194304	Value	ValueOutput
+Gate 3:s	0	4194304	Value	ValueOutput
+Gate 4:s	0	4194304	Value	ValueOutput
+Gate 5:s	0	4194304	Value	ValueOutput
+Gate 6:s	0	4194304	Value	ValueOutput
+Gate 7:s	0	4194304	Value	ValueOutput
+Gate 8:s	0	4194304	Value	ValueOutput
+Gate 9:s	0	4194304	Value	ValueOutput
+Gate10:s	0	4194304	Value	ValueOutput
+Gate11:s	0	4194304	Value	ValueOutput
+Gate12:s	0	4194304	Value	ValueOutput
+Gate13:s	0	4194304	Value	ValueOutput
+Gate14:s	0	4194304	Value	ValueOutput
+Gate15:s	0	4194304	Value	ValueOutput
+Gate16:s	0	4194304	Value	ValueOutput
+Send 1:s	0	4194304	Value	ValueOutput
+Send 2:s	0	4194304	Value	ValueOutput
+Send 3:s	0	4194304	Value	ValueOutput
+Send 4:s	0	4194304	Value	ValueOutput
+Send 5:s	0	4194304	Value	ValueOutput
+Send 6:s	0	4194304	Value	ValueOutput
+Send 7:s	0	4194304	Value	ValueOutput
+Send 8:s	0	4194304	Value	ValueOutput
+Send 9:s	0	4194304	Value	ValueOutput
+Send10:s	0	4194304	Value	ValueOutput
+Send11:s	0	4194304	Value	ValueOutput
+Send12:s	0	4194304	Value	ValueOutput
+Send13:s	0	4194304	Value	ValueOutput
+Send14:s	0	4194304	Value	ValueOutput
+Send15:s	0	4194304	Value	ValueOutput
+Send16:s	0	4194304	Value	ValueOutput
+Vol  1:s	0	4194304	Value	ValueOutput
+Vol  2:s	0	4194304	Value	ValueOutput
+Vol  3:s	0	4194304	Value	ValueOutput
+Vol  4:s	0	4194304	Value	ValueOutput
+Vol  5:s	0	4194304	Value	ValueOutput
+Vol  6:s	0	4194304	Value	ValueOutput
+Vol  7:s	0	4194304	Value	ValueOutput
+Vol  8:s	0	4194304	Value	ValueOutput
+Vol  9:s	0	4194304	Value	ValueOutput
+Vol 10:s	0	4194304	Value	ValueOutput
+Vol 11:s	0	4194304	Value	ValueOutput
+Vol 12:s	0	4194304	Value	ValueOutput
+Vol 13:s	0	4194304	Value	ValueOutput
+Vol 14:s	0	4194304	Value	ValueOutput
+Vol 15:s	0	4194304	Value	ValueOutput
+Vol 16:s	0	4194304	Value	ValueOutput
+Pan  1:s	0	4194304	Value	ValueOutput
+Pan  2:s	0	4194304	Value	ValueOutput
+Pan  3:s	0	4194304	Value	ValueOutput
+Pan  4:s	0	4194304	Value	ValueOutput
+Pan  5:s	0	4194304	Value	ValueOutput
+Pan  6:s	0	4194304	Value	ValueOutput
+Pan  7:s	0	4194304	Value	ValueOutput
+Pan  8:s	0	4194304	Value	ValueOutput
+Pan  9:s	0	4194304	Value	ValueOutput
+Pan 10:s	0	4194304	Value	ValueOutput
+Pan 11:s	0	4194304	Value	ValueOutput
+Pan 12:s	0	4194304	Value	ValueOutput
+Pan 13:s	0	4194304	Value	ValueOutput
+Pan 14:s	0	4194304	Value	ValueOutput
+Pan 15:s	0	4194304	Value	ValueOutput
+Pan 16:s	0	4194304	Value	ValueOutput
+Sus  1:s	0	4194304	Value	ValueOutput
+Sus  2:s	0	4194304	Value	ValueOutput
+Sus  3:s	0	4194304	Value	ValueOutput
+Sus  4:s	0	4194304	Value	ValueOutput
+Sus  5:s	0	4194304	Value	ValueOutput
+Sus  6:s	0	4194304	Value	ValueOutput
+Sus  7:s	0	4194304	Value	ValueOutput
+Sus  8:s	0	4194304	Value	ValueOutput
+Sus  9:s	0	4194304	Value	ValueOutput
+Sus 10:s	0	4194304	Value	ValueOutput
+Sus 11:s	0	4194304	Value	ValueOutput
+Sus 12:s	0	4194304	Value	ValueOutput
+Sus 13:s	0	4194304	Value	ValueOutput
+Sus 14:s	0	4194304	Value	ValueOutput
+Sus 15:s	0	4194304	Value	ValueOutput
+Sus 16:s	0	4194304	Value	ValueOutput
+Atk  1:s	0	4194304	Value	ValueOutput
+Atk  2:s	0	4194304	Value	ValueOutput
+Atk  3:s	0	4194304	Value	ValueOutput
+Atk  4:s	0	4194304	Value	ValueOutput
+Atk  5:s	0	4194304	Value	ValueOutput
+Atk  6:s	0	4194304	Value	ValueOutput
+Atk  7:s	0	4194304	Value	ValueOutput
+Atk  8:s	0	4194304	Value	ValueOutput
+Atk  9:s	0	4194304	Value	ValueOutput
+Atk 10:s	0	4194304	Value	ValueOutput
+Atk 11:s	0	4194304	Value	ValueOutput
+Atk 12:s	0	4194304	Value	ValueOutput
+Atk 13:s	0	4194304	Value	ValueOutput
+Atk 14:s	0	4194304	Value	ValueOutput
+Atk 15:s	0	4194304	Value	ValueOutput
+Atk 16:s	0	4194304	Value	ValueOutput
+Dec  1:s	0	4194304	Value	ValueOutput
+Dec  2:s	0	4194304	Value	ValueOutput
+Dec  3:s	0	4194304	Value	ValueOutput
+Dec  4:s	0	4194304	Value	ValueOutput
+Dec  5:s	0	4194304	Value	ValueOutput
+Dec  6:s	0	4194304	Value	ValueOutput
+Dec  7:s	0	4194304	Value	ValueOutput
+Dec  8:s	0	4194304	Value	ValueOutput
+Dec  9:s	0	4194304	Value	ValueOutput
+Dec 10:s	0	4194304	Value	ValueOutput
+Dec 11:s	0	4194304	Value	ValueOutput
+Dec 12:s	0	4194304	Value	ValueOutput
+Dec 13:s	0	4194304	Value	ValueOutput
+Dec 14:s	0	4194304	Value	ValueOutput
+Dec 15:s	0	4194304	Value	ValueOutput
+Dec 16:s	0	4194304	Value	ValueOutput
+Hld  1:s	0	4194304	Value	ValueOutput
+Hld  2:s	0	4194304	Value	ValueOutput
+Hld  3:s	0	4194304	Value	ValueOutput
+Hld  4:s	0	4194304	Value	ValueOutput
+Hld  5:s	0	4194304	Value	ValueOutput
+Hld  6:s	0	4194304	Value	ValueOutput
+Hld  7:s	0	4194304	Value	ValueOutput
+Hld  8:s	0	4194304	Value	ValueOutput
+Hld  9:s	0	4194304	Value	ValueOutput
+Hld 10:s	0	4194304	Value	ValueOutput
+Hld 11:s	0	4194304	Value	ValueOutput
+Hld 12:s	0	4194304	Value	ValueOutput
+Hld 13:s	0	4194304	Value	ValueOutput
+Hld 14:s	0	4194304	Value	ValueOutput
+Hld 15:s	0	4194304	Value	ValueOutput
+Hld 16:s	0	4194304	Value	ValueOutput
+Rel  1:s	0	4194304	Value	ValueOutput
+Rel  2:s	0	4194304	Value	ValueOutput
+Rel  3:s	0	4194304	Value	ValueOutput
+Rel  4:s	0	4194304	Value	ValueOutput
+Rel  5:s	0	4194304	Value	ValueOutput
+Rel  6:s	0	4194304	Value	ValueOutput
+Rel  7:s	0	4194304	Value	ValueOutput
+Rel  8:s	0	4194304	Value	ValueOutput
+Rel  9:s	0	4194304	Value	ValueOutput
+Rel 10:s	0	4194304	Value	ValueOutput
+Rel 11:s	0	4194304	Value	ValueOutput
+Rel 12:s	0	4194304	Value	ValueOutput
+Rel 13:s	0	4194304	Value	ValueOutput
+Rel 14:s	0	4194304	Value	ValueOutput
+Rel 15:s	0	4194304	Value	ValueOutput
+Rel 16:s	0	4194304	Value	ValueOutput
+LFODelay 1	0	4194304	Value	ValueOutput
+LFORise 1	0	4194304	Value	ValueOutput
+LFORetrig 1	0	4194304	Value	ValueOutput
+LFORate 1	0	4194304	Value	ValueOutput
+LFOPWM 1	0	4194304	Value	ValueOutput
+LFOShape 1	0	4194304	Value	ValueOutput
+LFOPan 1	0	4194304	Value	ValueOutput
+LFO>Pitch 1	0	4194304	Value	ValueOutput
+LFO>Filter 1	0	4194304	Value	ValueOutput
+LFO>Reso 1	0	4194304	Value	ValueOutput
+LFO>Level 1	0	4194304	Value	ValueOutput
+LFO>Start 1	0	4194304	Value	ValueOutput
+LFOPhase 1	0	4194304	Value	ValueOutput
+LFOBPMSync 1	0	4194304	Value	ValueOutput
+LFOHasDot 1	0	4194304	Value	ValueOutput
+LFODelay 2	0	4194304	Value	ValueOutput
+LFORise 2	0	4194304	Value	ValueOutput
+LFORetrig 2	0	4194304	Value	ValueOutput
+LFORate 2	0	4194304	Value	ValueOutput
+LFOPWM 2	0	4194304	Value	ValueOutput
+LFOShape 2	0	4194304	Value	ValueOutput
+LFOPan 2	0	4194304	Value	ValueOutput
+LFO>Pitch 2	0	4194304	Value	ValueOutput
+LFO>Filter 2	0	4194304	Value	ValueOutput
+LFO>Reso 2	0	4194304	Value	ValueOutput
+LFO>Level 2	0	4194304	Value	ValueOutput
+LFO>Start 2	0	4194304	Value	ValueOutput
+LFOPhase 2	0	4194304	Value	ValueOutput
+LFOBPMSync 2	0	4194304	Value	ValueOutput
+LFOHasDot 2	0	4194304	Value	ValueOutput
+LFODelay 3	0	4194304	Value	ValueOutput
+LFORise 3	0	4194304	Value	ValueOutput
+LFORetrig 3	0	4194304	Value	ValueOutput
+LFORate 3	0	4194304	Value	ValueOutput
+LFOPWM 3	0	4194304	Value	ValueOutput
+LFOShape 3	0	4194304	Value	ValueOutput
+LFOPan 3	0	4194304	Value	ValueOutput
+LFO>Pitch 3	0	4194304	Value	ValueOutput
+LFO>Filter 3	0	4194304	Value	ValueOutput
+LFO>Reso 3	0	4194304	Value	ValueOutput
+LFO>Level 3	0	4194304	Value	ValueOutput
+LFO>Start 3	0	4194304	Value	ValueOutput
+LFOPhase 3	0	4194304	Value	ValueOutput
+LFOBPMSync 3	0	4194304	Value	ValueOutput
+LFOHasDot 3	0	4194304	Value	ValueOutput
+LFODelay 4	0	4194304	Value	ValueOutput
+LFORise 4	0	4194304	Value	ValueOutput
+LFORetrig 4	0	4194304	Value	ValueOutput
+LFORate 4	0	4194304	Value	ValueOutput
+LFOPWM 4	0	4194304	Value	ValueOutput
+LFOShape 4	0	4194304	Value	ValueOutput
+LFOPan 4	0	4194304	Value	ValueOutput
+LFO>Pitch 4	0	4194304	Value	ValueOutput
+LFO>Filter 4	0	4194304	Value	ValueOutput
+LFO>Reso 4	0	4194304	Value	ValueOutput
+LFO>Level 4	0	4194304	Value	ValueOutput
+LFO>Start 4	0	4194304	Value	ValueOutput
+LFOPhase 4	0	4194304	Value	ValueOutput
+LFOBPMSync 4	0	4194304	Value	ValueOutput
+LFOHasDot 4	0	4194304	Value	ValueOutput
+LFODelay 5	0	4194304	Value	ValueOutput
+LFORise 5	0	4194304	Value	ValueOutput
+LFORetrig 5	0	4194304	Value	ValueOutput
+LFORate 5	0	4194304	Value	ValueOutput
+LFOPWM 5	0	4194304	Value	ValueOutput
+LFOShape 5	0	4194304	Value	ValueOutput
+LFOPan 5	0	4194304	Value	ValueOutput
+LFO>Pitch 5	0	4194304	Value	ValueOutput
+LFO>Filter 5	0	4194304	Value	ValueOutput
+LFO>Reso 5	0	4194304	Value	ValueOutput
+LFO>Level 5	0	4194304	Value	ValueOutput
+LFO>Start 5	0	4194304	Value	ValueOutput
+LFOPhase 5	0	4194304	Value	ValueOutput
+LFOBPMSync 5	0	4194304	Value	ValueOutput
+LFOHasDot 5	0	4194304	Value	ValueOutput
+LFODelay 6	0	4194304	Value	ValueOutput
+LFORise 6	0	4194304	Value	ValueOutput
+LFORetrig 6	0	4194304	Value	ValueOutput
+LFORate 6	0	4194304	Value	ValueOutput
+LFOPWM 6	0	4194304	Value	ValueOutput
+LFOShape 6	0	4194304	Value	ValueOutput
+LFOPan 6	0	4194304	Value	ValueOutput
+LFO>Pitch 6	0	4194304	Value	ValueOutput
+LFO>Filter 6	0	4194304	Value	ValueOutput
+LFO>Reso 6	0	4194304	Value	ValueOutput
+LFO>Level 6	0	4194304	Value	ValueOutput
+LFO>Start 6	0	4194304	Value	ValueOutput
+LFOPhase 6	0	4194304	Value	ValueOutput
+LFOBPMSync 6	0	4194304	Value	ValueOutput
+LFOHasDot 6	0	4194304	Value	ValueOutput
+LFODelay 7	0	4194304	Value	ValueOutput
+LFORise 7	0	4194304	Value	ValueOutput
+LFORetrig 7	0	4194304	Value	ValueOutput
+LFORate 7	0	4194304	Value	ValueOutput
+LFOPWM 7	0	4194304	Value	ValueOutput
+LFOShape 7	0	4194304	Value	ValueOutput
+LFOPan 7	0	4194304	Value	ValueOutput
+LFO>Pitch 7	0	4194304	Value	ValueOutput
+LFO>Filter 7	0	4194304	Value	ValueOutput
+LFO>Reso 7	0	4194304	Value	ValueOutput
+LFO>Level 7	0	4194304	Value	ValueOutput
+LFO>Start 7	0	4194304	Value	ValueOutput
+LFOPhase 7	0	4194304	Value	ValueOutput
+LFOBPMSync 7	0	4194304	Value	ValueOutput
+LFOHasDot 7	0	4194304	Value	ValueOutput
+LFODelay 8	0	4194304	Value	ValueOutput
+LFORise 8	0	4194304	Value	ValueOutput
+LFORetrig 8	0	4194304	Value	ValueOutput
+LFORate 8	0	4194304	Value	ValueOutput
+LFOPWM 8	0	4194304	Value	ValueOutput
+LFOShape 8	0	4194304	Value	ValueOutput
+LFOPan 8	0	4194304	Value	ValueOutput
+LFO>Pitch 8	0	4194304	Value	ValueOutput
+LFO>Filter 8	0	4194304	Value	ValueOutput
+LFO>Reso 8	0	4194304	Value	ValueOutput
+LFO>Level 8	0	4194304	Value	ValueOutput
+LFO>Start 8	0	4194304	Value	ValueOutput
+LFOPhase 8	0	4194304	Value	ValueOutput
+LFOBPMSync 8	0	4194304	Value	ValueOutput
+LFOHasDot 8	0	4194304	Value	ValueOutput
+LFODelay 9	0	4194304	Value	ValueOutput
+LFORise 9	0	4194304	Value	ValueOutput
+LFORetrig 9	0	4194304	Value	ValueOutput
+LFORate 9	0	4194304	Value	ValueOutput
+LFOPWM 9	0	4194304	Value	ValueOutput
+LFOShape 9	0	4194304	Value	ValueOutput
+LFOPan 9	0	4194304	Value	ValueOutput
+LFO>Pitch 9	0	4194304	Value	ValueOutput
+LFO>Filter 9	0	4194304	Value	ValueOutput
+LFO>Reso 9	0	4194304	Value	ValueOutput
+LFO>Level 9	0	4194304	Value	ValueOutput
+LFO>Start 9	0	4194304	Value	ValueOutput
+LFOPhase 9	0	4194304	Value	ValueOutput
+LFOBPMSync 9	0	4194304	Value	ValueOutput
+LFOHasDot 9	0	4194304	Value	ValueOutput
+LFODelay10	0	4194304	Value	ValueOutput
+LFORise10	0	4194304	Value	ValueOutput
+LFORetrig10	0	4194304	Value	ValueOutput
+LFORate10	0	4194304	Value	ValueOutput
+LFOPWM10	0	4194304	Value	ValueOutput
+LFOShape10	0	4194304	Value	ValueOutput
+LFOPan10	0	4194304	Value	ValueOutput
+LFO>Pitch10	0	4194304	Value	ValueOutput
+LFO>Filter10	0	4194304	Value	ValueOutput
+LFO>Reso10	0	4194304	Value	ValueOutput
+LFO>Level10	0	4194304	Value	ValueOutput
+LFO>Start10	0	4194304	Value	ValueOutput
+LFOPhase10	0	4194304	Value	ValueOutput
+LFOBPMSync10	0	4194304	Value	ValueOutput
+LFOHasDot10	0	4194304	Value	ValueOutput
+LFODelay11	0	4194304	Value	ValueOutput
+LFORise11	0	4194304	Value	ValueOutput
+LFORetrig11	0	4194304	Value	ValueOutput
+LFORate11	0	4194304	Value	ValueOutput
+LFOPWM11	0	4194304	Value	ValueOutput
+LFOShape11	0	4194304	Value	ValueOutput
+LFOPan11	0	4194304	Value	ValueOutput
+LFO>Pitch11	0	4194304	Value	ValueOutput
+LFO>Filter11	0	4194304	Value	ValueOutput
+LFO>Reso11	0	4194304	Value	ValueOutput
+LFO>Level11	0	4194304	Value	ValueOutput
+LFO>Start11	0	4194304	Value	ValueOutput
+LFOPhase11	0	4194304	Value	ValueOutput
+LFOBPMSync11	0	4194304	Value	ValueOutput
+LFOHasDot11	0	4194304	Value	ValueOutput
+LFODelay12	0	4194304	Value	ValueOutput
+LFORise12	0	4194304	Value	ValueOutput
+LFORetrig12	0	4194304	Value	ValueOutput
+LFORate12	0	4194304	Value	ValueOutput
+LFOPWM12	0	4194304	Value	ValueOutput
+LFOShape12	0	4194304	Value	ValueOutput
+LFOPan12	0	4194304	Value	ValueOutput
+LFO>Pitch12	0	4194304	Value	ValueOutput
+LFO>Filter12	0	4194304	Value	ValueOutput
+LFO>Reso12	0	4194304	Value	ValueOutput
+LFO>Level12	0	4194304	Value	ValueOutput
+LFO>Start12	0	4194304	Value	ValueOutput
+LFOPhase12	0	4194304	Value	ValueOutput
+LFOBPMSync12	0	4194304	Value	ValueOutput
+LFOHasDot12	0	4194304	Value	ValueOutput
+LFODelay13	0	4194304	Value	ValueOutput
+LFORise13	0	4194304	Value	ValueOutput
+LFORetrig13	0	4194304	Value	ValueOutput
+LFORate13	0	4194304	Value	ValueOutput
+LFOPWM13	0	4194304	Value	ValueOutput
+LFOShape13	0	4194304	Value	ValueOutput
+LFOPan13	0	4194304	Value	ValueOutput
+LFO>Pitch13	0	4194304	Value	ValueOutput
+LFO>Filter13	0	4194304	Value	ValueOutput
+LFO>Reso13	0	4194304	Value	ValueOutput
+LFO>Level13	0	4194304	Value	ValueOutput
+LFO>Start13	0	4194304	Value	ValueOutput
+LFOPhase13	0	4194304	Value	ValueOutput
+LFOBPMSync13	0	4194304	Value	ValueOutput
+LFOHasDot13	0	4194304	Value	ValueOutput
+LFODelay14	0	4194304	Value	ValueOutput
+LFORise14	0	4194304	Value	ValueOutput
+LFORetrig14	0	4194304	Value	ValueOutput
+LFORate14	0	4194304	Value	ValueOutput
+LFOPWM14	0	4194304	Value	ValueOutput
+LFOShape14	0	4194304	Value	ValueOutput
+LFOPan14	0	4194304	Value	ValueOutput
+LFO>Pitch14	0	4194304	Value	ValueOutput
+LFO>Filter14	0	4194304	Value	ValueOutput
+LFO>Reso14	0	4194304	Value	ValueOutput
+LFO>Level14	0	4194304	Value	ValueOutput
+LFO>Start14	0	4194304	Value	ValueOutput
+LFOPhase14	0	4194304	Value	ValueOutput
+LFOBPMSync14	0	4194304	Value	ValueOutput
+LFOHasDot14	0	4194304	Value	ValueOutput
+LFODelay15	0	4194304	Value	ValueOutput
+LFORise15	0	4194304	Value	ValueOutput
+LFORetrig15	0	4194304	Value	ValueOutput
+LFORate15	0	4194304	Value	ValueOutput
+LFOPWM15	0	4194304	Value	ValueOutput
+LFOShape15	0	4194304	Value	ValueOutput
+LFOPan15	0	4194304	Value	ValueOutput
+LFO>Pitch15	0	4194304	Value	ValueOutput
+LFO>Filter15	0	4194304	Value	ValueOutput
+LFO>Reso15	0	4194304	Value	ValueOutput
+LFO>Level15	0	4194304	Value	ValueOutput
+LFO>Start15	0	4194304	Value	ValueOutput
+LFOPhase15	0	4194304	Value	ValueOutput
+LFOBPMSync15	0	4194304	Value	ValueOutput
+LFOHasDot15	0	4194304	Value	ValueOutput
+LFODelay16	0	4194304	Value	ValueOutput
+LFORise16	0	4194304	Value	ValueOutput
+LFORetrig16	0	4194304	Value	ValueOutput
+LFORate16	0	4194304	Value	ValueOutput
+LFOPWM16	0	4194304	Value	ValueOutput
+LFOShape16	0	4194304	Value	ValueOutput
+LFOPan16	0	4194304	Value	ValueOutput
+LFO>Pitch16	0	4194304	Value	ValueOutput
+LFO>Filter16	0	4194304	Value	ValueOutput
+LFO>Reso16	0	4194304	Value	ValueOutput
+LFO>Level16	0	4194304	Value	ValueOutput
+LFO>Start16	0	4194304	Value	ValueOutput
+LFOPhase16	0	4194304	Value	ValueOutput
+LFOBPMSync16	0	4194304	Value	ValueOutput
+LFOHasDot16	0	4194304	Value	ValueOutput
+CmpD 1:ot16	0	4194304	Value	ValueOutput
+CmpD 2:ot16	0	4194304	Value	ValueOutput
+CmpD 3:ot16	0	4194304	Value	ValueOutput
+CmpD 4:ot16	0	4194304	Value	ValueOutput
+CmpD 5:ot16	0	4194304	Value	ValueOutput
+CmpD 6:ot16	0	4194304	Value	ValueOutput
+CmpD 7:ot16	0	4194304	Value	ValueOutput
+CmpD 8:ot16	0	4194304	Value	ValueOutput
+CmpD 9:ot16	0	4194304	Value	ValueOutput
+CmpD10:ot16	0	4194304	Value	ValueOutput
+CmpD11:ot16	0	4194304	Value	ValueOutput
+CmpD12:ot16	0	4194304	Value	ValueOutput
+CmpD13:ot16	0	4194304	Value	ValueOutput
+CmpD14:ot16	0	4194304	Value	ValueOutput
+CmpD15:ot16	0	4194304	Value	ValueOutput
+CmpD16:ot16	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

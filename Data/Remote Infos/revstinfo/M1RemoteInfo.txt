@@ -1,0 +1,144 @@
+Scope
+Manufacturer	Model
+KORG	vst.KLM1.M1
+Note: Will match scope definitions for vst.KLM1.M1 or vst.KLM1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+MASTER VOLUME	0	4194304	Value	ValueOutput
+TRACK1 LEVEL	0	4194304	Value	ValueOutput
+TRACK1 PAN	0	4194304	Value	ValueOutput
+TRACK1 MUTE	0	4194304	Value	ValueOutput
+TRACK1 SOLO	0	4194304	Value	ValueOutput
+TRACK1 IFX SWITCH	0	4194304	Value	ValueOutput
+TRACK1 OSC BALANCE	0	4194304	Value	ValueOutput
+TRACK1 VDF CUTOFF	0	4194304	Value	ValueOutput
+TRACK1 RESONANCE	0	4194304	Value	ValueOutput
+TRACK1 VDF EG INT	0	4194304	Value	ValueOutput
+TRACK1 ATTACK TIME	0	4194304	Value	ValueOutput
+TRACK1 DECAY TIME	0	4194304	Value	ValueOutput
+TRACK1 RELEASE TIME	0	4194304	Value	ValueOutput
+TRACK1 DRY/WET BALANCE	0	4194304	Value	ValueOutput
+TRACK1 SEND1	0	4194304	Value	ValueOutput
+TRACK1 SEND2	0	4194304	Value	ValueOutput
+TRACK2 LEVEL	0	4194304	Value	ValueOutput
+TRACK2 PAN	0	4194304	Value	ValueOutput
+TRACK2 MUTE	0	4194304	Value	ValueOutput
+TRACK2 SOLO	0	4194304	Value	ValueOutput
+TRACK2 IFX SWITCH	0	4194304	Value	ValueOutput
+TRACK2 OSC BALANCE	0	4194304	Value	ValueOutput
+TRACK2 VDF CUTOFF	0	4194304	Value	ValueOutput
+TRACK2 RESONANCE	0	4194304	Value	ValueOutput
+TRACK2 VDF EG INT	0	4194304	Value	ValueOutput
+TRACK2 ATTACK TIME	0	4194304	Value	ValueOutput
+TRACK2 DECAY TIME	0	4194304	Value	ValueOutput
+TRACK2 RELEASE TIME	0	4194304	Value	ValueOutput
+TRACK2 DRY/WET BALANCE	0	4194304	Value	ValueOutput
+TRACK2 SEND1	0	4194304	Value	ValueOutput
+TRACK2 SEND2	0	4194304	Value	ValueOutput
+TRACK3 LEVEL	0	4194304	Value	ValueOutput
+TRACK3 PAN	0	4194304	Value	ValueOutput
+TRACK3 MUTE	0	4194304	Value	ValueOutput
+TRACK3 SOLO	0	4194304	Value	ValueOutput
+TRACK3 IFX SWITCH	0	4194304	Value	ValueOutput
+TRACK3 OSC BALANCE	0	4194304	Value	ValueOutput
+TRACK3 VDF CUTOFF	0	4194304	Value	ValueOutput
+TRACK3 RESONANCE	0	4194304	Value	ValueOutput
+TRACK3 VDF EG INT	0	4194304	Value	ValueOutput
+TRACK3 ATTACK TIME	0	4194304	Value	ValueOutput
+TRACK3 DECAY TIME	0	4194304	Value	ValueOutput
+TRACK3 RELEASE TIME	0	4194304	Value	ValueOutput
+TRACK3 DRY/WET BALANCE	0	4194304	Value	ValueOutput
+TRACK3 SEND1	0	4194304	Value	ValueOutput
+TRACK3 SEND2	0	4194304	Value	ValueOutput
+TRACK4 LEVEL	0	4194304	Value	ValueOutput
+TRACK4 PAN	0	4194304	Value	ValueOutput
+TRACK4 MUTE	0	4194304	Value	ValueOutput
+TRACK4 SOLO	0	4194304	Value	ValueOutput
+TRACK4 IFX SWITCH	0	4194304	Value	ValueOutput
+TRACK4 OSC BALANCE	0	4194304	Value	ValueOutput
+TRACK4 VDF CUTOFF	0	4194304	Value	ValueOutput
+TRACK4 RESONANCE	0	4194304	Value	ValueOutput
+TRACK4 VDF EG INT	0	4194304	Value	ValueOutput
+TRACK4 ATTACK TIME	0	4194304	Value	ValueOutput
+TRACK4 DECAY TIME	0	4194304	Value	ValueOutput
+TRACK4 RELEASE TIME	0	4194304	Value	ValueOutput
+TRACK4 DRY/WET BALANCE	0	4194304	Value	ValueOutput
+TRACK4 SEND1	0	4194304	Value	ValueOutput
+TRACK4 SEND2	0	4194304	Value	ValueOutput
+TRACK5 LEVEL	0	4194304	Value	ValueOutput
+TRACK5 PAN	0	4194304	Value	ValueOutput
+TRACK5 MUTE	0	4194304	Value	ValueOutput
+TRACK5 SOLO	0	4194304	Value	ValueOutput
+TRACK5 IFX SWITCH	0	4194304	Value	ValueOutput
+TRACK5 OSC BALANCE	0	4194304	Value	ValueOutput
+TRACK5 VDF CUTOFF	0	4194304	Value	ValueOutput
+TRACK5 RESONANCE	0	4194304	Value	ValueOutput
+TRACK5 VDF EG INT	0	4194304	Value	ValueOutput
+TRACK5 ATTACK TIME	0	4194304	Value	ValueOutput
+TRACK5 DECAY TIME	0	4194304	Value	ValueOutput
+TRACK5 RELEASE TIME	0	4194304	Value	ValueOutput
+TRACK5 DRY/WET BALANCE	0	4194304	Value	ValueOutput
+TRACK5 SEND1	0	4194304	Value	ValueOutput
+TRACK5 SEND2	0	4194304	Value	ValueOutput
+TRACK6 LEVEL	0	4194304	Value	ValueOutput
+TRACK6 PAN	0	4194304	Value	ValueOutput
+TRACK6 MUTE	0	4194304	Value	ValueOutput
+TRACK6 SOLO	0	4194304	Value	ValueOutput
+TRACK6 IFX SWITCH	0	4194304	Value	ValueOutput
+TRACK6 OSC BALANCE	0	4194304	Value	ValueOutput
+TRACK6 VDF CUTOFF	0	4194304	Value	ValueOutput
+TRACK6 RESONANCE	0	4194304	Value	ValueOutput
+TRACK6 VDF EG INT	0	4194304	Value	ValueOutput
+TRACK6 ATTACK TIME	0	4194304	Value	ValueOutput
+TRACK6 DECAY TIME	0	4194304	Value	ValueOutput
+TRACK6 RELEASE TIME	0	4194304	Value	ValueOutput
+TRACK6 DRY/WET BALANCE	0	4194304	Value	ValueOutput
+TRACK6 SEND1	0	4194304	Value	ValueOutput
+TRACK6 SEND2	0	4194304	Value	ValueOutput
+TRACK7 LEVEL	0	4194304	Value	ValueOutput
+TRACK7 PAN	0	4194304	Value	ValueOutput
+TRACK7 MUTE	0	4194304	Value	ValueOutput
+TRACK7 SOLO	0	4194304	Value	ValueOutput
+TRACK7 IFX SWITCH	0	4194304	Value	ValueOutput
+TRACK7 OSC BALANCE	0	4194304	Value	ValueOutput
+TRACK7 VDF CUTOFF	0	4194304	Value	ValueOutput
+TRACK7 RESONANCE	0	4194304	Value	ValueOutput
+TRACK7 VDF EG INT	0	4194304	Value	ValueOutput
+TRACK7 ATTACK TIME	0	4194304	Value	ValueOutput
+TRACK7 DECAY TIME	0	4194304	Value	ValueOutput
+TRACK7 RELEASE TIME	0	4194304	Value	ValueOutput
+TRACK7 DRY/WET BALANCE	0	4194304	Value	ValueOutput
+TRACK7 SEND1	0	4194304	Value	ValueOutput
+TRACK7 SEND2	0	4194304	Value	ValueOutput
+TRACK8 LEVEL	0	4194304	Value	ValueOutput
+TRACK8 PAN	0	4194304	Value	ValueOutput
+TRACK8 MUTE	0	4194304	Value	ValueOutput
+TRACK8 SOLO	0	4194304	Value	ValueOutput
+TRACK8 IFX SWITCH	0	4194304	Value	ValueOutput
+TRACK8 OSC BALANCE	0	4194304	Value	ValueOutput
+TRACK8 VDF CUTOFF	0	4194304	Value	ValueOutput
+TRACK8 RESONANCE	0	4194304	Value	ValueOutput
+TRACK8 VDF EG INT	0	4194304	Value	ValueOutput
+TRACK8 ATTACK TIME	0	4194304	Value	ValueOutput
+TRACK8 DECAY TIME	0	4194304	Value	ValueOutput
+TRACK8 RELEASE TIME	0	4194304	Value	ValueOutput
+TRACK8 DRY/WET BALANCE	0	4194304	Value	ValueOutput
+TRACK8 SEND1	0	4194304	Value	ValueOutput
+TRACK8 SEND2	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

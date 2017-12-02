@@ -1,0 +1,87 @@
+Scope
+Manufacturer	Model
+Universal Piper	vst.UPip.Universal Piper
+Note: Will match scope definitions for vst.UPip.Universal Piper or vst.UPip
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+GENERAL - VOLUM	0	4194304	Value	ValueOutput
+GENERAL - GAIN	0	4194304	Value	ValueOutput
+DRONES - Presen	0	4194304	Value	ValueOutput
+DRONES - ON / O	0	4194304	Value	ValueOutput
+DRONES - SHORT 	0	4194304	Value	ValueOutput
+KEY - FINE	0	4194304	Value	ValueOutput
+KEY - KEY	0	4194304	Value	ValueOutput
+KEY - TEMPERED	0	4194304	Value	ValueOutput
+KEY - LOCKED A	0	4194304	Value	ValueOutput
+KEY - 440 Hz	0	4194304	Value	ValueOutput
+CHANTER - BEND 	0	4194304	Value	ValueOutput
+CHANTER - BEND 	0	4194304	Value	ValueOutput
+CHANTER - MUTE	0	4194304	Value	ValueOutput
+CHANTER - GLISS	0	4194304	Value	ValueOutput
+CHANTER - GLISS	0	4194304	Value	ValueOutput
+DRONES EQ - ON/	0	4194304	Value	ValueOutput
+DRONES EQ - BAS	0	4194304	Value	ValueOutput
+DRONES EQ - MED	0	4194304	Value	ValueOutput
+DRONES EQ - TRE	0	4194304	Value	ValueOutput
+CHANTER EQ - ON	0	4194304	Value	ValueOutput
+CHANTER EQ - BA	0	4194304	Value	ValueOutput
+CHANTER EQ - ME	0	4194304	Value	ValueOutput
+CHANTER EQ - TR	0	4194304	Value	ValueOutput
+DRONES REVERB -	0	4194304	Value	ValueOutput
+DRONES REVERB -	0	4194304	Value	ValueOutput
+DRONES REVERB -	0	4194304	Value	ValueOutput
+DRONES REVERB -	0	4194304	Value	ValueOutput
+CHANTER REVERB 	0	4194304	Value	ValueOutput
+CHANTER REVERB 	0	4194304	Value	ValueOutput
+CHANTER REVERB 	0	4194304	Value	ValueOutput
+CHANTER REVERB 	0	4194304	Value	ValueOutput
+HUMANIZE - ON/O	0	4194304	Value	ValueOutput
+HUMANIZE - RATE	0	4194304	Value	ValueOutput
+HUMANIZE - TONE	0	4194304	Value	ValueOutput
+HUMANIZE - VOLU	0	4194304	Value	ValueOutput
+VALVE - ON / OF	0	4194304	Value	ValueOutput
+VALVE - VOLUME	0	4194304	Value	ValueOutput
+SPREAD - ON/OFF	0	4194304	Value	ValueOutput
+SPREAD - VOLUME	0	4194304	Value	ValueOutput
+P2nd voice - HAR	0	4194304	Value	ValueOutput
+P2nd voice - Act	0	4194304	Value	ValueOutput
+P2nd voice - Pre	0	4194304	Value	ValueOutput
+CHANTER - ON / 	0	4194304	Value	ValueOutput
+DELAY - ON / OF	0	4194304	Value	ValueOutput
+DELAY - FEEDBAC	0	4194304	Value	ValueOutput
+DELAY - MIX	0	4194304	Value	ValueOutput
+DELAY - DELAY	0	4194304	Value	ValueOutput
+DELAY - TEMPO	0	4194304	Value	ValueOutput
+FLANGER - ON/OF	0	4194304	Value	ValueOutput
+FLANGER - MIX	0	4194304	Value	ValueOutput
+FLANGER - DEPTH	0	4194304	Value	ValueOutput
+FLANGER - SPEED	0	4194304	Value	ValueOutput
+FLANGER - REGEN	0	4194304	Value	ValueOutput
+VIBRATO - ON/OF	0	4194304	Value	ValueOutput
+VIBRATO - DEPTH	0	4194304	Value	ValueOutput
+VIBRATO - SPEED	0	4194304	Value	ValueOutput
+VIBRATO - REGEN	0	4194304	Value	ValueOutput
+Metronome - TEM	0	4194304	Value	ValueOutput
+Metronome - ON/	0	4194304	Value	ValueOutput
+Metronome - VOL	0	4194304	Value	ValueOutput
+SCORE PLAYER & 	0	4194304	Value	ValueOutput
+SCORE PLAYER & 	0	4194304	Value	ValueOutput
+SCORE PLAYER & 	0	4194304	Value	ValueOutput
+MIDI CHANTER - 	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

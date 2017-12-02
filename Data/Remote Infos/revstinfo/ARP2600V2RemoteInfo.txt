@@ -1,0 +1,141 @@
+Scope
+Manufacturer	Model
+Arturia	vst.ARP2.ARP 2600 V2
+Note: Will match scope definitions for vst.ARP2.ARP 2600 V2 or vst.ARP2
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+WidthO1	0	4194304	Value	ValueOutput
+FinTunO1	0	4194304	Value	ValueOutput
+CoaTunO1	0	4194304	Value	ValueOutput
+AmnFM1O1	0	4194304	Value	ValueOutput
+AmnFM2O1	0	4194304	Value	ValueOutput
+AmnFM3O1	0	4194304	Value	ValueOutput
+AmnFM4O1	0	4194304	Value	ValueOutput
+AmnPWMO1	0	4194304	Value	ValueOutput
+WidthO2	0	4194304	Value	ValueOutput
+FinTunO2	0	4194304	Value	ValueOutput
+CoaTunO2	0	4194304	Value	ValueOutput
+AmnFM1O2	0	4194304	Value	ValueOutput
+AmnFM2O2	0	4194304	Value	ValueOutput
+AmnFM3O2	0	4194304	Value	ValueOutput
+AmnFM4O2	0	4194304	Value	ValueOutput
+AmnPWMO2	0	4194304	Value	ValueOutput
+WidthO3	0	4194304	Value	ValueOutput
+FinTunO3	0	4194304	Value	ValueOutput
+CoaTunO3	0	4194304	Value	ValueOutput
+AmnFM1O3	0	4194304	Value	ValueOutput
+AmnFM2O3	0	4194304	Value	ValueOutput
+AmnFM3O3	0	4194304	Value	ValueOutput
+AmnFM4O3	0	4194304	Value	ValueOutput
+AmnPWMO3	0	4194304	Value	ValueOutput
+TuneFil	0	4194304	Value	ValueOutput
+CoarFil	0	4194304	Value	ValueOutput
+ResFil	0	4194304	Value	ValueOutput
+NotcFil	0	4194304	Value	ValueOutput
+AmIn1Fil	0	4194304	Value	ValueOutput
+AmIn2Fil	0	4194304	Value	ValueOutput
+AmIn3Fil	0	4194304	Value	ValueOutput
+AmIn4Fil	0	4194304	Value	ValueOutput
+AmIn5Fil	0	4194304	Value	ValueOutput
+AmFm1Fil	0	4194304	Value	ValueOutput
+AmFm2Fil	0	4194304	Value	ValueOutput
+AmFm3Fil	0	4194304	Value	ValueOutput
+AttEnv1	0	4194304	Value	ValueOutput
+DecEnv1	0	4194304	Value	ValueOutput
+SusEnv1	0	4194304	Value	ValueOutput
+RelEnv1	0	4194304	Value	ValueOutput
+AttEnv2	0	4194304	Value	ValueOutput
+RelEnv2	0	4194304	Value	ValueOutput
+AmIn1Vca	0	4194304	Value	ValueOutput
+AmIn2Vca	0	4194304	Value	ValueOutput
+AmAmLVca	0	4194304	Value	ValueOutput
+AmAmEVca	0	4194304	Value	ValueOutput
+AmIn1Mix	0	4194304	Value	ValueOutput
+AmIn2Mix	0	4194304	Value	ValueOutput
+PanMix	0	4194304	Value	ValueOutput
+AmLefRev	0	4194304	Value	ValueOutput
+AmRigRev	0	4194304	Value	ValueOutput
+AmAudE.F	0	4194304	Value	ValueOutput
+AmAud1RM	0	4194304	Value	ValueOutput
+AmAud2RM	0	4194304	Value	ValueOutput
+TimbNois	0	4194304	Value	ValueOutput
+LevNois	0	4194304	Value	ValueOutput
+LevS&H	0	4194304	Value	ValueOutput
+RatS&H	0	4194304	Value	ValueOutput
+Mix12VP	0	4194304	Value	ValueOutput
+Mix34VP	0	4194304	Value	ValueOutput
+Mix56VP	0	4194304	Value	ValueOutput
+Lev7VP	0	4194304	Value	ValueOutput
+Lag12VP	0	4194304	Value	ValueOutput
+Lag34VP	0	4194304	Value	ValueOutput
+Lag56VP	0	4194304	Value	ValueOutput
+Lag7VP	0	4194304	Value	ValueOutput
+AM12VP	0	4194304	Value	ValueOutput
+AM34P	0	4194304	Value	ValueOutput
+AM56VP	0	4194304	Value	ValueOutput
+AM7VP	0	4194304	Value	ValueOutput
+AmInTr1	0	4194304	Value	ValueOutput
+AmInTr2	0	4194304	Value	ValueOutput
+AmInTr3	0	4194304	Value	ValueOutput
+AmInTr4	0	4194304	Value	ValueOutput
+SmootTr1	0	4194304	Value	ValueOutput
+SmootTr2	0	4194304	Value	ValueOutput
+SmootTr3	0	4194304	Value	ValueOutput
+SmootTr4	0	4194304	Value	ValueOutput
+FreqTr1	0	4194304	Value	ValueOutput
+FreqTr2	0	4194304	Value	ValueOutput
+FreqTr3	0	4194304	Value	ValueOutput
+FreqTr4	0	4194304	Value	ValueOutput
+SpeedLfo	0	4194304	Value	ValueOutput
+DepthVib	0	4194304	Value	ValueOutput
+DelayVib	0	4194304	Value	ValueOutput
+AmtAMLfo	0	4194304	Value	ValueOutput
+RateChor	0	4194304	Value	ValueOutput
+DeptChor	0	4194304	Value	ValueOutput
+DryWChor	0	4194304	Value	ValueOutput
+FeedLDel	0	4194304	Value	ValueOutput
+FeedRDel	0	4194304	Value	ValueOutput
+DryWeDel	0	4194304	Value	ValueOutput
+Step1Seq	0	4194304	Value	ValueOutput
+Step2Seq	0	4194304	Value	ValueOutput
+Step3Seq	0	4194304	Value	ValueOutput
+Step4Seq	0	4194304	Value	ValueOutput
+Step5Seq	0	4194304	Value	ValueOutput
+Step6Seq	0	4194304	Value	ValueOutput
+Step7Seq	0	4194304	Value	ValueOutput
+Step8Seq	0	4194304	Value	ValueOutput
+Step9Seq	0	4194304	Value	ValueOutput
+Ste10Seq	0	4194304	Value	ValueOutput
+Ste11Seq	0	4194304	Value	ValueOutput
+Ste12Seq	0	4194304	Value	ValueOutput
+Ste13Seq	0	4194304	Value	ValueOutput
+Ste14Seq	0	4194304	Value	ValueOutput
+Ste15Seq	0	4194304	Value	ValueOutput
+Ste16Seq	0	4194304	Value	ValueOutput
+RateSeq	0	4194304	Value	ValueOutput
+AmFMSeq	0	4194304	Value	ValueOutput
+AmPWSeq	0	4194304	Value	ValueOutput
+WidthSeq	0	4194304	Value	ValueOutput
+Portamen	0	4194304	Value	ValueOutput
+AmExtAud	0	4194304	Value	ValueOutput
+PitchBnd	0	4194304	Value	ValueOutput
+WheelMod	0	4194304	Value	ValueOutput
+GenVol	0	4194304	Value	ValueOutput
+GenTune	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

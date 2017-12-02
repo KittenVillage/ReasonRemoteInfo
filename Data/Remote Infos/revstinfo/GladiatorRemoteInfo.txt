@@ -1,0 +1,80 @@
+Scope
+Manufacturer	Model
+Tone2.com	vst.T2GL.Gladiator
+Note: Will match scope definitions for vst.T2GL.Gladiator or vst.T2GL
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+OSC12 LOOPSTART	0	4194304	Value	ValueOutput
+OSC12 LOOPSPEED	0	4194304	Value	ValueOutput
+OSC12 LOOPS. KEYF.	0	4194304	Value	ValueOutput
+OSC12 LOOP SYNC	0	4194304	Value	ValueOutput
+OSC12 OCTAVE	0	4194304	Value	ValueOutput
+OSC12 SEMI	0	4194304	Value	ValueOutput
+OSC12 FINE	0	4194304	Value	ValueOutput
+OSC34 LOOPSTART	0	4194304	Value	ValueOutput
+OSC34 LOOPSPEED	0	4194304	Value	ValueOutput
+OSC34 LOOPS. KEYF.	0	4194304	Value	ValueOutput
+OSC34 LOOP SYNC	0	4194304	Value	ValueOutput
+OSC34 OCTAVE	0	4194304	Value	ValueOutput
+OSC34 SEMI	0	4194304	Value	ValueOutput
+OSC34 FINE	0	4194304	Value	ValueOutput
+OSC5 OCTAVE	0	4194304	Value	ValueOutput
+OSC5 KEY	0	4194304	Value	ValueOutput
+OSC12 MIX	0	4194304	Value	ValueOutput
+OSC34 MIX	0	4194304	Value	ValueOutput
+OSC5 MIX	0	4194304	Value	ValueOutput
+OSC12/34 AM	0	4194304	Value	ValueOutput
+OSC UNISON SPREAD	0	4194304	Value	ValueOutput
+OSC SPIRIT DEPTH	0	4194304	Value	ValueOutput
+FILTER CUTOFF	0	4194304	Value	ValueOutput
+FILTER RESO	0	4194304	Value	ValueOutput
+FILTER ATTACK	0	4194304	Value	ValueOutput
+FILTER DECAY	0	4194304	Value	ValueOutput
+FILTER SUSTAIN	0	4194304	Value	ValueOutput
+FILTER FADE	0	4194304	Value	ValueOutput
+FILTER RELEASE	0	4194304	Value	ValueOutput
+FILTER SEND	0	4194304	Value	ValueOutput
+FILTER STEREO	0	4194304	Value	ValueOutput
+FILTER KEY FOLLOW	0	4194304	Value	ValueOutput
+FILTER VELOCITY	0	4194304	Value	ValueOutput
+DRIVE	0	4194304	Value	ValueOutput
+VOLUME	0	4194304	Value	ValueOutput
+VOLUME VELOCITY	0	4194304	Value	ValueOutput
+VOLUME ATTACK	0	4194304	Value	ValueOutput
+VOLUME DECAY	0	4194304	Value	ValueOutput
+VOLUME SUSTAIN	0	4194304	Value	ValueOutput
+VOLUME FADE	0	4194304	Value	ValueOutput
+VOLUME RELEASE	0	4194304	Value	ValueOutput
+PAN	0	4194304	Value	ValueOutput
+EQ LOW	0	4194304	Value	ValueOutput
+EQ MID	0	4194304	Value	ValueOutput
+EQ HIGH	0	4194304	Value	ValueOutput
+FX1 MIX	0	4194304	Value	ValueOutput
+FX2 MIX	0	4194304	Value	ValueOutput
+LFO1 SPEED	0	4194304	Value	ValueOutput
+LFO2 SPEED	0	4194304	Value	ValueOutput
+LFO3 SPEED	0	4194304	Value	ValueOutput
+MOD AMOUNT1	0	4194304	Value	ValueOutput
+MOD AMOUNT2	0	4194304	Value	ValueOutput
+MOD AMOUNT3	0	4194304	Value	ValueOutput
+MOD AMOUNT4	0	4194304	Value	ValueOutput
+MOD AMOUNT5	0	4194304	Value	ValueOutput
+MOD AMOUNT6	0	4194304	Value	ValueOutput
+MASTER VOLUME	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

@@ -1,0 +1,179 @@
+Scope
+Manufacturer	Model
+GForce	vst.I2FX.ImpOSCar2FX_x64
+Note: Will match scope definitions for vst.I2FX.ImpOSCar2FX_x64 or vst.I2FX
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Flt Typ	0	4194304	Value	ValueOutput
+Flt Q	0	4194304	Value	ValueOutput
+Flt Frq	0	4194304	Value	ValueOutput
+Flt Sep	0	4194304	Value	ValueOutput
+Flt Drv	0	4194304	Value	ValueOutput
+Kbd Trk	0	4194304	Value	ValueOutput
+Flt Env	0	4194304	Value	ValueOutput
+FltESrc	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Osc Wav 1	0	4194304	Value	ValueOutput
+Osc Wav 2	0	4194304	Value	ValueOutput
+O2 Oct	0	4194304	Value	ValueOutput
+O2 Trns	0	4194304	Value	ValueOutput
+O2 Detn	0	4194304	Value	ValueOutput
+PW1	0	4194304	Value	ValueOutput
+PW2	0	4194304	Value	ValueOutput
+Octave	0	4194304	Value	ValueOutput
+Trigger	0	4194304	Value	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+Gte Tme	0	4194304	Value	ValueOutput
+Funct	0	4194304	Value	ValueOutput
+Vel Atk	0	4194304	Value	ValueOutput
+Vel Rel	0	4194304	Value	ValueOutput
+Vel Drv	0	4194304	Value	ValueOutput
+Vel Env 2	0	4194304	Value	ValueOutput
+Amp Atk	0	4194304	Value	ValueOutput
+Amp Dec	0	4194304	Value	ValueOutput
+Amp Sus	0	4194304	Value	ValueOutput
+Amp Rel	0	4194304	Value	ValueOutput
+Flt Atk	0	4194304	Value	ValueOutput
+Flt Dec	0	4194304	Value	ValueOutput
+Flt Sus	0	4194304	Value	ValueOutput
+Flt Rel	0	4194304	Value	ValueOutput
+Flt Dly	0	4194304	Value	ValueOutput
+Arp Type	0	4194304	Value	ValueOutput
+Arp Oct	0	4194304	Value	ValueOutput
+ArpOct-1	0	4194304	Value	ValueOutput
+ArpOct+1	0	4194304	Value	ValueOutput
+ArpOct+2	0	4194304	Value	ValueOutput
+ArpOrder	0	4194304	Value	ValueOutput
+Kbd Hld	0	4194304	Value	ValueOutput
+ChrdMem	0	4194304	Value	ValueOutput
+Clock	0	4194304	Value	ValueOutput
+Chorus	0	4194304	Value	ValueOutput
+ChrsMode	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+DlyTmp	0	4194304	Value	ValueOutput
+FX On	0	4194304	Value	ValueOutput
+Osc Mx	0	4194304	Value	ValueOutput
+Nse Mx	0	4194304	Value	ValueOutput
+Ring Mod	0	4194304	Value	ValueOutput
+Cont Ptch	0	4194304	Value	ValueOutput
+Pitch Cnt	0	4194304	Value	ValueOutput
+Cont Filt	0	4194304	Value	ValueOutput
+Filt Cnt	0	4194304	Value	ValueOutput
+Bend	0	4194304	Value	ValueOutput
+Gld Typ	0	4194304	Value	ValueOutput
+Gld Tme	0	4194304	Value	ValueOutput
+Lfo1Wave	0	4194304	Value	ValueOutput
+Lfo1Rte	0	4194304	Value	ValueOutput
+Lfo1Intro	0	4194304	Value	ValueOutput
+Lfo1Snc	0	4194304	Value	ValueOutput
+Lfo2Wave	0	4194304	Value	ValueOutput
+Lfo2Rte	0	4194304	Value	ValueOutput
+Lfo2Intro	0	4194304	Value	ValueOutput
+Lfo2Snc	0	4194304	Value	ValueOutput
+Lfo Ptch	0	4194304	Value	ValueOutput
+PitchLFO	0	4194304	Value	ValueOutput
+Aux LFO	0	4194304	Value	ValueOutput
+Lfo Flt	0	4194304	Value	ValueOutput
+FiltLFO	0	4194304	Value	ValueOutput
+SumPitchM	0	4194304	Value	ValueOutput
+AxLfoAmt	0	4194304	Value	ValueOutput
+AxEnvAmt	0	4194304	Value	ValueOutput
+AxEnvArc	0	4194304	Value	ValueOutput
+SumAuxM	0	4194304	Value	ValueOutput
+MW Aux	0	4194304	Value	ValueOutput
+Aux Cnt	0	4194304	Value	ValueOutput
+AxModDst	0	4194304	Value	ValueOutput
+Env2 Ptch	0	4194304	Value	ValueOutput
+PtchESrc	0	4194304	Value	ValueOutput
+Chr Rte	0	4194304	Value	ValueOutput
+Chr Depth	0	4194304	Value	ValueOutput
+DL Mix	0	4194304	Value	ValueOutput
+DR Mix	0	4194304	Value	ValueOutput
+DL Fbk	0	4194304	Value	ValueOutput
+DR Fbk	0	4194304	Value	ValueOutput
+DL Len	0	4194304	Value	ValueOutput
+DR Len	0	4194304	Value	ValueOutput
+Del HP	0	4194304	Value	ValueOutput
+Del LP	0	4194304	Value	ValueOutput
+Del Unt	0	4194304	Value	ValueOutput
+Del Gte	0	4194304	Value	ValueOutput
+Del Fbk	0	4194304	Value	ValueOutput
+Unison	0	4194304	Value	ValueOutput
+UniDetune	0	4194304	Value	ValueOutput
+UniSprd	0	4194304	Value	ValueOutput
+Ctl1Amnt	0	4194304	Value	ValueOutput
+Ctl1Src	0	4194304	Value	ValueOutput
+Ctl1Dest	0	4194304	Value	ValueOutput
+Ctl2Amnt	0	4194304	Value	ValueOutput
+Ctl2Src	0	4194304	Value	ValueOutput
+Ctl2Dest	0	4194304	Value	ValueOutput
+NoiseTyp	0	4194304	Value	ValueOutput
+GldeSprd	0	4194304	Value	ValueOutput
+PanMode	0	4194304	Value	ValueOutput
+PanSprd	0	4194304	Value	ValueOutput
+W1 Fund	0	4194304	Value	ValueOutput
+W1 Hr 02	0	4194304	Value	ValueOutput
+W1 Hr 03	0	4194304	Value	ValueOutput
+W1 Hr 04	0	4194304	Value	ValueOutput
+W1 Hr 05	0	4194304	Value	ValueOutput
+W1 Hr 06	0	4194304	Value	ValueOutput
+W1 Hr 07	0	4194304	Value	ValueOutput
+W1 Hr 08	0	4194304	Value	ValueOutput
+W1 Hr 09	0	4194304	Value	ValueOutput
+W1 Hr 10	0	4194304	Value	ValueOutput
+W1 Hr 11	0	4194304	Value	ValueOutput
+W1 Hr 12	0	4194304	Value	ValueOutput
+W1 Hr 13	0	4194304	Value	ValueOutput
+W1 Hr 14	0	4194304	Value	ValueOutput
+W1 Hr 15	0	4194304	Value	ValueOutput
+W1 Hr 16	0	4194304	Value	ValueOutput
+W1 Hr 17	0	4194304	Value	ValueOutput
+W1 Hr 18	0	4194304	Value	ValueOutput
+W1 Hr 19	0	4194304	Value	ValueOutput
+W1 Hr 20	0	4194304	Value	ValueOutput
+W1 Hr 21	0	4194304	Value	ValueOutput
+W1 Hr 22	0	4194304	Value	ValueOutput
+W1 Hr 23	0	4194304	Value	ValueOutput
+W1 Hr 24	0	4194304	Value	ValueOutput
+W2 Fund	0	4194304	Value	ValueOutput
+W2 Hr 02	0	4194304	Value	ValueOutput
+W2 Hr 03	0	4194304	Value	ValueOutput
+W2 Hr 04	0	4194304	Value	ValueOutput
+W2 Hr 05	0	4194304	Value	ValueOutput
+W2 Hr 06	0	4194304	Value	ValueOutput
+W2 Hr 07	0	4194304	Value	ValueOutput
+W2 Hr 08	0	4194304	Value	ValueOutput
+W2 Hr 09	0	4194304	Value	ValueOutput
+W2 Hr 10	0	4194304	Value	ValueOutput
+W2 Hr 11	0	4194304	Value	ValueOutput
+W2 Hr 12	0	4194304	Value	ValueOutput
+W2 Hr 13	0	4194304	Value	ValueOutput
+W2 Hr 14	0	4194304	Value	ValueOutput
+W2 Hr 15	0	4194304	Value	ValueOutput
+W2 Hr 16	0	4194304	Value	ValueOutput
+W2 Hr 17	0	4194304	Value	ValueOutput
+W2 Hr 18	0	4194304	Value	ValueOutput
+W2 Hr 19	0	4194304	Value	ValueOutput
+W2 Hr 20	0	4194304	Value	ValueOutput
+W2 Hr 21	0	4194304	Value	ValueOutput
+W2 Hr 22	0	4194304	Value	ValueOutput
+W2 Hr 23	0	4194304	Value	ValueOutput
+W2 Hr 24	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput
+Proxy Open Plugin Window	0	1	Toggle	ValueOutput

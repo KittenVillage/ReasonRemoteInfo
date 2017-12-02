@@ -1,0 +1,55 @@
+Scope
+Manufacturer	Model
+Seaweed Audio	vst.SEAW.FathomMono64
+Note: Will match scope definitions for vst.SEAW.FathomMono64 or vst.SEAW
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Parameter 0	0	4194304	Value	ValueOutput
+Parameter 1	0	4194304	Value	ValueOutput
+Parameter 2	0	4194304	Value	ValueOutput
+Parameter 3	0	4194304	Value	ValueOutput
+Parameter 4	0	4194304	Value	ValueOutput
+Parameter 5	0	4194304	Value	ValueOutput
+Parameter 6	0	4194304	Value	ValueOutput
+Parameter 7	0	4194304	Value	ValueOutput
+Parameter 8	0	4194304	Value	ValueOutput
+Parameter 9	0	4194304	Value	ValueOutput
+Parameter 10	0	4194304	Value	ValueOutput
+Parameter 11	0	4194304	Value	ValueOutput
+Parameter 12	0	4194304	Value	ValueOutput
+Parameter 13	0	4194304	Value	ValueOutput
+Parameter 14	0	4194304	Value	ValueOutput
+Parameter 15	0	4194304	Value	ValueOutput
+Parameter 16	0	4194304	Value	ValueOutput
+Parameter 17	0	4194304	Value	ValueOutput
+Parameter 18	0	4194304	Value	ValueOutput
+Parameter 19	0	4194304	Value	ValueOutput
+Parameter 20	0	4194304	Value	ValueOutput
+Parameter 21	0	4194304	Value	ValueOutput
+Parameter 22	0	4194304	Value	ValueOutput
+Parameter 23	0	4194304	Value	ValueOutput
+Parameter 24	0	4194304	Value	ValueOutput
+Parameter 25	0	4194304	Value	ValueOutput
+Parameter 26	0	4194304	Value	ValueOutput
+Parameter 27	0	4194304	Value	ValueOutput
+Parameter 28	0	4194304	Value	ValueOutput
+Parameter 29	0	4194304	Value	ValueOutput
+Parameter 30	0	4194304	Value	ValueOutput
+Parameter 31	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

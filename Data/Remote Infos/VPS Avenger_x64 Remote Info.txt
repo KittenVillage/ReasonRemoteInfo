@@ -1,0 +1,1498 @@
+Scope
+Manufacturer	Model
+Vengeance	vst.Avgr.VPS Avenger_x64
+Note: Will match scope definitions for vst.Avgr.VPS Avenger_x64 or vst.Avgr
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+OSC1 Volume	0	4194304	Value	ValueOutput
+OSC1 Gain	0	4194304	Value	ValueOutput
+OSC1 Pan	0	4194304	Value	ValueOutput
+OSC1 Transpose	0	4194304	Value	ValueOutput
+OSC1 FineTune	0	4194304	Value	ValueOutput
+OSC1 StartPhase	0	4194304	Value	ValueOutput
+OSC1 NoiseVolume	0	4194304	Value	ValueOutput
+OSC1 NoiseType	0	4194304	Value	ValueOutput
+OSC1 NoiseColor	0	4194304	Value	ValueOutput
+OSC1 NoiseRate	0	4194304	Value	ValueOutput
+OSC1 RandomPitch	0	4194304	Value	ValueOutput
+OSC1 X-Cite	0	4194304	Value	ValueOutput
+OSC1 Crusher	0	4194304	Value	ValueOutput
+OSC1 Formant	0	4194304	Value	ValueOutput
+OSC1 Sync Amount	0	4194304	Value	ValueOutput
+OSC1 SyncEnvAmount	0	4194304	Value	ValueOutput
+OSC1 SyncEnvCurve	0	4194304	Value	ValueOutput
+OSC1 SyncEnvLength	0	4194304	Value	ValueOutput
+OSC1 LP Filter	0	4194304	Value	ValueOutput
+OSC1 HP Filter	0	4194304	Value	ValueOutput
+OSC1 LP/HP Slope	0	4194304	Value	ValueOutput
+OSC1 Spectral Sweep	0	4194304	Value	ValueOutput
+OSC1 Spectral Flip	0	4194304	Value	ValueOutput
+OSC1 FreqVarSpeed	0	4194304	Value	ValueOutput
+OSC1 FreqVarStrength	0	4194304	Value	ValueOutput
+OSC1 FM Amount	0	4194304	Value	ValueOutput
+OSC1 FM Shape	0	4194304	Value	ValueOutput
+OSC1 AM Amount	0	4194304	Value	ValueOutput
+OSC1 AM Shape	0	4194304	Value	ValueOutput
+OSC1 FM/AM Rate	0	4194304	Value	ValueOutput
+OSC1 VSaw Mix	0	4194304	Value	ValueOutput
+OSC1 VSaw Detune	0	4194304	Value	ValueOutput
+OSC1 VSaw PanSpread	0	4194304	Value	ValueOutput
+OSC1 VSaw Voices	0	4194304	Value	ValueOutput
+OSC1 VSaw Octaves	0	4194304	Value	ValueOutput
+OSC1 VSaw VibRate	0	4194304	Value	ValueOutput
+OSC1 VSaw VibAmount	0	4194304	Value	ValueOutput
+OSC1 VSaw VibFadeIn	0	4194304	Value	ValueOutput
+OSC1 Voice1Enabled	0	4194304	Value	ValueOutput
+OSC1 Voice2Enabled	0	4194304	Value	ValueOutput
+OSC1 Voice3Enabled	0	4194304	Value	ValueOutput
+OSC1 Voice4Enabled	0	4194304	Value	ValueOutput
+OSC1 Voice1Transpose	0	4194304	Value	ValueOutput
+OSC1 Voice2Transpose	0	4194304	Value	ValueOutput
+OSC1 Voice3Transpose	0	4194304	Value	ValueOutput
+OSC1 Voice4Transpose	0	4194304	Value	ValueOutput
+OSC1 Voice1Tune	0	4194304	Value	ValueOutput
+OSC1 Voice2Tune	0	4194304	Value	ValueOutput
+OSC1 Voice3Tune	0	4194304	Value	ValueOutput
+OSC1 Voice4Tune	0	4194304	Value	ValueOutput
+OSC1 Voice1Pan	0	4194304	Value	ValueOutput
+OSC1 Voice2Pan	0	4194304	Value	ValueOutput
+OSC1 Voice3Pan	0	4194304	Value	ValueOutput
+OSC1 Voice4Pan	0	4194304	Value	ValueOutput
+OSC1 Voice1Vol	0	4194304	Value	ValueOutput
+OSC1 Voice2Vol	0	4194304	Value	ValueOutput
+OSC1 Voice3Vol	0	4194304	Value	ValueOutput
+OSC1 Voice4Vol	0	4194304	Value	ValueOutput
+OSC1 SubOscVol	0	4194304	Value	ValueOutput
+OSC1 SubOscShape	0	4194304	Value	ValueOutput
+OSC1 SubOscOctave	0	4194304	Value	ValueOutput
+OSC1 Sample Start	0	4194304	Value	ValueOutput
+OSC1 Sample Delay	0	4194304	Value	ValueOutput
+OSC1 Random Offset	0	4194304	Value	ValueOutput
+OSC1 Sample Keytrack	0	4194304	Value	ValueOutput
+OSC1 SampleRootShift	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 1 Vol	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 2 Vol	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 3 Vol	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 4 Vol	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 1 Trans	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 2 Trans	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 3 Trans	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 4 Trans	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 1 Pan	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 2 Pan	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 3 Pan	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 4 Pan	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 1 Root 	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 2 Root 	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 3 Root 	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 4 Root 	0	4194304	Value	ValueOutput
+OSC1 Microfade	0	4194304	Value	ValueOutput
+OSC1 WT Env.Enable	0	4194304	Value	ValueOutput
+OSC1 WT Env. Strenght	0	4194304	Value	ValueOutput
+OSC1 WT Env. Phase	0	4194304	Value	ValueOutput
+OSC1 WT Env. Smooth	0	4194304	Value	ValueOutput
+OSC1 WT Env. Flip	0	4194304	Value	ValueOutput
+OSC1 WT Env. Seq Speed	0	4194304	Value	ValueOutput
+OSC1 WT Env.Seq Speed Sy	0	4194304	Value	ValueOutput
+OSC1 WT Index	0	4194304	Value	ValueOutput
+OSC2 Volume	0	4194304	Value	ValueOutput
+OSC2 Gain	0	4194304	Value	ValueOutput
+OSC2 Pan	0	4194304	Value	ValueOutput
+OSC2 Transpose	0	4194304	Value	ValueOutput
+OSC2 FineTune	0	4194304	Value	ValueOutput
+OSC2 StartPhase	0	4194304	Value	ValueOutput
+OSC2 NoiseVolume	0	4194304	Value	ValueOutput
+OSC2 NoiseType	0	4194304	Value	ValueOutput
+OSC2 NoiseColor	0	4194304	Value	ValueOutput
+OSC2 NoiseRate	0	4194304	Value	ValueOutput
+OSC2 RandomPitch	0	4194304	Value	ValueOutput
+OSC2 X-Cite	0	4194304	Value	ValueOutput
+OSC2 Crusher	0	4194304	Value	ValueOutput
+OSC2 Formant	0	4194304	Value	ValueOutput
+OSC2 Sync Amount	0	4194304	Value	ValueOutput
+OSC2 SyncEnvAmount	0	4194304	Value	ValueOutput
+OSC2 SyncEnvCurve	0	4194304	Value	ValueOutput
+OSC2 SyncEnvLength	0	4194304	Value	ValueOutput
+OSC2 LP Filter	0	4194304	Value	ValueOutput
+OSC2 HP Filter	0	4194304	Value	ValueOutput
+OSC2 LP/HP Slope	0	4194304	Value	ValueOutput
+OSC2 Spectral Sweep	0	4194304	Value	ValueOutput
+OSC2 Spectral Flip	0	4194304	Value	ValueOutput
+OSC2 FreqVarSpeed	0	4194304	Value	ValueOutput
+OSC2 FreqVarStrength	0	4194304	Value	ValueOutput
+OSC2 FM Amount	0	4194304	Value	ValueOutput
+OSC2 FM Shape	0	4194304	Value	ValueOutput
+OSC2 AM Amount	0	4194304	Value	ValueOutput
+OSC2 AM Shape	0	4194304	Value	ValueOutput
+OSC2 FM/AM Rate	0	4194304	Value	ValueOutput
+OSC2 VSaw Mix	0	4194304	Value	ValueOutput
+OSC2 VSaw Detune	0	4194304	Value	ValueOutput
+OSC2 VSaw PanSpread	0	4194304	Value	ValueOutput
+OSC2 VSaw Voices	0	4194304	Value	ValueOutput
+OSC2 VSaw Octaves	0	4194304	Value	ValueOutput
+OSC2 VSaw VibRate	0	4194304	Value	ValueOutput
+OSC2 VSaw VibAmount	0	4194304	Value	ValueOutput
+OSC2 VSaw VibFadeIn	0	4194304	Value	ValueOutput
+OSC2 Voice1Enabled	0	4194304	Value	ValueOutput
+OSC2 Voice2Enabled	0	4194304	Value	ValueOutput
+OSC2 Voice3Enabled	0	4194304	Value	ValueOutput
+OSC2 Voice4Enabled	0	4194304	Value	ValueOutput
+OSC2 Voice1Transpose	0	4194304	Value	ValueOutput
+OSC2 Voice2Transpose	0	4194304	Value	ValueOutput
+OSC2 Voice3Transpose	0	4194304	Value	ValueOutput
+OSC2 Voice4Transpose	0	4194304	Value	ValueOutput
+OSC2 Voice1Tune	0	4194304	Value	ValueOutput
+OSC2 Voice2Tune	0	4194304	Value	ValueOutput
+OSC2 Voice3Tune	0	4194304	Value	ValueOutput
+OSC2 Voice4Tune	0	4194304	Value	ValueOutput
+OSC2 Voice1Pan	0	4194304	Value	ValueOutput
+OSC2 Voice2Pan	0	4194304	Value	ValueOutput
+OSC2 Voice3Pan	0	4194304	Value	ValueOutput
+OSC2 Voice4Pan	0	4194304	Value	ValueOutput
+OSC2 Voice1Vol	0	4194304	Value	ValueOutput
+OSC2 Voice2Vol	0	4194304	Value	ValueOutput
+OSC2 Voice3Vol	0	4194304	Value	ValueOutput
+OSC2 Voice4Vol	0	4194304	Value	ValueOutput
+OSC2 SubOscVol	0	4194304	Value	ValueOutput
+OSC2 SubOscShape	0	4194304	Value	ValueOutput
+OSC2 SubOscOctave	0	4194304	Value	ValueOutput
+OSC2 Sample Start	0	4194304	Value	ValueOutput
+OSC2 Sample Delay	0	4194304	Value	ValueOutput
+OSC2 Random Offset	0	4194304	Value	ValueOutput
+OSC2 Sample Keytrack	0	4194304	Value	ValueOutput
+OSC2 SampleRootShift	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 1 Vol	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 2 Vol	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 3 Vol	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 4 Vol	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 1 Trans	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 2 Trans	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 3 Trans	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 4 Trans	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 1 Pan	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 2 Pan	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 3 Pan	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 4 Pan	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 1 Root 	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 2 Root 	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 3 Root 	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 4 Root 	0	4194304	Value	ValueOutput
+OSC2 Microfade	0	4194304	Value	ValueOutput
+OSC2 WT Env.Enable	0	4194304	Value	ValueOutput
+OSC2 WT Env. Strenght	0	4194304	Value	ValueOutput
+OSC2 WT Env. Phase	0	4194304	Value	ValueOutput
+OSC2 WT Env. Smooth	0	4194304	Value	ValueOutput
+OSC2 WT Env. Flip	0	4194304	Value	ValueOutput
+OSC2 WT Env. Seq Speed	0	4194304	Value	ValueOutput
+OSC2 WT Env.Seq Speed Sy	0	4194304	Value	ValueOutput
+OSC2 WT Index	0	4194304	Value	ValueOutput
+OSC3 Volume	0	4194304	Value	ValueOutput
+OSC3 Gain	0	4194304	Value	ValueOutput
+OSC3 Pan	0	4194304	Value	ValueOutput
+OSC3 Transpose	0	4194304	Value	ValueOutput
+OSC3 FineTune	0	4194304	Value	ValueOutput
+OSC3 StartPhase	0	4194304	Value	ValueOutput
+OSC3 NoiseVolume	0	4194304	Value	ValueOutput
+OSC3 NoiseType	0	4194304	Value	ValueOutput
+OSC3 NoiseColor	0	4194304	Value	ValueOutput
+OSC3 NoiseRate	0	4194304	Value	ValueOutput
+OSC3 RandomPitch	0	4194304	Value	ValueOutput
+OSC3 X-Cite	0	4194304	Value	ValueOutput
+OSC3 Crusher	0	4194304	Value	ValueOutput
+OSC3 Formant	0	4194304	Value	ValueOutput
+OSC3 Sync Amount	0	4194304	Value	ValueOutput
+OSC3 SyncEnvAmount	0	4194304	Value	ValueOutput
+OSC3 SyncEnvCurve	0	4194304	Value	ValueOutput
+OSC3 SyncEnvLength	0	4194304	Value	ValueOutput
+OSC3 LP Filter	0	4194304	Value	ValueOutput
+OSC3 HP Filter	0	4194304	Value	ValueOutput
+OSC3 LP/HP Slope	0	4194304	Value	ValueOutput
+OSC3 Spectral Sweep	0	4194304	Value	ValueOutput
+OSC3 Spectral Flip	0	4194304	Value	ValueOutput
+OSC3 FreqVarSpeed	0	4194304	Value	ValueOutput
+OSC3 FreqVarStrength	0	4194304	Value	ValueOutput
+OSC3 FM Amount	0	4194304	Value	ValueOutput
+OSC3 FM Shape	0	4194304	Value	ValueOutput
+OSC3 AM Amount	0	4194304	Value	ValueOutput
+OSC3 AM Shape	0	4194304	Value	ValueOutput
+OSC3 FM/AM Rate	0	4194304	Value	ValueOutput
+OSC3 VSaw Mix	0	4194304	Value	ValueOutput
+OSC3 VSaw Detune	0	4194304	Value	ValueOutput
+OSC3 VSaw PanSpread	0	4194304	Value	ValueOutput
+OSC3 VSaw Voices	0	4194304	Value	ValueOutput
+OSC3 VSaw Octaves	0	4194304	Value	ValueOutput
+OSC3 VSaw VibRate	0	4194304	Value	ValueOutput
+OSC3 VSaw VibAmount	0	4194304	Value	ValueOutput
+OSC3 VSaw VibFadeIn	0	4194304	Value	ValueOutput
+OSC3 Voice1Enabled	0	4194304	Value	ValueOutput
+OSC3 Voice2Enabled	0	4194304	Value	ValueOutput
+OSC3 Voice3Enabled	0	4194304	Value	ValueOutput
+OSC3 Voice4Enabled	0	4194304	Value	ValueOutput
+OSC3 Voice1Transpose	0	4194304	Value	ValueOutput
+OSC3 Voice2Transpose	0	4194304	Value	ValueOutput
+OSC3 Voice3Transpose	0	4194304	Value	ValueOutput
+OSC3 Voice4Transpose	0	4194304	Value	ValueOutput
+OSC3 Voice1Tune	0	4194304	Value	ValueOutput
+OSC3 Voice2Tune	0	4194304	Value	ValueOutput
+OSC3 Voice3Tune	0	4194304	Value	ValueOutput
+OSC3 Voice4Tune	0	4194304	Value	ValueOutput
+OSC3 Voice1Pan	0	4194304	Value	ValueOutput
+OSC3 Voice2Pan	0	4194304	Value	ValueOutput
+OSC3 Voice3Pan	0	4194304	Value	ValueOutput
+OSC3 Voice4Pan	0	4194304	Value	ValueOutput
+OSC3 Voice1Vol	0	4194304	Value	ValueOutput
+OSC3 Voice2Vol	0	4194304	Value	ValueOutput
+OSC3 Voice3Vol	0	4194304	Value	ValueOutput
+OSC3 Voice4Vol	0	4194304	Value	ValueOutput
+OSC3 SubOscVol	0	4194304	Value	ValueOutput
+OSC3 SubOscShape	0	4194304	Value	ValueOutput
+OSC3 SubOscOctave	0	4194304	Value	ValueOutput
+OSC3 Sample Start	0	4194304	Value	ValueOutput
+OSC3 Sample Delay	0	4194304	Value	ValueOutput
+OSC3 Random Offset	0	4194304	Value	ValueOutput
+OSC3 Sample Keytrack	0	4194304	Value	ValueOutput
+OSC3 SampleRootShift	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 1 Vol	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 2 Vol	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 3 Vol	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 4 Vol	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 1 Trans	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 2 Trans	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 3 Trans	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 4 Trans	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 1 Pan	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 2 Pan	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 3 Pan	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 4 Pan	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 1 Root 	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 2 Root 	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 3 Root 	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 4 Root 	0	4194304	Value	ValueOutput
+OSC3 Microfade	0	4194304	Value	ValueOutput
+OSC3 WT Env.Enable	0	4194304	Value	ValueOutput
+OSC3 WT Env. Strenght	0	4194304	Value	ValueOutput
+OSC3 WT Env. Phase	0	4194304	Value	ValueOutput
+OSC3 WT Env. Smooth	0	4194304	Value	ValueOutput
+OSC3 WT Env. Flip	0	4194304	Value	ValueOutput
+OSC3 WT Env. Seq Speed	0	4194304	Value	ValueOutput
+OSC3 WT Env.Seq Speed Sy	0	4194304	Value	ValueOutput
+OSC3 WT Index	0	4194304	Value	ValueOutput
+OSC4 Volume	0	4194304	Value	ValueOutput
+OSC4 Gain	0	4194304	Value	ValueOutput
+OSC4 Pan	0	4194304	Value	ValueOutput
+OSC4 Transpose	0	4194304	Value	ValueOutput
+OSC4 FineTune	0	4194304	Value	ValueOutput
+OSC4 StartPhase	0	4194304	Value	ValueOutput
+OSC4 NoiseVolume	0	4194304	Value	ValueOutput
+OSC4 NoiseType	0	4194304	Value	ValueOutput
+OSC4 NoiseColor	0	4194304	Value	ValueOutput
+OSC4 NoiseRate	0	4194304	Value	ValueOutput
+OSC4 RandomPitch	0	4194304	Value	ValueOutput
+OSC4 X-Cite	0	4194304	Value	ValueOutput
+OSC4 Crusher	0	4194304	Value	ValueOutput
+OSC4 Formant	0	4194304	Value	ValueOutput
+OSC4 Sync Amount	0	4194304	Value	ValueOutput
+OSC4 SyncEnvAmount	0	4194304	Value	ValueOutput
+OSC4 SyncEnvCurve	0	4194304	Value	ValueOutput
+OSC4 SyncEnvLength	0	4194304	Value	ValueOutput
+OSC4 LP Filter	0	4194304	Value	ValueOutput
+OSC4 HP Filter	0	4194304	Value	ValueOutput
+OSC4 LP/HP Slope	0	4194304	Value	ValueOutput
+OSC4 Spectral Sweep	0	4194304	Value	ValueOutput
+OSC4 Spectral Flip	0	4194304	Value	ValueOutput
+OSC4 FreqVarSpeed	0	4194304	Value	ValueOutput
+OSC4 FreqVarStrength	0	4194304	Value	ValueOutput
+OSC4 FM Amount	0	4194304	Value	ValueOutput
+OSC4 FM Shape	0	4194304	Value	ValueOutput
+OSC4 AM Amount	0	4194304	Value	ValueOutput
+OSC4 AM Shape	0	4194304	Value	ValueOutput
+OSC4 FM/AM Rate	0	4194304	Value	ValueOutput
+OSC4 VSaw Mix	0	4194304	Value	ValueOutput
+OSC4 VSaw Detune	0	4194304	Value	ValueOutput
+OSC4 VSaw PanSpread	0	4194304	Value	ValueOutput
+OSC4 VSaw Voices	0	4194304	Value	ValueOutput
+OSC4 VSaw Octaves	0	4194304	Value	ValueOutput
+OSC4 VSaw VibRate	0	4194304	Value	ValueOutput
+OSC4 VSaw VibAmount	0	4194304	Value	ValueOutput
+OSC4 VSaw VibFadeIn	0	4194304	Value	ValueOutput
+OSC4 Voice1Enabled	0	4194304	Value	ValueOutput
+OSC4 Voice2Enabled	0	4194304	Value	ValueOutput
+OSC4 Voice3Enabled	0	4194304	Value	ValueOutput
+OSC4 Voice4Enabled	0	4194304	Value	ValueOutput
+OSC4 Voice1Transpose	0	4194304	Value	ValueOutput
+OSC4 Voice2Transpose	0	4194304	Value	ValueOutput
+OSC4 Voice3Transpose	0	4194304	Value	ValueOutput
+OSC4 Voice4Transpose	0	4194304	Value	ValueOutput
+OSC4 Voice1Tune	0	4194304	Value	ValueOutput
+OSC4 Voice2Tune	0	4194304	Value	ValueOutput
+OSC4 Voice3Tune	0	4194304	Value	ValueOutput
+OSC4 Voice4Tune	0	4194304	Value	ValueOutput
+OSC4 Voice1Pan	0	4194304	Value	ValueOutput
+OSC4 Voice2Pan	0	4194304	Value	ValueOutput
+OSC4 Voice3Pan	0	4194304	Value	ValueOutput
+OSC4 Voice4Pan	0	4194304	Value	ValueOutput
+OSC4 Voice1Vol	0	4194304	Value	ValueOutput
+OSC4 Voice2Vol	0	4194304	Value	ValueOutput
+OSC4 Voice3Vol	0	4194304	Value	ValueOutput
+OSC4 Voice4Vol	0	4194304	Value	ValueOutput
+OSC4 SubOscVol	0	4194304	Value	ValueOutput
+OSC4 SubOscShape	0	4194304	Value	ValueOutput
+OSC4 SubOscOctave	0	4194304	Value	ValueOutput
+OSC4 Sample Start	0	4194304	Value	ValueOutput
+OSC4 Sample Delay	0	4194304	Value	ValueOutput
+OSC4 Random Offset	0	4194304	Value	ValueOutput
+OSC4 Sample Keytrack	0	4194304	Value	ValueOutput
+OSC4 SampleRootShift	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 1 Vol	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 2 Vol	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 3 Vol	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 4 Vol	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 1 Trans	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 2 Trans	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 3 Trans	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 4 Trans	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 1 Pan	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 2 Pan	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 3 Pan	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 4 Pan	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 1 Root 	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 2 Root 	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 3 Root 	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 4 Root 	0	4194304	Value	ValueOutput
+OSC4 Microfade	0	4194304	Value	ValueOutput
+OSC4 WT Env.Enable	0	4194304	Value	ValueOutput
+OSC4 WT Env. Strenght	0	4194304	Value	ValueOutput
+OSC4 WT Env. Phase	0	4194304	Value	ValueOutput
+OSC4 WT Env. Smooth	0	4194304	Value	ValueOutput
+OSC4 WT Env. Flip	0	4194304	Value	ValueOutput
+OSC4 WT Env. Seq Speed	0	4194304	Value	ValueOutput
+OSC4 WT Env.Seq Speed Sy	0	4194304	Value	ValueOutput
+OSC4 WT Index	0	4194304	Value	ValueOutput
+OSC5 Volume	0	4194304	Value	ValueOutput
+OSC5 Gain	0	4194304	Value	ValueOutput
+OSC5 Pan	0	4194304	Value	ValueOutput
+OSC5 Transpose	0	4194304	Value	ValueOutput
+OSC5 FineTune	0	4194304	Value	ValueOutput
+OSC5 StartPhase	0	4194304	Value	ValueOutput
+OSC5 NoiseVolume	0	4194304	Value	ValueOutput
+OSC5 NoiseType	0	4194304	Value	ValueOutput
+OSC5 NoiseColor	0	4194304	Value	ValueOutput
+OSC5 NoiseRate	0	4194304	Value	ValueOutput
+OSC5 RandomPitch	0	4194304	Value	ValueOutput
+OSC5 X-Cite	0	4194304	Value	ValueOutput
+OSC5 Crusher	0	4194304	Value	ValueOutput
+OSC5 Formant	0	4194304	Value	ValueOutput
+OSC5 Sync Amount	0	4194304	Value	ValueOutput
+OSC5 SyncEnvAmount	0	4194304	Value	ValueOutput
+OSC5 SyncEnvCurve	0	4194304	Value	ValueOutput
+OSC5 SyncEnvLength	0	4194304	Value	ValueOutput
+OSC5 LP Filter	0	4194304	Value	ValueOutput
+OSC5 HP Filter	0	4194304	Value	ValueOutput
+OSC5 LP/HP Slope	0	4194304	Value	ValueOutput
+OSC5 Spectral Sweep	0	4194304	Value	ValueOutput
+OSC5 Spectral Flip	0	4194304	Value	ValueOutput
+OSC5 FreqVarSpeed	0	4194304	Value	ValueOutput
+OSC5 FreqVarStrength	0	4194304	Value	ValueOutput
+OSC5 FM Amount	0	4194304	Value	ValueOutput
+OSC5 FM Shape	0	4194304	Value	ValueOutput
+OSC5 AM Amount	0	4194304	Value	ValueOutput
+OSC5 AM Shape	0	4194304	Value	ValueOutput
+OSC5 FM/AM Rate	0	4194304	Value	ValueOutput
+OSC5 VSaw Mix	0	4194304	Value	ValueOutput
+OSC5 VSaw Detune	0	4194304	Value	ValueOutput
+OSC5 VSaw PanSpread	0	4194304	Value	ValueOutput
+OSC5 VSaw Voices	0	4194304	Value	ValueOutput
+OSC5 VSaw Octaves	0	4194304	Value	ValueOutput
+OSC5 VSaw VibRate	0	4194304	Value	ValueOutput
+OSC5 VSaw VibAmount	0	4194304	Value	ValueOutput
+OSC5 VSaw VibFadeIn	0	4194304	Value	ValueOutput
+OSC5 Voice1Enabled	0	4194304	Value	ValueOutput
+OSC5 Voice2Enabled	0	4194304	Value	ValueOutput
+OSC5 Voice3Enabled	0	4194304	Value	ValueOutput
+OSC5 Voice4Enabled	0	4194304	Value	ValueOutput
+OSC5 Voice1Transpose	0	4194304	Value	ValueOutput
+OSC5 Voice2Transpose	0	4194304	Value	ValueOutput
+OSC5 Voice3Transpose	0	4194304	Value	ValueOutput
+OSC5 Voice4Transpose	0	4194304	Value	ValueOutput
+OSC5 Voice1Tune	0	4194304	Value	ValueOutput
+OSC5 Voice2Tune	0	4194304	Value	ValueOutput
+OSC5 Voice3Tune	0	4194304	Value	ValueOutput
+OSC5 Voice4Tune	0	4194304	Value	ValueOutput
+OSC5 Voice1Pan	0	4194304	Value	ValueOutput
+OSC5 Voice2Pan	0	4194304	Value	ValueOutput
+OSC5 Voice3Pan	0	4194304	Value	ValueOutput
+OSC5 Voice4Pan	0	4194304	Value	ValueOutput
+OSC5 Voice1Vol	0	4194304	Value	ValueOutput
+OSC5 Voice2Vol	0	4194304	Value	ValueOutput
+OSC5 Voice3Vol	0	4194304	Value	ValueOutput
+OSC5 Voice4Vol	0	4194304	Value	ValueOutput
+OSC5 SubOscVol	0	4194304	Value	ValueOutput
+OSC5 SubOscShape	0	4194304	Value	ValueOutput
+OSC5 SubOscOctave	0	4194304	Value	ValueOutput
+OSC5 Sample Start	0	4194304	Value	ValueOutput
+OSC5 Sample Delay	0	4194304	Value	ValueOutput
+OSC5 Random Offset	0	4194304	Value	ValueOutput
+OSC5 Sample Keytrack	0	4194304	Value	ValueOutput
+OSC5 SampleRootShift	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 1 Vol	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 2 Vol	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 3 Vol	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 4 Vol	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 1 Trans	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 2 Trans	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 3 Trans	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 4 Trans	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 1 Pan	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 2 Pan	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 3 Pan	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 4 Pan	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 1 Root 	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 2 Root 	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 3 Root 	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 4 Root 	0	4194304	Value	ValueOutput
+OSC5 Microfade	0	4194304	Value	ValueOutput
+OSC5 WT Env.Enable	0	4194304	Value	ValueOutput
+OSC5 WT Env. Strenght	0	4194304	Value	ValueOutput
+OSC5 WT Env. Phase	0	4194304	Value	ValueOutput
+OSC5 WT Env. Smooth	0	4194304	Value	ValueOutput
+OSC5 WT Env. Flip	0	4194304	Value	ValueOutput
+OSC5 WT Env. Seq Speed	0	4194304	Value	ValueOutput
+OSC5 WT Env.Seq Speed Sy	0	4194304	Value	ValueOutput
+OSC5 WT Index	0	4194304	Value	ValueOutput
+OSC6 Volume	0	4194304	Value	ValueOutput
+OSC6 Gain	0	4194304	Value	ValueOutput
+OSC6 Pan	0	4194304	Value	ValueOutput
+OSC6 Transpose	0	4194304	Value	ValueOutput
+OSC6 FineTune	0	4194304	Value	ValueOutput
+OSC6 StartPhase	0	4194304	Value	ValueOutput
+OSC6 NoiseVolume	0	4194304	Value	ValueOutput
+OSC6 NoiseType	0	4194304	Value	ValueOutput
+OSC6 NoiseColor	0	4194304	Value	ValueOutput
+OSC6 NoiseRate	0	4194304	Value	ValueOutput
+OSC6 RandomPitch	0	4194304	Value	ValueOutput
+OSC6 X-Cite	0	4194304	Value	ValueOutput
+OSC6 Crusher	0	4194304	Value	ValueOutput
+OSC6 Formant	0	4194304	Value	ValueOutput
+OSC6 Sync Amount	0	4194304	Value	ValueOutput
+OSC6 SyncEnvAmount	0	4194304	Value	ValueOutput
+OSC6 SyncEnvCurve	0	4194304	Value	ValueOutput
+OSC6 SyncEnvLength	0	4194304	Value	ValueOutput
+OSC6 LP Filter	0	4194304	Value	ValueOutput
+OSC6 HP Filter	0	4194304	Value	ValueOutput
+OSC6 LP/HP Slope	0	4194304	Value	ValueOutput
+OSC6 Spectral Sweep	0	4194304	Value	ValueOutput
+OSC6 Spectral Flip	0	4194304	Value	ValueOutput
+OSC6 FreqVarSpeed	0	4194304	Value	ValueOutput
+OSC6 FreqVarStrength	0	4194304	Value	ValueOutput
+OSC6 FM Amount	0	4194304	Value	ValueOutput
+OSC6 FM Shape	0	4194304	Value	ValueOutput
+OSC6 AM Amount	0	4194304	Value	ValueOutput
+OSC6 AM Shape	0	4194304	Value	ValueOutput
+OSC6 FM/AM Rate	0	4194304	Value	ValueOutput
+OSC6 VSaw Mix	0	4194304	Value	ValueOutput
+OSC6 VSaw Detune	0	4194304	Value	ValueOutput
+OSC6 VSaw PanSpread	0	4194304	Value	ValueOutput
+OSC6 VSaw Voices	0	4194304	Value	ValueOutput
+OSC6 VSaw Octaves	0	4194304	Value	ValueOutput
+OSC6 VSaw VibRate	0	4194304	Value	ValueOutput
+OSC6 VSaw VibAmount	0	4194304	Value	ValueOutput
+OSC6 VSaw VibFadeIn	0	4194304	Value	ValueOutput
+OSC6 Voice1Enabled	0	4194304	Value	ValueOutput
+OSC6 Voice2Enabled	0	4194304	Value	ValueOutput
+OSC6 Voice3Enabled	0	4194304	Value	ValueOutput
+OSC6 Voice4Enabled	0	4194304	Value	ValueOutput
+OSC6 Voice1Transpose	0	4194304	Value	ValueOutput
+OSC6 Voice2Transpose	0	4194304	Value	ValueOutput
+OSC6 Voice3Transpose	0	4194304	Value	ValueOutput
+OSC6 Voice4Transpose	0	4194304	Value	ValueOutput
+OSC6 Voice1Tune	0	4194304	Value	ValueOutput
+OSC6 Voice2Tune	0	4194304	Value	ValueOutput
+OSC6 Voice3Tune	0	4194304	Value	ValueOutput
+OSC6 Voice4Tune	0	4194304	Value	ValueOutput
+OSC6 Voice1Pan	0	4194304	Value	ValueOutput
+OSC6 Voice2Pan	0	4194304	Value	ValueOutput
+OSC6 Voice3Pan	0	4194304	Value	ValueOutput
+OSC6 Voice4Pan	0	4194304	Value	ValueOutput
+OSC6 Voice1Vol	0	4194304	Value	ValueOutput
+OSC6 Voice2Vol	0	4194304	Value	ValueOutput
+OSC6 Voice3Vol	0	4194304	Value	ValueOutput
+OSC6 Voice4Vol	0	4194304	Value	ValueOutput
+OSC6 SubOscVol	0	4194304	Value	ValueOutput
+OSC6 SubOscShape	0	4194304	Value	ValueOutput
+OSC6 SubOscOctave	0	4194304	Value	ValueOutput
+OSC6 Sample Start	0	4194304	Value	ValueOutput
+OSC6 Sample Delay	0	4194304	Value	ValueOutput
+OSC6 Random Offset	0	4194304	Value	ValueOutput
+OSC6 Sample Keytrack	0	4194304	Value	ValueOutput
+OSC6 SampleRootShift	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 1 Vol	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 2 Vol	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 3 Vol	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 4 Vol	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 1 Trans	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 2 Trans	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 3 Trans	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 4 Trans	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 1 Pan	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 2 Pan	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 3 Pan	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 4 Pan	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 1 Root 	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 2 Root 	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 3 Root 	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 4 Root 	0	4194304	Value	ValueOutput
+OSC6 Microfade	0	4194304	Value	ValueOutput
+OSC6 WT Env.Enable	0	4194304	Value	ValueOutput
+OSC6 WT Env. Strenght	0	4194304	Value	ValueOutput
+OSC6 WT Env. Phase	0	4194304	Value	ValueOutput
+OSC6 WT Env. Smooth	0	4194304	Value	ValueOutput
+OSC6 WT Env. Flip	0	4194304	Value	ValueOutput
+OSC6 WT Env. Seq Speed	0	4194304	Value	ValueOutput
+OSC6 WT Env.Seq Speed Sy	0	4194304	Value	ValueOutput
+OSC6 WT Index	0	4194304	Value	ValueOutput
+OSC7 Volume	0	4194304	Value	ValueOutput
+OSC7 Gain	0	4194304	Value	ValueOutput
+OSC7 Pan	0	4194304	Value	ValueOutput
+OSC7 Transpose	0	4194304	Value	ValueOutput
+OSC7 FineTune	0	4194304	Value	ValueOutput
+OSC7 StartPhase	0	4194304	Value	ValueOutput
+OSC7 NoiseVolume	0	4194304	Value	ValueOutput
+OSC7 NoiseType	0	4194304	Value	ValueOutput
+OSC7 NoiseColor	0	4194304	Value	ValueOutput
+OSC7 NoiseRate	0	4194304	Value	ValueOutput
+OSC7 RandomPitch	0	4194304	Value	ValueOutput
+OSC7 X-Cite	0	4194304	Value	ValueOutput
+OSC7 Crusher	0	4194304	Value	ValueOutput
+OSC7 Formant	0	4194304	Value	ValueOutput
+OSC7 Sync Amount	0	4194304	Value	ValueOutput
+OSC7 SyncEnvAmount	0	4194304	Value	ValueOutput
+OSC7 SyncEnvCurve	0	4194304	Value	ValueOutput
+OSC7 SyncEnvLength	0	4194304	Value	ValueOutput
+OSC7 LP Filter	0	4194304	Value	ValueOutput
+OSC7 HP Filter	0	4194304	Value	ValueOutput
+OSC7 LP/HP Slope	0	4194304	Value	ValueOutput
+OSC7 Spectral Sweep	0	4194304	Value	ValueOutput
+OSC7 Spectral Flip	0	4194304	Value	ValueOutput
+OSC7 FreqVarSpeed	0	4194304	Value	ValueOutput
+OSC7 FreqVarStrength	0	4194304	Value	ValueOutput
+OSC7 FM Amount	0	4194304	Value	ValueOutput
+OSC7 FM Shape	0	4194304	Value	ValueOutput
+OSC7 AM Amount	0	4194304	Value	ValueOutput
+OSC7 AM Shape	0	4194304	Value	ValueOutput
+OSC7 FM/AM Rate	0	4194304	Value	ValueOutput
+OSC7 VSaw Mix	0	4194304	Value	ValueOutput
+OSC7 VSaw Detune	0	4194304	Value	ValueOutput
+OSC7 VSaw PanSpread	0	4194304	Value	ValueOutput
+OSC7 VSaw Voices	0	4194304	Value	ValueOutput
+OSC7 VSaw Octaves	0	4194304	Value	ValueOutput
+OSC7 VSaw VibRate	0	4194304	Value	ValueOutput
+OSC7 VSaw VibAmount	0	4194304	Value	ValueOutput
+OSC7 VSaw VibFadeIn	0	4194304	Value	ValueOutput
+OSC7 Voice1Enabled	0	4194304	Value	ValueOutput
+OSC7 Voice2Enabled	0	4194304	Value	ValueOutput
+OSC7 Voice3Enabled	0	4194304	Value	ValueOutput
+OSC7 Voice4Enabled	0	4194304	Value	ValueOutput
+OSC7 Voice1Transpose	0	4194304	Value	ValueOutput
+OSC7 Voice2Transpose	0	4194304	Value	ValueOutput
+OSC7 Voice3Transpose	0	4194304	Value	ValueOutput
+OSC7 Voice4Transpose	0	4194304	Value	ValueOutput
+OSC7 Voice1Tune	0	4194304	Value	ValueOutput
+OSC7 Voice2Tune	0	4194304	Value	ValueOutput
+OSC7 Voice3Tune	0	4194304	Value	ValueOutput
+OSC7 Voice4Tune	0	4194304	Value	ValueOutput
+OSC7 Voice1Pan	0	4194304	Value	ValueOutput
+OSC7 Voice2Pan	0	4194304	Value	ValueOutput
+OSC7 Voice3Pan	0	4194304	Value	ValueOutput
+OSC7 Voice4Pan	0	4194304	Value	ValueOutput
+OSC7 Voice1Vol	0	4194304	Value	ValueOutput
+OSC7 Voice2Vol	0	4194304	Value	ValueOutput
+OSC7 Voice3Vol	0	4194304	Value	ValueOutput
+OSC7 Voice4Vol	0	4194304	Value	ValueOutput
+OSC7 SubOscVol	0	4194304	Value	ValueOutput
+OSC7 SubOscShape	0	4194304	Value	ValueOutput
+OSC7 SubOscOctave	0	4194304	Value	ValueOutput
+OSC7 Sample Start	0	4194304	Value	ValueOutput
+OSC7 Sample Delay	0	4194304	Value	ValueOutput
+OSC7 Random Offset	0	4194304	Value	ValueOutput
+OSC7 Sample Keytrack	0	4194304	Value	ValueOutput
+OSC7 SampleRootShift	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 1 Vol	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 2 Vol	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 3 Vol	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 4 Vol	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 1 Trans	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 2 Trans	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 3 Trans	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 4 Trans	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 1 Pan	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 2 Pan	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 3 Pan	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 4 Pan	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 1 Root 	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 2 Root 	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 3 Root 	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 4 Root 	0	4194304	Value	ValueOutput
+OSC7 Microfade	0	4194304	Value	ValueOutput
+OSC7 WT Env.Enable	0	4194304	Value	ValueOutput
+OSC7 WT Env. Strenght	0	4194304	Value	ValueOutput
+OSC7 WT Env. Phase	0	4194304	Value	ValueOutput
+OSC7 WT Env. Smooth	0	4194304	Value	ValueOutput
+OSC7 WT Env. Flip	0	4194304	Value	ValueOutput
+OSC7 WT Env. Seq Speed	0	4194304	Value	ValueOutput
+OSC7 WT Env.Seq Speed Sy	0	4194304	Value	ValueOutput
+OSC7 WT Index	0	4194304	Value	ValueOutput
+OSC8 Volume	0	4194304	Value	ValueOutput
+OSC8 Gain	0	4194304	Value	ValueOutput
+OSC8 Pan	0	4194304	Value	ValueOutput
+OSC8 Transpose	0	4194304	Value	ValueOutput
+OSC8 FineTune	0	4194304	Value	ValueOutput
+OSC8 StartPhase	0	4194304	Value	ValueOutput
+OSC8 NoiseVolume	0	4194304	Value	ValueOutput
+OSC8 NoiseType	0	4194304	Value	ValueOutput
+OSC8 NoiseColor	0	4194304	Value	ValueOutput
+OSC8 NoiseRate	0	4194304	Value	ValueOutput
+OSC8 RandomPitch	0	4194304	Value	ValueOutput
+OSC8 X-Cite	0	4194304	Value	ValueOutput
+OSC8 Crusher	0	4194304	Value	ValueOutput
+OSC8 Formant	0	4194304	Value	ValueOutput
+OSC8 Sync Amount	0	4194304	Value	ValueOutput
+OSC8 SyncEnvAmount	0	4194304	Value	ValueOutput
+OSC8 SyncEnvCurve	0	4194304	Value	ValueOutput
+OSC8 SyncEnvLength	0	4194304	Value	ValueOutput
+OSC8 LP Filter	0	4194304	Value	ValueOutput
+OSC8 HP Filter	0	4194304	Value	ValueOutput
+OSC8 LP/HP Slope	0	4194304	Value	ValueOutput
+OSC8 Spectral Sweep	0	4194304	Value	ValueOutput
+OSC8 Spectral Flip	0	4194304	Value	ValueOutput
+OSC8 FreqVarSpeed	0	4194304	Value	ValueOutput
+OSC8 FreqVarStrength	0	4194304	Value	ValueOutput
+OSC8 FM Amount	0	4194304	Value	ValueOutput
+OSC8 FM Shape	0	4194304	Value	ValueOutput
+OSC8 AM Amount	0	4194304	Value	ValueOutput
+OSC8 AM Shape	0	4194304	Value	ValueOutput
+OSC8 FM/AM Rate	0	4194304	Value	ValueOutput
+OSC8 VSaw Mix	0	4194304	Value	ValueOutput
+OSC8 VSaw Detune	0	4194304	Value	ValueOutput
+OSC8 VSaw PanSpread	0	4194304	Value	ValueOutput
+OSC8 VSaw Voices	0	4194304	Value	ValueOutput
+OSC8 VSaw Octaves	0	4194304	Value	ValueOutput
+OSC8 VSaw VibRate	0	4194304	Value	ValueOutput
+OSC8 VSaw VibAmount	0	4194304	Value	ValueOutput
+OSC8 VSaw VibFadeIn	0	4194304	Value	ValueOutput
+OSC8 Voice1Enabled	0	4194304	Value	ValueOutput
+OSC8 Voice2Enabled	0	4194304	Value	ValueOutput
+OSC8 Voice3Enabled	0	4194304	Value	ValueOutput
+OSC8 Voice4Enabled	0	4194304	Value	ValueOutput
+OSC8 Voice1Transpose	0	4194304	Value	ValueOutput
+OSC8 Voice2Transpose	0	4194304	Value	ValueOutput
+OSC8 Voice3Transpose	0	4194304	Value	ValueOutput
+OSC8 Voice4Transpose	0	4194304	Value	ValueOutput
+OSC8 Voice1Tune	0	4194304	Value	ValueOutput
+OSC8 Voice2Tune	0	4194304	Value	ValueOutput
+OSC8 Voice3Tune	0	4194304	Value	ValueOutput
+OSC8 Voice4Tune	0	4194304	Value	ValueOutput
+OSC8 Voice1Pan	0	4194304	Value	ValueOutput
+OSC8 Voice2Pan	0	4194304	Value	ValueOutput
+OSC8 Voice3Pan	0	4194304	Value	ValueOutput
+OSC8 Voice4Pan	0	4194304	Value	ValueOutput
+OSC8 Voice1Vol	0	4194304	Value	ValueOutput
+OSC8 Voice2Vol	0	4194304	Value	ValueOutput
+OSC8 Voice3Vol	0	4194304	Value	ValueOutput
+OSC8 Voice4Vol	0	4194304	Value	ValueOutput
+OSC8 SubOscVol	0	4194304	Value	ValueOutput
+OSC8 SubOscShape	0	4194304	Value	ValueOutput
+OSC8 SubOscOctave	0	4194304	Value	ValueOutput
+OSC8 Sample Start	0	4194304	Value	ValueOutput
+OSC8 Sample Delay	0	4194304	Value	ValueOutput
+OSC8 Random Offset	0	4194304	Value	ValueOutput
+OSC8 Sample Keytrack	0	4194304	Value	ValueOutput
+OSC8 SampleRootShift	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 1 Vol	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 2 Vol	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 3 Vol	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 4 Vol	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 1 Trans	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 2 Trans	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 3 Trans	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 4 Trans	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 1 Pan	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 2 Pan	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 3 Pan	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 4 Pan	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 1 Root 	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 2 Root 	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 3 Root 	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 4 Root 	0	4194304	Value	ValueOutput
+OSC8 Microfade	0	4194304	Value	ValueOutput
+OSC8 WT Env.Enable	0	4194304	Value	ValueOutput
+OSC8 WT Env. Strenght	0	4194304	Value	ValueOutput
+OSC8 WT Env. Phase	0	4194304	Value	ValueOutput
+OSC8 WT Env. Smooth	0	4194304	Value	ValueOutput
+OSC8 WT Env. Flip	0	4194304	Value	ValueOutput
+OSC8 WT Env. Seq Speed	0	4194304	Value	ValueOutput
+OSC8 WT Env.Seq Speed Sy	0	4194304	Value	ValueOutput
+OSC8 WT Index	0	4194304	Value	ValueOutput
+AMP1 Volume	0	4194304	Value	ValueOutput
+AMP1 VolumeVelAmnt	0	4194304	Value	ValueOutput
+AMP1 Pan	0	4194304	Value	ValueOutput
+AMP1 Spread	0	4194304	Value	ValueOutput
+AMP1 Spike	0	4194304	Value	ValueOutput
+AMP1 SpikeCurve	0	4194304	Value	ValueOutput
+AMP1 PanKeytrack	0	4194304	Value	ValueOutput
+AMP1 SpikeVelAmnt	0	4194304	Value	ValueOutput
+AMP2 Volume	0	4194304	Value	ValueOutput
+AMP2 VolumeVelAmnt	0	4194304	Value	ValueOutput
+AMP2 Pan	0	4194304	Value	ValueOutput
+AMP2 Spread	0	4194304	Value	ValueOutput
+AMP2 Spike	0	4194304	Value	ValueOutput
+AMP2 SpikeCurve	0	4194304	Value	ValueOutput
+AMP2 PanKeytrack	0	4194304	Value	ValueOutput
+AMP2 SpikeVelAmnt	0	4194304	Value	ValueOutput
+AMP3 Volume	0	4194304	Value	ValueOutput
+AMP3 VolumeVelAmnt	0	4194304	Value	ValueOutput
+AMP3 Pan	0	4194304	Value	ValueOutput
+AMP3 Spread	0	4194304	Value	ValueOutput
+AMP3 Spike	0	4194304	Value	ValueOutput
+AMP3 SpikeCurve	0	4194304	Value	ValueOutput
+AMP3 PanKeytrack	0	4194304	Value	ValueOutput
+AMP3 SpikeVelAmnt	0	4194304	Value	ValueOutput
+AMP4 Volume	0	4194304	Value	ValueOutput
+AMP4 VolumeVelAmnt	0	4194304	Value	ValueOutput
+AMP4 Pan	0	4194304	Value	ValueOutput
+AMP4 Spread	0	4194304	Value	ValueOutput
+AMP4 Spike	0	4194304	Value	ValueOutput
+AMP4 SpikeCurve	0	4194304	Value	ValueOutput
+AMP4 PanKeytrack	0	4194304	Value	ValueOutput
+AMP4 SpikeVelAmnt	0	4194304	Value	ValueOutput
+FLT1 Cutoff	0	4194304	Value	ValueOutput
+FLT1 CutEnvAmnt	0	4194304	Value	ValueOutput
+FLT1 CutVelAmnt	0	4194304	Value	ValueOutput
+FLT1 Resonance	0	4194304	Value	ValueOutput
+FLT1 ResoVelAmnt	0	4194304	Value	ValueOutput
+FLT1 Drive/Comb/Band	0	4194304	Value	ValueOutput
+FLT1 Drive/CombVelAmnt	0	4194304	Value	ValueOutput
+FLT1 CutEnvVelAmnt	0	4194304	Value	ValueOutput
+FLT1 Keytrack	0	4194304	Value	ValueOutput
+FLT2 Cutoff	0	4194304	Value	ValueOutput
+FLT2 CutEnvAmnt	0	4194304	Value	ValueOutput
+FLT2 CutVelAmnt	0	4194304	Value	ValueOutput
+FLT2 Resonance	0	4194304	Value	ValueOutput
+FLT2 ResoVelAmnt	0	4194304	Value	ValueOutput
+FLT2 Drive/Comb/Band	0	4194304	Value	ValueOutput
+FLT2 Drive/CombVelAmnt	0	4194304	Value	ValueOutput
+FLT2 CutEnvVelAmnt	0	4194304	Value	ValueOutput
+FLT2 Keytrack	0	4194304	Value	ValueOutput
+FLT3 Cutoff	0	4194304	Value	ValueOutput
+FLT3 CutEnvAmnt	0	4194304	Value	ValueOutput
+FLT3 CutVelAmnt	0	4194304	Value	ValueOutput
+FLT3 Resonance	0	4194304	Value	ValueOutput
+FLT3 ResoVelAmnt	0	4194304	Value	ValueOutput
+FLT3 Drive/Comb/Band	0	4194304	Value	ValueOutput
+FLT3 Drive/CombVelAmnt	0	4194304	Value	ValueOutput
+FLT3 CutEnvVelAmnt	0	4194304	Value	ValueOutput
+FLT3 Keytrack	0	4194304	Value	ValueOutput
+FLT4 Cutoff	0	4194304	Value	ValueOutput
+FLT4 CutEnvAmnt	0	4194304	Value	ValueOutput
+FLT4 CutVelAmnt	0	4194304	Value	ValueOutput
+FLT4 Resonance	0	4194304	Value	ValueOutput
+FLT4 ResoVelAmnt	0	4194304	Value	ValueOutput
+FLT4 Drive/Comb/Band	0	4194304	Value	ValueOutput
+FLT4 Drive/CombVelAmnt	0	4194304	Value	ValueOutput
+FLT4 CutEnvVelAmnt	0	4194304	Value	ValueOutput
+FLT4 Keytrack	0	4194304	Value	ValueOutput
+Env1Attack	0	4194304	Value	ValueOutput
+Env1AttackCurve	0	4194304	Value	ValueOutput
+Env1Hold	0	4194304	Value	ValueOutput
+Env1Decay	0	4194304	Value	ValueOutput
+Env1DecayCurve	0	4194304	Value	ValueOutput
+Env1Sustain	0	4194304	Value	ValueOutput
+Env1Release	0	4194304	Value	ValueOutput
+Env1ReleaseCurve	0	4194304	Value	ValueOutput
+Env2Attack	0	4194304	Value	ValueOutput
+Env2AttackCurve	0	4194304	Value	ValueOutput
+Env2Hold	0	4194304	Value	ValueOutput
+Env2Decay	0	4194304	Value	ValueOutput
+Env2DecayCurve	0	4194304	Value	ValueOutput
+Env2Sustain	0	4194304	Value	ValueOutput
+Env2Release	0	4194304	Value	ValueOutput
+Env2ReleaseCurve	0	4194304	Value	ValueOutput
+Env3Attack	0	4194304	Value	ValueOutput
+Env3AttackCurve	0	4194304	Value	ValueOutput
+Env3Hold	0	4194304	Value	ValueOutput
+Env3Decay	0	4194304	Value	ValueOutput
+Env3DecayCurve	0	4194304	Value	ValueOutput
+Env3Sustain	0	4194304	Value	ValueOutput
+Env3Release	0	4194304	Value	ValueOutput
+Env3ReleaseCurve	0	4194304	Value	ValueOutput
+Env4Attack	0	4194304	Value	ValueOutput
+Env4AttackCurve	0	4194304	Value	ValueOutput
+Env4Hold	0	4194304	Value	ValueOutput
+Env4Decay	0	4194304	Value	ValueOutput
+Env4DecayCurve	0	4194304	Value	ValueOutput
+Env4Sustain	0	4194304	Value	ValueOutput
+Env4Release	0	4194304	Value	ValueOutput
+Env4ReleaseCurve	0	4194304	Value	ValueOutput
+Env5Attack	0	4194304	Value	ValueOutput
+Env5AttackCurve	0	4194304	Value	ValueOutput
+Env5Hold	0	4194304	Value	ValueOutput
+Env5Decay	0	4194304	Value	ValueOutput
+Env5DecayCurve	0	4194304	Value	ValueOutput
+Env5Sustain	0	4194304	Value	ValueOutput
+Env5Release	0	4194304	Value	ValueOutput
+Env5ReleaseCurve	0	4194304	Value	ValueOutput
+Env6Attack	0	4194304	Value	ValueOutput
+Env6AttackCurve	0	4194304	Value	ValueOutput
+Env6Hold	0	4194304	Value	ValueOutput
+Env6Decay	0	4194304	Value	ValueOutput
+Env6DecayCurve	0	4194304	Value	ValueOutput
+Env6Sustain	0	4194304	Value	ValueOutput
+Env6Release	0	4194304	Value	ValueOutput
+Env6ReleaseCurve	0	4194304	Value	ValueOutput
+Env7Attack	0	4194304	Value	ValueOutput
+Env7AttackCurve	0	4194304	Value	ValueOutput
+Env7Hold	0	4194304	Value	ValueOutput
+Env7Decay	0	4194304	Value	ValueOutput
+Env7DecayCurve	0	4194304	Value	ValueOutput
+Env7Sustain	0	4194304	Value	ValueOutput
+Env7Release	0	4194304	Value	ValueOutput
+Env7ReleaseCurve	0	4194304	Value	ValueOutput
+Env8Attack	0	4194304	Value	ValueOutput
+Env8AttackCurve	0	4194304	Value	ValueOutput
+Env8Hold	0	4194304	Value	ValueOutput
+Env8Decay	0	4194304	Value	ValueOutput
+Env8DecayCurve	0	4194304	Value	ValueOutput
+Env8Sustain	0	4194304	Value	ValueOutput
+Env8Release	0	4194304	Value	ValueOutput
+Env8ReleaseCurve	0	4194304	Value	ValueOutput
+ModEnv 1 Enabled	0	4194304	Value	ValueOutput
+ModEnv 1 Speed	0	4194304	Value	ValueOutput
+ModEnv 1 Offset	0	4194304	Value	ValueOutput
+ModEnv 2 Enabled	0	4194304	Value	ValueOutput
+ModEnv 2 Speed	0	4194304	Value	ValueOutput
+ModEnv 2 Offset	0	4194304	Value	ValueOutput
+ModEnv 3 Enabled	0	4194304	Value	ValueOutput
+ModEnv 3 Speed	0	4194304	Value	ValueOutput
+ModEnv 3 Offset	0	4194304	Value	ValueOutput
+ModEnv 4 Enabled	0	4194304	Value	ValueOutput
+ModEnv 4 Speed	0	4194304	Value	ValueOutput
+ModEnv 4 Offset	0	4194304	Value	ValueOutput
+ModEnv 5 Enabled	0	4194304	Value	ValueOutput
+ModEnv 5 Speed	0	4194304	Value	ValueOutput
+ModEnv 5 Offset	0	4194304	Value	ValueOutput
+ModEnv 6 Enabled	0	4194304	Value	ValueOutput
+ModEnv 6 Speed	0	4194304	Value	ValueOutput
+ModEnv 6 Offset	0	4194304	Value	ValueOutput
+ModEnv 7 Enabled	0	4194304	Value	ValueOutput
+ModEnv 7 Speed	0	4194304	Value	ValueOutput
+ModEnv 7 Offset	0	4194304	Value	ValueOutput
+ModEnv 8 Enabled	0	4194304	Value	ValueOutput
+ModEnv 8 Speed	0	4194304	Value	ValueOutput
+ModEnv 8 Offset	0	4194304	Value	ValueOutput
+ARP1 Speed	0	4194304	Value	ValueOutput
+ARP1 Octaves	0	4194304	Value	ValueOutput
+ARP1 Gate Time	0	4194304	Value	ValueOutput
+ARP1 Pattern Length	0	4194304	Value	ValueOutput
+ARP1 Pattern Index	0	4194304	Value	ValueOutput
+ARP1 Enabled	0	4194304	Value	ValueOutput
+ARP1 Velocity Amount	0	4194304	Value	ValueOutput
+ARP2 Speed	0	4194304	Value	ValueOutput
+ARP2 Octaves	0	4194304	Value	ValueOutput
+ARP2 Gate Time	0	4194304	Value	ValueOutput
+ARP2 Pattern Length	0	4194304	Value	ValueOutput
+ARP2 Pattern Index	0	4194304	Value	ValueOutput
+ARP2 Enabled	0	4194304	Value	ValueOutput
+ARP2 Velocity Amount	0	4194304	Value	ValueOutput
+ARP3 Speed	0	4194304	Value	ValueOutput
+ARP3 Octaves	0	4194304	Value	ValueOutput
+ARP3 Gate Time	0	4194304	Value	ValueOutput
+ARP3 Pattern Length	0	4194304	Value	ValueOutput
+ARP3 Pattern Index	0	4194304	Value	ValueOutput
+ARP3 Enabled	0	4194304	Value	ValueOutput
+ARP3 Velocity Amount	0	4194304	Value	ValueOutput
+ARP4 Speed	0	4194304	Value	ValueOutput
+ARP4 Octaves	0	4194304	Value	ValueOutput
+ARP4 Gate Time	0	4194304	Value	ValueOutput
+ARP4 Pattern Length	0	4194304	Value	ValueOutput
+ARP4 Pattern Index	0	4194304	Value	ValueOutput
+ARP4 Enabled	0	4194304	Value	ValueOutput
+ARP4 Velocity Amount	0	4194304	Value	ValueOutput
+ARP5 Speed	0	4194304	Value	ValueOutput
+ARP5 Octaves	0	4194304	Value	ValueOutput
+ARP5 Gate Time	0	4194304	Value	ValueOutput
+ARP5 Pattern Length	0	4194304	Value	ValueOutput
+ARP5 Pattern Index	0	4194304	Value	ValueOutput
+ARP5 Enabled	0	4194304	Value	ValueOutput
+ARP5 Velocity Amount	0	4194304	Value	ValueOutput
+ARP6 Speed	0	4194304	Value	ValueOutput
+ARP6 Octaves	0	4194304	Value	ValueOutput
+ARP6 Gate Time	0	4194304	Value	ValueOutput
+ARP6 Pattern Length	0	4194304	Value	ValueOutput
+ARP6 Pattern Index	0	4194304	Value	ValueOutput
+ARP6 Enabled	0	4194304	Value	ValueOutput
+ARP6 Velocity Amount	0	4194304	Value	ValueOutput
+ARP7 Speed	0	4194304	Value	ValueOutput
+ARP7 Octaves	0	4194304	Value	ValueOutput
+ARP7 Gate Time	0	4194304	Value	ValueOutput
+ARP7 Pattern Length	0	4194304	Value	ValueOutput
+ARP7 Pattern Index	0	4194304	Value	ValueOutput
+ARP7 Enabled	0	4194304	Value	ValueOutput
+ARP7 Velocity Amount	0	4194304	Value	ValueOutput
+ARP8 Speed	0	4194304	Value	ValueOutput
+ARP8 Octaves	0	4194304	Value	ValueOutput
+ARP8 Gate Time	0	4194304	Value	ValueOutput
+ARP8 Pattern Length	0	4194304	Value	ValueOutput
+ARP8 Pattern Index	0	4194304	Value	ValueOutput
+ARP8 Enabled	0	4194304	Value	ValueOutput
+ARP8 Velocity Amount	0	4194304	Value	ValueOutput
+PITCH1 Range	0	4194304	Value	ValueOutput
+PITCH1 Steps	0	4194304	Value	ValueOutput
+PITCH1 Flip	0	4194304	Value	ValueOutput
+PITCH1 Keytrack	0	4194304	Value	ValueOutput
+PITCH1 PB Inertia	0	4194304	Value	ValueOutput
+PITCH1 Porta.Mode	0	4194304	Value	ValueOutput
+PITCH1 Porta.Time	0	4194304	Value	ValueOutput
+PITCH1 Porta.Curve	0	4194304	Value	ValueOutput
+PITCH1 Env.Enabled	0	4194304	Value	ValueOutput
+PITCH1 Env.Speed	0	4194304	Value	ValueOutput
+PITCH2 Range	0	4194304	Value	ValueOutput
+PITCH2 Steps	0	4194304	Value	ValueOutput
+PITCH2 Flip	0	4194304	Value	ValueOutput
+PITCH2 Keytrack	0	4194304	Value	ValueOutput
+PITCH2 PB Inertia	0	4194304	Value	ValueOutput
+PITCH2 Porta.Mode	0	4194304	Value	ValueOutput
+PITCH2 Porta.Time	0	4194304	Value	ValueOutput
+PITCH2 Porta.Curve	0	4194304	Value	ValueOutput
+PITCH2 Env.Enabled	0	4194304	Value	ValueOutput
+PITCH2 Env.Speed	0	4194304	Value	ValueOutput
+PITCH3 Range	0	4194304	Value	ValueOutput
+PITCH3 Steps	0	4194304	Value	ValueOutput
+PITCH3 Flip	0	4194304	Value	ValueOutput
+PITCH3 Keytrack	0	4194304	Value	ValueOutput
+PITCH3 PB Inertia	0	4194304	Value	ValueOutput
+PITCH3 Porta.Mode	0	4194304	Value	ValueOutput
+PITCH3 Porta.Time	0	4194304	Value	ValueOutput
+PITCH3 Porta.Curve	0	4194304	Value	ValueOutput
+PITCH3 Env.Enabled	0	4194304	Value	ValueOutput
+PITCH3 Env.Speed	0	4194304	Value	ValueOutput
+PITCH4 Range	0	4194304	Value	ValueOutput
+PITCH4 Steps	0	4194304	Value	ValueOutput
+PITCH4 Flip	0	4194304	Value	ValueOutput
+PITCH4 Keytrack	0	4194304	Value	ValueOutput
+PITCH4 PB Inertia	0	4194304	Value	ValueOutput
+PITCH4 Porta.Mode	0	4194304	Value	ValueOutput
+PITCH4 Porta.Time	0	4194304	Value	ValueOutput
+PITCH4 Porta.Curve	0	4194304	Value	ValueOutput
+PITCH4 Env.Enabled	0	4194304	Value	ValueOutput
+PITCH4 Env.Speed	0	4194304	Value	ValueOutput
+PITCH5 Range	0	4194304	Value	ValueOutput
+PITCH5 Steps	0	4194304	Value	ValueOutput
+PITCH5 Flip	0	4194304	Value	ValueOutput
+PITCH5 Keytrack	0	4194304	Value	ValueOutput
+PITCH5 PB Inertia	0	4194304	Value	ValueOutput
+PITCH5 Porta.Mode	0	4194304	Value	ValueOutput
+PITCH5 Porta.Time	0	4194304	Value	ValueOutput
+PITCH5 Porta.Curve	0	4194304	Value	ValueOutput
+PITCH5 Env.Enabled	0	4194304	Value	ValueOutput
+PITCH5 Env.Speed	0	4194304	Value	ValueOutput
+PITCH6 Range	0	4194304	Value	ValueOutput
+PITCH6 Steps	0	4194304	Value	ValueOutput
+PITCH6 Flip	0	4194304	Value	ValueOutput
+PITCH6 Keytrack	0	4194304	Value	ValueOutput
+PITCH6 PB Inertia	0	4194304	Value	ValueOutput
+PITCH6 Porta.Mode	0	4194304	Value	ValueOutput
+PITCH6 Porta.Time	0	4194304	Value	ValueOutput
+PITCH6 Porta.Curve	0	4194304	Value	ValueOutput
+PITCH6 Env.Enabled	0	4194304	Value	ValueOutput
+PITCH6 Env.Speed	0	4194304	Value	ValueOutput
+PITCH7 Range	0	4194304	Value	ValueOutput
+PITCH7 Steps	0	4194304	Value	ValueOutput
+PITCH7 Flip	0	4194304	Value	ValueOutput
+PITCH7 Keytrack	0	4194304	Value	ValueOutput
+PITCH7 PB Inertia	0	4194304	Value	ValueOutput
+PITCH7 Porta.Mode	0	4194304	Value	ValueOutput
+PITCH7 Porta.Time	0	4194304	Value	ValueOutput
+PITCH7 Porta.Curve	0	4194304	Value	ValueOutput
+PITCH7 Env.Enabled	0	4194304	Value	ValueOutput
+PITCH7 Env.Speed	0	4194304	Value	ValueOutput
+PITCH8 Range	0	4194304	Value	ValueOutput
+PITCH8 Steps	0	4194304	Value	ValueOutput
+PITCH8 Flip	0	4194304	Value	ValueOutput
+PITCH8 Keytrack	0	4194304	Value	ValueOutput
+PITCH8 PB Inertia	0	4194304	Value	ValueOutput
+PITCH8 Porta.Mode	0	4194304	Value	ValueOutput
+PITCH8 Porta.Time	0	4194304	Value	ValueOutput
+PITCH8 Porta.Curve	0	4194304	Value	ValueOutput
+PITCH8 Env.Enabled	0	4194304	Value	ValueOutput
+PITCH8 Env.Speed	0	4194304	Value	ValueOutput
+LFO1 Shape	0	4194304	Value	ValueOutput
+LFO1 Phase	0	4194304	Value	ValueOutput
+LFO1 Offset	0	4194304	Value	ValueOutput
+LFO1 Sync Mode	0	4194304	Value	ValueOutput
+LFO1 Rate	0	4194304	Value	ValueOutput
+LFO1 Fade In	0	4194304	Value	ValueOutput
+LFO1 Delay	0	4194304	Value	ValueOutput
+LFO2 Shape	0	4194304	Value	ValueOutput
+LFO2 Phase	0	4194304	Value	ValueOutput
+LFO2 Offset	0	4194304	Value	ValueOutput
+LFO2 Sync Mode	0	4194304	Value	ValueOutput
+LFO2 Rate	0	4194304	Value	ValueOutput
+LFO2 Fade In	0	4194304	Value	ValueOutput
+LFO2 Delay	0	4194304	Value	ValueOutput
+LFO3 Shape	0	4194304	Value	ValueOutput
+LFO3 Phase	0	4194304	Value	ValueOutput
+LFO3 Offset	0	4194304	Value	ValueOutput
+LFO3 Sync Mode	0	4194304	Value	ValueOutput
+LFO3 Rate	0	4194304	Value	ValueOutput
+LFO3 Fade In	0	4194304	Value	ValueOutput
+LFO3 Delay	0	4194304	Value	ValueOutput
+LFO4 Shape	0	4194304	Value	ValueOutput
+LFO4 Phase	0	4194304	Value	ValueOutput
+LFO4 Offset	0	4194304	Value	ValueOutput
+LFO4 Sync Mode	0	4194304	Value	ValueOutput
+LFO4 Rate	0	4194304	Value	ValueOutput
+LFO4 Fade In	0	4194304	Value	ValueOutput
+LFO4 Delay	0	4194304	Value	ValueOutput
+SHP1 Drive	0	4194304	Value	ValueOutput
+SHP1 EQ1 Gain	0	4194304	Value	ValueOutput
+SHP1 EQ1 Freq	0	4194304	Value	ValueOutput
+SHP1 EQ1 Q	0	4194304	Value	ValueOutput
+SHP1 EQ2 Gain	0	4194304	Value	ValueOutput
+SHP1 EQ2 Freq	0	4194304	Value	ValueOutput
+SHP1 EQ2 Q	0	4194304	Value	ValueOutput
+SHP1 DriveVelAmount	0	4194304	Value	ValueOutput
+SHP2 Drive	0	4194304	Value	ValueOutput
+SHP2 EQ1 Gain	0	4194304	Value	ValueOutput
+SHP2 EQ1 Freq	0	4194304	Value	ValueOutput
+SHP2 EQ1 Q	0	4194304	Value	ValueOutput
+SHP2 EQ2 Gain	0	4194304	Value	ValueOutput
+SHP2 EQ2 Freq	0	4194304	Value	ValueOutput
+SHP2 EQ2 Q	0	4194304	Value	ValueOutput
+SHP2 DriveVelAmount	0	4194304	Value	ValueOutput
+SHP3 Drive	0	4194304	Value	ValueOutput
+SHP3 EQ1 Gain	0	4194304	Value	ValueOutput
+SHP3 EQ1 Freq	0	4194304	Value	ValueOutput
+SHP3 EQ1 Q	0	4194304	Value	ValueOutput
+SHP3 EQ2 Gain	0	4194304	Value	ValueOutput
+SHP3 EQ2 Freq	0	4194304	Value	ValueOutput
+SHP3 EQ2 Q	0	4194304	Value	ValueOutput
+SHP3 DriveVelAmount	0	4194304	Value	ValueOutput
+SHP4 Drive	0	4194304	Value	ValueOutput
+SHP4 EQ1 Gain	0	4194304	Value	ValueOutput
+SHP4 EQ1 Freq	0	4194304	Value	ValueOutput
+SHP4 EQ1 Q	0	4194304	Value	ValueOutput
+SHP4 EQ2 Gain	0	4194304	Value	ValueOutput
+SHP4 EQ2 Freq	0	4194304	Value	ValueOutput
+SHP4 EQ2 Q	0	4194304	Value	ValueOutput
+SHP4 DriveVelAmount	0	4194304	Value	ValueOutput
+DrumSQ Enabled	0	4194304	Value	ValueOutput
+DrumSQ Length	0	4194304	Value	ValueOutput
+DrumSQ Speed	0	4194304	Value	ValueOutput
+DrumSQ Velocity	0	4194304	Value	ValueOutput
+STEP1 On/Off	0	4194304	Value	ValueOutput
+STEP1 Speed	0	4194304	Value	ValueOutput
+STEP1 Length	0	4194304	Value	ValueOutput
+STEP1 Volume Mix	0	4194304	Value	ValueOutput
+STEP1 Contour	0	4194304	Value	ValueOutput
+STEP1 Stereo Width	0	4194304	Value	ValueOutput
+STEP1 Gate	0	4194304	Value	ValueOutput
+STEP1 Decay	0	4194304	Value	ValueOutput
+STEP1 Delay	0	4194304	Value	ValueOutput
+STEP1 Fade In/Out	0	4194304	Value	ValueOutput
+STEP2 On/Off	0	4194304	Value	ValueOutput
+STEP2 Speed	0	4194304	Value	ValueOutput
+STEP2 Length	0	4194304	Value	ValueOutput
+STEP2 Volume Mix	0	4194304	Value	ValueOutput
+STEP2 Contour	0	4194304	Value	ValueOutput
+STEP2 Stereo Width	0	4194304	Value	ValueOutput
+STEP2 Gate	0	4194304	Value	ValueOutput
+STEP2 Decay	0	4194304	Value	ValueOutput
+STEP2 Delay	0	4194304	Value	ValueOutput
+STEP2 Fade In/Out	0	4194304	Value	ValueOutput
+STEP3 On/Off	0	4194304	Value	ValueOutput
+STEP3 Speed	0	4194304	Value	ValueOutput
+STEP3 Length	0	4194304	Value	ValueOutput
+STEP3 Volume Mix	0	4194304	Value	ValueOutput
+STEP3 Contour	0	4194304	Value	ValueOutput
+STEP3 Stereo Width	0	4194304	Value	ValueOutput
+STEP3 Gate	0	4194304	Value	ValueOutput
+STEP3 Decay	0	4194304	Value	ValueOutput
+STEP3 Delay	0	4194304	Value	ValueOutput
+STEP3 Fade In/Out	0	4194304	Value	ValueOutput
+STEP4 On/Off	0	4194304	Value	ValueOutput
+STEP4 Speed	0	4194304	Value	ValueOutput
+STEP4 Length	0	4194304	Value	ValueOutput
+STEP4 Volume Mix	0	4194304	Value	ValueOutput
+STEP4 Contour	0	4194304	Value	ValueOutput
+STEP4 Stereo Width	0	4194304	Value	ValueOutput
+STEP4 Gate	0	4194304	Value	ValueOutput
+STEP4 Decay	0	4194304	Value	ValueOutput
+STEP4 Delay	0	4194304	Value	ValueOutput
+STEP4 Fade In/Out	0	4194304	Value	ValueOutput
+STEP5 On/Off	0	4194304	Value	ValueOutput
+STEP5 Speed	0	4194304	Value	ValueOutput
+STEP5 Length	0	4194304	Value	ValueOutput
+STEP5 Volume Mix	0	4194304	Value	ValueOutput
+STEP5 Contour	0	4194304	Value	ValueOutput
+STEP5 Stereo Width	0	4194304	Value	ValueOutput
+STEP5 Gate	0	4194304	Value	ValueOutput
+STEP5 Decay	0	4194304	Value	ValueOutput
+STEP5 Delay	0	4194304	Value	ValueOutput
+STEP5 Fade In/Out	0	4194304	Value	ValueOutput
+STEP6 On/Off	0	4194304	Value	ValueOutput
+STEP6 Speed	0	4194304	Value	ValueOutput
+STEP6 Length	0	4194304	Value	ValueOutput
+STEP6 Volume Mix	0	4194304	Value	ValueOutput
+STEP6 Contour	0	4194304	Value	ValueOutput
+STEP6 Stereo Width	0	4194304	Value	ValueOutput
+STEP6 Gate	0	4194304	Value	ValueOutput
+STEP6 Decay	0	4194304	Value	ValueOutput
+STEP6 Delay	0	4194304	Value	ValueOutput
+STEP6 Fade In/Out	0	4194304	Value	ValueOutput
+STEP7 On/Off	0	4194304	Value	ValueOutput
+STEP7 Speed	0	4194304	Value	ValueOutput
+STEP7 Length	0	4194304	Value	ValueOutput
+STEP7 Volume Mix	0	4194304	Value	ValueOutput
+STEP7 Contour	0	4194304	Value	ValueOutput
+STEP7 Stereo Width	0	4194304	Value	ValueOutput
+STEP7 Gate	0	4194304	Value	ValueOutput
+STEP7 Decay	0	4194304	Value	ValueOutput
+STEP7 Delay	0	4194304	Value	ValueOutput
+STEP7 Fade In/Out	0	4194304	Value	ValueOutput
+STEP8 On/Off	0	4194304	Value	ValueOutput
+STEP8 Speed	0	4194304	Value	ValueOutput
+STEP8 Length	0	4194304	Value	ValueOutput
+STEP8 Volume Mix	0	4194304	Value	ValueOutput
+STEP8 Contour	0	4194304	Value	ValueOutput
+STEP8 Stereo Width	0	4194304	Value	ValueOutput
+STEP8 Gate	0	4194304	Value	ValueOutput
+STEP8 Decay	0	4194304	Value	ValueOutput
+STEP8 Delay	0	4194304	Value	ValueOutput
+STEP8 Fade In/Out	0	4194304	Value	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+OSC Volume	0	4194304	Value	ValueOutput
+DRM Volume	0	4194304	Value	ValueOutput
+MSTFLT Enable	0	4194304	Value	ValueOutput
+MSTFLT Cutoff	0	4194304	Value	ValueOutput
+MSTFLT Resonance	0	4194304	Value	ValueOutput
+MSTFLT Drive/Add/Comb	0	4194304	Value	ValueOutput
+MSTFLT Gain	0	4194304	Value	ValueOutput
+Shuffle	0	4194304	Value	ValueOutput
+Macro 1	0	4194304	Value	ValueOutput
+Macro 2	0	4194304	Value	ValueOutput
+Macro 3	0	4194304	Value	ValueOutput
+MacroButton 1	0	4194304	Value	ValueOutput
+MacroButton 2	0	4194304	Value	ValueOutput
+DRM C Pitch	0	4194304	Value	ValueOutput
+DRM C Volume	0	4194304	Value	ValueOutput
+DRM C Pan	0	4194304	Value	ValueOutput
+DRM C Spike	0	4194304	Value	ValueOutput
+DRM C Delay	0	4194304	Value	ValueOutput
+DRM C LP Filter	0	4194304	Value	ValueOutput
+DRM C HP Filter	0	4194304	Value	ValueOutput
+DRM C Smp Start	0	4194304	Value	ValueOutput
+DRM C Smp End	0	4194304	Value	ValueOutput
+DRM C Gain	0	4194304	Value	ValueOutput
+DRM C# Pitch	0	4194304	Value	ValueOutput
+DRM C# Volume	0	4194304	Value	ValueOutput
+DRM C# Pan	0	4194304	Value	ValueOutput
+DRM C# Spike	0	4194304	Value	ValueOutput
+DRM C# Delay	0	4194304	Value	ValueOutput
+DRM C# LP Filter	0	4194304	Value	ValueOutput
+DRM C# HP Filter	0	4194304	Value	ValueOutput
+DRM C# Smp Start	0	4194304	Value	ValueOutput
+DRM C# Smp End	0	4194304	Value	ValueOutput
+DRM C# Gain	0	4194304	Value	ValueOutput
+DRM D Pitch	0	4194304	Value	ValueOutput
+DRM D Volume	0	4194304	Value	ValueOutput
+DRM D Pan	0	4194304	Value	ValueOutput
+DRM D Spike	0	4194304	Value	ValueOutput
+DRM D Delay	0	4194304	Value	ValueOutput
+DRM D LP Filter	0	4194304	Value	ValueOutput
+DRM D HP Filter	0	4194304	Value	ValueOutput
+DRM D Smp Start	0	4194304	Value	ValueOutput
+DRM D Smp End	0	4194304	Value	ValueOutput
+DRM D Gain	0	4194304	Value	ValueOutput
+DRM D# Pitch	0	4194304	Value	ValueOutput
+DRM D# Volume	0	4194304	Value	ValueOutput
+DRM D# Pan	0	4194304	Value	ValueOutput
+DRM D# Spike	0	4194304	Value	ValueOutput
+DRM D# Delay	0	4194304	Value	ValueOutput
+DRM D# LP Filter	0	4194304	Value	ValueOutput
+DRM D# HP Filter	0	4194304	Value	ValueOutput
+DRM D# Smp Start	0	4194304	Value	ValueOutput
+DRM D# Smp End	0	4194304	Value	ValueOutput
+DRM D# Gain	0	4194304	Value	ValueOutput
+DRM E Pitch	0	4194304	Value	ValueOutput
+DRM E Volume	0	4194304	Value	ValueOutput
+DRM E Pan	0	4194304	Value	ValueOutput
+DRM E Spike	0	4194304	Value	ValueOutput
+DRM E Delay	0	4194304	Value	ValueOutput
+DRM E LP Filter	0	4194304	Value	ValueOutput
+DRM E HP Filter	0	4194304	Value	ValueOutput
+DRM E Smp Start	0	4194304	Value	ValueOutput
+DRM E Smp End	0	4194304	Value	ValueOutput
+DRM E Gain	0	4194304	Value	ValueOutput
+DRM F Pitch	0	4194304	Value	ValueOutput
+DRM F Volume	0	4194304	Value	ValueOutput
+DRM F Pan	0	4194304	Value	ValueOutput
+DRM F Spike	0	4194304	Value	ValueOutput
+DRM F Delay	0	4194304	Value	ValueOutput
+DRM F LP Filter	0	4194304	Value	ValueOutput
+DRM F HP Filter	0	4194304	Value	ValueOutput
+DRM F Smp Start	0	4194304	Value	ValueOutput
+DRM F Smp End	0	4194304	Value	ValueOutput
+DRM F Gain	0	4194304	Value	ValueOutput
+DRM F# Pitch	0	4194304	Value	ValueOutput
+DRM F# Volume	0	4194304	Value	ValueOutput
+DRM F# Pan	0	4194304	Value	ValueOutput
+DRM F# Spike	0	4194304	Value	ValueOutput
+DRM F# Delay	0	4194304	Value	ValueOutput
+DRM F# LP Filter	0	4194304	Value	ValueOutput
+DRM F# HP Filter	0	4194304	Value	ValueOutput
+DRM F# Smp Start	0	4194304	Value	ValueOutput
+DRM F# Smp End	0	4194304	Value	ValueOutput
+DRM F# Gain	0	4194304	Value	ValueOutput
+DRM G Pitch	0	4194304	Value	ValueOutput
+DRM G Volume	0	4194304	Value	ValueOutput
+DRM G Pan	0	4194304	Value	ValueOutput
+DRM G Spike	0	4194304	Value	ValueOutput
+DRM G Delay	0	4194304	Value	ValueOutput
+DRM G LP Filter	0	4194304	Value	ValueOutput
+DRM G HP Filter	0	4194304	Value	ValueOutput
+DRM G Smp Start	0	4194304	Value	ValueOutput
+DRM G Smp End	0	4194304	Value	ValueOutput
+DRM G Gain	0	4194304	Value	ValueOutput
+DRM G# Pitch	0	4194304	Value	ValueOutput
+DRM G# Volume	0	4194304	Value	ValueOutput
+DRM G# Pan	0	4194304	Value	ValueOutput
+DRM G# Spike	0	4194304	Value	ValueOutput
+DRM G# Delay	0	4194304	Value	ValueOutput
+DRM G# LP Filter	0	4194304	Value	ValueOutput
+DRM G# HP Filter	0	4194304	Value	ValueOutput
+DRM G# Smp Start	0	4194304	Value	ValueOutput
+DRM G# Smp End	0	4194304	Value	ValueOutput
+DRM G# Gain	0	4194304	Value	ValueOutput
+DRM A Pitch	0	4194304	Value	ValueOutput
+DRM A Volume	0	4194304	Value	ValueOutput
+DRM A Pan	0	4194304	Value	ValueOutput
+DRM A Spike	0	4194304	Value	ValueOutput
+DRM A Delay	0	4194304	Value	ValueOutput
+DRM A LP Filter	0	4194304	Value	ValueOutput
+DRM A HP Filter	0	4194304	Value	ValueOutput
+DRM A Smp Start	0	4194304	Value	ValueOutput
+DRM A Smp End	0	4194304	Value	ValueOutput
+DRM A Gain	0	4194304	Value	ValueOutput
+DRM A# Pitch	0	4194304	Value	ValueOutput
+DRM A# Volume	0	4194304	Value	ValueOutput
+DRM A# Pan	0	4194304	Value	ValueOutput
+DRM A# Spike	0	4194304	Value	ValueOutput
+DRM A# Delay	0	4194304	Value	ValueOutput
+DRM A# LP Filter	0	4194304	Value	ValueOutput
+DRM A# HP Filter	0	4194304	Value	ValueOutput
+DRM A# Smp Start	0	4194304	Value	ValueOutput
+DRM A# Smp End	0	4194304	Value	ValueOutput
+DRM A# Gain	0	4194304	Value	ValueOutput
+DRM B Pitch	0	4194304	Value	ValueOutput
+DRM B Volume	0	4194304	Value	ValueOutput
+DRM B Pan	0	4194304	Value	ValueOutput
+DRM B Spike	0	4194304	Value	ValueOutput
+DRM B Delay	0	4194304	Value	ValueOutput
+DRM B LP Filter	0	4194304	Value	ValueOutput
+DRM B HP Filter	0	4194304	Value	ValueOutput
+DRM B Smp Start	0	4194304	Value	ValueOutput
+DRM B Smp End	0	4194304	Value	ValueOutput
+DRM B Gain	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 1 Finet	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 2 Finet	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 3 Finet	0	4194304	Value	ValueOutput
+OSC1 Sample Slot 4 Finet	0	4194304	Value	ValueOutput
+OSC1 GrainPosition	0	4194304	Value	ValueOutput
+OSC1 GrainSpeed	0	4194304	Value	ValueOutput
+OSC1 GrainDensity	0	4194304	Value	ValueOutput
+OSC1 GrainSize	0	4194304	Value	ValueOutput
+OSC1 GrainRndPos	0	4194304	Value	ValueOutput
+OSC1 GrainRndPitch	0	4194304	Value	ValueOutput
+OSC1 GrainRndDir	0	4194304	Value	ValueOutput
+OSC1 GrainSprdPitch	0	4194304	Value	ValueOutput
+OSC1 GrainSprdPan	0	4194304	Value	ValueOutput
+OSC1 GrainEnvShape	0	4194304	Value	ValueOutput
+OSC1 Granular Env.Enable	0	4194304	Value	ValueOutput
+OSC1 Granular Env.Seq Sp	0	4194304	Value	ValueOutput
+OSC1 Granular Env. Seq S	0	4194304	Value	ValueOutput
+OSC1 Granular Env. Stren	0	4194304	Value	ValueOutput
+OSC1 Granular Env. Flip	0	4194304	Value	ValueOutput
+OSC1 Granular Range Star	0	4194304	Value	ValueOutput
+OSC1 Granular Range End	0	4194304	Value	ValueOutput
+OSC1 Granular Transient	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 1 Finet	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 2 Finet	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 3 Finet	0	4194304	Value	ValueOutput
+OSC2 Sample Slot 4 Finet	0	4194304	Value	ValueOutput
+OSC2 GrainPosition	0	4194304	Value	ValueOutput
+OSC2 GrainSpeed	0	4194304	Value	ValueOutput
+OSC2 GrainDensity	0	4194304	Value	ValueOutput
+OSC2 GrainSize	0	4194304	Value	ValueOutput
+OSC2 GrainRndPos	0	4194304	Value	ValueOutput
+OSC2 GrainRndPitch	0	4194304	Value	ValueOutput
+OSC2 GrainRndDir	0	4194304	Value	ValueOutput
+OSC2 GrainSprdPitch	0	4194304	Value	ValueOutput
+OSC2 GrainSprdPan	0	4194304	Value	ValueOutput
+OSC2 GrainEnvShape	0	4194304	Value	ValueOutput
+OSC2 Granular Env.Enable	0	4194304	Value	ValueOutput
+OSC2 Granular Env.Seq Sp	0	4194304	Value	ValueOutput
+OSC2 Granular Env. Seq S	0	4194304	Value	ValueOutput
+OSC2 Granular Env. Stren	0	4194304	Value	ValueOutput
+OSC2 Granular Env. Flip	0	4194304	Value	ValueOutput
+OSC2 Granular Range Star	0	4194304	Value	ValueOutput
+OSC2 Granular Range End	0	4194304	Value	ValueOutput
+OSC2 Granular Transient	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 1 Finet	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 2 Finet	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 3 Finet	0	4194304	Value	ValueOutput
+OSC3 Sample Slot 4 Finet	0	4194304	Value	ValueOutput
+OSC3 GrainPosition	0	4194304	Value	ValueOutput
+OSC3 GrainSpeed	0	4194304	Value	ValueOutput
+OSC3 GrainDensity	0	4194304	Value	ValueOutput
+OSC3 GrainSize	0	4194304	Value	ValueOutput
+OSC3 GrainRndPos	0	4194304	Value	ValueOutput
+OSC3 GrainRndPitch	0	4194304	Value	ValueOutput
+OSC3 GrainRndDir	0	4194304	Value	ValueOutput
+OSC3 GrainSprdPitch	0	4194304	Value	ValueOutput
+OSC3 GrainSprdPan	0	4194304	Value	ValueOutput
+OSC3 GrainEnvShape	0	4194304	Value	ValueOutput
+OSC3 Granular Env.Enable	0	4194304	Value	ValueOutput
+OSC3 Granular Env.Seq Sp	0	4194304	Value	ValueOutput
+OSC3 Granular Env. Seq S	0	4194304	Value	ValueOutput
+OSC3 Granular Env. Stren	0	4194304	Value	ValueOutput
+OSC3 Granular Env. Flip	0	4194304	Value	ValueOutput
+OSC3 Granular Range Star	0	4194304	Value	ValueOutput
+OSC3 Granular Range End	0	4194304	Value	ValueOutput
+OSC3 Granular Transient	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 1 Finet	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 2 Finet	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 3 Finet	0	4194304	Value	ValueOutput
+OSC4 Sample Slot 4 Finet	0	4194304	Value	ValueOutput
+OSC4 GrainPosition	0	4194304	Value	ValueOutput
+OSC4 GrainSpeed	0	4194304	Value	ValueOutput
+OSC4 GrainDensity	0	4194304	Value	ValueOutput
+OSC4 GrainSize	0	4194304	Value	ValueOutput
+OSC4 GrainRndPos	0	4194304	Value	ValueOutput
+OSC4 GrainRndPitch	0	4194304	Value	ValueOutput
+OSC4 GrainRndDir	0	4194304	Value	ValueOutput
+OSC4 GrainSprdPitch	0	4194304	Value	ValueOutput
+OSC4 GrainSprdPan	0	4194304	Value	ValueOutput
+OSC4 GrainEnvShape	0	4194304	Value	ValueOutput
+OSC4 Granular Env.Enable	0	4194304	Value	ValueOutput
+OSC4 Granular Env.Seq Sp	0	4194304	Value	ValueOutput
+OSC4 Granular Env. Seq S	0	4194304	Value	ValueOutput
+OSC4 Granular Env. Stren	0	4194304	Value	ValueOutput
+OSC4 Granular Env. Flip	0	4194304	Value	ValueOutput
+OSC4 Granular Range Star	0	4194304	Value	ValueOutput
+OSC4 Granular Range End	0	4194304	Value	ValueOutput
+OSC4 Granular Transient	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 1 Finet	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 2 Finet	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 3 Finet	0	4194304	Value	ValueOutput
+OSC5 Sample Slot 4 Finet	0	4194304	Value	ValueOutput
+OSC5 GrainPosition	0	4194304	Value	ValueOutput
+OSC5 GrainSpeed	0	4194304	Value	ValueOutput
+OSC5 GrainDensity	0	4194304	Value	ValueOutput
+OSC5 GrainSize	0	4194304	Value	ValueOutput
+OSC5 GrainRndPos	0	4194304	Value	ValueOutput
+OSC5 GrainRndPitch	0	4194304	Value	ValueOutput
+OSC5 GrainRndDir	0	4194304	Value	ValueOutput
+OSC5 GrainSprdPitch	0	4194304	Value	ValueOutput
+OSC5 GrainSprdPan	0	4194304	Value	ValueOutput
+OSC5 GrainEnvShape	0	4194304	Value	ValueOutput
+OSC5 Granular Env.Enable	0	4194304	Value	ValueOutput
+OSC5 Granular Env.Seq Sp	0	4194304	Value	ValueOutput
+OSC5 Granular Env. Seq S	0	4194304	Value	ValueOutput
+OSC5 Granular Env. Stren	0	4194304	Value	ValueOutput
+OSC5 Granular Env. Flip	0	4194304	Value	ValueOutput
+OSC5 Granular Range Star	0	4194304	Value	ValueOutput
+OSC5 Granular Range End	0	4194304	Value	ValueOutput
+OSC5 Granular Transient	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 1 Finet	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 2 Finet	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 3 Finet	0	4194304	Value	ValueOutput
+OSC6 Sample Slot 4 Finet	0	4194304	Value	ValueOutput
+OSC6 GrainPosition	0	4194304	Value	ValueOutput
+OSC6 GrainSpeed	0	4194304	Value	ValueOutput
+OSC6 GrainDensity	0	4194304	Value	ValueOutput
+OSC6 GrainSize	0	4194304	Value	ValueOutput
+OSC6 GrainRndPos	0	4194304	Value	ValueOutput
+OSC6 GrainRndPitch	0	4194304	Value	ValueOutput
+OSC6 GrainRndDir	0	4194304	Value	ValueOutput
+OSC6 GrainSprdPitch	0	4194304	Value	ValueOutput
+OSC6 GrainSprdPan	0	4194304	Value	ValueOutput
+OSC6 GrainEnvShape	0	4194304	Value	ValueOutput
+OSC6 Granular Env.Enable	0	4194304	Value	ValueOutput
+OSC6 Granular Env.Seq Sp	0	4194304	Value	ValueOutput
+OSC6 Granular Env. Seq S	0	4194304	Value	ValueOutput
+OSC6 Granular Env. Stren	0	4194304	Value	ValueOutput
+OSC6 Granular Env. Flip	0	4194304	Value	ValueOutput
+OSC6 Granular Range Star	0	4194304	Value	ValueOutput
+OSC6 Granular Range End	0	4194304	Value	ValueOutput
+OSC6 Granular Transient	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 1 Finet	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 2 Finet	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 3 Finet	0	4194304	Value	ValueOutput
+OSC7 Sample Slot 4 Finet	0	4194304	Value	ValueOutput
+OSC7 GrainPosition	0	4194304	Value	ValueOutput
+OSC7 GrainSpeed	0	4194304	Value	ValueOutput
+OSC7 GrainDensity	0	4194304	Value	ValueOutput
+OSC7 GrainSize	0	4194304	Value	ValueOutput
+OSC7 GrainRndPos	0	4194304	Value	ValueOutput
+OSC7 GrainRndPitch	0	4194304	Value	ValueOutput
+OSC7 GrainRndDir	0	4194304	Value	ValueOutput
+OSC7 GrainSprdPitch	0	4194304	Value	ValueOutput
+OSC7 GrainSprdPan	0	4194304	Value	ValueOutput
+OSC7 GrainEnvShape	0	4194304	Value	ValueOutput
+OSC7 Granular Env.Enable	0	4194304	Value	ValueOutput
+OSC7 Granular Env.Seq Sp	0	4194304	Value	ValueOutput
+OSC7 Granular Env. Seq S	0	4194304	Value	ValueOutput
+OSC7 Granular Env. Stren	0	4194304	Value	ValueOutput
+OSC7 Granular Env. Flip	0	4194304	Value	ValueOutput
+OSC7 Granular Range Star	0	4194304	Value	ValueOutput
+OSC7 Granular Range End	0	4194304	Value	ValueOutput
+OSC7 Granular Transient	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 1 Finet	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 2 Finet	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 3 Finet	0	4194304	Value	ValueOutput
+OSC8 Sample Slot 4 Finet	0	4194304	Value	ValueOutput
+OSC8 GrainPosition	0	4194304	Value	ValueOutput
+OSC8 GrainSpeed	0	4194304	Value	ValueOutput
+OSC8 GrainDensity	0	4194304	Value	ValueOutput
+OSC8 GrainSize	0	4194304	Value	ValueOutput
+OSC8 GrainRndPos	0	4194304	Value	ValueOutput
+OSC8 GrainRndPitch	0	4194304	Value	ValueOutput
+OSC8 GrainRndDir	0	4194304	Value	ValueOutput
+OSC8 GrainSprdPitch	0	4194304	Value	ValueOutput
+OSC8 GrainSprdPan	0	4194304	Value	ValueOutput
+OSC8 GrainEnvShape	0	4194304	Value	ValueOutput
+OSC8 Granular Env.Enable	0	4194304	Value	ValueOutput
+OSC8 Granular Env.Seq Sp	0	4194304	Value	ValueOutput
+OSC8 Granular Env. Seq S	0	4194304	Value	ValueOutput
+OSC8 Granular Env. Stren	0	4194304	Value	ValueOutput
+OSC8 Granular Env. Flip	0	4194304	Value	ValueOutput
+OSC8 Granular Range Star	0	4194304	Value	ValueOutput
+OSC8 Granular Range End	0	4194304	Value	ValueOutput
+OSC8 Granular Transient	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput
+Proxy Open Plugin Window	0	1	Toggle	ValueOutput

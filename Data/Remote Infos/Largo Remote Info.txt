@@ -1,0 +1,1575 @@
+Scope
+Manufacturer	Model
+Waldorf	vst.3E80.Largo
+Note: Will match scope definitions for vst.3E80.Largo or vst.3E80
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Osc 1 Active	0	4194304	Value	ValueOutput
+Osc 1 Octave	0	4194304	Value	ValueOutput
+Osc 1 Semitone	0	4194304	Value	ValueOutput
+Osc 1 Detune	0	4194304	Value	ValueOutput
+Osc 1 Bend Range	0	4194304	Value	ValueOutput
+Osc 1 Keytrack	0	4194304	Value	ValueOutput
+Osc 1 FM Source	0	4194304	Value	ValueOutput
+Osc 1 FM Amount	0	4194304	Value	ValueOutput
+Osc 1 Shape	0	4194304	Value	ValueOutput
+Osc 1 Wave	0	4194304	Value	ValueOutput
+Osc 1 Wave Source	0	4194304	Value	ValueOutput
+Osc 1 Wave Amount	0	4194304	Value	ValueOutput
+Osc 1 Sub Osc Octave	0	4194304	Value	ValueOutput
+Osc 1 Sub Osc Level	0	4194304	Value	ValueOutput
+Osc 1 Limit Wavetable	0	4194304	Value	ValueOutput
+Osc 1 Startphase	0	4194304	Value	ValueOutput
+Osc 1 Brilliance	0	4194304	Value	ValueOutput
+Osc 2 Active	0	4194304	Value	ValueOutput
+Osc 2 Octave	0	4194304	Value	ValueOutput
+Osc 2 Semitone	0	4194304	Value	ValueOutput
+Osc 2 Detune	0	4194304	Value	ValueOutput
+Osc 2 Bend Range	0	4194304	Value	ValueOutput
+Osc 2 Keytrack	0	4194304	Value	ValueOutput
+Osc 2 FM Source	0	4194304	Value	ValueOutput
+Osc 2 FM Amount	0	4194304	Value	ValueOutput
+Osc 2 Shape	0	4194304	Value	ValueOutput
+Osc 2 Wave	0	4194304	Value	ValueOutput
+Osc 2 Wave Source	0	4194304	Value	ValueOutput
+Osc 2 Wave Amount	0	4194304	Value	ValueOutput
+Osc 2 Sub Osc Octave	0	4194304	Value	ValueOutput
+Osc 2 Sub Osc Level	0	4194304	Value	ValueOutput
+Osc 2 Limit Wavetable	0	4194304	Value	ValueOutput
+Osc 2 Startphase	0	4194304	Value	ValueOutput
+Osc 2 Brilliance	0	4194304	Value	ValueOutput
+Osc 3 Active	0	4194304	Value	ValueOutput
+Osc 3 Octave	0	4194304	Value	ValueOutput
+Osc 3 Semitone	0	4194304	Value	ValueOutput
+Osc 3 Detune	0	4194304	Value	ValueOutput
+Osc 3 Bend Range	0	4194304	Value	ValueOutput
+Osc 3 Keytrack	0	4194304	Value	ValueOutput
+Osc 3 FM Source	0	4194304	Value	ValueOutput
+Osc 3 FM Amount	0	4194304	Value	ValueOutput
+Osc 3 Shape	0	4194304	Value	ValueOutput
+Osc 3 Wave	0	4194304	Value	ValueOutput
+Osc 3 Wave Source	0	4194304	Value	ValueOutput
+Osc 3 Wave Amount	0	4194304	Value	ValueOutput
+Osc 3 Startphase	0	4194304	Value	ValueOutput
+Osc 3 Brilliance	0	4194304	Value	ValueOutput
+Osc 2 Sync To Osc 3	0	4194304	Value	ValueOutput
+Pitch Mod Source	0	4194304	Value	ValueOutput
+Pitch Mod Amount	0	4194304	Value	ValueOutput
+Glide Active	0	4194304	Value	ValueOutput
+Glide Steps	0	4194304	Value	ValueOutput
+Glide Mode	0	4194304	Value	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+Allocation	0	4194304	Value	ValueOutput
+Unisono Voices	0	4194304	Value	ValueOutput
+Unisono Detune	0	4194304	Value	ValueOutput
+Unisono Spread	0	4194304	Value	ValueOutput
+Osc 1 Level	0	4194304	Value	ValueOutput
+Osc 1 Balance	0	4194304	Value	ValueOutput
+Osc 2 Level	0	4194304	Value	ValueOutput
+Osc 2 Balance	0	4194304	Value	ValueOutput
+Osc 3 Level	0	4194304	Value	ValueOutput
+Osc 3 Balance	0	4194304	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+Noise Balance	0	4194304	Value	ValueOutput
+Noise Colour	0	4194304	Value	ValueOutput
+Ring Modulation	0	4194304	Value	ValueOutput
+Ring Mod Balance	0	4194304	Value	ValueOutput
+F1 Active	0	4194304	Value	ValueOutput
+F1 Type	0	4194304	Value	ValueOutput
+F1 Cutoff	0	4194304	Value	ValueOutput
+F1 Resonance	0	4194304	Value	ValueOutput
+F1 Level	0	4194304	Value	ValueOutput
+F1 Drive	0	4194304	Value	ValueOutput
+F1 Drive Curve	0	4194304	Value	ValueOutput
+F1 Keytrack	0	4194304	Value	ValueOutput
+F1 Envelope Amount	0	4194304	Value	ValueOutput
+F1 Envelope Velocity	0	4194304	Value	ValueOutput
+F1 Cutoff Mod Source	0	4194304	Value	ValueOutput
+F1 Cutoff Mod Amount	0	4194304	Value	ValueOutput
+F1 FM Source	0	4194304	Value	ValueOutput
+F1 FM Amount	0	4194304	Value	ValueOutput
+F1 Pan	0	4194304	Value	ValueOutput
+F1 Pan Mod Source	0	4194304	Value	ValueOutput
+F1 Pan Mod Amount	0	4194304	Value	ValueOutput
+F2 Active	0	4194304	Value	ValueOutput
+F2 Type	0	4194304	Value	ValueOutput
+F2 Cutoff	0	4194304	Value	ValueOutput
+F2 Resonance	0	4194304	Value	ValueOutput
+F2 Level	0	4194304	Value	ValueOutput
+F2 Drive	0	4194304	Value	ValueOutput
+F2 Drive Curve	0	4194304	Value	ValueOutput
+F2 Keytrack	0	4194304	Value	ValueOutput
+F2 Envelope Amount	0	4194304	Value	ValueOutput
+F2 Envelope Velocity	0	4194304	Value	ValueOutput
+F2 Cutoff Mod Source	0	4194304	Value	ValueOutput
+F2 Cutoff Mod Amount	0	4194304	Value	ValueOutput
+F2 FM Source	0	4194304	Value	ValueOutput
+F2 FM Amount	0	4194304	Value	ValueOutput
+F2 Pan	0	4194304	Value	ValueOutput
+F2 Pan Mod Source	0	4194304	Value	ValueOutput
+F2 Pan Mod Amount	0	4194304	Value	ValueOutput
+Filter Routing	0	4194304	Value	ValueOutput
+Bass Boost	0	4194304	Value	ValueOutput
+Part Active	0	4194304	Value	ValueOutput
+Part Volume	0	4194304	Value	ValueOutput
+Amp Velocity	0	4194304	Value	ValueOutput
+Amp Mod Source	0	4194304	Value	ValueOutput
+Amp Mod Amount	0	4194304	Value	ValueOutput
+FX1 Active	0	4194304	Value	ValueOutput
+FX1 Type	0	4194304	Value	ValueOutput
+FX1 Mix	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Polarity	0	4194304	Value	ValueOutput
+Stages	0	4194304	Value	ValueOutput
+FX2 Active	0	4194304	Value	ValueOutput
+FX2 Type	0	4194304	Value	ValueOutput
+FX2 Mix	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Low Pass	0	4194304	Value	ValueOutput
+High Pass	0	4194304	Value	ValueOutput
+Clock	0	4194304	Value	ValueOutput
+Polarity	0	4194304	Value	ValueOutput
+LFO1 Shape	0	4194304	Value	ValueOutput
+LFO1 Speed	0	4194304	Value	ValueOutput
+LFO1 Sync	0	4194304	Value	ValueOutput
+LFO1 Clock	0	4194304	Value	ValueOutput
+LFO1 Startphase	0	4194304	Value	ValueOutput
+LFO1 Delay	0	4194304	Value	ValueOutput
+LFO1 Fade	0	4194304	Value	ValueOutput
+LFO1 Keytrack	0	4194304	Value	ValueOutput
+LFO2 Shape	0	4194304	Value	ValueOutput
+LFO2 Speed	0	4194304	Value	ValueOutput
+LFO2 Sync	0	4194304	Value	ValueOutput
+LFO2 Clock	0	4194304	Value	ValueOutput
+LFO2 Startphase	0	4194304	Value	ValueOutput
+LFO2 Delay	0	4194304	Value	ValueOutput
+LFO2 Fade	0	4194304	Value	ValueOutput
+LFO2 Keytrack	0	4194304	Value	ValueOutput
+LFO3 Shape	0	4194304	Value	ValueOutput
+LFO3 Speed	0	4194304	Value	ValueOutput
+LFO3 Sync	0	4194304	Value	ValueOutput
+LFO3 Clock	0	4194304	Value	ValueOutput
+LFO3 Startphase	0	4194304	Value	ValueOutput
+LFO3 Delay	0	4194304	Value	ValueOutput
+LFO3 Fade	0	4194304	Value	ValueOutput
+LFO3 Keytrack	0	4194304	Value	ValueOutput
+LFO3 Step Count	0	4194304	Value	ValueOutput
+LFO3 Step 1	0	4194304	Value	ValueOutput
+LFO3 Step 2	0	4194304	Value	ValueOutput
+LFO3 Step 3	0	4194304	Value	ValueOutput
+LFO3 Step 4	0	4194304	Value	ValueOutput
+LFO3 Step 5	0	4194304	Value	ValueOutput
+LFO3 Step 6	0	4194304	Value	ValueOutput
+LFO3 Step 7	0	4194304	Value	ValueOutput
+LFO3 Step 8	0	4194304	Value	ValueOutput
+LFO3 Step 9	0	4194304	Value	ValueOutput
+LFO3 Step 10	0	4194304	Value	ValueOutput
+LFO3 Step 11	0	4194304	Value	ValueOutput
+LFO3 Step 12	0	4194304	Value	ValueOutput
+LFO3 Step 13	0	4194304	Value	ValueOutput
+LFO3 Step 14	0	4194304	Value	ValueOutput
+LFO3 Step 15	0	4194304	Value	ValueOutput
+LFO3 Step 16	0	4194304	Value	ValueOutput
+LFO3 Contour	0	4194304	Value	ValueOutput
+FE Mode	0	4194304	Value	ValueOutput
+FE Attack	0	4194304	Value	ValueOutput
+FE Attack Level	0	4194304	Value	ValueOutput
+FE Decay	0	4194304	Value	ValueOutput
+FE Sustain	0	4194304	Value	ValueOutput
+FE Decay 2	0	4194304	Value	ValueOutput
+FE Sustain 2	0	4194304	Value	ValueOutput
+FE Release	0	4194304	Value	ValueOutput
+FE Trigger	0	4194304	Value	ValueOutput
+AE Mode	0	4194304	Value	ValueOutput
+AE Attack	0	4194304	Value	ValueOutput
+AE Attack Level	0	4194304	Value	ValueOutput
+AE Decay	0	4194304	Value	ValueOutput
+AE Sustain	0	4194304	Value	ValueOutput
+AE Decay 2	0	4194304	Value	ValueOutput
+AE Sustain 2	0	4194304	Value	ValueOutput
+AE Release	0	4194304	Value	ValueOutput
+AE Trigger	0	4194304	Value	ValueOutput
+E3 Mode	0	4194304	Value	ValueOutput
+E3 Attack	0	4194304	Value	ValueOutput
+E3 Attack Level	0	4194304	Value	ValueOutput
+E3 Decay	0	4194304	Value	ValueOutput
+E3 Sustain	0	4194304	Value	ValueOutput
+E3 Decay 2	0	4194304	Value	ValueOutput
+E3 Sustain 2	0	4194304	Value	ValueOutput
+E3 Release	0	4194304	Value	ValueOutput
+E3 Trigger	0	4194304	Value	ValueOutput
+E4 Mode	0	4194304	Value	ValueOutput
+E4 Attack	0	4194304	Value	ValueOutput
+E4 Attack Level	0	4194304	Value	ValueOutput
+E4 Decay	0	4194304	Value	ValueOutput
+E4 Sustain	0	4194304	Value	ValueOutput
+E4 Decay 2	0	4194304	Value	ValueOutput
+E4 Sustain 2	0	4194304	Value	ValueOutput
+E4 Release	0	4194304	Value	ValueOutput
+E4 Trigger	0	4194304	Value	ValueOutput
+Modifier 1 Source A	0	4194304	Value	ValueOutput
+Modifier 1 Source B	0	4194304	Value	ValueOutput
+Modifier 1 Operand	0	4194304	Value	ValueOutput
+Modifier 1 Constant	0	4194304	Value	ValueOutput
+Modifier 2 Source A	0	4194304	Value	ValueOutput
+Modifier 2 Source B	0	4194304	Value	ValueOutput
+Modifier 2 Operand	0	4194304	Value	ValueOutput
+Modifier 2 Constant	0	4194304	Value	ValueOutput
+Modifier 3 Source A	0	4194304	Value	ValueOutput
+Modifier 3 Source B	0	4194304	Value	ValueOutput
+Modifier 3 Operand	0	4194304	Value	ValueOutput
+Modifier 3 Constant	0	4194304	Value	ValueOutput
+Modifier 4 Source A	0	4194304	Value	ValueOutput
+Modifier 4 Source B	0	4194304	Value	ValueOutput
+Modifier 4 Operand	0	4194304	Value	ValueOutput
+Modifier 4 Constant	0	4194304	Value	ValueOutput
+Modulation 1 Source	0	4194304	Value	ValueOutput
+Modulation 1 Destination	0	4194304	Value	ValueOutput
+Modulation 1 Amount	0	4194304	Value	ValueOutput
+Modulation 2 Source	0	4194304	Value	ValueOutput
+Modulation 2 Destination	0	4194304	Value	ValueOutput
+Modulation 2 Amount	0	4194304	Value	ValueOutput
+Modulation 3 Source	0	4194304	Value	ValueOutput
+Modulation 3 Destination	0	4194304	Value	ValueOutput
+Modulation 3 Amount	0	4194304	Value	ValueOutput
+Modulation 4 Source	0	4194304	Value	ValueOutput
+Modulation 4 Destination	0	4194304	Value	ValueOutput
+Modulation 4 Amount	0	4194304	Value	ValueOutput
+Modulation 5 Source	0	4194304	Value	ValueOutput
+Modulation 5 Destination	0	4194304	Value	ValueOutput
+Modulation 5 Amount	0	4194304	Value	ValueOutput
+Modulation 6 Source	0	4194304	Value	ValueOutput
+Modulation 6 Destination	0	4194304	Value	ValueOutput
+Modulation 6 Amount	0	4194304	Value	ValueOutput
+Modulation 7 Source	0	4194304	Value	ValueOutput
+Modulation 7 Destination	0	4194304	Value	ValueOutput
+Modulation 7 Amount	0	4194304	Value	ValueOutput
+Modulation 8 Source	0	4194304	Value	ValueOutput
+Modulation 8 Destination	0	4194304	Value	ValueOutput
+Modulation 8 Amount	0	4194304	Value	ValueOutput
+Modulation 9 Source	0	4194304	Value	ValueOutput
+Modulation 9 Destination	0	4194304	Value	ValueOutput
+Modulation 9 Amount	0	4194304	Value	ValueOutput
+Modulation 10 Source	0	4194304	Value	ValueOutput
+Modulation 10 Destinatio	0	4194304	Value	ValueOutput
+Modulation 10 Amount	0	4194304	Value	ValueOutput
+Modulation 11 Source	0	4194304	Value	ValueOutput
+Modulation 11 Destinatio	0	4194304	Value	ValueOutput
+Modulation 11 Amount	0	4194304	Value	ValueOutput
+Modulation 12 Source	0	4194304	Value	ValueOutput
+Modulation 12 Destinatio	0	4194304	Value	ValueOutput
+Modulation 12 Amount	0	4194304	Value	ValueOutput
+Modulation 13 Source	0	4194304	Value	ValueOutput
+Modulation 13 Destinatio	0	4194304	Value	ValueOutput
+Modulation 13 Amount	0	4194304	Value	ValueOutput
+Modulation 14 Source	0	4194304	Value	ValueOutput
+Modulation 14 Destinatio	0	4194304	Value	ValueOutput
+Modulation 14 Amount	0	4194304	Value	ValueOutput
+Modulation 15 Source	0	4194304	Value	ValueOutput
+Modulation 15 Destinatio	0	4194304	Value	ValueOutput
+Modulation 15 Amount	0	4194304	Value	ValueOutput
+Modulation 16 Source	0	4194304	Value	ValueOutput
+Modulation 16 Destinatio	0	4194304	Value	ValueOutput
+Modulation 16 Amount	0	4194304	Value	ValueOutput
+Arp Step 1	0	4194304	Value	ValueOutput
+Arp Step 2	0	4194304	Value	ValueOutput
+Arp Step 3	0	4194304	Value	ValueOutput
+Arp Step 4	0	4194304	Value	ValueOutput
+Arp Step 5	0	4194304	Value	ValueOutput
+Arp Step 6	0	4194304	Value	ValueOutput
+Arp Step 7	0	4194304	Value	ValueOutput
+Arp Step 8	0	4194304	Value	ValueOutput
+Arp Step 9	0	4194304	Value	ValueOutput
+Arp Step 10	0	4194304	Value	ValueOutput
+Arp Step 11	0	4194304	Value	ValueOutput
+Arp Step 12	0	4194304	Value	ValueOutput
+Arp Step 13	0	4194304	Value	ValueOutput
+Arp Step 14	0	4194304	Value	ValueOutput
+Arp Step 15	0	4194304	Value	ValueOutput
+Arp Step 16	0	4194304	Value	ValueOutput
+Glide 1	0	4194304	Value	ValueOutput
+Glide 2	0	4194304	Value	ValueOutput
+Glide 3	0	4194304	Value	ValueOutput
+Glide 4	0	4194304	Value	ValueOutput
+Glide 5	0	4194304	Value	ValueOutput
+Glide 6	0	4194304	Value	ValueOutput
+Glide 7	0	4194304	Value	ValueOutput
+Glide 8	0	4194304	Value	ValueOutput
+Glide 9	0	4194304	Value	ValueOutput
+Glide 10	0	4194304	Value	ValueOutput
+Glide 11	0	4194304	Value	ValueOutput
+Glide 12	0	4194304	Value	ValueOutput
+Glide 13	0	4194304	Value	ValueOutput
+Glide 14	0	4194304	Value	ValueOutput
+Glide 15	0	4194304	Value	ValueOutput
+Glide 16	0	4194304	Value	ValueOutput
+Position 1	0	4194304	Value	ValueOutput
+Length 1	0	4194304	Value	ValueOutput
+Position 2	0	4194304	Value	ValueOutput
+Length 2	0	4194304	Value	ValueOutput
+Position 3	0	4194304	Value	ValueOutput
+Length 3	0	4194304	Value	ValueOutput
+Position 4	0	4194304	Value	ValueOutput
+Length 4	0	4194304	Value	ValueOutput
+Position 5	0	4194304	Value	ValueOutput
+Length 5	0	4194304	Value	ValueOutput
+Position 6	0	4194304	Value	ValueOutput
+Length 6	0	4194304	Value	ValueOutput
+Position 7	0	4194304	Value	ValueOutput
+Length 7	0	4194304	Value	ValueOutput
+Position 8	0	4194304	Value	ValueOutput
+Length 8	0	4194304	Value	ValueOutput
+Position 9	0	4194304	Value	ValueOutput
+Length 9	0	4194304	Value	ValueOutput
+Position 10	0	4194304	Value	ValueOutput
+Length 10	0	4194304	Value	ValueOutput
+Position 11	0	4194304	Value	ValueOutput
+Length 11	0	4194304	Value	ValueOutput
+Position 12	0	4194304	Value	ValueOutput
+Length 12	0	4194304	Value	ValueOutput
+Position 13	0	4194304	Value	ValueOutput
+Length 13	0	4194304	Value	ValueOutput
+Position 14	0	4194304	Value	ValueOutput
+Length 14	0	4194304	Value	ValueOutput
+Position 15	0	4194304	Value	ValueOutput
+Length 15	0	4194304	Value	ValueOutput
+Position 16	0	4194304	Value	ValueOutput
+Length 16	0	4194304	Value	ValueOutput
+Accent 1	0	4194304	Value	ValueOutput
+Accent 2	0	4194304	Value	ValueOutput
+Accent 3	0	4194304	Value	ValueOutput
+Accent 4	0	4194304	Value	ValueOutput
+Accent 5	0	4194304	Value	ValueOutput
+Accent 6	0	4194304	Value	ValueOutput
+Accent 7	0	4194304	Value	ValueOutput
+Accent 8	0	4194304	Value	ValueOutput
+Accent 9	0	4194304	Value	ValueOutput
+Accent 10	0	4194304	Value	ValueOutput
+Accent 11	0	4194304	Value	ValueOutput
+Accent 12	0	4194304	Value	ValueOutput
+Accent 13	0	4194304	Value	ValueOutput
+Accent 14	0	4194304	Value	ValueOutput
+Accent 15	0	4194304	Value	ValueOutput
+Accent 16	0	4194304	Value	ValueOutput
+Arp Active	0	4194304	Value	ValueOutput
+Arp Mode	0	4194304	Value	ValueOutput
+Arp Pattern	0	4194304	Value	ValueOutput
+Arp Maximum Notes	0	4194304	Value	ValueOutput
+Arp Clock	0	4194304	Value	ValueOutput
+Arp Length	0	4194304	Value	ValueOutput
+Arp Octave Range	0	4194304	Value	ValueOutput
+Arp Direction	0	4194304	Value	ValueOutput
+Arp Sort Order	0	4194304	Value	ValueOutput
+Arp Velocity Mode	0	4194304	Value	ValueOutput
+Arp Timing Factor	0	4194304	Value	ValueOutput
+Arp Same Note Overlap	0	4194304	Value	ValueOutput
+Arp Pattern Reset	0	4194304	Value	ValueOutput
+Arp Pattern Length	0	4194304	Value	ValueOutput
+Arp Tempo	0	4194304	Value	ValueOutput
+EQ Active	0	4194304	Value	ValueOutput
+EQ Low Frequency	0	4194304	Value	ValueOutput
+EQ Low Quality	0	4194304	Value	ValueOutput
+EQ Low Gain	0	4194304	Value	ValueOutput
+EQ Mid 1 Frequency	0	4194304	Value	ValueOutput
+EQ Mid 1 Quality	0	4194304	Value	ValueOutput
+EQ Mid 1 Gain	0	4194304	Value	ValueOutput
+EQ Mid 2 Frequency	0	4194304	Value	ValueOutput
+EQ Mid 2 Quality	0	4194304	Value	ValueOutput
+EQ Mid 2 Gain	0	4194304	Value	ValueOutput
+EQ High Frequency	0	4194304	Value	ValueOutput
+EQ High Quality	0	4194304	Value	ValueOutput
+EQ High Gain	0	4194304	Value	ValueOutput
+Category	0	4194304	Value	ValueOutput
+Category2	0	4194304	Value	ValueOutput
+Category3	0	4194304	Value	ValueOutput
+Category4	0	4194304	Value	ValueOutput
+Osc 1 Active	0	4194304	Value	ValueOutput
+Osc 1 Octave	0	4194304	Value	ValueOutput
+Osc 1 Semitone	0	4194304	Value	ValueOutput
+Osc 1 Detune	0	4194304	Value	ValueOutput
+Osc 1 Bend Range	0	4194304	Value	ValueOutput
+Osc 1 Keytrack	0	4194304	Value	ValueOutput
+Osc 1 FM Source	0	4194304	Value	ValueOutput
+Osc 1 FM Amount	0	4194304	Value	ValueOutput
+Osc 1 Shape	0	4194304	Value	ValueOutput
+Osc 1 Wave	0	4194304	Value	ValueOutput
+Osc 1 Wave Source	0	4194304	Value	ValueOutput
+Osc 1 Wave Amount	0	4194304	Value	ValueOutput
+Osc 1 Sub Osc Octave	0	4194304	Value	ValueOutput
+Osc 1 Sub Osc Level	0	4194304	Value	ValueOutput
+Osc 1 Limit Wavetable	0	4194304	Value	ValueOutput
+Osc 1 Startphase	0	4194304	Value	ValueOutput
+Osc 1 Brilliance	0	4194304	Value	ValueOutput
+Osc 2 Active	0	4194304	Value	ValueOutput
+Osc 2 Octave	0	4194304	Value	ValueOutput
+Osc 2 Semitone	0	4194304	Value	ValueOutput
+Osc 2 Detune	0	4194304	Value	ValueOutput
+Osc 2 Bend Range	0	4194304	Value	ValueOutput
+Osc 2 Keytrack	0	4194304	Value	ValueOutput
+Osc 2 FM Source	0	4194304	Value	ValueOutput
+Osc 2 FM Amount	0	4194304	Value	ValueOutput
+Osc 2 Shape	0	4194304	Value	ValueOutput
+Osc 2 Wave	0	4194304	Value	ValueOutput
+Osc 2 Wave Source	0	4194304	Value	ValueOutput
+Osc 2 Wave Amount	0	4194304	Value	ValueOutput
+Osc 2 Sub Osc Octave	0	4194304	Value	ValueOutput
+Osc 2 Sub Osc Level	0	4194304	Value	ValueOutput
+Osc 2 Limit Wavetable	0	4194304	Value	ValueOutput
+Osc 2 Startphase	0	4194304	Value	ValueOutput
+Osc 2 Brilliance	0	4194304	Value	ValueOutput
+Osc 3 Active	0	4194304	Value	ValueOutput
+Osc 3 Octave	0	4194304	Value	ValueOutput
+Osc 3 Semitone	0	4194304	Value	ValueOutput
+Osc 3 Detune	0	4194304	Value	ValueOutput
+Osc 3 Bend Range	0	4194304	Value	ValueOutput
+Osc 3 Keytrack	0	4194304	Value	ValueOutput
+Osc 3 FM Source	0	4194304	Value	ValueOutput
+Osc 3 FM Amount	0	4194304	Value	ValueOutput
+Osc 3 Shape	0	4194304	Value	ValueOutput
+Osc 3 Wave	0	4194304	Value	ValueOutput
+Osc 3 Wave Source	0	4194304	Value	ValueOutput
+Osc 3 Wave Amount	0	4194304	Value	ValueOutput
+Osc 3 Startphase	0	4194304	Value	ValueOutput
+Osc 3 Brilliance	0	4194304	Value	ValueOutput
+Osc 2 Sync To Osc 3	0	4194304	Value	ValueOutput
+Pitch Mod Source	0	4194304	Value	ValueOutput
+Pitch Mod Amount	0	4194304	Value	ValueOutput
+Glide Active	0	4194304	Value	ValueOutput
+Glide Steps	0	4194304	Value	ValueOutput
+Glide Mode	0	4194304	Value	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+Allocation	0	4194304	Value	ValueOutput
+Unisono Voices	0	4194304	Value	ValueOutput
+Unisono Detune	0	4194304	Value	ValueOutput
+Unisono Spread	0	4194304	Value	ValueOutput
+Osc 1 Level	0	4194304	Value	ValueOutput
+Osc 1 Balance	0	4194304	Value	ValueOutput
+Osc 2 Level	0	4194304	Value	ValueOutput
+Osc 2 Balance	0	4194304	Value	ValueOutput
+Osc 3 Level	0	4194304	Value	ValueOutput
+Osc 3 Balance	0	4194304	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+Noise Balance	0	4194304	Value	ValueOutput
+Noise Colour	0	4194304	Value	ValueOutput
+Ring Modulation	0	4194304	Value	ValueOutput
+Ring Mod Balance	0	4194304	Value	ValueOutput
+F1 Active	0	4194304	Value	ValueOutput
+F1 Type	0	4194304	Value	ValueOutput
+F1 Cutoff	0	4194304	Value	ValueOutput
+F1 Resonance	0	4194304	Value	ValueOutput
+F1 Level	0	4194304	Value	ValueOutput
+F1 Drive	0	4194304	Value	ValueOutput
+F1 Drive Curve	0	4194304	Value	ValueOutput
+F1 Keytrack	0	4194304	Value	ValueOutput
+F1 Envelope Amount	0	4194304	Value	ValueOutput
+F1 Envelope Velocity	0	4194304	Value	ValueOutput
+F1 Cutoff Mod Source	0	4194304	Value	ValueOutput
+F1 Cutoff Mod Amount	0	4194304	Value	ValueOutput
+F1 FM Source	0	4194304	Value	ValueOutput
+F1 FM Amount	0	4194304	Value	ValueOutput
+F1 Pan	0	4194304	Value	ValueOutput
+F1 Pan Mod Source	0	4194304	Value	ValueOutput
+F1 Pan Mod Amount	0	4194304	Value	ValueOutput
+F2 Active	0	4194304	Value	ValueOutput
+F2 Type	0	4194304	Value	ValueOutput
+F2 Cutoff	0	4194304	Value	ValueOutput
+F2 Resonance	0	4194304	Value	ValueOutput
+F2 Level	0	4194304	Value	ValueOutput
+F2 Drive	0	4194304	Value	ValueOutput
+F2 Drive Curve	0	4194304	Value	ValueOutput
+F2 Keytrack	0	4194304	Value	ValueOutput
+F2 Envelope Amount	0	4194304	Value	ValueOutput
+F2 Envelope Velocity	0	4194304	Value	ValueOutput
+F2 Cutoff Mod Source	0	4194304	Value	ValueOutput
+F2 Cutoff Mod Amount	0	4194304	Value	ValueOutput
+F2 FM Source	0	4194304	Value	ValueOutput
+F2 FM Amount	0	4194304	Value	ValueOutput
+F2 Pan	0	4194304	Value	ValueOutput
+F2 Pan Mod Source	0	4194304	Value	ValueOutput
+F2 Pan Mod Amount	0	4194304	Value	ValueOutput
+Filter Routing	0	4194304	Value	ValueOutput
+Bass Boost	0	4194304	Value	ValueOutput
+Part Active	0	4194304	Value	ValueOutput
+Part Volume	0	4194304	Value	ValueOutput
+Amp Velocity	0	4194304	Value	ValueOutput
+Amp Mod Source	0	4194304	Value	ValueOutput
+Amp Mod Amount	0	4194304	Value	ValueOutput
+FX1 Active	0	4194304	Value	ValueOutput
+FX1 Type	0	4194304	Value	ValueOutput
+FX1 Mix	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Polarity	0	4194304	Value	ValueOutput
+Stages	0	4194304	Value	ValueOutput
+FX2 Active	0	4194304	Value	ValueOutput
+FX2 Type	0	4194304	Value	ValueOutput
+FX2 Mix	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Low Pass	0	4194304	Value	ValueOutput
+High Pass	0	4194304	Value	ValueOutput
+Clock	0	4194304	Value	ValueOutput
+Polarity	0	4194304	Value	ValueOutput
+LFO1 Shape	0	4194304	Value	ValueOutput
+LFO1 Speed	0	4194304	Value	ValueOutput
+LFO1 Sync	0	4194304	Value	ValueOutput
+LFO1 Clock	0	4194304	Value	ValueOutput
+LFO1 Startphase	0	4194304	Value	ValueOutput
+LFO1 Delay	0	4194304	Value	ValueOutput
+LFO1 Fade	0	4194304	Value	ValueOutput
+LFO1 Keytrack	0	4194304	Value	ValueOutput
+LFO2 Shape	0	4194304	Value	ValueOutput
+LFO2 Speed	0	4194304	Value	ValueOutput
+LFO2 Sync	0	4194304	Value	ValueOutput
+LFO2 Clock	0	4194304	Value	ValueOutput
+LFO2 Startphase	0	4194304	Value	ValueOutput
+LFO2 Delay	0	4194304	Value	ValueOutput
+LFO2 Fade	0	4194304	Value	ValueOutput
+LFO2 Keytrack	0	4194304	Value	ValueOutput
+LFO3 Shape	0	4194304	Value	ValueOutput
+LFO3 Speed	0	4194304	Value	ValueOutput
+LFO3 Sync	0	4194304	Value	ValueOutput
+LFO3 Clock	0	4194304	Value	ValueOutput
+LFO3 Startphase	0	4194304	Value	ValueOutput
+LFO3 Delay	0	4194304	Value	ValueOutput
+LFO3 Fade	0	4194304	Value	ValueOutput
+LFO3 Keytrack	0	4194304	Value	ValueOutput
+LFO3 Step Count	0	4194304	Value	ValueOutput
+LFO3 Step 1	0	4194304	Value	ValueOutput
+LFO3 Step 2	0	4194304	Value	ValueOutput
+LFO3 Step 3	0	4194304	Value	ValueOutput
+LFO3 Step 4	0	4194304	Value	ValueOutput
+LFO3 Step 5	0	4194304	Value	ValueOutput
+LFO3 Step 6	0	4194304	Value	ValueOutput
+LFO3 Step 7	0	4194304	Value	ValueOutput
+LFO3 Step 8	0	4194304	Value	ValueOutput
+LFO3 Step 9	0	4194304	Value	ValueOutput
+LFO3 Step 10	0	4194304	Value	ValueOutput
+LFO3 Step 11	0	4194304	Value	ValueOutput
+LFO3 Step 12	0	4194304	Value	ValueOutput
+LFO3 Step 13	0	4194304	Value	ValueOutput
+LFO3 Step 14	0	4194304	Value	ValueOutput
+LFO3 Step 15	0	4194304	Value	ValueOutput
+LFO3 Step 16	0	4194304	Value	ValueOutput
+LFO3 Contour	0	4194304	Value	ValueOutput
+FE Mode	0	4194304	Value	ValueOutput
+FE Attack	0	4194304	Value	ValueOutput
+FE Attack Level	0	4194304	Value	ValueOutput
+FE Decay	0	4194304	Value	ValueOutput
+FE Sustain	0	4194304	Value	ValueOutput
+FE Decay 2	0	4194304	Value	ValueOutput
+FE Sustain 2	0	4194304	Value	ValueOutput
+FE Release	0	4194304	Value	ValueOutput
+FE Trigger	0	4194304	Value	ValueOutput
+AE Mode	0	4194304	Value	ValueOutput
+AE Attack	0	4194304	Value	ValueOutput
+AE Attack Level	0	4194304	Value	ValueOutput
+AE Decay	0	4194304	Value	ValueOutput
+AE Sustain	0	4194304	Value	ValueOutput
+AE Decay 2	0	4194304	Value	ValueOutput
+AE Sustain 2	0	4194304	Value	ValueOutput
+AE Release	0	4194304	Value	ValueOutput
+AE Trigger	0	4194304	Value	ValueOutput
+E3 Mode	0	4194304	Value	ValueOutput
+E3 Attack	0	4194304	Value	ValueOutput
+E3 Attack Level	0	4194304	Value	ValueOutput
+E3 Decay	0	4194304	Value	ValueOutput
+E3 Sustain	0	4194304	Value	ValueOutput
+E3 Decay 2	0	4194304	Value	ValueOutput
+E3 Sustain 2	0	4194304	Value	ValueOutput
+E3 Release	0	4194304	Value	ValueOutput
+E3 Trigger	0	4194304	Value	ValueOutput
+E4 Mode	0	4194304	Value	ValueOutput
+E4 Attack	0	4194304	Value	ValueOutput
+E4 Attack Level	0	4194304	Value	ValueOutput
+E4 Decay	0	4194304	Value	ValueOutput
+E4 Sustain	0	4194304	Value	ValueOutput
+E4 Decay 2	0	4194304	Value	ValueOutput
+E4 Sustain 2	0	4194304	Value	ValueOutput
+E4 Release	0	4194304	Value	ValueOutput
+E4 Trigger	0	4194304	Value	ValueOutput
+Modifier 1 Source A	0	4194304	Value	ValueOutput
+Modifier 1 Source B	0	4194304	Value	ValueOutput
+Modifier 1 Operand	0	4194304	Value	ValueOutput
+Modifier 1 Constant	0	4194304	Value	ValueOutput
+Modifier 2 Source A	0	4194304	Value	ValueOutput
+Modifier 2 Source B	0	4194304	Value	ValueOutput
+Modifier 2 Operand	0	4194304	Value	ValueOutput
+Modifier 2 Constant	0	4194304	Value	ValueOutput
+Modifier 3 Source A	0	4194304	Value	ValueOutput
+Modifier 3 Source B	0	4194304	Value	ValueOutput
+Modifier 3 Operand	0	4194304	Value	ValueOutput
+Modifier 3 Constant	0	4194304	Value	ValueOutput
+Modifier 4 Source A	0	4194304	Value	ValueOutput
+Modifier 4 Source B	0	4194304	Value	ValueOutput
+Modifier 4 Operand	0	4194304	Value	ValueOutput
+Modifier 4 Constant	0	4194304	Value	ValueOutput
+Modulation 1 Source	0	4194304	Value	ValueOutput
+Modulation 1 Destination	0	4194304	Value	ValueOutput
+Modulation 1 Amount	0	4194304	Value	ValueOutput
+Modulation 2 Source	0	4194304	Value	ValueOutput
+Modulation 2 Destination	0	4194304	Value	ValueOutput
+Modulation 2 Amount	0	4194304	Value	ValueOutput
+Modulation 3 Source	0	4194304	Value	ValueOutput
+Modulation 3 Destination	0	4194304	Value	ValueOutput
+Modulation 3 Amount	0	4194304	Value	ValueOutput
+Modulation 4 Source	0	4194304	Value	ValueOutput
+Modulation 4 Destination	0	4194304	Value	ValueOutput
+Modulation 4 Amount	0	4194304	Value	ValueOutput
+Modulation 5 Source	0	4194304	Value	ValueOutput
+Modulation 5 Destination	0	4194304	Value	ValueOutput
+Modulation 5 Amount	0	4194304	Value	ValueOutput
+Modulation 6 Source	0	4194304	Value	ValueOutput
+Modulation 6 Destination	0	4194304	Value	ValueOutput
+Modulation 6 Amount	0	4194304	Value	ValueOutput
+Modulation 7 Source	0	4194304	Value	ValueOutput
+Modulation 7 Destination	0	4194304	Value	ValueOutput
+Modulation 7 Amount	0	4194304	Value	ValueOutput
+Modulation 8 Source	0	4194304	Value	ValueOutput
+Modulation 8 Destination	0	4194304	Value	ValueOutput
+Modulation 8 Amount	0	4194304	Value	ValueOutput
+Modulation 9 Source	0	4194304	Value	ValueOutput
+Modulation 9 Destination	0	4194304	Value	ValueOutput
+Modulation 9 Amount	0	4194304	Value	ValueOutput
+Modulation 10 Source	0	4194304	Value	ValueOutput
+Modulation 10 Destinatio	0	4194304	Value	ValueOutput
+Modulation 10 Amount	0	4194304	Value	ValueOutput
+Modulation 11 Source	0	4194304	Value	ValueOutput
+Modulation 11 Destinatio	0	4194304	Value	ValueOutput
+Modulation 11 Amount	0	4194304	Value	ValueOutput
+Modulation 12 Source	0	4194304	Value	ValueOutput
+Modulation 12 Destinatio	0	4194304	Value	ValueOutput
+Modulation 12 Amount	0	4194304	Value	ValueOutput
+Modulation 13 Source	0	4194304	Value	ValueOutput
+Modulation 13 Destinatio	0	4194304	Value	ValueOutput
+Modulation 13 Amount	0	4194304	Value	ValueOutput
+Modulation 14 Source	0	4194304	Value	ValueOutput
+Modulation 14 Destinatio	0	4194304	Value	ValueOutput
+Modulation 14 Amount	0	4194304	Value	ValueOutput
+Modulation 15 Source	0	4194304	Value	ValueOutput
+Modulation 15 Destinatio	0	4194304	Value	ValueOutput
+Modulation 15 Amount	0	4194304	Value	ValueOutput
+Modulation 16 Source	0	4194304	Value	ValueOutput
+Modulation 16 Destinatio	0	4194304	Value	ValueOutput
+Modulation 16 Amount	0	4194304	Value	ValueOutput
+Arp Step 1	0	4194304	Value	ValueOutput
+Arp Step 2	0	4194304	Value	ValueOutput
+Arp Step 3	0	4194304	Value	ValueOutput
+Arp Step 4	0	4194304	Value	ValueOutput
+Arp Step 5	0	4194304	Value	ValueOutput
+Arp Step 6	0	4194304	Value	ValueOutput
+Arp Step 7	0	4194304	Value	ValueOutput
+Arp Step 8	0	4194304	Value	ValueOutput
+Arp Step 9	0	4194304	Value	ValueOutput
+Arp Step 10	0	4194304	Value	ValueOutput
+Arp Step 11	0	4194304	Value	ValueOutput
+Arp Step 12	0	4194304	Value	ValueOutput
+Arp Step 13	0	4194304	Value	ValueOutput
+Arp Step 14	0	4194304	Value	ValueOutput
+Arp Step 15	0	4194304	Value	ValueOutput
+Arp Step 16	0	4194304	Value	ValueOutput
+Glide 1	0	4194304	Value	ValueOutput
+Glide 2	0	4194304	Value	ValueOutput
+Glide 3	0	4194304	Value	ValueOutput
+Glide 4	0	4194304	Value	ValueOutput
+Glide 5	0	4194304	Value	ValueOutput
+Glide 6	0	4194304	Value	ValueOutput
+Glide 7	0	4194304	Value	ValueOutput
+Glide 8	0	4194304	Value	ValueOutput
+Glide 9	0	4194304	Value	ValueOutput
+Glide 10	0	4194304	Value	ValueOutput
+Glide 11	0	4194304	Value	ValueOutput
+Glide 12	0	4194304	Value	ValueOutput
+Glide 13	0	4194304	Value	ValueOutput
+Glide 14	0	4194304	Value	ValueOutput
+Glide 15	0	4194304	Value	ValueOutput
+Glide 16	0	4194304	Value	ValueOutput
+Position 1	0	4194304	Value	ValueOutput
+Length 1	0	4194304	Value	ValueOutput
+Position 2	0	4194304	Value	ValueOutput
+Length 2	0	4194304	Value	ValueOutput
+Position 3	0	4194304	Value	ValueOutput
+Length 3	0	4194304	Value	ValueOutput
+Position 4	0	4194304	Value	ValueOutput
+Length 4	0	4194304	Value	ValueOutput
+Position 5	0	4194304	Value	ValueOutput
+Length 5	0	4194304	Value	ValueOutput
+Position 6	0	4194304	Value	ValueOutput
+Length 6	0	4194304	Value	ValueOutput
+Position 7	0	4194304	Value	ValueOutput
+Length 7	0	4194304	Value	ValueOutput
+Position 8	0	4194304	Value	ValueOutput
+Length 8	0	4194304	Value	ValueOutput
+Position 9	0	4194304	Value	ValueOutput
+Length 9	0	4194304	Value	ValueOutput
+Position 10	0	4194304	Value	ValueOutput
+Length 10	0	4194304	Value	ValueOutput
+Position 11	0	4194304	Value	ValueOutput
+Length 11	0	4194304	Value	ValueOutput
+Position 12	0	4194304	Value	ValueOutput
+Length 12	0	4194304	Value	ValueOutput
+Position 13	0	4194304	Value	ValueOutput
+Length 13	0	4194304	Value	ValueOutput
+Position 14	0	4194304	Value	ValueOutput
+Length 14	0	4194304	Value	ValueOutput
+Position 15	0	4194304	Value	ValueOutput
+Length 15	0	4194304	Value	ValueOutput
+Position 16	0	4194304	Value	ValueOutput
+Length 16	0	4194304	Value	ValueOutput
+Accent 1	0	4194304	Value	ValueOutput
+Accent 2	0	4194304	Value	ValueOutput
+Accent 3	0	4194304	Value	ValueOutput
+Accent 4	0	4194304	Value	ValueOutput
+Accent 5	0	4194304	Value	ValueOutput
+Accent 6	0	4194304	Value	ValueOutput
+Accent 7	0	4194304	Value	ValueOutput
+Accent 8	0	4194304	Value	ValueOutput
+Accent 9	0	4194304	Value	ValueOutput
+Accent 10	0	4194304	Value	ValueOutput
+Accent 11	0	4194304	Value	ValueOutput
+Accent 12	0	4194304	Value	ValueOutput
+Accent 13	0	4194304	Value	ValueOutput
+Accent 14	0	4194304	Value	ValueOutput
+Accent 15	0	4194304	Value	ValueOutput
+Accent 16	0	4194304	Value	ValueOutput
+Arp Active	0	4194304	Value	ValueOutput
+Arp Mode	0	4194304	Value	ValueOutput
+Arp Pattern	0	4194304	Value	ValueOutput
+Arp Maximum Notes	0	4194304	Value	ValueOutput
+Arp Clock	0	4194304	Value	ValueOutput
+Arp Length	0	4194304	Value	ValueOutput
+Arp Octave Range	0	4194304	Value	ValueOutput
+Arp Direction	0	4194304	Value	ValueOutput
+Arp Sort Order	0	4194304	Value	ValueOutput
+Arp Velocity Mode	0	4194304	Value	ValueOutput
+Arp Timing Factor	0	4194304	Value	ValueOutput
+Arp Same Note Overlap	0	4194304	Value	ValueOutput
+Arp Pattern Reset	0	4194304	Value	ValueOutput
+Arp Pattern Length	0	4194304	Value	ValueOutput
+Arp Tempo	0	4194304	Value	ValueOutput
+EQ Active	0	4194304	Value	ValueOutput
+EQ Low Frequency	0	4194304	Value	ValueOutput
+EQ Low Quality	0	4194304	Value	ValueOutput
+EQ Low Gain	0	4194304	Value	ValueOutput
+EQ Mid 1 Frequency	0	4194304	Value	ValueOutput
+EQ Mid 1 Quality	0	4194304	Value	ValueOutput
+EQ Mid 1 Gain	0	4194304	Value	ValueOutput
+EQ Mid 2 Frequency	0	4194304	Value	ValueOutput
+EQ Mid 2 Quality	0	4194304	Value	ValueOutput
+EQ Mid 2 Gain	0	4194304	Value	ValueOutput
+EQ High Frequency	0	4194304	Value	ValueOutput
+EQ High Quality	0	4194304	Value	ValueOutput
+EQ High Gain	0	4194304	Value	ValueOutput
+Category	0	4194304	Value	ValueOutput
+Category2	0	4194304	Value	ValueOutput
+Category3	0	4194304	Value	ValueOutput
+Category4	0	4194304	Value	ValueOutput
+Osc 1 Active	0	4194304	Value	ValueOutput
+Osc 1 Octave	0	4194304	Value	ValueOutput
+Osc 1 Semitone	0	4194304	Value	ValueOutput
+Osc 1 Detune	0	4194304	Value	ValueOutput
+Osc 1 Bend Range	0	4194304	Value	ValueOutput
+Osc 1 Keytrack	0	4194304	Value	ValueOutput
+Osc 1 FM Source	0	4194304	Value	ValueOutput
+Osc 1 FM Amount	0	4194304	Value	ValueOutput
+Osc 1 Shape	0	4194304	Value	ValueOutput
+Osc 1 Wave	0	4194304	Value	ValueOutput
+Osc 1 Wave Source	0	4194304	Value	ValueOutput
+Osc 1 Wave Amount	0	4194304	Value	ValueOutput
+Osc 1 Sub Osc Octave	0	4194304	Value	ValueOutput
+Osc 1 Sub Osc Level	0	4194304	Value	ValueOutput
+Osc 1 Limit Wavetable	0	4194304	Value	ValueOutput
+Osc 1 Startphase	0	4194304	Value	ValueOutput
+Osc 1 Brilliance	0	4194304	Value	ValueOutput
+Osc 2 Active	0	4194304	Value	ValueOutput
+Osc 2 Octave	0	4194304	Value	ValueOutput
+Osc 2 Semitone	0	4194304	Value	ValueOutput
+Osc 2 Detune	0	4194304	Value	ValueOutput
+Osc 2 Bend Range	0	4194304	Value	ValueOutput
+Osc 2 Keytrack	0	4194304	Value	ValueOutput
+Osc 2 FM Source	0	4194304	Value	ValueOutput
+Osc 2 FM Amount	0	4194304	Value	ValueOutput
+Osc 2 Shape	0	4194304	Value	ValueOutput
+Osc 2 Wave	0	4194304	Value	ValueOutput
+Osc 2 Wave Source	0	4194304	Value	ValueOutput
+Osc 2 Wave Amount	0	4194304	Value	ValueOutput
+Osc 2 Sub Osc Octave	0	4194304	Value	ValueOutput
+Osc 2 Sub Osc Level	0	4194304	Value	ValueOutput
+Osc 2 Limit Wavetable	0	4194304	Value	ValueOutput
+Osc 2 Startphase	0	4194304	Value	ValueOutput
+Osc 2 Brilliance	0	4194304	Value	ValueOutput
+Osc 3 Active	0	4194304	Value	ValueOutput
+Osc 3 Octave	0	4194304	Value	ValueOutput
+Osc 3 Semitone	0	4194304	Value	ValueOutput
+Osc 3 Detune	0	4194304	Value	ValueOutput
+Osc 3 Bend Range	0	4194304	Value	ValueOutput
+Osc 3 Keytrack	0	4194304	Value	ValueOutput
+Osc 3 FM Source	0	4194304	Value	ValueOutput
+Osc 3 FM Amount	0	4194304	Value	ValueOutput
+Osc 3 Shape	0	4194304	Value	ValueOutput
+Osc 3 Wave	0	4194304	Value	ValueOutput
+Osc 3 Wave Source	0	4194304	Value	ValueOutput
+Osc 3 Wave Amount	0	4194304	Value	ValueOutput
+Osc 3 Startphase	0	4194304	Value	ValueOutput
+Osc 3 Brilliance	0	4194304	Value	ValueOutput
+Osc 2 Sync To Osc 3	0	4194304	Value	ValueOutput
+Pitch Mod Source	0	4194304	Value	ValueOutput
+Pitch Mod Amount	0	4194304	Value	ValueOutput
+Glide Active	0	4194304	Value	ValueOutput
+Glide Steps	0	4194304	Value	ValueOutput
+Glide Mode	0	4194304	Value	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+Allocation	0	4194304	Value	ValueOutput
+Unisono Voices	0	4194304	Value	ValueOutput
+Unisono Detune	0	4194304	Value	ValueOutput
+Unisono Spread	0	4194304	Value	ValueOutput
+Osc 1 Level	0	4194304	Value	ValueOutput
+Osc 1 Balance	0	4194304	Value	ValueOutput
+Osc 2 Level	0	4194304	Value	ValueOutput
+Osc 2 Balance	0	4194304	Value	ValueOutput
+Osc 3 Level	0	4194304	Value	ValueOutput
+Osc 3 Balance	0	4194304	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+Noise Balance	0	4194304	Value	ValueOutput
+Noise Colour	0	4194304	Value	ValueOutput
+Ring Modulation	0	4194304	Value	ValueOutput
+Ring Mod Balance	0	4194304	Value	ValueOutput
+F1 Active	0	4194304	Value	ValueOutput
+F1 Type	0	4194304	Value	ValueOutput
+F1 Cutoff	0	4194304	Value	ValueOutput
+F1 Resonance	0	4194304	Value	ValueOutput
+F1 Level	0	4194304	Value	ValueOutput
+F1 Drive	0	4194304	Value	ValueOutput
+F1 Drive Curve	0	4194304	Value	ValueOutput
+F1 Keytrack	0	4194304	Value	ValueOutput
+F1 Envelope Amount	0	4194304	Value	ValueOutput
+F1 Envelope Velocity	0	4194304	Value	ValueOutput
+F1 Cutoff Mod Source	0	4194304	Value	ValueOutput
+F1 Cutoff Mod Amount	0	4194304	Value	ValueOutput
+F1 FM Source	0	4194304	Value	ValueOutput
+F1 FM Amount	0	4194304	Value	ValueOutput
+F1 Pan	0	4194304	Value	ValueOutput
+F1 Pan Mod Source	0	4194304	Value	ValueOutput
+F1 Pan Mod Amount	0	4194304	Value	ValueOutput
+F2 Active	0	4194304	Value	ValueOutput
+F2 Type	0	4194304	Value	ValueOutput
+F2 Cutoff	0	4194304	Value	ValueOutput
+F2 Resonance	0	4194304	Value	ValueOutput
+F2 Level	0	4194304	Value	ValueOutput
+F2 Drive	0	4194304	Value	ValueOutput
+F2 Drive Curve	0	4194304	Value	ValueOutput
+F2 Keytrack	0	4194304	Value	ValueOutput
+F2 Envelope Amount	0	4194304	Value	ValueOutput
+F2 Envelope Velocity	0	4194304	Value	ValueOutput
+F2 Cutoff Mod Source	0	4194304	Value	ValueOutput
+F2 Cutoff Mod Amount	0	4194304	Value	ValueOutput
+F2 FM Source	0	4194304	Value	ValueOutput
+F2 FM Amount	0	4194304	Value	ValueOutput
+F2 Pan	0	4194304	Value	ValueOutput
+F2 Pan Mod Source	0	4194304	Value	ValueOutput
+F2 Pan Mod Amount	0	4194304	Value	ValueOutput
+Filter Routing	0	4194304	Value	ValueOutput
+Bass Boost	0	4194304	Value	ValueOutput
+Part Active	0	4194304	Value	ValueOutput
+Part Volume	0	4194304	Value	ValueOutput
+Amp Velocity	0	4194304	Value	ValueOutput
+Amp Mod Source	0	4194304	Value	ValueOutput
+Amp Mod Amount	0	4194304	Value	ValueOutput
+FX1 Active	0	4194304	Value	ValueOutput
+FX1 Type	0	4194304	Value	ValueOutput
+FX1 Mix	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Polarity	0	4194304	Value	ValueOutput
+Stages	0	4194304	Value	ValueOutput
+FX2 Active	0	4194304	Value	ValueOutput
+FX2 Type	0	4194304	Value	ValueOutput
+FX2 Mix	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Low Pass	0	4194304	Value	ValueOutput
+High Pass	0	4194304	Value	ValueOutput
+Clock	0	4194304	Value	ValueOutput
+Polarity	0	4194304	Value	ValueOutput
+LFO1 Shape	0	4194304	Value	ValueOutput
+LFO1 Speed	0	4194304	Value	ValueOutput
+LFO1 Sync	0	4194304	Value	ValueOutput
+LFO1 Clock	0	4194304	Value	ValueOutput
+LFO1 Startphase	0	4194304	Value	ValueOutput
+LFO1 Delay	0	4194304	Value	ValueOutput
+LFO1 Fade	0	4194304	Value	ValueOutput
+LFO1 Keytrack	0	4194304	Value	ValueOutput
+LFO2 Shape	0	4194304	Value	ValueOutput
+LFO2 Speed	0	4194304	Value	ValueOutput
+LFO2 Sync	0	4194304	Value	ValueOutput
+LFO2 Clock	0	4194304	Value	ValueOutput
+LFO2 Startphase	0	4194304	Value	ValueOutput
+LFO2 Delay	0	4194304	Value	ValueOutput
+LFO2 Fade	0	4194304	Value	ValueOutput
+LFO2 Keytrack	0	4194304	Value	ValueOutput
+LFO3 Shape	0	4194304	Value	ValueOutput
+LFO3 Speed	0	4194304	Value	ValueOutput
+LFO3 Sync	0	4194304	Value	ValueOutput
+LFO3 Clock	0	4194304	Value	ValueOutput
+LFO3 Startphase	0	4194304	Value	ValueOutput
+LFO3 Delay	0	4194304	Value	ValueOutput
+LFO3 Fade	0	4194304	Value	ValueOutput
+LFO3 Keytrack	0	4194304	Value	ValueOutput
+LFO3 Step Count	0	4194304	Value	ValueOutput
+LFO3 Step 1	0	4194304	Value	ValueOutput
+LFO3 Step 2	0	4194304	Value	ValueOutput
+LFO3 Step 3	0	4194304	Value	ValueOutput
+LFO3 Step 4	0	4194304	Value	ValueOutput
+LFO3 Step 5	0	4194304	Value	ValueOutput
+LFO3 Step 6	0	4194304	Value	ValueOutput
+LFO3 Step 7	0	4194304	Value	ValueOutput
+LFO3 Step 8	0	4194304	Value	ValueOutput
+LFO3 Step 9	0	4194304	Value	ValueOutput
+LFO3 Step 10	0	4194304	Value	ValueOutput
+LFO3 Step 11	0	4194304	Value	ValueOutput
+LFO3 Step 12	0	4194304	Value	ValueOutput
+LFO3 Step 13	0	4194304	Value	ValueOutput
+LFO3 Step 14	0	4194304	Value	ValueOutput
+LFO3 Step 15	0	4194304	Value	ValueOutput
+LFO3 Step 16	0	4194304	Value	ValueOutput
+LFO3 Contour	0	4194304	Value	ValueOutput
+FE Mode	0	4194304	Value	ValueOutput
+FE Attack	0	4194304	Value	ValueOutput
+FE Attack Level	0	4194304	Value	ValueOutput
+FE Decay	0	4194304	Value	ValueOutput
+FE Sustain	0	4194304	Value	ValueOutput
+FE Decay 2	0	4194304	Value	ValueOutput
+FE Sustain 2	0	4194304	Value	ValueOutput
+FE Release	0	4194304	Value	ValueOutput
+FE Trigger	0	4194304	Value	ValueOutput
+AE Mode	0	4194304	Value	ValueOutput
+AE Attack	0	4194304	Value	ValueOutput
+AE Attack Level	0	4194304	Value	ValueOutput
+AE Decay	0	4194304	Value	ValueOutput
+AE Sustain	0	4194304	Value	ValueOutput
+AE Decay 2	0	4194304	Value	ValueOutput
+AE Sustain 2	0	4194304	Value	ValueOutput
+AE Release	0	4194304	Value	ValueOutput
+AE Trigger	0	4194304	Value	ValueOutput
+E3 Mode	0	4194304	Value	ValueOutput
+E3 Attack	0	4194304	Value	ValueOutput
+E3 Attack Level	0	4194304	Value	ValueOutput
+E3 Decay	0	4194304	Value	ValueOutput
+E3 Sustain	0	4194304	Value	ValueOutput
+E3 Decay 2	0	4194304	Value	ValueOutput
+E3 Sustain 2	0	4194304	Value	ValueOutput
+E3 Release	0	4194304	Value	ValueOutput
+E3 Trigger	0	4194304	Value	ValueOutput
+E4 Mode	0	4194304	Value	ValueOutput
+E4 Attack	0	4194304	Value	ValueOutput
+E4 Attack Level	0	4194304	Value	ValueOutput
+E4 Decay	0	4194304	Value	ValueOutput
+E4 Sustain	0	4194304	Value	ValueOutput
+E4 Decay 2	0	4194304	Value	ValueOutput
+E4 Sustain 2	0	4194304	Value	ValueOutput
+E4 Release	0	4194304	Value	ValueOutput
+E4 Trigger	0	4194304	Value	ValueOutput
+Modifier 1 Source A	0	4194304	Value	ValueOutput
+Modifier 1 Source B	0	4194304	Value	ValueOutput
+Modifier 1 Operand	0	4194304	Value	ValueOutput
+Modifier 1 Constant	0	4194304	Value	ValueOutput
+Modifier 2 Source A	0	4194304	Value	ValueOutput
+Modifier 2 Source B	0	4194304	Value	ValueOutput
+Modifier 2 Operand	0	4194304	Value	ValueOutput
+Modifier 2 Constant	0	4194304	Value	ValueOutput
+Modifier 3 Source A	0	4194304	Value	ValueOutput
+Modifier 3 Source B	0	4194304	Value	ValueOutput
+Modifier 3 Operand	0	4194304	Value	ValueOutput
+Modifier 3 Constant	0	4194304	Value	ValueOutput
+Modifier 4 Source A	0	4194304	Value	ValueOutput
+Modifier 4 Source B	0	4194304	Value	ValueOutput
+Modifier 4 Operand	0	4194304	Value	ValueOutput
+Modifier 4 Constant	0	4194304	Value	ValueOutput
+Modulation 1 Source	0	4194304	Value	ValueOutput
+Modulation 1 Destination	0	4194304	Value	ValueOutput
+Modulation 1 Amount	0	4194304	Value	ValueOutput
+Modulation 2 Source	0	4194304	Value	ValueOutput
+Modulation 2 Destination	0	4194304	Value	ValueOutput
+Modulation 2 Amount	0	4194304	Value	ValueOutput
+Modulation 3 Source	0	4194304	Value	ValueOutput
+Modulation 3 Destination	0	4194304	Value	ValueOutput
+Modulation 3 Amount	0	4194304	Value	ValueOutput
+Modulation 4 Source	0	4194304	Value	ValueOutput
+Modulation 4 Destination	0	4194304	Value	ValueOutput
+Modulation 4 Amount	0	4194304	Value	ValueOutput
+Modulation 5 Source	0	4194304	Value	ValueOutput
+Modulation 5 Destination	0	4194304	Value	ValueOutput
+Modulation 5 Amount	0	4194304	Value	ValueOutput
+Modulation 6 Source	0	4194304	Value	ValueOutput
+Modulation 6 Destination	0	4194304	Value	ValueOutput
+Modulation 6 Amount	0	4194304	Value	ValueOutput
+Modulation 7 Source	0	4194304	Value	ValueOutput
+Modulation 7 Destination	0	4194304	Value	ValueOutput
+Modulation 7 Amount	0	4194304	Value	ValueOutput
+Modulation 8 Source	0	4194304	Value	ValueOutput
+Modulation 8 Destination	0	4194304	Value	ValueOutput
+Modulation 8 Amount	0	4194304	Value	ValueOutput
+Modulation 9 Source	0	4194304	Value	ValueOutput
+Modulation 9 Destination	0	4194304	Value	ValueOutput
+Modulation 9 Amount	0	4194304	Value	ValueOutput
+Modulation 10 Source	0	4194304	Value	ValueOutput
+Modulation 10 Destinatio	0	4194304	Value	ValueOutput
+Modulation 10 Amount	0	4194304	Value	ValueOutput
+Modulation 11 Source	0	4194304	Value	ValueOutput
+Modulation 11 Destinatio	0	4194304	Value	ValueOutput
+Modulation 11 Amount	0	4194304	Value	ValueOutput
+Modulation 12 Source	0	4194304	Value	ValueOutput
+Modulation 12 Destinatio	0	4194304	Value	ValueOutput
+Modulation 12 Amount	0	4194304	Value	ValueOutput
+Modulation 13 Source	0	4194304	Value	ValueOutput
+Modulation 13 Destinatio	0	4194304	Value	ValueOutput
+Modulation 13 Amount	0	4194304	Value	ValueOutput
+Modulation 14 Source	0	4194304	Value	ValueOutput
+Modulation 14 Destinatio	0	4194304	Value	ValueOutput
+Modulation 14 Amount	0	4194304	Value	ValueOutput
+Modulation 15 Source	0	4194304	Value	ValueOutput
+Modulation 15 Destinatio	0	4194304	Value	ValueOutput
+Modulation 15 Amount	0	4194304	Value	ValueOutput
+Modulation 16 Source	0	4194304	Value	ValueOutput
+Modulation 16 Destinatio	0	4194304	Value	ValueOutput
+Modulation 16 Amount	0	4194304	Value	ValueOutput
+Arp Step 1	0	4194304	Value	ValueOutput
+Arp Step 2	0	4194304	Value	ValueOutput
+Arp Step 3	0	4194304	Value	ValueOutput
+Arp Step 4	0	4194304	Value	ValueOutput
+Arp Step 5	0	4194304	Value	ValueOutput
+Arp Step 6	0	4194304	Value	ValueOutput
+Arp Step 7	0	4194304	Value	ValueOutput
+Arp Step 8	0	4194304	Value	ValueOutput
+Arp Step 9	0	4194304	Value	ValueOutput
+Arp Step 10	0	4194304	Value	ValueOutput
+Arp Step 11	0	4194304	Value	ValueOutput
+Arp Step 12	0	4194304	Value	ValueOutput
+Arp Step 13	0	4194304	Value	ValueOutput
+Arp Step 14	0	4194304	Value	ValueOutput
+Arp Step 15	0	4194304	Value	ValueOutput
+Arp Step 16	0	4194304	Value	ValueOutput
+Glide 1	0	4194304	Value	ValueOutput
+Glide 2	0	4194304	Value	ValueOutput
+Glide 3	0	4194304	Value	ValueOutput
+Glide 4	0	4194304	Value	ValueOutput
+Glide 5	0	4194304	Value	ValueOutput
+Glide 6	0	4194304	Value	ValueOutput
+Glide 7	0	4194304	Value	ValueOutput
+Glide 8	0	4194304	Value	ValueOutput
+Glide 9	0	4194304	Value	ValueOutput
+Glide 10	0	4194304	Value	ValueOutput
+Glide 11	0	4194304	Value	ValueOutput
+Glide 12	0	4194304	Value	ValueOutput
+Glide 13	0	4194304	Value	ValueOutput
+Glide 14	0	4194304	Value	ValueOutput
+Glide 15	0	4194304	Value	ValueOutput
+Glide 16	0	4194304	Value	ValueOutput
+Position 1	0	4194304	Value	ValueOutput
+Length 1	0	4194304	Value	ValueOutput
+Position 2	0	4194304	Value	ValueOutput
+Length 2	0	4194304	Value	ValueOutput
+Position 3	0	4194304	Value	ValueOutput
+Length 3	0	4194304	Value	ValueOutput
+Position 4	0	4194304	Value	ValueOutput
+Length 4	0	4194304	Value	ValueOutput
+Position 5	0	4194304	Value	ValueOutput
+Length 5	0	4194304	Value	ValueOutput
+Position 6	0	4194304	Value	ValueOutput
+Length 6	0	4194304	Value	ValueOutput
+Position 7	0	4194304	Value	ValueOutput
+Length 7	0	4194304	Value	ValueOutput
+Position 8	0	4194304	Value	ValueOutput
+Length 8	0	4194304	Value	ValueOutput
+Position 9	0	4194304	Value	ValueOutput
+Length 9	0	4194304	Value	ValueOutput
+Position 10	0	4194304	Value	ValueOutput
+Length 10	0	4194304	Value	ValueOutput
+Position 11	0	4194304	Value	ValueOutput
+Length 11	0	4194304	Value	ValueOutput
+Position 12	0	4194304	Value	ValueOutput
+Length 12	0	4194304	Value	ValueOutput
+Position 13	0	4194304	Value	ValueOutput
+Length 13	0	4194304	Value	ValueOutput
+Position 14	0	4194304	Value	ValueOutput
+Length 14	0	4194304	Value	ValueOutput
+Position 15	0	4194304	Value	ValueOutput
+Length 15	0	4194304	Value	ValueOutput
+Position 16	0	4194304	Value	ValueOutput
+Length 16	0	4194304	Value	ValueOutput
+Accent 1	0	4194304	Value	ValueOutput
+Accent 2	0	4194304	Value	ValueOutput
+Accent 3	0	4194304	Value	ValueOutput
+Accent 4	0	4194304	Value	ValueOutput
+Accent 5	0	4194304	Value	ValueOutput
+Accent 6	0	4194304	Value	ValueOutput
+Accent 7	0	4194304	Value	ValueOutput
+Accent 8	0	4194304	Value	ValueOutput
+Accent 9	0	4194304	Value	ValueOutput
+Accent 10	0	4194304	Value	ValueOutput
+Accent 11	0	4194304	Value	ValueOutput
+Accent 12	0	4194304	Value	ValueOutput
+Accent 13	0	4194304	Value	ValueOutput
+Accent 14	0	4194304	Value	ValueOutput
+Accent 15	0	4194304	Value	ValueOutput
+Accent 16	0	4194304	Value	ValueOutput
+Arp Active	0	4194304	Value	ValueOutput
+Arp Mode	0	4194304	Value	ValueOutput
+Arp Pattern	0	4194304	Value	ValueOutput
+Arp Maximum Notes	0	4194304	Value	ValueOutput
+Arp Clock	0	4194304	Value	ValueOutput
+Arp Length	0	4194304	Value	ValueOutput
+Arp Octave Range	0	4194304	Value	ValueOutput
+Arp Direction	0	4194304	Value	ValueOutput
+Arp Sort Order	0	4194304	Value	ValueOutput
+Arp Velocity Mode	0	4194304	Value	ValueOutput
+Arp Timing Factor	0	4194304	Value	ValueOutput
+Arp Same Note Overlap	0	4194304	Value	ValueOutput
+Arp Pattern Reset	0	4194304	Value	ValueOutput
+Arp Pattern Length	0	4194304	Value	ValueOutput
+Arp Tempo	0	4194304	Value	ValueOutput
+EQ Active	0	4194304	Value	ValueOutput
+EQ Low Frequency	0	4194304	Value	ValueOutput
+EQ Low Quality	0	4194304	Value	ValueOutput
+EQ Low Gain	0	4194304	Value	ValueOutput
+EQ Mid 1 Frequency	0	4194304	Value	ValueOutput
+EQ Mid 1 Quality	0	4194304	Value	ValueOutput
+EQ Mid 1 Gain	0	4194304	Value	ValueOutput
+EQ Mid 2 Frequency	0	4194304	Value	ValueOutput
+EQ Mid 2 Quality	0	4194304	Value	ValueOutput
+EQ Mid 2 Gain	0	4194304	Value	ValueOutput
+EQ High Frequency	0	4194304	Value	ValueOutput
+EQ High Quality	0	4194304	Value	ValueOutput
+EQ High Gain	0	4194304	Value	ValueOutput
+Category	0	4194304	Value	ValueOutput
+Category2	0	4194304	Value	ValueOutput
+Category3	0	4194304	Value	ValueOutput
+Category4	0	4194304	Value	ValueOutput
+Osc 1 Active	0	4194304	Value	ValueOutput
+Osc 1 Octave	0	4194304	Value	ValueOutput
+Osc 1 Semitone	0	4194304	Value	ValueOutput
+Osc 1 Detune	0	4194304	Value	ValueOutput
+Osc 1 Bend Range	0	4194304	Value	ValueOutput
+Osc 1 Keytrack	0	4194304	Value	ValueOutput
+Osc 1 FM Source	0	4194304	Value	ValueOutput
+Osc 1 FM Amount	0	4194304	Value	ValueOutput
+Osc 1 Shape	0	4194304	Value	ValueOutput
+Osc 1 Wave	0	4194304	Value	ValueOutput
+Osc 1 Wave Source	0	4194304	Value	ValueOutput
+Osc 1 Wave Amount	0	4194304	Value	ValueOutput
+Osc 1 Sub Osc Octave	0	4194304	Value	ValueOutput
+Osc 1 Sub Osc Level	0	4194304	Value	ValueOutput
+Osc 1 Limit Wavetable	0	4194304	Value	ValueOutput
+Osc 1 Startphase	0	4194304	Value	ValueOutput
+Osc 1 Brilliance	0	4194304	Value	ValueOutput
+Osc 2 Active	0	4194304	Value	ValueOutput
+Osc 2 Octave	0	4194304	Value	ValueOutput
+Osc 2 Semitone	0	4194304	Value	ValueOutput
+Osc 2 Detune	0	4194304	Value	ValueOutput
+Osc 2 Bend Range	0	4194304	Value	ValueOutput
+Osc 2 Keytrack	0	4194304	Value	ValueOutput
+Osc 2 FM Source	0	4194304	Value	ValueOutput
+Osc 2 FM Amount	0	4194304	Value	ValueOutput
+Osc 2 Shape	0	4194304	Value	ValueOutput
+Osc 2 Wave	0	4194304	Value	ValueOutput
+Osc 2 Wave Source	0	4194304	Value	ValueOutput
+Osc 2 Wave Amount	0	4194304	Value	ValueOutput
+Osc 2 Sub Osc Octave	0	4194304	Value	ValueOutput
+Osc 2 Sub Osc Level	0	4194304	Value	ValueOutput
+Osc 2 Limit Wavetable	0	4194304	Value	ValueOutput
+Osc 2 Startphase	0	4194304	Value	ValueOutput
+Osc 2 Brilliance	0	4194304	Value	ValueOutput
+Osc 3 Active	0	4194304	Value	ValueOutput
+Osc 3 Octave	0	4194304	Value	ValueOutput
+Osc 3 Semitone	0	4194304	Value	ValueOutput
+Osc 3 Detune	0	4194304	Value	ValueOutput
+Osc 3 Bend Range	0	4194304	Value	ValueOutput
+Osc 3 Keytrack	0	4194304	Value	ValueOutput
+Osc 3 FM Source	0	4194304	Value	ValueOutput
+Osc 3 FM Amount	0	4194304	Value	ValueOutput
+Osc 3 Shape	0	4194304	Value	ValueOutput
+Osc 3 Wave	0	4194304	Value	ValueOutput
+Osc 3 Wave Source	0	4194304	Value	ValueOutput
+Osc 3 Wave Amount	0	4194304	Value	ValueOutput
+Osc 3 Startphase	0	4194304	Value	ValueOutput
+Osc 3 Brilliance	0	4194304	Value	ValueOutput
+Osc 2 Sync To Osc 3	0	4194304	Value	ValueOutput
+Pitch Mod Source	0	4194304	Value	ValueOutput
+Pitch Mod Amount	0	4194304	Value	ValueOutput
+Glide Active	0	4194304	Value	ValueOutput
+Glide Steps	0	4194304	Value	ValueOutput
+Glide Mode	0	4194304	Value	ValueOutput
+Glide Time	0	4194304	Value	ValueOutput
+Allocation	0	4194304	Value	ValueOutput
+Unisono Voices	0	4194304	Value	ValueOutput
+Unisono Detune	0	4194304	Value	ValueOutput
+Unisono Spread	0	4194304	Value	ValueOutput
+Osc 1 Level	0	4194304	Value	ValueOutput
+Osc 1 Balance	0	4194304	Value	ValueOutput
+Osc 2 Level	0	4194304	Value	ValueOutput
+Osc 2 Balance	0	4194304	Value	ValueOutput
+Osc 3 Level	0	4194304	Value	ValueOutput
+Osc 3 Balance	0	4194304	Value	ValueOutput
+Noise Level	0	4194304	Value	ValueOutput
+Noise Balance	0	4194304	Value	ValueOutput
+Noise Colour	0	4194304	Value	ValueOutput
+Ring Modulation	0	4194304	Value	ValueOutput
+Ring Mod Balance	0	4194304	Value	ValueOutput
+F1 Active	0	4194304	Value	ValueOutput
+F1 Type	0	4194304	Value	ValueOutput
+F1 Cutoff	0	4194304	Value	ValueOutput
+F1 Resonance	0	4194304	Value	ValueOutput
+F1 Level	0	4194304	Value	ValueOutput
+F1 Drive	0	4194304	Value	ValueOutput
+F1 Drive Curve	0	4194304	Value	ValueOutput
+F1 Keytrack	0	4194304	Value	ValueOutput
+F1 Envelope Amount	0	4194304	Value	ValueOutput
+F1 Envelope Velocity	0	4194304	Value	ValueOutput
+F1 Cutoff Mod Source	0	4194304	Value	ValueOutput
+F1 Cutoff Mod Amount	0	4194304	Value	ValueOutput
+F1 FM Source	0	4194304	Value	ValueOutput
+F1 FM Amount	0	4194304	Value	ValueOutput
+F1 Pan	0	4194304	Value	ValueOutput
+F1 Pan Mod Source	0	4194304	Value	ValueOutput
+F1 Pan Mod Amount	0	4194304	Value	ValueOutput
+F2 Active	0	4194304	Value	ValueOutput
+F2 Type	0	4194304	Value	ValueOutput
+F2 Cutoff	0	4194304	Value	ValueOutput
+F2 Resonance	0	4194304	Value	ValueOutput
+F2 Level	0	4194304	Value	ValueOutput
+F2 Drive	0	4194304	Value	ValueOutput
+F2 Drive Curve	0	4194304	Value	ValueOutput
+F2 Keytrack	0	4194304	Value	ValueOutput
+F2 Envelope Amount	0	4194304	Value	ValueOutput
+F2 Envelope Velocity	0	4194304	Value	ValueOutput
+F2 Cutoff Mod Source	0	4194304	Value	ValueOutput
+F2 Cutoff Mod Amount	0	4194304	Value	ValueOutput
+F2 FM Source	0	4194304	Value	ValueOutput
+F2 FM Amount	0	4194304	Value	ValueOutput
+F2 Pan	0	4194304	Value	ValueOutput
+F2 Pan Mod Source	0	4194304	Value	ValueOutput
+F2 Pan Mod Amount	0	4194304	Value	ValueOutput
+Filter Routing	0	4194304	Value	ValueOutput
+Bass Boost	0	4194304	Value	ValueOutput
+Part Active	0	4194304	Value	ValueOutput
+Part Volume	0	4194304	Value	ValueOutput
+Amp Velocity	0	4194304	Value	ValueOutput
+Amp Mod Source	0	4194304	Value	ValueOutput
+Amp Mod Amount	0	4194304	Value	ValueOutput
+FX1 Active	0	4194304	Value	ValueOutput
+FX1 Type	0	4194304	Value	ValueOutput
+FX1 Mix	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Polarity	0	4194304	Value	ValueOutput
+Stages	0	4194304	Value	ValueOutput
+FX2 Active	0	4194304	Value	ValueOutput
+FX2 Type	0	4194304	Value	ValueOutput
+FX2 Mix	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Delay	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Low Pass	0	4194304	Value	ValueOutput
+High Pass	0	4194304	Value	ValueOutput
+Clock	0	4194304	Value	ValueOutput
+Polarity	0	4194304	Value	ValueOutput
+LFO1 Shape	0	4194304	Value	ValueOutput
+LFO1 Speed	0	4194304	Value	ValueOutput
+LFO1 Sync	0	4194304	Value	ValueOutput
+LFO1 Clock	0	4194304	Value	ValueOutput
+LFO1 Startphase	0	4194304	Value	ValueOutput
+LFO1 Delay	0	4194304	Value	ValueOutput
+LFO1 Fade	0	4194304	Value	ValueOutput
+LFO1 Keytrack	0	4194304	Value	ValueOutput
+LFO2 Shape	0	4194304	Value	ValueOutput
+LFO2 Speed	0	4194304	Value	ValueOutput
+LFO2 Sync	0	4194304	Value	ValueOutput
+LFO2 Clock	0	4194304	Value	ValueOutput
+LFO2 Startphase	0	4194304	Value	ValueOutput
+LFO2 Delay	0	4194304	Value	ValueOutput
+LFO2 Fade	0	4194304	Value	ValueOutput
+LFO2 Keytrack	0	4194304	Value	ValueOutput
+LFO3 Shape	0	4194304	Value	ValueOutput
+LFO3 Speed	0	4194304	Value	ValueOutput
+LFO3 Sync	0	4194304	Value	ValueOutput
+LFO3 Clock	0	4194304	Value	ValueOutput
+LFO3 Startphase	0	4194304	Value	ValueOutput
+LFO3 Delay	0	4194304	Value	ValueOutput
+LFO3 Fade	0	4194304	Value	ValueOutput
+LFO3 Keytrack	0	4194304	Value	ValueOutput
+LFO3 Step Count	0	4194304	Value	ValueOutput
+LFO3 Step 1	0	4194304	Value	ValueOutput
+LFO3 Step 2	0	4194304	Value	ValueOutput
+LFO3 Step 3	0	4194304	Value	ValueOutput
+LFO3 Step 4	0	4194304	Value	ValueOutput
+LFO3 Step 5	0	4194304	Value	ValueOutput
+LFO3 Step 6	0	4194304	Value	ValueOutput
+LFO3 Step 7	0	4194304	Value	ValueOutput
+LFO3 Step 8	0	4194304	Value	ValueOutput
+LFO3 Step 9	0	4194304	Value	ValueOutput
+LFO3 Step 10	0	4194304	Value	ValueOutput
+LFO3 Step 11	0	4194304	Value	ValueOutput
+LFO3 Step 12	0	4194304	Value	ValueOutput
+LFO3 Step 13	0	4194304	Value	ValueOutput
+LFO3 Step 14	0	4194304	Value	ValueOutput
+LFO3 Step 15	0	4194304	Value	ValueOutput
+LFO3 Step 16	0	4194304	Value	ValueOutput
+LFO3 Contour	0	4194304	Value	ValueOutput
+FE Mode	0	4194304	Value	ValueOutput
+FE Attack	0	4194304	Value	ValueOutput
+FE Attack Level	0	4194304	Value	ValueOutput
+FE Decay	0	4194304	Value	ValueOutput
+FE Sustain	0	4194304	Value	ValueOutput
+FE Decay 2	0	4194304	Value	ValueOutput
+FE Sustain 2	0	4194304	Value	ValueOutput
+FE Release	0	4194304	Value	ValueOutput
+FE Trigger	0	4194304	Value	ValueOutput
+AE Mode	0	4194304	Value	ValueOutput
+AE Attack	0	4194304	Value	ValueOutput
+AE Attack Level	0	4194304	Value	ValueOutput
+AE Decay	0	4194304	Value	ValueOutput
+AE Sustain	0	4194304	Value	ValueOutput
+AE Decay 2	0	4194304	Value	ValueOutput
+AE Sustain 2	0	4194304	Value	ValueOutput
+AE Release	0	4194304	Value	ValueOutput
+AE Trigger	0	4194304	Value	ValueOutput
+E3 Mode	0	4194304	Value	ValueOutput
+E3 Attack	0	4194304	Value	ValueOutput
+E3 Attack Level	0	4194304	Value	ValueOutput
+E3 Decay	0	4194304	Value	ValueOutput
+E3 Sustain	0	4194304	Value	ValueOutput
+E3 Decay 2	0	4194304	Value	ValueOutput
+E3 Sustain 2	0	4194304	Value	ValueOutput
+E3 Release	0	4194304	Value	ValueOutput
+E3 Trigger	0	4194304	Value	ValueOutput
+E4 Mode	0	4194304	Value	ValueOutput
+E4 Attack	0	4194304	Value	ValueOutput
+E4 Attack Level	0	4194304	Value	ValueOutput
+E4 Decay	0	4194304	Value	ValueOutput
+E4 Sustain	0	4194304	Value	ValueOutput
+E4 Decay 2	0	4194304	Value	ValueOutput
+E4 Sustain 2	0	4194304	Value	ValueOutput
+E4 Release	0	4194304	Value	ValueOutput
+E4 Trigger	0	4194304	Value	ValueOutput
+Modifier 1 Source A	0	4194304	Value	ValueOutput
+Modifier 1 Source B	0	4194304	Value	ValueOutput
+Modifier 1 Operand	0	4194304	Value	ValueOutput
+Modifier 1 Constant	0	4194304	Value	ValueOutput
+Modifier 2 Source A	0	4194304	Value	ValueOutput
+Modifier 2 Source B	0	4194304	Value	ValueOutput
+Modifier 2 Operand	0	4194304	Value	ValueOutput
+Modifier 2 Constant	0	4194304	Value	ValueOutput
+Modifier 3 Source A	0	4194304	Value	ValueOutput
+Modifier 3 Source B	0	4194304	Value	ValueOutput
+Modifier 3 Operand	0	4194304	Value	ValueOutput
+Modifier 3 Constant	0	4194304	Value	ValueOutput
+Modifier 4 Source A	0	4194304	Value	ValueOutput
+Modifier 4 Source B	0	4194304	Value	ValueOutput
+Modifier 4 Operand	0	4194304	Value	ValueOutput
+Modifier 4 Constant	0	4194304	Value	ValueOutput
+Modulation 1 Source	0	4194304	Value	ValueOutput
+Modulation 1 Destination	0	4194304	Value	ValueOutput
+Modulation 1 Amount	0	4194304	Value	ValueOutput
+Modulation 2 Source	0	4194304	Value	ValueOutput
+Modulation 2 Destination	0	4194304	Value	ValueOutput
+Modulation 2 Amount	0	4194304	Value	ValueOutput
+Modulation 3 Source	0	4194304	Value	ValueOutput
+Modulation 3 Destination	0	4194304	Value	ValueOutput
+Modulation 3 Amount	0	4194304	Value	ValueOutput
+Modulation 4 Source	0	4194304	Value	ValueOutput
+Modulation 4 Destination	0	4194304	Value	ValueOutput
+Modulation 4 Amount	0	4194304	Value	ValueOutput
+Modulation 5 Source	0	4194304	Value	ValueOutput
+Modulation 5 Destination	0	4194304	Value	ValueOutput
+Modulation 5 Amount	0	4194304	Value	ValueOutput
+Modulation 6 Source	0	4194304	Value	ValueOutput
+Modulation 6 Destination	0	4194304	Value	ValueOutput
+Modulation 6 Amount	0	4194304	Value	ValueOutput
+Modulation 7 Source	0	4194304	Value	ValueOutput
+Modulation 7 Destination	0	4194304	Value	ValueOutput
+Modulation 7 Amount	0	4194304	Value	ValueOutput
+Modulation 8 Source	0	4194304	Value	ValueOutput
+Modulation 8 Destination	0	4194304	Value	ValueOutput
+Modulation 8 Amount	0	4194304	Value	ValueOutput
+Modulation 9 Source	0	4194304	Value	ValueOutput
+Modulation 9 Destination	0	4194304	Value	ValueOutput
+Modulation 9 Amount	0	4194304	Value	ValueOutput
+Modulation 10 Source	0	4194304	Value	ValueOutput
+Modulation 10 Destinatio	0	4194304	Value	ValueOutput
+Modulation 10 Amount	0	4194304	Value	ValueOutput
+Modulation 11 Source	0	4194304	Value	ValueOutput
+Modulation 11 Destinatio	0	4194304	Value	ValueOutput
+Modulation 11 Amount	0	4194304	Value	ValueOutput
+Modulation 12 Source	0	4194304	Value	ValueOutput
+Modulation 12 Destinatio	0	4194304	Value	ValueOutput
+Modulation 12 Amount	0	4194304	Value	ValueOutput
+Modulation 13 Source	0	4194304	Value	ValueOutput
+Modulation 13 Destinatio	0	4194304	Value	ValueOutput
+Modulation 13 Amount	0	4194304	Value	ValueOutput
+Modulation 14 Source	0	4194304	Value	ValueOutput
+Modulation 14 Destinatio	0	4194304	Value	ValueOutput
+Modulation 14 Amount	0	4194304	Value	ValueOutput
+Modulation 15 Source	0	4194304	Value	ValueOutput
+Modulation 15 Destinatio	0	4194304	Value	ValueOutput
+Modulation 15 Amount	0	4194304	Value	ValueOutput
+Modulation 16 Source	0	4194304	Value	ValueOutput
+Modulation 16 Destinatio	0	4194304	Value	ValueOutput
+Modulation 16 Amount	0	4194304	Value	ValueOutput
+Arp Step 1	0	4194304	Value	ValueOutput
+Arp Step 2	0	4194304	Value	ValueOutput
+Arp Step 3	0	4194304	Value	ValueOutput
+Arp Step 4	0	4194304	Value	ValueOutput
+Arp Step 5	0	4194304	Value	ValueOutput
+Arp Step 6	0	4194304	Value	ValueOutput
+Arp Step 7	0	4194304	Value	ValueOutput
+Arp Step 8	0	4194304	Value	ValueOutput
+Arp Step 9	0	4194304	Value	ValueOutput
+Arp Step 10	0	4194304	Value	ValueOutput
+Arp Step 11	0	4194304	Value	ValueOutput
+Arp Step 12	0	4194304	Value	ValueOutput
+Arp Step 13	0	4194304	Value	ValueOutput
+Arp Step 14	0	4194304	Value	ValueOutput
+Arp Step 15	0	4194304	Value	ValueOutput
+Arp Step 16	0	4194304	Value	ValueOutput
+Glide 1	0	4194304	Value	ValueOutput
+Glide 2	0	4194304	Value	ValueOutput
+Glide 3	0	4194304	Value	ValueOutput
+Glide 4	0	4194304	Value	ValueOutput
+Glide 5	0	4194304	Value	ValueOutput
+Glide 6	0	4194304	Value	ValueOutput
+Glide 7	0	4194304	Value	ValueOutput
+Glide 8	0	4194304	Value	ValueOutput
+Glide 9	0	4194304	Value	ValueOutput
+Glide 10	0	4194304	Value	ValueOutput
+Glide 11	0	4194304	Value	ValueOutput
+Glide 12	0	4194304	Value	ValueOutput
+Glide 13	0	4194304	Value	ValueOutput
+Glide 14	0	4194304	Value	ValueOutput
+Glide 15	0	4194304	Value	ValueOutput
+Glide 16	0	4194304	Value	ValueOutput
+Position 1	0	4194304	Value	ValueOutput
+Length 1	0	4194304	Value	ValueOutput
+Position 2	0	4194304	Value	ValueOutput
+Length 2	0	4194304	Value	ValueOutput
+Position 3	0	4194304	Value	ValueOutput
+Length 3	0	4194304	Value	ValueOutput
+Position 4	0	4194304	Value	ValueOutput
+Length 4	0	4194304	Value	ValueOutput
+Position 5	0	4194304	Value	ValueOutput
+Length 5	0	4194304	Value	ValueOutput
+Position 6	0	4194304	Value	ValueOutput
+Length 6	0	4194304	Value	ValueOutput
+Position 7	0	4194304	Value	ValueOutput
+Length 7	0	4194304	Value	ValueOutput
+Position 8	0	4194304	Value	ValueOutput
+Length 8	0	4194304	Value	ValueOutput
+Position 9	0	4194304	Value	ValueOutput
+Length 9	0	4194304	Value	ValueOutput
+Position 10	0	4194304	Value	ValueOutput
+Length 10	0	4194304	Value	ValueOutput
+Position 11	0	4194304	Value	ValueOutput
+Length 11	0	4194304	Value	ValueOutput
+Position 12	0	4194304	Value	ValueOutput
+Length 12	0	4194304	Value	ValueOutput
+Position 13	0	4194304	Value	ValueOutput
+Length 13	0	4194304	Value	ValueOutput
+Position 14	0	4194304	Value	ValueOutput
+Length 14	0	4194304	Value	ValueOutput
+Position 15	0	4194304	Value	ValueOutput
+Length 15	0	4194304	Value	ValueOutput
+Position 16	0	4194304	Value	ValueOutput
+Length 16	0	4194304	Value	ValueOutput
+Accent 1	0	4194304	Value	ValueOutput
+Accent 2	0	4194304	Value	ValueOutput
+Accent 3	0	4194304	Value	ValueOutput
+Accent 4	0	4194304	Value	ValueOutput
+Accent 5	0	4194304	Value	ValueOutput
+Accent 6	0	4194304	Value	ValueOutput
+Accent 7	0	4194304	Value	ValueOutput
+Accent 8	0	4194304	Value	ValueOutput
+Accent 9	0	4194304	Value	ValueOutput
+Accent 10	0	4194304	Value	ValueOutput
+Accent 11	0	4194304	Value	ValueOutput
+Accent 12	0	4194304	Value	ValueOutput
+Accent 13	0	4194304	Value	ValueOutput
+Accent 14	0	4194304	Value	ValueOutput
+Accent 15	0	4194304	Value	ValueOutput
+Accent 16	0	4194304	Value	ValueOutput
+Arp Active	0	4194304	Value	ValueOutput
+Arp Mode	0	4194304	Value	ValueOutput
+Arp Pattern	0	4194304	Value	ValueOutput
+Arp Maximum Notes	0	4194304	Value	ValueOutput
+Arp Clock	0	4194304	Value	ValueOutput
+Arp Length	0	4194304	Value	ValueOutput
+Arp Octave Range	0	4194304	Value	ValueOutput
+Arp Direction	0	4194304	Value	ValueOutput
+Arp Sort Order	0	4194304	Value	ValueOutput
+Arp Velocity Mode	0	4194304	Value	ValueOutput
+Arp Timing Factor	0	4194304	Value	ValueOutput
+Arp Same Note Overlap	0	4194304	Value	ValueOutput
+Arp Pattern Reset	0	4194304	Value	ValueOutput
+Arp Pattern Length	0	4194304	Value	ValueOutput
+Arp Tempo	0	4194304	Value	ValueOutput
+EQ Active	0	4194304	Value	ValueOutput
+EQ Low Frequency	0	4194304	Value	ValueOutput
+EQ Low Quality	0	4194304	Value	ValueOutput
+EQ Low Gain	0	4194304	Value	ValueOutput
+EQ Mid 1 Frequency	0	4194304	Value	ValueOutput
+EQ Mid 1 Quality	0	4194304	Value	ValueOutput
+EQ Mid 1 Gain	0	4194304	Value	ValueOutput
+EQ Mid 2 Frequency	0	4194304	Value	ValueOutput
+EQ Mid 2 Quality	0	4194304	Value	ValueOutput
+EQ Mid 2 Gain	0	4194304	Value	ValueOutput
+EQ High Frequency	0	4194304	Value	ValueOutput
+EQ High Quality	0	4194304	Value	ValueOutput
+EQ High Gain	0	4194304	Value	ValueOutput
+Category	0	4194304	Value	ValueOutput
+Category2	0	4194304	Value	ValueOutput
+Category3	0	4194304	Value	ValueOutput
+Category4	0	4194304	Value	ValueOutput
+Part	0	4194304	Value	ValueOutput
+Part Select	0	4194304	Value	ValueOutput
+Number of Voices	0	4194304	Value	ValueOutput
+Stereo Only	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

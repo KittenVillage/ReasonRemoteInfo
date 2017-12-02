@@ -1,0 +1,50 @@
+Scope
+Manufacturer	Model
+GG Audio	vst.GGBR.Blue3Rotary
+Note: Will match scope definitions for vst.GGBR.Blue3Rotary or vst.GGBR
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Input	0	4194304	Value	ValueOutput
+Noise	0	4194304	Value	ValueOutput
+Motor	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+EQ Low	0	4194304	Value	ValueOutput
+EQ Mid	0	4194304	Value	ValueOutput
+EQ High	0	4194304	Value	ValueOutput
+Ambience	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Overdrive Type	0	4194304	Value	ValueOutput
+Speed	0	4194304	Value	ValueOutput
+Horn Slow	0	4194304	Value	ValueOutput
+Horn Fast	0	4194304	Value	ValueOutput
+Horn Acceleration	0	4194304	Value	ValueOutput
+Horn Deceleration	0	4194304	Value	ValueOutput
+Bass Slow	0	4194304	Value	ValueOutput
+Bass Fast	0	4194304	Value	ValueOutput
+Bass Acceleration	0	4194304	Value	ValueOutput
+Bass Deceleration	0	4194304	Value	ValueOutput
+Horn Spread	0	4194304	Value	ValueOutput
+Distance	0	4194304	Value	ValueOutput
+Balance	0	4194304	Value	ValueOutput
+Placement	0	4194304	Value	ValueOutput
+Cabinet Type	0	4194304	Value	ValueOutput
+Diffuser	0	4194304	Value	ValueOutput
+Memphis	0	4194304	Value	ValueOutput
+Front Stop	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

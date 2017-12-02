@@ -1,0 +1,548 @@
+Scope
+Manufacturer	Model
+Dmitry Sches	vst.ThRn.Thorn
+Note: Will match scope definitions for vst.ThRn.Thorn or vst.ThRn
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master Volume	0	4194304	Value	ValueOutput
+Master Pan	0	4194304	Value	ValueOutput
+Limiter	0	4194304	Value	ValueOutput
+Master Tune	0	4194304	Value	ValueOutput
+Master Fine Tune	0	4194304	Value	ValueOutput
+Smooth Attack	0	4194304	Value	ValueOutput
+Poly Mode	0	4194304	Value	ValueOutput
+Max Voices	0	4194304	Value	ValueOutput
+PitchBend Down	0	4194304	Value	ValueOutput
+PitchBend Up	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Glide Mode	0	4194304	Value	ValueOutput
+FX Power	0	4194304	Value	ValueOutput
+Glitch Power	0	4194304	Value	ValueOutput
+Arp Power	0	4194304	Value	ValueOutput
+ModMtx Power	0	4194304	Value	ValueOutput
+Master Tone Boost	0	4194304	Value	ValueOutput
+Master Low Cut	0	4194304	Value	ValueOutput
+OSC Oversampling	0	4194304	Value	ValueOutput
+OSC1 Power	0	4194304	Value	ValueOutput
+OSC1 Pos	0	4194304	Value	ValueOutput
+OSC1 Octave	0	4194304	Value	ValueOutput
+OSC1 Semitone	0	4194304	Value	ValueOutput
+OSC1 Unison	0	4194304	Value	ValueOutput
+OSC1 Detune	0	4194304	Value	ValueOutput
+OSC1 Spread	0	4194304	Value	ValueOutput
+OSC1 SubOsc	0	4194304	Value	ValueOutput
+OSC1 SubOsc Shape	0	4194304	Value	ValueOutput
+OSC1 FX	0	4194304	Value	ValueOutput
+OSC1 FX Type	0	4194304	Value	ValueOutput
+OSC1 Vibrato	0	4194304	Value	ValueOutput
+OSC1 Phase	0	4194304	Value	ValueOutput
+OSC1 Phase Mode	0	4194304	Value	ValueOutput
+OSC1 Volume	0	4194304	Value	ValueOutput
+OSC1 Pan	0	4194304	Value	ValueOutput
+OSC1 Send F1	0	4194304	Value	ValueOutput
+OSC1 Send F2	0	4194304	Value	ValueOutput
+OSC2 Power	0	4194304	Value	ValueOutput
+OSC2 Pos	0	4194304	Value	ValueOutput
+OSC2 Octave	0	4194304	Value	ValueOutput
+OSC2 Semitone	0	4194304	Value	ValueOutput
+OSC2 Unison	0	4194304	Value	ValueOutput
+OSC2 Detune	0	4194304	Value	ValueOutput
+OSC2 Spread	0	4194304	Value	ValueOutput
+OSC2 SubOsc	0	4194304	Value	ValueOutput
+OSC2 SubOsc Shape	0	4194304	Value	ValueOutput
+OSC2 FX	0	4194304	Value	ValueOutput
+OSC2 FX Type	0	4194304	Value	ValueOutput
+OSC2 Vibrato	0	4194304	Value	ValueOutput
+OSC2 Phase	0	4194304	Value	ValueOutput
+OSC2 Phase Mode	0	4194304	Value	ValueOutput
+OSC2 Volume	0	4194304	Value	ValueOutput
+OSC2 Pan	0	4194304	Value	ValueOutput
+OSC2 Send F1	0	4194304	Value	ValueOutput
+OSC2 Send F2	0	4194304	Value	ValueOutput
+OSC3 Power	0	4194304	Value	ValueOutput
+OSC3 Pos	0	4194304	Value	ValueOutput
+OSC3 Octave	0	4194304	Value	ValueOutput
+OSC3 Semitone	0	4194304	Value	ValueOutput
+OSC3 Unison	0	4194304	Value	ValueOutput
+OSC3 Detune	0	4194304	Value	ValueOutput
+OSC3 Spread	0	4194304	Value	ValueOutput
+OSC3 SubOsc	0	4194304	Value	ValueOutput
+OSC3 SubOsc Shape	0	4194304	Value	ValueOutput
+OSC3 FX	0	4194304	Value	ValueOutput
+OSC3 FX Type	0	4194304	Value	ValueOutput
+OSC3 Vibrato	0	4194304	Value	ValueOutput
+OSC3 Phase	0	4194304	Value	ValueOutput
+OSC3 Phase Mode	0	4194304	Value	ValueOutput
+OSC3 Volume	0	4194304	Value	ValueOutput
+OSC3 Pan	0	4194304	Value	ValueOutput
+OSC3 Send F1	0	4194304	Value	ValueOutput
+OSC3 Send F2	0	4194304	Value	ValueOutput
+HarmFilter Power	0	4194304	Value	ValueOutput
+HarmFilter Shape	0	4194304	Value	ValueOutput
+HarmFilter Balance	0	4194304	Value	ValueOutput
+HarmFilter Makeup	0	4194304	Value	ValueOutput
+NoiseOSC Pitch	0	4194304	Value	ValueOutput
+NoiseOSC Offset	0	4194304	Value	ValueOutput
+NoiseOSC Loop	0	4194304	Value	ValueOutput
+NoiseOSC KeyTrack	0	4194304	Value	ValueOutput
+NoiseOSC Volume	0	4194304	Value	ValueOutput
+NoiseOSC Pan	0	4194304	Value	ValueOutput
+NoiseOSC Send F1	0	4194304	Value	ValueOutput
+NoiseOSC Send F2	0	4194304	Value	ValueOutput
+FLT Power	0	4194304	Value	ValueOutput
+FLT Link	0	4194304	Value	ValueOutput
+FLT Drive	0	4194304	Value	ValueOutput
+FLT KeyTrack	0	4194304	Value	ValueOutput
+FLT VelTrack	0	4194304	Value	ValueOutput
+FLT In from F1	0	4194304	Value	ValueOutput
+FLT In from OSC	0	4194304	Value	ValueOutput
+FLT1 Mode	0	4194304	Value	ValueOutput
+FLT1 Cutoff	0	4194304	Value	ValueOutput
+FLT1 Resonance	0	4194304	Value	ValueOutput
+FLT1 Envelope	0	4194304	Value	ValueOutput
+FLT1 Env Src	0	4194304	Value	ValueOutput
+FLT1 Output	0	4194304	Value	ValueOutput
+FLT2 Mode	0	4194304	Value	ValueOutput
+FLT2 Cutoff	0	4194304	Value	ValueOutput
+FLT2 Resonance	0	4194304	Value	ValueOutput
+FLT2 Envelope	0	4194304	Value	ValueOutput
+FLT2 Src	0	4194304	Value	ValueOutput
+FLT2 Output	0	4194304	Value	ValueOutput
+AmpEnv Attack	0	4194304	Value	ValueOutput
+AmpEnv Decay	0	4194304	Value	ValueOutput
+AmpEnv Sustain	0	4194304	Value	ValueOutput
+AmpEnv Release	0	4194304	Value	ValueOutput
+AmpEnv KeyScale	0	4194304	Value	ValueOutput
+AmpEnv VelScale	0	4194304	Value	ValueOutput
+Env1 Attack	0	4194304	Value	ValueOutput
+Env1 Decay	0	4194304	Value	ValueOutput
+Env1 Sustain	0	4194304	Value	ValueOutput
+Env1 Release	0	4194304	Value	ValueOutput
+Env1 KeyScale	0	4194304	Value	ValueOutput
+Env1 VelScale	0	4194304	Value	ValueOutput
+Env2 Attack	0	4194304	Value	ValueOutput
+Env2 Decay	0	4194304	Value	ValueOutput
+Env2 Sustain	0	4194304	Value	ValueOutput
+Env2 Release	0	4194304	Value	ValueOutput
+Env2 KeyScale	0	4194304	Value	ValueOutput
+Env2 VelScale	0	4194304	Value	ValueOutput
+LFO1 Sync	0	4194304	Value	ValueOutput
+LFO1 Speed	0	4194304	Value	ValueOutput
+LFO1 Speed ms	0	4194304	Value	ValueOutput
+LFO1 Shape	0	4194304	Value	ValueOutput
+LFO1 Trigger	0	4194304	Value	ValueOutput
+LFO1 Phase	0	4194304	Value	ValueOutput
+LFO1 Rnd Phase	0	4194304	Value	ValueOutput
+LFO1 FadeIn	0	4194304	Value	ValueOutput
+LFO1 Polarity	0	4194304	Value	ValueOutput
+LFO1 Amount Ctrl	0	4194304	Value	ValueOutput
+LFO2 Sync	0	4194304	Value	ValueOutput
+LFO2 Speed	0	4194304	Value	ValueOutput
+LFO2 Speed ms	0	4194304	Value	ValueOutput
+LFO2 Shape	0	4194304	Value	ValueOutput
+LFO2 Trigger	0	4194304	Value	ValueOutput
+LFO2 Phase	0	4194304	Value	ValueOutput
+LFO2 Rnd Phase	0	4194304	Value	ValueOutput
+LFO2 FadeIn	0	4194304	Value	ValueOutput
+LFO2 Polarity	0	4194304	Value	ValueOutput
+LFO2 Amount Ctrl	0	4194304	Value	ValueOutput
+Vibrato Rate	0	4194304	Value	ValueOutput
+Vibrato FadeIn	0	4194304	Value	ValueOutput
+Vibrato VelScale	0	4194304	Value	ValueOutput
+Vibrato Amount Ctrl	0	4194304	Value	ValueOutput
+MSEG1 Trigger	0	4194304	Value	ValueOutput
+MSEG1 Sync	0	4194304	Value	ValueOutput
+MSEG1 Speed	0	4194304	Value	ValueOutput
+MSEG1 Speed ms	0	4194304	Value	ValueOutput
+MSEG1 Mode	0	4194304	Value	ValueOutput
+MSEG1 Smooth	0	4194304	Value	ValueOutput
+MSEG1 Tension	0	4194304	Value	ValueOutput
+MSEG1 Shuffle	0	4194304	Value	ValueOutput
+MSEG1 Num Steps	0	4194304	Value	ValueOutput
+MSEG1 Step Gate	0	4194304	Value	ValueOutput
+MSEG2 Trigger	0	4194304	Value	ValueOutput
+MSEG2 Sync	0	4194304	Value	ValueOutput
+MSEG2 Speed	0	4194304	Value	ValueOutput
+MSEG2 Speed ms	0	4194304	Value	ValueOutput
+MSEG2 Mode	0	4194304	Value	ValueOutput
+MSEG2 Smooth	0	4194304	Value	ValueOutput
+MSEG2 Tension	0	4194304	Value	ValueOutput
+MSEG2 Shuffle	0	4194304	Value	ValueOutput
+MSEG2 Num Steps	0	4194304	Value	ValueOutput
+MSEG2 Step Gate	0	4194304	Value	ValueOutput
+Distortion Power	0	4194304	Value	ValueOutput
+LoFi Power	0	4194304	Value	ValueOutput
+Chorus Power	0	4194304	Value	ValueOutput
+Phaser Power	0	4194304	Value	ValueOutput
+Flanger Power	0	4194304	Value	ValueOutput
+Delay Power	0	4194304	Value	ValueOutput
+Reverb Power	0	4194304	Value	ValueOutput
+Eq Power	0	4194304	Value	ValueOutput
+Compressor Power	0	4194304	Value	ValueOutput
+Distortion Mode	0	4194304	Value	ValueOutput
+Distortion Drive	0	4194304	Value	ValueOutput
+Distortion Fuzz	0	4194304	Value	ValueOutput
+Distortion Tone	0	4194304	Value	ValueOutput
+Distortion Mix	0	4194304	Value	ValueOutput
+Distortion Post HP	0	4194304	Value	ValueOutput
+Distortion Post LP	0	4194304	Value	ValueOutput
+LoFi Mix	0	4194304	Value	ValueOutput
+LoFi Sample Rate	0	4194304	Value	ValueOutput
+LoFi Bit Depth	0	4194304	Value	ValueOutput
+LoFi Tone	0	4194304	Value	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Chorus Sync	0	4194304	Value	ValueOutput
+Chorus Speed	0	4194304	Value	ValueOutput
+Chorus Speed ms	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Width	0	4194304	Value	ValueOutput
+Phaser Mix	0	4194304	Value	ValueOutput
+Phaser Mode	0	4194304	Value	ValueOutput
+Phaser Sync	0	4194304	Value	ValueOutput
+Phaser Speed	0	4194304	Value	ValueOutput
+Phaser Speed ms	0	4194304	Value	ValueOutput
+Phaser Depth	0	4194304	Value	ValueOutput
+Phaser Width	0	4194304	Value	ValueOutput
+Phaser Feedback	0	4194304	Value	ValueOutput
+Phaser Center	0	4194304	Value	ValueOutput
+Phaser LFO Phase	0	4194304	Value	ValueOutput
+Flanger Mix	0	4194304	Value	ValueOutput
+Flanger Sync	0	4194304	Value	ValueOutput
+Flanger Speed	0	4194304	Value	ValueOutput
+Flanger Speed ms	0	4194304	Value	ValueOutput
+Flanger Depth	0	4194304	Value	ValueOutput
+Flanger Width	0	4194304	Value	ValueOutput
+Flanger Feedback	0	4194304	Value	ValueOutput
+Flanger Delay	0	4194304	Value	ValueOutput
+Flanger LFO Phase	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Delay Left	0	4194304	Value	ValueOutput
+Delay Right	0	4194304	Value	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Width	0	4194304	Value	ValueOutput
+Delay LP	0	4194304	Value	ValueOutput
+Delay HP	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Reverb Mode	0	4194304	Value	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Damp	0	4194304	Value	ValueOutput
+Reverb Bass	0	4194304	Value	ValueOutput
+Reverb Treble	0	4194304	Value	ValueOutput
+Reverb PreDelay	0	4194304	Value	ValueOutput
+Eq Mix	0	4194304	Value	ValueOutput
+Eq Bass Freq	0	4194304	Value	ValueOutput
+Eq Bass Gain	0	4194304	Value	ValueOutput
+Eq Mid Freq	0	4194304	Value	ValueOutput
+Eq Mid Gain	0	4194304	Value	ValueOutput
+Eq High Freq	0	4194304	Value	ValueOutput
+Eq High Gain	0	4194304	Value	ValueOutput
+Comp Mix	0	4194304	Value	ValueOutput
+Comp Threshold	0	4194304	Value	ValueOutput
+Comp Ratio	0	4194304	Value	ValueOutput
+Comp Attack	0	4194304	Value	ValueOutput
+Comp Release	0	4194304	Value	ValueOutput
+Comp Output	0	4194304	Value	ValueOutput
+Glitch Speed	0	4194304	Value	ValueOutput
+Glitch Num Steps	0	4194304	Value	ValueOutput
+Glitch Sync	0	4194304	Value	ValueOutput
+Glitch Pre/Post FX	0	4194304	Value	ValueOutput
+Glitch Mix	0	4194304	Value	ValueOutput
+Glitch RP On	0	4194304	Value	ValueOutput
+Glitch LP On	0	4194304	Value	ValueOutput
+Glitch HP On	0	4194304	Value	ValueOutput
+Glitch SR On	0	4194304	Value	ValueOutput
+Glitch BT On	0	4194304	Value	ValueOutput
+Glitch GT On	0	4194304	Value	ValueOutput
+Glitch RPT 01	0	4194304	Value	ValueOutput
+Glitch LP 01	0	4194304	Value	ValueOutput
+Glitch HP 01	0	4194304	Value	ValueOutput
+Glitch SR 01	0	4194304	Value	ValueOutput
+Glitch BT 01	0	4194304	Value	ValueOutput
+Glitch GT 01	0	4194304	Value	ValueOutput
+Glitch RPT 02	0	4194304	Value	ValueOutput
+Glitch LP 02	0	4194304	Value	ValueOutput
+Glitch HP 02	0	4194304	Value	ValueOutput
+Glitch SR 02	0	4194304	Value	ValueOutput
+Glitch BT 02	0	4194304	Value	ValueOutput
+Glitch GT 02	0	4194304	Value	ValueOutput
+Glitch RPT 03	0	4194304	Value	ValueOutput
+Glitch LP 03	0	4194304	Value	ValueOutput
+Glitch HP 03	0	4194304	Value	ValueOutput
+Glitch SR 03	0	4194304	Value	ValueOutput
+Glitch BT 03	0	4194304	Value	ValueOutput
+Glitch GT 03	0	4194304	Value	ValueOutput
+Glitch RPT 04	0	4194304	Value	ValueOutput
+Glitch LP 04	0	4194304	Value	ValueOutput
+Glitch HP 04	0	4194304	Value	ValueOutput
+Glitch SR 04	0	4194304	Value	ValueOutput
+Glitch BT 04	0	4194304	Value	ValueOutput
+Glitch GT 04	0	4194304	Value	ValueOutput
+Glitch RPT 05	0	4194304	Value	ValueOutput
+Glitch LP 05	0	4194304	Value	ValueOutput
+Glitch HP 05	0	4194304	Value	ValueOutput
+Glitch SR 05	0	4194304	Value	ValueOutput
+Glitch BT 05	0	4194304	Value	ValueOutput
+Glitch GT 05	0	4194304	Value	ValueOutput
+Glitch RPT 06	0	4194304	Value	ValueOutput
+Glitch LP 06	0	4194304	Value	ValueOutput
+Glitch HP 06	0	4194304	Value	ValueOutput
+Glitch SR 06	0	4194304	Value	ValueOutput
+Glitch BT 06	0	4194304	Value	ValueOutput
+Glitch GT 06	0	4194304	Value	ValueOutput
+Glitch RPT 07	0	4194304	Value	ValueOutput
+Glitch LP 07	0	4194304	Value	ValueOutput
+Glitch HP 07	0	4194304	Value	ValueOutput
+Glitch SR 07	0	4194304	Value	ValueOutput
+Glitch BT 07	0	4194304	Value	ValueOutput
+Glitch GT 07	0	4194304	Value	ValueOutput
+Glitch RPT 08	0	4194304	Value	ValueOutput
+Glitch LP 08	0	4194304	Value	ValueOutput
+Glitch HP 08	0	4194304	Value	ValueOutput
+Glitch SR 08	0	4194304	Value	ValueOutput
+Glitch BT 08	0	4194304	Value	ValueOutput
+Glitch GT 08	0	4194304	Value	ValueOutput
+Glitch RPT 09	0	4194304	Value	ValueOutput
+Glitch LP 09	0	4194304	Value	ValueOutput
+Glitch HP 09	0	4194304	Value	ValueOutput
+Glitch SR 09	0	4194304	Value	ValueOutput
+Glitch BT 09	0	4194304	Value	ValueOutput
+Glitch GT 09	0	4194304	Value	ValueOutput
+Glitch RPT 10	0	4194304	Value	ValueOutput
+Glitch LP 10	0	4194304	Value	ValueOutput
+Glitch HP 10	0	4194304	Value	ValueOutput
+Glitch SR 10	0	4194304	Value	ValueOutput
+Glitch BT 10	0	4194304	Value	ValueOutput
+Glitch GT 10	0	4194304	Value	ValueOutput
+Glitch RPT 11	0	4194304	Value	ValueOutput
+Glitch LP 11	0	4194304	Value	ValueOutput
+Glitch HP 11	0	4194304	Value	ValueOutput
+Glitch SR 11	0	4194304	Value	ValueOutput
+Glitch BT 11	0	4194304	Value	ValueOutput
+Glitch GT 11	0	4194304	Value	ValueOutput
+Glitch RPT 12	0	4194304	Value	ValueOutput
+Glitch LP 12	0	4194304	Value	ValueOutput
+Glitch HP 12	0	4194304	Value	ValueOutput
+Glitch SR 12	0	4194304	Value	ValueOutput
+Glitch BT 12	0	4194304	Value	ValueOutput
+Glitch GT 12	0	4194304	Value	ValueOutput
+Glitch RPT 13	0	4194304	Value	ValueOutput
+Glitch LP 13	0	4194304	Value	ValueOutput
+Glitch HP 13	0	4194304	Value	ValueOutput
+Glitch SR 13	0	4194304	Value	ValueOutput
+Glitch BT 13	0	4194304	Value	ValueOutput
+Glitch GT 13	0	4194304	Value	ValueOutput
+Glitch RPT 14	0	4194304	Value	ValueOutput
+Glitch LP 14	0	4194304	Value	ValueOutput
+Glitch HP 14	0	4194304	Value	ValueOutput
+Glitch SR 14	0	4194304	Value	ValueOutput
+Glitch BT 14	0	4194304	Value	ValueOutput
+Glitch GT 14	0	4194304	Value	ValueOutput
+Glitch RPT 15	0	4194304	Value	ValueOutput
+Glitch LP 15	0	4194304	Value	ValueOutput
+Glitch HP 15	0	4194304	Value	ValueOutput
+Glitch SR 15	0	4194304	Value	ValueOutput
+Glitch BT 15	0	4194304	Value	ValueOutput
+Glitch GT 15	0	4194304	Value	ValueOutput
+Glitch RPT 16	0	4194304	Value	ValueOutput
+Glitch LP 16	0	4194304	Value	ValueOutput
+Glitch HP 16	0	4194304	Value	ValueOutput
+Glitch SR 16	0	4194304	Value	ValueOutput
+Glitch BT 16	0	4194304	Value	ValueOutput
+Glitch GT 16	0	4194304	Value	ValueOutput
+Arp Speed	0	4194304	Value	ValueOutput
+Arp Num Steps	0	4194304	Value	ValueOutput
+Arp Mode	0	4194304	Value	ValueOutput
+Arp Num Octaves	0	4194304	Value	ValueOutput
+Arp Shuffle	0	4194304	Value	ValueOutput
+Arp Gate	0	4194304	Value	ValueOutput
+Arp Note 01	0	4194304	Value	ValueOutput
+Arp Velocity 01	0	4194304	Value	ValueOutput
+Arp Gate 01	0	4194304	Value	ValueOutput
+Arp Tie 01-02	0	4194304	Value	ValueOutput
+Arp Note 02	0	4194304	Value	ValueOutput
+Arp Velocity 02	0	4194304	Value	ValueOutput
+Arp Gate 02	0	4194304	Value	ValueOutput
+Arp Tie 02-03	0	4194304	Value	ValueOutput
+Arp Note 03	0	4194304	Value	ValueOutput
+Arp Velocity 03	0	4194304	Value	ValueOutput
+Arp Gate 03	0	4194304	Value	ValueOutput
+Arp Tie 03-04	0	4194304	Value	ValueOutput
+Arp Note 04	0	4194304	Value	ValueOutput
+Arp Velocity 04	0	4194304	Value	ValueOutput
+Arp Gate 04	0	4194304	Value	ValueOutput
+Arp Tie 04-05	0	4194304	Value	ValueOutput
+Arp Note 05	0	4194304	Value	ValueOutput
+Arp Velocity 05	0	4194304	Value	ValueOutput
+Arp Gate 05	0	4194304	Value	ValueOutput
+Arp Tie 05-06	0	4194304	Value	ValueOutput
+Arp Note 06	0	4194304	Value	ValueOutput
+Arp Velocity 06	0	4194304	Value	ValueOutput
+Arp Gate 06	0	4194304	Value	ValueOutput
+Arp Tie 06-07	0	4194304	Value	ValueOutput
+Arp Note 07	0	4194304	Value	ValueOutput
+Arp Velocity 07	0	4194304	Value	ValueOutput
+Arp Gate 07	0	4194304	Value	ValueOutput
+Arp Tie 07-08	0	4194304	Value	ValueOutput
+Arp Note 08	0	4194304	Value	ValueOutput
+Arp Velocity 08	0	4194304	Value	ValueOutput
+Arp Gate 08	0	4194304	Value	ValueOutput
+Arp Tie 08-09	0	4194304	Value	ValueOutput
+Arp Note 09	0	4194304	Value	ValueOutput
+Arp Velocity 09	0	4194304	Value	ValueOutput
+Arp Gate 09	0	4194304	Value	ValueOutput
+Arp Tie 09-10	0	4194304	Value	ValueOutput
+Arp Note 10	0	4194304	Value	ValueOutput
+Arp Velocity 10	0	4194304	Value	ValueOutput
+Arp Gate 10	0	4194304	Value	ValueOutput
+Arp Tie 10-11	0	4194304	Value	ValueOutput
+Arp Note 11	0	4194304	Value	ValueOutput
+Arp Velocity 11	0	4194304	Value	ValueOutput
+Arp Gate 11	0	4194304	Value	ValueOutput
+Arp Tie 11-12	0	4194304	Value	ValueOutput
+Arp Note 12	0	4194304	Value	ValueOutput
+Arp Velocity 12	0	4194304	Value	ValueOutput
+Arp Gate 12	0	4194304	Value	ValueOutput
+Arp Tie 12-13	0	4194304	Value	ValueOutput
+Arp Note 13	0	4194304	Value	ValueOutput
+Arp Velocity 13	0	4194304	Value	ValueOutput
+Arp Gate 13	0	4194304	Value	ValueOutput
+Arp Tie 13-14	0	4194304	Value	ValueOutput
+Arp Note 14	0	4194304	Value	ValueOutput
+Arp Velocity 14	0	4194304	Value	ValueOutput
+Arp Gate 14	0	4194304	Value	ValueOutput
+Arp Tie 14-15	0	4194304	Value	ValueOutput
+Arp Note 15	0	4194304	Value	ValueOutput
+Arp Velocity 15	0	4194304	Value	ValueOutput
+Arp Gate 15	0	4194304	Value	ValueOutput
+Arp Tie 15-16	0	4194304	Value	ValueOutput
+Arp Note 16	0	4194304	Value	ValueOutput
+Arp Velocity 16	0	4194304	Value	ValueOutput
+Arp Gate 16	0	4194304	Value	ValueOutput
+Arp Tie 16-01	0	4194304	Value	ValueOutput
+ModMtx01 Power	0	4194304	Value	ValueOutput
+ModMtx01 Depth	0	4194304	Value	ValueOutput
+ModMtx01 Source	0	4194304	Value	ValueOutput
+ModMtx01 Control	0	4194304	Value	ValueOutput
+ModMtx02 Power	0	4194304	Value	ValueOutput
+ModMtx02 Depth	0	4194304	Value	ValueOutput
+ModMtx02 Source	0	4194304	Value	ValueOutput
+ModMtx02 Control	0	4194304	Value	ValueOutput
+ModMtx03 Power	0	4194304	Value	ValueOutput
+ModMtx03 Depth	0	4194304	Value	ValueOutput
+ModMtx03 Source	0	4194304	Value	ValueOutput
+ModMtx03 Control	0	4194304	Value	ValueOutput
+ModMtx04 Power	0	4194304	Value	ValueOutput
+ModMtx04 Depth	0	4194304	Value	ValueOutput
+ModMtx04 Source	0	4194304	Value	ValueOutput
+ModMtx04 Control	0	4194304	Value	ValueOutput
+ModMtx05 Power	0	4194304	Value	ValueOutput
+ModMtx05 Depth	0	4194304	Value	ValueOutput
+ModMtx05 Source	0	4194304	Value	ValueOutput
+ModMtx05 Control	0	4194304	Value	ValueOutput
+ModMtx06 Power	0	4194304	Value	ValueOutput
+ModMtx06 Depth	0	4194304	Value	ValueOutput
+ModMtx06 Source	0	4194304	Value	ValueOutput
+ModMtx06 Control	0	4194304	Value	ValueOutput
+ModMtx07 Power	0	4194304	Value	ValueOutput
+ModMtx07 Depth	0	4194304	Value	ValueOutput
+ModMtx07 Source	0	4194304	Value	ValueOutput
+ModMtx07 Control	0	4194304	Value	ValueOutput
+ModMtx08 Power	0	4194304	Value	ValueOutput
+ModMtx08 Depth	0	4194304	Value	ValueOutput
+ModMtx08 Source	0	4194304	Value	ValueOutput
+ModMtx08 Control	0	4194304	Value	ValueOutput
+ModMtx09 Power	0	4194304	Value	ValueOutput
+ModMtx09 Depth	0	4194304	Value	ValueOutput
+ModMtx09 Source	0	4194304	Value	ValueOutput
+ModMtx09 Control	0	4194304	Value	ValueOutput
+ModMtx10 Power	0	4194304	Value	ValueOutput
+ModMtx10 Depth	0	4194304	Value	ValueOutput
+ModMtx10 Source	0	4194304	Value	ValueOutput
+ModMtx10 Control	0	4194304	Value	ValueOutput
+ModMtx11 Power	0	4194304	Value	ValueOutput
+ModMtx11 Depth	0	4194304	Value	ValueOutput
+ModMtx11 Source	0	4194304	Value	ValueOutput
+ModMtx11 Control	0	4194304	Value	ValueOutput
+ModMtx12 Power	0	4194304	Value	ValueOutput
+ModMtx12 Depth	0	4194304	Value	ValueOutput
+ModMtx12 Source	0	4194304	Value	ValueOutput
+ModMtx12 Control	0	4194304	Value	ValueOutput
+ModMtx13 Power	0	4194304	Value	ValueOutput
+ModMtx13 Depth	0	4194304	Value	ValueOutput
+ModMtx13 Source	0	4194304	Value	ValueOutput
+ModMtx13 Control	0	4194304	Value	ValueOutput
+ModMtx14 Power	0	4194304	Value	ValueOutput
+ModMtx14 Depth	0	4194304	Value	ValueOutput
+ModMtx14 Source	0	4194304	Value	ValueOutput
+ModMtx14 Control	0	4194304	Value	ValueOutput
+ModMtx15 Power	0	4194304	Value	ValueOutput
+ModMtx15 Depth	0	4194304	Value	ValueOutput
+ModMtx15 Source	0	4194304	Value	ValueOutput
+ModMtx15 Control	0	4194304	Value	ValueOutput
+ModMtx16 Power	0	4194304	Value	ValueOutput
+ModMtx16 Depth	0	4194304	Value	ValueOutput
+ModMtx16 Source	0	4194304	Value	ValueOutput
+ModMtx16 Control	0	4194304	Value	ValueOutput
+ModMtx17 Power	0	4194304	Value	ValueOutput
+ModMtx17 Depth	0	4194304	Value	ValueOutput
+ModMtx17 Source	0	4194304	Value	ValueOutput
+ModMtx17 Control	0	4194304	Value	ValueOutput
+ModMtx18 Power	0	4194304	Value	ValueOutput
+ModMtx18 Depth	0	4194304	Value	ValueOutput
+ModMtx18 Source	0	4194304	Value	ValueOutput
+ModMtx18 Control	0	4194304	Value	ValueOutput
+ModMtx19 Power	0	4194304	Value	ValueOutput
+ModMtx19 Depth	0	4194304	Value	ValueOutput
+ModMtx19 Source	0	4194304	Value	ValueOutput
+ModMtx19 Control	0	4194304	Value	ValueOutput
+ModMtx20 Power	0	4194304	Value	ValueOutput
+ModMtx20 Depth	0	4194304	Value	ValueOutput
+ModMtx20 Source	0	4194304	Value	ValueOutput
+ModMtx20 Control	0	4194304	Value	ValueOutput
+ModMtx21 Power	0	4194304	Value	ValueOutput
+ModMtx21 Depth	0	4194304	Value	ValueOutput
+ModMtx21 Source	0	4194304	Value	ValueOutput
+ModMtx21 Control	0	4194304	Value	ValueOutput
+ModMtx22 Power	0	4194304	Value	ValueOutput
+ModMtx22 Depth	0	4194304	Value	ValueOutput
+ModMtx22 Source	0	4194304	Value	ValueOutput
+ModMtx22 Control	0	4194304	Value	ValueOutput
+ModMtx23 Power	0	4194304	Value	ValueOutput
+ModMtx23 Depth	0	4194304	Value	ValueOutput
+ModMtx23 Source	0	4194304	Value	ValueOutput
+ModMtx23 Control	0	4194304	Value	ValueOutput
+ModMtx24 Power	0	4194304	Value	ValueOutput
+ModMtx24 Depth	0	4194304	Value	ValueOutput
+ModMtx24 Source	0	4194304	Value	ValueOutput
+ModMtx24 Control	0	4194304	Value	ValueOutput
+ModMtx25 Power	0	4194304	Value	ValueOutput
+ModMtx25 Depth	0	4194304	Value	ValueOutput
+ModMtx25 Source	0	4194304	Value	ValueOutput
+ModMtx25 Control	0	4194304	Value	ValueOutput
+ModMtx26 Power	0	4194304	Value	ValueOutput
+ModMtx26 Depth	0	4194304	Value	ValueOutput
+ModMtx26 Source	0	4194304	Value	ValueOutput
+ModMtx26 Control	0	4194304	Value	ValueOutput
+ModMtx27 Power	0	4194304	Value	ValueOutput
+ModMtx27 Depth	0	4194304	Value	ValueOutput
+ModMtx27 Source	0	4194304	Value	ValueOutput
+ModMtx27 Control	0	4194304	Value	ValueOutput
+NoiseOSC Power	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput
+Proxy Open Plugin Window	0	1	Toggle	ValueOutput

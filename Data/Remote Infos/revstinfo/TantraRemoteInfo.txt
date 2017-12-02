@@ -1,0 +1,335 @@
+Scope
+Manufacturer	Model
+Dmitry Sches	vst.TntR.Tantra
+Note: Will match scope definitions for vst.TntR.Tantra or vst.TntR
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Power	0	4194304	Value	ValueOutput
+Limiter	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Pan	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Layer A Mix	0	4194304	Value	ValueOutput
+Layer B Mix	0	4194304	Value	ValueOutput
+Layer A Pan	0	4194304	Value	ValueOutput
+Layer B Pan	0	4194304	Value	ValueOutput
+Layer A On	0	4194304	Value	ValueOutput
+Layer B On	0	4194304	Value	ValueOutput
+Layer Mode	0	4194304	Value	ValueOutput
+ModMtx Power	0	4194304	Value	ValueOutput
+Eq On	0	4194304	Value	ValueOutput
+Eq Bass	0	4194304	Value	ValueOutput
+Eq Mid	0	4194304	Value	ValueOutput
+Eq Treble	0	4194304	Value	ValueOutput
+Eq Bass Freq	0	4194304	Value	ValueOutput
+Eq Mid Freq	0	4194304	Value	ValueOutput
+Reverb On	0	4194304	Value	ValueOutput
+Reverb Size	0	4194304	Value	ValueOutput
+Reverb Decay	0	4194304	Value	ValueOutput
+Reverb Bass	0	4194304	Value	ValueOutput
+Reverb Treble	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+LayerA Filter On	0	4194304	Value	ValueOutput
+LayerB Filter On	0	4194304	Value	ValueOutput
+LayerA Filter Mix	0	4194304	Value	ValueOutput
+LayerB Filter Mix	0	4194304	Value	ValueOutput
+LayerA Filter Mode	0	4194304	Value	ValueOutput
+LayerB Filter Mode	0	4194304	Value	ValueOutput
+LayerA Filter Slope	0	4194304	Value	ValueOutput
+LayerB Filter Slope	0	4194304	Value	ValueOutput
+LayerA Filter Cutoff	0	4194304	Value	ValueOutput
+LayerB Filter Cutoff	0	4194304	Value	ValueOutput
+LayerA Filter Res	0	4194304	Value	ValueOutput
+LayerB Filter Res	0	4194304	Value	ValueOutput
+LayerA Filter Locut	0	4194304	Value	ValueOutput
+LayerB Filter Locut	0	4194304	Value	ValueOutput
+LayerA Filter Hicut	0	4194304	Value	ValueOutput
+LayerB Filter Hicut	0	4194304	Value	ValueOutput
+LayerA Delay On	0	4194304	Value	ValueOutput
+LayerB Delay On	0	4194304	Value	ValueOutput
+LayerA Delay Sync	0	4194304	Value	ValueOutput
+LayerB Delay Sync	0	4194304	Value	ValueOutput
+LayerA Delay Speed L	0	4194304	Value	ValueOutput
+LayerB Delay Speed L	0	4194304	Value	ValueOutput
+LayerA Delay Speed R	0	4194304	Value	ValueOutput
+LayerB Delay Speed R	0	4194304	Value	ValueOutput
+LayerA Delay Link	0	4194304	Value	ValueOutput
+LayerB Delay Link	0	4194304	Value	ValueOutput
+LayerA Delay Feedback	0	4194304	Value	ValueOutput
+LayerB Delay Feedback	0	4194304	Value	ValueOutput
+LayerA Delay Mix	0	4194304	Value	ValueOutput
+LayerB Delay Mix	0	4194304	Value	ValueOutput
+LayerA Delay Lowpass	0	4194304	Value	ValueOutput
+LayerB Delay Lowpass	0	4194304	Value	ValueOutput
+LayerA Delay Bandpass	0	4194304	Value	ValueOutput
+LayerB Delay Bandpass	0	4194304	Value	ValueOutput
+LayerA Delay PingPong	0	4194304	Value	ValueOutput
+LayerB Delay PingPong	0	4194304	Value	ValueOutput
+LayerA Dist On	0	4194304	Value	ValueOutput
+LayerB Dist On	0	4194304	Value	ValueOutput
+LayerA Dist Mix	0	4194304	Value	ValueOutput
+LayerB Dist Mix	0	4194304	Value	ValueOutput
+LayerA Dist Drive	0	4194304	Value	ValueOutput
+LayerB Dist Drive	0	4194304	Value	ValueOutput
+LayerA Dist Fuzz	0	4194304	Value	ValueOutput
+LayerB Dist Fuzz	0	4194304	Value	ValueOutput
+LayerA Dist Color	0	4194304	Value	ValueOutput
+LayerB Dist Color	0	4194304	Value	ValueOutput
+LayerA Dist Output	0	4194304	Value	ValueOutput
+LayerB Dist Output	0	4194304	Value	ValueOutput
+LayerA Dist Mode	0	4194304	Value	ValueOutput
+LayerB Dist Mode	0	4194304	Value	ValueOutput
+LayerA Dist Mono	0	4194304	Value	ValueOutput
+LayerB Dist Mono	0	4194304	Value	ValueOutput
+LayerA LoFi On	0	4194304	Value	ValueOutput
+LayerB LoFi On	0	4194304	Value	ValueOutput
+LayerA LoFi Mix	0	4194304	Value	ValueOutput
+LayerB LoFi Mix	0	4194304	Value	ValueOutput
+LayerA LoFi BitDepth	0	4194304	Value	ValueOutput
+LayerB LoFi BitDepth	0	4194304	Value	ValueOutput
+LayerA LoFi SampleRate	0	4194304	Value	ValueOutput
+LayerB LoFi SampleRate	0	4194304	Value	ValueOutput
+LayerA LoFi Noise	0	4194304	Value	ValueOutput
+LayerB LoFi Noise	0	4194304	Value	ValueOutput
+LayerA LoFi Tone	0	4194304	Value	ValueOutput
+LayerB LoFi Tone	0	4194304	Value	ValueOutput
+LayerA Glitch On	0	4194304	Value	ValueOutput
+LayerB Glitch On	0	4194304	Value	ValueOutput
+LayerA Glitch Mix	0	4194304	Value	ValueOutput
+LayerB Glitch Mix	0	4194304	Value	ValueOutput
+LayerA Glitch Buffer	0	4194304	Value	ValueOutput
+LayerB Glitch Buffer	0	4194304	Value	ValueOutput
+LayerA Glitch Scale	0	4194304	Value	ValueOutput
+LayerB Glitch Scale	0	4194304	Value	ValueOutput
+LayerA Glitch Stretch	0	4194304	Value	ValueOutput
+LayerB Glitch Stretch	0	4194304	Value	ValueOutput
+LayerA Glitch Reverse	0	4194304	Value	ValueOutput
+LayerB Glitch Reverse	0	4194304	Value	ValueOutput
+LayerA Glitch Smooth	0	4194304	Value	ValueOutput
+LayerB Glitch Smooth	0	4194304	Value	ValueOutput
+LayerA Glitch Mode	0	4194304	Value	ValueOutput
+LayerB Glitch Mode	0	4194304	Value	ValueOutput
+LayerA Flanger On	0	4194304	Value	ValueOutput
+LayerB Flanger On	0	4194304	Value	ValueOutput
+LayerA Flanger Delay	0	4194304	Value	ValueOutput
+LayerB Flanger Delay	0	4194304	Value	ValueOutput
+LayerA Flanger Feedback	0	4194304	Value	ValueOutput
+LayerB Flanger Feedback	0	4194304	Value	ValueOutput
+LayerA Flanger Sync	0	4194304	Value	ValueOutput
+LayerB Flanger Sync	0	4194304	Value	ValueOutput
+LayerA Flanger Speed	0	4194304	Value	ValueOutput
+LayerB Flanger Speed	0	4194304	Value	ValueOutput
+LayerA Flanger Depth	0	4194304	Value	ValueOutput
+LayerB Flanger Depth	0	4194304	Value	ValueOutput
+LayerA Flanger Width	0	4194304	Value	ValueOutput
+LayerB Flanger Width	0	4194304	Value	ValueOutput
+LayerA Flanger Tone	0	4194304	Value	ValueOutput
+LayerB Flanger Tone	0	4194304	Value	ValueOutput
+LayerA Flanger Mix	0	4194304	Value	ValueOutput
+LayerB Flanger Mix	0	4194304	Value	ValueOutput
+Mod1 Sync	0	4194304	Value	ValueOutput
+Mod2 Sync	0	4194304	Value	ValueOutput
+Mod3 Sync	0	4194304	Value	ValueOutput
+Mod4 Sync	0	4194304	Value	ValueOutput
+Mod5 Sync	0	4194304	Value	ValueOutput
+Mod6 Sync	0	4194304	Value	ValueOutput
+Mod7 Sync	0	4194304	Value	ValueOutput
+Mod8 Sync	0	4194304	Value	ValueOutput
+Mod1 Speed	0	4194304	Value	ValueOutput
+Mod2 Speed	0	4194304	Value	ValueOutput
+Mod3 Speed	0	4194304	Value	ValueOutput
+Mod4 Speed	0	4194304	Value	ValueOutput
+Mod5 Speed	0	4194304	Value	ValueOutput
+Mod6 Speed	0	4194304	Value	ValueOutput
+Mod7 Speed	0	4194304	Value	ValueOutput
+Mod8 Speed	0	4194304	Value	ValueOutput
+Mod1 Mode	0	4194304	Value	ValueOutput
+Mod2 Mode	0	4194304	Value	ValueOutput
+Mod3 Mode	0	4194304	Value	ValueOutput
+Mod4 Mode	0	4194304	Value	ValueOutput
+Mod5 Mode	0	4194304	Value	ValueOutput
+Mod6 Mode	0	4194304	Value	ValueOutput
+Mod7 Mode	0	4194304	Value	ValueOutput
+Mod8 Mode	0	4194304	Value	ValueOutput
+Mod1 Smooth	0	4194304	Value	ValueOutput
+Mod2 Smooth	0	4194304	Value	ValueOutput
+Mod3 Smooth	0	4194304	Value	ValueOutput
+Mod4 Smooth	0	4194304	Value	ValueOutput
+Mod5 Smooth	0	4194304	Value	ValueOutput
+Mod6 Smooth	0	4194304	Value	ValueOutput
+Mod7 Smooth	0	4194304	Value	ValueOutput
+Mod8 Smooth	0	4194304	Value	ValueOutput
+Mod1 NumSteps	0	4194304	Value	ValueOutput
+Mod2 NumSteps	0	4194304	Value	ValueOutput
+Mod3 NumSteps	0	4194304	Value	ValueOutput
+Mod4 NumSteps	0	4194304	Value	ValueOutput
+Mod5 NumSteps	0	4194304	Value	ValueOutput
+Mod6 NumSteps	0	4194304	Value	ValueOutput
+Mod7 NumSteps	0	4194304	Value	ValueOutput
+Mod8 NumSteps	0	4194304	Value	ValueOutput
+Mod1 Gate	0	4194304	Value	ValueOutput
+Mod2 Gate	0	4194304	Value	ValueOutput
+Mod3 Gate	0	4194304	Value	ValueOutput
+Mod4 Gate	0	4194304	Value	ValueOutput
+Mod5 Gate	0	4194304	Value	ValueOutput
+Mod6 Gate	0	4194304	Value	ValueOutput
+Mod7 Gate	0	4194304	Value	ValueOutput
+Mod8 Gate	0	4194304	Value	ValueOutput
+Mod1 Tension	0	4194304	Value	ValueOutput
+Mod2 Tension	0	4194304	Value	ValueOutput
+Mod3 Tension	0	4194304	Value	ValueOutput
+Mod4 Tension	0	4194304	Value	ValueOutput
+Mod5 Tension	0	4194304	Value	ValueOutput
+Mod6 Tension	0	4194304	Value	ValueOutput
+Mod7 Tension	0	4194304	Value	ValueOutput
+Mod8 Tension	0	4194304	Value	ValueOutput
+Mod1 Tremolo	0	4194304	Value	ValueOutput
+Mod2 Tremolo	0	4194304	Value	ValueOutput
+Mod3 Tremolo	0	4194304	Value	ValueOutput
+Mod4 Tremolo	0	4194304	Value	ValueOutput
+Mod5 Tremolo	0	4194304	Value	ValueOutput
+Mod6 Tremolo	0	4194304	Value	ValueOutput
+Mod7 Tremolo	0	4194304	Value	ValueOutput
+Mod8 Tremolo	0	4194304	Value	ValueOutput
+Mod1 Tremolo Dst	0	4194304	Value	ValueOutput
+Mod2 Tremolo Dst	0	4194304	Value	ValueOutput
+Mod3 Tremolo Dst	0	4194304	Value	ValueOutput
+Mod4 Tremolo Dst	0	4194304	Value	ValueOutput
+Mod5 Tremolo Dst	0	4194304	Value	ValueOutput
+Mod6 Tremolo Dst	0	4194304	Value	ValueOutput
+Mod7 Tremolo Dst	0	4194304	Value	ValueOutput
+Mod8 Tremolo Dst	0	4194304	Value	ValueOutput
+Mod1 Pan Flip	0	4194304	Value	ValueOutput
+Mod2 Pan Flip	0	4194304	Value	ValueOutput
+Mod3 Pan Flip	0	4194304	Value	ValueOutput
+Mod4 Pan Flip	0	4194304	Value	ValueOutput
+Mod5 Pan Flip	0	4194304	Value	ValueOutput
+Mod6 Pan Flip	0	4194304	Value	ValueOutput
+Mod7 Pan Flip	0	4194304	Value	ValueOutput
+Mod8 Pan Flip	0	4194304	Value	ValueOutput
+Mod1 Shuffle	0	4194304	Value	ValueOutput
+Mod2 Shuffle	0	4194304	Value	ValueOutput
+Mod3 Shuffle	0	4194304	Value	ValueOutput
+Mod4 Shuffle	0	4194304	Value	ValueOutput
+Mod5 Shuffle	0	4194304	Value	ValueOutput
+Mod6 Shuffle	0	4194304	Value	ValueOutput
+Mod7 Shuffle	0	4194304	Value	ValueOutput
+Mod8 Shuffle	0	4194304	Value	ValueOutput
+ModMtx01 Power	0	4194304	Value	ValueOutput
+ModMtx02 Power	0	4194304	Value	ValueOutput
+ModMtx03 Power	0	4194304	Value	ValueOutput
+ModMtx04 Power	0	4194304	Value	ValueOutput
+ModMtx05 Power	0	4194304	Value	ValueOutput
+ModMtx06 Power	0	4194304	Value	ValueOutput
+ModMtx07 Power	0	4194304	Value	ValueOutput
+ModMtx08 Power	0	4194304	Value	ValueOutput
+ModMtx09 Power	0	4194304	Value	ValueOutput
+ModMtx10 Power	0	4194304	Value	ValueOutput
+ModMtx11 Power	0	4194304	Value	ValueOutput
+ModMtx12 Power	0	4194304	Value	ValueOutput
+ModMtx13 Power	0	4194304	Value	ValueOutput
+ModMtx14 Power	0	4194304	Value	ValueOutput
+ModMtx15 Power	0	4194304	Value	ValueOutput
+ModMtx16 Power	0	4194304	Value	ValueOutput
+ModMtx17 Power	0	4194304	Value	ValueOutput
+ModMtx18 Power	0	4194304	Value	ValueOutput
+ModMtx19 Power	0	4194304	Value	ValueOutput
+ModMtx20 Power	0	4194304	Value	ValueOutput
+ModMtx21 Power	0	4194304	Value	ValueOutput
+ModMtx22 Power	0	4194304	Value	ValueOutput
+ModMtx23 Power	0	4194304	Value	ValueOutput
+ModMtx24 Power	0	4194304	Value	ValueOutput
+ModMtx01 Depth	0	4194304	Value	ValueOutput
+ModMtx02 Depth	0	4194304	Value	ValueOutput
+ModMtx03 Depth	0	4194304	Value	ValueOutput
+ModMtx04 Depth	0	4194304	Value	ValueOutput
+ModMtx05 Depth	0	4194304	Value	ValueOutput
+ModMtx06 Depth	0	4194304	Value	ValueOutput
+ModMtx07 Depth	0	4194304	Value	ValueOutput
+ModMtx08 Depth	0	4194304	Value	ValueOutput
+ModMtx09 Depth	0	4194304	Value	ValueOutput
+ModMtx10 Depth	0	4194304	Value	ValueOutput
+ModMtx11 Depth	0	4194304	Value	ValueOutput
+ModMtx12 Depth	0	4194304	Value	ValueOutput
+ModMtx13 Depth	0	4194304	Value	ValueOutput
+ModMtx14 Depth	0	4194304	Value	ValueOutput
+ModMtx15 Depth	0	4194304	Value	ValueOutput
+ModMtx16 Depth	0	4194304	Value	ValueOutput
+ModMtx17 Depth	0	4194304	Value	ValueOutput
+ModMtx18 Depth	0	4194304	Value	ValueOutput
+ModMtx19 Depth	0	4194304	Value	ValueOutput
+ModMtx20 Depth	0	4194304	Value	ValueOutput
+ModMtx21 Depth	0	4194304	Value	ValueOutput
+ModMtx22 Depth	0	4194304	Value	ValueOutput
+ModMtx23 Depth	0	4194304	Value	ValueOutput
+ModMtx24 Depth	0	4194304	Value	ValueOutput
+ModMtx01 Source	0	4194304	Value	ValueOutput
+ModMtx02 Source	0	4194304	Value	ValueOutput
+ModMtx03 Source	0	4194304	Value	ValueOutput
+ModMtx04 Source	0	4194304	Value	ValueOutput
+ModMtx05 Source	0	4194304	Value	ValueOutput
+ModMtx06 Source	0	4194304	Value	ValueOutput
+ModMtx07 Source	0	4194304	Value	ValueOutput
+ModMtx08 Source	0	4194304	Value	ValueOutput
+ModMtx09 Source	0	4194304	Value	ValueOutput
+ModMtx10 Source	0	4194304	Value	ValueOutput
+ModMtx11 Source	0	4194304	Value	ValueOutput
+ModMtx12 Source	0	4194304	Value	ValueOutput
+ModMtx13 Source	0	4194304	Value	ValueOutput
+ModMtx14 Source	0	4194304	Value	ValueOutput
+ModMtx15 Source	0	4194304	Value	ValueOutput
+ModMtx16 Source	0	4194304	Value	ValueOutput
+ModMtx17 Source	0	4194304	Value	ValueOutput
+ModMtx18 Source	0	4194304	Value	ValueOutput
+ModMtx19 Source	0	4194304	Value	ValueOutput
+ModMtx20 Source	0	4194304	Value	ValueOutput
+ModMtx21 Source	0	4194304	Value	ValueOutput
+ModMtx22 Source	0	4194304	Value	ValueOutput
+ModMtx23 Source	0	4194304	Value	ValueOutput
+ModMtx24 Source	0	4194304	Value	ValueOutput
+ModMtx01 Target	0	4194304	Value	ValueOutput
+ModMtx02 Target	0	4194304	Value	ValueOutput
+ModMtx03 Target	0	4194304	Value	ValueOutput
+ModMtx04 Target	0	4194304	Value	ValueOutput
+ModMtx05 Target	0	4194304	Value	ValueOutput
+ModMtx06 Target	0	4194304	Value	ValueOutput
+ModMtx07 Target	0	4194304	Value	ValueOutput
+ModMtx08 Target	0	4194304	Value	ValueOutput
+ModMtx09 Target	0	4194304	Value	ValueOutput
+ModMtx10 Target	0	4194304	Value	ValueOutput
+ModMtx11 Target	0	4194304	Value	ValueOutput
+ModMtx12 Target	0	4194304	Value	ValueOutput
+ModMtx13 Target	0	4194304	Value	ValueOutput
+ModMtx14 Target	0	4194304	Value	ValueOutput
+ModMtx15 Target	0	4194304	Value	ValueOutput
+ModMtx16 Target	0	4194304	Value	ValueOutput
+ModMtx17 Target	0	4194304	Value	ValueOutput
+ModMtx18 Target	0	4194304	Value	ValueOutput
+ModMtx19 Target	0	4194304	Value	ValueOutput
+ModMtx20 Target	0	4194304	Value	ValueOutput
+ModMtx21 Target	0	4194304	Value	ValueOutput
+ModMtx22 Target	0	4194304	Value	ValueOutput
+ModMtx23 Target	0	4194304	Value	ValueOutput
+ModMtx24 Target	0	4194304	Value	ValueOutput
+LayerA Flanger Mode	0	4194304	Value	ValueOutput
+LayerB Flanger Mode	0	4194304	Value	ValueOutput
+LayerA Delay Input	0	4194304	Value	ValueOutput
+LayerB Delay Input	0	4194304	Value	ValueOutput
+Reverb Input	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

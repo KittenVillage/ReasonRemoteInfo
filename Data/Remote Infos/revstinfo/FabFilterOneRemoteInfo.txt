@@ -1,0 +1,54 @@
+Scope
+Manufacturer	Model
+FabFilter	vst.FF01.FabFilter One
+Note: Will match scope definitions for vst.FF01.FabFilter One or vst.FF01
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Wave Form	0	4194304	Value	ValueOutput
+Pitch	0	4194304	Value	ValueOutput
+Pulse Width	0	4194304	Value	ValueOutput
+Pulse Width Mod	0	4194304	Value	ValueOutput
+Scale	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Peak	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Sustain	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Hold	0	4194304	Value	ValueOutput
+MG Wave Form	0	4194304	Value	ValueOutput
+MG Type	0	4194304	Value	ValueOutput
+MG Frequency	0	4194304	Value	ValueOutput
+Oscillator MG	0	4194304	Value	ValueOutput
+Oscillator EG	0	4194304	Value	ValueOutput
+Oscillator EG Type	0	4194304	Value	ValueOutput
+Filter MG	0	4194304	Value	ValueOutput
+Filter EG	0	4194304	Value	ValueOutput
+Filter EG Type	0	4194304	Value	ValueOutput
+Portamento	0	4194304	Value	ValueOutput
+Noise	0	4194304	Value	ValueOutput
+NoiseType	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Filter Kbd Track	0	4194304	Value	ValueOutput
+Filter Velocity	0	4194304	Value	ValueOutput
+Polyphony	0	4194304	Value	ValueOutput
+Sync Mode	0	4194304	Value	ValueOutput
+Sync Type	0	4194304	Value	ValueOutput
+Velocity Sensitivity	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

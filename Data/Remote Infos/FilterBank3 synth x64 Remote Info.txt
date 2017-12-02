@@ -1,0 +1,70 @@
+Scope
+Manufacturer	Model
+Tone2.com	vst.T2FS.FilterBank3 synth x64
+Note: Will match scope definitions for vst.T2FS.FilterBank3 synth x64 or vst.T2FS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Filtert1	0	4194304	Value	ValueOutput
+Cutoff	0	4194304	Value	ValueOutput
+Reso	0	4194304	Value	ValueOutput
+Filtert2	0	4194304	Value	ValueOutput
+Cutoff2	0	4194304	Value	ValueOutput
+Reso2	0	4194304	Value	ValueOutput
+Routing	0	4194304	Value	ValueOutput
+Disttype	0	4194304	Value	ValueOutput
+Drive	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+DryWet	0	4194304	Value	ValueOutput
+LFO1f	0	4194304	Value	ValueOutput
+LFO1sync	0	4194304	Value	ValueOutput
+LFO1shap	0	4194304	Value	ValueOutput
+LFO1send	0	4194304	Value	ValueOutput
+LFO1dest	0	4194304	Value	ValueOutput
+LFO2f	0	4194304	Value	ValueOutput
+LFO2sync	0	4194304	Value	ValueOutput
+LFO2shap	0	4194304	Value	ValueOutput
+LFO2send	0	4194304	Value	ValueOutput
+LFO2dest	0	4194304	Value	ValueOutput
+Envtime	0	4194304	Value	ValueOutput
+Envsend	0	4194304	Value	ValueOutput
+Envdest	0	4194304	Value	ValueOutput
+Delaysnd	0	4194304	Value	ValueOutput
+Delaytyp	0	4194304	Value	ValueOutput
+Delaysyn	0	4194304	Value	ValueOutput
+StepSync	0	4194304	Value	ValueOutput
+StepShap	0	4194304	Value	ValueOutput
+StepSend	0	4194304	Value	ValueOutput
+StepDest	0	4194304	Value	ValueOutput
+Step1	0	4194304	Value	ValueOutput
+Step2	0	4194304	Value	ValueOutput
+Step3	0	4194304	Value	ValueOutput
+Step4	0	4194304	Value	ValueOutput
+Step5	0	4194304	Value	ValueOutput
+Step6	0	4194304	Value	ValueOutput
+Step7	0	4194304	Value	ValueOutput
+Step8	0	4194304	Value	ValueOutput
+Step9	0	4194304	Value	ValueOutput
+Step10	0	4194304	Value	ValueOutput
+Step11	0	4194304	Value	ValueOutput
+Step12	0	4194304	Value	ValueOutput
+Step13	0	4194304	Value	ValueOutput
+Step14	0	4194304	Value	ValueOutput
+Step15	0	4194304	Value	ValueOutput
+Step16	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput

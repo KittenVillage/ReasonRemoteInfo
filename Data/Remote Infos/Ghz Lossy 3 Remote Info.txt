@@ -1,0 +1,38 @@
+Scope
+Manufacturer	Model
+Goodhertz	vst.LS3X.Ghz Lossy 3
+Note: Will match scope definitions for vst.LS3X.Ghz Lossy 3 or vst.LS3X
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Master On/Off	0	4194304	Value	ValueOutput
+Loss Amount	0	4194304	Value	ValueOutput
+Loss Speed	0	4194304	Value	ValueOutput
+Loss Gain	0	4194304	Value	ValueOutput
+Loss Mode	0	4194304	Value	ValueOutput
+Low Cut Freq	0	4194304	Value	ValueOutput
+High Cut Freq	0	4194304	Value	ValueOutput
+Filter Slope	0	4194304	Value	ValueOutput
+Filter Mode	0	4194304	Value	ValueOutput
+Master Mix	0	4194304	Value	ValueOutput
+Stereo Mode	0	4194304	Value	ValueOutput
+Gate Threshold	0	4194304	Value	ValueOutput
+Weighting	0	4194304	Value	ValueOutput
+Auto Gain	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput
+Proxy Open Plugin Window	0	1	Toggle	ValueOutput
