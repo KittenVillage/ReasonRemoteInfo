@@ -1,0 +1,79 @@
+Scope
+Manufacturer	Model
+Klevgrand	vst.Pjse.Syndt
+Note: Will match scope definitions for vst.Pjse.Syndt or vst.Pjse
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Osc 1 Shape	0	4194304	Value	ValueOutput
+Osc 1 PWM	0	4194304	Value	ValueOutput
+Osc 1 Attack	0	4194304	Value	ValueOutput
+Osc 1 Decay	0	4194304	Value	ValueOutput
+Osc 1 Sustain	0	4194304	Value	ValueOutput
+Osc 1 Release	0	4194304	Value	ValueOutput
+Osc 1 Rotation F	0	4194304	Value	ValueOutput
+Osc 1 Rotation F	0	4194304	Value	ValueOutput
+Osc 1 Rotation M	0	4194304	Value	ValueOutput
+Osc 1 Rotation M	0	4194304	Value	ValueOutput
+Osc 1 Rotation K	0	4194304	Value	ValueOutput
+Osc 1 HP freq	0	4194304	Value	ValueOutput
+Osc 1 HP reso	0	4194304	Value	ValueOutput
+Osc 1 LP freq	0	4194304	Value	ValueOutput
+Osc 1 LP reso	0	4194304	Value	ValueOutput
+Osc 1 LP offset	0	4194304	Value	ValueOutput
+Osc 1 LP Time	0	4194304	Value	ValueOutput
+LFO 1 Shape	0	4194304	Value	ValueOutput
+LFO 1 PWM	0	4194304	Value	ValueOutput
+LFO 1 Frequency	0	4194304	Value	ValueOutput
+LFO 1 PhaseOffse	0	4194304	Value	ValueOutput
+LFO 1 LP	0	4194304	Value	ValueOutput
+LFO 1 HP	0	4194304	Value	ValueOutput
+LFO 1 GAIN	0	4194304	Value	ValueOutput
+LFO 1 PITCH	0	4194304	Value	ValueOutput
+LFO 1 Key Sync	0	4194304	Value	ValueOutput
+Gain Vel mod	0	4194304	Value	ValueOutput
+LP freq vel mod	0	4194304	Value	ValueOutput
+LP offset vel mo	0	4194304	Value	ValueOutput
+LFO 1 LP mod whe	0	4194304	Value	ValueOutput
+LFO 1 HP mod whe	0	4194304	Value	ValueOutput
+LFO 1 Gain mod w	0	4194304	Value	ValueOutput
+LFO 1 Pitch mod 	0	4194304	Value	ValueOutput
+Delay tempo	0	4194304	Value	ValueOutput
+Delay feedback	0	4194304	Value	ValueOutput
+Delay width	0	4194304	Value	ValueOutput
+Delay HP	0	4194304	Value	ValueOutput
+Delay LP	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Delay Swap CH	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Freq	0	4194304	Value	ValueOutput
+Chorus Level	0	4194304	Value	ValueOutput
+EQ Low	0	4194304	Value	ValueOutput
+EQ Mid	0	4194304	Value	ValueOutput
+EQ High	0	4194304	Value	ValueOutput
+Legato Mode	0	4194304	Value	ValueOutput
+Legato Time	0	4194304	Value	ValueOutput
+LFO 1 Attack	0	4194304	Value	ValueOutput
+Pitch Bend range	0	4194304	Value	ValueOutput
+LFO Host Sync	0	4194304	Value	ValueOutput
+Delay Host Sync	0	4194304	Value	ValueOutput
+LFO Length multi	0	4194304	Value	ValueOutput
+Delay length mul	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput
+Proxy Open Plugin Window	0	1	Toggle	ValueOutput

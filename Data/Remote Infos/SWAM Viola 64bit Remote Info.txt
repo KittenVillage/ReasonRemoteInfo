@@ -1,0 +1,170 @@
+Scope
+Manufacturer	Model
+SWAM	vst.VlaS.SWAM Viola 64bit
+Note: Will match scope definitions for vst.VlaS.SWAM Viola 64bit or vst.VlaS
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	-	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Main Volume	0	4194304	Value	ValueOutput
+Pan Pot	0	4194304	Value	ValueOutput
+Master Tune Hz	0	4194304	Value	ValueOutput
+Reverb Mix	0	4194304	Value	ValueOutput
+Reverb Time	0	4194304	Value	ValueOutput
+Transpose	0	4194304	Value	ValueOutput
+Pitch Bend Up	0	4194304	Value	ValueOutput
+Pitch Bend Down	0	4194304	Value	ValueOutput
+IR selected	0	4194304	Value	ValueOutput
+Random Finger	0	4194304	Value	ValueOutput
+Dynamic Transit	0	4194304	Value	ValueOutput
+Attack Type	0	4194304	Value	ValueOutput
+Atk Env Speed	0	4194304	Value	ValueOutput
+Rel Env	0	4194304	Value	ValueOutput
+Portamento Ctrl	0	4194304	Value	ValueOutput
+Portamento Spli	0	4194304	Value	ValueOutput
+Max Port Time	0	4194304	Value	ValueOutput
+Vibr Rate	0	4194304	Value	ValueOutput
+Vibrato Rate Ra	0	4194304	Value	ValueOutput
+Expr. Pedal Typ	0	4194304	Value	ValueOutput
+Pan Pot Type	0	4194304	Value	ValueOutput
+KS Oct.Transp.	0	4194304	Value	ValueOutput
+BC Mode	0	4194304	Value	ValueOutput
+BC AttakSens	0	4194304	Value	ValueOutput
+Bow Force Sensi	0	4194304	Value	ValueOutput
+Bow Position	0	4194304	Value	ValueOutput
+PizzTone	0	4194304	Value	ValueOutput
+Pizz.FBoard Int	0	4194304	Value	ValueOutput
+Release Time	0	4194304	Value	ValueOutput
+Expression Sens	0	4194304	Value	ValueOutput
+Stickiness Amou	0	4194304	Value	ValueOutput
+Bow Noise Amoun	0	4194304	Value	ValueOutput
+Random Bow Amou	0	4194304	Value	ValueOutput
+Play Mode	0	4194304	Value	ValueOutput
+Gesture Mode	0	4194304	Value	ValueOutput
+Polyphony	0	4194304	Value	ValueOutput
+dblHoldStrSelec	0	4194304	Value	ValueOutput
+sordinoParam	0	4194304	Value	ValueOutput
+Alternate Finge	0	4194304	Value	ValueOutput
+Bow Lift Mode	0	4194304	Value	ValueOutput
+Bow Change	0	4194304	Value	ValueOutput
+Harmonics	0	4194304	Value	ValueOutput
+Tremolo	0	4194304	Value	ValueOutput
+Tremolo Mode	0	4194304	Value	ValueOutput
+Tremolo Speed	0	4194304	Value	ValueOutput
+Interactive Bow	0	4194304	Value	ValueOutput
+Solo/Ensemble	0	4194304	Value	ValueOutput
+ksMode	0	4194304	Value	ValueOutput
+ksVelRemap	0	4194304	Value	ValueOutput
+sustainLatch	0	4194304	Value	ValueOutput
+autoDetectionTi	0	4194304	Value	ValueOutput
+Temperam	0	4194304	Value	ValueOutput
+Microtune C 	0	4194304	Value	ValueOutput
+Microtune C#	0	4194304	Value	ValueOutput
+Microtune D 	0	4194304	Value	ValueOutput
+Microtune D#	0	4194304	Value	ValueOutput
+Microtune E 	0	4194304	Value	ValueOutput
+Microtune F 	0	4194304	Value	ValueOutput
+Microtune F#	0	4194304	Value	ValueOutput
+Microtune G 	0	4194304	Value	ValueOutput
+Microtune G#	0	4194304	Value	ValueOutput
+Microtune A 	0	4194304	Value	ValueOutput
+Microtune A#	0	4194304	Value	ValueOutput
+Microtune B 	0	4194304	Value	ValueOutput
+Microtune Statu	0	4194304	Value	ValueOutput
+Microtune Statu	0	4194304	Value	ValueOutput
+Microtune Statu	0	4194304	Value	ValueOutput
+Microtune Statu	0	4194304	Value	ValueOutput
+Microtune Statu	0	4194304	Value	ValueOutput
+Microtune Statu	0	4194304	Value	ValueOutput
+Microtune Statu	0	4194304	Value	ValueOutput
+Microtune Statu	0	4194304	Value	ValueOutput
+Microtune Statu	0	4194304	Value	ValueOutput
+Microtune Statu	0	4194304	Value	ValueOutput
+Microtune Statu	0	4194304	Value	ValueOutput
+Microtune Statu	0	4194304	Value	ValueOutput
+Main Volume CC	0	4194304	Value	ValueOutput
+Pan Pot CC	0	4194304	Value	ValueOutput
+Reverb Mix CC	0	4194304	Value	ValueOutput
+MicroTuning (ON	0	4194304	Value	ValueOutput
+Sustain (ON OFF	0	4194304	Value	ValueOutput
+Expression CC	0	4194304	Value	ValueOutput
+Vibrato Depth C	0	4194304	Value	ValueOutput
+Vibrato Rate CC	0	4194304	Value	ValueOutput
+Portamento Time	0	4194304	Value	ValueOutput
+Portamento Spli	0	4194304	Value	ValueOutput
+Dyn. Transition	0	4194304	Value	ValueOutput
+Bow Pressure CC	0	4194304	Value	ValueOutput
+Bow Position CC	0	4194304	Value	ValueOutput
+Play Mode CC	0	4194304	Value	ValueOutput
+Gesture Mode CC	0	4194304	Value	ValueOutput
+Mono/Double/Aut	0	4194304	Value	ValueOutput
+Dbl/Hold Str. S	0	4194304	Value	ValueOutput
+Sordino (ON OFF	0	4194304	Value	ValueOutput
+Alt. Fingering 	0	4194304	Value	ValueOutput
+Bow Lift CC	0	4194304	Value	ValueOutput
+Bow Start CC	0	4194304	Value	ValueOutput
+Harmonics CC	0	4194304	Value	ValueOutput
+Note-off Sust. 	0	4194304	Value	ValueOutput
+Tremolo Off/Slo	0	4194304	Value	ValueOutput
+Tremolo Mode Hz	0	4194304	Value	ValueOutput
+Tremolo Speed C	0	4194304	Value	ValueOutput
+Env Attack Spee	0	4194304	Value	ValueOutput
+Bow Noise CC	0	4194304	Value	ValueOutput
+Accent Type CC	0	4194304	Value	ValueOutput
+MIDIvalMin0	0	4194304	Value	ValueOutput
+MIDIvalMin1	0	4194304	Value	ValueOutput
+MIDIvalMin2	0	4194304	Value	ValueOutput
+MIDIvalMin3	0	4194304	Value	ValueOutput
+MIDIvalMin4	0	4194304	Value	ValueOutput
+MIDIvalMin5	0	4194304	Value	ValueOutput
+MIDIvalMin6	0	4194304	Value	ValueOutput
+MIDIvalMin7	0	4194304	Value	ValueOutput
+MIDIvalMin8	0	4194304	Value	ValueOutput
+MIDIvalMin9	0	4194304	Value	ValueOutput
+MIDIvalMin10	0	4194304	Value	ValueOutput
+MIDIvalMin11	0	4194304	Value	ValueOutput
+MIDIvalMin12	0	4194304	Value	ValueOutput
+MIDIvalMin13	0	4194304	Value	ValueOutput
+MIDIvalMin14	0	4194304	Value	ValueOutput
+MIDIvalMax0	0	4194304	Value	ValueOutput
+MIDIvalMax1	0	4194304	Value	ValueOutput
+MIDIvalMax2	0	4194304	Value	ValueOutput
+MIDIvalMax3	0	4194304	Value	ValueOutput
+MIDIvalMax4	0	4194304	Value	ValueOutput
+MIDIvalMax5	0	4194304	Value	ValueOutput
+MIDIvalMax6	0	4194304	Value	ValueOutput
+MIDIvalMax7	0	4194304	Value	ValueOutput
+MIDIvalMax8	0	4194304	Value	ValueOutput
+MIDIvalMax9	0	4194304	Value	ValueOutput
+MIDIvalMax10	0	4194304	Value	ValueOutput
+MIDIvalMax11	0	4194304	Value	ValueOutput
+MIDIvalMax12	0	4194304	Value	ValueOutput
+MIDIvalMax13	0	4194304	Value	ValueOutput
+MIDIvalMax14	0	4194304	Value	ValueOutput
+KSmidiCH	0	4194304	Value	ValueOutput
+ManualTremoloMo	0	4194304	Value	ValueOutput
+Vibrato Fade In	0	4194304	Value	ValueOutput
+Strings 3-4 Int	0	4194304	Value	ValueOutput
+Strings 2-3 Int	0	4194304	Value	ValueOutput
+Strings 1-2 Int	0	4194304	Value	ValueOutput
+string0tune	0	4194304	Value	ValueOutput
+Acc.Type	0	4194304	Value	ValueOutput
+Brightness	0	4194304	Value	ValueOutput
+exprStrResParam	0	4194304	Value	ValueOutput
+Expr/Press Matc	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput
+Proxy Open Plugin Window	0	1	Toggle	ValueOutput

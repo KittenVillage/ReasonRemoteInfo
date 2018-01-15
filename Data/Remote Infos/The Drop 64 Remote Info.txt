@@ -1,0 +1,154 @@
+Scope
+Manufacturer	Model
+Cytomic	vst.Drp1.The Drop 64
+Note: Will match scope definitions for vst.Drp1.The Drop 64 or vst.Drp1
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Lp Freq	0	4194304	Value	ValueOutput
+Lp Res	0	4194304	Value	ValueOutput
+Lp Drive	0	4194304	Value	ValueOutput
+Shift	0	4194304	Value	ValueOutput
+Hp Freq	0	4194304	Value	ValueOutput
+Hp Res	0	4194304	Value	ValueOutput
+Hp Drive	0	4194304	Value	ValueOutput
+Spread	0	4194304	Value	ValueOutput
+Lp 4 Pole	0	4194304	Value	ValueOutput
+Lp Circuit	0	4194304	Value	ValueOutput
+Lp Safe Res	0	4194304	Value	ValueOutput
+Lp Active	0	4194304	Value	ValueOutput
+Hp 4 Pole	0	4194304	Value	ValueOutput
+Hp Circuit	0	4194304	Value	ValueOutput
+Hp Safe Res	0	4194304	Value	ValueOutput
+Hp Active	0	4194304	Value	ValueOutput
+Pre	0	4194304	Value	ValueOutput
+Post	0	4194304	Value	ValueOutput
+Mix	0	4194304	Value	ValueOutput
+Pad	0	4194304	Value	ValueOutput
+Glide	0	4194304	Value	ValueOutput
+Glide Mode	0	4194304	Value	ValueOutput
+Glide Track	0	4194304	Value	ValueOutput
+Lfo1 Active	0	4194304	Value	ValueOutput
+Lfo1 Rate	0	4194304	Value	ValueOutput
+Lfo1 Mult	0	4194304	Value	ValueOutput
+Lfo1 Spread	0	4194304	Value	ValueOutput
+Lfo1 Sync	0	4194304	Value	ValueOutput
+Lfo1 Uni	0	4194304	Value	ValueOutput
+Lfo1 Trig	0	4194304	Value	ValueOutput
+Lfo1 Source	0	4194304	Value	ValueOutput
+Lfo1 Level	0	4194304	Value	ValueOutput
+Lfo2 Active	0	4194304	Value	ValueOutput
+Lfo2 Rate	0	4194304	Value	ValueOutput
+Lfo2 Mult	0	4194304	Value	ValueOutput
+Lfo2 Asym	0	4194304	Value	ValueOutput
+Lfo2 Curve	0	4194304	Value	ValueOutput
+Lfo2 Swing	0	4194304	Value	ValueOutput
+Lfo2 Rand	0	4194304	Value	ValueOutput
+Lfo2 Phase	0	4194304	Value	ValueOutput
+Lfo2 Spread	0	4194304	Value	ValueOutput
+Lfo2 Sync	0	4194304	Value	ValueOutput
+Lfo2 Uni	0	4194304	Value	ValueOutput
+Lfo2 Trig	0	4194304	Value	ValueOutput
+Lfo2 Once	0	4194304	Value	ValueOutput
+Lfo2 Source	0	4194304	Value	ValueOutput
+Lfo2 Level	0	4194304	Value	ValueOutput
+Lfo2 Pattern	0	4194304	Value	ValueOutput
+Lfo2 Steps	0	4194304	Value	ValueOutput
+Env1 Active	0	4194304	Value	ValueOutput
+Env1 Attack	0	4194304	Value	ValueOutput
+Env1 Hold	0	4194304	Value	ValueOutput
+Env1 Relelase	0	4194304	Value	ValueOutput
+Env1 Sens	0	4194304	Value	ValueOutput
+Env1 Mode	0	4194304	Value	ValueOutput
+Env1 Source	0	4194304	Value	ValueOutput
+Env1 Trig	0	4194304	Value	ValueOutput
+Env2 Active	0	4194304	Value	ValueOutput
+Env2 Attack	0	4194304	Value	ValueOutput
+Env2 Hold	0	4194304	Value	ValueOutput
+Env2 Relelase	0	4194304	Value	ValueOutput
+Env2 Sens	0	4194304	Value	ValueOutput
+Env2 Mode	0	4194304	Value	ValueOutput
+Env2 Source	0	4194304	Value	ValueOutput
+Env2 Trig	0	4194304	Value	ValueOutput
+Fm Active	0	4194304	Value	ValueOutput
+Fm Source	0	4194304	Value	ValueOutput
+Fm Level	0	4194304	Value	ValueOutput
+Midi Active	0	4194304	Value	ValueOutput
+Legato	0	4194304	Value	ValueOutput
+Track	0	4194304	Value	ValueOutput
+Lp KeyTrack	0	4194304	Value	ValueOutput
+Hp KeyTrack	0	4194304	Value	ValueOutput
+Lfo2 KeyTrack	0	4194304	Value	ValueOutput
+Source View	0	4194304	Value	ValueOutput
+Dest Select	0	4194304	Value	ValueOutput
+Mod HpFreq	0	4194304	Value	ValueOutput
+Mod HpRes	0	4194304	Value	ValueOutput
+Mod Shift	0	4194304	Value	ValueOutput
+Mod LpFreq	0	4194304	Value	ValueOutput
+Mod LpRes	0	4194304	Value	ValueOutput
+Mod Pre	0	4194304	Value	ValueOutput
+Mod Post	0	4194304	Value	ValueOutput
+Lfo1]HpFreq	0	4194304	Value	ValueOutput
+Lfo2]HpFreq	0	4194304	Value	ValueOutput
+Env1]HpFreq	0	4194304	Value	ValueOutput
+Env2]HpFreq	0	4194304	Value	ValueOutput
+Fm]HpFreq	0	4194304	Value	ValueOutput
+Lfo1]HpRes	0	4194304	Value	ValueOutput
+Lfo2]HpRes	0	4194304	Value	ValueOutput
+Env1]HpRes	0	4194304	Value	ValueOutput
+Env2]HpRes	0	4194304	Value	ValueOutput
+Fm]HpRes	0	4194304	Value	ValueOutput
+Lfo1]Shift	0	4194304	Value	ValueOutput
+Lfo2]Shift	0	4194304	Value	ValueOutput
+Env1]Shift	0	4194304	Value	ValueOutput
+Env2]Shift	0	4194304	Value	ValueOutput
+Fm]Shift	0	4194304	Value	ValueOutput
+Lfo1]LpFreq	0	4194304	Value	ValueOutput
+Lfo2]LpFreq	0	4194304	Value	ValueOutput
+Env1]LpFreq	0	4194304	Value	ValueOutput
+Env2]LpFreq	0	4194304	Value	ValueOutput
+Fm]LpFreq	0	4194304	Value	ValueOutput
+Lfo1]LpRes	0	4194304	Value	ValueOutput
+Lfo2]LpRes	0	4194304	Value	ValueOutput
+Env1]LpRes	0	4194304	Value	ValueOutput
+Env2]LpRes	0	4194304	Value	ValueOutput
+Fm]LpRes	0	4194304	Value	ValueOutput
+Lfo1]Pre	0	4194304	Value	ValueOutput
+Lfo2]Pre	0	4194304	Value	ValueOutput
+Env1]Pre	0	4194304	Value	ValueOutput
+Env2]Pre	0	4194304	Value	ValueOutput
+Fm]Pre	0	4194304	Value	ValueOutput
+Lfo1]Post	0	4194304	Value	ValueOutput
+Lfo2]Post	0	4194304	Value	ValueOutput
+Env1]Post	0	4194304	Value	ValueOutput
+Env2]Post	0	4194304	Value	ValueOutput
+Fm]Post	0	4194304	Value	ValueOutput
+Power	0	4194304	Value	ValueOutput
+Step ShSp	0	4194304	Value	ValueOutput
+Wide ShSp	0	4194304	Value	ValueOutput
+Routing	0	4194304	Value	ValueOutput
+Lp Hd	0	4194304	Value	ValueOutput
+Lp Resmax	0	4194304	Value	ValueOutput
+Hp Hd	0	4194304	Value	ValueOutput
+Hp Resmax	0	4194304	Value	ValueOutput
+Lfo1 Phase	0	4194304	Value	ValueOutput
+Lfo1 Once	0	4194304	Value	ValueOutput
+Res Shift	0	4194304	Value	ValueOutput
+Mod Active	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput
+Proxy Open Plugin Window	0	1	Toggle	ValueOutput

@@ -1,0 +1,52 @@
+Scope
+Manufacturer	Model
+Klevgrand	vst.vndl.Vandelay
+Note: Will match scope definitions for vst.vndl.Vandelay or vst.vndl
+
+Remotable	Min	Max	Input type	Output type
+Proxy Pitch Bend	-8192	8191	Value	ValueOutput
+Proxy Mod Wheel	0	127	Value	ValueOutput
+Proxy Enabled	0	2	Value	ValueOutput
+Proxy Note On Indicator	0	1	-	ValueOutput
+Proxy CV Input Indicator	0	1	-	ValueOutput
+Proxy Parameter Automation Indicator	0	1	-	ValueOutput
+Proxy Input Audio Meter	0	20	-	ValueOutput
+Proxy Output Audio Meter	0	20	-	ValueOutput
+Proxy Power Button	0	1	-	ValueOutput
+Dry/Wet Mix	0	4194304	Value	ValueOutput
+Tempo	0	4194304	Value	ValueOutput
+Sync on/off	0	4194304	Value	ValueOutput
+Split Low	0	4194304	Value	ValueOutput
+Split High	0	4194304	Value	ValueOutput
+Low Mute	0	4194304	Value	ValueOutput
+Low Cross	0	4194304	Value	ValueOutput
+Low Gain	0	4194304	Value	ValueOutput
+Low Feedback	0	4194304	Value	ValueOutput
+Low Time	0	4194304	Value	ValueOutput
+Low Mod Freq	0	4194304	Value	ValueOutput
+Low Mod Amplitu	0	4194304	Value	ValueOutput
+Mid Mute	0	4194304	Value	ValueOutput
+Mid Cross	0	4194304	Value	ValueOutput
+Mid Gain	0	4194304	Value	ValueOutput
+Mid Feedback	0	4194304	Value	ValueOutput
+Mid Time	0	4194304	Value	ValueOutput
+Mid Mod Freq	0	4194304	Value	ValueOutput
+Mid Mod Amplitu	0	4194304	Value	ValueOutput
+High Mute	0	4194304	Value	ValueOutput
+High Cross	0	4194304	Value	ValueOutput
+High Gain	0	4194304	Value	ValueOutput
+High Feedback	0	4194304	Value	ValueOutput
+High Time	0	4194304	Value	ValueOutput
+High Mod Freq	0	4194304	Value	ValueOutput
+High Mod Amplit	0	4194304	Value	ValueOutput
+Snap on/off	0	4194304	Value	ValueOutput
+Resolution	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
+Select Program Delta	0	0	Delta	TextOutput
+Select Previous Program	0	0	Trig	TextOutput
+Select Next Program	0	0	Trig	TextOutput
+Proxy Open Plugin Window	0	1	Toggle	ValueOutput
