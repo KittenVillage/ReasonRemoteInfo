@@ -1,0 +1,38 @@
+Scope
+Manufacturer	Model
+Bcase	fr.bcase.OBC
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Threshold	0	4194304	Value	ValueOutput
+Invert Threshold	0	1	Toggle	ValueOutput
+SideChain Mix	0	4194304	Value	ValueOutput
+Smooth Threshold	0	4194304	Value	ValueOutput
+Attack	0	4194304	Value	ValueOutput
+Decay	0	4194304	Value	ValueOutput
+Sustain	0	4194304	Value	ValueOutput
+Release	0	4194304	Value	ValueOutput
+Delta Increment	0	4194304	Value	ValueOutput
+Delta Decrement	0	4194304	Value	ValueOutput
+Link	0	1	Toggle	ValueOutput
+Power	0	4194304	Value	ValueOutput
+Resolution Frequency	0	4194304	Value	ValueOutput
+Resolution Range	0	4194304	Value	ValueOutput
+Resolution Mode	0	4	Value	ValueOutput
+Fast Mode	0	1	Toggle	ValueOutput
+Fast Level	0	4194304	Value	ValueOutput
+Soft Mode	0	1	Toggle	ValueOutput
+Soft Level	0	4194304	Value	ValueOutput
+Pan Mode	0	1	Toggle	ValueOutput
+Pan Level	0	4194304	Value	ValueOutput
+Pan Resolution	0	4194304	Value	ValueOutput
+Gain	0	1	Toggle	ValueOutput
+Gain Level	0	4194304	Value	ValueOutput
+Saturation Threshold	0	4194304	Value	ValueOutput
+Volume In	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

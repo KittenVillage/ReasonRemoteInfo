@@ -1,0 +1,42 @@
+Scope
+Manufacturer	Model
+Turn2on Software	ru.turn2on.Cronus
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Chorus Soft Bypass	0	1	Toggle	ValueOutput
+Chorus Dry Signal	0	4194304	Value	ValueOutput
+Chorus Wet Signal	0	4194304	Value	ValueOutput
+Chorus Mix	0	4194304	Value	ValueOutput
+Chorus Rate	0	4194304	Value	ValueOutput
+Chorus Depth	0	4194304	Value	ValueOutput
+Chorus Delay	0	4194304	Value	ValueOutput
+Chorus Tone	0	4194304	Value	ValueOutput
+Chorus Layers	0	3	Value	ValueOutput
+Chorus Waveform	0	1	Toggle	ValueOutput
+Chorus Ultra	0	4194304	Value	ValueOutput
+Flanger Soft Bypass	0	1	Toggle	ValueOutput
+Flanger Rate	0	4194304	Value	ValueOutput
+Flanger Depth	0	4194304	Value	ValueOutput
+Flanger Delay	0	4194304	Value	ValueOutput
+Flanger Feedback	0	4194304	Value	ValueOutput
+Flanger Phase	0	4194304	Value	ValueOutput
+Flanger Mix	0	4194304	Value	ValueOutput
+Flanger Contour	0	4194304	Value	ValueOutput
+Tremolo Soft Bypass	0	1	Toggle	ValueOutput
+Tremolo Rate	0	4194304	Value	ValueOutput
+Tremolo Depth	0	4194304	Value	ValueOutput
+Tremolo Symmetry	0	4194304	Value	ValueOutput
+Tremolo Plus	0	4194304	Value	ValueOutput
+Tremolo Minus	0	4194304	Value	ValueOutput
+Tremolo Plus Curve	0	4194304	Value	ValueOutput
+Tremolo Minus Curve	0	4194304	Value	ValueOutput
+Tremolo Phase	0	4194304	Value	ValueOutput
+Tremolo Angle	0	4194304	Value	ValueOutput
+Input Level Correction	0	4194304	Value	ValueOutput
+Output Level Correction	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

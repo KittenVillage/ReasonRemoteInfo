@@ -14,6 +14,7 @@ Poly Limit All	0	1	Toggle	ValueOutput
 Poly Total Polyphony	0	15	Value	ValueOutput
 Poly Limit Attack	0	1	Toggle	ValueOutput
 Poly Attack Polyphony	0	15	Value	ValueOutput
+Poly Channel Mode	0	6	Value	ValueOutput
 Link Scale	0	4194304	Value	ValueOutput
 Link Envelopes	0	4	Value	ValueOutput
 Link Start	0	5	Value	ValueOutput
@@ -28,6 +29,10 @@ Chain Env Add-In Scaled 1	0	1	Toggle	ValueOutput
 Chain Env Add-In Scaled 2	0	1	Toggle	ValueOutput
 Link n/a	0	5	Value	ValueOutput
 Poly Attack n/a	0	15	Value	ValueOutput
+User Knob 1	0	4194304	Value	ValueOutput
+User Knob 2	0	4194304	Value	ValueOutput
+User Button 1	0	1	Toggle	ValueOutput
+User Button 2	0	1	Toggle	ValueOutput
 Env 1 Enable	0	1	Toggle	ValueOutput
 Env 1 Sync	0	2	Value	ValueOutput
 Env 1 Loop	0	1	Toggle	ValueOutput
@@ -104,25 +109,53 @@ Env 2 Mid Decay 2	0	4194304	Value	ValueOutput
 Env 2 Mid Release	0	4194304	Value	ValueOutput
 Env 2 Mid Release 2	0	4194304	Value	ValueOutput
 Env 2 Smooth Size	0	64	Value	ValueOutput
-Mod Env 1 Source	0	37	Value	ValueOutput
+Mod Env 1 Source	0	73	Value	ValueOutput
 Mod Env 1 Dest	0	5	Value	ValueOutput
-Mod Env 1 Knob	0	73	Value	ValueOutput
+Mod Env 1 Knob	0	105	Value	ValueOutput
 Mod Env 1 Amount	0	4194304	Value	ValueOutput
-Mod Env 2 Source	0	37	Value	ValueOutput
+Mod Env 2 Source	0	73	Value	ValueOutput
 Mod Env 2 Dest	0	5	Value	ValueOutput
-Mod Env 2 Knob	0	73	Value	ValueOutput
+Mod Env 2 Knob	0	105	Value	ValueOutput
 Mod Env 2 Amount	0	4194304	Value	ValueOutput
-Mod Env 3 Source	0	37	Value	ValueOutput
+Mod Env 3 Source	0	73	Value	ValueOutput
 Mod Env 3 Dest	0	5	Value	ValueOutput
-Mod Env 3 Knob	0	73	Value	ValueOutput
+Mod Env 3 Knob	0	105	Value	ValueOutput
 Mod Env 3 Amount	0	4194304	Value	ValueOutput
-Mod Env 4 Source	0	37	Value	ValueOutput
+Mod Env 4 Source	0	73	Value	ValueOutput
 Mod Env 4 Dest	0	5	Value	ValueOutput
-Mod Env 4 Knob	0	73	Value	ValueOutput
+Mod Env 4 Knob	0	105	Value	ValueOutput
 Mod Env 4 Amount	0	4194304	Value	ValueOutput
+Mod Env Scaled 1 Source	0	73	Value	ValueOutput
+Mod Env Scaled 1 Dest	0	53	Value	ValueOutput
+Mod Env Scaled 1 Amount	0	4194304	Value	ValueOutput
+Mod Env Scaled 2 Source	0	73	Value	ValueOutput
+Mod Env Scaled 2 Dest	0	53	Value	ValueOutput
+Mod Env Scaled 2 Amount	0	4194304	Value	ValueOutput
+User Knob 3	0	4194304	Value	ValueOutput
+User Knob 4	0	4194304	Value	ValueOutput
 Sustain Pedal	0	127	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Display Color Primary Red	0	255	Value	ValueOutput
+Display Color Primary Green	0	255	Value	ValueOutput
+Display Color Primary Blue	0	255	Value	ValueOutput
+Display Color Secondary Red	0	255	Value	ValueOutput
+Display Color Secondary Green	0	255	Value	ValueOutput
+Display Color Secondary Blue	0	255	Value	ValueOutput
+Display Color Dummy	0	255	Value	ValueOutput
+Mod Env 5 Source	0	73	Value	ValueOutput
+Mod Env 6 Source	0	73	Value	ValueOutput
+Mod Env 5 Dest	0	5	Value	ValueOutput
+Mod Env 6 Dest	0	5	Value	ValueOutput
+Mod Env 5 Knob	0	105	Value	ValueOutput
+Mod Env 6 Knob	0	105	Value	ValueOutput
+Mod Env 5 Amount	0	4194304	Value	ValueOutput
+Mod Env 6 Amount	0	4194304	Value	ValueOutput
 Scope Speed	0	63	Value	ValueOutput
-Scope Source	0	37	Value	ValueOutput
+Scope Source	0	73	Value	ValueOutput
 Scope Select	0	2	Value	ValueOutput
 Scope FPS	0	9	Value	ValueOutput
 Scope Uni	0	1	Toggle	ValueOutput
@@ -131,7 +164,9 @@ Scope Sustain Free	0	4194304	Value	ValueOutput
 Scope Sustain Sync	0	37	Value	ValueOutput
 Scope Sustain Sync 2	0	49	Value	ValueOutput
 Scope Sync	0	2	Value	ValueOutput
-Scope Dual Type	0	1	Toggle	ValueOutput
+Scope Dual Type	0	2	Value	ValueOutput
+Meter Color	0	9	Value	ValueOutput
+Color Scheme	0	6	Value	ValueOutput
 Device Name	0	0	-	TextOutput
 Patch Name	0	0	-	TextOutput
 Select Patch Delta	0	0	Delta	TextOutput

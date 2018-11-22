@@ -1,0 +1,63 @@
+Scope
+Manufacturer	Model
+Turn2on Software	ru.turn2on.MarsPeaks
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Automata A1 CV-In	0	4194304	Value	ValueOutput
+Automata A2 CV-In	0	4194304	Value	ValueOutput
+Automata A3 CV-In	0	4194304	Value	ValueOutput
+Atmosphere Distance	0	4194304	Value	ValueOutput
+Atmosphere Sonar	0	4194304	Value	ValueOutput
+Atmosphere Dry/Wet	0	4194304	Value	ValueOutput
+Atmosphere LowCut	0	4194304	Value	ValueOutput
+Atmosphere HiCut	0	4194304	Value	ValueOutput
+Atmosphere Activity	0	3	Value	ValueOutput
+Atmosphere Dry Signal	0	4194304	Value	ValueOutput
+Atmosphere Wet Signal	0	4194304	Value	ValueOutput
+Input Level Correction	0	4194304	Value	ValueOutput
+Output Level Correction	0	4194304	Value	ValueOutput
+Orbit Dry Signal	0	4194304	Value	ValueOutput
+Orbit Wet Signal	0	4194304	Value	ValueOutput
+Spaces Oxygen Dry Signal	0	4194304	Value	ValueOutput
+Spaces Oxygen Wet Signal	0	4194304	Value	ValueOutput
+Ground Signal	0	4194304	Value	ValueOutput
+Spaces Signal	0	4194304	Value	ValueOutput
+Rover Sonar Level Signal	0	4194304	Value	ValueOutput
+Rover Sonar Wet Signal	0	4194304	Value	ValueOutput
+Modulation Source	0	4	Value	ValueOutput
+Modulation Destination	0	4	Value	ValueOutput
+Modulation Amount	0	4194304	Value	ValueOutput
+LFO Rate	0	43	Value	ValueOutput
+LFO Randomize	0	4194304	Value	ValueOutput
+LFO Rate Affect	0	43	Value	ValueOutput
+LFO Depth Mod	0	4194304	Value	ValueOutput
+LFO Wave Source	0	8	Value	ValueOutput
+Orbit Activity	0	3	Value	ValueOutput
+Orbit Shift	0	4194304	Value	ValueOutput
+Orbit Sol	0	3	Value	ValueOutput
+Orbit Moon	0	1	Toggle	ValueOutput
+Orbit Gravity	0	4194304	Value	ValueOutput
+Spaces Model	0	39	Value	ValueOutput
+Spaces Width	0	4194304	Value	ValueOutput
+Spaces Attack	0	4194304	Value	ValueOutput
+Spaces Decay	0	4194304	Value	ValueOutput
+Spaces Oxygen	0	4194304	Value	ValueOutput
+Rover Activity	0	3	Value	ValueOutput
+Rover Sonar Level	0	4194304	Value	ValueOutput
+Rover Distance	0	4194304	Value	ValueOutput
+Rover LowCut	0	4194304	Value	ValueOutput
+Rover HiCut	0	4194304	Value	ValueOutput
+Ground/Space Morphing	0	4194304	Value	ValueOutput
+Select Atmosphere / Rover	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -39,11 +39,11 @@ Envelope Loop	0	1	Toggle	ValueOutput
 Gate 1 Enable	0	1	Toggle	ValueOutput
 Gate 1 Trigger	0	1	Toggle	ValueOutput
 Gate 1 Quant Channel	0	3	Value	ValueOutput
-Gate 1 Source Channel	0	58	Value	ValueOutput
+Gate 1 Source Channel	0	81	Value	ValueOutput
 Gate 2 Enable	0	1	Toggle	ValueOutput
 Gate 2 Trigger	0	1	Toggle	ValueOutput
 Gate 2 Quant Channel	0	3	Value	ValueOutput
-Gate 2 Source Channel	0	58	Value	ValueOutput
+Gate 2 Source Channel	0	81	Value	ValueOutput
 LFO 1 Enable	0	1	Toggle	ValueOutput
 LFO 1 Waveform	0	17	Value	ValueOutput
 LFO 1 Frequency Free	0	4194304	Value	ValueOutput
@@ -171,8 +171,8 @@ Grid Quant Channel	0	3	Value	ValueOutput
 Grid Gate Channel	0	3	Value	ValueOutput
 Grid Gate Type	0	3	Value	ValueOutput
 Grid Polarity	0	1	Toggle	ValueOutput
-Grid Source A	0	9	Value	ValueOutput
-Grid Source B	0	9	Value	ValueOutput
+Grid Source A	0	18	Value	ValueOutput
+Grid Source B	0	18	Value	ValueOutput
 Grid Button A1	0	1	Toggle	ValueOutput
 Grid Button A2	0	1	Toggle	ValueOutput
 Grid Button A3	0	1	Toggle	ValueOutput
@@ -225,7 +225,7 @@ Display Select 2	0	11	Value	ValueOutput
 Display Enable 1	0	1	Toggle	ValueOutput
 Display Enable 2	0	1	Toggle	ValueOutput
 Extra User Knobs	0	1	Toggle	ValueOutput
-Wave Editor Tool	0	16	Value	ValueOutput
+Wave Editor Tool	0	22	Value	ValueOutput
 Editor Draw Smooth Amount	0	31	Value	ValueOutput
 Editor Copy From	0	3	Value	ValueOutput
 Grid Snap X Number	0	62	Value	ValueOutput
@@ -271,7 +271,7 @@ Editor Dummy 1	0	30	Value	ValueOutput
 Editor Dummy 2	0	62	Value	ValueOutput
 Editor Dummy 3	0	126	Value	ValueOutput
 Scope Speed	0	63	Value	ValueOutput
-Scope Source	0	58	Value	ValueOutput
+Scope Source	0	81	Value	ValueOutput
 Scope Select	0	6	Value	ValueOutput
 LFO Width	0	4194304	Value	ValueOutput
 Scope FPS	0	9	Value	ValueOutput
@@ -324,15 +324,15 @@ User Knob 2 Polarity	0	1	Toggle	ValueOutput
 User Knob 3 Polarity	0	1	Toggle	ValueOutput
 User Knob 4 Polarity	0	1	Toggle	ValueOutput
 Envelope Bi	0	1	Toggle	ValueOutput
-Mod LFO 1 Source	0	58	Value	ValueOutput
-Mod LFO 2 Source	0	58	Value	ValueOutput
-Mod LFO 3 Source	0	58	Value	ValueOutput
-Mod LFO 4 Source	0	58	Value	ValueOutput
-Mod LFO 5 Source	0	58	Value	ValueOutput
-Mod LFO 6 Source	0	58	Value	ValueOutput
-Mod LFO 7 Source	0	58	Value	ValueOutput
-Mod LFO 8 Source	0	58	Value	ValueOutput
-Mod LFO 9 Source	0	58	Value	ValueOutput
+Mod LFO 1 Source	0	81	Value	ValueOutput
+Mod LFO 2 Source	0	81	Value	ValueOutput
+Mod LFO 3 Source	0	81	Value	ValueOutput
+Mod LFO 4 Source	0	81	Value	ValueOutput
+Mod LFO 5 Source	0	81	Value	ValueOutput
+Mod LFO 6 Source	0	81	Value	ValueOutput
+Mod LFO 7 Source	0	81	Value	ValueOutput
+Mod LFO 8 Source	0	81	Value	ValueOutput
+Mod LFO 9 Source	0	81	Value	ValueOutput
 Mod LFO 1 Dest	0	77	Value	ValueOutput
 Mod LFO 2 Dest	0	77	Value	ValueOutput
 Mod LFO 3 Dest	0	77	Value	ValueOutput
@@ -357,12 +357,12 @@ Mod LFO 6 Amount	0	4194304	Value	ValueOutput
 Mod LFO 7 Amount	0	4194304	Value	ValueOutput
 Mod LFO 8 Amount	0	4194304	Value	ValueOutput
 Mod LFO 9 Amount	0	4194304	Value	ValueOutput
-Mod Grid 1 Source	0	58	Value	ValueOutput
-Mod Grid 2 Source	0	58	Value	ValueOutput
-Mod Grid 3 Source	0	58	Value	ValueOutput
-Mod Grid 4 Source	0	58	Value	ValueOutput
-Mod Grid 5 Source	0	58	Value	ValueOutput
-Mod Grid 6 Source	0	58	Value	ValueOutput
+Mod Grid 1 Source	0	81	Value	ValueOutput
+Mod Grid 2 Source	0	81	Value	ValueOutput
+Mod Grid 3 Source	0	81	Value	ValueOutput
+Mod Grid 4 Source	0	81	Value	ValueOutput
+Mod Grid 5 Source	0	81	Value	ValueOutput
+Mod Grid 6 Source	0	81	Value	ValueOutput
 Mod Grid 1 Control	0	65	Value	ValueOutput
 Mod Grid 2 Control	0	65	Value	ValueOutput
 Mod Grid 3 Control	0	65	Value	ValueOutput
@@ -372,9 +372,9 @@ Mod Grid 6 Control	0	65	Value	ValueOutput
 Mod Grid 4 Amount	0	4194304	Value	ValueOutput
 Mod Grid 5 Amount	0	4194304	Value	ValueOutput
 Mod Grid 6 Amount	0	4194304	Value	ValueOutput
-Mod Quant 1 Source	0	58	Value	ValueOutput
-Mod Quant 2 Source	0	58	Value	ValueOutput
-Mod Quant 3 Source	0	58	Value	ValueOutput
+Mod Quant 1 Source	0	81	Value	ValueOutput
+Mod Quant 2 Source	0	81	Value	ValueOutput
+Mod Quant 3 Source	0	81	Value	ValueOutput
 Mod Quant 1 Dest	0	7	Value	ValueOutput
 Mod Quant 2 Dest	0	7	Value	ValueOutput
 Mod Quant 3 Dest	0	7	Value	ValueOutput
@@ -384,28 +384,28 @@ Mod Quant 3 Control	0	21	Value	ValueOutput
 Mod Quant 1 Amount	0	4194304	Value	ValueOutput
 Mod Quant 2 Amount	0	4194304	Value	ValueOutput
 Mod Quant 3 Amount	0	4194304	Value	ValueOutput
-Mod Env 1 Source	0	58	Value	ValueOutput
-Mod Env 2 Source	0	58	Value	ValueOutput
+Mod Env 1 Source	0	81	Value	ValueOutput
+Mod Env 2 Source	0	81	Value	ValueOutput
 Mod Env 1 Control	0	20	Value	ValueOutput
 Mod Env 2 Control	0	20	Value	ValueOutput
 Mod Env 1 Amount	0	4194304	Value	ValueOutput
 Mod Env 2 Amount	0	4194304	Value	ValueOutput
-Mod LFO Scaled 1 Source	0	58	Value	ValueOutput
-Mod LFO Scaled 2 Source	0	58	Value	ValueOutput
-Mod LFO Scaled 3 Source	0	58	Value	ValueOutput
+Mod LFO Scaled 1 Source	0	81	Value	ValueOutput
+Mod LFO Scaled 2 Source	0	81	Value	ValueOutput
+Mod LFO Scaled 3 Source	0	81	Value	ValueOutput
 Mod LFO Scaled 1 Dest	0	35	Value	ValueOutput
 Mod LFO Scaled 2 Dest	0	35	Value	ValueOutput
 Mod LFO Scaled 3 Dest	0	35	Value	ValueOutput
 Mod LFO Scaled 1 Amount	0	4194304	Value	ValueOutput
 Mod LFO Scaled 2 Amount	0	4194304	Value	ValueOutput
 Mod LFO Scaled 3 Amount	0	4194304	Value	ValueOutput
-Mod Grid Scaled 1 Source	0	58	Value	ValueOutput
-Mod Grid Scaled 2 Source	0	58	Value	ValueOutput
+Mod Grid Scaled 1 Source	0	81	Value	ValueOutput
+Mod Grid Scaled 2 Source	0	81	Value	ValueOutput
 Mod Grid Scaled 1 Dest	0	26	Value	ValueOutput
 Mod Grid Scaled 2 Dest	0	26	Value	ValueOutput
 Mod Grid Scaled 1 Amount	0	4194304	Value	ValueOutput
 Mod Grid Scaled 2 Amount	0	4194304	Value	ValueOutput
-Mod Quant Scaled 1 Source	0	58	Value	ValueOutput
+Mod Quant Scaled 1 Source	0	81	Value	ValueOutput
 Mod Quant Scaled 1 Dest	0	7	Value	ValueOutput
 Mod Quant Scaled 1 Amount	0	4194304	Value	ValueOutput
 Meter Color	0	9	Value	ValueOutput

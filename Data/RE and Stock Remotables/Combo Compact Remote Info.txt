@@ -1,0 +1,51 @@
+Scope
+Manufacturer	Model
+Jiggery Pokery	com.jiggerypokery.ComboCompact
+
+Remotable	Min	Max	Input type	Output type
+Volume	0	4194304	Value	ValueOutput
+Bass Section Volume	0	4194304	Value	ValueOutput
+Percussion Repeat Rate	0	27	Value	ValueOutput
+Reverb Amount	0	4194304	Value	ValueOutput
+Amp Drive	0	4194304	Value	ValueOutput
+Amp Type	0	1	Toggle	ValueOutput
+Tremolo Depth	0	4194304	Value	ValueOutput
+Tremolo Rate	0	4194304	Value	ValueOutput
+Bass Balance	0	4194304	Value	ValueOutput
+Treble Balance	0	4194304	Value	ValueOutput
+Bass Section Attack	0	1	Toggle	ValueOutput
+Percussion	0	1	Toggle	ValueOutput
+Percussion Decay	0	1	Toggle	ValueOutput
+Percussion Repeat	0	1	Toggle	ValueOutput
+Vibrato	0	1	Toggle	ValueOutput
+Vibrato Rate	0	1	Toggle	ValueOutput
+Vibrato Depth	0	1	Toggle	ValueOutput
+Reverb	0	1	Toggle	ValueOutput
+Multi-Boost	0	1	Toggle	ValueOutput
+All-Boost Level	0	4194304	Value	ValueOutput
+Multi-Boost 16	0	1	Toggle	ValueOutput
+Multi-Boost 8	0	1	Toggle	ValueOutput
+Multi-Boost 4	0	1	Toggle	ValueOutput
+Multi-Boost 2-2/3 +2	0	1	Toggle	ValueOutput
+Bass 16	0	1	Toggle	ValueOutput
+Strings 16	0	1	Toggle	ValueOutput
+Flute 8	0	1	Toggle	ValueOutput
+Oboe 8	0	1	Toggle	ValueOutput
+Trumpet 8	0	1	Toggle	ValueOutput
+Strings 8	0	1	Toggle	ValueOutput
+Flute 4	0	1	Toggle	ValueOutput
+Strings 4	0	1	Toggle	ValueOutput
+Piccolo 4	0	1	Toggle	ValueOutput
+F2-2/3	0	1	Toggle	ValueOutput
+Brilliance	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

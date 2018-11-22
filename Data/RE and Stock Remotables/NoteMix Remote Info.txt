@@ -1,0 +1,44 @@
+Scope
+Manufacturer	Model
+Retouch Control	com.retouchcontrol.NoteMix
+
+Remotable	Min	Max	Input type	Output type
+Ch1 Velocity Level	0	4194304	Value	ValueOutput
+Ch2 Velocity Level	0	4194304	Value	ValueOutput
+Ch3 Velocity Level	0	4194304	Value	ValueOutput
+Ch4 Velocity Level	0	4194304	Value	ValueOutput
+Ch5 Velocity Level	0	4194304	Value	ValueOutput
+Ch6 Velocity Level	0	4194304	Value	ValueOutput
+Ch7 Velocity Level	0	4194304	Value	ValueOutput
+Ch8 Velocity Level	0	4194304	Value	ValueOutput
+Ch1 Pitch	0	24	Value	ValueOutput
+Ch2 Pitch	0	24	Value	ValueOutput
+Ch3 Pitch	0	24	Value	ValueOutput
+Ch4 Pitch	0	24	Value	ValueOutput
+Ch5 Pitch	0	24	Value	ValueOutput
+Ch6 Pitch	0	24	Value	ValueOutput
+Ch7 Pitch	0	24	Value	ValueOutput
+Ch8 Pitch	0	24	Value	ValueOutput
+Ch1 Mute	0	1	Toggle	ValueOutput
+Ch2 Mute	0	1	Toggle	ValueOutput
+Ch3 Mute	0	1	Toggle	ValueOutput
+Ch4 Mute	0	1	Toggle	ValueOutput
+Ch5 Mute	0	1	Toggle	ValueOutput
+Ch6 Mute	0	1	Toggle	ValueOutput
+Ch7 Mute	0	1	Toggle	ValueOutput
+Ch8 Mute	0	1	Toggle	ValueOutput
+Ch1 Solo	0	1	Toggle	ValueOutput
+Ch2 Solo	0	1	Toggle	ValueOutput
+Ch3 Solo	0	1	Toggle	ValueOutput
+Ch4 Solo	0	1	Toggle	ValueOutput
+Ch5 Solo	0	1	Toggle	ValueOutput
+Ch6 Solo	0	1	Toggle	ValueOutput
+Ch7 Solo	0	1	Toggle	ValueOutput
+Ch8 Solo	0	1	Toggle	ValueOutput
+Morph X position	0	4194304	Value	ValueOutput
+Morph Y position	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

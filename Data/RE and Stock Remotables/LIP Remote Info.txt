@@ -1,0 +1,36 @@
+Scope
+Manufacturer	Model
+Noise Engineering	us.noiseengineering.LIP
+
+Remotable	Min	Max	Input type	Output type
+Curve	0	4194304	Value	ValueOutput
+Shape	0	4194304	Value	ValueOutput
+Time	0	4194304	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Pitch A Octave	0	16	Value	ValueOutput
+Pitch A Semitone	0	22	Value	ValueOutput
+Pitch A Cent	0	198	Value	ValueOutput
+Pitch B Octave	0	16	Value	ValueOutput
+Pitch B Semitone	0	22	Value	ValueOutput
+Pitch B Cent	0	198	Value	ValueOutput
+Env A	0	4194304	Value	ValueOutput
+Env B	0	4194304	Value	ValueOutput
+Algorithm	0	2	Value	ValueOutput
+Master	0	2	Value	ValueOutput
+Damp	0	4194304	Value	ValueOutput
+Fold	0	4194304	Value	ValueOutput
+Modulate	0	4194304	Value	ValueOutput
+Morph	0	4194304	Value	ValueOutput
+Env Damp	0	4194304	Value	ValueOutput
+Env Fold	0	4194304	Value	ValueOutput
+Env Mod	0	4194304	Value	ValueOutput
+Env Morph	0	4194304	Value	ValueOutput
+Polyphony	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Note LED	0	1	-	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

@@ -1,0 +1,36 @@
+Scope
+Manufacturer	Model
+Turn2on Software	ru.turn2on.MurderRhythm
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Grid Size	0	8	Value	ValueOutput
+Grid Per-Beat	0	7	Value	ValueOutput
+Step 1 Rhythm Mask	0	7	Value	ValueOutput
+Step 2 Rhythm Mask	0	7	Value	ValueOutput
+Step 3 Rhythm Mask	0	7	Value	ValueOutput
+Step 4 Rhythm Mask	0	7	Value	ValueOutput
+Step 5 Rhythm Mask	0	7	Value	ValueOutput
+Step 6 Rhythm Mask	0	7	Value	ValueOutput
+Step 7 Rhythm Mask	0	7	Value	ValueOutput
+Step 8 Rhythm Mask	0	7	Value	ValueOutput
+Grid Shuffle	0	4194304	Value	ValueOutput
+Grid Smooth	0	4194304	Value	ValueOutput
+Gate Re-Gate Amt	0	4194304	Value	ValueOutput
+Gate Length	0	4194304	Value	ValueOutput
+Gate Depth	0	4194304	Value	ValueOutput
+Gate Filter	0	4194304	Value	ValueOutput
+Gate Filter Random Per Step	0	4194304	Value	ValueOutput
+Repeats	0	4194304	Value	ValueOutput
+Reverse Amount	0	4194304	Value	ValueOutput
+Reverse Offset	0	4194304	Value	ValueOutput
+RePitch	0	4194304	Value	ValueOutput
+Input Level Correction	0	4194304	Value	ValueOutput
+Output Level Correction	0	4194304	Value	ValueOutput
+Soft Bypass	0	1	Toggle	ValueOutput
+Blend	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
