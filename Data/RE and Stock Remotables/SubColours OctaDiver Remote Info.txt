@@ -1,0 +1,55 @@
+Scope
+Manufacturer	Model
+Turn2on Software	ru.turn2on.SubColors
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Automata A1 CV-In	0	4194304	Value	ValueOutput
+Automata A2 CV-In	0	4194304	Value	ValueOutput
+Automata A3 CV-In	0	4194304	Value	ValueOutput
+Dry Signal	0	4194304	Value	ValueOutput
+Wet Signal	0	4194304	Value	ValueOutput
+Input Level Correction	0	4194304	Value	ValueOutput
+Output Level Correction	0	4194304	Value	ValueOutput
+LFO Rate	0	43	Value	ValueOutput
+LFO Randomize	0	4194304	Value	ValueOutput
+LFO Rate Affect	0	43	Value	ValueOutput
+LFO Depth Mod	0	4194304	Value	ValueOutput
+LFO Wave Source	0	8	Value	ValueOutput
+Widening Activity	0	1	Toggle	ValueOutput
+Widening Length	0	4194304	Value	ValueOutput
+Widening Radius	0	3	Value	ValueOutput
+Limiter Activity	0	4	Value	ValueOutput
+Limiter Release	0	4194304	Value	ValueOutput
+Limiter Mode	0	2	Value	ValueOutput
+Compressor Activity	0	4	Value	ValueOutput
+Compressor Attack	0	4194304	Value	ValueOutput
+Compressor Release	0	4194304	Value	ValueOutput
+Compressor Treshold	0	4194304	Value	ValueOutput
+Compressor Ratio	0	4194304	Value	ValueOutput
+Compressor Soft Knee	0	4194304	Value	ValueOutput
+Compressor Slam	0	1	Toggle	ValueOutput
+Compressor Output	0	4194304	Value	ValueOutput
+Destruct Activity On/Of	0	4	Value	ValueOutput
+Destruct Level	0	4194304	Value	ValueOutput
+Destruct Mode	0	2	Value	ValueOutput
+Ringer Level	0	4194304	Value	ValueOutput
+Ringer Activity On/Off	0	1	Toggle	ValueOutput
+Max Freq	0	4194304	Value	ValueOutput
+Tone	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Modulation Source	0	4	Value	ValueOutput
+Modulation Destination	0	3	Value	ValueOutput
+Modulation Amount	0	4194304	Value	ValueOutput
+Octave Diver Bypass	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

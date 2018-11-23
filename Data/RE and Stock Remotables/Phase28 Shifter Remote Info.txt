@@ -1,0 +1,33 @@
+Scope
+Manufacturer	Model
+Turn2on Software	ru.turn2on.Phase28
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Mid Cut Passive Filter	0	4194304	Value	ValueOutput
+LowPass Filter	0	4194304	Value	ValueOutput
+HighPass Filter	0	4194304	Value	ValueOutput
+Input Level Correction	0	4194304	Value	ValueOutput
+Output Level Correction	0	4194304	Value	ValueOutput
+Soft Bypass	0	1	Toggle	ValueOutput
+Rate	0	4194304	Value	ValueOutput
+Depth	0	4194304	Value	ValueOutput
+Feedback	0	4194304	Value	ValueOutput
+Feedback Invert	0	1	Toggle	ValueOutput
+Frequency Point	0	4194304	Value	ValueOutput
+Body	0	4194304	Value	ValueOutput
+Dry/Wet	0	4194304	Value	ValueOutput
+Stages	0	3	Value	ValueOutput
+Tempo Sync	0	8	Value	ValueOutput
+Synced Mode	0	1	Toggle	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Breath Control	0	127	Value	ValueOutput
+Expression	0	127	Value	ValueOutput
+Sustain Pedal	0	127	Value	ValueOutput
+Aftertouch	0	127	Value	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

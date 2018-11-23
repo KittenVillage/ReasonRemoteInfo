@@ -1,0 +1,422 @@
+Scope
+Manufacturer	Model
+Robotic Bean	com.roboticbean.Step
+
+Remotable	Min	Max	Input type	Output type
+Root Key	0	127	Value	ValueOutput
+Root Scale	0	13	Value	ValueOutput
+Manual Transpose	0	96	Value	ValueOutput
+Manual Reset	0	1	Toggle	ValueOutput
+Manual Mute/Rest	0	1	Toggle	ValueOutput
+Offset	0	32	Value	ValueOutput
+Resolution	0	8	Value	ValueOutput
+Slide	0	240	Value	ValueOutput
+Shuffle Amount	0	4194304	Value	ValueOutput
+Shuffle Mode	0	2	Value	ValueOutput
+Gate Width	0	4194304	Value	ValueOutput
+Velocity	0	4194304	Value	ValueOutput
+Step 01 Pitch	0	127	Value	ValueOutput
+Step 02 Pitch	0	127	Value	ValueOutput
+Step 03 Pitch	0	127	Value	ValueOutput
+Step 04 Pitch	0	127	Value	ValueOutput
+Step 05 Pitch	0	127	Value	ValueOutput
+Step 06 Pitch	0	127	Value	ValueOutput
+Step 07 Pitch	0	127	Value	ValueOutput
+Step 08 Pitch	0	127	Value	ValueOutput
+Step 09 Pitch	0	127	Value	ValueOutput
+Step 10 Pitch	0	127	Value	ValueOutput
+Step 11 Pitch	0	127	Value	ValueOutput
+Step 12 Pitch	0	127	Value	ValueOutput
+Step 13 Pitch	0	127	Value	ValueOutput
+Step 14 Pitch	0	127	Value	ValueOutput
+Step 15 Pitch	0	127	Value	ValueOutput
+Step 16 Pitch	0	127	Value	ValueOutput
+Step 17 Pitch	0	127	Value	ValueOutput
+Step 18 Pitch	0	127	Value	ValueOutput
+Step 19 Pitch	0	127	Value	ValueOutput
+Step 20 Pitch	0	127	Value	ValueOutput
+Step 21 Pitch	0	127	Value	ValueOutput
+Step 22 Pitch	0	127	Value	ValueOutput
+Step 23 Pitch	0	127	Value	ValueOutput
+Step 24 Pitch	0	127	Value	ValueOutput
+Step 25 Pitch	0	127	Value	ValueOutput
+Step 26 Pitch	0	127	Value	ValueOutput
+Step 27 Pitch	0	127	Value	ValueOutput
+Step 28 Pitch	0	127	Value	ValueOutput
+Step 29 Pitch	0	127	Value	ValueOutput
+Step 30 Pitch	0	127	Value	ValueOutput
+Step 31 Pitch	0	127	Value	ValueOutput
+Step 32 Pitch	0	127	Value	ValueOutput
+Step 01 Velocity	0	127	Value	ValueOutput
+Step 02 Velocity	0	127	Value	ValueOutput
+Step 03 Velocity	0	127	Value	ValueOutput
+Step 04 Velocity	0	127	Value	ValueOutput
+Step 05 Velocity	0	127	Value	ValueOutput
+Step 06 Velocity	0	127	Value	ValueOutput
+Step 07 Velocity	0	127	Value	ValueOutput
+Step 08 Velocity	0	127	Value	ValueOutput
+Step 09 Velocity	0	127	Value	ValueOutput
+Step 10 Velocity	0	127	Value	ValueOutput
+Step 11 Velocity	0	127	Value	ValueOutput
+Step 12 Velocity	0	127	Value	ValueOutput
+Step 13 Velocity	0	127	Value	ValueOutput
+Step 14 Velocity	0	127	Value	ValueOutput
+Step 15 Velocity	0	127	Value	ValueOutput
+Step 16 Velocity	0	127	Value	ValueOutput
+Step 17 Velocity	0	127	Value	ValueOutput
+Step 18 Velocity	0	127	Value	ValueOutput
+Step 19 Velocity	0	127	Value	ValueOutput
+Step 20 Velocity	0	127	Value	ValueOutput
+Step 21 Velocity	0	127	Value	ValueOutput
+Step 22 Velocity	0	127	Value	ValueOutput
+Step 23 Velocity	0	127	Value	ValueOutput
+Step 24 Velocity	0	127	Value	ValueOutput
+Step 25 Velocity	0	127	Value	ValueOutput
+Step 26 Velocity	0	127	Value	ValueOutput
+Step 27 Velocity	0	127	Value	ValueOutput
+Step 28 Velocity	0	127	Value	ValueOutput
+Step 29 Velocity	0	127	Value	ValueOutput
+Step 30 Velocity	0	127	Value	ValueOutput
+Step 31 Velocity	0	127	Value	ValueOutput
+Step 32 Velocity	0	127	Value	ValueOutput
+Step 01 Repeat Count	0	8	Value	ValueOutput
+Step 02 Repeat Count	0	8	Value	ValueOutput
+Step 03 Repeat Count	0	8	Value	ValueOutput
+Step 04 Repeat Count	0	8	Value	ValueOutput
+Step 05 Repeat Count	0	8	Value	ValueOutput
+Step 06 Repeat Count	0	8	Value	ValueOutput
+Step 07 Repeat Count	0	8	Value	ValueOutput
+Step 08 Repeat Count	0	8	Value	ValueOutput
+Step 09 Repeat Count	0	8	Value	ValueOutput
+Step 10 Repeat Count	0	8	Value	ValueOutput
+Step 11 Repeat Count	0	8	Value	ValueOutput
+Step 12 Repeat Count	0	8	Value	ValueOutput
+Step 13 Repeat Count	0	8	Value	ValueOutput
+Step 14 Repeat Count	0	8	Value	ValueOutput
+Step 15 Repeat Count	0	8	Value	ValueOutput
+Step 16 Repeat Count	0	8	Value	ValueOutput
+Step 17 Repeat Count	0	8	Value	ValueOutput
+Step 18 Repeat Count	0	8	Value	ValueOutput
+Step 19 Repeat Count	0	8	Value	ValueOutput
+Step 20 Repeat Count	0	8	Value	ValueOutput
+Step 21 Repeat Count	0	8	Value	ValueOutput
+Step 22 Repeat Count	0	8	Value	ValueOutput
+Step 23 Repeat Count	0	8	Value	ValueOutput
+Step 24 Repeat Count	0	8	Value	ValueOutput
+Step 25 Repeat Count	0	8	Value	ValueOutput
+Step 26 Repeat Count	0	8	Value	ValueOutput
+Step 27 Repeat Count	0	8	Value	ValueOutput
+Step 28 Repeat Count	0	8	Value	ValueOutput
+Step 29 Repeat Count	0	8	Value	ValueOutput
+Step 30 Repeat Count	0	8	Value	ValueOutput
+Step 31 Repeat Count	0	8	Value	ValueOutput
+Step 32 Repeat Count	0	8	Value	ValueOutput
+Step 01 Repeat Mode	0	3	Value	ValueOutput
+Step 02 Repeat Mode	0	3	Value	ValueOutput
+Step 03 Repeat Mode	0	3	Value	ValueOutput
+Step 04 Repeat Mode	0	3	Value	ValueOutput
+Step 05 Repeat Mode	0	3	Value	ValueOutput
+Step 06 Repeat Mode	0	3	Value	ValueOutput
+Step 07 Repeat Mode	0	3	Value	ValueOutput
+Step 08 Repeat Mode	0	3	Value	ValueOutput
+Step 09 Repeat Mode	0	3	Value	ValueOutput
+Step 10 Repeat Mode	0	3	Value	ValueOutput
+Step 11 Repeat Mode	0	3	Value	ValueOutput
+Step 12 Repeat Mode	0	3	Value	ValueOutput
+Step 13 Repeat Mode	0	3	Value	ValueOutput
+Step 14 Repeat Mode	0	3	Value	ValueOutput
+Step 15 Repeat Mode	0	3	Value	ValueOutput
+Step 16 Repeat Mode	0	3	Value	ValueOutput
+Step 17 Repeat Mode	0	3	Value	ValueOutput
+Step 18 Repeat Mode	0	3	Value	ValueOutput
+Step 19 Repeat Mode	0	3	Value	ValueOutput
+Step 20 Repeat Mode	0	3	Value	ValueOutput
+Step 21 Repeat Mode	0	3	Value	ValueOutput
+Step 22 Repeat Mode	0	3	Value	ValueOutput
+Step 23 Repeat Mode	0	3	Value	ValueOutput
+Step 24 Repeat Mode	0	3	Value	ValueOutput
+Step 25 Repeat Mode	0	3	Value	ValueOutput
+Step 26 Repeat Mode	0	3	Value	ValueOutput
+Step 27 Repeat Mode	0	3	Value	ValueOutput
+Step 28 Repeat Mode	0	3	Value	ValueOutput
+Step 29 Repeat Mode	0	3	Value	ValueOutput
+Step 30 Repeat Mode	0	3	Value	ValueOutput
+Step 31 Repeat Mode	0	3	Value	ValueOutput
+Step 32 Repeat Mode	0	3	Value	ValueOutput
+Step 01 Rest	0	1	Toggle	ValueOutput
+Step 02 Rest	0	1	Toggle	ValueOutput
+Step 03 Rest	0	1	Toggle	ValueOutput
+Step 04 Rest	0	1	Toggle	ValueOutput
+Step 05 Rest	0	1	Toggle	ValueOutput
+Step 06 Rest	0	1	Toggle	ValueOutput
+Step 07 Rest	0	1	Toggle	ValueOutput
+Step 08 Rest	0	1	Toggle	ValueOutput
+Step 09 Rest	0	1	Toggle	ValueOutput
+Step 10 Rest	0	1	Toggle	ValueOutput
+Step 11 Rest	0	1	Toggle	ValueOutput
+Step 12 Rest	0	1	Toggle	ValueOutput
+Step 13 Rest	0	1	Toggle	ValueOutput
+Step 14 Rest	0	1	Toggle	ValueOutput
+Step 15 Rest	0	1	Toggle	ValueOutput
+Step 16 Rest	0	1	Toggle	ValueOutput
+Step 17 Rest	0	1	Toggle	ValueOutput
+Step 18 Rest	0	1	Toggle	ValueOutput
+Step 19 Rest	0	1	Toggle	ValueOutput
+Step 20 Rest	0	1	Toggle	ValueOutput
+Step 21 Rest	0	1	Toggle	ValueOutput
+Step 22 Rest	0	1	Toggle	ValueOutput
+Step 23 Rest	0	1	Toggle	ValueOutput
+Step 24 Rest	0	1	Toggle	ValueOutput
+Step 25 Rest	0	1	Toggle	ValueOutput
+Step 26 Rest	0	1	Toggle	ValueOutput
+Step 27 Rest	0	1	Toggle	ValueOutput
+Step 28 Rest	0	1	Toggle	ValueOutput
+Step 29 Rest	0	1	Toggle	ValueOutput
+Step 30 Rest	0	1	Toggle	ValueOutput
+Step 31 Rest	0	1	Toggle	ValueOutput
+Step 32 Rest	0	1	Toggle	ValueOutput
+Step 01 Tie	0	1	Toggle	ValueOutput
+Step 02 Tie	0	1	Toggle	ValueOutput
+Step 03 Tie	0	1	Toggle	ValueOutput
+Step 04 Tie	0	1	Toggle	ValueOutput
+Step 05 Tie	0	1	Toggle	ValueOutput
+Step 06 Tie	0	1	Toggle	ValueOutput
+Step 07 Tie	0	1	Toggle	ValueOutput
+Step 08 Tie	0	1	Toggle	ValueOutput
+Step 09 Tie	0	1	Toggle	ValueOutput
+Step 10 Tie	0	1	Toggle	ValueOutput
+Step 11 Tie	0	1	Toggle	ValueOutput
+Step 12 Tie	0	1	Toggle	ValueOutput
+Step 13 Tie	0	1	Toggle	ValueOutput
+Step 14 Tie	0	1	Toggle	ValueOutput
+Step 15 Tie	0	1	Toggle	ValueOutput
+Step 16 Tie	0	1	Toggle	ValueOutput
+Step 17 Tie	0	1	Toggle	ValueOutput
+Step 18 Tie	0	1	Toggle	ValueOutput
+Step 19 Tie	0	1	Toggle	ValueOutput
+Step 20 Tie	0	1	Toggle	ValueOutput
+Step 21 Tie	0	1	Toggle	ValueOutput
+Step 22 Tie	0	1	Toggle	ValueOutput
+Step 23 Tie	0	1	Toggle	ValueOutput
+Step 24 Tie	0	1	Toggle	ValueOutput
+Step 25 Tie	0	1	Toggle	ValueOutput
+Step 26 Tie	0	1	Toggle	ValueOutput
+Step 27 Tie	0	1	Toggle	ValueOutput
+Step 28 Tie	0	1	Toggle	ValueOutput
+Step 29 Tie	0	1	Toggle	ValueOutput
+Step 30 Tie	0	1	Toggle	ValueOutput
+Step 31 Tie	0	1	Toggle	ValueOutput
+Step 32 Tie	0	1	Toggle	ValueOutput
+Enable Outputs	0	1	Toggle	ValueOutput
+Sequence Length	0	32	Value	ValueOutput
+Playback Direction	0	6	Value	ValueOutput
+Curve 1 Mode	0	1	Toggle	ValueOutput
+Curve 2 Mode	0	1	Toggle	ValueOutput
+Pitch Bend	-8192	8191	Value	ValueOutput
+Mod Wheel	0	127	Value	ValueOutput
+Octave View	0	10	Value	ValueOutput
+Repeats Recording Mode	0	8	Value	ValueOutput
+Rest Key	0	127	Value	ValueOutput
+Rest Key Enabled	0	1	Toggle	ValueOutput
+Current Step	0	31	-	ValueOutput
+Gate Lamp	0	1	-	ValueOutput
+Selected Lane	0	5	-	ValueOutput
+Expand Note View	0	1	-	ValueOutput
+Show Ghost Notes	0	1	-	ValueOutput
+Step 01 Gate Width	0	4194304	Value	ValueOutput
+Step 01 Curve 1	0	4194304	Value	ValueOutput
+Step 01 Curve 2	0	4194304	Value	ValueOutput
+Step 01 Condition Type	0	5	Value	ValueOutput
+Step 01 Probability	0	4194304	Value	ValueOutput
+Step 01 Recurrence	0	34	Value	ValueOutput
+Step 02 Gate Width	0	4194304	Value	ValueOutput
+Step 02 Curve 1	0	4194304	Value	ValueOutput
+Step 02 Curve 2	0	4194304	Value	ValueOutput
+Step 02 Condition Type	0	5	Value	ValueOutput
+Step 02 Probability	0	4194304	Value	ValueOutput
+Step 02 Recurrence	0	34	Value	ValueOutput
+Step 03 Gate Width	0	4194304	Value	ValueOutput
+Step 03 Curve 1	0	4194304	Value	ValueOutput
+Step 03 Curve 2	0	4194304	Value	ValueOutput
+Step 03 Condition Type	0	5	Value	ValueOutput
+Step 03 Probability	0	4194304	Value	ValueOutput
+Step 03 Recurrence	0	34	Value	ValueOutput
+Step 04 Gate Width	0	4194304	Value	ValueOutput
+Step 04 Curve 1	0	4194304	Value	ValueOutput
+Step 04 Curve 2	0	4194304	Value	ValueOutput
+Step 04 Condition Type	0	5	Value	ValueOutput
+Step 04 Probability	0	4194304	Value	ValueOutput
+Step 04 Recurrence	0	34	Value	ValueOutput
+Step 05 Gate Width	0	4194304	Value	ValueOutput
+Step 05 Curve 1	0	4194304	Value	ValueOutput
+Step 05 Curve 2	0	4194304	Value	ValueOutput
+Step 05 Condition Type	0	5	Value	ValueOutput
+Step 05 Probability	0	4194304	Value	ValueOutput
+Step 05 Recurrence	0	34	Value	ValueOutput
+Step 06 Gate Width	0	4194304	Value	ValueOutput
+Step 06 Curve 1	0	4194304	Value	ValueOutput
+Step 06 Curve 2	0	4194304	Value	ValueOutput
+Step 06 Condition Type	0	5	Value	ValueOutput
+Step 06 Probability	0	4194304	Value	ValueOutput
+Step 06 Recurrence	0	34	Value	ValueOutput
+Step 07 Gate Width	0	4194304	Value	ValueOutput
+Step 07 Curve 1	0	4194304	Value	ValueOutput
+Step 07 Curve 2	0	4194304	Value	ValueOutput
+Step 07 Condition Type	0	5	Value	ValueOutput
+Step 07 Probability	0	4194304	Value	ValueOutput
+Step 07 Recurrence	0	34	Value	ValueOutput
+Step 08 Gate Width	0	4194304	Value	ValueOutput
+Step 08 Curve 1	0	4194304	Value	ValueOutput
+Step 08 Curve 2	0	4194304	Value	ValueOutput
+Step 08 Condition Type	0	5	Value	ValueOutput
+Step 08 Probability	0	4194304	Value	ValueOutput
+Step 08 Recurrence	0	34	Value	ValueOutput
+Step 09 Gate Width	0	4194304	Value	ValueOutput
+Step 09 Curve 1	0	4194304	Value	ValueOutput
+Step 09 Curve 2	0	4194304	Value	ValueOutput
+Step 09 Condition Type	0	5	Value	ValueOutput
+Step 09 Probability	0	4194304	Value	ValueOutput
+Step 09 Recurrence	0	34	Value	ValueOutput
+Step 10 Gate Width	0	4194304	Value	ValueOutput
+Step 10 Curve 1	0	4194304	Value	ValueOutput
+Step 10 Curve 2	0	4194304	Value	ValueOutput
+Step 10 Condition Type	0	5	Value	ValueOutput
+Step 10 Probability	0	4194304	Value	ValueOutput
+Step 10 Recurrence	0	34	Value	ValueOutput
+Step 11 Gate Width	0	4194304	Value	ValueOutput
+Step 11 Curve 1	0	4194304	Value	ValueOutput
+Step 11 Curve 2	0	4194304	Value	ValueOutput
+Step 11 Condition Type	0	5	Value	ValueOutput
+Step 11 Probability	0	4194304	Value	ValueOutput
+Step 11 Recurrence	0	34	Value	ValueOutput
+Step 12 Gate Width	0	4194304	Value	ValueOutput
+Step 12 Curve 1	0	4194304	Value	ValueOutput
+Step 12 Curve 2	0	4194304	Value	ValueOutput
+Step 12 Condition Type	0	5	Value	ValueOutput
+Step 12 Probability	0	4194304	Value	ValueOutput
+Step 12 Recurrence	0	34	Value	ValueOutput
+Step 13 Gate Width	0	4194304	Value	ValueOutput
+Step 13 Curve 1	0	4194304	Value	ValueOutput
+Step 13 Curve 2	0	4194304	Value	ValueOutput
+Step 13 Condition Type	0	5	Value	ValueOutput
+Step 13 Probability	0	4194304	Value	ValueOutput
+Step 13 Recurrence	0	34	Value	ValueOutput
+Step 14 Gate Width	0	4194304	Value	ValueOutput
+Step 14 Curve 1	0	4194304	Value	ValueOutput
+Step 14 Curve 2	0	4194304	Value	ValueOutput
+Step 14 Condition Type	0	5	Value	ValueOutput
+Step 14 Probability	0	4194304	Value	ValueOutput
+Step 14 Recurrence	0	34	Value	ValueOutput
+Step 15 Gate Width	0	4194304	Value	ValueOutput
+Step 15 Curve 1	0	4194304	Value	ValueOutput
+Step 15 Curve 2	0	4194304	Value	ValueOutput
+Step 15 Condition Type	0	5	Value	ValueOutput
+Step 15 Probability	0	4194304	Value	ValueOutput
+Step 15 Recurrence	0	34	Value	ValueOutput
+Step 16 Gate Width	0	4194304	Value	ValueOutput
+Step 16 Curve 1	0	4194304	Value	ValueOutput
+Step 16 Curve 2	0	4194304	Value	ValueOutput
+Step 16 Condition Type	0	5	Value	ValueOutput
+Step 16 Probability	0	4194304	Value	ValueOutput
+Step 16 Recurrence	0	34	Value	ValueOutput
+Step 17 Gate Width	0	4194304	Value	ValueOutput
+Step 17 Curve 1	0	4194304	Value	ValueOutput
+Step 17 Curve 2	0	4194304	Value	ValueOutput
+Step 17 Condition Type	0	5	Value	ValueOutput
+Step 17 Probability	0	4194304	Value	ValueOutput
+Step 17 Recurrence	0	34	Value	ValueOutput
+Step 18 Gate Width	0	4194304	Value	ValueOutput
+Step 18 Curve 1	0	4194304	Value	ValueOutput
+Step 18 Curve 2	0	4194304	Value	ValueOutput
+Step 18 Condition Type	0	5	Value	ValueOutput
+Step 18 Probability	0	4194304	Value	ValueOutput
+Step 18 Recurrence	0	34	Value	ValueOutput
+Step 19 Gate Width	0	4194304	Value	ValueOutput
+Step 19 Curve 1	0	4194304	Value	ValueOutput
+Step 19 Curve 2	0	4194304	Value	ValueOutput
+Step 19 Condition Type	0	5	Value	ValueOutput
+Step 19 Probability	0	4194304	Value	ValueOutput
+Step 19 Recurrence	0	34	Value	ValueOutput
+Step 20 Gate Width	0	4194304	Value	ValueOutput
+Step 20 Curve 1	0	4194304	Value	ValueOutput
+Step 20 Curve 2	0	4194304	Value	ValueOutput
+Step 20 Condition Type	0	5	Value	ValueOutput
+Step 20 Probability	0	4194304	Value	ValueOutput
+Step 20 Recurrence	0	34	Value	ValueOutput
+Step 21 Gate Width	0	4194304	Value	ValueOutput
+Step 21 Curve 1	0	4194304	Value	ValueOutput
+Step 21 Curve 2	0	4194304	Value	ValueOutput
+Step 21 Condition Type	0	5	Value	ValueOutput
+Step 21 Probability	0	4194304	Value	ValueOutput
+Step 21 Recurrence	0	34	Value	ValueOutput
+Step 22 Gate Width	0	4194304	Value	ValueOutput
+Step 22 Curve 1	0	4194304	Value	ValueOutput
+Step 22 Curve 2	0	4194304	Value	ValueOutput
+Step 22 Condition Type	0	5	Value	ValueOutput
+Step 22 Probability	0	4194304	Value	ValueOutput
+Step 22 Recurrence	0	34	Value	ValueOutput
+Step 23 Gate Width	0	4194304	Value	ValueOutput
+Step 23 Curve 1	0	4194304	Value	ValueOutput
+Step 23 Curve 2	0	4194304	Value	ValueOutput
+Step 23 Condition Type	0	5	Value	ValueOutput
+Step 23 Probability	0	4194304	Value	ValueOutput
+Step 23 Recurrence	0	34	Value	ValueOutput
+Step 24 Gate Width	0	4194304	Value	ValueOutput
+Step 24 Curve 1	0	4194304	Value	ValueOutput
+Step 24 Curve 2	0	4194304	Value	ValueOutput
+Step 24 Condition Type	0	5	Value	ValueOutput
+Step 24 Probability	0	4194304	Value	ValueOutput
+Step 24 Recurrence	0	34	Value	ValueOutput
+Step 25 Gate Width	0	4194304	Value	ValueOutput
+Step 25 Curve 1	0	4194304	Value	ValueOutput
+Step 25 Curve 2	0	4194304	Value	ValueOutput
+Step 25 Condition Type	0	5	Value	ValueOutput
+Step 25 Probability	0	4194304	Value	ValueOutput
+Step 25 Recurrence	0	34	Value	ValueOutput
+Step 26 Gate Width	0	4194304	Value	ValueOutput
+Step 26 Curve 1	0	4194304	Value	ValueOutput
+Step 26 Curve 2	0	4194304	Value	ValueOutput
+Step 26 Condition Type	0	5	Value	ValueOutput
+Step 26 Probability	0	4194304	Value	ValueOutput
+Step 26 Recurrence	0	34	Value	ValueOutput
+Step 27 Gate Width	0	4194304	Value	ValueOutput
+Step 27 Curve 1	0	4194304	Value	ValueOutput
+Step 27 Curve 2	0	4194304	Value	ValueOutput
+Step 27 Condition Type	0	5	Value	ValueOutput
+Step 27 Probability	0	4194304	Value	ValueOutput
+Step 27 Recurrence	0	34	Value	ValueOutput
+Step 28 Gate Width	0	4194304	Value	ValueOutput
+Step 28 Curve 1	0	4194304	Value	ValueOutput
+Step 28 Curve 2	0	4194304	Value	ValueOutput
+Step 28 Condition Type	0	5	Value	ValueOutput
+Step 28 Probability	0	4194304	Value	ValueOutput
+Step 28 Recurrence	0	34	Value	ValueOutput
+Step 29 Gate Width	0	4194304	Value	ValueOutput
+Step 29 Curve 1	0	4194304	Value	ValueOutput
+Step 29 Curve 2	0	4194304	Value	ValueOutput
+Step 29 Condition Type	0	5	Value	ValueOutput
+Step 29 Probability	0	4194304	Value	ValueOutput
+Step 29 Recurrence	0	34	Value	ValueOutput
+Step 30 Gate Width	0	4194304	Value	ValueOutput
+Step 30 Curve 1	0	4194304	Value	ValueOutput
+Step 30 Curve 2	0	4194304	Value	ValueOutput
+Step 30 Condition Type	0	5	Value	ValueOutput
+Step 30 Probability	0	4194304	Value	ValueOutput
+Step 30 Recurrence	0	34	Value	ValueOutput
+Step 31 Gate Width	0	4194304	Value	ValueOutput
+Step 31 Curve 1	0	4194304	Value	ValueOutput
+Step 31 Curve 2	0	4194304	Value	ValueOutput
+Step 31 Condition Type	0	5	Value	ValueOutput
+Step 31 Probability	0	4194304	Value	ValueOutput
+Step 31 Recurrence	0	34	Value	ValueOutput
+Step 32 Gate Width	0	4194304	Value	ValueOutput
+Step 32 Curve 1	0	4194304	Value	ValueOutput
+Step 32 Curve 2	0	4194304	Value	ValueOutput
+Step 32 Condition Type	0	5	Value	ValueOutput
+Step 32 Probability	0	4194304	Value	ValueOutput
+Step 32 Recurrence	0	34	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput

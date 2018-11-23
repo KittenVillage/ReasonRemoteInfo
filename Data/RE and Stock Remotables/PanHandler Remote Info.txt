@@ -1,0 +1,34 @@
+Scope
+Manufacturer	Model
+The Instrument Panel	com.theinstrumentpanel.PanHandler
+
+Remotable	Min	Max	Input type	Output type
+Enabled	0	2	Value	ValueOutput
+Volume	0	4194304	Value	ValueOutput
+Output Width	0	4194304	Value	ValueOutput
+Wet/Dry Mix	0	4194304	Value	ValueOutput
+Note Detect Use Audio	0	1	Toggle	ValueOutput
+Note Detect Threshold	0	4194304	Value	ValueOutput
+Note Detect Deadband	0	4194304	Value	ValueOutput
+Note Detect Release	0	4194304	Value	ValueOutput
+Pan Time	0	4194304	Value	ValueOutput
+Pan Synced Time	0	17	Value	ValueOutput
+Pan Sync	0	1	Toggle	ValueOutput
+Pan Dir	0	2	Value	ValueOutput
+Pan Phase	0	4194304	Value	ValueOutput
+Pan Retrigger	0	4194304	Value	ValueOutput
+Pan Start Angle	0	4194304	Value	ValueOutput
+Pan End Angle	0	4194304	Value	ValueOutput
+Pan Exaggeration	0	4194304	Value	ValueOutput
+Delay Time	0	4194304	Value	ValueOutput
+Delay Synced Time	0	17	Value	ValueOutput
+Delay Sync	0	1	Toggle	ValueOutput
+Delay Time Tweak	0	2	Value	ValueOutput
+Delay Cross	0	1	Toggle	ValueOutput
+Delay Feedback	0	4194304	Value	ValueOutput
+Delay Mix	0	4194304	Value	ValueOutput
+Device Name	0	0	-	TextOutput
+Patch Name	0	0	-	TextOutput
+Select Patch Delta	0	0	Delta	TextOutput
+Select Previous Patch	0	0	Trig	TextOutput
+Select Next Patch	0	0	Trig	TextOutput
